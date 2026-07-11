@@ -1,6 +1,104 @@
 [
   {
     "source": "CNBC_Finance",
+    "title": "Kalshi traders think gas prices will stay higher for longer as U.S.-Iran tensions heat back up",
+    "title_ko": "Kalshi 트레이더들, 미국-이란 긴장 고조로 휘발유 가격 장기 상승 예상",
+    "link": "https://www.cnbc.com/2026/07/09/kalshi-traders-see-higher-gas-prices-lasting-through-election-day.html",
+    "published": "Thu, 09 Jul 2026 19:44:17 GMT",
+    "fetched_at": "2026-07-12 01:44:03",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "항공",
+      "운송",
+      "화학",
+      "소비재"
+    ],
+    "keywords": [
+      "유가 상승",
+      "미국-이란",
+      "지정학적 리스크",
+      "인플레이션",
+      "휘발유 가격"
+    ],
+    "reason": "미국-이란 긴장 고조는 국제 유가 상승 압력을 가중시켜 글로벌 인플레이션을 심화시키고, 특히 미국 소비자의 구매력을 약화시켜 경기 둔화 우려를 높일 것입니다.",
+    "action_point": "에너지 관련 자산 비중 확대를 검토하고, 유류비 부담이 큰 항공, 운송 섹터 비중을 축소하십시오."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "Burnout, frustration and heartbreak: Amazon layoffs take their toll in saturated job market",
+    "title_ko": "번아웃, 좌절, 상실감: 아마존 대규모 해고가 포화된 고용 시장에 미치는 영향",
+    "link": "https://www.cnbc.com/2026/07/11/burnout-frustration-and-heartbreak-amazon-layoffs-take-their-toll.html",
+    "published": "Sat, 11 Jul 2026 12:00:01 GMT",
+    "fetched_at": "2026-07-12 01:44:29",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "기술",
+      "전자상거래",
+      "소비재",
+      "고용시장"
+    ],
+    "keywords": [
+      "아마존",
+      "해고",
+      "고용시장",
+      "기술기업",
+      "소비위축"
+    ],
+    "reason": "아마존의 대규모 해고는 기술 기업 전반의 비용 절감 압박과 고용 시장 둔화를 시사한다. 이는 소비자 심리 위축 및 소비 지출 감소로 이어질 수 있어 경제 성장 둔화 우려를 가중시킨다.",
+    "action_point": "기술주 및 경기민감 소비재 섹터 투자 비중 재검토."
+  },
+  {
+    "source": "CNBC_Finance",
+    "title": "Stocks making the biggest moves midday: Micron, Paramount Skydance, Mara Holdings, PepsiCo & more",
+    "title_ko": "장중 가장 큰 움직임을 보이는 주식: 마이크론, 파라마운트-스카이댄스, 마라 홀딩스, 펩시코 외",
+    "link": "https://www.cnbc.com/2026/07/09/stocks-making-the-biggest-moves-midday-mu-psky-mara-pep.html",
+    "published": "Thu, 09 Jul 2026 15:58:55 GMT",
+    "fetched_at": "2026-07-12 01:44:13",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "반도체",
+      "미디어/엔터테인먼트",
+      "소비재"
+    ],
+    "keywords": [
+      "주식",
+      "장중 움직임",
+      "마이크론",
+      "파라마운트",
+      "펩시코"
+    ],
+    "reason": "이 기사는 장중 개별 대형주들의 활발한 거래와 변동성을 보여주며, 특정 기업에 대한 시장의 관심이 집중되고 있음을 시사합니다. 거시경제적 추세보다는 개별 기업 이슈에 주목할 필요가 있습니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
+    "title": "Ferrari has recovered from its Luce-unveil slump. Why the stock is still underappreciated",
+    "title_ko": "페라리, 혹평받던 루체 모델 공개 후 하락세에서 회복. 왜 여전히 저평가되어 있는가?",
+    "link": "https://www.cnbc.com/2026/07/11/ferrari-has-recovered-from-its-luce-unveil-slump-why-the-stock-is-still-underappreciated.html",
+    "published": "Sat, 11 Jul 2026 12:55:53 GMT",
+    "fetched_at": "2026-07-12 01:44:21",
+    "sentiment": "호재",
+    "importance": 2,
+    "sectors": [
+      "럭셔리 자동차",
+      "소비재"
+    ],
+    "keywords": [
+      "페라리",
+      "주식",
+      "럭셔리 브랜드",
+      "자동차 산업",
+      "주가 회복"
+    ],
+    "reason": "이 뉴스는 특정 럭셔리 자동차 기업인 페라리의 개별 주가 흐름에 대한 분석으로, 기업의 신제품 이슈 극복과 향후 성장 잠재력을 시사한다. 거시 경제나 광범위한 시장에 미치는 직접적인 영향은 제한적이다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_Finance",
     "title": "These underperforming trades could yield big returns over next six months",
     "title_ko": "향후 6개월간 저조한 성과를 보인 투자에서 큰 수익 기대",
     "link": "https://www.cnbc.com/2026/07/11/mag-7-and-software-could-boost-portfolio-in-second-half-etf-action.html",
