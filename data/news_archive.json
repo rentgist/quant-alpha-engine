@@ -1,5 +1,76 @@
 [
   {
+    "source": "WSJ_Markets",
+    "title": "DeepSeek Won't Sink U.S. AI Titans",
+    "link": "https://www.wsj.com/articles/deepseek-us-ai-stocks-nvidia-broadcom-6cdfae81?mod=rss_markets_main",
+    "published": "Mon, 27 Jan 2025 13:12:00 -0500",
+    "fetched_at": "2026-07-11 23:30:46",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "AI",
+      "반도체",
+      "기술주"
+    ],
+    "keywords": [
+      "DeepSeek",
+      "AI",
+      "Nvidia",
+      "Broadcom",
+      "기술주",
+      "매도세",
+      "과장"
+    ],
+    "reason": "이 기사는 DeepSeek으로 인해 촉발된 엔비디아, 브로드컴 등 미국 주요 AI 기술주의 매도세가 과장된 공포에 기반한 것이라고 지적하며, 관련 기술주의 주가 안정화 및 잠재적 반등 가능성을 시사합니다. 이는 기술 섹터 전반에 대한 투자 심리 개선과 유동성 유입에 긍정적으로 작용할 수 있습니다."
+  },
+  {
+    "source": "WSJ_Markets",
+    "title": "Financial Services Roundup: Market Talk",
+    "link": "https://www.wsj.com/articles/financial-services-roundup-market-talk-94f52cba?mod=rss_markets_main",
+    "published": "Mon, 27 Jan 2025 12:27:00 -0500",
+    "fetched_at": "2026-07-11 23:30:52",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "금융 서비스",
+      "핀테크"
+    ],
+    "keywords": [
+      "금융 서비스",
+      "Experian",
+      "SoFi Technologies",
+      "기업 분석",
+      "섹터 동향"
+    ],
+    "reason": "이 뉴스는 특정 금융 서비스 기업들의 동향 분석을 담고 있어 개별 기업 및 해당 섹터에 대한 미시적 정보 제공에 가깝습니다. 거시 경제나 광범위한 증시 전반에 미치는 구조적 영향은 제한적입니다."
+  },
+  {
+    "source": "WSJ_World",
+    "title": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
+    "link": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
+    "published": "Mon, 27 Jan 2025 12:32:00 -0500",
+    "fetched_at": "2026-07-11 23:31:00",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "부동산",
+      "건설",
+      "금융",
+      "철강",
+      "시멘트",
+      "원자재"
+    ],
+    "keywords": [
+      "중국 부동산",
+      "부동산 위기",
+      "완커",
+      "경제 둔화",
+      "신용 리스크",
+      "금융 시스템 리스크"
+    ],
+    "reason": "중국 주요 부동산 개발업체의 손실 확대는 부동산 위기의 구조적 확산을 시사하며, 이는 중국 경제 성장 둔화와 글로벌 경기 침체 우려를 심화시킬 것입니다. 금융 시스템의 신용 리스크 증가로 안전 자산 선호 심리가 강화되고 원자재 가격에 하방 압력을 가할 수 있습니다."
+  },
+  {
     "source": "WSJ_Business",
     "title": "Wall Street Banks Prepare to Sell Billions of Dollars of X Loans",
     "link": "https://www.wsj.com/articles/wall-street-banks-prepare-to-sell-billions-of-dollars-of-x-loans-c609beb1?mod=pls_whats_news_us_business_f",
