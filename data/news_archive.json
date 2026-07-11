@@ -1,5 +1,29 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "title": "폭락에 겁나서 탈출했는데…삼전닉스 개미들 다시 들어가도 될까요[주末머니] - v.daum.net",
+    "title_ko": "폭락에 겁나서 탈출했는데…삼전닉스 개미들 다시 들어가도 될까요[주末머니]",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1nWDhnZ191WldsZzZQVHF5b0JjRlN1SnVZN01PS3dMTnRjQzR1b1lqZHFiRHZoUmNYRDB6azFpVVpZQThfdV8xUFcwaWpHWjA?oc=5",
+    "published": "Sat, 11 Jul 2026 08:02:38 GMT",
+    "fetched_at": "2026-07-12 07:38:34",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "반도체",
+      "기술주",
+      "증권/금융"
+    ],
+    "keywords": [
+      "삼성전자",
+      "SK하이닉스",
+      "개미투자자",
+      "시장심리",
+      "반도체사이클"
+    ],
+    "reason": "이 기사는 주요 반도체 기업(삼성전자, SK하이닉스)의 주가 하락 이후 개인 투자자들의 재진입 심리를 보여주며, 이는 해당 섹터의 바닥 형성 또는 추가적인 변동성 발생 가능성을 시사합니다. 전체 시장의 기술주 투자 심리에 영향을 미칩니다.",
+    "action_point": "개별 반도체 기업의 펀더멘탈과 산업 사이클 분석을 통해 기술주 비중 조절을 검토하라."
+  },
+  {
     "source": "CNBC_World",
     "title": "Inside NATO's extraordinary 48 hours that revealed Trump's grip on global diplomacy",
     "title_ko": "트럼프의 글로벌 외교 장악력을 드러낸 NATO의 특별한 48시간 내막",
