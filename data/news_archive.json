@@ -1,6 +1,31 @@
 [
   {
     "source": "GoogleNews_Korea",
+    "title": "[다음주 경제] 한은 금리인상 초읽기…하반기 경제성장전략 공개 - 연합뉴스",
+    "title_ko": "한은 금리인상 초읽기…하반기 경제성장전략 공개",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53a3NpOXhQWUlObEVCT2RPdXlRMi1GSG55MENYbjZRTUpITHdnM1BfNGZiSkJhT0F6akVFTXRhQmphN2ZFdGs5Ykh0OHowbFY1UHd4eTlGcnc4YWvSAWBBVV95cUxNVEFhTXlqdmt0ejhOWDlBektkbTFzTWs1d2pSYnlFR2tfdDBtakVaVVprTGFCaXNJNXpfWHlpUjdrRUNZbVhZaVgydXRfM1l3Z21hbTgzQXYtY1QtVDUwN2Q?oc=5",
+    "published": "Sat, 11 Jul 2026 00:09:40 GMT",
+    "fetched_at": "2026-07-12 05:52:32",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "부동산",
+      "건설",
+      "IT/성장주",
+      "은행"
+    ],
+    "keywords": [
+      "한국은행",
+      "금리인상",
+      "기준금리",
+      "통화정책",
+      "경제성장"
+    ],
+    "reason": "한국은행의 금리 인상 임박 소식은 기업의 차입 비용 증가와 가계 이자 부담 확대로 이어져 국내 경기 둔화 우려를 키우고, 특히 고부채 기업과 성장주의 실적에 부정적인 영향을 미칠 수 있습니다. 반면 은행 등 금융주는 금리 인상 시 순이자마진 개선 기대감으로 단기적인 호재가 될 수 있습니다.",
+    "action_point": "고부채 기업 및 성장주 비중을 축소하고, 은행 등 금융 섹터 투자 매력을 재평가하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
     "title": "美, 연이틀 이란 타격…트럼프 “전쟁 재개 아냐, 금방 끝날 것” - 중앙일보",
     "title_ko": "美, 연이틀 이란 타격…트럼프 “전쟁 재개 아냐, 금방 끝날 것”",
     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5EMkQ2amMwVkFEUXB3bjNlTHVrZGYzQ3c2eGs3WmtGSGlaRDBacFRHc3RlNHlUWE5RaFBQVlE5Z0hJeVN2TUtDdDNlNTZwVnRKc2JFaDFn?oc=5",
