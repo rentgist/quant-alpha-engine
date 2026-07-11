@@ -1,5 +1,101 @@
 [
   {
+    "source": "CNBC_Finance",
+    "title": "These underperforming trades could yield big returns over next six months",
+    "title_ko": "향후 6개월간 저조한 성과를 보인 투자에서 큰 수익 기대",
+    "link": "https://www.cnbc.com/2026/07/11/mag-7-and-software-could-boost-portfolio-in-second-half-etf-action.html",
+    "published": "Sat, 11 Jul 2026 15:00:01 GMT",
+    "fetched_at": "2026-07-12 00:45:22",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "기술주",
+      "산업재",
+      "필수소비재",
+      "금융주"
+    ],
+    "keywords": [
+      "저평가",
+      "인공지능",
+      "포트폴리오 재조정",
+      "가치주"
+    ],
+    "reason": "AI 관련주 대비 저조한 성과를 보인 섹터로의 자금 유입 가능성을 시사하며, 이는 시장의 섹터 로테이션과 분산 투자 전략에 긍정적인 영향을 미칠 수 있습니다.",
+    "action_point": "AI 관련주 편중 위험을 점검하고, 타 섹터 내 저평가된 자산 비중 확대를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "Berkshire Hathaway gains ground, but still trails the S&P 500 as '26 enters second half",
+    "title_ko": "버크셔 해서웨이, 2026년 하반기 진입에도 S&P 500 수익률에 여전히 뒤처져",
+    "link": "https://www.cnbc.com/2026/07/11/berkshire-hathaway-gains-ground-but-still-trails-the-sp-500-as-26-enters-second-half.html",
+    "published": "Sat, 11 Jul 2026 13:07:41 GMT",
+    "fetched_at": "2026-07-12 00:45:54",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "가치주",
+      "성장주"
+    ],
+    "keywords": [
+      "버크셔 해서웨이",
+      "S&P 500",
+      "가치주 투자",
+      "시장 수익률"
+    ],
+    "reason": "이 기사는 가치 투자의 대명사인 버크셔 해서웨이가 광범위한 S&P 500 지수 대비 지속적으로 부진한 성과를 보이고 있음을 강조합니다. 이는 현재 시장에서 성장주 중심의 투자 전략이 가치주 전략보다 우세함을 시사합니다.",
+    "action_point": "가치주 투자 전략의 상대적 부진을 확인하고 포트폴리오 내 성장주와 가치주의 균형을 점검하라."
+  },
+  {
+    "source": "CNBC_Finance",
+    "title": "Stocks making the biggest moves midday: SK Hynix, Meta, WD-40, Delta, Vodafone & more",
+    "title_ko": "장중 가장 큰 움직임을 보이는 종목: SK하이닉스, 메타, WD-40, 델타, 보다폰 외",
+    "link": "https://www.cnbc.com/2026/07/10/stocks-making-big-midday-moves-skhyv-meta-wdfc-dal-vod-.html",
+    "published": "Fri, 10 Jul 2026 17:53:52 GMT",
+    "fetched_at": "2026-07-12 00:45:31",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "반도체",
+      "기술",
+      "항공",
+      "통신",
+      "소비재"
+    ],
+    "keywords": [
+      "개별종목",
+      "장중변동",
+      "SK하이닉스",
+      "메타"
+    ],
+    "reason": "이 뉴스는 여러 섹터에 걸쳐 주요 개별 종목들의 장중 큰 움직임을 전달한다. 거시경제적 트렌드보다는 각 기업의 특정 요인에 의한 변동성에 주목한다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
+    "title": "While Musk's Neuralink drills into skulls, China's BrainCo bets the future of brain tech is wearable",
+    "title_ko": "머스크의 뉴럴링크가 두개골에 칩을 심는 동안, 중국의 브레인코는 뇌 기술의 미래가 웨어러블에 있다고 주장한다",
+    "link": "https://www.cnbc.com/2026/07/11/chinas-brainco-bets-on-wearable-brain-tech.html",
+    "published": "Sat, 11 Jul 2026 13:47:01 GMT",
+    "fetched_at": "2026-07-12 00:45:41",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "뇌-컴퓨터 인터페이스 (BCI)",
+      "의료기기",
+      "인공지능",
+      "반도체"
+    ],
+    "keywords": [
+      "뉴럴링크",
+      "브레인코",
+      "뇌-컴퓨터 인터페이스",
+      "웨어러블",
+      "신경과학 기술"
+    ],
+    "reason": "뇌-컴퓨터 인터페이스(BCI) 기술 개발 경쟁 심화를 보여주며, 관련 신경과학 기술 및 의료기기 섹터의 장기적인 성장 잠재력을 시사한다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "WSJ_Markets",
     "title": "DeepSeek Won't Sink U.S. AI Titans",
     "link": "https://www.wsj.com/articles/deepseek-us-ai-stocks-nvidia-broadcom-6cdfae81?mod=rss_markets_main",
