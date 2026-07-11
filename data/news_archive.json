@@ -1,5 +1,55 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "title": "美, 연이틀 이란 타격…트럼프 “전쟁 재개 아냐, 금방 끝날 것” - 중앙일보",
+    "title_ko": "美, 연이틀 이란 타격…트럼프 “전쟁 재개 아냐, 금방 끝날 것”",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5EMkQ2amMwVkFEUXB3bjNlTHVrZGYzQ3c2eGs3WmtGSGlaRDBacFRHc3RlNHlUWE5RaFBQVlE5Z0hJeVN2TUtDdDNlNTZwVnRKc2JFaDFn?oc=5",
+    "published": "Wed, 08 Jul 2026 20:27:05 GMT",
+    "fetched_at": "2026-07-12 05:00:12",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "에너지",
+      "방산",
+      "해운",
+      "항공",
+      "금융"
+    ],
+    "keywords": [
+      "미국",
+      "이란",
+      "중동",
+      "지정학적 리스크",
+      "유가",
+      "안전자산"
+    ],
+    "reason": "미국과 이란 간의 연이은 군사적 충돌은 중동 지역의 지정학적 불안정성을 극도로 고조시키며, 이는 글로벌 유가 급등 및 전반적인 시장의 강력한 위험 회피 심리를 촉발할 수 있습니다.",
+    "action_point": "중동 지정학적 리스크 심화와 유가 상승 압력에 대비하여 원유 관련 자산 및 달러 등 안전자산 비중 확대를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "UAE defense firm EDGE Group wants to turn homegrown military tech into a global business",
+    "title_ko": "UAE 방위산업체 EDGE 그룹, 자국 기술로 글로벌 시장 진출 목표",
+    "link": "https://www.cnbc.com/video/2026/07/11/uae-edge-group-managing-middle-east.html",
+    "published": "Sat, 11 Jul 2026 04:00:01 GMT",
+    "fetched_at": "2026-07-12 05:00:00",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "방위산업",
+      "기술"
+    ],
+    "keywords": [
+      "UAE",
+      "방위산업",
+      "국방 기술",
+      "수출",
+      "글로벌 확장"
+    ],
+    "reason": "UAE의 자국 방위산업 육성 및 글로벌 진출 목표는 세계 방산 시장의 경쟁을 심화시킬 것이며, 이는 잠재적으로 지정학적 리스크와 연동되어 해당 섹터의 성장을 견인할 수 있습니다.",
+    "action_point": "글로벌 방위산업 시장 재편 가능성에 주목하며, 관련 기술 경쟁력 보유 기업에 대한 투자 기회 탐색."
+  },
+  {
     "source": "CNBC_World",
     "title": "Trump threatens to 'decimate' Iran if it tries to kill him, as Treasury sanctions alleged Iranian financier",
     "title_ko": "트럼프, 이란 암살 시도 시 '괴멸' 위협... 재무부는 이란 금융가 제재",
