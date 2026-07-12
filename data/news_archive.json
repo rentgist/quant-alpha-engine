@@ -1,6 +1,31 @@
 [
   {
     "source": "GoogleNews_Korea",
+    "title": "하메네이 장례 후 더 강경해진 이란…\"전쟁 재개 위기 커져\" - 연합뉴스TV",
+    "title_ko": "하메네이 장례 후 더 강경해진 이란…\"전쟁 재개 위기 커져\" - 연합뉴스TV",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBrVk5KSV9VRlFibm1xR1laRE9iNzdSeUsxc0VLT0hyamxNaTZpUEpKMzc0R1Z1NUoxMWsxbnQxdFp5RldVVzZLazd1UkxyWjhNTmRJWEN5aE82VkFHN1NnWTk4U3E1SHc?oc=5",
+    "published": "Sun, 12 Jul 2026 06:37:00 GMT",
+    "fetched_at": "2026-07-12 20:05:42",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "에너지",
+      "방산",
+      "원자재",
+      "해운"
+    ],
+    "keywords": [
+      "이란",
+      "지정학",
+      "유가",
+      "중동",
+      "전쟁"
+    ],
+    "reason": "이란의 강경 기조 강화로 중동 지정학적 리스크가 고조되고 있으며, 이는 유가 상승 압력 및 안전자산 선호 심화로 이어져 글로벌 시장에 부정적 영향을 미칠 수 있습니다.",
+    "action_point": "유가 상승에 대비하여 에너지 섹터 투자 비중을 확대하고, 지정학적 리스크 헤지를 위해 금 비중을 늘리십시오."
+  },
+  {
+    "source": "GoogleNews_Korea",
     "title": "대담해진 이란…\"전쟁 재개 위기 커져\" - v.daum.net",
     "title_ko": "대담해진 이란…\"전쟁 재개 위기 커져\"",
     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1DNkc0OW9fdWRTWkdpdWNCSEhFRkZBOUdoc0RtUUxReWh6bFJsQ19ITjlodEljRFpZSThpY0l1bkppeC1BSXRkRXNzWFJFdTg?oc=5",
