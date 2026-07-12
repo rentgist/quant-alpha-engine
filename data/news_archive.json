@@ -1,5 +1,50 @@
 [
   {
+    "source": "CNBC_Finance",
+    "title": "Goldman Sachs picks its favorite Chinese AI models",
+    "title_ko": "골드만삭스, 선호하는 중국 AI 모델 선정",
+    "link": "https://www.cnbc.com/2026/07/12/goldman-sachs-picks-its-favorite-chinese-ai-models.html",
+    "published": "Sun, 12 Jul 2026 12:03:29 GMT",
+    "fetched_at": "2026-07-12 21:57:26",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "IT",
+      "AI",
+      "소프트웨어",
+      "반도체"
+    ],
+    "keywords": [
+      "AI",
+      "중국 기술주",
+      "골드만삭스"
+    ],
+    "reason": "골드만삭스의 중국 AI 모델 선정은 해당 분야의 성장 잠재력을 시사하며, 중국 기술주 및 관련 섹터에 대한 투자심리를 개선하고 자본 유입을 촉진할 수 있습니다.",
+    "action_point": "중국 AI 및 기술 섹터 내 투자 기회 발굴 및 비중 확대를 검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "증시로 간 '돈쭐'‥상폐 위기 넘긴 한성·모나미 - MBC 뉴스",
+    "title_ko": "증시로 간 '돈쭐'‥상폐 위기 넘긴 한성·모나미",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA5LVdhaE1KTEFfVFZBZWRCYjBNOVNJRzNMRWpxSHgxLTdzU2lCMWxEMEF2d001UFJzSW9zSXpyQjBwczRaNFcxMGQzeG05ak1SX25GajlfcXRvQ3VuTUlnSzJ0MThvZ25yZERHTXd4Nk4xOTF0YXVvMw?oc=5",
+    "published": "Sun, 12 Jul 2026 11:18:36 GMT",
+    "fetched_at": "2026-07-12 21:57:48",
+    "sentiment": "호재",
+    "importance": 2,
+    "sectors": [
+      "개별 기업",
+      "소매 투자 심리"
+    ],
+    "keywords": [
+      "소매 투자",
+      "상폐 위기",
+      "개별 주식",
+      "시장 심리"
+    ],
+    "reason": "개별 기업의 상폐 위기 극복은 해당 기업에 긍정적이나, 이는 주로 소액 개인 투자자의 특정 종목에 대한 투심을 반영하며 전체 시장이나 매크로 경제에 미치는 영향은 제한적이다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "GoogleNews_Korea",
     "title": "하메네이 장례 후 더 강경해진 이란…\"전쟁 재개 위기 커져\" - 연합뉴스TV",
     "title_ko": "하메네이 장례 후 더 강경해진 이란…\"전쟁 재개 위기 커져\" - 연합뉴스TV",
