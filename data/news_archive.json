@@ -1,5 +1,53 @@
 [
   {
+    "source": "CNBC_World",
+    "title": "U.S. launches airstrikes against Iran after Tehran attacks container ship in Hormuz, Pentagon says",
+    "title_ko": "미국, 호르무즈 해협 컨테이너선 공격에 대응해 이란 공습 단행 (국방부 발표)",
+    "link": "https://www.cnbc.com/2026/07/11/us-airstrikes-iran-strait-hormuz.html",
+    "published": "Sun, 12 Jul 2026 01:45:21 GMT",
+    "fetched_at": "2026-07-12 10:49:35",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "에너지",
+      "해운",
+      "방산"
+    ],
+    "keywords": [
+      "미국-이란 갈등",
+      "호르무즈 해협",
+      "유가",
+      "지정학적 리스크",
+      "해운"
+    ],
+    "reason": "미국-이란 갈등이 호르무즈 해협을 통한 글로벌 원유 공급망을 직접적으로 위협하며 유가 급등 및 해운 비용 상승 가능성을 높입니다. 이는 전반적인 지정학적 리스크를 심화시켜 투자 심리에 부정적 영향을 미칩니다.",
+    "action_point": "중동 지정학적 리스크 심화에 따른 유가 상승 압력에 대비하여 에너지 섹터 비중 확대를 검토하십시오."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "[이번주 경제]한은, 3년 6개월만에 금리인상 유력…하반기 경제성장전략 주목 - 뉴스1",
+    "title_ko": "한은, 3년 6개월만에 금리인상 유력…하반기 경제성장전략 주목",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1QQXFtV3pUWTZDdXpVcE9uNE1nUkxNbG9fNnJBdkRBUUx6LWpDRFR3dUdhR29IX3R3a0FNX1BKRG14OHVNSmY0QzVCV0xjSlhHdXlpUA?oc=5",
+    "published": "Sun, 12 Jul 2026 01:17:07 GMT",
+    "fetched_at": "2026-07-12 10:49:48",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "금융",
+      "부동산",
+      "성장주",
+      "내수"
+    ],
+    "keywords": [
+      "한국은행",
+      "금리인상",
+      "통화정책",
+      "경제성장"
+    ],
+    "reason": "한국은행의 금리 인상은 국내 주식 및 부동산 시장에 하방 압력을 가하고 채권 금리 상승을 유발하며, 이는 인플레이션 억제 목적이지만 단기적으로는 경제 성장을 둔화시킬 수 있습니다.",
+    "action_point": "국내 고부채 기업 및 금리 민감 성장주 비중 축소를 검토하고, 변동금리 부채 관리 방안을 마련하십시오."
+  },
+  {
     "source": "GoogleNews_Korea",
     "title": "[글로벌 경제지표] 美 '어닝 시즌' 본격 개막…한국은행 기준금리 인상 가능성 - v.daum.net",
     "title_ko": "[글로벌 경제지표] 美 '어닝 시즌' 본격 개막…한국은행 기준금리 인상 가능성",
