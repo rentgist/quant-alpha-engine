@@ -1,5 +1,58 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "title": "이란 호르무즈 재봉쇄 직후, 미군 이번 주 3번째 공습 ‘맞불’ - 한겨레",
+    "title_ko": "이란 호르무즈 재봉쇄 직후, 미군 이번 주 3번째 공습 ‘맞불’",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Kb1dKdXhGX3pNLWwzVXR0YnZyWEV6S1hCNnZKeEZwZVE3X1pwaW1hX3VyMzAxWVFKaXRhZXZlaUVnQ1hYYkpCcEdKYTB0WHZXSm1zbFc0SVRQSjJsNDBoNUpzQlp5T1AwNWM1V2hDYTcxTk0?oc=5",
+    "published": "Sun, 12 Jul 2026 02:12:00 GMT",
+    "fetched_at": "2026-07-12 14:18:38",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "에너지",
+      "해운",
+      "정유",
+      "방위산업",
+      "항공"
+    ],
+    "keywords": [
+      "이란",
+      "호르무즈 해협",
+      "미군",
+      "중동",
+      "지정학적 리스크",
+      "유가"
+    ],
+    "reason": "중동 핵심 석유 수송로인 호르무즈 해협의 지정학적 긴장이 최고조에 달하며 유가 급등 가능성을 높이고, 글로벌 공급망 불안정 및 전반적인 시장의 위험 회피 심리를 자극할 것입니다.",
+    "action_point": "중동 지정학적 리스크 고조에 따른 유가 변동성 확대 대비 원자재 관련 포지션 재점검 및 방어적 자산 편입 검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "하반기 은행 대출 '셧다운' 위기..벌써 연간 목표액 80% 채웠다 - 머니투데이 - 머니투데이",
+    "title_ko": "하반기 은행 대출 '셧다운' 위기..벌써 연간 목표액 80% 채웠다",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE04QmQwdVJkNHM1SHZuVTRJeURIN0VYYjRfOU00MGt4b2x6dnptVS16aVhFb2lIRGRKTXkwWkJuQmZxX2RDZDVERDZQajJuZVdibnQ0bWJwT0tOTGZSRUQxUE9iOFNsT0tjUUs40gFwQVVfeXFMTmVvSFFIUk9UMkZVbW5JZjlkWkZYQ1NRekpEWlZ4QndhQ09vemlNNXp5b3dCRmpGa1Y1YWRDRnBLNXlRRnBLMFczU0hJZU1jT3R6OXZiTm93bFRsME9pMENpSTZLRF96Rm12X3N1U192aA?oc=5",
+    "published": "Sun, 12 Jul 2026 01:57:11 GMT",
+    "fetched_at": "2026-07-12 14:18:52",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "금융",
+      "부동산",
+      "건설",
+      "유통",
+      "중소기업"
+    ],
+    "keywords": [
+      "은행 대출",
+      "신용 경색",
+      "가계부채",
+      "부동산 시장",
+      "유동성"
+    ],
+    "reason": "은행 대출 공급 축소는 가계 및 기업의 자금 조달을 위축시켜 국내 소비와 투자 활동에 부정적 영향을 미칠 것입니다. 특히 대출 의존도가 높은 부동산 시장에 직접적인 하방 압력으로 작용하며 국내 경기 둔화를 심화시킬 수 있습니다.",
+    "action_point": "하반기 대출 경색에 대비하여 유동성 확보에 집중하고 부동산 및 국내 대출 민감 섹터 비중 축소를 검토하라."
+  },
+  {
     "source": "CNBC_World",
     "title": "U.S. launches airstrikes against Iran after Tehran attacks container ship in Hormuz, Pentagon says",
     "title_ko": "미국, 호르무즈 해협 컨테이너선 공격에 대응해 이란 공습 단행 (국방부 발표)",
