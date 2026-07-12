@@ -1,6 +1,53 @@
 [
   {
     "source": "Maeil_Business",
+    "title": "“국가핵심기술 지정, 독이 든 독배였네”…주름살 늘어난 보톡스업계",
+    "title_ko": "“국가핵심기술 지정, 독이 든 독배였네”…주름살 늘어난 보톡스업계",
+    "link": "https://www.mk.co.kr/news/it/12096649",
+    "published": "Sun, 12 Jul 2026 22:12:26 +09:00",
+    "fetched_at": "2026-07-13 02:52:47",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "제약/바이오",
+      "미용 의료기기"
+    ],
+    "keywords": [
+      "국가핵심기술",
+      "보툴리눔 톡신",
+      "규제",
+      "수출",
+      "바이오산업"
+    ],
+    "reason": "보툴리눔 톡신 기술의 국가핵심기술 지정은 관련 기업들의 수출 및 글로벌 임상 승인 절차를 지연시켜 연간 수천억 원 규모의 손실을 초래하고 산업 경쟁력을 약화시킬 수 있습니다.",
+    "action_point": "보툴리눔 톡신 관련 국내 제약/바이오 기업 투자 비중 축소 검토"
+  },
+  {
+    "source": "CNBC_World",
+    "title": "Elon Musk and Sam Altman spar on X after Apple files OpenAI lawsuit",
+    "title_ko": "애플의 OpenAI 소송 제기 후 일론 머스크와 샘 올트먼, X에서 설전",
+    "link": "https://www.cnbc.com/2026/07/12/elon-musk-and-sam-altman-spar-.html",
+    "published": "Sun, 12 Jul 2026 15:32:34 GMT",
+    "fetched_at": "2026-07-13 02:52:31",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "기술",
+      "인공지능",
+      "소프트웨어"
+    ],
+    "keywords": [
+      "일론 머스크",
+      "샘 올트먼",
+      "OpenAI",
+      "애플",
+      "AI 경쟁"
+    ],
+    "reason": "두 기술 거물 간의 설전은 AI 기술 경쟁 심화와 주요 기업들의 전략 변화를 간접적으로 보여주지만, 거시 경제나 시장 전반에 미치는 직접적인 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "Maeil_Business",
     "title": "미국 “이란, 호르무즈 통제권 행사 하지 않아…미군이 항행자유 보장 대비”",
     "title_ko": "미국 “이란, 호르무즈 통제권 행사 하지 않아…미군이 항행자유 보장 대비”",
     "link": "https://www.mk.co.kr/news/world/12096651",
