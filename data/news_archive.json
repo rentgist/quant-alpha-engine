@@ -1,5 +1,31 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "title": "\"美, 이란전쟁에도 침체확률 하락…인플레 전망은 악화\" - 연합뉴스",
+    "title_ko": "美, 이란전쟁에도 침체확률 하락…인플레 전망은 악화",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB2WlloN2luVTRfYng5aFJLc2lBbHhBV3FfMHVTd2s2bUo4aXk5NzItVFRPeEY2Y2FmR0ozR0VrSzRMZW5GcEFrVlUtU3JjeGVqbk45emJhcE54VmpoWlJQbtIBYEFVX3lxTFB2WlloN2luVTRfYng5aFJLc2lBbHhBV3FfMHVTd2s2bUo4aXk5NzItVFRPeEY2Y2FmR0ozR0VrSzRMZW5GcEFrVlUtU3JjeGVqbk45emJhcE54VmpoWlJQbg?oc=5",
+    "published": "Sun, 12 Jul 2026 14:09:33 GMT",
+    "fetched_at": "2026-07-13 03:52:16",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "주식",
+      "금리",
+      "환율",
+      "부동산",
+      "원자재"
+    ],
+    "keywords": [
+      "미국 경제",
+      "인플레이션",
+      "경기 침체",
+      "고금리 장기화",
+      "달러 강세"
+    ],
+    "reason": "미국 경제의 침체 확률 하락에도 불구하고 인플레이션 전망 악화는 연준의 고금리 장기화 기조를 강화할 가능성이 높습니다. 이는 주식 시장, 특히 성장주에 부담으로 작용하며 달러 강세를 지지할 수 있습니다.",
+    "action_point": "고금리 장기화에 대비하여 성장주 비중을 축소하고, 달러 자산 보유를 유지하십시오."
+  },
+  {
     "source": "Maeil_Business",
     "title": "“국가핵심기술 지정, 독이 든 독배였네”…주름살 늘어난 보톡스업계",
     "title_ko": "“국가핵심기술 지정, 독이 든 독배였네”…주름살 늘어난 보톡스업계",
