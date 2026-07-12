@@ -1,6 +1,100 @@
 [
   {
     "source": "GoogleNews_Korea",
+    "title": "대담해진 이란…\"전쟁 재개 위기 커져\" - v.daum.net",
+    "title_ko": "대담해진 이란…\"전쟁 재개 위기 커져\"",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1DNkc0OW9fdWRTWkdpdWNCSEhFRkZBOUdoc0RtUUxReWh6bFJsQ19ITjlodEljRFpZSThpY0l1bkppeC1BSXRkRXNzWFJFdTg?oc=5",
+    "published": "Sun, 12 Jul 2026 06:06:00 GMT",
+    "fetched_at": "2026-07-12 18:55:05",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "에너지",
+      "방산",
+      "해운"
+    ],
+    "keywords": [
+      "이란",
+      "중동",
+      "지정학적 리스크",
+      "유가"
+    ],
+    "reason": "이란과 중동 지역의 전쟁 재개 위기 고조는 국제 유가 상승 압력과 함께 글로벌 지정학적 불확실성을 증폭시켜 투자 심리를 위축시키고 안전자산 선호를 강화할 수 있습니다.",
+    "action_point": "에너지 및 방산 섹터 비중 확대를 검토하고, 원자재 가격 상승에 따른 인플레이션 압력을 주시하며 포트폴리오의 방어적 성격을 강화하십시오."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "‘Almost unlimited’: Execs says AI demand remains strong even as enterprises move to ‘valuemaxxing’",
+    "title_ko": "‘거의 무한정’: AI 수요는 여전히 견조하지만, 기업들은 ‘가치 극대화’를 추구한다",
+    "link": "https://www.cnbc.com/2026/07/12/ai-demand-chips-data-centers-stock-volatility.html",
+    "published": "Sun, 12 Jul 2026 05:00:01 GMT",
+    "fetched_at": "2026-07-12 18:54:49",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "반도체",
+      "기술",
+      "클라우드"
+    ],
+    "keywords": [
+      "AI",
+      "수요",
+      "반도체",
+      "가치극대화"
+    ],
+    "reason": "이 기사는 기업들의 '가치 극대화' 노력에도 불구하고 AI 관련 수요가 견조함을 보여주며, AI 기술 및 반도체 섹터의 장기적인 성장 동력을 재확인시켜 준다. 이는 최근 AI 관련주 변동성에 대한 우려를 완화할 수 있다.",
+    "action_point": "AI 관련 반도체 및 인프라 기술주에 대한 포트폴리오 비중을 유지하고, 변동성 발생 시 저점 매수 기회를 적극적으로 검토하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "title": "LS일렉트릭, 2년 연속 임단협 무교섭 타결",
+    "title_ko": "LS일렉트릭, 2년 연속 임단협 무교섭 타결",
+    "link": "https://www.mk.co.kr/news/business/12096612",
+    "published": "Sun, 12 Jul 2026 18:28:47 +09:00",
+    "fetched_at": "2026-07-12 18:55:20",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "전력기기",
+      "자동화설비",
+      "스마트그리드"
+    ],
+    "keywords": [
+      "LS일렉트릭",
+      "임단협",
+      "노사관계",
+      "미래 전략 투자"
+    ],
+    "reason": "LS일렉트릭의 안정적인 노사관계는 운영 리스크를 줄이고 미래 전략 산업 투자를 위한 기반을 마련하여 기업의 장기적 성장 잠재력을 높이는 요인이다.",
+    "action_point": "LS일렉트릭의 안정된 노사관계를 긍정적으로 보고, 해당 기업 및 전력기기/자동화 섹터 내 투자 기회 모색."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "애국 개미들이 ‘돈쭐’ 내준 한성기업·모나미…상폐 위기서 주가 100% 급등 - 경향신문",
+    "title_ko": "애국 개미들이 ‘돈쭐’ 내준 한성기업·모나미…상폐 위기서 주가 100% 급등",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zQmdhMVdsY09YeXBvNWJmZmFBbG5ON1hKZDBvN1lCa09fUWF5TktYY3VjTFpfSm83azlGLUJpZ0I3cEN6bzdCWTNuU0RVZk1NUWhHQjZPanUtQdIBX0FVX3lxTFBYLVY3LTEyVExYTGdFWXAxUDZJYWphU1NjY1VJM05FUnNkSjdQTFhISkYxR1FoM1kyRWpvWFpxdGtlclhkMjlXZGk3UWZoXzBad0xwZ3JSRmZsX1dGNkdN?oc=5",
+    "published": "Sun, 12 Jul 2026 08:28:00 GMT",
+    "fetched_at": "2026-07-12 18:54:58",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "소비재",
+      "식품",
+      "문구"
+    ],
+    "keywords": [
+      "애국 개미",
+      "개인 투자자",
+      "주가 급등",
+      "상폐 위기",
+      "한성기업",
+      "모나미"
+    ],
+    "reason": "개별 종목에 대한 개인투자자들의 강한 애국심 기반 매수세가 주가 급등을 유발한 사례로, 광범위한 시장 또는 거시경제에 미치는 영향은 제한적이다. 이는 특정 테마에 쏠리는 개인 투자 심리의 단면을 보여준다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "GoogleNews_Korea",
     "title": "호르무즈 다시 막혔다...美-이란 종전 협상 파국 위기 - 서울신문",
     "title_ko": "호르무즈 다시 막혔다...美-이란 종전 협상 파국 위기",
     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1pcUxGNFNZX2pFNDBQbGI5QzdacFRVSjZ1aGtvREJ2YVZwRGMybVdYb09MWk0tOFlHTEUtWDlrVzBuMHVrMG5MWGFwWTkzQnlXSkxqZVlISjEwa09TYlZSRkNFMlRhVFJBd3FqVTdNcnFkQXF1LVl3?oc=5",
