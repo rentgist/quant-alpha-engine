@@ -1,5 +1,82 @@
 [
   {
+    "source": "CNBC_World",
+    "title": "Oil prices rise as U.S. and Iran fight for control of Strait of Hormuz",
+    "title_ko": "미국-이란 호르무즈 해협 통제권 분쟁으로 유가 상승",
+    "link": "https://www.cnbc.com/2026/07/12/oil-price-strait-hormuz-iran-trump-tanker.html",
+    "published": "Sun, 12 Jul 2026 22:07:32 GMT",
+    "fetched_at": "2026-07-13 08:43:50",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "에너지",
+      "해운",
+      "항공",
+      "화학",
+      "방위산업"
+    ],
+    "keywords": [
+      "미국",
+      "이란",
+      "호르무즈 해협",
+      "유가",
+      "지정학적 리스크"
+    ],
+    "reason": "호르무즈 해협 통제권 분쟁으로 인한 유가 급등은 글로벌 인플레이션 압력을 가중시키고 공급망 불안정을 초래하여 전반적인 시장의 지정학적 리스크와 경제 불확실성을 증폭시킬 것이다.",
+    "action_point": "고유가 장기화 및 지정학적 리스크 확대에 대비하여 에너지 관련 자산 비중을 점검하고, 인플레이션 헤지 및 방어적 포트폴리오 전략을 강화하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "[속보] 미군 \"군통수권자 지시로 이란 상대 추가 공습 개시\" - MBC 뉴스",
+    "title_ko": "[속보] 미군 \"군통수권자 지시로 이란 상대 추가 공습 개시\" - MBC 뉴스",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNUk5SW12dVdzd0FPR3A1UWRndG1rTHFacG5iSlVka3BvenhuUWJXb2tvUjNRUXFBWHFEUGpZNWRjSmE2RWpzcHp1dnlqdVpzZ3o4TlY2WXNEN3NraVdhVjI1MEZQdWh4TmozSUFLOW55RmhpTXRnMzlzQ0J5VkhqR19tZWtvZ2J0ZnFtblVSSjRSWVVqTjhJTk0yQnhfc05POXRqS1Z2MU44NDg3eVVIMGtYcmlDZElYa2Q2b9IBdEFVX3lxTFBGdlh0dUVjc3JGeDRIUWpORklnMWR0Q09GMUNXbzJ6V1pjVE1fODhKYXZVSjZJYmxCTzZBa1ZOQzdSNHpCVTdjMVM3eF9ORVc4TVpWX09ZVFhBRUQwX1ktU1hmdW1wQlM1ckttYjZjUXdJSE5Q?oc=5",
+    "published": "Sun, 12 Jul 2026 21:23:50 GMT",
+    "fetched_at": "2026-07-13 08:43:59",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "에너지",
+      "국방",
+      "해운"
+    ],
+    "keywords": [
+      "미군",
+      "이란",
+      "공습",
+      "지정학",
+      "유가"
+    ],
+    "reason": "미군의 이란 대상 추가 공습은 중동 지정학적 긴장을 고조시켜 국제 유가 상승 압력을 높이고 글로벌 시장의 위험 회피 심리를 강화할 것입니다.",
+    "action_point": "국제 유가 추가 상승에 대비하여 에너지 및 방산 관련 자산 비중 확대를 검토하십시오."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "[속보]美, 한국시간 오전 6시부터 추가 공습 “트럼프의 지시” - 문화일보",
+    "title_ko": "[속보]美, 한국시간 오전 6시부터 추가 공습 “트럼프의 지시”",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9WdUNXMmdoRHVLeDRQM3ZsaHlPalV4TVpsTk1oaGtzZDk4MlQ1WDVGSkhqTzVGUXdETHNNdzdVS01wZWZTT3hHYU04bXNwTXdr?oc=5",
+    "published": "Sun, 12 Jul 2026 22:38:03 GMT",
+    "fetched_at": "2026-07-13 08:44:06",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "방산",
+      "에너지",
+      "항공운송",
+      "건설"
+    ],
+    "keywords": [
+      "미국",
+      "공습",
+      "지정학적 리스크",
+      "트럼프",
+      "중동",
+      "유가",
+      "안전 자산"
+    ],
+    "reason": "미국의 추가 공습은 중동 지역의 지정학적 긴장을 고조시키며 국제 유가 상승 압력을 높이고, 글로벌 증시의 변동성 확대로 안전 자산 선호 심리를 강화할 것입니다.",
+    "action_point": "지정학적 리스크 심화에 따라 안전 자산(달러, 금) 비중을 확대하고 방산주 및 에너지 관련주를 관심 포트폴리오에 편입하는 것을 검토하십시오."
+  },
+  {
     "source": "GoogleNews_Korea",
     "title": "[속보] 미군 \"군통수권자 지시로 이란 상대 추가 공습 개시\" - 연합뉴스TV",
     "title_ko": "[속보] 미군 \"군통수권자 지시로 이란 상대 추가 공습 개시\" - 연합뉴스TV",
