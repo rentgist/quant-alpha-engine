@@ -1,6 +1,292 @@
 [
   {
     "source": "GoogleNews_Korea",
+    "title": "호르무즈 다시 막혔다...美-이란 종전 협상 파국 위기 - 서울신문",
+    "title_ko": "호르무즈 다시 막혔다...美-이란 종전 협상 파국 위기",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1pcUxGNFNZX2pFNDBQbGI5QzdacFRVSjZ1aGtvREJ2YVZwRGMybVdYb09MWk0tOFlHTEUtWDlrVzBuMHVrMG5MWGFwWTkzQnlXSkxqZVlISjEwa09TYlZSRkNFMlRhVFJBd3FqVTdNcnFkQXF1LVl3?oc=5",
+    "published": "Sun, 12 Jul 2026 06:10:13 GMT",
+    "fetched_at": "2026-07-12 17:01:26",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "에너지",
+      "해운",
+      "항공",
+      "방산",
+      "화학"
+    ],
+    "keywords": [
+      "호르무즈 해협",
+      "미국-이란",
+      "지정학적 리스크",
+      "유가",
+      "원자재"
+    ],
+    "reason": "호르무즈 해협 봉쇄 위기는 전 세계 원유 공급에 심각한 차질을 야기하여 유가를 급등시키고 인플레이션 압력을 높일 수 있습니다. 미-이란 관계 악화는 중동 지역의 지정학적 리스크를 심화시켜 글로벌 시장 불안을 초래할 것입니다.",
+    "action_point": "유가 급등에 대비하여 원유 관련 자산 보유를 검토하고, 항공·해운 등 유가 민감 섹터 비중을 축소하며, 방산 섹터에 대한 관심을 높여라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "[속보] 악시오스 \"미군, 호르무즈 해협 쪽 이란 표적들 공습 중\" - MBC 뉴스",
+    "title_ko": "[속보] 악시오스 \"미군, 호르무즈 해협 쪽 이란 표적들 공습 중\"",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE02UlE2V2wzci1BUEd0aXJBZGlSUi1uM291NXdNWTU2azNRZ0FXRktLczI5RVZ1VWFkWkhCR3ZpMWphcUdWV0tqVkhpUlpENlJVbEpMVzYxVGg5a1lMM0MtNWExT3VWb3RLdGxpWmh5ekVSXzVx0gF0QVVfeXFMUE5YU0tzVkxxOVZzcmJRVjNfRTZ1ckk0LV9GQkJjNUVDeXRKMFhsa0ViZmV0c3Q3dlNJUnE3TDVVOEdKZzdfN2Y3allwNWhaQ3IyVWtkNGxRTXRmWUI1ZFAxUjRFUE84TjFZZjFhMzJUeTF2aXE?oc=5",
+    "published": "Sat, 11 Jul 2026 23:52:03 GMT",
+    "fetched_at": "2026-07-12 17:01:39",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "원유",
+      "해운",
+      "방산",
+      "항공"
+    ],
+    "keywords": [
+      "지정학적 리스크",
+      "호르무즈 해협",
+      "유가",
+      "중동",
+      "군사충돌"
+    ],
+    "reason": "미군의 이란 공습은 중동 지역의 지정학적 긴장을 최고조로 끌어올려 국제 유가 급등 및 해상 운송 차질 우려를 증폭시킬 수 있습니다. 이는 전 세계 경제 불확실성을 가중시키는 핵심 악재로 작용합니다.",
+    "action_point": "지정학적 리스크 확산에 대비하여 위험자산 비중을 축소하고 방어적 자산(금, 달러) 비중을 확대하십시오."
+  },
+  {
+    "source": "Maeil_Business",
+    "title": "“하메네이 장례 후 분위기 달라졌다”…강경파 득세하며 호르무즈 다시 봉쇄",
+    "title_ko": "“하메네이 장례 후 분위기 달라졌다”…강경파 득세하며 호르무즈 다시 봉쇄",
+    "link": "https://www.mk.co.kr/news/world/12096448",
+    "published": "Sun, 12 Jul 2026 16:56:44 +09:00",
+    "fetched_at": "2026-07-12 17:02:02",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "에너지",
+      "해운",
+      "항공",
+      "화학"
+    ],
+    "keywords": [
+      "호르무즈 해협",
+      "이란-미국 갈등",
+      "유가",
+      "지정학적 리스크",
+      "에너지 안보"
+    ],
+    "reason": "호르무즈 해협 봉쇄는 글로벌 원유 공급에 심각한 차질을 유발하여 유가를 급등시키고 지정학적 긴장을 최고조로 끌어올려 시장 변동성을 확대시킬 것입니다.",
+    "action_point": "유가 상승에 대비하여 에너지 섹터 비중을 확대하고, 운송 및 화학 등 유류비 부담이 큰 섹터 비중을 축소 검토."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "How the U.S.-Iran deal set the stage for renewed fighting over the Strait of Hormuz",
+    "title_ko": "미국-이란 협상이 호르무즈 해협 분쟁 재연의 배경이 된 방법",
+    "link": "https://www.cnbc.com/2026/07/10/iran-strait-hormuz-oil-tanker-mou-trump.html",
+    "published": "Fri, 10 Jul 2026 17:26:08 GMT",
+    "fetched_at": "2026-07-12 17:00:40",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "해운",
+      "방위산업"
+    ],
+    "keywords": [
+      "미국-이란",
+      "호르무즈 해협",
+      "지정학적 리스크",
+      "유가",
+      "원유 공급"
+    ],
+    "reason": "호르무즈 해협은 전 세계 원유 수송량의 상당 부분을 차지하는 핵심 요충지로, 이곳에서의 분쟁 재연은 유가 상승 압력을 높여 글로벌 인플레이션과 경제 성장에 부정적인 영향을 미칠 수 있습니다. 이는 지정학적 불확실성을 증대시켜 투자 심리를 위축시킬 것입니다.",
+    "action_point": "에너지 섹터 및 원유 관련 자산의 투자 비중 확대를 검토하고, 달러 등 안전자산 보유를 유지하십시오."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "김용범 \"바이바이 정체론... 한국 경제, 장기 추세선 다시 그리고 있다\" - 조선일보",
+    "title_ko": "김용범 \"바이바이 정체론... 한국 경제, 장기 추세선 다시 그리고 있다\"",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTzV4T3BxbmdBUmZHOXktTVFUQk54N2x2RHZ3LTFpNlUzNjR5QmNnZGVOVzdFWlJkdVJ4RmFReE5EWFRJODVSSmVLRkFQcDFVbFR4TUdiMmNTSHdoU1JtVFBHckZRaVBIXzIyNW1SX0F6cU5zSlVGQmtlaUttYkdaMkxjQW1NTXg5?oc=5",
+    "published": "Sun, 12 Jul 2026 06:08:00 GMT",
+    "fetched_at": "2026-07-12 17:00:48",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "IT",
+      "제조업",
+      "소비재",
+      "금융"
+    ],
+    "keywords": [
+      "한국 경제",
+      "장기 성장",
+      "경제 전망",
+      "정체론",
+      "김용범"
+    ],
+    "reason": "전 경제부총리 발언으로, 한국 경제가 장기 저성장 국면을 벗어나 새로운 성장 추세선을 그릴 수 있다는 낙관적 전망을 제시하며 국내 기업 실적 개선 및 투자 심리 회복에 긍정적이다.",
+    "action_point": "국내 성장주 및 기술주 비중 확대 검토"
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "[자막뉴스] 트럼프 제대로 폭발하게 만든 이란... 최대 위기 맞은 미국의 선택 - YTN",
+    "title_ko": "[자막뉴스] 트럼프 제대로 폭발하게 만든 이란... 최대 위기 맞은 미국의 선택 - YTN",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3X3BPREtxY1U1SnF5UVJGZUFvWnNoSWxjVFpTcmlBWUw2MmdKNjBnaGNPTHRlV05XajJ2aVZXT2M0cDBUa3BzSE9RdThxWW84c1Fsa01vN1Ftd1B1QlE?oc=5",
+    "published": "Sun, 12 Jul 2026 02:02:00 GMT",
+    "fetched_at": "2026-07-12 17:00:57",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "방산",
+      "원자재"
+    ],
+    "keywords": [
+      "트럼프",
+      "이란",
+      "미국",
+      "지정학적 리스크",
+      "중동"
+    ],
+    "reason": "미국과 이란 간 지정학적 긴장 고조는 국제유가 변동성 확대 및 글로벌 시장의 위험 회피 심리를 자극하여 주식 시장에 부정적 영향을 미칠 수 있습니다.",
+    "action_point": "지정학적 리스크 확대에 따른 시장 변동성 대비하여 안전자산 비중 확대 검토 및 유가 관련 포트폴리오 점검."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "[다음주 경제] 하반기 경제 청사진 공개…고용·물가·금리 결정 줄줄이 - v.daum.net",
+    "title_ko": "[다음주 경제] 하반기 경제 청사진 공개…고용·물가·금리 결정 줄줄이",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5QMGZGTWc2c2EydHc4TnQwdXNwYkZhNV8zbHpybEZ6OVBnc3A5WFE3VndkNWpKTjc2aGNuNi1tTlBraXN0NWdTX3ByX3ozN0k?oc=5",
+    "published": "Sun, 12 Jul 2026 07:42:02 GMT",
+    "fetched_at": "2026-07-12 17:01:16",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "금융",
+      "부동산",
+      "건설",
+      "소비재",
+      "제조업"
+    ],
+    "keywords": [
+      "하반기 경제",
+      "경제 정책",
+      "금리",
+      "물가",
+      "고용"
+    ],
+    "reason": "다음 주 발표될 하반기 경제 정책 방향과 주요 경제 지표(고용, 물가) 및 금리 결정은 국내 통화/재정 정책의 방향성을 제시하며 시장의 금리, 물가, 경제 성장률 전망에 큰 영향을 미 미칠 것입니다.",
+    "action_point": "하반기 경제 청사진 발표를 앞두고 국내 경기 및 금리 민감 섹터(예: 금융, 건설, 성장주)의 포트폴리오 비중을 재검토하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "title": "“이게 다 한국 때문”…닛케이도 경고 나선 ‘삼전닉스 따블ETF’ 후폭풍",
+    "title_ko": "“이게 다 한국 때문”…닛케이도 경고 나선 ‘삼전닉스 따블ETF’ 후폭풍",
+    "link": "https://www.mk.co.kr/news/economy/12096451",
+    "published": "Sun, 12 Jul 2026 17:00:16 +09:00",
+    "fetched_at": "2026-07-12 17:01:53",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "반도체",
+      "자산운용"
+    ],
+    "keywords": [
+      "단일종목 레버리지 ETF",
+      "메모리 반도체",
+      "시장 변동성",
+      "닛케이",
+      "규제 위험"
+    ],
+    "reason": "한국의 단일종목 레버리지 ETF가 글로벌 메모리 반도체 시장의 변동성을 키우고 있다는 지적은 해당 상품 및 섹터에 대한 투자 위험을 부각시키고, 향후 규제 논의를 촉발할 수 있습니다.",
+    "action_point": "단일종목 레버리지 ETF의 투자 비중을 즉시 점검하고 축소를 검토하며, 반도체 섹터 내 구조적 변동성 확대에 대비하십시오."
+  },
+  {
+    "source": "Maeil_Business",
+    "title": "동해서 경비임무 하던 해군 승조원 실종…NLL 이북 표류 가능성도",
+    "title_ko": "동해서 경비임무 하던 해군 승조원 실종…NLL 이북 표류 가능성도",
+    "link": "https://www.mk.co.kr/news/politics/12096442",
+    "published": "Sun, 12 Jul 2026 16:36:51 +09:00",
+    "fetched_at": "2026-07-12 17:02:27",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "방산",
+      "전반적인 시장 심리"
+    ],
+    "keywords": [
+      "NLL",
+      "북한",
+      "실종",
+      "남북 관계",
+      "지정학적 리스크"
+    ],
+    "reason": "동해 NLL 인근에서 발생한 해군 승조원 실종 사건은 남북 간의 우발적 긴장 고조 가능성을 야기하며, 단기적인 지정학적 리스크를 소폭 증가시킬 수 있습니다.",
+    "action_point": "남북 관계 불안정성 재부각에 따른 원화 변동성 확대에 대비하여 달러 자산 보유를 통한 환율 헤지를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "Senator Lindsey Graham has died after a brief illness, his office says",
+    "title_ko": "린지 그레이엄 상원의원, 짧은 투병 끝에 사망",
+    "link": "https://www.cnbc.com/2026/07/12/senator-lindsey-graham-has-died-after-a-brief-illness-his-office-says.html",
+    "published": "Sun, 12 Jul 2026 07:57:36 GMT",
+    "fetched_at": "2026-07-12 17:00:33",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [],
+    "keywords": [
+      "미국 정치",
+      "상원의원",
+      "린지 그레이엄",
+      "사망"
+    ],
+    "reason": "린지 그레이엄 상원의원의 사망은 미국 정치권 소식이지만, 즉각적인 상원 권력 구도 변화나 주요 정책 결정에 직접적인 영향을 미칠 가능성은 낮아 금융 시장에 미치는 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "Maeil_Business",
+    "title": "[부동산 손플노트] 최상의 입지 공덕동 재개발, 학군지만 갖추면 딱인데…",
+    "title_ko": "[부동산 손플노트] 최상의 입지 공덕동 재개발, 학군지만 갖추면 딱인데…",
+    "link": "https://www.mk.co.kr/news/realestate/12096440",
+    "published": "Sun, 12 Jul 2026 16:36:30 +09:00",
+    "fetched_at": "2026-07-12 17:02:36",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "부동산"
+    ],
+    "keywords": [
+      "부동산",
+      "재개발",
+      "양극화",
+      "입지",
+      "공덕동"
+    ],
+    "reason": "서울 핵심 지역 부동산 시장의 양극화 심화와 최고 입지 선호 현상을 보여준다. 이는 우량 자산 선별 투자의 중요성을 부각시키며, 비우량 자산과의 가치 격차 확대를 시사한다.",
+    "action_point": "수도권 핵심 입지 우량 부동산 자산 비중 유지 및 선별적 추가 투자 기회 모색."
+  },
+  {
+    "source": "Maeil_Business",
+    "title": "[부동산 손자병법] \"강남4구로 불러주세요\"… 동작의 야심, 사당동 대변신 채비",
+    "title_ko": "[부동산 손자병법] \"강남4구로 불러주세요\"… 동작의 야심, 사당동 대변신 채비",
+    "link": "https://www.mk.co.kr/news/realestate/12096441",
+    "published": "Sun, 12 Jul 2026 16:36:30 +09:00",
+    "fetched_at": "2026-07-12 17:02:46",
+    "sentiment": "호재",
+    "importance": 2,
+    "sectors": [
+      "부동산",
+      "건설"
+    ],
+    "keywords": [
+      "부동산",
+      "서울",
+      "동작구",
+      "사당동",
+      "재개발",
+      "강남4구"
+    ],
+    "reason": "서울 동작구 사당동이 '강남 4구' 진입을 목표로 대규모 변신을 예고하고 있어, 해당 지역의 부동산 가치 상승 및 개발 기대감이 커질 것으로 예상됩니다.",
+    "action_point": "서울 동작구 사당동 일대 부동산 투자 기회 또는 보유 자산의 가치 재검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
     "title": "이란 호르무즈 재봉쇄 직후, 미군 이번 주 3번째 공습 ‘맞불’ - 한겨레",
     "title_ko": "이란 호르무즈 재봉쇄 직후, 미군 이번 주 3번째 공습 ‘맞불’",
     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Kb1dKdXhGX3pNLWwzVXR0YnZyWEV6S1hCNnZKeEZwZVE3X1pwaW1hX3VyMzAxWVFKaXRhZXZlaUVnQ1hYYkpCcEdKYTB0WHZXSm1zbFc0SVRQSjJsNDBoNUpzQlp5T1AwNWM1V2hDYTcxTk0?oc=5",
