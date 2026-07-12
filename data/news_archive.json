@@ -1,6 +1,78 @@
 [
   {
     "source": "GoogleNews_Korea",
+    "title": "[속보] 미군 \"군통수권자 지시로 이란 상대 추가 공습 개시\" - 연합뉴스TV",
+    "title_ko": "[속보] 미군 \"군통수권자 지시로 이란 상대 추가 공습 개시\" - 연합뉴스TV",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xeXB3cENpWUdGUkVFVmE1WVhudjk3S3J1c2ZJeFpTWVBLNVRRbFVVVTZsc3pjWUJRLTc0U2RjNjdfVUttOXRQdURnZnRfbzZSQUdhZGhGOEZseHFhU1hVZUVaNVI2U2s?oc=5",
+    "published": "Sun, 12 Jul 2026 21:21:00 GMT",
+    "fetched_at": "2026-07-13 06:40:02",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "에너지",
+      "방산",
+      "항공"
+    ],
+    "keywords": [
+      "미국",
+      "이란",
+      "공습",
+      "중동",
+      "지정학적 리스크",
+      "유가"
+    ],
+    "reason": "미국의 이란 추가 공습은 중동의 지정학적 긴장을 최고조로 끌어올려 국제유가 급등과 글로벌 시장의 위험 회피 심리를 강화할 것입니다. 이는 에너지 가격 상승 압력으로 작용하며, 항공 등 유가 민감 섹터에는 부정적 영향을 미칠 수 있습니다.",
+    "action_point": "에너지/방산 섹터 비중 확대 검토 및 위험자산 비중 축소를 고려하십시오."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "美 경제 전문가 \"경기 침체 우려 낮지만 고물가 위험 높아\" - 조선일보",
+    "title_ko": "美 경제 전문가 \"경기 침체 우려 낮지만 고물가 위험 높아\" - 조선일보",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQa3poUDZOOTFINUxZWkpBYk5oQjhSLW1wNFE4c3BidmgwaGMtZmlQTUlHNk5pN0h0bFI1TjZqaEFsOXBzbDZKaFFCSGROeDJXZFpCRVpuQ2JFdFlka1RkeGhtNC03X3Y0b1J4N2U1UzdPT2xVOXozd1N4V2Y1Z3J2QXJMalpTeE44aGIxdVVhczV5dHJKZy1EVVh5X0QyQQ?oc=5",
+    "published": "Sun, 12 Jul 2026 20:16:00 GMT",
+    "fetched_at": "2026-07-13 06:39:55",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "성장주",
+      "부동산",
+      "금융",
+      "원자재"
+    ],
+    "keywords": [
+      "미국 경제",
+      "경기 침체",
+      "고물가",
+      "금리",
+      "연준"
+    ],
+    "reason": "미국 경제가 침체는 피하지만 고물가가 지속될 수 있다는 전망은 연준의 긴축 장기화 가능성을 높여 주식, 부동산 등 위험 자산에 부담으로 작용하고 금리 상승 압력을 가중시킬 것입니다.",
+    "action_point": "고금리 장기화 가능성에 대비하여 성장주 비중 축소 및 방어적 가치주로의 비중 조정을 검토하십시오."
+  },
+  {
+    "source": "Maeil_Business",
+    "title": "“머스크가 제일 싫습니다”…머스크 묻은 기업 다 뺀다는 이 ETF",
+    "title_ko": "“머스크가 제일 싫습니다”…머스크 묻은 기업 다 뺀다는 이 ETF",
+    "link": "https://www.mk.co.kr/news/stock/12096668",
+    "published": "Mon, 13 Jul 2026 06:30:31 +09:00",
+    "fetched_at": "2026-07-13 06:40:24",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "전기차",
+      "기술주"
+    ],
+    "keywords": [
+      "일론 머스크",
+      "ETF",
+      "테슬라",
+      "테마 투자"
+    ],
+    "reason": "일론 머스크 관련 기업을 배제하는 테마형 ETF의 등장은 특정 투자자층의 ESG/테마 투자 선호 변화를 보여주며, 테슬라 등 관련 기업에 대한 미미한 투자 심리 영향 외 거시적 파급력은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "GoogleNews_Korea",
     "title": "트럼프 “미사일 1000발 장전” 이란 “호르무즈 봉쇄”… 휴전중단 위기 - 동아일보",
     "title_ko": "트럼프 “미사일 1000발 장전” 이란 “호르무즈 봉쇄”… 휴전중단 위기 - 동아일보",
     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1MX3FnSDBzc0MyYlp2c3FMQnEyRHJ6WjNKcGd1Z2s4eGY2aFphT05iZ2NBekhldlZ6WFJMY2xuWHhpazNjUFFzakxGcGhmenhIUHlEMkw3dW4xQzJUZ0MxX29JbzRqTmpiMklOU2M0ZzZ0UmvSAWZBVV95cUxQdVpDQmFYVzZmcVM4bFJCZVB0Y1FMWTFDWEVuQnkzZDJzVEd5aVE0TG5yWnRYU2c5Ri1ERDZGMGpTeUlIU0dScFluZ3c1Q01JRW9TMlZWTzd5RnREMzZ5MlBrajl4U3c?oc=5",
