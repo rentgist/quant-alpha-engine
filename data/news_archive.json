@@ -1,6 +1,100 @@
 [
   {
     "source": "GoogleNews_Korea",
+    "title": "김용범 \"한국경제, 장기 추세 변화 초기 국면\" - 연합뉴스TV",
+    "title_ko": "김용범 \"한국경제, 장기 추세 변화 초기 국면\"",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90RFRnckxHOGw0bU04eXhjc0h6UVBjNlVsVmVra3BMNFBUQmRlREVPaDJMZ2pBU0NaczZzYUNORUwzMC1KWU14cFpaRGtKckdDTmhYLTY0TUhXTHZtQVB4NHloYkEzeW8?oc=5",
+    "published": "Sun, 12 Jul 2026 09:20:00 GMT",
+    "fetched_at": "2026-07-13 00:51:23",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "전반적 경제",
+      "주요 산업",
+      "수출 기업"
+    ],
+    "keywords": [
+      "한국경제",
+      "장기 추세 변화",
+      "구조 변화",
+      "김용범",
+      "경제 전망"
+    ],
+    "reason": "김용범 전 기재부 차관의 발언은 한국 경제가 장기적인 구조적 변화 국면에 진입하고 있음을 시사하며, 이는 기존 성장 동력 약화 및 새로운 성장 모델 모색의 필요성을 강조하여 전반적인 경제 불확실성을 높일 수 있습니다.",
+    "action_point": "한국 경제의 장기 성장 동력 변화에 대응하여 포트폴리오 내 신성장 산업 비중 확대 및 글로벌 분산 투자 강화 검토."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "Earnings playbook: Reporting season gets underway with JPMorgan Chase, Netflix on deck",
+    "title_ko": "어닝 플레이북: JP모건 체이스, 넷플릭스 등 실적 발표 시즌 개막",
+    "link": "https://www.cnbc.com/2026/07/12/earnings-playbook-reporting-season-starts-with-jpmorgan-chase-netflix.html",
+    "published": "Sun, 12 Jul 2026 12:02:15 GMT",
+    "fetched_at": "2026-07-13 00:50:59",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "금융",
+      "미디어/엔터테인먼트",
+      "기술"
+    ],
+    "keywords": [
+      "실적 발표",
+      "어닝 시즌",
+      "S&P 500",
+      "기업 가치"
+    ],
+    "reason": "기업들의 실적은 개별 주가 및 섹터 흐름에 직접적인 영향을 미치며, 거시 경제의 건전성을 가늠하는 중요한 지표가 된다. 투자자들은 실적 발표를 통해 기업 펀더멘털과 시장 전반의 방향성을 파악할 수 있다.",
+    "action_point": "실적 발표 기업의 펀더멘털 및 향후 가이던스 변화를 면밀히 분석하여 포트폴리오 비중을 조정할 준비를 하라."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "Majority of U.S. workers support an AI wealth fund as tech layoffs surge, survey finds",
+    "title_ko": "미국 근로자 대다수, 기술 해고 증가 속 AI 국부 펀드 지지",
+    "link": "https://www.cnbc.com/2026/07/12/majority-of-us-workers-support-ai-fund-amid-tech-layoffs-survey.html",
+    "published": "Sun, 12 Jul 2026 12:27:55 GMT",
+    "fetched_at": "2026-07-13 00:51:10",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "기술"
+    ],
+    "keywords": [
+      "AI",
+      "기술 해고",
+      "국부 펀드",
+      "미국 노동 시장"
+    ],
+    "reason": "미국 근로자들의 AI 국부 펀드 지지 여론은 기술 발전으로 인한 고용 불안정과 기업 책임론이 부상하고 있음을 보여준다. 이는 장기적으로 AI 산업에 대한 규제 강화나 이익 재분배 압력으로 이어질 수 있는 정책적 리스크를 내포한다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "Maeil_Business",
+    "title": "코스피·개미계좌 망쳤다는 삼전닉스 2배ETF…해법 있다는데",
+    "title_ko": "코스피·개미계좌 망쳤다는 삼전닉스 2배ETF…해법 있다는데",
+    "link": "https://www.mk.co.kr/news/stock/12096637",
+    "published": "Sun, 12 Jul 2026 20:33:49 +09:00",
+    "fetched_at": "2026-07-13 00:51:40",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "증권/금융",
+      "반도체",
+      "개인 투자"
+    ],
+    "keywords": [
+      "ETF",
+      "레버리지",
+      "인버스",
+      "코스피",
+      "변동성",
+      "개인투자자",
+      "반도체"
+    ],
+    "reason": "코스피의 높은 변동성 속 레버리지/인버스 ETF 거래량 급증은 개인 투자자의 손실 확대로 이어질 수 있으며, 이는 시장의 투기적 성격을 강화하고 추가적인 변동성을 유발할 수 있습니다.",
+    "action_point": "고변동성 장세 속 레버리지/인버스 ETF 등 고위험 파생상품 투자를 지양하고 안정적 자산 배분을 유지하십시오."
+  },
+  {
+    "source": "GoogleNews_Korea",
     "title": "김용범 \"韓경제, 단순 경기회복 아닌 장기추세 변화 초기 국면\" - 연합뉴스",
     "title_ko": "김용범 \"韓경제, 단순 경기회복 아닌 장기추세 변화 초기 국면\" - 연합뉴스",
     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFRFFsekN0S0xLRzl6a0o1bnppbEYzY3p0NlhwOUtUQzM2MVJBMUNsdkUwNkJtSkdza3o3NndyRDA0cHpLUUlYSTQwMkxMMm8weWQ0NFBfUFd6V2M?oc=5",
