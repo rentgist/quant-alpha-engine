@@ -1,5 +1,26 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "title": "김용범 \"韓경제, 단순 경기회복 아닌 장기추세 변화 초기 국면\" - 연합뉴스",
+    "title_ko": "김용범 \"韓경제, 단순 경기회복 아닌 장기추세 변화 초기 국면\" - 연합뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFRFFsekN0S0xLRzl6a0o1bnppbEYzY3p0NlhwOUtUQzM2MVJBMUNsdkUwNkJtSkdza3o3NndyRDA0cHpLUUlYSTQwMkxMMm8weWQ0NFBfUFd6V2M?oc=5",
+    "published": "Sun, 12 Jul 2026 06:24:42 GMT",
+    "fetched_at": "2026-07-12 23:25:16",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "한국 경제 전반",
+      "국내 주식 시장"
+    ],
+    "keywords": [
+      "한국경제",
+      "장기추세변화",
+      "경기회복"
+    ],
+    "reason": "전직 고위 경제 관료의 발언으로, 한국 경제의 현 회복세가 일시적 현상이 아닌 구조적인 장기 추세 변화의 시작이라는 긍정적인 전망을 제시한다. 이는 국내 기업 실적 및 투자 심리에 긍정적 영향을 미쳐 국내 자산 시장 전반에 대한 낙관적 시각을 강화할 수 있다.",
+    "action_point": "한국 증시 비중 확대 또는 유지 전략을 검토하고, 국내 성장주 및 가치주에 대한 투자 기회를 모색하라."
+  },
+  {
     "source": "CNBC_Finance",
     "title": "Goldman Sachs picks its favorite Chinese AI models",
     "title_ko": "골드만삭스, 선호하는 중국 AI 모델 선정",
