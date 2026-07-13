@@ -1,6 +1,30 @@
 [
   {
     "source": "CNBC_Finance",
+    "title": "Stocks making the biggest moves midday: Nio, Braiin, AppLovin, SpaceX, SK Hynix & more",
+    "title_ko": "장중 가장 크게 움직인 종목들: 니오, 브레인, 앱러빈, 스페이스X, SK하이닉스 등",
+    "link": "https://www.cnbc.com/2026/07/13/stocks-making-the-biggest-moves-midday-nio-brai-app-spcx-skhy.html",
+    "published": "Mon, 13 Jul 2026 16:21:26 GMT",
+    "fetched_at": "2026-07-14 05:50:36",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "반도체",
+      "전기차",
+      "우주항공",
+      "IT 서비스"
+    ],
+    "keywords": [
+      "장중 특징주",
+      "SK하이닉스",
+      "미국 증시",
+      "테크 섹터"
+    ],
+    "reason": "미국 장중 테크 및 모빌리티 개별 기업들의 주가 변동성 확대로, 국내 반도체 대장주인 SK하이닉스를 비롯한 관련 IT 섹터의 투자 심리에 단기적 영향을 미칠 수 있습니다.",
+    "action_point": "SK하이닉스 변동성 확대 시 반도체 포트폴리오의 분할 매수 기회로 활용."
+  },
+  {
+    "source": "CNBC_Finance",
     "title": "Big banks poised to report booming revenue propelled by SpaceX IPO, Iran war volatility",
     "title_ko": "대형 은행들, SpaceX IPO 및 이란 전쟁 변동성에 힘입어 수익 급증 보고할 전망",
     "link": "https://www.cnbc.com/2026/07/13/bank-earnings-jpmorgan-chase-goldman-sachs-bank-of-america.html",
