@@ -1,6 +1,124 @@
 [
   {
     "source": "CNBC_World",
+    "title": "India's inflation accelerates to 4.38% in June, exceeding forecasts",
+    "title_ko": "인도 6월 인플레이션 4.38%로 가속화, 예상치 상회",
+    "link": "https://www.cnbc.com/2026/07/13/india-june-inflation-oil-food-iran-war.html",
+    "published": "Mon, 13 Jul 2026 10:56:52 GMT",
+    "fetched_at": "2026-07-13 20:53:09",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "농업/식품",
+      "신흥국 금융",
+      "소비재"
+    ],
+    "keywords": [
+      "인도 인플레이션",
+      "물가상승",
+      "식량 가격",
+      "에너지 가격",
+      "이란 전쟁",
+      "가뭄",
+      "금리인상 압력"
+    ],
+    "reason": "인도 물가 상승은 글로벌 인플레이션 압력을 가중시키고 신흥국 통화 정책에 긴축 기조를 유발할 수 있습니다. 이는 전반적인 투자 심리 위축 및 원자재 가격 상승으로 이어질 가능성이 있습니다.",
+    "action_point": "글로벌 인플레이션 압력 증대 및 원자재 가격 상승 가능성에 대비하여 원자재 관련 투자 비중을 검토하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "title": "“삼전닉스 결말은 오징어게임?”…시장 공포 부른 반도체 피크아웃론 점검 [목대균의 글로벌 인사이트]",
+    "title_ko": "“삼전닉스 결말은 오징어게임?”…시장 공포 부른 반도체 피크아웃론 점검 [목대균의 글로벌 인사이트]",
+    "link": "https://www.mk.co.kr/news/business/12097614",
+    "published": "Mon, 13 Jul 2026 20:16:33 +09:00",
+    "fetched_at": "2026-07-13 20:53:59",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "반도체",
+      "IT 하드웨어",
+      "기술주"
+    ],
+    "keywords": [
+      "반도체",
+      "피크아웃",
+      "삼성전자",
+      "SK하이닉스",
+      "한국 증시"
+    ],
+    "reason": "월스트리트저널이 한국 증시의 핵심인 반도체 섹터에 대한 '피크아웃론'을 제기하며 시장에 단기적인 수급 불안과 장기적인 산업 전망에 대한 우려를 확산시키고 있습니다.",
+    "action_point": "반도체 섹터 비중 축소 검토"
+  },
+  {
+    "source": "CNBC_Finance",
+    "title": "Kalshi launches 'Pro' product for users trading multiple markets at same time, perpetual futures",
+    "title_ko": "칼시, 동시 다중 시장 및 무기한 선물 거래자를 위한 'Pro' 제품 출시",
+    "link": "https://www.cnbc.com/2026/07/13/kalshi-launches-pro-product-for-users-trading-multiple-markets-at-same-time-perpetual-futures.html",
+    "published": "Mon, 13 Jul 2026 11:36:00 GMT",
+    "fetched_at": "2026-07-13 20:52:45",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "핀테크"
+    ],
+    "keywords": [
+      "칼시",
+      "무기한 선물",
+      "거래 플랫폼"
+    ],
+    "reason": "칼시의 신규 'Pro' 제품 출시는 특정 파생상품 및 예측 시장 트레이더를 위한 기능 개선으로, 핀테크 섹터 내 개별 기업의 서비스 확장에 해당하며 거시경제나 주요 자산 시장에 미치는 영향은 거의 없습니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_Finance",
+    "title": "Stocks making the biggest moves premarket: SK Hynix, Micron, MGM Resorts & more",
+    "title_ko": "개장 전 가장 큰 움직임을 보이는 주식들: SK하이닉스, 마이크론, MGM 리조트 외",
+    "link": "https://www.cnbc.com/2026/07/13/stocks-making-the-biggest-moves-premarket-skhy-mu-mgm.html",
+    "published": "Mon, 13 Jul 2026 11:41:54 GMT",
+    "fetched_at": "2026-07-13 20:52:52",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "반도체",
+      "레저/카지노"
+    ],
+    "keywords": [
+      "SK하이닉스",
+      "마이크론",
+      "MGM 리조트",
+      "개장 전 움직임",
+      "주식"
+    ],
+    "reason": "이 기사는 개장 전 특정 종목들의 주가 움직임을 단순 보도하는 것으로, 해당 움직임의 배경이나 시장 전반에 미칠 거시적 영향에 대한 정보는 부재합니다. 따라서 이 뉴스 자체만으로는 직접적인 시장 또는 매크로 영향 분석이 어렵습니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "Maeil_Business",
+    "title": "“감옥도 이 정도는 아닙니다”…정신병동 55% 창문 하나 없었다",
+    "title_ko": "“감옥도 이 정도는 아닙니다”…정신병동 55% 창문 하나 없었다",
+    "link": "https://www.mk.co.kr/news/society/12097632",
+    "published": "Mon, 13 Jul 2026 20:26:29 +09:00",
+    "fetched_at": "2026-07-13 20:53:53",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "의료기관",
+      "건설",
+      "정신건강 서비스"
+    ],
+    "keywords": [
+      "정신병동",
+      "인권",
+      "의료시설",
+      "규제",
+      "건축 기준"
+    ],
+    "reason": "국내 정신의료기관의 열악한 환경이 드러나 향후 시설 개선 관련 규제 강화 및 투자를 유발할 수 있으나, 거시 경제 및 주요 자산 시장에 미치는 직접적인 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
     "title": "U.S. and Iran exchange strikes as Strait of Hormuz standoff escalates",
     "title_ko": "미국과 이란, 호르무즈 해협 대치 격화 속 공격 주고받아",
     "link": "https://www.cnbc.com/2026/07/13/us-iran-war-hormuz-oil-trump.html",
