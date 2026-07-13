@@ -1,5 +1,52 @@
 [
   {
+    "source": "CNBC_Finance",
+    "title": "Big banks poised to report booming revenue propelled by SpaceX IPO, Iran war volatility",
+    "title_ko": "대형 은행들, SpaceX IPO 및 이란 전쟁 변동성에 힘입어 수익 급증 보고할 전망",
+    "link": "https://www.cnbc.com/2026/07/13/bank-earnings-jpmorgan-chase-goldman-sachs-bank-of-america.html",
+    "published": "Mon, 13 Jul 2026 13:19:24 GMT",
+    "fetched_at": "2026-07-13 23:07:06",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "금융"
+    ],
+    "keywords": [
+      "대형 은행",
+      "수익 급증",
+      "SpaceX IPO",
+      "이란 전쟁",
+      "시장 변동성"
+    ],
+    "reason": "이 뉴스는 글로벌 대형 은행들이 높은 시장 변동성과 활발한 자본 시장 활동(IPO), 그리고 상업 대출 회복을 통해 견조한 수익을 창출하고 있음을 보여줍니다. 이는 금융 섹터의 긍정적인 전망을 시사합니다.",
+    "action_point": "글로벌 대형 은행들의 견조한 수익성을 고려하여 금융 섹터의 포트폴리오 비중 확대를 검토하십시오."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "UK strikes landmark trade deal with Switzerland for crucial services sector",
+    "title_ko": "영국, 스위스와 핵심 서비스 부문 획기적인 무역 협정 체결",
+    "link": "https://www.cnbc.com/2026/07/13/uk-switzerland-free-trade-deal-brexit.html",
+    "published": "Mon, 13 Jul 2026 14:06:13 GMT",
+    "fetched_at": "2026-07-13 23:07:21",
+    "sentiment": "호재",
+    "importance": 2,
+    "sectors": [
+      "서비스업",
+      "수출 관련 산업",
+      "금융 서비스업"
+    ],
+    "keywords": [
+      "영국",
+      "스위스",
+      "자유무역협정",
+      "서비스 무역",
+      "수출",
+      "브렉시트"
+    ],
+    "reason": "영국의 브렉시트 이후 서비스 산업 경쟁력 강화에 기여하며 파운드화에 미약한 긍정적 영향을 줄 수 있으나, 글로벌 매크로 시장 전체에 미치는 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "CNBC_World",
     "title": "India's inflation accelerates to 4.38% in June, exceeding forecasts",
     "title_ko": "인도 6월 인플레이션 4.38%로 가속화, 예상치 상회",
