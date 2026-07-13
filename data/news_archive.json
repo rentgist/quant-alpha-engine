@@ -1,6 +1,270 @@
 [
   {
     "source": "CNBC_World",
+    "title": "U.S. and Iran exchange strikes as Strait of Hormuz standoff escalates",
+    "title_ko": "미국과 이란, 호르무즈 해협 대치 격화 속 공격 주고받아",
+    "link": "https://www.cnbc.com/2026/07/13/us-iran-war-hormuz-oil-trump.html",
+    "published": "Mon, 13 Jul 2026 07:18:34 GMT",
+    "fetched_at": "2026-07-13 17:50:04",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "에너지",
+      "방산",
+      "해운",
+      "항공",
+      "원자재"
+    ],
+    "keywords": [
+      "미국",
+      "이란",
+      "호르무즈 해협",
+      "군사 충돌",
+      "지정학적 리스크",
+      "유가"
+    ],
+    "reason": "호르무즈 해협을 둘러싼 미국과 이란의 군사 충돌 격화는 지정학적 리스크를 크게 높인다. 이는 글로벌 유가 급등과 금융 시장 전반의 위험 회피 심리 확대로 이어질 것이다.",
+    "action_point": "원유 가격 상승 및 지정학적 리스크 고조에 대비하여 에너지 및 방산 관련 자산 비중을 확대하고, 안전자산(달러, 금) 보유를 강화하라."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "TSMC, the world's largest contract chipmaker, reports 68% surge in June revenue",
+    "title_ko": "세계 최대 파운드리 TSMC, 6월 매출 68% 급증 보고",
+    "link": "https://www.cnbc.com/2026/07/13/tsmc-june-revenue-rises-percent-ahead-second-quarter.html",
+    "published": "Mon, 13 Jul 2026 07:29:26 GMT",
+    "fetched_at": "2026-07-13 17:49:56",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "반도체",
+      "기술주",
+      "IT하드웨어"
+    ],
+    "keywords": [
+      "TSMC",
+      "파운드리",
+      "반도체",
+      "매출",
+      "AI"
+    ],
+    "reason": "TSMC의 높은 매출 증가는 글로벌 반도체 수요, 특히 AI 및 고성능 컴퓨팅 칩 수요가 견조함을 시사한다. 이는 전반적인 기술 섹터의 성장 모멘텀을 강화할 수 있다.",
+    "action_point": "반도체 및 AI 관련 기술주 포트폴리오 비중 확대를 긍정적으로 검토"
+  },
+  {
+    "source": "CNBC_World",
+    "title": "CNBC Daily Open: Chips ahoy, no Strait answer and earnings on deck",
+    "title_ko": "CNBC 데일리 오픈: 반도체 주식 하락, 해협 긴장, 실적 발표 대기",
+    "link": "https://www.cnbc.com/2026/07/13/cnbc-daily-open-chips-ahoy-no-strait-answer-and-earnings-on-deck.html",
+    "published": "Mon, 13 Jul 2026 06:06:56 GMT",
+    "fetched_at": "2026-07-13 17:50:23",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "반도체",
+      "IT",
+      "기술주",
+      "수출"
+    ],
+    "keywords": [
+      "SK하이닉스",
+      "반도체",
+      "기술주",
+      "글로벌 증시",
+      "투자 심리"
+    ],
+    "reason": "SK하이닉스의 급락은 글로벌 반도체 업황 둔화 우려를 재점화하며 아시아를 넘어 유럽 및 미국 선물 시장까지 부정적인 투자 심리를 확산시키고 있습니다. 이는 한국을 비롯한 주요국 기술주 전반에 대한 투자 심리 위축으로 이어질 수 있습니다.",
+    "action_point": "반도체 및 IT 기술주 섹터의 비중 축소를 검토하고, 관련 기업의 실적 발표를 주시하십시오."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "[마감] 코스피, 반도체 ’피크아웃’·중동 리스크에 7000선 붕괴 By 알파경제 alphabiz - Investing.com 한국어",
+    "title_ko": "[마감] 코스피, 반도체 ’피크아웃’·중동 리스크에 7000선 붕괴",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE94dnhqRFdJS1N5RnkzeXlrQ3dzWHdDcmtaSXlVZUlCcWUyNGRwdWI0VmRKNklKWHZxb2F2NkNTLUtkM3h4M0lmc3BkTVk5aGtaaE5BWWhkY3A1MzJrODFPSHdDamJqZ2VKVE9iOU1vSTQ?oc=5",
+    "published": "Mon, 13 Jul 2026 08:16:00 GMT",
+    "fetched_at": "2026-07-13 17:50:40",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "반도체",
+      "기술주",
+      "에너지",
+      "증시 전반"
+    ],
+    "keywords": [
+      "코스피",
+      "반도체",
+      "피크아웃",
+      "중동 리스크",
+      "증시 하락"
+    ],
+    "reason": "코스피가 핵심 수출 동력인 반도체 업황의 정점 통과 우려와 중동 지역의 지정학적 리스크 확대로 인해 크게 하락했습니다. 이는 국내 증시 전반에 투자 심리를 위축시키고 주요 섹터의 실적 전망에 부정적 영향을 미칠 것입니다.",
+    "action_point": "반도체 섹터 비중 축소를 적극 검토하고, 지정학적 위험 고조에 대비해 포트폴리오의 방어적 자산 비중을 늘려라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "푸틴, 트럼프 닮은 듯 다른 행보…\"전쟁에 발목\" - v.daum.net",
+    "title_ko": "푸틴, 트럼프 닮은 듯 다른 행보…\"전쟁에 발목\"",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9oQ3QtM0xTY20waWp2VUtjX0piNkg2d01xakZ0RDFIbnVJTlVzaHp3RHdJZ0xOZEhXcmItNlJ5cWRLWWk4dENSd05hYzA0dUU?oc=5",
+    "published": "Mon, 13 Jul 2026 07:45:09 GMT",
+    "fetched_at": "2026-07-13 17:50:57",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "방산",
+      "글로벌 시장"
+    ],
+    "keywords": [
+      "푸틴",
+      "트럼프",
+      "전쟁",
+      "지정학",
+      "러시아",
+      "우크라이나"
+    ],
+    "reason": "푸틴의 행보가 전쟁으로 인해 제약받고 있다는 내용은 우크라이나 전쟁의 장기화 가능성을 시사하며, 이는 글로벌 지정학적 불확실성을 유지하고 에너지 및 원자재 시장에 지속적인 영향을 미칠 수 있습니다.",
+    "action_point": "에너지 및 방산 섹터에 대한 관심 유지 및 지정학적 리스크 헤지 수단 검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "호르무즈 긴장에 국제유가 4% 급등 - 연합뉴스",
+    "title_ko": "호르무즈 긴장에 국제유가 4% 급등 - 연합뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ZZVZmUnR5RGQ2Q3ZfUk81eDVoMUxNSm00NXZXMW5YUTdaSmZZYnUtQUwydWtWTXIybktRZGw2ZGJFcFFrNTFKelRoenAyUk9JZUxVUmJPRkRDaWM0WUNUMtIBYEFVX3lxTE5ZZVZmUnR5RGQ2Q3ZfUk81eDVoMUxNSm00NXZXMW5YUTdaSmZZYnUtQUwydWtWTXIybktRZGw2ZGJFcFFrNTFKelRoenAyUk9JZUxVUmJPRkRDaWM0WUNUMg?oc=5",
+    "published": "Mon, 13 Jul 2026 05:55:53 GMT",
+    "fetched_at": "2026-07-13 17:51:04",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "항공",
+      "해운",
+      "석유화학",
+      "운송"
+    ],
+    "keywords": [
+      "호르무즈 해협",
+      "국제유가",
+      "지정학적 리스크",
+      "인플레이션"
+    ],
+    "reason": "호르무즈 해협 긴장 고조는 국제유가 상승을 유발하여 한국과 같은 원유 순수입국에 인플레이션 압력과 무역수지 악화를 초래, 기업 비용 증가 및 소비 위축 가능성이 있다.",
+    "action_point": "유가 민감 섹터(항공, 해운, 석유화학 등)의 비중 축소를 검토하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "title": "빚투·레버리지 뛰어들었는데 …'강심장 개미들' 패닉",
+    "title_ko": "빚투·레버리지 뛰어들었는데 …'강심장 개미들' 패닉",
+    "link": "https://www.mk.co.kr/news/stock/12097465",
+    "published": "Mon, 13 Jul 2026 17:49:40 +09:00",
+    "fetched_at": "2026-07-13 17:51:18",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "반도체",
+      "증권"
+    ],
+    "keywords": [
+      "빚투",
+      "신용융자",
+      "개미투자자",
+      "코스피",
+      "대형주",
+      "반도체",
+      "패닉셀링"
+    ],
+    "reason": "코스피 대형주, 특히 반도체 섹터의 급락으로 빚투 개미들의 손실 우려가 커져 추가적인 신용융자 반대매매로 이어질 경우 시장 전체의 하방 압력이 확대될 수 있다.",
+    "action_point": "반도체 섹터 비중 축소 검토"
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "국민연금, 외국인 비싸게 팔고 나갈 기회만 줬다[경제 인사이트] - 아시아경제",
+    "title_ko": "국민연금, 외국인 비싸게 팔고 나갈 기회만 줬다[경제 인사이트]",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9zT0cxSTBpQWEyZ1h3RW9lNHA4dTBycV9vYTBoYmJyMURrRWFoMEYtR1NyQU1SVlFwRWY1OVlFRzdBcF9YMWVQdDlIdXh2a1Fpa05pVUlRSEVFbXZRMngtcg?oc=5",
+    "published": "Sun, 12 Jul 2026 22:21:41 GMT",
+    "fetched_at": "2026-07-13 17:50:51",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "국내 주식 시장",
+      "기관 투자"
+    ],
+    "keywords": [
+      "국민연금",
+      "외국인 투자",
+      "주식 매도"
+    ],
+    "reason": "국민연금의 국내 투자 전략에 대한 비판적 시각을 제시하며, 외국인 투자자들의 국내 주식 고가 매도를 용이하게 했다는 주장은 향후 연기금의 국내 주식 시장 운용 방식 변화 가능성을 시사합니다.",
+    "action_point": "국민연금 등 국내 기관 투자자 수급 패턴 변화 가능성에 대비하여 국내 대형주 비중 조정 검토."
+  },
+  {
+    "source": "Maeil_Business",
+    "title": "9·7 대책 여파 … 애꿎은 전세대출이 막혔다",
+    "title_ko": "9·7 대책 여파 … 애꿎은 전세대출이 막혔다",
+    "link": "https://www.mk.co.kr/news/economy/12097461",
+    "published": "Mon, 13 Jul 2026 17:48:19 +09:00",
+    "fetched_at": "2026-07-13 17:51:28",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "부동산",
+      "금융"
+    ],
+    "keywords": [
+      "전세대출",
+      "대출 규제",
+      "주택시장"
+    ],
+    "reason": "정부의 대출 규제가 전세대출 공급을 위축시켜 서민 주거 안정성을 저해하고 부동산 시장의 유동성을 감소시킬 수 있습니다. 이는 전세수요 위축 및 월세 전환 가속화를 유발할 수 있습니다.",
+    "action_point": "전세 의존도가 높은 주거용 부동산 투자 비중 축소를 검토하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "title": "규제 없는 P2P로 몰렸다…개인신용대출 1년새 10배 쑥",
+    "title_ko": "규제 없는 P2P로 몰렸다…개인신용대출 1년새 10배 쑥",
+    "link": "https://www.mk.co.kr/news/economy/12097460",
+    "published": "Mon, 13 Jul 2026 17:48:18 +09:00",
+    "fetched_at": "2026-07-13 17:51:36",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "금융",
+      "핀테크"
+    ],
+    "keywords": [
+      "P2P금융",
+      "온라인투자연계금융업",
+      "가계대출",
+      "개인신용대출",
+      "규제회피"
+    ],
+    "reason": "정부 규제 강화의 풍선효과로 P2P 대출이 급증하며 가계 부채의 질적 악화 우려와 함께 금융 시스템 내 잠재적 위험 증가를 시사합니다.",
+    "action_point": "규제 불확실성이 높은 P2P/온투업 관련 투자 비중을 축소하고, 전통 금융기관의 대출 건전성 지표를 주시하라."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "Europe's Anduril rival Helsing raises $1.8 billion at $18 billion valuation",
+    "title_ko": "유럽의 Anduril 경쟁사 헬싱, 180억 달러 가치로 18억 달러 투자 유치",
+    "link": "https://www.cnbc.com/2026/07/13/helsing-fund-raise-defense-18-billion.html",
+    "published": "Mon, 13 Jul 2026 08:13:46 GMT",
+    "fetched_at": "2026-07-13 17:50:16",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "방위 산업",
+      "기술 섹터",
+      "스타트업 투자"
+    ],
+    "keywords": [
+      "헬싱",
+      "방위 기술",
+      "스타트업 투자",
+      "유럽 기술",
+      "벤처 투자"
+    ],
+    "reason": "유럽 방위 기술 스타트업 헬싱의 대규모 투자 유치는 해당 섹터에 대한 투자 심리가 강함을 보여줍니다. 이는 지정학적 불안정 속에서 첨단 방위 기술의 중요성이 부각되고 있음을 시사하며, 관련 기술 기업들의 가치 재평가에 긍정적 영향을 미칠 수 있습니다.",
+    "action_point": "방위 산업 기술 관련 상장 기업들의 투자 매력도를 재검토하고, 관련 ETF나 펀드 편입을 고려하라."
+  },
+  {
+    "source": "CNBC_World",
     "title": "Stock futures slip after U.S., Iran exchange airstrikes again; Kospi plunges 7%: Live updates",
     "title_ko": "미국-이란 공습 재개 후 주가지수 선물 하락; 코스피 7% 급락: 실시간 업데이트",
     "link": "https://www.cnbc.com/2026/07/12/stock-market-today-live-updates.html",
