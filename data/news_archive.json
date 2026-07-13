@@ -1,6 +1,54 @@
 [
   {
     "source": "CNBC_Finance",
+    "title": "A July rate hike from the Fed? The odds are rising",
+    "title_ko": "연준의 7월 금리 인상? 그 확률이 높아지고 있다",
+    "link": "https://www.cnbc.com/2026/07/13/-a-july-rate-hike-from-the-fed-the-odds-are-rising.html",
+    "published": "Mon, 13 Jul 2026 17:07:51 GMT",
+    "fetched_at": "2026-07-14 07:46:01",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "채권",
+      "원자재",
+      "글로벌 금융"
+    ],
+    "keywords": [
+      "연방준비제도",
+      "금리인상",
+      "국제유가",
+      "호르무즈 해협",
+      "지정학적 리스크"
+    ],
+    "reason": "호르무즈 해협의 지정학적 불안으로 유가가 급등하면서 인플레이션 압력이 다시 커졌고, 이로 인해 연준이 7월에 추가 금리 인상에 나설 확률이 높아져 자산시장 전반에 긴축 부담을 주고 있습니다.",
+    "action_point": "채권 포트폴리오의 듀레이션을 축소하고 에너지 및 원유 관련 자산의 비중을 확대하라."
+  },
+  {
+    "source": "CNBC_Finance",
+    "title": "Waller says Fed shouldn't 'fight the last war' on inflation but warns hikes still possible",
+    "title_ko": "월러 연준 이사 '인플레이션과의 지난 전쟁에 집착해선 안 되지만, 추가 금리 인상 가능성도 열려 있어'",
+    "link": "https://www.cnbc.com/2026/07/13/waller-says-fed-shouldnt-fight-the-last-war-on-inflation-but-warns-hikes-still-possible.html",
+    "published": "Mon, 13 Jul 2026 19:15:25 GMT",
+    "fetched_at": "2026-07-14 07:46:33",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "채권",
+      "외환(달러)",
+      "대형 기술주"
+    ],
+    "keywords": [
+      "연방준비제도",
+      "크리스토퍼 월러",
+      "인플레이션",
+      "금리 인상"
+    ],
+    "reason": "연준 내 영향력 있는 인사인 월러 이사가 인플레이션의 광범위한 확산을 경고하며 금리 인상 가능성을 열어둠에 따라, 시장의 금리 인하 기대가 후퇴하고 국채 금리 상승 압력이 커질 수 있습니다.",
+    "action_point": "미국 장기국채 비중을 축소하고 고금리 달러 현금성 자산의 비중을 확대하라."
+  },
+  {
+    "source": "CNBC_Finance",
     "title": "Stocks making the biggest moves midday: Nio, Braiin, AppLovin, SpaceX, SK Hynix & more",
     "title_ko": "장중 가장 크게 움직인 종목들: 니오, 브레인, 앱러빈, 스페이스X, SK하이닉스 등",
     "link": "https://www.cnbc.com/2026/07/13/stocks-making-the-biggest-moves-midday-nio-brai-app-spcx-skhy.html",
