@@ -1,5 +1,29 @@
 [
   {
+    "source": "CNBC_World",
+    "title": "SpaceX stock sinks for a second-straight day, nearing $135 IPO price",
+    "title_ko": "스페이스X 주가 이틀 연속 하락, 135달러 IPO 공모가 부근까지 밀려나",
+    "link": "https://www.cnbc.com/2026/07/13/spacex-spcx-stock-ipo-price.html",
+    "published": "Mon, 13 Jul 2026 20:16:36 GMT",
+    "fetched_at": "2026-07-14 08:44:02",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "우주항공",
+      "빅테크",
+      "미국 성장주"
+    ],
+    "keywords": [
+      "스페이스X",
+      "IPO 공모가",
+      "나스닥100",
+      "일론 머스크",
+      "밸류에이션"
+    ],
+    "reason": "기록적인 IPO 이후 나스닥100 지수에 빠르게 편입된 스페이스X의 주가 급락은 고밸류에이션 우주항공 및 혁신기술 섹터 전반의 투자심리 위축과 차익실현 압력을 자극할 수 있습니다.",
+    "action_point": "우주항공 및 고배수 기술 성장주 섹터의 단기 비중 축소 검토"
+  },
+  {
     "source": "CNBC_Finance",
     "title": "A July rate hike from the Fed? The odds are rising",
     "title_ko": "연준의 7월 금리 인상? 그 확률이 높아지고 있다",
