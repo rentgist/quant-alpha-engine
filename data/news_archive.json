@@ -1,6 +1,74 @@
 [
   {
     "source": "CNBC_World",
+    "title": "Global shipping industry sounds the alarm over Trump’s Hormuz toll plan",
+    "title_ko": "트럼프의 호르무즈 해협 통행료 계획에 글로벌 해운업계 비상경고",
+    "link": "https://www.cnbc.com/2026/07/14/shipping-industry-trump-hormuz-toll-backfire.html",
+    "published": "Tue, 14 Jul 2026 10:40:44 GMT",
+    "fetched_at": "2026-07-14 20:18:49",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "해운",
+      "물류",
+      "정유/에너지"
+    ],
+    "keywords": [
+      "도널드 트럼프",
+      "호르무즈 해협",
+      "통행료 부과",
+      "공급망 리스크",
+      "인플레이션"
+    ],
+    "reason": "세계 정유 및 물류의 핵심 요충지인 호르무즈 해협에 통행료를 부과하겠다는 트럼프의 구상은 해상 운송 비용 급증 및 글로벌 에너지 공급망 교란을 초래해 인플레이션 압력을 다시 자극할 수 있습니다.",
+    "action_point": "운임 및 유가 상승에 따른 인플레이션 헤지를 위해 정유 및 해운 섹터 ETF 비중 확대를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "JPMorgan, Bank of America CEOs tout strong quarter: Live updates",
+    "title_ko": "JP모건 및 뱅크오브아메리카 CEO, 강력한 분기 실적 자신",
+    "link": "https://www.cnbc.com/2026/07/14/jpm-bank-of-america-citi-bank-earnings-live-updates.html",
+    "published": "Tue, 14 Jul 2026 11:15:16 GMT",
+    "fetched_at": "2026-07-14 20:19:35",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "금융",
+      "미국 대형주"
+    ],
+    "keywords": [
+      "JP모건",
+      "뱅크오브아메리카",
+      "은행 실적",
+      "금융 섹터"
+    ],
+    "reason": "미국 대형 은행들의 강력한 실적은 미국 경기 연착륙 가능성을 지지하며, 주식 및 채권 거래 활성화가 금융 섹터의 견고한 수익성을 견인하고 있음을 보여줍니다.",
+    "action_point": "미국 금융 섹터 ETF(XLF) 또는 미국 대형 금융주 비중 확대 검토"
+  },
+  {
+    "source": "CNBC_World",
+    "title": "Taiwan's second-largest chipmaker starts mass production in Singapore; Citi sees improving outlook",
+    "title_ko": "대만 2위 반도체 기업 UMC, 싱가포르서 양산 개시… 씨티 '전망 개선'",
+    "link": "https://www.cnbc.com/2026/07/14/umc-starts-mass-production-in-singapore-citi-sees-improving-outlook.html",
+    "published": "Tue, 14 Jul 2026 05:44:04 GMT",
+    "fetched_at": "2026-07-14 20:19:58",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "반도체",
+      "IT 하드웨어"
+    ],
+    "keywords": [
+      "UMC",
+      "실리콘 포토닉스",
+      "파운드리",
+      "싱가포르"
+    ],
+    "reason": "AI 데이터센터의 핵심 기술인 실리콘 포토닉스 웨이퍼의 싱가포르 대량 생산 본격화로 UMC의 중장기 실적 개선 및 지정학적 리스크 분산이 기대됨.",
+    "action_point": "글로벌 반도체 포트폴리오 내 실리콘 포토닉스 관련 수혜 기업 비중 확대 검토"
+  },
+  {
+    "source": "CNBC_World",
     "title": "Inflation reports expected to show improvement with a caveat; Warsh heads to Capitol Hill",
     "title_ko": "우려 섞인 인플레이션 지표 개선 전망; 워시 전 이사 의회 행",
     "link": "https://www.cnbc.com/2026/07/13/inflation-reports-expected-to-show-improvement-with-a-caveat-warsh-heads-to-capitol-hill.html",
@@ -2777,69 +2845,5 @@
       "비용효율화"
     ],
     "reason": "Amazon의 퀘벡 사업장 폐쇄 및 1,700명 해고는 해당 지역 경제에 단기적 충격을 주겠으나, 글로벌 증시 및 캐나다 거시경제 전반에 미치는 영향은 제한적일 것으로 분석됨. 이는 기업의 구조조정 및 비용 효율화 움직임의 일환으로 해석될 수 있음."
-  },
-  {
-    "source": "WSJ_Business",
-    "title": "Target Drops DEI Goals and Ends Program to Boost Black Suppliers",
-    "link": "https://www.wsj.com/articles/target-drops-dei-goals-and-ends-program-to-boost-black-suppliers-77cb4c75?mod=pls_whats_news_us_business_f",
-    "published": "Fri, 24 Jan 2025 13:51:00 -0500",
-    "fetched_at": "2026-07-11 23:22:00",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "유통 (Retail)",
-      "소비재 (Consumer Discretionary)",
-      "ESG 투자"
-    ],
-    "keywords": [
-      "DEI",
-      "기업 전략",
-      "ESG",
-      "소매업",
-      "기업 거버넌스"
-    ],
-    "reason": "주요 소매업체의 DEI 목표 철회는 기업 전반의 DEI 이니셔티브 축소 트렌드를 반영하며, 이는 기업 거버넌스 우선순위 변화, 브랜드 이미지 및 ESG 투자 흐름에 미묘한 영향을 미칠 수 있습니다. 거시 경제 변수에 대한 직접적인 영향은 제한적이나, 기업들의 비용 효율성 및 전통적 사업 목표 우선순위 전환 가능성을 시사합니다."
-  },
-  {
-    "source": "WSJ_Business",
-    "title": "Energy & Utilities Roundup: Market Talk",
-    "link": "https://www.wsj.com/articles/energy-utilities-roundup-market-talk-08708375?mod=pls_whats_news_us_business_f",
-    "published": "Fri, 24 Jan 2025 12:29:00 -0500",
-    "fetched_at": "2026-07-11 23:22:07",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "에너지",
-      "유틸리티"
-    ],
-    "keywords": [
-      "에너지",
-      "유틸리티",
-      "기업분석",
-      "원자재"
-    ],
-    "reason": "에너지 및 유틸리티 섹터 내 개별 기업들의 동향을 다루는 소식으로, 해당 섹터 투자자에게는 중요하나 거시경제 전반의 금리, 환율, 유동성 등 구조적 변화를 야기할 정도의 광범위한 영향은 제한적입니다."
-  },
-  {
-    "source": "WSJ_Markets",
-    "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
-    "link": "https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main",
-    "published": "Mon, 27 Jan 2025 14:26:00 -0500",
-    "fetched_at": "2026-07-11 23:22:16",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "반도체",
-      "인공지능",
-      "기술주"
-    ],
-    "keywords": [
-      "인공지능",
-      "반도체",
-      "기술주",
-      "시장조정",
-      "차익실현"
-    ],
-    "reason": "AI 관련 주식의 과도한 밸류에이션 우려가 현실화되며 기술주 전반의 조정 압력을 심화시킬 것입니다. 이는 광범위한 시장의 위험 회피 심리를 확산시켜 유동성 축소 및 성장 둔화 우려로 이어질 수 있습니다."
   }
 ]
