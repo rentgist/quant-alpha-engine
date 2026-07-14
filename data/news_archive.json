@@ -1,6 +1,79 @@
 [
   {
     "source": "CNBC_World",
+    "title": "Oil gains over 2% as Mideast tensions and Hormuz toll prospects raise supply worries",
+    "title_ko": "중동 긴장 및 호르무즈 통행료 부과 전망에 따른 공급 우려로 유가 2% 이상 상승",
+    "link": "https://www.cnbc.com/2026/07/14/oil-prices-today-brent-wti-hormuz-trump-toll-iran.html",
+    "published": "Tue, 14 Jul 2026 01:28:11 GMT",
+    "fetched_at": "2026-07-14 10:29:36",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "정유",
+      "에너지",
+      "해운",
+      "항공"
+    ],
+    "keywords": [
+      "국제유가",
+      "호르무즈 해협",
+      "도널드 트럼프",
+      "공급망 차질",
+      "인플레이션"
+    ],
+    "reason": "트럼프의 호르무즈 해협 통행료 부과 구상으로 에너지 공급망 차질 우려가 부각되며 유가가 급등했습니다. 이는 수입 물가 상승에 따른 인플레이션 압력과 글로벌 금리 인하 지연 요인으로 작용할 수 있습니다.",
+    "action_point": "에너지 및 해운 섹터 비중을 단기 확대하고 유가 상승에 취약한 항공 및 화학 섹터 비중은 축소 검토"
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "트럼프 \"호르무즈 20% 통행료\" 선언…국제기구 \"안 된다\" - v.daum.net",
+    "title_ko": "트럼프 \"호르무즈 20% 통행료\" 선언…국제기구 \"안 된다\"",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE03QlNDX2FrVGRzOWl6TFZFN3NhQ2JLWVB0RE0wR2lNaFNCa0sxdmNHaVoxZlExaGUzdUVHX0NsbGtrM1FkblZWcTA0ODNvalk?oc=5",
+    "published": "Tue, 14 Jul 2026 01:23:28 GMT",
+    "fetched_at": "2026-07-14 10:30:44",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "정유",
+      "해운",
+      "원자재",
+      "화학"
+    ],
+    "keywords": [
+      "도널드 트럼프",
+      "호르무즈 해협",
+      "원유 가격",
+      "공급망 리스크",
+      "지정학적 위험"
+    ],
+    "reason": "글로벌 원유 수송의 핵심 요충지인 호르무즈 해협 통행료 부과 리스크는 국제 유가 급등과 물류비 상승을 유발하여 글로벌 물가 상승 압력 및 제조업 원가 부담을 가중시킬 수 있습니다.",
+    "action_point": "정유 및 해운 섹터 ETF 비중 확대를 통해 원자재 가격 상승 및 지정학적 리스크에 대비하라."
+  },
+  {
+    "source": "CNBC_Finance",
+    "title": "'Listing is a must': Chinese humanoid startups are rushing to launch IPOs",
+    "title_ko": "'상장은 필수': 중국 휴머노이드 스타트업들, IPO 추진에 박차",
+    "link": "https://www.cnbc.com/2026/07/13/chinese-humanoid-startups-ipo-limx-unitree.html",
+    "published": "Tue, 14 Jul 2026 00:31:01 GMT",
+    "fetched_at": "2026-07-14 10:29:11",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "로봇",
+      "인공지능(AI)",
+      "벤처캐피탈(VC)"
+    ],
+    "keywords": [
+      "휴머노이드",
+      "중국 스타트업",
+      "IPO",
+      "로봇공학"
+    ],
+    "reason": "중국 정부의 정책적 지원 속에서 휴머노이드 기업들이 자본 회수(Exit)를 위해 IPO를 서두르고 있으며, 이는 글로벌 로봇 산업의 투자 심리 개선과 밸류에이션 확장을 자극할 것입니다.",
+    "action_point": "글로벌 로봇 밸류체인 ETF 및 국내 로봇 대장주 분할 매수 검토"
+  },
+  {
+    "source": "CNBC_World",
     "title": "SpaceX stock sinks for a second-straight day, nearing $135 IPO price",
     "title_ko": "스페이스X 주가 이틀 연속 하락, 135달러 IPO 공모가 부근까지 밀려나",
     "link": "https://www.cnbc.com/2026/07/13/spacex-spcx-stock-ipo-price.html",
