@@ -1,5 +1,28 @@
 [
   {
+    "source": "CNBC_Finance",
+    "title": "Stocks making the biggest moves midday: IBM, Goldman Sachs, CleanSpark, HCA Healthcare & more",
+    "title_ko": "장중 가장 크게 움직인 종목들: IBM, 골드만삭스, 클린스파크, HCA 헬스케어 등",
+    "link": "https://www.cnbc.com/2026/07/14/stocks-making-big-moves-midday-ibm-goldman-cleanspark-hca-more-.html",
+    "published": "Tue, 14 Jul 2026 16:48:07 GMT",
+    "fetched_at": "2026-07-15 08:43:12",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "미국 대형주",
+      "정보기술(IT)",
+      "금융",
+      "헬스케어"
+    ],
+    "keywords": [
+      "장중 특징주",
+      "실적 시즌",
+      "미국 증시"
+    ],
+    "reason": "개별 기업들의 실적 발표와 기업별 이슈에 따른 주가 변동 정보로, 거시경제 흐름을 바꾸기보다는 개별 종목 및 섹터별 변동성 장세를 나타냅니다.",
+    "action_point": "실적 발표가 진행 중인 미국 대형 IT 및 금융 섹터 포트폴리오의 비중 리밸런싱 분할 실행"
+  },
+  {
     "source": "GoogleNews_Korea",
     "title": "AI 전쟁의 역설… 시작은 쉽지만 승리는 어렵다 - 주간조선",
     "title_ko": "AI 전쟁의 역설… 시작은 쉽지만 승리는 어렵다",
@@ -2826,31 +2849,5 @@
       "섹터 동향"
     ],
     "reason": "이 뉴스는 특정 금융 서비스 기업들의 동향 분석을 담고 있어 개별 기업 및 해당 섹터에 대한 미시적 정보 제공에 가깝습니다. 거시 경제나 광범위한 증시 전반에 미치는 구조적 영향은 제한적입니다."
-  },
-  {
-    "source": "WSJ_World",
-    "title": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
-    "link": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
-    "published": "Mon, 27 Jan 2025 12:32:00 -0500",
-    "fetched_at": "2026-07-11 23:31:00",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "부동산",
-      "건설",
-      "금융",
-      "철강",
-      "시멘트",
-      "원자재"
-    ],
-    "keywords": [
-      "중국 부동산",
-      "부동산 위기",
-      "완커",
-      "경제 둔화",
-      "신용 리스크",
-      "금융 시스템 리스크"
-    ],
-    "reason": "중국 주요 부동산 개발업체의 손실 확대는 부동산 위기의 구조적 확산을 시사하며, 이는 중국 경제 성장 둔화와 글로벌 경기 침체 우려를 심화시킬 것입니다. 금융 시스템의 신용 리스크 증가로 안전 자산 선호 심리가 강화되고 원자재 가격에 하방 압력을 가할 수 있습니다."
   }
 ]
