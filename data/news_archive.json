@@ -1,5 +1,29 @@
 [
   {
+    "source": "CNBC_Finance",
+    "title": "Watch: Fed Chairman Kevin Warsh testifies to House Financial Services committee",
+    "title_ko": "주목: 케빈 워시 연준 의장, 하원 금융서비스위원회 증언",
+    "link": "https://www.cnbc.com/2026/07/14/watch-fed-chairman-kevin-warsh-testify-live-to-house-financial-services-committee.html",
+    "published": "Tue, 14 Jul 2026 17:26:37 GMT",
+    "fetched_at": "2026-07-15 04:05:57",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "글로벌 채권",
+      "기술주/성장주",
+      "외환(달러)"
+    ],
+    "keywords": [
+      "케빈 워시",
+      "연방준비제도",
+      "통화긴축",
+      "인플레이션",
+      "미국 국채"
+    ],
+    "reason": "연준 의장의 강력한 인플레이션 2% 목표 달성 의지 표명은 고금리 기조 장기화 우려를 자극하여 기술주 등 위험자산에 부담을 주고 달러 강세를 유발할 수 있습니다.",
+    "action_point": "기술주 및 성장주 포트폴리오 비중을 축소하고 미국 단기 채권과 달러 현금 비중 확대를 검토하라."
+  },
+  {
     "source": "CNBC_World",
     "title": "Global shipping industry sounds the alarm over Trump’s Hormuz toll plan",
     "title_ko": "트럼프의 호르무즈 해협 통행료 계획에 글로벌 해운업계 비상경고",
@@ -2823,27 +2847,5 @@
       "파산 방지"
     ],
     "reason": "캐나다 정부의 우체국 파산 방지 재정 지원은 국영기업의 운영 비효율성을 드러내지만, 거시경제 전반에 미치는 영향은 제한적인 개별 기업 구제금융으로 평가된다. 이는 특정 서비스의 연속성 확보에 초점을 맞춘 조치로, 시장의 구조적 변동성을 유발하지 않는다."
-  },
-  {
-    "source": "WSJ_Business",
-    "title": "Amazon Willing to Discuss Quebec Shutdown With Canadian Officials",
-    "link": "https://www.wsj.com/articles/amazon-willing-to-discuss-quebec-shutdown-with-canadian-officials-610e5f59?mod=pls_whats_news_us_business_f",
-    "published": "Fri, 24 Jan 2025 14:15:00 -0500",
-    "fetched_at": "2026-07-11 23:21:48",
-    "sentiment": "악재",
-    "importance": 2,
-    "sectors": [
-      "캐나다 지역 경제",
-      "전자상거래/소매",
-      "물류"
-    ],
-    "keywords": [
-      "Amazon",
-      "퀘벡",
-      "고용",
-      "사업철수",
-      "비용효율화"
-    ],
-    "reason": "Amazon의 퀘벡 사업장 폐쇄 및 1,700명 해고는 해당 지역 경제에 단기적 충격을 주겠으나, 글로벌 증시 및 캐나다 거시경제 전반에 미치는 영향은 제한적일 것으로 분석됨. 이는 기업의 구조조정 및 비용 효율화 움직임의 일환으로 해석될 수 있음."
   }
 ]
