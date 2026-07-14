@@ -1,6 +1,77 @@
 [
   {
     "source": "CNBC_World",
+    "title": "U.S. completes latest round of strikes against Iran, while Tehran targets Gulf neighbors",
+    "title_ko": "미국, 이란에 대한 추가 공습 단행... 이란은 걸프 지역 인접국 겨냥",
+    "link": "https://www.cnbc.com/2026/07/14/us-iran-hormuz-strikes-oil-toll.html",
+    "published": "Tue, 14 Jul 2026 04:41:42 GMT",
+    "fetched_at": "2026-07-14 13:42:42",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "에너지/원유",
+      "방산",
+      "해운/물류",
+      "안전자산"
+    ],
+    "keywords": [
+      "지정학적 리스크",
+      "미국 이란 충돌",
+      "유가 불안정",
+      "안전자산 선호"
+    ],
+    "reason": "미국과 이란의 군사적 충돌이 격화되면서 중동발 지정학적 리스크가 고조되고 있으며, 이는 국제 유가 상승 압력과 글로벌 공급망 차질을 유발해 위험자산 회피 심리를 자극할 것입니다.",
+    "action_point": "방산 및 정유 섹터 비중을 단기 확대하고 달러와 금 등 안전자산 비중을 유지하십시오."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "트럼프, 의회에 ‘7일자 전쟁 재개’ 통보…60일 군사작전 시작되나 - 중앙일보",
+    "title_ko": "트럼프, 의회에 ‘7일자 전쟁 재개’ 통보…60일 군사작전 시작되나",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91MTZzVTlqdklHMHBFTmV2MDRmSXJiaHRFX2ZNY3BtdDFjYVhhNEd5VldCcTZWSUE1NEdIVGlSYkRZREQxOEh1Wl9Zb0E1Snc3SE13c3J3?oc=5",
+    "published": "Mon, 13 Jul 2026 21:45:05 GMT",
+    "fetched_at": "2026-07-14 13:43:12",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "방위산업",
+      "에너지",
+      "외환",
+      "금"
+    ],
+    "keywords": [
+      "도널드 트럼프",
+      "군사작전",
+      "지정학적 리스크",
+      "안전자산 선호"
+    ],
+    "reason": "미국 행정부의 군사 행동 공식 통보는 글로벌 지정학적 리스크를 급격히 고조시켜 시장의 위험자산 회피(Risk-off) 심리를 자극하고 달러화 및 에너지 가격의 변동성을 키웁니다.",
+    "action_point": "안전자산인 미국 달러화 및 금 비중을 늘리고 포트폴리오 내 주식 비중을 일시적으로 축소하라."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "CNBC Daily Open: Hormuz toll threats, Mideast tensions keep investors on edge",
+    "title_ko": "CNBC 데일리 오픈: 호르무즈 통행료 위협과 중동 긴장감에 투자자들 긴장 유지",
+    "link": "https://www.cnbc.com/2026/07/14/cnbc-daily-open-hormuz-toll-threats-mideast-tensions-keep-investors-on-edge.html",
+    "published": "Tue, 14 Jul 2026 01:19:28 GMT",
+    "fetched_at": "2026-07-14 13:43:01",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "방산",
+      "IT·반도체"
+    ],
+    "keywords": [
+      "호르무즈 해협",
+      "지정학적 리스크",
+      "국제유가",
+      "기술주 조정"
+    ],
+    "reason": "중동 지정학적 긴장으로 인한 호르무즈 해협 통행 위협은 국제유가 상승 압력을 가중시키고, 기술주 매도세와 맞물려 글로벌 자산 시장의 변동성을 확대하고 있습니다.",
+    "action_point": "방산 및 원유 원자재 ETF 비중을 확대하고 주식 포트폴리오의 현금 비중을 확보하라."
+  },
+  {
+    "source": "CNBC_World",
     "title": "Oil gains over 2% as Mideast tensions and Hormuz toll prospects raise supply worries",
     "title_ko": "중동 긴장 및 호르무즈 통행료 부과 전망에 따른 공급 우려로 유가 2% 이상 상승",
     "link": "https://www.cnbc.com/2026/07/14/oil-prices-today-brent-wti-hormuz-trump-toll-iran.html",
