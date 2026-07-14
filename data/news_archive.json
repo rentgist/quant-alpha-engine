@@ -1,6 +1,30 @@
 [
   {
     "source": "CNBC_Finance",
+    "title": "The AI boom just found two new winners: Goldman Sachs and JPMorgan Chase",
+    "title_ko": "AI 붐의 새로운 수혜자 두 곳: 골드만삭스와 JP모건 체이스",
+    "link": "https://www.cnbc.com/2026/07/14/goldman-sachs-and-jpmorgan-chase-are-emerging-as-ai-winners.html",
+    "published": "Tue, 14 Jul 2026 19:50:48 GMT",
+    "fetched_at": "2026-07-15 05:51:09",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "미국 금융",
+      "투자은행",
+      "빅테크"
+    ],
+    "keywords": [
+      "골드만삭스",
+      "JP모건",
+      "AI 수혜주",
+      "투자은행 실적",
+      "M&A 활성화"
+    ],
+    "reason": "AI 열풍으로 인한 기업들의 자금 조달 및 M&A 딜 활성화가 대형 투자은행(IB)의 수수료 및 트레이딩 매출 급증으로 이어지며, AI 수혜 범위가 기술주를 넘어 금융 섹터까지 확산되고 있음을 시사합니다.",
+    "action_point": "미국 대형 투자은행(IB) 주식 및 금융 섹터 ETF(XLF) 비중 확대 검토"
+  },
+  {
+    "source": "CNBC_Finance",
     "title": "Watch: Fed Chairman Kevin Warsh testifies to House Financial Services committee",
     "title_ko": "주목: 케빈 워시 연준 의장, 하원 금융서비스위원회 증언",
     "link": "https://www.cnbc.com/2026/07/14/watch-fed-chairman-kevin-warsh-testify-live-to-house-financial-services-committee.html",
@@ -2826,26 +2850,5 @@
       "레버리지 대출"
     ],
     "reason": "은행들이 잠재적으로 부실 우려가 있는 대출 자산을 할인 매각하는 것은 신용 시장의 경색과 자산 건전성 악화를 시사합니다. 이는 은행권의 수익성 압박과 전반적인 대출 시장의 위축으로 이어져 경제 성장 둔화 요인으로 작용할 수 있습니다."
-  },
-  {
-    "source": "WSJ_Business",
-    "title": "Canada to Provide $720 Million to Canada Post to Avoid Insolvency at Mail Service",
-    "link": "https://www.wsj.com/articles/canada-to-provide-720-million-to-canada-post-to-avoid-insolvency-at-mail-service-fc09a6b9?mod=pls_whats_news_us_business_f",
-    "published": "Fri, 24 Jan 2025 15:13:00 -0500",
-    "fetched_at": "2026-07-11 23:21:40",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "우정 서비스",
-      "물류"
-    ],
-    "keywords": [
-      "캐나다 포스트",
-      "구제금융",
-      "정부 재정 지원",
-      "국영기업",
-      "파산 방지"
-    ],
-    "reason": "캐나다 정부의 우체국 파산 방지 재정 지원은 국영기업의 운영 비효율성을 드러내지만, 거시경제 전반에 미치는 영향은 제한적인 개별 기업 구제금융으로 평가된다. 이는 특정 서비스의 연속성 확보에 초점을 맞춘 조치로, 시장의 구조적 변동성을 유발하지 않는다."
   }
 ]
