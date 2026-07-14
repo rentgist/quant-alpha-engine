@@ -1,5 +1,28 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "title": "AI 전쟁의 역설… 시작은 쉽지만 승리는 어렵다 - 주간조선",
+    "title_ko": "AI 전쟁의 역설… 시작은 쉽지만 승리는 어렵다",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBidVQ5dzhTRTA1ZEFwQ3N1LURwSjJ6QXFhS05BN2F2eFBxeDI2ZmVkcGRGS3RTamNEdElYZDMwOXVjR1U3V0p1M0tGNS1ON3FCQ2tGVlQwazVyc19kc2Njc01tYjRmVHRYdnfSAW5BVV95cUxPY0g5eV80aUxORlEtUmVVZlpGYUVGWi1WRHlPNEd0SDg0QnlpVURFekpVcFJ6OVJwVVJGQm14RlJzcVB2b1RQNkdTeVF3OXdyY1Qxc0RPTGg0VS1BZGNhYmV4UGtWR1pfeWJsdjdxQQ?oc=5",
+    "published": "Tue, 14 Jul 2026 20:00:00 GMT",
+    "fetched_at": "2026-07-15 06:49:52",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "빅테크",
+      "AI 반도체",
+      "정보기술(IT)"
+    ],
+    "keywords": [
+      "AI 서비스",
+      "CAPEX",
+      "수익화",
+      "빅테크 양극화"
+    ],
+    "reason": "AI 기술 진입 장벽은 낮아졌으나 천문학적인 인프라 투자 비용 대비 확실한 비즈니스 모델을 확보한 기업만 살아남는 본격적인 옥석 가리기가 시작될 것입니다.",
+    "action_point": "수익성 검증이 미흡한 고밸류에이션 소형 AI 기술주 비중을 축소하고 견고한 현금흐름을 가진 메가캡 빅테크 중심으로 포트폴리오를 압축하십시오."
+  },
+  {
     "source": "CNBC_Finance",
     "title": "The AI boom just found two new winners: Goldman Sachs and JPMorgan Chase",
     "title_ko": "AI 붐의 새로운 수혜자 두 곳: 골드만삭스와 JP모건 체이스",
@@ -2829,26 +2852,5 @@
       "금융 시스템 리스크"
     ],
     "reason": "중국 주요 부동산 개발업체의 손실 확대는 부동산 위기의 구조적 확산을 시사하며, 이는 중국 경제 성장 둔화와 글로벌 경기 침체 우려를 심화시킬 것입니다. 금융 시스템의 신용 리스크 증가로 안전 자산 선호 심리가 강화되고 원자재 가격에 하방 압력을 가할 수 있습니다."
-  },
-  {
-    "source": "WSJ_Business",
-    "title": "Wall Street Banks Prepare to Sell Billions of Dollars of X Loans",
-    "link": "https://www.wsj.com/articles/wall-street-banks-prepare-to-sell-billions-of-dollars-of-x-loans-c609beb1?mod=pls_whats_news_us_business_f",
-    "published": "Fri, 24 Jan 2025 15:37:00 -0500",
-    "fetched_at": "2026-07-11 23:21:31",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "은행",
-      "신용 시장",
-      "사모펀드"
-    ],
-    "keywords": [
-      "신용 경색",
-      "자산 건전성",
-      "은행 유동성",
-      "레버리지 대출"
-    ],
-    "reason": "은행들이 잠재적으로 부실 우려가 있는 대출 자산을 할인 매각하는 것은 신용 시장의 경색과 자산 건전성 악화를 시사합니다. 이는 은행권의 수익성 압박과 전반적인 대출 시장의 위축으로 이어져 경제 성장 둔화 요인으로 작용할 수 있습니다."
   }
 ]
