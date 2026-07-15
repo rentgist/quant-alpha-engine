@@ -1,5 +1,420 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "title": "[속보]트럼프 “다음 주까지 이란과 합의 안 되면 발전소·교량 공격” - 경향신문",
+    "title_ko": "[속보]트럼프 “다음 주까지 이란과 합의 안 되면 발전소·교량 공격”",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9UVF82djNQRGJaUTZWakVTbGRtOE11WGhPVmEtRWVGM2NUTzdoOGJSaWFSSEhwVHhMWHlTeVJ4VzVhaFNBbnVtcVllbGNkZG5tT0Z6YjhyUXFod9IBX0FVX3lxTE9tUGJVZ1VGVERuSkRCOWZOdDZqdWE4VldYSEkzM0Q3X1dnVVRtQms5UzBpcGp0WFN5dDMwNnZsU2JMU0E4ZC1aTFJObjdhekk0OG5LbUlRbElCOEduSWNB?oc=5",
+    "published": "Tue, 14 Jul 2026 22:38:00 GMT",
+    "fetched_at": "2026-07-15 13:43:42",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "에너지",
+      "국방",
+      "항공",
+      "해운",
+      "글로벌 증시"
+    ],
+    "keywords": [
+      "트럼프",
+      "이란",
+      "지정학적 리스크",
+      "중동",
+      "유가",
+      "군사적 충돌"
+    ],
+    "reason": "트럼프의 이란 군사 공격 위협은 중동 지역의 지정학적 리스크를 급격히 고조시키며, 국제 유가 상승 압력 및 글로벌 증시의 위험 회피 심리를 부추길 가능성이 매우 높습니다.",
+    "action_point": "국제 유가 상승에 대비하여 원유 관련 자산 비중 확대를 검토하고, 안전자산 비중을 늘리십시오."
+  },
+  {
+    "source": "CNBC_Finance",
+    "title": "Watch: Fed Chairman Kevin Warsh testifies to House Financial Services committee",
+    "title_ko": "케빈 워시 연준 의장, 하원 금융서비스 위원회에서 증언",
+    "link": "https://www.cnbc.com/2026/07/14/watch-fed-chairman-kevin-warsh-testify-live-to-house-financial-services-committee.html",
+    "published": "Tue, 14 Jul 2026 17:26:37 GMT",
+    "fetched_at": "2026-07-15 13:42:31",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "기술주",
+      "성장주",
+      "부동산"
+    ],
+    "keywords": [
+      "인플레이션",
+      "연준",
+      "금리인상",
+      "긴축",
+      "통화정책"
+    ],
+    "reason": "이 뉴스는 연준의 인플레이션 2% 목표 달성을 위한 강력한 의지를 보여주며, 이는 긴축적인 통화 정책 기조의 지속 또는 강화 가능성을 시사합니다. 이는 금리 상승 압력을 높여 주식, 부동산 등 위험자산에 부정적 영향을 미치고 달러화 강세를 유발할 수 있습니다.",
+    "action_point": "고금리 환경 지속 가능성에 대비하여 성장주 등 금리 민감 자산 비중 축소를 검토하고 달러 자산 보유를 유지하라."
+  },
+  {
+    "source": "CNBC_Finance",
+    "title": "Warsh pledges Fed policy 'regime change' to rid inflation 'tax' on American people",
+    "title_ko": "워시, 미국인에 대한 인플레이션 '세금' 제거 위해 연준 정책 '체제 전환' 공약",
+    "link": "https://www.cnbc.com/2026/07/14/warsh-promises-inflation-will-be-a-thing-of-the-past-cites-benefits-of-ai-investment-boom.html",
+    "published": "Tue, 14 Jul 2026 17:29:07 GMT",
+    "fetched_at": "2026-07-15 13:42:39",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "기술",
+      "부동산",
+      "금융",
+      "채권"
+    ],
+    "keywords": [
+      "워시",
+      "연준",
+      "통화정책",
+      "인플레이션",
+      "금리인상",
+      "긴축"
+    ],
+    "reason": "워시의 발언은 연준이 인플레이션 억제를 최우선 과제로 삼아 강력한 긴축 통화정책을 지속할 것임을 시사합니다. 이는 시장의 금리 인상 기대를 높여 주식 및 부동산 등 위험자산에 하방 압력을 가할 수 있습니다.",
+    "action_point": "성장주 비중 축소 및 금리 민감도가 낮은 가치주 섹터로의 포트폴리오 재조정을 고려하십시오."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "Oil rises after another round of U.S. strikes against Iran, naval blockade of the country's ports",
+    "title_ko": "미국의 이란 추가 공습 및 해상 봉쇄 이후 유가 상승",
+    "link": "https://www.cnbc.com/2026/07/15/oil-prices-today-brent-wti-hormuz-blockade.html",
+    "published": "Wed, 15 Jul 2026 04:40:58 GMT",
+    "fetched_at": "2026-07-15 13:42:52",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "운송",
+      "항공",
+      "방위산업"
+    ],
+    "keywords": [
+      "유가 상승",
+      "이란",
+      "미국",
+      "지정학적 위험",
+      "호르무즈 해협",
+      "해상 봉쇄"
+    ],
+    "reason": "미국-이란 간 지정학적 긴장 고조와 호르무즈 해협 봉쇄는 원유 공급 불확실성을 증대시켜 유가 상승 압력을 가한다. 이는 글로벌 인플레이션 우려를 심화시키고 경기 성장 둔화 가능성을 높인다.",
+    "action_point": "지정학적 리스크 확대로 인한 유가 상승에 대비하여 원자재 및 인플레이션 헤지 자산 비중 확대를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "SK Hynix South Korean shares jump 11% as Asia tech stocks rally",
+    "title_ko": "SK하이닉스, 아시아 기술주 랠리 속 한국 주식 11% 급등",
+    "link": "https://www.cnbc.com/2026/07/15/sk-hynix-asia-tech-stocks-rally-.html",
+    "published": "Wed, 15 Jul 2026 01:22:34 GMT",
+    "fetched_at": "2026-07-15 13:42:58",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "반도체",
+      "기술주",
+      "IT"
+    ],
+    "keywords": [
+      "SK하이닉스",
+      "반도체",
+      "기술주",
+      "아시아",
+      "주식 랠리"
+    ],
+    "reason": "SK하이닉스의 급등은 미국 반도체주의 반등에 따른 아시아 기술주 전반의 긍정적 흐름을 반영하며, 이는 국내 증시의 핵심 섹터인 반도체에 대한 투자심리 개선을 시사합니다.",
+    "action_point": "국내 반도체 대형주 비중 확대를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "Stock futures rise as soft inflation reading lifts market: Live updates",
+    "title_ko": "예상보다 완화된 인플레이션 지표에 주식 선물 상승: 실시간 업데이트",
+    "link": "https://www.cnbc.com/2026/07/14/stock-market-today-live-updates.html",
+    "published": "Wed, 15 Jul 2026 04:17:45 GMT",
+    "fetched_at": "2026-07-15 13:43:04",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "기술",
+      "성장주",
+      "부동산",
+      "채권"
+    ],
+    "keywords": [
+      "인플레이션",
+      "금리 인상",
+      "연준",
+      "주식 선물",
+      "경기 연착륙"
+    ],
+    "reason": "예상치를 하회하는 인플레이션 지표는 연준의 공격적인 금리 인상 필요성을 낮춰 시장의 금리 부담을 완화하고 위험 자산 선호를 높일 것으로 예상됩니다. 이는 경기 연착륙 기대감을 강화합니다.",
+    "action_point": "성장주 및 금리 민감 자산 비중 확대 고려"
+  },
+  {
+    "source": "CNBC_World",
+    "title": "CNBC Daily Open: Trump walks back on Hormuz tolls in TACO Tuesday",
+    "title_ko": "CNBC 데일리 오픈: 트럼프, 호르무즈 해협 통행료 부과 방침 철회",
+    "link": "https://www.cnbc.com/2026/07/15/cnbc-daily-open-trump-hormuz-fees-us-stocks-tech-fed.html",
+    "published": "Wed, 15 Jul 2026 01:19:41 GMT",
+    "fetched_at": "2026-07-15 13:43:23",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "해운",
+      "글로벌 교역"
+    ],
+    "keywords": [
+      "호르무즈 해협",
+      "유가",
+      "지정학적 리스크",
+      "트럼프"
+    ],
+    "reason": "호르무즈 해협 통행료 부과 방침 철회는 핵심 에너지 운송로를 둘러싼 지정학적 리스크와 유가 상승 압력을 완화하여 글로벌 시장 안정에 기여할 것입니다.",
+    "action_point": "지정학적 리스크 완화로 에너지 운송 비용 및 유가 상승 압력이 줄어들어 시장의 위험자산 선호 심리 개선 가능성을 주시하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "이란전쟁에 등 돌린 마가...트럼프, 다시 꺼낸 '부정선거' 카드 [Y녹취록] - YTN",
+    "title_ko": "이란전쟁에 등 돌린 마가...트럼프, 다시 꺼낸 '부정선거' 카드 [Y녹취록] - YTN",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWQkZUR290SkRmU3lXdFZleEFwbWRkSnJqallUaDRweTdBbzh4d2RYV2hBSTE0bzg2MFJheUtScnBZM3dJaXU5X2ZROGlSa0x5bEQzM0JZQ3JrTmw0bnc?oc=5",
+    "published": "Wed, 15 Jul 2026 00:29:00 GMT",
+    "fetched_at": "2026-07-15 13:43:55",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "글로벌 경제",
+      "금융시장",
+      "안보/방산",
+      "에너지/원자재"
+    ],
+    "keywords": [
+      "트럼프",
+      "미국 대선",
+      "정치적 불확실성",
+      "부정선거",
+      "지정학"
+    ],
+    "reason": "트럼프의 '부정선거' 카드 재점화는 미국 대선 결과의 불확실성을 증폭시키고 정치적 불안정성 심화 가능성을 시사합니다. 이는 글로벌 금융시장의 위험 회피 심리를 자극하고 달러 및 안전자산 수요를 증가시킬 수 있습니다.",
+    "action_point": "미국 대선 관련 정치적 불확실성 확대 가능성에 대비하여 달러 등 안전자산 비중을 유지하고 변동성 확대에 대비한 헤지를 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "李 “부동산 중심 경제는 매우 원시적”…자본시장 개혁 드라이브 - 경기일보",
+    "title_ko": "李 “부동산 중심 경제는 매우 원시적”…자본시장 개혁 드라이브",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJNVlwdnBzeE0yZDZIRjU4WW13QmE1YzVCdzltMl8wV1BjSWh3ZWFULUY4NVRiMnYtV3Ixa3F0UkttOXpOR0d4QzA2YmlIX2VOZ2lmdWJ6Tlp6REE?oc=5",
+    "published": "Wed, 15 Jul 2026 04:24:35 GMT",
+    "fetched_at": "2026-07-15 13:44:12",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "금융",
+      "부동산",
+      "건설"
+    ],
+    "keywords": [
+      "이재명",
+      "자본시장",
+      "부동산",
+      "개혁",
+      "경제정책"
+    ],
+    "reason": "이재명 대표의 발언은 부동산 중심 경제에서 자본시장 중심 경제로의 전환 의지를 보여주며, 이는 장기적으로 국내 자본시장 전반에 긍정적이고 부동산 및 건설 섹터에는 부정적 영향을 미칠 수 있습니다.",
+    "action_point": "부동산 관련 직접 투자 비중을 점진적으로 축소하고, 자본시장 개혁 수혜가 예상되는 국내 금융 및 성장주 섹터 투자를 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "중동 리스크에 다시 고개 드는 ‘유가 수혜주’...원유 ETF, 해운주 들썩 - 조선일보",
+    "title_ko": "중동 리스크에 다시 고개 드는 ‘유가 수혜주’...원유 ETF, 해운주 들썩 - 조선일보",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONzI4d0t2Sy1EYy05TjRQRGhGSHZuMGpkUnVZMHZDczBHSVhERkQ5VV81SlVjczl6U2l5eTdJdGppamdwZjdSOFNfblZfckJ5cFlmSGdhRWJDQ3NNTnJWNmZXVWZiQ1psbU96NWgtS1J5ZF90MW1ISjhiR2l6eW1rag?oc=5",
+    "published": "Wed, 15 Jul 2026 00:06:42 GMT",
+    "fetched_at": "2026-07-15 13:44:26",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "해운"
+    ],
+    "keywords": [
+      "중동 리스크",
+      "유가",
+      "원자재",
+      "해운",
+      "지정학"
+    ],
+    "reason": "중동 지정학적 리스크가 심화하며 유가 상승 압력이 커져 에너지 및 해운 섹터에 단기 수혜로 작용하고 있다. 다만, 고유가는 전반적인 인플레이션 우려를 고조시켜 시장에 부담을 줄 수 있다.",
+    "action_point": "에너지 및 해운 섹터 투자 비중 확대를 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "中 상반기 경제성장률 4.7%…2분기 4.3%로 2022년 말 이후 최저(종합) - 연합뉴스",
+    "title_ko": "中 상반기 경제성장률 4.7%…2분기 4.3%로 2022년 말 이후 최저(종합) - 연합뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5waTNtVjBSN0RLTjcxTEc4NXVlbFE5NHEzelhEOHBCVUFKdU1EdGhXSzBPNGN0VFNIdkxrQ1FaZHowVkZQTGtocDdNd1RhQnY0UXg1NDlMY19SQVnSAWBBVV95cUxQUWpwcXBHRUJIcTFqUGlsaDVRNk91QkF6SExjZ1JaY2R1Vi03YlVJdXFQU2ZvenNtNVp6cmJOeExlWUtQN3dMaVVwbTBiMWlHcW5BemxRNEIwaWR0VFBXa0c?oc=5",
+    "published": "Wed, 15 Jul 2026 03:24:58 GMT",
+    "fetched_at": "2026-07-15 13:44:33",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "수출주",
+      "산업재",
+      "원자재",
+      "화학",
+      "반도체"
+    ],
+    "keywords": [
+      "중국 경제",
+      "경제 성장률",
+      "경기 둔화",
+      "글로벌 경기",
+      "수출"
+    ],
+    "reason": "중국의 2분기 경제성장률이 시장 예상치를 하회하며 2022년 말 이후 최저치를 기록, 글로벌 경기 둔화 우려를 심화시켰다. 이는 한국 등 대중국 수출 의존도가 높은 국가들의 실적 및 글로벌 원자재 수요에 부정적 영향을 미칠 수 있다.",
+    "action_point": "중국 관련 수출 비중이 높은 국내 기업 및 원자재 관련 투자 비중 축소 검토."
+  },
+  {
+    "source": "CNBC_Finance",
+    "title": "The AI boom just found two new winners: Goldman Sachs and JPMorgan Chase",
+    "title_ko": "AI 붐의 새로운 두 수혜자: 골드만삭스와 JP모건체이스",
+    "link": "https://www.cnbc.com/2026/07/14/goldman-sachs-and-jpmorgan-chase-are-emerging-as-ai-winners.html",
+    "published": "Tue, 14 Jul 2026 19:50:48 GMT",
+    "fetched_at": "2026-07-15 13:42:00",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "금융",
+      "기술"
+    ],
+    "keywords": [
+      "AI 붐",
+      "골드만삭스",
+      "JP모건체이스",
+      "월스트리트",
+      "투자은행",
+      "트레이딩"
+    ],
+    "reason": "AI 붐의 수혜가 기술 기업을 넘어 금융권으로 확산되며 월스트리트의 트레이딩 및 투자은행 부문 수익을 견인하고 있음을 보여줍니다. 이는 AI 관련 자산 시장의 활성화와 전반적인 금융 활동 증가를 시사합니다.",
+    "action_point": "AI 붐 수혜 확장에 따른 국내외 금융 섹터 투자 비중 확대를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "U.S. trade official says 'very few' Nvidia H200 AI chips have been shipped to China",
+    "title_ko": "미국 무역 당국자, 엔비디아 H200 AI 칩 '극소량'만 중국에 선적됐다고 언급",
+    "link": "https://www.cnbc.com/2026/07/14/nvidia-h200-ai-chips-china.html",
+    "published": "Tue, 14 Jul 2026 16:50:28 GMT",
+    "fetched_at": "2026-07-15 13:43:11",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "반도체",
+      "인공지능",
+      "기술주"
+    ],
+    "keywords": [
+      "엔비디아",
+      "H200",
+      "AI 칩",
+      "미중 무역",
+      "수출 재개"
+    ],
+    "reason": "엔비디아의 첨단 AI 칩 대중국 수출 재개는 해당 기업의 매출 증대와 글로벌 AI 반도체 공급망에 긍정적 신호로 작용하며, 미중 기술 경쟁의 잠재적 완화 가능성을 시사한다.",
+    "action_point": "AI 반도체 관련주 포트폴리오 비중 유지 또는 확대 고려."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "Current and former employees sue Meta, alleging discrimination in using AI to conduct layoffs",
+    "title_ko": "현직 및 전직 직원들, AI를 활용한 해고에 차별을 주장하며 메타를 고소",
+    "link": "https://www.cnbc.com/2026/07/14/meta-lawsuit-layoffs-ai.html",
+    "published": "Tue, 14 Jul 2026 21:12:44 GMT",
+    "fetched_at": "2026-07-15 13:43:33",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "기술",
+      "소프트웨어",
+      "인적자원/HR"
+    ],
+    "keywords": [
+      "AI",
+      "메타",
+      "해고",
+      "차별",
+      "법적 소송"
+    ],
+    "reason": "메타에 대한 AI 해고 차별 소송은 기술 기업들의 AI 윤리 및 HR 적용 리스크를 부각시키며, AI 관련 규제 강화 가능성을 시사합니다.",
+    "action_point": "AI 윤리 및 법적 리스크에 노출될 수 있는 기술 기업들의 투자 비중을 재검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "스테이트스트리트 \"EM 성장성 견조, AI 쏠림은 리스크\" - 연합인포맥스",
+    "title_ko": "스테이트스트리트 \"EM 성장성 견조, AI 쏠림은 리스크\"",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9uUG1Fa2VtOEJ5N2JHMV96SFFEZnFoNkJGd2dnN0dVU0p2TndIbGpmeFU5akhRUXM5bFZuSGloZWYtWk9lZ21rOFRXbXFqVDVVRDJFUkRadFZxbTFDZ2QxMkVhRGlPb2lGWFV0RGhFS2U?oc=5",
+    "published": "Wed, 15 Jul 2026 02:39:05 GMT",
+    "fetched_at": "2026-07-15 13:44:41",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "이머징 마켓",
+      "기술주",
+      "반도체"
+    ],
+    "keywords": [
+      "스테이트스트리트",
+      "이머징 마켓",
+      "AI",
+      "성장성",
+      "쏠림 현상",
+      "리스크"
+    ],
+    "reason": "이 뉴스는 이머징 마켓의 견조한 성장성을 강조하며 투자 기회를 시사하는 동시에, AI 관련 자산의 과도한 쏠림 현상이 시장의 잠재적 리스크가 될 수 있음을 경고한다.",
+    "action_point": "이머징 마켓 투자 비중 확대를 고려하고, AI 관련 고평가 기술주 비중 축소를 검토하라."
+  },
+  {
+    "source": "CNBC_Finance",
+    "title": "Earnings season plays: Profit expectations are growing for these stocks while their valuations get cheaper",
+    "title_ko": "어닝 시즌 공략: 이익 기대감은 커지는데 밸류에이션은 저렴해진 주식들",
+    "link": "https://www.cnbc.com/2026/07/14/earnings-season-plays-profit-expectations-are-growing-for-these-stocks.html",
+    "published": "Tue, 14 Jul 2026 14:38:42 GMT",
+    "fetched_at": "2026-07-15 13:42:18",
+    "sentiment": "호재",
+    "importance": 2,
+    "sectors": [],
+    "keywords": [
+      "어닝 시즌",
+      "이익 기대",
+      "밸류에이션",
+      "저평가 주식",
+      "투자 기회"
+    ],
+    "reason": "어닝 시즌을 맞아 이익 성장 기대감이 높지만 주가 하락으로 밸류에이션이 매력적인 개별 주식에 대한 투자 기회가 있음을 시사한다. 이는 시장 변동성 속에서 펀더멘털에 기반한 종목 선별의 중요성을 강조한다.",
+    "action_point": "예상 이익 성장 대비 밸류에이션 매력이 높은 개별 주식 발굴 및 투자 검토."
+  },
+  {
+    "source": "Maeil_Business",
+    "title": "부산 특화산업 보안 기술 인재 양성… 국비 등 5년간 60억 투입",
+    "title_ko": "부산 특화산업 보안 기술 인재 양성… 국비 등 5년간 60억 투입",
+    "link": "https://www.mk.co.kr/news/society/12099139",
+    "published": "Wed, 15 Jul 2026 13:43:16 +09:00",
+    "fetched_at": "2026-07-15 13:44:50",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "조선",
+      "해양",
+      "IT보안"
+    ],
+    "keywords": [
+      "부산",
+      "보안 기술",
+      "인재 양성",
+      "국비",
+      "조선업",
+      "해양산업"
+    ],
+    "reason": "부산 지역 특화 산업(해양, 조선)의 중장기 경쟁력 강화를 위한 정부 지원 사업으로, 해당 산업의 기술력 향상에 기여할 수 있습니다. 다만, 전체 시장에 미치는 거시적 영향은 제한적입니다.",
+    "action_point": "해당 뉴스만으로는 전체 포트폴리오에 영향을 줄 만한 즉각적인 투자 판단 변경은 필요치 않아 '해당 없음'."
+  },
+  {
     "source": "CNBC_World",
     "title": "Stock futures slip after U.S., Iran exchange airstrikes again; Kospi plunges 7%: Live updates",
     "title_ko": "미국-이란 공습 재개 후 주가지수 선물 하락; 코스피 7% 급락: 실시간 업데이트",
