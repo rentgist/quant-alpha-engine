@@ -1,6 +1,69 @@
 [
   {
     "source": "CNBC_World",
+    "title": "Renewed Hormuz hostilities drive ECB rates rethin amid ‘extremely volatile’ outlook",
+    "title_ko": "호르무즈 해협 적대행위 재개, '극도로 불안정한' 전망 속 ECB 금리 결정 재고 촉발",
+    "link": "https://www.cnbc.com/2026/07/15/ecb-interest-rates-outlook-iran-war-hormuz.html",
+    "published": "Wed, 15 Jul 2026 10:52:29 GMT",
+    "fetched_at": "2026-07-15 20:22:47",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "금융"
+    ],
+    "keywords": [
+      "호르무즈 해협",
+      "지정학적 위험",
+      "ECB 금리"
+    ],
+    "reason": "호르무즈 해협의 미-이란 적대행위 재개는 유가 상승 압력을 높이며 인플레이션 우려를 자극한다. 이는 ECB의 금리 결정에 불확실성을 가중시켜 전반적인 시장 변동성을 확대시킬 것이다.",
+    "action_point": "호르무즈 지정학적 위험에 따른 유가 상승 가능성에 대비하여 에너지 섹터 비중 확대를 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "금융당국, 디지털 뱅크런 대응 강화…5대 지주 위기대응계획 승인 - 연합인포맥스",
+    "title_ko": "금융당국, 디지털 뱅크런 대응 강화…5대 지주 위기대응계획 승인",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1SNTJyam43Q1kzN293SWRPXzNuV2R3MnE4V1BFc0FJVWhXNEllNUh3dHFlWGZld0JpcGw3dU5DUlcxOTJKZ0NYdktwOVFzdWQ2THo1a01XWks3RFlsenRZMmdyRm9jZE9PdGowTVFTcDU?oc=5",
+    "published": "Wed, 15 Jul 2026 08:26:43 GMT",
+    "fetched_at": "2026-07-15 20:23:08",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "금융"
+    ],
+    "keywords": [
+      "금융당국",
+      "디지털 뱅크런",
+      "위기대응계획",
+      "금융 안정성"
+    ],
+    "reason": "금융당국의 선제적인 디지털 뱅크런 대응 강화 및 주요 금융지주 위기대응계획 승인은 국내 금융 시스템의 안정성을 높여 시장 불확실성을 완화하고 투자 심리에 긍정적 영향을 미칠 것입니다.",
+    "action_point": "국내 대형 금융주에 대한 긍정적 관점을 유지하고 금융 섹터 투자 비중을 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "Midnight social media curfew and limits to infinite scrolling proposed for older UK teens",
+    "title_ko": "영국, 십대 청소년 대상 심야 소셜 미디어 금지 및 무한 스크롤 제한 제안",
+    "link": "https://www.cnbc.com/2026/07/15/social-media-ban-uk-midnight-curfews-infinite-scroll-teens.html",
+    "published": "Wed, 15 Jul 2026 10:02:30 GMT",
+    "fetched_at": "2026-07-15 20:23:01",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "소셜 미디어",
+      "인터넷 플랫폼"
+    ],
+    "keywords": [
+      "소셜 미디어 규제",
+      "영국 정책",
+      "청소년 보호"
+    ],
+    "reason": "영국 정부의 십대 대상 소셜 미디어 이용 규제 제안은 관련 기업의 사용자 참여도 및 광고 수익에 미미한 부정적 영향을 줄 수 있으나, 단일 국가의 특정 연령대 정책이므로 즉각적인 글로벌 시장 영향은 제한적입니다.",
+    "action_point": "글로벌 소셜 미디어 플랫폼의 매출 및 사용자 기반 내 영국 십대 비중을 분석하여 잠재적 재무 영향도 점검."
+  },
+  {
+    "source": "CNBC_World",
     "title": "Trump warns U.S. strikes on Iran could get ‘really bad’ next week with power plants targeted",
     "title_ko": "트럼프, 이란 전력 시설 표적 미군 공격 다음 주 '매우 심각해질 수 있다' 경고",
     "link": "https://www.cnbc.com/2026/07/15/trump-iran-hormuz-strikes-power-plants-targeted.html",
