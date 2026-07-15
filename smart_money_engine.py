@@ -70,8 +70,9 @@ def _fetch_naver_investor_flow(code: str, days: int = 5) -> dict:
                     "기관순매수_억": to_억(tbl[inst_col]) if inst_col else 0.0,
                 }
         return None
-    except:
-        return None
+    except Exception as e:
+        print(f"  [⚠️ 수급 데이터 미수집] {code}: {e}")
+        return {"외인순매수_억": 0.0, "기관순매수_억": 0.0}
 
 def _analyze_stealth_accumulation(code: str) -> dict | None:
     try:
@@ -99,7 +100,7 @@ def _analyze_stealth_accumulation(code: str) -> dict | None:
             if ma20_vol == 0: continue
             
             daily_vol = vol.iloc[i]
-            if daily_vol >= ma20_vol * 2.5: # 2.5배 이상 폭증
+            if daily_vol >= ma20_vol * 1.8: # 1.8배 이상 폭증 (완화됨)
                 has_volume_spike = True
                 
                 # 윗꼬리 계산: (고가 - max(시가, 종가)) / (고가 - 저가)
@@ -112,7 +113,7 @@ def _analyze_stealth_accumulation(code: str) -> dict | None:
                 wick_len = high - body_top
                 total_len = high - low
                 
-                if total_len > 0 and (wick_len / total_len) >= 0.4: # 윗꼬리가 전체의 40% 이상
+                if total_len > 0 and (wick_len / total_len) >= 0.25: # 윗꼬리가 전체의 25% 이상 (완화됨)
                     has_upper_wick = True
 
         return {
@@ -128,36 +129,31 @@ def calculate_speculative_score(price_data: dict, flow_data: dict | None) -> flo
     has_spike = price_data.get("매집봉발생", False)
     has_wick  = price_data.get("윗꼬리발생", False)
 
-    # 1. 횡보 및 하락 범위 완화 (-12% ~ +15%)
-    # 매집봉 당일 급등을 고려하여 상한선을 +15%로 상향 조정합니다.
-    if not (-12.0 <= change_5d <= 15.0):
+    # 횡보장 또는 약한 하락장(-12% ~ +8%)에서만 매집 유효 (조건 완화)
+    if not (-12.0 <= change_5d <= 8.0):
         return 0.0
 
-    # 2. 기술적 매집 패턴 점수 (가장 직관적인 세력의 거래량/캔들 흔적)
-    tech_score = 0.0
-    if has_spike:
-        tech_score += 15.0
-    if has_wick:
-        tech_score += 10.0
-
-    # 3. 메이저 수급 확인 (외인+기관)
-    flow_score = 0.0
     if flow_data:
         net_buy = flow_data.get("외인순매수_억", 0) + flow_data.get("기관순매수_억", 0)
-        if net_buy > 0:
-            # 수급 유입 시 가산점
-            flow_score = net_buy * 1.5
-        else:
-            # 수급이 음수(매도)이더라도 기술적 매집 패턴(매집봉+윗꼬리)이 동시에 떴다면
-            # 차명계좌(개인 창구)를 통한 세력 개입 가능성을 열어두고 통과시킵니다. (약간의 감점 적용)
+        
+        # 수급 데이터가 없더라도 차트 패턴(매집봉+윗꼬리)이 뚜렷하면 최소 기본 점수(5점) 부여
+        if net_buy <= 0:
             if has_spike and has_wick:
-                flow_score = -2.0
+                net_buy = 5.0
             else:
-                # 매집 패턴도 없는데 메이저 수급도 매도세라면 탈락
                 return 0.0
 
-    total_score = tech_score + flow_score
-    return round(max(total_score, 0.0), 2)
+        # 기본 점수: 순매수 규모 (또는 차트 패턴 기본 점수)
+        base_score = net_buy
+
+        # 보너스 팩터: 세력의 기술적 풋프린트
+        if has_spike:
+            base_score *= 2.0
+        if has_wick:
+            base_score *= 1.5
+
+        return round(base_score, 2)
+    return 0.0
 
 def main():
     os.makedirs(DATA_DIR, exist_ok=True)
@@ -241,8 +237,8 @@ def main():
             "",
             "- **타겟:** KOSDAQ 시가총액 500억~5000억 사이 거래량 급증 종목 30개 동적 스캔.",
             "- **점수:** `순매수(억) × 매집봉 발생(2배) × 윗꼬리 발생(1.5배)`",
-            "- **매집봉(거래량폭증):** 최근 5일 내에 20일 평균 대비 거래량이 2.5배 이상 폭증한 날이 존재함.",
-            "- **윗꼬리(물량뺏기):** 매집봉 발생 당일, 캔들의 윗꼬리가 전체의 40% 이상을 차지함. (세력이 고가에서 개인 물량을 뺏은 전형적 패턴)",
+            "- **매집봉(거래량폭증):** 최근 5일 내에 20일 평균 대비 거래량이 1.8배 이상 폭증한 날이 존재함.",
+            "- **윗꼬리(물량뺏기):** 매집봉 발생 당일, 캔들의 윗꼬리가 전체의 25% 이상을 차지함. (세력이 고가에서 개인 물량을 뺏은 전형적 패턴)",
             "- **수급 주체:** 중소형주의 경우 '기관/외국인' 창구를 통해 사모펀드나 기타 세력 자금이 위장 진입하는 경우가 많습니다.",
             "- **⚠ 주의:** 재무가 극히 부실한 '환기종목'이거나 전환사채(CB) 폭탄이 있는 종목은 제외하고 보셔야 합니다.",
         ]
