@@ -1,5 +1,26 @@
 [
   {
+    "source": "CNBC_World",
+    "title": "Historic IBM stock crash sets up unique options strategy",
+    "title_ko": "역사적인 IBM 주가 폭락, 독특한 옵션 전략을 촉발",
+    "link": "https://www.cnbc.com/2026/07/15/historic-ibm-stock-crash-sets-up-unique-options-strategy.html",
+    "published": "Wed, 15 Jul 2026 17:17:38 GMT",
+    "fetched_at": "2026-07-16 06:49:45",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "기술",
+      "IT 서비스"
+    ],
+    "keywords": [
+      "IBM",
+      "주가 폭락",
+      "기술주"
+    ],
+    "reason": "IBM의 대규모 주가 하락은 해당 기업의 실적 및 미래 성장에 대한 시장의 우려를 반영하며, 이는 기술 섹터 전반의 투자 심리에 부정적 영향을 미칠 수 있습니다.",
+    "action_point": "기술 섹터 대형주 중 이익 성장 둔화 우려가 있는 기업들에 대한 투자 비중 점검."
+  },
+  {
     "source": "GoogleNews_Korea",
     "title": "워시 \"연준, 실물경제에 초점…월가에 초점 맞추지 않을 것\" - 연합인포맥스",
     "title_ko": "워시 \"연준, 실물경제에 초점…월가에 초점 맞추지 않을 것\"",
@@ -2820,27 +2841,5 @@
       "비용효율화"
     ],
     "reason": "Amazon의 퀘벡 사업장 폐쇄 및 1,700명 해고는 해당 지역 경제에 단기적 충격을 주겠으나, 글로벌 증시 및 캐나다 거시경제 전반에 미치는 영향은 제한적일 것으로 분석됨. 이는 기업의 구조조정 및 비용 효율화 움직임의 일환으로 해석될 수 있음."
-  },
-  {
-    "source": "WSJ_Business",
-    "title": "Target Drops DEI Goals and Ends Program to Boost Black Suppliers",
-    "link": "https://www.wsj.com/articles/target-drops-dei-goals-and-ends-program-to-boost-black-suppliers-77cb4c75?mod=pls_whats_news_us_business_f",
-    "published": "Fri, 24 Jan 2025 13:51:00 -0500",
-    "fetched_at": "2026-07-11 23:22:00",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "유통 (Retail)",
-      "소비재 (Consumer Discretionary)",
-      "ESG 투자"
-    ],
-    "keywords": [
-      "DEI",
-      "기업 전략",
-      "ESG",
-      "소매업",
-      "기업 거버넌스"
-    ],
-    "reason": "주요 소매업체의 DEI 목표 철회는 기업 전반의 DEI 이니셔티브 축소 트렌드를 반영하며, 이는 기업 거버넌스 우선순위 변화, 브랜드 이미지 및 ESG 투자 흐름에 미묘한 영향을 미칠 수 있습니다. 거시 경제 변수에 대한 직접적인 영향은 제한적이나, 기업들의 비용 효율성 및 전통적 사업 목표 우선순위 전환 가능성을 시사합니다."
   }
 ]
