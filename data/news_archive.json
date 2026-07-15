@@ -1,6 +1,53 @@
 [
   {
     "source": "CNBC_World",
+    "title": "Stock futures are little changed as traders await retail sales and labor data: Live updates",
+    "title_ko": "소매 판매 및 노동 지표 대기 속 주식 선물 소폭 변동: 실시간 업데이트",
+    "link": "https://www.cnbc.com/2026/07/15/stock-market-today-live-updates.html",
+    "published": "Wed, 15 Jul 2026 23:39:26 GMT",
+    "fetched_at": "2026-07-16 08:51:50",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "소비재",
+      "금융",
+      "기술주"
+    ],
+    "keywords": [
+      "소매 판매",
+      "고용 지표",
+      "인플레이션",
+      "경제 성장",
+      "금리"
+    ],
+    "reason": "투자자들이 경제 둔화의 징후를 확인하여 연방준비제도(Fed)의 금리 정책 경로를 가늠하려 하고 있다. 발표될 소매 판매 및 고용 지표는 향후 금리 인하 기대감에 중요한 영향을 미칠 것이다.",
+    "action_point": "미국 소매 판매 및 고용 지표 발표 후 금리 인하 기대감 변화에 대비하여 포트폴리오 전략을 재점검하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "title": "HP·레알 마드리드, 스마트 업무환경 공개…CIO가 말한 보안 전략",
+    "title_ko": "HP·레알 마드리드, 스마트 업무환경 공개…CIO가 말한 보안 전략",
+    "link": "https://www.mk.co.kr/news/sports/12099917",
+    "published": "Thu, 16 Jul 2026 08:23:13 +09:00",
+    "fetched_at": "2026-07-16 08:52:00",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "IT",
+      "소프트웨어",
+      "보안"
+    ],
+    "keywords": [
+      "스마트 업무환경",
+      "디지털 전환",
+      "AI",
+      "사이버 보안"
+    ],
+    "reason": "글로벌 기업들의 디지털 전환 및 AI, 사이버 보안 기술 도입 가속화 추세를 보여주며 관련 IT 솔루션 시장의 꾸준한 성장을 시사한다. 거시 경제 전반에 미치는 영향은 제한적이다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
     "title": "United earnings top estimates but airline expects $6 billion in added fuel costs",
     "title_ko": "유나이티드 항공, 예상 상회 실적 발표했지만 60억 달러 추가 유류비 예상",
     "link": "https://www.cnbc.com/2026/07/15/united-airlines-ual-2q-2026-earnings.html",
@@ -2800,52 +2847,5 @@
       "과장"
     ],
     "reason": "이 기사는 DeepSeek으로 인해 촉발된 엔비디아, 브로드컴 등 미국 주요 AI 기술주의 매도세가 과장된 공포에 기반한 것이라고 지적하며, 관련 기술주의 주가 안정화 및 잠재적 반등 가능성을 시사합니다. 이는 기술 섹터 전반에 대한 투자 심리 개선과 유동성 유입에 긍정적으로 작용할 수 있습니다."
-  },
-  {
-    "source": "WSJ_Markets",
-    "title": "Financial Services Roundup: Market Talk",
-    "link": "https://www.wsj.com/articles/financial-services-roundup-market-talk-94f52cba?mod=rss_markets_main",
-    "published": "Mon, 27 Jan 2025 12:27:00 -0500",
-    "fetched_at": "2026-07-11 23:30:52",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "금융 서비스",
-      "핀테크"
-    ],
-    "keywords": [
-      "금융 서비스",
-      "Experian",
-      "SoFi Technologies",
-      "기업 분석",
-      "섹터 동향"
-    ],
-    "reason": "이 뉴스는 특정 금융 서비스 기업들의 동향 분석을 담고 있어 개별 기업 및 해당 섹터에 대한 미시적 정보 제공에 가깝습니다. 거시 경제나 광범위한 증시 전반에 미치는 구조적 영향은 제한적입니다."
-  },
-  {
-    "source": "WSJ_World",
-    "title": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
-    "link": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
-    "published": "Mon, 27 Jan 2025 12:32:00 -0500",
-    "fetched_at": "2026-07-11 23:31:00",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "부동산",
-      "건설",
-      "금융",
-      "철강",
-      "시멘트",
-      "원자재"
-    ],
-    "keywords": [
-      "중국 부동산",
-      "부동산 위기",
-      "완커",
-      "경제 둔화",
-      "신용 리스크",
-      "금융 시스템 리스크"
-    ],
-    "reason": "중국 주요 부동산 개발업체의 손실 확대는 부동산 위기의 구조적 확산을 시사하며, 이는 중국 경제 성장 둔화와 글로벌 경기 침체 우려를 심화시킬 것입니다. 금융 시스템의 신용 리스크 증가로 안전 자산 선호 심리가 강화되고 원자재 가격에 하방 압력을 가할 수 있습니다."
   }
 ]
