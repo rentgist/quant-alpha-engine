@@ -1,5 +1,49 @@
 [
   {
+    "source": "CNBC_Finance",
+    "title": "Warren Buffett on the market today: 'It's tough to find values when everybody is preferring gambling'",
+    "title_ko": "워렌 버핏, 오늘날 시장에 대해: '모두가 도박을 선호할 때 가치를 찾기 어렵다'",
+    "link": "https://www.cnbc.com/2026/07/15/warren-buffett-on-the-market-today-its-tough-to-find-values-when-everybody-is-preferring-gambling.html",
+    "published": "Wed, 15 Jul 2026 13:10:18 GMT",
+    "fetched_at": "2026-07-15 22:13:54",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "전반적인 주식 시장",
+      "성장주"
+    ],
+    "keywords": [
+      "워렌 버핏",
+      "시장 투기",
+      "가치 투자",
+      "주식 고평가"
+    ],
+    "reason": "워렌 버핏의 발언은 현재 주식 시장의 투기적 성향에 대한 비판으로, 장기적인 가치 투자의 어려움을 시사합니다. 이는 고평가된 자산에 대한 경고로 해석되며, 시장 전반의 조정 가능성에 대한 우려를 높일 수 있습니다.",
+    "action_point": "포트폴리오 내 투기적 성향의 자산 비중을 축소하고, 기업의 본질 가치에 기반한 투자 전략을 강화하라."
+  },
+  {
+    "source": "CNBC_Finance",
+    "title": "Morgan Stanley posts record quarterly revenue and profit as equities trading surges 69%",
+    "title_ko": "모건 스탠리, 주식 거래 69% 급증에 힘입어 분기 사상 최고 매출 및 이익 기록",
+    "link": "https://www.cnbc.com/2026/07/15/morgan-stanley-ms-earnings-q2-2026-.html",
+    "published": "Wed, 15 Jul 2026 12:14:59 GMT",
+    "fetched_at": "2026-07-15 22:14:07",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "금융",
+      "증권"
+    ],
+    "keywords": [
+      "모건 스탠리",
+      "실적",
+      "주식 거래",
+      "투자은행"
+    ],
+    "reason": "주요 투자은행의 사상 최고 실적 달성은 자본시장의 활발한 거래와 강력한 수요를 시사하며, 이는 전반적인 금융 섹터와 주식 시장에 긍정적인 신호로 해석될 수 있습니다. 특히 주식 거래 부문의 급증은 투자자들의 시장 참여 확대를 반영합니다.",
+    "action_point": "국내외 증권 및 투자은행 관련 금융 섹터 비중 확대 검토"
+  },
+  {
     "source": "CNBC_World",
     "title": "Renewed Hormuz hostilities drive ECB rates rethin amid ‘extremely volatile’ outlook",
     "title_ko": "호르무즈 해협 적대행위 재개, '극도로 불안정한' 전망 속 ECB 금리 결정 재고 촉발",
