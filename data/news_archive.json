@@ -1,5 +1,123 @@
 [
   {
+    "source": "CNBC_World",
+    "title": "ASML jumps over 7% after hiking sales forecast for second time this year on strong AI chip demand",
+    "title_ko": "ASML 주가 7% 이상 급등, AI 칩 수요 강세에 올해 두 번째 매출 전망 상향 조정",
+    "link": "https://www.cnbc.com/2026/07/15/asml-2q-earnings-ai-chips-orders.html",
+    "published": "Wed, 15 Jul 2026 07:06:00 GMT",
+    "fetched_at": "2026-07-15 16:08:00",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "반도체",
+      "IT 하드웨어",
+      "인공지능"
+    ],
+    "keywords": [
+      "ASML",
+      "반도체 장비",
+      "AI 칩",
+      "매출 전망"
+    ],
+    "reason": "ASML의 매출 전망 상향은 AI 칩 수요의 견고함을 재확인하며, 이는 글로벌 반도체 및 IT 산업의 지속적인 성장을 시사한다. 특히 고성능 반도체 생산에 필수적인 장비 수요가 강하다는 의미로 관련 섹터에 긍정적 모멘텀을 제공한다.",
+    "action_point": "AI 칩 수요 강세에 따른 반도체 및 관련 장비 섹터 비중 확대를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "China posts slowest quarterly growth since 2022 as investment slumps, fanning stimulus calls",
+    "title_ko": "중국, 투자 부진으로 2022년 이후 최저 분기 성장률 기록, 경기 부양책 촉구 확산",
+    "link": "https://www.cnbc.com/2026/07/15/china-gdp-retail-sales-investment-june-.html",
+    "published": "Wed, 15 Jul 2026 05:14:11 GMT",
+    "fetched_at": "2026-07-15 16:08:13",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "원자재",
+      "산업재",
+      "소비재",
+      "해운/물류"
+    ],
+    "keywords": [
+      "중국 경제",
+      "성장률 둔화",
+      "투자 부진",
+      "경기 부양책"
+    ],
+    "reason": "중국의 예상치 하회 성장률은 글로벌 수요 둔화 및 주요국 경제 회복 지연을 시사하며, 이는 원자재 시장과 대중국 수출 의존도가 높은 섹터에 부정적 영향을 미칠 수 있습니다.",
+    "action_point": "중국 경기 둔화에 대한 직접적인 노출도가 높은 원자재 및 산업재 섹터 비중 축소를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "The British finance minister choice that's worrying big business",
+    "title_ko": "영국 재무장관 지명 유력 후보, 대기업들 우려",
+    "link": "https://www.cnbc.com/2026/07/15/who-will-be-uks-next-chancellor-ed-miliband-streeting-mcfadden.html",
+    "published": "Wed, 15 Jul 2026 05:30:01 GMT",
+    "fetched_at": "2026-07-15 16:08:21",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "영국 주식시장",
+      "금융",
+      "산업재",
+      "부동산"
+    ],
+    "keywords": [
+      "영국",
+      "재무장관",
+      "에드 밀리밴드",
+      "반기업 정서",
+      "정치 불확실성"
+    ],
+    "reason": "반기업 성향으로 알려진 인물의 영국 재무장관 임명 가능성은 영국 기업 환경에 대한 우려를 높여 국내외 기업 투자를 위축시키고 영국 주식시장 및 파운드화에 부정적 압력을 가할 수 있습니다.",
+    "action_point": "영국 자산(주식, 파운드화)에 대한 투자 비중 축소를 검토하거나 관련 헤지 전략을 수립하십시오."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "Why Europe is suddenly betting big on drones",
+    "title_ko": "유럽이 갑자기 드론에 대규모 투자를 하는 이유",
+    "link": "https://www.cnbc.com/2026/07/15/drones-defense-europe-autonomous-weapons.html",
+    "published": "Wed, 15 Jul 2026 05:05:26 GMT",
+    "fetched_at": "2026-07-15 16:08:05",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "방위산업",
+      "항공우주",
+      "기술 (AI, 로봇공학)"
+    ],
+    "keywords": [
+      "드론",
+      "자율 시스템",
+      "유럽",
+      "국방비 지출",
+      "현대 전쟁"
+    ],
+    "reason": "유럽의 드론 및 자율 시스템 투자는 현대 전쟁의 패러다임 변화를 반영하며, 전 세계적으로 국방 기술 지출 증가 및 관련 산업 성장을 촉진할 수 있습니다.",
+    "action_point": "방위산업 및 드론 관련 기술 기업의 투자 비중 확대를 검토하라."
+  },
+  {
+    "source": "CNBC_Finance",
+    "title": "Stocks making the biggest moves premarket: JPMorgan Chase, Bank of America, IBM, Apple & more",
+    "title_ko": "개장 전 가장 큰 움직임을 보이는 주식들: JP모건 체이스, 뱅크 오브 아메리카, IBM, 애플 외 다수",
+    "link": "https://www.cnbc.com/2026/07/14/stocks-making-the-biggest-moves-premarket-jpm-bac-ibm-aapl.html",
+    "published": "Tue, 14 Jul 2026 12:36:31 GMT",
+    "fetched_at": "2026-07-15 16:07:52",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "금융",
+      "기술"
+    ],
+    "keywords": [
+      "개장 전 움직임",
+      "개별 주식",
+      "금융주",
+      "기술주"
+    ],
+    "reason": "이 기사는 개장 전 주요 개별 기업 주식들의 움직임을 단순히 나열하는 것으로, 특정 거시 경제적 추세나 시장 전반에 대한 유의미한 분석을 제공하지 않습니다. 투자 포트폴리오 전반에 영향을 줄 만한 정보는 포함되어 있지 않습니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "GoogleNews_Korea",
     "title": "[속보]트럼프 “다음 주까지 이란과 합의 안 되면 발전소·교량 공격” - 경향신문",
     "title_ko": "[속보]트럼프 “다음 주까지 이란과 합의 안 되면 발전소·교량 공격”",
