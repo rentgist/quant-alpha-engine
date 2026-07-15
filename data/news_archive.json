@@ -1,6 +1,76 @@
 [
   {
     "source": "CNBC_World",
+    "title": "United earnings top estimates but airline expects $6 billion in added fuel costs",
+    "title_ko": "유나이티드 항공, 예상 상회 실적 발표했지만 60억 달러 추가 유류비 예상",
+    "link": "https://www.cnbc.com/2026/07/15/united-airlines-ual-2q-2026-earnings.html",
+    "published": "Wed, 15 Jul 2026 21:00:11 GMT",
+    "fetched_at": "2026-07-16 07:50:17",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "항공",
+      "여행 및 레저",
+      "에너지"
+    ],
+    "keywords": [
+      "항공주",
+      "유가",
+      "여행 수요",
+      "기업 실적",
+      "인플레이션"
+    ],
+    "reason": "유나이티드 항공의 실적은 견조한 여행 수요를 보여주나, 예상치 못한 60억 달러의 추가 유류비는 항공 산업 전반의 비용 압박을 시사한다. 이는 높은 유가 환경이 지속될 경우 항공사 마진에 부정적 영향을 미칠 수 있다.",
+    "action_point": "항공 섹터 투자 비중 축소 검토"
+  },
+  {
+    "source": "CNBC_Finance",
+    "title": "Stocks making the biggest moves midday: SpaceX, Apple, PayPal, Cava, Progressive, Micron & more",
+    "title_ko": "장중 가장 큰 움직임을 보이는 주식: SpaceX, Apple, PayPal, Cava, Progressive, Micron 등",
+    "link": "https://www.cnbc.com/2026/07/15/stocks-making-the-biggest-moves-midday-spcx-aapl-pypl-cava-pgr-mu.html",
+    "published": "Wed, 15 Jul 2026 16:28:53 GMT",
+    "fetched_at": "2026-07-16 07:50:09",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "기술",
+      "반도체",
+      "핀테크",
+      "소비재",
+      "금융"
+    ],
+    "keywords": [
+      "개별 종목",
+      "장중 변동성",
+      "미국 주식"
+    ],
+    "reason": "이 기사는 특정 개별 종목들의 장중 변동성을 단순 관찰한 것으로, 광범위한 시장이나 거시 경제에 미칠 실질적인 영향은 제한적이며, 각 기업의 개별 이슈에 기인했을 가능성이 높습니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
+    "title": "Buy SpaceX shares ahead of this week's Starship launch, says UBS",
+    "title_ko": "UBS, 이번 주 스타십 발사 앞두고 스페이스X 주식 매수 권고",
+    "link": "https://www.cnbc.com/2026/07/15/buy-spacex-shares-ahead-of-this-weeks-starship-launch-says-ubs.html",
+    "published": "Wed, 15 Jul 2026 15:33:09 GMT",
+    "fetched_at": "2026-07-16 07:50:27",
+    "sentiment": "호재",
+    "importance": 2,
+    "sectors": [
+      "우주항공",
+      "위성통신"
+    ],
+    "keywords": [
+      "SpaceX",
+      "스타십",
+      "UBS",
+      "우주발사"
+    ],
+    "reason": "UBS의 스페이스X 매수 권고는 우주항공 섹터에 대한 긍정적 시그널을 제공하나, 비상장 기업 이슈로 거시경제 전반에 미치는 즉각적인 영향은 제한적이다.",
+    "action_point": "직접적인 스페이스X 주식 매수는 어려우나, 우주항공 관련 상장 ETF 및 기업 투자 기회 모색."
+  },
+  {
+    "source": "CNBC_World",
     "title": "Historic IBM stock crash sets up unique options strategy",
     "title_ko": "역사적인 IBM 주가 폭락, 독특한 옵션 전략을 촉발",
     "link": "https://www.cnbc.com/2026/07/15/historic-ibm-stock-crash-sets-up-unique-options-strategy.html",
@@ -2777,69 +2847,5 @@
       "금융 시스템 리스크"
     ],
     "reason": "중국 주요 부동산 개발업체의 손실 확대는 부동산 위기의 구조적 확산을 시사하며, 이는 중국 경제 성장 둔화와 글로벌 경기 침체 우려를 심화시킬 것입니다. 금융 시스템의 신용 리스크 증가로 안전 자산 선호 심리가 강화되고 원자재 가격에 하방 압력을 가할 수 있습니다."
-  },
-  {
-    "source": "WSJ_Business",
-    "title": "Wall Street Banks Prepare to Sell Billions of Dollars of X Loans",
-    "link": "https://www.wsj.com/articles/wall-street-banks-prepare-to-sell-billions-of-dollars-of-x-loans-c609beb1?mod=pls_whats_news_us_business_f",
-    "published": "Fri, 24 Jan 2025 15:37:00 -0500",
-    "fetched_at": "2026-07-11 23:21:31",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "은행",
-      "신용 시장",
-      "사모펀드"
-    ],
-    "keywords": [
-      "신용 경색",
-      "자산 건전성",
-      "은행 유동성",
-      "레버리지 대출"
-    ],
-    "reason": "은행들이 잠재적으로 부실 우려가 있는 대출 자산을 할인 매각하는 것은 신용 시장의 경색과 자산 건전성 악화를 시사합니다. 이는 은행권의 수익성 압박과 전반적인 대출 시장의 위축으로 이어져 경제 성장 둔화 요인으로 작용할 수 있습니다."
-  },
-  {
-    "source": "WSJ_Business",
-    "title": "Canada to Provide $720 Million to Canada Post to Avoid Insolvency at Mail Service",
-    "link": "https://www.wsj.com/articles/canada-to-provide-720-million-to-canada-post-to-avoid-insolvency-at-mail-service-fc09a6b9?mod=pls_whats_news_us_business_f",
-    "published": "Fri, 24 Jan 2025 15:13:00 -0500",
-    "fetched_at": "2026-07-11 23:21:40",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "우정 서비스",
-      "물류"
-    ],
-    "keywords": [
-      "캐나다 포스트",
-      "구제금융",
-      "정부 재정 지원",
-      "국영기업",
-      "파산 방지"
-    ],
-    "reason": "캐나다 정부의 우체국 파산 방지 재정 지원은 국영기업의 운영 비효율성을 드러내지만, 거시경제 전반에 미치는 영향은 제한적인 개별 기업 구제금융으로 평가된다. 이는 특정 서비스의 연속성 확보에 초점을 맞춘 조치로, 시장의 구조적 변동성을 유발하지 않는다."
-  },
-  {
-    "source": "WSJ_Business",
-    "title": "Amazon Willing to Discuss Quebec Shutdown With Canadian Officials",
-    "link": "https://www.wsj.com/articles/amazon-willing-to-discuss-quebec-shutdown-with-canadian-officials-610e5f59?mod=pls_whats_news_us_business_f",
-    "published": "Fri, 24 Jan 2025 14:15:00 -0500",
-    "fetched_at": "2026-07-11 23:21:48",
-    "sentiment": "악재",
-    "importance": 2,
-    "sectors": [
-      "캐나다 지역 경제",
-      "전자상거래/소매",
-      "물류"
-    ],
-    "keywords": [
-      "Amazon",
-      "퀘벡",
-      "고용",
-      "사업철수",
-      "비용효율화"
-    ],
-    "reason": "Amazon의 퀘벡 사업장 폐쇄 및 1,700명 해고는 해당 지역 경제에 단기적 충격을 주겠으나, 글로벌 증시 및 캐나다 거시경제 전반에 미치는 영향은 제한적일 것으로 분석됨. 이는 기업의 구조조정 및 비용 효율화 움직임의 일환으로 해석될 수 있음."
   }
 ]
