@@ -1,5 +1,28 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "title": "워시 \"연준, 실물경제에 초점…월가에 초점 맞추지 않을 것\" - 연합인포맥스",
+    "title_ko": "워시 \"연준, 실물경제에 초점…월가에 초점 맞추지 않을 것\"",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5fbHZwZ0syMDc1dkIzbFR5a25mc0lZUk5iSUFfUXZOVEMyOXQ0NFFYRGlqcDJ1TzJSUi1ob2N0Y0prb1ZPVnppRGo1a1c3RTBjM3RCTVRUajI0TEZGWXZuWExoNUFIUlhZbWw4dTdjeHg?oc=5",
+    "published": "Wed, 15 Jul 2026 18:22:04 GMT",
+    "fetched_at": "2026-07-16 05:04:42",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "기술주 (성장주)",
+      "금융",
+      "부동산"
+    ],
+    "keywords": [
+      "연준",
+      "통화정책",
+      "금리",
+      "실물경제"
+    ],
+    "reason": "연준이 월가보다 실물경제에 초점을 맞출 것이라는 발언은 금융시장의 완화 정책 기대감을 낮추고, 인플레이션 억제를 위한 금리 '고금리 장기화' 기조를 강화할 수 있다. 이는 위험 자산에 대한 투자 심리에 부정적 영향을 미칠 수 있다.",
+    "action_point": "고금리 장기화 가능성에 대비하여 금리 민감도가 높은 성장주 및 부동산 관련 자산 비중 축소 검토."
+  },
+  {
     "source": "CNBC_Finance",
     "title": "Anthropic moves closer to mega-IPO as bankers line up investor meetings",
     "title_ko": "앤트로픽, 투자자 미팅 준비하며 대규모 IPO에 한 걸음 더 가까워져",
@@ -2819,25 +2842,5 @@
       "기업 거버넌스"
     ],
     "reason": "주요 소매업체의 DEI 목표 철회는 기업 전반의 DEI 이니셔티브 축소 트렌드를 반영하며, 이는 기업 거버넌스 우선순위 변화, 브랜드 이미지 및 ESG 투자 흐름에 미묘한 영향을 미칠 수 있습니다. 거시 경제 변수에 대한 직접적인 영향은 제한적이나, 기업들의 비용 효율성 및 전통적 사업 목표 우선순위 전환 가능성을 시사합니다."
-  },
-  {
-    "source": "WSJ_Business",
-    "title": "Energy & Utilities Roundup: Market Talk",
-    "link": "https://www.wsj.com/articles/energy-utilities-roundup-market-talk-08708375?mod=pls_whats_news_us_business_f",
-    "published": "Fri, 24 Jan 2025 12:29:00 -0500",
-    "fetched_at": "2026-07-11 23:22:07",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "에너지",
-      "유틸리티"
-    ],
-    "keywords": [
-      "에너지",
-      "유틸리티",
-      "기업분석",
-      "원자재"
-    ],
-    "reason": "에너지 및 유틸리티 섹터 내 개별 기업들의 동향을 다루는 소식으로, 해당 섹터 투자자에게는 중요하나 거시경제 전반의 금리, 환율, 유동성 등 구조적 변화를 야기할 정도의 광범위한 영향은 제한적입니다."
   }
 ]
