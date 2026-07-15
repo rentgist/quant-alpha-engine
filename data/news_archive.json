@@ -1,5 +1,49 @@
 [
   {
+    "source": "CNBC_World",
+    "title": "Wholesale prices unexpectedly declined 0.3% in June on big drop in gasoline",
+    "title_ko": "6월 도매물가, 휘발유 가격 급락에 예상외로 0.3% 하락",
+    "link": "https://www.cnbc.com/2026/07/15/wholesale-inflation-june-2026-.html",
+    "published": "Wed, 15 Jul 2026 14:22:48 GMT",
+    "fetched_at": "2026-07-16 00:19:23",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "소비재",
+      "기술주"
+    ],
+    "keywords": [
+      "도매물가",
+      "인플레이션",
+      "에너지 가격"
+    ],
+    "reason": "예상치 못한 도매물가 하락은 에너지 가격 안정화에 기인하며, 전반적인 인플레이션 압력 완화를 시사한다. 이는 연방준비제도(Fed)의 금리 인상 속도 조절 가능성을 높여 시장에 긍정적으로 작용할 수 있다.",
+    "action_point": "인플레이션 둔화 기대감으로 미국 성장주 및 금리 민감 자산에 대한 투자 매력을 재평가하라."
+  },
+  {
+    "source": "CNBC_Finance",
+    "title": "Star analyst Dan Ives forms Yorkville Ives merchant bank after leaving Wedbush",
+    "title_ko": "스타 애널리스트 댄 아이브스, 웨드부시 떠나 요크빌 아이브스 머천트 뱅크 설립",
+    "link": "https://www.cnbc.com/2026/07/15/star-analyst-dan-ives-forms-yorkville-ives-merchant-bank-after-leaving-wedbush.html",
+    "published": "Wed, 15 Jul 2026 11:51:55 GMT",
+    "fetched_at": "2026-07-16 00:19:13",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "금융 서비스",
+      "투자은행"
+    ],
+    "keywords": [
+      "댄 아이브스",
+      "머천트 뱅크",
+      "투자은행",
+      "금융 서비스"
+    ],
+    "reason": "유명 애널리스트의 이직 및 신규 투자은행 설립은 금융 서비스 산업 내 경쟁 구도 및 특정 섹터 리서치 역량에 미묘한 변화를 가져올 수 있으나, 거시 경제 전반이나 주요 자산 시장에 직접적인 파급 효과는 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "CNBC_Finance",
     "title": "Warren Buffett on the market today: 'It's tough to find values when everybody is preferring gambling'",
     "title_ko": "워렌 버핏, 오늘날 시장에 대해: '모두가 도박을 선호할 때 가치를 찾기 어렵다'",
