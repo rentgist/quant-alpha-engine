@@ -1,6 +1,269 @@
 [
   {
     "source": "CNBC_World",
+    "title": "Trump warns U.S. strikes on Iran could get ‘really bad’ next week with power plants targeted",
+    "title_ko": "트럼프, 이란 전력 시설 표적 미군 공격 다음 주 '매우 심각해질 수 있다' 경고",
+    "link": "https://www.cnbc.com/2026/07/15/trump-iran-hormuz-strikes-power-plants-targeted.html",
+    "published": "Wed, 15 Jul 2026 09:24:29 GMT",
+    "fetched_at": "2026-07-15 18:52:06",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "에너지(석유 및 가스)",
+      "방산",
+      "해운"
+    ],
+    "keywords": [
+      "미국-이란 갈등",
+      "지정학적 리스크",
+      "유가",
+      "중동"
+    ],
+    "reason": "중동 지역의 지정학적 리스크가 급격히 고조되어, 원유 공급 차질 및 유가 급등 가능성이 높아졌습니다. 이는 글로벌 인플레이션 압력을 가중시키고 시장 변동성을 확대할 것입니다.",
+    "action_point": "중동 지정학적 리스크 심화에 따른 유가 급등 가능성에 대비하여 안전자산(달러, 금) 비중을 확대하고, 에너지 및 방산 섹터에 대한 비중 확대를 검토해야 함."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "[영상] 美, 재봉쇄·공습에 이란 반격…전쟁 다시 시작? - 연합뉴스",
+    "title_ko": "[영상] 美, 재봉쇄·공습에 이란 반격…전쟁 다시 시작?",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1fNTBTWWJEZTdMWXJOT0FIWXZYTFFjUTJkYkIxZFotUWtvYnNjNGZUWGtvYkFiN0VQSnZHTzBnOUtWU0RndlNzV1haRU1jSmphd2pNRmNIQ1I1MVh5ZG54WNIBYEFVX3lxTE1fNTBTWWJEZTdMWXJOT0FIWXZYTFFjUTJkYkIxZFotUWtvYnNjNGZUWGtvYkFiN0VQSnZHTzBnOUtWU0RndlNzV1haRU1jSmphd2pNRmNIQ1I1MVh5ZG54WA?oc=5",
+    "published": "Wed, 15 Jul 2026 04:54:47 GMT",
+    "fetched_at": "2026-07-15 18:52:40",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "에너지",
+      "국방/항공우주",
+      "해운/물류",
+      "금융"
+    ],
+    "keywords": [
+      "미국",
+      "이란",
+      "지정학적 리스크",
+      "중동",
+      "유가",
+      "전쟁"
+    ],
+    "reason": "미국과 이란 간 군사적 긴장 고조는 중동 지역 불안정성을 심화시키고 호르무즈 해협을 통한 원유 공급 차질 우려로 국제 유가 급등을 유발하여 글로벌 경제에 심각한 악영향을 미칠 수 있습니다. 이는 위험자산 회피 심리를 부추길 것입니다.",
+    "action_point": "원유 및 지정학적 리스크에 노출된 자산 비중을 축소하고, 안전자산(금, 달러) 편입을 고려하십시오."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "송민순 \"이란전쟁이 남북 대결구도 강화…비핵화 논의 불가능\" - v.daum.net",
+    "title_ko": "송민순 \"이란전쟁이 남북 대결구도 강화…비핵화 논의 불가능\"",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE13MGZoMTB0eGNjR2NBUF9yQkhHeTNQazVIR25XNzd5dS1LQVFHNzA5QmJmZnFrMWdnc1JaQTBDYUwzU1JuQ2g3X29MeUtQdGs?oc=5",
+    "published": "Wed, 15 Jul 2026 08:23:54 GMT",
+    "fetched_at": "2026-07-15 18:53:07",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "방산",
+      "에너지",
+      "증권(전반)"
+    ],
+    "keywords": [
+      "이란 전쟁",
+      "지정학적 리스크",
+      "한반도 긴장",
+      "비핵화"
+    ],
+    "reason": "이란 전쟁 발발 시 글로벌 지정학적 리스크가 급증하며 유가에 큰 영향을 미칠 것이다. 특히 한반도 내 남북 대결 구도 강화를 통해 국내 자산의 코리아 디스카운트 심화 및 투자 불확실성을 높일 수 있다.",
+    "action_point": "지정학적 리스크 심화에 대비해 국내 주식 비중 축소 및 달러 자산 비중 확대를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "Treasury yields rise as investors await latest producer price inflation data",
+    "title_ko": "생산자 물가 지표 발표 앞두고 미 국채 수익률 상승",
+    "link": "https://www.cnbc.com/2026/07/15/treasury-yields-investors-producer-price-inflation-data.html",
+    "published": "Wed, 15 Jul 2026 09:30:12 GMT",
+    "fetched_at": "2026-07-15 18:52:21",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "기술주",
+      "성장주",
+      "부동산"
+    ],
+    "keywords": [
+      "국채 수익률",
+      "생산자 물가 지표",
+      "인플레이션",
+      "금리"
+    ],
+    "reason": "생산자 물가 지표 발표를 앞두고 국채 수익률이 상승하는 것은 인플레이션 압력 지속과 연준의 매파적 스탠스 유지 가능성에 대한 시장의 기대를 반영합니다. 이는 주식 시장, 특히 고성장 기술주와 금리 민감도가 높은 자산에 부정적인 영향을 미 미칠 수 있습니다.",
+    "action_point": "금리 민감도가 높은 장기 성장주 및 부동산 관련 자산 비중 축소를 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "'수출 호조에도 왜?' 중국 경제성장률 급락, 연간 목표치를 밑돌아 - BBC",
+    "title_ko": "'수출 호조에도 왜?' 중국 경제성장률 급락, 연간 목표치를 밑돌아 - BBC",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE52UVRRTTIyQW5udGJFTjhSbEhmTHc4Q2QyTHdTd1BWNzE5b0p0U0hWZk5LbmNjdUY5ZWh2MlBZaEczSnd3RVZGSlRfLXlrdU9HYTlfdmthLW01dTVn0gFiQVVfeXFMUDU0UmVDOFl4VUpZYzlneGtDWHJCX3luT1pfdFhKaGZENGxvWTRjRTZYNTltalJDYXVBUG9IV3I2Qy1IMGljUEdDV0k3d3JQbmVXV05QUzNZSWl5QkJPQk1jV0E?oc=5",
+    "published": "Wed, 15 Jul 2026 09:00:00 GMT",
+    "fetched_at": "2026-07-15 18:52:32",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "수출",
+      "원자재",
+      "산업재",
+      "글로벌 매크로"
+    ],
+    "keywords": [
+      "중국 경제",
+      "경제 성장률",
+      "글로벌 경기 둔화",
+      "수출"
+    ],
+    "reason": "세계 경제의 주요 성장 동력인 중국의 경제성장률 급락은 글로벌 수요 둔화를 시사하며, 이는 대중국 수출 의존도가 높은 한국 경제와 원자재 시장에 부정적인 영향을 미칠 것입니다.",
+    "action_point": "중국 경기 둔화에 민감한 수출 및 원자재 관련 자산 비중 축소를 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "中 2분기 경제성장률 4.3%... 2022년 이후 최저 - 조선일보",
+    "title_ko": "中 2분기 경제성장률 4.3%... 2022년 이후 최저 - 조선일보",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaXJvdmVEUThXbzJ2ZldUaUJVSGhuMnhDcnlVYU5ZZk5rNDFHYmtsR0l2eVllX1pPdUdySnN6eUlyWGtnU3E1QlhnVXRJLW5qampsWllfeDFzMFZiblFBSV9zNmlvMFRnSHYzMnpKS21wazNhdTltMjRsYkZ4MDRYbmNXcXgtTnYxajhXUTdnTVpRQ1FQc2FKRThhU3Fxdw?oc=5",
+    "published": "Wed, 15 Jul 2026 07:11:44 GMT",
+    "fetched_at": "2026-07-15 18:52:47",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "수출주",
+      "반도체",
+      "화학",
+      "산업재",
+      "원자재"
+    ],
+    "keywords": [
+      "중국 경제",
+      "경제성장률",
+      "경기 둔화",
+      "수출 감소",
+      "글로벌 경기"
+    ],
+    "reason": "중국의 2분기 경제성장률이 예상치를 하회하며 경기 둔화 우려가 심화되고 있습니다. 이는 한국 등 대중국 수출 의존도가 높은 국가들의 경제 성장 및 기업 실적에 부정적인 영향을 미 미칠 수 있습니다.",
+    "action_point": "중국 수출 비중이 높은 국내 기업 및 원자재 관련 자산 비중 축소를 검토하십시오."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "[글로벌+] 끝날 때까지 끝나지 않은 이란 전쟁···폭염 이어지는 미국 - 대구MBC",
+    "title_ko": "[글로벌+] 끝날 때까지 끝나지 않은 이란 전쟁···폭염 이어지는 미국",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE41MmxNRWZRSjdQTlhkSzFpbmVSYzRKU3g4cVpxamRXOGJfZ3pmRElmaTllNU0tTjlmTzRKcWFDdEVnY3g3eUYzNS1PcVk?oc=5",
+    "published": "Wed, 15 Jul 2026 08:05:23 GMT",
+    "fetched_at": "2026-07-15 18:52:56",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "방산",
+      "운송",
+      "농업",
+      "귀금속"
+    ],
+    "keywords": [
+      "이란",
+      "지정학",
+      "전쟁",
+      "폭염",
+      "미국",
+      "유가",
+      "인플레이션"
+    ],
+    "reason": "이란발 지정학적 리스크 지속은 국제 유가 상승 압력과 투자 심리 위축을 야기하며, 미국 폭염은 에너지 수요 증가 및 농산물 가격 불안정을 심화시켜 전반적인 인플레이션 압력을 높일 수 있습니다.",
+    "action_point": "에너지 및 방산 섹터 비중 확대 검토, 금 등 안전자산 보유 유지."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "PayPal jumps 16% in premarket on report of Stripe, Advent $53 billion takeover offer",
+    "title_ko": "Stripe와 Advent, PayPal에 530억 달러 인수 제안 보도에 PayPal 주가 개장 전 16% 급등",
+    "link": "https://www.cnbc.com/2026/07/15/stripe-advent-offer-to-buy-paypal-for-more-than-53-billion-reuters.html",
+    "published": "Wed, 15 Jul 2026 09:29:08 GMT",
+    "fetched_at": "2026-07-15 18:52:16",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "핀테크",
+      "결제 서비스"
+    ],
+    "keywords": [
+      "PayPal",
+      "Stripe",
+      "인수합병",
+      "핀테크"
+    ],
+    "reason": "이 뉴스는 핀테크/결제 서비스 섹터 내 M&A 활성화 및 기업 가치 재평가 가능성을 시사합니다. PayPal 주가에는 단기적인 호재로 작용합니다.",
+    "action_point": "핀테크 및 결제 서비스 섹터의 인수합병 동향을 주시하고 잠재적 투자 기회를 모색."
+  },
+  {
+    "source": "CNBC_Finance",
+    "title": "Stocks making the biggest moves midday: IBM, Goldman Sachs, CleanSpark, HCA Healthcare & more",
+    "title_ko": "장중 큰 움직임을 보이는 주식들: IBM, 골드만삭스, 클린스파크, HCA 헬스케어 외",
+    "link": "https://www.cnbc.com/2026/07/14/stocks-making-big-moves-midday-ibm-goldman-cleanspark-hca-more-.html",
+    "published": "Tue, 14 Jul 2026 16:48:07 GMT",
+    "fetched_at": "2026-07-15 18:51:43",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "기술",
+      "금융",
+      "헬스케어",
+      "에너지"
+    ],
+    "keywords": [
+      "주식 동향",
+      "장중 변동성",
+      "개별 기업"
+    ],
+    "reason": "이 기사는 장중 특정 개별 기업들의 주가 움직임을 나열할 뿐, 전반적인 시장 방향성이나 거시 경제 동향에 대한 구체적인 분석 또는 정보를 제공하지 않습니다. 따라서 특정 자산군에 대한 직접적인 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_Finance",
+    "title": "'Listing is a must': Chinese humanoid startups are rushing to launch IPOs",
+    "title_ko": "'상장은 필수': 중국 휴머노이드 스타트업들, IPO 서두르고 있어",
+    "link": "https://www.cnbc.com/2026/07/13/chinese-humanoid-startups-ipo-limx-unitree.html",
+    "published": "Tue, 14 Jul 2026 00:31:01 GMT",
+    "fetched_at": "2026-07-15 18:51:56",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "로봇 산업",
+      "인공지능(AI)",
+      "IT 하드웨어",
+      "자동화 솔루션"
+    ],
+    "keywords": [
+      "휴머노이드",
+      "IPO",
+      "중국",
+      "스타트업",
+      "로봇",
+      "기술주"
+    ],
+    "reason": "중국 휴머노이드 스타트업들이 공격적으로 IPO를 추진하며 해당 기술 섹터에 대한 투자자들의 높은 관심과 자금 유입을 시사합니다. 이는 로봇 및 AI 산업 내 경쟁 심화와 잠재적인 과열 가능성을 동시에 보여줍니다.",
+    "action_point": "국내외 로봇 및 AI 관련 기술주의 밸류에이션 과열 여부를 분석하고 투자 전략을 재검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "[속보] 대법원, 24일 김건희 첫 상고심 선고 생중계 결정 - MBC 뉴스",
+    "title_ko": "[속보] 대법원, 24일 김건희 첫 상고심 선고 생중계 결정 - MBC 뉴스",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlNERiN1RxeXRrRzFOWFNJcXlRWWRGMzlsSHpvWjRkSldpcEJHUkN3R2cwenMwc21LblJiQU01WXh1UnFGeXlDaDBKQmV2SWJzRzV3MFpZTGtXQUtCMVVYN2p0MXJBaV9QSXdBSWdxYTA1Zm1yeDRV0gF3QVVfeXFMTXRxbzI4WUF4WXNBZnREOUNxQlRxUEdmczFvNmpEd1Z3ZUY0UXAyYlJlNDUxUUFEQzVOdkpUNGJYeXJ2WlVWemtEMmtsTGtNQTg5NGhjM3Z4amdOLU9UYV9DYUY5ZmZqYUhrdFVDTGxOS3owdFczbnM?oc=5",
+    "published": "Wed, 15 Jul 2026 07:31:29 GMT",
+    "fetched_at": "2026-07-15 18:53:15",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [],
+    "keywords": [
+      "김건희",
+      "상고심",
+      "대법원",
+      "생중계"
+    ],
+    "reason": "이 뉴스는 영부인 관련 대법원 상고심 선고의 생중계 결정에 대한 것으로, 국내 정치적 이슈의 주목도를 높일 수는 있으나, 거시경제 지표나 기업의 실적에 직접적인 영향을 미치지 않아 금융 시장 전반에 대한 파급 효과는 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
     "title": "ASML jumps over 7% after hiking sales forecast for second time this year on strong AI chip demand",
     "title_ko": "ASML 주가 7% 이상 급등, AI 칩 수요 강세에 올해 두 번째 매출 전망 상향 조정",
     "link": "https://www.cnbc.com/2026/07/15/asml-2q-earnings-ai-chips-orders.html",
