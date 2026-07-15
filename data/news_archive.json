@@ -1,5 +1,28 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "title": "[속보] 트럼프 \"이란과 대화했다…내주까지 합의 안되면 발전소 공격\" - 연합뉴스TV",
+    "title_ko": "[속보] 트럼프 \"이란과 대화했다…내주까지 합의 안되면 발전소 공격\"",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkMW1EYVdqd1BtOXBQT1ltUl9YNUJ6Rnk4SFBmMXh3ejBlOVNLOVo4bFFKbG14Y3VBM2NGSjI4cWZDNVFFcUpid2lyODhOWkFYNUkyMzhpUnhhUjNXZThhak9XdVEtMU0?oc=5",
+    "published": "Tue, 14 Jul 2026 22:24:00 GMT",
+    "fetched_at": "2026-07-15 10:26:31",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "원자재",
+      "방위산업",
+      "정유/에너지"
+    ],
+    "keywords": [
+      "트럼프",
+      "이란",
+      "지정학적 리스크",
+      "국제유가"
+    ],
+    "reason": "트럼프의 대이란 군사 타격 위협은 중동발 지정학적 위기를 고조시켜 국제 유가 급등과 글로벌 인플레이션 우려를 자극하며 금융시장 전반의 변동성을 키울 수 있습니다.",
+    "action_point": "방산 및 정유 섹터 비중을 단기 확대하고 달러와 금 등 안전자산 보유 비중을 늘려 지정학적 리스크에 대비하십시오."
+  },
+  {
     "source": "CNBC_Finance",
     "title": "Stocks making the biggest moves midday: IBM, Goldman Sachs, CleanSpark, HCA Healthcare & more",
     "title_ko": "장중 가장 크게 움직인 종목들: IBM, 골드만삭스, 클린스파크, HCA 헬스케어 등",
@@ -2828,26 +2851,5 @@
       "과장"
     ],
     "reason": "이 기사는 DeepSeek으로 인해 촉발된 엔비디아, 브로드컴 등 미국 주요 AI 기술주의 매도세가 과장된 공포에 기반한 것이라고 지적하며, 관련 기술주의 주가 안정화 및 잠재적 반등 가능성을 시사합니다. 이는 기술 섹터 전반에 대한 투자 심리 개선과 유동성 유입에 긍정적으로 작용할 수 있습니다."
-  },
-  {
-    "source": "WSJ_Markets",
-    "title": "Financial Services Roundup: Market Talk",
-    "link": "https://www.wsj.com/articles/financial-services-roundup-market-talk-94f52cba?mod=rss_markets_main",
-    "published": "Mon, 27 Jan 2025 12:27:00 -0500",
-    "fetched_at": "2026-07-11 23:30:52",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "금융 서비스",
-      "핀테크"
-    ],
-    "keywords": [
-      "금융 서비스",
-      "Experian",
-      "SoFi Technologies",
-      "기업 분석",
-      "섹터 동향"
-    ],
-    "reason": "이 뉴스는 특정 금융 서비스 기업들의 동향 분석을 담고 있어 개별 기업 및 해당 섹터에 대한 미시적 정보 제공에 가깝습니다. 거시 경제나 광범위한 증시 전반에 미치는 구조적 영향은 제한적입니다."
   }
 ]
