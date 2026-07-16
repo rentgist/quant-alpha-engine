@@ -1,6 +1,30 @@
 [
   {
     "source": "CNBC_World",
+    "title": "SK Hynix shares plunge 10% as Asia sees tech rout, tracking U.S. chip losses",
+    "title_ko": "SK하이닉스 주가 10% 급락, 미국 반도체 하락에 아시아 기술주 폭락",
+    "link": "https://www.cnbc.com/2026/07/16/sk-hynix-falls-amid-asia-tech-rout-tracking-us-semiconductor-losses.html",
+    "published": "Thu, 16 Jul 2026 01:21:41 GMT",
+    "fetched_at": "2026-07-16 10:45:43",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "반도체",
+      "IT",
+      "기술주"
+    ],
+    "keywords": [
+      "SK하이닉스",
+      "반도체",
+      "기술주",
+      "미국 반도체",
+      "아시아 증시"
+    ],
+    "reason": "미국 반도체 약세가 아시아 기술주 전반으로 확산되며 글로벌 기술 섹터에 대한 투자심리 위축을 시사합니다. 한국 경제의 핵심인 반도체 수출 및 관련 기업 실적에 부정적 영향을 미칠 수 있습니다.",
+    "action_point": "반도체 및 기술주 비중 축소 또는 포트폴리오 리스크 헤지 전략을 검토하십시오."
+  },
+  {
+    "source": "CNBC_World",
     "title": "Stock futures are little changed as traders await retail sales and labor data: Live updates",
     "title_ko": "소매 판매 및 노동 지표 대기 속 주식 선물 소폭 변동: 실시간 업데이트",
     "link": "https://www.cnbc.com/2026/07/15/stock-market-today-live-updates.html",
@@ -2823,29 +2847,5 @@
     ],
     "reason": "뇌-컴퓨터 인터페이스(BCI) 기술 개발 경쟁 심화를 보여주며, 관련 신경과학 기술 및 의료기기 섹터의 장기적인 성장 잠재력을 시사한다.",
     "action_point": "해당 없음"
-  },
-  {
-    "source": "WSJ_Markets",
-    "title": "DeepSeek Won't Sink U.S. AI Titans",
-    "link": "https://www.wsj.com/articles/deepseek-us-ai-stocks-nvidia-broadcom-6cdfae81?mod=rss_markets_main",
-    "published": "Mon, 27 Jan 2025 13:12:00 -0500",
-    "fetched_at": "2026-07-11 23:30:46",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "AI",
-      "반도체",
-      "기술주"
-    ],
-    "keywords": [
-      "DeepSeek",
-      "AI",
-      "Nvidia",
-      "Broadcom",
-      "기술주",
-      "매도세",
-      "과장"
-    ],
-    "reason": "이 기사는 DeepSeek으로 인해 촉발된 엔비디아, 브로드컴 등 미국 주요 AI 기술주의 매도세가 과장된 공포에 기반한 것이라고 지적하며, 관련 기술주의 주가 안정화 및 잠재적 반등 가능성을 시사합니다. 이는 기술 섹터 전반에 대한 투자 심리 개선과 유동성 유입에 긍정적으로 작용할 수 있습니다."
   }
 ]
