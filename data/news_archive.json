@@ -1,6 +1,51 @@
 [
   {
     "source": "CNBC_World",
+    "title": "Eli Lilly to buy psychedelics maker AtaiBeckley for $2.8 billion as experimental treatments gain traction",
+    "title_ko": "일라이 릴리, 실험적 치료제 주목받으면서 환각제 치료제 개발사 아타이벡클리 28억 달러에 인수",
+    "link": "https://www.cnbc.com/2026/07/16/eli-lilly-to-buy-psychedelics-maker-ataibeckley-2point8-billion.html",
+    "published": "Thu, 16 Jul 2026 10:48:39 GMT",
+    "fetched_at": "2026-07-16 22:21:44",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "제약",
+      "바이오테크",
+      "헬스케어"
+    ],
+    "keywords": [
+      "일라이 릴리",
+      "환각제 치료제",
+      "제약 M&A",
+      "바이오 신약"
+    ],
+    "reason": "이 인수는 환각제 기반 실험적 치료제 시장의 성장 잠재력과 제약 바이오 섹터 내 혁신 신약 개발 투자의 확대를 보여준다. 이는 관련 기술을 보유한 바이오 기업들의 가치 상승으로 이어질 수 있다.",
+    "action_point": "환각제 및 신기술 기반 혁신 신약 개발에 특화된 글로벌 제약/바이오 기업 투자 비중 확대를 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "[속보]\"단일 레버리지 ETF, 신규상장 잠정중단...광고도 금지\" - 아시아경제",
+    "title_ko": "단일 레버리지 ETF, 신규상장 잠정중단...광고도 금지",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5XdWp3bUZnU3g1SFJJSHlXalBENEpJNEViT29fNHJ3STlXRzBjSFJyZ1pWMnQzWk03RGhNWHFvM0RTLTJLQ3dBNXl0ak05NWFtdTNhdGVmVFRhN1pWUVVEMg?oc=5",
+    "published": "Thu, 16 Jul 2026 07:09:36 GMT",
+    "fetched_at": "2026-07-16 22:21:54",
+    "sentiment": "악재",
+    "importance": 2,
+    "sectors": [
+      "자산운용",
+      "증권"
+    ],
+    "keywords": [
+      "레버리지 ETF",
+      "규제",
+      "신규상장 중단",
+      "광고 금지"
+    ],
+    "reason": "금융당국의 단일 레버리지 ETF 규제 강화로 고위험 상품에 대한 시장 접근성이 제한되며, 관련 상품을 운용하는 자산운용사 및 증권사의 수익성에 부정적 영향을 미칠 수 있습니다.",
+    "action_point": "단일 레버리지 ETF 신규 투자 계획을 보류하고, 포트폴리오 내 고위험 자산 비중을 재검토."
+  },
+  {
+    "source": "CNBC_World",
     "title": "Nvidia unveils new AI model and expands Japan’s physical AI ecosystem",
     "title_ko": "엔비디아, 새로운 AI 모델 공개 및 일본 내 물리적 AI 생태계 확장",
     "link": "https://www.cnbc.com/2026/07/16/nvidia-reveals-new-ai-model-and-expands-japans-physical-ai-ecosystem.html",
@@ -2795,51 +2840,5 @@
     ],
     "reason": "린지 그레이엄 상원의원의 사망은 미국 정치권 소식이지만, 즉각적인 상원 권력 구도 변화나 주요 정책 결정에 직접적인 영향을 미칠 가능성은 낮아 금융 시장에 미치는 영향은 제한적입니다.",
     "action_point": "해당 없음"
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "[부동산 손플노트] 최상의 입지 공덕동 재개발, 학군지만 갖추면 딱인데…",
-    "title_ko": "[부동산 손플노트] 최상의 입지 공덕동 재개발, 학군지만 갖추면 딱인데…",
-    "link": "https://www.mk.co.kr/news/realestate/12096440",
-    "published": "Sun, 12 Jul 2026 16:36:30 +09:00",
-    "fetched_at": "2026-07-12 17:02:36",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "부동산"
-    ],
-    "keywords": [
-      "부동산",
-      "재개발",
-      "양극화",
-      "입지",
-      "공덕동"
-    ],
-    "reason": "서울 핵심 지역 부동산 시장의 양극화 심화와 최고 입지 선호 현상을 보여준다. 이는 우량 자산 선별 투자의 중요성을 부각시키며, 비우량 자산과의 가치 격차 확대를 시사한다.",
-    "action_point": "수도권 핵심 입지 우량 부동산 자산 비중 유지 및 선별적 추가 투자 기회 모색."
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "[부동산 손자병법] \"강남4구로 불러주세요\"… 동작의 야심, 사당동 대변신 채비",
-    "title_ko": "[부동산 손자병법] \"강남4구로 불러주세요\"… 동작의 야심, 사당동 대변신 채비",
-    "link": "https://www.mk.co.kr/news/realestate/12096441",
-    "published": "Sun, 12 Jul 2026 16:36:30 +09:00",
-    "fetched_at": "2026-07-12 17:02:46",
-    "sentiment": "호재",
-    "importance": 2,
-    "sectors": [
-      "부동산",
-      "건설"
-    ],
-    "keywords": [
-      "부동산",
-      "서울",
-      "동작구",
-      "사당동",
-      "재개발",
-      "강남4구"
-    ],
-    "reason": "서울 동작구 사당동이 '강남 4구' 진입을 목표로 대규모 변신을 예고하고 있어, 해당 지역의 부동산 가치 상승 및 개발 기대감이 커질 것으로 예상됩니다.",
-    "action_point": "서울 동작구 사당동 일대 부동산 투자 기회 또는 보유 자산의 가치 재검토."
   }
 ]
