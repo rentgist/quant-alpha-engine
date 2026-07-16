@@ -1,5 +1,24 @@
 [
   {
+    "source": "CNBC_World",
+    "title": "Trump is set to deliver an election-focused national address tonight. Here's what to know",
+    "title_ko": "트럼프, 오늘 밤 선거 관련 대국민 연설 예정. 주요 내용 미리보기",
+    "link": "https://www.cnbc.com/2026/07/16/trump-primetime-address-elections-2020.html",
+    "published": "Thu, 16 Jul 2026 18:23:39 GMT",
+    "fetched_at": "2026-07-17 06:56:52",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [],
+    "keywords": [
+      "트럼프",
+      "미국 대선",
+      "정치 불확실성",
+      "선거 연설"
+    ],
+    "reason": "트럼프의 대선 관련 연설은 미국 정치 불확실성을 증폭시키고, 향후 선거 과정의 잠재적 리스크에 대한 시장의 우려를 키울 수 있습니다. 이는 글로벌 금융시장의 변동성을 확대시키는 요인으로 작용할 가능성이 있습니다.",
+    "action_point": "미국 대선 관련 정치 불확실성 확대에 대비하여 포트폴리오의 방어적 자산 비중 유지 및 현금 비중 점검을 검토하라."
+  },
+  {
     "source": "GoogleNews_Korea",
     "title": "트럼프, 또 ‘부정선거’ 꺼내나...“제발 경제만” 공화당 전전긍긍 - 조선일보",
     "title_ko": "트럼프, 또 ‘부정선거’ 꺼내나...“제발 경제만” 공화당 전전긍긍",
@@ -2813,31 +2832,5 @@
     ],
     "reason": "개별 종목에 대한 개인투자자들의 강한 애국심 기반 매수세가 주가 급등을 유발한 사례로, 광범위한 시장 또는 거시경제에 미치는 영향은 제한적이다. 이는 특정 테마에 쏠리는 개인 투자 심리의 단면을 보여준다.",
     "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "호르무즈 다시 막혔다...美-이란 종전 협상 파국 위기 - 서울신문",
-    "title_ko": "호르무즈 다시 막혔다...美-이란 종전 협상 파국 위기",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1pcUxGNFNZX2pFNDBQbGI5QzdacFRVSjZ1aGtvREJ2YVZwRGMybVdYb09MWk0tOFlHTEUtWDlrVzBuMHVrMG5MWGFwWTkzQnlXSkxqZVlISjEwa09TYlZSRkNFMlRhVFJBd3FqVTdNcnFkQXF1LVl3?oc=5",
-    "published": "Sun, 12 Jul 2026 06:10:13 GMT",
-    "fetched_at": "2026-07-12 17:01:26",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "에너지",
-      "해운",
-      "항공",
-      "방산",
-      "화학"
-    ],
-    "keywords": [
-      "호르무즈 해협",
-      "미국-이란",
-      "지정학적 리스크",
-      "유가",
-      "원자재"
-    ],
-    "reason": "호르무즈 해협 봉쇄 위기는 전 세계 원유 공급에 심각한 차질을 야기하여 유가를 급등시키고 인플레이션 압력을 높일 수 있습니다. 미-이란 관계 악화는 중동 지역의 지정학적 리스크를 심화시켜 글로벌 시장 불안을 초래할 것입니다.",
-    "action_point": "유가 급등에 대비하여 원유 관련 자산 보유를 검토하고, 항공·해운 등 유가 민감 섹터 비중을 축소하며, 방산 섹터에 대한 관심을 높여라."
   }
 ]
