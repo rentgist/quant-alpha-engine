@@ -1,6 +1,102 @@
 [
   {
     "source": "CNBC_World",
+    "title": "Iran warns U.S. of Hormuz ‘red line,’ says it will retaliate to Trump’s strike threats",
+    "title_ko": "이란, 미국에 호르무즈 '레드라인' 경고, 트럼프의 공격 위협에 보복 다짐",
+    "link": "https://www.cnbc.com/2026/07/16/iran-warns-of-hormuz-red-line-retaliation-to-trumps-strike-threats.html",
+    "published": "Thu, 16 Jul 2026 09:18:55 GMT",
+    "fetched_at": "2026-07-16 18:57:59",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "에너지",
+      "방산",
+      "해운",
+      "항공"
+    ],
+    "keywords": [
+      "이란",
+      "미국",
+      "호르무즈 해협",
+      "지정학적 위험",
+      "유가"
+    ],
+    "reason": "미국과 이란 간 군사적 긴장 고조는 호르무즈 해협 봉쇄 가능성을 높여 글로벌 원유 공급에 심각한 차질을 유발할 수 있습니다. 이는 국제 유가 급등과 전반적인 시장 불확실성 증대로 이어질 것입니다.",
+    "action_point": "중동 지정학적 긴장 고조에 따른 국제 유가 급등 가능성에 대비하여 원유 관련 자산 및 방산주 비중 확대를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "Ukrainians take to the streets after Zelenskyy ousts defense minister in surprise shake-up",
+    "title_ko": "젤렌스키 대통령의 국방장관 전격 경질 후 우크라이나 국민들 거리로 쏟아져 나와",
+    "link": "https://www.cnbc.com/2026/07/16/ukraine-russia-zelenskyy-crimea-putin.html",
+    "published": "Thu, 16 Jul 2026 09:32:12 GMT",
+    "fetched_at": "2026-07-16 18:58:16",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "방산",
+      "원자재"
+    ],
+    "keywords": [
+      "우크라이나",
+      "젤렌스키",
+      "국방장관",
+      "정치 불안",
+      "지정학적 리스크"
+    ],
+    "reason": "전시 중인 우크라이나의 국방장관 전격 경질 및 이에 따른 시위는 내부 정치 불안정성을 시사하며, 이는 전쟁 장기화 및 불확실성 증폭으로 이어져 지정학적 리스크를 키울 수 있습니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
+    "title": "Catching up in the AI race? India gets its second AI unicorn in a month",
+    "title_ko": "AI 경쟁에서 추격하나? 인도, 한 달 새 두 번째 AI 유니콘 기업 탄생",
+    "link": "https://www.cnbc.com/2026/07/16/catching-up-in-the-ai-race-india-gets-its-second-ai-unicorn-in-a-month.html",
+    "published": "Thu, 16 Jul 2026 09:03:27 GMT",
+    "fetched_at": "2026-07-16 18:58:21",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "기술",
+      "인공지능",
+      "이머징마켓"
+    ],
+    "keywords": [
+      "AI",
+      "인도",
+      "유니콘",
+      "기술주"
+    ],
+    "reason": "인도가 한 달 만에 두 번째 AI 유니콘 기업을 배출하며 AI 산업 성장세를 입증, 글로벌 AI 시장의 경쟁 심화와 이머징 마켓 기술 투자에 대한 관심을 높일 것입니다.",
+    "action_point": "글로벌 AI 관련 기술주 또는 인도 이머징 마켓 기술 펀드에 대한 비중 확대를 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "[속보] 단일종목 레버리지 예탁금 현금 3000만원으로 상향 - 중앙일보",
+    "title_ko": "단일종목 레버리지 예탁금 현금 3000만원으로 상향",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5OSkdUSzdhWEpwR2ZPbGpHRVprWDhucHlBWFZZYVFxejVHbE90cFNqUktHb25fdExVOHFxNjZRZUEySm5mdUZyOUJzdmhpWVFGejVNVExR?oc=5",
+    "published": "Thu, 16 Jul 2026 07:12:15 GMT",
+    "fetched_at": "2026-07-16 18:58:31",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "증권",
+      "고위험 성장주",
+      "테마주",
+      "중소형주"
+    ],
+    "keywords": [
+      "레버리지",
+      "예탁금",
+      "단일종목",
+      "주식 시장 규제",
+      "투기 억제"
+    ],
+    "reason": "단일종목 레버리지 예탁금 상향은 개인 투자자의 투기성 과잉 레버리지를 억제하여 시장의 건전성을 높이는 조치입니다. 이는 단기적으로 레버리지 의존도가 높은 특정 고위험 성장주나 테마주의 변동성 및 거래량을 감소시킬 수 있습니다.",
+    "action_point": "과도한 레버리지에 의존하는 투기성 중소형주 및 테마주의 비중을 축소하거나 신규 진입을 재고하십시오."
+  },
+  {
+    "source": "CNBC_World",
     "title": "TSMC second-quarter profit jumps over 77%, beating estimates, on high-end chip boom",
     "title_ko": "TSMC 2분기 이익 77% 이상 급증, 예상치 상회... 고성능 칩 호황에 힘입어",
     "link": "https://www.cnbc.com/2026/07/16/tsmc-second-quarter-profit-.html",
@@ -2749,104 +2845,5 @@
     ],
     "reason": "미국-이란 갈등이 호르무즈 해협을 통한 글로벌 원유 공급망을 직접적으로 위협하며 유가 급등 및 해운 비용 상승 가능성을 높입니다. 이는 전반적인 지정학적 리스크를 심화시켜 투자 심리에 부정적 영향을 미칩니다.",
     "action_point": "중동 지정학적 리스크 심화에 따른 유가 상승 압력에 대비하여 에너지 섹터 비중 확대를 검토하십시오."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "[이번주 경제]한은, 3년 6개월만에 금리인상 유력…하반기 경제성장전략 주목 - 뉴스1",
-    "title_ko": "한은, 3년 6개월만에 금리인상 유력…하반기 경제성장전략 주목",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1QQXFtV3pUWTZDdXpVcE9uNE1nUkxNbG9fNnJBdkRBUUx6LWpDRFR3dUdhR29IX3R3a0FNX1BKRG14OHVNSmY0QzVCV0xjSlhHdXlpUA?oc=5",
-    "published": "Sun, 12 Jul 2026 01:17:07 GMT",
-    "fetched_at": "2026-07-12 10:49:48",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "금융",
-      "부동산",
-      "성장주",
-      "내수"
-    ],
-    "keywords": [
-      "한국은행",
-      "금리인상",
-      "통화정책",
-      "경제성장"
-    ],
-    "reason": "한국은행의 금리 인상은 국내 주식 및 부동산 시장에 하방 압력을 가하고 채권 금리 상승을 유발하며, 이는 인플레이션 억제 목적이지만 단기적으로는 경제 성장을 둔화시킬 수 있습니다.",
-    "action_point": "국내 고부채 기업 및 금리 민감 성장주 비중 축소를 검토하고, 변동금리 부채 관리 방안을 마련하십시오."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "[글로벌 경제지표] 美 '어닝 시즌' 본격 개막…한국은행 기준금리 인상 가능성 - v.daum.net",
-    "title_ko": "[글로벌 경제지표] 美 '어닝 시즌' 본격 개막…한국은행 기준금리 인상 가능성",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ybWFGQlNpZG54UkVxY2stcV8wQ2lTN0xmSjRmTXR1WGs2b0J6QWRHbnhKZGQ5Y2g4ZUluTHgzdVpla2wzVmFpNk9adVZtUHM?oc=5",
-    "published": "Sat, 11 Jul 2026 22:03:00 GMT",
-    "fetched_at": "2026-07-12 08:44:27",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "금융",
-      "부동산",
-      "건설",
-      "기술주",
-      "전 업종"
-    ],
-    "keywords": [
-      "미국 어닝 시즌",
-      "기업 실적",
-      "한국은행",
-      "기준금리 인상",
-      "거시 경제",
-      "금리 인상"
-    ],
-    "reason": "미국 어닝 시즌은 글로벌 증시의 변동성을 확대하고 국내 투자심리에 영향을 미칠 것이며, 한국은행의 기준금리 인상 가능성은 국내 증시, 채권 및 부동산 시장에 부정적인 압력으로 작용할 수 있습니다.",
-    "action_point": "한국은행 기준금리 인상 가능성에 대비하여 국내 고금리 민감 자산(부동산, 건설, 고부채 기업 등) 비중 축소를 검토하십시오."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "폭락에 겁나서 탈출했는데…삼전닉스 개미들 다시 들어가도 될까요[주末머니] - v.daum.net",
-    "title_ko": "폭락에 겁나서 탈출했는데…삼전닉스 개미들 다시 들어가도 될까요[주末머니]",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1nWDhnZ191WldsZzZQVHF5b0JjRlN1SnVZN01PS3dMTnRjQzR1b1lqZHFiRHZoUmNYRDB6azFpVVpZQThfdV8xUFcwaWpHWjA?oc=5",
-    "published": "Sat, 11 Jul 2026 08:02:38 GMT",
-    "fetched_at": "2026-07-12 07:38:34",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "반도체",
-      "기술주",
-      "증권/금융"
-    ],
-    "keywords": [
-      "삼성전자",
-      "SK하이닉스",
-      "개미투자자",
-      "시장심리",
-      "반도체사이클"
-    ],
-    "reason": "이 기사는 주요 반도체 기업(삼성전자, SK하이닉스)의 주가 하락 이후 개인 투자자들의 재진입 심리를 보여주며, 이는 해당 섹터의 바닥 형성 또는 추가적인 변동성 발생 가능성을 시사합니다. 전체 시장의 기술주 투자 심리에 영향을 미칩니다.",
-    "action_point": "개별 반도체 기업의 펀더멘탈과 산업 사이클 분석을 통해 기술주 비중 조절을 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Inside NATO's extraordinary 48 hours that revealed Trump's grip on global diplomacy",
-    "title_ko": "트럼프의 글로벌 외교 장악력을 드러낸 NATO의 특별한 48시간 내막",
-    "link": "https://www.cnbc.com/2026/07/09/nato-trump-rutte-ukraine-russia-us-iran.html",
-    "published": "Thu, 09 Jul 2026 23:00:52 GMT",
-    "fetched_at": "2026-07-12 06:40:37",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "국방/방산",
-      "에너지",
-      "항공우주"
-    ],
-    "keywords": [
-      "트럼프",
-      "NATO",
-      "지정학적 리스크",
-      "외교 정책",
-      "국방"
-    ],
-    "reason": "트럼프의 예측 불가능한 외교 기조가 NATO 동맹국들의 불확실성을 증폭시키며, 향후 미 대선 결과에 따라 글로벌 지정학적 리스크 프리미엄이 상승할 수 있음을 시사합니다.",
-    "action_point": "트럼프 재집권 시나리오에 따른 지정학적 리스크 증대 가능성에 대비, 방산 섹터의 투자 매력도 및 포트폴리오 내 비중을 재검토하라."
   }
 ]
