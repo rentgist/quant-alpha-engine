@@ -1,5 +1,30 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "title": "유류할증료 석 달 연속 하락…여행업계, 중동리스크 재부상 '우려' - v.daum.net",
+    "title_ko": "유류할증료 석 달 연속 하락…여행업계, 중동리스크 재부상 '우려'",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBrYkw5UjdIb3dFNFdMVm4zN1EtWmQ1RXZ0ellyYUZTS2F5Z1JHWnFFcjF4WkRxNDNIR0ROS2ZlalowSWhsc3FLQ2x5a05NSTg?oc=5",
+    "published": "Thu, 16 Jul 2026 23:15:27 GMT",
+    "fetched_at": "2026-07-17 08:50:59",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "항공",
+      "여행",
+      "정유/화학",
+      "해운"
+    ],
+    "keywords": [
+      "유류할증료",
+      "중동 리스크",
+      "국제유가",
+      "여행",
+      "항공"
+    ],
+    "reason": "유류할증료 하락은 단기적으로 여행 및 항공 섹터에 긍정적이나, 중동 지정학적 리스크 재부상은 국제유가 상승 압력을 가해 항공유 비용 증가 및 전반적인 물가 상승 우려를 키울 수 있습니다.",
+    "action_point": "항공 및 여행 섹터 비중 축소 또는 유가 헤징 전략 검토."
+  },
+  {
     "source": "CNBC_World",
     "title": "Trump is set to deliver an election-focused national address tonight. Here's what to know",
     "title_ko": "트럼프, 오늘 밤 선거 관련 대국민 연설 예정. 주요 내용 미리보기",
@@ -2807,30 +2832,5 @@
     ],
     "reason": "LS일렉트릭의 안정적인 노사관계는 운영 리스크를 줄이고 미래 전략 산업 투자를 위한 기반을 마련하여 기업의 장기적 성장 잠재력을 높이는 요인이다.",
     "action_point": "LS일렉트릭의 안정된 노사관계를 긍정적으로 보고, 해당 기업 및 전력기기/자동화 섹터 내 투자 기회 모색."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "애국 개미들이 ‘돈쭐’ 내준 한성기업·모나미…상폐 위기서 주가 100% 급등 - 경향신문",
-    "title_ko": "애국 개미들이 ‘돈쭐’ 내준 한성기업·모나미…상폐 위기서 주가 100% 급등",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zQmdhMVdsY09YeXBvNWJmZmFBbG5ON1hKZDBvN1lCa09fUWF5TktYY3VjTFpfSm83azlGLUJpZ0I3cEN6bzdCWTNuU0RVZk1NUWhHQjZPanUtQdIBX0FVX3lxTFBYLVY3LTEyVExYTGdFWXAxUDZJYWphU1NjY1VJM05FUnNkSjdQTFhISkYxR1FoM1kyRWpvWFpxdGtlclhkMjlXZGk3UWZoXzBad0xwZ3JSRmZsX1dGNkdN?oc=5",
-    "published": "Sun, 12 Jul 2026 08:28:00 GMT",
-    "fetched_at": "2026-07-12 18:54:58",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "소비재",
-      "식품",
-      "문구"
-    ],
-    "keywords": [
-      "애국 개미",
-      "개인 투자자",
-      "주가 급등",
-      "상폐 위기",
-      "한성기업",
-      "모나미"
-    ],
-    "reason": "개별 종목에 대한 개인투자자들의 강한 애국심 기반 매수세가 주가 급등을 유발한 사례로, 광범위한 시장 또는 거시경제에 미치는 영향은 제한적이다. 이는 특정 테마에 쏠리는 개인 투자 심리의 단면을 보여준다.",
-    "action_point": "해당 없음"
   }
 ]
