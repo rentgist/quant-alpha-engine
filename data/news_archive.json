@@ -1,5 +1,51 @@
 [
   {
+    "source": "CNBC_Finance",
+    "title": "Short sellers load up against SpaceX as stock retreats back to IPO price",
+    "title_ko": "스페이스X 주가, IPO 가격으로 회귀하며 공매도 세력 증가",
+    "link": "https://www.cnbc.com/2026/07/16/short-sellers-load-up-against-spacex-as-stock-retreats-back-to-ipo-price.html",
+    "published": "Thu, 16 Jul 2026 14:41:30 GMT",
+    "fetched_at": "2026-07-17 00:26:58",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "우주/항공",
+      "기술",
+      "벤처캐피탈"
+    ],
+    "keywords": [
+      "스페이스X",
+      "공매도",
+      "사모시장",
+      "기술주",
+      "밸류에이션"
+    ],
+    "reason": "스페이스X에 대한 공매도 증가는 사모시장 기술 기업의 고평가 논란 및 투자 심리 위축을 반영하며, 이는 비상장 기술 기업 전반의 밸류에이션 하락 압력으로 이어질 수 있습니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_Finance",
+    "title": "Sen. Warren says Trump's CFPB overhaul has cost Americans $26.5 billion",
+    "title_ko": "워렌 상원의원, 트럼프 CFPB 개편으로 미국인 265억 달러 손실 주장",
+    "link": "https://www.cnbc.com/2026/07/16/trumps-cfpb-overhaul-cost-americans-26point5-billion-sen-warren-says.html",
+    "published": "Thu, 16 Jul 2026 14:14:20 GMT",
+    "fetched_at": "2026-07-17 00:27:11",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "금융"
+    ],
+    "keywords": [
+      "워렌 상원의원",
+      "CFPB",
+      "금융 규제",
+      "소비자 보호",
+      "트럼프 행정부"
+    ],
+    "reason": "워렌 상원의원의 발언은 과거 금융 규제 완화의 소비자 비용을 강조하며, 향후 금융 부문에 대한 규제 강화 논의를 촉발할 수 있으나, 즉각적인 시장 영향은 제한적입니다.",
+    "action_point": "미국 금융 섹터 내 규제 강화 가능성에 대비하여 관련 기업들의 투자 매력도를 재평가하라."
+  },
+  {
     "source": "CNBC_World",
     "title": "Eli Lilly to buy psychedelics maker AtaiBeckley for $2.8 billion as experimental treatments gain traction",
     "title_ko": "일라이 릴리, 실험적 치료제 주목받으면서 환각제 치료제 개발사 아타이벡클리 28억 달러에 인수",
@@ -2798,47 +2844,5 @@
     ],
     "reason": "한국의 단일종목 레버리지 ETF가 글로벌 메모리 반도체 시장의 변동성을 키우고 있다는 지적은 해당 상품 및 섹터에 대한 투자 위험을 부각시키고, 향후 규제 논의를 촉발할 수 있습니다.",
     "action_point": "단일종목 레버리지 ETF의 투자 비중을 즉시 점검하고 축소를 검토하며, 반도체 섹터 내 구조적 변동성 확대에 대비하십시오."
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "동해서 경비임무 하던 해군 승조원 실종…NLL 이북 표류 가능성도",
-    "title_ko": "동해서 경비임무 하던 해군 승조원 실종…NLL 이북 표류 가능성도",
-    "link": "https://www.mk.co.kr/news/politics/12096442",
-    "published": "Sun, 12 Jul 2026 16:36:51 +09:00",
-    "fetched_at": "2026-07-12 17:02:27",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "방산",
-      "전반적인 시장 심리"
-    ],
-    "keywords": [
-      "NLL",
-      "북한",
-      "실종",
-      "남북 관계",
-      "지정학적 리스크"
-    ],
-    "reason": "동해 NLL 인근에서 발생한 해군 승조원 실종 사건은 남북 간의 우발적 긴장 고조 가능성을 야기하며, 단기적인 지정학적 리스크를 소폭 증가시킬 수 있습니다.",
-    "action_point": "남북 관계 불안정성 재부각에 따른 원화 변동성 확대에 대비하여 달러 자산 보유를 통한 환율 헤지를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Senator Lindsey Graham has died after a brief illness, his office says",
-    "title_ko": "린지 그레이엄 상원의원, 짧은 투병 끝에 사망",
-    "link": "https://www.cnbc.com/2026/07/12/senator-lindsey-graham-has-died-after-a-brief-illness-his-office-says.html",
-    "published": "Sun, 12 Jul 2026 07:57:36 GMT",
-    "fetched_at": "2026-07-12 17:00:33",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [],
-    "keywords": [
-      "미국 정치",
-      "상원의원",
-      "린지 그레이엄",
-      "사망"
-    ],
-    "reason": "린지 그레이엄 상원의원의 사망은 미국 정치권 소식이지만, 즉각적인 상원 권력 구도 변화나 주요 정책 결정에 직접적인 영향을 미칠 가능성은 낮아 금융 시장에 미치는 영향은 제한적입니다.",
-    "action_point": "해당 없음"
   }
 ]
