@@ -1,5 +1,29 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "title": "트럼프, 또 ‘부정선거’ 꺼내나...“제발 경제만” 공화당 전전긍긍 - 조선일보",
+    "title_ko": "트럼프, 또 ‘부정선거’ 꺼내나...“제발 경제만” 공화당 전전긍긍",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSU02YlJueDhTWG02WS1xRFhkMG5BX29KMXluQkhZRm9oeWxVS0lHTnJqMWJWVGFNU1NpbGRod3N5dnZEMzFwMDdvM0MtX3BKSjF5MW5hd0xicm00R1cyQlVRVTdTRVhnMVdldFNDTXdxNW9EaXZfLXM4dk80QkJvWE5ycVVCMjl3bWpnVzQtUTdPWTBpNWxGRExKR2ZuUQ?oc=5",
+    "published": "Thu, 16 Jul 2026 18:10:00 GMT",
+    "fetched_at": "2026-07-17 05:55:31",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "글로벌 증시",
+      "제조업",
+      "기술주"
+    ],
+    "keywords": [
+      "트럼프",
+      "미국 대선",
+      "정치 불확실성",
+      "부정선거",
+      "공화당"
+    ],
+    "reason": "트럼프의 '부정선거' 언급은 다가오는 미국 대선의 불확실성을 증폭시키며, 정책보다 정치적 논란에 초점을 맞출 경우 시장에 불안감을 야기할 수 있습니다. 이는 향후 미국 경제 정책 방향 및 글로벌 교역 환경에 대한 예측 가능성을 낮춥니다.",
+    "action_point": "미국 대선 관련 정치적 불확실성 증가에 대비하여 미국 시장 노출 비중을 점검하고 포트폴리오 내 방어적 자산 비중 확대를 고려하라."
+  },
+  {
     "source": "Maeil_Business",
     "title": "세계 원유 비축량 바닥나는데…호르무즈 재봉쇄까지 ‘첩첩산중’",
     "title_ko": "세계 원유 비축량 바닥나는데…호르무즈 재봉쇄까지 ‘첩첩산중’",
@@ -2815,30 +2839,5 @@
     ],
     "reason": "호르무즈 해협 봉쇄 위기는 전 세계 원유 공급에 심각한 차질을 야기하여 유가를 급등시키고 인플레이션 압력을 높일 수 있습니다. 미-이란 관계 악화는 중동 지역의 지정학적 리스크를 심화시켜 글로벌 시장 불안을 초래할 것입니다.",
     "action_point": "유가 급등에 대비하여 원유 관련 자산 보유를 검토하고, 항공·해운 등 유가 민감 섹터 비중을 축소하며, 방산 섹터에 대한 관심을 높여라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "[속보] 악시오스 \"미군, 호르무즈 해협 쪽 이란 표적들 공습 중\" - MBC 뉴스",
-    "title_ko": "[속보] 악시오스 \"미군, 호르무즈 해협 쪽 이란 표적들 공습 중\"",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE02UlE2V2wzci1BUEd0aXJBZGlSUi1uM291NXdNWTU2azNRZ0FXRktLczI5RVZ1VWFkWkhCR3ZpMWphcUdWV0tqVkhpUlpENlJVbEpMVzYxVGg5a1lMM0MtNWExT3VWb3RLdGxpWmh5ekVSXzVx0gF0QVVfeXFMUE5YU0tzVkxxOVZzcmJRVjNfRTZ1ckk0LV9GQkJjNUVDeXRKMFhsa0ViZmV0c3Q3dlNJUnE3TDVVOEdKZzdfN2Y3allwNWhaQ3IyVWtkNGxRTXRmWUI1ZFAxUjRFUE84TjFZZjFhMzJUeTF2aXE?oc=5",
-    "published": "Sat, 11 Jul 2026 23:52:03 GMT",
-    "fetched_at": "2026-07-12 17:01:39",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "원유",
-      "해운",
-      "방산",
-      "항공"
-    ],
-    "keywords": [
-      "지정학적 리스크",
-      "호르무즈 해협",
-      "유가",
-      "중동",
-      "군사충돌"
-    ],
-    "reason": "미군의 이란 공습은 중동 지역의 지정학적 긴장을 최고조로 끌어올려 국제 유가 급등 및 해상 운송 차질 우려를 증폭시킬 수 있습니다. 이는 전 세계 경제 불확실성을 가중시키는 핵심 악재로 작용합니다.",
-    "action_point": "지정학적 리스크 확산에 대비하여 위험자산 비중을 축소하고 방어적 자산(금, 달러) 비중을 확대하십시오."
   }
 ]
