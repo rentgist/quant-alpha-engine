@@ -1,6 +1,53 @@
 [
   {
     "source": "CNBC_Finance",
+    "title": "Stocks making the biggest moves premarket: UnitedHealth, TSMC, GE Aerospace, J.B. Hunt & more",
+    "title_ko": "장전 가장 큰 움직임을 보이는 주식: 유나이티드헬스, TSMC, GE 에어로스페이스, J.B. 헌트 외",
+    "link": "https://www.cnbc.com/2026/07/16/stocks-making-the-biggest-moves-premarket-.html",
+    "published": "Thu, 16 Jul 2026 12:00:04 GMT",
+    "fetched_at": "2026-07-17 02:04:27",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "헬스케어",
+      "기술",
+      "산업재",
+      "운송"
+    ],
+    "keywords": [
+      "장전 거래",
+      "개별 주식",
+      "유나이티드헬스",
+      "TSMC",
+      "GE 에어로스페이스",
+      "J.B. 헌트"
+    ],
+    "reason": "이 기사는 장전 개별 주식의 움직임을 보고하는 것으로, 구체적인 상승 또는 하락 요인을 제공하지 않아 시장 또는 거시 경제 전반에 미치는 직접적인 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
+    "title": "As prediction markets boom, questions arise over who will be the watchdog",
+    "title_ko": "예측 시장 급성장, 감독 기관은 누가 될 것인가?",
+    "link": "https://www.cnbc.com/2026/07/16/the-sec-may-get-involved-as-prediction-market-bring-new-contracts.html",
+    "published": "Thu, 16 Jul 2026 16:57:33 GMT",
+    "fetched_at": "2026-07-17 02:04:36",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "핀테크",
+      "금융 서비스"
+    ],
+    "keywords": [
+      "예측 시장",
+      "규제",
+      "감독 기관"
+    ],
+    "reason": "예측 시장의 성장과 새로운 계약 유형 도입에 따른 규제 감독 문제는 해당 시장 참여자들에게 영향을 미치지만, 광범위한 자산 시장의 거시적 흐름에는 즉각적인 영향이 제한적입니다. 이는 특정 금융 시장의 구조적 발전에 대한 논의입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_Finance",
     "title": "Short sellers load up against SpaceX as stock retreats back to IPO price",
     "title_ko": "스페이스X 주가, IPO 가격으로 회귀하며 공매도 세력 증가",
     "link": "https://www.cnbc.com/2026/07/16/short-sellers-load-up-against-spacex-as-stock-retreats-back-to-ipo-price.html",
@@ -2795,54 +2842,5 @@
     ],
     "reason": "미국과 이란 간 지정학적 긴장 고조는 국제유가 변동성 확대 및 글로벌 시장의 위험 회피 심리를 자극하여 주식 시장에 부정적 영향을 미칠 수 있습니다.",
     "action_point": "지정학적 리스크 확대에 따른 시장 변동성 대비하여 안전자산 비중 확대 검토 및 유가 관련 포트폴리오 점검."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "[다음주 경제] 하반기 경제 청사진 공개…고용·물가·금리 결정 줄줄이 - v.daum.net",
-    "title_ko": "[다음주 경제] 하반기 경제 청사진 공개…고용·물가·금리 결정 줄줄이",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5QMGZGTWc2c2EydHc4TnQwdXNwYkZhNV8zbHpybEZ6OVBnc3A5WFE3VndkNWpKTjc2aGNuNi1tTlBraXN0NWdTX3ByX3ozN0k?oc=5",
-    "published": "Sun, 12 Jul 2026 07:42:02 GMT",
-    "fetched_at": "2026-07-12 17:01:16",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "금융",
-      "부동산",
-      "건설",
-      "소비재",
-      "제조업"
-    ],
-    "keywords": [
-      "하반기 경제",
-      "경제 정책",
-      "금리",
-      "물가",
-      "고용"
-    ],
-    "reason": "다음 주 발표될 하반기 경제 정책 방향과 주요 경제 지표(고용, 물가) 및 금리 결정은 국내 통화/재정 정책의 방향성을 제시하며 시장의 금리, 물가, 경제 성장률 전망에 큰 영향을 미 미칠 것입니다.",
-    "action_point": "하반기 경제 청사진 발표를 앞두고 국내 경기 및 금리 민감 섹터(예: 금융, 건설, 성장주)의 포트폴리오 비중을 재검토하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "“이게 다 한국 때문”…닛케이도 경고 나선 ‘삼전닉스 따블ETF’ 후폭풍",
-    "title_ko": "“이게 다 한국 때문”…닛케이도 경고 나선 ‘삼전닉스 따블ETF’ 후폭풍",
-    "link": "https://www.mk.co.kr/news/economy/12096451",
-    "published": "Sun, 12 Jul 2026 17:00:16 +09:00",
-    "fetched_at": "2026-07-12 17:01:53",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "반도체",
-      "자산운용"
-    ],
-    "keywords": [
-      "단일종목 레버리지 ETF",
-      "메모리 반도체",
-      "시장 변동성",
-      "닛케이",
-      "규제 위험"
-    ],
-    "reason": "한국의 단일종목 레버리지 ETF가 글로벌 메모리 반도체 시장의 변동성을 키우고 있다는 지적은 해당 상품 및 섹터에 대한 투자 위험을 부각시키고, 향후 규제 논의를 촉발할 수 있습니다.",
-    "action_point": "단일종목 레버리지 ETF의 투자 비중을 즉시 점검하고 축소를 검토하며, 반도체 섹터 내 구조적 변동성 확대에 대비하십시오."
   }
 ]
