@@ -1,6 +1,79 @@
 [
   {
     "source": "CNBC_World",
+    "title": "Nvidia unveils new AI model and expands Japan’s physical AI ecosystem",
+    "title_ko": "엔비디아, 새로운 AI 모델 공개 및 일본 내 물리적 AI 생태계 확장",
+    "link": "https://www.cnbc.com/2026/07/16/nvidia-reveals-new-ai-model-and-expands-japans-physical-ai-ecosystem.html",
+    "published": "Thu, 16 Jul 2026 11:21:56 GMT",
+    "fetched_at": "2026-07-16 20:37:54",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "반도체",
+      "인공지능(AI)",
+      "IT기술",
+      "클라우드 서비스"
+    ],
+    "keywords": [
+      "Nvidia",
+      "AI",
+      "일본",
+      "반도체",
+      "기술혁신",
+      "데이터센터"
+    ],
+    "reason": "엔비디아의 신규 AI 모델 공개와 일본 내 생태계 확장은 AI 기술 혁신 지속과 글로벌 AI 인프라 투자 확대를 의미하며, 관련 하드웨어 및 소프트웨어 기업의 성장 동력을 강화할 것입니다.",
+    "action_point": "AI 관련 반도체 및 소프트웨어 기업 포트폴리오 비중 유지 또는 확대 검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "바클레이즈 \"향후 경제지표 예상 상회시 8월 연속 인상 리스크\" - 연합인포맥스",
+    "title_ko": "바클레이즈 \"향후 경제지표 예상 상회시 8월 연속 인상 리스크\" - 연합인포맥스",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5KYzhReXQwbkdaajA4c2U0QjVTU3pCWEQwNVQ1ZmQ4cjkxWHM5TngxOTJsdjVVem5zVko1dzhsbzJnZHJQR0FDd1RJM3lrNHBiMlhQSnBWdGdkbGpFSkZlX3dONDlJWHlCQ3FUR0x5d2HSAXRBVV95cUxQSXdUOE9POHJfajFjeHNCODVaQzA2a09QZ0tMM2ZjMmtQUFU5eTh2ZzlOZWphNlI1eXBlcjlNNXBmZ2EzeGFFTnpJUFNQNWJxd3JveTE5YjltTTZUV21KTjZjcnNvdEM1VDlpTElmaGZMUUpTNw?oc=5",
+    "published": "Thu, 16 Jul 2026 11:04:04 GMT",
+    "fetched_at": "2026-07-16 20:38:03",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "성장주",
+      "부동산",
+      "건설",
+      "고부채 기업"
+    ],
+    "keywords": [
+      "바클레이즈",
+      "금리인상",
+      "경제지표",
+      "통화정책",
+      "리스크"
+    ],
+    "reason": "향후 경제지표가 예상치를 상회할 경우 중앙은행의 연속적인 금리 인상 가능성이 제기되며, 이는 긴축적인 통화정책 장기화로 이어져 주식 및 부동산 등 위험자산의 투자심리를 위축시킬 수 있습니다.",
+    "action_point": "금리 인상에 민감한 성장주 및 고부채 기업의 투자 비중 축소를 검토하고, 안정적인 현금 흐름을 가진 가치주 비중을 확대하라."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "Wall Street's profit boom has Europe ripping up its banking rulebook",
+    "title_ko": "월스트리트의 이익 급증, 유럽 은행 규제 개혁 촉발",
+    "link": "https://www.cnbc.com/2026/07/16/wall-street-us-banks-profit-boom-europe-regulation.html",
+    "published": "Thu, 16 Jul 2026 10:49:38 GMT",
+    "fetched_at": "2026-07-16 20:37:45",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "유럽 금융",
+      "은행"
+    ],
+    "keywords": [
+      "유럽 은행",
+      "규제 개혁",
+      "금융 섹터",
+      "수익성 개선"
+    ],
+    "reason": "유럽 은행 규제 완화는 역내 은행들의 수익성 및 자본 효율성을 개선하여 금융 섹터 전반에 긍정적인 영향을 미치고, 이는 유럽 경제의 활력으로 이어질 수 있다.",
+    "action_point": "유럽 금융 섹터의 투자 매력도가 상승할 가능성이 있으므로 관련 ETF 또는 개별 종목에 대한 포트폴리오 비중 확대를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
     "title": "Iran warns U.S. of Hormuz ‘red line,’ says it will retaliate to Trump’s strike threats",
     "title_ko": "이란, 미국에 호르무즈 '레드라인' 경고, 트럼프의 공격 위협에 보복 다짐",
     "link": "https://www.cnbc.com/2026/07/16/iran-warns-of-hormuz-red-line-retaliation-to-trumps-strike-threats.html",
@@ -2768,82 +2841,5 @@
     ],
     "reason": "서울 동작구 사당동이 '강남 4구' 진입을 목표로 대규모 변신을 예고하고 있어, 해당 지역의 부동산 가치 상승 및 개발 기대감이 커질 것으로 예상됩니다.",
     "action_point": "서울 동작구 사당동 일대 부동산 투자 기회 또는 보유 자산의 가치 재검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "이란 호르무즈 재봉쇄 직후, 미군 이번 주 3번째 공습 ‘맞불’ - 한겨레",
-    "title_ko": "이란 호르무즈 재봉쇄 직후, 미군 이번 주 3번째 공습 ‘맞불’",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Kb1dKdXhGX3pNLWwzVXR0YnZyWEV6S1hCNnZKeEZwZVE3X1pwaW1hX3VyMzAxWVFKaXRhZXZlaUVnQ1hYYkpCcEdKYTB0WHZXSm1zbFc0SVRQSjJsNDBoNUpzQlp5T1AwNWM1V2hDYTcxTk0?oc=5",
-    "published": "Sun, 12 Jul 2026 02:12:00 GMT",
-    "fetched_at": "2026-07-12 14:18:38",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "에너지",
-      "해운",
-      "정유",
-      "방위산업",
-      "항공"
-    ],
-    "keywords": [
-      "이란",
-      "호르무즈 해협",
-      "미군",
-      "중동",
-      "지정학적 리스크",
-      "유가"
-    ],
-    "reason": "중동 핵심 석유 수송로인 호르무즈 해협의 지정학적 긴장이 최고조에 달하며 유가 급등 가능성을 높이고, 글로벌 공급망 불안정 및 전반적인 시장의 위험 회피 심리를 자극할 것입니다.",
-    "action_point": "중동 지정학적 리스크 고조에 따른 유가 변동성 확대 대비 원자재 관련 포지션 재점검 및 방어적 자산 편입 검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "하반기 은행 대출 '셧다운' 위기..벌써 연간 목표액 80% 채웠다 - 머니투데이 - 머니투데이",
-    "title_ko": "하반기 은행 대출 '셧다운' 위기..벌써 연간 목표액 80% 채웠다",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE04QmQwdVJkNHM1SHZuVTRJeURIN0VYYjRfOU00MGt4b2x6dnptVS16aVhFb2lIRGRKTXkwWkJuQmZxX2RDZDVERDZQajJuZVdibnQ0bWJwT0tOTGZSRUQxUE9iOFNsT0tjUUs40gFwQVVfeXFMTmVvSFFIUk9UMkZVbW5JZjlkWkZYQ1NRekpEWlZ4QndhQ09vemlNNXp5b3dCRmpGa1Y1YWRDRnBLNXlRRnBLMFczU0hJZU1jT3R6OXZiTm93bFRsME9pMENpSTZLRF96Rm12X3N1U192aA?oc=5",
-    "published": "Sun, 12 Jul 2026 01:57:11 GMT",
-    "fetched_at": "2026-07-12 14:18:52",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "금융",
-      "부동산",
-      "건설",
-      "유통",
-      "중소기업"
-    ],
-    "keywords": [
-      "은행 대출",
-      "신용 경색",
-      "가계부채",
-      "부동산 시장",
-      "유동성"
-    ],
-    "reason": "은행 대출 공급 축소는 가계 및 기업의 자금 조달을 위축시켜 국내 소비와 투자 활동에 부정적 영향을 미칠 것입니다. 특히 대출 의존도가 높은 부동산 시장에 직접적인 하방 압력으로 작용하며 국내 경기 둔화를 심화시킬 수 있습니다.",
-    "action_point": "하반기 대출 경색에 대비하여 유동성 확보에 집중하고 부동산 및 국내 대출 민감 섹터 비중 축소를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "U.S. launches airstrikes against Iran after Tehran attacks container ship in Hormuz, Pentagon says",
-    "title_ko": "미국, 호르무즈 해협 컨테이너선 공격에 대응해 이란 공습 단행 (국방부 발표)",
-    "link": "https://www.cnbc.com/2026/07/11/us-airstrikes-iran-strait-hormuz.html",
-    "published": "Sun, 12 Jul 2026 01:45:21 GMT",
-    "fetched_at": "2026-07-12 10:49:35",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "에너지",
-      "해운",
-      "방산"
-    ],
-    "keywords": [
-      "미국-이란 갈등",
-      "호르무즈 해협",
-      "유가",
-      "지정학적 리스크",
-      "해운"
-    ],
-    "reason": "미국-이란 갈등이 호르무즈 해협을 통한 글로벌 원유 공급망을 직접적으로 위협하며 유가 급등 및 해운 비용 상승 가능성을 높입니다. 이는 전반적인 지정학적 리스크를 심화시켜 투자 심리에 부정적 영향을 미칩니다.",
-    "action_point": "중동 지정학적 리스크 심화에 따른 유가 상승 압력에 대비하여 에너지 섹터 비중 확대를 검토하십시오."
   }
 ]
