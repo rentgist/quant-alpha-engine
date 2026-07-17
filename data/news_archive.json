@@ -1,6 +1,102 @@
 [
   {
     "source": "CNBC_World",
+    "title": "Oil tankers face 'worst case scenario' in Hormuz as Iran steps up attacks on ships, maritime risk CEO says",
+    "title_ko": "해양 위험 CEO, 이란 선박 공격 강화로 호르무즈 해협 유조선 '최악의 시나리오' 직면 경고",
+    "link": "https://www.cnbc.com/2026/07/17/iran-war-oil-tanker-strait-hormuz-traffic-attacks-trump.html",
+    "published": "Fri, 17 Jul 2026 18:20:37 GMT",
+    "fetched_at": "2026-07-18 03:53:26",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "에너지",
+      "해운",
+      "국방/안보"
+    ],
+    "keywords": [
+      "호르무즈 해협",
+      "이란",
+      "유조선 공격",
+      "유가",
+      "지정학적 리스크"
+    ],
+    "reason": "호르무즈 해협에서의 유조선 공격 증가는 글로벌 원유 공급망에 위협을 가해 유가 상승과 해상 운송 비용 증가를 야기하며, 중동 지정학적 리스크를 고조시킨다.",
+    "action_point": "에너지 관련 자산 비중 확대를 검토하고 지정학적 위험 관련 상품에 대한 헤지를 고려."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "Anthropic in early talks with Meta to acquire compute power",
+    "title_ko": "앤스로픽, 메타와 컴퓨팅 파워 확보를 위한 초기 협상 중",
+    "link": "https://www.cnbc.com/2026/07/17/anthropic-meta-ai-compute.html",
+    "published": "Fri, 17 Jul 2026 17:38:26 GMT",
+    "fetched_at": "2026-07-18 03:53:32",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "AI",
+      "반도체",
+      "데이터센터",
+      "클라우드 컴퓨팅"
+    ],
+    "keywords": [
+      "Anthropic",
+      "Meta",
+      "AI",
+      "컴퓨팅 파워",
+      "반도체",
+      "데이터센터"
+    ],
+    "reason": "앤스로픽의 메타와의 컴퓨팅 파워 확보 논의는 AI 기술 개발 경쟁 심화와 관련 인프라 수요의 지속적인 증가를 시사한다. 이는 AI 관련 기업들과 AI 칩 및 데이터 센터 섹터에 긍정적인 영향을 미칠 수 있다.",
+    "action_point": "AI 인프라 관련 반도체 및 데이터센터 섹터의 투자 기회를 주시."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "최태원 \"하이닉스, 샀다 팔지 마라…시간 두면 우상향\" - 주간조선",
+    "title_ko": "최태원 \"하이닉스, 샀다 팔지 마라…시간 두면 우상향\"",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41dVo3bjFWWU1VbE9uWExqQTdKbWRiN0dlQm15Tmlhd1AzdDZkLXVOODducnE2eVpKbjNMNnE3LXVncmhONTVjT1V0bGpXZEhrRXV5OTJ1UW5Kd3NkUC1rV21hMThQX3lWZ2c?oc=5",
+    "published": "Fri, 17 Jul 2026 07:43:42 GMT",
+    "fetched_at": "2026-07-18 03:53:41",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "반도체",
+      "IT 하드웨어",
+      "코스피 대형주"
+    ],
+    "keywords": [
+      "최태원",
+      "SK하이닉스",
+      "반도체",
+      "주식 투자",
+      "장기 투자"
+    ],
+    "reason": "SK그룹 회장의 SK하이닉스 장기 우상향 발언은 반도체 업황 개선 기대감과 맞물려 해당 기업 및 섹터에 대한 투자 심리를 긍정적으로 이끌 것입니다. 이는 국내 증시의 대형 기술주 전반에 대한 낙관적인 시각을 강화할 수 있습니다.",
+    "action_point": "SK하이닉스 및 반도체 섹터의 장기 성장 잠재력을 재평가하고 포트폴리오 내 비중을 유지 또는 확대하는 방안을 검토하십시오."
+  },
+  {
+    "source": "CNBC_Finance",
+    "title": "Stocks making the biggest moves premarket: Netflix, SpaceX, Alphabet and more",
+    "title_ko": "프리마켓에서 가장 큰 움직임을 보이는 주식: 넷플릭스, 스페이스X, 알파벳 등",
+    "link": "https://www.cnbc.com/2026/07/17/stocks-making-the-biggest-moves-premarket-nflx-spcx-googl-and-more.html",
+    "published": "Fri, 17 Jul 2026 11:47:57 GMT",
+    "fetched_at": "2026-07-18 03:53:19",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "기술",
+      "커뮤니케이션 서비스"
+    ],
+    "keywords": [
+      "프리마켓",
+      "주식 움직임",
+      "기술주",
+      "개별주"
+    ],
+    "reason": "이 기사는 프리마켓에서 특정 대형 기술/성장주들의 개별적인 움직임을 보도하며, 시장 전반의 방향성보다는 해당 기업 및 섹터에 대한 단기적 관심사를 반영합니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
     "title": "Inside the Chinese fraud rings stealing billions from banks and retailers",
     "title_ko": "중국 사기 조직, 은행과 소매업체에서 수십억 달러 규모 사기 행각",
     "link": "https://www.cnbc.com/2026/07/17/tap-pay-fraud-retail-crime.html",
@@ -2748,103 +2844,5 @@
     ],
     "reason": "중동 지정학적 리스크가 심화하며 유가 상승 압력이 커져 에너지 및 해운 섹터에 단기 수혜로 작용하고 있다. 다만, 고유가는 전반적인 인플레이션 우려를 고조시켜 시장에 부담을 줄 수 있다.",
     "action_point": "에너지 및 해운 섹터 투자 비중 확대를 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "中 상반기 경제성장률 4.7%…2분기 4.3%로 2022년 말 이후 최저(종합) - 연합뉴스",
-    "title_ko": "中 상반기 경제성장률 4.7%…2분기 4.3%로 2022년 말 이후 최저(종합) - 연합뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5waTNtVjBSN0RLTjcxTEc4NXVlbFE5NHEzelhEOHBCVUFKdU1EdGhXSzBPNGN0VFNIdkxrQ1FaZHowVkZQTGtocDdNd1RhQnY0UXg1NDlMY19SQVnSAWBBVV95cUxQUWpwcXBHRUJIcTFqUGlsaDVRNk91QkF6SExjZ1JaY2R1Vi03YlVJdXFQU2ZvenNtNVp6cmJOeExlWUtQN3dMaVVwbTBiMWlHcW5BemxRNEIwaWR0VFBXa0c?oc=5",
-    "published": "Wed, 15 Jul 2026 03:24:58 GMT",
-    "fetched_at": "2026-07-15 13:44:33",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "수출주",
-      "산업재",
-      "원자재",
-      "화학",
-      "반도체"
-    ],
-    "keywords": [
-      "중국 경제",
-      "경제 성장률",
-      "경기 둔화",
-      "글로벌 경기",
-      "수출"
-    ],
-    "reason": "중국의 2분기 경제성장률이 시장 예상치를 하회하며 2022년 말 이후 최저치를 기록, 글로벌 경기 둔화 우려를 심화시켰다. 이는 한국 등 대중국 수출 의존도가 높은 국가들의 실적 및 글로벌 원자재 수요에 부정적 영향을 미칠 수 있다.",
-    "action_point": "중국 관련 수출 비중이 높은 국내 기업 및 원자재 관련 투자 비중 축소 검토."
-  },
-  {
-    "source": "CNBC_Finance",
-    "title": "The AI boom just found two new winners: Goldman Sachs and JPMorgan Chase",
-    "title_ko": "AI 붐의 새로운 두 수혜자: 골드만삭스와 JP모건체이스",
-    "link": "https://www.cnbc.com/2026/07/14/goldman-sachs-and-jpmorgan-chase-are-emerging-as-ai-winners.html",
-    "published": "Tue, 14 Jul 2026 19:50:48 GMT",
-    "fetched_at": "2026-07-15 13:42:00",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "금융",
-      "기술"
-    ],
-    "keywords": [
-      "AI 붐",
-      "골드만삭스",
-      "JP모건체이스",
-      "월스트리트",
-      "투자은행",
-      "트레이딩"
-    ],
-    "reason": "AI 붐의 수혜가 기술 기업을 넘어 금융권으로 확산되며 월스트리트의 트레이딩 및 투자은행 부문 수익을 견인하고 있음을 보여줍니다. 이는 AI 관련 자산 시장의 활성화와 전반적인 금융 활동 증가를 시사합니다.",
-    "action_point": "AI 붐 수혜 확장에 따른 국내외 금융 섹터 투자 비중 확대를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "U.S. trade official says 'very few' Nvidia H200 AI chips have been shipped to China",
-    "title_ko": "미국 무역 당국자, 엔비디아 H200 AI 칩 '극소량'만 중국에 선적됐다고 언급",
-    "link": "https://www.cnbc.com/2026/07/14/nvidia-h200-ai-chips-china.html",
-    "published": "Tue, 14 Jul 2026 16:50:28 GMT",
-    "fetched_at": "2026-07-15 13:43:11",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "반도체",
-      "인공지능",
-      "기술주"
-    ],
-    "keywords": [
-      "엔비디아",
-      "H200",
-      "AI 칩",
-      "미중 무역",
-      "수출 재개"
-    ],
-    "reason": "엔비디아의 첨단 AI 칩 대중국 수출 재개는 해당 기업의 매출 증대와 글로벌 AI 반도체 공급망에 긍정적 신호로 작용하며, 미중 기술 경쟁의 잠재적 완화 가능성을 시사한다.",
-    "action_point": "AI 반도체 관련주 포트폴리오 비중 유지 또는 확대 고려."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Current and former employees sue Meta, alleging discrimination in using AI to conduct layoffs",
-    "title_ko": "현직 및 전직 직원들, AI를 활용한 해고에 차별을 주장하며 메타를 고소",
-    "link": "https://www.cnbc.com/2026/07/14/meta-lawsuit-layoffs-ai.html",
-    "published": "Tue, 14 Jul 2026 21:12:44 GMT",
-    "fetched_at": "2026-07-15 13:43:33",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "기술",
-      "소프트웨어",
-      "인적자원/HR"
-    ],
-    "keywords": [
-      "AI",
-      "메타",
-      "해고",
-      "차별",
-      "법적 소송"
-    ],
-    "reason": "메타에 대한 AI 해고 차별 소송은 기술 기업들의 AI 윤리 및 HR 적용 리스크를 부각시키며, AI 관련 규제 강화 가능성을 시사합니다.",
-    "action_point": "AI 윤리 및 법적 리스크에 노출될 수 있는 기술 기업들의 투자 비중을 재검토."
   }
 ]
