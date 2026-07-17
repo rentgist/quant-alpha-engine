@@ -1,6 +1,53 @@
 [
   {
     "source": "CNBC_World",
+    "title": "Inside the Chinese fraud rings stealing billions from banks and retailers",
+    "title_ko": "중국 사기 조직, 은행과 소매업체에서 수십억 달러 규모 사기 행각",
+    "link": "https://www.cnbc.com/2026/07/17/tap-pay-fraud-retail-crime.html",
+    "published": "Fri, 17 Jul 2026 13:12:11 GMT",
+    "fetched_at": "2026-07-18 02:01:17",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "금융",
+      "소매"
+    ],
+    "keywords": [
+      "중국",
+      "금융 범죄",
+      "사기",
+      "은행",
+      "소매업"
+    ],
+    "reason": "중국 내 은행 및 소매업체들이 수십억 달러 규모의 사기 피해를 입고 있어 해당 기업들의 수익성 및 주가에 부정적 영향을 미칠 수 있으며, 관련 투자자들의 신뢰 하락을 초래할 수 있습니다.",
+    "action_point": "중국 및 신흥국 시장의 금융/소매 섹터 투자 시, 해당 기업들의 보안 시스템 및 내부 통제 역량 점검을 강화해야 합니다."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "이란 전쟁에 건설업계 해외 핵심 수주처 '중동'서 '북미'로 이동 - 더구루",
+    "title_ko": "이란 전쟁에 건설업계 해외 핵심 수주처 '중동'서 '북미'로 이동",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1Xa1pMZ3REaVg5VXVsWFlqa2ZWYjJmbkxHTXpHVXo3NzJ2WWhBdDhhNXpoWktZaWp5b2JhLV9JY3F5S2ozMThzYmhzYmlBR0pLMGM3aENRSm5EaEl2RjFKbkNaTQ?oc=5",
+    "published": "Fri, 17 Jul 2026 15:00:56 GMT",
+    "fetched_at": "2026-07-18 02:01:36",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "건설업",
+      "건설 장비"
+    ],
+    "keywords": [
+      "건설업",
+      "해외 수주",
+      "중동",
+      "북미",
+      "지정학적 리스크",
+      "포트폴리오 다변화"
+    ],
+    "reason": "이란 전쟁으로 중동지역 지정학적 리스크가 고조됨에 따라, 국내 건설업계의 해외 수주 전략이 중동에서 북미로 이동하는 추세이다. 이는 건설사들의 해외 포트폴리오 재편을 가속화하며, 북미 시장에서의 경쟁 심화를 예고한다.",
+    "action_point": "북미 시장 진출 역량이 검증된 건설사들의 장기 성장 가능성 주시."
+  },
+  {
+    "source": "CNBC_World",
     "title": "Import prices post surprise gain as costs of goods from China hit highest since 2008",
     "title_ko": "수입 물가 예상 밖 상승, 중국산 제품 비용 2008년 이후 최고치 기록",
     "link": "https://www.cnbc.com/2026/07/17/import-prices-post-surprise-gain-as-costs-of-goods-from-china-hit-highest-since-2008.html",
@@ -2799,50 +2846,5 @@
     ],
     "reason": "메타에 대한 AI 해고 차별 소송은 기술 기업들의 AI 윤리 및 HR 적용 리스크를 부각시키며, AI 관련 규제 강화 가능성을 시사합니다.",
     "action_point": "AI 윤리 및 법적 리스크에 노출될 수 있는 기술 기업들의 투자 비중을 재검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "스테이트스트리트 \"EM 성장성 견조, AI 쏠림은 리스크\" - 연합인포맥스",
-    "title_ko": "스테이트스트리트 \"EM 성장성 견조, AI 쏠림은 리스크\"",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9uUG1Fa2VtOEJ5N2JHMV96SFFEZnFoNkJGd2dnN0dVU0p2TndIbGpmeFU5akhRUXM5bFZuSGloZWYtWk9lZ21rOFRXbXFqVDVVRDJFUkRadFZxbTFDZ2QxMkVhRGlPb2lGWFV0RGhFS2U?oc=5",
-    "published": "Wed, 15 Jul 2026 02:39:05 GMT",
-    "fetched_at": "2026-07-15 13:44:41",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "이머징 마켓",
-      "기술주",
-      "반도체"
-    ],
-    "keywords": [
-      "스테이트스트리트",
-      "이머징 마켓",
-      "AI",
-      "성장성",
-      "쏠림 현상",
-      "리스크"
-    ],
-    "reason": "이 뉴스는 이머징 마켓의 견조한 성장성을 강조하며 투자 기회를 시사하는 동시에, AI 관련 자산의 과도한 쏠림 현상이 시장의 잠재적 리스크가 될 수 있음을 경고한다.",
-    "action_point": "이머징 마켓 투자 비중 확대를 고려하고, AI 관련 고평가 기술주 비중 축소를 검토하라."
-  },
-  {
-    "source": "CNBC_Finance",
-    "title": "Earnings season plays: Profit expectations are growing for these stocks while their valuations get cheaper",
-    "title_ko": "어닝 시즌 공략: 이익 기대감은 커지는데 밸류에이션은 저렴해진 주식들",
-    "link": "https://www.cnbc.com/2026/07/14/earnings-season-plays-profit-expectations-are-growing-for-these-stocks.html",
-    "published": "Tue, 14 Jul 2026 14:38:42 GMT",
-    "fetched_at": "2026-07-15 13:42:18",
-    "sentiment": "호재",
-    "importance": 2,
-    "sectors": [],
-    "keywords": [
-      "어닝 시즌",
-      "이익 기대",
-      "밸류에이션",
-      "저평가 주식",
-      "투자 기회"
-    ],
-    "reason": "어닝 시즌을 맞아 이익 성장 기대감이 높지만 주가 하락으로 밸류에이션이 매력적인 개별 주식에 대한 투자 기회가 있음을 시사한다. 이는 시장 변동성 속에서 펀더멘털에 기반한 종목 선별의 중요성을 강조한다.",
-    "action_point": "예상 이익 성장 대비 밸류에이션 매력이 높은 개별 주식 발굴 및 투자 검토."
   }
 ]
