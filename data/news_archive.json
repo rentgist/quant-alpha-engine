@@ -1,6 +1,103 @@
 [
   {
     "source": "GoogleNews_Korea",
+    "title": "다시 불길 커진 '두 전쟁'…유가·곡물발 인플레 우려도 재점화 - 연합뉴스",
+    "title_ko": "다시 불길 커진 '두 전쟁'…유가·곡물발 인플레 우려도 재점화",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9QUkVMZy1jZTQ5cF9Ob0tVYWl0WDM4WGE2RmhfOGctdlFpei1GdGM5S0d0eC0yM2dmYU5DQlFIbUZxZkk2U2RTTWtVekdUaHdobDdremlUVS0xamJlSTlsUdIBYEFVX3lxTE9QUkVMZy1jZTQ5cF9Ob0tVYWl0WDM4WGE2RmhfOGctdlFpei1GdGM5S0d0eC0yM2dmYU5DQlFIbUZxZkk2U2RTTWtVekdUaHdobDdremlUVS0xamJlSTlsUQ?oc=5",
+    "published": "Thu, 16 Jul 2026 23:31:00 GMT",
+    "fetched_at": "2026-07-17 10:49:36",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "에너지",
+      "식료품/농업",
+      "전반적 시장"
+    ],
+    "keywords": [
+      "전쟁",
+      "유가",
+      "곡물",
+      "인플레이션",
+      "지정학적 위험"
+    ],
+    "reason": "두 전쟁의 불길이 커지면서 글로벌 유가 및 곡물 가격 상승 압력이 가중되어 전반적인 인플레이션 우려가 재점화될 가능성이 높습니다. 이는 각국 중앙은행의 긴축 기조 유지 또는 강화로 이어져 경기 둔화 위험을 높일 수 있습니다.",
+    "action_point": "원자재 관련 자산 비중 확대를 검토하고, 금리 인상에 민감한 성장주 비중을 축소하라."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "SoftBank sinks 8% as Japanese chip stocks track Wall Street AI sell-off",
+    "title_ko": "소프트뱅크 8% 하락, 일본 반도체 주식 월스트리트 AI 매도세 추종",
+    "link": "https://www.cnbc.com/2026/07/17/softbank-chip-stocks-asia-wall-street-ai-rout.html",
+    "published": "Fri, 17 Jul 2026 01:07:37 GMT",
+    "fetched_at": "2026-07-17 10:49:15",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "반도체",
+      "AI",
+      "기술주"
+    ],
+    "keywords": [
+      "반도체",
+      "AI",
+      "기술주",
+      "일본 증시",
+      "TSMC"
+    ],
+    "reason": "TSMC의 실망스러운 전망으로 촉발된 미국 발 AI/반도체 주식 매도세가 아시아 증시로 확산되며 기술주 전반의 투자 심리 위축과 밸류에이션 재평가 압력을 높일 수 있습니다.",
+    "action_point": "AI 및 반도체 관련 기술주 포트폴리오의 비중 축소를 검토합니다."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "[속보]트럼프 \"中·러·이란·북한, 미국 선거시스템에 위협\" - 아시아경제",
+    "title_ko": "[속보]트럼프 \"中·러·이란·북한, 미국 선거시스템에 위협\"",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBmSzNJZnpkeV9NMUhIenFGZHliZUhuRFU1NjFmeVlBZkNWWDc1WUFOZEZOcHdoNlp4SjZiLU5rRi1YZTRURW91TTlCTHBJbWtuT0xTaXRIcTY3aDBUQjQ5dQ?oc=5",
+    "published": "Fri, 17 Jul 2026 01:28:47 GMT",
+    "fetched_at": "2026-07-17 10:49:47",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "방위산업",
+      "사이버 보안",
+      "기술주"
+    ],
+    "keywords": [
+      "트럼프",
+      "미국 대선",
+      "지정학적 리스크",
+      "미중 관계",
+      "사이버 안보",
+      "북한"
+    ],
+    "reason": "트럼프의 발언은 미국 대선을 앞두고 지정학적 긴장 고조 및 미중 관계 악화 가능성을 시사하며, 글로벌 투자 환경의 불확실성을 증대시킵니다.",
+    "action_point": "글로벌 지정학적 리스크 심화에 대비하여 방위산업 및 사이버 보안 섹터 비중 확대를 검토하고, 달러 등 안전자산 편입을 고려하십시오."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "Seven & i shares jump 4% on report of stake talks with Polish convenience chain Zabka",
+    "title_ko": "세븐앤아이 주식, 폴란드 편의점 체인 자브카와의 지분 협상 보도에 4% 급등",
+    "link": "https://www.cnbc.com/2026/07/17/seven-i-zabka-investment-poland.html",
+    "published": "Fri, 17 Jul 2026 00:37:42 GMT",
+    "fetched_at": "2026-07-17 10:49:21",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "유통",
+      "소비재"
+    ],
+    "keywords": [
+      "세븐앤아이",
+      "자브카",
+      "M&A",
+      "편의점",
+      "폴란드",
+      "유통"
+    ],
+    "reason": "일본 유통 대기업 세븐앤아이의 폴란드 편의점 체인 인수는 기업의 해외 확장 전략을 보여주지만, 글로벌 매크로 시장이나 주요 자산군에는 직접적인 영향이 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "GoogleNews_Korea",
     "title": "유류할증료 석 달 연속 하락…여행업계, 중동리스크 재부상 '우려' - v.daum.net",
     "title_ko": "유류할증료 석 달 연속 하락…여행업계, 중동리스크 재부상 '우려'",
     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBrYkw5UjdIb3dFNFdMVm4zN1EtWmQ1RXZ0ellyYUZTS2F5Z1JHWnFFcjF4WkRxNDNIR0ROS2ZlalowSWhsc3FLQ2x5a05NSTg?oc=5",
@@ -2738,99 +2835,5 @@
     ],
     "reason": "개별 기업의 상폐 위기 극복은 해당 기업에 긍정적이나, 이는 주로 소액 개인 투자자의 특정 종목에 대한 투심을 반영하며 전체 시장이나 매크로 경제에 미치는 영향은 제한적이다.",
     "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "하메네이 장례 후 더 강경해진 이란…\"전쟁 재개 위기 커져\" - 연합뉴스TV",
-    "title_ko": "하메네이 장례 후 더 강경해진 이란…\"전쟁 재개 위기 커져\" - 연합뉴스TV",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBrVk5KSV9VRlFibm1xR1laRE9iNzdSeUsxc0VLT0hyamxNaTZpUEpKMzc0R1Z1NUoxMWsxbnQxdFp5RldVVzZLazd1UkxyWjhNTmRJWEN5aE82VkFHN1NnWTk4U3E1SHc?oc=5",
-    "published": "Sun, 12 Jul 2026 06:37:00 GMT",
-    "fetched_at": "2026-07-12 20:05:42",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "에너지",
-      "방산",
-      "원자재",
-      "해운"
-    ],
-    "keywords": [
-      "이란",
-      "지정학",
-      "유가",
-      "중동",
-      "전쟁"
-    ],
-    "reason": "이란의 강경 기조 강화로 중동 지정학적 리스크가 고조되고 있으며, 이는 유가 상승 압력 및 안전자산 선호 심화로 이어져 글로벌 시장에 부정적 영향을 미칠 수 있습니다.",
-    "action_point": "유가 상승에 대비하여 에너지 섹터 투자 비중을 확대하고, 지정학적 리스크 헤지를 위해 금 비중을 늘리십시오."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "대담해진 이란…\"전쟁 재개 위기 커져\" - v.daum.net",
-    "title_ko": "대담해진 이란…\"전쟁 재개 위기 커져\"",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1DNkc0OW9fdWRTWkdpdWNCSEhFRkZBOUdoc0RtUUxReWh6bFJsQ19ITjlodEljRFpZSThpY0l1bkppeC1BSXRkRXNzWFJFdTg?oc=5",
-    "published": "Sun, 12 Jul 2026 06:06:00 GMT",
-    "fetched_at": "2026-07-12 18:55:05",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "에너지",
-      "방산",
-      "해운"
-    ],
-    "keywords": [
-      "이란",
-      "중동",
-      "지정학적 리스크",
-      "유가"
-    ],
-    "reason": "이란과 중동 지역의 전쟁 재개 위기 고조는 국제 유가 상승 압력과 함께 글로벌 지정학적 불확실성을 증폭시켜 투자 심리를 위축시키고 안전자산 선호를 강화할 수 있습니다.",
-    "action_point": "에너지 및 방산 섹터 비중 확대를 검토하고, 원자재 가격 상승에 따른 인플레이션 압력을 주시하며 포트폴리오의 방어적 성격을 강화하십시오."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "‘Almost unlimited’: Execs says AI demand remains strong even as enterprises move to ‘valuemaxxing’",
-    "title_ko": "‘거의 무한정’: AI 수요는 여전히 견조하지만, 기업들은 ‘가치 극대화’를 추구한다",
-    "link": "https://www.cnbc.com/2026/07/12/ai-demand-chips-data-centers-stock-volatility.html",
-    "published": "Sun, 12 Jul 2026 05:00:01 GMT",
-    "fetched_at": "2026-07-12 18:54:49",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "반도체",
-      "기술",
-      "클라우드"
-    ],
-    "keywords": [
-      "AI",
-      "수요",
-      "반도체",
-      "가치극대화"
-    ],
-    "reason": "이 기사는 기업들의 '가치 극대화' 노력에도 불구하고 AI 관련 수요가 견조함을 보여주며, AI 기술 및 반도체 섹터의 장기적인 성장 동력을 재확인시켜 준다. 이는 최근 AI 관련주 변동성에 대한 우려를 완화할 수 있다.",
-    "action_point": "AI 관련 반도체 및 인프라 기술주에 대한 포트폴리오 비중을 유지하고, 변동성 발생 시 저점 매수 기회를 적극적으로 검토하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "LS일렉트릭, 2년 연속 임단협 무교섭 타결",
-    "title_ko": "LS일렉트릭, 2년 연속 임단협 무교섭 타결",
-    "link": "https://www.mk.co.kr/news/business/12096612",
-    "published": "Sun, 12 Jul 2026 18:28:47 +09:00",
-    "fetched_at": "2026-07-12 18:55:20",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "전력기기",
-      "자동화설비",
-      "스마트그리드"
-    ],
-    "keywords": [
-      "LS일렉트릭",
-      "임단협",
-      "노사관계",
-      "미래 전략 투자"
-    ],
-    "reason": "LS일렉트릭의 안정적인 노사관계는 운영 리스크를 줄이고 미래 전략 산업 투자를 위한 기반을 마련하여 기업의 장기적 성장 잠재력을 높이는 요인이다.",
-    "action_point": "LS일렉트릭의 안정된 노사관계를 긍정적으로 보고, 해당 기업 및 전력기기/자동화 섹터 내 투자 기회 모색."
   }
 ]
