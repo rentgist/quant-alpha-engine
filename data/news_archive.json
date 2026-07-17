@@ -1,6 +1,55 @@
 [
   {
     "source": "GoogleNews_Korea",
+    "title": "국제유가, 미국과 이란간 확전 우려 등 영향 급등 - 포커스온경제",
+    "title_ko": "국제유가, 미국과 이란간 확전 우려 등 영향 급등 - 포커스온경제",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5OZE1qbmRfbW5FMEdPR0kyd1BmMlVzNXVDTlVDTTRiS2JsMFZocGtKbWo3YXQ4RXRib2F6RDNXaW5EZ0gzb2JKc3pyMThuNEpjdHdmNnd5RkRjWGRKQnc?oc=5",
+    "published": "Fri, 17 Jul 2026 22:27:23 GMT",
+    "fetched_at": "2026-07-18 08:43:38",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "석유화학",
+      "항공운수",
+      "해운",
+      "유틸리티",
+      "방위산업"
+    ],
+    "keywords": [
+      "국제유가",
+      "지정학적 리스크",
+      "미국-이란",
+      "확전 우려",
+      "인플레이션"
+    ],
+    "reason": "미국과 이란 간의 확전 우려로 국제유가가 급등하면서 글로벌 인플레이션 압력이 증대되고 있습니다. 이는 주요국 중앙은행의 긴축 기조 유지 또는 강화 가능성을 높여 금융시장의 위험 회피 심리를 자극하고, 전반적인 경기 둔화 우려를 고조시킬 것입니다.",
+    "action_point": "유가 상승에 따른 비용 부담이 큰 국내 석유화학, 항공운수, 해운 섹터 비중을 축소하고, 인플레이션 헤지 및 에너지 관련 자산 편입을 검토하십시오."
+  },
+  {
+    "source": "Maeil_Business",
+    "title": "“전쟁나면 오른다더니, 고점 찍고 주르륵”…金값 반등도 쉽지 않다는데 [원자재로 살아남기]",
+    "title_ko": "“전쟁나면 오른다더니, 고점 찍고 주르륵”…金값 반등도 쉽지 않다는데 [원자재로 살아남기]",
+    "link": "https://www.mk.co.kr/news/stock/12101313",
+    "published": "Sat, 18 Jul 2026 07:54:25 +09:00",
+    "fetched_at": "2026-07-18 08:43:47",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "원자재",
+      "금융",
+      "광업"
+    ],
+    "keywords": [
+      "금",
+      "안전자산",
+      "원자재",
+      "고점"
+    ],
+    "reason": "금 가격이 고점 이후 하락세를 보이며 반등이 어렵다는 전망은 안전자산으로서 금의 매력 감소와 잠재적인 글로벌 리스크 완화를 시사합니다. 이는 높은 실질금리 환경 지속 가능성과도 연결될 수 있습니다.",
+    "action_point": "포트폴리오 내 금 비중 축소 또는 차익 실현을 검토하고 다른 안전자산 대안을 모색하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
     "title": "국제유가, 미·이란 확전 양상에 4.5%↑…브렌트 90달러 육박 - 연합뉴스",
     "title_ko": "국제유가, 미·이란 확전 양상에 4.5%↑…브렌트 90달러 육박 - 연합뉴스",
     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE44UnJZTWphM21kU2NEWUt4aEw4VzI2ZDFBMmlrb1k0ZDVuU1R4Q3VpdHQ5S2JkYzdsdmV4bTRkRl95LS1zRmozbHJUTGZJQVdEMjVRNzR0Z2dURXPSAWBBVV95cUxNSDRZQXVTcG5kc214dkVrU3loUXRQN21iQ1liV0RPSHVkTy13MkNtU3hzelluWUVnT2NUU19QRnI4bUltV29NQVpxVDdnakgtLVNWTDNkNmc4ME9YMkdYVHM?oc=5",
@@ -2795,54 +2844,5 @@
     ],
     "reason": "미국-이란 간 지정학적 긴장 고조와 호르무즈 해협 봉쇄는 원유 공급 불확실성을 증대시켜 유가 상승 압력을 가한다. 이는 글로벌 인플레이션 우려를 심화시키고 경기 성장 둔화 가능성을 높인다.",
     "action_point": "지정학적 리스크 확대로 인한 유가 상승에 대비하여 원자재 및 인플레이션 헤지 자산 비중 확대를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "SK Hynix South Korean shares jump 11% as Asia tech stocks rally",
-    "title_ko": "SK하이닉스, 아시아 기술주 랠리 속 한국 주식 11% 급등",
-    "link": "https://www.cnbc.com/2026/07/15/sk-hynix-asia-tech-stocks-rally-.html",
-    "published": "Wed, 15 Jul 2026 01:22:34 GMT",
-    "fetched_at": "2026-07-15 13:42:58",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "반도체",
-      "기술주",
-      "IT"
-    ],
-    "keywords": [
-      "SK하이닉스",
-      "반도체",
-      "기술주",
-      "아시아",
-      "주식 랠리"
-    ],
-    "reason": "SK하이닉스의 급등은 미국 반도체주의 반등에 따른 아시아 기술주 전반의 긍정적 흐름을 반영하며, 이는 국내 증시의 핵심 섹터인 반도체에 대한 투자심리 개선을 시사합니다.",
-    "action_point": "국내 반도체 대형주 비중 확대를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Stock futures rise as soft inflation reading lifts market: Live updates",
-    "title_ko": "예상보다 완화된 인플레이션 지표에 주식 선물 상승: 실시간 업데이트",
-    "link": "https://www.cnbc.com/2026/07/14/stock-market-today-live-updates.html",
-    "published": "Wed, 15 Jul 2026 04:17:45 GMT",
-    "fetched_at": "2026-07-15 13:43:04",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "기술",
-      "성장주",
-      "부동산",
-      "채권"
-    ],
-    "keywords": [
-      "인플레이션",
-      "금리 인상",
-      "연준",
-      "주식 선물",
-      "경기 연착륙"
-    ],
-    "reason": "예상치를 하회하는 인플레이션 지표는 연준의 공격적인 금리 인상 필요성을 낮춰 시장의 금리 부담을 완화하고 위험 자산 선호를 높일 것으로 예상됩니다. 이는 경기 연착륙 기대감을 강화합니다.",
-    "action_point": "성장주 및 금리 민감 자산 비중 확대 고려"
   }
 ]
