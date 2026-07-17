@@ -1,5 +1,171 @@
 [
   {
+    "source": "CNBC_World",
+    "title": "CNBC Daily Open: Trump lashes out at electoral system and China in fiery speech",
+    "title_ko": "CNBC 데일리 오픈: 트럼프, 격렬한 연설에서 선거 시스템과 중국 비난",
+    "link": "https://www.cnbc.com/2026/07/17/cnbc-daily-open-trump-electoral-system-fraud-china.html",
+    "published": "Fri, 17 Jul 2026 06:09:48 GMT",
+    "fetched_at": "2026-07-17 16:12:14",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "기술",
+      "산업재"
+    ],
+    "keywords": [
+      "트럼프",
+      "미중 갈등",
+      "정치 불확실성",
+      "선거"
+    ],
+    "reason": "트럼프의 반복적인 선거 불복 및 중국 비난 발언은 미국 정치의 불안정성을 높이고, 향후 미중 무역 갈등 격화 가능성을 시사하여 글로벌 시장의 불확실성을 증폭시킬 수 있습니다.",
+    "action_point": "미중 갈등 심화 가능성에 대비하여 중국 의존도가 높은 기술 및 산업 섹터 비중 축소를 검토하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "title": "日, 소뱅 등 44곳 참여 소버린 AI 개시…올해 기반 모델 공개",
+    "title_ko": "日, 소뱅 등 44곳 참여 소버린 AI 개시…올해 기반 모델 공개",
+    "link": "https://www.mk.co.kr/news/world/12100992",
+    "published": "Fri, 17 Jul 2026 15:32:11 +09:00",
+    "fetched_at": "2026-07-17 16:12:50",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "인공지능",
+      "반도체",
+      "소프트웨어",
+      "제조업",
+      "기술주"
+    ],
+    "keywords": [
+      "일본",
+      "AI",
+      "소프트뱅크",
+      "GPU",
+      "제조업",
+      "기술패권"
+    ],
+    "reason": "일본 정부가 막대한 자금을 투입해 제조업 특화 AI 개발을 국가적 우선순위로 삼으며 글로벌 AI 기술 경쟁이 심화되고, 관련 산업 성장이 가속화될 전망이다. 이는 장기적으로 일본 경제 및 기술 기업들의 경쟁력 강화에 기여할 것이다.",
+    "action_point": "국내 AI 반도체 및 AI 솔루션 기업의 장기적 성장 모멘텀에 주목하며 포트폴리오 내 비중 확대를 검토."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "Xi pitches China as AI partner to developing world, warns against risks and security overreach",
+    "title_ko": "시진핑, 개도국에 AI 파트너십 제안하며 위험 및 안보 과잉 대응 경고",
+    "link": "https://www.cnbc.com/2026/07/17/x-china-ai-summit-risks-security.html",
+    "published": "Fri, 17 Jul 2026 06:16:04 GMT",
+    "fetched_at": "2026-07-17 16:11:41",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "인공지능",
+      "기술",
+      "반도체",
+      "신흥국"
+    ],
+    "keywords": [
+      "시진핑",
+      "중국",
+      "AI",
+      "인공지능",
+      "개발도상국",
+      "기술협력",
+      "반도체"
+    ],
+    "reason": "이 뉴스는 중국이 개발도상국에 AI 기술을 전파하고 영향력을 확대하려는 전략적 움직임을 보여줍니다. 이는 장기적으로 AI 관련 기술 및 반도체 산업의 수요 증가 가능성을 내포하지만, 동시에 미중 기술 패권 경쟁의 심화를 반영합니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "이대통령 지지율 52%로 2주 연속 하락…부정 평가 이유는 '경제•부동산' - 주간조선",
+    "title_ko": "이대통령 지지율 52%로 2주 연속 하락…부정 평가 이유는 '경제•부동산'",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBQlpxa0hsa0wyOGVRSk1RU3dRUXBqR0hSTmNaWlo2X3ZCWlhpd0NWRXh3aE82WmdmSmdVTHRpanZZOUJrUUdXSHl3MnBFX3pvQ3RHQ3V6WGlDWTRzckdlUDc2NHFVT3VKUnJj0gFuQVVfeXFMTzRnV21tRU9XZ3dIQi1IOVVIR3FsNE44alFWd0lJbVRITTA5aUprbnp2R0xXZDlfcW94THhrUEI0c1MzM05Pd29ieklFOVVlQkprMmxfdThnRFJsOVJYRExFa25VR2d4SlN1LVYydFE?oc=5",
+    "published": "Fri, 17 Jul 2026 03:45:00 GMT",
+    "fetched_at": "2026-07-17 16:12:23",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "부동산",
+      "내수 소비재",
+      "건설"
+    ],
+    "keywords": [
+      "대통령 지지율",
+      "경제심리",
+      "부동산 시장",
+      "소비심리"
+    ],
+    "reason": "대통령 지지율 하락의 주요 원인이 경제 및 부동산 문제로 지목되면서, 국내 소비 심리와 부동산 시장에 대한 부정적 인식이 확산될 수 있습니다. 이는 내수 및 부동산 관련 자산에 대한 투자심리를 위축시킬 가능성이 높습니다.",
+    "action_point": "국내 부동산 및 내수 관련 자산에 대한 비중 축소를 검토하십시오."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "Sweden's Saab posts record orders as fighter jet maker cashes in on higher defense spending",
+    "title_ko": "스웨덴 사브, 국방비 지출 증가에 전투기 주문 기록 경신",
+    "link": "https://www.cnbc.com/2026/07/17/saab-stock-earnings-q2-report-defense-sales-orders.html",
+    "published": "Fri, 17 Jul 2026 07:10:50 GMT",
+    "fetched_at": "2026-07-17 16:11:49",
+    "sentiment": "호재",
+    "importance": 2,
+    "sectors": [
+      "방위산업",
+      "항공우주"
+    ],
+    "keywords": [
+      "사브",
+      "국방비",
+      "전투기",
+      "유럽",
+      "방산"
+    ],
+    "reason": "유럽 국가들의 국방비 지출 증가는 사브와 같은 방위산업 기업들의 매출 및 수주 증가로 이어지며, 글로벌 방위산업 섹터 전반에 긍정적인 투자 심리를 형성할 것입니다.",
+    "action_point": "글로벌 방위산업 관련 ETF 또는 기업 투자 비중 확대를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "World’s largest olive oil company says market has 'definitively' entered new phase",
+    "title_ko": "세계 최대 올리브 오일 기업, 시장이 '확실히' 새로운 국면에 진입했다고 밝혀",
+    "link": "https://www.cnbc.com/2026/07/17/spain-olive-oil-europe-heat-climate.html",
+    "published": "Fri, 17 Jul 2026 05:00:01 GMT",
+    "fetched_at": "2026-07-17 16:12:01",
+    "sentiment": "악재",
+    "importance": 2,
+    "sectors": [
+      "식품/음료",
+      "농업",
+      "소매"
+    ],
+    "keywords": [
+      "올리브 오일",
+      "농산물 가격",
+      "공급망",
+      "식품 인플레이션"
+    ],
+    "reason": "올리브 오일 공급 불안정 심화로 가격 변동성 확대 및 식품 인플레이션 압력이 가중될 수 있으며, 관련 식품 기업의 수익성에 영향을 미칠 수 있습니다.",
+    "action_point": "글로벌 식품 원자재 가격 상승 압력 심화를 감안하여 음식료 섹터 투자 비중을 재검토하고, 가격 전가력이 높은 기업 위주로 선별 투자 고려."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "[속보] 민주 \"송영길·김용 출마 예외적 허용\"…당무위 의결 - JTBC",
+    "title_ko": "[속보] 민주 \"송영길·김용 출마 예외적 허용\"…당무위 의결",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9DeS05SGtXcGFFWDNpZDJpY2hsYmZ4Q2x5alVCTzVpWjNWejBNbWJhbWc0R1RqZ3NfbS1XRkRidjNhNmNEOGtGQXdJakZzVlJqcjVEVw?oc=5",
+    "published": "Fri, 17 Jul 2026 06:22:00 GMT",
+    "fetched_at": "2026-07-17 16:12:30",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [],
+    "keywords": [
+      "정치",
+      "민주당",
+      "출마",
+      "당무위",
+      "송영길",
+      "김용"
+    ],
+    "reason": "이 뉴스는 특정 정치인의 공천 관련 당내 결정을 다루며, 현재까지는 국내 금융시장 전반이나 거시경제 지표에 직접적인 영향을 미치지 않는다. 이는 주로 국내 정치 지형에 대한 논의에 머물 것으로 예상된다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "CNBC_Finance",
     "title": "India's biggest IPO this year rakes in bids worth $31 billion, powered by institutional frenzy",
     "title_ko": "인도 올해 최대 IPO, 기관 투자 열풍에 310억 달러 입찰액 기록",
@@ -2678,169 +2844,5 @@
     ],
     "reason": "보툴리눔 톡신 기술의 국가핵심기술 지정은 관련 기업들의 수출 및 글로벌 임상 승인 절차를 지연시켜 연간 수천억 원 규모의 손실을 초래하고 산업 경쟁력을 약화시킬 수 있습니다.",
     "action_point": "보툴리눔 톡신 관련 국내 제약/바이오 기업 투자 비중 축소 검토"
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Elon Musk and Sam Altman spar on X after Apple files OpenAI lawsuit",
-    "title_ko": "애플의 OpenAI 소송 제기 후 일론 머스크와 샘 올트먼, X에서 설전",
-    "link": "https://www.cnbc.com/2026/07/12/elon-musk-and-sam-altman-spar-.html",
-    "published": "Sun, 12 Jul 2026 15:32:34 GMT",
-    "fetched_at": "2026-07-13 02:52:31",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "기술",
-      "인공지능",
-      "소프트웨어"
-    ],
-    "keywords": [
-      "일론 머스크",
-      "샘 올트먼",
-      "OpenAI",
-      "애플",
-      "AI 경쟁"
-    ],
-    "reason": "두 기술 거물 간의 설전은 AI 기술 경쟁 심화와 주요 기업들의 전략 변화를 간접적으로 보여주지만, 거시 경제나 시장 전반에 미치는 직접적인 영향은 제한적입니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "미국 “이란, 호르무즈 통제권 행사 하지 않아…미군이 항행자유 보장 대비”",
-    "title_ko": "미국 “이란, 호르무즈 통제권 행사 하지 않아…미군이 항행자유 보장 대비”",
-    "link": "https://www.mk.co.kr/news/world/12096651",
-    "published": "Sun, 12 Jul 2026 22:26:57 +09:00",
-    "fetched_at": "2026-07-13 01:47:51",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "정유/화학",
-      "해운/항공"
-    ],
-    "keywords": [
-      "미국",
-      "이란",
-      "호르무즈 해협",
-      "유가",
-      "지정학적 위험"
-    ],
-    "reason": "호르무즈 해협을 둘러싼 미-이란 긴장 고조는 국제유가 상승 압력으로 작용하며, 글로벌 인플레이션 및 경기 둔화 우려를 심화시킬 수 있습니다.",
-    "action_point": "유가 상승 압력에 대비하여 에너지 섹터 또는 원자재 관련 자산 비중 확대 검토."
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "신약 상용화 위한 ‘제형’ 기술로 승부수 [강원대 앵커사업단]",
-    "title_ko": "신약 상용화 위한 ‘제형’ 기술로 승부수 [강원대 앵커사업단]",
-    "link": "https://www.mk.co.kr/news/society/12095447",
-    "published": "Mon, 13 Jul 2026 00:10:00 +09:00",
-    "fetched_at": "2026-07-13 01:47:41",
-    "sentiment": "호재",
-    "importance": 2,
-    "sectors": [
-      "제약",
-      "바이오"
-    ],
-    "keywords": [
-      "제형 기술",
-      "신약 상용화",
-      "한국에프엠씨",
-      "강원대 앵커사업단"
-    ],
-    "reason": "본 뉴스는 신약 개발의 핵심인 제형 기술의 중요성을 부각하며, 해당 기술력을 보유한 한국에프엠씨의 잠재력을 시사합니다. 이는 제약·바이오 섹터 내 특정 기술 우위 기업에 대한 긍정적 신호입니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "김용범 \"한국경제, 장기 추세 변화 초기 국면\" - 연합뉴스TV",
-    "title_ko": "김용범 \"한국경제, 장기 추세 변화 초기 국면\"",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90RFRnckxHOGw0bU04eXhjc0h6UVBjNlVsVmVra3BMNFBUQmRlREVPaDJMZ2pBU0NaczZzYUNORUwzMC1KWU14cFpaRGtKckdDTmhYLTY0TUhXTHZtQVB4NHloYkEzeW8?oc=5",
-    "published": "Sun, 12 Jul 2026 09:20:00 GMT",
-    "fetched_at": "2026-07-13 00:51:23",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "전반적 경제",
-      "주요 산업",
-      "수출 기업"
-    ],
-    "keywords": [
-      "한국경제",
-      "장기 추세 변화",
-      "구조 변화",
-      "김용범",
-      "경제 전망"
-    ],
-    "reason": "김용범 전 기재부 차관의 발언은 한국 경제가 장기적인 구조적 변화 국면에 진입하고 있음을 시사하며, 이는 기존 성장 동력 약화 및 새로운 성장 모델 모색의 필요성을 강조하여 전반적인 경제 불확실성을 높일 수 있습니다.",
-    "action_point": "한국 경제의 장기 성장 동력 변화에 대응하여 포트폴리오 내 신성장 산업 비중 확대 및 글로벌 분산 투자 강화 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Earnings playbook: Reporting season gets underway with JPMorgan Chase, Netflix on deck",
-    "title_ko": "어닝 플레이북: JP모건 체이스, 넷플릭스 등 실적 발표 시즌 개막",
-    "link": "https://www.cnbc.com/2026/07/12/earnings-playbook-reporting-season-starts-with-jpmorgan-chase-netflix.html",
-    "published": "Sun, 12 Jul 2026 12:02:15 GMT",
-    "fetched_at": "2026-07-13 00:50:59",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "금융",
-      "미디어/엔터테인먼트",
-      "기술"
-    ],
-    "keywords": [
-      "실적 발표",
-      "어닝 시즌",
-      "S&P 500",
-      "기업 가치"
-    ],
-    "reason": "기업들의 실적은 개별 주가 및 섹터 흐름에 직접적인 영향을 미치며, 거시 경제의 건전성을 가늠하는 중요한 지표가 된다. 투자자들은 실적 발표를 통해 기업 펀더멘털과 시장 전반의 방향성을 파악할 수 있다.",
-    "action_point": "실적 발표 기업의 펀더멘털 및 향후 가이던스 변화를 면밀히 분석하여 포트폴리오 비중을 조정할 준비를 하라."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Majority of U.S. workers support an AI wealth fund as tech layoffs surge, survey finds",
-    "title_ko": "미국 근로자 대다수, 기술 해고 증가 속 AI 국부 펀드 지지",
-    "link": "https://www.cnbc.com/2026/07/12/majority-of-us-workers-support-ai-fund-amid-tech-layoffs-survey.html",
-    "published": "Sun, 12 Jul 2026 12:27:55 GMT",
-    "fetched_at": "2026-07-13 00:51:10",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "기술"
-    ],
-    "keywords": [
-      "AI",
-      "기술 해고",
-      "국부 펀드",
-      "미국 노동 시장"
-    ],
-    "reason": "미국 근로자들의 AI 국부 펀드 지지 여론은 기술 발전으로 인한 고용 불안정과 기업 책임론이 부상하고 있음을 보여준다. 이는 장기적으로 AI 산업에 대한 규제 강화나 이익 재분배 압력으로 이어질 수 있는 정책적 리스크를 내포한다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "코스피·개미계좌 망쳤다는 삼전닉스 2배ETF…해법 있다는데",
-    "title_ko": "코스피·개미계좌 망쳤다는 삼전닉스 2배ETF…해법 있다는데",
-    "link": "https://www.mk.co.kr/news/stock/12096637",
-    "published": "Sun, 12 Jul 2026 20:33:49 +09:00",
-    "fetched_at": "2026-07-13 00:51:40",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "증권/금융",
-      "반도체",
-      "개인 투자"
-    ],
-    "keywords": [
-      "ETF",
-      "레버리지",
-      "인버스",
-      "코스피",
-      "변동성",
-      "개인투자자",
-      "반도체"
-    ],
-    "reason": "코스피의 높은 변동성 속 레버리지/인버스 ETF 거래량 급증은 개인 투자자의 손실 확대로 이어질 수 있으며, 이는 시장의 투기적 성격을 강화하고 추가적인 변동성을 유발할 수 있습니다.",
-    "action_point": "고변동성 장세 속 레버리지/인버스 ETF 등 고위험 파생상품 투자를 지양하고 안정적 자산 배분을 유지하십시오."
   }
 ]
