@@ -1,6 +1,50 @@
 [
   {
     "source": "CNBC_World",
+    "title": "Telecom Italia board backs Poste's $14.9 billion takeover offer",
+    "title_ko": "Telecom Italia 이사회, Poste의 149억 달러 인수 제안 지지",
+    "link": "https://www.cnbc.com/2026/07/18/telecom-italia-board-backs-postes-14point9-billion-takeover-offer.html",
+    "published": "Sat, 18 Jul 2026 14:19:32 GMT",
+    "fetched_at": "2026-07-19 00:45:27",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "통신",
+      "클라우드 서비스",
+      "IT 서비스"
+    ],
+    "keywords": [
+      "M&A",
+      "이탈리아 통신",
+      "디지털 전환",
+      "클라우드"
+    ],
+    "reason": "이탈리아 통신 시장의 재편과 디지털 전환 가속화를 시사하는 대규모 M&A로, 관련 섹터에 대한 투자 심리에 긍정적 영향을 미칠 수 있습니다. 다만, 글로벌 매크로 시장 전체에 미치는 영향은 제한적입니다.",
+    "action_point": "유럽 통신 및 클라우드 서비스 섹터의 M&A 활성화 추세를 고려하여 관련 투자 기회를 모색."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "[속보]쿠팡, 인천 물류센터 화재 사과…“당국 조사 적극 협조” - 아시아경제",
+    "title_ko": "[속보]쿠팡, 인천 물류센터 화재 사과…“당국 조사 적극 협조” - 아시아경제",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9xa0Nfd1EtLWg3OExmY21oWXl6V1NYclN1VDBUSEhuTVdoWG01blB4d1cwd3o3WmFkOV9MSzFoMTRIMTJlYWpFOVdIbXBzOXNXQkpRT21xY0tsVXZia3cwVw?oc=5",
+    "published": "Sat, 18 Jul 2026 11:43:16 GMT",
+    "fetched_at": "2026-07-19 00:45:43",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "이커머스",
+      "물류"
+    ],
+    "keywords": [
+      "쿠팡",
+      "물류센터",
+      "화재"
+    ],
+    "reason": "쿠팡 물류센터 화재는 해당 기업의 단기적인 운영 차질과 재무적 손실을 야기하겠으나, 광범위한 거시경제 지표나 한국 시장 전반에는 제한적인 영향을 미칠 것으로 판단된다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
     "title": "Korean beauty products are becoming mainstream in the U.S. Why there may be even more growth ahead",
     "title_ko": "미국 시장에서 주류가 되어가는 K-뷰티, 향후 더 큰 성장이 기대되는 이유",
     "link": "https://www.cnbc.com/2026/07/18/korean-beauty-products-are-becoming-mainstream-in-the-us.html",
@@ -2808,49 +2852,5 @@
     ],
     "reason": "예상치 못한 도매물가 하락은 에너지 가격 안정화에 기인하며, 전반적인 인플레이션 압력 완화를 시사한다. 이는 연방준비제도(Fed)의 금리 인상 속도 조절 가능성을 높여 시장에 긍정적으로 작용할 수 있다.",
     "action_point": "인플레이션 둔화 기대감으로 미국 성장주 및 금리 민감 자산에 대한 투자 매력을 재평가하라."
-  },
-  {
-    "source": "CNBC_Finance",
-    "title": "Star analyst Dan Ives forms Yorkville Ives merchant bank after leaving Wedbush",
-    "title_ko": "스타 애널리스트 댄 아이브스, 웨드부시 떠나 요크빌 아이브스 머천트 뱅크 설립",
-    "link": "https://www.cnbc.com/2026/07/15/star-analyst-dan-ives-forms-yorkville-ives-merchant-bank-after-leaving-wedbush.html",
-    "published": "Wed, 15 Jul 2026 11:51:55 GMT",
-    "fetched_at": "2026-07-16 00:19:13",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "금융 서비스",
-      "투자은행"
-    ],
-    "keywords": [
-      "댄 아이브스",
-      "머천트 뱅크",
-      "투자은행",
-      "금융 서비스"
-    ],
-    "reason": "유명 애널리스트의 이직 및 신규 투자은행 설립은 금융 서비스 산업 내 경쟁 구도 및 특정 섹터 리서치 역량에 미묘한 변화를 가져올 수 있으나, 거시 경제 전반이나 주요 자산 시장에 직접적인 파급 효과는 제한적입니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_Finance",
-    "title": "Warren Buffett on the market today: 'It's tough to find values when everybody is preferring gambling'",
-    "title_ko": "워렌 버핏, 오늘날 시장에 대해: '모두가 도박을 선호할 때 가치를 찾기 어렵다'",
-    "link": "https://www.cnbc.com/2026/07/15/warren-buffett-on-the-market-today-its-tough-to-find-values-when-everybody-is-preferring-gambling.html",
-    "published": "Wed, 15 Jul 2026 13:10:18 GMT",
-    "fetched_at": "2026-07-15 22:13:54",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "전반적인 주식 시장",
-      "성장주"
-    ],
-    "keywords": [
-      "워렌 버핏",
-      "시장 투기",
-      "가치 투자",
-      "주식 고평가"
-    ],
-    "reason": "워렌 버핏의 발언은 현재 주식 시장의 투기적 성향에 대한 비판으로, 장기적인 가치 투자의 어려움을 시사합니다. 이는 고평가된 자산에 대한 경고로 해석되며, 시장 전반의 조정 가능성에 대한 우려를 높일 수 있습니다.",
-    "action_point": "포트폴리오 내 투기적 성향의 자산 비중을 축소하고, 기업의 본질 가치에 기반한 투자 전략을 강화하라."
   }
 ]
