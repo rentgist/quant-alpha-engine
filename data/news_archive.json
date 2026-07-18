@@ -1,5 +1,24 @@
 [
   {
+    "source": "CNBC_World",
+    "title": "Hungary's president signs law change ending his term in office",
+    "title_ko": "헝가리 대통령, 임기 종료 법안에 서명",
+    "link": "https://www.cnbc.com/2026/07/18/hungarys-president-signs-law-change-ending-his-term-in-office.html",
+    "published": "Sat, 18 Jul 2026 17:08:00 GMT",
+    "fetched_at": "2026-07-19 03:47:54",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [],
+    "keywords": [
+      "헝가리",
+      "대통령",
+      "정치",
+      "임기"
+    ],
+    "reason": "헝가리 내부의 정치적 변화이며, 이는 해당 국가의 거버넌스와 리더십 교체를 시사하지만, 글로벌 자산 시장이나 매크로 경제에 미칠 직접적인 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "Maeil_Business",
     "title": "8천만원車, 한국선 ‘반값’ 3천만원대...‘세계 최고’ 극찬받은 현대차, 대박 비결 [세상만車]",
     "title_ko": "8천만원車, 한국선 ‘반값’ 3천만원대...‘세계 최고’ 극찬받은 현대차, 대박 비결 [세상만車]",
@@ -2826,29 +2845,5 @@
     ],
     "reason": "연준 고위 인사의 경제 및 금리 관련 증언은 향후 통화정책 방향에 대한 중요한 단서를 제공하여 시장의 금리 전망 및 경제 예측에 영향을 미칠 수 있습니다.",
     "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_Finance",
-    "title": "New York Fed President Williams says inflation has peaked, rates 'well positioned'",
-    "title_ko": "뉴욕 연은 총재 윌리엄스, 인플레이션 정점 찍었고 금리 '적절한 위치'에 있다고 발언",
-    "link": "https://www.cnbc.com/2026/07/15/new-york-fed-president-williams-says-inflation-has-peaked-rates-well-positioned.html",
-    "published": "Wed, 15 Jul 2026 14:23:31 GMT",
-    "fetched_at": "2026-07-16 02:06:51",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "기술주",
-      "부동산",
-      "성장주"
-    ],
-    "keywords": [
-      "인플레이션",
-      "금리",
-      "연준",
-      "통화정책",
-      "윌리엄스"
-    ],
-    "reason": "뉴욕 연은 총재의 인플레이션 정점 발언은 연준의 금리 인상 사이클 종료 기대감을 높여 시장의 위험 선호 심리를 자극할 것입니다. 이는 채권 금리 하락 압력으로 작용하며 주식 및 부동산 등 위험 자산에 긍정적인 영향을 미칠 수 있습니다.",
-    "action_point": "장기 성장성이 높은 기술주 및 성장주 비중 확대를 검토하라."
   }
 ]
