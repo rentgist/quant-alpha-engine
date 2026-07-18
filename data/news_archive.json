@@ -1,6 +1,149 @@
 [
   {
     "source": "GoogleNews_Korea",
+    "title": "호르무즈 이어 홍해 봉쇄 위기…“둘 다 막히면 글로벌 경기침체” - KBS 뉴스",
+    "title_ko": "호르무즈 이어 홍해 봉쇄 위기…“둘 다 막히면 글로벌 경기침체”",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWUkw3WHNhQnRBY192cHBiY1NpR2p5cldJel9leHlPNm94MjU2eXQ0cGxVSHdLakxQMWJNTVdpQ3ZzQ2JJczRTMHV1RV91V1ZVa0NKUFBYTTlPWlk?oc=5",
+    "published": "Sat, 18 Jul 2026 08:02:00 GMT",
+    "fetched_at": "2026-07-18 19:11:10",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "에너지",
+      "해운",
+      "물류",
+      "제조업",
+      "보험"
+    ],
+    "keywords": [
+      "호르무즈 해협",
+      "홍해",
+      "지정학적 리스크",
+      "물류 대란",
+      "유가 급등",
+      "글로벌 경기침체",
+      "인플레이션"
+    ],
+    "reason": "호르무즈 및 홍해 봉쇄는 글로벌 에너지 공급망과 무역 흐름에 치명적인 차질을 발생시켜 유가 급등과 물가 상승 압력을 가중시키고, 이는 전 세계적인 경기 침체 가능성을 높인다.",
+    "action_point": "에너지 관련 자산 편입을 고려하고, 경기 방어주 비중 확대를 통해 지정학적 리스크에 대비하라."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "U.S. military says it has completed the latest round of strikes against Iran, amid more disruptions to shipping",
+    "title_ko": "미군, 이란에 대한 최신 공습 완료 및 해운 운송 차질 가중 발표",
+    "link": "https://www.cnbc.com/2026/07/18/us-military-says-it-completed-latest-round-of-strikes-against-iran.html",
+    "published": "Sat, 18 Jul 2026 09:38:37 GMT",
+    "fetched_at": "2026-07-18 19:10:22",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "해운",
+      "방산"
+    ],
+    "keywords": [
+      "이란",
+      "지정학적 리스크",
+      "해운 운송",
+      "유가"
+    ],
+    "reason": "미군과 이란 간의 지정학적 긴장 고조는 호르무즈 해협 등 주요 해운 운송로의 교란 가능성을 높여 유가 상승 압력과 글로벌 물류 비용 증가로 이어질 수 있습니다.",
+    "action_point": "중동 지정학적 리스크 고조에 따른 유가 상승 가능성에 대비하여 에너지 섹터 비중 확대를 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "[AI 이슈트렌드] 반도체발 코스피 쇼크 속 홈플러스 파산 위기 주목 - AI타임스",
+    "title_ko": "[AI 이슈트렌드] 반도체발 코스피 쇼크 속 홈플러스 파산 위기 주목 - AI타임스",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE40WUd1YXpnTkNCVVNwODRTQVI1UUVZRUg5VEtVTHV2V21ZVERpNlJmbUI0QVFGZkVXRkpmQ3FWVHpVTl9vUWJxVm02TDFVTFNZR3ZJcHdXWjNYa1ZRdkJwbmtYbThqUXdOZlE?oc=5",
+    "published": "Sat, 18 Jul 2026 09:03:37 GMT",
+    "fetched_at": "2026-07-18 19:10:39",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "반도체",
+      "유통",
+      "소비재"
+    ],
+    "keywords": [
+      "반도체",
+      "코스피",
+      "홈플러스",
+      "파산",
+      "AI"
+    ],
+    "reason": "반도체 섹터의 부정적 흐름이 코스피 전반의 하방 압력으로 작용할 수 있으며, 대형 유통업체의 파산 위기는 국내 소비경기 둔화 우려를 심화시킵니다.",
+    "action_point": "반도체 및 유통 섹터 투자 비중 축소를 검토하고, 시장 전반의 변동성 확대에 대비하여 현금 비중을 일부 확보하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "[속보] \"北 최선희, 러시아 공식방문 모스크바 도착\" - 연합뉴스TV",
+    "title_ko": "[속보] \"北 최선희, 러시아 공식방문 모스크바 도착\"",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9WSDlkS1BSSmFWM1RVRzNVeW5WN2pwNlJHTzRZU1NFX3c2TGdSREFqWFZpYVVCejlULUthU3dRYm5hZlJUOFBnUm1KUlIxNmx4eGE2TzhPZzZ2YWJiNGtRX3NNMS1CZVk?oc=5",
+    "published": "Sat, 18 Jul 2026 05:45:00 GMT",
+    "fetched_at": "2026-07-18 19:10:58",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "방산",
+      "금융",
+      "기술"
+    ],
+    "keywords": [
+      "북한",
+      "러시아",
+      "최선희",
+      "지정학",
+      "군사협력"
+    ],
+    "reason": "북한과 러시아 간 고위급 접촉은 군사·경제 협력 심화를 시사하며, 이는 한반도 및 국제 안보 환경의 불확실성을 증대시켜 한국 자산에 대한 '코리아 디스카운트' 우려를 키울 수 있습니다.",
+    "action_point": "지정학적 리스크 확대를 고려, 원화 자산 비중 축소 및 달러 자산 확대를 검토하십시오."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "Fat cat? Weight-loss drugs may be coming for your overweight pet",
+    "title_ko": "비만 고양이? 반려동물용 체중 감량 약물이 등장할 수 있습니다.",
+    "link": "https://www.cnbc.com/2026/07/18/cats-glp-1-ozempic-pets-weight-loss.html",
+    "published": "Sat, 18 Jul 2026 05:00:02 GMT",
+    "fetched_at": "2026-07-18 19:10:29",
+    "sentiment": "호재",
+    "importance": 2,
+    "sectors": [
+      "반려동물 산업",
+      "제약/바이오"
+    ],
+    "keywords": [
+      "반려동물",
+      "체중 감량 약물",
+      "GLP-1",
+      "동물 건강",
+      "펫푸드"
+    ],
+    "reason": "반려동물에 대한 지출 증가 추세와 인간용 비만 치료제(GLP-1)의 동물 적용 가능성은 반려동물 헬스케어 및 제약 산업에 새로운 성장 동력을 제공합니다. 이는 관련 기업들의 매출 증대 기회를 시사합니다.",
+    "action_point": "글로벌 반려동물 헬스케어 및 GLP-1 관련 제약 섹터 투자 확대를 검토하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "title": "“반복 입원했다가 보험사기범 몰렸어요”…경찰 판단은 어떻게? [어쩌다 세상이]",
+    "title_ko": "“반복 입원했다가 보험사기범 몰렸어요”…경찰 판단은 어떻게? [어쩌다 세상이]",
+    "link": "https://www.mk.co.kr/news/economy/12101436",
+    "published": "Sat, 18 Jul 2026 16:59:48 +09:00",
+    "fetched_at": "2026-07-18 19:11:19",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "보험"
+    ],
+    "keywords": [
+      "보험사기",
+      "경찰 수사",
+      "혐의 없음",
+      "보험금 청구"
+    ],
+    "reason": "이 기사는 보험 업계의 보험 사기 의심 사건 처리 방식과 이에 대한 경찰의 판단을 다루며, 특정 개인 사례에 국한된 내용입니다. 매크로 경제나 주요 투자 자산에 미치는 직접적인 영향은 미미합니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "GoogleNews_Korea",
     "title": "美·이란 7일째 정면충돌…호르무즈 해협 둘러싸고 확전 위기 고조 - v.daum.net",
     "title_ko": "미-이란 7일째 정면충돌…호르무즈 해협 둘러싸고 확전 위기 고조",
     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5qMjBTM2xfSzV2UG9pbU92V0Y2a0JjNUJEdjJTVTlZMzJGVUxVVVpSMHFkUk5tX25qWDROMVJudkNsX2NXVnUxdmN3THVxQmM?oc=5",
@@ -2696,151 +2839,5 @@
     ],
     "reason": "이란 전쟁 발발 시 글로벌 지정학적 리스크가 급증하며 유가에 큰 영향을 미칠 것이다. 특히 한반도 내 남북 대결 구도 강화를 통해 국내 자산의 코리아 디스카운트 심화 및 투자 불확실성을 높일 수 있다.",
     "action_point": "지정학적 리스크 심화에 대비해 국내 주식 비중 축소 및 달러 자산 비중 확대를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Treasury yields rise as investors await latest producer price inflation data",
-    "title_ko": "생산자 물가 지표 발표 앞두고 미 국채 수익률 상승",
-    "link": "https://www.cnbc.com/2026/07/15/treasury-yields-investors-producer-price-inflation-data.html",
-    "published": "Wed, 15 Jul 2026 09:30:12 GMT",
-    "fetched_at": "2026-07-15 18:52:21",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "기술주",
-      "성장주",
-      "부동산"
-    ],
-    "keywords": [
-      "국채 수익률",
-      "생산자 물가 지표",
-      "인플레이션",
-      "금리"
-    ],
-    "reason": "생산자 물가 지표 발표를 앞두고 국채 수익률이 상승하는 것은 인플레이션 압력 지속과 연준의 매파적 스탠스 유지 가능성에 대한 시장의 기대를 반영합니다. 이는 주식 시장, 특히 고성장 기술주와 금리 민감도가 높은 자산에 부정적인 영향을 미 미칠 수 있습니다.",
-    "action_point": "금리 민감도가 높은 장기 성장주 및 부동산 관련 자산 비중 축소를 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "'수출 호조에도 왜?' 중국 경제성장률 급락, 연간 목표치를 밑돌아 - BBC",
-    "title_ko": "'수출 호조에도 왜?' 중국 경제성장률 급락, 연간 목표치를 밑돌아 - BBC",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE52UVRRTTIyQW5udGJFTjhSbEhmTHc4Q2QyTHdTd1BWNzE5b0p0U0hWZk5LbmNjdUY5ZWh2MlBZaEczSnd3RVZGSlRfLXlrdU9HYTlfdmthLW01dTVn0gFiQVVfeXFMUDU0UmVDOFl4VUpZYzlneGtDWHJCX3luT1pfdFhKaGZENGxvWTRjRTZYNTltalJDYXVBUG9IV3I2Qy1IMGljUEdDV0k3d3JQbmVXV05QUzNZSWl5QkJPQk1jV0E?oc=5",
-    "published": "Wed, 15 Jul 2026 09:00:00 GMT",
-    "fetched_at": "2026-07-15 18:52:32",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "수출",
-      "원자재",
-      "산업재",
-      "글로벌 매크로"
-    ],
-    "keywords": [
-      "중국 경제",
-      "경제 성장률",
-      "글로벌 경기 둔화",
-      "수출"
-    ],
-    "reason": "세계 경제의 주요 성장 동력인 중국의 경제성장률 급락은 글로벌 수요 둔화를 시사하며, 이는 대중국 수출 의존도가 높은 한국 경제와 원자재 시장에 부정적인 영향을 미칠 것입니다.",
-    "action_point": "중국 경기 둔화에 민감한 수출 및 원자재 관련 자산 비중 축소를 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "中 2분기 경제성장률 4.3%... 2022년 이후 최저 - 조선일보",
-    "title_ko": "中 2분기 경제성장률 4.3%... 2022년 이후 최저 - 조선일보",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaXJvdmVEUThXbzJ2ZldUaUJVSGhuMnhDcnlVYU5ZZk5rNDFHYmtsR0l2eVllX1pPdUdySnN6eUlyWGtnU3E1QlhnVXRJLW5qampsWllfeDFzMFZiblFBSV9zNmlvMFRnSHYzMnpKS21wazNhdTltMjRsYkZ4MDRYbmNXcXgtTnYxajhXUTdnTVpRQ1FQc2FKRThhU3Fxdw?oc=5",
-    "published": "Wed, 15 Jul 2026 07:11:44 GMT",
-    "fetched_at": "2026-07-15 18:52:47",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "수출주",
-      "반도체",
-      "화학",
-      "산업재",
-      "원자재"
-    ],
-    "keywords": [
-      "중국 경제",
-      "경제성장률",
-      "경기 둔화",
-      "수출 감소",
-      "글로벌 경기"
-    ],
-    "reason": "중국의 2분기 경제성장률이 예상치를 하회하며 경기 둔화 우려가 심화되고 있습니다. 이는 한국 등 대중국 수출 의존도가 높은 국가들의 경제 성장 및 기업 실적에 부정적인 영향을 미 미칠 수 있습니다.",
-    "action_point": "중국 수출 비중이 높은 국내 기업 및 원자재 관련 자산 비중 축소를 검토하십시오."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "[글로벌+] 끝날 때까지 끝나지 않은 이란 전쟁···폭염 이어지는 미국 - 대구MBC",
-    "title_ko": "[글로벌+] 끝날 때까지 끝나지 않은 이란 전쟁···폭염 이어지는 미국",
-    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE41MmxNRWZRSjdQTlhkSzFpbmVSYzRKU3g4cVpxamRXOGJfZ3pmRElmaTllNU0tTjlmTzRKcWFDdEVnY3g3eUYzNS1PcVk?oc=5",
-    "published": "Wed, 15 Jul 2026 08:05:23 GMT",
-    "fetched_at": "2026-07-15 18:52:56",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "방산",
-      "운송",
-      "농업",
-      "귀금속"
-    ],
-    "keywords": [
-      "이란",
-      "지정학",
-      "전쟁",
-      "폭염",
-      "미국",
-      "유가",
-      "인플레이션"
-    ],
-    "reason": "이란발 지정학적 리스크 지속은 국제 유가 상승 압력과 투자 심리 위축을 야기하며, 미국 폭염은 에너지 수요 증가 및 농산물 가격 불안정을 심화시켜 전반적인 인플레이션 압력을 높일 수 있습니다.",
-    "action_point": "에너지 및 방산 섹터 비중 확대 검토, 금 등 안전자산 보유 유지."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "PayPal jumps 16% in premarket on report of Stripe, Advent $53 billion takeover offer",
-    "title_ko": "Stripe와 Advent, PayPal에 530억 달러 인수 제안 보도에 PayPal 주가 개장 전 16% 급등",
-    "link": "https://www.cnbc.com/2026/07/15/stripe-advent-offer-to-buy-paypal-for-more-than-53-billion-reuters.html",
-    "published": "Wed, 15 Jul 2026 09:29:08 GMT",
-    "fetched_at": "2026-07-15 18:52:16",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "핀테크",
-      "결제 서비스"
-    ],
-    "keywords": [
-      "PayPal",
-      "Stripe",
-      "인수합병",
-      "핀테크"
-    ],
-    "reason": "이 뉴스는 핀테크/결제 서비스 섹터 내 M&A 활성화 및 기업 가치 재평가 가능성을 시사합니다. PayPal 주가에는 단기적인 호재로 작용합니다.",
-    "action_point": "핀테크 및 결제 서비스 섹터의 인수합병 동향을 주시하고 잠재적 투자 기회를 모색."
-  },
-  {
-    "source": "CNBC_Finance",
-    "title": "Stocks making the biggest moves midday: IBM, Goldman Sachs, CleanSpark, HCA Healthcare & more",
-    "title_ko": "장중 큰 움직임을 보이는 주식들: IBM, 골드만삭스, 클린스파크, HCA 헬스케어 외",
-    "link": "https://www.cnbc.com/2026/07/14/stocks-making-big-moves-midday-ibm-goldman-cleanspark-hca-more-.html",
-    "published": "Tue, 14 Jul 2026 16:48:07 GMT",
-    "fetched_at": "2026-07-15 18:51:43",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "기술",
-      "금융",
-      "헬스케어",
-      "에너지"
-    ],
-    "keywords": [
-      "주식 동향",
-      "장중 변동성",
-      "개별 기업"
-    ],
-    "reason": "이 기사는 장중 특정 개별 기업들의 주가 움직임을 나열할 뿐, 전반적인 시장 방향성이나 거시 경제 동향에 대한 구체적인 분석 또는 정보를 제공하지 않습니다. 따라서 특정 자산군에 대한 직접적인 영향은 제한적입니다.",
-    "action_point": "해당 없음"
   }
 ]
