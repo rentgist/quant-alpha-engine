@@ -1,6 +1,52 @@
 [
   {
     "source": "GoogleNews_Korea",
+    "title": "[속보] 이 대통령, 인천 쿠팡 물류센터 화재 총력 대응 지시 - 경향신문",
+    "title_ko": "[속보] 이 대통령, 인천 쿠팡 물류센터 화재 총력 대응 지시 - 경향신문",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB1SGczSHJJT3c3dHFhcVpnT2dUTXJCSWhyV1F2SEhfYnE2UVd6Nml1Q1htZGxjQ2lpVHRkOTVxdzc3V0tReW5yblBrTmQ4UjJoVkJvbm1tbEoyd9IBX0FVX3lxTE5oX0s0cUJBM1ZxU1YzcGQ2OUFKdjZCOTAwMlRvQ0JERkVXWjdjV3lIUmk3aUloZ2JDT0RhVHM2V0gzdnBGOHVOTnF5a2xIR3RvTVFNS0V3S0VjeURzcm5Z?oc=5",
+    "published": "Sat, 18 Jul 2026 08:12:00 GMT",
+    "fetched_at": "2026-07-18 21:53:24",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "이커머스",
+      "물류",
+      "유통"
+    ],
+    "keywords": [
+      "쿠팡",
+      "물류센터",
+      "화재",
+      "이커머스",
+      "공급망"
+    ],
+    "reason": "국내 최대 이커머스 기업인 쿠팡의 주요 물류센터 화재는 단기적인 배송 지연 및 공급망 차질 우려를 야기하며, 동종 업계 경쟁사에 대한 일시적 반사 이익 가능성을 시사합니다.",
+    "action_point": "국내 이커머스 경쟁사 주식 매수 기회 검토."
+  },
+  {
+    "source": "Maeil_Business",
+    "title": "“2분기 이익 줄어도 괜찮다?”…수주 4000억 쌓인 이 종목 한 주새 13%↑[이주의 Bull기둥]",
+    "title_ko": "“2분기 이익 줄어도 괜찮다?”…수주 4000억 쌓인 이 종목 한 주새 13%↑[이주의 Bull기둥]",
+    "link": "https://www.mk.co.kr/news/stock/12101482",
+    "published": "Sat, 18 Jul 2026 21:51:55 +09:00",
+    "fetched_at": "2026-07-18 21:53:33",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "반도체",
+      "반도체 장비"
+    ],
+    "keywords": [
+      "원익IPS",
+      "반도체 장비",
+      "수주",
+      "영업이익"
+    ],
+    "reason": "반도체 장비 기업의 단기 실적 부진에도 불구하고 대규모 수주를 통한 향후 실적 개선 기대감이 주가에 긍정적으로 반영되고 있습니다. 이는 특정 반도체 장비 섹터 내 선별적 회복 가능성을 시사합니다.",
+    "action_point": "반도체 장비 섹터 내 수주 잔고가 풍부하고 실적 개선이 기대되는 종목의 투자 비중 확대를 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
     "title": "호르무즈 이어 홍해 봉쇄 위기…\"둘 다 막히면 글로벌 경기침체\" - 연합뉴스",
     "title_ko": "호르무즈 이어 홍해 봉쇄 위기…\"둘 다 막히면 글로벌 경기침체\"",
     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaYjVmNjFNRXhxLU1iXzNrS3lhbmlGRTNLaGlyUVpsN2JwcnVKbUdBYnpnNU1CUGl6RFU0ZVFlSnJDaklMam9qbTQzSV9JWnB6enlxWWY1SFk4RGPSAWBBVV95cUxQRC1NWmlfTU9hXzJiMVprU3lGeXV4LWNEOWcxWVBwVzN2ZncxSFhHVlN1UFhjUnQyV1U3NXJHekE5ODByTDZmd3pzNTV2SUVEUVJ1Tml4VXZyUXVNQU1iLU4?oc=5",
@@ -2804,47 +2850,5 @@
     ],
     "reason": "주요 투자은행의 사상 최고 실적 달성은 자본시장의 활발한 거래와 강력한 수요를 시사하며, 이는 전반적인 금융 섹터와 주식 시장에 긍정적인 신호로 해석될 수 있습니다. 특히 주식 거래 부문의 급증은 투자자들의 시장 참여 확대를 반영합니다.",
     "action_point": "국내외 증권 및 투자은행 관련 금융 섹터 비중 확대 검토"
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Renewed Hormuz hostilities drive ECB rates rethin amid ‘extremely volatile’ outlook",
-    "title_ko": "호르무즈 해협 적대행위 재개, '극도로 불안정한' 전망 속 ECB 금리 결정 재고 촉발",
-    "link": "https://www.cnbc.com/2026/07/15/ecb-interest-rates-outlook-iran-war-hormuz.html",
-    "published": "Wed, 15 Jul 2026 10:52:29 GMT",
-    "fetched_at": "2026-07-15 20:22:47",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "금융"
-    ],
-    "keywords": [
-      "호르무즈 해협",
-      "지정학적 위험",
-      "ECB 금리"
-    ],
-    "reason": "호르무즈 해협의 미-이란 적대행위 재개는 유가 상승 압력을 높이며 인플레이션 우려를 자극한다. 이는 ECB의 금리 결정에 불확실성을 가중시켜 전반적인 시장 변동성을 확대시킬 것이다.",
-    "action_point": "호르무즈 지정학적 위험에 따른 유가 상승 가능성에 대비하여 에너지 섹터 비중 확대를 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "금융당국, 디지털 뱅크런 대응 강화…5대 지주 위기대응계획 승인 - 연합인포맥스",
-    "title_ko": "금융당국, 디지털 뱅크런 대응 강화…5대 지주 위기대응계획 승인",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1SNTJyam43Q1kzN293SWRPXzNuV2R3MnE4V1BFc0FJVWhXNEllNUh3dHFlWGZld0JpcGw3dU5DUlcxOTJKZ0NYdktwOVFzdWQ2THo1a01XWks3RFlsenRZMmdyRm9jZE9PdGowTVFTcDU?oc=5",
-    "published": "Wed, 15 Jul 2026 08:26:43 GMT",
-    "fetched_at": "2026-07-15 20:23:08",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "금융"
-    ],
-    "keywords": [
-      "금융당국",
-      "디지털 뱅크런",
-      "위기대응계획",
-      "금융 안정성"
-    ],
-    "reason": "금융당국의 선제적인 디지털 뱅크런 대응 강화 및 주요 금융지주 위기대응계획 승인은 국내 금융 시스템의 안정성을 높여 시장 불확실성을 완화하고 투자 심리에 긍정적 영향을 미칠 것입니다.",
-    "action_point": "국내 대형 금융주에 대한 긍정적 관점을 유지하고 금융 섹터 투자 비중을 검토하라."
   }
 ]
