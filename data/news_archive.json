@@ -1,5 +1,54 @@
 [
   {
+    "source": "Maeil_Business",
+    "title": "버핏 지표로 ETF 만들었더니 … 미친 변동장서 우뚝 섰다",
+    "title_ko": "버핏 지표로 ETF 만들었더니 … 미친 변동장서 우뚝 섰다",
+    "link": "https://www.mk.co.kr/news/stock/12101010",
+    "published": "Sun, 19 Jul 2026 04:00:00 +09:00",
+    "fetched_at": "2026-07-19 05:50:46",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "ETF",
+      "가치주",
+      "방어주"
+    ],
+    "keywords": [
+      "버핏 지표",
+      "ETF",
+      "퀄리티 주식",
+      "변동성",
+      "가치투자"
+    ],
+    "reason": "AI 관련주 변동성 심화 국면에서 버핏 지표 기반 ETF의 선전은 투자자들이 퀄리티 주식 및 가치투자 전략으로 회귀할 가능성을 시사하며, 시장의 안정성 추구 경향을 강화합니다.",
+    "action_point": "고변동성 자산 비중 점검 후 가치주 및 저변동성 ETF 투자를 확대하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "삼성전기(009150) - 매일경제 마켓",
+    "title_ko": "삼성전기(009150) - 매일경제 마켓",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSDlCLWYySW14T28xQXBnZmtwSVVwc2lZVmRjdGdwTnJTbUFKcUdoOFlQSHlvTm10MDBaRzZuUlU1MG5RZXMzWUczOU9vQ09DMU5mdnZEOFBLU25HWnFuTHZ5YXNRUy1RbFBrSnp3SnJnOWxEODN4VzdHSjFKWjB0ZFZ5Tlg3cVhVelRLVGNkWW40ZmlCdlE4?oc=5",
+    "published": "Sat, 18 Jul 2026 16:33:22 GMT",
+    "fetched_at": "2026-07-19 05:50:39",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "전자부품",
+      "반도체",
+      "IT",
+      "전기전자"
+    ],
+    "keywords": [
+      "삼성전기",
+      "전자부품",
+      "MLCC",
+      "반도체 기판",
+      "IT"
+    ],
+    "reason": "제공된 제목과 요약만으로는 삼성전기 관련 구체적인 뉴스의 내용을 알 수 없어 시장/매크로 영향 분석이 불가능합니다.",
+    "action_point": "제공된 정보만으로는 투자 포트폴리오에 영향을 미칠 만한 구체적인 내용이 없으므로 해당 없음."
+  },
+  {
     "source": "GoogleNews_Korea",
     "title": "속보 이란 최고지도자 하메네이 \"미국에 잊지 못할 교훈 안겨줄 것\" - YTN",
     "title_ko": "속보 이란 최고지도자 하메네이 \"미국에 잊지 못할 교훈 안겨줄 것\"",
@@ -2804,54 +2853,5 @@
     ],
     "reason": "연준이 월가보다 실물경제에 초점을 맞출 것이라는 발언은 금융시장의 완화 정책 기대감을 낮추고, 인플레이션 억제를 위한 금리 '고금리 장기화' 기조를 강화할 수 있다. 이는 위험 자산에 대한 투자 심리에 부정적 영향을 미칠 수 있다.",
     "action_point": "고금리 장기화 가능성에 대비하여 금리 민감도가 높은 성장주 및 부동산 관련 자산 비중 축소 검토."
-  },
-  {
-    "source": "CNBC_Finance",
-    "title": "Anthropic moves closer to mega-IPO as bankers line up investor meetings",
-    "title_ko": "앤트로픽, 투자자 미팅 준비하며 대규모 IPO에 한 걸음 더 가까워져",
-    "link": "https://www.cnbc.com/2026/07/15/anthropic-ipo-banks-investor-meetings.html",
-    "published": "Wed, 15 Jul 2026 17:22:51 GMT",
-    "fetched_at": "2026-07-16 03:56:12",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "기술",
-      "인공지능(AI)",
-      "소프트웨어",
-      "반도체"
-    ],
-    "keywords": [
-      "앤트로픽",
-      "IPO",
-      "인공지능",
-      "AI",
-      "기술주"
-    ],
-    "reason": "앤트로픽의 대규모 IPO 추진은 AI 산업의 성장세와 투자자들의 높은 관심을 반영하며, 전반적인 기술주 심리에 긍정적으로 작용할 것입니다. 특히 AI 관련 기업들의 기업가치 재평가 기대를 높일 수 있습니다.",
-    "action_point": "AI 관련 기술주 및 소프트웨어 섹터 투자 비중 확대 검토"
-  },
-  {
-    "source": "CNBC_Finance",
-    "title": "‘Arsenal of democracy’: Jamie Dimon announces $24 million effort to boost American shipbuilding",
-    "title_ko": "'민주주의의 병기창': 제이미 다이먼, 미국 조선업 강화를 위한 2,400만 달러 투자 발표",
-    "link": "https://www.cnbc.com/2026/07/15/jamie-dimon-jpmorgan-chase-defense.html",
-    "published": "Wed, 15 Jul 2026 13:45:27 GMT",
-    "fetched_at": "2026-07-16 03:56:21",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "조선업",
-      "방위산업",
-      "미국 산업재"
-    ],
-    "keywords": [
-      "제이미 다이먼",
-      "JPMorgan",
-      "미국 조선업",
-      "국방",
-      "필라델피아"
-    ],
-    "reason": "JP모건의 2,400만 달러 미국 조선업 투자는 국방 관련 산업 섹터에 긍정적이나, 거시경제나 글로벌 시장에 미치는 영향은 미미한 수준이다. 이는 미국의 전략적 산업 역량 강화 기조를 반영한다.",
-    "action_point": "해당 없음"
   }
 ]
