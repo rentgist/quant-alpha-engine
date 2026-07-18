@@ -1,5 +1,174 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "title": "美·이란 7일째 정면충돌…호르무즈 해협 둘러싸고 확전 위기 고조 - v.daum.net",
+    "title_ko": "미-이란 7일째 정면충돌…호르무즈 해협 둘러싸고 확전 위기 고조",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5qMjBTM2xfSzV2UG9pbU92V0Y2a0JjNUJEdjJTVTlZMzJGVUxVVVpSMHFkUk5tX25qWDROMVJudkNsX2NXVnUxdmN3THVxQmM?oc=5",
+    "published": "Sat, 18 Jul 2026 04:15:01 GMT",
+    "fetched_at": "2026-07-18 17:43:55",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "에너지",
+      "해운",
+      "방위산업"
+    ],
+    "keywords": [
+      "미국",
+      "이란",
+      "호르무즈 해협",
+      "지정학적 리스크",
+      "유가"
+    ],
+    "reason": "호르무즈 해협에서의 미-이란 충돌은 글로벌 원유 공급망 불안정을 심화시켜 유가 급등 가능성을 높이고, 전반적인 지정학적 리스크 심화로 위험자산 회피 심리를 부추길 것입니다.",
+    "action_point": "에너지 섹터 비중 확대와 함께 달러/금 등 안전자산 보유를 강화하여 지정학적 리스크에 대비하십시오."
+  },
+  {
+    "source": "Maeil_Business",
+    "title": "“둘 다 막히면 세계 경제 큰일나는데”…호르무즈 이어 홍해도 봉쇄 위기",
+    "title_ko": "“둘 다 막히면 세계 경제 큰일나는데”…호르무즈 이어 홍해도 봉쇄 위기",
+    "link": "https://www.mk.co.kr/news/world/12101439",
+    "published": "Sat, 18 Jul 2026 17:35:30 +09:00",
+    "fetched_at": "2026-07-18 17:44:25",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "에너지",
+      "해운/물류",
+      "항공",
+      "정유화학",
+      "방위산업",
+      "소비재"
+    ],
+    "keywords": [
+      "홍해",
+      "호르무즈 해협",
+      "원유 수송",
+      "지정학적 리스크",
+      "해상 운송",
+      "인플레이션",
+      "공급망"
+    ],
+    "reason": "중동 주요 해상 운송로인 홍해 및 호르무즈 해협 봉쇄 위기는 국제 유가 및 해상 운임 급등을 유발하여 글로벌 인플레이션을 심화시키고 공급망 교란을 초래하며 경기 둔화 압력을 높일 것입니다.",
+    "action_point": "국제유가 및 물류 비용 상승 압력에 대응하여 원자재, 금, 달러 등 인플레이션 헤지 및 안전 자산 비중 확대를 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "잔금일 앞두고 '멘탈 붕괴'...대출 꽉 막히자 '매매 포기' 위기 [자막뉴스] - YTN",
+    "title_ko": "잔금일 앞두고 '멘탈 붕괴'...대출 꽉 막히자 '매매 포기' 위기",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1qLWtob1Fwcjcza0N2ZHNtaUhYaVBHWnNXZ0tfY3JKbllwR0JBQjI5WnZFTHM3TFVRUjRHR3NXaE5VanhDU2dXaUt1N0ozNUJ4Qjl3dkk1ZDJWQ0NndHc?oc=5",
+    "published": "Sat, 18 Jul 2026 05:41:00 GMT",
+    "fetched_at": "2026-07-18 17:43:38",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "부동산",
+      "금융",
+      "건설"
+    ],
+    "keywords": [
+      "부동산대출",
+      "금리인상",
+      "주택시장",
+      "거래절벽",
+      "가계부채"
+    ],
+    "reason": "대출 규제와 금리 인상으로 주택 매수자들의 잔금 납입이 어려워지면서 부동산 거래 취소 및 매매 심리 위축이 심화되고 있음을 보여줍니다. 이는 국내 부동산 시장 전반의 침체와 가계 부채 리스크 증가로 이어질 수 있습니다.",
+    "action_point": "국내 부동산 시장의 유동성 경색과 가격 하방 압력 심화에 대비하여 부동산 관련 자산 및 건설·금융 섹터 투자 비중 축소를 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "[속보] \"최선희 北외무상, 러 공식방문차 모스크바 도착\" - 연합뉴스",
+    "title_ko": "[속보] \"최선희 北외무상, 러 공식방문차 모스크바 도착\"",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aVGo5Q2N6N0NYOEhlMGlORWozMzRxVzdSZHFDY0lpY09ieUdEWnQwYWJYdTVDV1h3SDBaekQyUG1xUGtwTVdiRG4xcmthRFNMa1N4c0p2TktjNlE?oc=5",
+    "published": "Sat, 18 Jul 2026 05:31:17 GMT",
+    "fetched_at": "2026-07-18 17:44:05",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "방산"
+    ],
+    "keywords": [
+      "북한",
+      "러시아",
+      "최선희",
+      "지정학",
+      "안보"
+    ],
+    "reason": "북한과 러시아 간의 고위급 외교 접촉은 양국 관계 심화를 의미하며, 이는 한반도 및 동북아시아의 지정학적 긴장을 고조시킬 수 있습니다. 특히 러시아-우크라이나 전쟁 상황과 맞물려 무기 거래 및 군사 협력 가능성에 대한 우려를 증폭시킵니다.",
+    "action_point": "지정학적 위험 고조에 대비하여 방산 섹터 투자 비중 확대 검토."
+  },
+  {
+    "source": "Maeil_Business",
+    "title": "“제헌절이 코스피 살렸다”…국내증시 휴장에 개미들 안도, 왜?",
+    "title_ko": "“제헌절이 코스피 살렸다”…국내증시 휴장에 개미들 안도, 왜?",
+    "link": "https://www.mk.co.kr/news/stock/12101428",
+    "published": "Sat, 18 Jul 2026 16:21:23 +09:00",
+    "fetched_at": "2026-07-18 17:44:49",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "반도체",
+      "증권"
+    ],
+    "keywords": [
+      "제헌절",
+      "국내 증시",
+      "반도체",
+      "투자심리"
+    ],
+    "reason": "국내 증시가 미국 반도체주 폭락 충격을 일시적으로 회피하며 단기적 안도감을 제공했으나, 근본적인 외부발 리스크는 여전히 존재하며 개장 시 반도체 섹터의 변동성 확대 가능성을 시사한다.",
+    "action_point": "국내 반도체 관련주 비중 축소 또는 헤지 전략을 검토하고 개장 시 관련 섹터의 변동성 확대에 대비하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "title": "주가 반토막에도 7조 베팅한 개미들…삼전·하닉 레버리지 문턱 높인다",
+    "title_ko": "주가 반토막에도 7조 베팅한 개미들…삼전·하닉 레버리지 문턱 높인다",
+    "link": "https://www.mk.co.kr/news/business/12101425",
+    "published": "Sat, 18 Jul 2026 16:12:00 +09:00",
+    "fetched_at": "2026-07-18 17:45:04",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "반도체",
+      "금융",
+      "증권"
+    ],
+    "keywords": [
+      "레버리지",
+      "개인 투자자",
+      "삼성전자",
+      "SK하이닉스",
+      "금융당국",
+      "기본예탁금"
+    ],
+    "reason": "개인 투자자들의 대형 반도체주 레버리지 투자 손실 심화와 금융당국의 규제 강화는 해당 상품에 대한 투기적 수요를 위축시키고 시장 유동성에 영향을 미칠 수 있습니다.",
+    "action_point": "국내 대형 반도체주 관련 레버리지 상품의 신규 투자에 신중히 접근하고 기존 포지션 비중 축소를 검토하십시오."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "[속보]이재명 대통령, 쿠팡 화재에 \"진압에 총력\" 지시 - 머니투데이 - 머니투데이",
+    "title_ko": "[속보]이재명 대통령, 쿠팡 화재에 '진압에 총력' 지시",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tZkVWeXZXN183a29XRW5NTGNiZGZNV05LVXl1blh1SmtCbWVFSWkya3Zob2oxNDNJeFhSdWVzNFhfSFI0RkNLZDdwZm9XcksxTi0yMlpILTY1eWFyWW9mRXFDWTB2eF9NZVdCS9IBckFVX3lxTE9zcnpYNFlNYy1NclRfaGpra1JzU1FJLUJrSnpxTFEtTWF3c0NaSjBKWDF6RkgxeGR3SHJqak4yT3pZc1hZcnFKVFRaVWdjSV9SRzJ0VTEyT2h6T1htVUJndVZiaUFRc2JTZ2t5TkJ5T2NCQQ?oc=5",
+    "published": "Sat, 18 Jul 2026 08:05:36 GMT",
+    "fetched_at": "2026-07-18 17:44:15",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "유통",
+      "물류"
+    ],
+    "keywords": [
+      "이재명",
+      "대통령",
+      "쿠팡",
+      "화재",
+      "재난관리"
+    ],
+    "reason": "이 뉴스는 특정 기업의 재난 상황에 대한 정부의 대응 지시를 전달하는 것으로, 거시 경제 지표나 시장 전반에 미칠 직접적인 영향은 제한적입니다. 쿠팡 개별 기업의 운영 리스크에는 영향을 주지만, 광범위한 투자 자산에 대한 시사점은 적습니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "CNBC_World",
     "title": "Trump rips Canada as wildfire smoke spreads, says U.S. will add pollution cost to tariffs",
     "title_ko": "트럼프, 캐나다 산불 연기 확산에 비난하며 관세에 오염 비용 추가 시사",
@@ -2672,169 +2841,6 @@
       "개별 기업"
     ],
     "reason": "이 기사는 장중 특정 개별 기업들의 주가 움직임을 나열할 뿐, 전반적인 시장 방향성이나 거시 경제 동향에 대한 구체적인 분석 또는 정보를 제공하지 않습니다. 따라서 특정 자산군에 대한 직접적인 영향은 제한적입니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_Finance",
-    "title": "'Listing is a must': Chinese humanoid startups are rushing to launch IPOs",
-    "title_ko": "'상장은 필수': 중국 휴머노이드 스타트업들, IPO 서두르고 있어",
-    "link": "https://www.cnbc.com/2026/07/13/chinese-humanoid-startups-ipo-limx-unitree.html",
-    "published": "Tue, 14 Jul 2026 00:31:01 GMT",
-    "fetched_at": "2026-07-15 18:51:56",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "로봇 산업",
-      "인공지능(AI)",
-      "IT 하드웨어",
-      "자동화 솔루션"
-    ],
-    "keywords": [
-      "휴머노이드",
-      "IPO",
-      "중국",
-      "스타트업",
-      "로봇",
-      "기술주"
-    ],
-    "reason": "중국 휴머노이드 스타트업들이 공격적으로 IPO를 추진하며 해당 기술 섹터에 대한 투자자들의 높은 관심과 자금 유입을 시사합니다. 이는 로봇 및 AI 산업 내 경쟁 심화와 잠재적인 과열 가능성을 동시에 보여줍니다.",
-    "action_point": "국내외 로봇 및 AI 관련 기술주의 밸류에이션 과열 여부를 분석하고 투자 전략을 재검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "[속보] 대법원, 24일 김건희 첫 상고심 선고 생중계 결정 - MBC 뉴스",
-    "title_ko": "[속보] 대법원, 24일 김건희 첫 상고심 선고 생중계 결정 - MBC 뉴스",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlNERiN1RxeXRrRzFOWFNJcXlRWWRGMzlsSHpvWjRkSldpcEJHUkN3R2cwenMwc21LblJiQU01WXh1UnFGeXlDaDBKQmV2SWJzRzV3MFpZTGtXQUtCMVVYN2p0MXJBaV9QSXdBSWdxYTA1Zm1yeDRV0gF3QVVfeXFMTXRxbzI4WUF4WXNBZnREOUNxQlRxUEdmczFvNmpEd1Z3ZUY0UXAyYlJlNDUxUUFEQzVOdkpUNGJYeXJ2WlVWemtEMmtsTGtNQTg5NGhjM3Z4amdOLU9UYV9DYUY5ZmZqYUhrdFVDTGxOS3owdFczbnM?oc=5",
-    "published": "Wed, 15 Jul 2026 07:31:29 GMT",
-    "fetched_at": "2026-07-15 18:53:15",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [],
-    "keywords": [
-      "김건희",
-      "상고심",
-      "대법원",
-      "생중계"
-    ],
-    "reason": "이 뉴스는 영부인 관련 대법원 상고심 선고의 생중계 결정에 대한 것으로, 국내 정치적 이슈의 주목도를 높일 수는 있으나, 거시경제 지표나 기업의 실적에 직접적인 영향을 미치지 않아 금융 시장 전반에 대한 파급 효과는 제한적입니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "title": "ASML jumps over 7% after hiking sales forecast for second time this year on strong AI chip demand",
-    "title_ko": "ASML 주가 7% 이상 급등, AI 칩 수요 강세에 올해 두 번째 매출 전망 상향 조정",
-    "link": "https://www.cnbc.com/2026/07/15/asml-2q-earnings-ai-chips-orders.html",
-    "published": "Wed, 15 Jul 2026 07:06:00 GMT",
-    "fetched_at": "2026-07-15 16:08:00",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "반도체",
-      "IT 하드웨어",
-      "인공지능"
-    ],
-    "keywords": [
-      "ASML",
-      "반도체 장비",
-      "AI 칩",
-      "매출 전망"
-    ],
-    "reason": "ASML의 매출 전망 상향은 AI 칩 수요의 견고함을 재확인하며, 이는 글로벌 반도체 및 IT 산업의 지속적인 성장을 시사한다. 특히 고성능 반도체 생산에 필수적인 장비 수요가 강하다는 의미로 관련 섹터에 긍정적 모멘텀을 제공한다.",
-    "action_point": "AI 칩 수요 강세에 따른 반도체 및 관련 장비 섹터 비중 확대를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "China posts slowest quarterly growth since 2022 as investment slumps, fanning stimulus calls",
-    "title_ko": "중국, 투자 부진으로 2022년 이후 최저 분기 성장률 기록, 경기 부양책 촉구 확산",
-    "link": "https://www.cnbc.com/2026/07/15/china-gdp-retail-sales-investment-june-.html",
-    "published": "Wed, 15 Jul 2026 05:14:11 GMT",
-    "fetched_at": "2026-07-15 16:08:13",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "원자재",
-      "산업재",
-      "소비재",
-      "해운/물류"
-    ],
-    "keywords": [
-      "중국 경제",
-      "성장률 둔화",
-      "투자 부진",
-      "경기 부양책"
-    ],
-    "reason": "중국의 예상치 하회 성장률은 글로벌 수요 둔화 및 주요국 경제 회복 지연을 시사하며, 이는 원자재 시장과 대중국 수출 의존도가 높은 섹터에 부정적 영향을 미칠 수 있습니다.",
-    "action_point": "중국 경기 둔화에 대한 직접적인 노출도가 높은 원자재 및 산업재 섹터 비중 축소를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "The British finance minister choice that's worrying big business",
-    "title_ko": "영국 재무장관 지명 유력 후보, 대기업들 우려",
-    "link": "https://www.cnbc.com/2026/07/15/who-will-be-uks-next-chancellor-ed-miliband-streeting-mcfadden.html",
-    "published": "Wed, 15 Jul 2026 05:30:01 GMT",
-    "fetched_at": "2026-07-15 16:08:21",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "영국 주식시장",
-      "금융",
-      "산업재",
-      "부동산"
-    ],
-    "keywords": [
-      "영국",
-      "재무장관",
-      "에드 밀리밴드",
-      "반기업 정서",
-      "정치 불확실성"
-    ],
-    "reason": "반기업 성향으로 알려진 인물의 영국 재무장관 임명 가능성은 영국 기업 환경에 대한 우려를 높여 국내외 기업 투자를 위축시키고 영국 주식시장 및 파운드화에 부정적 압력을 가할 수 있습니다.",
-    "action_point": "영국 자산(주식, 파운드화)에 대한 투자 비중 축소를 검토하거나 관련 헤지 전략을 수립하십시오."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Why Europe is suddenly betting big on drones",
-    "title_ko": "유럽이 갑자기 드론에 대규모 투자를 하는 이유",
-    "link": "https://www.cnbc.com/2026/07/15/drones-defense-europe-autonomous-weapons.html",
-    "published": "Wed, 15 Jul 2026 05:05:26 GMT",
-    "fetched_at": "2026-07-15 16:08:05",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "방위산업",
-      "항공우주",
-      "기술 (AI, 로봇공학)"
-    ],
-    "keywords": [
-      "드론",
-      "자율 시스템",
-      "유럽",
-      "국방비 지출",
-      "현대 전쟁"
-    ],
-    "reason": "유럽의 드론 및 자율 시스템 투자는 현대 전쟁의 패러다임 변화를 반영하며, 전 세계적으로 국방 기술 지출 증가 및 관련 산업 성장을 촉진할 수 있습니다.",
-    "action_point": "방위산업 및 드론 관련 기술 기업의 투자 비중 확대를 검토하라."
-  },
-  {
-    "source": "CNBC_Finance",
-    "title": "Stocks making the biggest moves premarket: JPMorgan Chase, Bank of America, IBM, Apple & more",
-    "title_ko": "개장 전 가장 큰 움직임을 보이는 주식들: JP모건 체이스, 뱅크 오브 아메리카, IBM, 애플 외 다수",
-    "link": "https://www.cnbc.com/2026/07/14/stocks-making-the-biggest-moves-premarket-jpm-bac-ibm-aapl.html",
-    "published": "Tue, 14 Jul 2026 12:36:31 GMT",
-    "fetched_at": "2026-07-15 16:07:52",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "금융",
-      "기술"
-    ],
-    "keywords": [
-      "개장 전 움직임",
-      "개별 주식",
-      "금융주",
-      "기술주"
-    ],
-    "reason": "이 기사는 개장 전 주요 개별 기업 주식들의 움직임을 단순히 나열하는 것으로, 특정 거시 경제적 추세나 시장 전반에 대한 유의미한 분석을 제공하지 않습니다. 투자 포트폴리오 전반에 영향을 줄 만한 정보는 포함되어 있지 않습니다.",
     "action_point": "해당 없음"
   }
 ]
