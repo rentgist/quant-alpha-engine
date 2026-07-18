@@ -1,5 +1,55 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "title": "속보 이란 최고지도자 하메네이 \"미국에 잊지 못할 교훈 안겨줄 것\" - YTN",
+    "title_ko": "속보 이란 최고지도자 하메네이 \"미국에 잊지 못할 교훈 안겨줄 것\"",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5lQkpfRHVFcDNFMW9pRElfYkk5NVJFa0xzZFZaWDl1aFRreHhoZmdXbEVmcjJLaEZKMTExb0lZOXJqZFVIUnV1aDdyUnJJOVhzbDBUdEFmQ1lNR3lMakE?oc=5",
+    "published": "Sat, 18 Jul 2026 17:00:00 GMT",
+    "fetched_at": "2026-07-19 04:59:29",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "에너지",
+      "방산",
+      "항공",
+      "해운",
+      "글로벌 증시 전반"
+    ],
+    "keywords": [
+      "이란",
+      "미국",
+      "지정학적 리스크",
+      "중동",
+      "유가",
+      "안전자산"
+    ],
+    "reason": "이란 최고지도자의 대미 강경 발언은 중동 지역의 지정학적 긴장을 최고조로 끌어올려 유가 상승 압력과 함께 글로벌 증시 전반의 투자심리를 위축시킬 것입니다. 안전자산 선호 심리가 강화될 것으로 예상됩니다.",
+    "action_point": "중동 지정학적 리스크 관련 원유 및 방산 관련주를 주시하고, 달러 및 금 등 안전자산 비중 확대를 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "'반도체 고점론' 선 그은 박홍근…\"반도체 호황 안 꺾인다\" - 주간조선",
+    "title_ko": "'반도체 고점론' 선 그은 박홍근…\"반도체 호황 안 꺾인다\" - 주간조선",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5FVFJQMUhycWJtc1p0aXpXa2ZOOC1TbTUzZE96dExQUXNucWRnWk5fSkxzMmNtN0hRYTZ2U0VnYktGM1lmMi1TOEdwTFVDRDlaOVoyZllJWTVzbjFVb2VqcmhnNUtBaHBlaUE?oc=5",
+    "published": "Sat, 18 Jul 2026 13:15:00 GMT",
+    "fetched_at": "2026-07-19 04:59:35",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "반도체",
+      "IT 하드웨어",
+      "기술주"
+    ],
+    "keywords": [
+      "반도체",
+      "고점론",
+      "호황",
+      "수출"
+    ],
+    "reason": "업계 전문가의 발언으로 반도체 고점론을 반박하며 국내 핵심 수출 산업의 지속적인 성장을 시사, 관련 기업 투자 심리에 긍정적인 영향을 미칠 수 있습니다.",
+    "action_point": "반도체 섹터 비중 유지 또는 확대 검토."
+  },
+  {
     "source": "CNBC_World",
     "title": "Hungary's president signs law change ending his term in office",
     "title_ko": "헝가리 대통령, 임기 종료 법안에 서명",
@@ -2802,48 +2852,6 @@
       "필라델피아"
     ],
     "reason": "JP모건의 2,400만 달러 미국 조선업 투자는 국방 관련 산업 섹터에 긍정적이나, 거시경제나 글로벌 시장에 미치는 영향은 미미한 수준이다. 이는 미국의 전략적 산업 역량 강화 기조를 반영한다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_Finance",
-    "title": "Buffett says Trump's pick of Kevin Warsh for Fed chair was 'good choice'",
-    "title_ko": "버핏, 트럼프의 케빈 워시 연준 의장 지명은 '좋은 선택'이었다고 평가",
-    "link": "https://www.cnbc.com/2026/07/15/buffett-says-trumps-pick-of-kevin-warsh-for-fed-chair-was-good-choice.html",
-    "published": "Wed, 15 Jul 2026 12:21:33 GMT",
-    "fetched_at": "2026-07-16 03:56:30",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [],
-    "keywords": [
-      "워렌 버핏",
-      "연준 의장",
-      "케빈 워시",
-      "트럼프"
-    ],
-    "reason": "워렌 버핏의 과거 연준 의장 후보에 대한 평가는 당시 시장의 특정 인물에 대한 기대를 엿볼 수 있으나, 현재 연준 정책이나 금융시장에 직접적인 영향을 미치지 않는 과거 논평에 가깝습니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_Finance",
-    "title": "Fed Chairman Kevin Warsh's testimony to Senate banking committee hits on economy, interest rates",
-    "title_ko": "연준 의장 케빈 워시, 상원 은행위원회 증언에서 경제 및 금리 언급",
-    "link": "https://www.cnbc.com/2026/07/15/watch-fed-chairman-kevin-warsh-testify-live-before-senate-banking-committee.html",
-    "published": "Wed, 15 Jul 2026 16:19:08 GMT",
-    "fetched_at": "2026-07-16 02:06:43",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "금융",
-      "부동산",
-      "기술"
-    ],
-    "keywords": [
-      "연준",
-      "금리",
-      "경제",
-      "통화정책"
-    ],
-    "reason": "연준 고위 인사의 경제 및 금리 관련 증언은 향후 통화정책 방향에 대한 중요한 단서를 제공하여 시장의 금리 전망 및 경제 예측에 영향을 미칠 수 있습니다.",
     "action_point": "해당 없음"
   }
 ]
