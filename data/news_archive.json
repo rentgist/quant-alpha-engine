@@ -1,6 +1,106 @@
 [
   {
     "source": "GoogleNews_Korea",
+    "title": "호르무즈 이어 홍해 봉쇄 위기…\"둘 다 막히면 글로벌 경기침체\" - 연합뉴스",
+    "title_ko": "호르무즈 이어 홍해 봉쇄 위기…\"둘 다 막히면 글로벌 경기침체\"",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaYjVmNjFNRXhxLU1iXzNrS3lhbmlGRTNLaGlyUVpsN2JwcnVKbUdBYnpnNU1CUGl6RFU0ZVFlSnJDaklMam9qbTQzSV9JWnB6enlxWWY1SFk4RGPSAWBBVV95cUxQRC1NWmlfTU9hXzJiMVprU3lGeXV4LWNEOWcxWVBwVzN2ZncxSFhHVlN1UFhjUnQyV1U3NXJHekE5ODByTDZmd3pzNTV2SUVEUVJ1Tml4VXZyUXVNQU1iLU4?oc=5",
+    "published": "Sat, 18 Jul 2026 07:47:29 GMT",
+    "fetched_at": "2026-07-18 20:45:37",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "에너지",
+      "해운",
+      "물류",
+      "산업재",
+      "항공"
+    ],
+    "keywords": [
+      "호르무즈",
+      "홍해",
+      "해상운송",
+      "유가",
+      "인플레이션",
+      "경기침체"
+    ],
+    "reason": "글로벌 주요 해상 운송로인 호르무즈와 홍해의 동시 봉쇄 위기는 원유 공급을 심각하게 제한하고 물류 비용을 폭증시켜 전반적인 인플레이션 압력을 가중하며 글로벌 경기침체를 유발할 수 있다.",
+    "action_point": "글로벌 경기 침체 및 에너지 가격 급등 위험에 대비하여 원자재 및 에너지 섹터 비중을 확대하고 경기 방어적 자산을 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "[속보] 호르무즈 이어 홍해 항로도 위협…글로벌 원유 공급망 충격 우려 - 강원일보",
+    "title_ko": "[속보] 호르무즈 이어 홍해 항로도 위협…글로벌 원유 공급망 충격 우려",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5XLTllNTAzZHdBUm9JYW5qU09ESU5Cb0JweGpvcjQ0MDJFelo0cXVZaGhtVzFVZlZZYkwzVVRRRmRPbTlzUDJfNGNGUjBQejM2SDRRNk5xbjY?oc=5",
+    "published": "Sat, 18 Jul 2026 07:56:39 GMT",
+    "fetched_at": "2026-07-18 20:45:47",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "에너지",
+      "해운",
+      "항공",
+      "정유"
+    ],
+    "keywords": [
+      "호르무즈",
+      "홍해",
+      "원유",
+      "공급망",
+      "지정학적 리스크",
+      "유가"
+    ],
+    "reason": "호르무즈 해협과 홍해 항로는 글로벌 원유 및 물류의 핵심 통로로, 위협 심화는 국제유가 급등과 해상 운송비 상승을 유발하여 전반적인 인플레이션 압력과 경제 불확실성을 증폭시킬 것입니다.",
+    "action_point": "지정학적 리스크 심화로 인한 유가 급등 가능성에 대비하여 에너지 관련 자산 비중 확대를 검토하라."
+  },
+  {
+    "source": "CNBC_Finance",
+    "title": "'WarshGPT': How Wall Street is adapting to the Fed's new era of communication",
+    "title_ko": "'WarshGPT': 월스트리트가 연준의 새로운 소통 시대에 적응하는 방법",
+    "link": "https://www.cnbc.com/2026/07/18/warshgpt-federal-reserve-communications-task-force-warsh.html",
+    "published": "Sat, 18 Jul 2026 11:31:03 GMT",
+    "fetched_at": "2026-07-18 20:45:19",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "금융",
+      "기술"
+    ],
+    "keywords": [
+      "연준",
+      "소통",
+      "인공지능",
+      "월스트리트",
+      "매크로 분석"
+    ],
+    "reason": "연준의 공개적 소통 감소는 시장 불확실성을 증대시키며, 월스트리트 투자사들은 인공지능 기반 분석 도구를 도입하여 미묘한 신호를 해석하고 경쟁 우위를 확보하려 하고 있습니다.",
+    "action_point": "연준 소통 불확실성 증대에 맞춰 인공지능 기반 금융 분석 솔루션 기업 및 이를 적극 활용하는 금융 섹터 기업에 대한 투자 기회를 모색."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "Ukrainian drone attacks kill seven warehouse workers in Russia, spark fire at Moscow region oil depot",
+    "title_ko": "우크라이나 드론 공격으로 러시아 창고 직원 7명 사망, 모스크바 지역 유류 저장고 화재 발생",
+    "link": "https://www.cnbc.com/2026/07/18/ukrainian-drone-attacks-kill-seven-warehouse-workers-in-russia.html",
+    "published": "Sat, 18 Jul 2026 10:27:55 GMT",
+    "fetched_at": "2026-07-18 20:45:26",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "방산",
+      "물류"
+    ],
+    "keywords": [
+      "우크라이나",
+      "러시아",
+      "드론 공격",
+      "유류 저장고",
+      "지정학적 리스크"
+    ],
+    "reason": "우크라이나의 러시아 유류 저장고 및 물류 시설 공격은 지정학적 긴장을 고조시키며, 국제 유가 변동성 확대 및 에너지 공급망 불안정성을 야기할 수 있습니다. 이는 전반적인 시장 심리에 부정적인 영향을 미칩니다.",
+    "action_point": "국제 유가 변동성 확대에 대비하여 에너지 관련 투자 비중을 조정하고, 방산 섹터에 대한 관심을 유지한다."
+  },
+  {
+    "source": "GoogleNews_Korea",
     "title": "호르무즈 이어 홍해 봉쇄 위기…“둘 다 막히면 글로벌 경기침체” - KBS 뉴스",
     "title_ko": "호르무즈 이어 홍해 봉쇄 위기…“둘 다 막히면 글로벌 경기침체”",
     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWUkw3WHNhQnRBY192cHBiY1NpR2p5cldJel9leHlPNm94MjU2eXQ0cGxVSHdLakxQMWJNTVdpQ3ZzQ2JJczRTMHV1RV91V1ZVa0NKUFBYTTlPWlk?oc=5",
@@ -2746,98 +2846,5 @@
     ],
     "reason": "금융당국의 선제적인 디지털 뱅크런 대응 강화 및 주요 금융지주 위기대응계획 승인은 국내 금융 시스템의 안정성을 높여 시장 불확실성을 완화하고 투자 심리에 긍정적 영향을 미칠 것입니다.",
     "action_point": "국내 대형 금융주에 대한 긍정적 관점을 유지하고 금융 섹터 투자 비중을 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Midnight social media curfew and limits to infinite scrolling proposed for older UK teens",
-    "title_ko": "영국, 십대 청소년 대상 심야 소셜 미디어 금지 및 무한 스크롤 제한 제안",
-    "link": "https://www.cnbc.com/2026/07/15/social-media-ban-uk-midnight-curfews-infinite-scroll-teens.html",
-    "published": "Wed, 15 Jul 2026 10:02:30 GMT",
-    "fetched_at": "2026-07-15 20:23:01",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "소셜 미디어",
-      "인터넷 플랫폼"
-    ],
-    "keywords": [
-      "소셜 미디어 규제",
-      "영국 정책",
-      "청소년 보호"
-    ],
-    "reason": "영국 정부의 십대 대상 소셜 미디어 이용 규제 제안은 관련 기업의 사용자 참여도 및 광고 수익에 미미한 부정적 영향을 줄 수 있으나, 단일 국가의 특정 연령대 정책이므로 즉각적인 글로벌 시장 영향은 제한적입니다.",
-    "action_point": "글로벌 소셜 미디어 플랫폼의 매출 및 사용자 기반 내 영국 십대 비중을 분석하여 잠재적 재무 영향도 점검."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Trump warns U.S. strikes on Iran could get ‘really bad’ next week with power plants targeted",
-    "title_ko": "트럼프, 이란 전력 시설 표적 미군 공격 다음 주 '매우 심각해질 수 있다' 경고",
-    "link": "https://www.cnbc.com/2026/07/15/trump-iran-hormuz-strikes-power-plants-targeted.html",
-    "published": "Wed, 15 Jul 2026 09:24:29 GMT",
-    "fetched_at": "2026-07-15 18:52:06",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "에너지(석유 및 가스)",
-      "방산",
-      "해운"
-    ],
-    "keywords": [
-      "미국-이란 갈등",
-      "지정학적 리스크",
-      "유가",
-      "중동"
-    ],
-    "reason": "중동 지역의 지정학적 리스크가 급격히 고조되어, 원유 공급 차질 및 유가 급등 가능성이 높아졌습니다. 이는 글로벌 인플레이션 압력을 가중시키고 시장 변동성을 확대할 것입니다.",
-    "action_point": "중동 지정학적 리스크 심화에 따른 유가 급등 가능성에 대비하여 안전자산(달러, 금) 비중을 확대하고, 에너지 및 방산 섹터에 대한 비중 확대를 검토해야 함."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "[영상] 美, 재봉쇄·공습에 이란 반격…전쟁 다시 시작? - 연합뉴스",
-    "title_ko": "[영상] 美, 재봉쇄·공습에 이란 반격…전쟁 다시 시작?",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1fNTBTWWJEZTdMWXJOT0FIWXZYTFFjUTJkYkIxZFotUWtvYnNjNGZUWGtvYkFiN0VQSnZHTzBnOUtWU0RndlNzV1haRU1jSmphd2pNRmNIQ1I1MVh5ZG54WNIBYEFVX3lxTE1fNTBTWWJEZTdMWXJOT0FIWXZYTFFjUTJkYkIxZFotUWtvYnNjNGZUWGtvYkFiN0VQSnZHTzBnOUtWU0RndlNzV1haRU1jSmphd2pNRmNIQ1I1MVh5ZG54WA?oc=5",
-    "published": "Wed, 15 Jul 2026 04:54:47 GMT",
-    "fetched_at": "2026-07-15 18:52:40",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "에너지",
-      "국방/항공우주",
-      "해운/물류",
-      "금융"
-    ],
-    "keywords": [
-      "미국",
-      "이란",
-      "지정학적 리스크",
-      "중동",
-      "유가",
-      "전쟁"
-    ],
-    "reason": "미국과 이란 간 군사적 긴장 고조는 중동 지역 불안정성을 심화시키고 호르무즈 해협을 통한 원유 공급 차질 우려로 국제 유가 급등을 유발하여 글로벌 경제에 심각한 악영향을 미칠 수 있습니다. 이는 위험자산 회피 심리를 부추길 것입니다.",
-    "action_point": "원유 및 지정학적 리스크에 노출된 자산 비중을 축소하고, 안전자산(금, 달러) 편입을 고려하십시오."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "송민순 \"이란전쟁이 남북 대결구도 강화…비핵화 논의 불가능\" - v.daum.net",
-    "title_ko": "송민순 \"이란전쟁이 남북 대결구도 강화…비핵화 논의 불가능\"",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE13MGZoMTB0eGNjR2NBUF9yQkhHeTNQazVIR25XNzd5dS1LQVFHNzA5QmJmZnFrMWdnc1JaQTBDYUwzU1JuQ2g3X29MeUtQdGs?oc=5",
-    "published": "Wed, 15 Jul 2026 08:23:54 GMT",
-    "fetched_at": "2026-07-15 18:53:07",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "방산",
-      "에너지",
-      "증권(전반)"
-    ],
-    "keywords": [
-      "이란 전쟁",
-      "지정학적 리스크",
-      "한반도 긴장",
-      "비핵화"
-    ],
-    "reason": "이란 전쟁 발발 시 글로벌 지정학적 리스크가 급증하며 유가에 큰 영향을 미칠 것이다. 특히 한반도 내 남북 대결 구도 강화를 통해 국내 자산의 코리아 디스카운트 심화 및 투자 불확실성을 높일 수 있다.",
-    "action_point": "지정학적 리스크 심화에 대비해 국내 주식 비중 축소 및 달러 자산 비중 확대를 검토하라."
   }
 ]
