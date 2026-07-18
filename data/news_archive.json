@@ -1,5 +1,29 @@
 [
   {
+    "source": "CNBC_World",
+    "title": "Korean beauty products are becoming mainstream in the U.S. Why there may be even more growth ahead",
+    "title_ko": "미국 시장에서 주류가 되어가는 K-뷰티, 향후 더 큰 성장이 기대되는 이유",
+    "link": "https://www.cnbc.com/2026/07/18/korean-beauty-products-are-becoming-mainstream-in-the-us.html",
+    "published": "Sat, 18 Jul 2026 11:45:35 GMT",
+    "fetched_at": "2026-07-18 23:16:43",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "화장품",
+      "소비재",
+      "유통"
+    ],
+    "keywords": [
+      "K-뷰티",
+      "미국 시장",
+      "모건스탠리",
+      "성장",
+      "화장품 수출"
+    ],
+    "reason": "모건스탠리 전망에 따르면 K-뷰티의 미국 시장 성장이 가속화될 것으로 예상되며, 이는 한국 화장품 및 관련 소비재 기업들의 실적 개선에 긍정적인 영향을 미칠 것입니다. 주요 수출 품목의 해외 시장 확장 가능성을 시사합니다.",
+    "action_point": "K-뷰티 관련 화장품 제조 및 유통 기업의 투자 비중 확대를 검토하라."
+  },
+  {
     "source": "GoogleNews_Korea",
     "title": "[속보] 이 대통령, 인천 쿠팡 물류센터 화재 총력 대응 지시 - 경향신문",
     "title_ko": "[속보] 이 대통령, 인천 쿠팡 물류센터 화재 총력 대응 지시 - 경향신문",
@@ -2828,27 +2852,5 @@
     ],
     "reason": "워렌 버핏의 발언은 현재 주식 시장의 투기적 성향에 대한 비판으로, 장기적인 가치 투자의 어려움을 시사합니다. 이는 고평가된 자산에 대한 경고로 해석되며, 시장 전반의 조정 가능성에 대한 우려를 높일 수 있습니다.",
     "action_point": "포트폴리오 내 투기적 성향의 자산 비중을 축소하고, 기업의 본질 가치에 기반한 투자 전략을 강화하라."
-  },
-  {
-    "source": "CNBC_Finance",
-    "title": "Morgan Stanley posts record quarterly revenue and profit as equities trading surges 69%",
-    "title_ko": "모건 스탠리, 주식 거래 69% 급증에 힘입어 분기 사상 최고 매출 및 이익 기록",
-    "link": "https://www.cnbc.com/2026/07/15/morgan-stanley-ms-earnings-q2-2026-.html",
-    "published": "Wed, 15 Jul 2026 12:14:59 GMT",
-    "fetched_at": "2026-07-15 22:14:07",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "금융",
-      "증권"
-    ],
-    "keywords": [
-      "모건 스탠리",
-      "실적",
-      "주식 거래",
-      "투자은행"
-    ],
-    "reason": "주요 투자은행의 사상 최고 실적 달성은 자본시장의 활발한 거래와 강력한 수요를 시사하며, 이는 전반적인 금융 섹터와 주식 시장에 긍정적인 신호로 해석될 수 있습니다. 특히 주식 거래 부문의 급증은 투자자들의 시장 참여 확대를 반영합니다.",
-    "action_point": "국내외 증권 및 투자은행 관련 금융 섹터 비중 확대 검토"
   }
 ]
