@@ -1,5 +1,49 @@
 [
   {
+    "source": "Maeil_Business",
+    "title": "8천만원車, 한국선 ‘반값’ 3천만원대...‘세계 최고’ 극찬받은 현대차, 대박 비결 [세상만車]",
+    "title_ko": "8천만원車, 한국선 ‘반값’ 3천만원대...‘세계 최고’ 극찬받은 현대차, 대박 비결 [세상만車]",
+    "link": "https://www.mk.co.kr/news/business/12101483",
+    "published": "Sat, 18 Jul 2026 22:04:17 +09:00",
+    "fetched_at": "2026-07-19 02:48:20",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "자동차",
+      "수소경제",
+      "친환경차"
+    ],
+    "keywords": [
+      "현대차",
+      "넥쏘",
+      "수소차",
+      "친환경차",
+      "판매 증가",
+      "모빌리티"
+    ],
+    "reason": "현대차의 수소차 넥쏘 판매 급증은 친환경차 시장에서의 경쟁력 강화 및 수소 모빌리티 기술 리더십을 보여줍니다. 이는 관련 공급망 및 수소 인프라 투자에도 긍정적인 영향을 미칠 수 있습니다.",
+    "action_point": "현대차를 포함한 수소차 및 친환경 모빌리티 섹터의 투자 비중 확대를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "Two unexpected revelations in Warren Buffett's CNBC interview",
+    "title_ko": "워렌 버핏의 CNBC 인터뷰에서 밝혀진 두 가지 예상치 못한 사실",
+    "link": "https://www.cnbc.com/2026/07/18/two-unexpected-revelations-in-warren-buffetts-cnbc-interview.html",
+    "published": "Sat, 18 Jul 2026 14:53:36 GMT",
+    "fetched_at": "2026-07-19 02:48:09",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [],
+    "keywords": [
+      "워렌 버핏",
+      "빌 게이츠",
+      "제프리 엡스타인",
+      "기부"
+    ],
+    "reason": "이 뉴스는 워렌 버핏이 빌 게이츠와 제프리 엡스타인의 관계 때문에 기부를 중단한 것이 아니라는 해명으로, 개인적인 루머를 해소하지만 버크셔 해서웨이의 사업이나 광범위한 시장 상황에 직접적인 재정적 영향을 미치지 않습니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "CNBC_World",
     "title": "Telecom Italia board backs Poste's $14.9 billion takeover offer",
     "title_ko": "Telecom Italia 이사회, Poste의 149억 달러 인수 제안 지지",
@@ -2806,51 +2850,5 @@
     ],
     "reason": "뉴욕 연은 총재의 인플레이션 정점 발언은 연준의 금리 인상 사이클 종료 기대감을 높여 시장의 위험 선호 심리를 자극할 것입니다. 이는 채권 금리 하락 압력으로 작용하며 주식 및 부동산 등 위험 자산에 긍정적인 영향을 미칠 수 있습니다.",
     "action_point": "장기 성장성이 높은 기술주 및 성장주 비중 확대를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Alibaba’s U.S.-listed shares rise 4% after Qwen AI set to be integrated in Apple Intelligence",
-    "title_ko": "애플 AI 서비스, 중국 승인 목록 포함 소식에 알리바바 Qwen AI 통합 기대감으로 주가 4% 상승",
-    "link": "https://www.cnbc.com/2026/07/15/alibaba-qwen-ai-apple-intelligence.html",
-    "published": "Wed, 15 Jul 2026 11:55:31 GMT",
-    "fetched_at": "2026-07-16 02:07:04",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "기술",
-      "소프트웨어",
-      "인터넷 플랫폼"
-    ],
-    "keywords": [
-      "애플",
-      "알리바바",
-      "AI",
-      "중국 시장",
-      "기술 협력"
-    ],
-    "reason": "중국 당국이 애플의 AI 서비스 출시를 승인하면서 애플의 중국 시장 내 AI 사업 확장이 기대된다. 특히 알리바바의 AI 서비스 통합 가능성이 부각되며 중국 주요 IT 기업들의 기술 협력 및 매출 증대 기회가 확대될 수 있다.",
-    "action_point": "애플의 중국 시장 AI 서비스 확장 관련 수혜주 및 현지 AI 파트너 기업 투자 기회 검토"
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Wholesale prices unexpectedly declined 0.3% in June on big drop in gasoline",
-    "title_ko": "6월 도매물가, 휘발유 가격 급락에 예상외로 0.3% 하락",
-    "link": "https://www.cnbc.com/2026/07/15/wholesale-inflation-june-2026-.html",
-    "published": "Wed, 15 Jul 2026 14:22:48 GMT",
-    "fetched_at": "2026-07-16 00:19:23",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "소비재",
-      "기술주"
-    ],
-    "keywords": [
-      "도매물가",
-      "인플레이션",
-      "에너지 가격"
-    ],
-    "reason": "예상치 못한 도매물가 하락은 에너지 가격 안정화에 기인하며, 전반적인 인플레이션 압력 완화를 시사한다. 이는 연방준비제도(Fed)의 금리 인상 속도 조절 가능성을 높여 시장에 긍정적으로 작용할 수 있다.",
-    "action_point": "인플레이션 둔화 기대감으로 미국 성장주 및 금리 민감 자산에 대한 투자 매력을 재평가하라."
   }
 ]
