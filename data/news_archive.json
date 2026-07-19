@@ -1,6 +1,77 @@
 [
   {
     "source": "GoogleNews_Korea",
+    "title": "[속보] 미 “미군 2명 사망 보복”…이란에 또 공습 개시 - 한겨레",
+    "title_ko": "[속보] 미 “미군 2명 사망 보복”…이란에 또 공습 개시 - 한겨레",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE94V2FXZjhDejAwTmQ2Z1JJanhvRG1qV2wzcWpfRER5LW1TemJGeHZSMVdBaWV1NnVXREx0YzRqUnFlM2p1ZERGOHBpM1AxVFN5aE5SNUVNOU1WRnNxU19RNVJ4Wm9CVWV0ZjJwRWF5V3Bxbmc?oc=5",
+    "published": "Sat, 18 Jul 2026 23:10:00 GMT",
+    "fetched_at": "2026-07-19 10:47:22",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "원자재(유가)",
+      "방산",
+      "항공/해운"
+    ],
+    "keywords": [
+      "미국",
+      "이란",
+      "중동",
+      "지정학적 위험",
+      "유가"
+    ],
+    "reason": "미군의 이란 공습은 중동 지역의 지정학적 긴장을 고조시켜 국제 유가 상승 압력과 글로벌 위험 회피 심리 확산을 초래할 수 있다.",
+    "action_point": "중동 지정학적 위험 심화에 대비하여 에너지/방산 섹터 비중 확대 및 안전자산(금, 달러) 비중 재검토."
+  },
+  {
+    "source": "Maeil_Business",
+    "title": "팍팍해진 현실에…1인가구, 월세 살며 N잡 뛴다",
+    "title_ko": "팍팍해진 현실에…1인가구, 월세 살며 N잡 뛴다",
+    "link": "https://www.mk.co.kr/news/economy/12101587",
+    "published": "Sun, 19 Jul 2026 10:27:33 +09:00",
+    "fetched_at": "2026-07-19 10:47:39",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "부동산",
+      "소비재",
+      "금융",
+      "플랫폼"
+    ],
+    "keywords": [
+      "1인가구",
+      "N잡",
+      "월세",
+      "전세",
+      "가계부채",
+      "소비심리"
+    ],
+    "reason": "1인 가구의 경제적 어려움과 월세 전환 가속화는 가계 소비 여력 약화 및 부동산 시장 내 주거 형태 변화를 시사하며, 이는 전반적인 내수 경기 위축 요인으로 작용할 수 있습니다.",
+    "action_point": "1인 가구 소비 위축 및 주거비 부담 증가 추세에 따라 필수 소비재 비중을 점검하고, 월세 전환 가속화에 따른 임대주택 시장 변화를 주시하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "위기에 놓인 조선주 멀피플 회복할 모멘텀 남았다 - 연합인포맥스",
+    "title_ko": "위기에 놓인 조선주 멀피플 회복할 모멘텀 남았다 - 연합인포맥스",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5LOVF5QW9qU3ZrX3FuMkxETjZwM3ZmZHh4OUxueHV4THR4OU9Eb09ScnBfaWRPaGhBcGtSTkZIdXBwZm5uWjBmZkw0cmt2VlZlNkNFemxrUzRxM3pzT0xma0c0dmtTUW5uYXp4VkJSakrSAXRBVV95cUxNMTBqdVN5MHFLWnhaZmt3VU1PbXNuZTl5d3pSVmFyRFJrWDBQajhvRmNKQWVBWHdkeU9FTEVOdXI3RnRuRkpBbVB0QVR2Q3BxWHRldkkxY3FRc29xS0VJR2U2WW5jUVNJeVI4RWdpOXEzRzREQg?oc=5",
+    "published": "Sun, 19 Jul 2026 00:16:27 GMT",
+    "fetched_at": "2026-07-19 10:47:27",
+    "sentiment": "호재",
+    "importance": 2,
+    "sectors": [
+      "조선"
+    ],
+    "keywords": [
+      "조선주",
+      "멀티플",
+      "모멘텀",
+      "회복"
+    ],
+    "reason": "조선주가 현재 위기 상황임에도 불구하고 향후 멀티플 회복 모멘텀이 남아있다는 분석은 해당 섹터에 대한 투자심리 개선 및 잠재적 상승 여력을 시사한다.",
+    "action_point": "조선 섹터의 잠재적 반등 가능성에 대비하여 관련 종목에 대한 투자 비중 확대를 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
     "title": "[속보]미군, 이란 직접 공격에 첫 사망 - 한경매거진&북",
     "title_ko": "[속보]미군, 이란 직접 공격에 첫 사망 - 한경매거진&북",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tb3lfM1h4TjVFOGYwcXAzQWU4WUhBVzZMR2VyUGpKMzRWX21pdjBkOXloR3VoaDlfQlNqanc4a01rNzQ4YUpkUTRVTnp1WmJpajJpRkg4TTZqNUNWSGVnbHVqRXVXY3E4SWdDZw?oc=5",
@@ -2797,76 +2868,5 @@
     ],
     "reason": "미국 반도체 약세가 아시아 기술주 전반으로 확산되며 글로벌 기술 섹터에 대한 투자심리 위축을 시사합니다. 한국 경제의 핵심인 반도체 수출 및 관련 기업 실적에 부정적 영향을 미칠 수 있습니다.",
     "action_point": "반도체 및 기술주 비중 축소 또는 포트폴리오 리스크 헤지 전략을 검토하십시오."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Stock futures are little changed as traders await retail sales and labor data: Live updates",
-    "title_ko": "소매 판매 및 노동 지표 대기 속 주식 선물 소폭 변동: 실시간 업데이트",
-    "link": "https://www.cnbc.com/2026/07/15/stock-market-today-live-updates.html",
-    "published": "Wed, 15 Jul 2026 23:39:26 GMT",
-    "fetched_at": "2026-07-16 08:51:50",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "소비재",
-      "금융",
-      "기술주"
-    ],
-    "keywords": [
-      "소매 판매",
-      "고용 지표",
-      "인플레이션",
-      "경제 성장",
-      "금리"
-    ],
-    "reason": "투자자들이 경제 둔화의 징후를 확인하여 연방준비제도(Fed)의 금리 정책 경로를 가늠하려 하고 있다. 발표될 소매 판매 및 고용 지표는 향후 금리 인하 기대감에 중요한 영향을 미칠 것이다.",
-    "action_point": "미국 소매 판매 및 고용 지표 발표 후 금리 인하 기대감 변화에 대비하여 포트폴리오 전략을 재점검하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "HP·레알 마드리드, 스마트 업무환경 공개…CIO가 말한 보안 전략",
-    "title_ko": "HP·레알 마드리드, 스마트 업무환경 공개…CIO가 말한 보안 전략",
-    "link": "https://www.mk.co.kr/news/sports/12099917",
-    "published": "Thu, 16 Jul 2026 08:23:13 +09:00",
-    "fetched_at": "2026-07-16 08:52:00",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "IT",
-      "소프트웨어",
-      "보안"
-    ],
-    "keywords": [
-      "스마트 업무환경",
-      "디지털 전환",
-      "AI",
-      "사이버 보안"
-    ],
-    "reason": "글로벌 기업들의 디지털 전환 및 AI, 사이버 보안 기술 도입 가속화 추세를 보여주며 관련 IT 솔루션 시장의 꾸준한 성장을 시사한다. 거시 경제 전반에 미치는 영향은 제한적이다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "title": "United earnings top estimates but airline expects $6 billion in added fuel costs",
-    "title_ko": "유나이티드 항공, 예상 상회 실적 발표했지만 60억 달러 추가 유류비 예상",
-    "link": "https://www.cnbc.com/2026/07/15/united-airlines-ual-2q-2026-earnings.html",
-    "published": "Wed, 15 Jul 2026 21:00:11 GMT",
-    "fetched_at": "2026-07-16 07:50:17",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "항공",
-      "여행 및 레저",
-      "에너지"
-    ],
-    "keywords": [
-      "항공주",
-      "유가",
-      "여행 수요",
-      "기업 실적",
-      "인플레이션"
-    ],
-    "reason": "유나이티드 항공의 실적은 견조한 여행 수요를 보여주나, 예상치 못한 60억 달러의 추가 유류비는 항공 산업 전반의 비용 압박을 시사한다. 이는 높은 유가 환경이 지속될 경우 항공사 마진에 부정적 영향을 미칠 수 있다.",
-    "action_point": "항공 섹터 투자 비중 축소 검토"
   }
 ]
