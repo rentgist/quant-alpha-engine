@@ -1,6 +1,52 @@
 [
   {
     "source": "GoogleNews_Korea",
+    "title": "[분석] ‘블랙 서스데이’ 경제 쇼크에 李 지지율 4.7%P 증발했다 - 에너지경제신문",
+    "title_ko": "[분석] ‘블랙 서스데이’ 경제 쇼크에 李 지지율 4.7%P 증발했다 - 에너지경제신문",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8zT01XMjBxUkt6cFRoenM5WUNSTC03T2pCZno1OGQ1eEpjTmc1X3ZaLWhZWmJGU1Y2MjhObkRmbDdPRk5Jb1dUS28zTHZUNUtidXJzY2RLNklFeG9wX0xlY29KOA?oc=5",
+    "published": "Sun, 19 Jul 2026 21:00:00 GMT",
+    "fetched_at": "2026-07-20 06:42:40",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "전반적인 시장",
+      "소비재",
+      "금융"
+    ],
+    "keywords": [
+      "경제 쇼크",
+      "국내 경기",
+      "정치 불확실성",
+      "지지율"
+    ],
+    "reason": "‘블랙 서스데이’로 언급된 경제 쇼크가 국내 정치인의 지지율 하락으로 이어진 것은 국내 경제에 대한 대중의 부정적 인식이 크다는 것을 보여주며, 이는 향후 정책 불확실성과 시장 변동성을 높일 수 있습니다.",
+    "action_point": "국내 경기 침체 및 정책 불확실성 확대에 대비하여 방어적 자산 비중 확대를 검토하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "title": "“한번 더 털리면 어휴…” 해킹홍역 통신사들 보안에 3300억 투자",
+    "title_ko": "“한번 더 털리면 어휴…” 해킹홍역 통신사들 보안에 3300억 투자",
+    "link": "https://www.mk.co.kr/news/it/12102024",
+    "published": "Mon, 20 Jul 2026 06:12:52 +09:00",
+    "fetched_at": "2026-07-20 06:42:57",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "통신",
+      "정보보안"
+    ],
+    "keywords": [
+      "해킹",
+      "정보보호",
+      "통신사",
+      "보안 투자",
+      "AI 보안"
+    ],
+    "reason": "주요 통신사들의 정보보호 투자는 단기적으로 비용 증가 요인이지만, 장기적으로는 네트워크 안정성과 고객 신뢰도를 높여 미래 리스크를 감소시키는 긍정적 효과가 있다. 이는 통신 섹터의 필수적인 비용 구조 변화로 볼 수 있다.",
+    "action_point": "통신 섹터 투자 비중 재검토 시, 보안 투자 증가로 인한 기업의 재무 영향과 장기 리스크 감소 효과를 종합적으로 고려하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
     "title": "반도체 쏠림 한국 경제에… 한은, ‘네덜란드 병’ 경고 - 조선일보",
     "title_ko": "반도체 쏠림 한국 경제에… 한은, ‘네덜란드 병’ 경고",
     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRXFzaVJ0SEdHRkRrSjdBQ1BjZ3MzVmpjLW5DeTBIbm5HMElSTUh3Wk1pVVU5QTIxbFlrQ1k1WGtfaXFJWmxxM0cxNkszQ3NJaTlIWnh4SjFjX09zWEwxVWtWUmFrZ0VodDJrQTJKUkFMb3hLRl81T3RWSXJsS0pPMU5McnEzck9MQk5lSERB?oc=5",
@@ -2828,48 +2874,5 @@
     ],
     "reason": "유류할증료 하락은 단기적으로 여행 및 항공 섹터에 긍정적이나, 중동 지정학적 리스크 재부상은 국제유가 상승 압력을 가해 항공유 비용 증가 및 전반적인 물가 상승 우려를 키울 수 있습니다.",
     "action_point": "항공 및 여행 섹터 비중 축소 또는 유가 헤징 전략 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Trump is set to deliver an election-focused national address tonight. Here's what to know",
-    "title_ko": "트럼프, 오늘 밤 선거 관련 대국민 연설 예정. 주요 내용 미리보기",
-    "link": "https://www.cnbc.com/2026/07/16/trump-primetime-address-elections-2020.html",
-    "published": "Thu, 16 Jul 2026 18:23:39 GMT",
-    "fetched_at": "2026-07-17 06:56:52",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [],
-    "keywords": [
-      "트럼프",
-      "미국 대선",
-      "정치 불확실성",
-      "선거 연설"
-    ],
-    "reason": "트럼프의 대선 관련 연설은 미국 정치 불확실성을 증폭시키고, 향후 선거 과정의 잠재적 리스크에 대한 시장의 우려를 키울 수 있습니다. 이는 글로벌 금융시장의 변동성을 확대시키는 요인으로 작용할 가능성이 있습니다.",
-    "action_point": "미국 대선 관련 정치 불확실성 확대에 대비하여 포트폴리오의 방어적 자산 비중 유지 및 현금 비중 점검을 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "트럼프, 또 ‘부정선거’ 꺼내나...“제발 경제만” 공화당 전전긍긍 - 조선일보",
-    "title_ko": "트럼프, 또 ‘부정선거’ 꺼내나...“제발 경제만” 공화당 전전긍긍",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSU02YlJueDhTWG02WS1xRFhkMG5BX29KMXluQkhZRm9oeWxVS0lHTnJqMWJWVGFNU1NpbGRod3N5dnZEMzFwMDdvM0MtX3BKSjF5MW5hd0xicm00R1cyQlVRVTdTRVhnMVdldFNDTXdxNW9EaXZfLXM4dk80QkJvWE5ycVVCMjl3bWpnVzQtUTdPWTBpNWxGRExKR2ZuUQ?oc=5",
-    "published": "Thu, 16 Jul 2026 18:10:00 GMT",
-    "fetched_at": "2026-07-17 05:55:31",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "글로벌 증시",
-      "제조업",
-      "기술주"
-    ],
-    "keywords": [
-      "트럼프",
-      "미국 대선",
-      "정치 불확실성",
-      "부정선거",
-      "공화당"
-    ],
-    "reason": "트럼프의 '부정선거' 언급은 다가오는 미국 대선의 불확실성을 증폭시키며, 정책보다 정치적 논란에 초점을 맞출 경우 시장에 불안감을 야기할 수 있습니다. 이는 향후 미국 경제 정책 방향 및 글로벌 교역 환경에 대한 예측 가능성을 낮춥니다.",
-    "action_point": "미국 대선 관련 정치적 불확실성 증가에 대비하여 미국 시장 노출 비중을 점검하고 포트폴리오 내 방어적 자산 비중 확대를 고려하라."
   }
 ]
