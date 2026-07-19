@@ -1,5 +1,29 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "title": "[기고]중동전쟁, 해상통제권 경쟁이 왜 인내력 경쟁으로 바뀌었는가…김태준의 美·이란戰 중계 - 문화일보",
+    "title_ko": "[기고]중동전쟁, 해상통제권 경쟁이 왜 인내력 경쟁으로 바뀌었는가…김태준의 美·이란戰 중계",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1yaWJzOGNzUG9CY0w2aG41UUphT1Zab0ZIRmRsX2FxdjJRNXZtdjFVLUhpQTh3ZVIxNlB2RTEwTDk0Y00tMzJnRjRKRlJwZ0Zw?oc=5",
+    "published": "Sun, 19 Jul 2026 10:07:33 GMT",
+    "fetched_at": "2026-07-19 20:05:08",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "에너지",
+      "해운",
+      "방산"
+    ],
+    "keywords": [
+      "중동전쟁",
+      "미국-이란",
+      "지정학적 리스크",
+      "해상통제권",
+      "원유"
+    ],
+    "reason": "중동 전쟁 및 미국-이란 갈등 심화는 글로벌 원유 공급망 불안정성을 가중시키고 해상 운송 비용을 상승시켜 인플레이션 압력을 높일 수 있습니다. 이는 전반적인 경제 불확실성을 증대시키는 요인입니다.",
+    "action_point": "에너지 섹터 비중 유지 및 방산 섹터 관심 필요."
+  },
+  {
     "source": "CNBC_World",
     "title": "U.S. says it targeted Iranian forces after attacks that killed two American service members",
     "title_ko": "미국, 미군 2명 사망 공격에 이란군 표적 타격",
@@ -2848,31 +2872,5 @@
     ],
     "reason": "TSMC의 호실적은 고성능 칩 수요 강세를 시사하며, 이는 글로벌 반도체 및 기술 섹터의 회복세 또는 견조한 성장을 뒷받침한다. 전반적인 시장 심리에 긍정적 영향을 미칠 수 있다.",
     "action_point": "글로벌 반도체 및 기술주 섹터에 대한 긍정적 시각 유지 또는 비중 확대 검토"
-  },
-  {
-    "source": "CNBC_World",
-    "title": "U.S. slaps 25% tariff on most Brazilian goods over 'unfair trade practices'",
-    "title_ko": "미국, '불공정 무역 관행' 이유로 대부분 브라질산 제품에 25% 관세 부과",
-    "link": "https://www.cnbc.com/2026/07/16/us-tariffs-brazil-unfair-trade-practices-section-301-.html",
-    "published": "Thu, 16 Jul 2026 06:32:39 GMT",
-    "fetched_at": "2026-07-16 16:16:43",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "원자재",
-      "농산물",
-      "글로벌 운송/물류",
-      "신흥국 투자"
-    ],
-    "keywords": [
-      "관세",
-      "무역분쟁",
-      "브라질",
-      "미국",
-      "불공정 무역",
-      "보호무역주의"
-    ],
-    "reason": "미국의 브라질산 제품에 대한 관세 부과는 브라질 경제에 직접적인 타격을 줄 뿐만 아니라 글로벌 보호무역주의 확산 우려를 높여 신흥국 자산 전반에 대한 투자 심리를 위축시킬 수 있습니다.",
-    "action_point": "신흥국 자산 비중 축소를 검토하고 달러 현금 비중을 유지하여 글로벌 무역 긴장 확대에 대비하라."
   }
 ]
