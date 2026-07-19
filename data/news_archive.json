@@ -1,6 +1,51 @@
 [
   {
     "source": "GoogleNews_Korea",
+    "title": "‘OOO 투기와의 전쟁’ 검찰도 나선다…전국에 전담검사 지정해 엄정 대응 - 문화일보",
+    "title_ko": "‘OOO 투기와의 전쟁’ 검찰도 나선다…전국에 전담검사 지정해 엄정 대응",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE90TFVMeTRLeTRORVNxOXZjZUJWWktTV2VBUDgtNnVaYnRxa245WldDbEI4ZkQzWUJtU04wWUxBVlViRENlSjVSZEpMUUg4TUFy?oc=5",
+    "published": "Sun, 19 Jul 2026 10:27:12 GMT",
+    "fetched_at": "2026-07-19 21:56:01",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "금융 서비스",
+      "법률 서비스",
+      "규제 관련 산업"
+    ],
+    "keywords": [
+      "투기 단속",
+      "검찰 수사",
+      "시장 규제",
+      "자산 변동성",
+      "규제 리스크"
+    ],
+    "reason": "검찰이 OOO 자산의 투기 행위에 대해 전국적인 단속 및 엄정 대응을 예고함에 따라, 해당 자산 시장의 단기적인 가격 변동성 확대 및 투자 심리 위축 가능성이 높습니다. 이는 전반적인 시장 내 규제 리스크 인식을 높일 수 있습니다.",
+    "action_point": "불확실성 해소 전까지 레버리지를 활용한 고위험 투기성 자산에 대한 비중 축소 및 신규 진입 자제."
+  },
+  {
+    "source": "CNBC_Finance",
+    "title": "Kalshi adds 3 million new users as prediction market capitalizes on the World Cup",
+    "title_ko": "Kalshi, 월드컵 효과로 예측 시장 사용자 3백만 명 추가 확보",
+    "link": "https://www.cnbc.com/2026/07/19/kalshi-adds-3-million-new-users-as-company-capitalizes-on-world-cup.html",
+    "published": "Sun, 19 Jul 2026 12:42:30 GMT",
+    "fetched_at": "2026-07-19 21:55:40",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "핀테크"
+    ],
+    "keywords": [
+      "Kalshi",
+      "예측 시장",
+      "월드컵",
+      "사용자 증가"
+    ],
+    "reason": "이 뉴스는 특정 예측 시장 플랫폼의 사용자 증가 소식으로, 월드컵과 같은 대형 이벤트가 핀테크 플랫폼의 성장을 견인할 수 있음을 보여주나, 전반적인 거시경제나 주요 자산 시장에 미치는 직접적인 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "GoogleNews_Korea",
     "title": "[기고]중동전쟁, 해상통제권 경쟁이 왜 인내력 경쟁으로 바뀌었는가…김태준의 美·이란戰 중계 - 문화일보",
     "title_ko": "[기고]중동전쟁, 해상통제권 경쟁이 왜 인내력 경쟁으로 바뀌었는가…김태준의 美·이란戰 중계",
     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1yaWJzOGNzUG9CY0w2aG41UUphT1Zab0ZIRmRsX2FxdjJRNXZtdjFVLUhpQTh3ZVIxNlB2RTEwTDk0Y00tMzJnRjRKRlJwZ0Zw?oc=5",
@@ -2824,53 +2869,5 @@
     ],
     "reason": "인도가 한 달 만에 두 번째 AI 유니콘 기업을 배출하며 AI 산업 성장세를 입증, 글로벌 AI 시장의 경쟁 심화와 이머징 마켓 기술 투자에 대한 관심을 높일 것입니다.",
     "action_point": "글로벌 AI 관련 기술주 또는 인도 이머징 마켓 기술 펀드에 대한 비중 확대를 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "[속보] 단일종목 레버리지 예탁금 현금 3000만원으로 상향 - 중앙일보",
-    "title_ko": "단일종목 레버리지 예탁금 현금 3000만원으로 상향",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5OSkdUSzdhWEpwR2ZPbGpHRVprWDhucHlBWFZZYVFxejVHbE90cFNqUktHb25fdExVOHFxNjZRZUEySm5mdUZyOUJzdmhpWVFGejVNVExR?oc=5",
-    "published": "Thu, 16 Jul 2026 07:12:15 GMT",
-    "fetched_at": "2026-07-16 18:58:31",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "증권",
-      "고위험 성장주",
-      "테마주",
-      "중소형주"
-    ],
-    "keywords": [
-      "레버리지",
-      "예탁금",
-      "단일종목",
-      "주식 시장 규제",
-      "투기 억제"
-    ],
-    "reason": "단일종목 레버리지 예탁금 상향은 개인 투자자의 투기성 과잉 레버리지를 억제하여 시장의 건전성을 높이는 조치입니다. 이는 단기적으로 레버리지 의존도가 높은 특정 고위험 성장주나 테마주의 변동성 및 거래량을 감소시킬 수 있습니다.",
-    "action_point": "과도한 레버리지에 의존하는 투기성 중소형주 및 테마주의 비중을 축소하거나 신규 진입을 재고하십시오."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "TSMC second-quarter profit jumps over 77%, beating estimates, on high-end chip boom",
-    "title_ko": "TSMC 2분기 이익 77% 이상 급증, 예상치 상회... 고성능 칩 호황에 힘입어",
-    "link": "https://www.cnbc.com/2026/07/16/tsmc-second-quarter-profit-.html",
-    "published": "Thu, 16 Jul 2026 05:52:58 GMT",
-    "fetched_at": "2026-07-16 16:16:31",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "반도체",
-      "기술주",
-      "IT하드웨어"
-    ],
-    "keywords": [
-      "TSMC",
-      "반도체",
-      "고성능 칩",
-      "실적"
-    ],
-    "reason": "TSMC의 호실적은 고성능 칩 수요 강세를 시사하며, 이는 글로벌 반도체 및 기술 섹터의 회복세 또는 견조한 성장을 뒷받침한다. 전반적인 시장 심리에 긍정적 영향을 미칠 수 있다.",
-    "action_point": "글로벌 반도체 및 기술주 섹터에 대한 긍정적 시각 유지 또는 비중 확대 검토"
   }
 ]
