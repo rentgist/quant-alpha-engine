@@ -1,6 +1,103 @@
 [
   {
     "source": "GoogleNews_Korea",
+    "title": "‘이란 핵 막겠다’ 전쟁해놓고…“미, 사우디 ‘우라늄 농축 허용’ 잠정 합의” - 경향신문",
+    "title_ko": "‘이란 핵 막겠다’ 전쟁해놓고…“미, 사우디 ‘우라늄 농축 허용’ 잠정 합의”",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJdGpXY2hBclJCdHl1NzlnLV9BVWZJeV9fMHVnMU1vRE1CSF9iTU1QOXl1WnNHdzd3SXc2SVNRRno4VmIzUXltUHZXUm50WDFYOG9LOGxTMV9pd9IBX0FVX3lxTE1Rb1dvSDBRN1haS1Job0h6R0RwV0lUaXFJRW9GWjdESXY1c1BHanVGS0NvZWIzSmZWMEJTNHhKZWJfU05WNTV0WGZBNG5Vak1Wa0RHN0xfaXZTTG9EWFVV?oc=5",
+    "published": "Sun, 19 Jul 2026 12:05:00 GMT",
+    "fetched_at": "2026-07-19 23:21:32",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "방산",
+      "원자재"
+    ],
+    "keywords": [
+      "미국",
+      "사우디",
+      "이란",
+      "핵",
+      "우라늄 농축",
+      "중동",
+      "지정학"
+    ],
+    "reason": "미국의 사우디 우라늄 농축 허용은 중동 내 핵확산 리스크를 고조시키고 이란과의 긴장을 심화시켜 역내 군비 경쟁과 지정학적 불안정성을 키울 수 있습니다. 이는 국제 유가 및 방산 산업에 중장기적인 영향을 미칠 것입니다.",
+    "action_point": "중동발 지정학적 리스크 확산에 대비하여 에너지 및 방산 섹터의 변동성 확대에 유의하고, 달러 등 안전자산 비중을 점진적으로 확대하라."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "Housing costs is the top political issue for young voters, CNBC survey finds",
+    "title_ko": "CNBC 설문조사: 주거 비용이 젊은 유권자의 최대 정치 쟁점",
+    "link": "https://www.cnbc.com/2026/07/19/housing-costs-election-young-voters-cnbc-survey-finds.html",
+    "published": "Sun, 19 Jul 2026 12:00:01 GMT",
+    "fetched_at": "2026-07-19 23:21:08",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "부동산",
+      "건설",
+      "금융",
+      "소비재"
+    ],
+    "keywords": [
+      "주거 비용",
+      "청년 유권자",
+      "정치 쟁점",
+      "부동산 정책",
+      "소비 심리"
+    ],
+    "reason": "높은 주거 비용은 젊은 층의 가처분 소득을 감소시켜 소비 위축을 야기하며, 주택 공급 확대 및 규제 강화 등 정책 변화 압력으로 작용하여 부동산 시장에 직접적인 영향을 미칠 수 있습니다.",
+    "action_point": "주택 공급 확대 및 규제 정책 가능성에 대비하여 국내 부동산 및 건설 섹터 비중 축소 검토."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "UK's incoming PM Andy Burnham drops digital ID scheme to prioritize cost of living, say allies",
+    "title_ko": "영국 차기 총리 앤디 번햄, 생활비 문제 우선순위로 디지털 ID 계획 철회 시사",
+    "link": "https://www.cnbc.com/2026/07/19/uks-incoming-pm-andy-burnham-to-prioritize-cost-of-living-say-allies.html",
+    "published": "Sun, 19 Jul 2026 13:09:15 GMT",
+    "fetched_at": "2026-07-19 23:21:18",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "기술"
+    ],
+    "keywords": [
+      "영국",
+      "총리",
+      "디지털 ID",
+      "생활비",
+      "정책 변화"
+    ],
+    "reason": "영국 차기 총리 후보가 디지털 ID 계획을 철회하고 생활비 문제를 우선시하겠다고 밝힌 것으로, 이는 영국 내 특정 기술(디지털 신원확인) 분야에 대한 정부 지원 축소를 의미하며, 당장의 글로벌 거시경제적 영향은 제한적이다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "코스닥, 6곳 관리종목 지정… ‘응원매수’로 일부 위기탈출 [경제레이더] - v.daum.net",
+    "title_ko": "코스닥, 6곳 관리종목 지정… ‘응원매수’로 일부 위기탈출",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB3b3JCM3VJdmpVMDk5aV9fdGJURENfd2w1Nk9aY0R0MVFsSkpJTEdDZktyU1RySy1QQ19xcmhTYmxHa1h2TGh3d210ZGhPTHc?oc=5",
+    "published": "Sun, 19 Jul 2026 13:31:08 GMT",
+    "fetched_at": "2026-07-19 23:21:42",
+    "sentiment": "악재",
+    "importance": 2,
+    "sectors": [
+      "코스닥 상장사",
+      "소형주",
+      "투자심리"
+    ],
+    "keywords": [
+      "코스닥",
+      "관리종목",
+      "기업부실",
+      "투자위험",
+      "소형주"
+    ],
+    "reason": "코스닥 시장 내 일부 기업의 재무 건전성 악화로 인한 관리종목 지정은 해당 기업뿐 아니라 시장 전반의 투자 심리에도 부정적인 영향을 미칠 수 있습니다. 동시에 '응원매수'는 투기적 매수세가 여전히 존재함을 시사합니다.",
+    "action_point": "코스닥 시장 내 재무 취약 기업에 대한 투자 비중을 축소하고, 포트폴리오의 안정성을 재점검하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
     "title": "‘OOO 투기와의 전쟁’ 검찰도 나선다…전국에 전담검사 지정해 엄정 대응 - 문화일보",
     "title_ko": "‘OOO 투기와의 전쟁’ 검찰도 나선다…전국에 전담검사 지정해 엄정 대응",
     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE90TFVMeTRLeTRORVNxOXZjZUJWWktTV2VBUDgtNnVaYnRxa245WldDbEI4ZkQzWUJtU04wWUxBVlViRENlSjVSZEpMUUg4TUFy?oc=5",
@@ -2776,98 +2873,5 @@
     ],
     "reason": "향후 경제지표가 예상치를 상회할 경우 중앙은행의 연속적인 금리 인상 가능성이 제기되며, 이는 긴축적인 통화정책 장기화로 이어져 주식 및 부동산 등 위험자산의 투자심리를 위축시킬 수 있습니다.",
     "action_point": "금리 인상에 민감한 성장주 및 고부채 기업의 투자 비중 축소를 검토하고, 안정적인 현금 흐름을 가진 가치주 비중을 확대하라."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Wall Street's profit boom has Europe ripping up its banking rulebook",
-    "title_ko": "월스트리트의 이익 급증, 유럽 은행 규제 개혁 촉발",
-    "link": "https://www.cnbc.com/2026/07/16/wall-street-us-banks-profit-boom-europe-regulation.html",
-    "published": "Thu, 16 Jul 2026 10:49:38 GMT",
-    "fetched_at": "2026-07-16 20:37:45",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "유럽 금융",
-      "은행"
-    ],
-    "keywords": [
-      "유럽 은행",
-      "규제 개혁",
-      "금융 섹터",
-      "수익성 개선"
-    ],
-    "reason": "유럽 은행 규제 완화는 역내 은행들의 수익성 및 자본 효율성을 개선하여 금융 섹터 전반에 긍정적인 영향을 미치고, 이는 유럽 경제의 활력으로 이어질 수 있다.",
-    "action_point": "유럽 금융 섹터의 투자 매력도가 상승할 가능성이 있으므로 관련 ETF 또는 개별 종목에 대한 포트폴리오 비중 확대를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Iran warns U.S. of Hormuz ‘red line,’ says it will retaliate to Trump’s strike threats",
-    "title_ko": "이란, 미국에 호르무즈 '레드라인' 경고, 트럼프의 공격 위협에 보복 다짐",
-    "link": "https://www.cnbc.com/2026/07/16/iran-warns-of-hormuz-red-line-retaliation-to-trumps-strike-threats.html",
-    "published": "Thu, 16 Jul 2026 09:18:55 GMT",
-    "fetched_at": "2026-07-16 18:57:59",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "에너지",
-      "방산",
-      "해운",
-      "항공"
-    ],
-    "keywords": [
-      "이란",
-      "미국",
-      "호르무즈 해협",
-      "지정학적 위험",
-      "유가"
-    ],
-    "reason": "미국과 이란 간 군사적 긴장 고조는 호르무즈 해협 봉쇄 가능성을 높여 글로벌 원유 공급에 심각한 차질을 유발할 수 있습니다. 이는 국제 유가 급등과 전반적인 시장 불확실성 증대로 이어질 것입니다.",
-    "action_point": "중동 지정학적 긴장 고조에 따른 국제 유가 급등 가능성에 대비하여 원유 관련 자산 및 방산주 비중 확대를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Ukrainians take to the streets after Zelenskyy ousts defense minister in surprise shake-up",
-    "title_ko": "젤렌스키 대통령의 국방장관 전격 경질 후 우크라이나 국민들 거리로 쏟아져 나와",
-    "link": "https://www.cnbc.com/2026/07/16/ukraine-russia-zelenskyy-crimea-putin.html",
-    "published": "Thu, 16 Jul 2026 09:32:12 GMT",
-    "fetched_at": "2026-07-16 18:58:16",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "방산",
-      "원자재"
-    ],
-    "keywords": [
-      "우크라이나",
-      "젤렌스키",
-      "국방장관",
-      "정치 불안",
-      "지정학적 리스크"
-    ],
-    "reason": "전시 중인 우크라이나의 국방장관 전격 경질 및 이에 따른 시위는 내부 정치 불안정성을 시사하며, 이는 전쟁 장기화 및 불확실성 증폭으로 이어져 지정학적 리스크를 키울 수 있습니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Catching up in the AI race? India gets its second AI unicorn in a month",
-    "title_ko": "AI 경쟁에서 추격하나? 인도, 한 달 새 두 번째 AI 유니콘 기업 탄생",
-    "link": "https://www.cnbc.com/2026/07/16/catching-up-in-the-ai-race-india-gets-its-second-ai-unicorn-in-a-month.html",
-    "published": "Thu, 16 Jul 2026 09:03:27 GMT",
-    "fetched_at": "2026-07-16 18:58:21",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "기술",
-      "인공지능",
-      "이머징마켓"
-    ],
-    "keywords": [
-      "AI",
-      "인도",
-      "유니콘",
-      "기술주"
-    ],
-    "reason": "인도가 한 달 만에 두 번째 AI 유니콘 기업을 배출하며 AI 산업 성장세를 입증, 글로벌 AI 시장의 경쟁 심화와 이머징 마켓 기술 투자에 대한 관심을 높일 것입니다.",
-    "action_point": "글로벌 AI 관련 기술주 또는 인도 이머징 마켓 기술 펀드에 대한 비중 확대를 검토하라."
   }
 ]
