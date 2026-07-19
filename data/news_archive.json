@@ -1,6 +1,52 @@
 [
   {
     "source": "GoogleNews_Korea",
+    "title": "[속보] 강원 폭우에 낙석·고립‥영월에선 어젯밤 40대 낚시객 1명 실종 - MBC 뉴스",
+    "title_ko": "[속보] 강원 폭우에 낙석·고립‥영월에선 어젯밤 40대 낚시객 1명 실종 - MBC 뉴스",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZc25pWGxmUnZWTGNsVVF1TlNkTjVVdWxwSHFyMjRUNnY4WnJOdHNwcldGTEowMW9uajVNUl93Zjd1dEdKMnpCMXljRzJDaDBjUXlZM2EzOWlDZXVORnIzQlJmZzh2T0ptV0RSdk5xdVZIYUQ5VVZn0gF3QVVfeXFMT1FJUHdwaFlVQUIta19rUGZSeE1yMkVzTXVKTkRGc3JKdDV3YWwzamdZVDVNZTh0UERpbFJiNXAyUjFXWUtRaWI5OFltOEJWR2t6MGNxZnFmUHlQMWhxb2Qxb3hXNkdPc1Ffa2ctTjVDT2N3QUZjMWs?oc=5",
+    "published": "Sun, 19 Jul 2026 01:49:03 GMT",
+    "fetched_at": "2026-07-19 14:13:21",
+    "sentiment": "악재",
+    "importance": 2,
+    "sectors": [
+      "관광/레저",
+      "건설"
+    ],
+    "keywords": [
+      "강원도",
+      "폭우",
+      "낙석",
+      "고립",
+      "자연재해"
+    ],
+    "reason": "강원 지역의 국지성 폭우로 인한 인명 및 재산 피해 발생은 해당 지역의 관광 및 레저 활동을 단기적으로 위축시키고, 도로 등 기반 시설의 복구 수요를 발생시킬 수 있습니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "정경선 \"기후위기 선제 투자, 비용 아닌 미래 위한 보험료\" - v.daum.net",
+    "title_ko": "정경선 \"기후위기 선제 투자, 비용 아닌 미래 위한 보험료\"",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5nNFJsbkN5ZHdGT3JDSzZYRXFQWU1qT2FEVm92bzdaLU92RUI1RHF6WTB5MGs4Q2VGNDdZbl9jWFFja3lYb2pmUmZ1N2JYWUE?oc=5",
+    "published": "Sun, 19 Jul 2026 02:10:43 GMT",
+    "fetched_at": "2026-07-19 14:13:27",
+    "sentiment": "호재",
+    "importance": 2,
+    "sectors": [
+      "신재생에너지",
+      "친환경 기술",
+      "ESG 관련 산업"
+    ],
+    "keywords": [
+      "기후위기",
+      "ESG",
+      "친환경 투자",
+      "선제적 투자"
+    ],
+    "reason": "기후위기 대응을 위한 선제적 투자의 중요성을 강조하며, 이는 미래 가치와 지속가능성을 위한 필수적인 흐름임을 시사한다. 장기적으로 ESG 및 친환경 기술 관련 산업으로의 자본 유입이 가속화될 전망이다.",
+    "action_point": "ESG 및 신재생에너지 관련 섹터 비중 확대 검토"
+  },
+  {
+    "source": "GoogleNews_Korea",
     "title": "[속보] 미 “미군 2명 사망 보복”…이란에 또 공습 개시 - 한겨레",
     "title_ko": "[속보] 미 “미군 2명 사망 보복”…이란에 또 공습 개시 - 한겨레",
     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE94V2FXZjhDejAwTmQ2Z1JJanhvRG1qV2wzcWpfRER5LW1TemJGeHZSMVdBaWV1NnVXREx0YzRqUnFlM2p1ZERGOHBpM1AxVFN5aE5SNUVNOU1WRnNxU19RNVJ4Wm9CVWV0ZjJwRWF5V3Bxbmc?oc=5",
@@ -2821,52 +2867,5 @@
     ],
     "reason": "애플과 중국 빅테크 간 AI 파트너십은 미중 기술 경쟁 심화 속에서도 중국 AI 기업들의 글로벌 경쟁력 확보 가능성을 시사하며 관련 주가에 긍정적으로 작용할 수 있습니다. 동시에 미중 간 AI 주도권 경쟁은 장기적 시장 변동성 요인으로 남습니다.",
     "action_point": "미중 기술 경쟁 구도 변화에 주목하며, 글로벌 협력 가능성이 있는 중국 AI 관련 대형 기술주의 포트폴리오 편입을 검토."
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "한은 “반도체 경기 호조로 경제 성장…글로벌 투자 불확실성도 커”",
-    "title_ko": "한은 “반도체 경기 호조로 경제 성장…글로벌 투자 불확실성도 커”",
-    "link": "https://www.mk.co.kr/news/economy/12100190",
-    "published": "Thu, 16 Jul 2026 13:49:01 +09:00",
-    "fetched_at": "2026-07-16 13:52:34",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "반도체",
-      "IT",
-      "AI"
-    ],
-    "keywords": [
-      "한국은행",
-      "반도체",
-      "경제 성장",
-      "글로벌 불확실성"
-    ],
-    "reason": "한국은행은 반도체 호황에 힘입은 국내 경제 성장을 전망하면서도, 중동사태 및 글로벌 AI 투자와 관련된 불확실성 확대를 경고하여 시장에 성장과 위험요인이 공존함을 시사합니다.",
-    "action_point": "반도체 관련 포트폴리오 비중을 유지하되, 글로벌 지정학적 리스크에 대한 헤지 전략을 적극적으로 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "SK Hynix shares plunge 10% as Asia sees tech rout, tracking U.S. chip losses",
-    "title_ko": "SK하이닉스 주가 10% 급락, 미국 반도체 하락에 아시아 기술주 폭락",
-    "link": "https://www.cnbc.com/2026/07/16/sk-hynix-falls-amid-asia-tech-rout-tracking-us-semiconductor-losses.html",
-    "published": "Thu, 16 Jul 2026 01:21:41 GMT",
-    "fetched_at": "2026-07-16 10:45:43",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "반도체",
-      "IT",
-      "기술주"
-    ],
-    "keywords": [
-      "SK하이닉스",
-      "반도체",
-      "기술주",
-      "미국 반도체",
-      "아시아 증시"
-    ],
-    "reason": "미국 반도체 약세가 아시아 기술주 전반으로 확산되며 글로벌 기술 섹터에 대한 투자심리 위축을 시사합니다. 한국 경제의 핵심인 반도체 수출 및 관련 기업 실적에 부정적 영향을 미칠 수 있습니다.",
-    "action_point": "반도체 및 기술주 비중 축소 또는 포트폴리오 리스크 헤지 전략을 검토하십시오."
   }
 ]
