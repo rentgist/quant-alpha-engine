@@ -1,5 +1,244 @@
 [
   {
+    "source": "CNBC_World",
+    "title": "Analysis: Fed Chairman Warsh faces an inflation credibility test after Congress hearings",
+    "title_ko": "분석: 연준 의장 워시, 의회 청문회 후 인플레이션 신뢰성 시험대에 직면",
+    "link": "https://www.cnbc.com/2026/07/15/fed-chairman-kevin-warsh-inflation-credibility-test-analysis.html",
+    "published": "Fri, 17 Jul 2026 20:28:40 GMT",
+    "fetched_at": "2026-07-19 17:00:15",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "금융",
+      "기술주 (성장주)",
+      "부동산"
+    ],
+    "keywords": [
+      "연준 의장",
+      "인플레이션",
+      "통화정책",
+      "금리"
+    ],
+    "reason": "연준 의장의 인플레이션 대응 능력에 대한 시장의 신뢰성 검증이 시작될 것이며, 이는 향후 통화정책 방향, 특히 금리 인상 속도에 결정적인 영향을 미칠 것입니다.",
+    "action_point": "인플레이션 통제 실패 시 발생할 수 있는 금리 상승 압력에 대비하여 포트폴리오 내 금리 민감 자산 비중 축소를 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "[채권-주간] 중동전쟁 격화 여파·2분기 GDP 주시…연속 금리인상 가늠자 - 연합인포맥스",
+    "title_ko": "[채권-주간] 중동전쟁 격화 여파·2분기 GDP 주시…연속 금리인상 가늠자",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE45c1FHd29sQVduLXpFZV9IZGVkZ1VKSlI5ZlZfOFBobzNrVWxlRW5PbnNZXzZ0N1V1UnNON2t6aUtoODVILXhDbnlSaEdqSUx6YVBDeFlxVE5TNnAwRkhvWEU3endXT1JOdHkzVWVGTmE?oc=5",
+    "published": "Sun, 19 Jul 2026 04:00:12 GMT",
+    "fetched_at": "2026-07-19 17:00:34",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "채권",
+      "금융",
+      "건설/부동산",
+      "정유/화학",
+      "방산"
+    ],
+    "keywords": [
+      "중동전쟁",
+      "금리인상",
+      "GDP",
+      "채권시장",
+      "지정학적 리스크"
+    ],
+    "reason": "중동 지정학적 긴장 고조와 국내 2분기 GDP 결과에 따라 연속 금리 인상 가능성이 높아져, 채권 시장 전반에 하방 압력을 가하고 금리 민감 자산에 부정적 영향을 미칠 수 있다.",
+    "action_point": "금리 상승에 대비하여 채권 포트폴리오의 듀레이션을 줄이고, 금리 민감 섹터 비중을 축소 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "전쟁에 폭염, 쿠데타설까지…복합위기 이란, \"휴전 틈타 원유 9조원어치 중국 수출\" - v.daum.net",
+    "title_ko": "전쟁에 폭염, 쿠데타설까지…복합위기 이란, \"휴전 틈타 원유 9조원어치 중국 수출\"",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1tZE9lQTNNWE1wMW5TbTNzbWhhT3RTUlJ5MXJTanhjcm03d0RGN3Z4SVBsWkYya0tnQktGSERfQXNuR1FMd1VvLVY1eDV4TUU?oc=5",
+    "published": "Sun, 19 Jul 2026 07:28:09 GMT",
+    "fetched_at": "2026-07-19 17:00:59",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "원자재",
+      "에너지",
+      "석유화학",
+      "항공운송"
+    ],
+    "keywords": [
+      "이란",
+      "원유",
+      "중국",
+      "수출",
+      "유가",
+      "지정학"
+    ],
+    "reason": "이란의 복합 위기에도 불구하고 대규모 원유 수출이 지속되어 글로벌 원유 공급량이 증가, 국제 유가 상승 압력을 완화하는 긍정적 요인으로 작용할 수 있습니다.",
+    "action_point": "국제 유가 상방 압력 완화 가능성을 고려하여 에너지 섹터 비중 조정을 검토하고, 유가 하락 수혜 섹터(항공, 해운)에 대한 관심을 확대하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "중동전쟁만큼 시급한 대미투자… 올 8월 '트럼프 청구서' 날아오나 - 머니투데이 - 머니투데이",
+    "title_ko": "중동전쟁만큼 시급한 대미투자… 올 8월 '트럼프 청구서' 날아오나 - 머니투데이",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1VT3VGQ0dFZ3JjVHZLWDEwQWRiT3N0Zko4UWNabHpLbXhZS1E0TkZPRFYyUGRxN19SRklFQ3AwT0dnZWVVWDBkR2VxLWhtRmcyUFE4eGZjTlBkU0l2QWtmTC1IWG1tTjdNc1lv0gFwQVVfeXFMT185T09BUVJfUGJzQktaeVBVTmlpbm16bFV0Ty0wSktLLWVSR2Jhc1Y1c0tlQ2NFcndobUc3TjdLcFh3RE93WmZhNlFCRmhVNWkwMDlwN0JxWXhveHE3MzJ5YldHV2E2ZTV5Q1Q1bTBpVg?oc=5",
+    "published": "Sun, 19 Jul 2026 05:28:08 GMT",
+    "fetched_at": "2026-07-19 17:01:09",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "수출",
+      "반도체",
+      "자동차",
+      "배터리",
+      "IT부품"
+    ],
+    "keywords": [
+      "트럼프",
+      "미국 대선",
+      "보호무역",
+      "대미투자",
+      "통상압력"
+    ],
+    "reason": "트럼프 재집권 가능성과 함께 미국의 보호무역주의가 강화될 경우, 한국 기업들의 대미 투자 비용 증가와 통상 압력 심화로 국내 수출 중심 산업 전반에 불확실성과 실적 부담이 커질 수 있다.",
+    "action_point": "미국 시장 의존도가 높은 국내 대형 수출주 비중을 재검토하고, 대미 투자 및 통상 압력에 대한 기업별 노출도를 평가하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "title": "“푹 푹 찐다”…폭염에 누적 온열질환자 1000명 돌파, 사망자 3명",
+    "title_ko": "“푹 푹 찐다”…폭염에 누적 온열질환자 1000명 돌파, 사망자 3명",
+    "link": "https://www.mk.co.kr/news/society/12101740",
+    "published": "Sun, 19 Jul 2026 16:57:36 +09:00",
+    "fetched_at": "2026-07-19 17:01:24",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "유틸리티",
+      "가전",
+      "식음료",
+      "농업"
+    ],
+    "keywords": [
+      "폭염",
+      "온열질환",
+      "전력수요",
+      "농작물"
+    ],
+    "reason": "연이은 폭염은 전력 수요를 급증시켜 유틸리티 섹터에 단기 호재로 작용하나, 농작물 생산량 감소로 인한 인플레이션 압력과 일부 산업 생산성 저하 등 거시 경제적 악영향을 미칠 수 있습니다.",
+    "action_point": "유틸리티 및 폭염 수혜 소비재(가전, 식음료) 섹터 비중 확대를 검토하고, 농산물 가격 동향을 주시하십시오."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "Cybersecurity risks posed by over-the-air tech in autos has analysts concerned",
+    "title_ko": "자동차 OTA 기술의 사이버 보안 위험, 애널리스트 우려 제기",
+    "link": "https://www.cnbc.com/2026/07/18/over-the-air-tech-in-vehicles-poses-cybersecurity-risks.html",
+    "published": "Sat, 18 Jul 2026 23:01:01 GMT",
+    "fetched_at": "2026-07-19 17:00:09",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "자동차",
+      "IT 서비스 (사이버 보안 솔루션 관련)"
+    ],
+    "keywords": [
+      "사이버 보안",
+      "OTA 기술",
+      "커넥티드카",
+      "자동차 산업"
+    ],
+    "reason": "자동차 산업의 OTA 기술 의존도 증가는 사이버 공격 위험을 높여 관련 기업의 평판 손상, 재무적 손실 및 규제 강화를 초래할 수 있어 기업 가치에 부정적 영향을 미칩니다.",
+    "action_point": "자동차 섹터 내 OTA 기술 의존도가 높은 기업의 사이버 보안 리스크를 점검하고 비중 조절을 고려하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "최태원 \"영업이익 10% 성과급, 이해관계자 해치면 바꿔야\" - 주간조선",
+    "title_ko": "최태원 \"영업이익 10% 성과급, 이해관계자 해치면 바꿔야\" - 주간조선",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Ka0htOUJFWF8wcVZEdWxyMU9ZSk9ad1ZfUDREM2xfR1Z0OVNJSG9RSWJoenFSLXpYUUljbXlyNU9EMENtZWxNWWh3U2tmNlRwd3lKSE1xSUYyMjNQeUVWUTRwS2E0cWtPMEE?oc=5",
+    "published": "Sun, 19 Jul 2026 04:55:00 GMT",
+    "fetched_at": "2026-07-19 17:00:45",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "대기업",
+      "기업 지배구조"
+    ],
+    "keywords": [
+      "최태원",
+      "성과급",
+      "이해관계자",
+      "기업 지배구조",
+      "SK그룹"
+    ],
+    "reason": "최태원 SK그룹 회장의 발언은 기업의 성과급 정책이 이해관계자에게 미치는 영향과 기업 지배구조의 변화 가능성을 시사합니다. 이는 장기적으로 대기업들의 이익 분배 방식과 투자 방향에 영향을 줄 수 있습니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "Maeil_Business",
+    "title": "\"창원을 한국 청정에너지 수도로 만들 것\"",
+    "title_ko": "창원을 한국 청정에너지 수도로 만들 것",
+    "link": "https://www.mk.co.kr/news/society/12101732",
+    "published": "Sun, 19 Jul 2026 16:52:48 +09:00",
+    "fetched_at": "2026-07-19 17:01:31",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "청정에너지",
+      "재생에너지",
+      "친환경설비",
+      "중공업 (산업전환)"
+    ],
+    "keywords": [
+      "창원",
+      "청정에너지",
+      "탄소중립",
+      "RE100",
+      "산업전환"
+    ],
+    "reason": "창원시의 청정에너지 수도 전환 계획은 국가적 탄소중립 및 RE100 목표 달성을 위한 정부의 강력한 의지를 반영하며, 관련 산업의 투자와 성장을 촉진할 것입니다. 이는 국내 기업의 수출 경쟁력 강화와 장기적인 산업 구조 변화를 유도합니다.",
+    "action_point": "청정에너지 생산, 인프라 구축 및 관련 설비 제조 섹터 기업 비중 확대를 검토하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "title": "[단독]“친환경 농사, 지을수록 손해”…정부, 직불금 최대 3배 인상 검토",
+    "title_ko": "[단독]“친환경 농사, 지을수록 손해”…정부, 직불금 최대 3배 인상 검토",
+    "link": "https://www.mk.co.kr/news/economy/12101730",
+    "published": "Sun, 19 Jul 2026 16:42:10 +09:00",
+    "fetched_at": "2026-07-19 17:01:46",
+    "sentiment": "호재",
+    "importance": 2,
+    "sectors": [
+      "농업",
+      "식품"
+    ],
+    "keywords": [
+      "친환경 농업",
+      "직불금",
+      "정부 정책",
+      "유기농"
+    ],
+    "reason": "정부가 친환경 농업의 낮은 수익성을 개선하고 국가 목표 달성을 위해 직불금을 대폭 인상하는 방안을 검토 중이며, 이는 친환경 농업 분야의 경제성 및 성장을 촉진할 것이다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "Maeil_Business",
+    "title": "“단축근무 신청했더니 발령 내”…육아휴직, 직장인 절반이 못 쓴다",
+    "title_ko": "“단축근무 신청했더니 발령 내”…육아휴직, 직장인 절반이 못 쓴다",
+    "link": "https://www.mk.co.kr/news/society/12101729",
+    "published": "Sun, 19 Jul 2026 16:36:49 +09:00",
+    "fetched_at": "2026-07-19 17:01:56",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "중소기업",
+      "서비스업"
+    ],
+    "keywords": [
+      "육아휴직",
+      "근로시간 단축",
+      "중소기업",
+      "노동시장"
+    ],
+    "reason": "이 기사는 국내 노동시장의 구조적 문제, 특히 중소기업의 육아휴직 활용 어려움을 보여줍니다. 이는 장기적으로 인력 수급 불균형과 생산성 저하에 영향을 미칠 수 있으나, 단기적인 금융시장 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "GoogleNews_Korea",
     "title": "[속보] 강원 폭우에 낙석·고립‥영월에선 어젯밤 40대 낚시객 1명 실종 - MBC 뉴스",
     "title_ko": "[속보] 강원 폭우에 낙석·고립‥영월에선 어젯밤 40대 낚시객 1명 실종 - MBC 뉴스",
@@ -2628,244 +2867,5 @@
     ],
     "reason": "신현송 BIS 경제보좌관이 주식 시장의 시스템 리스크가 제한적이라고 언급하여 금융 시스템 안정성에 대한 긍정적 시그널을 제공했다. 특히 반도체 가격의 중요성을 강조하며 해당 섹터에 대한 관심이 필요함을 시사했다.",
     "action_point": "반도체 섹터의 중장기 투자 매력과 추가 상승 여력을 주시하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "한은 \"중동전쟁 타격 예상보다 적어…고용은 크게 감소\" - v.daum.net",
-    "title_ko": "한은 \"중동전쟁 타격 예상보다 적어…고용은 크게 감소\"",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA5VS1hTWJNVXRKZHNHVXFFaWt5Vm5vVUtvMFp5cXd1aXAwSTFjVjB0Q0JuRHY3WnVWbmdHVjdTMkJONHhqWVVRdnd5U0hxalE?oc=5",
-    "published": "Thu, 16 Jul 2026 06:48:05 GMT",
-    "fetched_at": "2026-07-16 16:18:07",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "금융",
-      "소비재",
-      "유통",
-      "부동산"
-    ],
-    "keywords": [
-      "한은",
-      "고용",
-      "경기둔화",
-      "금리인하",
-      "중동전쟁"
-    ],
-    "reason": "한국은행의 국내 고용시장 약화 진단은 경기 둔화 가능성을 높여 향후 기준금리 인하 압력을 키울 수 있으며, 중동 전쟁의 대외적 충격이 예상보다 적더라도 내수 위축 우려가 커진다.",
-    "action_point": "국내 고용 둔화에 따른 경기 하강 압력과 향후 금리 인하 가능성을 고려하여 장기 채권 비중 확대를 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "\"전쟁 없다\"던 트럼프, 이란서 '영원한 전쟁' 다시 빠질 위험 - 뉴스1",
-    "title_ko": "전쟁 없다\"던 트럼프, 이란서 '영원한 전쟁' 다시 빠질 위험",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9aMHJua0tTV2tFTnRLQTRVZGRqMG1kZ2daZVhOODdoY1oxTjM3N052WFN2djdBZlRSOVJYcml2VnA4SElteGpCLUFjbEZTNWladjNIZ2hKWWo?oc=5",
-    "published": "Thu, 16 Jul 2026 05:52:38 GMT",
-    "fetched_at": "2026-07-16 16:18:17",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "방산",
-      "항공운송",
-      "해운",
-      "금융"
-    ],
-    "keywords": [
-      "트럼프",
-      "이란",
-      "지정학적 리스크",
-      "유가",
-      "중동"
-    ],
-    "reason": "트럼프 전 대통령의 이란 관련 발언은 중동 지정학적 리스크를 재부각시키며 유가 상승 압력을 가하고, 글로벌 경제의 불확실성을 증폭시켜 위험자산 회피 심리를 자극할 수 있습니다.",
-    "action_point": "지정학적 리스크 심화 가능성에 대비하여 달러 등 안전자산 비중을 유지하고 에너지 섹터 투자를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Inside India newsletter: Modi is exporting India's workforce to a world turning against immigration",
-    "title_ko": "인도 뉴스레터: 모디 총리, 반이민 정서 속 인력 수출 가속화",
-    "link": "https://www.cnbc.com/2026/07/15/modi-export-india-workforce-anti-immigration.html",
-    "published": "Wed, 15 Jul 2026 07:58:48 GMT",
-    "fetched_at": "2026-07-16 16:16:55",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "금융(송금 서비스)",
-      "글로벌 서비스",
-      "인도 경제 전반",
-      "노동집약적 산업"
-    ],
-    "keywords": [
-      "인도",
-      "인력 수출",
-      "이민",
-      "노동 시장",
-      "모디",
-      "인구통계학"
-    ],
-    "reason": "인도의 방대한 노동력을 활용한 전략적 인력 수출은 국내 실업률 완화 및 송금액 증가에 기여할 수 있으나, 전 세계적인 반이민 정서와 충돌하며 지정학적 리스크를 내포한다.",
-    "action_point": "인도 관련 투자 포트폴리오 내 인력 송금 및 서비스 수출 관련 기업 비중 재검토."
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "[속보] 단일종목 레버리지 예탁금 1000만→3000만원 강화…현금만 인정",
-    "title_ko": "[속보] 단일종목 레버리지 예탁금 1000만→3000만원 강화…현금만 인정",
-    "link": "https://www.mk.co.kr/news/stock/12100381",
-    "published": "Thu, 16 Jul 2026 16:13:02 +09:00",
-    "fetched_at": "2026-07-16 16:19:06",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "증권업",
-      "중소형주",
-      "테마주"
-    ],
-    "keywords": [
-      "레버리지 규제",
-      "개인 투자심리",
-      "시장 유동성",
-      "소형주"
-    ],
-    "reason": "단일종목 레버리지 예탁금 상향 및 현금 한정 조치는 개인 투자자의 투기적 레버리지 활용을 제한하여 시장 전반의 유동성을 감소시키고, 특히 소형주 및 테마주에 대한 매수 심리를 위축시킬 수 있습니다.",
-    "action_point": "개인 투자자 레버리지 의존도가 높은 소형주 및 테마주 비중 축소를 검토해야 합니다."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "[경제][속보] 규제에 동탄 상승폭 0.7%로 축소...인근 풍선효과도 감지 - YTN",
-    "title_ko": "규제에 동탄 상승폭 0.7%로 축소...인근 풍선효과도 감지",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jOUtpeVU3QU1EcEdJa3o0LXV5V3AxanVRRXZPN0N0aU9heEhpUFF1cDI0RHhBX2JiazR3WkRaRTRpQkhpZ05zaWVocWd4RWFack9Wa1phVWNrUVlXUC1uQ1dVeW1FZk5sMGloRHRFMA?oc=5",
-    "published": "Thu, 16 Jul 2026 05:53:00 GMT",
-    "fetched_at": "2026-07-16 16:17:46",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "부동산",
-      "건설"
-    ],
-    "keywords": [
-      "부동산 규제",
-      "동탄",
-      "풍선효과",
-      "주택시장"
-    ],
-    "reason": "정부 규제 효과로 특정 지역(동탄)의 부동산 가격 상승세가 둔화되나, 인근 지역으로의 풍선효과가 나타나 전체 부동산 시장의 급랭보다는 지역별 차별화 심화를 시사한다.",
-    "action_point": "보유 부동산 포트폴리오의 지역별 규제 민감도를 점검하고, 인근 비규제 지역 투자 기회를 모색."
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "“20만번 막고 966억원 썼다”…LG유플러스, AI 보안 역량 공개",
-    "title_ko": "“20만번 막고 966억원 썼다”…LG유플러스, AI 보안 역량 공개",
-    "link": "https://www.mk.co.kr/news/it/12100387",
-    "published": "Thu, 16 Jul 2026 16:17:05 +09:00",
-    "fetched_at": "2026-07-16 16:18:30",
-    "sentiment": "호재",
-    "importance": 2,
-    "sectors": [
-      "통신",
-      "IT 서비스",
-      "사이버보안"
-    ],
-    "keywords": [
-      "LG유플러스",
-      "정보보호",
-      "AI 보안",
-      "통신",
-      "사이버보안"
-    ],
-    "reason": "LG U+의 AI 기반 정보보호 투자 증가는 통신사의 사이버 보안 역량 강화 및 디지털 전환 가속화를 의미합니다. 이는 장기적으로 기업의 리스크 관리 및 서비스 신뢰도 제고에 긍정적입니다.",
-    "action_point": "사이버보안 솔루션 및 AI 관련 기업의 투자 매력도를 재평가하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "[속보] 단일종목 레버리지 신규상장 잠정 중단…광고도 금지",
-    "title_ko": "[속보] 단일종목 레버리지 신규상장 잠정 중단…광고도 금지",
-    "link": "https://www.mk.co.kr/news/stock/12100386",
-    "published": "Thu, 16 Jul 2026 16:16:55 +09:00",
-    "fetched_at": "2026-07-16 16:18:41",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "금융",
-      "증권"
-    ],
-    "keywords": [
-      "금융규제",
-      "단일종목 레버리지",
-      "투자상품",
-      "투기 억제"
-    ],
-    "reason": "해당 조치는 개별 종목의 과도한 투기를 억제하고 시장 안정성을 높이기 위한 금융 당국의 규제 강화 노력으로 해석됩니다. 이는 특정 고위험 투자 상품의 신규 공급을 제한하는 효과를 가져옵니다.",
-    "action_point": "단일종목 레버리지 상품을 활용한 고위험 투자 전략의 신규 도입을 중단하고 대안을 모색."
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "[속보] 단일종목 레버리지 20주씩만 매매가능…“상품가격 현실화”",
-    "title_ko": "[속보] 단일종목 레버리지 20주씩만 매매가능…“상품가격 현실화”",
-    "link": "https://www.mk.co.kr/news/stock/12100383",
-    "published": "Thu, 16 Jul 2026 16:15:43 +09:00",
-    "fetched_at": "2026-07-16 16:18:54",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "증권",
-      "금융"
-    ],
-    "keywords": [
-      "단일종목 레버리지",
-      "시장 규제",
-      "투기 억제",
-      "주식 시장"
-    ],
-    "reason": "단일종목 레버리지 상품의 매매 한도 제한은 해당 상품을 통한 투기적 매매를 위축시키고, 특정 고위험 종목의 변동성을 완화하여 시장 건전성을 제고하려는 조치입니다.",
-    "action_point": "단일종목 레버리지 상품을 활용한 투자 비중을 축소하고, 해당 상품이 연관된 고위험 종목에 대한 투자 전략을 재검토해야 합니다."
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "강원도, 원주 미래차 지원시설 본격 가동",
-    "title_ko": "강원도, 원주 미래차 지원시설 본격 가동",
-    "link": "https://www.mk.co.kr/news/society/12100374",
-    "published": "Thu, 16 Jul 2026 16:10:28 +09:00",
-    "fetched_at": "2026-07-16 16:19:22",
-    "sentiment": "호재",
-    "importance": 2,
-    "sectors": [
-      "자동차",
-      "모빌리티"
-    ],
-    "keywords": [
-      "강원도",
-      "미래차",
-      "모빌리티",
-      "정부지원",
-      "지역경제"
-    ],
-    "reason": "강원도의 미래차 산업 지원시설 가동은 해당 지역의 미래차 생태계 조성과 관련 기업의 중장기 성장에 긍정적이나, 국내외 거시경제 및 전체 시장에 미칠 직접적 영향은 미미하다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Alibaba and Baidu shares jump in Hong Kong on Apple AI partnership",
-    "title_ko": "애플 AI 파트너십 소식에 홍콩 증시에서 알리바바와 바이두 주가 급등",
-    "link": "https://www.cnbc.com/2026/07/16/alibaba-baidu-shares-jump-apple-ai-partnership-.html",
-    "published": "Thu, 16 Jul 2026 03:17:20 GMT",
-    "fetched_at": "2026-07-16 13:52:13",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "기술",
-      "인공지능",
-      "인터넷 서비스",
-      "반도체"
-    ],
-    "keywords": [
-      "AI",
-      "애플",
-      "알리바바",
-      "바이두",
-      "미중 기술 경쟁",
-      "홍콩 증시"
-    ],
-    "reason": "애플과 중국 빅테크 간 AI 파트너십은 미중 기술 경쟁 심화 속에서도 중국 AI 기업들의 글로벌 경쟁력 확보 가능성을 시사하며 관련 주가에 긍정적으로 작용할 수 있습니다. 동시에 미중 간 AI 주도권 경쟁은 장기적 시장 변동성 요인으로 남습니다.",
-    "action_point": "미중 기술 경쟁 구도 변화에 주목하며, 글로벌 협력 가능성이 있는 중국 AI 관련 대형 기술주의 포트폴리오 편입을 검토."
   }
 ]
