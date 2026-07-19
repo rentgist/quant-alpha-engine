@@ -1,6 +1,55 @@
 [
   {
     "source": "GoogleNews_Korea",
+    "title": "[경제산책] AI 新지정학 시대 전쟁과 경제 - 농민신문",
+    "title_ko": "AI 신지정학 시대의 전쟁과 경제",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LYkpqTUxxT3FhTGxHWTdDWWxaV0dVNG4wU0RJWnNuMFFSMG1GNHJYQ3BhbC1LRnpLMHFOZ3k2N24yUGZDRXV6MXcybDZEekdYWV85OHd6R3dTdw?oc=5",
+    "published": "Sun, 19 Jul 2026 15:00:00 GMT",
+    "fetched_at": "2026-07-20 00:48:03",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "방위산업",
+      "반도체",
+      "기술주",
+      "에너지",
+      "원자재"
+    ],
+    "keywords": [
+      "AI",
+      "지정학",
+      "전쟁",
+      "경제안보",
+      "기술경쟁"
+    ],
+    "reason": "AI 기술 발전이 지정학적 경쟁과 안보 위협을 심화시키며, 이는 글로벌 공급망 재편, 방위산업 투자 증가, 핵심 기술을 둘러싼 국가 간 갈등으로 이어져 경제 전반의 불확실성을 높일 수 있습니다.",
+    "action_point": "AI 기술 경쟁 심화 및 지정학적 리스크 고조에 대비하여 방위산업 및 핵심 AI 기술 보유 기업 비중 확대를 검토하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "title": "“홈플 말고 저희는 영업해요”…임대매장, 전단지 돌리며 생존투쟁",
+    "title_ko": "“홈플 말고 저희는 영업해요”…임대매장, 전단지 돌리며 생존투쟁",
+    "link": "https://www.mk.co.kr/news/business/12102004",
+    "published": "Sun, 19 Jul 2026 23:13:05 +09:00",
+    "fetched_at": "2026-07-20 00:48:14",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "유통",
+      "상업용 부동산",
+      "식품/소비재"
+    ],
+    "keywords": [
+      "홈플러스",
+      "대형마트",
+      "영업정지",
+      "공익채권"
+    ],
+    "reason": "대형마트 홈플러스의 심각한 재무난은 유통업 전반의 구조적 어려움을 시사하며, 협력사 및 상업용 부동산 섹터에 재정적 위험을 가중시킬 수 있습니다.",
+    "action_point": "대형마트 관련 유통 섹터 및 상업용 부동산 비중을 축소하고, 관련 협력사의 신용 위험을 주시하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
     "title": "‘이란 핵 막겠다’ 전쟁해놓고…“미, 사우디 ‘우라늄 농축 허용’ 잠정 합의” - 경향신문",
     "title_ko": "‘이란 핵 막겠다’ 전쟁해놓고…“미, 사우디 ‘우라늄 농축 허용’ 잠정 합의”",
     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJdGpXY2hBclJCdHl1NzlnLV9BVWZJeV9fMHVnMU1vRE1CSF9iTU1QOXl1WnNHdzd3SXc2SVNRRno4VmIzUXltUHZXUm50WDFYOG9LOGxTMV9pd9IBX0FVX3lxTE1Rb1dvSDBRN1haS1Job0h6R0RwV0lUaXFJRW9GWjdESXY1c1BHanVGS0NvZWIzSmZWMEJTNHhKZWJfU05WNTV0WGZBNG5Vak1Wa0RHN0xfaXZTTG9EWFVV?oc=5",
@@ -2822,56 +2871,5 @@
     ],
     "reason": "금융당국의 단일 레버리지 ETF 규제 강화로 고위험 상품에 대한 시장 접근성이 제한되며, 관련 상품을 운용하는 자산운용사 및 증권사의 수익성에 부정적 영향을 미칠 수 있습니다.",
     "action_point": "단일 레버리지 ETF 신규 투자 계획을 보류하고, 포트폴리오 내 고위험 자산 비중을 재검토."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Nvidia unveils new AI model and expands Japan’s physical AI ecosystem",
-    "title_ko": "엔비디아, 새로운 AI 모델 공개 및 일본 내 물리적 AI 생태계 확장",
-    "link": "https://www.cnbc.com/2026/07/16/nvidia-reveals-new-ai-model-and-expands-japans-physical-ai-ecosystem.html",
-    "published": "Thu, 16 Jul 2026 11:21:56 GMT",
-    "fetched_at": "2026-07-16 20:37:54",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "반도체",
-      "인공지능(AI)",
-      "IT기술",
-      "클라우드 서비스"
-    ],
-    "keywords": [
-      "Nvidia",
-      "AI",
-      "일본",
-      "반도체",
-      "기술혁신",
-      "데이터센터"
-    ],
-    "reason": "엔비디아의 신규 AI 모델 공개와 일본 내 생태계 확장은 AI 기술 혁신 지속과 글로벌 AI 인프라 투자 확대를 의미하며, 관련 하드웨어 및 소프트웨어 기업의 성장 동력을 강화할 것입니다.",
-    "action_point": "AI 관련 반도체 및 소프트웨어 기업 포트폴리오 비중 유지 또는 확대 검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "바클레이즈 \"향후 경제지표 예상 상회시 8월 연속 인상 리스크\" - 연합인포맥스",
-    "title_ko": "바클레이즈 \"향후 경제지표 예상 상회시 8월 연속 인상 리스크\" - 연합인포맥스",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5KYzhReXQwbkdaajA4c2U0QjVTU3pCWEQwNVQ1ZmQ4cjkxWHM5TngxOTJsdjVVem5zVko1dzhsbzJnZHJQR0FDd1RJM3lrNHBiMlhQSnBWdGdkbGpFSkZlX3dONDlJWHlCQ3FUR0x5d2HSAXRBVV95cUxQSXdUOE9POHJfajFjeHNCODVaQzA2a09QZ0tMM2ZjMmtQUFU5eTh2ZzlOZWphNlI1eXBlcjlNNXBmZ2EzeGFFTnpJUFNQNWJxd3JveTE5YjltTTZUV21KTjZjcnNvdEM1VDlpTElmaGZMUUpTNw?oc=5",
-    "published": "Thu, 16 Jul 2026 11:04:04 GMT",
-    "fetched_at": "2026-07-16 20:38:03",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "성장주",
-      "부동산",
-      "건설",
-      "고부채 기업"
-    ],
-    "keywords": [
-      "바클레이즈",
-      "금리인상",
-      "경제지표",
-      "통화정책",
-      "리스크"
-    ],
-    "reason": "향후 경제지표가 예상치를 상회할 경우 중앙은행의 연속적인 금리 인상 가능성이 제기되며, 이는 긴축적인 통화정책 장기화로 이어져 주식 및 부동산 등 위험자산의 투자심리를 위축시킬 수 있습니다.",
-    "action_point": "금리 인상에 민감한 성장주 및 고부채 기업의 투자 비중 축소를 검토하고, 안정적인 현금 흐름을 가진 가치주 비중을 확대하라."
   }
 ]
