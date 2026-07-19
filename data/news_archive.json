@@ -1,6 +1,77 @@
 [
   {
     "source": "GoogleNews_Korea",
+    "title": "[속보] 인천 서해구, 쿠팡물류센터 붕괴 가능성에 인근 주민 대피령 - KBS 뉴스",
+    "title_ko": "[속보] 인천 서해구, 쿠팡물류센터 붕괴 가능성에 인근 주민 대피령 - KBS 뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KN25ackpmdmJldUNjRldtSU40b3ROUTFhcVhmX1JVRExvTDJ1QWgtSk8zMzVQcXRMRGdEWWh3SmtXSTFhWDhEZWdvUlpoZGZtMFotRGZKOHR4YUk?oc=5",
+    "published": "Sun, 19 Jul 2026 13:58:00 GMT",
+    "fetched_at": "2026-07-20 02:50:52",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "전자상거래",
+      "물류",
+      "부동산(물류센터)"
+    ],
+    "keywords": [
+      "인천",
+      "쿠팡",
+      "물류센터",
+      "붕괴",
+      "대피령"
+    ],
+    "reason": "쿠팡의 주요 물류센터 운영에 차질 가능성이 제기되며, 회사 재무 및 사업 연속성에 단기적인 불확실성을 가중시킨다. 이는 대규모 물류 인프라의 안전 관리에 대한 시장의 우려를 높일 수 있다.",
+    "action_point": "쿠팡 직접 투자 또는 물류 관련 부동산 자산 보유자는 해당 자산의 잠재적 리스크를 점검."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "Universal and Christopher Nolan's 'The Odyssey' sails to $124.5 million opening",
+    "title_ko": "유니버설과 크리스토퍼 놀란의 '오디세이', 개봉 주말 1억 2,450만 달러 기록",
+    "link": "https://www.cnbc.com/2026/07/19/the-odyssey-box-office-christopher-nolan-and-universal-opening-weekend.html",
+    "published": "Sun, 19 Jul 2026 16:28:53 GMT",
+    "fetched_at": "2026-07-20 02:50:42",
+    "sentiment": "호재",
+    "importance": 2,
+    "sectors": [
+      "미디어/엔터테인먼트",
+      "영화"
+    ],
+    "keywords": [
+      "크리스토퍼 놀란",
+      "영화 흥행",
+      "박스오피스",
+      "IMAX",
+      "엔터테인먼트"
+    ],
+    "reason": "크리스토퍼 놀란 감독의 신작이 높은 흥행 수익을 기록하며 팬데믹 이후 영화 산업 회복에 긍정적인 신호를 제공한다. 이는 미디어 및 엔터테인먼트 섹터에 대한 투자 심리를 개선할 수 있다.",
+    "action_point": "글로벌 미디어/엔터테인먼트 섹터 내 영화 관련 기업의 투자 비중 확대를 검토하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "title": "연어 부산물의 화려한 변신…콜라겐·PDRN으로 세계시장 공략 [강원대 앵커사업단]",
+    "title_ko": "연어 부산물의 화려한 변신…콜라겐·PDRN으로 세계시장 공략 [강원대 앵커사업단]",
+    "link": "https://www.mk.co.kr/news/society/12100269",
+    "published": "Mon, 20 Jul 2026 00:10:00 +09:00",
+    "fetched_at": "2026-07-20 02:51:01",
+    "sentiment": "호재",
+    "importance": 2,
+    "sectors": [
+      "바이오",
+      "제약",
+      "수산물 가공"
+    ],
+    "keywords": [
+      "연어 부산물",
+      "콜라겐",
+      "PDRN",
+      "바이오산업",
+      "신성바이오팜"
+    ],
+    "reason": "이 뉴스는 특정 바이오 기업이 버려지던 수산물 부산물을 고부가가치 제품으로 전환하여 신규 시장을 개척하는 긍정적인 사례를 보여줍니다. 이는 바이오 섹터 내 자원 효율성 및 친환경 기술 혁신의 잠재력을 시사합니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "GoogleNews_Korea",
     "title": "[속보] 인천 서해구, 인근 대피령…\"쿠팡물류센터 붕괴 가능성\" - 연합뉴스TV",
     "title_ko": "인천 서해구, 인근 대피령…'쿠팡물류센터 붕괴 가능성'",
     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XZkVBczltYm4teXFpNUlYUVdZSl9XTlpiUGNYek12dkp3ckJST0hBZkN6cnRqdElRS3dJNk55MkpXTE1XVnhJMEE0OVFLdExpaXhaZEY1RUx3Z2lXdlh1UXl4Xy1PeXc?oc=5",
@@ -2800,77 +2871,6 @@
       "TSMC"
     ],
     "reason": "이 기사는 특정 개별 주식들의 장중 변동을 알리는 것으로, 전체 시장이나 거시 경제에 미치는 직접적인 영향은 제한적이다. 각 기업의 개별 이슈에 따른 움직임으로 해석된다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_Finance",
-    "title": "Stocks making the biggest moves premarket: UnitedHealth, TSMC, GE Aerospace, J.B. Hunt & more",
-    "title_ko": "장전 가장 큰 움직임을 보이는 주식: 유나이티드헬스, TSMC, GE 에어로스페이스, J.B. 헌트 외",
-    "link": "https://www.cnbc.com/2026/07/16/stocks-making-the-biggest-moves-premarket-.html",
-    "published": "Thu, 16 Jul 2026 12:00:04 GMT",
-    "fetched_at": "2026-07-17 02:04:27",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "헬스케어",
-      "기술",
-      "산업재",
-      "운송"
-    ],
-    "keywords": [
-      "장전 거래",
-      "개별 주식",
-      "유나이티드헬스",
-      "TSMC",
-      "GE 에어로스페이스",
-      "J.B. 헌트"
-    ],
-    "reason": "이 기사는 장전 개별 주식의 움직임을 보고하는 것으로, 구체적인 상승 또는 하락 요인을 제공하지 않아 시장 또는 거시 경제 전반에 미치는 직접적인 영향은 제한적입니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "title": "As prediction markets boom, questions arise over who will be the watchdog",
-    "title_ko": "예측 시장 급성장, 감독 기관은 누가 될 것인가?",
-    "link": "https://www.cnbc.com/2026/07/16/the-sec-may-get-involved-as-prediction-market-bring-new-contracts.html",
-    "published": "Thu, 16 Jul 2026 16:57:33 GMT",
-    "fetched_at": "2026-07-17 02:04:36",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "핀테크",
-      "금융 서비스"
-    ],
-    "keywords": [
-      "예측 시장",
-      "규제",
-      "감독 기관"
-    ],
-    "reason": "예측 시장의 성장과 새로운 계약 유형 도입에 따른 규제 감독 문제는 해당 시장 참여자들에게 영향을 미치지만, 광범위한 자산 시장의 거시적 흐름에는 즉각적인 영향이 제한적입니다. 이는 특정 금융 시장의 구조적 발전에 대한 논의입니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_Finance",
-    "title": "Short sellers load up against SpaceX as stock retreats back to IPO price",
-    "title_ko": "스페이스X 주가, IPO 가격으로 회귀하며 공매도 세력 증가",
-    "link": "https://www.cnbc.com/2026/07/16/short-sellers-load-up-against-spacex-as-stock-retreats-back-to-ipo-price.html",
-    "published": "Thu, 16 Jul 2026 14:41:30 GMT",
-    "fetched_at": "2026-07-17 00:26:58",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "우주/항공",
-      "기술",
-      "벤처캐피탈"
-    ],
-    "keywords": [
-      "스페이스X",
-      "공매도",
-      "사모시장",
-      "기술주",
-      "밸류에이션"
-    ],
-    "reason": "스페이스X에 대한 공매도 증가는 사모시장 기술 기업의 고평가 논란 및 투자 심리 위축을 반영하며, 이는 비상장 기술 기업 전반의 밸류에이션 하락 압력으로 이어질 수 있습니다.",
     "action_point": "해당 없음"
   }
 ]
