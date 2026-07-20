@@ -1,6 +1,110 @@
 [
   {
     "source": "GoogleNews_Korea",
+    "title": "[뉴욕증시] 이란 전쟁 장기화 우려에 전강후약…하락 마감 - 연합인포맥스",
+    "title_ko": "[뉴욕증시] 이란 전쟁 장기화 우려에 전강후약…하락 마감 - 연합인포맥스",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9LV19HWWNPQnNteTliUHN4c1hZRnNpSi0xV24xQ180YW5lZkhZbzlFV0lka1Z4WTluQ2d0bGQ0NlhqRkpzSG40TjlWbW5Wb0d6d3pneGdhVUFOLU1ZSHlCZnoteEZWQlVLRl9fSFcwc1g?oc=5",
+    "published": "Mon, 20 Jul 2026 20:59:15 GMT",
+    "fetched_at": "2026-07-21 07:47:18",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "에너지",
+      "방산",
+      "항공",
+      "해운",
+      "반도체",
+      "기술주"
+    ],
+    "keywords": [
+      "뉴욕증시",
+      "이란",
+      "전쟁",
+      "지정학적 리스크",
+      "유가",
+      "안전자산"
+    ],
+    "reason": "이란 전쟁 장기화 우려는 중동 정세 불안을 고조시켜 유가 상승 및 공급망 교란 가능성을 높이고, 글로벌 증시의 전반적인 위험회피 심리를 확대시킬 악재입니다.",
+    "action_point": "글로벌 지정학적 리스크 증대에 대비하여 포트폴리오 내 위험자산 비중 축소를 검토하고, 유가 상승 및 방산 관련 섹터에 대한 관심도를 높여라."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "Trump says Netanyahu won't be arrested in New York, pushing back on Mamdani",
+    "title_ko": "트럼프, 네타냐후 뉴욕에서 체포되지 않을 것이라고 밝히며 맘다니에 반박",
+    "link": "https://www.cnbc.com/2026/07/20/trump-netanyahu-arrest-mamdani-new-york-israel.html",
+    "published": "Mon, 20 Jul 2026 21:50:17 GMT",
+    "fetched_at": "2026-07-21 07:47:10",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "방산"
+    ],
+    "keywords": [
+      "트럼프",
+      "네타냐후",
+      "국제형사재판소",
+      "이스라엘-하마스 전쟁",
+      "지정학적 리스크"
+    ],
+    "reason": "국제형사재판소의 네타냐후 체포영장 발부는 중동 지역의 지정학적 불안정성을 고조시킨다. 트럼프의 발언이 미국 내 즉각적인 체포 가능성을 낮출 수는 있으나, 근본적인 정치적 갈등과 불확실성을 해소하지 못해 에너지 가격 변동성 확대 및 안전자산 선호 심리를 자극할 수 있다.",
+    "action_point": "중동 지정학적 리스크 심화 가능성에 대비하여 에너지 및 방산 섹터 비중 확대를 고려하고, 안전자산(금, 달러) 비중을 유지하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "이란 “미 전투기 2대 파괴” 영상 공개…이란 전쟁 새 전장 된 요르단 - 중앙일보",
+    "title_ko": "이란 “미 전투기 2대 파괴” 영상 공개…이란 전쟁 새 전장 된 요르단 - 중앙일보",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBEY3lLYzlFcHVnYllqZS1tZzZLSGU3bjI2VWZMa0xuSWx2M3RNSm5HRUpVeHplWS1lSVVqMVNxQ1cza1NGT05Eb281N2xNSWlHTFcwWW53?oc=5",
+    "published": "Mon, 20 Jul 2026 09:10:28 GMT",
+    "fetched_at": "2026-07-21 07:47:25",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "방산",
+      "원자재",
+      "해운",
+      "항공"
+    ],
+    "keywords": [
+      "이란",
+      "미국",
+      "요르단",
+      "중동",
+      "지정학",
+      "유가",
+      "전쟁"
+    ],
+    "reason": "미국과 이란 간의 직접적인 충돌 가능성을 시사하며 중동 지역의 지정학적 리스크가 급격히 고조될 수 있음을 나타낸다. 이는 국제 유가 상승 압력과 글로벌 시장의 불확실성 증대로 이어질 것이다.",
+    "action_point": "유가 상승 압력에 대비하여 에너지 관련 자산 비중 확대를 고려하고, 지정학적 위험 헤지를 위한 안전 자산 편입을 검토하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "title": "AMD, 엔비디아에 정면승부…MS도 첫 AI 랙 ‘헬리오스’ 출시",
+    "title_ko": "AMD, 엔비디아에 정면승부…MS도 첫 AI 랙 ‘헬리오스’ 출시",
+    "link": "https://www.mk.co.kr/news/it/12102950",
+    "published": "Tue, 21 Jul 2026 07:37:04 +09:00",
+    "fetched_at": "2026-07-21 07:47:35",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "반도체",
+      "클라우드 컴퓨팅",
+      "서버/하드웨어"
+    ],
+    "keywords": [
+      "AMD",
+      "엔비디아",
+      "마이크로소프트",
+      "AI 반도체",
+      "AI 서버",
+      "AI 추론"
+    ],
+    "reason": "AI 하드웨어 시장 내 경쟁 심화와 마이크로소프트의 자체 AI 인프라 투자 확대를 보여주는 뉴스입니다. 이는 AI 산업의 지속적인 성장을 확인하고 AI 반도체 및 서버 수요의 다변화를 시사합니다.",
+    "action_point": "AI 밸류체인 내 엔비디아 외 반도체 기업 및 AI 인프라 구축 관련 기업 비중 확대를 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
     "title": "노벨 경제학 수상자도 걱정 \"한국 경제 최대 장애물은 서울 집값\" - 조선일보",
     "title_ko": "노벨 경제학 수상자도 걱정 \"한국 경제 최대 장애물은 서울 집값\"",
     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPN3JRMEhHYWFLRmZ2aXZ5cFVLRFEtX3FxYlUwTFlKR2tCb20yZ2pHcjRJVDFaeUJTZm53c2YxbGlPdTFkQkx4ZEF1em5KYk02R1Q0dXl3ZE1XaEg3R2VyVjlJSWMxOXBIdWg2MVVmTmhnbTdPM1BEMERLUkczWF9udw?oc=5",
@@ -2780,106 +2884,5 @@
     ],
     "reason": "중국 내 은행 및 소매업체들이 수십억 달러 규모의 사기 피해를 입고 있어 해당 기업들의 수익성 및 주가에 부정적 영향을 미칠 수 있으며, 관련 투자자들의 신뢰 하락을 초래할 수 있습니다.",
     "action_point": "중국 및 신흥국 시장의 금융/소매 섹터 투자 시, 해당 기업들의 보안 시스템 및 내부 통제 역량 점검을 강화해야 합니다."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "이란 전쟁에 건설업계 해외 핵심 수주처 '중동'서 '북미'로 이동 - 더구루",
-    "title_ko": "이란 전쟁에 건설업계 해외 핵심 수주처 '중동'서 '북미'로 이동",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1Xa1pMZ3REaVg5VXVsWFlqa2ZWYjJmbkxHTXpHVXo3NzJ2WWhBdDhhNXpoWktZaWp5b2JhLV9JY3F5S2ozMThzYmhzYmlBR0pLMGM3aENRSm5EaEl2RjFKbkNaTQ?oc=5",
-    "published": "Fri, 17 Jul 2026 15:00:56 GMT",
-    "fetched_at": "2026-07-18 02:01:36",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "건설업",
-      "건설 장비"
-    ],
-    "keywords": [
-      "건설업",
-      "해외 수주",
-      "중동",
-      "북미",
-      "지정학적 리스크",
-      "포트폴리오 다변화"
-    ],
-    "reason": "이란 전쟁으로 중동지역 지정학적 리스크가 고조됨에 따라, 국내 건설업계의 해외 수주 전략이 중동에서 북미로 이동하는 추세이다. 이는 건설사들의 해외 포트폴리오 재편을 가속화하며, 북미 시장에서의 경쟁 심화를 예고한다.",
-    "action_point": "북미 시장 진출 역량이 검증된 건설사들의 장기 성장 가능성 주시."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Import prices post surprise gain as costs of goods from China hit highest since 2008",
-    "title_ko": "수입 물가 예상 밖 상승, 중국산 제품 비용 2008년 이후 최고치 기록",
-    "link": "https://www.cnbc.com/2026/07/17/import-prices-post-surprise-gain-as-costs-of-goods-from-china-hit-highest-since-2008.html",
-    "published": "Fri, 17 Jul 2026 14:13:49 GMT",
-    "fetched_at": "2026-07-18 00:06:49",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "소비재",
-      "산업재",
-      "제조업",
-      "소매업"
-    ],
-    "keywords": [
-      "수입 물가",
-      "인플레이션",
-      "중국",
-      "공급망",
-      "생산 비용"
-    ],
-    "reason": "에너지 가격 하락에도 불구하고 전체 수입 물가가 예상치를 상회하며 상승했다는 것은 인플레이션 압력이 광범위하고 지속적이라는 강력한 신호다. 이는 중앙은행의 긴축 기조 장기화 가능성을 높여 금융시장 전반에 부정적 영향을 미칠 수 있다.",
-    "action_point": "고금리 장기화 가능성에 대비하여 금리 민감 자산 비중을 축소하고 인플레이션 헤지 자산을 고려하라."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Apple, Nvidia vie for title of world's most valuable company",
-    "title_ko": "애플과 엔비디아, 세계에서 가장 가치 있는 기업 타이틀 놓고 경쟁",
-    "link": "https://www.cnbc.com/2026/07/17/apple-nvidia-aapl-nvda-market-cap.html",
-    "published": "Fri, 17 Jul 2026 14:43:28 GMT",
-    "fetched_at": "2026-07-18 00:07:09",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "반도체",
-      "클라우드 컴퓨팅",
-      "데이터 센터",
-      "소프트웨어/IT 서비스"
-    ],
-    "keywords": [
-      "애플",
-      "엔비디아",
-      "AI",
-      "기술주",
-      "시장 리더십",
-      "2026년",
-      "AI 인프라"
-    ],
-    "reason": "이 기사는 2026년에 엔비디아의 실적 부진 가능성과 함께 월스트리트의 투자 초점이 AI 칩 제조사에서 AI 인프라 구축 관련 기업으로 이동할 것임을 시사하며, AI 산업 내 가치 재평가 가능성을 보여준다.",
-    "action_point": "AI 관련 포트폴리오 내에서 AI 인프라 구축 및 서비스 제공 기업 비중 확대를 검토하고, 개별 반도체 기업에 대한 선별적 접근을 유지하라."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Amazon's Zoox issues software recall after robotaxi drove into heavy smoke",
-    "title_ko": "아마존 조스, 로보택시 짙은 연기 속으로 진입 후 소프트웨어 리콜 조치",
-    "link": "https://www.cnbc.com/2026/07/17/amazon-zoox-recalls-robotaxi-smoke.html",
-    "published": "Fri, 17 Jul 2026 14:42:04 GMT",
-    "fetched_at": "2026-07-18 00:06:56",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "자율주행",
-      "소프트웨어",
-      "전기차"
-    ],
-    "keywords": [
-      "아마존",
-      "조스",
-      "로보택시",
-      "자율주행",
-      "소프트웨어 리콜",
-      "안전 문제"
-    ],
-    "reason": "이번 사고와 리콜은 자율주행 기술의 안전성 및 상용화 과정에 여전히 높은 불확실성이 존재함을 보여줍니다. 이는 자율주행 섹터 전반에 대한 투자 심리를 위축시키고 규제 강화 가능성을 높일 수 있습니다.",
-    "action_point": "자율주행 기술 상용화에 대한 단기적 기대감을 조정하고 관련 섹터 투자 비중을 재검토."
   }
 ]
