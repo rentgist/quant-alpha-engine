@@ -1,5 +1,269 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "title": "이란 “미, ’우라늄농축 금지’ 요구 거부되자 전쟁 오판“ - 연합뉴스TV",
+    "title_ko": "이란 “미, ’우라늄농축 금지’ 요구 거부되자 전쟁 오판“",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmcndjaUtTZF8tb2lodWVkdTdQWHVsYkw4bVRockF2S0xmQXhCMkNMeGE5WGlNRmRYX1dpSUw1dnpHVlNNN1pnZ0NHZk9QQmZPS29GcGRlcXJpRVFsRmZ2ZEtGSVg5Tzg?oc=5",
+    "published": "Mon, 20 Jul 2026 06:49:00 GMT",
+    "fetched_at": "2026-07-20 21:10:56",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "에너지",
+      "방산"
+    ],
+    "keywords": [
+      "이란",
+      "미국",
+      "우라늄 농축",
+      "전쟁",
+      "중동 지정학",
+      "유가"
+    ],
+    "reason": "이란의 우라늄 농축과 미국과의 갈등 심화는 중동 지역의 지정학적 불안정성을 고조시키며, 이는 유가 상승 압력으로 작용하고 글로벌 투자 심리를 위축시킬 수 있습니다. 특히 호르무즈 해협 관련 리스크가 부각될 수 있습니다.",
+    "action_point": "중동 지정학적 리스크 고조에 따라 유가 관련 에너지 자산 비중 확대를 검토하고 방산주를 주시하십시오."
+  },
+  {
+    "source": "CNBC_Finance",
+    "title": "China's car market heads for worst year since 2021 as sales plunge 20%",
+    "title_ko": "중국 자동차 시장, 판매 20% 급락으로 2021년 이후 최악의 해 전망",
+    "link": "https://www.cnbc.com/2026/07/20/china-automotive-car-worst-year-sales-fall-20percent.html",
+    "published": "Mon, 20 Jul 2026 08:43:40 GMT",
+    "fetched_at": "2026-07-20 21:09:43",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "자동차",
+      "자동차 부품",
+      "배터리",
+      "철강",
+      "비철금속"
+    ],
+    "keywords": [
+      "중국 경제",
+      "자동차 판매",
+      "소비 위축",
+      "글로벌 공급망"
+    ],
+    "reason": "중국 자동차 판매 급감은 전반적인 중국 소비 위축을 반영하며, 글로벌 자동차 제조업체 및 관련 부품, 소재 산업에 부정적 영향을 미칠 것입니다. 이는 중국 경제 둔화 압력을 가중시키고 글로벌 수요 불확실성을 높입니다.",
+    "action_point": "중국 시장 의존도가 높은 완성차 및 자동차 부품 섹터 비중 축소를 검토."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "UK's Andy Burnham becomes PM as Trump slams Britain as 'Poverty Stricken Disaster'",
+    "title_ko": "영국의 앤디 번햄 총리 취임, 트럼프는 영국을 '빈곤에 찌든 재앙'으로 맹비난",
+    "link": "https://www.cnbc.com/2026/07/20/uk-prime-minister-burnham-trump-poverty-stricken-disaster.html",
+    "published": "Mon, 20 Jul 2026 12:08:34 GMT",
+    "fetched_at": "2026-07-20 21:09:53",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "금융",
+      "영국 관련 투자 자산",
+      "부동산",
+      "유틸리티"
+    ],
+    "keywords": [
+      "영국 정치",
+      "좌파 정책",
+      "채권 시장",
+      "파운드화",
+      "지정학"
+    ],
+    "reason": "앤디 번햄의 좌파 성향 총리 취임은 영국 채권 시장에 불안을 야기하며, 향후 확장적 재정 정책 및 기업 규제 강화 가능성을 시사한다. 트럼프의 비판은 영국의 대외 신뢰도에 부정적 영향을 미칠 수 있다.",
+    "action_point": "영국 국채 및 영국 관련 자산 비중 축소를 검토하고, 파운드화 약세 가능성에 대비하라."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "From 'Super El Niño' to Europe’s extreme heatwave: How this year's weather shocks are rattling commodity markets",
+    "title_ko": "올해의 기상 이변, 원자재 시장을 뒤흔들다: '슈퍼 엘니뇨'에서 유럽의 극심한 폭염까지",
+    "link": "https://www.cnbc.com/2026/07/20/from-super-el-nio-to-europes-heatwave-how-to-trade-extreme-weather.html",
+    "published": "Mon, 20 Jul 2026 05:54:14 GMT",
+    "fetched_at": "2026-07-20 21:10:19",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "농업",
+      "에너지",
+      "산업재",
+      "소비재"
+    ],
+    "keywords": [
+      "엘니뇨",
+      "기상 이변",
+      "기후 변화",
+      "원자재 시장",
+      "인플레이션"
+    ],
+    "reason": "글로벌 기상 이변이 농산물, 에너지 등 원자재 공급에 불안정성을 가중시켜 가격 변동성 확대 및 인플레이션 압력으로 작용할 수 있으며, 이는 시장이 과소평가하고 있는 리스크입니다.",
+    "action_point": "원자재 시장 변동성 확대를 감안, 인플레이션 헤지 자산 편입을 검토하고 원자재 의존 기업 투자에 신중해야 합니다."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "빚으로 쌓은 성, 한국 경제의 주식과 주택 거품 위험 - 세상을 바꾸는 시민언론 민들레",
+    "title_ko": "빚으로 쌓은 성, 한국 경제의 주식과 주택 거품 위험",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9lYzYtV05hcEJlZDJ0b25iM0lfYnBSZ1UxSUs2UXVGOTRHMkRmR1pxcW82R1VXSFlNYTZtLTVscDYtbVdGanU4X0JRUTJZWjVFeGY1VzRQaEhsX0ZCZExWV29MUlpqOEVJN3M4Uw?oc=5",
+    "published": "Sun, 19 Jul 2026 23:00:00 GMT",
+    "fetched_at": "2026-07-20 21:10:46",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "부동산",
+      "금융",
+      "건설",
+      "증권"
+    ],
+    "keywords": [
+      "한국 경제",
+      "부채",
+      "주식 거품",
+      "부동산 거품",
+      "금리 인상"
+    ],
+    "reason": "한국 경제의 주식 및 주택 시장에 과도한 부채 기반의 거품 위험이 존재함을 경고하며, 이는 향후 금리 인상 또는 경제 충격 시 자산 가격 조정 및 금융 시스템 불안정으로 이어질 수 있습니다.",
+    "action_point": "부동산 및 고부채 기업 관련 자산에 대한 포트폴리오 비중을 점검하고, 방어적 자산 편입을 고려하십시오."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "이란전쟁 새 화약고 된 요르단…친미 행보에 보복 표적으로 - 연합뉴스",
+    "title_ko": "이란전쟁 새 화약고 된 요르단…친미 행보에 보복 표적으로",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE02Z0Y1bjhvNWxjN1lmRXN4WkI1ZnF1SXpWT0NsRWtNSmZVcVpxMGg1Tzd5ZWktOXZKTDNtMDRuTXBwNHNjMG1Bdl9Ca1ZmeHNZWk1XM0RrWTB5eknSAWBBVV95cUxPOGs3bnAwdnNTa2NFckN5c2c2dnJHdFFxN1dueHA2Wkh4WWNmZEdEbERyRU9PRFZPSkVLTmdYNkNtcW0xSXZvcnNlTTUyX0hTNTdZTGh3ZnVxbmxXY3U4aDc?oc=5",
+    "published": "Mon, 20 Jul 2026 07:28:28 GMT",
+    "fetched_at": "2026-07-20 21:11:14",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "방산",
+      "해운"
+    ],
+    "keywords": [
+      "지정학적 리스크",
+      "중동",
+      "유가",
+      "이란",
+      "요르단"
+    ],
+    "reason": "요르단이 이란과의 분쟁에 휘말릴 가능성이 커지면서 중동 지역의 지정학적 리스크가 고조되고, 이는 국제 유가 상승 압력과 함께 전반적인 투자심리 위축으로 이어질 수 있다.",
+    "action_point": "중동 지정학적 리스크 심화에 대비하여 안전자산(달러, 금) 보유를 강화하고 에너지 섹터 투자 기회를 모색하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "title": "美국무, 호르무즈 ‘보호세’ 거론…“최소한의 지원이라도 해야”",
+    "title_ko": "美국무, 호르무즈 ‘보호세’ 거론…“최소한의 지원이라도 해야”",
+    "link": "https://www.mk.co.kr/news/world/12102773",
+    "published": "Mon, 20 Jul 2026 20:24:02 +09:00",
+    "fetched_at": "2026-07-20 21:11:30",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "원유/에너지",
+      "해운",
+      "정유/화학"
+    ],
+    "keywords": [
+      "호르무즈 해협",
+      "보호세",
+      "유가",
+      "지정학적 리스크",
+      "미국 외교 정책"
+    ],
+    "reason": "미국이 호르무즈 해협 안보 비용 분담을 요구하며 유조선 운항 비용 상승 가능성이 제기되어 국제 유가에 상방 압력으로 작용할 수 있습니다. 이는 에너지 수입국인 한국에 원가 부담을 가중시키고 글로벌 교역 환경의 불확실성을 높입니다.",
+    "action_point": "유가 상승에 민감한 국내 에너지 의존 기업 및 해운 섹터 비중 축소 검토"
+  },
+  {
+    "source": "CNBC_World",
+    "title": "Bezos backs CuspAI as startup teams up with Nvidia to hunt for chipmaking materials",
+    "title_ko": "베이조스, 칩 제조 소재 탐색 위해 엔비디아와 협력하는 스타트업 CuspAI에 투자",
+    "link": "https://www.cnbc.com/2026/07/20/bezos-cuspai-new-chip-materials-nvidia.html",
+    "published": "Mon, 20 Jul 2026 09:58:05 GMT",
+    "fetched_at": "2026-07-20 21:10:00",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "반도체",
+      "인공지능",
+      "신소재"
+    ],
+    "keywords": [
+      "AI",
+      "반도체 소재",
+      "엔비디아",
+      "제프 베이조스"
+    ],
+    "reason": "AI가 물리적 세계 문제 해결에 적용되며 반도체 제조 효율성 증대 가능성을 제시, 장기적으로 반도체 및 기술 섹터의 혁신과 성장을 가속화할 전망이다.",
+    "action_point": "인공지능 및 반도체 섹터의 장기 성장 전망을 긍정적으로 보고 관련 기술 기업에 대한 투자 비중 확대를 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "구윤철 1년, 쪼그라든 재경부…희미해진 ‘경제 컨트롤타워’ - 경향신문",
+    "title_ko": "구윤철 1년, 쪼그라든 재경부…희미해진 ‘경제 컨트롤타워’",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xMkZKTWZXT2JtaTNXRlppRTZrUVlIc3NzdkpKb2g0aU45eWFLUHJXRWE1RThacDlXMmMwNDhMa1NsVTY2N2ZYWllvUENVS2ZZaDRzWDVjQjVaZ9IBX0FVX3lxTE1EN09qMjI1UUtsRnNtM0k1VV9xX19CdENzek9lWW1wc1VQZzI2N0xNYWhxb3ZzUU9jbVVUZm1BN1lSQXVUSFV6Ml93NjcwLWc0ZXJPOFc1TWQ3bU5PLUNF?oc=5",
+    "published": "Mon, 20 Jul 2026 11:55:00 GMT",
+    "fetched_at": "2026-07-20 21:10:38",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "국내 경제",
+      "정책 관련 산업"
+    ],
+    "keywords": [
+      "재경부",
+      "경제 정책",
+      "정부 역량",
+      "컨트롤타워"
+    ],
+    "reason": "경제 정책 컨트롤타워의 약화는 정부의 일관된 경제 대응 능력 저하를 의미하며, 이는 국내 경제 불확실성을 증대시키고 기업 활동 및 투자 심리에 부정적 영향을 미칠 수 있습니다.",
+    "action_point": "국내 정책 불확실성 증가에 대비하여 포트폴리오의 방어적 자산 비중 확대를 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "정부, 2026년 하반기 경제성장전략 발표 - shinkim.com",
+    "title_ko": "정부, 2026년 하반기 경제성장전략 발표",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1MR24xb2NuMFR3UWl4QVVsczVYUEZaUV94TWxEUFBleERKMTJ6RUdRLUxncW0zQzQ0LUY1a0xsVzdxRDJnaVN3OFlrN3d1ellTYTdkMl9IaDdTczVCZEE?oc=5",
+    "published": "Mon, 20 Jul 2026 08:00:54 GMT",
+    "fetched_at": "2026-07-20 21:11:05",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "경제 전반",
+      "정책 수혜 예상 섹터"
+    ],
+    "keywords": [
+      "경제성장전략",
+      "정부정책",
+      "장기전략",
+      "대한민국 경제"
+    ],
+    "reason": "정부가 2026년 하반기를 목표로 하는 장기 경제성장 전략을 발표한다는 소식으로, 이는 향후 한국 경제의 정책 방향성을 제시하는 신호가 될 수 있습니다. 당장 시장에 미치는 영향은 제한적이지만, 미래 성장 동력 확보에 대한 정부의 의지를 보여줍니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "Maeil_Business",
+    "title": "[속보] 인천 쿠팡물류센터 화재 61시간 만에 초진",
+    "title_ko": "[속보] 인천 쿠팡물류센터 화재 61시간 만에 초진",
+    "link": "https://www.mk.co.kr/news/society/12102767",
+    "published": "Mon, 20 Jul 2026 20:07:46 +09:00",
+    "fetched_at": "2026-07-20 21:11:39",
+    "sentiment": "악재",
+    "importance": 2,
+    "sectors": [
+      "이커머스",
+      "물류",
+      "유통",
+      "보험"
+    ],
+    "keywords": [
+      "쿠팡",
+      "물류센터",
+      "화재",
+      "공급망",
+      "인천"
+    ],
+    "reason": "쿠팡의 주요 물류센터 화재는 단기적으로 쿠팡의 물류 및 유통망에 차질을 빚어 매출 감소와 추가 비용 발생으로 이어질 수 있으며, 이는 관련 물류 및 이커머스 섹터에 부정적 심리로 작용할 수 있습니다.",
+    "action_point": "쿠팡 관련 익스포저 점검 및 물류 섹터 내 개별 기업의 공급망 리스크를 재평가하십시오."
+  },
+  {
     "source": "CNBC_World",
     "title": "Ryanair stock slides 6% as higher fuel costs amid Iran war dent profit",
     "title_ko": "라이언에어 주가 6% 하락, 중동 위기발 유류비 상승 및 예약 지연으로 수익 악화",
@@ -2622,263 +2886,5 @@
     ],
     "reason": "BP와 코노코필립스의 이라크 대규모 투자는 미국의 이란 견제 전략과 맞물려 중동 지역의 에너지 공급 안정성과 다변화에 기여하며, 장기적으로 국제 유가에 하방 압력을 가할 수 있습니다.",
     "action_point": "국제 유가 하방 압력 가능성에 대비하여 에너지 생산 관련 자산 비중 축소를 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "노동, 경제성장 기여도 첫 마이너스 기록···일할 사람 줄고 일하는 시간 줄어 - 경향신문",
-    "title_ko": "노동, 경제성장 기여도 첫 마이너스 기록···일할 사람 줄고 일하는 시간 줄어",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2eGh0MWs5ZUVPYkJHMXpLWGZzbkcxTjNUb0xkS05KM3BLUVhURlNGZXA5ZWFOVmNTcHh1em9oQldweFhDUW5NX1VmZjRtYzJhc0s0a1lRUkhXUdIBX0FVX3lxTE8yUkRGd0ROdkVKRU1uVkJNbVpUZXV2Z1oxUWRJQzhEU0hPdExWcVNtcTJOTWNiRXFIckdvQTBjZG9waUxpNWFGek9DS0R2bmhGeTN4M2ZMeXF0enFtWnE0?oc=5",
-    "published": "Fri, 17 Jul 2026 06:38:00 GMT",
-    "fetched_at": "2026-07-17 18:48:47",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "전반적 경제",
-      "내수",
-      "고용",
-      "자동화/로봇"
-    ],
-    "keywords": [
-      "노동 기여도",
-      "경제성장",
-      "생산성",
-      "인구구조"
-    ],
-    "reason": "한국 경제의 장기 성장 잠재력이 저해될 수 있음을 시사하며, 인구 구조 변화와 생산성 저하 문제가 심화되고 있음을 보여준다. 이는 기업 투자 및 소비 심리 위축으로 이어질 수 있다.",
-    "action_point": "한국 경제의 구조적 저성장 기조 심화에 대비하여 포트폴리오의 해외 자산 비중 확대를 검토하고, 국내에서는 자동화 및 생산성 향상 관련 섹터에 대한 관심을 유지하라."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Chinese startup Moonshot AI unveils Kimi model it says rivals OpenAI, Anthropic",
-    "title_ko": "중국 스타트업 문샷 AI, OpenAI 및 Anthropic에 필적하는 Kimi 모델 공개",
-    "link": "https://www.cnbc.com/2026/07/17/moonshot-ai-kimi-k3-model-openai-anthropic-china.html",
-    "published": "Fri, 17 Jul 2026 08:53:55 GMT",
-    "fetched_at": "2026-07-17 18:48:10",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "인공지능",
-      "소프트웨어",
-      "반도체"
-    ],
-    "keywords": [
-      "중국 AI",
-      "생성형 AI",
-      "기술 경쟁"
-    ],
-    "reason": "중국 AI 기술의 급부상을 보여주며, 글로벌 인공지능 시장의 경쟁 심화와 기술 발전 가속화를 예상하게 한다. 이는 AI 관련 하드웨어 및 소프트웨어 수요 증가로 이어질 수 있다.",
-    "action_point": "글로벌 AI 경쟁 가속화에 따른 국내외 AI 소프트웨어 및 고성능 반도체 섹터의 투자 기회 점검."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "최태원 \"하이닉스, 샀다 팔지 마라…시간 두면 우상향\" - 주간조선",
-    "title_ko": "최태원 \"하이닉스, 샀다 팔지 마라…시간 두면 우상향\" - 주간조선",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5LOFNsVUo3Y2twcG1QNk9ETG5UZ1lKRlpkSXhSbWxYOW0zT2VtZHlPaEhiZGhtdnVvejF1VUZjOUp2dU96TmRlM0h2UVBBYWp2VmhKcmQzOUd5QUdDVFhzUDdfUWVNdzNqVEww?oc=5",
-    "published": "Fri, 17 Jul 2026 07:43:42 GMT",
-    "fetched_at": "2026-07-17 18:48:55",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "반도체",
-      "IT"
-    ],
-    "keywords": [
-      "SK하이닉스",
-      "반도체",
-      "최태원",
-      "장기투자"
-    ],
-    "reason": "SK그룹 최태원 회장의 SK하이닉스 장기투자 권유는 반도체 업황에 대한 긍정적 전망을 제시하며, 국내 증시 반도체 섹터의 투자 심리 개선에 기여할 수 있다.",
-    "action_point": "SK하이닉스 및 국내 반도체 관련주 장기 보유 전략을 유지하고, 추가 비중 확대를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "CNBC Daily Open: Trump lashes out at electoral system and China in fiery speech",
-    "title_ko": "CNBC 데일리 오픈: 트럼프, 격렬한 연설에서 선거 시스템과 중국 비난",
-    "link": "https://www.cnbc.com/2026/07/17/cnbc-daily-open-trump-electoral-system-fraud-china.html",
-    "published": "Fri, 17 Jul 2026 06:09:48 GMT",
-    "fetched_at": "2026-07-17 16:12:14",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "기술",
-      "산업재"
-    ],
-    "keywords": [
-      "트럼프",
-      "미중 갈등",
-      "정치 불확실성",
-      "선거"
-    ],
-    "reason": "트럼프의 반복적인 선거 불복 및 중국 비난 발언은 미국 정치의 불안정성을 높이고, 향후 미중 무역 갈등 격화 가능성을 시사하여 글로벌 시장의 불확실성을 증폭시킬 수 있습니다.",
-    "action_point": "미중 갈등 심화 가능성에 대비하여 중국 의존도가 높은 기술 및 산업 섹터 비중 축소를 검토하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "日, 소뱅 등 44곳 참여 소버린 AI 개시…올해 기반 모델 공개",
-    "title_ko": "日, 소뱅 등 44곳 참여 소버린 AI 개시…올해 기반 모델 공개",
-    "link": "https://www.mk.co.kr/news/world/12100992",
-    "published": "Fri, 17 Jul 2026 15:32:11 +09:00",
-    "fetched_at": "2026-07-17 16:12:50",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "인공지능",
-      "반도체",
-      "소프트웨어",
-      "제조업",
-      "기술주"
-    ],
-    "keywords": [
-      "일본",
-      "AI",
-      "소프트뱅크",
-      "GPU",
-      "제조업",
-      "기술패권"
-    ],
-    "reason": "일본 정부가 막대한 자금을 투입해 제조업 특화 AI 개발을 국가적 우선순위로 삼으며 글로벌 AI 기술 경쟁이 심화되고, 관련 산업 성장이 가속화될 전망이다. 이는 장기적으로 일본 경제 및 기술 기업들의 경쟁력 강화에 기여할 것이다.",
-    "action_point": "국내 AI 반도체 및 AI 솔루션 기업의 장기적 성장 모멘텀에 주목하며 포트폴리오 내 비중 확대를 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Xi pitches China as AI partner to developing world, warns against risks and security overreach",
-    "title_ko": "시진핑, 개도국에 AI 파트너십 제안하며 위험 및 안보 과잉 대응 경고",
-    "link": "https://www.cnbc.com/2026/07/17/x-china-ai-summit-risks-security.html",
-    "published": "Fri, 17 Jul 2026 06:16:04 GMT",
-    "fetched_at": "2026-07-17 16:11:41",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "인공지능",
-      "기술",
-      "반도체",
-      "신흥국"
-    ],
-    "keywords": [
-      "시진핑",
-      "중국",
-      "AI",
-      "인공지능",
-      "개발도상국",
-      "기술협력",
-      "반도체"
-    ],
-    "reason": "이 뉴스는 중국이 개발도상국에 AI 기술을 전파하고 영향력을 확대하려는 전략적 움직임을 보여줍니다. 이는 장기적으로 AI 관련 기술 및 반도체 산업의 수요 증가 가능성을 내포하지만, 동시에 미중 기술 패권 경쟁의 심화를 반영합니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "이대통령 지지율 52%로 2주 연속 하락…부정 평가 이유는 '경제•부동산' - 주간조선",
-    "title_ko": "이대통령 지지율 52%로 2주 연속 하락…부정 평가 이유는 '경제•부동산'",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBQlpxa0hsa0wyOGVRSk1RU3dRUXBqR0hSTmNaWlo2X3ZCWlhpd0NWRXh3aE82WmdmSmdVTHRpanZZOUJrUUdXSHl3MnBFX3pvQ3RHQ3V6WGlDWTRzckdlUDc2NHFVT3VKUnJj0gFuQVVfeXFMTzRnV21tRU9XZ3dIQi1IOVVIR3FsNE44alFWd0lJbVRITTA5aUprbnp2R0xXZDlfcW94THhrUEI0c1MzM05Pd29ieklFOVVlQkprMmxfdThnRFJsOVJYRExFa25VR2d4SlN1LVYydFE?oc=5",
-    "published": "Fri, 17 Jul 2026 03:45:00 GMT",
-    "fetched_at": "2026-07-17 16:12:23",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "부동산",
-      "내수 소비재",
-      "건설"
-    ],
-    "keywords": [
-      "대통령 지지율",
-      "경제심리",
-      "부동산 시장",
-      "소비심리"
-    ],
-    "reason": "대통령 지지율 하락의 주요 원인이 경제 및 부동산 문제로 지목되면서, 국내 소비 심리와 부동산 시장에 대한 부정적 인식이 확산될 수 있습니다. 이는 내수 및 부동산 관련 자산에 대한 투자심리를 위축시킬 가능성이 높습니다.",
-    "action_point": "국내 부동산 및 내수 관련 자산에 대한 비중 축소를 검토하십시오."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Sweden's Saab posts record orders as fighter jet maker cashes in on higher defense spending",
-    "title_ko": "스웨덴 사브, 국방비 지출 증가에 전투기 주문 기록 경신",
-    "link": "https://www.cnbc.com/2026/07/17/saab-stock-earnings-q2-report-defense-sales-orders.html",
-    "published": "Fri, 17 Jul 2026 07:10:50 GMT",
-    "fetched_at": "2026-07-17 16:11:49",
-    "sentiment": "호재",
-    "importance": 2,
-    "sectors": [
-      "방위산업",
-      "항공우주"
-    ],
-    "keywords": [
-      "사브",
-      "국방비",
-      "전투기",
-      "유럽",
-      "방산"
-    ],
-    "reason": "유럽 국가들의 국방비 지출 증가는 사브와 같은 방위산업 기업들의 매출 및 수주 증가로 이어지며, 글로벌 방위산업 섹터 전반에 긍정적인 투자 심리를 형성할 것입니다.",
-    "action_point": "글로벌 방위산업 관련 ETF 또는 기업 투자 비중 확대를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "World’s largest olive oil company says market has 'definitively' entered new phase",
-    "title_ko": "세계 최대 올리브 오일 기업, 시장이 '확실히' 새로운 국면에 진입했다고 밝혀",
-    "link": "https://www.cnbc.com/2026/07/17/spain-olive-oil-europe-heat-climate.html",
-    "published": "Fri, 17 Jul 2026 05:00:01 GMT",
-    "fetched_at": "2026-07-17 16:12:01",
-    "sentiment": "악재",
-    "importance": 2,
-    "sectors": [
-      "식품/음료",
-      "농업",
-      "소매"
-    ],
-    "keywords": [
-      "올리브 오일",
-      "농산물 가격",
-      "공급망",
-      "식품 인플레이션"
-    ],
-    "reason": "올리브 오일 공급 불안정 심화로 가격 변동성 확대 및 식품 인플레이션 압력이 가중될 수 있으며, 관련 식품 기업의 수익성에 영향을 미칠 수 있습니다.",
-    "action_point": "글로벌 식품 원자재 가격 상승 압력 심화를 감안하여 음식료 섹터 투자 비중을 재검토하고, 가격 전가력이 높은 기업 위주로 선별 투자 고려."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "[속보] 민주 \"송영길·김용 출마 예외적 허용\"…당무위 의결 - JTBC",
-    "title_ko": "[속보] 민주 \"송영길·김용 출마 예외적 허용\"…당무위 의결",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9DeS05SGtXcGFFWDNpZDJpY2hsYmZ4Q2x5alVCTzVpWjNWejBNbWJhbWc0R1RqZ3NfbS1XRkRidjNhNmNEOGtGQXdJakZzVlJqcjVEVw?oc=5",
-    "published": "Fri, 17 Jul 2026 06:22:00 GMT",
-    "fetched_at": "2026-07-17 16:12:30",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [],
-    "keywords": [
-      "정치",
-      "민주당",
-      "출마",
-      "당무위",
-      "송영길",
-      "김용"
-    ],
-    "reason": "이 뉴스는 특정 정치인의 공천 관련 당내 결정을 다루며, 현재까지는 국내 금융시장 전반이나 거시경제 지표에 직접적인 영향을 미치지 않는다. 이는 주로 국내 정치 지형에 대한 논의에 머물 것으로 예상된다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_Finance",
-    "title": "India's biggest IPO this year rakes in bids worth $31 billion, powered by institutional frenzy",
-    "title_ko": "인도 올해 최대 IPO, 기관 투자 열풍에 310억 달러 입찰액 기록",
-    "link": "https://www.cnbc.com/2026/07/17/indias-biggest-ipo-this-year-rakes-in-bids-worth-31-billion-powered-by-institutional-frenzy.html",
-    "published": "Fri, 17 Jul 2026 03:54:47 GMT",
-    "fetched_at": "2026-07-17 13:55:35",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "자산운용",
-      "신흥국",
-      "금융"
-    ],
-    "keywords": [
-      "인도",
-      "IPO",
-      "기관투자",
-      "자산운용",
-      "신흥국시장"
-    ],
-    "reason": "인도 최대 자산운용사의 IPO 성공은 신흥국 시장, 특히 인도 자본시장에 대한 기관 투자자들의 강한 신뢰를 보여주며, 글로벌 자금의 신흥국 유입 기대를 높일 수 있습니다.",
-    "action_point": "신흥국 자산, 특히 인도 시장 투자 비중 확대 검토."
   }
 ]
