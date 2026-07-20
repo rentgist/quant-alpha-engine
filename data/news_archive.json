@@ -1,5 +1,31 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "title": "전면전 치닫나…미국 9일째 이란 공습, 전사자 1명 또 늘어 - 한겨레",
+    "title_ko": "전면전 치닫나…미국 9일째 이란 공습, 전사자 1명 또 늘어",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5sUzJQZXo0QmhsODQwQVdZbmJuaVFxUWZIb2gxMEJ6WHE5NGVOSzRISXFyTjI1WlZQVVBURU5MbF9nWUQ2RGV3bm9EaUhmSmxmNFlPUjNlOVJHLXRJcDg1bVo2T0JENGpYdFJWQlRhMzRPb2s?oc=5",
+    "published": "Mon, 20 Jul 2026 02:05:00 GMT",
+    "fetched_at": "2026-07-20 15:00:31",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "방산",
+      "해운",
+      "항공"
+    ],
+    "keywords": [
+      "미국",
+      "이란",
+      "지정학",
+      "중동",
+      "유가",
+      "전쟁"
+    ],
+    "reason": "미국의 이란 공습 장기화 및 전사자 발생은 중동 지역의 지정학적 불안정을 고조시키며, 이는 유가 상승 압력과 글로벌 공급망 차질 우려를 증대시켜 시장 불확실성을 키울 수 있습니다.",
+    "action_point": "에너지 섹터 비중을 확대하고, 지정학적 리스크 헤지를 위한 방산주 편입을 검토하라."
+  },
+  {
     "source": "CNBC_World",
     "title": "U.S. hits Iran for ninth consecutive night as American casualties mount",
     "title_ko": "미국, 이란 9일 연속 공습 감행, 미군 사상자 발생",
@@ -2853,29 +2879,5 @@
     ],
     "reason": "중부지방의 집중호우는 농작물 피해, 건설 현장 지연, 물류 차질을 유발하며 보험금 청구 증가로 이어질 수 있습니다. 단기적으로 일부 소비 활동에도 부정적 영향을 미칠 수 있습니다.",
     "action_point": "농업, 건설, 운수 등 호우 피해 민감 섹터 비중 점검"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "다시 불길 커진 '두 전쟁'…유가·곡물발 인플레 우려도 재점화 - 연합뉴스",
-    "title_ko": "다시 불길 커진 '두 전쟁'…유가·곡물발 인플레 우려도 재점화",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9QUkVMZy1jZTQ5cF9Ob0tVYWl0WDM4WGE2RmhfOGctdlFpei1GdGM5S0d0eC0yM2dmYU5DQlFIbUZxZkk2U2RTTWtVekdUaHdobDdremlUVS0xamJlSTlsUdIBYEFVX3lxTE9QUkVMZy1jZTQ5cF9Ob0tVYWl0WDM4WGE2RmhfOGctdlFpei1GdGM5S0d0eC0yM2dmYU5DQlFIbUZxZkk2U2RTTWtVekdUaHdobDdremlUVS0xamJlSTlsUQ?oc=5",
-    "published": "Thu, 16 Jul 2026 23:31:00 GMT",
-    "fetched_at": "2026-07-17 10:49:36",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "에너지",
-      "식료품/농업",
-      "전반적 시장"
-    ],
-    "keywords": [
-      "전쟁",
-      "유가",
-      "곡물",
-      "인플레이션",
-      "지정학적 위험"
-    ],
-    "reason": "두 전쟁의 불길이 커지면서 글로벌 유가 및 곡물 가격 상승 압력이 가중되어 전반적인 인플레이션 우려가 재점화될 가능성이 높습니다. 이는 각국 중앙은행의 긴축 기조 유지 또는 강화로 이어져 경기 둔화 위험을 높일 수 있습니다.",
-    "action_point": "원자재 관련 자산 비중 확대를 검토하고, 금리 인상에 민감한 성장주 비중을 축소하라."
   }
 ]
