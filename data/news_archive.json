@@ -1,5 +1,55 @@
 [
   {
+    "source": "CNBC_World",
+    "title": "Ryanair stock slides 6% as higher fuel costs amid Iran war dent profit",
+    "title_ko": "라이언에어 주가 6% 하락, 중동 위기발 유류비 상승 및 예약 지연으로 수익 악화",
+    "link": "https://www.cnbc.com/2026/07/20/ryanair-q1-earnings-iran-war-summer-fares.html",
+    "published": "Mon, 20 Jul 2026 09:05:04 GMT",
+    "fetched_at": "2026-07-20 18:22:08",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "항공",
+      "여행/레저",
+      "에너지",
+      "소비재(경기소비재)"
+    ],
+    "keywords": [
+      "유류비",
+      "유가",
+      "중동 위기",
+      "지정학적 리스크",
+      "소비 심리",
+      "항공사"
+    ],
+    "reason": "중동 위기발 유류비 상승이 항공사 수익성을 압박하고 있으며, 지정학적 불확실성 증가는 소비자들의 여행 심리를 위축시켜 광범위한 여행/레저 산업에 부정적 영향을 미칠 수 있다.",
+    "action_point": "항공 및 여행/레저 섹터 비중 축소를 검토하고, 고유가로 인한 운송 및 제조 기업의 실적 하방 위험에 대비하라."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "FIFA emerges as the $9 billion winner as the biggest, brashest World Cup ever draws to a close",
+    "title_ko": "역대급 규모와 대담함의 월드컵이 막을 내리며 FIFA, 90억 달러 수익 달성",
+    "link": "https://www.cnbc.com/2026/07/20/world-cup-fifa-football-winner-tournament-spain.html",
+    "published": "Mon, 20 Jul 2026 05:45:04 GMT",
+    "fetched_at": "2026-07-20 18:22:18",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "스포츠 산업",
+      "미디어/엔터테인먼트",
+      "광고/마케팅"
+    ],
+    "keywords": [
+      "FIFA",
+      "월드컵",
+      "스포츠 이벤트",
+      "수익",
+      "엔터테인먼트"
+    ],
+    "reason": "FIFA의 기록적인 수익은 글로벌 스포츠 이벤트의 강력한 상업적 가치와 수익성을 보여주며, 관련 미디어 및 엔터테인먼트 산업의 투자 매력을 재확인시킵니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "GoogleNews_Korea",
     "title": "전면전 치닫나…미국 9일째 이란 공습, 전사자 1명 또 늘어 - 한겨레",
     "title_ko": "전면전 치닫나…미국 9일째 이란 공습, 전사자 1명 또 늘어",
@@ -2830,54 +2880,5 @@
     ],
     "reason": "인도 최대 자산운용사의 IPO 성공은 신흥국 시장, 특히 인도 자본시장에 대한 기관 투자자들의 강한 신뢰를 보여주며, 글로벌 자금의 신흥국 유입 기대를 높일 수 있습니다.",
     "action_point": "신흥국 자산, 특히 인도 시장 투자 비중 확대 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Stock futures slip as major averages head for losing week; Netflix tumbles after earnings: Live updates",
-    "title_ko": "주요 지수 하락세로 주식 선물 하락; 넷플릭스 실적 부진 후 폭락: 실시간 업데이트",
-    "link": "https://www.cnbc.com/2026/07/16/stock-market-today-live-updates.html",
-    "published": "Fri, 17 Jul 2026 04:47:00 GMT",
-    "fetched_at": "2026-07-17 13:55:41",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "반도체",
-      "미디어/콘텐츠",
-      "기술"
-    ],
-    "keywords": [
-      "주식 선물",
-      "넷플릭스",
-      "실적 부진",
-      "반도체",
-      "시장 하락"
-    ],
-    "reason": "미국 증시 전반의 약세 흐름과 반도체 섹터의 조정이 확인되며 투자 심리가 위축될 수 있습니다. 특히 성장주와 기술주 전반에 대한 경계심이 필요합니다.",
-    "action_point": "반도체 및 성장주 섹터의 단기적 비중 축소를 검토하고 방어주 편입을 고려."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "[속보] 내일~모레 중부 최고 300㎜ 매우 많은 비 - 연합뉴스TV",
-    "title_ko": "[속보] 내일~모레 중부 최고 300㎜ 매우 많은 비",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ZNnFCWkhBdUZXcjVRcHRJaHFsaTZ3cWNwSUdtR3BBcENDM3hCOXNDREVtUW5aNGdMajBORmFad2M2MTI1Q29LRnlDQkxoSlVtcmNISFMzS3kxOEJySE1ZcS1aRWtmXzQ?oc=5",
-    "published": "Fri, 17 Jul 2026 02:36:00 GMT",
-    "fetched_at": "2026-07-17 13:55:50",
-    "sentiment": "악재",
-    "importance": 2,
-    "sectors": [
-      "농업",
-      "건설",
-      "운수",
-      "보험",
-      "유통"
-    ],
-    "keywords": [
-      "호우",
-      "장마",
-      "피해",
-      "중부지방"
-    ],
-    "reason": "중부지방의 집중호우는 농작물 피해, 건설 현장 지연, 물류 차질을 유발하며 보험금 청구 증가로 이어질 수 있습니다. 단기적으로 일부 소비 활동에도 부정적 영향을 미칠 수 있습니다.",
-    "action_point": "농업, 건설, 운수 등 호우 피해 민감 섹터 비중 점검"
   }
 ]
