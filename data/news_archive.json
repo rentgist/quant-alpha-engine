@@ -1,6 +1,77 @@
 [
   {
     "source": "GoogleNews_Korea",
+    "title": "노벨 경제학 수상자도 걱정 \"한국 경제 최대 장애물은 서울 집값\" - 조선일보",
+    "title_ko": "노벨 경제학 수상자도 걱정 \"한국 경제 최대 장애물은 서울 집값\"",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPN3JRMEhHYWFLRmZ2aXZ5cFVLRFEtX3FxYlUwTFlKR2tCb20yZ2pHcjRJVDFaeUJTZm53c2YxbGlPdTFkQkx4ZEF1em5KYk02R1Q0dXl3ZE1XaEg3R2VyVjlJSWMxOXBIdWg2MVVmTmhnbTdPM1BEMERLUkczWF9udw?oc=5",
+    "published": "Mon, 20 Jul 2026 20:34:30 GMT",
+    "fetched_at": "2026-07-21 06:02:03",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "부동산",
+      "건설",
+      "은행",
+      "내수"
+    ],
+    "keywords": [
+      "부동산",
+      "서울 집값",
+      "한국 경제",
+      "가계 부채"
+    ],
+    "reason": "노벨 경제학 수상자의 발언은 고금리 환경 속에서 서울 집값이 한국 경제의 구조적 걸림돌임을 재확인합니다. 이는 가계 소비 여력 감소 및 금융권의 부동산 관련 부실 위험으로 이어져 장기적인 경제 성장을 저해할 수 있습니다.",
+    "action_point": "부동산 관련 직접 투자 익스포저를 재검토하고 가계 부채 부담에 취약한 금융 섹터 투자에 주의를 기울여라."
+  },
+  {
+    "source": "Maeil_Business",
+    "title": "“나쁜 남자는 이제 싫어요” … 월가 96%가 추천한 장투용 주식은",
+    "title_ko": "“나쁜 남자는 이제 싫어요” … 월가 96%가 추천한 장투용 주식은",
+    "link": "https://www.mk.co.kr/news/business/12102540",
+    "published": "Tue, 21 Jul 2026 04:00:00 +09:00",
+    "fetched_at": "2026-07-21 06:02:16",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "기술주",
+      "반도체 (메모리)",
+      "우량주"
+    ],
+    "keywords": [
+      "월스트리트",
+      "장기투자",
+      "미국 AI 주식",
+      "우량주",
+      "위험회피"
+    ],
+    "reason": "월가 투자자들이 지정학적 위험 속에서 메모리 반도체의 변동성을 피해 안정적인 미국 AI 우량주로 장기 투자 대상을 전환하고 있음을 시사합니다. 이는 위험회피 심리 확산과 함께 기술 우량주 선호 현상을 반영합니다.",
+    "action_point": "미국 AI 우량주 섹터의 장기 투자 비중 확대를 검토하고, 메모리 반도체 등 고변동성 자산에 대한 리스크 관리를 강화하라."
+  },
+  {
+    "source": "CNBC_Finance",
+    "title": "Stocks making the biggest moves midday: AMD, Archer Aviation, SpaceX, Iren & more",
+    "title_ko": "장중 큰 변동을 보인 주식: AMD, 아처 에비에이션, 스페이스X, 이렌 외 다수",
+    "link": "https://www.cnbc.com/2026/07/20/stocks-making-the-biggest-moves-midday-amd-achr-spcx-iren.html",
+    "published": "Mon, 20 Jul 2026 15:52:30 GMT",
+    "fetched_at": "2026-07-21 06:01:44",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "기술주",
+      "반도체",
+      "항공우주"
+    ],
+    "keywords": [
+      "개별주식",
+      "장중변동",
+      "기술주",
+      "반도체"
+    ],
+    "reason": "이 기사는 장중 개별 주식들의 변동을 단순히 나열한 것으로, 특정 산업 전반이나 거시 경제에 직접적인 영향을 주지 않습니다. 이는 개별 종목의 펀더멘탈 또는 단기 수급에 따른 움직임으로 해석됩니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "GoogleNews_Korea",
     "title": "버넘 영국 총리 취임…\"새 정치·경제모델 만들겠다\"(종합) - 연합뉴스",
     "title_ko": "버넘 영국 총리 취임…\"새 정치·경제모델 만들겠다\"(종합) - 연합뉴스",
     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5memg1QU9EWHpiazVtWFdYcllEckhIT1pBajlFYnFRNTl4eXkwaG5jU0NkN0dpVk1PeS1uTGhRR2V0R0lUbmNLU3I2aVJfSlZnMDctQmtfOUItajjSAWBBVV95cUxNbVVuYkdxbUZoMUYtTVpmNkhmZUJ0RzZuNmpjZjFpVkxsQjYzblprTmx2aF8weElIUzFMS3oxSzhXaE1DWi15NFAzelFaY1B4MDRjb1NRbmljdldBOWYxYTg?oc=5",
@@ -2810,79 +2881,5 @@
     ],
     "reason": "이번 사고와 리콜은 자율주행 기술의 안전성 및 상용화 과정에 여전히 높은 불확실성이 존재함을 보여줍니다. 이는 자율주행 섹터 전반에 대한 투자 심리를 위축시키고 규제 강화 가능성을 높일 수 있습니다.",
     "action_point": "자율주행 기술 상용화에 대한 단기적 기대감을 조정하고 관련 섹터 투자 비중을 재검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "산림청, 폭우 예보에 전국 산사태 위기경보 ’주의’ 상향 - 연합뉴스TV",
-    "title_ko": "산림청, 폭우 예보에 전국 산사태 위기경보 ’주의’ 상향",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5IQ055cjJDX2VaSjRJMGtaeWFUdkV3aU1FWTYzSzQ3RVJFNEZuVzJkVWpuN3p0anYxYXlUQnBiV2x2TG50TE10RzZIOFdPbm9ZRmVXXzh4aWxSbG5JOExwUUc2THVfa1k?oc=5",
-    "published": "Fri, 17 Jul 2026 05:40:00 GMT",
-    "fetched_at": "2026-07-17 22:05:42",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "건설",
-      "농업",
-      "보험",
-      "관광"
-    ],
-    "keywords": [
-      "폭우",
-      "산사태",
-      "자연재해",
-      "재난경보"
-    ],
-    "reason": "전국적인 폭우 예보로 산사태 위기경보가 상향됨에 따라 인명 및 재산 피해 발생 시 건설, 농업 등 관련 산업의 생산 차질과 보험금 지급 증가로 인한 단기적 시장 불안정성을 초래할 수 있습니다.",
-    "action_point": "국내 건설, 농업, 보험 섹터 기업 중 자연재해 취약 지역에 대한 노출도가 높은 기업의 잠재적 리스크를 점검."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "[날씨] 밤사이 중부 '극한 호우' 최대 300mm...산사태위기경보 '주의' - YTN",
-    "title_ko": "[날씨] 밤사이 중부 '극한 호우' 최대 300mm...산사태위기경보 '주의' - YTN",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0zeDFBeUZmMVE4RmV5UHV5LURVdm5iZERJRFlxWFVmOEVEeV80ampUQWZyM1p1NC1yT21WRlhxTGxvZHJDYnlKclFORlJqd3JMbWMtT0g3YURSb2t1bGc?oc=5",
-    "published": "Fri, 17 Jul 2026 07:42:00 GMT",
-    "fetched_at": "2026-07-17 22:05:53",
-    "sentiment": "악재",
-    "importance": 2,
-    "sectors": [
-      "농업",
-      "건설",
-      "보험"
-    ],
-    "keywords": [
-      "극한 호우",
-      "산사태",
-      "자연재해"
-    ],
-    "reason": "중부지역 극한 호우는 농작물 피해, 공사 지연 등 단기적인 지역 경제 활동 위축을 유발하며, 산사태 등 인명·재산 피해 발생 시 보험사 손실 증가로 이어질 수 있습니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "[속보] “올 여름 가장 많은 비”…대구·경기·충남·경북 호우특보 ‘중대본 1단계’",
-    "title_ko": "[속보] “올 여름 가장 많은 비”…대구·경기·충남·경북 호우특보 ‘중대본 1단계’",
-    "link": "https://www.mk.co.kr/news/society/12101207",
-    "published": "Fri, 17 Jul 2026 21:11:44 +09:00",
-    "fetched_at": "2026-07-17 22:06:03",
-    "sentiment": "악재",
-    "importance": 2,
-    "sectors": [
-      "농업",
-      "건설",
-      "손해보험",
-      "소비재"
-    ],
-    "keywords": [
-      "호우특보",
-      "중앙재난안전대책본부",
-      "장마",
-      "재난",
-      "대구",
-      "경기",
-      "충남",
-      "경북"
-    ],
-    "reason": "국지적 집중호우로 인해 농작물 피해, 시설물 손상 및 건설 공사 지연 등 국내 경제에 단기적인 부정적 영향을 미칠 수 있으며, 손해보험사의 보험금 지급 증가를 야기할 수 있습니다.",
-    "action_point": "국내 손해보험 및 농업 관련 섹터의 단기 실적 하방 위험을 점검하고, 재난 복구 관련 인프라 섹터에 대한 장기적 관점의 관심 유무를 재고하십시오."
   }
 ]
