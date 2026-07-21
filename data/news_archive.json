@@ -1,5 +1,77 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "title": "월가 \"이란전쟁 격화에 인플레 우려 재부각\" - 연합인포맥스",
+    "title_ko": "월가 \"이란전쟁 격화에 인플레 우려 재부각\" - 연합인포맥스",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Vb0hFX3JBTTB2UzVqcDdQOERKeG9hVDk4T1FVTE1iRFh4Q1lfVW04WC1DdzJna2RwVlRQRU10Nngza2F1dGtPUE16cUpyRjdMVHlTdWcxcXNjOGJoNExFX3VsQ3pMZlJUTW54ckxiOXM?oc=5",
+    "published": "Tue, 21 Jul 2026 07:43:14 GMT",
+    "fetched_at": "2026-07-21 23:56:41",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "에너지",
+      "운송",
+      "방산",
+      "화학",
+      "은행"
+    ],
+    "keywords": [
+      "이란",
+      "지정학",
+      "인플레이션",
+      "유가",
+      "금리"
+    ],
+    "reason": "이란전쟁 격화 우려는 중동발 원유 공급 차질 가능성을 높여 국제 유가 상승 압력으로 작용하며, 글로벌 인플레이션 재점화 및 각국 중앙은행의 금리 인하 기대감 약화를 야기할 수 있습니다.",
+    "action_point": "에너지 및 원자재 관련 자산의 비중 확대를 검토하고, 인플레이션 헤지 포트폴리오를 점검하라."
+  },
+  {
+    "source": "CNBC_Finance",
+    "title": "Jamie Dimon says markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices",
+    "title_ko": "제이미 다이먼, 시장이 리스크를 과소평가하고 있으며 현재 가격에 주식이나 국채를 매수하지 않을 것이라고 밝혀",
+    "link": "https://www.cnbc.com/2026/07/21/jpmorgan-chase-ceo-jamie-dimon-market-risk.html",
+    "published": "Tue, 21 Jul 2026 10:24:07 GMT",
+    "fetched_at": "2026-07-21 23:56:32",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "주식시장 전반",
+      "채권시장 전반",
+      "금융"
+    ],
+    "keywords": [
+      "제이미 다이먼",
+      "시장 리스크",
+      "주식",
+      "국채",
+      "과소평가"
+    ],
+    "reason": "제이미 다이먼의 발언은 현재 시장의 위험 인식이 낮음을 경고하며, 주요 자산군의 과열 가능성에 대한 경각심을 높여 투자심리에 부정적인 영향을 미칠 수 있습니다. 이는 전반적인 주식 및 채권 시장의 조정 압력으로 작용할 수 있습니다.",
+    "action_point": "시장 전반의 위험을 인지하고 포트폴리오 내 현금 비중 확대 및 보수적 투자 전략 유지."
+  },
+  {
+    "source": "CNBC_Finance",
+    "title": "Bets against SpaceX grow to 32% of float as Elon Musk warns short sellers won't survive",
+    "title_ko": "일론 머스크의 경고에도 불구하고 스페이스X 공매도 비중 32%로 증가",
+    "link": "https://www.cnbc.com/2026/07/21/bets-against-spacex-grow-to-32percent-of-float-as-elon-musk-warns-short-sellers-wont-survive.html",
+    "published": "Tue, 21 Jul 2026 14:28:52 GMT",
+    "fetched_at": "2026-07-21 23:56:15",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "해당 없음"
+    ],
+    "keywords": [
+      "SpaceX",
+      "스페이스X",
+      "공매도",
+      "Elon Musk",
+      "일론 머스크"
+    ],
+    "reason": "본 기사는 비상장 기업인 스페이스X의 공매도 현황 및 투자 심리에 대한 내용으로, 상장 투자 자산이나 거시 경제 전반에 직접적인 영향을 미치지 않습니다. 스페이스X의 사적 가치 평가 및 2차 시장 활동과 관련된 정보입니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "CNBC_Finance",
     "title": "As the U.S.-Iran war heats up again, these parts of the stock market and economy could be affected",
     "title_ko": "미국-이란 갈등 재점화: 증시와 경제에 미칠 영향",
@@ -2809,80 +2881,5 @@
     ],
     "reason": "연준의 공개적 소통 감소는 시장 불확실성을 증대시키며, 월스트리트 투자사들은 인공지능 기반 분석 도구를 도입하여 미묘한 신호를 해석하고 경쟁 우위를 확보하려 하고 있습니다.",
     "action_point": "연준 소통 불확실성 증대에 맞춰 인공지능 기반 금융 분석 솔루션 기업 및 이를 적극 활용하는 금융 섹터 기업에 대한 투자 기회를 모색."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Ukrainian drone attacks kill seven warehouse workers in Russia, spark fire at Moscow region oil depot",
-    "title_ko": "우크라이나 드론 공격으로 러시아 창고 직원 7명 사망, 모스크바 지역 유류 저장고 화재 발생",
-    "link": "https://www.cnbc.com/2026/07/18/ukrainian-drone-attacks-kill-seven-warehouse-workers-in-russia.html",
-    "published": "Sat, 18 Jul 2026 10:27:55 GMT",
-    "fetched_at": "2026-07-18 20:45:26",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "방산",
-      "물류"
-    ],
-    "keywords": [
-      "우크라이나",
-      "러시아",
-      "드론 공격",
-      "유류 저장고",
-      "지정학적 리스크"
-    ],
-    "reason": "우크라이나의 러시아 유류 저장고 및 물류 시설 공격은 지정학적 긴장을 고조시키며, 국제 유가 변동성 확대 및 에너지 공급망 불안정성을 야기할 수 있습니다. 이는 전반적인 시장 심리에 부정적인 영향을 미칩니다.",
-    "action_point": "국제 유가 변동성 확대에 대비하여 에너지 관련 투자 비중을 조정하고, 방산 섹터에 대한 관심을 유지한다."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "호르무즈 이어 홍해 봉쇄 위기…“둘 다 막히면 글로벌 경기침체” - KBS 뉴스",
-    "title_ko": "호르무즈 이어 홍해 봉쇄 위기…“둘 다 막히면 글로벌 경기침체”",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWUkw3WHNhQnRBY192cHBiY1NpR2p5cldJel9leHlPNm94MjU2eXQ0cGxVSHdLakxQMWJNTVdpQ3ZzQ2JJczRTMHV1RV91V1ZVa0NKUFBYTTlPWlk?oc=5",
-    "published": "Sat, 18 Jul 2026 08:02:00 GMT",
-    "fetched_at": "2026-07-18 19:11:10",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "에너지",
-      "해운",
-      "물류",
-      "제조업",
-      "보험"
-    ],
-    "keywords": [
-      "호르무즈 해협",
-      "홍해",
-      "지정학적 리스크",
-      "물류 대란",
-      "유가 급등",
-      "글로벌 경기침체",
-      "인플레이션"
-    ],
-    "reason": "호르무즈 및 홍해 봉쇄는 글로벌 에너지 공급망과 무역 흐름에 치명적인 차질을 발생시켜 유가 급등과 물가 상승 압력을 가중시키고, 이는 전 세계적인 경기 침체 가능성을 높인다.",
-    "action_point": "에너지 관련 자산 편입을 고려하고, 경기 방어주 비중 확대를 통해 지정학적 리스크에 대비하라."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "U.S. military says it has completed the latest round of strikes against Iran, amid more disruptions to shipping",
-    "title_ko": "미군, 이란에 대한 최신 공습 완료 및 해운 운송 차질 가중 발표",
-    "link": "https://www.cnbc.com/2026/07/18/us-military-says-it-completed-latest-round-of-strikes-against-iran.html",
-    "published": "Sat, 18 Jul 2026 09:38:37 GMT",
-    "fetched_at": "2026-07-18 19:10:22",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "해운",
-      "방산"
-    ],
-    "keywords": [
-      "이란",
-      "지정학적 리스크",
-      "해운 운송",
-      "유가"
-    ],
-    "reason": "미군과 이란 간의 지정학적 긴장 고조는 호르무즈 해협 등 주요 해운 운송로의 교란 가능성을 높여 유가 상승 압력과 글로벌 물류 비용 증가로 이어질 수 있습니다.",
-    "action_point": "중동 지정학적 리스크 고조에 따른 유가 상승 가능성에 대비하여 에너지 섹터 비중 확대를 검토하라."
   }
 ]
