@@ -1,5 +1,152 @@
 [
   {
+    "source": "Maeil_Business",
+    "title": "중동 전쟁으로 기름값 폭등! 1세대 원자재 전문가의 에너지 기업 공략법",
+    "title_ko": "중동 전쟁으로 기름값 폭등! 1세대 원자재 전문가의 에너지 기업 공략법",
+    "link": "https://www.mk.co.kr/news/economy/12103716",
+    "published": "Tue, 21 Jul 2026 18:32:16 +09:00",
+    "fetched_at": "2026-07-21 19:17:25",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "에너지",
+      "운송",
+      "화학",
+      "방산"
+    ],
+    "keywords": [
+      "중동 지정학적 위험",
+      "국제유가",
+      "호르무즈 해협",
+      "홍해",
+      "인플레이션",
+      "에너지 안보"
+    ],
+    "reason": "미국-이란 간 무력 충돌 격화와 주요 해협 봉쇄 위험은 국제유가 급등을 야기하며 글로벌 인플레이션 압력을 심화시키고 공급망 불안을 가중시킬 것입니다. 이는 전반적인 경제 성장에 부정적인 영향을 미칩니다.",
+    "action_point": "고유가 및 지정학적 위험 심화에 대비하여 에너지 섹터 비중 확대 또는 인플레이션 헤지 자산 편입을 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "Nebius stock surges as Nvidia discloses 9.3% stake in neocloud",
+    "title_ko": "엔비디아, 네비우스(Nebius)에 9.3% 지분 투자를 공개하며 네비우스 주식 급등",
+    "link": "https://www.cnbc.com/2026/07/21/nebius-stock-nvidia-stake-neocloud.html",
+    "published": "Tue, 21 Jul 2026 09:47:05 GMT",
+    "fetched_at": "2026-07-21 19:16:31",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "인공지능",
+      "클라우드 컴퓨팅",
+      "반도체",
+      "기술주"
+    ],
+    "keywords": [
+      "엔비디아",
+      "네비우스",
+      "투자",
+      "인공지능",
+      "클라우드",
+      "반도체"
+    ],
+    "reason": "엔비디아의 대규모 지분 투자는 AI 및 클라우드 컴퓨팅 시장의 성장 잠재력을 재확인하며, 해당 섹터에 대한 투자 심리를 긍정적으로 작용시킬 것입니다. 엔비디아의 전략적 움직임은 관련 기술 기업들의 가치를 높일 수 있습니다.",
+    "action_point": "인공지능 및 클라우드 섹터 내 핵심 성장 기업들에 대한 투자 비중 확대를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "All eyes are on John Healey, the UK's new finance minister. Here’s what’s at stake",
+    "title_ko": "영국의 새로운 재무장관 존 힐리에 모든 이목이 집중, 핵심 쟁점은?",
+    "link": "https://www.cnbc.com/2026/07/21/andy-burnham-john-healey-chancellor-gilts-jamie-dimon.html",
+    "published": "Tue, 21 Jul 2026 09:00:10 GMT",
+    "fetched_at": "2026-07-21 19:16:47",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "금융",
+      "영국 자산"
+    ],
+    "keywords": [
+      "존 힐리",
+      "영국 재무장관",
+      "제이미 다이먼",
+      "영국 정치",
+      "정책 불확실성"
+    ],
+    "reason": "영국 새 재무장관의 정책 방향에 따라 영국 자산 시장(주식, 채권, 환율)의 변동성이 확대될 수 있으며, 주요 금융 인사들이 상황을 주시하고 있습니다.",
+    "action_point": "영국 관련 자산 보유 투자자는 신임 재무장관의 정책 방향에 따른 시장 변동성 확대에 대비하여 영국 자산 비중 축소를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "Boeing and Airbus prepare for next narrow-body battle – but airlines aren’t pushing for new jets yet",
+    "title_ko": "보잉과 에어버스, 차세대 협동체 항공기 경쟁 준비 중 – 그러나 항공사들은 아직 신형 제트기 요구하지 않아",
+    "link": "https://www.cnbc.com/2026/07/21/boeing-airbus-narrow-body-planes-deliveries-737max-a320.html",
+    "published": "Tue, 21 Jul 2026 08:21:17 GMT",
+    "fetched_at": "2026-07-21 19:16:55",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "항공우주",
+      "항공운송",
+      "산업재"
+    ],
+    "keywords": [
+      "보잉",
+      "에어버스",
+      "협동체 항공기",
+      "항공산업",
+      "신형 항공기"
+    ],
+    "reason": "항공기 제조업체들이 차세대 모델을 준비 중이나, 항공사들의 신형기 수요는 아직 미미하여 관련 제조업체들의 단기 실적 개선 기대감은 제한적일 수 있습니다. 장기적 관점에서 기술 경쟁은 지속될 전망입니다.",
+    "action_point": "항공우주 및 관련 산업 섹터의 단기적인 투자 비중 확대는 보류."
+  },
+  {
+    "source": "Maeil_Business",
+    "title": "“줄기세포 맞으러 일본 안가도 되겠네” 2028년부터 국내서 받는다",
+    "title_ko": "“줄기세포 맞으러 일본 안가도 되겠네” 2028년부터 국내서 받는다",
+    "link": "https://www.mk.co.kr/news/it/12103711",
+    "published": "Tue, 21 Jul 2026 18:28:32 +09:00",
+    "fetched_at": "2026-07-21 19:17:33",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "제약/바이오",
+      "헬스케어",
+      "의료기기"
+    ],
+    "keywords": [
+      "줄기세포",
+      "재생의료",
+      "복지부",
+      "바이오",
+      "의료관광"
+    ],
+    "reason": "정부의 첨단재생의료 국내 도입 계획은 국내 바이오-헬스케어 산업의 규제 완화 및 성장을 촉진하며, 관련 기업의 기술 개발 및 시장 확대를 위한 새로운 기회를 제공할 것입니다.",
+    "action_point": "재생의료 및 줄기세포 관련 국내 제약/바이오 섹터 비중 확대 검토."
+  },
+  {
+    "source": "CNBC_Finance",
+    "title": "Stocks making the biggest moves premarket: AMD, SpaceX, Domino's Pizza, Alibaba & more",
+    "title_ko": "개장 전 가장 큰 움직임을 보이는 주식들: AMD, 스페이스X, 도미노피자, 알리바바 외",
+    "link": "https://www.cnbc.com/2026/07/20/stocks-making-the-biggest-moves-premarket-amd-spcx-dpz.html",
+    "published": "Mon, 20 Jul 2026 13:28:07 GMT",
+    "fetched_at": "2026-07-21 19:16:21",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "기술",
+      "소비재"
+    ],
+    "keywords": [
+      "개장 전 주식",
+      "개별 주식 변동",
+      "AMD",
+      "스페이스X",
+      "도미노피자",
+      "알리바바"
+    ],
+    "reason": "이 기사는 개장 전 특정 개별 기업들의 주가 변동을 나열한 것으로, 광범위한 시장 또는 거시경제적 추세보다는 개별 기업 이슈에 기인할 가능성이 높습니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "CNBC_World",
     "title": "Iran War update: Five things to know after the resumption of hostilities",
     "title_ko": "이란 전쟁 업데이트: 적대 행위 재개 후 알아야 할 다섯 가지",
@@ -2737,150 +2884,5 @@
     ],
     "reason": "반도체 섹터의 부정적 흐름이 코스피 전반의 하방 압력으로 작용할 수 있으며, 대형 유통업체의 파산 위기는 국내 소비경기 둔화 우려를 심화시킵니다.",
     "action_point": "반도체 및 유통 섹터 투자 비중 축소를 검토하고, 시장 전반의 변동성 확대에 대비하여 현금 비중을 일부 확보하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "[속보] \"北 최선희, 러시아 공식방문 모스크바 도착\" - 연합뉴스TV",
-    "title_ko": "[속보] \"北 최선희, 러시아 공식방문 모스크바 도착\"",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9WSDlkS1BSSmFWM1RVRzNVeW5WN2pwNlJHTzRZU1NFX3c2TGdSREFqWFZpYVVCejlULUthU3dRYm5hZlJUOFBnUm1KUlIxNmx4eGE2TzhPZzZ2YWJiNGtRX3NNMS1CZVk?oc=5",
-    "published": "Sat, 18 Jul 2026 05:45:00 GMT",
-    "fetched_at": "2026-07-18 19:10:58",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "방산",
-      "금융",
-      "기술"
-    ],
-    "keywords": [
-      "북한",
-      "러시아",
-      "최선희",
-      "지정학",
-      "군사협력"
-    ],
-    "reason": "북한과 러시아 간 고위급 접촉은 군사·경제 협력 심화를 시사하며, 이는 한반도 및 국제 안보 환경의 불확실성을 증대시켜 한국 자산에 대한 '코리아 디스카운트' 우려를 키울 수 있습니다.",
-    "action_point": "지정학적 리스크 확대를 고려, 원화 자산 비중 축소 및 달러 자산 확대를 검토하십시오."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Fat cat? Weight-loss drugs may be coming for your overweight pet",
-    "title_ko": "비만 고양이? 반려동물용 체중 감량 약물이 등장할 수 있습니다.",
-    "link": "https://www.cnbc.com/2026/07/18/cats-glp-1-ozempic-pets-weight-loss.html",
-    "published": "Sat, 18 Jul 2026 05:00:02 GMT",
-    "fetched_at": "2026-07-18 19:10:29",
-    "sentiment": "호재",
-    "importance": 2,
-    "sectors": [
-      "반려동물 산업",
-      "제약/바이오"
-    ],
-    "keywords": [
-      "반려동물",
-      "체중 감량 약물",
-      "GLP-1",
-      "동물 건강",
-      "펫푸드"
-    ],
-    "reason": "반려동물에 대한 지출 증가 추세와 인간용 비만 치료제(GLP-1)의 동물 적용 가능성은 반려동물 헬스케어 및 제약 산업에 새로운 성장 동력을 제공합니다. 이는 관련 기업들의 매출 증대 기회를 시사합니다.",
-    "action_point": "글로벌 반려동물 헬스케어 및 GLP-1 관련 제약 섹터 투자 확대를 검토하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "“반복 입원했다가 보험사기범 몰렸어요”…경찰 판단은 어떻게? [어쩌다 세상이]",
-    "title_ko": "“반복 입원했다가 보험사기범 몰렸어요”…경찰 판단은 어떻게? [어쩌다 세상이]",
-    "link": "https://www.mk.co.kr/news/economy/12101436",
-    "published": "Sat, 18 Jul 2026 16:59:48 +09:00",
-    "fetched_at": "2026-07-18 19:11:19",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "보험"
-    ],
-    "keywords": [
-      "보험사기",
-      "경찰 수사",
-      "혐의 없음",
-      "보험금 청구"
-    ],
-    "reason": "이 기사는 보험 업계의 보험 사기 의심 사건 처리 방식과 이에 대한 경찰의 판단을 다루며, 특정 개인 사례에 국한된 내용입니다. 매크로 경제나 주요 투자 자산에 미치는 직접적인 영향은 미미합니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "美·이란 7일째 정면충돌…호르무즈 해협 둘러싸고 확전 위기 고조 - v.daum.net",
-    "title_ko": "미-이란 7일째 정면충돌…호르무즈 해협 둘러싸고 확전 위기 고조",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5qMjBTM2xfSzV2UG9pbU92V0Y2a0JjNUJEdjJTVTlZMzJGVUxVVVpSMHFkUk5tX25qWDROMVJudkNsX2NXVnUxdmN3THVxQmM?oc=5",
-    "published": "Sat, 18 Jul 2026 04:15:01 GMT",
-    "fetched_at": "2026-07-18 17:43:55",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "에너지",
-      "해운",
-      "방위산업"
-    ],
-    "keywords": [
-      "미국",
-      "이란",
-      "호르무즈 해협",
-      "지정학적 리스크",
-      "유가"
-    ],
-    "reason": "호르무즈 해협에서의 미-이란 충돌은 글로벌 원유 공급망 불안정을 심화시켜 유가 급등 가능성을 높이고, 전반적인 지정학적 리스크 심화로 위험자산 회피 심리를 부추길 것입니다.",
-    "action_point": "에너지 섹터 비중 확대와 함께 달러/금 등 안전자산 보유를 강화하여 지정학적 리스크에 대비하십시오."
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "“둘 다 막히면 세계 경제 큰일나는데”…호르무즈 이어 홍해도 봉쇄 위기",
-    "title_ko": "“둘 다 막히면 세계 경제 큰일나는데”…호르무즈 이어 홍해도 봉쇄 위기",
-    "link": "https://www.mk.co.kr/news/world/12101439",
-    "published": "Sat, 18 Jul 2026 17:35:30 +09:00",
-    "fetched_at": "2026-07-18 17:44:25",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "에너지",
-      "해운/물류",
-      "항공",
-      "정유화학",
-      "방위산업",
-      "소비재"
-    ],
-    "keywords": [
-      "홍해",
-      "호르무즈 해협",
-      "원유 수송",
-      "지정학적 리스크",
-      "해상 운송",
-      "인플레이션",
-      "공급망"
-    ],
-    "reason": "중동 주요 해상 운송로인 홍해 및 호르무즈 해협 봉쇄 위기는 국제 유가 및 해상 운임 급등을 유발하여 글로벌 인플레이션을 심화시키고 공급망 교란을 초래하며 경기 둔화 압력을 높일 것입니다.",
-    "action_point": "국제유가 및 물류 비용 상승 압력에 대응하여 원자재, 금, 달러 등 인플레이션 헤지 및 안전 자산 비중 확대를 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "잔금일 앞두고 '멘탈 붕괴'...대출 꽉 막히자 '매매 포기' 위기 [자막뉴스] - YTN",
-    "title_ko": "잔금일 앞두고 '멘탈 붕괴'...대출 꽉 막히자 '매매 포기' 위기",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1qLWtob1Fwcjcza0N2ZHNtaUhYaVBHWnNXZ0tfY3JKbllwR0JBQjI5WnZFTHM3TFVRUjRHR3NXaE5VanhDU2dXaUt1N0ozNUJ4Qjl3dkk1ZDJWQ0NndHc?oc=5",
-    "published": "Sat, 18 Jul 2026 05:41:00 GMT",
-    "fetched_at": "2026-07-18 17:43:38",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "부동산",
-      "금융",
-      "건설"
-    ],
-    "keywords": [
-      "부동산대출",
-      "금리인상",
-      "주택시장",
-      "거래절벽",
-      "가계부채"
-    ],
-    "reason": "대출 규제와 금리 인상으로 주택 매수자들의 잔금 납입이 어려워지면서 부동산 거래 취소 및 매매 심리 위축이 심화되고 있음을 보여줍니다. 이는 국내 부동산 시장 전반의 침체와 가계 부채 리스크 증가로 이어질 수 있습니다.",
-    "action_point": "국내 부동산 시장의 유동성 경색과 가격 하방 압력 심화에 대비하여 부동산 관련 자산 및 건설·금융 섹터 투자 비중 축소를 검토하라."
   }
 ]
