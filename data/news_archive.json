@@ -1,5 +1,55 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "title": "다시 치솟는 국제유가…이 대통령 \"최고가격제 더 강화\" - v.daum.net",
+    "title_ko": "다시 치솟는 국제유가…이 대통령 \"최고가격제 더 강화\"",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5RMWJxQ0JSYUhWQUZOeGp4V18tRUdHOU44akIyQTkxQVhGNkhFRXlvaXRudDV6VlM0Y0JjRzdpNVVYakVIMUl2NmkzWFUxdWc?oc=5",
+    "published": "Tue, 21 Jul 2026 11:36:14 GMT",
+    "fetched_at": "2026-07-22 05:14:28",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "운송",
+      "화학",
+      "소비재",
+      "유틸리티"
+    ],
+    "keywords": [
+      "국제유가",
+      "물가상승",
+      "최고가격제",
+      "인플레이션",
+      "에너지정책"
+    ],
+    "reason": "국제유가 상승은 한국 경제 전반의 인플레이션 압력을 가중시키고 기업의 생산비용을 증가시켜 수익성 악화 및 소비 위축으로 이어질 수 있다. 정부의 가격 통제 강화는 단기적 물가 안정에 기여할 수 있으나 시장 왜곡 가능성도 내포한다.",
+    "action_point": "국제유가 상승과 원가 부담에 취약한 운송, 화학 섹터 비중 축소 검토."
+  },
+  {
+    "source": "CNBC_Finance",
+    "title": "Goldman Sachs creates private markets platform as rich investors seek the next SpaceX and Stripe",
+    "title_ko": "골드만삭스, 부유한 투자자들이 다음 스페이스X와 스트라이프를 찾는 가운데 사모 시장 플랫폼 구축",
+    "link": "https://www.cnbc.com/2026/07/21/goldman-sachs-private-markets-platform.html",
+    "published": "Tue, 21 Jul 2026 19:41:54 GMT",
+    "fetched_at": "2026-07-22 05:14:13",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "금융",
+      "사모투자",
+      "기술"
+    ],
+    "keywords": [
+      "골드만삭스",
+      "사모 시장",
+      "대체 투자",
+      "부유층 자산 관리",
+      "비상장 기업"
+    ],
+    "reason": "골드만삭스의 신규 플랫폼은 고액 자산가들의 사모 시장 접근성을 높여 비상장 기업 투자 수요를 증가시킬 것입니다. 이는 사모 펀드 및 벤처 캐피탈 시장에 유동성을 공급하고 혁신 기업에 대한 자금 유입을 촉진할 수 있습니다.",
+    "action_point": "포트폴리오 내 사모 시장 및 대체 자산 투자 비중 확대 가능성을 검토"
+  },
+  {
     "source": "CNBC_World",
     "title": "Novo Nordisk sues Eli Lilly, alleging misleading GLP-1 advertising",
     "title_ko": "노보 노디스크, 일라이 릴리 상대로 GLP-1 광고 오해 소지 주장하며 소송 제기",
@@ -2835,50 +2885,6 @@
       "임기"
     ],
     "reason": "헝가리 내부의 정치적 변화이며, 이는 해당 국가의 거버넌스와 리더십 교체를 시사하지만, 글로벌 자산 시장이나 매크로 경제에 미칠 직접적인 영향은 제한적입니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "8천만원車, 한국선 ‘반값’ 3천만원대...‘세계 최고’ 극찬받은 현대차, 대박 비결 [세상만車]",
-    "title_ko": "8천만원車, 한국선 ‘반값’ 3천만원대...‘세계 최고’ 극찬받은 현대차, 대박 비결 [세상만車]",
-    "link": "https://www.mk.co.kr/news/business/12101483",
-    "published": "Sat, 18 Jul 2026 22:04:17 +09:00",
-    "fetched_at": "2026-07-19 02:48:20",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "자동차",
-      "수소경제",
-      "친환경차"
-    ],
-    "keywords": [
-      "현대차",
-      "넥쏘",
-      "수소차",
-      "친환경차",
-      "판매 증가",
-      "모빌리티"
-    ],
-    "reason": "현대차의 수소차 넥쏘 판매 급증은 친환경차 시장에서의 경쟁력 강화 및 수소 모빌리티 기술 리더십을 보여줍니다. 이는 관련 공급망 및 수소 인프라 투자에도 긍정적인 영향을 미칠 수 있습니다.",
-    "action_point": "현대차를 포함한 수소차 및 친환경 모빌리티 섹터의 투자 비중 확대를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Two unexpected revelations in Warren Buffett's CNBC interview",
-    "title_ko": "워렌 버핏의 CNBC 인터뷰에서 밝혀진 두 가지 예상치 못한 사실",
-    "link": "https://www.cnbc.com/2026/07/18/two-unexpected-revelations-in-warren-buffetts-cnbc-interview.html",
-    "published": "Sat, 18 Jul 2026 14:53:36 GMT",
-    "fetched_at": "2026-07-19 02:48:09",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [],
-    "keywords": [
-      "워렌 버핏",
-      "빌 게이츠",
-      "제프리 엡스타인",
-      "기부"
-    ],
-    "reason": "이 뉴스는 워렌 버핏이 빌 게이츠와 제프리 엡스타인의 관계 때문에 기부를 중단한 것이 아니라는 해명으로, 개인적인 루머를 해소하지만 버크셔 해서웨이의 사업이나 광범위한 시장 상황에 직접적인 재정적 영향을 미치지 않습니다.",
     "action_point": "해당 없음"
   }
 ]
