@@ -1,5 +1,77 @@
 [
   {
+    "source": "CNBC_Finance",
+    "title": "Jamie Dimon says markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices",
+    "title_ko": "제이미 다이먼, \"시장은 위험을 과소평가하고 있으며 현재 가격에서 주식이나 국채를 매수하지 않을 것\"",
+    "link": "https://www.cnbc.com/2026/07/20/jpmorgan-chase-ceo-jamie-dimon-market-risk.html",
+    "published": "Mon, 20 Jul 2026 23:01:01 GMT",
+    "fetched_at": "2026-07-21 10:47:18",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "주식 시장 전반",
+      "채권 시장 전반",
+      "금융"
+    ],
+    "keywords": [
+      "제이미 다이먼",
+      "시장 위험",
+      "주식",
+      "국채",
+      "과소평가",
+      "매크로 전망"
+    ],
+    "reason": "JP모건 CEO 제이미 다이먼의 발언은 현재 시장이 지정학적 긴장, 관세 등 다양한 위험을 과소평가하고 있다는 강력한 경고입니다. 이는 주식과 채권 등 주요 자산군 전반에 걸쳐 하방 압력을 가할 수 있으며, 투자 심리를 위축시킬 가능성이 큽니다.",
+    "action_point": "주식 및 국채 신규 매수를 보류하고, 포트폴리오 내 현금 및 방어적 자산 비중을 확대하는 방안을 검토하십시오."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "Trump imposing 50% tariffs on certain Canadian goods over alleged trade discrimination",
+    "title_ko": "트럼프, 무역 차별 주장하며 특정 캐나다산 제품에 50% 관세 부과",
+    "link": "https://www.cnbc.com/2026/07/20/trump-tariffs-canada-trade.html",
+    "published": "Mon, 20 Jul 2026 22:13:57 GMT",
+    "fetched_at": "2026-07-21 10:47:26",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "자동차",
+      "제조업",
+      "국제무역 관련주",
+      "물류"
+    ],
+    "keywords": [
+      "트럼프",
+      "관세",
+      "캐나다",
+      "무역분쟁",
+      "미국-멕시코-캐나다 협정(USMCA)"
+    ],
+    "reason": "트럼프 행정부의 캐나다산 제품에 대한 관세 부과는 북미 지역의 무역 긴장을 고조시키고 글로벌 공급망 전반에 불확실성을 확대시킬 수 있습니다. 이는 전반적인 투자 심리를 위축시키고 관련 산업에 부담을 줄 것입니다.",
+    "action_point": "글로벌 공급망 불확실성 증가에 대비하여 방어적 섹터 및 내수 중심 기업으로 포트폴리오 재편을 고려하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "서산시, 산업위기 돌파 위한 기업 금융지원 강화, 이차보전으로 경영 숨통 틔운다 - v.daum.net",
+    "title_ko": "서산시, 산업위기 돌파 위한 기업 금융지원 강화, 이차보전으로 경영 숨통 틔운다",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5rWnFYRVBRUTJJb1JYRmJvWnVKczRvWUtwd1ZWVm0wNUpVUUVwMEpHa1VLZzNkNGFfb2YxeURiTVRBSGN0WXFYcTBVRHAzS28?oc=5",
+    "published": "Tue, 21 Jul 2026 01:06:10 GMT",
+    "fetched_at": "2026-07-21 10:47:37",
+    "sentiment": "호재",
+    "importance": 2,
+    "sectors": [
+      "지역 중소기업",
+      "지방 경제"
+    ],
+    "keywords": [
+      "서산시",
+      "기업 금융지원",
+      "이차보전",
+      "산업위기"
+    ],
+    "reason": "서산시의 이차보전 확대는 지역 내 중소기업들의 유동성 개선 및 경영 부담 완화에 기여하며, 이는 단기적으로 해당 지역 경기 안정에 긍정적이나 전국 단위 매크로 영향은 제한적이다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "GoogleNews_Korea",
     "title": "[뉴욕증시] 이란 전쟁 장기화 우려에 전강후약…하락 마감 - 연합인포맥스",
     "title_ko": "[뉴욕증시] 이란 전쟁 장기화 우려에 전강후약…하락 마감 - 연합인포맥스",
@@ -2815,74 +2887,5 @@
     ],
     "reason": "앤스로픽의 메타와의 컴퓨팅 파워 확보 논의는 AI 기술 개발 경쟁 심화와 관련 인프라 수요의 지속적인 증가를 시사한다. 이는 AI 관련 기업들과 AI 칩 및 데이터 센터 섹터에 긍정적인 영향을 미칠 수 있다.",
     "action_point": "AI 인프라 관련 반도체 및 데이터센터 섹터의 투자 기회를 주시."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "최태원 \"하이닉스, 샀다 팔지 마라…시간 두면 우상향\" - 주간조선",
-    "title_ko": "최태원 \"하이닉스, 샀다 팔지 마라…시간 두면 우상향\"",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41dVo3bjFWWU1VbE9uWExqQTdKbWRiN0dlQm15Tmlhd1AzdDZkLXVOODducnE2eVpKbjNMNnE3LXVncmhONTVjT1V0bGpXZEhrRXV5OTJ1UW5Kd3NkUC1rV21hMThQX3lWZ2c?oc=5",
-    "published": "Fri, 17 Jul 2026 07:43:42 GMT",
-    "fetched_at": "2026-07-18 03:53:41",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "반도체",
-      "IT 하드웨어",
-      "코스피 대형주"
-    ],
-    "keywords": [
-      "최태원",
-      "SK하이닉스",
-      "반도체",
-      "주식 투자",
-      "장기 투자"
-    ],
-    "reason": "SK그룹 회장의 SK하이닉스 장기 우상향 발언은 반도체 업황 개선 기대감과 맞물려 해당 기업 및 섹터에 대한 투자 심리를 긍정적으로 이끌 것입니다. 이는 국내 증시의 대형 기술주 전반에 대한 낙관적인 시각을 강화할 수 있습니다.",
-    "action_point": "SK하이닉스 및 반도체 섹터의 장기 성장 잠재력을 재평가하고 포트폴리오 내 비중을 유지 또는 확대하는 방안을 검토하십시오."
-  },
-  {
-    "source": "CNBC_Finance",
-    "title": "Stocks making the biggest moves premarket: Netflix, SpaceX, Alphabet and more",
-    "title_ko": "프리마켓에서 가장 큰 움직임을 보이는 주식: 넷플릭스, 스페이스X, 알파벳 등",
-    "link": "https://www.cnbc.com/2026/07/17/stocks-making-the-biggest-moves-premarket-nflx-spcx-googl-and-more.html",
-    "published": "Fri, 17 Jul 2026 11:47:57 GMT",
-    "fetched_at": "2026-07-18 03:53:19",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "기술",
-      "커뮤니케이션 서비스"
-    ],
-    "keywords": [
-      "프리마켓",
-      "주식 움직임",
-      "기술주",
-      "개별주"
-    ],
-    "reason": "이 기사는 프리마켓에서 특정 대형 기술/성장주들의 개별적인 움직임을 보도하며, 시장 전반의 방향성보다는 해당 기업 및 섹터에 대한 단기적 관심사를 반영합니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Inside the Chinese fraud rings stealing billions from banks and retailers",
-    "title_ko": "중국 사기 조직, 은행과 소매업체에서 수십억 달러 규모 사기 행각",
-    "link": "https://www.cnbc.com/2026/07/17/tap-pay-fraud-retail-crime.html",
-    "published": "Fri, 17 Jul 2026 13:12:11 GMT",
-    "fetched_at": "2026-07-18 02:01:17",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "금융",
-      "소매"
-    ],
-    "keywords": [
-      "중국",
-      "금융 범죄",
-      "사기",
-      "은행",
-      "소매업"
-    ],
-    "reason": "중국 내 은행 및 소매업체들이 수십억 달러 규모의 사기 피해를 입고 있어 해당 기업들의 수익성 및 주가에 부정적 영향을 미칠 수 있으며, 관련 투자자들의 신뢰 하락을 초래할 수 있습니다.",
-    "action_point": "중국 및 신흥국 시장의 금융/소매 섹터 투자 시, 해당 기업들의 보안 시스템 및 내부 통제 역량 점검을 강화해야 합니다."
   }
 ]
