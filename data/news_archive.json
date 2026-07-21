@@ -1,5 +1,53 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "title": "트럼프 또 관세 전쟁...15% 넘기면 한미 합의 위반 - YTN",
+    "title_ko": "트럼프 또 관세 전쟁...15% 넘기면 한미 합의 위반 - YTN",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBhRm1JTkhrTHJHTzMyUGUzVThSMDdLbTRUMlp5S0hxQ3N4b3lkSTFHUlFNWF9CaDg0cXRTNDRILS1aVHA1Sm9VMmNsN2d6RkQzRVloaU5NTFNBMGh6YVE?oc=5",
+    "published": "Tue, 21 Jul 2026 21:31:00 GMT",
+    "fetched_at": "2026-07-22 08:48:49",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "수출주",
+      "제조업",
+      "자동차",
+      "반도체"
+    ],
+    "keywords": [
+      "트럼프",
+      "관세",
+      "무역분쟁",
+      "보호무역",
+      "한미관계"
+    ],
+    "reason": "트럼프의 재집권 시 관세 인상 정책은 글로벌 무역 불확실성을 증대시키고, 한국과 같은 수출 중심국의 기업 실적과 경제 성장에 직접적인 악영향을 미칠 수 있습니다. 이는 한미 무역 관계의 긴장을 고조시킬 것입니다.",
+    "action_point": "미국 대선 결과에 따른 관세 정책 변화 가능성을 주시하며, 대미 수출 비중이 높은 국내 제조 기업의 투자 리스크를 재평가하라."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "Stock futures are little changed as investors gear up for more earnings: Live updates",
+    "title_ko": "기업 실적 발표를 앞두고 주식 선물은 소폭 변동",
+    "link": "https://www.cnbc.com/2026/07/21/stock-market-today-live-updates.html",
+    "published": "Tue, 21 Jul 2026 23:31:00 GMT",
+    "fetched_at": "2026-07-22 08:48:39",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "기술",
+      "산업재",
+      "전반적 주식 시장"
+    ],
+    "keywords": [
+      "기업 실적",
+      "주식 선물",
+      "기술주",
+      "산업주"
+    ],
+    "reason": "주요 기술 및 산업 기업들의 실적 발표를 앞두고 시장은 관망세를 보이며, 향후 실적 결과에 따라 개별 기업 및 섹터에 대한 변동성이 확대될 수 있음을 시사합니다.",
+    "action_point": "향후 발표될 주요 기술 및 산업 기업 실적에 따른 개별 종목 및 섹터별 포트폴리오 비중 조정을 고려."
+  },
+  {
     "source": "CNBC_World",
     "title": "Super Micro surges 15% on new order and margin disclosure after SpaceX announcement",
     "title_ko": "스페이스X 발표 후 신규 주문 및 마진 공개로 슈퍼 마이크로 15% 급등",
@@ -2832,57 +2880,5 @@
     ],
     "reason": "미국과 이란 간 군사적 충돌이 직접 인명 피해로 이어지며 중동 지역의 지정학적 리스크가 심각하게 고조되었다. 이는 유가 상승 압력과 글로벌 투자 심리 위축으로 작용할 것이다.",
     "action_point": "중동 지정학적 리스크 고조에 따른 유가 상승 및 위험 회피 심리 강화에 대비하여 에너지 및 방산 섹터 비중 확대를 검토하고 안전자산 보유를 늘려라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "가계대출 증가율 1.5% 총량규제, 근거는?…경제상황 맞는 새 기준 필요 - 머니투데이 - 머니투데이",
-    "title_ko": "가계대출 증가율 1.5% 총량규제, 근거는?…경제상황 맞는 새 기준 필요 - 머니투데이",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1BdWREMUNDdl81NEZWaFBYTkFEeEdhbDZUNzVxY0VDd2N3azFOSUE5WDludmNCeEY1QUc3azByTHo4MUVOQTM2MndWbWwyOHY1UGlndm95NkZQMkFjbDZOQ0dFRTN4eVBoS2Zz0gFwQVVfeXFMTmNaQklKelZQVHRrb0RhU0puTEk3bHo2dzRBcWlMOG91QnhPM0ZxeHVUQ21Ob3hCRVhSaThMNC1Ycm41eGFfQUxSNG1nT2FoUlI4SXp0VUVCaGhmTWFkU1FVcDVtUHpEcTJONDV2RE55bA?oc=5",
-    "published": "Sat, 18 Jul 2026 22:00:00 GMT",
-    "fetched_at": "2026-07-19 08:43:16",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "부동산",
-      "금융",
-      "건설"
-    ],
-    "keywords": [
-      "가계대출",
-      "총량규제",
-      "금융정책",
-      "부동산"
-    ],
-    "reason": "현행 1.5% 가계대출 총량규제에 대한 적정성 논란이 제기됨에 따라, 향후 금융 당국의 정책 변화 방향에 따라 부동산 시장 및 금융권의 대출 성장세에 큰 영향을 미칠 수 있다.",
-    "action_point": "가계대출 규제 완화 가능성에 대비하여 부동산 및 금융 섹터 투자 비중을 면밀히 검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "[글로벌 경제지표] 알파벳·테슬라·인텔 실적 주목…유럽중앙은행 금리 결정에 시선 - v.daum.net",
-    "title_ko": "[글로벌 경제지표] 알파벳·테슬라·인텔 실적 주목…유럽중앙은행 금리 결정에 시선",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TWmdKNk5hSHNSQy1qRndHWTBIeC05NVFwOHF3Q0Z3dERFZ2xtWGVOUFpSNGE4UldMUXV6S0FjOW1CYzBYSEZXZlh3WndXTE0?oc=5",
-    "published": "Sat, 18 Jul 2026 22:03:00 GMT",
-    "fetched_at": "2026-07-19 08:43:26",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "기술",
-      "반도체",
-      "자동차",
-      "금융"
-    ],
-    "keywords": [
-      "알파벳",
-      "테슬라",
-      "인텔",
-      "실적",
-      "유럽중앙은행",
-      "ECB",
-      "금리 결정",
-      "통화정책",
-      "기술주"
-    ],
-    "reason": "이 기사는 주요 기술 기업의 실적 발표와 유럽중앙은행의 금리 결정을 앞두고 시장의 불확실성이 커질 것임을 시사합니다. ECB 금리 결정은 글로벌 통화정책 방향에, 기술 기업 실적은 전체 증시의 투자 심리에 중요한 영향을 미칩니다.",
-    "action_point": "ECB 금리 결정과 주요 기술 기업 실적 발표에 따른 시장 변동성 확대에 대비하여 유로존 익스포저 및 기술주 포트폴리오를 점검하라."
   }
 ]
