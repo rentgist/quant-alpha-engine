@@ -1,5 +1,52 @@
 [
   {
+    "source": "CNBC_World",
+    "title": "Novo Nordisk sues Eli Lilly, alleging misleading GLP-1 advertising",
+    "title_ko": "노보 노디스크, 일라이 릴리 상대로 GLP-1 광고 오해 소지 주장하며 소송 제기",
+    "link": "https://www.cnbc.com/2026/07/21/novo-nordisk-sues-eli-lilly-glp-1-ads.html",
+    "published": "Tue, 21 Jul 2026 14:54:22 GMT",
+    "fetched_at": "2026-07-22 03:10:58",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "제약",
+      "바이오테크",
+      "헬스케어"
+    ],
+    "keywords": [
+      "노보 노디스크",
+      "일라이 릴리",
+      "GLP-1",
+      "소송",
+      "제약 경쟁"
+    ],
+    "reason": "이 뉴스는 GLP-1 시장의 양대 산맥인 노보 노디스크와 일라이 릴리 간의 광고 관련 법적 분쟁으로, 제약 섹터 내 경쟁 구도와 기업 평판에 영향을 미칠 수 있으나, 광범위한 거시경제적 파급력은 제한적이다.",
+    "action_point": "GLP-1 관련 제약 기업 포트폴리오의 경쟁 우위 및 법적 리스크를 재평가."
+  },
+  {
+    "source": "CNBC_Finance",
+    "title": "Stocks making the biggest moves premarket: General Motors, 3M, Novartis, Nebius & more",
+    "title_ko": "프리마켓에서 가장 큰 변동을 보인 종목들: 제너럴 모터스, 3M, 노바티스, 네비우스 외",
+    "link": "https://www.cnbc.com/2026/07/21/stocks-making-the-biggest-moves-premarket-gm-mmm-nvs-nbis.html",
+    "published": "Tue, 21 Jul 2026 13:09:44 GMT",
+    "fetched_at": "2026-07-22 03:10:49",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "자동차",
+      "산업재",
+      "제약/바이오",
+      "기술"
+    ],
+    "keywords": [
+      "프리마켓",
+      "개별 주식",
+      "변동성"
+    ],
+    "reason": "이 기사는 프리마켓에서 특정 대형주들의 활발한 움직임을 보여주며, 이는 개별 기업의 소식이나 단기적인 시장 흐름에 따른 반응으로 해석될 수 있습니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "GoogleNews_Korea",
     "title": "[국제칼럼]이란 전쟁, 그 끝은 어디인가 - 경향신문",
     "title_ko": "[국제칼럼]이란 전쟁, 그 끝은 어디인가",
@@ -2832,50 +2879,6 @@
       "기부"
     ],
     "reason": "이 뉴스는 워렌 버핏이 빌 게이츠와 제프리 엡스타인의 관계 때문에 기부를 중단한 것이 아니라는 해명으로, 개인적인 루머를 해소하지만 버크셔 해서웨이의 사업이나 광범위한 시장 상황에 직접적인 재정적 영향을 미치지 않습니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Telecom Italia board backs Poste's $14.9 billion takeover offer",
-    "title_ko": "Telecom Italia 이사회, Poste의 149억 달러 인수 제안 지지",
-    "link": "https://www.cnbc.com/2026/07/18/telecom-italia-board-backs-postes-14point9-billion-takeover-offer.html",
-    "published": "Sat, 18 Jul 2026 14:19:32 GMT",
-    "fetched_at": "2026-07-19 00:45:27",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "통신",
-      "클라우드 서비스",
-      "IT 서비스"
-    ],
-    "keywords": [
-      "M&A",
-      "이탈리아 통신",
-      "디지털 전환",
-      "클라우드"
-    ],
-    "reason": "이탈리아 통신 시장의 재편과 디지털 전환 가속화를 시사하는 대규모 M&A로, 관련 섹터에 대한 투자 심리에 긍정적 영향을 미칠 수 있습니다. 다만, 글로벌 매크로 시장 전체에 미치는 영향은 제한적입니다.",
-    "action_point": "유럽 통신 및 클라우드 서비스 섹터의 M&A 활성화 추세를 고려하여 관련 투자 기회를 모색."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "[속보]쿠팡, 인천 물류센터 화재 사과…“당국 조사 적극 협조” - 아시아경제",
-    "title_ko": "[속보]쿠팡, 인천 물류센터 화재 사과…“당국 조사 적극 협조” - 아시아경제",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9xa0Nfd1EtLWg3OExmY21oWXl6V1NYclN1VDBUSEhuTVdoWG01blB4d1cwd3o3WmFkOV9MSzFoMTRIMTJlYWpFOVdIbXBzOXNXQkpRT21xY0tsVXZia3cwVw?oc=5",
-    "published": "Sat, 18 Jul 2026 11:43:16 GMT",
-    "fetched_at": "2026-07-19 00:45:43",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "이커머스",
-      "물류"
-    ],
-    "keywords": [
-      "쿠팡",
-      "물류센터",
-      "화재"
-    ],
-    "reason": "쿠팡 물류센터 화재는 해당 기업의 단기적인 운영 차질과 재무적 손실을 야기하겠으나, 광범위한 거시경제 지표나 한국 시장 전반에는 제한적인 영향을 미칠 것으로 판단된다.",
     "action_point": "해당 없음"
   }
 ]
