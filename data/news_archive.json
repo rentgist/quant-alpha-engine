@@ -1,5 +1,29 @@
 [
   {
+    "source": "CNBC_Finance",
+    "title": "As the U.S.-Iran war heats up again, these parts of the stock market and economy could be affected",
+    "title_ko": "미국-이란 갈등 재점화: 증시와 경제에 미칠 영향",
+    "link": "https://www.cnbc.com/2026/07/21/iran-war-economy-markets-trump.html",
+    "published": "Tue, 21 Jul 2026 11:56:14 GMT",
+    "fetched_at": "2026-07-21 21:19:55",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "에너지",
+      "방산",
+      "항공/운송",
+      "보험"
+    ],
+    "keywords": [
+      "미국-이란",
+      "지정학적 리스크",
+      "유가",
+      "시장 변동성"
+    ],
+    "reason": "미국-이란 갈등 고조는 중동 지역의 지정학적 불안정성을 심화시켜 유가 상승 압력을 가하고, 글로벌 경제의 불확실성을 증대시켜 안전자산 선호 심리를 강화할 것입니다.",
+    "action_point": "지정학적 리스크 확대를 대비하여 유가 상승에 대비한 에너지/방산 섹터 비중 확대를 검토하고, 달러/금 등 안전자산 보유를 강화하십시오."
+  },
+  {
     "source": "Maeil_Business",
     "title": "중동 전쟁으로 기름값 폭등! 1세대 원자재 전문가의 에너지 기업 공략법",
     "title_ko": "중동 전쟁으로 기름값 폭등! 1세대 원자재 전문가의 에너지 기업 공략법",
@@ -2860,29 +2884,5 @@
     ],
     "reason": "미군과 이란 간의 지정학적 긴장 고조는 호르무즈 해협 등 주요 해운 운송로의 교란 가능성을 높여 유가 상승 압력과 글로벌 물류 비용 증가로 이어질 수 있습니다.",
     "action_point": "중동 지정학적 리스크 고조에 따른 유가 상승 가능성에 대비하여 에너지 섹터 비중 확대를 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "[AI 이슈트렌드] 반도체발 코스피 쇼크 속 홈플러스 파산 위기 주목 - AI타임스",
-    "title_ko": "[AI 이슈트렌드] 반도체발 코스피 쇼크 속 홈플러스 파산 위기 주목 - AI타임스",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE40WUd1YXpnTkNCVVNwODRTQVI1UUVZRUg5VEtVTHV2V21ZVERpNlJmbUI0QVFGZkVXRkpmQ3FWVHpVTl9vUWJxVm02TDFVTFNZR3ZJcHdXWjNYa1ZRdkJwbmtYbThqUXdOZlE?oc=5",
-    "published": "Sat, 18 Jul 2026 09:03:37 GMT",
-    "fetched_at": "2026-07-18 19:10:39",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "반도체",
-      "유통",
-      "소비재"
-    ],
-    "keywords": [
-      "반도체",
-      "코스피",
-      "홈플러스",
-      "파산",
-      "AI"
-    ],
-    "reason": "반도체 섹터의 부정적 흐름이 코스피 전반의 하방 압력으로 작용할 수 있으며, 대형 유통업체의 파산 위기는 국내 소비경기 둔화 우려를 심화시킵니다.",
-    "action_point": "반도체 및 유통 섹터 투자 비중 축소를 검토하고, 시장 전반의 변동성 확대에 대비하여 현금 비중을 일부 확보하라."
   }
 ]
