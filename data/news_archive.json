@@ -1,6 +1,30 @@
 [
   {
     "source": "Maeil_Business",
+    "title": "“눈으로 파괴력 확인”…우크라 드론, 미군 무기로 정식 도입",
+    "title_ko": "“눈으로 파괴력 확인”…우크라 드론, 미군 무기로 정식 도입",
+    "link": "https://www.mk.co.kr/news/world/12104888",
+    "published": "Wed, 22 Jul 2026 22:39:08 +09:00",
+    "fetched_at": "2026-07-23 03:03:24",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "방산",
+      "항공우주",
+      "기술"
+    ],
+    "keywords": [
+      "우크라이나 드론",
+      "미군 도입",
+      "방산 기술 수출",
+      "드론 도미넌스",
+      "무기 시스템"
+    ],
+    "reason": "우크라이나 드론의 미군 정식 도입은 드론 기술의 군사적 중요성 증대와 함께 글로벌 방산 시장의 기술 트렌드 변화를 가속화할 것입니다. 이는 관련 기술 개발 및 생산 기업들의 수혜로 이어질 가능성이 높습니다.",
+    "action_point": "방산 섹터 내 드론 및 관련 첨단 기술 보유 기업들의 투자 매력도를 재평가하고 비중 확대를 검토."
+  },
+  {
+    "source": "Maeil_Business",
     "title": "트럼프 “홍해 막으면 어찌될지 두고봐라”…후티반군에 경고메시지",
     "title_ko": "트럼프 “홍해 막으면 어찌될지 두고봐라”…후티반군에 경고메시지",
     "link": "https://www.mk.co.kr/news/world/12104907",
@@ -2848,29 +2872,5 @@
     ],
     "reason": "이 뉴스는 특정 예측 시장 플랫폼의 사용자 증가 소식으로, 월드컵과 같은 대형 이벤트가 핀테크 플랫폼의 성장을 견인할 수 있음을 보여주나, 전반적인 거시경제나 주요 자산 시장에 미치는 직접적인 영향은 제한적입니다.",
     "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "[기고]중동전쟁, 해상통제권 경쟁이 왜 인내력 경쟁으로 바뀌었는가…김태준의 美·이란戰 중계 - 문화일보",
-    "title_ko": "[기고]중동전쟁, 해상통제권 경쟁이 왜 인내력 경쟁으로 바뀌었는가…김태준의 美·이란戰 중계",
-    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1yaWJzOGNzUG9CY0w2aG41UUphT1Zab0ZIRmRsX2FxdjJRNXZtdjFVLUhpQTh3ZVIxNlB2RTEwTDk0Y00tMzJnRjRKRlJwZ0Zw?oc=5",
-    "published": "Sun, 19 Jul 2026 10:07:33 GMT",
-    "fetched_at": "2026-07-19 20:05:08",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "에너지",
-      "해운",
-      "방산"
-    ],
-    "keywords": [
-      "중동전쟁",
-      "미국-이란",
-      "지정학적 리스크",
-      "해상통제권",
-      "원유"
-    ],
-    "reason": "중동 전쟁 및 미국-이란 갈등 심화는 글로벌 원유 공급망 불안정성을 가중시키고 해상 운송 비용을 상승시켜 인플레이션 압력을 높일 수 있습니다. 이는 전반적인 경제 불확실성을 증대시키는 요인입니다.",
-    "action_point": "에너지 섹터 비중 유지 및 방산 섹터 관심 필요."
   }
 ]
