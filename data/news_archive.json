@@ -1,5 +1,76 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "title": "이미 들인 돈만 55조 넘어...이란 전쟁 장기화에 미 국방, 예산 '골머리' [자막뉴스] - YTN",
+    "title_ko": "이미 들인 돈만 55조 넘어...이란 전쟁 장기화에 미 국방, 예산 '골머리' [자막뉴스]",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XZWo0YnNSTGJxN1BUYTJ4N0tqQU00MkFyb1BITUZtZEEtQS1RQndlV2N2YmhBNHJwdDlvdzBRLVU0LVc3cnBKdDltTDRVWUFkeWNleTRPMjRwVS12cGc?oc=5",
+    "published": "Wed, 22 Jul 2026 06:24:00 GMT",
+    "fetched_at": "2026-07-22 19:16:03",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "방산",
+      "에너지",
+      "항공",
+      "해운"
+    ],
+    "keywords": [
+      "이란",
+      "전쟁",
+      "미 국방",
+      "예산",
+      "지정학적 리스크",
+      "유가"
+    ],
+    "reason": "이란과의 장기화된 분쟁은 중동 지역 지정학적 불안정을 고조시키고, 미 국방 예산 압박으로 이어져 국제 유가 상승 및 전반적인 시장 불확실성을 증대시킬 수 있습니다.",
+    "action_point": "지정학적 리스크 확대에 따른 방산 및 에너지 섹터 비중 확대를 검토"
+  },
+  {
+    "source": "CNBC_Finance",
+    "title": "Kalshi launches election hub for prediction markets ahead of midterms",
+    "title_ko": "Kalshi, 중간 선거 앞두고 예측 시장 위한 선거 허브 출시",
+    "link": "https://www.cnbc.com/2026/07/22/kalshi-launches-election-hub-for-prediction-markets-ahead-of-midterms.html",
+    "published": "Wed, 22 Jul 2026 09:00:02 GMT",
+    "fetched_at": "2026-07-22 19:15:48",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "핀테크",
+      "데이터/분석"
+    ],
+    "keywords": [
+      "Kalshi",
+      "예측 시장",
+      "중간 선거",
+      "이벤트 계약",
+      "플랫폼"
+    ],
+    "reason": "이 뉴스는 특정 기업의 예측 시장 플랫폼 출시 소식으로, 직접적으로 거시경제 지표나 투자 자산 가격에 미치는 영향은 제한적입니다. 다만, 선거 결과에 대한 시장의 기대 심리를 간접적으로 반영하는 도구로 활용될 수 있습니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "Maeil_Business",
+    "title": "“‘국평’ 전용 60㎡로 줄이면 주택공급 30% 확대 효과”",
+    "title_ko": "'국평' 전용 60㎡로 줄이면 주택공급 30% 확대 효과",
+    "link": "https://www.mk.co.kr/news/realestate/12104747",
+    "published": "Wed, 22 Jul 2026 18:21:42 +09:00",
+    "fetched_at": "2026-07-22 19:16:22",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "부동산",
+      "건설"
+    ],
+    "keywords": [
+      "주택공급",
+      "전용면적",
+      "부동산정책",
+      "국민주택"
+    ],
+    "reason": "국민주택 규모를 축소하여 주택 공급량을 늘리려는 전문가 논의로, 향후 정책화될 경우 중장기적 주택시장 안정화 및 가격 조정 압력으로 작용할 수 있습니다.",
+    "action_point": "향후 주택 공급 정책의 변화 가능성을 주시하며, 국내 부동산 및 건설 섹터 투자 비중의 재조정 여부를 검토."
+  },
+  {
     "source": "CNBC_World",
     "title": "Trump's push for American-made AI chips hits TSMC's margins",
     "title_ko": "트럼프의 미국산 AI 칩 추진, TSMC 마진에 타격",
@@ -2798,83 +2869,5 @@
     ],
     "reason": "연준 의장의 인플레이션 대응 능력에 대한 시장의 신뢰성 검증이 시작될 것이며, 이는 향후 통화정책 방향, 특히 금리 인상 속도에 결정적인 영향을 미칠 것입니다.",
     "action_point": "인플레이션 통제 실패 시 발생할 수 있는 금리 상승 압력에 대비하여 포트폴리오 내 금리 민감 자산 비중 축소를 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "[채권-주간] 중동전쟁 격화 여파·2분기 GDP 주시…연속 금리인상 가늠자 - 연합인포맥스",
-    "title_ko": "[채권-주간] 중동전쟁 격화 여파·2분기 GDP 주시…연속 금리인상 가늠자",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE45c1FHd29sQVduLXpFZV9IZGVkZ1VKSlI5ZlZfOFBobzNrVWxlRW5PbnNZXzZ0N1V1UnNON2t6aUtoODVILXhDbnlSaEdqSUx6YVBDeFlxVE5TNnAwRkhvWEU3endXT1JOdHkzVWVGTmE?oc=5",
-    "published": "Sun, 19 Jul 2026 04:00:12 GMT",
-    "fetched_at": "2026-07-19 17:00:34",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "채권",
-      "금융",
-      "건설/부동산",
-      "정유/화학",
-      "방산"
-    ],
-    "keywords": [
-      "중동전쟁",
-      "금리인상",
-      "GDP",
-      "채권시장",
-      "지정학적 리스크"
-    ],
-    "reason": "중동 지정학적 긴장 고조와 국내 2분기 GDP 결과에 따라 연속 금리 인상 가능성이 높아져, 채권 시장 전반에 하방 압력을 가하고 금리 민감 자산에 부정적 영향을 미칠 수 있다.",
-    "action_point": "금리 상승에 대비하여 채권 포트폴리오의 듀레이션을 줄이고, 금리 민감 섹터 비중을 축소 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "전쟁에 폭염, 쿠데타설까지…복합위기 이란, \"휴전 틈타 원유 9조원어치 중국 수출\" - v.daum.net",
-    "title_ko": "전쟁에 폭염, 쿠데타설까지…복합위기 이란, \"휴전 틈타 원유 9조원어치 중국 수출\"",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1tZE9lQTNNWE1wMW5TbTNzbWhhT3RTUlJ5MXJTanhjcm03d0RGN3Z4SVBsWkYya0tnQktGSERfQXNuR1FMd1VvLVY1eDV4TUU?oc=5",
-    "published": "Sun, 19 Jul 2026 07:28:09 GMT",
-    "fetched_at": "2026-07-19 17:00:59",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "원자재",
-      "에너지",
-      "석유화학",
-      "항공운송"
-    ],
-    "keywords": [
-      "이란",
-      "원유",
-      "중국",
-      "수출",
-      "유가",
-      "지정학"
-    ],
-    "reason": "이란의 복합 위기에도 불구하고 대규모 원유 수출이 지속되어 글로벌 원유 공급량이 증가, 국제 유가 상승 압력을 완화하는 긍정적 요인으로 작용할 수 있습니다.",
-    "action_point": "국제 유가 상방 압력 완화 가능성을 고려하여 에너지 섹터 비중 조정을 검토하고, 유가 하락 수혜 섹터(항공, 해운)에 대한 관심을 확대하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "중동전쟁만큼 시급한 대미투자… 올 8월 '트럼프 청구서' 날아오나 - 머니투데이 - 머니투데이",
-    "title_ko": "중동전쟁만큼 시급한 대미투자… 올 8월 '트럼프 청구서' 날아오나 - 머니투데이",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1VT3VGQ0dFZ3JjVHZLWDEwQWRiT3N0Zko4UWNabHpLbXhZS1E0TkZPRFYyUGRxN19SRklFQ3AwT0dnZWVVWDBkR2VxLWhtRmcyUFE4eGZjTlBkU0l2QWtmTC1IWG1tTjdNc1lv0gFwQVVfeXFMT185T09BUVJfUGJzQktaeVBVTmlpbm16bFV0Ty0wSktLLWVSR2Jhc1Y1c0tlQ2NFcndobUc3TjdLcFh3RE93WmZhNlFCRmhVNWkwMDlwN0JxWXhveHE3MzJ5YldHV2E2ZTV5Q1Q1bTBpVg?oc=5",
-    "published": "Sun, 19 Jul 2026 05:28:08 GMT",
-    "fetched_at": "2026-07-19 17:01:09",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "수출",
-      "반도체",
-      "자동차",
-      "배터리",
-      "IT부품"
-    ],
-    "keywords": [
-      "트럼프",
-      "미국 대선",
-      "보호무역",
-      "대미투자",
-      "통상압력"
-    ],
-    "reason": "트럼프 재집권 가능성과 함께 미국의 보호무역주의가 강화될 경우, 한국 기업들의 대미 투자 비용 증가와 통상 압력 심화로 국내 수출 중심 산업 전반에 불확실성과 실적 부담이 커질 수 있다.",
-    "action_point": "미국 시장 의존도가 높은 국내 대형 수출주 비중을 재검토하고, 대미 투자 및 통상 압력에 대한 기업별 노출도를 평가하라."
   }
 ]
