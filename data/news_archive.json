@@ -1,6 +1,194 @@
 [
   {
     "source": "CNBC_World",
+    "title": "Trump's push for American-made AI chips hits TSMC's margins",
+    "title_ko": "트럼프의 미국산 AI 칩 추진, TSMC 마진에 타격",
+    "link": "https://www.cnbc.com/2026/07/22/trump-pressure-ai-chips-us-tsmc-margins.html",
+    "published": "Wed, 22 Jul 2026 05:00:01 GMT",
+    "fetched_at": "2026-07-22 16:35:46",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "반도체",
+      "IT/기술",
+      "제조업"
+    ],
+    "keywords": [
+      "트럼프",
+      "AI 칩",
+      "TSMC",
+      "미국 제조",
+      "반도체 공급망"
+    ],
+    "reason": "트럼프의 미국 내 AI 칩 생산 강화 정책은 TSMC 등 비미국계 파운드리 기업의 생산 비용을 높여 마진 압박을 가하며, 이는 글로벌 반도체 공급망의 재편과 AI 기술 전반의 비용 상승으로 이어질 수 있습니다.",
+    "action_point": "미국 내 반도체 생산 확대 정책으로 인한 글로벌 파운드리 기업의 마진 압박을 고려하여, 국내 반도체 기업의 장기적인 투자 전략 및 미국 시장 노출도를 재평가하라."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "Zelenskyy ousts Ukraine’s army chief as protests expose wartime power struggle",
+    "title_ko": "젤렌스키, 전시 권력 투쟁 노출 속 우크라이나군 총사령관 해임",
+    "link": "https://www.cnbc.com/2026/07/22/ukraine-zelenskyy-protests-russia-war-putin.html",
+    "published": "Wed, 22 Jul 2026 06:41:15 GMT",
+    "fetched_at": "2026-07-22 16:35:57",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "방산",
+      "에너지",
+      "원자재"
+    ],
+    "keywords": [
+      "젤렌스키",
+      "우크라이나",
+      "군 총사령관",
+      "해임",
+      "전시",
+      "권력 투쟁",
+      "지정학적 위험"
+    ],
+    "reason": "우크라이나 최고 사령관 해임과 전시 중 노출된 내부 권력 투쟁은 전쟁의 불확실성을 가중시키고 지정학적 위험 프리미엄을 높일 수 있습니다. 이는 서방의 지원 피로감과 맞물려 글로벌 안보 환경에 부정적 영향을 미칩니다.",
+    "action_point": "글로벌 지정학적 리스크 심화에 대비하여 안전자산 비중 확대를 검토하고, 방산 섹터의 중장기 투자 매력을 재평가하라."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "India steps up energy shift as costs and tariff pressures mount — oil blending push sparks backlash",
+    "title_ko": "인도, 비용 및 관세 압력 증가에 따라 에너지 전환 가속화 — 석유 혼합 추진에 반발 직면",
+    "link": "https://www.cnbc.com/2026/07/22/india-oil-prices-tariff-ethanol-backlash-iran-war-russia-.html",
+    "published": "Wed, 22 Jul 2026 04:56:39 GMT",
+    "fetched_at": "2026-07-22 16:36:22",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "석유 및 가스",
+      "재생에너지",
+      "바이오 연료"
+    ],
+    "keywords": [
+      "인도",
+      "에너지 전환",
+      "원유 가격",
+      "대체 연료",
+      "에너지 안보"
+    ],
+    "reason": "인도의 에너지 전환 가속화는 장기적으로 세계 원유 수요에 하방 압력을 가하고, 에너지 안보 강화를 위한 구조적 변화로 재생에너지 및 바이오 연료 산업의 성장을 촉진할 것이다.",
+    "action_point": "원유 관련 익스포저 비중을 점진적으로 조정하고, 재생에너지 및 바이오 연료 관련 섹터의 투자 기회를 모색하라."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "Wall Street can wait: Why one U.S. biotech firm is listing in Hong Kong first",
+    "title_ko": "월스트리트는 기다려라: 왜 한 미국 생명공학 기업이 홍콩에 먼저 상장하는가",
+    "link": "https://www.cnbc.com/2026/07/22/axiom-aiosciences-ipo-listing-hong-kong.html",
+    "published": "Wed, 22 Jul 2026 05:58:51 GMT",
+    "fetched_at": "2026-07-22 16:36:07",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "생명공학",
+      "제약",
+      "홍콩 자본시장"
+    ],
+    "keywords": [
+      "홍콩 상장",
+      "생명공학",
+      "중국 제약",
+      "아시아 투자"
+    ],
+    "reason": "홍콩이 아시아 투자자 기반과 중국 제약 파트너십 접근성을 바탕으로 생명공학 기업들에게 매력적인 상장지로 부상하고 있으며, 이는 글로벌 자본시장의 흐름 변화를 시사한다.",
+    "action_point": "홍콩에 상장되었거나 상장을 추진 중인 아시아 및 미국 생명공학 기업에 대한 투자 기회를 면밀히 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "The world's top fintech companies: 2026",
+    "title_ko": "세계 최고 핀테크 기업: 2026년",
+    "link": "https://www.cnbc.com/worlds-top-fintech-companies-2026/",
+    "published": "Tue, 21 Jul 2026 23:01:45 GMT",
+    "fetched_at": "2026-07-22 16:36:12",
+    "sentiment": "호재",
+    "importance": 2,
+    "sectors": [
+      "핀테크",
+      "IT/기술",
+      "금융"
+    ],
+    "keywords": [
+      "핀테크",
+      "인공지능 (AI)",
+      "디지털 금융",
+      "혁신",
+      "성장"
+    ],
+    "reason": "핀테크 산업이 AI 기술 도입으로 성숙기에 접어들며 규모의 경제를 이루고 있어, 관련 기업들의 성장 잠재력을 시사한다.",
+    "action_point": "글로벌 선도 핀테크 및 AI 기술 접목 금융 솔루션 기업 비중 확대 검토"
+  },
+  {
+    "source": "CNBC_World",
+    "title": "Defense shares rally after UK government shake-up — analysts name the stocks to watch",
+    "title_ko": "영국 정부 개편 후 방산주 급등 — 분석가들이 주목할 종목 지목",
+    "link": "https://www.cnbc.com/2026/07/22/defense-stocks-uk-government-john-healey-chancellor.html",
+    "published": "Wed, 22 Jul 2026 05:29:20 GMT",
+    "fetched_at": "2026-07-22 16:36:35",
+    "sentiment": "호재",
+    "importance": 2,
+    "sectors": [
+      "방위산업"
+    ],
+    "keywords": [
+      "영국 정부",
+      "국방 예산",
+      "방위산업",
+      "정부 개편"
+    ],
+    "reason": "영국 신임 재무장관이 과거 국방비 부족 문제로 사임했던 인물인 만큼, 향후 영국 국방 및 안보 지출이 증가할 가능성이 커 방위산업 전반에 긍정적 영향을 미칠 수 있습니다.",
+    "action_point": "글로벌 방위산업 관련 투자 자산(ETF 또는 개별 주식)의 포트폴리오 비중 확대를 검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "[속보]법원 “오세훈, 벌금 1000만원” 선고…대법 확정시 시장직 상실 - 경향신문",
+    "title_ko": "[속보]법원 “오세훈, 벌금 1000만원” 선고…대법 확정시 시장직 상실",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pYjdJLTV5R2NVOEpFZHNvV19lS0EwM0h1SjU4S3hrZ1lPTHRJeFdmY0FXalMwZ3gwUURsOWg0bkg4b1FaUUJXTk5fV1JGR1lsR0FtRnVybVd2d9IBX0FVX3lxTE5JSHZVUWJCSEl5YlpkXzNvMlRkTXQyNjhYT0xSNWw2MGtuNmJ2MDV1dnM4bU1aVlFjRTcxTERkbldPQktiMDMwQmJFRkxNelJBaEJSRDRuR1hiN3MzUVQ0?oc=5",
+    "published": "Wed, 22 Jul 2026 06:28:00 GMT",
+    "fetched_at": "2026-07-22 16:36:45",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "건설",
+      "부동산"
+    ],
+    "keywords": [
+      "오세훈",
+      "서울시장",
+      "시장직 상실",
+      "정치 불확실성"
+    ],
+    "reason": "서울시장의 법적 리스크로 인한 정치적 불확실성이 발생하며, 이는 서울시 정책 방향에 따라 건설 및 부동산 섹터에 간접적인 영향을 줄 수 있습니다.",
+    "action_point": "서울시 정책 변화 가능성에 대비하여 건설 및 부동산 섹터 투자 비중을 점검하십시오."
+  },
+  {
+    "source": "Maeil_Business",
+    "title": "챗GPT로 검색만? 이젠 이것까지 가능…광고판 점령한 오픈AI",
+    "title_ko": "챗GPT로 검색만? 이젠 이것까지 가능…광고판 점령한 오픈AI",
+    "link": "https://www.mk.co.kr/news/it/12104532",
+    "published": "Wed, 22 Jul 2026 16:31:35 +09:00",
+    "fetched_at": "2026-07-22 16:37:20",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "기술",
+      "소프트웨어",
+      "광고"
+    ],
+    "keywords": [
+      "오픈AI",
+      "챗GPT",
+      "인공지능",
+      "광고",
+      "한국시장"
+    ],
+    "reason": "오픈AI의 한국 시장 광고 캠페인은 AI 기술의 대중화 및 상업적 확장을 의미하며, 장기적으로 AI 관련 산업의 성장 모멘텀을 강화합니다. 단기적인 거시경제 영향은 제한적입니다.",
+    "action_point": "AI 관련 기술주에 대한 중장기 투자 매력도 및 확산 속도를 재평가하고, 포트폴리오 내 비중을 점검하라."
+  },
+  {
+    "source": "CNBC_World",
     "title": "Tehran's Hormuz threat risks global fallout, Rubio warns as U.S. strikes Iran for 11th straight night",
     "title_ko": "루비오, 이란의 호르무즈 해협 위협은 전 세계적 파장을 초래할 수 있다고 경고, 미군 11일 연속 이란 공습",
     "link": "https://www.cnbc.com/2026/07/22/us-iran-war-trump-hormuz-.html",
@@ -2688,189 +2876,5 @@
     ],
     "reason": "트럼프 재집권 가능성과 함께 미국의 보호무역주의가 강화될 경우, 한국 기업들의 대미 투자 비용 증가와 통상 압력 심화로 국내 수출 중심 산업 전반에 불확실성과 실적 부담이 커질 수 있다.",
     "action_point": "미국 시장 의존도가 높은 국내 대형 수출주 비중을 재검토하고, 대미 투자 및 통상 압력에 대한 기업별 노출도를 평가하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "“푹 푹 찐다”…폭염에 누적 온열질환자 1000명 돌파, 사망자 3명",
-    "title_ko": "“푹 푹 찐다”…폭염에 누적 온열질환자 1000명 돌파, 사망자 3명",
-    "link": "https://www.mk.co.kr/news/society/12101740",
-    "published": "Sun, 19 Jul 2026 16:57:36 +09:00",
-    "fetched_at": "2026-07-19 17:01:24",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "유틸리티",
-      "가전",
-      "식음료",
-      "농업"
-    ],
-    "keywords": [
-      "폭염",
-      "온열질환",
-      "전력수요",
-      "농작물"
-    ],
-    "reason": "연이은 폭염은 전력 수요를 급증시켜 유틸리티 섹터에 단기 호재로 작용하나, 농작물 생산량 감소로 인한 인플레이션 압력과 일부 산업 생산성 저하 등 거시 경제적 악영향을 미칠 수 있습니다.",
-    "action_point": "유틸리티 및 폭염 수혜 소비재(가전, 식음료) 섹터 비중 확대를 검토하고, 농산물 가격 동향을 주시하십시오."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Cybersecurity risks posed by over-the-air tech in autos has analysts concerned",
-    "title_ko": "자동차 OTA 기술의 사이버 보안 위험, 애널리스트 우려 제기",
-    "link": "https://www.cnbc.com/2026/07/18/over-the-air-tech-in-vehicles-poses-cybersecurity-risks.html",
-    "published": "Sat, 18 Jul 2026 23:01:01 GMT",
-    "fetched_at": "2026-07-19 17:00:09",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "자동차",
-      "IT 서비스 (사이버 보안 솔루션 관련)"
-    ],
-    "keywords": [
-      "사이버 보안",
-      "OTA 기술",
-      "커넥티드카",
-      "자동차 산업"
-    ],
-    "reason": "자동차 산업의 OTA 기술 의존도 증가는 사이버 공격 위험을 높여 관련 기업의 평판 손상, 재무적 손실 및 규제 강화를 초래할 수 있어 기업 가치에 부정적 영향을 미칩니다.",
-    "action_point": "자동차 섹터 내 OTA 기술 의존도가 높은 기업의 사이버 보안 리스크를 점검하고 비중 조절을 고려하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "최태원 \"영업이익 10% 성과급, 이해관계자 해치면 바꿔야\" - 주간조선",
-    "title_ko": "최태원 \"영업이익 10% 성과급, 이해관계자 해치면 바꿔야\" - 주간조선",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Ka0htOUJFWF8wcVZEdWxyMU9ZSk9ad1ZfUDREM2xfR1Z0OVNJSG9RSWJoenFSLXpYUUljbXlyNU9EMENtZWxNWWh3U2tmNlRwd3lKSE1xSUYyMjNQeUVWUTRwS2E0cWtPMEE?oc=5",
-    "published": "Sun, 19 Jul 2026 04:55:00 GMT",
-    "fetched_at": "2026-07-19 17:00:45",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "대기업",
-      "기업 지배구조"
-    ],
-    "keywords": [
-      "최태원",
-      "성과급",
-      "이해관계자",
-      "기업 지배구조",
-      "SK그룹"
-    ],
-    "reason": "최태원 SK그룹 회장의 발언은 기업의 성과급 정책이 이해관계자에게 미치는 영향과 기업 지배구조의 변화 가능성을 시사합니다. 이는 장기적으로 대기업들의 이익 분배 방식과 투자 방향에 영향을 줄 수 있습니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "\"창원을 한국 청정에너지 수도로 만들 것\"",
-    "title_ko": "창원을 한국 청정에너지 수도로 만들 것",
-    "link": "https://www.mk.co.kr/news/society/12101732",
-    "published": "Sun, 19 Jul 2026 16:52:48 +09:00",
-    "fetched_at": "2026-07-19 17:01:31",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "청정에너지",
-      "재생에너지",
-      "친환경설비",
-      "중공업 (산업전환)"
-    ],
-    "keywords": [
-      "창원",
-      "청정에너지",
-      "탄소중립",
-      "RE100",
-      "산업전환"
-    ],
-    "reason": "창원시의 청정에너지 수도 전환 계획은 국가적 탄소중립 및 RE100 목표 달성을 위한 정부의 강력한 의지를 반영하며, 관련 산업의 투자와 성장을 촉진할 것입니다. 이는 국내 기업의 수출 경쟁력 강화와 장기적인 산업 구조 변화를 유도합니다.",
-    "action_point": "청정에너지 생산, 인프라 구축 및 관련 설비 제조 섹터 기업 비중 확대를 검토하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "[단독]“친환경 농사, 지을수록 손해”…정부, 직불금 최대 3배 인상 검토",
-    "title_ko": "[단독]“친환경 농사, 지을수록 손해”…정부, 직불금 최대 3배 인상 검토",
-    "link": "https://www.mk.co.kr/news/economy/12101730",
-    "published": "Sun, 19 Jul 2026 16:42:10 +09:00",
-    "fetched_at": "2026-07-19 17:01:46",
-    "sentiment": "호재",
-    "importance": 2,
-    "sectors": [
-      "농업",
-      "식품"
-    ],
-    "keywords": [
-      "친환경 농업",
-      "직불금",
-      "정부 정책",
-      "유기농"
-    ],
-    "reason": "정부가 친환경 농업의 낮은 수익성을 개선하고 국가 목표 달성을 위해 직불금을 대폭 인상하는 방안을 검토 중이며, 이는 친환경 농업 분야의 경제성 및 성장을 촉진할 것이다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "“단축근무 신청했더니 발령 내”…육아휴직, 직장인 절반이 못 쓴다",
-    "title_ko": "“단축근무 신청했더니 발령 내”…육아휴직, 직장인 절반이 못 쓴다",
-    "link": "https://www.mk.co.kr/news/society/12101729",
-    "published": "Sun, 19 Jul 2026 16:36:49 +09:00",
-    "fetched_at": "2026-07-19 17:01:56",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "중소기업",
-      "서비스업"
-    ],
-    "keywords": [
-      "육아휴직",
-      "근로시간 단축",
-      "중소기업",
-      "노동시장"
-    ],
-    "reason": "이 기사는 국내 노동시장의 구조적 문제, 특히 중소기업의 육아휴직 활용 어려움을 보여줍니다. 이는 장기적으로 인력 수급 불균형과 생산성 저하에 영향을 미칠 수 있으나, 단기적인 금융시장 영향은 제한적입니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "[속보] 강원 폭우에 낙석·고립‥영월에선 어젯밤 40대 낚시객 1명 실종 - MBC 뉴스",
-    "title_ko": "[속보] 강원 폭우에 낙석·고립‥영월에선 어젯밤 40대 낚시객 1명 실종 - MBC 뉴스",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZc25pWGxmUnZWTGNsVVF1TlNkTjVVdWxwSHFyMjRUNnY4WnJOdHNwcldGTEowMW9uajVNUl93Zjd1dEdKMnpCMXljRzJDaDBjUXlZM2EzOWlDZXVORnIzQlJmZzh2T0ptV0RSdk5xdVZIYUQ5VVZn0gF3QVVfeXFMT1FJUHdwaFlVQUIta19rUGZSeE1yMkVzTXVKTkRGc3JKdDV3YWwzamdZVDVNZTh0UERpbFJiNXAyUjFXWUtRaWI5OFltOEJWR2t6MGNxZnFmUHlQMWhxb2Qxb3hXNkdPc1Ffa2ctTjVDT2N3QUZjMWs?oc=5",
-    "published": "Sun, 19 Jul 2026 01:49:03 GMT",
-    "fetched_at": "2026-07-19 14:13:21",
-    "sentiment": "악재",
-    "importance": 2,
-    "sectors": [
-      "관광/레저",
-      "건설"
-    ],
-    "keywords": [
-      "강원도",
-      "폭우",
-      "낙석",
-      "고립",
-      "자연재해"
-    ],
-    "reason": "강원 지역의 국지성 폭우로 인한 인명 및 재산 피해 발생은 해당 지역의 관광 및 레저 활동을 단기적으로 위축시키고, 도로 등 기반 시설의 복구 수요를 발생시킬 수 있습니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "정경선 \"기후위기 선제 투자, 비용 아닌 미래 위한 보험료\" - v.daum.net",
-    "title_ko": "정경선 \"기후위기 선제 투자, 비용 아닌 미래 위한 보험료\"",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5nNFJsbkN5ZHdGT3JDSzZYRXFQWU1qT2FEVm92bzdaLU92RUI1RHF6WTB5MGs4Q2VGNDdZbl9jWFFja3lYb2pmUmZ1N2JYWUE?oc=5",
-    "published": "Sun, 19 Jul 2026 02:10:43 GMT",
-    "fetched_at": "2026-07-19 14:13:27",
-    "sentiment": "호재",
-    "importance": 2,
-    "sectors": [
-      "신재생에너지",
-      "친환경 기술",
-      "ESG 관련 산업"
-    ],
-    "keywords": [
-      "기후위기",
-      "ESG",
-      "친환경 투자",
-      "선제적 투자"
-    ],
-    "reason": "기후위기 대응을 위한 선제적 투자의 중요성을 강조하며, 이는 미래 가치와 지속가능성을 위한 필수적인 흐름임을 시사한다. 장기적으로 ESG 및 친환경 기술 관련 산업으로의 자본 유입이 가속화될 전망이다.",
-    "action_point": "ESG 및 신재생에너지 관련 섹터 비중 확대 검토"
   }
 ]
