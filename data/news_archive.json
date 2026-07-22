@@ -1,6 +1,57 @@
 [
   {
     "source": "CNBC_World",
+    "title": "Tehran's Hormuz threat risks global fallout, Rubio warns as U.S. strikes Iran for 11th straight night",
+    "title_ko": "루비오, 이란의 호르무즈 해협 위협은 전 세계적 파장을 초래할 수 있다고 경고, 미군 11일 연속 이란 공습",
+    "link": "https://www.cnbc.com/2026/07/22/us-iran-war-trump-hormuz-.html",
+    "published": "Wed, 22 Jul 2026 04:48:00 GMT",
+    "fetched_at": "2026-07-22 14:00:05",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "에너지",
+      "해운",
+      "항공",
+      "방산",
+      "금융"
+    ],
+    "keywords": [
+      "이란",
+      "미국",
+      "호르무즈 해협",
+      "지정학적 리스크",
+      "유가"
+    ],
+    "reason": "장기화되는 미군의 이란 공습과 이란의 호르무즈 해협 위협은 중동 지정학적 리스크를 극도로 고조시키며, 글로벌 원유 공급망 교란 및 유가 급등 가능성을 증대시킵니다. 이는 전반적인 시장 불안정성을 키워 위험 회피 심리를 부추길 것입니다.",
+    "action_point": "중동 지정학적 리스크 심화에 따른 유가 급등 가능성에 대비하여 에너지 섹터 비중을 확대하고 안전 자산(금, 달러) 보유를 유지하라."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "Wistron shares surge in Taiwan after opening of Texas AI superchip plant to supply Nvidia",
+    "title_ko": "텍사스 AI 슈퍼칩 공장 개소 후 대만 위스트론 주가 급등 (엔비디아 공급)",
+    "link": "https://www.cnbc.com/2026/07/22/wistron-shares-surge-after-opening-texas-plant-for-nvidia-ai-servers-.html",
+    "published": "Wed, 22 Jul 2026 04:10:57 GMT",
+    "fetched_at": "2026-07-22 14:00:21",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "반도체",
+      "인공지능",
+      "기술주",
+      "하드웨어"
+    ],
+    "keywords": [
+      "위스트론",
+      "엔비디아",
+      "AI",
+      "반도체",
+      "공급망"
+    ],
+    "reason": "이 뉴스는 AI 슈퍼칩 생산 능력이 확장되고 있으며, 엔비디아와 같은 주요 AI 기업의 수요가 견조함을 보여줍니다. 또한, 대만 기업의 미국 내 생산 시설 확대로 글로벌 반도체 공급망 재편 움직임을 시사합니다.",
+    "action_point": "AI 반도체 섹터의 견고한 수요를 감안, 관련 밸류체인 내 우량 기업에 대한 포트폴리오 비중 확대를 검토합니다."
+  },
+  {
+    "source": "CNBC_World",
     "title": "Nike to cut off thousands of online distributors in China, restructure digital footprint",
     "title_ko": "나이키, 중국 내 수천 개 온라인 유통업체 계약 종료 및 디지털 사업 재편",
     "link": "https://www.cnbc.com/2026/07/21/nike-to-cut-off-thousands-of-online-distributors-in-china.html",
@@ -2821,55 +2872,5 @@
     ],
     "reason": "기후위기 대응을 위한 선제적 투자의 중요성을 강조하며, 이는 미래 가치와 지속가능성을 위한 필수적인 흐름임을 시사한다. 장기적으로 ESG 및 친환경 기술 관련 산업으로의 자본 유입이 가속화될 전망이다.",
     "action_point": "ESG 및 신재생에너지 관련 섹터 비중 확대 검토"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "[속보] 미 “미군 2명 사망 보복”…이란에 또 공습 개시 - 한겨레",
-    "title_ko": "[속보] 미 “미군 2명 사망 보복”…이란에 또 공습 개시 - 한겨레",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE94V2FXZjhDejAwTmQ2Z1JJanhvRG1qV2wzcWpfRER5LW1TemJGeHZSMVdBaWV1NnVXREx0YzRqUnFlM2p1ZERGOHBpM1AxVFN5aE5SNUVNOU1WRnNxU19RNVJ4Wm9CVWV0ZjJwRWF5V3Bxbmc?oc=5",
-    "published": "Sat, 18 Jul 2026 23:10:00 GMT",
-    "fetched_at": "2026-07-19 10:47:22",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "원자재(유가)",
-      "방산",
-      "항공/해운"
-    ],
-    "keywords": [
-      "미국",
-      "이란",
-      "중동",
-      "지정학적 위험",
-      "유가"
-    ],
-    "reason": "미군의 이란 공습은 중동 지역의 지정학적 긴장을 고조시켜 국제 유가 상승 압력과 글로벌 위험 회피 심리 확산을 초래할 수 있다.",
-    "action_point": "중동 지정학적 위험 심화에 대비하여 에너지/방산 섹터 비중 확대 및 안전자산(금, 달러) 비중 재검토."
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "팍팍해진 현실에…1인가구, 월세 살며 N잡 뛴다",
-    "title_ko": "팍팍해진 현실에…1인가구, 월세 살며 N잡 뛴다",
-    "link": "https://www.mk.co.kr/news/economy/12101587",
-    "published": "Sun, 19 Jul 2026 10:27:33 +09:00",
-    "fetched_at": "2026-07-19 10:47:39",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "부동산",
-      "소비재",
-      "금융",
-      "플랫폼"
-    ],
-    "keywords": [
-      "1인가구",
-      "N잡",
-      "월세",
-      "전세",
-      "가계부채",
-      "소비심리"
-    ],
-    "reason": "1인 가구의 경제적 어려움과 월세 전환 가속화는 가계 소비 여력 약화 및 부동산 시장 내 주거 형태 변화를 시사하며, 이는 전반적인 내수 경기 위축 요인으로 작용할 수 있습니다.",
-    "action_point": "1인 가구 소비 위축 및 주거비 부담 증가 추세에 따라 필수 소비재 비중을 점검하고, 월세 전환 가속화에 따른 임대주택 시장 변화를 주시하라."
   }
 ]
