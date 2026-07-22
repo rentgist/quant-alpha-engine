@@ -1,5 +1,81 @@
 [
   {
+    "source": "CNBC_World",
+    "title": "Oil prices rise after Rubio says Iran is not serious about a deal",
+    "title_ko": "루비오 상원의원, 이란의 협상 진정성 부족 언급 후 유가 상승",
+    "link": "https://www.cnbc.com/2026/07/22/oil-prices-iran-war-macro-rubio-brent-wti.html",
+    "published": "Wed, 22 Jul 2026 14:01:15 GMT",
+    "fetched_at": "2026-07-22 23:57:17",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "해운",
+      "항공",
+      "화학"
+    ],
+    "keywords": [
+      "유가",
+      "이란",
+      "미국",
+      "지정학",
+      "해상운송"
+    ],
+    "reason": "미국과 이란 간의 지정학적 긴장 고조 및 지속적인 공습은 중동 지역의 원유 공급 및 해상 운송 경로를 위협하여 유가 상승 압력을 가중시킨다. 이는 전반적인 물가 상승 압력과 기업 비용 증가로 이어질 수 있다.",
+    "action_point": "에너지 섹터 비중 확대 및 유가 상승에 취약한 해운/항공 섹터 투자 축소 검토."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "Samsung ups prices as it launches new foldable smartphones ahead of expected Apple debut",
+    "title_ko": "삼성, 신형 폴더블 스마트폰 가격 인상하며 출시… 애플 데뷔 임박",
+    "link": "https://www.cnbc.com/2026/07/22/samsung-galaxy-z-fold8-ultra-z-fold8-z-flip8-launch.html",
+    "published": "Wed, 22 Jul 2026 13:00:01 GMT",
+    "fetched_at": "2026-07-22 23:57:10",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "모바일 기기",
+      "전자제품",
+      "반도체"
+    ],
+    "keywords": [
+      "삼성",
+      "폴더블폰",
+      "스마트폰",
+      "가격인상",
+      "애플",
+      "신제품"
+    ],
+    "reason": "삼성의 신형 폴더블폰 출시와 가격 인상은 해당 제품의 수익성 개선을 기대하게 하며, 프리미엄 스마트폰 시장에서 삼성의 경쟁 우위 확보 노력을 보여줍니다. 이는 관련 부품 공급망에도 긍정적 영향을 미칠 수 있습니다.",
+    "action_point": "삼성전자 및 폴더블폰 관련 부품주의 비중 확대 여부를 검토하십시오."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "[속보] 인천 쿠팡 물류센터 불 나흘 만에 완진‥109시간여만 - MBC 뉴스",
+    "title_ko": "[속보] 인천 쿠팡 물류센터 불 나흘 만에 완진‥109시간여만 - MBC 뉴스",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9BSmZNeTUwYlJXM09TdUVsOXIxTk1DeHgxVXlLVm04clFfeE9rTzIzRWNHckVTZEVkam5UMWEzMXZYQWFtRkI3UV9oYng2RW9FMjV5aHZpYWgtN1VoX2cwcV9JYnhRYU5OVXJLajJLTGY5MTlwVDF30gF3QVVfeXFMUDk1bU41WjBmT0k4V29fbHRwejdJQVZFbXpXYTNyLXJ6eWxNUHc4eG5UOWdLZmY2dUdndENQWmc0LTZBOG5MN3lJOG9hbFZVYTBaQW1rZ0NFajdDc1lweEE1akFaSTR4R3JKdURFWGcwd0F6bDF2TW8?oc=5",
+    "published": "Wed, 22 Jul 2026 11:59:55 GMT",
+    "fetched_at": "2026-07-22 23:57:27",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "전자상거래",
+      "물류",
+      "유통",
+      "보험"
+    ],
+    "keywords": [
+      "쿠팡",
+      "물류센터",
+      "화재",
+      "인천",
+      "완진",
+      "전자상거래"
+    ],
+    "reason": "쿠팡 물류센터 화재가 나흘 만에 완진되어 즉각적인 운영 리스크는 해소되었으나, 단기적인 물류 차질 및 복구 비용 발생은 불가피하여 해당 기업에 대한 미시적 영향은 존재하나 거시 경제 전반에 미칠 영향은 제한적임.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "GoogleNews_Korea",
     "title": "이미 들인 돈만 55조 넘어...이란 전쟁 장기화에 미 국방, 예산 '골머리' [자막뉴스] - YTN",
     "title_ko": "이미 들인 돈만 55조 넘어...이란 전쟁 장기화에 미 국방, 예산 '골머리' [자막뉴스]",
@@ -2797,77 +2873,5 @@
     ],
     "reason": "본 기사는 글로벌 및 국내 고금리 환경에 대한 일반 대중의 우려와 자산 보호 전략의 필요성을 시사한다. 이는 지속적인 긴축 통화정책과 그에 따른 자산 시장의 변동성 증가를 반영하며 투자자들의 포트폴리오 재조정 압력을 가중시킬 수 있다.",
     "action_point": "고금리 환경에 대비하여 방어적 포트폴리오로 재편하고, 금리 민감 자산 비중 축소를 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "靑경제안보비서관에 김성열 산업부 산업성장실장 임명 - 연합뉴스",
-    "title_ko": "靑경제안보비서관에 김성열 산업부 산업성장실장 임명 - 연합뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE42dTgyc1VIaTBQN2xqNkJzQXZYaWZNRzVkNk5vLUZYMmx1Y0ZnRVpKSDVCN3E5ZjZ1UDBHaHFiQklXT0pGbVdrZjRKQmJEX2M5bjlKV0Rqdmp4dVHSAWBBVV95cUxNSEdWYW9LUVJ3aUhTWDdUMGFNQWtVRkhyQnZXT3VIcEVObjRjY2FDN19KX2JoUVZyNFpSREYzNmFMdFU5RTRiX0dDNUUtVlg5UHZwUmN4bDVqVk5JaG12VFo?oc=5",
-    "published": "Sun, 19 Jul 2026 08:57:41 GMT",
-    "fetched_at": "2026-07-19 18:54:15",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "반도체",
-      "배터리",
-      "방산",
-      "전략산업"
-    ],
-    "keywords": [
-      "경제안보",
-      "산업정책",
-      "인사",
-      "대통령실"
-    ],
-    "reason": "신임 경제안보비서관 임명은 정부의 산업 경쟁력 강화 및 경제 안보 전략에 대한 지속적인 의지를 보여주나, 당장 시장에 미칠 직접적인 영향은 제한적이다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "이재명 대통령, 신임 靑경제안보비서관에 김성열 산업부 실장 임명",
-    "title_ko": "이재명 대통령, 신임 靑경제안보비서관에 김성열 산업부 실장 임명",
-    "link": "https://www.mk.co.kr/news/politics/12101883",
-    "published": "Sun, 19 Jul 2026 18:12:40 +09:00",
-    "fetched_at": "2026-07-19 18:54:47",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "반도체",
-      "배터리",
-      "자동차",
-      "플랫폼/유통"
-    ],
-    "keywords": [
-      "경제안보",
-      "대미투자",
-      "공급망",
-      "인사",
-      "정책연속성"
-    ],
-    "reason": "공석이 채워져 대미투자 및 공급망 관련 경제안보 현안에 대한 정부의 정책 연속성을 확보하는 인사로, 시장에 미칠 직접적 영향은 제한적입니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Analysis: Fed Chairman Warsh faces an inflation credibility test after Congress hearings",
-    "title_ko": "분석: 연준 의장 워시, 의회 청문회 후 인플레이션 신뢰성 시험대에 직면",
-    "link": "https://www.cnbc.com/2026/07/15/fed-chairman-kevin-warsh-inflation-credibility-test-analysis.html",
-    "published": "Fri, 17 Jul 2026 20:28:40 GMT",
-    "fetched_at": "2026-07-19 17:00:15",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "금융",
-      "기술주 (성장주)",
-      "부동산"
-    ],
-    "keywords": [
-      "연준 의장",
-      "인플레이션",
-      "통화정책",
-      "금리"
-    ],
-    "reason": "연준 의장의 인플레이션 대응 능력에 대한 시장의 신뢰성 검증이 시작될 것이며, 이는 향후 통화정책 방향, 특히 금리 인상 속도에 결정적인 영향을 미칠 것입니다.",
-    "action_point": "인플레이션 통제 실패 시 발생할 수 있는 금리 상승 압력에 대비하여 포트폴리오 내 금리 민감 자산 비중 축소를 검토하라."
   }
 ]
