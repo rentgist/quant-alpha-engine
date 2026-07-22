@@ -1,5 +1,56 @@
 [
   {
+    "source": "Maeil_Business",
+    "title": "트럼프 “홍해 막으면 어찌될지 두고봐라”…후티반군에 경고메시지",
+    "title_ko": "트럼프 “홍해 막으면 어찌될지 두고봐라”…후티반군에 경고메시지",
+    "link": "https://www.mk.co.kr/news/world/12104907",
+    "published": "Wed, 22 Jul 2026 23:48:36 +09:00",
+    "fetched_at": "2026-07-23 01:18:04",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "에너지",
+      "해운",
+      "방산",
+      "물류"
+    ],
+    "keywords": [
+      "홍해",
+      "후티 반군",
+      "트럼프",
+      "이란",
+      "지정학적 리스크",
+      "유가",
+      "해상운임",
+      "수에즈 운하"
+    ],
+    "reason": "홍해는 글로벌 핵심 교역로이므로 봉쇄 위협은 국제 유가 및 해상 운임 급등을 유발하며, 미군의 이란 공습까지 더해져 중동 지정학적 리스크가 심화되어 글로벌 경제에 불확실성을 가중시키는 악재입니다.",
+    "action_point": "국제 유가 및 해상 운임 상승에 대비하여 에너지, 방산 섹터 비중 확대 또는 관련 ETF 매수 검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "[속보] 인천 쿠팡물류센터 화재 나흘만에 완전진화 - 연합뉴스TV",
+    "title_ko": "인천 쿠팡물류센터 화재 나흘만에 완전진화",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2UnZDVTFXVUZCcDZRU1RwMjl0LVBuRTRlQ3J5TW9pM2lvWTVNcFQ2SkFsYjV3US1vUm1LY0k4aXhEbWM4WVduQ00tZFN2bXA3Rk1tWEoyaGVEdzJ5SXBRNHA4ZXoybmM?oc=5",
+    "published": "Wed, 22 Jul 2026 12:04:00 GMT",
+    "fetched_at": "2026-07-23 01:17:43",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "물류",
+      "유통"
+    ],
+    "keywords": [
+      "쿠팡",
+      "물류센터",
+      "화재",
+      "완전진화",
+      "인천"
+    ],
+    "reason": "쿠팡 물류센터 화재가 완전히 진화됨으로써 개별 기업의 운영 불확실성은 해소되었으나, 이미 발생한 물류 차질 및 재무적 영향은 쿠팡에 국한되어 국내 증시 전반에 미치는 영향은 제한적이다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "CNBC_World",
     "title": "Oil prices rise after Rubio says Iran is not serious about a deal",
     "title_ko": "루비오 상원의원, 이란의 협상 진정성 부족 언급 후 유가 상승",
@@ -2821,57 +2872,5 @@
     ],
     "reason": "중동 전쟁 및 미국-이란 갈등 심화는 글로벌 원유 공급망 불안정성을 가중시키고 해상 운송 비용을 상승시켜 인플레이션 압력을 높일 수 있습니다. 이는 전반적인 경제 불확실성을 증대시키는 요인입니다.",
     "action_point": "에너지 섹터 비중 유지 및 방산 섹터 관심 필요."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "U.S. says it targeted Iranian forces after attacks that killed two American service members",
-    "title_ko": "미국, 미군 2명 사망 공격에 이란군 표적 타격",
-    "link": "https://www.cnbc.com/2026/07/19/us-says-it-targeted-iran-forces-after-deaths-of-two-american-troops.html",
-    "published": "Sun, 19 Jul 2026 09:47:28 GMT",
-    "fetched_at": "2026-07-19 18:53:57",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "에너지",
-      "방산",
-      "항공/해운",
-      "금",
-      "기술",
-      "금융"
-    ],
-    "keywords": [
-      "미국-이란",
-      "중동 분쟁",
-      "지정학적 리스크",
-      "유가",
-      "안전자산"
-    ],
-    "reason": "미군 사망에 대한 미국의 이란 보복 공격은 중동의 지정학적 긴장을 급격히 고조시킨다. 이는 국제 유가 상승 압력과 함께 투자자들의 위험 회피 심리를 강화하여 글로벌 증시 하방 요인으로 작용할 수 있다.",
-    "action_point": "포트폴리오 내 위험자산 비중 축소를 고려하고, 원유 및 금 관련 자산 비중 확대를 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "‘이슈 PICK 쌤과 함께’ [한여름 경제특집 2편] 금리 전쟁, 내 돈을 지켜라 - 스포츠경향",
-    "title_ko": "‘이슈 PICK 쌤과 함께’ [한여름 경제특집 2편] 금리 전쟁, 내 돈을 지켜라 - 스포츠경향",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtWFJyMjNiRTRrQ3A0Nnc2T2FFNnFOWGNacjAxZkRzM3hIcUk5SDQyVWpwN0l6OE9BT2o5WFhDRGdXTmlGRlY4STFDTHBYU1g2bzZPVnRlTkw3ekZhdmfSAWNBVV95cUxQQlhUNG56cGUxRndwS3RxaHFyMDRzbERoeVdNVHpwSVd0RFBBR0dBNGRSVWdWQzJpaGowRjZHaU12Z0NxZTlJOG9YSTlCUHNIbnVsc2xBRWVRSTRyY01mam9vdVk?oc=5",
-    "published": "Sun, 19 Jul 2026 08:50:00 GMT",
-    "fetched_at": "2026-07-19 18:54:27",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "금융",
-      "부동산",
-      "주식시장 전반",
-      "채권"
-    ],
-    "keywords": [
-      "금리",
-      "경제",
-      "자산보호",
-      "통화정책",
-      "인플레이션"
-    ],
-    "reason": "본 기사는 글로벌 및 국내 고금리 환경에 대한 일반 대중의 우려와 자산 보호 전략의 필요성을 시사한다. 이는 지속적인 긴축 통화정책과 그에 따른 자산 시장의 변동성 증가를 반영하며 투자자들의 포트폴리오 재조정 압력을 가중시킬 수 있다.",
-    "action_point": "고금리 환경에 대비하여 방어적 포트폴리오로 재편하고, 금리 민감 자산 비중 축소를 검토하라."
   }
 ]
