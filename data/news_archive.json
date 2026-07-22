@@ -1,6 +1,106 @@
 [
   {
     "source": "Maeil_Business",
+    "title": "미국·이란 강대강 대치에 국제유가 상승…브렌트유 94달러대",
+    "title_ko": "미국·이란 강대강 대치에 국제유가 상승…브렌트유 94달러대",
+    "link": "https://www.mk.co.kr/news/business/12105033",
+    "published": "Thu, 23 Jul 2026 06:20:00 +09:00",
+    "fetched_at": "2026-07-23 06:58:45",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "항공",
+      "운수",
+      "화학",
+      "정유",
+      "방산"
+    ],
+    "keywords": [
+      "국제유가",
+      "이란",
+      "미국",
+      "지정학",
+      "인플레이션"
+    ],
+    "reason": "미국-이란 대치 심화로 국제유가 상승은 글로벌 인플레이션 압력을 가중하고, 원유 순수입국인 한국의 경상수지 및 원화 가치에 부정적 영향을 미칠 수 있습니다.",
+    "action_point": "고유가에 취약한 항공, 운수, 화학 등 에너지 다소비 섹터 비중 축소 검토 및 인플레이션 헤지 자산 검토."
+  },
+  {
+    "source": "Maeil_Business",
+    "title": "[속보] 美 “미국-사우디, 평화적 원자력 협력 협정 체결”",
+    "title_ko": "[속보] 美 “미국-사우디, 평화적 원자력 협력 협정 체결”",
+    "link": "https://www.mk.co.kr/news/world/12105027",
+    "published": "Thu, 23 Jul 2026 06:10:20 +09:00",
+    "fetched_at": "2026-07-23 06:58:53",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "원자력",
+      "건설/플랜트",
+      "방산"
+    ],
+    "keywords": [
+      "미국",
+      "사우디",
+      "원자력 협력",
+      "에너지 안보",
+      "중동 지정학"
+    ],
+    "reason": "미국과 사우디아라비아 간 전략적 협력 강화와 중동 지역 안정성 기여를 의미하며, 장기적으로는 원자력 에너지 관련 산업 성장에 긍정적 영향을 미칠 수 있습니다.",
+    "action_point": "원자력 발전 및 관련 인프라 섹터의 중장기 투자 기회를 모색하라."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "Tesla misses on earnings, as free cash flow turns negative and margins slide",
+    "title_ko": "테슬라, 실적 예상치 하회... 잉여현금흐름 마이너스 전환 및 마진 감소",
+    "link": "https://www.cnbc.com/2026/07/22/tesla-tsla-q2-2026-earnings-report.html",
+    "published": "Wed, 22 Jul 2026 20:55:53 GMT",
+    "fetched_at": "2026-07-23 06:58:35",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "전기차",
+      "자동차",
+      "기술주"
+    ],
+    "keywords": [
+      "테슬라",
+      "실적",
+      "잉여현금흐름",
+      "마진",
+      "전기차"
+    ],
+    "reason": "테슬라의 부진한 실적은 전기차 시장의 경쟁 심화와 수요 둔화 가능성을 시사하며, 이는 글로벌 전기차 섹터 및 성장주 전반의 투자 심리에 부정적인 영향을 미칠 수 있습니다.",
+    "action_point": "글로벌 전기차 관련 투자 비중을 축소할지 검토하라."
+  },
+  {
+    "source": "CNBC_Finance",
+    "title": "Stocks making the biggest moves after hours: Alphabet, Tesla, IBM, Las Vegas Sands, ServiceNow & more",
+    "title_ko": "장 마감 후 가장 큰 변동을 보인 주식들: 알파벳, 테슬라, IBM, 라스베이거스 샌즈, 서비스나우 외 다수",
+    "link": "https://www.cnbc.com/2026/07/22/stocks-making-the-biggest-moves-after-hours-googl-tsla-ibm-lvs.html",
+    "published": "Wed, 22 Jul 2026 21:21:52 GMT",
+    "fetched_at": "2026-07-23 06:58:12",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "기술",
+      "소비재",
+      "통신 서비스"
+    ],
+    "keywords": [
+      "장 마감 후 거래",
+      "개별 주식 변동",
+      "알파벳",
+      "테슬라",
+      "IBM",
+      "라스베이거스 샌즈",
+      "서비스나우"
+    ],
+    "reason": "이 기사는 특정 개별 기업의 장 마감 후 주가 변동을 단순히 나열한 것으로, 시장 전반의 방향성이나 거시 경제 지표에 미치는 직접적인 영향은 제한적이다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "Maeil_Business",
     "title": "“눈으로 파괴력 확인”…우크라 드론, 미군 무기로 정식 도입",
     "title_ko": "“눈으로 파괴력 확인”…우크라 드론, 미군 무기로 정식 도입",
     "link": "https://www.mk.co.kr/news/world/12104888",
@@ -2781,96 +2881,5 @@
     ],
     "reason": "높은 주거 비용은 젊은 층의 가처분 소득을 감소시켜 소비 위축을 야기하며, 주택 공급 확대 및 규제 강화 등 정책 변화 압력으로 작용하여 부동산 시장에 직접적인 영향을 미칠 수 있습니다.",
     "action_point": "주택 공급 확대 및 규제 정책 가능성에 대비하여 국내 부동산 및 건설 섹터 비중 축소 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "UK's incoming PM Andy Burnham drops digital ID scheme to prioritize cost of living, say allies",
-    "title_ko": "영국 차기 총리 앤디 번햄, 생활비 문제 우선순위로 디지털 ID 계획 철회 시사",
-    "link": "https://www.cnbc.com/2026/07/19/uks-incoming-pm-andy-burnham-to-prioritize-cost-of-living-say-allies.html",
-    "published": "Sun, 19 Jul 2026 13:09:15 GMT",
-    "fetched_at": "2026-07-19 23:21:18",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "기술"
-    ],
-    "keywords": [
-      "영국",
-      "총리",
-      "디지털 ID",
-      "생활비",
-      "정책 변화"
-    ],
-    "reason": "영국 차기 총리 후보가 디지털 ID 계획을 철회하고 생활비 문제를 우선시하겠다고 밝힌 것으로, 이는 영국 내 특정 기술(디지털 신원확인) 분야에 대한 정부 지원 축소를 의미하며, 당장의 글로벌 거시경제적 영향은 제한적이다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "코스닥, 6곳 관리종목 지정… ‘응원매수’로 일부 위기탈출 [경제레이더] - v.daum.net",
-    "title_ko": "코스닥, 6곳 관리종목 지정… ‘응원매수’로 일부 위기탈출",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB3b3JCM3VJdmpVMDk5aV9fdGJURENfd2w1Nk9aY0R0MVFsSkpJTEdDZktyU1RySy1QQ19xcmhTYmxHa1h2TGh3d210ZGhPTHc?oc=5",
-    "published": "Sun, 19 Jul 2026 13:31:08 GMT",
-    "fetched_at": "2026-07-19 23:21:42",
-    "sentiment": "악재",
-    "importance": 2,
-    "sectors": [
-      "코스닥 상장사",
-      "소형주",
-      "투자심리"
-    ],
-    "keywords": [
-      "코스닥",
-      "관리종목",
-      "기업부실",
-      "투자위험",
-      "소형주"
-    ],
-    "reason": "코스닥 시장 내 일부 기업의 재무 건전성 악화로 인한 관리종목 지정은 해당 기업뿐 아니라 시장 전반의 투자 심리에도 부정적인 영향을 미칠 수 있습니다. 동시에 '응원매수'는 투기적 매수세가 여전히 존재함을 시사합니다.",
-    "action_point": "코스닥 시장 내 재무 취약 기업에 대한 투자 비중을 축소하고, 포트폴리오의 안정성을 재점검하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "‘OOO 투기와의 전쟁’ 검찰도 나선다…전국에 전담검사 지정해 엄정 대응 - 문화일보",
-    "title_ko": "‘OOO 투기와의 전쟁’ 검찰도 나선다…전국에 전담검사 지정해 엄정 대응",
-    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE90TFVMeTRLeTRORVNxOXZjZUJWWktTV2VBUDgtNnVaYnRxa245WldDbEI4ZkQzWUJtU04wWUxBVlViRENlSjVSZEpMUUg4TUFy?oc=5",
-    "published": "Sun, 19 Jul 2026 10:27:12 GMT",
-    "fetched_at": "2026-07-19 21:56:01",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "금융 서비스",
-      "법률 서비스",
-      "규제 관련 산업"
-    ],
-    "keywords": [
-      "투기 단속",
-      "검찰 수사",
-      "시장 규제",
-      "자산 변동성",
-      "규제 리스크"
-    ],
-    "reason": "검찰이 OOO 자산의 투기 행위에 대해 전국적인 단속 및 엄정 대응을 예고함에 따라, 해당 자산 시장의 단기적인 가격 변동성 확대 및 투자 심리 위축 가능성이 높습니다. 이는 전반적인 시장 내 규제 리스크 인식을 높일 수 있습니다.",
-    "action_point": "불확실성 해소 전까지 레버리지를 활용한 고위험 투기성 자산에 대한 비중 축소 및 신규 진입 자제."
-  },
-  {
-    "source": "CNBC_Finance",
-    "title": "Kalshi adds 3 million new users as prediction market capitalizes on the World Cup",
-    "title_ko": "Kalshi, 월드컵 효과로 예측 시장 사용자 3백만 명 추가 확보",
-    "link": "https://www.cnbc.com/2026/07/19/kalshi-adds-3-million-new-users-as-company-capitalizes-on-world-cup.html",
-    "published": "Sun, 19 Jul 2026 12:42:30 GMT",
-    "fetched_at": "2026-07-19 21:55:40",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "핀테크"
-    ],
-    "keywords": [
-      "Kalshi",
-      "예측 시장",
-      "월드컵",
-      "사용자 증가"
-    ],
-    "reason": "이 뉴스는 특정 예측 시장 플랫폼의 사용자 증가 소식으로, 월드컵과 같은 대형 이벤트가 핀테크 플랫폼의 성장을 견인할 수 있음을 보여주나, 전반적인 거시경제나 주요 자산 시장에 미치는 직접적인 영향은 제한적입니다.",
-    "action_point": "해당 없음"
   }
 ]
