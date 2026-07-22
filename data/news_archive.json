@@ -1,5 +1,70 @@
 [
   {
+    "source": "CNBC_World",
+    "title": "Nike to cut off thousands of online distributors in China, restructure digital footprint",
+    "title_ko": "나이키, 중국 내 수천 개 온라인 유통업체 계약 종료 및 디지털 사업 재편",
+    "link": "https://www.cnbc.com/2026/07/21/nike-to-cut-off-thousands-of-online-distributors-in-china.html",
+    "published": "Wed, 22 Jul 2026 00:00:01 GMT",
+    "fetched_at": "2026-07-22 10:46:31",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "의류/신발",
+      "전자상거래",
+      "유통"
+    ],
+    "keywords": [
+      "나이키",
+      "중국 시장",
+      "온라인 유통",
+      "디지털 전환",
+      "브랜드 전략"
+    ],
+    "reason": "나이키의 중국 시장 전략 변화는 경쟁 심화 및 수익성 개선을 위한 글로벌 브랜드의 유통 재편 트렌드를 반영합니다. 이는 중국 내수 시장의 소비 트렌드 변화와 온라인 플랫폼 사업자들에게 장기적인 영향을 미칠 수 있습니다.",
+    "action_point": "중국 시장에 진출한 글로벌 소비재 기업의 직접 판매(D2C) 전략 강화 여부를 주시하라."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "Trump plans steep tariffs on generic drugs starting in 2028 to spur U.S. production",
+    "title_ko": "트럼프, 미국 생산 장려 위해 2028년부터 제네릭 의약품에 고율 관세 계획",
+    "link": "https://www.cnbc.com/2026/07/22/trump-generic-drugs-tariffs-medicine-trade-.html",
+    "published": "Wed, 22 Jul 2026 01:17:37 GMT",
+    "fetched_at": "2026-07-22 10:46:41",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "제약/바이오"
+    ],
+    "keywords": [
+      "트럼프",
+      "관세",
+      "제네릭 의약품",
+      "미국 생산",
+      "보호무역"
+    ],
+    "reason": "트럼프의 제네릭 의약품 관세 계획은 글로벌 제약사들의 공급망 재편과 비용 증가를 야기하여, 특히 비미국 기반 제약사들에게 악재로 작용할 것입니다. 이는 장기적으로 미국 내 의약품 가격 상승 압력으로 이어질 수 있습니다.",
+    "action_point": "미국 시장 의존도가 높은 국내 제네릭 의약품 관련 기업들의 투자 비중을 점검하고, 포트폴리오 조정 여부를 검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "[속보] 김건희, 2차 종합특검 출석…’관저 특혜’ 조사 - 연합뉴스TV",
+    "title_ko": "[속보] 김건희, 2차 종합특검 출석…’관저 특혜’ 조사",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9MZUVqc19EX0ZNZ2FXWXVpek13NDk3LTRUZ2xBQUg4dU10Q2dEQjlreENiSWxJeWlfYy04al9LZjI5enZkR0tWdUlXY3pPejdfR0g5VUV1X0U3ODg4bnFqcG9GY21HdEU?oc=5",
+    "published": "Wed, 22 Jul 2026 00:38:00 GMT",
+    "fetched_at": "2026-07-22 10:46:49",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [],
+    "keywords": [
+      "김건희",
+      "특검",
+      "관저 특혜",
+      "정치"
+    ],
+    "reason": "영부인의 특검 출석은 국내 정치적 노이즈를 증가시키겠으나, 광범위한 금융시장(주식, 금리, 환율, 원자재, 부동산)에 직접적인 투자 영향은 미미할 것으로 판단됩니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "GoogleNews_Korea",
     "title": "트럼프 또 관세 전쟁...15% 넘기면 한미 합의 위반 - YTN",
     "title_ko": "트럼프 또 관세 전쟁...15% 넘기면 한미 합의 위반 - YTN",
@@ -2806,79 +2871,5 @@
     ],
     "reason": "1인 가구의 경제적 어려움과 월세 전환 가속화는 가계 소비 여력 약화 및 부동산 시장 내 주거 형태 변화를 시사하며, 이는 전반적인 내수 경기 위축 요인으로 작용할 수 있습니다.",
     "action_point": "1인 가구 소비 위축 및 주거비 부담 증가 추세에 따라 필수 소비재 비중을 점검하고, 월세 전환 가속화에 따른 임대주택 시장 변화를 주시하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "위기에 놓인 조선주 멀피플 회복할 모멘텀 남았다 - 연합인포맥스",
-    "title_ko": "위기에 놓인 조선주 멀피플 회복할 모멘텀 남았다 - 연합인포맥스",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5LOVF5QW9qU3ZrX3FuMkxETjZwM3ZmZHh4OUxueHV4THR4OU9Eb09ScnBfaWRPaGhBcGtSTkZIdXBwZm5uWjBmZkw0cmt2VlZlNkNFemxrUzRxM3pzT0xma0c0dmtTUW5uYXp4VkJSakrSAXRBVV95cUxNMTBqdVN5MHFLWnhaZmt3VU1PbXNuZTl5d3pSVmFyRFJrWDBQajhvRmNKQWVBWHdkeU9FTEVOdXI3RnRuRkpBbVB0QVR2Q3BxWHRldkkxY3FRc29xS0VJR2U2WW5jUVNJeVI4RWdpOXEzRzREQg?oc=5",
-    "published": "Sun, 19 Jul 2026 00:16:27 GMT",
-    "fetched_at": "2026-07-19 10:47:27",
-    "sentiment": "호재",
-    "importance": 2,
-    "sectors": [
-      "조선"
-    ],
-    "keywords": [
-      "조선주",
-      "멀티플",
-      "모멘텀",
-      "회복"
-    ],
-    "reason": "조선주가 현재 위기 상황임에도 불구하고 향후 멀티플 회복 모멘텀이 남아있다는 분석은 해당 섹터에 대한 투자심리 개선 및 잠재적 상승 여력을 시사한다.",
-    "action_point": "조선 섹터의 잠재적 반등 가능성에 대비하여 관련 종목에 대한 투자 비중 확대를 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "[속보]미군, 이란 직접 공격에 첫 사망 - 한경매거진&북",
-    "title_ko": "[속보]미군, 이란 직접 공격에 첫 사망 - 한경매거진&북",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tb3lfM1h4TjVFOGYwcXAzQWU4WUhBVzZMR2VyUGpKMzRWX21pdjBkOXloR3VoaDlfQlNqanc4a01rNzQ4YUpkUTRVTnp1WmJpajJpRkg4TTZqNUNWSGVnbHVqRXVXY3E4SWdDZw?oc=5",
-    "published": "Sat, 18 Jul 2026 21:56:00 GMT",
-    "fetched_at": "2026-07-19 08:43:33",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "에너지",
-      "방산",
-      "운송",
-      "금융"
-    ],
-    "keywords": [
-      "이란",
-      "미국",
-      "중동",
-      "지정학적 리스크",
-      "유가",
-      "안전자산"
-    ],
-    "reason": "미군과 이란의 직접적인 교전에서 미군 사망자 발생은 중동 지정학적 리스크의 심각한 고조를 의미합니다. 이는 유가 급등을 야기하고 전반적인 시장의 위험 회피 심리를 강화할 것입니다.",
-    "action_point": "유가 급등 및 시장 변동성 확대에 대비하여 에너지 및 방산 섹터 비중을 확대하고 금, 달러 등 안전자산 보유를 강화."
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "미국 “미군 2명 전사·1명 실종”…이란 직접 공격에 병사 첫 사망",
-    "title_ko": "미국 “미군 2명 전사·1명 실종”…이란 직접 공격에 병사 첫 사망",
-    "link": "https://www.mk.co.kr/news/world/12101545",
-    "published": "Sun, 19 Jul 2026 08:20:44 +09:00",
-    "fetched_at": "2026-07-19 08:43:44",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "에너지 (정유, 가스)",
-      "방산",
-      "해운",
-      "항공",
-      "증권 (시장 변동성)"
-    ],
-    "keywords": [
-      "미국",
-      "이란",
-      "지정학적 리스크",
-      "중동",
-      "유가",
-      "군사적 충돌"
-    ],
-    "reason": "미국과 이란 간 군사적 충돌이 직접 인명 피해로 이어지며 중동 지역의 지정학적 리스크가 심각하게 고조되었다. 이는 유가 상승 압력과 글로벌 투자 심리 위축으로 작용할 것이다.",
-    "action_point": "중동 지정학적 리스크 고조에 따른 유가 상승 및 위험 회피 심리 강화에 대비하여 에너지 및 방산 섹터 비중 확대를 검토하고 안전자산 보유를 늘려라."
   }
 ]
