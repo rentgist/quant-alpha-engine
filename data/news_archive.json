@@ -1,5 +1,313 @@
 [
   {
+    "source": "CNBC_World",
+    "title": "Houthis claim strikes on Saudi Arabian oil tankers in Red Sea as Iran conflict expands",
+    "title_ko": "후티 반군, 홍해에서 사우디 유조선 공격 주장…이란 분쟁 확산",
+    "link": "https://www.cnbc.com/2026/07/23/iran-war-us-trump-houthis-red-sea-oil.html",
+    "published": "Thu, 23 Jul 2026 06:42:08 GMT",
+    "fetched_at": "2026-07-23 16:27:38",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "에너지",
+      "해운",
+      "방산"
+    ],
+    "keywords": [
+      "후티 반군",
+      "홍해",
+      "유가",
+      "지정학적 리스크"
+    ],
+    "reason": "홍해의 주요 해상 운송로에서 유조선 공격은 중동 지정학적 리스크를 고조시키고 글로벌 원유 공급 차질 및 해상 운송 비용 상승 압력을 가중시킬 것입니다. 이는 유가 상승과 인플레이션 우려를 심화시킬 수 있습니다.",
+    "action_point": "글로벌 유가 상승 압력에 대비하여 에너지 관련 자산 비중 확대를 검토하십시오."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "'Project Firepower': Inside Rheinmetall's gunpowder expansion as Europe races to replenish its ammunition",
+    "title_ko": "'화력 프로젝트': 유럽이 탄약 재고 보충에 박차를 가하는 가운데 라인메탈의 화약 증설 현황",
+    "link": "https://www.cnbc.com/2026/07/23/rheinmetall-gunpowder-ammunition-europe-rearm-ceo.html",
+    "published": "Thu, 23 Jul 2026 06:54:06 GMT",
+    "fetched_at": "2026-07-23 16:27:53",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "방위산업",
+      "항공우주및방위",
+      "화학"
+    ],
+    "keywords": [
+      "라인메탈",
+      "화약",
+      "탄약",
+      "방산",
+      "유럽",
+      "지정학적 리스크",
+      "공급망"
+    ],
+    "reason": "유럽의 방위 역량 강화 노력은 지정학적 긴장 심화에 따른 방산 수요 증가를 명확히 보여주며, 관련 산업의 매출 증대와 공급망 중요성을 부각시킵니다. 이는 방위산업 전반에 긍정적인 영향을 미칩니다.",
+    "action_point": "글로벌 지정학적 리스크 확대에 따라 방산 섹터 및 핵심 방산 소재 기업에 대한 비중 확대를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "UniCredit CEO tells CNBC full acquisition of Commerzbank could happen in fourth quarter",
+    "title_ko": "UniCredit CEO, CNBC에 코메르츠방크 인수 4분기에 가능할 수도 있다고 밝혀",
+    "link": "https://www.cnbc.com/2026/07/23/unicredit-commerzbank-takeover-acquisition-2q-earnings.html",
+    "published": "Thu, 23 Jul 2026 07:11:56 GMT",
+    "fetched_at": "2026-07-23 16:28:01",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "금융",
+      "유럽 증시"
+    ],
+    "keywords": [
+      "UniCredit",
+      "Commerzbank",
+      "인수합병",
+      "유럽 은행"
+    ],
+    "reason": "이 뉴스는 유럽 은행권의 대규모 인수합병 가능성을 시사하며, 이는 은행 섹터의 구조조정 및 효율성 증대 기회로 작용할 수 있습니다. 해당 은행들의 주가 변동 및 유럽 금융 섹터 전반에 긍정적 영향을 미칠 것입니다.",
+    "action_point": "유럽 금융 섹터의 구조조정 및 효율성 증대 가능성에 주목하며 관련 ETF 또는 대형 금융주 비중 확대를 고려하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "2분기 경제성장률 3.7%…반도체 호황에 2연속 ‘깜짝 성장’ - 조선일보",
+    "title_ko": "2분기 경제성장률 3.7%…반도체 호황에 2연속 ‘깜짝 성장’",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRzJSV2diSndFekFvcnR5em8zWjBBeEltR3pveWJBNDVBdHRkTDRTWXgzMmNGUGpDYXcyaHppcTRnSTEtQVo4bWhRWURDS2FhcEpER3F6bkFaZXEyYUhzbzNKY2c0dFVwLW1hWU1sYmhtZlJGYWt3aDd4enUwelc4UUg5MklvbnhGSmFTRS1B?oc=5",
+    "published": "Thu, 23 Jul 2026 00:50:58 GMT",
+    "fetched_at": "2026-07-23 16:28:19",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "반도체",
+      "IT",
+      "수출"
+    ],
+    "keywords": [
+      "경제성장률",
+      "반도체",
+      "수출",
+      "호황"
+    ],
+    "reason": "예상치를 상회하는 2분기 경제성장률은 반도체 수출 호조에 힘입은 것으로, 국내 경제의 견고한 회복세를 시사한다. 이는 기업 실적 전망 개선 및 투자 심리 회복에 긍정적 영향을 미칠 것이다.",
+    "action_point": "반도체 및 수출 비중이 높은 기업의 투자 비중 확대를 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "2분기 한국 경제 0.6% '깜짝 성장'…연간 3% 돌파 가시권(종합) - 연합뉴스",
+    "title_ko": "2분기 한국 경제 0.6% '깜짝 성장'…연간 3% 돌파 가시권(종합)",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96THkzVm5FdVpNb1Nuc1dlSmtIeTlHbmxSR1VXWHpPX3hSS3lnTE4ycDdIVUlVNXF2MEtSNlVtR3pObFJaNVJfYTdURTVOaTFieHR0RlJNbW9CYkpmanZFdtIBYEFVX3lxTE96THkzVm5FdVpNb1Nuc1dlSmtIeTlHbmxSR1VXWHpPX3hSS3lnTE4ycDdIVUlVNXF2MEtSNlVtR3pObFJaNVJfYTdURTVOaTFieHR0RlJNbW9CYkpmanZFdg?oc=5",
+    "published": "Thu, 23 Jul 2026 01:07:10 GMT",
+    "fetched_at": "2026-07-23 16:28:32",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "금융",
+      "소비재",
+      "산업재",
+      "IT"
+    ],
+    "keywords": [
+      "한국 경제",
+      "GDP",
+      "성장률",
+      "경기 회복"
+    ],
+    "reason": "예상치를 상회하는 2분기 GDP 성장은 경기 회복 기대감을 높여 국내 증시 전반에 긍정적이며, 특히 내수 및 수출 관련 섹터에 투자 모멘텀을 제공할 수 있습니다.",
+    "action_point": "경기 회복 기대감에 국내 주식 비중을 유지 또는 확대하고, 경기 민감주를 주목하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "title": "[단독] SMR 상용화 시점 앞당긴다...개발·규제 아우르는 TF 가동",
+    "title_ko": "[단독] SMR 상용화 시점 앞당긴다...개발·규제 아우르는 TF 가동",
+    "link": "https://www.mk.co.kr/news/it/12105584",
+    "published": "Thu, 23 Jul 2026 16:19:21 +09:00",
+    "fetched_at": "2026-07-23 16:29:16",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "원자력",
+      "건설",
+      "중공업",
+      "에너지"
+    ],
+    "keywords": [
+      "SMR",
+      "소형모듈원전",
+      "원자력",
+      "정부정책"
+    ],
+    "reason": "정부의 범부처 SMR TF 가동 및 상용화 시점 단축 논의는 국내 원자력 산업의 성장 가속화와 관련 기업들의 수주 확대 기대감을 높일 것입니다. 이는 에너지 정책 변화에 따른 중장기적인 산업 구조 변화에도 영향을 미칠 수 있습니다.",
+    "action_point": "국내 SMR 관련 기술 보유 기업 및 원전 기자재 공급 기업의 투자 비중 확대를 검토."
+  },
+  {
+    "source": "Maeil_Business",
+    "title": "금융위기급 추락 딛고 반등한 원화값…증권가 “1440원까지 간다”",
+    "title_ko": "금융위기급 추락 딛고 반등한 원화값…증권가 “1440원까지 간다”",
+    "link": "https://www.mk.co.kr/news/economy/12105583",
+    "published": "Thu, 23 Jul 2026 16:18:49 +09:00",
+    "fetched_at": "2026-07-23 16:29:33",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "수입",
+      "내수",
+      "수출",
+      "반도체",
+      "금융"
+    ],
+    "keywords": [
+      "원화",
+      "환율",
+      "강세",
+      "반등",
+      "SK하이닉스",
+      "외국인 투자"
+    ],
+    "reason": "원화 강세는 외국인 투자자금 유입을 촉진하고 수입 물가 부담을 경감시켜 국내 증시에 긍정적이나, 수출 기업의 가격 경쟁력에는 부정적 영향을 미칠 수 있습니다.",
+    "action_point": "원화 강세 수혜가 예상되는 내수 및 수입 관련 섹터 투자를 검토하고, 수출 비중이 높은 기업의 환율 위험 관리를 강화하라."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "Silver and gold prices stage a cautious rebound — but analysts see slim hopes for a sustained rally",
+    "title_ko": "은과 금 가격, 조심스러운 반등 — 그러나 애널리스트들은 지속적인 랠리 가능성을 낮게 본다",
+    "link": "https://www.cnbc.com/2026/07/23/silver-gold-prices-rebound-rally-correction.html",
+    "published": "Thu, 23 Jul 2026 05:00:01 GMT",
+    "fetched_at": "2026-07-23 16:27:45",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "원자재",
+      "귀금속"
+    ],
+    "keywords": [
+      "은",
+      "금",
+      "귀금속",
+      "반등",
+      "랠리"
+    ],
+    "reason": "애널리스트들이 은과 금 가격의 지속적인 랠리에 대한 회의적인 시각을 제시하면서, 안전자산으로서의 귀금속 매력이 제한적일 수 있음을 시사한다. 이는 인플레이션 헤지나 불확실성에 대비한 포트폴리오 전략에 영향을 미칠 수 있다.",
+    "action_point": "귀금속 투자 비중 및 리밸런싱 전략 재검토."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "Chip firm priced as China's most valuable company before its IPO brings scrutiny to crypto platform",
+    "title_ko": "IPO 앞둔 중국 반도체 기업의 과대평가, 암호화폐 플랫폼에 대한 감시를 불러오다",
+    "link": "https://www.cnbc.com/2026/07/23/chip-firm-priced-as-most-valuable-china-firm-pre-ipo-on-crypto-site.html",
+    "published": "Thu, 23 Jul 2026 03:28:22 GMT",
+    "fetched_at": "2026-07-23 16:28:12",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "반도체",
+      "암호화폐"
+    ],
+    "keywords": [
+      "반도체",
+      "중국",
+      "IPO",
+      "암호화폐",
+      "규제",
+      "과대평가"
+    ],
+    "reason": "오프쇼어 투자자들의 중국 IPO 접근 제한이 암호화폐 플랫폼을 통한 우회 투자를 야기하며, 특정 자산의 과대평가와 암호화폐 시장에 대한 규제 감시를 강화시킬 수 있습니다. 이는 암호화폐 시장의 건전성과 투자 안정성에 대한 우려를 증폭시킵니다.",
+    "action_point": "암호화폐 관련 자산 투자 시 잠재적 규제 강화 가능성에 대비하고, 관련 투자 자산의 밸류에이션을 보수적으로 재평가하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "\"중동전쟁 여파\"...졸업 후 1년 이상 청년 백수 48.6% - YTN",
+    "title_ko": "\"중동전쟁 여파\"...졸업 후 1년 이상 청년 백수 48.6% - YTN",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9PQjd0QkcwZDBkODNmbzJTMDdaMUNnUVZMRDBvSTFwY2oyM0VTMnJDMzg0eFp2cFJlUmNJSHJqV0JDMG1iNnJLbkludkw3Tlh3VkdIX0lmQmg1aE9WdFE?oc=5",
+    "published": "Thu, 23 Jul 2026 04:19:00 GMT",
+    "fetched_at": "2026-07-23 16:28:52",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "소비재",
+      "유통",
+      "서비스"
+    ],
+    "keywords": [
+      "청년 실업",
+      "고용",
+      "경기 둔화",
+      "내수",
+      "중동 지정학"
+    ],
+    "reason": "높은 청년 장기 실업률은 중동 지정학적 리스크로 인한 국내 경제의 구조적 취약성을 보여주며, 내수 소비 둔화 가능성을 높인다.",
+    "action_point": "국내 경기 민감 소비재 및 서비스 섹터 투자 비중 재고 및 방어적 자산 비중 확대를 고려."
+  },
+  {
+    "source": "Maeil_Business",
+    "title": "OCI홀딩스 2분기 영업이익 1080억원…흑자 전환 성공",
+    "title_ko": "OCI홀딩스 2분기 영업이익 1080억원…흑자 전환 성공",
+    "link": "https://www.mk.co.kr/news/business/12105580",
+    "published": "Thu, 23 Jul 2026 16:16:50 +09:00",
+    "fetched_at": "2026-07-23 16:29:50",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "태양광 에너지",
+      "신재생 에너지",
+      "화학"
+    ],
+    "keywords": [
+      "OCI홀딩스",
+      "2분기 실적",
+      "흑자 전환",
+      "태양광",
+      "폴리실리콘",
+      "미국 프로젝트"
+    ],
+    "reason": "OCI홀딩스의 흑자 전환은 미국 태양광 프로젝트의 성공적 수익화를 반영하며, 글로벌 태양광 시장, 특히 핵심 소재인 폴리실리콘 수요의 견조함을 시사한다. 이는 국내 태양광 및 신재생에너지 섹터 전반의 투자심리 개선으로 이어질 수 있다.",
+    "action_point": "태양광 섹터 내 폴리실리콘 및 웨이퍼 등 핵심 소재 기업과 미국 시장 노출 기업에 대한 투자 비중 확대를 검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "[속보]‘국힘, 397억원 반환’ 달린 윤석열 선거법 선고···법원 “다음주 생중계” - 경향신문",
+    "title_ko": "[속보]‘국힘, 397억원 반환’ 달린 윤석열 선거법 선고···법원 “다음주 생중계”",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nRUlhcDdrR1lFRF9jUFB3Q0MxeE1GekVySmNlZ2IxSFBtcW4tc3AzdG9QY1N0Ul9EWFNOSnA2eHBaWkxXdk1pYWRZbXVTUXZRRnYxWHV0MTYyQdIBX0FVX3lxTE1lRENTMF9qeGlkanlCdWpVVWNsQmk2OVdwSExlbXVFSTZmY1k5MGJfTWJ2QnJpUDlXbVhUd0c0R040YlU4SVlZMm1qcXpLb1I1SWh0QWFTU3ZXdkNxM3NR?oc=5",
+    "published": "Thu, 23 Jul 2026 06:36:00 GMT",
+    "fetched_at": "2026-07-23 16:29:03",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [],
+    "keywords": [
+      "윤석열",
+      "선거법",
+      "국민의힘",
+      "법원 선고",
+      "397억원"
+    ],
+    "reason": "이 기사는 윤석열 대통령의 선거법 위반 관련 법원 선고 및 국민의힘의 397억원 반환 가능성에 대한 국내 정치적 이슈이다. 거시경제나 특정 투자 자산에 미칠 직접적인 영향은 제한적이다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "Maeil_Business",
+    "title": "집밥족 겨냥한 에어프라이어 경쟁…테팔, 원적외선 모델 출시",
+    "title_ko": "집밥족 겨냥한 에어프라이어 경쟁…테팔, 원적외선 모델 출시",
+    "link": "https://www.mk.co.kr/news/business/12105581",
+    "published": "Thu, 23 Jul 2026 16:17:01 +09:00",
+    "fetched_at": "2026-07-23 16:29:41",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "가전제품",
+      "소비재"
+    ],
+    "keywords": [
+      "에어프라이어",
+      "집밥",
+      "고물가",
+      "가전제품",
+      "소비트렌드"
+    ],
+    "reason": "고물가와 건강식 수요가 맞물리며 집밥족이 늘면서 특정 가전제품 시장의 경쟁이 심화되고 있음을 보여주는 기사입니다. 이는 거시 경제에 큰 영향을 미치기보다는 개별 소비재 섹터 내의 미시적인 흐름으로 해석됩니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "CNBC_Finance",
     "title": "John Paulson says we are in the early stages of a long-term bull market for gold",
     "title_ko": "존 폴슨, 금(Gold) 장기 강세장의 초기 단계에 진입했다고 밝혀",
@@ -2567,311 +2875,5 @@
     ],
     "reason": "TSMC의 AI 관련 공장 증설은 반도체 산업의 강력한 수요와 성장 전망을 보여주며, 특히 AI 관련 기술주에 긍정적인 신호로 작용합니다. 이는 글로벌 기술 공급망에 대한 투자를 가속화할 수 있습니다.",
     "action_point": "AI 관련 반도체 및 기술주 비중 확대 검토"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "[분석] ‘블랙 서스데이’ 경제 쇼크에 李 지지율 4.7%P 증발했다 - 에너지경제신문",
-    "title_ko": "[분석] ‘블랙 서스데이’ 경제 쇼크에 李 지지율 4.7%P 증발했다 - 에너지경제신문",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8zT01XMjBxUkt6cFRoenM5WUNSTC03T2pCZno1OGQ1eEpjTmc1X3ZaLWhZWmJGU1Y2MjhObkRmbDdPRk5Jb1dUS28zTHZUNUtidXJzY2RLNklFeG9wX0xlY29KOA?oc=5",
-    "published": "Sun, 19 Jul 2026 21:00:00 GMT",
-    "fetched_at": "2026-07-20 06:42:40",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "전반적인 시장",
-      "소비재",
-      "금융"
-    ],
-    "keywords": [
-      "경제 쇼크",
-      "국내 경기",
-      "정치 불확실성",
-      "지지율"
-    ],
-    "reason": "‘블랙 서스데이’로 언급된 경제 쇼크가 국내 정치인의 지지율 하락으로 이어진 것은 국내 경제에 대한 대중의 부정적 인식이 크다는 것을 보여주며, 이는 향후 정책 불확실성과 시장 변동성을 높일 수 있습니다.",
-    "action_point": "국내 경기 침체 및 정책 불확실성 확대에 대비하여 방어적 자산 비중 확대를 검토하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "“한번 더 털리면 어휴…” 해킹홍역 통신사들 보안에 3300억 투자",
-    "title_ko": "“한번 더 털리면 어휴…” 해킹홍역 통신사들 보안에 3300억 투자",
-    "link": "https://www.mk.co.kr/news/it/12102024",
-    "published": "Mon, 20 Jul 2026 06:12:52 +09:00",
-    "fetched_at": "2026-07-20 06:42:57",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "통신",
-      "정보보안"
-    ],
-    "keywords": [
-      "해킹",
-      "정보보호",
-      "통신사",
-      "보안 투자",
-      "AI 보안"
-    ],
-    "reason": "주요 통신사들의 정보보호 투자는 단기적으로 비용 증가 요인이지만, 장기적으로는 네트워크 안정성과 고객 신뢰도를 높여 미래 리스크를 감소시키는 긍정적 효과가 있다. 이는 통신 섹터의 필수적인 비용 구조 변화로 볼 수 있다.",
-    "action_point": "통신 섹터 투자 비중 재검토 시, 보안 투자 증가로 인한 기업의 재무 영향과 장기 리스크 감소 효과를 종합적으로 고려하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "반도체 쏠림 한국 경제에… 한은, ‘네덜란드 병’ 경고 - 조선일보",
-    "title_ko": "반도체 쏠림 한국 경제에… 한은, ‘네덜란드 병’ 경고",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRXFzaVJ0SEdHRkRrSjdBQ1BjZ3MzVmpjLW5DeTBIbm5HMElSTUh3Wk1pVVU5QTIxbFlrQ1k1WGtfaXFJWmxxM0cxNkszQ3NJaTlIWnh4SjFjX09zWEwxVWtWUmFrZ0VodDJrQTJKUkFMb3hLRl81T3RWSXJsS0pPMU5McnEzck9MQk5lSERB?oc=5",
-    "published": "Sun, 19 Jul 2026 15:51:00 GMT",
-    "fetched_at": "2026-07-20 05:03:17",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "반도체",
-      "내수산업",
-      "수출산업(비반도체)"
-    ],
-    "keywords": [
-      "반도체 쏠림",
-      "네덜란드 병",
-      "한국 경제",
-      "한국은행",
-      "구조적 위험"
-    ],
-    "reason": "한국은행의 '네덜란드 병' 경고는 반도체 부문 쏠림으로 인한 경제 불균형 심화와 장기적인 비반도체 산업 경쟁력 약화를 시사하며, 이는 전체 경제의 잠재 성장률 둔화 리스크로 작용한다.",
-    "action_point": "반도체 섹터에 대한 과도한 집중 투자 비중 조정 검토"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "트럼프 \"대러 제재 법안에 이란도 추가해야\"…경제 압박 강조 - 연합뉴스",
-    "title_ko": "트럼프 \"대러 제재 법안에 이란도 추가해야\"…경제 압박 강조",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhTExPSzBUb1lJR0ViYlB2RFBuWk1temQwc0JhUjg5NHhDSDVqRXR0WjRySGZyYTlmMHU4My1NTWtkZHpiOTJfWjVOSm9ONWIxTXJLVE1iQm16WmvSAWBBVV95cUxPMzVSYlo4TE1qZEpyMEZ0RTNXcXc2a2k1MzJOSERPRkhfRlFkWjVnOFNRdkxxcG9ubjE0WFcyZXlJQzUtdXRJaXBCSkxLZ3lSaGtmXzRISnpZQXZIS1Jfalo?oc=5",
-    "published": "Sun, 19 Jul 2026 12:38:55 GMT",
-    "fetched_at": "2026-07-20 05:03:24",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "방위산업",
-      "해운/물류"
-    ],
-    "keywords": [
-      "트럼프",
-      "이란 제재",
-      "러시아",
-      "지정학적 리스크",
-      "유가"
-    ],
-    "reason": "트럼프의 이란 제재 추가 요구는 중동 지정학적 리스크를 높이고 글로벌 원유 공급 불확실성을 증대시켜 유가 상승 압력을 가중시킬 수 있습니다. 이는 전반적인 시장의 불확실성을 키우고 인플레이션 우려를 심화시킬 것입니다.",
-    "action_point": "중동 지정학적 리스크 고조와 유가 상승 가능성에 대비하여 에너지 섹터 비중을 확대하고, 방위산업 관련 종목을 편입하는 것을 검토하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "“요즘 왜 게임 접속 안해?”…떠난 사람들 ‘이 앱’에 40시간 썼다",
-    "title_ko": "“요즘 왜 게임 접속 안해?”…떠난 사람들 ‘이 앱’에 40시간 썼다",
-    "link": "https://www.mk.co.kr/news/it/12102008",
-    "published": "Mon, 20 Jul 2026 00:02:10 +09:00",
-    "fetched_at": "2026-07-20 05:03:33",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "게임",
-      "인공지능",
-      "IT 서비스",
-      "콘텐츠"
-    ],
-    "keywords": [
-      "게임 이용률 하락",
-      "AI 동반자 앱",
-      "소비 트렌드 변화",
-      "디지털 콘텐츠",
-      "여가 시간"
-    ],
-    "reason": "한국인의 게임 이용률 하락과 AI 동반자 앱 사용 증가는 디지털 콘텐츠 소비 패러다임의 변화를 시사합니다. 이는 기존 게임 산업에는 도전 요인이지만, AI 기반 서비스 및 플랫폼 분야에는 새로운 성장 기회를 제공할 수 있습니다.",
-    "action_point": "국내 게임 섹터 투자 비중 축소를 고려하고, 인공지능 기반 서비스 및 플랫폼 기업을 주시하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "BTS, 오늘 월드컵 결승 ‘하프타임쇼’ 출격…마돈나와 어깨 나란히",
-    "title_ko": "BTS, 오늘 월드컵 결승 ‘하프타임쇼’ 출격…마돈나와 어깨 나란히",
-    "link": "https://www.mk.co.kr/news/world/12100391",
-    "published": "Mon, 20 Jul 2026 00:01:00 +09:00",
-    "fetched_at": "2026-07-20 05:03:41",
-    "sentiment": "호재",
-    "importance": 2,
-    "sectors": [
-      "엔터테인먼트",
-      "미디어"
-    ],
-    "keywords": [
-      "BTS",
-      "월드컵",
-      "하프타임쇼",
-      "K-pop"
-    ],
-    "reason": "BTS의 월드컵 결승 하프타임쇼 출연은 K-pop의 글로벌 위상을 강화하고, 관련 엔터테인먼트 기업들의 브랜드 가치 및 잠재적 수익 증대에 긍정적인 영향을 미칠 수 있습니다.",
-    "action_point": "엔터테인먼트 섹터 내 대형 기획사 주식 비중 확대 검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "[속보] 인천 서해구, 쿠팡물류센터 붕괴 가능성에 인근 주민 대피령 - KBS 뉴스",
-    "title_ko": "[속보] 인천 서해구, 쿠팡물류센터 붕괴 가능성에 인근 주민 대피령 - KBS 뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KN25ackpmdmJldUNjRldtSU40b3ROUTFhcVhmX1JVRExvTDJ1QWgtSk8zMzVQcXRMRGdEWWh3SmtXSTFhWDhEZWdvUlpoZGZtMFotRGZKOHR4YUk?oc=5",
-    "published": "Sun, 19 Jul 2026 13:58:00 GMT",
-    "fetched_at": "2026-07-20 02:50:52",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "전자상거래",
-      "물류",
-      "부동산(물류센터)"
-    ],
-    "keywords": [
-      "인천",
-      "쿠팡",
-      "물류센터",
-      "붕괴",
-      "대피령"
-    ],
-    "reason": "쿠팡의 주요 물류센터 운영에 차질 가능성이 제기되며, 회사 재무 및 사업 연속성에 단기적인 불확실성을 가중시킨다. 이는 대규모 물류 인프라의 안전 관리에 대한 시장의 우려를 높일 수 있다.",
-    "action_point": "쿠팡 직접 투자 또는 물류 관련 부동산 자산 보유자는 해당 자산의 잠재적 리스크를 점검."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Universal and Christopher Nolan's 'The Odyssey' sails to $124.5 million opening",
-    "title_ko": "유니버설과 크리스토퍼 놀란의 '오디세이', 개봉 주말 1억 2,450만 달러 기록",
-    "link": "https://www.cnbc.com/2026/07/19/the-odyssey-box-office-christopher-nolan-and-universal-opening-weekend.html",
-    "published": "Sun, 19 Jul 2026 16:28:53 GMT",
-    "fetched_at": "2026-07-20 02:50:42",
-    "sentiment": "호재",
-    "importance": 2,
-    "sectors": [
-      "미디어/엔터테인먼트",
-      "영화"
-    ],
-    "keywords": [
-      "크리스토퍼 놀란",
-      "영화 흥행",
-      "박스오피스",
-      "IMAX",
-      "엔터테인먼트"
-    ],
-    "reason": "크리스토퍼 놀란 감독의 신작이 높은 흥행 수익을 기록하며 팬데믹 이후 영화 산업 회복에 긍정적인 신호를 제공한다. 이는 미디어 및 엔터테인먼트 섹터에 대한 투자 심리를 개선할 수 있다.",
-    "action_point": "글로벌 미디어/엔터테인먼트 섹터 내 영화 관련 기업의 투자 비중 확대를 검토하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "연어 부산물의 화려한 변신…콜라겐·PDRN으로 세계시장 공략 [강원대 앵커사업단]",
-    "title_ko": "연어 부산물의 화려한 변신…콜라겐·PDRN으로 세계시장 공략 [강원대 앵커사업단]",
-    "link": "https://www.mk.co.kr/news/society/12100269",
-    "published": "Mon, 20 Jul 2026 00:10:00 +09:00",
-    "fetched_at": "2026-07-20 02:51:01",
-    "sentiment": "호재",
-    "importance": 2,
-    "sectors": [
-      "바이오",
-      "제약",
-      "수산물 가공"
-    ],
-    "keywords": [
-      "연어 부산물",
-      "콜라겐",
-      "PDRN",
-      "바이오산업",
-      "신성바이오팜"
-    ],
-    "reason": "이 뉴스는 특정 바이오 기업이 버려지던 수산물 부산물을 고부가가치 제품으로 전환하여 신규 시장을 개척하는 긍정적인 사례를 보여줍니다. 이는 바이오 섹터 내 자원 효율성 및 친환경 기술 혁신의 잠재력을 시사합니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "[속보] 인천 서해구, 인근 대피령…\"쿠팡물류센터 붕괴 가능성\" - 연합뉴스TV",
-    "title_ko": "인천 서해구, 인근 대피령…'쿠팡물류센터 붕괴 가능성'",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XZkVBczltYm4teXFpNUlYUVdZSl9XTlpiUGNYek12dkp3ckJST0hBZkN6cnRqdElRS3dJNk55MkpXTE1XVnhJMEE0OVFLdExpaXhaZEY1RUx3Z2lXdlh1UXl4Xy1PeXc?oc=5",
-    "published": "Sun, 19 Jul 2026 13:51:00 GMT",
-    "fetched_at": "2026-07-20 01:45:55",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "물류",
-      "전자상거래",
-      "건설"
-    ],
-    "keywords": [
-      "쿠팡",
-      "물류센터",
-      "붕괴",
-      "인천",
-      "대피령"
-    ],
-    "reason": "쿠팡의 주요 물류 거점 붕괴 가능성은 동사의 영업 차질 및 손실로 이어지며, 국내 전자상거래 및 물류 서비스 전반에 대한 단기적 공급망 불안정성을 야기할 수 있습니다.",
-    "action_point": "쿠팡 관련 투자 노출도 점검 및 국내 물류/전자상거래 섹터 투자 전략을 재검토하십시오."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "The World Cup winner will earn $51 million under expanded purse",
-    "title_ko": "확대된 상금으로 월드컵 우승팀 5,100만 달러 획득",
-    "link": "https://www.cnbc.com/2026/07/19/heres-what-to-know-about-the-world-cup-prize-money.html",
-    "published": "Sun, 19 Jul 2026 15:36:54 GMT",
-    "fetched_at": "2026-07-20 01:45:46",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "스포츠/엔터테인먼트",
-      "미디어/광고"
-    ],
-    "keywords": [
-      "월드컵",
-      "FIFA",
-      "상금",
-      "스포츠 마케팅"
-    ],
-    "reason": "월드컵 상금 증액은 글로벌 스포츠 이벤트의 상업적 가치와 수익성이 견고함을 보여주며, 스포츠 및 엔터테인먼트 산업 내 현금 흐름 증가를 시사합니다. 거시경제 전반에 미치는 직접적인 영향은 제한적입니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "[속보] 인천 서해구 “인천 쿠팡물류센터 붕괴 가능성에 인근 대피령” - 중앙일보",
-    "title_ko": "[속보] 인천 서해구 “인천 쿠팡물류센터 붕괴 가능성에 인근 대피령”",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5V0pWamcxd1VnNnFpTmNMVWh0VWJVSDdKTG51STlZN21WWWt3T3F0UFpnNm1xZVUxaDRWeEg5T1dabmZjTVBqcm92M09qSEhqS0pnU1Vn?oc=5",
-    "published": "Sun, 19 Jul 2026 13:47:00 GMT",
-    "fetched_at": "2026-07-20 01:46:03",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "유통",
-      "물류"
-    ],
-    "keywords": [
-      "쿠팡",
-      "물류센터",
-      "붕괴",
-      "인천"
-    ],
-    "reason": "인천 쿠팡 물류센터의 붕괴 가능성 및 대피령은 해당 지역과 쿠팡의 물류 운영에 일시적 차질을 줄 수 있습니다. 이는 쿠팡의 기업 실적과 평판에 부정적 영향을 미칠 수 있으나, 국내 금융 시장 전반의 거시 경제 흐름이나 주요 자산군에 미치는 직접적인 영향은 제한적입니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "[경제산책] AI 新지정학 시대 전쟁과 경제 - 농민신문",
-    "title_ko": "AI 신지정학 시대의 전쟁과 경제",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LYkpqTUxxT3FhTGxHWTdDWWxaV0dVNG4wU0RJWnNuMFFSMG1GNHJYQ3BhbC1LRnpLMHFOZ3k2N24yUGZDRXV6MXcybDZEekdYWV85OHd6R3dTdw?oc=5",
-    "published": "Sun, 19 Jul 2026 15:00:00 GMT",
-    "fetched_at": "2026-07-20 00:48:03",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "방위산업",
-      "반도체",
-      "기술주",
-      "에너지",
-      "원자재"
-    ],
-    "keywords": [
-      "AI",
-      "지정학",
-      "전쟁",
-      "경제안보",
-      "기술경쟁"
-    ],
-    "reason": "AI 기술 발전이 지정학적 경쟁과 안보 위협을 심화시키며, 이는 글로벌 공급망 재편, 방위산업 투자 증가, 핵심 기술을 둘러싼 국가 간 갈등으로 이어져 경제 전반의 불확실성을 높일 수 있습니다.",
-    "action_point": "AI 기술 경쟁 심화 및 지정학적 리스크 고조에 대비하여 방위산업 및 핵심 AI 기술 보유 기업 비중 확대를 검토하라."
   }
 ]
