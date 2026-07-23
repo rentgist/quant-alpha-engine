@@ -1,5 +1,76 @@
 [
   {
+    "source": "CNBC_World",
+    "title": "Trump to slap 'sweeping' new tariffs on 60 trade partners as global duties expire",
+    "title_ko": "트럼프, 글로벌 관세 만료 앞두고 60개 교역국에 '대규모' 신규 관세 부과 예정",
+    "link": "https://www.cnbc.com/2026/07/23/trump-tariffs-trade-deadline.html",
+    "published": "Thu, 23 Jul 2026 21:43:10 GMT",
+    "fetched_at": "2026-07-24 06:57:50",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "수출주",
+      "제조업",
+      "기술주",
+      "운송/물류"
+    ],
+    "keywords": [
+      "트럼프",
+      "관세",
+      "무역분쟁",
+      "보호무역",
+      "글로벌 공급망"
+    ],
+    "reason": "트럼프의 대규모 신규 관세 부과 예고는 글로벌 무역 불확실성을 증대시키고 공급망 교란 및 비용 상승을 유발하여 전반적인 경제 성장을 둔화시킬 수 있습니다.",
+    "action_point": "수출 비중이 높은 국내 기업 비중 축소를 검토하고, 무역 분쟁 방어 자산으로의 리밸런싱을 고려해야 합니다."
+  },
+  {
+    "source": "CNBC_Finance",
+    "title": "Stocks making the biggest moves after hours: Intel, AMD, Boston Beer, Deckers & more",
+    "title_ko": "시간 외 거래에서 가장 큰 변동을 보인 주식들: 인텔, AMD, 보스턴 비어, 데커스 외 다수",
+    "link": "https://www.cnbc.com/2026/07/23/stocks-making-the-biggest-moves-after-hours-intc-amd-sam-deck.html",
+    "published": "Thu, 23 Jul 2026 20:58:09 GMT",
+    "fetched_at": "2026-07-24 06:57:44",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "반도체",
+      "기술",
+      "소비재",
+      "음료",
+      "의류"
+    ],
+    "keywords": [
+      "시간외 거래",
+      "개별 기업 실적",
+      "주식 변동",
+      "인텔",
+      "AMD"
+    ],
+    "reason": "이 기사는 주요 개별 기업들의 시간 외 거래 변동을 다루며, 이는 해당 기업의 실적 발표나 특정 이슈에 기인한 것으로 추정됩니다. 거시 경제 전체의 방향성을 제시하기보다는 특정 섹터 및 기업에 대한 미시적 시장 반응을 나타냅니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "■7월 24일 금 경제 캘린더 - YTN",
+    "title_ko": "7월 24일 금 경제 캘린더",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE13ZFhxbjc0RkxWYjdwcEdfN2ZuZW5TcEhVZ1RzaGk2N0YxOUg3T3NGYzZCS2syOHBIbWh6T3NVSTZsbV92X0lzZU04aE1GQldvdld4NlkzMGNyaEU1cXc?oc=5",
+    "published": "Thu, 23 Jul 2026 20:16:00 GMT",
+    "fetched_at": "2026-07-24 06:57:59",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "전체 시장"
+    ],
+    "keywords": [
+      "경제 캘린더",
+      "거시 경제",
+      "시장 일정"
+    ],
+    "reason": "이 뉴스는 7월 24일 주요 경제 지표 발표 및 이벤트 일정을 안내하는 단순 정보 제공으로, 시장에 직접적인 호재나 악재로 작용하지 않습니다. 향후 시장 변동성 요인을 사전 인지할 수 있게 합니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "GoogleNews_Korea",
     "title": "[속보] 트럼프 \"후티가 또 선박 공격하면 이란·후티에 군사적 응징\" - 연합뉴스TV",
     "title_ko": "[속보] 트럼프 \"후티가 또 선박 공격하면 이란·후티에 군사적 응징\" - 연합뉴스TV",
@@ -2803,80 +2874,5 @@
     ],
     "reason": "중국 자동차 판매 급감은 전반적인 중국 소비 위축을 반영하며, 글로벌 자동차 제조업체 및 관련 부품, 소재 산업에 부정적 영향을 미칠 것입니다. 이는 중국 경제 둔화 압력을 가중시키고 글로벌 수요 불확실성을 높입니다.",
     "action_point": "중국 시장 의존도가 높은 완성차 및 자동차 부품 섹터 비중 축소를 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "UK's Andy Burnham becomes PM as Trump slams Britain as 'Poverty Stricken Disaster'",
-    "title_ko": "영국의 앤디 번햄 총리 취임, 트럼프는 영국을 '빈곤에 찌든 재앙'으로 맹비난",
-    "link": "https://www.cnbc.com/2026/07/20/uk-prime-minister-burnham-trump-poverty-stricken-disaster.html",
-    "published": "Mon, 20 Jul 2026 12:08:34 GMT",
-    "fetched_at": "2026-07-20 21:09:53",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "금융",
-      "영국 관련 투자 자산",
-      "부동산",
-      "유틸리티"
-    ],
-    "keywords": [
-      "영국 정치",
-      "좌파 정책",
-      "채권 시장",
-      "파운드화",
-      "지정학"
-    ],
-    "reason": "앤디 번햄의 좌파 성향 총리 취임은 영국 채권 시장에 불안을 야기하며, 향후 확장적 재정 정책 및 기업 규제 강화 가능성을 시사한다. 트럼프의 비판은 영국의 대외 신뢰도에 부정적 영향을 미칠 수 있다.",
-    "action_point": "영국 국채 및 영국 관련 자산 비중 축소를 검토하고, 파운드화 약세 가능성에 대비하라."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "From 'Super El Niño' to Europe’s extreme heatwave: How this year's weather shocks are rattling commodity markets",
-    "title_ko": "올해의 기상 이변, 원자재 시장을 뒤흔들다: '슈퍼 엘니뇨'에서 유럽의 극심한 폭염까지",
-    "link": "https://www.cnbc.com/2026/07/20/from-super-el-nio-to-europes-heatwave-how-to-trade-extreme-weather.html",
-    "published": "Mon, 20 Jul 2026 05:54:14 GMT",
-    "fetched_at": "2026-07-20 21:10:19",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "농업",
-      "에너지",
-      "산업재",
-      "소비재"
-    ],
-    "keywords": [
-      "엘니뇨",
-      "기상 이변",
-      "기후 변화",
-      "원자재 시장",
-      "인플레이션"
-    ],
-    "reason": "글로벌 기상 이변이 농산물, 에너지 등 원자재 공급에 불안정성을 가중시켜 가격 변동성 확대 및 인플레이션 압력으로 작용할 수 있으며, 이는 시장이 과소평가하고 있는 리스크입니다.",
-    "action_point": "원자재 시장 변동성 확대를 감안, 인플레이션 헤지 자산 편입을 검토하고 원자재 의존 기업 투자에 신중해야 합니다."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "빚으로 쌓은 성, 한국 경제의 주식과 주택 거품 위험 - 세상을 바꾸는 시민언론 민들레",
-    "title_ko": "빚으로 쌓은 성, 한국 경제의 주식과 주택 거품 위험",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9lYzYtV05hcEJlZDJ0b25iM0lfYnBSZ1UxSUs2UXVGOTRHMkRmR1pxcW82R1VXSFlNYTZtLTVscDYtbVdGanU4X0JRUTJZWjVFeGY1VzRQaEhsX0ZCZExWV29MUlpqOEVJN3M4Uw?oc=5",
-    "published": "Sun, 19 Jul 2026 23:00:00 GMT",
-    "fetched_at": "2026-07-20 21:10:46",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "부동산",
-      "금융",
-      "건설",
-      "증권"
-    ],
-    "keywords": [
-      "한국 경제",
-      "부채",
-      "주식 거품",
-      "부동산 거품",
-      "금리 인상"
-    ],
-    "reason": "한국 경제의 주식 및 주택 시장에 과도한 부채 기반의 거품 위험이 존재함을 경고하며, 이는 향후 금리 인상 또는 경제 충격 시 자산 가격 조정 및 금융 시스템 불안정으로 이어질 수 있습니다.",
-    "action_point": "부동산 및 고부채 기업 관련 자산에 대한 포트폴리오 비중을 점검하고, 방어적 자산 편입을 고려하십시오."
   }
 ]
