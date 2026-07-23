@@ -1,5 +1,53 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "title": "[속보] 트럼프 \"후티가 또 선박 공격하면 이란·후티에 군사적 응징\" - 연합뉴스TV",
+    "title_ko": "[속보] 트럼프 \"후티가 또 선박 공격하면 이란·후티에 군사적 응징\" - 연합뉴스TV",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1MZ3lTd0QzaXhVNkJ4QjF5MDhBbXIyUmk2SlBMdWFtU1hsUlJibE9HODQ1RGs2ZWQ4ZnE4R2JTak13d29CQ19DMGpOUzJLUVNjVGdOZk9VY3NFbUxnTWswOTFvQU9aa0E?oc=5",
+    "published": "Thu, 23 Jul 2026 12:33:00 GMT",
+    "fetched_at": "2026-07-24 05:15:46",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "원자재",
+      "해운/물류",
+      "방위산업"
+    ],
+    "keywords": [
+      "트럼프",
+      "후티",
+      "이란",
+      "중동",
+      "지정학",
+      "원유",
+      "해상운송"
+    ],
+    "reason": "트럼프의 발언은 중동 지역, 특히 홍해에서의 군사적 긴장 고조 가능성을 시사하며, 이는 국제 유가 상승 및 해상 운송 차질로 인한 글로벌 공급망 불안정성을 증폭시킬 수 있습니다.",
+    "action_point": "중동 지정학적 위험 고조에 따른 유가 상승 가능성에 대비하여 에너지 관련 자산 비중 확대를 검토하고, 해운/물류 섹터의 단기 변동성 확대에 유의하십시오."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "Tesla, Alphabet lose hundreds of billions in value in post-earnings stock plunge",
+    "title_ko": "테슬라, 알파벳, AI 투자 확대로 인한 지출 증가 우려에 실적 발표 후 주가 폭락",
+    "link": "https://www.cnbc.com/2026/07/23/tesla-tsla-alphabet-googl-stock-today.html",
+    "published": "Thu, 23 Jul 2026 20:15:11 GMT",
+    "fetched_at": "2026-07-24 05:15:36",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "IT/기술",
+      "성장주",
+      "반도체"
+    ],
+    "keywords": [
+      "테크주 실적",
+      "AI 투자",
+      "주가 하락"
+    ],
+    "reason": "거대 기술기업인 테슬라와 알파벳의 AI 투자 확대 발표는 단기적 비용 증가 우려로 이어져 주가 폭락을 초래했으며, 이는 기술주 전반에 대한 투자 심리 위축을 야기할 수 있습니다.",
+    "action_point": "글로벌 대형 기술 성장주의 AI 투자 관련 비용 증가와 단기 실적 압박 가능성을 점검하고 포트폴리오 비중 조정을 검토하라."
+  },
+  {
     "source": "CNBC_Finance",
     "title": "Odds of Federal Reserve rate hike surge as oil prices rip higher",
     "title_ko": "유가 급등에 연방준비제도 금리 인상 가능성 급증",
@@ -2830,53 +2878,5 @@
     ],
     "reason": "한국 경제의 주식 및 주택 시장에 과도한 부채 기반의 거품 위험이 존재함을 경고하며, 이는 향후 금리 인상 또는 경제 충격 시 자산 가격 조정 및 금융 시스템 불안정으로 이어질 수 있습니다.",
     "action_point": "부동산 및 고부채 기업 관련 자산에 대한 포트폴리오 비중을 점검하고, 방어적 자산 편입을 고려하십시오."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "이란전쟁 새 화약고 된 요르단…친미 행보에 보복 표적으로 - 연합뉴스",
-    "title_ko": "이란전쟁 새 화약고 된 요르단…친미 행보에 보복 표적으로",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE02Z0Y1bjhvNWxjN1lmRXN4WkI1ZnF1SXpWT0NsRWtNSmZVcVpxMGg1Tzd5ZWktOXZKTDNtMDRuTXBwNHNjMG1Bdl9Ca1ZmeHNZWk1XM0RrWTB5eknSAWBBVV95cUxPOGs3bnAwdnNTa2NFckN5c2c2dnJHdFFxN1dueHA2Wkh4WWNmZEdEbERyRU9PRFZPSkVLTmdYNkNtcW0xSXZvcnNlTTUyX0hTNTdZTGh3ZnVxbmxXY3U4aDc?oc=5",
-    "published": "Mon, 20 Jul 2026 07:28:28 GMT",
-    "fetched_at": "2026-07-20 21:11:14",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "방산",
-      "해운"
-    ],
-    "keywords": [
-      "지정학적 리스크",
-      "중동",
-      "유가",
-      "이란",
-      "요르단"
-    ],
-    "reason": "요르단이 이란과의 분쟁에 휘말릴 가능성이 커지면서 중동 지역의 지정학적 리스크가 고조되고, 이는 국제 유가 상승 압력과 함께 전반적인 투자심리 위축으로 이어질 수 있다.",
-    "action_point": "중동 지정학적 리스크 심화에 대비하여 안전자산(달러, 금) 보유를 강화하고 에너지 섹터 투자 기회를 모색하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "美국무, 호르무즈 ‘보호세’ 거론…“최소한의 지원이라도 해야”",
-    "title_ko": "美국무, 호르무즈 ‘보호세’ 거론…“최소한의 지원이라도 해야”",
-    "link": "https://www.mk.co.kr/news/world/12102773",
-    "published": "Mon, 20 Jul 2026 20:24:02 +09:00",
-    "fetched_at": "2026-07-20 21:11:30",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "원유/에너지",
-      "해운",
-      "정유/화학"
-    ],
-    "keywords": [
-      "호르무즈 해협",
-      "보호세",
-      "유가",
-      "지정학적 리스크",
-      "미국 외교 정책"
-    ],
-    "reason": "미국이 호르무즈 해협 안보 비용 분담을 요구하며 유조선 운항 비용 상승 가능성이 제기되어 국제 유가에 상방 압력으로 작용할 수 있습니다. 이는 에너지 수입국인 한국에 원가 부담을 가중시키고 글로벌 교역 환경의 불확실성을 높입니다.",
-    "action_point": "유가 상승에 민감한 국내 에너지 의존 기업 및 해운 섹터 비중 축소 검토"
   }
 ]
