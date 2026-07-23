@@ -1,5 +1,71 @@
 [
   {
+    "source": "CNBC_Finance",
+    "title": "John Paulson says we are in the early stages of a long-term bull market for gold",
+    "title_ko": "존 폴슨, 금(Gold) 장기 강세장의 초기 단계에 진입했다고 밝혀",
+    "link": "https://www.cnbc.com/2026/07/22/john-paulson-says-we-are-in-early-stages-of-a-long-term-bull-market-for-gold.html",
+    "published": "Wed, 22 Jul 2026 22:06:49 GMT",
+    "fetched_at": "2026-07-23 13:09:56",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "금 관련주",
+      "원자재 (금)",
+      "대안투자"
+    ],
+    "keywords": [
+      "금",
+      "강세장",
+      "존 폴슨",
+      "중앙은행 수요"
+    ],
+    "reason": "유명 투자자 존 폴슨의 발언은 중앙은행 및 사모 부문의 지속적인 매수세로 금이 장기 강세장에 진입했다고 강조하며, 이는 인플레이션 헤지 및 안전자산으로서 금의 매력을 더욱 부각시키며 글로벌 자산배분 전략에 영향을 줄 것입니다.",
+    "action_point": "포트폴리오 내 금 비중 확대 또는 금 관련 ETF/펀드 투자 검토"
+  },
+  {
+    "source": "CNBC_World",
+    "title": "Gen Z protests led by India’s 'Cockroach party' are testing Modi’s leadership",
+    "title_ko": "인도 '바퀴벌레당' 주도 Z세대 시위, 모디 리더십 시험대에",
+    "link": "https://www.cnbc.com/2026/07/23/gen-z-protest-india-cockroach-modi-leadership.html",
+    "published": "Thu, 23 Jul 2026 04:02:27 GMT",
+    "fetched_at": "2026-07-23 13:10:12",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [],
+    "keywords": [
+      "인도",
+      "모디",
+      "Z세대",
+      "시위",
+      "정치 불안정"
+    ],
+    "reason": "인도 내 학생 시위가 정치적 불확실성을 증가시키며 모디 총리의 리더십에 도전하고 있습니다. 이는 인도 국내 투자 환경에 영향을 미칠 수 있으나, 현재 글로벌 거시경제 시장에 미치는 직접적인 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
+    "title": "Alphabet earnings takeaways: Q2 revenue beats, GOOGL stock sinks on 2026 capex hike",
+    "title_ko": "Alphabet 2분기 실적 요약: 매출 예상치 상회에도 2026년 CAPEX 증가 발표로 GOOGL 주가 하락",
+    "link": "https://www.cnbc.com/2026/07/22/google-earnings-q2-goog-live-updates.html",
+    "published": "Wed, 22 Jul 2026 23:21:42 GMT",
+    "fetched_at": "2026-07-23 13:10:24",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "기술",
+      "인터넷"
+    ],
+    "keywords": [
+      "Alphabet",
+      "Google",
+      "실적",
+      "CAPEX",
+      "기술주"
+    ],
+    "reason": "Alphabet의 매출은 예상치를 상회했지만, 2026년까지의 CAPEX 증가 발표는 단기적인 수익성 우려를 높여 주가 하락으로 이어졌습니다. 이는 대형 기술주의 투자 방향 및 자본 지출 전략에 대한 시장의 민감성을 보여줍니다.",
+    "action_point": "대형 기술주 포트폴리오의 CAPEX 계획이 단기 수익성에 미칠 영향을 분석하고, 비중 조절을 고려하라."
+  },
+  {
     "source": "Maeil_Business",
     "title": "미국·이란 강대강 대치에 국제유가 상승…브렌트유 94달러대",
     "title_ko": "미국·이란 강대강 대치에 국제유가 상승…브렌트유 94달러대",
@@ -2807,79 +2873,5 @@
     ],
     "reason": "AI 기술 발전이 지정학적 경쟁과 안보 위협을 심화시키며, 이는 글로벌 공급망 재편, 방위산업 투자 증가, 핵심 기술을 둘러싼 국가 간 갈등으로 이어져 경제 전반의 불확실성을 높일 수 있습니다.",
     "action_point": "AI 기술 경쟁 심화 및 지정학적 리스크 고조에 대비하여 방위산업 및 핵심 AI 기술 보유 기업 비중 확대를 검토하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "“홈플 말고 저희는 영업해요”…임대매장, 전단지 돌리며 생존투쟁",
-    "title_ko": "“홈플 말고 저희는 영업해요”…임대매장, 전단지 돌리며 생존투쟁",
-    "link": "https://www.mk.co.kr/news/business/12102004",
-    "published": "Sun, 19 Jul 2026 23:13:05 +09:00",
-    "fetched_at": "2026-07-20 00:48:14",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "유통",
-      "상업용 부동산",
-      "식품/소비재"
-    ],
-    "keywords": [
-      "홈플러스",
-      "대형마트",
-      "영업정지",
-      "공익채권"
-    ],
-    "reason": "대형마트 홈플러스의 심각한 재무난은 유통업 전반의 구조적 어려움을 시사하며, 협력사 및 상업용 부동산 섹터에 재정적 위험을 가중시킬 수 있습니다.",
-    "action_point": "대형마트 관련 유통 섹터 및 상업용 부동산 비중을 축소하고, 관련 협력사의 신용 위험을 주시하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "‘이란 핵 막겠다’ 전쟁해놓고…“미, 사우디 ‘우라늄 농축 허용’ 잠정 합의” - 경향신문",
-    "title_ko": "‘이란 핵 막겠다’ 전쟁해놓고…“미, 사우디 ‘우라늄 농축 허용’ 잠정 합의”",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJdGpXY2hBclJCdHl1NzlnLV9BVWZJeV9fMHVnMU1vRE1CSF9iTU1QOXl1WnNHdzd3SXc2SVNRRno4VmIzUXltUHZXUm50WDFYOG9LOGxTMV9pd9IBX0FVX3lxTE1Rb1dvSDBRN1haS1Job0h6R0RwV0lUaXFJRW9GWjdESXY1c1BHanVGS0NvZWIzSmZWMEJTNHhKZWJfU05WNTV0WGZBNG5Vak1Wa0RHN0xfaXZTTG9EWFVV?oc=5",
-    "published": "Sun, 19 Jul 2026 12:05:00 GMT",
-    "fetched_at": "2026-07-19 23:21:32",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "방산",
-      "원자재"
-    ],
-    "keywords": [
-      "미국",
-      "사우디",
-      "이란",
-      "핵",
-      "우라늄 농축",
-      "중동",
-      "지정학"
-    ],
-    "reason": "미국의 사우디 우라늄 농축 허용은 중동 내 핵확산 리스크를 고조시키고 이란과의 긴장을 심화시켜 역내 군비 경쟁과 지정학적 불안정성을 키울 수 있습니다. 이는 국제 유가 및 방산 산업에 중장기적인 영향을 미칠 것입니다.",
-    "action_point": "중동발 지정학적 리스크 확산에 대비하여 에너지 및 방산 섹터의 변동성 확대에 유의하고, 달러 등 안전자산 비중을 점진적으로 확대하라."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Housing costs is the top political issue for young voters, CNBC survey finds",
-    "title_ko": "CNBC 설문조사: 주거 비용이 젊은 유권자의 최대 정치 쟁점",
-    "link": "https://www.cnbc.com/2026/07/19/housing-costs-election-young-voters-cnbc-survey-finds.html",
-    "published": "Sun, 19 Jul 2026 12:00:01 GMT",
-    "fetched_at": "2026-07-19 23:21:08",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "부동산",
-      "건설",
-      "금융",
-      "소비재"
-    ],
-    "keywords": [
-      "주거 비용",
-      "청년 유권자",
-      "정치 쟁점",
-      "부동산 정책",
-      "소비 심리"
-    ],
-    "reason": "높은 주거 비용은 젊은 층의 가처분 소득을 감소시켜 소비 위축을 야기하며, 주택 공급 확대 및 규제 강화 등 정책 변화 압력으로 작용하여 부동산 시장에 직접적인 영향을 미칠 수 있습니다.",
-    "action_point": "주택 공급 확대 및 규제 정책 가능성에 대비하여 국내 부동산 및 건설 섹터 비중 축소 검토."
   }
 ]
