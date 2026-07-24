@@ -1,6 +1,168 @@
 [
   {
     "source": "CNBC_World",
+    "title": "Trump's new global tariff draws rebukes from trade partners over forced-labor justification",
+    "title_ko": "트럼프의 새로운 글로벌 관세, 강제 노동 정당화에 대해 무역 파트너들의 비난 직면",
+    "link": "https://www.cnbc.com/2026/07/24/trump-global-tariffs-trade-imbalance-forced-labor.html",
+    "published": "Fri, 24 Jul 2026 05:47:21 GMT",
+    "fetched_at": "2026-07-24 17:08:40",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "수출주 전반",
+      "제조업",
+      "운송"
+    ],
+    "keywords": [
+      "관세",
+      "미국 대선",
+      "글로벌 무역",
+      "공급망"
+    ],
+    "reason": "트럼프의 글로벌 관세 부과 공약은 세계 무역 분쟁 재점화 우려를 키우며, 글로벌 공급망에 혼란을 초래하고 기업들의 생산 비용 상승 압박을 가중시킬 수 있다. 이는 전반적인 경제 불확실성을 높일 것이다.",
+    "action_point": "글로벌 공급망 의존도가 높은 수출 기업 비중 축소를 검토하고, 무역 분쟁 리스크에 대비하라."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "South Korea's president invokes dramatic Japan realty crash to push domestic property agenda",
+    "title_ko": "한국 대통령, 일본 부동산 폭락 사례 언급하며 국내 부동산 정책 추진 의지 밝혀",
+    "link": "https://www.cnbc.com/2026/07/24/south-korea-property-bubble-japan-lost-decades.html",
+    "published": "Fri, 24 Jul 2026 07:07:07 GMT",
+    "fetched_at": "2026-07-24 17:09:06",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "부동산",
+      "건설",
+      "금융"
+    ],
+    "keywords": [
+      "부동산",
+      "정책",
+      "주택시장",
+      "부채",
+      "시장과열"
+    ],
+    "reason": "대통령의 발언은 국내 부동산 시장의 과열과 가계 부채 문제에 대한 정부의 강력한 인식을 보여주며, 향후 시장 안정화를 위한 규제 강화 또는 정책 변화 가능성을 시사한다. 이는 단기적으로 부동산 투자 심리를 위축시키고 관련 섹터에 부담을 줄 수 있다.",
+    "action_point": "국내 부동산 관련 투자 자산의 비중을 점검하고, 잠재적 정책 변화에 따른 시장 조정 가능성에 대비하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "[속보] 법원 \"최태원, 노소영에 재산분할금 9천440억 원 지급\" - MBC 뉴스",
+    "title_ko": "[속보] 법원 \"최태원, 노소영에 재산분할금 9천440억 원 지급\" - MBC 뉴스",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1XNkVhTDlUYkptNWJDTGx6VWgzRkdIOEI2TkhlclJLeXhTdm1Ed3lDUy0xMUhyVTVNS1owb1RyZVFUSm8yY2hQLUtFU1I4UHVqS3I2cDdaZnVyX3NYVHRqMUhPOG85Z3JVR0ZmY0owWkh3bnYyOWZ30gF3QVVfeXFMTXQ2N3pTaXFZNUNRU250Y25rVzNuZGtTZ296Z0tmVm1xVVM4UmxHOFRNdEtHM1R3VGM0ZjFwYmdyZ21jTTdqcGZncjB3bFZsdEh3NGVYVmRDM3pwT1RCcUFWRWMtVk84WjhuTldWUVNQVnJONWd0M1k?oc=5",
+    "published": "Fri, 24 Jul 2026 05:09:18 GMT",
+    "fetched_at": "2026-07-24 17:09:28",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "지주회사",
+      "반도체",
+      "통신",
+      "석유화학"
+    ],
+    "keywords": [
+      "최태원",
+      "노소영",
+      "재산분할",
+      "SK그룹",
+      "지배구조",
+      "SK(주)"
+    ],
+    "reason": "최태원 SK그룹 회장이 노소영 아트센터 나비 관장에게 9천440억 원의 재산분할금을 지급하라는 판결이 나옴에 따라, 대규모 현금 마련을 위한 SK(주) 지분 매각 등 그룹 지배구조 및 주가에 불확실성이 커질 수 있습니다.",
+    "action_point": "SK(주) 등 SK그룹 지주사 및 주요 계열사 주식 보유 비중을 점검하고, 잠재적 지분 매각 가능성에 따른 변동성 확대에 대비하라."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "Pentagon lowers official Iran war death toll, omitting four killed this month",
+    "title_ko": "미 국방부, 이란 전쟁 공식 사망자 수치 18명에서 14명으로 하향 조정 (이번 달 사망자 4명 제외)",
+    "link": "https://www.cnbc.com/2026/07/24/pentagon-removed-four-official-iran-war-death-toll.html",
+    "published": "Fri, 24 Jul 2026 06:09:43 GMT",
+    "fetched_at": "2026-07-24 17:08:59",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [],
+    "keywords": [
+      "미국",
+      "이란",
+      "국방부",
+      "사망자 수",
+      "지정학적 리스크"
+    ],
+    "reason": "미 국방부의 이란 전쟁 사망자 수치 하향 조정은 실제 분쟁 상황의 근본적인 변화보다는 통계 분류의 재조정으로 보이며, 미-이란 간 지정학적 긴장의 실질적 완화를 의미하지 않는다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "[속보] 법원 \"최태원, 노소영에 9,440억 원 재산분할\" - 연합뉴스TV",
+    "title_ko": "[속보] 법원 \"최태원, 노소영에 9,440억 원 재산분할\" - 연합뉴스TV",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE40bVFrYkp1MVF0WG9zcE1ZcTh3M245OHE1Q0t5emF6MC1xVmRMUExmSGRmQ3dSWEZxb3VscFZ3U2xWZzBWcU1DSzZhclI0WTladk5mcnkydWZTVVZKUGlEWkJHT25hZGc?oc=5",
+    "published": "Fri, 24 Jul 2026 05:14:00 GMT",
+    "fetched_at": "2026-07-24 17:09:21",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "SK그룹 지주사 및 계열사"
+    ],
+    "keywords": [
+      "최태원",
+      "노소영",
+      "재산분할",
+      "SK그룹",
+      "지배구조"
+    ],
+    "reason": "최태원 회장의 막대한 재산분할 금액은 SK그룹 지배구조 및 지주사(SK㈜) 주식에 대한 잠재적 매각 압력으로 작용하여 관련 주가 변동성을 확대시킬 수 있다.",
+    "action_point": "SK그룹 지주사 및 주요 계열사 주식의 잠재적 매도 압력에 대비하여 관련 포트폴리오 비중 재검토."
+  },
+  {
+    "source": "Maeil_Business",
+    "title": "'차세대 교통' 규제 확 풀어준 UAE … 美에어택시, 두바이서 가장 먼저 뜬다",
+    "title_ko": "'차세대 교통' 규제 확 풀어준 UAE … 美에어택시, 두바이서 가장 먼저 뜬다",
+    "link": "https://www.mk.co.kr/news/world/12106807",
+    "published": "Fri, 24 Jul 2026 17:02:16 +09:00",
+    "fetched_at": "2026-07-24 17:09:45",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "미래 모빌리티",
+      "항공우주",
+      "인프라"
+    ],
+    "keywords": [
+      "UAM",
+      "에어택시",
+      "규제 완화",
+      "두바이"
+    ],
+    "reason": "UAE의 에어택시 규제 완화는 도심항공교통(UAM) 상용화의 중요한 진전이며, 관련 기술 및 인프라 투자 확대를 가속화할 전망이다. 이는 미래 모빌리티 시장 성장에 대한 긍정적 신호로 작용한다.",
+    "action_point": "미래 모빌리티 및 UAM 관련 기술 선도 기업 포트폴리오 편입을 검토하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "title": "[김유신의 딥머니토크] \"시장 이기는 투자자 극소수 … 이젠 '매그니피센트493' 주목하라\"",
+    "title_ko": "[김유신의 딥머니토크] \"시장 이기는 투자자 극소수 … 이젠 '매그니피센트493' 주목하라\"",
+    "link": "https://www.mk.co.kr/news/world/12106808",
+    "published": "Fri, 24 Jul 2026 17:02:16 +09:00",
+    "fetched_at": "2026-07-24 17:09:55",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "IT/기술",
+      "자산운용",
+      "금융"
+    ],
+    "keywords": [
+      "시장수익률",
+      "분산투자",
+      "대형기술주",
+      "매그니피센트7",
+      "포트폴리오전략"
+    ],
+    "reason": "소수 대형 기술주 중심의 시장 초과 수익이 어려워지는 환경에서, 보다 광범위한 종목으로의 분산 투자를 통해 장기적 관점에서 안정적 수익을 추구해야 함을 시사한다.",
+    "action_point": "과도하게 대형 기술주에 편중된 포트폴리오를 점검하고, 중소형주 및 다양한 섹터로의 분산 투자 기회 모색을 권고한다."
+  },
+  {
+    "source": "CNBC_World",
     "title": "U.S. to see higher generic drug prices thanks to tariffs, CEO of leading India pharma firm warns",
     "title_ko": "인도 제약사 CEO 경고: 트럼프 관세로 미국 내 제네릭 의약품 가격 상승 전망",
     "link": "https://www.cnbc.com/2026/07/24/us-to-see-higher-generic-drug-prices-on-tariffs-indian-pharma-ceo.html",
@@ -2706,175 +2868,5 @@
     ],
     "reason": "국제형사재판소의 네타냐후 체포영장 발부는 중동 지역의 지정학적 불안정성을 고조시킨다. 트럼프의 발언이 미국 내 즉각적인 체포 가능성을 낮출 수는 있으나, 근본적인 정치적 갈등과 불확실성을 해소하지 못해 에너지 가격 변동성 확대 및 안전자산 선호 심리를 자극할 수 있다.",
     "action_point": "중동 지정학적 리스크 심화 가능성에 대비하여 에너지 및 방산 섹터 비중 확대를 고려하고, 안전자산(금, 달러) 비중을 유지하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "이란 “미 전투기 2대 파괴” 영상 공개…이란 전쟁 새 전장 된 요르단 - 중앙일보",
-    "title_ko": "이란 “미 전투기 2대 파괴” 영상 공개…이란 전쟁 새 전장 된 요르단 - 중앙일보",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBEY3lLYzlFcHVnYllqZS1tZzZLSGU3bjI2VWZMa0xuSWx2M3RNSm5HRUpVeHplWS1lSVVqMVNxQ1cza1NGT05Eb281N2xNSWlHTFcwWW53?oc=5",
-    "published": "Mon, 20 Jul 2026 09:10:28 GMT",
-    "fetched_at": "2026-07-21 07:47:25",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "방산",
-      "원자재",
-      "해운",
-      "항공"
-    ],
-    "keywords": [
-      "이란",
-      "미국",
-      "요르단",
-      "중동",
-      "지정학",
-      "유가",
-      "전쟁"
-    ],
-    "reason": "미국과 이란 간의 직접적인 충돌 가능성을 시사하며 중동 지역의 지정학적 리스크가 급격히 고조될 수 있음을 나타낸다. 이는 국제 유가 상승 압력과 글로벌 시장의 불확실성 증대로 이어질 것이다.",
-    "action_point": "유가 상승 압력에 대비하여 에너지 관련 자산 비중 확대를 고려하고, 지정학적 위험 헤지를 위한 안전 자산 편입을 검토하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "AMD, 엔비디아에 정면승부…MS도 첫 AI 랙 ‘헬리오스’ 출시",
-    "title_ko": "AMD, 엔비디아에 정면승부…MS도 첫 AI 랙 ‘헬리오스’ 출시",
-    "link": "https://www.mk.co.kr/news/it/12102950",
-    "published": "Tue, 21 Jul 2026 07:37:04 +09:00",
-    "fetched_at": "2026-07-21 07:47:35",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "반도체",
-      "클라우드 컴퓨팅",
-      "서버/하드웨어"
-    ],
-    "keywords": [
-      "AMD",
-      "엔비디아",
-      "마이크로소프트",
-      "AI 반도체",
-      "AI 서버",
-      "AI 추론"
-    ],
-    "reason": "AI 하드웨어 시장 내 경쟁 심화와 마이크로소프트의 자체 AI 인프라 투자 확대를 보여주는 뉴스입니다. 이는 AI 산업의 지속적인 성장을 확인하고 AI 반도체 및 서버 수요의 다변화를 시사합니다.",
-    "action_point": "AI 밸류체인 내 엔비디아 외 반도체 기업 및 AI 인프라 구축 관련 기업 비중 확대를 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "노벨 경제학 수상자도 걱정 \"한국 경제 최대 장애물은 서울 집값\" - 조선일보",
-    "title_ko": "노벨 경제학 수상자도 걱정 \"한국 경제 최대 장애물은 서울 집값\"",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPN3JRMEhHYWFLRmZ2aXZ5cFVLRFEtX3FxYlUwTFlKR2tCb20yZ2pHcjRJVDFaeUJTZm53c2YxbGlPdTFkQkx4ZEF1em5KYk02R1Q0dXl3ZE1XaEg3R2VyVjlJSWMxOXBIdWg2MVVmTmhnbTdPM1BEMERLUkczWF9udw?oc=5",
-    "published": "Mon, 20 Jul 2026 20:34:30 GMT",
-    "fetched_at": "2026-07-21 06:02:03",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "부동산",
-      "건설",
-      "은행",
-      "내수"
-    ],
-    "keywords": [
-      "부동산",
-      "서울 집값",
-      "한국 경제",
-      "가계 부채"
-    ],
-    "reason": "노벨 경제학 수상자의 발언은 고금리 환경 속에서 서울 집값이 한국 경제의 구조적 걸림돌임을 재확인합니다. 이는 가계 소비 여력 감소 및 금융권의 부동산 관련 부실 위험으로 이어져 장기적인 경제 성장을 저해할 수 있습니다.",
-    "action_point": "부동산 관련 직접 투자 익스포저를 재검토하고 가계 부채 부담에 취약한 금융 섹터 투자에 주의를 기울여라."
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "“나쁜 남자는 이제 싫어요” … 월가 96%가 추천한 장투용 주식은",
-    "title_ko": "“나쁜 남자는 이제 싫어요” … 월가 96%가 추천한 장투용 주식은",
-    "link": "https://www.mk.co.kr/news/business/12102540",
-    "published": "Tue, 21 Jul 2026 04:00:00 +09:00",
-    "fetched_at": "2026-07-21 06:02:16",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "기술주",
-      "반도체 (메모리)",
-      "우량주"
-    ],
-    "keywords": [
-      "월스트리트",
-      "장기투자",
-      "미국 AI 주식",
-      "우량주",
-      "위험회피"
-    ],
-    "reason": "월가 투자자들이 지정학적 위험 속에서 메모리 반도체의 변동성을 피해 안정적인 미국 AI 우량주로 장기 투자 대상을 전환하고 있음을 시사합니다. 이는 위험회피 심리 확산과 함께 기술 우량주 선호 현상을 반영합니다.",
-    "action_point": "미국 AI 우량주 섹터의 장기 투자 비중 확대를 검토하고, 메모리 반도체 등 고변동성 자산에 대한 리스크 관리를 강화하라."
-  },
-  {
-    "source": "CNBC_Finance",
-    "title": "Stocks making the biggest moves midday: AMD, Archer Aviation, SpaceX, Iren & more",
-    "title_ko": "장중 큰 변동을 보인 주식: AMD, 아처 에비에이션, 스페이스X, 이렌 외 다수",
-    "link": "https://www.cnbc.com/2026/07/20/stocks-making-the-biggest-moves-midday-amd-achr-spcx-iren.html",
-    "published": "Mon, 20 Jul 2026 15:52:30 GMT",
-    "fetched_at": "2026-07-21 06:01:44",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "기술주",
-      "반도체",
-      "항공우주"
-    ],
-    "keywords": [
-      "개별주식",
-      "장중변동",
-      "기술주",
-      "반도체"
-    ],
-    "reason": "이 기사는 장중 개별 주식들의 변동을 단순히 나열한 것으로, 특정 산업 전반이나 거시 경제에 직접적인 영향을 주지 않습니다. 이는 개별 종목의 펀더멘탈 또는 단기 수급에 따른 움직임으로 해석됩니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "버넘 영국 총리 취임…\"새 정치·경제모델 만들겠다\"(종합) - 연합뉴스",
-    "title_ko": "버넘 영국 총리 취임…\"새 정치·경제모델 만들겠다\"(종합) - 연합뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5memg1QU9EWHpiazVtWFdYcllEckhIT1pBajlFYnFRNTl4eXkwaG5jU0NkN0dpVk1PeS1uTGhRR2V0R0lUbmNLU3I2aVJfSlZnMDctQmtfOUItajjSAWBBVV95cUxNbVVuYkdxbUZoMUYtTVpmNkhmZUJ0RzZuNmpjZjFpVkxsQjYzblprTmx2aF8weElIUzFMS3oxSzhXaE1DWi15NFAzelFaY1B4MDRjb1NRbmljdldBOWYxYTg?oc=5",
-    "published": "Mon, 20 Jul 2026 17:08:07 GMT",
-    "fetched_at": "2026-07-21 04:26:50",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "글로벌 금융시장",
-      "영국 경제"
-    ],
-    "keywords": [
-      "버넘",
-      "영국 총리",
-      "새 경제 모델",
-      "영국 정치"
-    ],
-    "reason": "신임 영국 총리의 취임과 '새 정치·경제모델' 구축 선언은 향후 영국 경제 정책의 불확실성을 높이며, 파운드화 및 영국 금융시장에 변동성을 야기할 수 있습니다.",
-    "action_point": "향후 발표될 영국 신임 총리의 구체적인 경제 정책 방향에 주목하며, 파운드화 및 영국 관련 자산의 변동성을 주시하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "신현송은 올렸고, 워시는 올릴 준비 … 금리인상기, 왜 국채 투자일까",
-    "title_ko": "신현송은 올렸고, 워시는 올릴 준비 … 금리인상기, 왜 국채 투자일까",
-    "link": "https://www.mk.co.kr/news/economy/12102722",
-    "published": "Tue, 21 Jul 2026 04:07:00 +09:00",
-    "fetched_at": "2026-07-21 04:27:00",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "채권",
-      "금융",
-      "부동산",
-      "성장주"
-    ],
-    "keywords": [
-      "금리인상",
-      "국채",
-      "통화정책",
-      "매파"
-    ],
-    "reason": "서울과 워싱턴 통화정책 수장의 동시 교체와 금리인상기 언급은 글로벌 긴축 기조의 지속을 시사하며, 이는 위험자산에 부정적이지만 국채 투자 기회는 존재할 수 있습니다.",
-    "action_point": "금리 상승기 포트폴리오 방어를 위해 국채 비중 확대 또는 단기채 투자 검토."
   }
 ]
