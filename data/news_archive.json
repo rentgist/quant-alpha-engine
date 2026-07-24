@@ -1,6 +1,77 @@
 [
   {
     "source": "GoogleNews_Korea",
+    "title": "中, '美 강제노동관세' 부과에 \"관세전쟁 누구에게도 이익 안돼\" - 연합뉴스",
+    "title_ko": "中, '美 강제노동관세' 부과에 \"관세전쟁 누구에게도 이익 안돼\"",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DZHdDTmlKQk9zUlJxSHdpemtHNHVBWmxCQU1jLVB3TWFaeEtldnRPb1Y3dGYtRzFCQ2RfNlRSX28yRHRzYlNXaUdVM19DYmNQZl9PVFZmWXBydUnSAWBBVV95cUxNcldYQlQzT2Mzd1NRcUhleV8tNk5xR0Qwd1NELUpJdEhCYy1OZVlaRGdBQkNjSlMxcEphV2dQOWpGSGFzYzJQVjlLbWd0OWM5Sk44UDVmRzNBUGRKTGNHbXU?oc=5",
+    "published": "Fri, 24 Jul 2026 08:07:46 GMT",
+    "fetched_at": "2026-07-24 23:46:06",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "글로벌 무역",
+      "제조업",
+      "해운/물류",
+      "소비재"
+    ],
+    "keywords": [
+      "미중 무역분쟁",
+      "관세",
+      "강제노동",
+      "공급망",
+      "글로벌 경제"
+    ],
+    "reason": "미국의 '강제노동 관세' 부과는 미중 무역 갈등의 새로운 확전 신호로, 글로벌 공급망에 불확실성을 가중시키고 교역량 감소 우려를 높여 증시 전반에 부정적 영향을 미칠 수 있습니다.",
+    "action_point": "미중 무역 갈등 심화에 취약한 글로벌 공급망 의존 기업 비중 축소를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "How a Chinese AI model stopped OpenAI’s ‘unprecedented’ cyber attack",
+    "title_ko": "중국 AI 모델이 OpenAI의 '전례 없는' 사이버 공격을 어떻게 막았는가",
+    "link": "https://www.cnbc.com/2026/07/24/chinese-ai-model-openai-cyber-attack.html",
+    "published": "Fri, 24 Jul 2026 13:01:54 GMT",
+    "fetched_at": "2026-07-24 23:45:50",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "인공지능",
+      "사이버 보안",
+      "기술"
+    ],
+    "keywords": [
+      "중국 AI 모델",
+      "OpenAI",
+      "사이버 공격",
+      "인공지능 방어",
+      "Hugging Face"
+    ],
+    "reason": "AI를 활용한 사이버 공격과 방어의 기술 경쟁 심화를 보여주며, AI 보안 역량의 중요성을 부각한다. 이는 기술 기업 및 인프라 전반의 보안 투자 확대로 이어질 수 있다.",
+    "action_point": "AI 기반 사이버 보안 솔루션 제공 기업의 밸류에이션 및 성장 잠재력을 재평가하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "블록체인, 신뢰의 끈 - KDI 경제교육·정보센터",
+    "title_ko": "블록체인, 신뢰의 끈",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYVhMTnc0RWZwVktyenBaa0VhSmFUN2ViaUdkVll6Q2NORjBaSzhNY2EyM1V2eHdCNkphYl9BM1l1dG0zZmZNR3dleFlNU1FXZWtRbGdDNTM5ZTI3RGE4Ql8yVFlabHJvSFBRQklfbU9kdjJCT0loUkpWdmRuaWNDQg?oc=5",
+    "published": "Fri, 24 Jul 2026 07:03:38 GMT",
+    "fetched_at": "2026-07-24 23:45:58",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "기술",
+      "핀테크"
+    ],
+    "keywords": [
+      "블록체인",
+      "신뢰",
+      "KDI",
+      "경제교육"
+    ],
+    "reason": "KDI에서 블록체인의 기본 개념인 '신뢰'에 대해 설명하는 교육성 기사로, 특정 시장 변화나 투자 자산에 즉각적인 영향을 미치지 않습니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "GoogleNews_Korea",
     "title": "국제 유가 상승에도…8차 석유 최고가격 ’동결’ - 연합뉴스TV",
     "title_ko": "국제 유가 상승에도…8차 석유 최고가격 ’동결’ - 연합뉴스TV",
     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43dzBSZHpKSEIteG14aEdKdDhjNWgzNzBDMjZQYjhQc2RLMVh4YXAyamhyMU9FY2ZuZ2lSTGw2R3ljU1plRDg5dTBvbmtYVmdjUXVVdlBEMmhOOWM5NnQ4dUJESUhWbDQ?oc=5",
@@ -2807,78 +2878,5 @@
     ],
     "reason": "국내외 기술 성장주 및 AI, 전력인프라 테마 액티브 ETF의 높은 수익률은 해당 섹터의 견고한 성장 모멘텀과 시장의 관심을 재확인시켜줍니다. 이는 특정 고성장 테마로의 자금 유입 지속 가능성을 시사합니다.",
     "action_point": "국내외 기술 성장주 및 AI, 전력인프라 테마 액티브 ETF 비중 확대를 검토하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "[세계지식포럼 연사] ‘드론의 안드로이드’ 개발자가 말하는 방위산업 미래",
-    "title_ko": "[세계지식포럼 연사] ‘드론의 안드로이드’ 개발자가 말하는 방위산업 미래",
-    "link": "https://www.mk.co.kr/news/business/12103492",
-    "published": "Tue, 21 Jul 2026 16:16:30 +09:00",
-    "fetched_at": "2026-07-21 16:36:58",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "방위산업",
-      "인공지능",
-      "로봇"
-    ],
-    "keywords": [
-      "드론",
-      "방위산업",
-      "AI",
-      "군집드론",
-      "러-우 전쟁"
-    ],
-    "reason": "러시아-우크라이나 전쟁 등 지정학적 불안정 심화로 AI 기반 드론 기술을 중심으로 한 방위산업의 혁신 및 성장이 가속화될 전망이다. 이는 관련 기술 기업의 투자 가치를 높일 수 있다.",
-    "action_point": "AI 기반 드론 및 방위산업 관련 기술 기업 비중 확대를 검토하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "고양시 대화·법곳·장항동 77만㎡ 군사시설 제한구역 풀린다",
-    "title_ko": "고양시 대화·법곳·장항동 77만㎡ 군사시설 제한구역 풀린다",
-    "link": "https://www.mk.co.kr/news/politics/12103484",
-    "published": "Tue, 21 Jul 2026 16:09:23 +09:00",
-    "fetched_at": "2026-07-21 16:37:13",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "부동산",
-      "건설",
-      "지역경제",
-      "기술주"
-    ],
-    "keywords": [
-      "고양시",
-      "군사시설 제한구역 해제",
-      "부동산 개발",
-      "일산테크노밸리",
-      "창릉3기 신도시"
-    ],
-    "reason": "고양시 군사시설 제한구역 해제는 해당 지역의 부동산 개발을 촉진하고 일산테크노밸리 및 창릉3기 신도시 개발에 속도를 붙여 지역 경제 활성화에 긍정적인 영향을 미칠 것입니다.",
-    "action_point": "고양시 인근 개발 예정지 부동산 및 관련 건설·개발 섹터 기업 투자 기회를 검토."
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "추미애 경기도지사 “반도체 초격차 유지 위해 전력·교통·인력 지원 확대”",
-    "title_ko": "추미애 경기도지사 “반도체 초격차 유지 위해 전력·교통·인력 지원 확대”",
-    "link": "https://www.mk.co.kr/news/society/12103483",
-    "published": "Tue, 21 Jul 2026 16:09:12 +09:00",
-    "fetched_at": "2026-07-21 16:37:21",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "반도체",
-      "IT 하드웨어",
-      "반도체 장비"
-    ],
-    "keywords": [
-      "반도체",
-      "경기도",
-      "지원 확대",
-      "소부장",
-      "초격차"
-    ],
-    "reason": "경기도의 반도체 산업 지원 확대 의지는 관련 기업의 운영 환경 개선 및 경쟁력 강화에 긍정적으로 작용할 것입니다. 이는 국내 반도체 생태계 전반에 대한 긍정적 시그널로 해석됩니다.",
-    "action_point": "반도체 섹터의 투자 매력도 재평가 및 비중 확대를 검토하라."
   }
 ]
