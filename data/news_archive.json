@@ -1,5 +1,29 @@
 [
   {
+    "source": "CNBC_Finance",
+    "title": "Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others",
+    "title_ko": "무디스, '전례 없는' AI 지출이 아마존, 메타, 알파벳 등 기업의 신용 등급을 위협한다고 경고",
+    "link": "https://www.cnbc.com/2026/07/24/moodys-ai-spending-credit-quality-amazon-meta-alphabet.html",
+    "published": "Fri, 24 Jul 2026 17:37:49 GMT",
+    "fetched_at": "2026-07-25 03:11:53",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "기술",
+      "클라우드 컴퓨팅",
+      "반도체"
+    ],
+    "keywords": [
+      "AI 투자",
+      "신용 등급",
+      "부채",
+      "대형 기술주",
+      "무디스"
+    ],
+    "reason": "무디스가 주요 기술 기업의 과도한 AI 투자로 인한 부채 증가와 신용 등급 하락 가능성을 경고하며, 이는 해당 기업의 재무 건전성 및 향후 성장 전략에 대한 불확실성을 높입니다.",
+    "action_point": "대형 기술주, 특히 AI 투자 비중이 높은 기업들의 재무제표와 부채 수준을 면밀히 검토하고, 과도한 부채 레버리징 위험에 대비하여 포트폴리오 비중 조정을 고려."
+  },
+  {
     "source": "GoogleNews_Korea",
     "title": "中, '美 강제노동관세' 부과에 \"관세전쟁 누구에게도 이익 안돼\" - 연합뉴스",
     "title_ko": "中, '美 강제노동관세' 부과에 \"관세전쟁 누구에게도 이익 안돼\"",
@@ -2851,32 +2875,5 @@
     ],
     "reason": "종합특검 연장법 통과는 국내 정치 불확실성을 심화시키며, 정부 정책 추진 동력 약화 및 입법 지연 우려를 키워 투자 심리에 부정적인 영향을 미칠 수 있습니다.",
     "action_point": "국내 정치 불확실성 심화에 대비하여 방어적 자산(예: 달러, 금) 비중 확대를 검토하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "미래에셋 TIGER, 국내 테크부터 글로벌 AI까지…액티브 ETF 성과 두각",
-    "title_ko": "미래에셋 TIGER, 국내 테크부터 글로벌 AI까지…액티브 ETF 성과 두각",
-    "link": "https://www.mk.co.kr/news/stock/12103502",
-    "published": "Tue, 21 Jul 2026 16:32:20 +09:00",
-    "fetched_at": "2026-07-21 16:36:46",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "기술",
-      "AI",
-      "전력인프라",
-      "자산운용"
-    ],
-    "keywords": [
-      "TIGER ETF",
-      "액티브 ETF",
-      "기술주",
-      "AI",
-      "전력인프라",
-      "수익률",
-      "미래에셋"
-    ],
-    "reason": "국내외 기술 성장주 및 AI, 전력인프라 테마 액티브 ETF의 높은 수익률은 해당 섹터의 견고한 성장 모멘텀과 시장의 관심을 재확인시켜줍니다. 이는 특정 고성장 테마로의 자금 유입 지속 가능성을 시사합니다.",
-    "action_point": "국내외 기술 성장주 및 AI, 전력인프라 테마 액티브 ETF 비중 확대를 검토하라."
   }
 ]
