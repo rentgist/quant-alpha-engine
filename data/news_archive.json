@@ -1,5 +1,55 @@
 [
   {
+    "source": "CNBC_World",
+    "title": "Trump threatens EU with 'substantial TARIFF' for 'ROBBING' U.S. tech giants",
+    "title_ko": "트럼프, '미국 기술 기업 강탈' EU에 '상당한 관세' 부과 위협",
+    "link": "https://www.cnbc.com/2026/07/24/trump-tariffs-eu-trade-google-apple-tech.html",
+    "published": "Fri, 24 Jul 2026 19:39:50 GMT",
+    "fetched_at": "2026-07-25 05:11:20",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "IT",
+      "자동차",
+      "소비재",
+      "화학"
+    ],
+    "keywords": [
+      "트럼프",
+      "EU",
+      "관세",
+      "무역 분쟁",
+      "기술 기업"
+    ],
+    "reason": "트럼프의 EU에 대한 관세 부과 위협은 글로벌 무역 긴장을 고조시키고, 미국과 유럽 간 교역에 의존하는 기업들의 불확실성을 증대시켜 특히 기술 및 제조업 분야에 부정적 영향을 미칠 수 있습니다.",
+    "action_point": "미국-EU 무역 분쟁 심화 가능성에 대비하여 유럽 시장 수출 비중이 높은 국내외 기업에 대한 투자 비중 축소를 검토."
+  },
+  {
+    "source": "Maeil_Business",
+    "title": "‘AI 고속도로’ 병목 해결사…미국 광통신株 성장성 눈부시네",
+    "title_ko": "‘AI 고속도로’ 병목 해결사…미국 광통신株 성장성 눈부시네",
+    "link": "https://www.mk.co.kr/news/stock/12106951",
+    "published": "Sat, 25 Jul 2026 05:00:00 +09:00",
+    "fetched_at": "2026-07-25 05:11:34",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "광통신",
+      "반도체",
+      "IT 하드웨어",
+      "AI 인프라"
+    ],
+    "keywords": [
+      "AI",
+      "광통신",
+      "데이터 전송",
+      "인프라",
+      "GPU"
+    ],
+    "reason": "AI 기술 발전의 핵심 병목 구간이 광통신 인프라로 이동하며 관련 산업의 폭발적인 성장 가능성을 시사하고, 이는 새로운 투자 테마로 부상할 수 있습니다.",
+    "action_point": "AI 인프라 확장에 따른 수혜가 예상되는 미국 광통신 및 관련 반도체 섹터 비중 확대 검토."
+  },
+  {
     "source": "CNBC_Finance",
     "title": "Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others",
     "title_ko": "무디스, '전례 없는' AI 지출이 아마존, 메타, 알파벳 등 기업의 신용 등급을 위협한다고 경고",
@@ -2835,45 +2885,5 @@
     ],
     "reason": "아부다비의 대규모 가스 프로젝트는 UAE의 천연가스 생산량과 LNG 수출 능력을 장기적으로 증대시켜 글로벌 에너지 시장의 공급 안정성에 기여할 것입니다. 이는 잠재적으로 천연가스 가격의 하방 압력으로 작용할 수 있습니다.",
     "action_point": "글로벌 천연가스 공급 증가 가능성을 염두에 두고 에너지 생산 기업 투자 비중을 재점검하십시오."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "[속보] 2차 종합특검 개정안 국회 통과…수사기간 또 1개월 연장 - 경향신문",
-    "title_ko": "[속보] 2차 종합특검 개정안 국회 통과…수사기간 또 1개월 연장",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0WVFYMkRxZEhEcU9PY1RXR1dpaFJBeEJtYVZMNmRiVlk4Q18tRklBOFZJWWM5TnhDbVJWbi1HTUpfMWRHQnBMel9HOGxEMnBaVnFqLWFBQ1lYd9IBX0FVX3lxTE5GYjEzcjgzYXdVTjFwc0M1WXlaV2RGQXBheGhUcE5SaGVFYzRDY0s4d0p0LTdmWDI4SktaejRyOUZNOE15Z1dNbFhubUtER2VUWEtjc0dlS1kzTnY5YlI0?oc=5",
-    "published": "Tue, 21 Jul 2026 06:30:00 GMT",
-    "fetched_at": "2026-07-21 16:36:20",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [],
-    "keywords": [
-      "특검",
-      "수사기간 연장",
-      "국회",
-      "정치 불확실성"
-    ],
-    "reason": "이 뉴스는 국내 정치적 불확실성을 장기화시키지만, 기존에 알려진 사안의 수사기간 연장으로 시장에 미치는 직접적인 경제적 영향은 제한적이며 투자 심리에도 미미한 영향을 줄 것으로 예상된다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "“한달 연장에 수사 인원도 추가”…‘종합특검 연장법’ 국회 본회의 통과",
-    "title_ko": "“한달 연장에 수사 인원도 추가”…‘종합특검 연장법’ 국회 본회의 통과",
-    "link": "https://www.mk.co.kr/news/politics/12103503",
-    "published": "Tue, 21 Jul 2026 16:35:10 +09:00",
-    "fetched_at": "2026-07-21 16:36:39",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "국내 증시 전반"
-    ],
-    "keywords": [
-      "종합특검",
-      "정치 불확실성",
-      "국회",
-      "필리버스터"
-    ],
-    "reason": "종합특검 연장법 통과는 국내 정치 불확실성을 심화시키며, 정부 정책 추진 동력 약화 및 입법 지연 우려를 키워 투자 심리에 부정적인 영향을 미칠 수 있습니다.",
-    "action_point": "국내 정치 불확실성 심화에 대비하여 방어적 자산(예: 달러, 금) 비중 확대를 검토하라."
   }
 ]
