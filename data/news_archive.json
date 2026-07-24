@@ -1,5 +1,52 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "title": "국제 유가 상승에도…8차 석유 최고가격 ’동결’ - 연합뉴스TV",
+    "title_ko": "국제 유가 상승에도…8차 석유 최고가격 ’동결’ - 연합뉴스TV",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43dzBSZHpKSEIteG14aEdKdDhjNWgzNzBDMjZQYjhQc2RLMVh4YXAyamhyMU9FY2ZuZ2lSTGw2R3ljU1plRDg5dTBvbmtYVmdjUXVVdlBEMmhOOWM5NnQ4dUJESUhWbDQ?oc=5",
+    "published": "Fri, 24 Jul 2026 11:04:00 GMT",
+    "fetched_at": "2026-07-24 21:13:47",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "정유",
+      "운송",
+      "제조업",
+      "소비재"
+    ],
+    "keywords": [
+      "국제 유가",
+      "가격 동결",
+      "인플레이션",
+      "정유",
+      "에너지"
+    ],
+    "reason": "국제 유가 상승에도 불구하고 국내 석유 최고가격 동결 조치는 국내 인플레이션 압력을 완화하고 관련 산업 및 소비자의 비용 부담 증가를 억제하여 국내 경기 안정에 기여할 것입니다.",
+    "action_point": "국내 인플레이션 압력 완화 효과를 감안하여 내수 경기 민감주 및 운송 섹터의 비중 유지 또는 소폭 확대 검토."
+  },
+  {
+    "source": "Maeil_Business",
+    "title": "‘50억 자가’ 야노시호 “도쿄 집값, 5년 만에 3배 올라”",
+    "title_ko": "‘50억 자가’ 야노시호 “도쿄 집값, 5년 만에 3배 올라”",
+    "link": "https://www.mk.co.kr/news/culture/12107032",
+    "published": "Fri, 24 Jul 2026 21:02:38 +09:00",
+    "fetched_at": "2026-07-24 21:13:58",
+    "sentiment": "호재",
+    "importance": 2,
+    "sectors": [
+      "부동산",
+      "금융"
+    ],
+    "keywords": [
+      "도쿄 부동산",
+      "집값 상승",
+      "일본 경제",
+      "해외 부동산 투자"
+    ],
+    "reason": "이 기사는 도쿄 부동산 시장의 급격한 가격 상승 현상을 보여주며, 이는 일본의 저금리 기조, 엔화 약세, 그리고 외국인 투자 유입 등 복합적인 요인에 기인할 가능성을 시사합니다. 해외 부동산 투자 동향과 자산 가치 변화에 대한 통찰을 제공합니다.",
+    "action_point": "일본 도쿄 부동산 시장의 추가 상승 여력 및 투자 기회를 면밀히 검토하고, 관련 투자 상품에 대한 분석을 시작하라."
+  },
+  {
     "source": "CNBC_World",
     "title": "Trump considering a ‘massive attack’ on Iran as Tehran labels UK ‘accomplice’ to America",
     "title_ko": "트럼프, 이란에 대한 '대규모 공격' 고려 중, 이란은 영국을 미국의 '공범'으로 규정",
@@ -2833,46 +2880,5 @@
     ],
     "reason": "경기도의 반도체 산업 지원 확대 의지는 관련 기업의 운영 환경 개선 및 경쟁력 강화에 긍정적으로 작용할 것입니다. 이는 국내 반도체 생태계 전반에 대한 긍정적 시그널로 해석됩니다.",
     "action_point": "반도체 섹터의 투자 매력도 재평가 및 비중 확대를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "India's largest asset management firm makes a muted market debut after a $1 billion IPO",
-    "title_ko": "인도 최대 자산운용사, 10억 달러 규모 IPO 후 조용한 시장 데뷔",
-    "link": "https://www.cnbc.com/2026/07/21/india-sbi-market-debut-billion-ipo.html",
-    "published": "Tue, 21 Jul 2026 06:51:15 GMT",
-    "fetched_at": "2026-07-21 16:35:32",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "금융",
-      "인도 시장"
-    ],
-    "keywords": [
-      "IPO",
-      "자산운용",
-      "인도",
-      "주식시장"
-    ],
-    "reason": "인도 최대 자산운용사의 IPO가 상당한 청약 경쟁률에도 불구하고 제한적인 상승률로 마감하며 인도 금융 시장 내 신중한 투자 심리를 시사합니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "[속보] 여야, 특검 추천방식 포함 '선관위 특검법' 합의 - MBC 뉴스",
-    "title_ko": "[속보] 여야, 특검 추천방식 포함 '선관위 특검법' 합의 - MBC 뉴스",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1nT3J6c2pzdEw3TG1scDBrZDJXNW9iYmhnejdrazg4ZFhlT285YW5vMlFTN003ZEhLTDBHV09IWmota2hndkRFUXR4OHBCRTJORF9lcXMzTE1QeGNrTlRVQmJhcWZhcWp4RUJVNm54MklRWU9OOFFlMNIBeEFVX3lxTE1qeWpNWDFrZFR0YlZEU2lnTDItbnR4bllMM2pScndPNVFKdjBNMUpISHdrRTcxQmxFeDdXWk9SSWJJX1pMbWhGUW9DVURMalE2SGFWSWhOa19jaUVKNEU1YmdmSHhGRnZRODJzRjhacDI1enp0OElBMQ?oc=5",
-    "published": "Tue, 21 Jul 2026 02:37:17 GMT",
-    "fetched_at": "2026-07-21 16:36:01",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [],
-    "keywords": [
-      "선관위 특검법",
-      "여야 합의",
-      "정치 안정성",
-      "투명성"
-    ],
-    "reason": "여야 합의를 통해 선관위 관련 정치적 불확실성이 일부 해소될 수 있으나, 거시 경제나 금융 시장에 미치는 직접적인 영향은 제한적이다.",
-    "action_point": "해당 없음"
   }
 ]
