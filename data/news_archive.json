@@ -1,6 +1,29 @@
 [
   {
     "source": "Maeil_Business",
+    "title": "“투자금 회수 전략 내세운 PEF”…식음료 기업 ‘몸값 높이기’ 속도전",
+    "title_ko": "“투자금 회수 전략 내세운 PEF”…식음료 기업 ‘몸값 높이기’ 속도전",
+    "link": "https://www.mk.co.kr/news/economy/12107422",
+    "published": "Sat, 25 Jul 2026 22:20:48 +09:00",
+    "fetched_at": "2026-07-26 00:57:27",
+    "sentiment": "호재",
+    "importance": 2,
+    "sectors": [
+      "식음료",
+      "투자금융"
+    ],
+    "keywords": [
+      "사모펀드",
+      "식음료",
+      "밸류업",
+      "투자금 회수",
+      "M&A"
+    ],
+    "reason": "사모펀드의 식음료 기업 밸류업 노력은 해당 섹터의 M&A 활성화 및 기업 가치 상승 기대를 높입니다. 다만, 단기적 성과 이상으로 장기 경쟁력 검증이 중요합니다.",
+    "action_point": "국내 식음료 섹터 내 M&A 및 밸류업 가능성이 있는 기업을 면밀히 분석하라."
+  },
+  {
+    "source": "Maeil_Business",
     "title": "“공제 줄이고 특례 없애야”…부동산 토론회 전날 나온 국회 ‘보유세 보고서’",
     "title_ko": "“공제 줄이고 특례 없애야”…부동산 토론회 전날 나온 국회 ‘보유세 보고서’",
     "link": "https://www.mk.co.kr/news/realestate/12107424",
@@ -2870,28 +2893,5 @@
     ],
     "reason": "트럼프의 재집권 시 관세 인상 정책은 글로벌 무역 불확실성을 증대시키고, 한국과 같은 수출 중심국의 기업 실적과 경제 성장에 직접적인 악영향을 미칠 수 있습니다. 이는 한미 무역 관계의 긴장을 고조시킬 것입니다.",
     "action_point": "미국 대선 결과에 따른 관세 정책 변화 가능성을 주시하며, 대미 수출 비중이 높은 국내 제조 기업의 투자 리스크를 재평가하라."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Stock futures are little changed as investors gear up for more earnings: Live updates",
-    "title_ko": "기업 실적 발표를 앞두고 주식 선물은 소폭 변동",
-    "link": "https://www.cnbc.com/2026/07/21/stock-market-today-live-updates.html",
-    "published": "Tue, 21 Jul 2026 23:31:00 GMT",
-    "fetched_at": "2026-07-22 08:48:39",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "기술",
-      "산업재",
-      "전반적 주식 시장"
-    ],
-    "keywords": [
-      "기업 실적",
-      "주식 선물",
-      "기술주",
-      "산업주"
-    ],
-    "reason": "주요 기술 및 산업 기업들의 실적 발표를 앞두고 시장은 관망세를 보이며, 향후 실적 결과에 따라 개별 기업 및 섹터에 대한 변동성이 확대될 수 있음을 시사합니다.",
-    "action_point": "향후 발표될 주요 기술 및 산업 기업 실적에 따른 개별 종목 및 섹터별 포트폴리오 비중 조정을 고려."
   }
 ]
