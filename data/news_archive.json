@@ -1,6 +1,29 @@
 [
   {
     "source": "GoogleNews_Korea",
+    "title": "트럼프·네타냐후, 28일 회담...전쟁 개시 후 첫 대면 주목 - YTN",
+    "title_ko": "트럼프·네타냐후, 28일 회담...전쟁 개시 후 첫 대면 주목 - YTN",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4tdE1TRFp4d0VDTkI2SjRkb0JBVEJCOWtWTVBqOEVraGU2WXpTdGZaWllmYWZXcmlHdWtiZHh6akdET0ZNdkZ3Rlo4eUFtUTdoV3FUREtaX2dBRWVEXzJtX3pXU3BHV2tBUllEa3laSzczcGlnYVE?oc=5",
+    "published": "Fri, 24 Jul 2026 21:25:00 GMT",
+    "fetched_at": "2026-07-25 08:59:02",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "방위산업"
+    ],
+    "keywords": [
+      "트럼프",
+      "네타냐후",
+      "중동",
+      "지정학",
+      "전쟁"
+    ],
+    "reason": "전 미국 대통령과 이스라엘 총리의 이번 회담은 중동 전쟁의 향방과 미국의 향후 대외 정책 기조에 영향을 미칠 수 있으며, 이는 국제 유가 및 지정학적 리스크 확대 가능성을 내포합니다.",
+    "action_point": "중동 지정학적 리스크에 민감한 에너지 및 방산 섹터 비중을 재검토하고, 달러 자산 비중 유지를 고려."
+  },
+  {
+    "source": "GoogleNews_Korea",
     "title": "다시 100달러 돌파한 국제유가…하반기 '2%대 물가' 사수 가능할까 - 연합인포맥스",
     "title_ko": "다시 100달러 돌파한 국제유가…하반기 '2%대 물가' 사수 가능할까",
     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sTmNGLU5DeXQ0NDJndzVRQnp4WnZBWjVJXzJsUnEtY0cwbTF4NlNlQXJBWTUwYjJZM05KamowSkhPc2w1YXBVbVg2WnJRTVMzYTc0aG0ycDRzd3Q2NWplVmFTYklrUHZoMGpZLU9sX3k?oc=5",
@@ -2858,32 +2881,5 @@
     ],
     "reason": "중동에서의 적대 행위 재개는 글로벌 지정학적 불안감을 고조시키며, 원유 공급 불안정으로 이어져 유가 상승 압력을 가할 수 있습니다. 이는 전 세계 경제 성장 둔화 및 인플레이션 압력으로 작용할 가능성이 큽니다.",
     "action_point": "지정학적 리스크 심화에 따른 유가 변동성 확대 및 안전자산 선호 심리를 주시하며 에너지 및 방산 섹터 투자 비중을 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Ships shun Strait of Hormuz as renewed fighting strains key oil corridor",
-    "title_ko": "새로운 분쟁으로 호르무즈 해협 운항이 중단되며 주요 석유 수송로에 긴장 고조",
-    "link": "https://www.cnbc.com/2026/07/21/strait-of-hormuz-traffic-renewed-us-iran-conflict-chokes-hormuz.html",
-    "published": "Tue, 21 Jul 2026 02:33:54 GMT",
-    "fetched_at": "2026-07-21 16:35:06",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "에너지",
-      "해운",
-      "항공",
-      "정유",
-      "석유화학"
-    ],
-    "keywords": [
-      "호르무즈 해협",
-      "석유",
-      "원유",
-      "지정학적 위험",
-      "봉쇄",
-      "물가상승"
-    ],
-    "reason": "호르무즈 해협 봉쇄는 전 세계 원유 공급에 심각한 차질을 초래하여 원유 가격 급등과 에너지 비용 상승을 야기할 것입니다. 이는 글로벌 인플레이션 압력을 높이고 경기 둔화 우려를 심화시킵니다.",
-    "action_point": "에너지 관련 자산(원유, 에너지 섹터 주식 등) 비중 확대를 검토하여 헤지 및 수익 기회를 모색하라."
   }
 ]
