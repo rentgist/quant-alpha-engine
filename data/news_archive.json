@@ -1,5 +1,77 @@
 [
   {
+    "source": "CNBC_World",
+    "title": "Saudi military strikes Houthi targets in Yemen after the Iran-backed militia attacked Red Sea shipping",
+    "title_ko": "사우디, 이란 지원 후티 반군의 홍해 선박 공격 후 예멘 내 후티 목표물 타격",
+    "link": "https://www.cnbc.com/2026/07/25/saudi-military-strikes-iran-backed-houthi-targets-yemen.html",
+    "published": "Sat, 25 Jul 2026 10:22:58 GMT",
+    "fetched_at": "2026-07-25 20:02:18",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "해운",
+      "보험",
+      "방위산업"
+    ],
+    "keywords": [
+      "사우디",
+      "후티 반군",
+      "홍해",
+      "이란",
+      "지정학적 위험",
+      "유가"
+    ],
+    "reason": "홍해 및 예멘 지역의 무력 충돌 확대는 주요 에너지 공급원 및 글로벌 해운로의 지정학적 위험을 고조시킨다. 이는 유가 상승 압력과 해운 비용 증가로 이어져 글로벌 인플레이션 및 공급망 불안을 심화시킬 수 있다.",
+    "action_point": "에너지 및 방위산업 섹터 비중 확대를 검토하고, 홍해 리스크에 노출된 해운 관련 기업의 비중 축소를 고려하라."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "India's education minister resigns in major win for Indian youth protesters",
+    "title_ko": "인도 교육부 장관 사임, 청년 시위대의 주요 승리",
+    "link": "https://www.cnbc.com/2026/07/25/indias-education-minister-resigns-in-win-for-indian-youth-protesters.html",
+    "published": "Sat, 25 Jul 2026 10:47:59 GMT",
+    "fetched_at": "2026-07-25 20:02:27",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "인도 증시",
+      "신흥국 시장"
+    ],
+    "keywords": [
+      "인도",
+      "정치적 불안정",
+      "모디 총리",
+      "시위",
+      "신흥국 리스크"
+    ],
+    "reason": "인도 교육부 장관 사임은 청년 시위에 대한 정부의 대응으로, 모디 총리에게 중요한 정치적 도전 과제였음을 시사합니다. 이는 인도 내부의 정치적 불안정성 증가와 정책 불확실성을 야기하여 인도 증시 및 신흥국 투자 심리에 부정적인 영향을 줄 수 있습니다.",
+    "action_point": "인도 및 신흥국 주식 포트폴리오의 리스크 노출도 재검토"
+  },
+  {
+    "source": "Maeil_Business",
+    "title": "0% vs 76%…ESG 공시 사각지대는 ‘오래된 제조기업’ [여의도란도란]",
+    "title_ko": "0% vs 76%…ESG 공시 사각지대는 ‘오래된 제조기업’ [여의도란도란]",
+    "link": "https://www.mk.co.kr/news/stock/12107355",
+    "published": "Sat, 25 Jul 2026 18:45:38 +09:00",
+    "fetched_at": "2026-07-25 20:02:42",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "제조업",
+      "금융"
+    ],
+    "keywords": [
+      "ESG 공시",
+      "제조기업",
+      "탄소규제",
+      "국민연금",
+      "ESG 투자"
+    ],
+    "reason": "ESG 공시 의무화 및 투자기관의 압력 증대로 인해 오래된 제조기업의 재무적 부담이 증가하고, ESG 평가에 따른 자본 유치 불이익이 발생할 수 있습니다. 이는 해당 기업들의 장기적 경쟁력에 부정적 영향을 미칠 수 있습니다.",
+    "action_point": "ESG 공시가 미흡한 오래된 제조기업의 비중 축소를 검토하고, ESG 선도 기업으로 포트폴리오를 재편하라."
+  },
+  {
     "source": "GoogleNews_Korea",
     "title": "이란 전쟁에 관광 타격입은 두바이… “해외 지인 초대하면 '120만원' 혜택” - 전자신문",
     "title_ko": "이란 전쟁에 관광 타격입은 두바이… “해외 지인 초대하면 '120만원' 혜택”",
@@ -2812,79 +2884,5 @@
     ],
     "reason": "OpenAI의 지배구조 강화는 인공지능 산업의 안정성과 성장 전략을 강화하는 신호로 해석될 수 있으며, 장기적으로는 AI 관련 투자심리에 긍정적 영향을 줄 수 있습니다.",
     "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "다시 치솟는 국제유가…이 대통령 \"최고가격제 더 강화\" - v.daum.net",
-    "title_ko": "다시 치솟는 국제유가…이 대통령 \"최고가격제 더 강화\"",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5RMWJxQ0JSYUhWQUZOeGp4V18tRUdHOU44akIyQTkxQVhGNkhFRXlvaXRudDV6VlM0Y0JjRzdpNVVYakVIMUl2NmkzWFUxdWc?oc=5",
-    "published": "Tue, 21 Jul 2026 11:36:14 GMT",
-    "fetched_at": "2026-07-22 05:14:28",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "운송",
-      "화학",
-      "소비재",
-      "유틸리티"
-    ],
-    "keywords": [
-      "국제유가",
-      "물가상승",
-      "최고가격제",
-      "인플레이션",
-      "에너지정책"
-    ],
-    "reason": "국제유가 상승은 한국 경제 전반의 인플레이션 압력을 가중시키고 기업의 생산비용을 증가시켜 수익성 악화 및 소비 위축으로 이어질 수 있다. 정부의 가격 통제 강화는 단기적 물가 안정에 기여할 수 있으나 시장 왜곡 가능성도 내포한다.",
-    "action_point": "국제유가 상승과 원가 부담에 취약한 운송, 화학 섹터 비중 축소 검토."
-  },
-  {
-    "source": "CNBC_Finance",
-    "title": "Goldman Sachs creates private markets platform as rich investors seek the next SpaceX and Stripe",
-    "title_ko": "골드만삭스, 부유한 투자자들이 다음 스페이스X와 스트라이프를 찾는 가운데 사모 시장 플랫폼 구축",
-    "link": "https://www.cnbc.com/2026/07/21/goldman-sachs-private-markets-platform.html",
-    "published": "Tue, 21 Jul 2026 19:41:54 GMT",
-    "fetched_at": "2026-07-22 05:14:13",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "금융",
-      "사모투자",
-      "기술"
-    ],
-    "keywords": [
-      "골드만삭스",
-      "사모 시장",
-      "대체 투자",
-      "부유층 자산 관리",
-      "비상장 기업"
-    ],
-    "reason": "골드만삭스의 신규 플랫폼은 고액 자산가들의 사모 시장 접근성을 높여 비상장 기업 투자 수요를 증가시킬 것입니다. 이는 사모 펀드 및 벤처 캐피탈 시장에 유동성을 공급하고 혁신 기업에 대한 자금 유입을 촉진할 수 있습니다.",
-    "action_point": "포트폴리오 내 사모 시장 및 대체 자산 투자 비중 확대 가능성을 검토"
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Novo Nordisk sues Eli Lilly, alleging misleading GLP-1 advertising",
-    "title_ko": "노보 노디스크, 일라이 릴리 상대로 GLP-1 광고 오해 소지 주장하며 소송 제기",
-    "link": "https://www.cnbc.com/2026/07/21/novo-nordisk-sues-eli-lilly-glp-1-ads.html",
-    "published": "Tue, 21 Jul 2026 14:54:22 GMT",
-    "fetched_at": "2026-07-22 03:10:58",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "제약",
-      "바이오테크",
-      "헬스케어"
-    ],
-    "keywords": [
-      "노보 노디스크",
-      "일라이 릴리",
-      "GLP-1",
-      "소송",
-      "제약 경쟁"
-    ],
-    "reason": "이 뉴스는 GLP-1 시장의 양대 산맥인 노보 노디스크와 일라이 릴리 간의 광고 관련 법적 분쟁으로, 제약 섹터 내 경쟁 구도와 기업 평판에 영향을 미칠 수 있으나, 광범위한 거시경제적 파급력은 제한적이다.",
-    "action_point": "GLP-1 관련 제약 기업 포트폴리오의 경쟁 우위 및 법적 리스크를 재평가."
   }
 ]
