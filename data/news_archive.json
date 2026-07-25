@@ -1,6 +1,29 @@
 [
   {
     "source": "GoogleNews_Korea",
+    "title": "탄소 데이터도 '검증'이 경쟁력…하나루프, 국제표준 기반 탄소관리 플랫폼 신뢰성 확보 - 에너지데일리",
+    "title_ko": "탄소 데이터도 '검증'이 경쟁력…하나루프, 국제표준 기반 탄소관리 플랫폼 신뢰성 확보",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9GU255LUljS3c1ejh1YUFCYW9WRVE5QnJmLS1hYWFsdVlGV1p3blk4QTJDcHpIRGFySmRkUjdfeEVHUXZkcXB0c0ppTU14Q2NWSVA2WTE0UlhiZFBJbGoxdmplY1hkV0pPdWJBUjVNMTdyQQ?oc=5",
+    "published": "Sat, 25 Jul 2026 21:45:05 GMT",
+    "fetched_at": "2026-07-26 07:44:01",
+    "sentiment": "호재",
+    "importance": 2,
+    "sectors": [
+      "ESG",
+      "IT 서비스",
+      "환경 컨설팅"
+    ],
+    "keywords": [
+      "탄소관리",
+      "ESG",
+      "데이터 검증",
+      "친환경 기술"
+    ],
+    "reason": "기업의 탄소배출량 데이터 검증 및 관리가 중요해지는 추세를 보여주며, ESG 관련 IT 솔루션 시장의 성장 가능성과 경쟁력 강화를 시사한다.",
+    "action_point": "ESG 관련 IT 서비스 및 솔루션 기업들의 밸류에이션 재평가 가능성을 주시."
+  },
+  {
+    "source": "GoogleNews_Korea",
     "title": "유가 폭등에 트럼프 2기 美 국채 금리 최고치…이란 전쟁 재발에 세계 금융시장 요동 - 글로벌이코노믹",
     "title_ko": "유가 폭등에 트럼프 2기 美 국채 금리 최고치…이란 전쟁 재발에 세계 금융시장 요동 - 글로벌이코노믹",
     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeUIzXzd6TzRWWEc0SVF4Nzc0SGlrMzhpMWRIT2VfZWp2SExyZkVaZmUtZnk1aEZ6TVJVRVR5Z1FDWEQwOFg1WkRUb29Rb0pxcGFGc09nOTNqMVZVVW13azVTdmI0V1V6SnJndzJIMEtSWlctOTF1eDB0U0UyUFk2cEJoWmEzSUdh?oc=5",
@@ -2877,31 +2900,5 @@
     ],
     "reason": "오픈AI의 한국 시장 광고 캠페인은 AI 기술의 대중화 및 상업적 확장을 의미하며, 장기적으로 AI 관련 산업의 성장 모멘텀을 강화합니다. 단기적인 거시경제 영향은 제한적입니다.",
     "action_point": "AI 관련 기술주에 대한 중장기 투자 매력도 및 확산 속도를 재평가하고, 포트폴리오 내 비중을 점검하라."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Tehran's Hormuz threat risks global fallout, Rubio warns as U.S. strikes Iran for 11th straight night",
-    "title_ko": "루비오, 이란의 호르무즈 해협 위협은 전 세계적 파장을 초래할 수 있다고 경고, 미군 11일 연속 이란 공습",
-    "link": "https://www.cnbc.com/2026/07/22/us-iran-war-trump-hormuz-.html",
-    "published": "Wed, 22 Jul 2026 04:48:00 GMT",
-    "fetched_at": "2026-07-22 14:00:05",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "에너지",
-      "해운",
-      "항공",
-      "방산",
-      "금융"
-    ],
-    "keywords": [
-      "이란",
-      "미국",
-      "호르무즈 해협",
-      "지정학적 리스크",
-      "유가"
-    ],
-    "reason": "장기화되는 미군의 이란 공습과 이란의 호르무즈 해협 위협은 중동 지정학적 리스크를 극도로 고조시키며, 글로벌 원유 공급망 교란 및 유가 급등 가능성을 증대시킵니다. 이는 전반적인 시장 불안정성을 키워 위험 회피 심리를 부추길 것입니다.",
-    "action_point": "중동 지정학적 리스크 심화에 따른 유가 급등 가능성에 대비하여 에너지 섹터 비중을 확대하고 안전 자산(금, 달러) 보유를 유지하라."
   }
 ]
