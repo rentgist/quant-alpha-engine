@@ -1,5 +1,54 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "title": "李대통령, EU '러 LNG 韓수출 제재 면제'에 \"경제에 큰 도움\" - 연합인포맥스",
+    "title_ko": "李대통령, EU '러 LNG 韓수출 제재 면제'에 \"경제에 큰 도움\"",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BMkdHR0twaDZldHhwWmdxNE5mQXZCSU90dEV6ZkpLTFpwM1k4emJCLTZqZ1o2NEZNSkdocDdrb2o3alBvMlBiWk81dUZPN3NrbThUZUFUU1E5ZVhoT1BRYjkwTUc2QTJiYjlyWlBrX0Y?oc=5",
+    "published": "Sat, 25 Jul 2026 12:03:03 GMT",
+    "fetched_at": "2026-07-26 05:06:52",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "전력/가스",
+      "화학",
+      "철강",
+      "반도체"
+    ],
+    "keywords": [
+      "EU 제재 면제",
+      "러시아 LNG",
+      "에너지 안보",
+      "한국 경제",
+      "원자재 가격"
+    ],
+    "reason": "EU의 러시아 LNG 한국 수출 제재 면제는 국내 에너지 안보를 강화하고 LNG 조달 비용 안정화에 기여하여, 에너지 다소비 산업의 원가 부담을 경감하고 인플레이션 압력을 완화할 수 있습니다.",
+    "action_point": "화학, 철강 등 에너지 다소비 산업 섹터의 원가 부담 완화에 따른 투자 매력도 재평가."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "태왕 유동성 위기···임금 체불에 과태료도 미납 - 대구MBC",
+    "title_ko": "태왕 유동성 위기···임금 체불에 과태료도 미납 - 대구MBC",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9CNFVKUkFxWFJ0WDZtd2lwLTQxcmtzQllrekhtUFl6LV9yZWRHQUVybUtTR1EzTlY2ejV6SGxheUljTzM3ZnVNTUJzbHk?oc=5",
+    "published": "Sat, 25 Jul 2026 11:28:35 GMT",
+    "fetched_at": "2026-07-26 05:07:01",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "건설",
+      "부동산",
+      "금융"
+    ],
+    "keywords": [
+      "유동성 위기",
+      "부동산 PF",
+      "건설",
+      "대구"
+    ],
+    "reason": "대구지역 건설사 태왕의 유동성 위기는 국내 건설 및 부동산 섹터 전반의 PF(프로젝트 파이낸싱) 리스크에 대한 우려를 재확산시키며, 관련 금융권의 건전성에 대한 시장의 경계심을 높일 수 있습니다.",
+    "action_point": "PF 익스포저가 높은 건설, 부동산, 금융 섹터 종목에 대한 비중 축소 및 리스크 점검."
+  },
+  {
     "source": "Maeil_Business",
     "title": "“투자금 회수 전략 내세운 PEF”…식음료 기업 ‘몸값 높이기’ 속도전",
     "title_ko": "“투자금 회수 전략 내세운 PEF”…식음료 기업 ‘몸값 높이기’ 속도전",
@@ -2849,49 +2898,5 @@
     ],
     "reason": "트럼프의 제네릭 의약품 관세 계획은 글로벌 제약사들의 공급망 재편과 비용 증가를 야기하여, 특히 비미국 기반 제약사들에게 악재로 작용할 것입니다. 이는 장기적으로 미국 내 의약품 가격 상승 압력으로 이어질 수 있습니다.",
     "action_point": "미국 시장 의존도가 높은 국내 제네릭 의약품 관련 기업들의 투자 비중을 점검하고, 포트폴리오 조정 여부를 검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "[속보] 김건희, 2차 종합특검 출석…’관저 특혜’ 조사 - 연합뉴스TV",
-    "title_ko": "[속보] 김건희, 2차 종합특검 출석…’관저 특혜’ 조사",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9MZUVqc19EX0ZNZ2FXWXVpek13NDk3LTRUZ2xBQUg4dU10Q2dEQjlreENiSWxJeWlfYy04al9LZjI5enZkR0tWdUlXY3pPejdfR0g5VUV1X0U3ODg4bnFqcG9GY21HdEU?oc=5",
-    "published": "Wed, 22 Jul 2026 00:38:00 GMT",
-    "fetched_at": "2026-07-22 10:46:49",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [],
-    "keywords": [
-      "김건희",
-      "특검",
-      "관저 특혜",
-      "정치"
-    ],
-    "reason": "영부인의 특검 출석은 국내 정치적 노이즈를 증가시키겠으나, 광범위한 금융시장(주식, 금리, 환율, 원자재, 부동산)에 직접적인 투자 영향은 미미할 것으로 판단됩니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "트럼프 또 관세 전쟁...15% 넘기면 한미 합의 위반 - YTN",
-    "title_ko": "트럼프 또 관세 전쟁...15% 넘기면 한미 합의 위반 - YTN",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBhRm1JTkhrTHJHTzMyUGUzVThSMDdLbTRUMlp5S0hxQ3N4b3lkSTFHUlFNWF9CaDg0cXRTNDRILS1aVHA1Sm9VMmNsN2d6RkQzRVloaU5NTFNBMGh6YVE?oc=5",
-    "published": "Tue, 21 Jul 2026 21:31:00 GMT",
-    "fetched_at": "2026-07-22 08:48:49",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "수출주",
-      "제조업",
-      "자동차",
-      "반도체"
-    ],
-    "keywords": [
-      "트럼프",
-      "관세",
-      "무역분쟁",
-      "보호무역",
-      "한미관계"
-    ],
-    "reason": "트럼프의 재집권 시 관세 인상 정책은 글로벌 무역 불확실성을 증대시키고, 한국과 같은 수출 중심국의 기업 실적과 경제 성장에 직접적인 악영향을 미칠 수 있습니다. 이는 한미 무역 관계의 긴장을 고조시킬 것입니다.",
-    "action_point": "미국 대선 결과에 따른 관세 정책 변화 가능성을 주시하며, 대미 수출 비중이 높은 국내 제조 기업의 투자 리스크를 재평가하라."
   }
 ]
