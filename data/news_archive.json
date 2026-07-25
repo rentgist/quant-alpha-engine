@@ -1,6 +1,80 @@
 [
   {
     "source": "CNBC_World",
+    "title": "Trump sued hours after new tariffs take effect, as experts say they may not hold up",
+    "title_ko": "트럼프, 새 관세 발효 몇 시간 만에 피소…전문가들 '유지 어려울 수도'",
+    "link": "https://www.cnbc.com/2026/07/24/trump-tariffs-lawsuit-301-ieepa.html",
+    "published": "Sat, 25 Jul 2026 00:18:53 GMT",
+    "fetched_at": "2026-07-25 14:35:46",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "수출입 관련 산업",
+      "운송 및 물류",
+      "소비재",
+      "원자재 관련 산업"
+    ],
+    "keywords": [
+      "관세",
+      "트럼프",
+      "무역분쟁",
+      "보호무역주의",
+      "글로벌 공급망"
+    ],
+    "reason": "새로운 관세 부과는 글로벌 무역 불확실성을 증대시키고, 수입 물가 상승 및 기업 비용 증가로 이어져 글로벌 경제 성장에 부정적인 영향을 미칠 수 있습니다. 이는 공급망 교란과 특정 국가의 경제 압박을 초래할 수 있습니다.",
+    "action_point": "글로벌 무역 분쟁 심화 가능성에 대비하여 수출 의존도가 높은 국내 산업 섹터의 투자 비중 축소를 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "[속보] 이 대통령 '샌프란AI 선언‥\"한국, 대체 불가 공급망 핵심 국가로\" - MBC 뉴스",
+    "title_ko": "[속보] 이 대통령 '샌프란AI 선언‥\"한국, 대체 불가 공급망 핵심 국가로\" - MBC 뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSXdQbDZHQXhhTTIyVVMwbUdPLThCUmhvcTFoNWRYazNYRW1MNlBJMXI0RXk4WnVaaHJiWGlKcGFxVGcxTi00bGs5X0pHclFyX3VkUzRwRElVSi02T296U0FoTWswWWw5dHZzREw2Mmd5eUtacjJTcExZUmFrQlNlZHZ3RWV1RkhRWjVTQlNPLXkycWctalplVjRiNkdLRDdmTEdQa1VSUkljQ1RLeC00RTl1d0NwVWFodTdwRUdBUU_SAXhBVV95cUxNSG83czljR3hKcFR3VXI3bnlBU3p2amQ4akxuQnlpMFRTb3VVb3gzZjJjc0VBVjNrbjRzeEJDSWZqMXh3TExsUE5UeDFkZVkxTlZHQkpGcXV4X0NWWXhyRTRfaG9EZEY2U2Fhc2ZPOXdXRjJWM2FUdlU?oc=5",
+    "published": "Sat, 25 Jul 2026 00:18:07 GMT",
+    "fetched_at": "2026-07-25 14:35:52",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "인공지능",
+      "반도체",
+      "IT/기술",
+      "첨단산업",
+      "수출주"
+    ],
+    "keywords": [
+      "인공지능",
+      "공급망",
+      "첨단기술",
+      "대통령 선언",
+      "한국"
+    ],
+    "reason": "대통령의 샌프란시스코 AI 선언은 한국을 글로벌 AI 및 첨단 기술 공급망의 핵심 국가로 포지셔닝하려는 의지를 표명하며, 관련 산업에 대한 정부 지원 및 투자 확대를 시사합니다. 이는 장기적으로 한국 기업의 글로벌 경쟁력 강화와 기술 패권 확보에 긍정적 영향을 미칠 것입니다.",
+    "action_point": "AI 및 첨단 반도체 관련 국내 기술 기업들의 비중 확대 기회 모색."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "SpaceX launches massive Starship rocket in first test flight since IPO",
+    "title_ko": "SpaceX, IPO 이후 첫 스타십 로켓 시험 비행 실시",
+    "link": "https://www.cnbc.com/2026/07/24/spacex-launches-massive-starship-rocket-in-first-test-flight-since-ipo.html",
+    "published": "Sat, 25 Jul 2026 02:17:11 GMT",
+    "fetched_at": "2026-07-25 14:35:38",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "우주항공",
+      "첨단기술"
+    ],
+    "keywords": [
+      "SpaceX",
+      "스타십",
+      "로켓 발사",
+      "우주산업",
+      "IPO"
+    ],
+    "reason": "SpaceX의 대규모 스타십 로켓 시험 비행은 우주항공 산업의 기술 발전을 보여주는 중요한 이정표입니다. 장기적으로 관련 기술 및 인프라 투자에 긍정적 영향을 줄 수 있으나, 단기적인 거시경제나 금융시장 전체에 미치는 직접적인 영향은 제한적입니다.",
+    "action_point": "우주항공 산업의 장기 성장 잠재력에 주목하며 관련 섹터 투자 비중 조정 검토."
+  },
+  {
+    "source": "CNBC_World",
     "title": "Oil shipments are under attack on multiple fronts as fighting escalates in Red Sea, Hormuz and Black Sea",
     "title_ko": "홍해, 호르무즈, 흑해에서 분쟁 격화로 유조선 공격 다발",
     "link": "https://www.cnbc.com/2026/07/24/oil-tanker-red-sea-hormuz-black-sea-iran-ukraine.html",
@@ -2806,78 +2880,5 @@
     ],
     "reason": "미국-이란 간 무력 충돌 격화와 주요 해협 봉쇄 위험은 국제유가 급등을 야기하며 글로벌 인플레이션 압력을 심화시키고 공급망 불안을 가중시킬 것입니다. 이는 전반적인 경제 성장에 부정적인 영향을 미칩니다.",
     "action_point": "고유가 및 지정학적 위험 심화에 대비하여 에너지 섹터 비중 확대 또는 인플레이션 헤지 자산 편입을 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Nebius stock surges as Nvidia discloses 9.3% stake in neocloud",
-    "title_ko": "엔비디아, 네비우스(Nebius)에 9.3% 지분 투자를 공개하며 네비우스 주식 급등",
-    "link": "https://www.cnbc.com/2026/07/21/nebius-stock-nvidia-stake-neocloud.html",
-    "published": "Tue, 21 Jul 2026 09:47:05 GMT",
-    "fetched_at": "2026-07-21 19:16:31",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "인공지능",
-      "클라우드 컴퓨팅",
-      "반도체",
-      "기술주"
-    ],
-    "keywords": [
-      "엔비디아",
-      "네비우스",
-      "투자",
-      "인공지능",
-      "클라우드",
-      "반도체"
-    ],
-    "reason": "엔비디아의 대규모 지분 투자는 AI 및 클라우드 컴퓨팅 시장의 성장 잠재력을 재확인하며, 해당 섹터에 대한 투자 심리를 긍정적으로 작용시킬 것입니다. 엔비디아의 전략적 움직임은 관련 기술 기업들의 가치를 높일 수 있습니다.",
-    "action_point": "인공지능 및 클라우드 섹터 내 핵심 성장 기업들에 대한 투자 비중 확대를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "All eyes are on John Healey, the UK's new finance minister. Here’s what’s at stake",
-    "title_ko": "영국의 새로운 재무장관 존 힐리에 모든 이목이 집중, 핵심 쟁점은?",
-    "link": "https://www.cnbc.com/2026/07/21/andy-burnham-john-healey-chancellor-gilts-jamie-dimon.html",
-    "published": "Tue, 21 Jul 2026 09:00:10 GMT",
-    "fetched_at": "2026-07-21 19:16:47",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "금융",
-      "영국 자산"
-    ],
-    "keywords": [
-      "존 힐리",
-      "영국 재무장관",
-      "제이미 다이먼",
-      "영국 정치",
-      "정책 불확실성"
-    ],
-    "reason": "영국 새 재무장관의 정책 방향에 따라 영국 자산 시장(주식, 채권, 환율)의 변동성이 확대될 수 있으며, 주요 금융 인사들이 상황을 주시하고 있습니다.",
-    "action_point": "영국 관련 자산 보유 투자자는 신임 재무장관의 정책 방향에 따른 시장 변동성 확대에 대비하여 영국 자산 비중 축소를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Boeing and Airbus prepare for next narrow-body battle – but airlines aren’t pushing for new jets yet",
-    "title_ko": "보잉과 에어버스, 차세대 협동체 항공기 경쟁 준비 중 – 그러나 항공사들은 아직 신형 제트기 요구하지 않아",
-    "link": "https://www.cnbc.com/2026/07/21/boeing-airbus-narrow-body-planes-deliveries-737max-a320.html",
-    "published": "Tue, 21 Jul 2026 08:21:17 GMT",
-    "fetched_at": "2026-07-21 19:16:55",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "항공우주",
-      "항공운송",
-      "산업재"
-    ],
-    "keywords": [
-      "보잉",
-      "에어버스",
-      "협동체 항공기",
-      "항공산업",
-      "신형 항공기"
-    ],
-    "reason": "항공기 제조업체들이 차세대 모델을 준비 중이나, 항공사들의 신형기 수요는 아직 미미하여 관련 제조업체들의 단기 실적 개선 기대감은 제한적일 수 있습니다. 장기적 관점에서 기술 경쟁은 지속될 전망입니다.",
-    "action_point": "항공우주 및 관련 산업 섹터의 단기적인 투자 비중 확대는 보류."
   }
 ]
