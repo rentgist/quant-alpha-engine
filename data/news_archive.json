@@ -1,6 +1,82 @@
 [
   {
     "source": "GoogleNews_Korea",
+    "title": "유가 폭등에 트럼프 2기 美 국채 금리 최고치…이란 전쟁 재발에 세계 금융시장 요동 - 글로벌이코노믹",
+    "title_ko": "유가 폭등에 트럼프 2기 美 국채 금리 최고치…이란 전쟁 재발에 세계 금융시장 요동 - 글로벌이코노믹",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeUIzXzd6TzRWWEc0SVF4Nzc0SGlrMzhpMWRIT2VfZWp2SExyZkVaZmUtZnk1aEZ6TVJVRVR5Z1FDWEQwOFg1WkRUb29Rb0pxcGFGc09nOTNqMVZVVW13azVTdmI0V1V6SnJndzJIMEtSWlctOTF1eDB0U0UyUFk2cEJoWmEzSUdh?oc=5",
+    "published": "Sat, 25 Jul 2026 18:25:00 GMT",
+    "fetched_at": "2026-07-26 06:44:53",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "에너지",
+      "방산",
+      "항공/운송",
+      "IT/성장주",
+      "금융"
+    ],
+    "keywords": [
+      "유가",
+      "미국 국채 금리",
+      "이란",
+      "지정학적 리스크",
+      "인플레이션",
+      "트럼프"
+    ],
+    "reason": "이란 전쟁 재발 가능성으로 유가 폭등 및 글로벌 인플레이션 압력이 가중되고, 이는 미 국채 금리 상승과 위험자산 회피 심화로 이어져 전 세계 금융시장의 변동성을 극대화할 것입니다.",
+    "action_point": "에너지 및 방산 섹터의 단기적 모멘텀을 주시하며, 고금리 민감주와 성장주 비중을 축소하고 달러 등 안전자산으로의 자금 이동을 고려하라."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "Samsung Electronics wins $200 billion Broadcom AI chip partnership, boosting foundry push",
+    "title_ko": "삼성전자, 브로드컴과 2천억 달러 규모 AI 칩 파트너십 확보, 파운드리 사업 강화",
+    "link": "https://www.cnbc.com/2026/07/25/samsung-electronics-wins-200-billion-broadcom-ai-chip-partnership.html",
+    "published": "Sat, 25 Jul 2026 21:11:49 GMT",
+    "fetched_at": "2026-07-26 06:44:41",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "반도체",
+      "기술",
+      "IT하드웨어"
+    ],
+    "keywords": [
+      "삼성전자",
+      "브로드컴",
+      "AI 칩",
+      "파운드리",
+      "반도체"
+    ],
+    "reason": "삼성전자의 파운드리 사업 경쟁력 강화 및 AI 칩 시장 내 입지 확대는 글로벌 반도체 공급망에 긍정적 영향을 미치며 관련 기업들의 투자 심리를 개선할 수 있습니다. 이는 한국 기술 섹터 전반에 대한 기대를 높이는 요인입니다.",
+    "action_point": "삼성전자와 국내 주요 반도체 파운드리/후공정 관련주에 대한 비중 확대 또는 신규 편입을 검토하십시오."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "인천경제자유구역, 첨단산업·관광 어우러진 글로벌 미래도시 박차 [영상] - 경기일보",
+    "title_ko": "인천경제자유구역, 첨단산업·관광 어우러진 글로벌 미래도시 박차",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE42S0NPNUt0T1JxcnlPZl9oRUlaOEFoQ2wydHdPaUdDbWxMbFRqRWFBZ2FtQkozblFyc2p3Y1NSc3BrMy02MTMyT1RIUmhtNGZ3T0hIQW1INUFjV1k?oc=5",
+    "published": "Sat, 25 Jul 2026 13:00:29 GMT",
+    "fetched_at": "2026-07-26 06:45:04",
+    "sentiment": "호재",
+    "importance": 2,
+    "sectors": [
+      "부동산",
+      "건설",
+      "관광",
+      "첨단산업"
+    ],
+    "keywords": [
+      "인천경제자유구역",
+      "첨단산업",
+      "관광",
+      "개발",
+      "미래도시"
+    ],
+    "reason": "인천경제자유구역의 첨단산업 및 관광 인프라 육성 계획은 해당 지역의 장기적인 경제 성장과 부동산 가치 상승을 기대하게 하며, 관련 산업의 투자 기회를 창출합니다.",
+    "action_point": "인천경제자유구역 내 첨단산업 및 관광 인프라 개발 관련 수혜 기업 투자 가능성 검토"
+  },
+  {
+    "source": "GoogleNews_Korea",
     "title": "李대통령, EU '러 LNG 韓수출 제재 면제'에 \"경제에 큰 도움\" - 연합인포맥스",
     "title_ko": "李대통령, EU '러 LNG 韓수출 제재 면제'에 \"경제에 큰 도움\"",
     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BMkdHR0twaDZldHhwWmdxNE5mQXZCSU90dEV6ZkpLTFpwM1k4emJCLTZqZ1o2NEZNSkdocDdrb2o3alBvMlBiWk81dUZPN3NrbThUZUFUU1E5ZVhoT1BRYjkwTUc2QTJiYjlyWlBrX0Y?oc=5",
@@ -2827,76 +2903,5 @@
     ],
     "reason": "장기화되는 미군의 이란 공습과 이란의 호르무즈 해협 위협은 중동 지정학적 리스크를 극도로 고조시키며, 글로벌 원유 공급망 교란 및 유가 급등 가능성을 증대시킵니다. 이는 전반적인 시장 불안정성을 키워 위험 회피 심리를 부추길 것입니다.",
     "action_point": "중동 지정학적 리스크 심화에 따른 유가 급등 가능성에 대비하여 에너지 섹터 비중을 확대하고 안전 자산(금, 달러) 보유를 유지하라."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Wistron shares surge in Taiwan after opening of Texas AI superchip plant to supply Nvidia",
-    "title_ko": "텍사스 AI 슈퍼칩 공장 개소 후 대만 위스트론 주가 급등 (엔비디아 공급)",
-    "link": "https://www.cnbc.com/2026/07/22/wistron-shares-surge-after-opening-texas-plant-for-nvidia-ai-servers-.html",
-    "published": "Wed, 22 Jul 2026 04:10:57 GMT",
-    "fetched_at": "2026-07-22 14:00:21",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "반도체",
-      "인공지능",
-      "기술주",
-      "하드웨어"
-    ],
-    "keywords": [
-      "위스트론",
-      "엔비디아",
-      "AI",
-      "반도체",
-      "공급망"
-    ],
-    "reason": "이 뉴스는 AI 슈퍼칩 생산 능력이 확장되고 있으며, 엔비디아와 같은 주요 AI 기업의 수요가 견조함을 보여줍니다. 또한, 대만 기업의 미국 내 생산 시설 확대로 글로벌 반도체 공급망 재편 움직임을 시사합니다.",
-    "action_point": "AI 반도체 섹터의 견고한 수요를 감안, 관련 밸류체인 내 우량 기업에 대한 포트폴리오 비중 확대를 검토합니다."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Nike to cut off thousands of online distributors in China, restructure digital footprint",
-    "title_ko": "나이키, 중국 내 수천 개 온라인 유통업체 계약 종료 및 디지털 사업 재편",
-    "link": "https://www.cnbc.com/2026/07/21/nike-to-cut-off-thousands-of-online-distributors-in-china.html",
-    "published": "Wed, 22 Jul 2026 00:00:01 GMT",
-    "fetched_at": "2026-07-22 10:46:31",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "의류/신발",
-      "전자상거래",
-      "유통"
-    ],
-    "keywords": [
-      "나이키",
-      "중국 시장",
-      "온라인 유통",
-      "디지털 전환",
-      "브랜드 전략"
-    ],
-    "reason": "나이키의 중국 시장 전략 변화는 경쟁 심화 및 수익성 개선을 위한 글로벌 브랜드의 유통 재편 트렌드를 반영합니다. 이는 중국 내수 시장의 소비 트렌드 변화와 온라인 플랫폼 사업자들에게 장기적인 영향을 미칠 수 있습니다.",
-    "action_point": "중국 시장에 진출한 글로벌 소비재 기업의 직접 판매(D2C) 전략 강화 여부를 주시하라."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Trump plans steep tariffs on generic drugs starting in 2028 to spur U.S. production",
-    "title_ko": "트럼프, 미국 생산 장려 위해 2028년부터 제네릭 의약품에 고율 관세 계획",
-    "link": "https://www.cnbc.com/2026/07/22/trump-generic-drugs-tariffs-medicine-trade-.html",
-    "published": "Wed, 22 Jul 2026 01:17:37 GMT",
-    "fetched_at": "2026-07-22 10:46:41",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "제약/바이오"
-    ],
-    "keywords": [
-      "트럼프",
-      "관세",
-      "제네릭 의약품",
-      "미국 생산",
-      "보호무역"
-    ],
-    "reason": "트럼프의 제네릭 의약품 관세 계획은 글로벌 제약사들의 공급망 재편과 비용 증가를 야기하여, 특히 비미국 기반 제약사들에게 악재로 작용할 것입니다. 이는 장기적으로 미국 내 의약품 가격 상승 압력으로 이어질 수 있습니다.",
-    "action_point": "미국 시장 의존도가 높은 국내 제네릭 의약품 관련 기업들의 투자 비중을 점검하고, 포트폴리오 조정 여부를 검토."
   }
 ]
