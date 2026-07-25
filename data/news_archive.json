@@ -1,6 +1,105 @@
 [
   {
     "source": "GoogleNews_Korea",
+    "title": "이란 전쟁에 관광 타격입은 두바이… “해외 지인 초대하면 '120만원' 혜택” - 전자신문",
+    "title_ko": "이란 전쟁에 관광 타격입은 두바이… “해외 지인 초대하면 '120만원' 혜택”",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBsYTNWVGd6VHVIWmNic2NmaUdYRS1QeEEyX2FsWXMxM1o5QU1fN28ySUpiUGI5UzQ2bFNGS2FHa1ctYTBlOHBLMm1jSGNtUQ?oc=5",
+    "published": "Sat, 25 Jul 2026 07:50:00 GMT",
+    "fetched_at": "2026-07-25 18:28:44",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "관광",
+      "항공",
+      "숙박",
+      "부동산"
+    ],
+    "keywords": [
+      "이란 전쟁",
+      "두바이",
+      "관광 산업",
+      "중동 지정학적 리스크"
+    ],
+    "reason": "중동 지역의 지정학적 불안정성이 두바이 관광 산업에 직접적인 타격을 주며, 이는 해당 지역 경제의 불확실성을 높이고 관련 산업의 수익성에 부정적 영향을 미칩니다.",
+    "action_point": "중동 지역 관광 및 부동산 관련 투자 비중을 재검토하고 지정학적 리스크에 대한 포트폴리오 노출도를 점검하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "title": "정의선 “AI팩토리·도시 통합...엔비디아와 로봇 플랫폼 구축”",
+    "title_ko": "정의선 “AI팩토리·도시 통합...엔비디아와 로봇 플랫폼 구축”",
+    "link": "https://www.mk.co.kr/news/economy/12107347",
+    "published": "Sat, 25 Jul 2026 18:14:59 +09:00",
+    "fetched_at": "2026-07-25 18:29:03",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "자동차",
+      "로봇",
+      "AI/반도체",
+      "스마트팩토리",
+      "스마트시티"
+    ],
+    "keywords": [
+      "현대자동차그룹",
+      "정의선",
+      "AI",
+      "로봇",
+      "엔비디아",
+      "스마트팩토리",
+      "스마트시티"
+    ],
+    "reason": "현대자동차그룹이 엔비디아와 협력하여 피지컬 AI 솔루션 기업으로의 전환을 선언하며 로봇 및 AI 기반 스마트팩토리와 도시 통합 비전을 제시, 이는 그룹의 미래 성장 동력을 확보하고 관련 산업 전반의 기술 혁신과 투자를 촉진할 장기적 호재입니다.",
+    "action_point": "현대차그룹의 피지컬 AI 및 로봇 플랫폼 구축에 따른 국내외 로봇, AI 관련 하드웨어/소프트웨어 협력사 및 기술 기업 비중 확대를 검토하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "title": "“강남서 광교까지 번진다”…국힘, 李 대통령 ‘17억 매도인 근저당’ 집중 포화",
+    "title_ko": "“강남서 광교까지 번진다”…국힘, 李 대통령 ‘17억 매도인 근저당’ 집중 포화",
+    "link": "https://www.mk.co.kr/news/realestate/12107346",
+    "published": "Sat, 25 Jul 2026 18:06:49 +09:00",
+    "fetched_at": "2026-07-25 18:29:16",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "부동산",
+      "금융",
+      "건설"
+    ],
+    "keywords": [
+      "매도인 금융",
+      "매도인 근저당",
+      "부동산 시장",
+      "대출 규제",
+      "가계 부채"
+    ],
+    "reason": "이 뉴스는 전통적인 대출 규제로 인해 확산되는 대체 부동산 자금 조달 방식의 위험성과 이에 대한 정치권의 규제 강화 가능성을 시사합니다. 이는 시장의 불확실성을 높이고 부동산 관련 대출 및 투자 환경에 부정적 영향을 미칠 수 있습니다.",
+    "action_point": "규제 강화 가능성 및 시장 불확실성 확대를 고려하여 국내 부동산 관련 투자를 보수적으로 재검토하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "title": "“왜 우리 축제는 다 비슷할까?”라고 전문가에게 묻자 돌아온 답 [지방소멸의 와일드카드, 축제④]",
+    "title_ko": "“왜 우리 축제는 다 비슷할까?”라고 전문가에게 묻자 돌아온 답 [지방소멸의 와일드카드, 축제④]",
+    "link": "https://www.mk.co.kr/news/culture/12107342",
+    "published": "Sat, 25 Jul 2026 17:43:32 +09:00",
+    "fetched_at": "2026-07-25 18:29:24",
+    "sentiment": "악재",
+    "importance": 2,
+    "sectors": [
+      "지방 경제",
+      "관광/레저",
+      "지방정부 재정"
+    ],
+    "keywords": [
+      "지방소멸",
+      "지역 축제",
+      "예산 효율성",
+      "지역 경제 활성화"
+    ],
+    "reason": "지방 축제들이 고유성 부족과 예산 비효율로 지역 경제 활성화에 기여하지 못하고 '지방소멸'을 가속화할 수 있음을 지적합니다. 이는 장기적으로 지방 소멸을 막기 위한 정책의 실효성에 대한 의구심을 키웁니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "GoogleNews_Korea",
     "title": "[기고]중동전쟁 중심은 왜 호르무즈에서 두 개의 해협으로 확대되는가?…김태준의 美·이란戰 중계 - 문화일보",
     "title_ko": "[기고]중동전쟁 중심은 왜 호르무즈에서 두 개의 해협으로 확대되는가?…김태준의 美·이란戰 중계 - 문화일보",
     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1uUGJmem5KdThIVkloUVc5SnEwcHlwZUgyeGdoc2RkdnN3SlNIamV6OERud0tOUkdaaGdRWTRVSC1TWXJGYXptZVpseGluTWRP?oc=5",
@@ -2787,101 +2886,5 @@
     ],
     "reason": "이 뉴스는 GLP-1 시장의 양대 산맥인 노보 노디스크와 일라이 릴리 간의 광고 관련 법적 분쟁으로, 제약 섹터 내 경쟁 구도와 기업 평판에 영향을 미칠 수 있으나, 광범위한 거시경제적 파급력은 제한적이다.",
     "action_point": "GLP-1 관련 제약 기업 포트폴리오의 경쟁 우위 및 법적 리스크를 재평가."
-  },
-  {
-    "source": "CNBC_Finance",
-    "title": "Stocks making the biggest moves premarket: General Motors, 3M, Novartis, Nebius & more",
-    "title_ko": "프리마켓에서 가장 큰 변동을 보인 종목들: 제너럴 모터스, 3M, 노바티스, 네비우스 외",
-    "link": "https://www.cnbc.com/2026/07/21/stocks-making-the-biggest-moves-premarket-gm-mmm-nvs-nbis.html",
-    "published": "Tue, 21 Jul 2026 13:09:44 GMT",
-    "fetched_at": "2026-07-22 03:10:49",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "자동차",
-      "산업재",
-      "제약/바이오",
-      "기술"
-    ],
-    "keywords": [
-      "프리마켓",
-      "개별 주식",
-      "변동성"
-    ],
-    "reason": "이 기사는 프리마켓에서 특정 대형주들의 활발한 움직임을 보여주며, 이는 개별 기업의 소식이나 단기적인 시장 흐름에 따른 반응으로 해석될 수 있습니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "[국제칼럼]이란 전쟁, 그 끝은 어디인가 - 경향신문",
-    "title_ko": "[국제칼럼]이란 전쟁, 그 끝은 어디인가",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XMVpDR3MxdnAxNy12d201SmVSZklfN21BMkFUX3hsOVBEVmgtckR6eGVlMkZwcF9JZlNuTmJPbXhobmtWblBrVlhzLVBUMzlBR25CZUxDcDMtZ9IBX0FVX3lxTE1vdFJMdndiMjZqRlVxNzBwY2sxaHhYdGhhdDVIUHRsaU9aS3M4WEJoNEZwcDlPNGJROWpiV1Z2MVpLYmFlYVhXazc1X29rRmZGTzF1cndoQ2dxYzg1T1dB?oc=5",
-    "published": "Tue, 21 Jul 2026 11:06:00 GMT",
-    "fetched_at": "2026-07-22 01:18:17",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "에너지",
-      "방산",
-      "해운",
-      "금융"
-    ],
-    "keywords": [
-      "이란",
-      "전쟁",
-      "중동",
-      "지정학",
-      "유가"
-    ],
-    "reason": "이란 관련 지정학적 긴장이 고조되고 있음을 시사하며, 이는 중동 불안정 심화에 따른 국제 유가 급등과 전반적인 시장의 위험 회피 심리 강화를 야기할 수 있습니다.",
-    "action_point": "유가 급등 및 시장 변동성 확대 가능성에 대비하여 에너지/방산 섹터 비중 확대 및 달러 등 안전자산 확보를 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Bessent says U.S. could sanction China over AI model 'theft'",
-    "title_ko": "베센트, 미국이 AI 모델 '절도'로 중국에 제재 가할 수 있다고 밝혀",
-    "link": "https://www.cnbc.com/2026/07/21/bessent-china-ai-sanctions.html",
-    "published": "Tue, 21 Jul 2026 15:53:43 GMT",
-    "fetched_at": "2026-07-22 01:17:46",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "인공지능",
-      "반도체",
-      "IT소프트웨어",
-      "기술주"
-    ],
-    "keywords": [
-      "미중 갈등",
-      "AI",
-      "기술 제재",
-      "지정학적 리스크"
-    ],
-    "reason": "미국이 AI 기술 절도를 명목으로 중국에 제재를 가할 가능성이 제기되며 미중 기술 갈등이 심화될 수 있습니다. 이는 글로벌 기술 공급망과 기업들의 불확실성을 증대시키는 요인입니다.",
-    "action_point": "중국 AI 및 기술 섹터에 대한 직접 투자 비중을 축소하고, 관련 공급망 리스크를 재평가하라."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "U.S. strikes Iran and Houthis threaten Saudi Arabia shipping as mediators push 10-day ceasefire",
-    "title_ko": "미국, 이란 관련 공격 감행, 후티 반군은 사우디 해운 위협, 중재자들은 10일 휴전 추진",
-    "link": "https://www.cnbc.com/2026/07/21/us-iran-war-trump-hormuz-houthis.html",
-    "published": "Tue, 21 Jul 2026 13:00:19 GMT",
-    "fetched_at": "2026-07-22 01:17:57",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지 (정유/가스)",
-      "해운/물류",
-      "방산"
-    ],
-    "keywords": [
-      "지정학적 리스크",
-      "중동",
-      "유가",
-      "해운",
-      "휴전 협상"
-    ],
-    "reason": "미국의 이란 관련 공격 및 후티 반군의 해운 위협은 중동 지역의 지정학적 긴장을 고조시켜 유가 상승 및 글로벌 해운 물류 차질 우려를 키운다. 다만 10일 휴전 추진 소식은 단기적 상황 개선의 여지를 제공한다.",
-    "action_point": "중동 지정학적 긴장 고조에 따른 유가 및 해운 운임 상승 압력을 반영하여 관련 자산 보유 전략을 재검토하라."
   }
 ]
