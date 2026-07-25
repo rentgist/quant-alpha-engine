@@ -1,5 +1,54 @@
 [
   {
+    "source": "Maeil_Business",
+    "title": "“공제 줄이고 특례 없애야”…부동산 토론회 전날 나온 국회 ‘보유세 보고서’",
+    "title_ko": "“공제 줄이고 특례 없애야”…부동산 토론회 전날 나온 국회 ‘보유세 보고서’",
+    "link": "https://www.mk.co.kr/news/realestate/12107424",
+    "published": "Sat, 25 Jul 2026 22:22:28 +09:00",
+    "fetched_at": "2026-07-25 23:55:42",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "부동산",
+      "건설",
+      "은행"
+    ],
+    "keywords": [
+      "보유세",
+      "부동산 정책",
+      "세제 개편",
+      "국회"
+    ],
+    "reason": "보유세 강화는 부동산 보유 비용을 증가시켜 투자 심리 위축 및 시장에 매물 증가를 유도, 결과적으로 주택 가격에 하방 압력을 가할 수 있습니다.",
+    "action_point": "다주택자 및 고가 부동산 보유 비중이 높은 투자자는 예상 세금 부담 증가를 감안하여 포트폴리오 조정을 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "Blackstone, Brookfield and KKR sign $16 billion deal with Kuwait for oil pipeline network",
+    "title_ko": "블랙스톤, 브룩필드, KKR 쿠웨이트와 160억 달러 규모 석유 파이프라인 네트워크 계약 체결",
+    "link": "https://www.cnbc.com/2026/07/25/blackstone-brookfield-and-kkr-sign-16-billion-oil-deal-with-kuwait.html",
+    "published": "Sat, 25 Jul 2026 13:48:05 GMT",
+    "fetched_at": "2026-07-25 23:55:26",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "에너지 인프라",
+      "대체투자",
+      "사모펀드"
+    ],
+    "keywords": [
+      "블랙스톤",
+      "브룩필드",
+      "KKR",
+      "쿠웨이트 오일",
+      "석유 파이프라인",
+      "인프라 투자",
+      "사모펀드"
+    ],
+    "reason": "이 뉴스는 주요 사모펀드들이 안정적인 장기 현금 흐름을 창출하는 에너지 인프라 자산에 대한 강한 투자 수요를 지속적으로 보이고 있음을 확인시켜 줍니다. 이는 글로벌 인플레이션 환경에서 방어적 자산으로서 인프라의 매력을 보여줍니다.",
+    "action_point": "안정적 현금 흐름을 창출하는 에너지 인프라 등 대체투자 자산의 포트폴리오 편입 및 비중 확대를 검토하라."
+  },
+  {
     "source": "GoogleNews_Korea",
     "title": "이 대통령, EU '러 LNG 韓수출 제재 면제'에 \"경제에 큰 도움\" - 한국경제",
     "title_ko": "이 대통령, EU '러 LNG 韓수출 제재 면제'에 \"경제에 큰 도움\"",
@@ -2844,53 +2893,5 @@
     ],
     "reason": "주요 기술 및 산업 기업들의 실적 발표를 앞두고 시장은 관망세를 보이며, 향후 실적 결과에 따라 개별 기업 및 섹터에 대한 변동성이 확대될 수 있음을 시사합니다.",
     "action_point": "향후 발표될 주요 기술 및 산업 기업 실적에 따른 개별 종목 및 섹터별 포트폴리오 비중 조정을 고려."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Super Micro surges 15% on new order and margin disclosure after SpaceX announcement",
-    "title_ko": "스페이스X 발표 후 신규 주문 및 마진 공개로 슈퍼 마이크로 15% 급등",
-    "link": "https://www.cnbc.com/2026/07/21/super-micro-stock-spacex-announcement.html",
-    "published": "Tue, 21 Jul 2026 22:10:56 GMT",
-    "fetched_at": "2026-07-22 07:47:28",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "인공지능",
-      "반도체",
-      "IT 하드웨어"
-    ],
-    "keywords": [
-      "슈퍼 마이크로",
-      "AI 서버",
-      "인공지능",
-      "클라우드 인프라"
-    ],
-    "reason": "AI 서버 수요가 강력함을 시사하며, 이는 AI 인프라 투자 확대로 이어져 반도체 및 관련 IT 하드웨어 섹터 전반에 긍정적인 영향을 미칠 것입니다. 전 세계 기업들의 AI 도입 경쟁이 가속화되고 있음을 보여주는 지표입니다.",
-    "action_point": "인공지능 인프라 구축 관련 반도체 및 IT 하드웨어 기업 비중 확대를 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "미 국방장관 “이란과의 전쟁에 55조 5천억 지출” - KBS 뉴스",
-    "title_ko": "미 국방장관 “이란과의 전쟁에 55조 5천억 지출”",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HWWxEWDU2dWRKekVPRldyZHc0Rk5pQmRMWW1hSXlNXzZ4OFR6RUlfWmRpMVVjU2VfOWtjREdlQjNBd0Rqc005VnJ1UTd6Q2E2NXdjbC1HNV9va3M?oc=5",
-    "published": "Tue, 21 Jul 2026 20:19:00 GMT",
-    "fetched_at": "2026-07-22 07:47:39",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "방산",
-      "에너지",
-      "항공운수",
-      "해운"
-    ],
-    "keywords": [
-      "미국",
-      "이란",
-      "군사비",
-      "지정학",
-      "중동"
-    ],
-    "reason": "미국이 이란 관련 군사비로 막대한 금액을 지출했음을 상기시키며 중동 지정학적 리스크의 상존과 잠재적 유가 변동성 확대 가능성을 시사한다.",
-    "action_point": "중동 지정학적 리스크 관련 포트폴리오 점검 및 에너지/방산 섹터 비중 조절 검토."
   }
 ]
