@@ -1,5 +1,77 @@
 [
   {
+    "source": "CNBC_World",
+    "title": "Oil shipments are under attack on multiple fronts as fighting escalates in Red Sea, Hormuz and Black Sea",
+    "title_ko": "홍해, 호르무즈, 흑해에서 분쟁 격화로 유조선 공격 다발",
+    "link": "https://www.cnbc.com/2026/07/24/oil-tanker-red-sea-hormuz-black-sea-iran-ukraine.html",
+    "published": "Fri, 24 Jul 2026 18:47:41 GMT",
+    "fetched_at": "2026-07-25 11:35:54",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "에너지",
+      "해운",
+      "보험"
+    ],
+    "keywords": [
+      "유가",
+      "지정학적 리스크",
+      "홍해",
+      "호르무즈 해협",
+      "해상 운송"
+    ],
+    "reason": "주요 해상 운송로에서의 유조선 공격은 글로벌 원유 공급망을 교란하여 유가 상승 및 해상 운임 증가를 야기합니다. 이는 인플레이션 압력을 가중시키고 전반적인 경제 불확실성을 높이는 요인입니다.",
+    "action_point": "지정학적 리스크 심화 및 국제 유가 상승 압력에 대비하여 에너지 섹터 관련 자산 비중 확대를 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "[경제뭔데]삼전닉스 레버리지 예탁금 3천만원 올리면 기존 투자자는 어떻게 되나요? - 경향신문",
+    "title_ko": "[경제뭔데]삼전닉스 레버리지 예탁금 3천만원 올리면 기존 투자자는 어떻게 되나요?",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MTFhwQnAxM253Sll2R1Y2VlA3THdHbF9jRkhKU2o3NDNqTWNyTmJXWmhBOXV3VGt1Tl9KOHVOUkFBNTRIU3FCU1dMVHJGTmR5dTlMdklCQXZVUdIBX0FVX3lxTE91UXBqQXhuTDZET3QzRGVFcV9GSnlMcUdjcjBuWEJXWG5rVWtNX01qclBBb2dYWjhpczJUVUMydmZRNElKaDFGdmdIY0xNWGZycmxhdU1MUDJFaUw5TGJv?oc=5",
+    "published": "Sat, 25 Jul 2026 01:40:00 GMT",
+    "fetched_at": "2026-07-25 11:36:06",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "반도체",
+      "증권"
+    ],
+    "keywords": [
+      "레버리지",
+      "예탁금",
+      "마진거래",
+      "삼성전자",
+      "SK하이닉스",
+      "증권규제"
+    ],
+    "reason": "삼성전자와 SK하이닉스 등 주요 반도체 종목의 레버리지 예탁금 인상은 과도한 투기 수요를 억제하려는 조치로, 단기적으로 해당 종목의 매수세 위축 및 변동성 확대로 이어질 수 있습니다.",
+    "action_point": "반도체 섹터 내 레버리지 투자 비중을 점검하고 단기 변동성 확대에 대비하라."
+  },
+  {
+    "source": "CNBC_Finance",
+    "title": "Stocks making the biggest moves premarket: Intel, Oracle, American Express & more",
+    "title_ko": "프리마켓에서 가장 큰 움직임을 보이는 주식들: 인텔, 오라클, 아메리칸 익스프레스 외",
+    "link": "https://www.cnbc.com/2026/07/24/stocks-making-the-biggest-moves-premarket-intc-orcl-axp.html",
+    "published": "Fri, 24 Jul 2026 12:54:48 GMT",
+    "fetched_at": "2026-07-25 11:35:46",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "기술",
+      "금융",
+      "반도체"
+    ],
+    "keywords": [
+      "프리마켓",
+      "개별주식",
+      "인텔",
+      "오라클",
+      "아메리칸익스프레스"
+    ],
+    "reason": "이 기사는 특정 개별 주식들의 프리마켓 움직임을 단순 보도하는 것으로, 전반적인 시장이나 거시 경제에 미치는 실질적인 영향은 미미합니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "GoogleNews_Korea",
     "title": "트럼프·네타냐후, 28일 회담...전쟁 개시 후 첫 대면 주목 - YTN",
     "title_ko": "트럼프·네타냐후, 28일 회담...전쟁 개시 후 첫 대면 주목 - YTN",
@@ -2807,79 +2879,5 @@
     ],
     "reason": "항공기 제조업체들이 차세대 모델을 준비 중이나, 항공사들의 신형기 수요는 아직 미미하여 관련 제조업체들의 단기 실적 개선 기대감은 제한적일 수 있습니다. 장기적 관점에서 기술 경쟁은 지속될 전망입니다.",
     "action_point": "항공우주 및 관련 산업 섹터의 단기적인 투자 비중 확대는 보류."
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "“줄기세포 맞으러 일본 안가도 되겠네” 2028년부터 국내서 받는다",
-    "title_ko": "“줄기세포 맞으러 일본 안가도 되겠네” 2028년부터 국내서 받는다",
-    "link": "https://www.mk.co.kr/news/it/12103711",
-    "published": "Tue, 21 Jul 2026 18:28:32 +09:00",
-    "fetched_at": "2026-07-21 19:17:33",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "제약/바이오",
-      "헬스케어",
-      "의료기기"
-    ],
-    "keywords": [
-      "줄기세포",
-      "재생의료",
-      "복지부",
-      "바이오",
-      "의료관광"
-    ],
-    "reason": "정부의 첨단재생의료 국내 도입 계획은 국내 바이오-헬스케어 산업의 규제 완화 및 성장을 촉진하며, 관련 기업의 기술 개발 및 시장 확대를 위한 새로운 기회를 제공할 것입니다.",
-    "action_point": "재생의료 및 줄기세포 관련 국내 제약/바이오 섹터 비중 확대 검토."
-  },
-  {
-    "source": "CNBC_Finance",
-    "title": "Stocks making the biggest moves premarket: AMD, SpaceX, Domino's Pizza, Alibaba & more",
-    "title_ko": "개장 전 가장 큰 움직임을 보이는 주식들: AMD, 스페이스X, 도미노피자, 알리바바 외",
-    "link": "https://www.cnbc.com/2026/07/20/stocks-making-the-biggest-moves-premarket-amd-spcx-dpz.html",
-    "published": "Mon, 20 Jul 2026 13:28:07 GMT",
-    "fetched_at": "2026-07-21 19:16:21",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "기술",
-      "소비재"
-    ],
-    "keywords": [
-      "개장 전 주식",
-      "개별 주식 변동",
-      "AMD",
-      "스페이스X",
-      "도미노피자",
-      "알리바바"
-    ],
-    "reason": "이 기사는 개장 전 특정 개별 기업들의 주가 변동을 나열한 것으로, 광범위한 시장 또는 거시경제적 추세보다는 개별 기업 이슈에 기인할 가능성이 높습니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Iran War update: Five things to know after the resumption of hostilities",
-    "title_ko": "이란 전쟁 업데이트: 적대 행위 재개 후 알아야 할 다섯 가지",
-    "link": "https://www.cnbc.com/2026/07/21/iran-war-update-five-things-to-know-after-resumption-of-hostilities.html",
-    "published": "Tue, 21 Jul 2026 05:13:14 GMT",
-    "fetched_at": "2026-07-21 16:34:58",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "에너지",
-      "방위산업",
-      "항공운송",
-      "해상운송",
-      "보험"
-    ],
-    "keywords": [
-      "이란",
-      "지정학적 리스크",
-      "유가",
-      "중동",
-      "적대 행위"
-    ],
-    "reason": "중동에서의 적대 행위 재개는 글로벌 지정학적 불안감을 고조시키며, 원유 공급 불안정으로 이어져 유가 상승 압력을 가할 수 있습니다. 이는 전 세계 경제 성장 둔화 및 인플레이션 압력으로 작용할 가능성이 큽니다.",
-    "action_point": "지정학적 리스크 심화에 따른 유가 변동성 확대 및 안전자산 선호 심리를 주시하며 에너지 및 방산 섹터 투자 비중을 검토하라."
   }
 ]
