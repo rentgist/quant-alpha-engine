@@ -1,5 +1,52 @@
 [
   {
+    "source": "Maeil_Business",
+    "title": "“폭염에 목숨이 위태롭다”…전국 최대 39도 무더위, 곳곳 ‘폭염중대경보’",
+    "title_ko": "“폭염에 목숨이 위태롭다”…전국 최대 39도 무더위, 곳곳 ‘폭염중대경보’",
+    "link": "https://www.mk.co.kr/news/society/12107592",
+    "published": "Sun, 26 Jul 2026 14:22:43 +09:00",
+    "fetched_at": "2026-07-26 14:23:50",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "에너지",
+      "농업",
+      "유틸리티",
+      "소비재"
+    ],
+    "keywords": [
+      "폭염",
+      "전력수요",
+      "농작물",
+      "기후변화",
+      "소비"
+    ],
+    "reason": "극심한 폭염은 전력 수요 급증에 따른 수급 불안정을 야기하고, 농작물 피해로 인해 식료품 물가 상승 압력으로 작용할 수 있습니다. 이는 단기적으로 경제 활동 및 특정 산업의 수익성에 부정적 영향을 미칠 수 있습니다.",
+    "action_point": "국내 전력 관련주 및 식료품 섹터의 단기 변동성 확대와 공급망 리스크를 고려하여 포트폴리오를 조정."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "“한국 경제, 소상공인이 얼마나 만들까”···소진공, 첫 ‘소상공인 GDP’ 만든다 - 경향신문",
+    "title_ko": "“한국 경제, 소상공인이 얼마나 만들까”···소진공, 첫 ‘소상공인 GDP’ 만든다",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42d3hVcmhyZ3dNUzI0MVk5SUVibl93QlZPV092X0ZfazUwbjdXdjg4WlRkOXRDWlZRYzZHRkstel9teHZYelhoZG1qMndodDZfQjdvUjRiN3JPd9IBX0FVX3lxTFBTN1VPRzh0ZzBwYjdWS2d1dU13SmhLMXVvOGx2UnI3UURyNGF1NHY4cUhfamNnR2tWczAzWXd5YWFiZjRYOFZNSU5kaXFjZl9nWDJzMldHUnlQQTFEci04?oc=5",
+    "published": "Sun, 26 Jul 2026 00:33:00 GMT",
+    "fetched_at": "2026-07-26 14:23:38",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "내수 산업"
+    ],
+    "keywords": [
+      "소상공인",
+      "GDP",
+      "경제지표",
+      "소진공",
+      "내수 경제"
+    ],
+    "reason": "소상공인의 경제 기여도를 정확히 파악하기 위한 첫 시도로, 향후 소상공인 지원 정책 수립의 기초 자료가 될 것이며 장기적으로 국내 경기 진단 및 정책 방향에 영향을 미칠 수 있다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "GoogleNews_Korea",
     "title": "[단독]美국방, ‘전사 18→14명 축소’ 논란에…‘별도 전쟁’ 억지 - v.daum.net",
     "title_ko": "美국방, ‘전사 18→14명 축소’ 논란에…‘별도 전쟁’ 억지",
@@ -2855,48 +2902,5 @@
     ],
     "reason": "핀테크 산업이 AI 기술 도입으로 성숙기에 접어들며 규모의 경제를 이루고 있어, 관련 기업들의 성장 잠재력을 시사한다.",
     "action_point": "글로벌 선도 핀테크 및 AI 기술 접목 금융 솔루션 기업 비중 확대 검토"
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Defense shares rally after UK government shake-up — analysts name the stocks to watch",
-    "title_ko": "영국 정부 개편 후 방산주 급등 — 분석가들이 주목할 종목 지목",
-    "link": "https://www.cnbc.com/2026/07/22/defense-stocks-uk-government-john-healey-chancellor.html",
-    "published": "Wed, 22 Jul 2026 05:29:20 GMT",
-    "fetched_at": "2026-07-22 16:36:35",
-    "sentiment": "호재",
-    "importance": 2,
-    "sectors": [
-      "방위산업"
-    ],
-    "keywords": [
-      "영국 정부",
-      "국방 예산",
-      "방위산업",
-      "정부 개편"
-    ],
-    "reason": "영국 신임 재무장관이 과거 국방비 부족 문제로 사임했던 인물인 만큼, 향후 영국 국방 및 안보 지출이 증가할 가능성이 커 방위산업 전반에 긍정적 영향을 미칠 수 있습니다.",
-    "action_point": "글로벌 방위산업 관련 투자 자산(ETF 또는 개별 주식)의 포트폴리오 비중 확대를 검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "[속보]법원 “오세훈, 벌금 1000만원” 선고…대법 확정시 시장직 상실 - 경향신문",
-    "title_ko": "[속보]법원 “오세훈, 벌금 1000만원” 선고…대법 확정시 시장직 상실",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pYjdJLTV5R2NVOEpFZHNvV19lS0EwM0h1SjU4S3hrZ1lPTHRJeFdmY0FXalMwZ3gwUURsOWg0bkg4b1FaUUJXTk5fV1JGR1lsR0FtRnVybVd2d9IBX0FVX3lxTE5JSHZVUWJCSEl5YlpkXzNvMlRkTXQyNjhYT0xSNWw2MGtuNmJ2MDV1dnM4bU1aVlFjRTcxTERkbldPQktiMDMwQmJFRkxNelJBaEJSRDRuR1hiN3MzUVQ0?oc=5",
-    "published": "Wed, 22 Jul 2026 06:28:00 GMT",
-    "fetched_at": "2026-07-22 16:36:45",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "건설",
-      "부동산"
-    ],
-    "keywords": [
-      "오세훈",
-      "서울시장",
-      "시장직 상실",
-      "정치 불확실성"
-    ],
-    "reason": "서울시장의 법적 리스크로 인한 정치적 불확실성이 발생하며, 이는 서울시 정책 방향에 따라 건설 및 부동산 섹터에 간접적인 영향을 줄 수 있습니다.",
-    "action_point": "서울시 정책 변화 가능성에 대비하여 건설 및 부동산 섹터 투자 비중을 점검하십시오."
   }
 ]
