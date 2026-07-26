@@ -1,6 +1,60 @@
 [
   {
     "source": "GoogleNews_Korea",
+    "title": "네타냐후 \"이란이 핵 포기해야 한다고 깨달을 때 전쟁 끝날 것\" - v.daum.net",
+    "title_ko": "네타냐후 \"이란이 핵 포기해야 한다고 깨달을 때 전쟁 끝날 것\"",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE96WXF5Wl9jdzZuWDhHYk5fdzl5YUgwNTdkT0Z2TUtSSnV2ZUhvdEtLVFlJQTZTc05xaEtUYlBPd2p6WFdnNi11ZEFGeHZrZTg?oc=5",
+    "published": "Sun, 26 Jul 2026 15:36:56 GMT",
+    "fetched_at": "2026-07-27 03:57:32",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "에너지",
+      "방위산업",
+      "해운",
+      "원자재"
+    ],
+    "keywords": [
+      "네타냐후",
+      "이란",
+      "핵",
+      "중동",
+      "지정학",
+      "유가"
+    ],
+    "reason": "네타냐후 총리의 강경 발언은 이란과의 갈등이 장기화되거나 핵 문제로 확전될 가능성을 시사하며, 이는 중동 지정학적 리스크를 고조시키고 글로벌 유가 상승 압력을 가중시킬 것입니다.",
+    "action_point": "중동 지정학적 리스크 장기화에 대비하여 에너지 및 방위산업 관련 포지션을 유지하고, 안전자산 비중을 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "네타냐후 \"이란이 핵 포기해야 한다고 깨달을 때 전쟁 끝날 것\" - MBC 뉴스",
+    "title_ko": "네타냐후 \"이란이 핵 포기해야 한다고 깨달을 때 전쟁 끝날 것\"",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5lWm9MUTNfT2lQMWRBQWRaNVhMVXFrLVQwdXdpRmI4MXJHX1NJQnRscHBnS3VxU0x5Qy0zZFY0cldJTU5OLThROWEwVlJhbktYTFFzYnozRDNxX0FXSHM5UXF3TkMtSjRSd1Y2X2tpSGpXTWNH0gF0QVVfeXFMTjVpNWs1YTllcU14aldkZkZBdVVET25ZaFR5clliSXlCZjVlQ3FSeEw4eS05RkhzcDBBZEgtYnJEMld0TGZoMlZmRWNfaGsyeDNuSmlpcGxLRmJIdTZCektMWS1Zd2Vfc21GblpWaXByRWtqX24?oc=5",
+    "published": "Sun, 26 Jul 2026 18:08:55 GMT",
+    "fetched_at": "2026-07-27 03:57:39",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "에너지",
+      "정유",
+      "방산",
+      "해운",
+      "주식 시장 전반"
+    ],
+    "keywords": [
+      "네타냐후",
+      "이란",
+      "핵",
+      "전쟁",
+      "중동",
+      "지정학",
+      "유가"
+    ],
+    "reason": "네타냐후의 강경 발언은 중동 지역의 지정학적 긴장을 최고조로 끌어올리며, 이란 핵 프로그램을 둘러싼 갈등이 장기화되거나 무력 충돌로 확대될 위험을 높입니다. 이는 글로벌 유가 상승 압력으로 작용하고, 전반적인 위험 회피 심리를 강화하여 주식 시장에 부정적 영향을 미칠 수 있습니다.",
+    "action_point": "중동 지정학적 위험 고조에 따른 유가 상승 가능성을 고려하여 에너지 및 방산 섹터에 대한 투자 전략을 재검토하고, 위험 자산 비중 축소를 검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
     "title": "40도 폭염보다 무섭다…내 '주식 수익률' 떨어지는 이유 - 한국경제",
     "title_ko": "40도 폭염보다 무섭다…내 '주식 수익률' 떨어지는 이유",
     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9rWFZHNVlHVXRlSHluNm1QTHdsTVRiOXI2R3lSRHJxMU1EWnotTkJaMFFpdGUxNEx3eHNWaGVzenF0ZW1KN19wZzNtYzBDaW5yT2s5UEZXOXB2Zw?oc=5",
@@ -2841,52 +2895,5 @@
     ],
     "reason": "원화 강세는 외국인 투자자금 유입을 촉진하고 수입 물가 부담을 경감시켜 국내 증시에 긍정적이나, 수출 기업의 가격 경쟁력에는 부정적 영향을 미칠 수 있습니다.",
     "action_point": "원화 강세 수혜가 예상되는 내수 및 수입 관련 섹터 투자를 검토하고, 수출 비중이 높은 기업의 환율 위험 관리를 강화하라."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Silver and gold prices stage a cautious rebound — but analysts see slim hopes for a sustained rally",
-    "title_ko": "은과 금 가격, 조심스러운 반등 — 그러나 애널리스트들은 지속적인 랠리 가능성을 낮게 본다",
-    "link": "https://www.cnbc.com/2026/07/23/silver-gold-prices-rebound-rally-correction.html",
-    "published": "Thu, 23 Jul 2026 05:00:01 GMT",
-    "fetched_at": "2026-07-23 16:27:45",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "원자재",
-      "귀금속"
-    ],
-    "keywords": [
-      "은",
-      "금",
-      "귀금속",
-      "반등",
-      "랠리"
-    ],
-    "reason": "애널리스트들이 은과 금 가격의 지속적인 랠리에 대한 회의적인 시각을 제시하면서, 안전자산으로서의 귀금속 매력이 제한적일 수 있음을 시사한다. 이는 인플레이션 헤지나 불확실성에 대비한 포트폴리오 전략에 영향을 미칠 수 있다.",
-    "action_point": "귀금속 투자 비중 및 리밸런싱 전략 재검토."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Chip firm priced as China's most valuable company before its IPO brings scrutiny to crypto platform",
-    "title_ko": "IPO 앞둔 중국 반도체 기업의 과대평가, 암호화폐 플랫폼에 대한 감시를 불러오다",
-    "link": "https://www.cnbc.com/2026/07/23/chip-firm-priced-as-most-valuable-china-firm-pre-ipo-on-crypto-site.html",
-    "published": "Thu, 23 Jul 2026 03:28:22 GMT",
-    "fetched_at": "2026-07-23 16:28:12",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "반도체",
-      "암호화폐"
-    ],
-    "keywords": [
-      "반도체",
-      "중국",
-      "IPO",
-      "암호화폐",
-      "규제",
-      "과대평가"
-    ],
-    "reason": "오프쇼어 투자자들의 중국 IPO 접근 제한이 암호화폐 플랫폼을 통한 우회 투자를 야기하며, 특정 자산의 과대평가와 암호화폐 시장에 대한 규제 감시를 강화시킬 수 있습니다. 이는 암호화폐 시장의 건전성과 투자 안정성에 대한 우려를 증폭시킵니다.",
-    "action_point": "암호화폐 관련 자산 투자 시 잠재적 규제 강화 가능성에 대비하고, 관련 투자 자산의 밸류에이션을 보수적으로 재평가하라."
   }
 ]
