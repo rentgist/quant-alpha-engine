@@ -1,6 +1,28 @@
 [
   {
     "source": "GoogleNews_Korea",
+    "title": "'기피시설'이었던 교정시설‥지방 소멸 위기속 유치 경쟁 심화 - MBC 뉴스",
+    "title_ko": "'기피시설'이었던 교정시설‥지방 소멸 위기속 유치 경쟁 심화 - MBC 뉴스",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9fazFGcGlxTjNGRDVoQzRVWXdIWGJUNGZRa1B1dTBhY0xCWHhUS050a0hTVU1lbnhORW1rZDFuV2FnSFB0LWhuQ0g3NmNGeUN5RGs3ckpDWndlY2tJTHlHSGdWUjdHcldZX3FFSm40X3VOX01uaFVQag?oc=5",
+    "published": "Sun, 26 Jul 2026 11:14:16 GMT",
+    "fetched_at": "2026-07-27 01:50:28",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "부동산",
+      "건설"
+    ],
+    "keywords": [
+      "교정시설",
+      "지방소멸",
+      "유치경쟁",
+      "지역경제"
+    ],
+    "reason": "지방 소멸 위기의 심각성을 재확인하며 지역 부동산 및 인구 구조 변화에 대한 장기적 관점의 우려를 높인다. 단기적으로는 특정 지역의 건설 투자 유발 가능성이 있다.",
+    "action_point": "지방 소멸 위험이 높은 지역의 부동산 투자 비중 축소 검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
     "title": "대이란 공습 ‘일시 정지’…전쟁 출구 찾는 트럼프 - 경향신문",
     "title_ko": "대이란 공습 ‘일시 정지’…전쟁 출구 찾는 트럼프",
     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5vWngzdkNmS2t4M0hQTjBTU2lWdmw2cXJRNEc3cGFrZmd4VGdwQ080MGhoZi1tRDhLRkZBS1FOb3dQdGZvVkhtdnhpYXl5RWNkNXRacFUyWkFWQdIBX0FVX3lxTE0tekpSay1XdzU2S2JRTjF4bmRVN3p0N2JBelRvRW52Z3J6Nm95dDJuMHA1OEgwUDJlb25HbFpremswak1tTUdjLV9fR0thS3NWbC1TX1J0QjY2ZUptTkVR?oc=5",
@@ -2870,30 +2892,5 @@
     ],
     "reason": "높은 청년 장기 실업률은 중동 지정학적 리스크로 인한 국내 경제의 구조적 취약성을 보여주며, 내수 소비 둔화 가능성을 높인다.",
     "action_point": "국내 경기 민감 소비재 및 서비스 섹터 투자 비중 재고 및 방어적 자산 비중 확대를 고려."
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "OCI홀딩스 2분기 영업이익 1080억원…흑자 전환 성공",
-    "title_ko": "OCI홀딩스 2분기 영업이익 1080억원…흑자 전환 성공",
-    "link": "https://www.mk.co.kr/news/business/12105580",
-    "published": "Thu, 23 Jul 2026 16:16:50 +09:00",
-    "fetched_at": "2026-07-23 16:29:50",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "태양광 에너지",
-      "신재생 에너지",
-      "화학"
-    ],
-    "keywords": [
-      "OCI홀딩스",
-      "2분기 실적",
-      "흑자 전환",
-      "태양광",
-      "폴리실리콘",
-      "미국 프로젝트"
-    ],
-    "reason": "OCI홀딩스의 흑자 전환은 미국 태양광 프로젝트의 성공적 수익화를 반영하며, 글로벌 태양광 시장, 특히 핵심 소재인 폴리실리콘 수요의 견조함을 시사한다. 이는 국내 태양광 및 신재생에너지 섹터 전반의 투자심리 개선으로 이어질 수 있다.",
-    "action_point": "태양광 섹터 내 폴리실리콘 및 웨이퍼 등 핵심 소재 기업과 미국 시장 노출 기업에 대한 투자 비중 확대를 검토."
   }
 ]
