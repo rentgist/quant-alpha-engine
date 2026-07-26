@@ -1,6 +1,28 @@
 [
   {
     "source": "GoogleNews_Korea",
+    "title": "[단독]美국방, ‘전사 18→14명 축소’ 논란에…‘별도 전쟁’ 억지 - v.daum.net",
+    "title_ko": "美국방, ‘전사 18→14명 축소’ 논란에…‘별도 전쟁’ 억지",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBVdXdEd0lydm5MQk9pM1pmdUUzUHJOT0JCTTBvTzVvZFc4Wk1TNXd3ZjZPRlE1T29DdldJWjJhQkwzNkREYi1aZ0dVaUVITG8?oc=5",
+    "published": "Sun, 26 Jul 2026 00:39:37 GMT",
+    "fetched_at": "2026-07-26 10:52:54",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "위험자산",
+      "수출주"
+    ],
+    "keywords": [
+      "미국 국방부",
+      "지정학적 리스크",
+      "전쟁 억지",
+      "안보"
+    ],
+    "reason": "미국 국방부의 '별도 전쟁 억지' 메시지는 글로벌 지정학적 불확실성을 완화하여 전반적인 위험자산 투자 심리를 개선할 수 있습니다.",
+    "action_point": "글로벌 지정학적 리스크 완화에 따른 위험자산 비중 확대 검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
     "title": "탄소 데이터도 '검증'이 경쟁력…하나루프, 국제표준 기반 탄소관리 플랫폼 신뢰성 확보 - 에너지데일리",
     "title_ko": "탄소 데이터도 '검증'이 경쟁력…하나루프, 국제표준 기반 탄소관리 플랫폼 신뢰성 확보",
     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9GU255LUljS3c1ejh1YUFCYW9WRVE5QnJmLS1hYWFsdVlGV1p3blk4QTJDcHpIRGFySmRkUjdfeEVHUXZkcXB0c0ppTU14Q2NWSVA2WTE0UlhiZFBJbGoxdmplY1hkV0pPdWJBUjVNMTdyQQ?oc=5",
@@ -2876,29 +2898,5 @@
     ],
     "reason": "서울시장의 법적 리스크로 인한 정치적 불확실성이 발생하며, 이는 서울시 정책 방향에 따라 건설 및 부동산 섹터에 간접적인 영향을 줄 수 있습니다.",
     "action_point": "서울시 정책 변화 가능성에 대비하여 건설 및 부동산 섹터 투자 비중을 점검하십시오."
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "챗GPT로 검색만? 이젠 이것까지 가능…광고판 점령한 오픈AI",
-    "title_ko": "챗GPT로 검색만? 이젠 이것까지 가능…광고판 점령한 오픈AI",
-    "link": "https://www.mk.co.kr/news/it/12104532",
-    "published": "Wed, 22 Jul 2026 16:31:35 +09:00",
-    "fetched_at": "2026-07-22 16:37:20",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "기술",
-      "소프트웨어",
-      "광고"
-    ],
-    "keywords": [
-      "오픈AI",
-      "챗GPT",
-      "인공지능",
-      "광고",
-      "한국시장"
-    ],
-    "reason": "오픈AI의 한국 시장 광고 캠페인은 AI 기술의 대중화 및 상업적 확장을 의미하며, 장기적으로 AI 관련 산업의 성장 모멘텀을 강화합니다. 단기적인 거시경제 영향은 제한적입니다.",
-    "action_point": "AI 관련 기술주에 대한 중장기 투자 매력도 및 확산 속도를 재평가하고, 포트폴리오 내 비중을 점검하라."
   }
 ]
