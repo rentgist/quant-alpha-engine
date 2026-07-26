@@ -1,5 +1,25 @@
 [
   {
+    "source": "CNBC_World",
+    "title": "New UK Prime Minister Burnham says he would be prepared to call out Trump",
+    "title_ko": "영국 신임 총리 번햄, 트럼프 비판할 준비가 되어 있다고 밝혀",
+    "link": "https://www.cnbc.com/2026/07/26/new-uk-prime-minister-burnham-says-he-would-be-prepared-to-call-out-trump.html",
+    "published": "Sun, 26 Jul 2026 12:17:14 GMT",
+    "fetched_at": "2026-07-26 21:59:21",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [],
+    "keywords": [
+      "영국 총리",
+      "번햄",
+      "트럼프",
+      "지정학",
+      "외교 관계"
+    ],
+    "reason": "영국 신임 총리가 향후 트럼프와의 관계에서 비판적 입장을 취할 수 있음을 시사하며, 잠재적인 외교적 긴장 가능성을 언급했습니다. 당장은 우호적인 대화였으나, 장기적인 양국 관계의 불확실성이 증가할 수 있습니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "GoogleNews_Korea",
     "title": "국제유가 불안 다시 고조…’물가·환율·금리’ 경고등 - 연합뉴스TV",
     "title_ko": "국제유가 불안 다시 고조…’물가·환율·금리’ 경고등",
@@ -2863,28 +2883,5 @@
     ],
     "reason": "인도 내 학생 시위가 정치적 불확실성을 증가시키며 모디 총리의 리더십에 도전하고 있습니다. 이는 인도 국내 투자 환경에 영향을 미칠 수 있으나, 현재 글로벌 거시경제 시장에 미치는 직접적인 영향은 제한적입니다.",
     "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Alphabet earnings takeaways: Q2 revenue beats, GOOGL stock sinks on 2026 capex hike",
-    "title_ko": "Alphabet 2분기 실적 요약: 매출 예상치 상회에도 2026년 CAPEX 증가 발표로 GOOGL 주가 하락",
-    "link": "https://www.cnbc.com/2026/07/22/google-earnings-q2-goog-live-updates.html",
-    "published": "Wed, 22 Jul 2026 23:21:42 GMT",
-    "fetched_at": "2026-07-23 13:10:24",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "기술",
-      "인터넷"
-    ],
-    "keywords": [
-      "Alphabet",
-      "Google",
-      "실적",
-      "CAPEX",
-      "기술주"
-    ],
-    "reason": "Alphabet의 매출은 예상치를 상회했지만, 2026년까지의 CAPEX 증가 발표는 단기적인 수익성 우려를 높여 주가 하락으로 이어졌습니다. 이는 대형 기술주의 투자 방향 및 자본 지출 전략에 대한 시장의 민감성을 보여줍니다.",
-    "action_point": "대형 기술주 포트폴리오의 CAPEX 계획이 단기 수익성에 미칠 영향을 분석하고, 비중 조절을 고려하라."
   }
 ]
