@@ -1,5 +1,52 @@
 [
   {
+    "source": "CNBC_World",
+    "title": "Stock futures climb, oil prices fall as U.S. and Iran pause attacks: Live updates",
+    "title_ko": "미국과 이란의 공격 중단으로 주식 선물 상승, 유가 하락: 실시간 업데이트",
+    "link": "https://www.cnbc.com/2026/07/26/stock-market-today-live-updates.html",
+    "published": "Sun, 26 Jul 2026 23:39:10 GMT",
+    "fetched_at": "2026-07-27 08:52:56",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "항공",
+      "해운",
+      "운송"
+    ],
+    "keywords": [
+      "미국",
+      "이란",
+      "지정학",
+      "유가",
+      "주식 선물",
+      "긴장 완화"
+    ],
+    "reason": "미국과 이란 간 군사적 긴장 완화는 지정학적 리스크 프리미엄을 낮춰 글로벌 주식 시장 안정에 기여하고, 유가 하락을 통해 인플레이션 압력 완화 및 기업 비용 부담 감소 효과를 가져옵니다.",
+    "action_point": "지정학적 리스크 완화로 인한 유가 하락에 대응하여 에너지 섹터 비중 축소 및 항공, 운송 등 유가 수혜 섹터의 비중 확대를 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "[위기의 중소형사] [교보증권] 수익구조 쏠림 해결책은? - DealSite경제TV",
+    "title_ko": "[위기의 중소형사] [교보증권] 수익구조 쏠림 해결책은?",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDdTIzNzFCdlZLRlVWUExUZWo1S0hjS242X3dXdW52Zm94T3pQMkR0N0puMjJNTWxENUhNZUFHREJ3UWFNaFozSEhjcGZva2xUTG5fcDV3?oc=5",
+    "published": "Sun, 26 Jul 2026 23:00:26 GMT",
+    "fetched_at": "2026-07-27 08:53:04",
+    "sentiment": "악재",
+    "importance": 2,
+    "sectors": [
+      "증권"
+    ],
+    "keywords": [
+      "증권사",
+      "수익구조",
+      "중소형사",
+      "교보증권"
+    ],
+    "reason": "국내 중소형 증권사들의 취약한 수익구조 문제를 지적하며, 이는 금리 인상기 시장 변동성 확대에 따른 이익 감소 우려와 함께 증권업종 내 구조조정 가능성을 시사합니다.",
+    "action_point": "중소형 증권사 투자 비중 축소 검토"
+  },
+  {
     "source": "GoogleNews_Korea",
     "title": "전쟁·관세 등 변수 산적…100일 뒤 트럼프 성적표는? - 연합뉴스TV",
     "title_ko": "전쟁·관세 등 변수 산적…100일 뒤 트럼프 성적표는?",
@@ -2852,53 +2899,5 @@
     ],
     "reason": "홍해의 주요 해상 운송로에서 유조선 공격은 중동 지정학적 리스크를 고조시키고 글로벌 원유 공급 차질 및 해상 운송 비용 상승 압력을 가중시킬 것입니다. 이는 유가 상승과 인플레이션 우려를 심화시킬 수 있습니다.",
     "action_point": "글로벌 유가 상승 압력에 대비하여 에너지 관련 자산 비중 확대를 검토하십시오."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "'Project Firepower': Inside Rheinmetall's gunpowder expansion as Europe races to replenish its ammunition",
-    "title_ko": "'화력 프로젝트': 유럽이 탄약 재고 보충에 박차를 가하는 가운데 라인메탈의 화약 증설 현황",
-    "link": "https://www.cnbc.com/2026/07/23/rheinmetall-gunpowder-ammunition-europe-rearm-ceo.html",
-    "published": "Thu, 23 Jul 2026 06:54:06 GMT",
-    "fetched_at": "2026-07-23 16:27:53",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "방위산업",
-      "항공우주및방위",
-      "화학"
-    ],
-    "keywords": [
-      "라인메탈",
-      "화약",
-      "탄약",
-      "방산",
-      "유럽",
-      "지정학적 리스크",
-      "공급망"
-    ],
-    "reason": "유럽의 방위 역량 강화 노력은 지정학적 긴장 심화에 따른 방산 수요 증가를 명확히 보여주며, 관련 산업의 매출 증대와 공급망 중요성을 부각시킵니다. 이는 방위산업 전반에 긍정적인 영향을 미칩니다.",
-    "action_point": "글로벌 지정학적 리스크 확대에 따라 방산 섹터 및 핵심 방산 소재 기업에 대한 비중 확대를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "UniCredit CEO tells CNBC full acquisition of Commerzbank could happen in fourth quarter",
-    "title_ko": "UniCredit CEO, CNBC에 코메르츠방크 인수 4분기에 가능할 수도 있다고 밝혀",
-    "link": "https://www.cnbc.com/2026/07/23/unicredit-commerzbank-takeover-acquisition-2q-earnings.html",
-    "published": "Thu, 23 Jul 2026 07:11:56 GMT",
-    "fetched_at": "2026-07-23 16:28:01",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "금융",
-      "유럽 증시"
-    ],
-    "keywords": [
-      "UniCredit",
-      "Commerzbank",
-      "인수합병",
-      "유럽 은행"
-    ],
-    "reason": "이 뉴스는 유럽 은행권의 대규모 인수합병 가능성을 시사하며, 이는 은행 섹터의 구조조정 및 효율성 증대 기회로 작용할 수 있습니다. 해당 은행들의 주가 변동 및 유럽 금융 섹터 전반에 긍정적 영향을 미칠 것입니다.",
-    "action_point": "유럽 금융 섹터의 구조조정 및 효율성 증대 가능성에 주목하며 관련 ETF 또는 대형 금융주 비중 확대를 고려하라."
   }
 ]
