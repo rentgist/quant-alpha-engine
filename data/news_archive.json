@@ -1,6 +1,57 @@
 [
   {
     "source": "GoogleNews_Korea",
+    "title": "트럼프 2기 관세 재편과 실효세율 유지… 한국 경제 파장 촉각 - 글로벌이코노믹",
+    "title_ko": "트럼프 2기 관세 재편과 실효세율 유지… 한국 경제 파장 촉각",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeklZNmstYU90Xzd3TDJqaXBNdTEtSFBaaWVRaE9vU2hPSWFUZEZrYVREQVMxbkI1ajZzcW0xTWNNTFN0UUJ4QUlFRS1BVl93QmNqcUxXWHB4R1lYYklxWWFFZWRib2EwWDR2bDZRb0o3Vm9McFdkTkpUUjRxa3BCblBWODJ6T0Zy?oc=5",
+    "published": "Sun, 26 Jul 2026 19:15:00 GMT",
+    "fetched_at": "2026-07-27 05:06:51",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "수출기업",
+      "자동차",
+      "반도체",
+      "화학",
+      "철강"
+    ],
+    "keywords": [
+      "트럼프",
+      "관세",
+      "무역정책",
+      "수출",
+      "한국경제"
+    ],
+    "reason": "트럼프 재선 시 관세 재편 및 보호무역주의 강화는 한국의 수출 중심 경제에 직접적인 악영향을 미쳐 주요 수출 기업들의 실적 부진과 글로벌 교역량 감소 우려를 키울 수 있습니다.",
+    "action_point": "수출 의존도가 높은 국내 기업 비중 축소 또는 무역 분쟁 헤지 차원의 달러 자산 비중 확대를 검토하십시오."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "Wildfires threaten Bordeaux as France and Spain battle blazes",
+    "title_ko": "프랑스-스페인 산불 확산, 보르도 위협",
+    "link": "https://www.cnbc.com/2026/07/26/wildfires-threaten-bordeaux-as-france-and-spain-battle-blazes.html",
+    "published": "Sun, 26 Jul 2026 19:42:32 GMT",
+    "fetched_at": "2026-07-27 05:06:45",
+    "sentiment": "악재",
+    "importance": 2,
+    "sectors": [
+      "농업",
+      "보험",
+      "관광",
+      "부동산"
+    ],
+    "keywords": [
+      "산불",
+      "유럽",
+      "보르도",
+      "기후변화",
+      "재해"
+    ],
+    "reason": "유럽 주요 농업(와인) 및 관광 지역의 생산 차질과 경제 활동 위축이 예상되며, 대규모 재산 피해로 보험 산업에 부담을 줄 수 있습니다.",
+    "action_point": "유럽 농업 및 관광 관련 자산의 투자 비중을 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
     "title": "네타냐후 \"이란이 핵 포기해야 한다고 깨달을 때 전쟁 끝날 것\" - v.daum.net",
     "title_ko": "네타냐후 \"이란이 핵 포기해야 한다고 깨달을 때 전쟁 끝날 것\"",
     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE96WXF5Wl9jdzZuWDhHYk5fdzl5YUgwNTdkT0Z2TUtSSnV2ZUhvdEtLVFlJQTZTc05xaEtUYlBPd2p6WFdnNi11ZEFGeHZrZTg?oc=5",
@@ -2844,56 +2895,5 @@
     ],
     "reason": "예상치를 상회하는 2분기 GDP 성장은 경기 회복 기대감을 높여 국내 증시 전반에 긍정적이며, 특히 내수 및 수출 관련 섹터에 투자 모멘텀을 제공할 수 있습니다.",
     "action_point": "경기 회복 기대감에 국내 주식 비중을 유지 또는 확대하고, 경기 민감주를 주목하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "[단독] SMR 상용화 시점 앞당긴다...개발·규제 아우르는 TF 가동",
-    "title_ko": "[단독] SMR 상용화 시점 앞당긴다...개발·규제 아우르는 TF 가동",
-    "link": "https://www.mk.co.kr/news/it/12105584",
-    "published": "Thu, 23 Jul 2026 16:19:21 +09:00",
-    "fetched_at": "2026-07-23 16:29:16",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "원자력",
-      "건설",
-      "중공업",
-      "에너지"
-    ],
-    "keywords": [
-      "SMR",
-      "소형모듈원전",
-      "원자력",
-      "정부정책"
-    ],
-    "reason": "정부의 범부처 SMR TF 가동 및 상용화 시점 단축 논의는 국내 원자력 산업의 성장 가속화와 관련 기업들의 수주 확대 기대감을 높일 것입니다. 이는 에너지 정책 변화에 따른 중장기적인 산업 구조 변화에도 영향을 미칠 수 있습니다.",
-    "action_point": "국내 SMR 관련 기술 보유 기업 및 원전 기자재 공급 기업의 투자 비중 확대를 검토."
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "금융위기급 추락 딛고 반등한 원화값…증권가 “1440원까지 간다”",
-    "title_ko": "금융위기급 추락 딛고 반등한 원화값…증권가 “1440원까지 간다”",
-    "link": "https://www.mk.co.kr/news/economy/12105583",
-    "published": "Thu, 23 Jul 2026 16:18:49 +09:00",
-    "fetched_at": "2026-07-23 16:29:33",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "수입",
-      "내수",
-      "수출",
-      "반도체",
-      "금융"
-    ],
-    "keywords": [
-      "원화",
-      "환율",
-      "강세",
-      "반등",
-      "SK하이닉스",
-      "외국인 투자"
-    ],
-    "reason": "원화 강세는 외국인 투자자금 유입을 촉진하고 수입 물가 부담을 경감시켜 국내 증시에 긍정적이나, 수출 기업의 가격 경쟁력에는 부정적 영향을 미칠 수 있습니다.",
-    "action_point": "원화 강세 수혜가 예상되는 내수 및 수입 관련 섹터 투자를 검토하고, 수출 비중이 높은 기업의 환율 위험 관리를 강화하라."
   }
 ]
