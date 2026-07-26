@@ -1,5 +1,56 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "title": "대이란 공습 ‘일시 정지’…전쟁 출구 찾는 트럼프 - 경향신문",
+    "title_ko": "대이란 공습 ‘일시 정지’…전쟁 출구 찾는 트럼프",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5vWngzdkNmS2t4M0hQTjBTU2lWdmw2cXJRNEc3cGFrZmd4VGdwQ080MGhoZi1tRDhLRkZBS1FOb3dQdGZvVkhtdnhpYXl5RWNkNXRacFUyWkFWQdIBX0FVX3lxTE0tekpSay1XdzU2S2JRTjF4bmRVN3p0N2JBelRvRW52Z3J6Nm95dDJuMHA1OEgwUDJlb25HbFpremswak1tTUdjLV9fR0thS3NWbC1TX1J0QjY2ZUptTkVR?oc=5",
+    "published": "Sun, 26 Jul 2026 12:08:00 GMT",
+    "fetched_at": "2026-07-27 00:55:59",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "항공",
+      "해운",
+      "화학",
+      "방산"
+    ],
+    "keywords": [
+      "지정학",
+      "중동",
+      "이란",
+      "유가",
+      "트럼프",
+      "위험자산"
+    ],
+    "reason": "이란 공습의 일시 정지 및 전쟁 출구 모색은 중동 지정학적 리스크 완화를 의미하며, 이는 국제유가 상승 압력을 완화하고 글로벌 위험자산에 대한 투자 심리를 개선할 것입니다.",
+    "action_point": "중동 지정학적 리스크 완화로 인한 국제유가 안정화 추세에 주목하고, 항공, 해운, 화학 등 유가 민감 섹터의 투자 기회를 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "[아주경제 오늘의 뉴스 종합] 李대통령, 美빅테크와 1400조 'AI 동맹'…실리콘밸리 자본도 잇는다 - v.daum.net",
+    "title_ko": "[아주경제 오늘의 뉴스 종합] 李대통령, 美빅테크와 1400조 'AI 동맹'…실리콘밸리 자본도 잇는다",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBGTXBqcTBIY0p3Yks0UGVkaGtLbDNzTlFad0kySWVCeHUyS0JmNDM1NkJlYXVRV09vSUg4bWpES0Vmd0RRT28yLWZxZmZUM1E?oc=5",
+    "published": "Sun, 26 Jul 2026 12:36:12 GMT",
+    "fetched_at": "2026-07-27 00:56:14",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "AI",
+      "기술",
+      "반도체"
+    ],
+    "keywords": [
+      "AI",
+      "빅테크",
+      "실리콘밸리",
+      "투자",
+      "반도체"
+    ],
+    "reason": "한국 정부의 미국 빅테크 및 실리콘밸리 자본과의 1400조원 규모 AI 동맹 추진은 국내 AI 기술 개발 및 관련 산업 성장을 가속화할 것이다. 이는 장기적으로 한국 경제의 신성장 동력을 확보하고 기술주 전반에 긍정적인 투자 심리를 형성할 수 있다.",
+    "action_point": "국내 AI 및 반도체 섹터 투자 비중 확대를 검토하라."
+  },
+  {
     "source": "CNBC_World",
     "title": "Inside the S&P 500 AI boom, industrials are getting as rich as tech stocks",
     "title_ko": "S&P 500 AI 붐 속, 산업재 섹터도 기술주만큼 각광받아",
@@ -2844,48 +2895,5 @@
     ],
     "reason": "OCI홀딩스의 흑자 전환은 미국 태양광 프로젝트의 성공적 수익화를 반영하며, 글로벌 태양광 시장, 특히 핵심 소재인 폴리실리콘 수요의 견조함을 시사한다. 이는 국내 태양광 및 신재생에너지 섹터 전반의 투자심리 개선으로 이어질 수 있다.",
     "action_point": "태양광 섹터 내 폴리실리콘 및 웨이퍼 등 핵심 소재 기업과 미국 시장 노출 기업에 대한 투자 비중 확대를 검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "[속보]‘국힘, 397억원 반환’ 달린 윤석열 선거법 선고···법원 “다음주 생중계” - 경향신문",
-    "title_ko": "[속보]‘국힘, 397억원 반환’ 달린 윤석열 선거법 선고···법원 “다음주 생중계”",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nRUlhcDdrR1lFRF9jUFB3Q0MxeE1GekVySmNlZ2IxSFBtcW4tc3AzdG9QY1N0Ul9EWFNOSnA2eHBaWkxXdk1pYWRZbXVTUXZRRnYxWHV0MTYyQdIBX0FVX3lxTE1lRENTMF9qeGlkanlCdWpVVWNsQmk2OVdwSExlbXVFSTZmY1k5MGJfTWJ2QnJpUDlXbVhUd0c0R040YlU4SVlZMm1qcXpLb1I1SWh0QWFTU3ZXdkNxM3NR?oc=5",
-    "published": "Thu, 23 Jul 2026 06:36:00 GMT",
-    "fetched_at": "2026-07-23 16:29:03",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [],
-    "keywords": [
-      "윤석열",
-      "선거법",
-      "국민의힘",
-      "법원 선고",
-      "397억원"
-    ],
-    "reason": "이 기사는 윤석열 대통령의 선거법 위반 관련 법원 선고 및 국민의힘의 397억원 반환 가능성에 대한 국내 정치적 이슈이다. 거시경제나 특정 투자 자산에 미칠 직접적인 영향은 제한적이다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "집밥족 겨냥한 에어프라이어 경쟁…테팔, 원적외선 모델 출시",
-    "title_ko": "집밥족 겨냥한 에어프라이어 경쟁…테팔, 원적외선 모델 출시",
-    "link": "https://www.mk.co.kr/news/business/12105581",
-    "published": "Thu, 23 Jul 2026 16:17:01 +09:00",
-    "fetched_at": "2026-07-23 16:29:41",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "가전제품",
-      "소비재"
-    ],
-    "keywords": [
-      "에어프라이어",
-      "집밥",
-      "고물가",
-      "가전제품",
-      "소비트렌드"
-    ],
-    "reason": "고물가와 건강식 수요가 맞물리며 집밥족이 늘면서 특정 가전제품 시장의 경쟁이 심화되고 있음을 보여주는 기사입니다. 이는 거시 경제에 큰 영향을 미치기보다는 개별 소비재 섹터 내의 미시적인 흐름으로 해석됩니다.",
-    "action_point": "해당 없음"
   }
 ]
