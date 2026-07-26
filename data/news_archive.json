@@ -1,6 +1,58 @@
 [
   {
     "source": "GoogleNews_Korea",
+    "title": "전쟁·관세 등 변수 산적…100일 뒤 트럼프 성적표는? - 연합뉴스TV",
+    "title_ko": "전쟁·관세 등 변수 산적…100일 뒤 트럼프 성적표는?",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PeHVHcDN1dGZzLUg1bmZGa3FxazJCc1hfd19KejFrckNTLWNLTFF0Z0xqbnhzSEx6ekdUOE9WSEVHSmFFdUwzYm5zS1E4cFdWSy1tdVFjQVNMSUN5TTJJVEdFV09CZWs?oc=5",
+    "published": "Sun, 26 Jul 2026 20:34:00 GMT",
+    "fetched_at": "2026-07-27 06:50:51",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "자동차",
+      "IT 하드웨어",
+      "철강",
+      "화학",
+      "방산",
+      "원자재"
+    ],
+    "keywords": [
+      "트럼프",
+      "미국 대선",
+      "관세",
+      "무역 전쟁",
+      "지정학",
+      "불확실성"
+    ],
+    "reason": "트럼프 재집권 가능성은 글로벌 무역 정책(관세) 및 지정학적 안정성에 대한 불확실성을 증폭시켜, 한국과 같은 수출 주도 경제에 변동성 확대와 공급망 교란 위험을 높일 수 있습니다.",
+    "action_point": "무역 정책 변화에 취약한 수출 중심 기업의 비중 축소를 검토하고, 달러 등 안전 자산 비중 확대를 고려하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "드론이 바꾼 전쟁…“방산 공룡들, 스타트업에 역대급 투자” - 중앙일보",
+    "title_ko": "드론이 바꾼 전쟁…“방산 공룡들, 스타트업에 역대급 투자”",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vV3FTRTloOGpCMFBUZ1NLcVh0SEtRYkptT2NUMXBZcmlsQUtxZXd3V1dhTDE0NjQ5NzFyd1N5Vk1CQTRBcm5LSGFBa1h0Rk52aVliMGZR?oc=5",
+    "published": "Sun, 26 Jul 2026 21:29:01 GMT",
+    "fetched_at": "2026-07-27 06:51:00",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "방위산업",
+      "항공우주",
+      "정보통신기술"
+    ],
+    "keywords": [
+      "드론",
+      "방위산업",
+      "스타트업",
+      "첨단기술",
+      "안보"
+    ],
+    "reason": "현대 전쟁 양상 변화에 따른 드론 및 첨단 방위 산업 투자의 급증을 시사하며, 관련 기술 보유 스타트업 및 방산 기업들의 성장 기회 확대를 암시한다.",
+    "action_point": "드론 및 첨단 기술 기반 방위산업 섹터 비중 확대 및 관련 유망 스타트업 투자 기회 모색."
+  },
+  {
+    "source": "GoogleNews_Korea",
     "title": "트럼프 2기 관세 재편과 실효세율 유지… 한국 경제 파장 촉각 - 글로벌이코노믹",
     "title_ko": "트럼프 2기 관세 재편과 실효세율 유지… 한국 경제 파장 촉각",
     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeklZNmstYU90Xzd3TDJqaXBNdTEtSFBaaWVRaE9vU2hPSWFUZEZrYVREQVMxbkI1ajZzcW0xTWNNTFN0UUJ4QUlFRS1BVl93QmNqcUxXWHB4R1lYYklxWWFFZWRib2EwWDR2bDZRb0o3Vm9McFdkTkpUUjRxa3BCblBWODJ6T0Zy?oc=5",
@@ -2848,52 +2900,5 @@
     ],
     "reason": "이 뉴스는 유럽 은행권의 대규모 인수합병 가능성을 시사하며, 이는 은행 섹터의 구조조정 및 효율성 증대 기회로 작용할 수 있습니다. 해당 은행들의 주가 변동 및 유럽 금융 섹터 전반에 긍정적 영향을 미칠 것입니다.",
     "action_point": "유럽 금융 섹터의 구조조정 및 효율성 증대 가능성에 주목하며 관련 ETF 또는 대형 금융주 비중 확대를 고려하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "2분기 경제성장률 3.7%…반도체 호황에 2연속 ‘깜짝 성장’ - 조선일보",
-    "title_ko": "2분기 경제성장률 3.7%…반도체 호황에 2연속 ‘깜짝 성장’",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRzJSV2diSndFekFvcnR5em8zWjBBeEltR3pveWJBNDVBdHRkTDRTWXgzMmNGUGpDYXcyaHppcTRnSTEtQVo4bWhRWURDS2FhcEpER3F6bkFaZXEyYUhzbzNKY2c0dFVwLW1hWU1sYmhtZlJGYWt3aDd4enUwelc4UUg5MklvbnhGSmFTRS1B?oc=5",
-    "published": "Thu, 23 Jul 2026 00:50:58 GMT",
-    "fetched_at": "2026-07-23 16:28:19",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "반도체",
-      "IT",
-      "수출"
-    ],
-    "keywords": [
-      "경제성장률",
-      "반도체",
-      "수출",
-      "호황"
-    ],
-    "reason": "예상치를 상회하는 2분기 경제성장률은 반도체 수출 호조에 힘입은 것으로, 국내 경제의 견고한 회복세를 시사한다. 이는 기업 실적 전망 개선 및 투자 심리 회복에 긍정적 영향을 미칠 것이다.",
-    "action_point": "반도체 및 수출 비중이 높은 기업의 투자 비중 확대를 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "2분기 한국 경제 0.6% '깜짝 성장'…연간 3% 돌파 가시권(종합) - 연합뉴스",
-    "title_ko": "2분기 한국 경제 0.6% '깜짝 성장'…연간 3% 돌파 가시권(종합)",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96THkzVm5FdVpNb1Nuc1dlSmtIeTlHbmxSR1VXWHpPX3hSS3lnTE4ycDdIVUlVNXF2MEtSNlVtR3pObFJaNVJfYTdURTVOaTFieHR0RlJNbW9CYkpmanZFdtIBYEFVX3lxTE96THkzVm5FdVpNb1Nuc1dlSmtIeTlHbmxSR1VXWHpPX3hSS3lnTE4ycDdIVUlVNXF2MEtSNlVtR3pObFJaNVJfYTdURTVOaTFieHR0RlJNbW9CYkpmanZFdg?oc=5",
-    "published": "Thu, 23 Jul 2026 01:07:10 GMT",
-    "fetched_at": "2026-07-23 16:28:32",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "금융",
-      "소비재",
-      "산업재",
-      "IT"
-    ],
-    "keywords": [
-      "한국 경제",
-      "GDP",
-      "성장률",
-      "경기 회복"
-    ],
-    "reason": "예상치를 상회하는 2분기 GDP 성장은 경기 회복 기대감을 높여 국내 증시 전반에 긍정적이며, 특히 내수 및 수출 관련 섹터에 투자 모멘텀을 제공할 수 있습니다.",
-    "action_point": "경기 회복 기대감에 국내 주식 비중을 유지 또는 확대하고, 경기 민감주를 주목하라."
   }
 ]
