@@ -1,5 +1,316 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "title": "“두 전쟁 합쳐졌다”…우크라, 이란 선박 공격하며 ‘참전’ 이유는 - 한겨레",
+    "title_ko": "“두 전쟁 합쳐졌다”…우크라, 이란 선박 공격하며 ‘참전’ 이유는",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9kMG1wbHBRNTd6bHVSVGMtVmIyRDVUR21RQWZObHBFZmhJUHZoYnNaQkNOWDR5cmdOMEthUkRXa0hVQXdIMHRxRS0wdU1JWnY4Y0JNOXJTWFZRMFJ4cHZFcU43cGoxeVhjVG9ybjdKTllzeUk?oc=5",
+    "published": "Sun, 26 Jul 2026 06:45:00 GMT",
+    "fetched_at": "2026-07-26 17:09:38",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "에너지",
+      "방산",
+      "해운",
+      "보험"
+    ],
+    "keywords": [
+      "지정학적 리스크",
+      "중동",
+      "유가",
+      "에너지 안보"
+    ],
+    "reason": "우크라이나의 이란 선박 공격은 중동 전쟁의 확전 가능성을 높여 지정학적 리스크를 심화시키고, 유가 상승 압력을 가중하여 글로벌 경제 불확실성을 증폭시킬 수 있습니다.",
+    "action_point": "유가 상승 압력과 지정학적 리스크 확대를 고려하여 에너지 및 방산 섹터 비중을 확대하고, 안전자산 확보를 검토하십시오."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "1450원대까지 떨어진 원·달러 환율, 변수는 ‘중동 전쟁’ - 경향신문",
+    "title_ko": "1450원대까지 떨어진 원·달러 환율, 변수는 ‘중동 전쟁’",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5EUzJSNzliOW5seTdHQnJZSElRMExKLTliU2RoazBDTW9EVWhZUXdLY2MteTljZHRlcXlXZ09waTRhZjZYWEd3YTdmYklJX3EzRFZTQm1Qd1NOQdIBX0FVX3lxTFBHVERSTU91bkthWmM1QXBKR1pWT013bEFucldJbThXdTJCeGREYk94bHhfMG1KSlpPOC12Ymp2bC04amMyMmY5QXp0OVBSaC1Ra0RiWktXYURvT0pfOXl3?oc=5",
+    "published": "Sun, 26 Jul 2026 07:07:00 GMT",
+    "fetched_at": "2026-07-26 17:09:49",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "외환",
+      "원자재",
+      "에너지",
+      "수출입",
+      "항공운송",
+      "방산"
+    ],
+    "keywords": [
+      "원·달러 환율",
+      "중동 전쟁",
+      "지정학적 리스크",
+      "안전자산",
+      "고유가"
+    ],
+    "reason": "원·달러 환율 상승(원화 약세)은 수입물가 상승 압력을 가중시켜 인플레이션을 심화시키고, 중동 전쟁은 국제 유가 급등과 글로벌 경기 둔화 우려를 고조시켜 한국 경제 전반에 악영향을 미칠 수 있습니다.",
+    "action_point": "달러 자산 비중을 유지 또는 확대하고, 지정학적 리스크와 고유가에 민감한 섹터에 대한 포트폴리오를 조정하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "미·이란 '소강'...'1300조 원 AI 협력' 경제 영향은? - YTN",
+    "title_ko": "미·이란 '소강'...'1300조 원 AI 협력' 경제 영향은?",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HOXEzU2dFU1lhekNlaG9YX056YmdtTVp5NUJ1dUFjUk9pLXZ1ZWNLb2FnM2F6WlZxN2dTc3dTOFRqTHlKdmo3Z1dWQmJadGEzMzgya3lXNkJreFhwVkE?oc=5",
+    "published": "Sun, 26 Jul 2026 01:44:00 GMT",
+    "fetched_at": "2026-07-26 17:09:58",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "반도체",
+      "AI",
+      "소프트웨어",
+      "클라우드 컴퓨팅",
+      "기술"
+    ],
+    "keywords": [
+      "AI 투자",
+      "반도체",
+      "기술 협력",
+      "경제 성장",
+      "지정학적 안정"
+    ],
+    "reason": "미·이란 간의 지정학적 긴장 완화는 시장 안정에 긍정적이며, 1300조 원 규모의 AI 협력은 반도체, 소프트웨어 등 AI 생태계 전반에 막대한 투자와 성장 기회를 제공할 것입니다.",
+    "action_point": "반도체 및 AI 관련 기술주에 대한 포트폴리오 비중 확대를 적극 검토하십시오."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "대구 휘발유값 11주 연속 하락…국제유가 급등에 상승 전환 가능성 - v.daum.net",
+    "title_ko": "대구 휘발유값 11주 연속 하락…국제유가 급등에 상승 전환 가능성",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9zdFF3RjZEbnJFVkxrd3I1VkZPTGVxNWJBOUhoaDBFWkRSWkhGRVlzNDNmUGZta3dHQWJqekx4bmExcG5CdWdXSlhSVll1QTA?oc=5",
+    "published": "Sun, 26 Jul 2026 05:50:03 GMT",
+    "fetched_at": "2026-07-26 17:10:08",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "정유/화학",
+      "운송/물류",
+      "항공",
+      "소비재"
+    ],
+    "keywords": [
+      "국제유가",
+      "휘발유",
+      "물가상승",
+      "운송비용"
+    ],
+    "reason": "대구 지역 휘발유 가격이 국제유가 급등으로 상승 전환될 가능성이 커지면서 전반적인 물가 상승 압력과 기업의 생산 비용 증가로 이어져 경제 전반에 부정적인 영향을 미칠 수 있습니다. 특히 운송 및 에너지 의존도가 높은 산업의 마진에 압박을 가할 것입니다.",
+    "action_point": "유가 상승에 따른 인플레이션 압력 증가에 대비하여 운송 및 석유화학 섹터 비중 축소 검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "현대차 '플레오스' 확장…자동차 '구독 경제' 개화 - 전자신문",
+    "title_ko": "현대차 '플레오스' 확장…자동차 '구독 경제' 개화",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA3UmYtMUJJanhNU0dTMWFzYzZfd2dTMDNybHYxOGp1MXhqakZYLTY5R01YLVg5X0dGUExpSU9za0Z6YnhQQW8xT2djQnEyUQ?oc=5",
+    "published": "Sun, 26 Jul 2026 07:01:00 GMT",
+    "fetched_at": "2026-07-26 17:10:17",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "자동차",
+      "플랫폼",
+      "모빌리티"
+    ],
+    "keywords": [
+      "현대차",
+      "플레오스",
+      "자동차 구독",
+      "구독 경제",
+      "모빌리티"
+    ],
+    "reason": "현대차의 구독 서비스 확대는 자동차 산업의 새로운 수익 모델 다각화를 보여주며, 장기적으로 완성차 기업의 안정적 현금 흐름 창출에 기여할 수 있다. 이는 모빌리티 서비스 시장의 성장 가능성을 시사한다.",
+    "action_point": "현대차의 신사업 전략에 따른 중장기적인 기업 가치 변화를 분석하고 포트폴리오에 반영할지 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "[속보]국세청장 \"고가주택에 더 많은 혜택…장특공제, 역진성 끝판왕\" - 국제신문",
+    "title_ko": "국세청장 \"고가주택에 더 많은 혜택…장특공제, 역진성 끝판왕\"",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaGc4dW1YVWtpT1EzYTh0T0ZtSXItUzVTcmp5RWoteFZYTFM0d1RwMWVXUWtwTkN6ckx2cnFGR0djNUtQLXVmUWk0RDdNX1lVZm53VW93eDFQOTNNYzBWWkpIWG5NWE9sYW50c2dMZlFxVEFWNXZDZDRyaWY2c0hQTUNreUl0QnEyWWQza0VB?oc=5",
+    "published": "Sun, 26 Jul 2026 06:30:00 GMT",
+    "fetched_at": "2026-07-26 17:10:23",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "부동산"
+    ],
+    "keywords": [
+      "고가주택",
+      "부동산 세금",
+      "장기보유특별공제"
+    ],
+    "reason": "국세청장의 발언은 고가주택에 대한 장기보유특별공제 축소 또는 개편 가능성을 시사하며, 이는 고가주택 시장의 투자 심리 위축 및 향후 가격 조정 압력으로 작용할 수 있다.",
+    "action_point": "고가주택 보유자산에 대한 장기 투자 전략 및 세금 영향 재검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "[단독] 이란전 전사 18→14명 축소…美 ‘별도 전쟁’ 꼼수 논란 - 중앙일보",
+    "title_ko": "[단독] 이란전 전사 18→14명 축소…美 ‘별도 전쟁’ 꼼수 논란",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84RGd5QU1pZW5fekxxckhEeW1XemJsQUNaUGpkQndiUERaLTNTM2M2eGs4Q3dBMG5EWDN2ZENHcDFDd0xVZkY1SU1PM1JQb1U0bWQxZFZR?oc=5",
+    "published": "Sun, 26 Jul 2026 00:38:01 GMT",
+    "fetched_at": "2026-07-26 17:10:36",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "에너지",
+      "방산"
+    ],
+    "keywords": [
+      "이란",
+      "미국",
+      "중동",
+      "지정학",
+      "사상자"
+    ],
+    "reason": "미국의 이란 관련 전사자 수 재분류 논란은 중동 지역 내 지속적인 지정학적 긴장감을 시사하며, 이는 국제 유가 및 관련 자산의 변동성을 유지시키는 요인으로 작용할 수 있습니다.",
+    "action_point": "중동발 지정학적 리스크 노출도를 재점검하십시오."
+  },
+  {
+    "source": "Maeil_Business",
+    "title": "AICC부터 에이전트까지 … KT, 금융권 AX 공략 확대",
+    "title_ko": "AICC부터 에이전트까지 … KT, 금융권 AX 공략 확대",
+    "link": "https://www.mk.co.kr/news/it/12107683",
+    "published": "Sun, 26 Jul 2026 17:09:56 +09:00",
+    "fetched_at": "2026-07-26 17:10:51",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "통신",
+      "IT 서비스",
+      "금융"
+    ],
+    "keywords": [
+      "KT",
+      "인공지능(AI)",
+      "AX (AI 전환)",
+      "금융권",
+      "디지털 전환"
+    ],
+    "reason": "KT의 AI 솔루션 확장은 금융권의 디지털 전환을 가속화하며, KT의 신규 매출 동력이 될 수 있다. 이는 통신 및 IT 서비스 섹터의 성장 기회를 시사한다.",
+    "action_point": "국내 통신 및 IT 서비스 섹터 내 AI 솔루션 사업 확장 기업에 대한 투자 비중 확대 검토."
+  },
+  {
+    "source": "Maeil_Business",
+    "title": "SKT, 독자 AI 모델 개방 … 스타트업과 사업화 추진",
+    "title_ko": "SKT, 독자 AI 모델 개방 … 스타트업과 사업화 추진",
+    "link": "https://www.mk.co.kr/news/it/12107682",
+    "published": "Sun, 26 Jul 2026 17:09:55 +09:00",
+    "fetched_at": "2026-07-26 17:11:10",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "통신",
+      "IT 서비스/소프트웨어",
+      "인공지능"
+    ],
+    "keywords": [
+      "SKT",
+      "인공지능",
+      "AI 생태계",
+      "스타트업",
+      "기술 개방"
+    ],
+    "reason": "SKT의 AI 기술 개방은 국내 AI 산업 생태계 확대를 촉진하며, 장기적으로 SKT의 신성장 동력 확보 및 통신 섹터 내 AI 서비스 경쟁력 강화에 기여할 수 있습니다.",
+    "action_point": "국내 통신 및 AI 관련 IT 서비스 섹터 내 성장 기회 탐색."
+  },
+  {
+    "source": "Maeil_Business",
+    "title": "삼성 첫 스마트안경, 무게는 덜고 AI는 더했다",
+    "title_ko": "삼성 첫 스마트안경, 무게는 덜고 AI는 더했다",
+    "link": "https://www.mk.co.kr/news/it/12107680",
+    "published": "Sun, 26 Jul 2026 17:09:54 +09:00",
+    "fetched_at": "2026-07-26 17:11:19",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "기술",
+      "웨어러블",
+      "AI",
+      "반도체"
+    ],
+    "keywords": [
+      "삼성전자",
+      "스마트안경",
+      "AI",
+      "웨어러블 기기",
+      "혁신"
+    ],
+    "reason": "삼성전자의 스마트안경 개발은 AI와 웨어러블 시장의 미래 성장 가능성을 제시하며, 기술 혁신을 통한 신규 시장 선점 경쟁이 심화될 것임을 시사합니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "Maeil_Business",
+    "title": "[매일경제TV] 반도체주, 다시 증시 구원투수 될까",
+    "title_ko": "반도체주, 다시 증시 구원투수 될까",
+    "link": "https://www.mk.co.kr/news/culture/12107677",
+    "published": "Sun, 26 Jul 2026 17:08:04 +09:00",
+    "fetched_at": "2026-07-26 17:11:29",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "반도체",
+      "기술주",
+      "국내 증시"
+    ],
+    "keywords": [
+      "반도체주",
+      "증시",
+      "외국인 매수",
+      "주도권"
+    ],
+    "reason": "국내 증시의 불안정성 속에서 반도체 섹터가 다시 시장의 주도주 역할을 할 수 있을지에 대한 가능성을 제기하며, 이로 인한 전체 증시 흐름 변화에 주목한다.",
+    "action_point": "반도체 섹터의 국내 증시 주도력 회복 가능성에 대비하여, 관련 기업 포트폴리오 비중을 재검토하고 투자 기회를 모색하라."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "Cocoa prices are easing. So why is chocolate still so expensive?",
+    "title_ko": "코코아 가격이 안정되고 있는데, 왜 초콜릿은 여전히 비쌀까?",
+    "link": "https://www.cnbc.com/2026/07/26/cocoa-prices-chocolate-lindt-barry-callebaut-nestle.html",
+    "published": "Sun, 26 Jul 2026 05:00:01 GMT",
+    "fetched_at": "2026-07-26 17:09:25",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "식품/음료",
+      "소비재"
+    ],
+    "keywords": [
+      "코코아 가격",
+      "초콜릿",
+      "소비자 가격",
+      "제과",
+      "원자재 가격"
+    ],
+    "reason": "코코아 원자재 가격 하락에도 불구하고 제과업체들이 높은 최종 소비자 가격을 유지하며 마진을 방어하려는 전략을 보여, 원자재 가격 변동이 소비재 최종 가격에 즉각 반영되지 않는 경향을 시사합니다. 이는 소비재 기업의 가격 결정력과 소비자의 지불 의사를 보여주는 사례입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "Maeil_Business",
+    "title": "AI가 해킹하는 시대 … 승부 가른건 사람의 통찰력",
+    "title_ko": "AI가 해킹하는 시대 … 승부 가른건 사람의 통찰력",
+    "link": "https://www.mk.co.kr/news/it/12107681",
+    "published": "Sun, 26 Jul 2026 17:09:55 +09:00",
+    "fetched_at": "2026-07-26 17:11:02",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "IT",
+      "사이버보안",
+      "소프트웨어"
+    ],
+    "keywords": [
+      "AI",
+      "인공지능",
+      "사이버보안",
+      "해킹",
+      "인간의 통찰력"
+    ],
+    "reason": "이 기사는 AI가 고도화된 해킹 문제 해결의 동료 역할을 했으나, 최종적인 승패는 인간의 통찰력에 달려있었음을 강조합니다. 이는 AI가 만능이 아닌 인간 능력을 보완하는 도구임을 재확인하며, 장기적으로 AI 관련 기업 투자 시 인간 개입의 중요성을 시사합니다.",
+    "action_point": "이 기사는 특정 기술 경연대회 결과로, 거시경제나 포트폴리오 전반에 미칠 즉각적인 영향은 크지 않으므로 본 포트폴리오에 대한 액션은 해당 없음."
+  },
+  {
     "source": "Maeil_Business",
     "title": "“폭염에 목숨이 위태롭다”…전국 최대 39도 무더위, 곳곳 ‘폭염중대경보’",
     "title_ko": "“폭염에 목숨이 위태롭다”…전국 최대 39도 무더위, 곳곳 ‘폭염중대경보’",
@@ -2583,324 +2894,5 @@
     ],
     "reason": "우크라이나 드론의 미군 정식 도입은 드론 기술의 군사적 중요성 증대와 함께 글로벌 방산 시장의 기술 트렌드 변화를 가속화할 것입니다. 이는 관련 기술 개발 및 생산 기업들의 수혜로 이어질 가능성이 높습니다.",
     "action_point": "방산 섹터 내 드론 및 관련 첨단 기술 보유 기업들의 투자 매력도를 재평가하고 비중 확대를 검토."
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "트럼프 “홍해 막으면 어찌될지 두고봐라”…후티반군에 경고메시지",
-    "title_ko": "트럼프 “홍해 막으면 어찌될지 두고봐라”…후티반군에 경고메시지",
-    "link": "https://www.mk.co.kr/news/world/12104907",
-    "published": "Wed, 22 Jul 2026 23:48:36 +09:00",
-    "fetched_at": "2026-07-23 01:18:04",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "에너지",
-      "해운",
-      "방산",
-      "물류"
-    ],
-    "keywords": [
-      "홍해",
-      "후티 반군",
-      "트럼프",
-      "이란",
-      "지정학적 리스크",
-      "유가",
-      "해상운임",
-      "수에즈 운하"
-    ],
-    "reason": "홍해는 글로벌 핵심 교역로이므로 봉쇄 위협은 국제 유가 및 해상 운임 급등을 유발하며, 미군의 이란 공습까지 더해져 중동 지정학적 리스크가 심화되어 글로벌 경제에 불확실성을 가중시키는 악재입니다.",
-    "action_point": "국제 유가 및 해상 운임 상승에 대비하여 에너지, 방산 섹터 비중 확대 또는 관련 ETF 매수 검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "[속보] 인천 쿠팡물류센터 화재 나흘만에 완전진화 - 연합뉴스TV",
-    "title_ko": "인천 쿠팡물류센터 화재 나흘만에 완전진화",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2UnZDVTFXVUZCcDZRU1RwMjl0LVBuRTRlQ3J5TW9pM2lvWTVNcFQ2SkFsYjV3US1vUm1LY0k4aXhEbWM4WVduQ00tZFN2bXA3Rk1tWEoyaGVEdzJ5SXBRNHA4ZXoybmM?oc=5",
-    "published": "Wed, 22 Jul 2026 12:04:00 GMT",
-    "fetched_at": "2026-07-23 01:17:43",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "물류",
-      "유통"
-    ],
-    "keywords": [
-      "쿠팡",
-      "물류센터",
-      "화재",
-      "완전진화",
-      "인천"
-    ],
-    "reason": "쿠팡 물류센터 화재가 완전히 진화됨으로써 개별 기업의 운영 불확실성은 해소되었으나, 이미 발생한 물류 차질 및 재무적 영향은 쿠팡에 국한되어 국내 증시 전반에 미치는 영향은 제한적이다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Oil prices rise after Rubio says Iran is not serious about a deal",
-    "title_ko": "루비오 상원의원, 이란의 협상 진정성 부족 언급 후 유가 상승",
-    "link": "https://www.cnbc.com/2026/07/22/oil-prices-iran-war-macro-rubio-brent-wti.html",
-    "published": "Wed, 22 Jul 2026 14:01:15 GMT",
-    "fetched_at": "2026-07-22 23:57:17",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "해운",
-      "항공",
-      "화학"
-    ],
-    "keywords": [
-      "유가",
-      "이란",
-      "미국",
-      "지정학",
-      "해상운송"
-    ],
-    "reason": "미국과 이란 간의 지정학적 긴장 고조 및 지속적인 공습은 중동 지역의 원유 공급 및 해상 운송 경로를 위협하여 유가 상승 압력을 가중시킨다. 이는 전반적인 물가 상승 압력과 기업 비용 증가로 이어질 수 있다.",
-    "action_point": "에너지 섹터 비중 확대 및 유가 상승에 취약한 해운/항공 섹터 투자 축소 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Samsung ups prices as it launches new foldable smartphones ahead of expected Apple debut",
-    "title_ko": "삼성, 신형 폴더블 스마트폰 가격 인상하며 출시… 애플 데뷔 임박",
-    "link": "https://www.cnbc.com/2026/07/22/samsung-galaxy-z-fold8-ultra-z-fold8-z-flip8-launch.html",
-    "published": "Wed, 22 Jul 2026 13:00:01 GMT",
-    "fetched_at": "2026-07-22 23:57:10",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "모바일 기기",
-      "전자제품",
-      "반도체"
-    ],
-    "keywords": [
-      "삼성",
-      "폴더블폰",
-      "스마트폰",
-      "가격인상",
-      "애플",
-      "신제품"
-    ],
-    "reason": "삼성의 신형 폴더블폰 출시와 가격 인상은 해당 제품의 수익성 개선을 기대하게 하며, 프리미엄 스마트폰 시장에서 삼성의 경쟁 우위 확보 노력을 보여줍니다. 이는 관련 부품 공급망에도 긍정적 영향을 미칠 수 있습니다.",
-    "action_point": "삼성전자 및 폴더블폰 관련 부품주의 비중 확대 여부를 검토하십시오."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "[속보] 인천 쿠팡 물류센터 불 나흘 만에 완진‥109시간여만 - MBC 뉴스",
-    "title_ko": "[속보] 인천 쿠팡 물류센터 불 나흘 만에 완진‥109시간여만 - MBC 뉴스",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9BSmZNeTUwYlJXM09TdUVsOXIxTk1DeHgxVXlLVm04clFfeE9rTzIzRWNHckVTZEVkam5UMWEzMXZYQWFtRkI3UV9oYng2RW9FMjV5aHZpYWgtN1VoX2cwcV9JYnhRYU5OVXJLajJLTGY5MTlwVDF30gF3QVVfeXFMUDk1bU41WjBmT0k4V29fbHRwejdJQVZFbXpXYTNyLXJ6eWxNUHc4eG5UOWdLZmY2dUdndENQWmc0LTZBOG5MN3lJOG9hbFZVYTBaQW1rZ0NFajdDc1lweEE1akFaSTR4R3JKdURFWGcwd0F6bDF2TW8?oc=5",
-    "published": "Wed, 22 Jul 2026 11:59:55 GMT",
-    "fetched_at": "2026-07-22 23:57:27",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "전자상거래",
-      "물류",
-      "유통",
-      "보험"
-    ],
-    "keywords": [
-      "쿠팡",
-      "물류센터",
-      "화재",
-      "인천",
-      "완진",
-      "전자상거래"
-    ],
-    "reason": "쿠팡 물류센터 화재가 나흘 만에 완진되어 즉각적인 운영 리스크는 해소되었으나, 단기적인 물류 차질 및 복구 비용 발생은 불가피하여 해당 기업에 대한 미시적 영향은 존재하나 거시 경제 전반에 미칠 영향은 제한적임.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "이미 들인 돈만 55조 넘어...이란 전쟁 장기화에 미 국방, 예산 '골머리' [자막뉴스] - YTN",
-    "title_ko": "이미 들인 돈만 55조 넘어...이란 전쟁 장기화에 미 국방, 예산 '골머리' [자막뉴스]",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XZWo0YnNSTGJxN1BUYTJ4N0tqQU00MkFyb1BITUZtZEEtQS1RQndlV2N2YmhBNHJwdDlvdzBRLVU0LVc3cnBKdDltTDRVWUFkeWNleTRPMjRwVS12cGc?oc=5",
-    "published": "Wed, 22 Jul 2026 06:24:00 GMT",
-    "fetched_at": "2026-07-22 19:16:03",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "방산",
-      "에너지",
-      "항공",
-      "해운"
-    ],
-    "keywords": [
-      "이란",
-      "전쟁",
-      "미 국방",
-      "예산",
-      "지정학적 리스크",
-      "유가"
-    ],
-    "reason": "이란과의 장기화된 분쟁은 중동 지역 지정학적 불안정을 고조시키고, 미 국방 예산 압박으로 이어져 국제 유가 상승 및 전반적인 시장 불확실성을 증대시킬 수 있습니다.",
-    "action_point": "지정학적 리스크 확대에 따른 방산 및 에너지 섹터 비중 확대를 검토"
-  },
-  {
-    "source": "CNBC_Finance",
-    "title": "Kalshi launches election hub for prediction markets ahead of midterms",
-    "title_ko": "Kalshi, 중간 선거 앞두고 예측 시장 위한 선거 허브 출시",
-    "link": "https://www.cnbc.com/2026/07/22/kalshi-launches-election-hub-for-prediction-markets-ahead-of-midterms.html",
-    "published": "Wed, 22 Jul 2026 09:00:02 GMT",
-    "fetched_at": "2026-07-22 19:15:48",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "핀테크",
-      "데이터/분석"
-    ],
-    "keywords": [
-      "Kalshi",
-      "예측 시장",
-      "중간 선거",
-      "이벤트 계약",
-      "플랫폼"
-    ],
-    "reason": "이 뉴스는 특정 기업의 예측 시장 플랫폼 출시 소식으로, 직접적으로 거시경제 지표나 투자 자산 가격에 미치는 영향은 제한적입니다. 다만, 선거 결과에 대한 시장의 기대 심리를 간접적으로 반영하는 도구로 활용될 수 있습니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "“‘국평’ 전용 60㎡로 줄이면 주택공급 30% 확대 효과”",
-    "title_ko": "'국평' 전용 60㎡로 줄이면 주택공급 30% 확대 효과",
-    "link": "https://www.mk.co.kr/news/realestate/12104747",
-    "published": "Wed, 22 Jul 2026 18:21:42 +09:00",
-    "fetched_at": "2026-07-22 19:16:22",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "부동산",
-      "건설"
-    ],
-    "keywords": [
-      "주택공급",
-      "전용면적",
-      "부동산정책",
-      "국민주택"
-    ],
-    "reason": "국민주택 규모를 축소하여 주택 공급량을 늘리려는 전문가 논의로, 향후 정책화될 경우 중장기적 주택시장 안정화 및 가격 조정 압력으로 작용할 수 있습니다.",
-    "action_point": "향후 주택 공급 정책의 변화 가능성을 주시하며, 국내 부동산 및 건설 섹터 투자 비중의 재조정 여부를 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Trump's push for American-made AI chips hits TSMC's margins",
-    "title_ko": "트럼프의 미국산 AI 칩 추진, TSMC 마진에 타격",
-    "link": "https://www.cnbc.com/2026/07/22/trump-pressure-ai-chips-us-tsmc-margins.html",
-    "published": "Wed, 22 Jul 2026 05:00:01 GMT",
-    "fetched_at": "2026-07-22 16:35:46",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "반도체",
-      "IT/기술",
-      "제조업"
-    ],
-    "keywords": [
-      "트럼프",
-      "AI 칩",
-      "TSMC",
-      "미국 제조",
-      "반도체 공급망"
-    ],
-    "reason": "트럼프의 미국 내 AI 칩 생산 강화 정책은 TSMC 등 비미국계 파운드리 기업의 생산 비용을 높여 마진 압박을 가하며, 이는 글로벌 반도체 공급망의 재편과 AI 기술 전반의 비용 상승으로 이어질 수 있습니다.",
-    "action_point": "미국 내 반도체 생산 확대 정책으로 인한 글로벌 파운드리 기업의 마진 압박을 고려하여, 국내 반도체 기업의 장기적인 투자 전략 및 미국 시장 노출도를 재평가하라."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Zelenskyy ousts Ukraine’s army chief as protests expose wartime power struggle",
-    "title_ko": "젤렌스키, 전시 권력 투쟁 노출 속 우크라이나군 총사령관 해임",
-    "link": "https://www.cnbc.com/2026/07/22/ukraine-zelenskyy-protests-russia-war-putin.html",
-    "published": "Wed, 22 Jul 2026 06:41:15 GMT",
-    "fetched_at": "2026-07-22 16:35:57",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "방산",
-      "에너지",
-      "원자재"
-    ],
-    "keywords": [
-      "젤렌스키",
-      "우크라이나",
-      "군 총사령관",
-      "해임",
-      "전시",
-      "권력 투쟁",
-      "지정학적 위험"
-    ],
-    "reason": "우크라이나 최고 사령관 해임과 전시 중 노출된 내부 권력 투쟁은 전쟁의 불확실성을 가중시키고 지정학적 위험 프리미엄을 높일 수 있습니다. 이는 서방의 지원 피로감과 맞물려 글로벌 안보 환경에 부정적 영향을 미칩니다.",
-    "action_point": "글로벌 지정학적 리스크 심화에 대비하여 안전자산 비중 확대를 검토하고, 방산 섹터의 중장기 투자 매력을 재평가하라."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "India steps up energy shift as costs and tariff pressures mount — oil blending push sparks backlash",
-    "title_ko": "인도, 비용 및 관세 압력 증가에 따라 에너지 전환 가속화 — 석유 혼합 추진에 반발 직면",
-    "link": "https://www.cnbc.com/2026/07/22/india-oil-prices-tariff-ethanol-backlash-iran-war-russia-.html",
-    "published": "Wed, 22 Jul 2026 04:56:39 GMT",
-    "fetched_at": "2026-07-22 16:36:22",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "석유 및 가스",
-      "재생에너지",
-      "바이오 연료"
-    ],
-    "keywords": [
-      "인도",
-      "에너지 전환",
-      "원유 가격",
-      "대체 연료",
-      "에너지 안보"
-    ],
-    "reason": "인도의 에너지 전환 가속화는 장기적으로 세계 원유 수요에 하방 압력을 가하고, 에너지 안보 강화를 위한 구조적 변화로 재생에너지 및 바이오 연료 산업의 성장을 촉진할 것이다.",
-    "action_point": "원유 관련 익스포저 비중을 점진적으로 조정하고, 재생에너지 및 바이오 연료 관련 섹터의 투자 기회를 모색하라."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Wall Street can wait: Why one U.S. biotech firm is listing in Hong Kong first",
-    "title_ko": "월스트리트는 기다려라: 왜 한 미국 생명공학 기업이 홍콩에 먼저 상장하는가",
-    "link": "https://www.cnbc.com/2026/07/22/axiom-aiosciences-ipo-listing-hong-kong.html",
-    "published": "Wed, 22 Jul 2026 05:58:51 GMT",
-    "fetched_at": "2026-07-22 16:36:07",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "생명공학",
-      "제약",
-      "홍콩 자본시장"
-    ],
-    "keywords": [
-      "홍콩 상장",
-      "생명공학",
-      "중국 제약",
-      "아시아 투자"
-    ],
-    "reason": "홍콩이 아시아 투자자 기반과 중국 제약 파트너십 접근성을 바탕으로 생명공학 기업들에게 매력적인 상장지로 부상하고 있으며, 이는 글로벌 자본시장의 흐름 변화를 시사한다.",
-    "action_point": "홍콩에 상장되었거나 상장을 추진 중인 아시아 및 미국 생명공학 기업에 대한 투자 기회를 면밀히 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "The world's top fintech companies: 2026",
-    "title_ko": "세계 최고 핀테크 기업: 2026년",
-    "link": "https://www.cnbc.com/worlds-top-fintech-companies-2026/",
-    "published": "Tue, 21 Jul 2026 23:01:45 GMT",
-    "fetched_at": "2026-07-22 16:36:12",
-    "sentiment": "호재",
-    "importance": 2,
-    "sectors": [
-      "핀테크",
-      "IT/기술",
-      "금융"
-    ],
-    "keywords": [
-      "핀테크",
-      "인공지능 (AI)",
-      "디지털 금융",
-      "혁신",
-      "성장"
-    ],
-    "reason": "핀테크 산업이 AI 기술 도입으로 성숙기에 접어들며 규모의 경제를 이루고 있어, 관련 기업들의 성장 잠재력을 시사한다.",
-    "action_point": "글로벌 선도 핀테크 및 AI 기술 접목 금융 솔루션 기업 비중 확대 검토"
   }
 ]
