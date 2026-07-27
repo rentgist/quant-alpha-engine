@@ -1,5 +1,28 @@
 [
   {
+    "source": "CNBC_World",
+    "title": "Netanyahu, Zelenskyy come to DC for Graham's funeral, meetings with Trump amid wars",
+    "title_ko": "네타냐후와 젤렌스키, 그레이엄 장례식 참석 및 전쟁 중 트럼프와 회담 위해 워싱턴 DC 방문",
+    "link": "https://www.cnbc.com/2026/07/27/trump-netanyahu-zelenskyy-iran-war-lindsey-graham-funeral.html",
+    "published": "Mon, 27 Jul 2026 19:08:10 GMT",
+    "fetched_at": "2026-07-28 04:14:08",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "방위산업",
+      "에너지",
+      "원자재"
+    ],
+    "keywords": [
+      "트럼프",
+      "지정학",
+      "우크라이나",
+      "중동"
+    ],
+    "reason": "네타냐후와 젤렌스키가 트럼프와 회동하는 것은 우크라이나 및 중동 전쟁 관련 지정학적 변화 가능성을 시사한다. 이는 미국 외교 정책 및 원조에 영향을 미쳐 글로벌 안보와 에너지 시장에 불확실성을 가중할 수 있다.",
+    "action_point": "지정학적 리스크 확대 가능성에 대비하여 방산 및 에너지 관련 자산 비중 재검토."
+  },
+  {
     "source": "GoogleNews_Korea",
     "title": "獨 1위 기업 시총이 삼성전자 4분의 1... 세계 3위 경제대국의 추락 - 조선일보",
     "title_ko": "獨 1위 기업 시총이 삼성전자 4분의 1... 세계 3위 경제대국의 추락 - 조선일보",
@@ -2856,28 +2879,5 @@
     ],
     "reason": "최태원 회장의 막대한 재산분할 금액은 SK그룹 지배구조 및 지주사(SK㈜) 주식에 대한 잠재적 매각 압력으로 작용하여 관련 주가 변동성을 확대시킬 수 있다.",
     "action_point": "SK그룹 지주사 및 주요 계열사 주식의 잠재적 매도 압력에 대비하여 관련 포트폴리오 비중 재검토."
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "'차세대 교통' 규제 확 풀어준 UAE … 美에어택시, 두바이서 가장 먼저 뜬다",
-    "title_ko": "'차세대 교통' 규제 확 풀어준 UAE … 美에어택시, 두바이서 가장 먼저 뜬다",
-    "link": "https://www.mk.co.kr/news/world/12106807",
-    "published": "Fri, 24 Jul 2026 17:02:16 +09:00",
-    "fetched_at": "2026-07-24 17:09:45",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "미래 모빌리티",
-      "항공우주",
-      "인프라"
-    ],
-    "keywords": [
-      "UAM",
-      "에어택시",
-      "규제 완화",
-      "두바이"
-    ],
-    "reason": "UAE의 에어택시 규제 완화는 도심항공교통(UAM) 상용화의 중요한 진전이며, 관련 기술 및 인프라 투자 확대를 가속화할 전망이다. 이는 미래 모빌리티 시장 성장에 대한 긍정적 신호로 작용한다.",
-    "action_point": "미래 모빌리티 및 UAM 관련 기술 선도 기업 포트폴리오 편입을 검토하라."
   }
 ]
