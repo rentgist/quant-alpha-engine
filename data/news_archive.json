@@ -1,5 +1,101 @@
 [
   {
+    "source": "CNBC_Finance",
+    "title": "Steve Eisman is starting to have doubts about AI. The 'Big Short' investor just sold a key tech stock",
+    "title_ko": "스티브 아이스먼, AI에 대한 의구심을 갖기 시작하다. '빅쇼트' 투자자, 주요 기술주 매각",
+    "link": "https://www.cnbc.com/2026/07/27/eisman-has-doubts-about-ai-big-short-investor-just-sold-key-tech-stock.html",
+    "published": "Mon, 27 Jul 2026 12:35:08 GMT",
+    "fetched_at": "2026-07-27 21:51:29",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "기술",
+      "반도체",
+      "성장주"
+    ],
+    "keywords": [
+      "AI",
+      "기술주",
+      "스티브 아이스먼",
+      "매도",
+      "성장주"
+    ],
+    "reason": "유명 투자자의 AI 관련 핵심 기술주 매각은 AI 테마의 과열과 기대치에 대한 신중론을 부각하며, 기술주 전반의 투자심리에 부정적인 영향을 미 미칠 수 있습니다.",
+    "action_point": "AI 관련 기술주 비중 및 밸류에이션 재검토"
+  },
+  {
+    "source": "CNBC_World",
+    "title": "Nvidia, SpaceX, Microsoft launch AI safety initiative as OpenAI cyberattack fallout continues",
+    "title_ko": "Nvidia, SpaceX, Microsoft, 오픈AI 사이버 공격 여파 속 AI 안전 이니셔티브 출범",
+    "link": "https://www.cnbc.com/2026/07/27/nvidia-ai-initiative-openai-cyber-attack.html",
+    "published": "Mon, 27 Jul 2026 11:32:45 GMT",
+    "fetched_at": "2026-07-27 21:51:41",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "인공지능",
+      "반도체",
+      "클라우드 컴퓨팅",
+      "사이버 보안"
+    ],
+    "keywords": [
+      "AI 안전",
+      "사이버 보안",
+      "기술 협력",
+      "AI 얼라이언스"
+    ],
+    "reason": "주요 기술 기업들이 AI 안전 연합을 결성하여 AI 개발의 장기적인 신뢰성과 안정성을 강화하려는 움직임입니다. 이는 AI 기술의 지속 가능한 성장을 위한 리스크 관리 노력으로 해석됩니다.",
+    "action_point": "AI 관련 기업 투자 시 보안 및 윤리적 리스크 관리 역량을 핵심 평가 지표로 활용하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "\"비아파트 공급자 금융지원·세부담 완화해야…계약해지 리스크도\" - 연합인포맥스",
+    "title_ko": "비아파트 공급자 금융지원·세부담 완화해야…계약해지 리스크도",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5qeW1aUGJaUEJvcWN3dkhiTWs1c2xYOGxNcU9nVE9qd0ladDJEZXNpV2JWZUh2MUUtc1c2SW5kZUNhUUhIZzN6THRFYnYwMmxtRzluU1k3cUMwTUY5QmdIT2t3Q2p5amFjbjREeF9JQk8?oc=5",
+    "published": "Mon, 27 Jul 2026 10:12:16 GMT",
+    "fetched_at": "2026-07-27 21:51:51",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "부동산",
+      "건설",
+      "금융"
+    ],
+    "keywords": [
+      "비아파트",
+      "부동산 시장",
+      "금융지원",
+      "세부담",
+      "계약해지",
+      "건설업"
+    ],
+    "reason": "비아파트 부문의 계약 해지 리스크가 부각되며 건설 및 금융 시장의 잠재적 불안정성이 드러났다. 정부의 금융지원 및 세부담 완화 정책 논의가 확산될 경우 관련 섹터의 불확실성이 일부 해소될 수 있다.",
+    "action_point": "비아파트 관련 부동산 PF 부실 우려 기업 및 금융 익스포저 점검."
+  },
+  {
+    "source": "Maeil_Business",
+    "title": "1주택은 유지·초고가만 제한?…토론회서 ‘종부세·장특공제 손질안’ 제언",
+    "title_ko": "1주택은 유지·초고가만 제한?…토론회서 ‘종부세·장특공제 손질안’ 제언",
+    "link": "https://www.mk.co.kr/news/realestate/12108789",
+    "published": "Mon, 27 Jul 2026 20:36:21 +09:00",
+    "fetched_at": "2026-07-27 21:52:02",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "부동산",
+      "건설"
+    ],
+    "keywords": [
+      "종합부동산세",
+      "장기보유특별공제",
+      "1주택",
+      "초고가 주택",
+      "부동산 정책"
+    ],
+    "reason": "이번 제안은 거주 목적의 1주택자에 대한 세금 부담은 현행 수준을 유지하여 부동산 시장의 불확실성을 줄이는 한편, 초고가 주택에는 공제 한도를 두어 과세 형평성 제고 및 투기 억제를 시도하려는 정책 방향을 시사합니다.",
+    "action_point": "초고가 주택 보유 비중이 높은 투자자는 향후 세금 부담 변화에 대비하여 포트폴리오를 재점검하라."
+  },
+  {
     "source": "CNBC_World",
     "title": "Why Trump's new tariff blitz is very different this time round",
     "title_ko": "트럼프의 새로운 관세 공세가 이번에는 매우 다른 이유",
@@ -2784,101 +2880,5 @@
     ],
     "reason": "소수 대형 기술주 중심의 시장 초과 수익이 어려워지는 환경에서, 보다 광범위한 종목으로의 분산 투자를 통해 장기적 관점에서 안정적 수익을 추구해야 함을 시사한다.",
     "action_point": "과도하게 대형 기술주에 편중된 포트폴리오를 점검하고, 중소형주 및 다양한 섹터로의 분산 투자 기회 모색을 권고한다."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "U.S. to see higher generic drug prices thanks to tariffs, CEO of leading India pharma firm warns",
-    "title_ko": "인도 제약사 CEO 경고: 트럼프 관세로 미국 내 제네릭 의약품 가격 상승 전망",
-    "link": "https://www.cnbc.com/2026/07/24/us-to-see-higher-generic-drug-prices-on-tariffs-indian-pharma-ceo.html",
-    "published": "Fri, 24 Jul 2026 02:24:40 GMT",
-    "fetched_at": "2026-07-24 14:12:51",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "제약/바이오",
-      "헬스케어",
-      "소비재"
-    ],
-    "keywords": [
-      "트럼프",
-      "관세",
-      "제네릭 의약품",
-      "미국 물가",
-      "인플레이션"
-    ],
-    "reason": "미국 제네릭 의약품에 대한 관세 부과 시 미국 내 약가 상승을 유발하여 소비자 물가 압력을 가중시키고 인플레이션 우려를 높일 수 있습니다. 이는 제약 및 헬스케어 관련 기업의 공급망과 수익성에 영향을 미칠 것입니다.",
-    "action_point": "미국 제약/헬스케어 섹터 내 제네릭 의약품 관련 기업 투자 전략을 재검토하고, 관세발 인플레이션 압력에 대비하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "'영원한 전쟁' 빠지나…\"미, 공습으로 이란 못바꾼다고 판단\" - v.daum.net",
-    "title_ko": "'영원한 전쟁' 빠지나…\"미, 공습으로 이란 못바꾼다고 판단\"",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5oOVc3MjFSUnJOQ3ZVLTg2aXZzUWtSc1ZBdXlIcHRWTVJ5dEo4SGk0Mk1pLWZiaEI3aktYalJEN19VZG9MOWNrazdGTk9McTQ?oc=5",
-    "published": "Fri, 24 Jul 2026 00:02:50 GMT",
-    "fetched_at": "2026-07-24 14:13:04",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "원자재",
-      "항공",
-      "해운",
-      "글로벌증시"
-    ],
-    "keywords": [
-      "미국",
-      "이란",
-      "중동",
-      "지정학",
-      "원유"
-    ],
-    "reason": "미국이 이란에 대한 공습의 한계를 인정하며 군사적 개입 전략에서 벗어나려는 움직임은 중동 지역의 즉각적인 군사적 긴장 완화 가능성을 높여 지정학적 리스크 프리미엄 하락에 기여할 것이다.",
-    "action_point": "중동 발(發) 지정학적 리스크 완화에 따른 유가 하방 압력을 고려하여 원유 관련 자산 비중 축소 검토."
-  },
-  {
-    "source": "CNBC_Finance",
-    "title": "U.S., other nations back open-source AI with 'strong security' at China summit",
-    "title_ko": "미국 등 주요국, 중국 정상회담서 '강력한 보안'을 갖춘 오픈소스 AI 지지",
-    "link": "https://www.cnbc.com/2026/07/24/china-ai-open-source-apec.html",
-    "published": "Fri, 24 Jul 2026 02:42:21 GMT",
-    "fetched_at": "2026-07-24 14:12:31",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "인공지능",
-      "클라우드 컴퓨팅",
-      "소프트웨어",
-      "반도체"
-    ],
-    "keywords": [
-      "오픈소스 AI",
-      "AI 보안",
-      "국제 협력",
-      "기술 표준"
-    ],
-    "reason": "이 뉴스는 주요국들이 보안을 강화한 오픈소스 AI 개발에 대한 국제적 공감대를 형성하여 AI 기술 확산과 관련 산업 성장을 가속화할 수 있음을 시사합니다. 이는 장기적으로 AI 인프라 수요 증가로 이어질 수 있습니다.",
-    "action_point": "AI 인프라 및 보안 솔루션 관련 기술주 포트폴리오 비중 확대 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "S&P 500 futures are little changed as traders look to recover from oil-driven sell-off: Live updates",
-    "title_ko": "S&P 500 선물, 유가發 매도세에서 회복 모색하며 소폭 변동: 실시간 업데이트",
-    "link": "https://www.cnbc.com/2026/07/23/stock-market-today-live-updates.html",
-    "published": "Fri, 24 Jul 2026 05:12:04 GMT",
-    "fetched_at": "2026-07-24 14:12:40",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "기술 섹터",
-      "증시 전반"
-    ],
-    "keywords": [
-      "S&P 500",
-      "나스닥",
-      "유가",
-      "매도세",
-      "기술주"
-    ],
-    "reason": "유가 상승으로 촉발된 매도세 이후 주요 지수들의 하락세가 지속되며, 특히 기술주 중심의 나스닥이 주간 손실을 이끌고 있어 시장 전반의 투자 심리가 위축되고 있음을 시사합니다.",
-    "action_point": "기술주 비중 조절 및 방어주 관심 고려."
   }
 ]
