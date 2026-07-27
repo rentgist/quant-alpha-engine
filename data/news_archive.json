@@ -1,5 +1,53 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "title": "[스타트 경제] 한 총리 \"가계 순자산 중 부동산 비중 71.9%...해결책 마련에 큰 책임감\" - YTN",
+    "title_ko": "한 총리 \"가계 순자산 중 부동산 비중 71.9%...해결책 마련에 큰 책임감\"",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBiRjEwTmFKaHBKXy1Vd2ZRVHNydnFELVdTeERyMFFvYTR5TFg3b3ltNFNwdHpsLWtUSjJSak1LaUVaR2U5elJvMlNmai1nOS1jNDZCZ3QtN3MyeTdmSkE?oc=5",
+    "published": "Mon, 27 Jul 2026 22:37:00 GMT",
+    "fetched_at": "2026-07-28 08:56:15",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "부동산",
+      "금융",
+      "건설"
+    ],
+    "keywords": [
+      "가계부채",
+      "부동산",
+      "자산불균형",
+      "한덕수 총리"
+    ],
+    "reason": "한국 가계 순자산 중 부동산 비중이 매우 높다는 것은 가계 자산의 포트폴리오 불균형과 부동산 시장 변동성에 대한 높은 취약성을 의미하며, 이는 장기적인 경제 성장과 소비에 부담으로 작용할 수 있습니다.",
+    "action_point": "국내 부동산 자산에 대한 익스포저를 점검하고, 해외 자산 및 주식, 채권 등 비부동산 자산으로의 포트폴리오 다각화를 고려하라."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "Microsoft touts cost-saving AI model for cybersecurity",
+    "title_ko": "마이크로소프트, 비용 절감형 AI 사이버 보안 모델 발표",
+    "link": "https://www.cnbc.com/2026/07/27/microsoft-touts-cost-saving-ai-model-for-cybersecurity.html",
+    "published": "Mon, 27 Jul 2026 23:46:25 GMT",
+    "fetched_at": "2026-07-28 08:56:09",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "기술 (IT)",
+      "사이버 보안",
+      "소프트웨어",
+      "인공지능"
+    ],
+    "keywords": [
+      "마이크로소프트",
+      "AI",
+      "사이버 보안",
+      "OpenAI",
+      "GPT-5.4"
+    ],
+    "reason": "마이크로소프트의 AI 기반 사이버 보안 모델 출시는 기업의 보안 비용 절감 및 효율성 증대에 기여하며, AI 기술 경쟁을 심화시키고 관련 산업의 성장을 가속화할 것입니다.",
+    "action_point": "글로벌 AI 및 사이버 보안 관련 기술주, 특히 마이크로소프트와 같은 선도 기업 비중 확대를 검토."
+  },
+  {
     "source": "CNBC_World",
     "title": "Stock futures are little changed after Dow posts back-to-back winning days: Live updates",
     "title_ko": "다우 지수 이틀 연속 상승 후 주식 선물은 거의 변동 없음: 실시간 업데이트",
@@ -2836,54 +2884,5 @@
     ],
     "reason": "트럼프의 강경한 대이란 발언은 향후 중동 지정학적 리스크를 고조시키고 글로벌 유가에 상승 압력을 가할 수 있습니다. 이는 국제 금융 시장의 불확실성을 키울 가능성이 있습니다.",
     "action_point": "중동 지정학적 리스크 증가에 대비하여 에너지 및 방산 섹터 비중 확대 검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "홍해까지 확대 우려…국제유가 150달러 관측도 - v.daum.net",
-    "title_ko": "홍해까지 확대 우려…국제유가 150달러 관측도",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE14QnVDX3BuVHlVWEtIbkdmVjhRSTJJcmxkM2QyNDhqMjZZNTR2VnJic2I1ek9jQm5Obk4waU1kY1Z4NHE3bC1YZENXSHU0VTg?oc=5",
-    "published": "Fri, 24 Jul 2026 09:22:16 GMT",
-    "fetched_at": "2026-07-24 19:55:25",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "정유/화학",
-      "해운",
-      "항공",
-      "운송",
-      "방위산업"
-    ],
-    "keywords": [
-      "홍해",
-      "국제유가",
-      "지정학적 리스크",
-      "인플레이션",
-      "에너지 안보"
-    ],
-    "reason": "홍해 지정학적 리스크 심화 우려로 국제유가 상승 압력이 커지며 글로벌 인플레이션 재점화 및 경제 성장 둔화 우려를 심화시킨다. 특히 해운 운송 비용 증가와 에너지 관련 기업들의 실적에 직접적인 영향을 미칠 수 있다.",
-    "action_point": "고유가 수혜가 예상되는 정유/방산 섹터 비중 확대를 검토하고, 항공/해운 등 운송 섹터 비중을 축소하라."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "TikTok charged with breaching EU tech rules on online safety for kids, EU says",
-    "title_ko": "틱톡, 아동 온라인 안전 관련 EU 기술 규정 위반 혐의로 기소",
-    "link": "https://www.cnbc.com/2026/07/24/tiktok-charged-with-breaching-eu-tech-rules-on-online-safety-for-kids-eu-says.html",
-    "published": "Fri, 24 Jul 2026 10:52:26 GMT",
-    "fetched_at": "2026-07-24 19:55:07",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "기술",
-      "미디어/엔터테인먼트"
-    ],
-    "keywords": [
-      "틱톡",
-      "EU 규제",
-      "온라인 안전",
-      "빅테크",
-      "아동 보호"
-    ],
-    "reason": "이 뉴스는 주요 기술 플랫폼에 대한 규제 당국의 감시 강화 추세를 보여주며, 향후 틱톡 및 유사 소셜 미디어 기업들의 준수 비용 증가와 사업 모델 조정으로 수익성에 부정적인 영향을 미칠 수 있습니다.",
-    "action_point": "EU 규제 위험에 노출된 글로벌 소셜 미디어 및 빅테크 기업 투자 비중을 재검토."
   }
 ]
