@@ -1,6 +1,79 @@
 [
   {
     "source": "CNBC_World",
+    "title": "Oil slides 5% as Iran reportedly signals halt to attacks if U.S. pause holds",
+    "title_ko": "이란, 미국 휴전 유지 시 공격 중단 시사 소식에 유가 5% 하락",
+    "link": "https://www.cnbc.com/2026/07/27/oil-price-wti-brent-slide-as-iran-reportedly-may-halt-attacks.html",
+    "published": "Mon, 27 Jul 2026 04:51:30 GMT",
+    "fetched_at": "2026-07-27 14:54:54",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "석유/에너지",
+      "항공",
+      "해운",
+      "화학",
+      "운송"
+    ],
+    "keywords": [
+      "유가",
+      "이란",
+      "지정학",
+      "중동",
+      "원자재"
+    ],
+    "reason": "이란의 공격 중단 시사로 중동 지정학적 리스크 완화 기대감이 커지며 국제 유가가 하락했습니다. 이는 에너지 수입국에 긍정적이며 글로벌 인플레이션 압력 완화에 기여할 수 있습니다.",
+    "action_point": "유가 하락에 따른 비용 절감 효과가 큰 항공, 해운, 운송 섹터에 대한 관심 유지"
+  },
+  {
+    "source": "CNBC_World",
+    "title": "China industrial profit growth slows again in June as retreating oil prices sap earnings lift",
+    "title_ko": "중국 6월 산업 이익 증가율 둔화, 유가 하락이 수익 증대 효과 상쇄",
+    "link": "https://www.cnbc.com/2026/07/27/china-industrial-profit-growth-exports-oil-drops.html",
+    "published": "Mon, 27 Jul 2026 02:02:04 GMT",
+    "fetched_at": "2026-07-27 14:55:02",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "산업재",
+      "에너지",
+      "원자재"
+    ],
+    "keywords": [
+      "중국",
+      "산업 이익",
+      "유가",
+      "경기 둔화"
+    ],
+    "reason": "중국의 산업 이익 증가율 둔화는 전반적인 경기 회복세 약화 및 수요 부진 가능성을 시사하며, 유가 하락은 에너지 기업 수익에 부정적 영향을 미치고 글로벌 원자재 가격에 하방 압력을 가할 수 있습니다.",
+    "action_point": "중국 경제 둔화 우려에 따라 산업재 및 원자재 관련 섹터에 대한 투자 비중 조정을 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "Goldman Sachs lists Asian currencies riding the AI boom",
+    "title_ko": "골드만삭스, AI 붐에 편승할 아시아 통화 목록 공개",
+    "link": "https://www.cnbc.com/2026/07/27/goldman-sachs-asian-currencies-ai-boom-.html",
+    "published": "Mon, 27 Jul 2026 04:18:35 GMT",
+    "fetched_at": "2026-07-27 14:55:11",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "반도체",
+      "IT/기술",
+      "외환시장",
+      "수출주"
+    ],
+    "keywords": [
+      "AI 붐",
+      "아시아 통화",
+      "골드만삭스",
+      "기술 노출"
+    ],
+    "reason": "AI 붐이 아시아 외환 시장의 역학을 변화시키며, 기술 노출이 높은 국가의 통화 가치 상승 및 관련 자산 유입을 예상하게 한다.",
+    "action_point": "AI 관련 기술 노출도가 높은 아시아 국가의 통화 및 주식 시장에 대한 투자 기회를 적극적으로 모색하라."
+  },
+  {
+    "source": "CNBC_World",
     "title": "CNBC Daily Open: Markets finally get a calm weekend; Nvidia and SK Hynix announce massive memory deal",
     "title_ko": "CNBC 데일리 오픈: 마침내 시장이 평온한 주말을 맞이하다; 엔비디아와 SK하이닉스, 대규모 메모리 계약 발표",
     "link": "https://www.cnbc.com/2026/07/27/cnbc-daily-open-markets-calm-weekend-nvidia-sk-hynix-deal.html",
@@ -2823,80 +2896,5 @@
     ],
     "reason": "이 기사는 프리마켓에서 변동성이 큰 특정 개별 종목들을 나열하며, 이는 주로 개별 기업 이슈나 단기적 수급에 따른 것으로 광범위한 시장 추세나 매크로 변화를 의미하지 않습니다.",
     "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "title": "U.S. oil tops $90, Brent above $98 after tankers struck off Saudi Arabia",
-    "title_ko": "사우디 해상 유조선 피격 후 美유가 90달러, 브렌트유 98달러 돌파",
-    "link": "https://www.cnbc.com/2026/07/23/oil-prices-today-wti-brent-trump-iran-hormuz.html",
-    "published": "Thu, 23 Jul 2026 09:36:14 GMT",
-    "fetched_at": "2026-07-23 21:19:54",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "에너지",
-      "해운",
-      "항공",
-      "화학",
-      "방산"
-    ],
-    "keywords": [
-      "유가",
-      "지정학적 리스크",
-      "홍해",
-      "이란",
-      "중동"
-    ],
-    "reason": "홍해 선박 공격 및 미국 전 대통령의 이란 위협으로 유가가 급등하며 글로벌 인플레이션 압력이 심화되고 경기 둔화 우려를 가중시킵니다. 이는 전반적인 기업 실적 및 소비 심리에 부정적 영향을 미칠 수 있습니다.",
-    "action_point": "에너지 관련주 비중 확대 및 달러 자산 보유를 통한 원화 약세 대비를 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Defense boom lifts European stocks amid strong earnings; Dassault pops 8%",
-    "title_ko": "방위산업 붐, 강력한 실적에 유럽 증시 상승 견인; 다쏘 주가 8% 급등",
-    "link": "https://www.cnbc.com/2026/07/23/dassault-thales-indra-stock-earnings-defense-boom.html",
-    "published": "Thu, 23 Jul 2026 09:21:20 GMT",
-    "fetched_at": "2026-07-23 19:12:46",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "방위산업",
-      "항공우주",
-      "유럽 증시"
-    ],
-    "keywords": [
-      "방위산업",
-      "유럽 증시",
-      "실적 호조",
-      "지정학적 리스크"
-    ],
-    "reason": "유럽 방위산업은 지정학적 긴장 고조로 인한 국방비 증액 추세에 힘입어 실적 호조와 수주 잔고 확대를 보이고 있다. 이는 유럽 방위산업 섹터에 대한 장기적 투자 매력을 높이는 요인이다.",
-    "action_point": "유럽 및 국내 방위산업 섹터의 투자 비중 확대 또는 관련 기업 주시를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Treasury yields follow oil prices higher as traders await latest jobs data",
-    "title_ko": "트레이더들이 최신 고용 데이터를 기다리는 가운데 국채 수익률이 유가 상승세에 동조하며 상승",
-    "link": "https://www.cnbc.com/2026/07/23/treasury-yields-oil-prices-jobless-claims.html",
-    "published": "Thu, 23 Jul 2026 08:27:16 GMT",
-    "fetched_at": "2026-07-23 19:12:57",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "기술주",
-      "부동산",
-      "채권",
-      "금융",
-      "에너지"
-    ],
-    "keywords": [
-      "미국 국채 수익률",
-      "유가",
-      "금리 상승",
-      "인플레이션 우려",
-      "고용 지표"
-    ],
-    "reason": "미국 10년물 국채 수익률 상승은 투자 자산의 할인율을 높여 주식 시장 전반에 하방 압력을 가하며, 유가 상승은 인플레이션 우려를 키워 중앙은행의 긴축 기조를 지지할 수 있습니다. 이는 특히 성장주와 부동산 시장에 부정적입니다.",
-    "action_point": "금리 상승에 취약한 성장주 및 장기 채권 비중 축소 검토"
   }
 ]
