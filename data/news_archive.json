@@ -1,6 +1,79 @@
 [
   {
     "source": "CNBC_World",
+    "title": "Stock futures are little changed after Dow posts back-to-back winning days: Live updates",
+    "title_ko": "다우 지수 이틀 연속 상승 후 주식 선물은 거의 변동 없음: 실시간 업데이트",
+    "link": "https://www.cnbc.com/2026/07/27/stock-market-today-live-updates.html",
+    "published": "Mon, 27 Jul 2026 22:16:08 GMT",
+    "fetched_at": "2026-07-28 07:53:42",
+    "sentiment": "중립",
+    "importance": 5,
+    "sectors": [
+      "주식시장",
+      "기술주",
+      "금융주"
+    ],
+    "keywords": [
+      "주식 선물",
+      "다우 지수",
+      "메가캡 실적",
+      "연방준비제도(Fed) 회의",
+      "금리 정책"
+    ],
+    "reason": "시장은 주요 이벤트를 앞두고 관망세를 보이고 있으며, 연준 회의는 단기 금리 방향을 결정하고 메가캡 실적은 기업 수익성과 시장 심리를 좌우할 것입니다.",
+    "action_point": "연준의 금리 결정 및 주요 기업 실적 발표를 앞두고 시장 변동성에 대비하여 방어적인 포트폴리오 구성을 유지하라."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "Amazon seeks federal approval to launch 5,105 satellites for direct-to-device network",
+    "title_ko": "아마존, 기기 직접 연결 네트워크 구축 위해 5,105개 위성 발사 연방 승인 추진",
+    "link": "https://www.cnbc.com/2026/07/27/amazon-satellite-internet-network.html",
+    "published": "Mon, 27 Jul 2026 17:42:47 GMT",
+    "fetched_at": "2026-07-28 07:53:50",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "우주항공",
+      "통신",
+      "기술",
+      "인공위성 통신"
+    ],
+    "keywords": [
+      "아마존",
+      "위성",
+      "네트워크",
+      "Globalstar",
+      "우주 통신"
+    ],
+    "reason": "아마존의 대규모 위성 통신 사업 확장은 해당 산업의 경쟁을 심화하고, 위성 및 통신 인프라 관련 기술 기업들에 장기적인 성장 기회를 제공할 수 있습니다.",
+    "action_point": "위성 통신 및 우주항공 관련 기술주에 대한 투자 기회 모색."
+  },
+  {
+    "source": "CNBC_Finance",
+    "title": "Stocks making the biggest moves premarket: Micron Technology, Forte Biosciences, ExxonMobil, Baker Hughes & more",
+    "title_ko": "개장 전 가장 큰 움직임을 보이는 주식: 마이크론 테크놀로지, 포르테 바이오사이언스, 엑손모빌, 베이커 휴즈 등",
+    "link": "https://www.cnbc.com/2026/07/27/stocks-making-the-biggest-moves-premarket-mu-fbrx-xom-bkr.html",
+    "published": "Mon, 27 Jul 2026 11:58:59 GMT",
+    "fetched_at": "2026-07-28 07:53:33",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "반도체",
+      "제약/바이오",
+      "에너지"
+    ],
+    "keywords": [
+      "개장 전 거래",
+      "개별 주식",
+      "마이크론",
+      "엑손모빌",
+      "바이오"
+    ],
+    "reason": "이 뉴스는 특정 기업들의 개장 전 주가 움직임을 단순 나열하며, 해당 움직임의 원인이나 시장 전체에 미칠 거시적인 영향을 파악하기 어렵습니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
     "title": "Nvidia and OpenAI in talks for up to $250 billion dollar backstop to fund AI infrastructure plans",
     "title_ko": "엔비디아와 오픈AI, AI 인프라 계획 자금 조달 위해 최대 2,500억 달러 규모 후원 논의 중",
     "link": "https://www.cnbc.com/2026/07/27/nvidia-and-openai-in-talks-for-up-to-250-billion-dollar-ai-backstop.html",
@@ -2812,78 +2885,5 @@
     ],
     "reason": "이 뉴스는 주요 기술 플랫폼에 대한 규제 당국의 감시 강화 추세를 보여주며, 향후 틱톡 및 유사 소셜 미디어 기업들의 준수 비용 증가와 사업 모델 조정으로 수익성에 부정적인 영향을 미칠 수 있습니다.",
     "action_point": "EU 규제 위험에 노출된 글로벌 소셜 미디어 및 빅테크 기업 투자 비중을 재검토."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Trump's new global tariff draws rebukes from trade partners over forced-labor justification",
-    "title_ko": "트럼프의 새로운 글로벌 관세, 강제 노동 정당화에 대해 무역 파트너들의 비난 직면",
-    "link": "https://www.cnbc.com/2026/07/24/trump-global-tariffs-trade-imbalance-forced-labor.html",
-    "published": "Fri, 24 Jul 2026 05:47:21 GMT",
-    "fetched_at": "2026-07-24 17:08:40",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "수출주 전반",
-      "제조업",
-      "운송"
-    ],
-    "keywords": [
-      "관세",
-      "미국 대선",
-      "글로벌 무역",
-      "공급망"
-    ],
-    "reason": "트럼프의 글로벌 관세 부과 공약은 세계 무역 분쟁 재점화 우려를 키우며, 글로벌 공급망에 혼란을 초래하고 기업들의 생산 비용 상승 압박을 가중시킬 수 있다. 이는 전반적인 경제 불확실성을 높일 것이다.",
-    "action_point": "글로벌 공급망 의존도가 높은 수출 기업 비중 축소를 검토하고, 무역 분쟁 리스크에 대비하라."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "South Korea's president invokes dramatic Japan realty crash to push domestic property agenda",
-    "title_ko": "한국 대통령, 일본 부동산 폭락 사례 언급하며 국내 부동산 정책 추진 의지 밝혀",
-    "link": "https://www.cnbc.com/2026/07/24/south-korea-property-bubble-japan-lost-decades.html",
-    "published": "Fri, 24 Jul 2026 07:07:07 GMT",
-    "fetched_at": "2026-07-24 17:09:06",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "부동산",
-      "건설",
-      "금융"
-    ],
-    "keywords": [
-      "부동산",
-      "정책",
-      "주택시장",
-      "부채",
-      "시장과열"
-    ],
-    "reason": "대통령의 발언은 국내 부동산 시장의 과열과 가계 부채 문제에 대한 정부의 강력한 인식을 보여주며, 향후 시장 안정화를 위한 규제 강화 또는 정책 변화 가능성을 시사한다. 이는 단기적으로 부동산 투자 심리를 위축시키고 관련 섹터에 부담을 줄 수 있다.",
-    "action_point": "국내 부동산 관련 투자 자산의 비중을 점검하고, 잠재적 정책 변화에 따른 시장 조정 가능성에 대비하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "[속보] 법원 \"최태원, 노소영에 재산분할금 9천440억 원 지급\" - MBC 뉴스",
-    "title_ko": "[속보] 법원 \"최태원, 노소영에 재산분할금 9천440억 원 지급\" - MBC 뉴스",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1XNkVhTDlUYkptNWJDTGx6VWgzRkdIOEI2TkhlclJLeXhTdm1Ed3lDUy0xMUhyVTVNS1owb1RyZVFUSm8yY2hQLUtFU1I4UHVqS3I2cDdaZnVyX3NYVHRqMUhPOG85Z3JVR0ZmY0owWkh3bnYyOWZ30gF3QVVfeXFMTXQ2N3pTaXFZNUNRU250Y25rVzNuZGtTZ296Z0tmVm1xVVM4UmxHOFRNdEtHM1R3VGM0ZjFwYmdyZ21jTTdqcGZncjB3bFZsdEh3NGVYVmRDM3pwT1RCcUFWRWMtVk84WjhuTldWUVNQVnJONWd0M1k?oc=5",
-    "published": "Fri, 24 Jul 2026 05:09:18 GMT",
-    "fetched_at": "2026-07-24 17:09:28",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "지주회사",
-      "반도체",
-      "통신",
-      "석유화학"
-    ],
-    "keywords": [
-      "최태원",
-      "노소영",
-      "재산분할",
-      "SK그룹",
-      "지배구조",
-      "SK(주)"
-    ],
-    "reason": "최태원 SK그룹 회장이 노소영 아트센터 나비 관장에게 9천440억 원의 재산분할금을 지급하라는 판결이 나옴에 따라, 대규모 현금 마련을 위한 SK(주) 지분 매각 등 그룹 지배구조 및 주가에 불확실성이 커질 수 있습니다.",
-    "action_point": "SK(주) 등 SK그룹 지주사 및 주요 계열사 주식 보유 비중을 점검하고, 잠재적 지분 매각 가능성에 따른 변동성 확대에 대비하라."
   }
 ]
