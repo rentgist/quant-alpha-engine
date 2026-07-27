@@ -1,6 +1,54 @@
 [
   {
     "source": "CNBC_World",
+    "title": "Nvidia and OpenAI in talks for up to $250 billion dollar backstop to fund AI infrastructure plans",
+    "title_ko": "엔비디아와 오픈AI, AI 인프라 계획 자금 조달 위해 최대 2,500억 달러 규모 후원 논의 중",
+    "link": "https://www.cnbc.com/2026/07/27/nvidia-and-openai-in-talks-for-up-to-250-billion-dollar-ai-backstop.html",
+    "published": "Mon, 27 Jul 2026 19:26:56 GMT",
+    "fetched_at": "2026-07-28 06:03:34",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "기술 (IT)",
+      "반도체",
+      "데이터센터"
+    ],
+    "keywords": [
+      "AI 인프라",
+      "엔비디아",
+      "오픈AI",
+      "반도체",
+      "데이터센터"
+    ],
+    "reason": "엔비디아의 후원을 통한 오픈AI의 대규모 AI 인프라 투자는 AI 산업 성장의 가속화를 의미하며, 이는 장기적으로 반도체 및 데이터센터 관련 기업들의 수요를 견인할 것입니다.",
+    "action_point": "AI 관련 반도체 및 데이터센터 섹터에 대한 투자 비중 확대를 검토하라."
+  },
+  {
+    "source": "CNBC_Finance",
+    "title": "CME launches single stock futures enabling investors to trade SpaceX, Micron and others 23 hours a day",
+    "title_ko": "CME, 스페이스X, 마이크론 등 개별 주식 선물을 23시간 거래 가능하게 출시",
+    "link": "https://www.cnbc.com/2026/07/27/cme-launches-single-stock-futures-enabling-investors-to-trade-spacex-micron-23-hours-a-day.html",
+    "published": "Mon, 27 Jul 2026 18:06:35 GMT",
+    "fetched_at": "2026-07-28 06:03:17",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "금융",
+      "기술"
+    ],
+    "keywords": [
+      "CME",
+      "단일 주식 선물",
+      "파생상품",
+      "스페이스X",
+      "마이크론",
+      "유동성"
+    ],
+    "reason": "CME의 개별 주식 선물 출시는 특정 미국 주식에 대한 헤지 및 레버리지 투자 기회를 확대하여 시장 유동성과 참여를 증대시킬 것입니다. 이는 해당 종목들의 가격 발견 효율성을 높이고 글로벌 투자자들의 접근성을 개선하는 효과를 가져올 수 있습니다.",
+    "action_point": "CME에 상장된 미국 개별 종목의 현물 포트폴리오 헤지 또는 레버리지 투자 기회를 검토."
+  },
+  {
+    "source": "CNBC_World",
     "title": "Netanyahu, Zelenskyy come to DC for Graham's funeral, meetings with Trump amid wars",
     "title_ko": "네타냐후와 젤렌스키, 그레이엄 장례식 참석 및 전쟁 중 트럼프와 회담 위해 워싱턴 DC 방문",
     "link": "https://www.cnbc.com/2026/07/27/trump-netanyahu-zelenskyy-iran-war-lindsey-graham-funeral.html",
@@ -2837,47 +2885,5 @@
     ],
     "reason": "최태원 SK그룹 회장이 노소영 아트센터 나비 관장에게 9천440억 원의 재산분할금을 지급하라는 판결이 나옴에 따라, 대규모 현금 마련을 위한 SK(주) 지분 매각 등 그룹 지배구조 및 주가에 불확실성이 커질 수 있습니다.",
     "action_point": "SK(주) 등 SK그룹 지주사 및 주요 계열사 주식 보유 비중을 점검하고, 잠재적 지분 매각 가능성에 따른 변동성 확대에 대비하라."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Pentagon lowers official Iran war death toll, omitting four killed this month",
-    "title_ko": "미 국방부, 이란 전쟁 공식 사망자 수치 18명에서 14명으로 하향 조정 (이번 달 사망자 4명 제외)",
-    "link": "https://www.cnbc.com/2026/07/24/pentagon-removed-four-official-iran-war-death-toll.html",
-    "published": "Fri, 24 Jul 2026 06:09:43 GMT",
-    "fetched_at": "2026-07-24 17:08:59",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [],
-    "keywords": [
-      "미국",
-      "이란",
-      "국방부",
-      "사망자 수",
-      "지정학적 리스크"
-    ],
-    "reason": "미 국방부의 이란 전쟁 사망자 수치 하향 조정은 실제 분쟁 상황의 근본적인 변화보다는 통계 분류의 재조정으로 보이며, 미-이란 간 지정학적 긴장의 실질적 완화를 의미하지 않는다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "[속보] 법원 \"최태원, 노소영에 9,440억 원 재산분할\" - 연합뉴스TV",
-    "title_ko": "[속보] 법원 \"최태원, 노소영에 9,440억 원 재산분할\" - 연합뉴스TV",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE40bVFrYkp1MVF0WG9zcE1ZcTh3M245OHE1Q0t5emF6MC1xVmRMUExmSGRmQ3dSWEZxb3VscFZ3U2xWZzBWcU1DSzZhclI0WTladk5mcnkydWZTVVZKUGlEWkJHT25hZGc?oc=5",
-    "published": "Fri, 24 Jul 2026 05:14:00 GMT",
-    "fetched_at": "2026-07-24 17:09:21",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "SK그룹 지주사 및 계열사"
-    ],
-    "keywords": [
-      "최태원",
-      "노소영",
-      "재산분할",
-      "SK그룹",
-      "지배구조"
-    ],
-    "reason": "최태원 회장의 막대한 재산분할 금액은 SK그룹 지배구조 및 지주사(SK㈜) 주식에 대한 잠재적 매각 압력으로 작용하여 관련 주가 변동성을 확대시킬 수 있다.",
-    "action_point": "SK그룹 지주사 및 주요 계열사 주식의 잠재적 매도 압력에 대비하여 관련 포트폴리오 비중 재검토."
   }
 ]
