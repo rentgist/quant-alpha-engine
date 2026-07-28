@@ -1,6 +1,32 @@
 [
   {
     "source": "CNBC_World",
+    "title": "Wildfires burn nearly 300,000 acres in France and Spain as heat wave looms",
+    "title_ko": "프랑스 및 스페인 산불 30만 에이커 소실, 폭염 임박",
+    "link": "https://www.cnbc.com/2026/07/28/france-spain-wildfires-heat-wave.html",
+    "published": "Tue, 28 Jul 2026 10:23:40 GMT",
+    "fetched_at": "2026-07-28 21:48:45",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "농업",
+      "관광",
+      "에너지",
+      "보험",
+      "부동산"
+    ],
+    "keywords": [
+      "산불",
+      "폭염",
+      "유럽",
+      "기후변화",
+      "농업피해"
+    ],
+    "reason": "프랑스/스페인의 대규모 산불과 폭염은 해당 지역의 농업 생산량 감소, 관광 산업 위축 및 전력 수요 증가로 이어져 단기적인 인플레이션 압력과 경제 활동 둔화를 유발할 수 있습니다.",
+    "action_point": "유럽 익스포저가 높은 농업 및 관광 관련 ETF/펀드 비중 축소 검토."
+  },
+  {
+    "source": "CNBC_World",
     "title": "Blurred frontlines: Trump to meet Zelenskyy as Ukraine, Iran wars collide",
     "title_ko": "전선 혼탁: 트럼프-젤렌스키 회동 예정, 우크라이나-이란 전쟁 충돌 우려",
     "link": "https://www.cnbc.com/2026/07/28/trump-zelenskyy-ukraine-russia-iran-war.html",
@@ -2857,28 +2883,5 @@
     ],
     "reason": "트럼프의 새 관세 정책은 미국 경제뿐만 아니라 글로벌 무역 마찰을 심화시키고 공급망 불안정 및 인플레이션 압력을 가중시켜 세계 경제 성장 둔화를 야기할 수 있는 강력한 악재이다.",
     "action_point": "글로벌 무역 마찰에 취약한 수출 중심 산업 및 공급망 관련 섹터 비중 축소를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Finland’s radical answer to renewable energy’s biggest headache: The world’s largest sand battery",
-    "title_ko": "핀란드의 혁신적 해법: 재생에너지 간헐성 문제 해결 위한 세계 최대 모래 배터리",
-    "link": "https://www.cnbc.com/2026/07/25/finland-sand-battery-renewable-energy-storage.html",
-    "published": "Sat, 25 Jul 2026 05:29:38 GMT",
-    "fetched_at": "2026-07-25 16:51:13",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "신재생에너지",
-      "에너지 저장장치",
-      "유틸리티"
-    ],
-    "keywords": [
-      "모래 배터리",
-      "신재생에너지",
-      "에너지 저장장치",
-      "간헐성"
-    ],
-    "reason": "신재생에너지의 최대 약점인 간헐성 문제를 상업적 규모로 해결하는 기술 혁신 사례로, 에너지 저장장치 시장의 성장 잠재력을 보여주며 관련 기술 투자심리를 개선할 수 있습니다.",
-    "action_point": "신재생에너지 및 에너지 저장장치(ESS) 관련 섹터 비중 확대 검토"
   }
 ]
