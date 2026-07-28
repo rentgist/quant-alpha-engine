@@ -1,5 +1,50 @@
 [
   {
+    "source": "CNBC_World",
+    "title": "Under pressure over China backers, Mercedes CEO pledges to defend U.S. business",
+    "title_ko": "중국 후원자에 대한 압박 속에 메르세데스 CEO, 미국 사업 방어 약속",
+    "link": "https://www.cnbc.com/2026/07/28/china-mercedes-ceo-pledges-defend-us-business.html",
+    "published": "Tue, 28 Jul 2026 17:54:42 GMT",
+    "fetched_at": "2026-07-29 04:08:51",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "자동차",
+      "전기차",
+      "무역/해운"
+    ],
+    "keywords": [
+      "미국-중국 갈등",
+      "자동차 산업",
+      "무역 장벽",
+      "전기차"
+    ],
+    "reason": "미국이 중국 자동차 시장 진입을 강력히 제한하는 법안을 승인하면서 미중 무역 갈등이 심화될 조짐을 보인다. 이는 글로벌 자동차 산업의 공급망 재편과 함께 관련 기업들의 지정학적 리스크를 증가시킬 것이다.",
+    "action_point": "글로벌 자동차 및 전기차 섹터 중 미중 리스크 노출이 높은 기업의 비중 축소 또는 포트폴리오 재편을 고려."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "44 states are aligned on one thing in their fight against prediction markets. It's about sports wagering",
+    "title_ko": "44개 주, 예측 시장 반대에 일치단결: 핵심은 스포츠 베팅",
+    "link": "https://www.cnbc.com/2026/07/28/44-states-say-cftc-has-no-authority-over-sports-prediction-markets.html",
+    "published": "Tue, 28 Jul 2026 18:27:43 GMT",
+    "fetched_at": "2026-07-29 04:08:59",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "온라인 베팅 및 게이밍",
+      "핀테크 (예측 시장 플랫폼 관련)"
+    ],
+    "keywords": [
+      "예측 시장",
+      "스포츠 베팅",
+      "규제",
+      "미국 주정부"
+    ],
+    "reason": "44개 미국 주정부가 예측 시장 및 스포츠 베팅에 대한 규제 강화에 뜻을 모아 관련 산업의 영업 환경에 부정적 영향을 미칠 수 있으나, 거시 경제 및 주요 자산 시장 전반에 미치는 영향은 제한적이다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "CNBC_Finance",
     "title": "Meta likely to highlight smart glasses, avoid social media policy on upcoming earnings call, Kalshi traders say",
     "title_ko": "칼시 트레이더들에 따르면, 메타는 다가오는 실적 발표에서 스마트 글래스를 강조하고 소셜 미디어 정책 언급은 피할 것으로 보인다.",
@@ -2830,53 +2875,5 @@
     ],
     "reason": "이 뉴스는 전통적인 대출 규제로 인해 확산되는 대체 부동산 자금 조달 방식의 위험성과 이에 대한 정치권의 규제 강화 가능성을 시사합니다. 이는 시장의 불확실성을 높이고 부동산 관련 대출 및 투자 환경에 부정적 영향을 미칠 수 있습니다.",
     "action_point": "규제 강화 가능성 및 시장 불확실성 확대를 고려하여 국내 부동산 관련 투자를 보수적으로 재검토하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "“왜 우리 축제는 다 비슷할까?”라고 전문가에게 묻자 돌아온 답 [지방소멸의 와일드카드, 축제④]",
-    "title_ko": "“왜 우리 축제는 다 비슷할까?”라고 전문가에게 묻자 돌아온 답 [지방소멸의 와일드카드, 축제④]",
-    "link": "https://www.mk.co.kr/news/culture/12107342",
-    "published": "Sat, 25 Jul 2026 17:43:32 +09:00",
-    "fetched_at": "2026-07-25 18:29:24",
-    "sentiment": "악재",
-    "importance": 2,
-    "sectors": [
-      "지방 경제",
-      "관광/레저",
-      "지방정부 재정"
-    ],
-    "keywords": [
-      "지방소멸",
-      "지역 축제",
-      "예산 효율성",
-      "지역 경제 활성화"
-    ],
-    "reason": "지방 축제들이 고유성 부족과 예산 비효율로 지역 경제 활성화에 기여하지 못하고 '지방소멸'을 가속화할 수 있음을 지적합니다. 이는 장기적으로 지방 소멸을 막기 위한 정책의 실효성에 대한 의구심을 키웁니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "[기고]중동전쟁 중심은 왜 호르무즈에서 두 개의 해협으로 확대되는가?…김태준의 美·이란戰 중계 - 문화일보",
-    "title_ko": "[기고]중동전쟁 중심은 왜 호르무즈에서 두 개의 해협으로 확대되는가?…김태준의 美·이란戰 중계 - 문화일보",
-    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1uUGJmem5KdThIVkloUVc5SnEwcHlwZUgyeGdoc2RkdnN3SlNIamV6OERud0tOUkdaaGdRWTRVSC1TWXJGYXptZVpseGluTWRP?oc=5",
-    "published": "Sat, 25 Jul 2026 04:40:21 GMT",
-    "fetched_at": "2026-07-25 16:51:34",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "정유/화학",
-      "해운",
-      "방산",
-      "항공"
-    ],
-    "keywords": [
-      "중동전쟁",
-      "지정학적 리스크",
-      "호르무즈 해협",
-      "원유 공급망",
-      "물류"
-    ],
-    "reason": "중동 분쟁이 해상 요충지로 확대될 가능성을 시사하며 글로벌 지정학적 리스크가 고조되고, 원유 공급망 불안 및 물류 비용 상승 압력이 커질 수 있습니다.",
-    "action_point": "원유 관련 에너지 섹터 비중 확대 및 지정학적 리스크 헤지를 위한 달러/금 등 안전자산 보유를 검토하십시오."
   }
 ]
