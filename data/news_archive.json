@@ -1,6 +1,53 @@
 [
   {
     "source": "CNBC_Finance",
+    "title": "Meta likely to highlight smart glasses, avoid social media policy on upcoming earnings call, Kalshi traders say",
+    "title_ko": "칼시 트레이더들에 따르면, 메타는 다가오는 실적 발표에서 스마트 글래스를 강조하고 소셜 미디어 정책 언급은 피할 것으로 보인다.",
+    "link": "https://www.cnbc.com/2026/07/28/meta-q2-earnings-call-mentions-kalshi-market-odds-.html",
+    "published": "Tue, 28 Jul 2026 15:47:59 GMT",
+    "fetched_at": "2026-07-29 02:19:34",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "IT",
+      "소셜 미디어",
+      "가상/증강현실 (AR/VR)"
+    ],
+    "keywords": [
+      "메타",
+      "실적 발표",
+      "스마트 글래스",
+      "소셜 미디어"
+    ],
+    "reason": "메타의 실적 발표 전략을 미리 보여주는 기사로, 소셜 미디어 정책보다는 스마트 글래스 강조를 통해 미래 성장 동력에 대한 시장의 기대를 형성할 수 있으나, 거시경제 전반에 미치는 영향은 제한적이다.",
+    "action_point": "메타의 스마트 글래스 전략 방향에 주목하여 AR/VR 관련 기술주 포트폴리오 재편을 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "“건물 흔들려 뛰쳐나왔다”…부산도 뒤흔든 ‘일본 규모 7.1 강진’ - 중앙일보",
+    "title_ko": "“건물 흔들려 뛰쳐나왔다”…부산도 뒤흔든 ‘일본 규모 7.1 강진’ - 중앙일보",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fWVVPVVJtYm5fMFQzb1lqQmdUcC0zTnMwQUQ2YmxKQ1phY2drY0N2akVZQU11M0lwbFQ3S1huTTY4VURGdEFmRE9ScHpadTBQRElUc01R?oc=5",
+    "published": "Tue, 28 Jul 2026 07:41:23 GMT",
+    "fetched_at": "2026-07-29 02:19:55",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "보험",
+      "건설",
+      "관광",
+      "제조업"
+    ],
+    "keywords": [
+      "일본 강진",
+      "자연재해",
+      "공급망",
+      "재건"
+    ],
+    "reason": "일본에서 발생한 강진은 직접적인 인명 및 재산 피해를 야기하며, 이는 보험업계 손실 증가 및 재건 수요 발생으로 이어질 수 있습니다. 또한, 일본 내 주요 산업시설 피해 여부에 따라 글로벌 공급망에도 단기적인 영향을 미칠 가능성이 있습니다.",
+    "action_point": "일본에 주요 사업 비중이 있거나 공급망이 연계된 국내 기업의 재무적 영향 분석을 즉시 개시하라."
+  },
+  {
+    "source": "CNBC_Finance",
     "title": "The future of Wall Street is here as startups and brokers build AI agents to trade 24/7",
     "title_ko": "월스트리트의 미래가 왔다: 스타트업과 증권사, 24시간 거래하는 AI 에이전트 구축 중",
     "link": "https://www.cnbc.com/2026/07/28/ai-agents-build-to-trade-24/7-the-future-of-wall-street.html",
@@ -2831,55 +2878,5 @@
     ],
     "reason": "중동 분쟁이 해상 요충지로 확대될 가능성을 시사하며 글로벌 지정학적 리스크가 고조되고, 원유 공급망 불안 및 물류 비용 상승 압력이 커질 수 있습니다.",
     "action_point": "원유 관련 에너지 섹터 비중 확대 및 지정학적 리스크 헤지를 위한 달러/금 등 안전자산 보유를 검토하십시오."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "[속보] 靑 \"국내 기업과 글로벌빅테크 기업, 9천500억불 반도체 협력\" - 연합뉴스",
-    "title_ko": "[속보] 靑 \"국내 기업과 글로벌빅테크 기업, 9천500억불 반도체 협력\" - 연합뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UdllCcVdqUllaWGFMOVAxV0p3NTNzTWtiQVoza0t3NW5uSW84V09DQVYxdzY0aUttN2pZZ0R4S1htU2llUW14MmQ5MUppTFFWR1J3bmhEcVlYdVnSAWBBVV95cUxOeDFEVGRsdk05cy1Oakcyelo0ZzJrcGpoaVFrVGpabGJ6UVc0VFktMGJ6TlVjbThqU1ZjTUFZSnZfdXNia2F6TTBFSUdkOEdBREFNX2JNY2p3WmlaLVQ2bk4?oc=5",
-    "published": "Sat, 25 Jul 2026 04:02:48 GMT",
-    "fetched_at": "2026-07-25 16:51:48",
-    "sentiment": "호재",
-    "importance": 5,
-    "sectors": [
-      "반도체",
-      "IT하드웨어",
-      "소재/부품/장비",
-      "기술주"
-    ],
-    "keywords": [
-      "반도체",
-      "글로벌 협력",
-      "빅테크",
-      "투자",
-      "산업 정책"
-    ],
-    "reason": "청와대가 국내 기업과 글로벌 빅테크 기업 간 9,500억 달러 규모의 반도체 협력을 발표, 이는 국내 반도체 산업의 위상 강화 및 관련 섹터에 막대한 자본 유입과 기술 발전을 가져올 강력한 호재입니다.",
-    "action_point": "국내 반도체 및 관련 소재/부품/장비 섹터 비중 확대를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Nvidia locks down memory supply from SK Hynix as part of $500 billion AI deal",
-    "title_ko": "엔비디아, 5천억 달러 규모 AI 계약 일환으로 SK하이닉스로부터 메모리 공급 확보",
-    "link": "https://www.cnbc.com/2026/07/25/nvidia-locks-down-memory-from-sk-hynix-as-part-of-500-billion-ai-deal.html",
-    "published": "Sat, 25 Jul 2026 05:00:01 GMT",
-    "fetched_at": "2026-07-25 16:51:20",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "반도체",
-      "IT 하드웨어",
-      "기술"
-    ],
-    "keywords": [
-      "엔비디아",
-      "SK하이닉스",
-      "HBM",
-      "AI",
-      "반도체",
-      "메모리"
-    ],
-    "reason": "엔비디아가 SK하이닉스의 HBM 공급을 확보한 것은 AI 반도체 수요가 견조함을 다시 한번 확인시켜주며, SK하이닉스의 시장 지위와 반도체 섹터 전반의 성장 기대감을 높입니다. 이는 AI 시대 핵심 부품 공급망이 공고해지고 있음을 시사합니다.",
-    "action_point": "SK하이닉스 포함 HBM 관련 국내 반도체 섹터 비중 확대를 검토하라."
   }
 ]
