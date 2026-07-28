@@ -1,6 +1,195 @@
 [
   {
     "source": "CNBC_World",
+    "title": "Blurred frontlines: Trump to meet Zelenskyy as Ukraine, Iran wars collide",
+    "title_ko": "전선 혼탁: 트럼프-젤렌스키 회동 예정, 우크라이나-이란 전쟁 충돌 우려",
+    "link": "https://www.cnbc.com/2026/07/28/trump-zelenskyy-ukraine-russia-iran-war.html",
+    "published": "Tue, 28 Jul 2026 10:09:35 GMT",
+    "fetched_at": "2026-07-28 19:26:03",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "에너지",
+      "방산",
+      "원자재",
+      "금융"
+    ],
+    "keywords": [
+      "트럼프",
+      "젤렌스키",
+      "우크라이나 전쟁",
+      "이란 분쟁",
+      "지정학적 리스크"
+    ],
+    "reason": "두 주요 분쟁 지역(우크라이나, 이란/미국)의 충돌 가능성과 트럼프의 향후 외교 정책 불확실성은 글로벌 지정학적 리스크를 크게 증폭시켜 유가 및 원자재 가격 변동성 확대, 안전자산 선호 심화로 이어질 것입니다.",
+    "action_point": "원자재 및 방산 관련주 비중 확대를 검토하고, 안전자산으로서 달러와 금 보유를 강화하라."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "Supreme Court approval hits record low as Republicans' support declines",
+    "title_ko": "대법원 지지율, 공화당 지지율 하락으로 사상 최저치 기록",
+    "link": "https://www.cnbc.com/2026/07/28/supreme-court-approval-poll-gallup-republicans-trump.html",
+    "published": "Tue, 28 Jul 2026 08:00:01 GMT",
+    "fetched_at": "2026-07-28 19:26:13",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "무역 관련 산업",
+      "금융"
+    ],
+    "keywords": [
+      "대법원",
+      "트럼프 행정부",
+      "관세",
+      "연방준비제도",
+      "정치적 불확실성"
+    ],
+    "reason": "대법원의 판결이 트럼프 행정부의 관세 정책과 연준에 대한 영향력을 제한함으로써 무역 긴장 완화 및 연준의 독립성 강화에 기여할 수 있다. 이는 시장의 불확실성을 일부 해소하고 안정성을 높일 수 있다.",
+    "action_point": "연방준비제도의 독립성 강화 및 잠재적 무역 긴장 완화에 따른 시장 전반의 안정화 가능성에 주목하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "[속보] 일본 구마모토서 규모 7.1 지진···쓰나미 주의보 발령 - 경향신문",
+    "title_ko": "[속보] 일본 구마모토서 규모 7.1 지진···쓰나미 주의보 발령 - 경향신문",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XWnFDZXZyaHJjVTczdjZxOTcxdGdWajB5cTFsQVpTdlJ6ZktrNk9NR3FPV05XVVA4THEwNWN6aXQ4YXB6SWdkTVExSEdLUU90bjdybEVvaEpyQdIBX0FVX3lxTE92VzJ4Q052czNsbUpuWGxaMXRuYUtSSWo2TXk0ZDJTbm9vZmJadmxNcHhLWGFhRk4xakxaaTM2MEFLWmlUMkNuUGI4bWgtMmtLMjRyX21ickNERkxNOUlR?oc=5",
+    "published": "Tue, 28 Jul 2026 07:53:00 GMT",
+    "fetched_at": "2026-07-28 19:26:29",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "보험",
+      "해운/물류",
+      "관광",
+      "반도체"
+    ],
+    "keywords": [
+      "일본",
+      "지진",
+      "쓰나미",
+      "구마모토",
+      "자연재해",
+      "공급망"
+    ],
+    "reason": "일본 구마모토 지역의 강진과 쓰나미 주의보 발령은 해당 지역의 인프라 및 산업 시설 피해 우려를 높이며, 특히 반도체 등 글로벌 공급망에 일시적 차질을 야기하여 시장 불확실성을 증대시킬 수 있습니다.",
+    "action_point": "일본 관련 투자 자산 및 구마모토 지역에 생산 시설을 둔 반도체 기업 투자 비중을 점검하고 잠재적 영향을 평가하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "악시오스 “트럼프 행정부 ‘경제 제재가 공습보다 효과적’ 인식” - KBS 뉴스",
+    "title_ko": "악시오스 “트럼프 행정부 ‘경제 제재가 공습보다 효과적’ 인식” - KBS 뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IdGc5VHgxaU5Mc0ozNUpWbm9KNnpObmxJdG1UZTNNNzBaOFhIUThGTXpwUERPSnVZcmQwUHNhWkpnM3V5LTZBbHNvVG1QWVFWektRSGVnNmpyTWM?oc=5",
+    "published": "Tue, 28 Jul 2026 09:04:00 GMT",
+    "fetched_at": "2026-07-28 19:26:54",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "글로벌 무역",
+      "수출입 관련 산업",
+      "첨단기술",
+      "방산"
+    ],
+    "keywords": [
+      "트럼프",
+      "경제 제재",
+      "지정학적 리스크",
+      "글로벌 공급망",
+      "미중 갈등"
+    ],
+    "reason": "트럼프 행정부의 잠재적인 대외 정책 기조가 군사 개입보다는 경제 제재를 선호함을 시사한다. 이는 향후 미중 갈등 심화 및 글로벌 무역 환경의 불확실성을 높여 수출 의존도가 높은 한국 경제에 부담으로 작용할 수 있다.",
+    "action_point": "지정학적 리스크에 민감한 수출 의존 기업 및 첨단기술 섹터 투자 비중을 점검하고, 공급망 다변화 방안을 모색하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "title": "중국 반도체 ‘3번의 도약’…트럼프 제재 뛰어넘을까 [차이나 시그널]",
+    "title_ko": "중국 반도체 ‘3번의 도약’…트럼프 제재 뛰어넘을까 [차이나 시그널]",
+    "link": "https://www.mk.co.kr/news/world/12109738",
+    "published": "Tue, 28 Jul 2026 19:04:19 +09:00",
+    "fetched_at": "2026-07-28 19:27:05",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "반도체",
+      "기술주"
+    ],
+    "keywords": [
+      "중국 반도체",
+      "미국 제재",
+      "기술 자립"
+    ],
+    "reason": "중국 반도체 기업의 기술 발전은 미국 제재를 우회하며 글로벌 시장 경쟁을 심화시킬 것입니다. 이는 한국의 주요 반도체 기업들에게 중장기적인 경쟁 심화 압박으로 작용할 수 있습니다.",
+    "action_point": "국내 반도체 섹터에 대한 투자 비중 축소를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "China’s reported chip breakthrough comes with some big caveats",
+    "title_ko": "중국의 반도체 기술 돌파 보도, 주요 제약 조건 동반",
+    "link": "https://www.cnbc.com/2026/07/28/china-chipmaking-duv-tool-asml-explained.html",
+    "published": "Tue, 28 Jul 2026 09:44:13 GMT",
+    "fetched_at": "2026-07-28 19:25:53",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "반도체",
+      "기술",
+      "산업재"
+    ],
+    "keywords": [
+      "중국",
+      "반도체",
+      "ASML",
+      "기술 자립",
+      "지정학"
+    ],
+    "reason": "중국의 반도체 핵심 장비 개발 보도에도 불구하고, ASML과 같은 선두 기업에 대한 경쟁력은 여전히 불확실하다. 이는 글로벌 반도체 공급망에 즉각적인 변화보다는 장기적인 불확실성을 가중시키는 요인이다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
+    "title": "Japan quake injures at least 50, disrupts power and travel",
+    "title_ko": "일본 구마모토 지진으로 최소 50명 부상, 전력 및 교통 마비",
+    "link": "https://www.cnbc.com/2026/07/28/major-quake-in-southern-japan-knocks-out-power-disrupts-transport.html",
+    "published": "Tue, 28 Jul 2026 10:07:16 GMT",
+    "fetched_at": "2026-07-28 19:26:21",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "보험",
+      "건설",
+      "여행/운송",
+      "반도체/전자부품",
+      "유틸리티"
+    ],
+    "keywords": [
+      "일본 지진",
+      "구마모토",
+      "전력 마비",
+      "교통 마비",
+      "인명 피해"
+    ],
+    "reason": "일본 구마모토 지역 지진 발생으로 인프라 손상 및 인명 피해가 발생, 단기적으로 해당 지역의 경제 활동 위축과 복구 비용 증가가 예상됩니다. 구마모토는 반도체 등 주요 산업 시설이 밀집한 지역으로 글로벌 공급망에 일부 차질을 줄 가능성도 있습니다.",
+    "action_point": "일본 구마모토 지역에 생산 거점을 둔 반도체/부품 기업의 생산 차질 가능성을 점검하고 관련 투자 포지션을 재평가."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "[속보]부산·광주·제주까지 흔들렸다…기상청 \"일본 지진 영향\" - 머니투데이 - 머니투데이",
+    "title_ko": "부산·광주·제주까지 흔들렸다…기상청 '일본 지진 영향'",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9lRXUzNmRMTmVmWFhKNFB2STdDT3o4WGxYQ3VCd2tSekNXYWdPVVU2YVZmY1ZkRHB2OW1ZNXU3cndnazZELUQ5NWdlNmptVDNMWUZzcUQwXzZobDZPUTlwMk5yV3JmcW5SN1Bv0gFwQVVfeXFMT2o3MWo3d09iaWswcFNlMjhTMVA4VGZTSktKeXFvNm9lUnNDQ3k5dncwaW1wSUdnTmZUSGxrMHlFekE2TlVvRkVtN3UxWGFNeENyYmtHc2t5akJEcnkxdHp6WFE1Ung0SHp2dmVvbWtJXw?oc=5",
+    "published": "Tue, 28 Jul 2026 07:48:26 GMT",
+    "fetched_at": "2026-07-28 19:26:43",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [],
+    "keywords": [
+      "지진",
+      "일본",
+      "한국 영향",
+      "자연재해"
+    ],
+    "reason": "일본에서 발생한 지진의 영향으로 국내 일부 지역에서 진동이 감지되었으나, 한국 내 직접적인 인명 피해나 경제적 손실 보고는 없어 시장에 미칠 직접적 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
     "title": "Iran hosts Hormuz calls with Saudi Arabia, Oman as Trump hails ‘good talks’",
     "title_ko": "이란, 사우디 및 오만과 호르무즈 해협 관련 회담 개최, 트럼프는 ‘좋은 대화’ 평가",
     "link": "https://www.cnbc.com/2026/07/28/us-iran-war-trump-hormuz.html",
@@ -2691,196 +2880,5 @@
     ],
     "reason": "신재생에너지의 최대 약점인 간헐성 문제를 상업적 규모로 해결하는 기술 혁신 사례로, 에너지 저장장치 시장의 성장 잠재력을 보여주며 관련 기술 투자심리를 개선할 수 있습니다.",
     "action_point": "신재생에너지 및 에너지 저장장치(ESS) 관련 섹터 비중 확대 검토"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "[속보]부산 세계유산위원회서 ‘한국의 갯벌’ 더 넓어졌다···여수·고흥·무안·서산 추가 - 경향신문",
-    "title_ko": "[속보]부산 세계유산위원회서 ‘한국의 갯벌’ 더 넓어졌다···여수·고흥·무안·서산 추가",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hdEZoOGY5cnROU0ZFQlF2MzNpZGpxV21vRTZPa0VUUUdCWnJzOFJmUDhITG5oaHNjRmlnWDVGNXZ0dFVnQUlzZ2RZczhCN05nQktVSHZMcDByUdIBX0FVX3lxTE10QTFIQ0pITHE2ZmtHckgxcXNhVmRMeHU0Z0RxYVJ3TVhyTGNHZ3JkMloxbHUzYk1yUklPRGJqTUJTbUVtOV84RXV4ZVhVV2FhNFBDRVAzZ0I4eElfa01n?oc=5",
-    "published": "Sat, 25 Jul 2026 03:29:00 GMT",
-    "fetched_at": "2026-07-25 16:51:42",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "관광",
-      "지역개발"
-    ],
-    "keywords": [
-      "갯벌",
-      "세계유산",
-      "여수",
-      "고흥",
-      "무안",
-      "서산",
-      "관광"
-    ],
-    "reason": "‘한국의 갯벌’ 세계유산 등재 범위 확장은 해당 지역(여수, 고흥, 무안, 서산)의 관광 활성화 및 장기적 지역 경제에 긍정적이나, 국내외 거시 경제나 광범위한 투자 시장에 미치는 영향은 제한적입니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "[속보] 신장식, 조국혁신당 신임 대표로 선출",
-    "title_ko": "[속보] 신장식, 조국혁신당 신임 대표로 선출",
-    "link": "https://www.mk.co.kr/news/politics/12107290",
-    "published": "Sat, 25 Jul 2026 16:14:54 +09:00",
-    "fetched_at": "2026-07-25 16:52:03",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "국내 정치"
-    ],
-    "keywords": [
-      "조국혁신당",
-      "신장식",
-      "당대표"
-    ],
-    "reason": "조국혁신당의 신임 당대표 선출은 국내 정치적 지형 변화의 일부이나, 현재로서는 주식, 금리, 환율 등 거시 경제 지표나 자산 시장에 직접적인 영향을 미 미치지 않을 것으로 판단된다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Trump sued hours after new tariffs take effect, as experts say they may not hold up",
-    "title_ko": "트럼프, 새 관세 발효 몇 시간 만에 피소…전문가들 '유지 어려울 수도'",
-    "link": "https://www.cnbc.com/2026/07/24/trump-tariffs-lawsuit-301-ieepa.html",
-    "published": "Sat, 25 Jul 2026 00:18:53 GMT",
-    "fetched_at": "2026-07-25 14:35:46",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "수출입 관련 산업",
-      "운송 및 물류",
-      "소비재",
-      "원자재 관련 산업"
-    ],
-    "keywords": [
-      "관세",
-      "트럼프",
-      "무역분쟁",
-      "보호무역주의",
-      "글로벌 공급망"
-    ],
-    "reason": "새로운 관세 부과는 글로벌 무역 불확실성을 증대시키고, 수입 물가 상승 및 기업 비용 증가로 이어져 글로벌 경제 성장에 부정적인 영향을 미칠 수 있습니다. 이는 공급망 교란과 특정 국가의 경제 압박을 초래할 수 있습니다.",
-    "action_point": "글로벌 무역 분쟁 심화 가능성에 대비하여 수출 의존도가 높은 국내 산업 섹터의 투자 비중 축소를 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "[속보] 이 대통령 '샌프란AI 선언‥\"한국, 대체 불가 공급망 핵심 국가로\" - MBC 뉴스",
-    "title_ko": "[속보] 이 대통령 '샌프란AI 선언‥\"한국, 대체 불가 공급망 핵심 국가로\" - MBC 뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSXdQbDZHQXhhTTIyVVMwbUdPLThCUmhvcTFoNWRYazNYRW1MNlBJMXI0RXk4WnVaaHJiWGlKcGFxVGcxTi00bGs5X0pHclFyX3VkUzRwRElVSi02T296U0FoTWswWWw5dHZzREw2Mmd5eUtacjJTcExZUmFrQlNlZHZ3RWV1RkhRWjVTQlNPLXkycWctalplVjRiNkdLRDdmTEdQa1VSUkljQ1RLeC00RTl1d0NwVWFodTdwRUdBUU_SAXhBVV95cUxNSG83czljR3hKcFR3VXI3bnlBU3p2amQ4akxuQnlpMFRTb3VVb3gzZjJjc0VBVjNrbjRzeEJDSWZqMXh3TExsUE5UeDFkZVkxTlZHQkpGcXV4X0NWWXhyRTRfaG9EZEY2U2Fhc2ZPOXdXRjJWM2FUdlU?oc=5",
-    "published": "Sat, 25 Jul 2026 00:18:07 GMT",
-    "fetched_at": "2026-07-25 14:35:52",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "인공지능",
-      "반도체",
-      "IT/기술",
-      "첨단산업",
-      "수출주"
-    ],
-    "keywords": [
-      "인공지능",
-      "공급망",
-      "첨단기술",
-      "대통령 선언",
-      "한국"
-    ],
-    "reason": "대통령의 샌프란시스코 AI 선언은 한국을 글로벌 AI 및 첨단 기술 공급망의 핵심 국가로 포지셔닝하려는 의지를 표명하며, 관련 산업에 대한 정부 지원 및 투자 확대를 시사합니다. 이는 장기적으로 한국 기업의 글로벌 경쟁력 강화와 기술 패권 확보에 긍정적 영향을 미칠 것입니다.",
-    "action_point": "AI 및 첨단 반도체 관련 국내 기술 기업들의 비중 확대 기회 모색."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "SpaceX launches massive Starship rocket in first test flight since IPO",
-    "title_ko": "SpaceX, IPO 이후 첫 스타십 로켓 시험 비행 실시",
-    "link": "https://www.cnbc.com/2026/07/24/spacex-launches-massive-starship-rocket-in-first-test-flight-since-ipo.html",
-    "published": "Sat, 25 Jul 2026 02:17:11 GMT",
-    "fetched_at": "2026-07-25 14:35:38",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "우주항공",
-      "첨단기술"
-    ],
-    "keywords": [
-      "SpaceX",
-      "스타십",
-      "로켓 발사",
-      "우주산업",
-      "IPO"
-    ],
-    "reason": "SpaceX의 대규모 스타십 로켓 시험 비행은 우주항공 산업의 기술 발전을 보여주는 중요한 이정표입니다. 장기적으로 관련 기술 및 인프라 투자에 긍정적 영향을 줄 수 있으나, 단기적인 거시경제나 금융시장 전체에 미치는 직접적인 영향은 제한적입니다.",
-    "action_point": "우주항공 산업의 장기 성장 잠재력에 주목하며 관련 섹터 투자 비중 조정 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Oil shipments are under attack on multiple fronts as fighting escalates in Red Sea, Hormuz and Black Sea",
-    "title_ko": "홍해, 호르무즈, 흑해에서 분쟁 격화로 유조선 공격 다발",
-    "link": "https://www.cnbc.com/2026/07/24/oil-tanker-red-sea-hormuz-black-sea-iran-ukraine.html",
-    "published": "Fri, 24 Jul 2026 18:47:41 GMT",
-    "fetched_at": "2026-07-25 11:35:54",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "에너지",
-      "해운",
-      "보험"
-    ],
-    "keywords": [
-      "유가",
-      "지정학적 리스크",
-      "홍해",
-      "호르무즈 해협",
-      "해상 운송"
-    ],
-    "reason": "주요 해상 운송로에서의 유조선 공격은 글로벌 원유 공급망을 교란하여 유가 상승 및 해상 운임 증가를 야기합니다. 이는 인플레이션 압력을 가중시키고 전반적인 경제 불확실성을 높이는 요인입니다.",
-    "action_point": "지정학적 리스크 심화 및 국제 유가 상승 압력에 대비하여 에너지 섹터 관련 자산 비중 확대를 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "[경제뭔데]삼전닉스 레버리지 예탁금 3천만원 올리면 기존 투자자는 어떻게 되나요? - 경향신문",
-    "title_ko": "[경제뭔데]삼전닉스 레버리지 예탁금 3천만원 올리면 기존 투자자는 어떻게 되나요?",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MTFhwQnAxM253Sll2R1Y2VlA3THdHbF9jRkhKU2o3NDNqTWNyTmJXWmhBOXV3VGt1Tl9KOHVOUkFBNTRIU3FCU1dMVHJGTmR5dTlMdklCQXZVUdIBX0FVX3lxTE91UXBqQXhuTDZET3QzRGVFcV9GSnlMcUdjcjBuWEJXWG5rVWtNX01qclBBb2dYWjhpczJUVUMydmZRNElKaDFGdmdIY0xNWGZycmxhdU1MUDJFaUw5TGJv?oc=5",
-    "published": "Sat, 25 Jul 2026 01:40:00 GMT",
-    "fetched_at": "2026-07-25 11:36:06",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "반도체",
-      "증권"
-    ],
-    "keywords": [
-      "레버리지",
-      "예탁금",
-      "마진거래",
-      "삼성전자",
-      "SK하이닉스",
-      "증권규제"
-    ],
-    "reason": "삼성전자와 SK하이닉스 등 주요 반도체 종목의 레버리지 예탁금 인상은 과도한 투기 수요를 억제하려는 조치로, 단기적으로 해당 종목의 매수세 위축 및 변동성 확대로 이어질 수 있습니다.",
-    "action_point": "반도체 섹터 내 레버리지 투자 비중을 점검하고 단기 변동성 확대에 대비하라."
-  },
-  {
-    "source": "CNBC_Finance",
-    "title": "Stocks making the biggest moves premarket: Intel, Oracle, American Express & more",
-    "title_ko": "프리마켓에서 가장 큰 움직임을 보이는 주식들: 인텔, 오라클, 아메리칸 익스프레스 외",
-    "link": "https://www.cnbc.com/2026/07/24/stocks-making-the-biggest-moves-premarket-intc-orcl-axp.html",
-    "published": "Fri, 24 Jul 2026 12:54:48 GMT",
-    "fetched_at": "2026-07-25 11:35:46",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "기술",
-      "금융",
-      "반도체"
-    ],
-    "keywords": [
-      "프리마켓",
-      "개별주식",
-      "인텔",
-      "오라클",
-      "아메리칸익스프레스"
-    ],
-    "reason": "이 기사는 특정 개별 주식들의 프리마켓 움직임을 단순 보도하는 것으로, 전반적인 시장이나 거시 경제에 미치는 실질적인 영향은 미미합니다.",
-    "action_point": "해당 없음"
   }
 ]
