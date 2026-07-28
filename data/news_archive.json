@@ -1,5 +1,146 @@
 [
   {
+    "source": "CNBC_World",
+    "title": "Shares of SK Hynix plunge 10% in Seoul as semiconductor selloff deepens",
+    "title_ko": "SK하이닉스 주가 10% 급락, 반도체 매도세 심화",
+    "link": "https://www.cnbc.com/2026/07/28/sk-hynix-plunges-semiconductor-selloff-deepens-samsung-softbank.html",
+    "published": "Tue, 28 Jul 2026 01:02:23 GMT",
+    "fetched_at": "2026-07-28 10:48:15",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "반도체",
+      "기술주"
+    ],
+    "keywords": [
+      "SK하이닉스",
+      "반도체",
+      "주가 급락",
+      "매도세",
+      "기술주"
+    ],
+    "reason": "글로벌 반도체 섹터의 매도세가 심화되며 국내 대표 기업인 SK하이닉스 주가가 급락. 이는 전반적인 기술주 투자 심리 악화와 글로벌 수요 둔화 우려를 반영하며 국내 증시 전반에 부정적 영향을 미칠 전망.",
+    "action_point": "반도체 및 기술주 섹터 비중 축소 또는 보유 비중 점검"
+  },
+  {
+    "source": "CNBC_World",
+    "title": "CNBC's The China Connection newsletter: A U.S.-China debate that's becoming bigger than tariffs",
+    "title_ko": "CNBC 차이나 커넥션 뉴스레터: 관세 문제보다 더 커지고 있는 미중 논쟁",
+    "link": "https://www.cnbc.com/2026/07/27/cnbcs-the-china-connection-newsletter-a-us-china-debate-thats-becoming-bigger-than-tariffs.html",
+    "published": "Mon, 27 Jul 2026 23:00:02 GMT",
+    "fetched_at": "2026-07-28 10:48:40",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "반도체",
+      "인공지능",
+      "기술"
+    ],
+    "keywords": [
+      "미중 관계",
+      "인공지능",
+      "기술 경쟁",
+      "국가 전략"
+    ],
+    "reason": "미중 간 AI 기술 경쟁 심화는 양국 정부의 국가 전략 변화를 가속화하며, 이는 글로벌 기술 공급망 재편 및 특정 기업에 대한 무역 및 투자 제한으로 이어질 수 있습니다. 장기적으로 기술 섹터의 불확실성을 증대시킬 수 있습니다.",
+    "action_point": "미중 기술 경쟁 심화에 따라 AI 및 반도체 관련 기업 중 지정학적 위험 노출도가 높은 기업에 대한 비중 축소를 검토하라."
+  },
+  {
+    "source": "CNBC_Finance",
+    "title": "Stocks making the biggest moves midday: ASML, SK Hynix, SAP, Forte Bio, Brown-Forman & more",
+    "title_ko": "오전장 가장 큰 움직임을 보이는 주식들: ASML, SK 하이닉스, SAP, Forte Bio, Brown-Forman 등",
+    "link": "https://www.cnbc.com/2026/07/27/stocks-making-the-biggest-moves-midday-asml-skhy-sap-fbrx-bfb.html",
+    "published": "Mon, 27 Jul 2026 18:10:42 GMT",
+    "fetched_at": "2026-07-28 10:48:08",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "반도체",
+      "기술",
+      "소비재",
+      "헬스케어"
+    ],
+    "keywords": [
+      "개별주",
+      "주가 움직임",
+      "ASML",
+      "SK하이닉스"
+    ],
+    "reason": "본 기사는 ASML, SK하이닉스 등 주요 개별 기업들의 장중 주가 움직임을 보고할 뿐, 특정 섹터나 거시 경제에 미칠 핵심적인 원인이나 시장 전체의 방향성을 제시하지 않습니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
+    "title": "U.S. and Korean tech stocks are now tightly linked — and that could be a worry for investors",
+    "title_ko": "미국과 한국의 기술주, 이제 밀접하게 연동 — 이는 투자자들에게 우려가 될 수 있다",
+    "link": "https://www.cnbc.com/2026/07/28/nasdaq-kospi-wall-street-korea-markets-skhynox-samsung.html",
+    "published": "Tue, 28 Jul 2026 01:34:28 GMT",
+    "fetched_at": "2026-07-28 10:48:24",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "기술주",
+      "반도체",
+      "IT"
+    ],
+    "keywords": [
+      "주식 시장",
+      "상관관계",
+      "기술주",
+      "나스닥",
+      "코스피",
+      "시장 위험"
+    ],
+    "reason": "미국 나스닥 100과 한국 코스피 간의 높은 상관관계는 양국 기술주가 동조화되어 움직일 가능성이 커졌음을 의미한다. 이는 투자 포트폴리오의 분산 효과를 저해하고, 한쪽 시장의 변동성이 다른 시장으로 전이될 위험을 높인다.",
+    "action_point": "한국 및 미국 기술주 비중이 높은 투자자는 포트폴리오 내 지역 및 섹터 다변화를 재검토하여 위험을 관리하라."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "Apple ends day as world's most valuable company, passing Nvidia",
+    "title_ko": "애플, 엔비디아 제치고 세계에서 가장 가치 있는 기업으로 등극",
+    "link": "https://www.cnbc.com/2026/07/27/apple-most-valuable-company-nvidia.html",
+    "published": "Mon, 27 Jul 2026 21:12:26 GMT",
+    "fetched_at": "2026-07-28 10:48:31",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "기술",
+      "반도체"
+    ],
+    "keywords": [
+      "애플",
+      "엔비디아",
+      "시가총액",
+      "기술주",
+      "AI"
+    ],
+    "reason": "이는 초대형 기술주 내에서 시장 주도주의 변화를 보여주며, 순수 AI 테마주에서 광범위한 AI 통합 기술주로의 투자심리 전환 가능성을 시사합니다. 거시 경제 전반보다는 기술 섹터 내 자금 배분 변화에 더 큰 영향을 미칩니다.",
+    "action_point": "대형 기술주 포트폴리오 내 AI 성장주와 AI 통합 소비재/서비스 기업 비중을 재검토하여 균형을 조정하십시오."
+  },
+  {
+    "source": "CNBC_Finance",
+    "title": "Stocks making the biggest moves after hours: Cadence Design Systems, Rambus, Welltower and more",
+    "title_ko": "시간 외 거래에서 가장 큰 움직임을 보인 주식: 케이던스 디자인 시스템즈, 램버스, 웰타워 등",
+    "link": "https://www.cnbc.com/2026/07/27/stocks-making-the-biggest-moves-after-hours-cdns-rmbs-well.html",
+    "published": "Mon, 27 Jul 2026 21:05:26 GMT",
+    "fetched_at": "2026-07-28 10:47:58",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "반도체",
+      "소프트웨어",
+      "부동산/리츠",
+      "헬스케어"
+    ],
+    "keywords": [
+      "시간 외 거래",
+      "개별 주식",
+      "기업 실적"
+    ],
+    "reason": "이 기사는 시간 외 거래에서 개별 기업 주식의 큰 움직임을 전달하며, 이는 주로 해당 기업의 실적 발표나 특정 뉴스에 기인한 것입니다. 거시 경제 전반의 방향성에는 직접적인 영향을 주지 않습니다.",
+    "action_point": "개별 기업의 특이 동향이므로 대장님의 거시 포트폴리오에는 해당 없음."
+  },
+  {
     "source": "GoogleNews_Korea",
     "title": "[스타트 경제] 한 총리 \"가계 순자산 중 부동산 비중 71.9%...해결책 마련에 큰 책임감\" - YTN",
     "title_ko": "한 총리 \"가계 순자산 중 부동산 비중 71.9%...해결책 마련에 큰 책임감\"",
@@ -2740,149 +2881,5 @@
     ],
     "reason": "국제 유가 상승에도 불구하고 국내 석유 최고가격 동결 조치는 국내 인플레이션 압력을 완화하고 관련 산업 및 소비자의 비용 부담 증가를 억제하여 국내 경기 안정에 기여할 것입니다.",
     "action_point": "국내 인플레이션 압력 완화 효과를 감안하여 내수 경기 민감주 및 운송 섹터의 비중 유지 또는 소폭 확대 검토."
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "‘50억 자가’ 야노시호 “도쿄 집값, 5년 만에 3배 올라”",
-    "title_ko": "‘50억 자가’ 야노시호 “도쿄 집값, 5년 만에 3배 올라”",
-    "link": "https://www.mk.co.kr/news/culture/12107032",
-    "published": "Fri, 24 Jul 2026 21:02:38 +09:00",
-    "fetched_at": "2026-07-24 21:13:58",
-    "sentiment": "호재",
-    "importance": 2,
-    "sectors": [
-      "부동산",
-      "금융"
-    ],
-    "keywords": [
-      "도쿄 부동산",
-      "집값 상승",
-      "일본 경제",
-      "해외 부동산 투자"
-    ],
-    "reason": "이 기사는 도쿄 부동산 시장의 급격한 가격 상승 현상을 보여주며, 이는 일본의 저금리 기조, 엔화 약세, 그리고 외국인 투자 유입 등 복합적인 요인에 기인할 가능성을 시사합니다. 해외 부동산 투자 동향과 자산 가치 변화에 대한 통찰을 제공합니다.",
-    "action_point": "일본 도쿄 부동산 시장의 추가 상승 여력 및 투자 기회를 면밀히 검토하고, 관련 투자 상품에 대한 분석을 시작하라."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Trump considering a ‘massive attack’ on Iran as Tehran labels UK ‘accomplice’ to America",
-    "title_ko": "트럼프, 이란에 대한 '대규모 공격' 고려 중, 이란은 영국을 미국의 '공범'으로 규정",
-    "link": "https://www.cnbc.com/2026/07/24/us-iran-war-trump-hormuz-houthis.html",
-    "published": "Fri, 24 Jul 2026 07:57:12 GMT",
-    "fetched_at": "2026-07-24 19:54:34",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "에너지",
-      "방산",
-      "항공운송",
-      "화학",
-      "금융"
-    ],
-    "keywords": [
-      "트럼프",
-      "이란",
-      "군사 공격",
-      "지정학적 리스크",
-      "유가",
-      "안전자산"
-    ],
-    "reason": "미국과 이란 간 잠재적 군사 충돌은 중동 지역의 지정학적 긴장을 극도로 고조시키고, 호르무즈 해협 봉쇄 등으로 인한 유가 급등 및 글로벌 공급망 교란을 야기하여 전 세계 금융시장에 심각한 불확실성을 초래할 것입니다.",
-    "action_point": "에너지 및 방산 섹터 비중 확대를 검토하고, 전반적인 위험자산 비중 축소 및 안전자산(금, 달러) 보유를 고려하라."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Oil prices ease but are set for 10% weekly gain as Trump mulls 'bigger than ever' attack on Iran",
-    "title_ko": "유가 하락세 보이나 트럼프의 '전례 없는' 이란 공격 검토로 주간 10% 상승 전망",
-    "link": "https://www.cnbc.com/2026/07/24/oil-price-trump-hormuz-red-sea-iran-war.html",
-    "published": "Fri, 24 Jul 2026 10:27:01 GMT",
-    "fetched_at": "2026-07-24 19:54:50",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "정유/화학",
-      "항공",
-      "운송",
-      "방산"
-    ],
-    "keywords": [
-      "유가",
-      "이란",
-      "지정학적 리스크",
-      "호르무즈 해협"
-    ],
-    "reason": "미국과 이란 간 지정학적 긴장 고조는 국제 유가 상승 압력으로 작용하며, 글로벌 에너지 비용 증가와 인플레이션 우려를 심화시킬 수 있습니다. 이는 전반적인 기업 실적 악화 및 소비 위축으로 이어질 위험이 있습니다.",
-    "action_point": "고유가 및 지정학적 리스크 확산에 대비하여 에너지 고소비 산업 비중을 축소하고 방산 및 원자재 관련 투자 대안을 검토하십시오."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Russian attack cuts power to around 150,000 in Ukraine’s north as Kyiv hits missile, oil facilities",
-    "title_ko": "러시아 공격으로 우크라이나 북부 15만 가구 정전, 키이우는 미사일 및 유류 시설 타격",
-    "link": "https://www.cnbc.com/2026/07/24/russia-ukraine-war-zelenskyy-putin-oil.html",
-    "published": "Fri, 24 Jul 2026 10:07:18 GMT",
-    "fetched_at": "2026-07-24 19:54:41",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "방위산업"
-    ],
-    "keywords": [
-      "러시아-우크라이나 전쟁",
-      "지정학적 리스크",
-      "에너지 가격",
-      "인프라 공격"
-    ],
-    "reason": "러시아-우크라이나 간 에너지 및 군사 시설 타격이 지속되면서 지정학적 리스크가 고조될 수 있습니다. 이는 유가 등 원자재 가격에 상방 압력을 가하고, 글로벌 위험 회피 심리를 자극할 가능성이 있습니다.",
-    "action_point": "에너지 및 방산 섹터에 대한 투자 비중 유지 또는 확대 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Volkswagen CFO addresses plant closures, job losses as profits sink",
-    "title_ko": "폭스바겐 CFO, 이익 감소 속 공장 폐쇄 및 인력 감축 언급",
-    "link": "https://www.cnbc.com/2026/07/24/volkswagen-earnings-autos-germany.html",
-    "published": "Fri, 24 Jul 2026 07:56:12 GMT",
-    "fetched_at": "2026-07-24 19:54:58",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "자동차",
-      "산업재",
-      "소비재",
-      "유럽 경제"
-    ],
-    "keywords": [
-      "폭스바겐",
-      "실적 부진",
-      "판매 전망 하향",
-      "자동차 산업",
-      "독일 경제"
-    ],
-    "reason": "폭스바겐의 예상보다 부진한 실적과 판매 전망 하향은 글로벌 자동차 산업 둔화와 특히 유럽 경제 전반의 성장세 약화를 시사하며, 관련 공급망 및 고용 시장에도 부정적 영향을 미 미칠 수 있습니다.",
-    "action_point": "자동차 및 관련 산업재 섹터의 투자 비중 축소 또는 신규 진입 보수적 접근을 검토하십시오."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "트럼프 “선박·화물 전쟁 피해, 미국 보유 이란 자금으로 배상” - 한겨레",
-    "title_ko": "트럼프 “선박·화물 전쟁 피해, 미국 보유 이란 자금으로 배상” - 한겨레",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5uVm40WTJTeWVEMEkxRmQzY1VOSUFBUHY3MTVDVWVDX3ZIUWtSaGpBT2F1cU0ydWNsUFV5R05hOE1jWUVtdnZfYmtQaHU3SHNraXZrOUhYSEs3SThoWmhpS2RBc2dqSW1VR3FiV0d4d08yZWc?oc=5",
-    "published": "Fri, 24 Jul 2026 00:40:00 GMT",
-    "fetched_at": "2026-07-24 19:55:16",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "방산",
-      "해운"
-    ],
-    "keywords": [
-      "트럼프",
-      "이란",
-      "중동 정세",
-      "지정학적 리스크",
-      "유가"
-    ],
-    "reason": "트럼프의 강경한 대이란 발언은 향후 중동 지정학적 리스크를 고조시키고 글로벌 유가에 상승 압력을 가할 수 있습니다. 이는 국제 금융 시장의 불확실성을 키울 가능성이 있습니다.",
-    "action_point": "중동 지정학적 리스크 증가에 대비하여 에너지 및 방산 섹터 비중 확대 검토."
   }
 ]
