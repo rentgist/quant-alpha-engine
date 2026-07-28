@@ -1,5 +1,203 @@
 [
   {
+    "source": "CNBC_World",
+    "title": "Iran hosts Hormuz calls with Saudi Arabia, Oman as Trump hails ‘good talks’",
+    "title_ko": "이란, 사우디 및 오만과 호르무즈 해협 관련 회담 개최, 트럼프는 ‘좋은 대화’ 평가",
+    "link": "https://www.cnbc.com/2026/07/28/us-iran-war-trump-hormuz.html",
+    "published": "Tue, 28 Jul 2026 06:59:36 GMT",
+    "fetched_at": "2026-07-28 16:33:39",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "해운"
+    ],
+    "keywords": [
+      "이란",
+      "호르무즈 해협",
+      "사우디아라비아",
+      "오만",
+      "정세 안정",
+      "원유"
+    ],
+    "reason": "호르무즈 해협은 세계 원유 수송의 핵심 통로로, 관련국들의 대화는 중동 지역의 긴장 완화 및 원유 공급 안정화 기대감을 높인다. 이는 글로벌 유가 변동성 감소에 긍정적 영향을 미칠 수 있다.",
+    "action_point": "유가 안정화 기조에 따라 에너지 관련 자산의 투자 비중 재검토."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "CNBC Daily Open: Chipping away at the AI boom",
+    "title_ko": "CNBC 데일리 오픈: AI 붐에 균열이 가고 있다",
+    "link": "https://www.cnbc.com/2026/07/28/daily-open-ai-boom-chip-selloff-sk-hynix.html",
+    "published": "Tue, 28 Jul 2026 06:16:04 GMT",
+    "fetched_at": "2026-07-28 16:33:48",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "기술주",
+      "반도체",
+      "소프트웨어",
+      "인공지능"
+    ],
+    "keywords": [
+      "AI",
+      "기술주",
+      "매도세",
+      "시장 조정",
+      "반도체"
+    ],
+    "reason": "AI 관련주 급락은 최근 시장 상승을 견인했던 기술주 강세장에 균열이 발생하고 있음을 시사합니다. 이는 투자 심리 위축과 자금 흐름 변화를 초래하여 광범위한 시장 조정으로 이어질 수 있습니다.",
+    "action_point": "AI 및 고평가된 기술주에 대한 비중 축소를 검토하고 포트폴리오의 안정성을 강화할 방안을 모색하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "트럼프, 2개 전쟁 해법 논의‥네타냐후·젤렌스키와 연쇄회담 예고 - MBC 뉴스",
+    "title_ko": "트럼프, 2개 전쟁 해법 논의‥네타냐후·젤렌스키와 연쇄회담 예고 - MBC 뉴스",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBGT0ZrSjZWVkd6cnA1MjlCRHFic2RlbTBMR19YNFJjLTY4R1g4MXNUN3ZyenFQTmQyX1RSWmt5ZzNWeFFEYVk3d1YtdE90SmNKdzRQcFRLS3pMeUNwRGNsSEhmcHRCQ0x5XzZMWkFlOWI5Zm5V0gF0QVVfeXFMTjNsWENEd0pVeDdvR0Q2dTFIWWF0dV9HV1NfMHFValVjOUtkSXBuLXFfekNhaUdzYlVZM3B3MW5zSUJRekRndk5QY1BKRzhBY01CblVNMlFXSU5xV0VpY25yWDV4dW9EVDFhbHJUbVJBYXh3cUE?oc=5",
+    "published": "Tue, 28 Jul 2026 00:23:23 GMT",
+    "fetched_at": "2026-07-28 16:34:10",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "지정학",
+      "에너지",
+      "방산",
+      "원자재",
+      "글로벌 증시"
+    ],
+    "keywords": [
+      "트럼프",
+      "지정학",
+      "우크라이나",
+      "이스라엘",
+      "전쟁",
+      "중동"
+    ],
+    "reason": "트럼프의 전 세계 주요 분쟁 해결 의지 표명은 지정학적 불확실성 완화 기대를 높여 시장의 위험 선호 심리를 자극할 수 있다. 그러나 트럼프의 예측 불가능성과 실제 갈등 해결까지의 난항으로 인한 불확실성은 여전히 존재한다.",
+    "action_point": "지정학적 리스크 완화 가능성을 염두에 두고 에너지 및 방산 섹터 투자 비중을 재검토하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "title": "단일종목 레버리지 개인별 투자한도 검토…‘총 투자액 20% 이내’",
+    "title_ko": "단일종목 레버리지 개인별 투자한도 검토…‘총 투자액 20% 이내’",
+    "link": "https://www.mk.co.kr/news/stock/12109508",
+    "published": "Tue, 28 Jul 2026 16:22:02 +09:00",
+    "fetched_at": "2026-07-28 16:34:36",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "증권",
+      "금융",
+      "고위험 성장주",
+      "테마주"
+    ],
+    "keywords": [
+      "단일종목 레버리지",
+      "투자한도",
+      "금융위원회",
+      "투기 억제",
+      "개인투자",
+      "변동성"
+    ],
+    "reason": "금융당국이 개인의 단일종목 레버리지 투자한도를 '총 투자액의 20% 이내'로 제한하는 방안을 검토 중이며, 이는 투기적 거래를 억제하고 시장 과열을 식히려는 목적입니다. 이는 특정 고위험 성장주나 테마주의 변동성 확대 및 거래량 감소로 이어질 수 있습니다.",
+    "action_point": "개별 종목 레버리지 제한으로 인한 투기성 자금 이탈 가능성이 높은 성장주 및 테마주 비중 축소를 검토."
+  },
+  {
+    "source": "Maeil_Business",
+    "title": "소비심리 석달째 개선...집값 상승 기대 4년10개월만에 최고",
+    "title_ko": "소비심리 석달째 개선...집값 상승 기대 4년10개월만에 최고",
+    "link": "https://www.mk.co.kr/news/economy/12109504",
+    "published": "Tue, 28 Jul 2026 16:18:30 +09:00",
+    "fetched_at": "2026-07-28 16:34:42",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "부동산",
+      "소비재",
+      "유통",
+      "금융",
+      "반도체"
+    ],
+    "keywords": [
+      "소비심리",
+      "주택가격",
+      "인플레이션 기대",
+      "반도체 수출",
+      "임금 상승"
+    ],
+    "reason": "소비심리 개선과 주택가격 상승 기대는 국내 경제 활동 및 자산 가치 상승 가능성을 시사하며, 기대 인플레이션 하락은 통화정책 부담 완화에 긍정적입니다.",
+    "action_point": "국내 소비 관련주 및 부동산 섹터 투자 비중 확대 검토."
+  },
+  {
+    "source": "Maeil_Business",
+    "title": "293만명 ‘빚 족쇄’ 풀어줬더니…신용사면 6명 중 1명 다시 연체",
+    "title_ko": "293만명 ‘빚 족쇄’ 풀어줬더니…신용사면 6명 중 1명 다시 연체",
+    "link": "https://www.mk.co.kr/news/economy/12109500",
+    "published": "Tue, 28 Jul 2026 16:14:58 +09:00",
+    "fetched_at": "2026-07-28 16:35:01",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "금융",
+      "소비재"
+    ],
+    "keywords": [
+      "신용사면",
+      "연체",
+      "가계부채",
+      "소비심리"
+    ],
+    "reason": "신용사면 후에도 상당수가 다시 연체하는 것은 저소득층의 가계 재정 취약성이 심각하며, 이는 금융권의 부실 채권 증가와 전반적인 내수 소비 위축으로 이어질 수 있습니다.",
+    "action_point": "가계 부채 리스크에 노출된 국내 금융주 및 필수 소비재를 제외한 내수 소비 관련주 비중 축소를 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "이 대통령 \"한-브라질 동반자 관계 도약 원년…경제협력 기반 강화\" - 대한민국 정책브리핑",
+    "title_ko": "이 대통령 \"한-브라질 동반자 관계 도약 원년…경제협력 기반 강화\" - 대한민국 정책브리핑",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zLWN4bUtrR0RIekt2RGtKN3hOeXVEOHMwRHlTd28wZFR2bGhUaV9UOUJkZ0hIZE1aVHR0M25MZjB3SDhFeHRZMnU2STN0dXVEM1NjUE9PRy1DNlU2Uk12cnVRc2xWaV85dVJsZA?oc=5",
+    "published": "Tue, 28 Jul 2026 01:43:43 GMT",
+    "fetched_at": "2026-07-28 16:34:23",
+    "sentiment": "호재",
+    "importance": 2,
+    "sectors": [
+      "무역/상사",
+      "건설/인프라",
+      "원자재",
+      "운송"
+    ],
+    "keywords": [
+      "한국-브라질",
+      "경제협력",
+      "신흥시장",
+      "무역확대",
+      "대통령"
+    ],
+    "reason": "한국과 브라질 간 경제협력 강화는 중남미 최대 경제국인 브라질 시장에 대한 국내 기업들의 진출 확대 및 자원 확보의 장기적 발판을 마련할 수 있어 관련 산업에 긍정적이다.",
+    "action_point": "브라질 시장 진출 잠재력이 높은 국내 무역, 건설, 인프라 관련 기업을 선제적으로 발굴하여 투자 기회를 모색하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "title": "폭염 장기화에 전국 화재위험경보 ‘경계’ 발령…냉방기기 화재 비상",
+    "title_ko": "폭염 장기화에 전국 화재위험경보 ‘경계’ 발령…냉방기기 화재 비상",
+    "link": "https://www.mk.co.kr/news/society/12109498",
+    "published": "Tue, 28 Jul 2026 16:11:00 +09:00",
+    "fetched_at": "2026-07-28 16:35:16",
+    "sentiment": "악재",
+    "importance": 2,
+    "sectors": [
+      "보험",
+      "가전"
+    ],
+    "keywords": [
+      "폭염",
+      "화재",
+      "냉방기기",
+      "전기화재",
+      "소방청"
+    ],
+    "reason": "장기화된 폭염으로 인한 냉방기기 과부하 및 노후 설비 문제로 전국적으로 화재 발생 위험이 증대되어 인명 및 재산 피해가 증가할 수 있으며, 이는 특히 국내 손해보험사의 손해율 악화로 이어질 수 있습니다.",
+    "action_point": "국내 손해보험 섹터의 단기적 실적 하방 압력 증대 가능성 고려."
+  },
+  {
     "source": "GoogleNews_Korea",
     "title": "[속보]코스피, 8% 폭락에 서킷브레이커…올 들어 8번째 - 경향신문",
     "title_ko": "[속보]코스피, 8% 폭락에 서킷브레이커…올 들어 8번째",
@@ -2684,202 +2882,5 @@
     ],
     "reason": "이 기사는 특정 개별 주식들의 프리마켓 움직임을 단순 보도하는 것으로, 전반적인 시장이나 거시 경제에 미치는 실질적인 영향은 미미합니다.",
     "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "트럼프·네타냐후, 28일 회담...전쟁 개시 후 첫 대면 주목 - YTN",
-    "title_ko": "트럼프·네타냐후, 28일 회담...전쟁 개시 후 첫 대면 주목 - YTN",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4tdE1TRFp4d0VDTkI2SjRkb0JBVEJCOWtWTVBqOEVraGU2WXpTdGZaWllmYWZXcmlHdWtiZHh6akdET0ZNdkZ3Rlo4eUFtUTdoV3FUREtaX2dBRWVEXzJtX3pXU3BHV2tBUllEa3laSzczcGlnYVE?oc=5",
-    "published": "Fri, 24 Jul 2026 21:25:00 GMT",
-    "fetched_at": "2026-07-25 08:59:02",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "방위산업"
-    ],
-    "keywords": [
-      "트럼프",
-      "네타냐후",
-      "중동",
-      "지정학",
-      "전쟁"
-    ],
-    "reason": "전 미국 대통령과 이스라엘 총리의 이번 회담은 중동 전쟁의 향방과 미국의 향후 대외 정책 기조에 영향을 미칠 수 있으며, 이는 국제 유가 및 지정학적 리스크 확대 가능성을 내포합니다.",
-    "action_point": "중동 지정학적 리스크에 민감한 에너지 및 방산 섹터 비중을 재검토하고, 달러 자산 비중 유지를 고려."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "다시 100달러 돌파한 국제유가…하반기 '2%대 물가' 사수 가능할까 - 연합인포맥스",
-    "title_ko": "다시 100달러 돌파한 국제유가…하반기 '2%대 물가' 사수 가능할까",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sTmNGLU5DeXQ0NDJndzVRQnp4WnZBWjVJXzJsUnEtY0cwbTF4NlNlQXJBWTUwYjJZM05KamowSkhPc2w1YXBVbVg2WnJRTVMzYTc0aG0ycDRzd3Q2NWplVmFTYklrUHZoMGpZLU9sX3k?oc=5",
-    "published": "Fri, 24 Jul 2026 22:29:00 GMT",
-    "fetched_at": "2026-07-25 07:57:31",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "항공운수",
-      "물류",
-      "제조업",
-      "소비재",
-      "금융"
-    ],
-    "keywords": [
-      "국제유가",
-      "인플레이션",
-      "물가상승",
-      "금리인상",
-      "원자재",
-      "고유가"
-    ],
-    "reason": "국제유가 100달러 돌파는 전반적인 물가 상승 압력을 가중시켜 인플레이션 장기화 및 각국 중앙은행의 금리 인하 지연 가능성을 높이며, 국내 경제는 원자재 수입 비용 증가로 인한 부담이 커질 것입니다.",
-    "action_point": "고유가발 인플레이션 재점화 우려로 금리 인하 시점 지연 가능성에 대비, 금리 민감 자산 비중을 재검토하고 달러 자산 보유 비중을 유지하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "[뉴욕증시] 이란 리스크·반도체 매도세에 나스닥 161p↓...마이크론 7% 급락 - 글로벌이코노믹",
-    "title_ko": "[뉴욕증시] 이란 리스크·반도체 매도세에 나스닥 161p↓...마이크론 7% 급락",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONTQxaWk1WU9BbmZWYWJBclB2a1YwR3pGOG52MjdKLUNUX2k0U0JxY1hSbzJpOUVZX3lrXy1QX0RnRnAzdzluZ3VhS1JmTWtVRGVnVGZPcnpxOW9qLTc1WXVURWRqU1BBYm1kTWk1d05oRTFOM18xYnNvNE5qaXBWbDhuUzFoLWpZ?oc=5",
-    "published": "Fri, 24 Jul 2026 21:34:21 GMT",
-    "fetched_at": "2026-07-25 06:57:25",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "반도체",
-      "기술주",
-      "글로벌 증시",
-      "에너지"
-    ],
-    "keywords": [
-      "이란 리스크",
-      "반도체",
-      "나스닥",
-      "글로벌 증시",
-      "지정학적 리스크",
-      "마이크론"
-    ],
-    "reason": "지정학적 리스크 고조와 함께 주요 반도체 기업의 급락은 글로벌 기술주 전반에 대한 투자심리를 위축시키고 시장 변동성을 확대시킬 수 있습니다. 이는 국내 증시에도 간접적인 하방 압력으로 작용할 수 있습니다.",
-    "action_point": "반도체 및 성장주 섹터 비중 축소 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Musk's bad week: Tesla suffers worst slump since 2022, SpaceX drops ahead of Starship test flight",
-    "title_ko": "머스크의 힘든 한 주: 테슬라 2022년 이후 최악의 폭락, 스페이스X 스타십 시험 비행 앞두고 하락",
-    "link": "https://www.cnbc.com/2026/07/24/tesla-tsla-spacex-spcx-stock-starship-test-flight-musk-bad-week.html",
-    "published": "Fri, 24 Jul 2026 20:20:05 GMT",
-    "fetched_at": "2026-07-25 06:57:08",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "전기차",
-      "기술주",
-      "우주항공"
-    ],
-    "keywords": [
-      "테슬라",
-      "일론 머스크",
-      "실적 부진",
-      "전기차",
-      "현금흐름"
-    ],
-    "reason": "테슬라의 실적 부진과 현금 흐름 악화는 전기차 시장의 성장 둔화 우려를 심화시키고, 고성장 기술주 전반에 대한 투자 심리에 부정적인 영향을 미칠 수 있습니다.",
-    "action_point": "전기차 섹터 및 고성장 기술주에 대한 비중 축소를 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "8차 석유 최고가격 동결‥\"서민경제 부담 고려\" - MBC 뉴스",
-    "title_ko": "8차 석유 최고가격 동결‥\"서민경제 부담 고려\" - MBC 뉴스",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5COW1CdWN3TWlIYVZYRVFuU3dpODBBS3dwaDNjQUNsVlM4d1B0ZzhoMFNvSEdtZE84QjcwZFlmQlpHaFlaMG1BXzJXRl9SSHE2X3VDNl9xRHVOVi0tVkZ3dzQ4WkVEaVJoemIwZkNSUEdWOE9O0gF0QVVfeXFMT0RiNVFSWm91NDlqMXJWZDVuUkR1ZkFFOEdmVGpBTmpGWVRmM3JHUlVsOEVPanM3QXFvWmVNSmZPU0laU0Y3cEo4eG1XNFd0d1RmZy01c0EzQ3d4QXU1bmIwTWNEWTR6VEROOVpjZW5CQ2xIMTk?oc=5",
-    "published": "Fri, 24 Jul 2026 10:01:58 GMT",
-    "fetched_at": "2026-07-25 06:57:17",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "소비재",
-      "유통",
-      "운송"
-    ],
-    "keywords": [
-      "석유가격",
-      "물가안정",
-      "소비심리"
-    ],
-    "reason": "국내 유류 가격 안정을 통해 가계 및 기업의 유류비 부담을 경감시켜 물가 상승 압력을 완화하고 소비 심리 회복에 긍정적인 영향을 미칠 수 있습니다.",
-    "action_point": "국내 물가 안정에 따른 소비심리 개선 효과를 감안하여 필수 소비재 및 유통, 운송 섹터 비중 확대를 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Trump threatens EU with 'substantial TARIFF' for 'ROBBING' U.S. tech giants",
-    "title_ko": "트럼프, '미국 기술 기업 강탈' EU에 '상당한 관세' 부과 위협",
-    "link": "https://www.cnbc.com/2026/07/24/trump-tariffs-eu-trade-google-apple-tech.html",
-    "published": "Fri, 24 Jul 2026 19:39:50 GMT",
-    "fetched_at": "2026-07-25 05:11:20",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "IT",
-      "자동차",
-      "소비재",
-      "화학"
-    ],
-    "keywords": [
-      "트럼프",
-      "EU",
-      "관세",
-      "무역 분쟁",
-      "기술 기업"
-    ],
-    "reason": "트럼프의 EU에 대한 관세 부과 위협은 글로벌 무역 긴장을 고조시키고, 미국과 유럽 간 교역에 의존하는 기업들의 불확실성을 증대시켜 특히 기술 및 제조업 분야에 부정적 영향을 미칠 수 있습니다.",
-    "action_point": "미국-EU 무역 분쟁 심화 가능성에 대비하여 유럽 시장 수출 비중이 높은 국내외 기업에 대한 투자 비중 축소를 검토."
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "‘AI 고속도로’ 병목 해결사…미국 광통신株 성장성 눈부시네",
-    "title_ko": "‘AI 고속도로’ 병목 해결사…미국 광통신株 성장성 눈부시네",
-    "link": "https://www.mk.co.kr/news/stock/12106951",
-    "published": "Sat, 25 Jul 2026 05:00:00 +09:00",
-    "fetched_at": "2026-07-25 05:11:34",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "광통신",
-      "반도체",
-      "IT 하드웨어",
-      "AI 인프라"
-    ],
-    "keywords": [
-      "AI",
-      "광통신",
-      "데이터 전송",
-      "인프라",
-      "GPU"
-    ],
-    "reason": "AI 기술 발전의 핵심 병목 구간이 광통신 인프라로 이동하며 관련 산업의 폭발적인 성장 가능성을 시사하고, 이는 새로운 투자 테마로 부상할 수 있습니다.",
-    "action_point": "AI 인프라 확장에 따른 수혜가 예상되는 미국 광통신 및 관련 반도체 섹터 비중 확대 검토."
-  },
-  {
-    "source": "CNBC_Finance",
-    "title": "Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others",
-    "title_ko": "무디스, '전례 없는' AI 지출이 아마존, 메타, 알파벳 등 기업의 신용 등급을 위협한다고 경고",
-    "link": "https://www.cnbc.com/2026/07/24/moodys-ai-spending-credit-quality-amazon-meta-alphabet.html",
-    "published": "Fri, 24 Jul 2026 17:37:49 GMT",
-    "fetched_at": "2026-07-25 03:11:53",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "기술",
-      "클라우드 컴퓨팅",
-      "반도체"
-    ],
-    "keywords": [
-      "AI 투자",
-      "신용 등급",
-      "부채",
-      "대형 기술주",
-      "무디스"
-    ],
-    "reason": "무디스가 주요 기술 기업의 과도한 AI 투자로 인한 부채 증가와 신용 등급 하락 가능성을 경고하며, 이는 해당 기업의 재무 건전성 및 향후 성장 전략에 대한 불확실성을 높입니다.",
-    "action_point": "대형 기술주, 특히 AI 투자 비중이 높은 기업들의 재무제표와 부채 수준을 면밀히 검토하고, 과도한 부채 레버리징 위험에 대비하여 포트폴리오 비중 조정을 고려."
   }
 ]
