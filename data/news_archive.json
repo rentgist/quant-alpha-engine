@@ -1,5 +1,54 @@
 [
   {
+    "source": "CNBC_Finance",
+    "title": "The future of Wall Street is here as startups and brokers build AI agents to trade 24/7",
+    "title_ko": "월스트리트의 미래가 왔다: 스타트업과 증권사, 24시간 거래하는 AI 에이전트 구축 중",
+    "link": "https://www.cnbc.com/2026/07/28/ai-agents-build-to-trade-24/7-the-future-of-wall-street.html",
+    "published": "Tue, 28 Jul 2026 15:00:21 GMT",
+    "fetched_at": "2026-07-29 00:12:45",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "금융서비스",
+      "기술",
+      "핀테크"
+    ],
+    "keywords": [
+      "AI",
+      "인공지능",
+      "자동화",
+      "트레이딩",
+      "금융기술",
+      "증권사"
+    ],
+    "reason": "AI 기반 트레이딩 에이전트 도입은 금융 시장의 효율성과 유동성을 증대시키고 운용 비용을 절감할 수 있으나, 시장 변동성 및 고용 시장에 미칠 장기적 영향을 주시해야 합니다.",
+    "action_point": "핀테크 및 AI 관련 기술 기업의 성장 잠재력을 분석하고 포트폴리오 편입을 검토하라."
+  },
+  {
+    "source": "CNBC_Finance",
+    "title": "Visa is cutting 7% of employees in efficiency push as AI reshapes work",
+    "title_ko": "비자, AI 시대 효율성 강화 위해 직원 7% 감축 발표",
+    "link": "https://www.cnbc.com/2026/07/28/visa-is-cutting-7percent-of-employees-in-efficiency-push-as-ai-reshapes-work.html",
+    "published": "Tue, 28 Jul 2026 14:42:56 GMT",
+    "fetched_at": "2026-07-29 00:12:55",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "결제",
+      "핀테크",
+      "기술/AI"
+    ],
+    "keywords": [
+      "비자",
+      "감원",
+      "효율성",
+      "AI",
+      "결제 산업"
+    ],
+    "reason": "비자의 대규모 감원은 AI 기술 도입을 통한 기업들의 비용 절감 및 효율성 증대 추세를 반영하며, 이는 장기적으로 기업 수익성에는 긍정적이나 특정 산업의 노동 시장에는 구조적 변화를 가져올 수 있습니다.",
+    "action_point": "포트폴리오 내 AI 기반 생산성 향상이 기대되는 기업 비중을 확대하는 방안을 고려."
+  },
+  {
     "source": "CNBC_World",
     "title": "Wildfires burn nearly 300,000 acres in France and Spain as heat wave looms",
     "title_ko": "프랑스 및 스페인 산불 30만 에이커 소실, 폭염 임박",
@@ -2832,56 +2881,5 @@
     ],
     "reason": "엔비디아가 SK하이닉스의 HBM 공급을 확보한 것은 AI 반도체 수요가 견조함을 다시 한번 확인시켜주며, SK하이닉스의 시장 지위와 반도체 섹터 전반의 성장 기대감을 높입니다. 이는 AI 시대 핵심 부품 공급망이 공고해지고 있음을 시사합니다.",
     "action_point": "SK하이닉스 포함 HBM 관련 국내 반도체 섹터 비중 확대를 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "\"하반기 부동산 시장 답 없다\"...전문가 전망 보니 [굿모닝경제] - YTN",
-    "title_ko": "하반기 부동산 시장 답 없다\"...전문가 전망 보니 [굿모닝경제] - YTN",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9NYXVGOU5LZGtndXZJbG1oYUtUUTRMUnp5S24yR1NPT1RJZW5oazNsczc2c1oyNUFncnVIdVJVVld3NVR2VDk4bktiejZVN1FPUFdQUmdPY3lodXNnQ0E?oc=5",
-    "published": "Thu, 23 Jul 2026 22:57:00 GMT",
-    "fetched_at": "2026-07-25 16:51:26",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "부동산",
-      "건설",
-      "금융",
-      "건자재"
-    ],
-    "keywords": [
-      "부동산",
-      "하반기",
-      "전망",
-      "주택시장"
-    ],
-    "reason": "하반기 부동산 시장의 부정적 전망은 국내 건설 및 금융 섹터에 대한 투자 심리를 위축시키고, 가계 자산 가치 하락으로 전반적인 소비 둔화로 이어질 수 있습니다.",
-    "action_point": "국내 부동산 및 건설 관련 자산 비중 축소를 검토하고, 금융 섹터의 부동산 대출 건전성 악화 가능성에 대비하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "NYT “트럼프 새 관세, 미국 경제도 위협” - KBS 뉴스",
-    "title_ko": "NYT “트럼프 새 관세, 미국 경제도 위협”",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1WdXFpN3NaNzZndFpqTHFIMlhxR2N5QWZJSWMxOExtX0lleEJIcjNDcWpkd0VaUlBBTU91LTEzVk42ZjljdW5HbWltYk1nck1XZGNHc0s2R1ZvNkU?oc=5",
-    "published": "Sat, 25 Jul 2026 03:05:00 GMT",
-    "fetched_at": "2026-07-25 16:51:54",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "무역",
-      "제조업",
-      "운송",
-      "기술주",
-      "소비재"
-    ],
-    "keywords": [
-      "트럼프",
-      "관세",
-      "미국 경제",
-      "무역 전쟁",
-      "글로벌 공급망",
-      "인플레이션"
-    ],
-    "reason": "트럼프의 새 관세 정책은 미국 경제뿐만 아니라 글로벌 무역 마찰을 심화시키고 공급망 불안정 및 인플레이션 압력을 가중시켜 세계 경제 성장 둔화를 야기할 수 있는 강력한 악재이다.",
-    "action_point": "글로벌 무역 마찰에 취약한 수출 중심 산업 및 공급망 관련 섹터 비중 축소를 검토하라."
   }
 ]
