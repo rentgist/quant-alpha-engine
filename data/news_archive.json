@@ -1,5 +1,29 @@
 [
   {
+    "source": "CNBC_Finance",
+    "title": "Short sellers are wasting no time pouncing on SK Hynix U.S. shares after their debut this month",
+    "title_ko": "SK하이닉스 미국 주식, 상장 직후 공매도 세력 급증",
+    "link": "https://www.cnbc.com/2026/07/29/short-sellers-are-wasting-no-time-pouncing-on-sk-hynix-us-shares-after-their-debut-this-month.html",
+    "published": "Wed, 29 Jul 2026 16:47:49 GMT",
+    "fetched_at": "2026-07-30 02:05:16",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "반도체",
+      "AI 하드웨어",
+      "기술"
+    ],
+    "keywords": [
+      "SK하이닉스",
+      "공매도",
+      "AI 하드웨어",
+      "반도체",
+      "주식"
+    ],
+    "reason": "SK하이닉스 미국 주식에 대한 공매도 증가는 AI 관련 주식의 과열 또는 단기 조정 가능성에 대한 시장의 경계심을 반영하며, 이는 반도체 섹터 전반에 하방 압력을 가할 수 있습니다.",
+    "action_point": "SK하이닉스를 포함한 AI 관련 반도체 주식의 단기 조정 가능성에 대비하여 포트폴리오 비중을 재검토하라."
+  },
+  {
     "source": "CNBC_World",
     "title": "Nike was once China's sneaker king. Here's why its sales have fallen 30%",
     "title_ko": "나이키, 한때 중국 운동화 시장의 제왕이었으나 매출 30% 급락한 이유",
@@ -2867,24 +2891,5 @@
     ],
     "reason": "국제유가 상승은 국내 물가 압력을 가중시켜 한국은행의 금리 인상 가능성을 높이고, 원화 약세로 이어져 수입 물가 상승 및 기업 비용 부담을 심화시킬 것입니다.",
     "action_point": "원화 약세 및 인플레이션 헤지를 위해 달러 자산 비중 유지 및 에너지/원자재 관련 투자 상품 편입을 검토하십시오."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Vehicle mows down crowd at Berlin Pride festival, killing one",
-    "title_ko": "베를린 프라이드 축제에서 차량이 군중 돌진, 1명 사망",
-    "link": "https://www.cnbc.com/2026/07/26/vehicle-mows-down-crowd-at-berlin-pride-festival-killing-one.html",
-    "published": "Sun, 26 Jul 2026 06:15:59 GMT",
-    "fetched_at": "2026-07-26 20:55:30",
-    "sentiment": "악재",
-    "importance": 2,
-    "sectors": [],
-    "keywords": [
-      "베를린",
-      "차량 돌진",
-      "사망",
-      "프라이드 축제"
-    ],
-    "reason": "베를린에서 발생한 국지적 사건으로, 직접적인 글로벌 시장 및 매크로 경제에 미칠 영향은 제한적이다. 다만, 유사 사건 발생 시 일시적인 안전자산 선호 심리가 유발될 수 있다.",
-    "action_point": "해당 없음"
   }
 ]
