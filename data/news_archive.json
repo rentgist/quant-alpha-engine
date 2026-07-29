@@ -1,5 +1,53 @@
 [
   {
+    "source": "CNBC_World",
+    "title": "Here are the five big takeaways from this week's Fed meeting",
+    "title_ko": "이번 주 연준 회의의 주요 5가지 시사점",
+    "link": "https://www.cnbc.com/2026/07/29/here-are-the-five-big-takeaways-from-this-weeks-fed-meeting.html",
+    "published": "Wed, 29 Jul 2026 20:42:50 GMT",
+    "fetched_at": "2026-07-30 06:50:30",
+    "sentiment": "중립",
+    "importance": 5,
+    "sectors": [
+      "금융",
+      "부동산",
+      "기술 성장주",
+      "채권"
+    ],
+    "keywords": [
+      "연준",
+      "금리 동결",
+      "통화정책"
+    ],
+    "reason": "연준의 금리 동결 결정은 시장 예상에 부합하며 불확실성을 해소했으나, 향후 금리 인하 시점에 대한 명확한 신호는 부재하여 시장은 당분간 관망세를 유지할 가능성이 높다.",
+    "action_point": "시장 예상 부합 금리 동결로 통화정책 불확실성은 낮아졌으나, 금리 인하 기대감 후퇴 가능성에 대비하여 장기채 비중 축소 및 금리 민감 성장주에 대한 보수적 접근 유지."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "[속보] 미국채 30년물 금리 5.2%대로 급등…2007년 이후 최고 - 중앙일보",
+    "title_ko": "미국채 30년물 금리 5.2%대로 급등…2007년 이후 최고",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EUHQxMXhrd2dKUnVNTjlpNzhLbjkyTnlTUTRZLVlMckp4QVhKQVpoM3RHT1p6YmtucTZHY3JKb3hveDVwd3Z6THJGTFZWcjFLV2lBYndR?oc=5",
+    "published": "Wed, 29 Jul 2026 20:04:18 GMT",
+    "fetched_at": "2026-07-30 06:50:42",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "주식시장 전체",
+      "부동산",
+      "기술주",
+      "채권시장",
+      "금융주"
+    ],
+    "keywords": [
+      "미국채 금리",
+      "고금리",
+      "글로벌 유동성",
+      "긴축"
+    ],
+    "reason": "미국 장기채 금리 급등은 글로벌 금융 긴축 가속화를 의미하며, 위험자산의 할인율을 높여 주식 및 부동산 등 자산 가치 하락 압력으로 작용합니다.",
+    "action_point": "위험자산 비중 축소 및 달러 자산 보유 확대를 검토하십시오."
+  },
+  {
     "source": "CNBC_Finance",
     "title": "Here's what changed in the second Fed statement under Warsh",
     "title_ko": "워시 재임 중 두 번째 연준 성명서에서 변경된 내용",
@@ -2858,47 +2906,5 @@
     ],
     "reason": "네타냐후의 강경 발언은 중동 지역의 지정학적 긴장을 최고조로 끌어올리며, 이란 핵 프로그램을 둘러싼 갈등이 장기화되거나 무력 충돌로 확대될 위험을 높입니다. 이는 글로벌 유가 상승 압력으로 작용하고, 전반적인 위험 회피 심리를 강화하여 주식 시장에 부정적 영향을 미칠 수 있습니다.",
     "action_point": "중동 지정학적 위험 고조에 따른 유가 상승 가능성을 고려하여 에너지 및 방산 섹터에 대한 투자 전략을 재검토하고, 위험 자산 비중 축소를 검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "40도 폭염보다 무섭다…내 '주식 수익률' 떨어지는 이유 - 한국경제",
-    "title_ko": "40도 폭염보다 무섭다…내 '주식 수익률' 떨어지는 이유",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9rWFZHNVlHVXRlSHluNm1QTHdsTVRiOXI2R3lSRHJxMU1EWnotTkJaMFFpdGUxNEx3eHNWaGVzenF0ZW1KN19wZzNtYzBDaW5yT2s5UEZXOXB2Zw?oc=5",
-    "published": "Sun, 26 Jul 2026 16:12:00 GMT",
-    "fetched_at": "2026-07-27 02:55:36",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "전반적인 주식 시장"
-    ],
-    "keywords": [
-      "주식 수익률",
-      "시장 하락 요인",
-      "투자 심리"
-    ],
-    "reason": "이 기사는 전반적인 주식 시장의 수익률 하락 원인을 분석하여 투자자들의 우려를 반영하고 있으며, 이는 시장 전반의 투자 심리 위축 및 잠재적 거시경제적 하방 압력을 시사합니다.",
-    "action_point": "변동성 확대에 대비하여 주식 포트폴리오를 점검하고 위험 관리 전략을 강화하십시오."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "'기피시설'이었던 교정시설‥지방 소멸 위기속 유치 경쟁 심화 - MBC 뉴스",
-    "title_ko": "'기피시설'이었던 교정시설‥지방 소멸 위기속 유치 경쟁 심화 - MBC 뉴스",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9fazFGcGlxTjNGRDVoQzRVWXdIWGJUNGZRa1B1dTBhY0xCWHhUS050a0hTVU1lbnhORW1rZDFuV2FnSFB0LWhuQ0g3NmNGeUN5RGs3ckpDWndlY2tJTHlHSGdWUjdHcldZX3FFSm40X3VOX01uaFVQag?oc=5",
-    "published": "Sun, 26 Jul 2026 11:14:16 GMT",
-    "fetched_at": "2026-07-27 01:50:28",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "부동산",
-      "건설"
-    ],
-    "keywords": [
-      "교정시설",
-      "지방소멸",
-      "유치경쟁",
-      "지역경제"
-    ],
-    "reason": "지방 소멸 위기의 심각성을 재확인하며 지역 부동산 및 인구 구조 변화에 대한 장기적 관점의 우려를 높인다. 단기적으로는 특정 지역의 건설 투자 유발 가능성이 있다.",
-    "action_point": "지방 소멸 위험이 높은 지역의 부동산 투자 비중 축소 검토."
   }
 ]
