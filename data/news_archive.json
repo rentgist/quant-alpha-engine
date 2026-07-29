@@ -1,5 +1,123 @@
 [
   {
+    "source": "CNBC_World",
+    "title": "UBS CEO says the AI pullback is healthy — but there’s a bigger risk investors should watch",
+    "title_ko": "UBS CEO: AI 조정은 건전하다 — 그러나 투자자들이 주시해야 할 더 큰 리스크가 있다",
+    "link": "https://www.cnbc.com/2026/07/29/ubs-earnings-ai-correction-stocks-swiss-bank.html",
+    "published": "Wed, 29 Jul 2026 09:40:12 GMT",
+    "fetched_at": "2026-07-29 20:14:28",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "전반적인 시장",
+      "기술",
+      "금융",
+      "에너지",
+      "방위산업"
+    ],
+    "keywords": [
+      "UBS",
+      "AI 조정",
+      "지정학적 리스크",
+      "시장 변동성",
+      "글로벌 경제"
+    ],
+    "reason": "UBS CEO가 AI 섹터 조정은 건전하다고 평가하면서도 지정학적 변동성을 가장 큰 리스크로 지목하며, 견조한 실적 발표와는 별개로 글로벌 시장의 불확실성이 지속될 것임을 시사한다.",
+    "action_point": "지정학적 리스크에 민감한 자산의 비중을 점검하고, 포트폴리오 내 방어적 자산 또는 안전자산 편입을 고려하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "트럼프, 이란 전쟁에 발목 잡히기까지…파탄난 중동 정책 - 한겨레",
+    "title_ko": "트럼프, 이란 전쟁에 발목 잡히기까지…파탄난 중동 정책 - 한겨레",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbTVqWndRQUVmdDZoUTJLQmhFLUFsZHNNRjBlVjVmM09NaGN5N2hnTlVtVmdIWkozakFmTlZzdl9FckY2YXNublgwTzNSNlNQZThieHd4TzY3YmRXZV9vWU1nWXAyUEo3dmk0bVhkTnJSMmlPUWs1Z2tFNjhzVGpRMUNn?oc=5",
+    "published": "Wed, 29 Jul 2026 00:48:00 GMT",
+    "fetched_at": "2026-07-29 20:14:43",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "국방",
+      "해운"
+    ],
+    "keywords": [
+      "트럼프",
+      "이란",
+      "중동 정책",
+      "지정학적 위험",
+      "유가"
+    ],
+    "reason": "과거 트럼프 행정부의 이란 정책 실패를 재조명하며 중동 지역의 잠재적 지정학적 불안정성 심화 가능성을 시사, 이는 국제 유가 상승 압력과 전반적인 시장 위험 회피 심리를 자극할 수 있습니다.",
+    "action_point": "중동 지정학적 리스크 확대 가능성에 대비하여 유가 변동성 주시 및 원자재 관련 자산 비중 조정 검토."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "Ukraine has found a new pressure point in Russia’s wartime economy",
+    "title_ko": "우크라이나, 러시아 전시 경제의 새로운 압박 지점 발견",
+    "link": "https://www.cnbc.com/2026/07/29/ukraine-russia-wildberries-putin-trump.html",
+    "published": "Wed, 29 Jul 2026 10:33:29 GMT",
+    "fetched_at": "2026-07-29 20:14:21",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "방산",
+      "에너지",
+      "물류"
+    ],
+    "keywords": [
+      "우크라이나 전쟁",
+      "러시아 경제",
+      "드론 공격",
+      "지정학적 위험"
+    ],
+    "reason": "러시아 전시 경제에 대한 우크라이나의 압박을 가중시키며 지정학적 불안감을 심화시킵니다. 이는 글로벌 에너지 및 원자재 시장에 리스크 프리미엄을 높일 수 있습니다.",
+    "action_point": "지정학적 위험 상승에 대비하여 원자재 관련 자산 또는 안전 자산 비중을 점검하라."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "Why America's super rich have embraced the appeal of British soccer teams",
+    "title_ko": "미국 슈퍼 부자들이 영국 축구팀의 매력에 빠진 이유",
+    "link": "https://www.cnbc.com/2026/07/29/why-america-super-rich-love-football-clubs-british.html",
+    "published": "Wed, 29 Jul 2026 05:00:02 GMT",
+    "fetched_at": "2026-07-29 20:14:34",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "스포츠 산업",
+      "대체 투자"
+    ],
+    "keywords": [
+      "미국 투자자",
+      "영국 축구",
+      "프리미어리그",
+      "자산 배분",
+      "대체 투자"
+    ],
+    "reason": "미국 부유층이 영국 축구팀을 장기 자산으로 매입하는 추세는 고액 자산가들의 대체 투자 및 자산 다각화 전략을 보여줍니다. 이는 일반적인 주식/채권 시장보다는 특정 자산 클래스의 수요 증가를 시사합니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "[과기원NOW] 포스텍 연구팀, 한국 첫 국제 양자기술 공동연구 프로그램 'QuantERA' 선정 外 - 동아사이언스",
+    "title_ko": "포스텍 연구팀, 한국 첫 국제 양자기술 공동연구 프로그램 'QuantERA' 선정",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ROWFXallzX3pXdU9QVDNzbWticnE5dmx4YXpMajVJVm9LazN6cGpNVGJCZXdaaEFpU0ktWHlXNmhOa21YbC1CYWZ2X3RNSUd5SWZNOQ?oc=5",
+    "published": "Wed, 29 Jul 2026 09:01:00 GMT",
+    "fetched_at": "2026-07-29 20:14:51",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "양자기술",
+      "과학기술"
+    ],
+    "keywords": [
+      "포스텍",
+      "양자기술",
+      "QuantERA",
+      "국제 공동연구"
+    ],
+    "reason": "한국의 양자기술 분야 국제 협력 및 연구 역량 강화 신호이나, 당장은 국가 과학기술 경쟁력 제고 차원의 장기적 이슈로 단기 금융시장 전반에 미치는 영향은 제한적이다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "GoogleNews_Korea",
     "title": "사우디, 美 공습 동참…중동 확전 우려 고조[美-이란 전쟁] - 서울경제",
     "title_ko": "사우디, 美 공습 동참…중동 확전 우려 고조[美-이란 전쟁]",
@@ -2769,120 +2887,5 @@
     ],
     "reason": "대구 지역 휘발유 가격이 국제유가 급등으로 상승 전환될 가능성이 커지면서 전반적인 물가 상승 압력과 기업의 생산 비용 증가로 이어져 경제 전반에 부정적인 영향을 미칠 수 있습니다. 특히 운송 및 에너지 의존도가 높은 산업의 마진에 압박을 가할 것입니다.",
     "action_point": "유가 상승에 따른 인플레이션 압력 증가에 대비하여 운송 및 석유화학 섹터 비중 축소 검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "현대차 '플레오스' 확장…자동차 '구독 경제' 개화 - 전자신문",
-    "title_ko": "현대차 '플레오스' 확장…자동차 '구독 경제' 개화",
-    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA3UmYtMUJJanhNU0dTMWFzYzZfd2dTMDNybHYxOGp1MXhqakZYLTY5R01YLVg5X0dGUExpSU9za0Z6YnhQQW8xT2djQnEyUQ?oc=5",
-    "published": "Sun, 26 Jul 2026 07:01:00 GMT",
-    "fetched_at": "2026-07-26 17:10:17",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "자동차",
-      "플랫폼",
-      "모빌리티"
-    ],
-    "keywords": [
-      "현대차",
-      "플레오스",
-      "자동차 구독",
-      "구독 경제",
-      "모빌리티"
-    ],
-    "reason": "현대차의 구독 서비스 확대는 자동차 산업의 새로운 수익 모델 다각화를 보여주며, 장기적으로 완성차 기업의 안정적 현금 흐름 창출에 기여할 수 있다. 이는 모빌리티 서비스 시장의 성장 가능성을 시사한다.",
-    "action_point": "현대차의 신사업 전략에 따른 중장기적인 기업 가치 변화를 분석하고 포트폴리오에 반영할지 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "[속보]국세청장 \"고가주택에 더 많은 혜택…장특공제, 역진성 끝판왕\" - 국제신문",
-    "title_ko": "국세청장 \"고가주택에 더 많은 혜택…장특공제, 역진성 끝판왕\"",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaGc4dW1YVWtpT1EzYTh0T0ZtSXItUzVTcmp5RWoteFZYTFM0d1RwMWVXUWtwTkN6ckx2cnFGR0djNUtQLXVmUWk0RDdNX1lVZm53VW93eDFQOTNNYzBWWkpIWG5NWE9sYW50c2dMZlFxVEFWNXZDZDRyaWY2c0hQTUNreUl0QnEyWWQza0VB?oc=5",
-    "published": "Sun, 26 Jul 2026 06:30:00 GMT",
-    "fetched_at": "2026-07-26 17:10:23",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "부동산"
-    ],
-    "keywords": [
-      "고가주택",
-      "부동산 세금",
-      "장기보유특별공제"
-    ],
-    "reason": "국세청장의 발언은 고가주택에 대한 장기보유특별공제 축소 또는 개편 가능성을 시사하며, 이는 고가주택 시장의 투자 심리 위축 및 향후 가격 조정 압력으로 작용할 수 있다.",
-    "action_point": "고가주택 보유자산에 대한 장기 투자 전략 및 세금 영향 재검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "[단독] 이란전 전사 18→14명 축소…美 ‘별도 전쟁’ 꼼수 논란 - 중앙일보",
-    "title_ko": "[단독] 이란전 전사 18→14명 축소…美 ‘별도 전쟁’ 꼼수 논란",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84RGd5QU1pZW5fekxxckhEeW1XemJsQUNaUGpkQndiUERaLTNTM2M2eGs4Q3dBMG5EWDN2ZENHcDFDd0xVZkY1SU1PM1JQb1U0bWQxZFZR?oc=5",
-    "published": "Sun, 26 Jul 2026 00:38:01 GMT",
-    "fetched_at": "2026-07-26 17:10:36",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "에너지",
-      "방산"
-    ],
-    "keywords": [
-      "이란",
-      "미국",
-      "중동",
-      "지정학",
-      "사상자"
-    ],
-    "reason": "미국의 이란 관련 전사자 수 재분류 논란은 중동 지역 내 지속적인 지정학적 긴장감을 시사하며, 이는 국제 유가 및 관련 자산의 변동성을 유지시키는 요인으로 작용할 수 있습니다.",
-    "action_point": "중동발 지정학적 리스크 노출도를 재점검하십시오."
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "AICC부터 에이전트까지 … KT, 금융권 AX 공략 확대",
-    "title_ko": "AICC부터 에이전트까지 … KT, 금융권 AX 공략 확대",
-    "link": "https://www.mk.co.kr/news/it/12107683",
-    "published": "Sun, 26 Jul 2026 17:09:56 +09:00",
-    "fetched_at": "2026-07-26 17:10:51",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "통신",
-      "IT 서비스",
-      "금융"
-    ],
-    "keywords": [
-      "KT",
-      "인공지능(AI)",
-      "AX (AI 전환)",
-      "금융권",
-      "디지털 전환"
-    ],
-    "reason": "KT의 AI 솔루션 확장은 금융권의 디지털 전환을 가속화하며, KT의 신규 매출 동력이 될 수 있다. 이는 통신 및 IT 서비스 섹터의 성장 기회를 시사한다.",
-    "action_point": "국내 통신 및 IT 서비스 섹터 내 AI 솔루션 사업 확장 기업에 대한 투자 비중 확대 검토."
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "SKT, 독자 AI 모델 개방 … 스타트업과 사업화 추진",
-    "title_ko": "SKT, 독자 AI 모델 개방 … 스타트업과 사업화 추진",
-    "link": "https://www.mk.co.kr/news/it/12107682",
-    "published": "Sun, 26 Jul 2026 17:09:55 +09:00",
-    "fetched_at": "2026-07-26 17:11:10",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "통신",
-      "IT 서비스/소프트웨어",
-      "인공지능"
-    ],
-    "keywords": [
-      "SKT",
-      "인공지능",
-      "AI 생태계",
-      "스타트업",
-      "기술 개방"
-    ],
-    "reason": "SKT의 AI 기술 개방은 국내 AI 산업 생태계 확대를 촉진하며, 장기적으로 SKT의 신성장 동력 확보 및 통신 섹터 내 AI 서비스 경쟁력 강화에 기여할 수 있습니다.",
-    "action_point": "국내 통신 및 AI 관련 IT 서비스 섹터 내 성장 기회 탐색."
   }
 ]
