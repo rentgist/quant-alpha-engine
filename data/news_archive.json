@@ -1,6 +1,104 @@
 [
   {
     "source": "CNBC_World",
+    "title": "Nike was once China's sneaker king. Here's why its sales have fallen 30%",
+    "title_ko": "나이키, 한때 중국 운동화 시장의 제왕이었으나 매출 30% 급락한 이유",
+    "link": "https://www.cnbc.com/2026/07/29/nike-china-sales-decline.html",
+    "published": "Wed, 29 Jul 2026 14:49:45 GMT",
+    "fetched_at": "2026-07-30 00:44:49",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "소비재",
+      "의류/신발",
+      "소매"
+    ],
+    "keywords": [
+      "나이키",
+      "중국",
+      "소비재",
+      "시장점유율",
+      "현지브랜드"
+    ],
+    "reason": "나이키의 중국 매출 급락은 글로벌 소비재 기업들이 중국 시장에서 현지 브랜드의 부상과 소비자 트렌드 변화로 인해 경쟁이 심화되고 있음을 보여준다. 이는 중국 사업 비중이 높은 다국적 기업들의 실적에 부정적인 선례가 될 수 있다.",
+    "action_point": "중국 시장 의존도가 높은 글로벌 소비재 기업에 대한 투자 비중을 점검."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "[속보] 금융당국 \"단일종목 레버리지 개인별 투자한도로 총량관리\" - 연합뉴스",
+    "title_ko": "[속보] 금융당국 \"단일종목 레버리지 개인별 투자한도로 총량관리\"",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBtY2Y3YWV6VHB6blU2VjRGSy0zNFNTbzlhQm1PNjhYT3FFa2x4SmdtaVF3aHdoZGQ4YS1DRUxqdW50VGRyS1ROdS12MnpqTGtQMjNBN3FOMHNLdk3SAWBBVV95cUxQcERiTUl6VVM0b2lFNzF0cjVMeXMxYmpIbzV2bHU2bngzT1BQQ1JvLVFBc3lfMUtOU01SR2Y1c2tRWjhCaHlIUG1mcHVYcENwSXZtamtOOHhLU25GLTZwdk4?oc=5",
+    "published": "Wed, 29 Jul 2026 12:23:51 GMT",
+    "fetched_at": "2026-07-30 00:44:59",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "성장주",
+      "중소형주",
+      "증권"
+    ],
+    "keywords": [
+      "금융당국",
+      "레버리지",
+      "개인투자",
+      "총량관리",
+      "주식시장"
+    ],
+    "reason": "개인 투자자의 단일 종목 레버리지 투자를 총량적으로 관리함으로써 시장의 투기적 과열을 억제하고 금융 시스템 리스크를 줄이려는 조치이다. 이는 과도한 레버리지를 활용하던 일부 성장주 및 중소형주의 수급에 부정적 영향을 미쳐 주가 하락 압력으로 작용할 수 있다.",
+    "action_point": "개인 레버리지 비중이 높은 성장주 및 중소형주의 신규 매수를 보류하고, 해당 종목 보유 시 비중 축소를 검토하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "title": "단일종목 레버리지ETF '개인별 투자한도' 만든다",
+    "title_ko": "단일종목 레버리지ETF '개인별 투자한도' 만든다",
+    "link": "https://www.mk.co.kr/news/stock/12111161",
+    "published": "Wed, 29 Jul 2026 23:23:34 +09:00",
+    "fetched_at": "2026-07-30 00:45:20",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "금융",
+      "증권",
+      "자산운용",
+      "개인투자"
+    ],
+    "keywords": [
+      "단일종목 레버리지 ETF",
+      "투자한도",
+      "금융당국",
+      "시장 변동성",
+      "규제"
+    ],
+    "reason": "금융당국의 단일종목 레버리지 ETF 투자 한도 설정은 개인 투자자의 과도한 투기를 억제하고 특정 종목의 비정상적 주가 변동성을 완화하려는 조치이며, 이는 시장의 건전성을 제고할 수 있습니다.",
+    "action_point": "국내 증시의 투기적 변동성 감소 가능성을 고려하여 펀더멘털 기반의 안정적 종목 투자 비중 확대를 검토하라."
+  },
+  {
+    "source": "CNBC_Finance",
+    "title": "Stocks making the biggest moves premarket: Biogen, Vertiv, GE HealthCare, Generac & more",
+    "title_ko": "개장 전 가장 큰 움직임을 보이는 주식: 바이오젠, 버티브, GE 헬스케어, 제너락 등",
+    "link": "https://www.cnbc.com/2026/07/29/stocks-making-the-biggest-moves-premarket-biib-vrt-gehc-gnrc.html",
+    "published": "Wed, 29 Jul 2026 12:31:06 GMT",
+    "fetched_at": "2026-07-30 00:44:42",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "헬스케어",
+      "정보기술",
+      "산업재"
+    ],
+    "keywords": [
+      "개장 전 주가",
+      "개별 기업",
+      "바이오젠",
+      "버티브",
+      "GE 헬스케어",
+      "제너락"
+    ],
+    "reason": "이 기사는 개장 전 특정 개별 기업들의 주가 변동을 보고하는 내용으로, 광범위한 시장이나 매크로 경제 전반에 미치는 직접적인 영향은 제한적입니다. 각 기업의 개별적인 이벤트나 뉴스에 따른 움직임으로 해석됩니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
     "title": "Why shareholders are suing Novo Nordisk over next-generation weight-loss drug",
     "title_ko": "주주들이 차세대 체중 감량 약물 관련 노보 노디스크를 고소하는 이유",
     "link": "https://www.cnbc.com/2026/07/29/novo-nordisk-lawsuit-cagrisema-weight-loss-drug.html",
@@ -2788,100 +2886,5 @@
     ],
     "reason": "베를린에서 발생한 국지적 사건으로, 직접적인 글로벌 시장 및 매크로 경제에 미칠 영향은 제한적이다. 다만, 유사 사건 발생 시 일시적인 안전자산 선호 심리가 유발될 수 있다.",
     "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Ukraine strikes Iranian vessels in Caspian Sea, Tehran accuses Kyiv of 'hostile and criminal act'",
-    "title_ko": "우크라이나, 카스피해 이란 선박 공격… 테헤란, 키이우에 '적대적이고 범죄적인 행위' 비난",
-    "link": "https://www.cnbc.com/2026/07/26/ukraine-strikes-iranian-vessels-tehran-accuses-kyiv-of-hostile-act.html",
-    "published": "Sun, 26 Jul 2026 10:14:39 GMT",
-    "fetched_at": "2026-07-26 19:29:58",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "방산",
-      "해운"
-    ],
-    "keywords": [
-      "지정학적 리스크",
-      "중동",
-      "카스피해",
-      "유가",
-      "전쟁"
-    ],
-    "reason": "우크라이나의 이란 선박 공격은 중동 분쟁이 카스피해까지 확산될 수 있음을 시사하며 지정학적 리스크를 크게 고조시킵니다. 이는 글로벌 에너지 공급 불안과 유가 변동성 확대로 이어질 가능성이 높습니다.",
-    "action_point": "에너지 공급 불안에 따른 유가 상승 가능성을 고려하여 원유 관련 자산 및 방산 섹터에 대한 관심 확대."
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "한화오션, 급식업체 ‘사용자성’ 판정에 반발…노봉법 1호 행정소송",
-    "title_ko": "한화오션, 급식업체 ‘사용자성’ 판정에 반발…노봉법 1호 행정소송",
-    "link": "https://www.mk.co.kr/news/business/12107820",
-    "published": "Sun, 26 Jul 2026 19:01:33 +09:00",
-    "fetched_at": "2026-07-26 19:30:28",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "조선업",
-      "제조업",
-      "대기업"
-    ],
-    "keywords": [
-      "한화오션",
-      "사용자성",
-      "노동법",
-      "하청업체",
-      "법적 리스크"
-    ],
-    "reason": "원청의 하청업체 직원 '사용자성' 인정 여부에 대한 법리 다툼으로, 한화오션의 잠재적 노무 비용 증가 및 법적 리스크를 부각시키며, 향후 유사 사례에 대한 대기업의 부담을 가중시킬 수 있다.",
-    "action_point": "조선업 및 하청 의존도가 높은 대형 제조업체에 대한 투자 비중 축소를 검토하고, 한화오션의 잠재적 노무 비용 증가 리스크를 포트폴리오에 반영하라."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "The world's top fintech companies: 2026",
-    "title_ko": "세계 최고의 핀테크 기업들: 2026년",
-    "link": "https://www.cnbc.com/worlds-top-fintech-companies-2026/",
-    "published": "Thu, 23 Jul 2026 10:46:40 GMT",
-    "fetched_at": "2026-07-26 19:30:12",
-    "sentiment": "호재",
-    "importance": 2,
-    "sectors": [
-      "핀테크",
-      "기술",
-      "금융서비스"
-    ],
-    "keywords": [
-      "핀테크",
-      "AI",
-      "디지털 금융",
-      "기술주"
-    ],
-    "reason": "AI 기술 발전에 힘입어 핀테크 산업이 성장과 성숙기에 접어들고 있음을 시사한다. 이는 해당 섹터 기업들에게 긍정적이며, 전통 금융권의 변화를 가속화할 전망이다.",
-    "action_point": "글로벌 선두 핀테크 기업 및 AI 기반 금융 혁신 기업에 대한 투자 기회 모색."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "“두 전쟁 합쳐졌다”…우크라, 이란 선박 공격하며 ‘참전’ 이유는 - 한겨레",
-    "title_ko": "“두 전쟁 합쳐졌다”…우크라, 이란 선박 공격하며 ‘참전’ 이유는",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9kMG1wbHBRNTd6bHVSVGMtVmIyRDVUR21RQWZObHBFZmhJUHZoYnNaQkNOWDR5cmdOMEthUkRXa0hVQXdIMHRxRS0wdU1JWnY4Y0JNOXJTWFZRMFJ4cHZFcU43cGoxeVhjVG9ybjdKTllzeUk?oc=5",
-    "published": "Sun, 26 Jul 2026 06:45:00 GMT",
-    "fetched_at": "2026-07-26 17:09:38",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "에너지",
-      "방산",
-      "해운",
-      "보험"
-    ],
-    "keywords": [
-      "지정학적 리스크",
-      "중동",
-      "유가",
-      "에너지 안보"
-    ],
-    "reason": "우크라이나의 이란 선박 공격은 중동 전쟁의 확전 가능성을 높여 지정학적 리스크를 심화시키고, 유가 상승 압력을 가중하여 글로벌 경제 불확실성을 증폭시킬 수 있습니다.",
-    "action_point": "유가 상승 압력과 지정학적 리스크 확대를 고려하여 에너지 및 방산 섹터 비중을 확대하고, 안전자산 확보를 검토하십시오."
   }
 ]
