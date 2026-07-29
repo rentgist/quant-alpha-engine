@@ -1,5 +1,52 @@
 [
   {
+    "source": "CNBC_World",
+    "title": "Stock futures rise as Microsoft jumps after earnings; traders hope to recover from Fed Day sell-off: Live updates",
+    "title_ko": "마이크로소프트 실적 발표 후 주식 선물 상승, 연준 발표일 매도세 회복 기대: 실시간 업데이트",
+    "link": "https://www.cnbc.com/2026/07/29/stock-market-today-live-updates.html",
+    "published": "Wed, 29 Jul 2026 23:47:53 GMT",
+    "fetched_at": "2026-07-30 08:54:06",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "기술",
+      "IT",
+      "주식시장 전반"
+    ],
+    "keywords": [
+      "기술주",
+      "실적 발표",
+      "연준",
+      "금리 동결",
+      "주식 선물"
+    ],
+    "reason": "마이크로소프트의 양호한 실적은 기술주 전반에 긍정적인 영향을 미치며, 연준의 금리 동결 결정과 함께 시장의 불확실성을 해소하여 투자 심리를 개선할 것입니다. 이는 기술주 중심의 상승 동력을 제공할 수 있습니다.",
+    "action_point": "기술 성장주 비중을 유지하며, 실적 개선 가능성이 높은 대형 기술 기업에 대한 투자를 고려."
+  },
+  {
+    "source": "CNBC_Finance",
+    "title": "Here are the last times the Dow dropped by 1,000 points and what happened next",
+    "title_ko": "다우지수 1,000포인트 하락 직후, 이후 시장 반응은 어땠나?",
+    "link": "https://www.cnbc.com/2026/07/29/the-last-times-the-dow-fell-1000-points-and-what-happened-next.html",
+    "published": "Wed, 29 Jul 2026 21:43:50 GMT",
+    "fetched_at": "2026-07-30 08:54:00",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "글로벌 주식 시장",
+      "미국 주식 시장"
+    ],
+    "keywords": [
+      "다우지수",
+      "시장 변동성",
+      "기술적 분석",
+      "주식 시장",
+      "장기 회복"
+    ],
+    "reason": "이 기사는 다우지수 1,000포인트 급락 이후 단기적으로는 약세를 보이나, 중장기적으로는 반등하는 경향이 있음을 과거 사례를 통해 제시하며 시장의 기술적 흐름에 대한 통찰을 제공한다.",
+    "action_point": "단기 시장 변동성 확대를 주시하되, 향후 1~3개월간의 시장 반등 가능성을 고려하여 저가 매수 기회를 탐색하라."
+  },
+  {
     "source": "CNBC_Finance",
     "title": "Jeffrey Gundlach says the bond market is telling Warsh the Fed has to start acting on inflation",
     "title_ko": "제프리 건들락, 채권 시장이 연준에 인플레이션 조치 촉구",
@@ -2849,55 +2896,5 @@
     ],
     "reason": "트럼프 재집권 가능성은 글로벌 무역 정책(관세) 및 지정학적 안정성에 대한 불확실성을 증폭시켜, 한국과 같은 수출 주도 경제에 변동성 확대와 공급망 교란 위험을 높일 수 있습니다.",
     "action_point": "무역 정책 변화에 취약한 수출 중심 기업의 비중 축소를 검토하고, 달러 등 안전 자산 비중 확대를 고려하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "드론이 바꾼 전쟁…“방산 공룡들, 스타트업에 역대급 투자” - 중앙일보",
-    "title_ko": "드론이 바꾼 전쟁…“방산 공룡들, 스타트업에 역대급 투자”",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vV3FTRTloOGpCMFBUZ1NLcVh0SEtRYkptT2NUMXBZcmlsQUtxZXd3V1dhTDE0NjQ5NzFyd1N5Vk1CQTRBcm5LSGFBa1h0Rk52aVliMGZR?oc=5",
-    "published": "Sun, 26 Jul 2026 21:29:01 GMT",
-    "fetched_at": "2026-07-27 06:51:00",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "방위산업",
-      "항공우주",
-      "정보통신기술"
-    ],
-    "keywords": [
-      "드론",
-      "방위산업",
-      "스타트업",
-      "첨단기술",
-      "안보"
-    ],
-    "reason": "현대 전쟁 양상 변화에 따른 드론 및 첨단 방위 산업 투자의 급증을 시사하며, 관련 기술 보유 스타트업 및 방산 기업들의 성장 기회 확대를 암시한다.",
-    "action_point": "드론 및 첨단 기술 기반 방위산업 섹터 비중 확대 및 관련 유망 스타트업 투자 기회 모색."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "트럼프 2기 관세 재편과 실효세율 유지… 한국 경제 파장 촉각 - 글로벌이코노믹",
-    "title_ko": "트럼프 2기 관세 재편과 실효세율 유지… 한국 경제 파장 촉각",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeklZNmstYU90Xzd3TDJqaXBNdTEtSFBaaWVRaE9vU2hPSWFUZEZrYVREQVMxbkI1ajZzcW0xTWNNTFN0UUJ4QUlFRS1BVl93QmNqcUxXWHB4R1lYYklxWWFFZWRib2EwWDR2bDZRb0o3Vm9McFdkTkpUUjRxa3BCblBWODJ6T0Zy?oc=5",
-    "published": "Sun, 26 Jul 2026 19:15:00 GMT",
-    "fetched_at": "2026-07-27 05:06:51",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "수출기업",
-      "자동차",
-      "반도체",
-      "화학",
-      "철강"
-    ],
-    "keywords": [
-      "트럼프",
-      "관세",
-      "무역정책",
-      "수출",
-      "한국경제"
-    ],
-    "reason": "트럼프 재선 시 관세 재편 및 보호무역주의 강화는 한국의 수출 중심 경제에 직접적인 악영향을 미쳐 주요 수출 기업들의 실적 부진과 글로벌 교역량 감소 우려를 키울 수 있습니다.",
-    "action_point": "수출 의존도가 높은 국내 기업 비중 축소 또는 무역 분쟁 헤지 차원의 달러 자산 비중 확대를 검토하십시오."
   }
 ]
