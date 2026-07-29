@@ -1,6 +1,55 @@
 [
   {
     "source": "CNBC_Finance",
+    "title": "Divided Fed holds interest rates steady, but three members voted to hike",
+    "title_ko": "분열된 연준, 금리 동결했지만 3명은 인상에 투표",
+    "link": "https://www.cnbc.com/2026/07/29/fed-rate-decision-july-2026.html",
+    "published": "Wed, 29 Jul 2026 18:58:16 GMT",
+    "fetched_at": "2026-07-30 03:58:41",
+    "sentiment": "중립",
+    "importance": 5,
+    "sectors": [
+      "기술주",
+      "부동산",
+      "금융",
+      "채권"
+    ],
+    "keywords": [
+      "연준",
+      "금리 동결",
+      "금리 인상",
+      "통화정책",
+      "FOMC"
+    ],
+    "reason": "연준의 금리 동결은 예상되었으나, 3명의 위원이 인상에 투표한 것은 여전히 매파적 기조가 강함을 시사합니다. 이는 향후 추가 금리 인상 가능성을 열어두어 위험자산에 대한 압박과 장기 채권 금리의 상승 압력을 유지할 수 있습니다.",
+    "action_point": "금리 인상 가능성이 상존하므로, 성장주 비중을 보수적으로 유지하고 단기 고금리 채권 비중 확대를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "Microsoft is set to report earnings after the bell, and all eyes are on its spending plans",
+    "title_ko": "마이크로소프트, 장 마감 후 실적 발표 예정…자본 지출 계획에 시장 관심 집중",
+    "link": "https://www.cnbc.com/2026/07/29/microsoft-msft-q4-earnings-report-2026.html",
+    "published": "Wed, 29 Jul 2026 16:05:34 GMT",
+    "fetched_at": "2026-07-30 03:58:54",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "기술",
+      "클라우드 서비스",
+      "반도체"
+    ],
+    "keywords": [
+      "마이크로소프트",
+      "실적 발표",
+      "자본 지출",
+      "AI",
+      "클라우드"
+    ],
+    "reason": "마이크로소프트의 자본 지출 계획은 AI 및 클라우드 산업의 미래 성장 동력과 투자 심리를 가늠하는 중요한 지표입니다. 이는 기술 섹터 전반의 투자 방향성에 큰 영향을 미칠 수 있습니다.",
+    "action_point": "마이크로소프트의 자본 지출 계획 발표를 확인 후, AI 및 클라우드 관련 기술주 비중 조정을 검토하라."
+  },
+  {
+    "source": "CNBC_Finance",
     "title": "Short sellers are wasting no time pouncing on SK Hynix U.S. shares after their debut this month",
     "title_ko": "SK하이닉스 미국 주식, 상장 직후 공매도 세력 급증",
     "link": "https://www.cnbc.com/2026/07/29/short-sellers-are-wasting-no-time-pouncing-on-sk-hynix-us-shares-after-their-debut-this-month.html",
@@ -2845,51 +2894,5 @@
     ],
     "reason": "Shein의 홍콩 IPO는 글로벌 패스트 패션 및 전자상거래 시장의 주요 이벤트로, 해당 분야의 경쟁 구도와 투자 기회에 대한 관심을 높일 것입니다. 홍콩 증시에는 긍정적 요인으로 작용할 수 있습니다.",
     "action_point": "글로벌 전자상거래 및 유통 섹터 내 투자 기회 및 경쟁 리스크 재평가"
-  },
-  {
-    "source": "CNBC_World",
-    "title": "New UK Prime Minister Burnham says he would be prepared to call out Trump",
-    "title_ko": "영국 신임 총리 번햄, 트럼프 비판할 준비가 되어 있다고 밝혀",
-    "link": "https://www.cnbc.com/2026/07/26/new-uk-prime-minister-burnham-says-he-would-be-prepared-to-call-out-trump.html",
-    "published": "Sun, 26 Jul 2026 12:17:14 GMT",
-    "fetched_at": "2026-07-26 21:59:21",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [],
-    "keywords": [
-      "영국 총리",
-      "번햄",
-      "트럼프",
-      "지정학",
-      "외교 관계"
-    ],
-    "reason": "영국 신임 총리가 향후 트럼프와의 관계에서 비판적 입장을 취할 수 있음을 시사하며, 잠재적인 외교적 긴장 가능성을 언급했습니다. 당장은 우호적인 대화였으나, 장기적인 양국 관계의 불확실성이 증가할 수 있습니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "국제유가 불안 다시 고조…’물가·환율·금리’ 경고등 - 연합뉴스TV",
-    "title_ko": "국제유가 불안 다시 고조…’물가·환율·금리’ 경고등",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5kX0dWWkZOZnZCYlhpbEVnU3doaUtrOWVIWlFPRzVLN1ZGSmNCbnZ3cnVKVVl3YlFuZUZfYU9Ga0N1amJmZ0tKcGRGTk5QZXR3Nm15bzRzcmhLR2JqcVFNUnBzUkJ4WTA?oc=5",
-    "published": "Sun, 26 Jul 2026 09:41:00 GMT",
-    "fetched_at": "2026-07-26 20:55:37",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "항공/운송",
-      "화학",
-      "소비재",
-      "금융"
-    ],
-    "keywords": [
-      "국제유가",
-      "물가",
-      "환율",
-      "금리",
-      "인플레이션"
-    ],
-    "reason": "국제유가 상승은 국내 물가 압력을 가중시켜 한국은행의 금리 인상 가능성을 높이고, 원화 약세로 이어져 수입 물가 상승 및 기업 비용 부담을 심화시킬 것입니다.",
-    "action_point": "원화 약세 및 인플레이션 헤지를 위해 달러 자산 비중 유지 및 에너지/원자재 관련 투자 상품 편입을 검토하십시오."
   }
 ]
