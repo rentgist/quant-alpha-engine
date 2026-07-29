@@ -1,6 +1,79 @@
 [
   {
     "source": "CNBC_World",
+    "title": "Why shareholders are suing Novo Nordisk over next-generation weight-loss drug",
+    "title_ko": "주주들이 차세대 체중 감량 약물 관련 노보 노디스크를 고소하는 이유",
+    "link": "https://www.cnbc.com/2026/07/29/novo-nordisk-lawsuit-cagrisema-weight-loss-drug.html",
+    "published": "Wed, 29 Jul 2026 13:11:19 GMT",
+    "fetched_at": "2026-07-29 22:46:39",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "제약/바이오",
+      "헬스케어"
+    ],
+    "keywords": [
+      "노보 노디스크",
+      "체중 감량 약물",
+      "임상 시험",
+      "주주 소송",
+      "제약"
+    ],
+    "reason": "노보 노디스크의 차세대 비만 치료제 임상 실패 및 시장 기만 의혹으로 주주 소송이 발생하여 해당 기업 가치 하락은 물론, 비만 치료제 섹터 전반에 대한 투자 심리가 위축될 수 있습니다.",
+    "action_point": "노보 노디스크 및 비만 치료제 관련 섹터 투자 비중 재검토."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "'PR problem' is standing in the way of China's humanoid robot boom, says Morgan Stanley",
+    "title_ko": "모건스탠리, 'PR 문제'가 중국 휴머노이드 로봇 붐의 걸림돌이라고 지적",
+    "link": "https://www.cnbc.com/2026/07/29/morgan-stanley-humanoid-robots-pr-problem.html",
+    "published": "Wed, 29 Jul 2026 10:21:41 GMT",
+    "fetched_at": "2026-07-29 22:46:45",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "휴머노이드 로봇",
+      "산업 자동화",
+      "중국 기술주",
+      "인공지능"
+    ],
+    "keywords": [
+      "휴머노이드 로봇",
+      "중국",
+      "모건스탠리",
+      "성장 둔화",
+      "PR 문제",
+      "기술주"
+    ],
+    "reason": "모건스탠리가 중국 휴머노이드 로봇 산업의 성장에 걸림돌이 되는 PR 문제와 여러 역풍을 지적하며 낙관론을 낮춰, 해당 섹터의 단기 성장 둔화 및 투자심리 위축이 예상됩니다.",
+    "action_point": "중국 휴머노이드 로봇 관련 섹터 또는 ETF 투자 비중 축소 검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "[속보] 연속 폭락에 '단일종목 레버리지' 추가 조치‥\"투자한도로 총량 관리\" - MBC 뉴스",
+    "title_ko": "[속보] 연속 폭락에 '단일종목 레버리지' 추가 조치‥\"투자한도로 총량 관리\"",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9UQjBSQWVtc2ZkMXNkd0YxU215YUR6YUtSSWtBR2RmRXpBMTRBVF82T29BdWZkUjJZekMwVGsxX2NNNDJSX014NENBR1p5WGJmaXZzUF9FQ0lqWjRZWTVoNm1maVpoYXdiNVExVTRyY2Zaemds0gF0QVVfeXFMT185RUlXUy1tbWlwcDJUMFV5c3drZmFiZXRkQlp1S2VtRW9HMm1NVTFXOTBIMzEzRThxMWlNb0FhUkNKUjRPRWZ6bDNEWE5FaE1DUm5ZSVdPMEZWMnBnX3BzeXFQczJlYVhEQWZ3Nlgtb1NGS2o?oc=5",
+    "published": "Wed, 29 Jul 2026 12:54:25 GMT",
+    "fetched_at": "2026-07-29 22:46:56",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "증권",
+      "테마주",
+      "중소형 성장주"
+    ],
+    "keywords": [
+      "단일종목 레버리지",
+      "투자한도",
+      "시장 규제",
+      "변동성 관리",
+      "증시 안정화"
+    ],
+    "reason": "금융당국의 이번 조치는 단일 종목에 대한 과도한 레버리지 투자로 인한 시장 변동성 확대와 연속 폭락 위험을 억제하기 위함입니다. 단기적으로는 해당 종목군 및 고위험 섹터의 투기 심리를 위축시키고 매수세를 둔화시켜 주가에 하방 압력으로 작용할 수 있습니다.",
+    "action_point": "단일종목 레버리지 비중이 높은 테마주 및 중소형 성장주에 대한 투자를 재검토하고, 우량주 중심으로 포트폴리오를 조정하라."
+  },
+  {
+    "source": "CNBC_World",
     "title": "UBS CEO says the AI pullback is healthy — but there’s a bigger risk investors should watch",
     "title_ko": "UBS CEO: AI 조정은 건전하다 — 그러나 투자자들이 주시해야 할 더 큰 리스크가 있다",
     "link": "https://www.cnbc.com/2026/07/29/ubs-earnings-ai-correction-stocks-swiss-bank.html",
@@ -2810,82 +2883,5 @@
     ],
     "reason": "우크라이나의 이란 선박 공격은 중동 전쟁의 확전 가능성을 높여 지정학적 리스크를 심화시키고, 유가 상승 압력을 가중하여 글로벌 경제 불확실성을 증폭시킬 수 있습니다.",
     "action_point": "유가 상승 압력과 지정학적 리스크 확대를 고려하여 에너지 및 방산 섹터 비중을 확대하고, 안전자산 확보를 검토하십시오."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "1450원대까지 떨어진 원·달러 환율, 변수는 ‘중동 전쟁’ - 경향신문",
-    "title_ko": "1450원대까지 떨어진 원·달러 환율, 변수는 ‘중동 전쟁’",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5EUzJSNzliOW5seTdHQnJZSElRMExKLTliU2RoazBDTW9EVWhZUXdLY2MteTljZHRlcXlXZ09waTRhZjZYWEd3YTdmYklJX3EzRFZTQm1Qd1NOQdIBX0FVX3lxTFBHVERSTU91bkthWmM1QXBKR1pWT013bEFucldJbThXdTJCeGREYk94bHhfMG1KSlpPOC12Ymp2bC04amMyMmY5QXp0OVBSaC1Ra0RiWktXYURvT0pfOXl3?oc=5",
-    "published": "Sun, 26 Jul 2026 07:07:00 GMT",
-    "fetched_at": "2026-07-26 17:09:49",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "외환",
-      "원자재",
-      "에너지",
-      "수출입",
-      "항공운송",
-      "방산"
-    ],
-    "keywords": [
-      "원·달러 환율",
-      "중동 전쟁",
-      "지정학적 리스크",
-      "안전자산",
-      "고유가"
-    ],
-    "reason": "원·달러 환율 상승(원화 약세)은 수입물가 상승 압력을 가중시켜 인플레이션을 심화시키고, 중동 전쟁은 국제 유가 급등과 글로벌 경기 둔화 우려를 고조시켜 한국 경제 전반에 악영향을 미칠 수 있습니다.",
-    "action_point": "달러 자산 비중을 유지 또는 확대하고, 지정학적 리스크와 고유가에 민감한 섹터에 대한 포트폴리오를 조정하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "미·이란 '소강'...'1300조 원 AI 협력' 경제 영향은? - YTN",
-    "title_ko": "미·이란 '소강'...'1300조 원 AI 협력' 경제 영향은?",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HOXEzU2dFU1lhekNlaG9YX056YmdtTVp5NUJ1dUFjUk9pLXZ1ZWNLb2FnM2F6WlZxN2dTc3dTOFRqTHlKdmo3Z1dWQmJadGEzMzgya3lXNkJreFhwVkE?oc=5",
-    "published": "Sun, 26 Jul 2026 01:44:00 GMT",
-    "fetched_at": "2026-07-26 17:09:58",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "반도체",
-      "AI",
-      "소프트웨어",
-      "클라우드 컴퓨팅",
-      "기술"
-    ],
-    "keywords": [
-      "AI 투자",
-      "반도체",
-      "기술 협력",
-      "경제 성장",
-      "지정학적 안정"
-    ],
-    "reason": "미·이란 간의 지정학적 긴장 완화는 시장 안정에 긍정적이며, 1300조 원 규모의 AI 협력은 반도체, 소프트웨어 등 AI 생태계 전반에 막대한 투자와 성장 기회를 제공할 것입니다.",
-    "action_point": "반도체 및 AI 관련 기술주에 대한 포트폴리오 비중 확대를 적극 검토하십시오."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "대구 휘발유값 11주 연속 하락…국제유가 급등에 상승 전환 가능성 - v.daum.net",
-    "title_ko": "대구 휘발유값 11주 연속 하락…국제유가 급등에 상승 전환 가능성",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9zdFF3RjZEbnJFVkxrd3I1VkZPTGVxNWJBOUhoaDBFWkRSWkhGRVlzNDNmUGZta3dHQWJqekx4bmExcG5CdWdXSlhSVll1QTA?oc=5",
-    "published": "Sun, 26 Jul 2026 05:50:03 GMT",
-    "fetched_at": "2026-07-26 17:10:08",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "정유/화학",
-      "운송/물류",
-      "항공",
-      "소비재"
-    ],
-    "keywords": [
-      "국제유가",
-      "휘발유",
-      "물가상승",
-      "운송비용"
-    ],
-    "reason": "대구 지역 휘발유 가격이 국제유가 급등으로 상승 전환될 가능성이 커지면서 전반적인 물가 상승 압력과 기업의 생산 비용 증가로 이어져 경제 전반에 부정적인 영향을 미칠 수 있습니다. 특히 운송 및 에너지 의존도가 높은 산업의 마진에 압박을 가할 것입니다.",
-    "action_point": "유가 상승에 따른 인플레이션 압력 증가에 대비하여 운송 및 석유화학 섹터 비중 축소 검토."
   }
 ]
