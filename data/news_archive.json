@@ -1,6 +1,110 @@
 [
   {
     "source": "CNBC_Finance",
+    "title": "Here's what changed in the second Fed statement under Warsh",
+    "title_ko": "워시 재임 중 두 번째 연준 성명서에서 변경된 내용",
+    "link": "https://www.cnbc.com/2026/07/29/fed-decision-redline-heres-what-changed-in-the-second-statement-under-warsh.html",
+    "published": "Wed, 29 Jul 2026 18:48:02 GMT",
+    "fetched_at": "2026-07-30 05:12:05",
+    "sentiment": "중립",
+    "importance": 5,
+    "sectors": [
+      "금융",
+      "기술",
+      "부동산",
+      "채권"
+    ],
+    "keywords": [
+      "연준",
+      "FOMC",
+      "통화정책",
+      "성명서",
+      "금리"
+    ],
+    "reason": "이 기사는 연준 FOMC 성명서의 변경 사항을 언급하며, 이는 향후 통화정책 방향성에 대한 중요한 단서를 제공합니다. 구체적인 변경 내용에 따라 모든 자산 시장에 광범위한 영향을 미칠 수 있습니다.",
+    "action_point": "제공된 기사만으로는 구체적인 변경 내용을 알 수 없으므로, 즉시 해당 FOMC 성명서 원문을 분석하여 포트폴리오 조정 필요성을 판단하십시오."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "속보 연준, 기준금리 3.5∼3.75%로 동결...5차례 연속 - ytn.co.kr",
+    "title_ko": "속보 연준, 기준금리 3.5∼3.75%로 동결...5차례 연속",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1NSG5oWEhTRHpUSlBPbjlxYnNCN0VKUll6Xy1NT0VRaGxTQXN4UWszRERuc2hPYkNsM2huT0RpSFU4WW1LSWlnQzkyRV9HRllKUGVUNVZONFoxamRrZ0E?oc=5",
+    "published": "Wed, 29 Jul 2026 18:04:00 GMT",
+    "fetched_at": "2026-07-30 05:12:19",
+    "sentiment": "중립",
+    "importance": 5,
+    "sectors": [
+      "기술주",
+      "금융",
+      "부동산",
+      "채권"
+    ],
+    "keywords": [
+      "연준",
+      "기준금리 동결",
+      "통화정책",
+      "거시경제"
+    ],
+    "reason": "연준의 5회 연속 기준금리 동결은 시장의 예상에 부합하는 결정으로, 추가적인 긴축에 대한 불확실성을 일시적으로 완화시킵니다. 향후 금리 인하 시점에 대한 시장의 기대감과 파월 의장의 발언에 주목해야 합니다.",
+    "action_point": "고금리 환경 장기화 가능성에 대비하여 부채 비중이 높은 기업 및 부동산 자산에 대한 투자 리스크를 재점검하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "title": "[속보] 연준 금리동결에도 3명 “인상”...연내 금리인상 촉각",
+    "title_ko": "[속보] 연준 금리동결에도 3명 “인상”...연내 금리인상 촉각",
+    "link": "https://www.mk.co.kr/news/economy/12111212",
+    "published": "Thu, 30 Jul 2026 03:14:41 +09:00",
+    "fetched_at": "2026-07-30 05:12:33",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "주식",
+      "채권",
+      "환율",
+      "부동산",
+      "원자재"
+    ],
+    "keywords": [
+      "연준",
+      "금리동결",
+      "금리인상",
+      "인플레이션",
+      "유가",
+      "매파"
+    ],
+    "reason": "연준의 금리 동결에도 매파적 소수의견과 유가발 인플레이션 리스크는 '고금리 장기화' 기조를 강화하며 글로벌 자산시장의 불확실성을 높일 것입니다.",
+    "action_point": "글로벌 고금리 장기화 가능성에 대비하여 국내외 금리 민감 자산 비중 축소를 검토하고 달러 강세에 대비하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "title": "[속보] 연준, 5연속 금리 동결…3.50∼3.75% 유지",
+    "title_ko": "[속보] 연준, 5연속 금리 동결…3.50∼3.75% 유지",
+    "link": "https://www.mk.co.kr/news/economy/12111209",
+    "published": "Thu, 30 Jul 2026 03:02:00 +09:00",
+    "fetched_at": "2026-07-30 05:12:48",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "주식시장 전반",
+      "채권시장",
+      "환율",
+      "원자재(유가)",
+      "부동산",
+      "성장주"
+    ],
+    "keywords": [
+      "연준",
+      "금리동결",
+      "인플레이션",
+      "유가",
+      "지정학적 리스크",
+      "고금리 장기화"
+    ],
+    "reason": "연준의 금리 동결은 예상됐으나, 지정학적 리스크발 유가 재급등에 따른 인플레이션 우려를 명시하며 고금리 장기화 가능성을 시사했다. 이는 위험자산 투자심리에 부정적 영향을 미치고 채권금리 상승 압력으로 작용할 수 있다.",
+    "action_point": "연준의 매파적 금리 동결로 고금리 장기화 가능성이 커진 만큼, 금리 민감 자산 비중을 축소하고 달러화 자산 보유를 유지하라."
+  },
+  {
+    "source": "CNBC_Finance",
     "title": "Divided Fed holds interest rates steady, but three members voted to hike",
     "title_ko": "분열된 연준, 금리 동결했지만 3명은 인상에 투표",
     "link": "https://www.cnbc.com/2026/07/29/fed-rate-decision-july-2026.html",
@@ -2796,103 +2900,5 @@
     ],
     "reason": "지방 소멸 위기의 심각성을 재확인하며 지역 부동산 및 인구 구조 변화에 대한 장기적 관점의 우려를 높인다. 단기적으로는 특정 지역의 건설 투자 유발 가능성이 있다.",
     "action_point": "지방 소멸 위험이 높은 지역의 부동산 투자 비중 축소 검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "대이란 공습 ‘일시 정지’…전쟁 출구 찾는 트럼프 - 경향신문",
-    "title_ko": "대이란 공습 ‘일시 정지’…전쟁 출구 찾는 트럼프",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5vWngzdkNmS2t4M0hQTjBTU2lWdmw2cXJRNEc3cGFrZmd4VGdwQ080MGhoZi1tRDhLRkZBS1FOb3dQdGZvVkhtdnhpYXl5RWNkNXRacFUyWkFWQdIBX0FVX3lxTE0tekpSay1XdzU2S2JRTjF4bmRVN3p0N2JBelRvRW52Z3J6Nm95dDJuMHA1OEgwUDJlb25HbFpremswak1tTUdjLV9fR0thS3NWbC1TX1J0QjY2ZUptTkVR?oc=5",
-    "published": "Sun, 26 Jul 2026 12:08:00 GMT",
-    "fetched_at": "2026-07-27 00:55:59",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "항공",
-      "해운",
-      "화학",
-      "방산"
-    ],
-    "keywords": [
-      "지정학",
-      "중동",
-      "이란",
-      "유가",
-      "트럼프",
-      "위험자산"
-    ],
-    "reason": "이란 공습의 일시 정지 및 전쟁 출구 모색은 중동 지정학적 리스크 완화를 의미하며, 이는 국제유가 상승 압력을 완화하고 글로벌 위험자산에 대한 투자 심리를 개선할 것입니다.",
-    "action_point": "중동 지정학적 리스크 완화로 인한 국제유가 안정화 추세에 주목하고, 항공, 해운, 화학 등 유가 민감 섹터의 투자 기회를 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "[아주경제 오늘의 뉴스 종합] 李대통령, 美빅테크와 1400조 'AI 동맹'…실리콘밸리 자본도 잇는다 - v.daum.net",
-    "title_ko": "[아주경제 오늘의 뉴스 종합] 李대통령, 美빅테크와 1400조 'AI 동맹'…실리콘밸리 자본도 잇는다",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBGTXBqcTBIY0p3Yks0UGVkaGtLbDNzTlFad0kySWVCeHUyS0JmNDM1NkJlYXVRV09vSUg4bWpES0Vmd0RRT28yLWZxZmZUM1E?oc=5",
-    "published": "Sun, 26 Jul 2026 12:36:12 GMT",
-    "fetched_at": "2026-07-27 00:56:14",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "AI",
-      "기술",
-      "반도체"
-    ],
-    "keywords": [
-      "AI",
-      "빅테크",
-      "실리콘밸리",
-      "투자",
-      "반도체"
-    ],
-    "reason": "한국 정부의 미국 빅테크 및 실리콘밸리 자본과의 1400조원 규모 AI 동맹 추진은 국내 AI 기술 개발 및 관련 산업 성장을 가속화할 것이다. 이는 장기적으로 한국 경제의 신성장 동력을 확보하고 기술주 전반에 긍정적인 투자 심리를 형성할 수 있다.",
-    "action_point": "국내 AI 및 반도체 섹터 투자 비중 확대를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Inside the S&P 500 AI boom, industrials are getting as rich as tech stocks",
-    "title_ko": "S&P 500 AI 붐 속, 산업재 섹터도 기술주만큼 각광받아",
-    "link": "https://www.cnbc.com/2026/07/26/best-ai-stocks-market-sp500.html",
-    "published": "Sun, 26 Jul 2026 14:12:20 GMT",
-    "fetched_at": "2026-07-26 23:29:26",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "산업재",
-      "기술주"
-    ],
-    "keywords": [
-      "AI 붐",
-      "산업재",
-      "S&P 500",
-      "밸류에이션",
-      "투자 흐름"
-    ],
-    "reason": "AI 투자 붐이 기존 기술주를 넘어 산업재 섹터로 확산되며 해당 섹터의 밸류에이션 상승과 투자자금 유입을 가속화하고 있습니다. 이는 AI 수혜주의 저변 확대와 시장의 광범위한 상승 동력으로 작용할 수 있습니다.",
-    "action_point": "AI 인프라 수요 증가에 따른 산업재 섹터 내 저평가 우량 기업 발굴 및 비중 확대를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Shein reveals key financials ahead of Hong Kong IPO",
-    "title_ko": "Shein 홍콩 IPO 앞두고 주요 재무 정보 공개",
-    "link": "https://www.cnbc.com/2026/07/26/shein-reveals-key-financials-ahead-of-hong-kong-ipo.html",
-    "published": "Sun, 26 Jul 2026 13:51:15 GMT",
-    "fetched_at": "2026-07-26 23:29:36",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "전자상거래",
-      "유통",
-      "섬유/의류"
-    ],
-    "keywords": [
-      "Shein",
-      "IPO",
-      "홍콩",
-      "전자상거래",
-      "패스트패션"
-    ],
-    "reason": "Shein의 홍콩 IPO는 글로벌 패스트 패션 및 전자상거래 시장의 주요 이벤트로, 해당 분야의 경쟁 구도와 투자 기회에 대한 관심을 높일 것입니다. 홍콩 증시에는 긍정적 요인으로 작용할 수 있습니다.",
-    "action_point": "글로벌 전자상거래 및 유통 섹터 내 투자 기회 및 경쟁 리스크 재평가"
   }
 ]
