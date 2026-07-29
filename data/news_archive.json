@@ -1,5 +1,29 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "title": "금감원, '금융회사 제3자 IT리스크 관리 가이드라인' 마련 - intn.co.kr",
+    "title_ko": "금감원, '금융회사 제3자 IT리스크 관리 가이드라인' 마련",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5lSmo5NFJUc0JfVUZmdG9FYWVWVnNzQ1dBc2JtMzQtN2E4MVgyby0wVXlhOVVyWUZQYkxEdXd5QkxmSjVTUXhoU0JRaV9VeDh6SDdkd1J1QlJHNnJCVGlxQXlEck1TTHU3T3c?oc=5",
+    "published": "Wed, 29 Jul 2026 03:00:00 GMT",
+    "fetched_at": "2026-07-29 14:01:07",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "금융",
+      "IT 서비스",
+      "정보 보안"
+    ],
+    "keywords": [
+      "금감원",
+      "금융회사",
+      "IT 리스크 관리",
+      "가이드라인",
+      "제3자"
+    ],
+    "reason": "금융감독원이 금융회사의 제3자 IT리스크 관리 가이드라인을 마련하여 금융 시스템의 안정성을 강화하는 조치이다. 이는 금융사 및 관련 IT 서비스 제공업체의 준수 부담을 증가시킬 수 있으나, 장기적으로는 시스템 전반의 신뢰도를 높일 것이다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "CNBC_World",
     "title": "Oil jumps as U.S.-Iran resume strikes after a brief pause",
     "title_ko": "미국-이란, 잠시 중단되었던 공습 재개에 유가 급등",
@@ -2850,31 +2874,5 @@
     ],
     "reason": "인천경제자유구역의 첨단산업 및 관광 인프라 육성 계획은 해당 지역의 장기적인 경제 성장과 부동산 가치 상승을 기대하게 하며, 관련 산업의 투자 기회를 창출합니다.",
     "action_point": "인천경제자유구역 내 첨단산업 및 관광 인프라 개발 관련 수혜 기업 투자 가능성 검토"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "李대통령, EU '러 LNG 韓수출 제재 면제'에 \"경제에 큰 도움\" - 연합인포맥스",
-    "title_ko": "李대통령, EU '러 LNG 韓수출 제재 면제'에 \"경제에 큰 도움\"",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BMkdHR0twaDZldHhwWmdxNE5mQXZCSU90dEV6ZkpLTFpwM1k4emJCLTZqZ1o2NEZNSkdocDdrb2o3alBvMlBiWk81dUZPN3NrbThUZUFUU1E5ZVhoT1BRYjkwTUc2QTJiYjlyWlBrX0Y?oc=5",
-    "published": "Sat, 25 Jul 2026 12:03:03 GMT",
-    "fetched_at": "2026-07-26 05:06:52",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "전력/가스",
-      "화학",
-      "철강",
-      "반도체"
-    ],
-    "keywords": [
-      "EU 제재 면제",
-      "러시아 LNG",
-      "에너지 안보",
-      "한국 경제",
-      "원자재 가격"
-    ],
-    "reason": "EU의 러시아 LNG 한국 수출 제재 면제는 국내 에너지 안보를 강화하고 LNG 조달 비용 안정화에 기여하여, 에너지 다소비 산업의 원가 부담을 경감하고 인플레이션 압력을 완화할 수 있습니다.",
-    "action_point": "화학, 철강 등 에너지 다소비 산업 섹터의 원가 부담 완화에 따른 투자 매력도 재평가."
   }
 ]
