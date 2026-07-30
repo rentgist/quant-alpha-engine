@@ -1,6 +1,52 @@
 [
   {
     "source": "CNBC_World",
+    "title": "U.S. economy slowed to 1.5% growth rate in Q2; June core inflation at 3.3%",
+    "title_ko": "미국 2분기 경제 성장률 1.5%로 둔화; 6월 근원 인플레이션 3.3%",
+    "link": "https://www.cnbc.com/2026/07/30/us-economy-slowed-to-1point5percent-growth-rate-in-q2-june-core-inflation-at-3point3percent.html",
+    "published": "Thu, 30 Jul 2026 15:04:43 GMT",
+    "fetched_at": "2026-07-31 02:15:38",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "금리",
+      "주식",
+      "환율"
+    ],
+    "keywords": [
+      "미국 GDP",
+      "인플레이션",
+      "연준",
+      "경제 둔화"
+    ],
+    "reason": "미국 2분기 GDP 성장률 둔화는 연준의 추가 금리 인상 압력을 완화할 수 있으나, 여전히 높은 근원 인플레이션은 통화정책의 불확실성을 유지시킨다. 성장 둔화의 원인이 정부 지출 및 재고 감소였던 점은 민간 소비의 상대적 견고함을 시사한다.",
+    "action_point": "연준의 금리 인상 압력 완화 기대로 장기채 및 고성장 기술주 비중 유지."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "[조윤제 칼럼] 경제정책, 반도체 호황 너머를 보는 시각 가져야 - v.daum.net",
+    "title_ko": "경제정책, 반도체 호황 너머를 보는 시각 가져야",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBBZnpPRWhCUGZhRWhfelFfbVJTY204d2RmR1RlRzJWX3FjSlFmOW54aXppeFl3SERlczdsYXozOHJTN0ZsZGY4NVdRY1p3cFk?oc=5",
+    "published": "Thu, 30 Jul 2026 15:20:09 GMT",
+    "fetched_at": "2026-07-31 02:15:48",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "반도체",
+      "거시경제",
+      "정부 정책"
+    ],
+    "keywords": [
+      "경제정책",
+      "반도체 호황",
+      "산업 다각화",
+      "장기 성장"
+    ],
+    "reason": "이 칼럼은 한국 경제의 반도체 산업 의존도에 대한 경고와 함께 장기적인 성장을 위한 경제정책의 다각화를 주문하고 있습니다. 이는 미래 정부 정책 방향과 산업별 지원의 변화 가능성을 시사합니다.",
+    "action_point": "반도체 외 신성장 동력 관련 섹터에 대한 장기적 투자 기회 모색."
+  },
+  {
+    "source": "CNBC_World",
     "title": "AI investor Leopold Aschenbrenner forced to unwind all public stock positions after steep losses, sources say",
     "title_ko": "AI 투자자 레오폴드 아셴브레너, 막대한 손실 후 모든 상장 주식 포지션 청산 강요당해",
     "link": "https://www.cnbc.com/2026/07/30/leopold-aschenbrenners-hedge-fund-is-facing-steep-ai-losses.html",
@@ -2887,54 +2933,5 @@
     ],
     "reason": "시장은 주요 이벤트를 앞두고 관망세를 보이고 있으며, 연준 회의는 단기 금리 방향을 결정하고 메가캡 실적은 기업 수익성과 시장 심리를 좌우할 것입니다.",
     "action_point": "연준의 금리 결정 및 주요 기업 실적 발표를 앞두고 시장 변동성에 대비하여 방어적인 포트폴리오 구성을 유지하라."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Amazon seeks federal approval to launch 5,105 satellites for direct-to-device network",
-    "title_ko": "아마존, 기기 직접 연결 네트워크 구축 위해 5,105개 위성 발사 연방 승인 추진",
-    "link": "https://www.cnbc.com/2026/07/27/amazon-satellite-internet-network.html",
-    "published": "Mon, 27 Jul 2026 17:42:47 GMT",
-    "fetched_at": "2026-07-28 07:53:50",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "우주항공",
-      "통신",
-      "기술",
-      "인공위성 통신"
-    ],
-    "keywords": [
-      "아마존",
-      "위성",
-      "네트워크",
-      "Globalstar",
-      "우주 통신"
-    ],
-    "reason": "아마존의 대규모 위성 통신 사업 확장은 해당 산업의 경쟁을 심화하고, 위성 및 통신 인프라 관련 기술 기업들에 장기적인 성장 기회를 제공할 수 있습니다.",
-    "action_point": "위성 통신 및 우주항공 관련 기술주에 대한 투자 기회 모색."
-  },
-  {
-    "source": "CNBC_Finance",
-    "title": "Stocks making the biggest moves premarket: Micron Technology, Forte Biosciences, ExxonMobil, Baker Hughes & more",
-    "title_ko": "개장 전 가장 큰 움직임을 보이는 주식: 마이크론 테크놀로지, 포르테 바이오사이언스, 엑손모빌, 베이커 휴즈 등",
-    "link": "https://www.cnbc.com/2026/07/27/stocks-making-the-biggest-moves-premarket-mu-fbrx-xom-bkr.html",
-    "published": "Mon, 27 Jul 2026 11:58:59 GMT",
-    "fetched_at": "2026-07-28 07:53:33",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "반도체",
-      "제약/바이오",
-      "에너지"
-    ],
-    "keywords": [
-      "개장 전 거래",
-      "개별 주식",
-      "마이크론",
-      "엑손모빌",
-      "바이오"
-    ],
-    "reason": "이 뉴스는 특정 기업들의 개장 전 주가 움직임을 단순 나열하며, 해당 움직임의 원인이나 시장 전체에 미칠 거시적인 영향을 파악하기 어렵습니다.",
-    "action_point": "해당 없음"
   }
 ]
