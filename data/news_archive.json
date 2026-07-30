@@ -1,6 +1,59 @@
 [
   {
     "source": "CNBC_World",
+    "title": "Analysis: Fed Chairman Warsh's credibility in question after leaving interest rates unchanged",
+    "title_ko": "분석: 연준 의장 워시의 신뢰도, 금리 동결 후 의문 제기",
+    "link": "https://www.cnbc.com/2026/07/29/kevin-warsh-fed-treasury-yields-inflation-credibility-interest-rates.html",
+    "published": "Thu, 30 Jul 2026 01:00:01 GMT",
+    "fetched_at": "2026-07-30 19:13:55",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "금융",
+      "기술",
+      "부동산",
+      "채권"
+    ],
+    "keywords": [
+      "연준",
+      "금리 동결",
+      "국채 금리",
+      "인플레이션",
+      "신뢰도"
+    ],
+    "reason": "연준의 금리 동결에도 불구하고 장기 국채 금리가 급등하며 시장은 연준의 인플레이션 대응 의지에 의문을 제기하고 있다. 이는 향후 금리 인상 압력과 시장 변동성 확대로 이어질 수 있다.",
+    "action_point": "장기 채권 및 금리 민감 성장주 비중 축소를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "Meta tanks nearly 9%, Microsoft jumps 8% as the AI trade splits Big Tech",
+    "title_ko": "메타 주가 9% 급락, 마이크로소프트 8% 급등하며 AI 트레이드가 빅테크를 분할",
+    "link": "https://www.cnbc.com/2026/07/30/microsoft-msft-meta-stock-today-earnings.html",
+    "published": "Thu, 30 Jul 2026 09:01:56 GMT",
+    "fetched_at": "2026-07-30 19:13:48",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "기술",
+      "소프트웨어",
+      "클라우드 컴퓨팅",
+      "인공지능",
+      "미디어/광고"
+    ],
+    "keywords": [
+      "메타",
+      "마이크로소프트",
+      "AI",
+      "빅테크",
+      "클라우드",
+      "실적",
+      "주가"
+    ],
+    "reason": "이번 실적 발표는 AI 트렌드 내에서도 기업용/클라우드 AI(MS)와 광고 기반 소비자 AI(Meta) 간의 차별화된 성과를 보여주며, 빅테크 섹터 내 자금 이동을 가속화할 전망입니다.",
+    "action_point": "AI 관련 투자 시 클라우드/기업용 AI 솔루션 제공 기업에 대한 비중을 확대하고, 광고 기반 소비자 플랫폼 기업에 대한 비중은 재검토하라."
+  },
+  {
+    "source": "CNBC_World",
     "title": "The Strait of Hormuz is just one trade chokepoint facing a new era of maritime warfare",
     "title_ko": "호르무즈 해협은 새로운 해상전 시대에 직면한 여러 무역 요충지 중 하나",
     "link": "https://www.cnbc.com/2026/07/30/strait-hormuz-drone-shipping-risks.html",
@@ -2884,54 +2937,5 @@
     ],
     "reason": "유명 투자자의 AI 관련 핵심 기술주 매각은 AI 테마의 과열과 기대치에 대한 신중론을 부각하며, 기술주 전반의 투자심리에 부정적인 영향을 미 미칠 수 있습니다.",
     "action_point": "AI 관련 기술주 비중 및 밸류에이션 재검토"
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Nvidia, SpaceX, Microsoft launch AI safety initiative as OpenAI cyberattack fallout continues",
-    "title_ko": "Nvidia, SpaceX, Microsoft, 오픈AI 사이버 공격 여파 속 AI 안전 이니셔티브 출범",
-    "link": "https://www.cnbc.com/2026/07/27/nvidia-ai-initiative-openai-cyber-attack.html",
-    "published": "Mon, 27 Jul 2026 11:32:45 GMT",
-    "fetched_at": "2026-07-27 21:51:41",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "인공지능",
-      "반도체",
-      "클라우드 컴퓨팅",
-      "사이버 보안"
-    ],
-    "keywords": [
-      "AI 안전",
-      "사이버 보안",
-      "기술 협력",
-      "AI 얼라이언스"
-    ],
-    "reason": "주요 기술 기업들이 AI 안전 연합을 결성하여 AI 개발의 장기적인 신뢰성과 안정성을 강화하려는 움직임입니다. 이는 AI 기술의 지속 가능한 성장을 위한 리스크 관리 노력으로 해석됩니다.",
-    "action_point": "AI 관련 기업 투자 시 보안 및 윤리적 리스크 관리 역량을 핵심 평가 지표로 활용하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "\"비아파트 공급자 금융지원·세부담 완화해야…계약해지 리스크도\" - 연합인포맥스",
-    "title_ko": "비아파트 공급자 금융지원·세부담 완화해야…계약해지 리스크도",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5qeW1aUGJaUEJvcWN3dkhiTWs1c2xYOGxNcU9nVE9qd0ladDJEZXNpV2JWZUh2MUUtc1c2SW5kZUNhUUhIZzN6THRFYnYwMmxtRzluU1k3cUMwTUY5QmdIT2t3Q2p5amFjbjREeF9JQk8?oc=5",
-    "published": "Mon, 27 Jul 2026 10:12:16 GMT",
-    "fetched_at": "2026-07-27 21:51:51",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "부동산",
-      "건설",
-      "금융"
-    ],
-    "keywords": [
-      "비아파트",
-      "부동산 시장",
-      "금융지원",
-      "세부담",
-      "계약해지",
-      "건설업"
-    ],
-    "reason": "비아파트 부문의 계약 해지 리스크가 부각되며 건설 및 금융 시장의 잠재적 불안정성이 드러났다. 정부의 금융지원 및 세부담 완화 정책 논의가 확산될 경우 관련 섹터의 불확실성이 일부 해소될 수 있다.",
-    "action_point": "비아파트 관련 부동산 PF 부실 우려 기업 및 금융 익스포저 점검."
   }
 ]
