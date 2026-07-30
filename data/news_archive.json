@@ -1,6 +1,58 @@
 [
   {
     "source": "CNBC_World",
+    "title": "Amazon hikes 2026 capex to $220 billion due to higher memory costs",
+    "title_ko": "아마존, 메모리 비용 상승으로 2026년 CAPEX 2,200억 달러로 증액",
+    "link": "https://www.cnbc.com/2026/07/30/amazon-amzn-q2-earnings-report-2026.html",
+    "published": "Thu, 30 Jul 2026 21:31:31 GMT",
+    "fetched_at": "2026-07-31 07:03:41",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "기술",
+      "반도체",
+      "클라우드 컴퓨팅",
+      "데이터센터"
+    ],
+    "keywords": [
+      "아마존",
+      "AWS",
+      "CAPEX",
+      "메모리",
+      "클라우드",
+      "반도체"
+    ],
+    "reason": "아마존의 클라우드(AWS) 사업 호조와 CAPEX 증액은 AI 및 클라우드 서비스 수요의 강력한 성장을 시사하며, 이는 메모리 반도체 등 관련 부품 및 장비 시장에 긍정적인 파급 효과를 가져올 것이다.",
+    "action_point": "메모리 반도체 섹터 비중 확대 검토"
+  },
+  {
+    "source": "CNBC_World",
+    "title": "Apple's stock drops 8% as supply constraints lead to weak revenue guidance: Live updates",
+    "title_ko": "애플 주가, 공급 제약으로 인한 저조한 매출 전망에 8% 하락: 실시간 업데이트",
+    "link": "https://www.cnbc.com/2026/07/30/apple-earnings-live-updates.html",
+    "published": "Thu, 30 Jul 2026 21:53:24 GMT",
+    "fetched_at": "2026-07-31 07:03:49",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "IT",
+      "기술",
+      "하드웨어",
+      "반도체",
+      "글로벌 공급망"
+    ],
+    "keywords": [
+      "애플",
+      "주가 하락",
+      "매출 전망",
+      "공급망 제약",
+      "실적"
+    ],
+    "reason": "글로벌 IT 대장주 애플의 실적 부진과 공급망 제약은 기술 섹터 전반의 투자 심리를 위축시키고, 유사한 공급망 문제에 직면할 수 있는 다른 기업들의 리스크를 부각시킵니다.",
+    "action_point": "글로벌 기술 및 하드웨어 섹터 내 공급망 의존도가 높은 기업의 투자 비중 축소를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
     "title": "China’s open-weight model lead exposes America’s AI blind spot",
     "title_ko": "중국의 오픈웨이트 모델 선두, 미국의 AI 사각지대 노출",
     "link": "https://www.cnbc.com/2026/07/30/china-open-source-trump-ai.html",
@@ -2885,53 +2937,5 @@
     ],
     "reason": "본 기사는 ASML, SK하이닉스 등 주요 개별 기업들의 장중 주가 움직임을 보고할 뿐, 특정 섹터나 거시 경제에 미칠 핵심적인 원인이나 시장 전체의 방향성을 제시하지 않습니다.",
     "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "title": "U.S. and Korean tech stocks are now tightly linked — and that could be a worry for investors",
-    "title_ko": "미국과 한국의 기술주, 이제 밀접하게 연동 — 이는 투자자들에게 우려가 될 수 있다",
-    "link": "https://www.cnbc.com/2026/07/28/nasdaq-kospi-wall-street-korea-markets-skhynox-samsung.html",
-    "published": "Tue, 28 Jul 2026 01:34:28 GMT",
-    "fetched_at": "2026-07-28 10:48:24",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "기술주",
-      "반도체",
-      "IT"
-    ],
-    "keywords": [
-      "주식 시장",
-      "상관관계",
-      "기술주",
-      "나스닥",
-      "코스피",
-      "시장 위험"
-    ],
-    "reason": "미국 나스닥 100과 한국 코스피 간의 높은 상관관계는 양국 기술주가 동조화되어 움직일 가능성이 커졌음을 의미한다. 이는 투자 포트폴리오의 분산 효과를 저해하고, 한쪽 시장의 변동성이 다른 시장으로 전이될 위험을 높인다.",
-    "action_point": "한국 및 미국 기술주 비중이 높은 투자자는 포트폴리오 내 지역 및 섹터 다변화를 재검토하여 위험을 관리하라."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Apple ends day as world's most valuable company, passing Nvidia",
-    "title_ko": "애플, 엔비디아 제치고 세계에서 가장 가치 있는 기업으로 등극",
-    "link": "https://www.cnbc.com/2026/07/27/apple-most-valuable-company-nvidia.html",
-    "published": "Mon, 27 Jul 2026 21:12:26 GMT",
-    "fetched_at": "2026-07-28 10:48:31",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "기술",
-      "반도체"
-    ],
-    "keywords": [
-      "애플",
-      "엔비디아",
-      "시가총액",
-      "기술주",
-      "AI"
-    ],
-    "reason": "이는 초대형 기술주 내에서 시장 주도주의 변화를 보여주며, 순수 AI 테마주에서 광범위한 AI 통합 기술주로의 투자심리 전환 가능성을 시사합니다. 거시 경제 전반보다는 기술 섹터 내 자금 배분 변화에 더 큰 영향을 미칩니다.",
-    "action_point": "대형 기술주 포트폴리오 내 AI 성장주와 AI 통합 소비재/서비스 기업 비중을 재검토하여 균형을 조정하십시오."
   }
 ]
