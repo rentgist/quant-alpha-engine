@@ -1,6 +1,134 @@
 [
   {
     "source": "CNBC_World",
+    "title": "U.S. resumes strikes against Iran, retaliating against surprise missile attack",
+    "title_ko": "미국, 이란에 대한 공습 재개, 기습 미사일 공격에 보복",
+    "link": "https://www.cnbc.com/2026/07/30/us-iran-war-hormuz-centcom-trump-.html",
+    "published": "Thu, 30 Jul 2026 01:21:23 GMT",
+    "fetched_at": "2026-07-30 10:27:29",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "에너지",
+      "방산",
+      "해운",
+      "항공"
+    ],
+    "keywords": [
+      "미국",
+      "이란",
+      "중동",
+      "지정학적 리스크",
+      "유가",
+      "군사충돌"
+    ],
+    "reason": "미국의 이란 공습 재개는 중동 지역의 지정학적 긴장을 최고조로 끌어올려 글로벌 유가 상승 압력과 전반적인 위험자산 회피 심리를 강화할 것입니다. 특히 호르무즈 해협 등 주요 운송로의 불확실성이 증대됩니다.",
+    "action_point": "중동 지정학적 리스크 확대로 인한 국제 유가 급등 가능성에 대비하여 에너지 관련 자산 비중 확대를 고려하고, 금 등 안전자산 포트폴리오를 점검하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "[스타트 경제] 코스피, 사상 첫 이틀 연속 서킷 브레이커...이틀 만에 865조 원 사라져 - YTN",
+    "title_ko": "코스피, 사상 첫 이틀 연속 서킷 브레이커...이틀 만에 865조 원 사라져 - YTN",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBwbWgxYnFSa2k4eFFtYy1Tb055OFoxRjFuQ04tV2pLcXByc0h2Z1JGSlBoM0hCV3VtWGdDQ016RmhkaXdmdzAyNFg4NzNQLWc5V1I2MVhNRXNCVXU5cVE?oc=5",
+    "published": "Wed, 29 Jul 2026 22:38:00 GMT",
+    "fetched_at": "2026-07-30 10:27:42",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "주식시장 전반",
+      "금융",
+      "성장주"
+    ],
+    "keywords": [
+      "코스피",
+      "서킷 브레이커",
+      "주식시장",
+      "투자심리",
+      "시장변동성",
+      "자본유출"
+    ],
+    "reason": "코스피의 사상 첫 이틀 연속 서킷 브레이커 발동은 극심한 투자심리 위축과 시장 패닉을 반영하며, 대규모 자본 이탈과 경제 전반의 불확실성 확대를 시사한다. 이는 국내외 경제 둔화 및 기업 실적 악화 우려를 증폭시킨다.",
+    "action_point": "주식시장 비중을 방어적으로 축소하고, 안전자산으로의 포트폴리오 재조정을 검토하라."
+  },
+  {
+    "source": "CNBC_Finance",
+    "title": "The U.S. wants Asia to use its AI — but China dominates cheaper models",
+    "title_ko": "미국은 아시아가 자국 AI를 사용하길 원하지만, 중국이 더 저렴한 모델을 장악",
+    "link": "https://www.cnbc.com/2026/07/30/us-wants-asia-to-use-its-ai-but-china-dominates-cheaper-models.html",
+    "published": "Wed, 29 Jul 2026 23:10:46 GMT",
+    "fetched_at": "2026-07-30 10:27:20",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "AI",
+      "반도체",
+      "클라우드 컴퓨팅",
+      "소프트웨어",
+      "데이터 센터"
+    ],
+    "keywords": [
+      "AI",
+      "미국",
+      "중국",
+      "아시아",
+      "기술 경쟁",
+      "생성형 AI",
+      "반도체"
+    ],
+    "reason": "미중 AI 기술 경쟁이 아시아 시장을 중심으로 심화되고 있으며, 이는 AI 관련 산업 전반의 성장과 함께 각국 정책 및 규제 환경 변화를 야기할 것입니다.",
+    "action_point": "글로벌 AI 인프라 및 첨단 반도체 섹터 내 리더 기업에 대한 비중 확대를 검토."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "Samsung Electronics second-quarter operating profit beats estimates on soaring AI chip demand",
+    "title_ko": "삼성전자 2분기 영업이익, AI 칩 수요 급증에 예상치 상회",
+    "link": "https://www.cnbc.com/2026/07/30/samsung-q2-earnings-ai-chip-.html",
+    "published": "Thu, 30 Jul 2026 00:50:50 GMT",
+    "fetched_at": "2026-07-30 10:27:35",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "반도체",
+      "기술주"
+    ],
+    "keywords": [
+      "삼성전자",
+      "AI 칩",
+      "반도체",
+      "실적"
+    ],
+    "reason": "AI 칩 수요 급증은 반도체 산업의 강력한 회복세와 성장 잠재력을 재확인시키며, 삼성전자를 포함한 글로벌 기술주 전반에 긍정적인 투자 심리를 형성할 것입니다.",
+    "action_point": "글로벌 반도체 및 AI 관련 기술주 비중 확대를 검토"
+  },
+  {
+    "source": "Maeil_Business",
+    "title": "뷰런테크놀로지 ‘룩아웃’, 조달청 2026 혁신제품 선정",
+    "title_ko": "뷰런테크놀로지 ‘룩아웃’, 조달청 2026 혁신제품 선정",
+    "link": "https://www.mk.co.kr/news/it/12111706",
+    "published": "Thu, 30 Jul 2026 10:25:26 +09:00",
+    "fetched_at": "2026-07-30 10:27:56",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "AI",
+      "라이다",
+      "스마트 인프라",
+      "공공 조달"
+    ],
+    "keywords": [
+      "뷰런테크놀로지",
+      "룩아웃",
+      "조달청",
+      "혁신제품",
+      "라이다",
+      "AI",
+      "스마트 인프라"
+    ],
+    "reason": "뷰런테크놀로지의 라이다 기반 AI 솔루션이 조달청 혁신제품으로 선정된 것은 해당 기업의 공공시장 확대 및 기술력 인정을 의미하며, AI 및 스마트 인프라 섹터 전반에 대한 긍정적 신호로 해석될 수 있습니다.",
+    "action_point": "스마트 인프라 및 AI 기반 라이다 기술 관련 국내 정책 수혜 기업군 동향을 점검하여 잠재적 투자 기회를 탐색."
+  },
+  {
+    "source": "CNBC_World",
     "title": "Stock futures rise as Microsoft jumps after earnings; traders hope to recover from Fed Day sell-off: Live updates",
     "title_ko": "마이크로소프트 실적 발표 후 주식 선물 상승, 연준 발표일 매도세 회복 기대: 실시간 업데이트",
     "link": "https://www.cnbc.com/2026/07/29/stock-market-today-live-updates.html",
@@ -2776,125 +2904,5 @@
     ],
     "reason": "AI 붐이 아시아 외환 시장의 역학을 변화시키며, 기술 노출이 높은 국가의 통화 가치 상승 및 관련 자산 유입을 예상하게 한다.",
     "action_point": "AI 관련 기술 노출도가 높은 아시아 국가의 통화 및 주식 시장에 대한 투자 기회를 적극적으로 모색하라."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "CNBC Daily Open: Markets finally get a calm weekend; Nvidia and SK Hynix announce massive memory deal",
-    "title_ko": "CNBC 데일리 오픈: 마침내 시장이 평온한 주말을 맞이하다; 엔비디아와 SK하이닉스, 대규모 메모리 계약 발표",
-    "link": "https://www.cnbc.com/2026/07/27/cnbc-daily-open-markets-calm-weekend-nvidia-sk-hynix-deal.html",
-    "published": "Mon, 27 Jul 2026 01:05:14 GMT",
-    "fetched_at": "2026-07-27 11:00:31",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "반도체",
-      "기술"
-    ],
-    "keywords": [
-      "중동 정세",
-      "지정학적 위험 완화",
-      "엔비디아",
-      "SK하이닉스",
-      "HBM"
-    ],
-    "reason": "중동 지정학적 긴장 완화로 전반적인 시장 투자 심리가 개선되었으며, 엔비디아와 SK하이닉스의 대규모 메모리 계약은 고대역폭 메모리(HBM) 시장의 성장 기대감을 높여 반도체 업종에 강력한 상승 모멘텀을 제공합니다.",
-    "action_point": "반도체 섹터 내 HBM 관련주 비중 확대를 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "China memory chipmaker CXMT skyrockets 470% in Shanghai debut",
-    "title_ko": "중국 메모리 칩 제조업체 CXMT, 상하이 증시 데뷔 후 470% 폭등",
-    "link": "https://www.cnbc.com/2026/07/27/cxmt-china-market-debut-chipmaker-ipo.html",
-    "published": "Mon, 27 Jul 2026 01:58:11 GMT",
-    "fetched_at": "2026-07-27 11:00:23",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "반도체",
-      "기술주"
-    ],
-    "keywords": [
-      "중국 반도체",
-      "CXMT",
-      "IPO",
-      "메모리 칩"
-    ],
-    "reason": "중국 메모리 반도체 기업의 성공적인 상장은 중국의 기술 자립 의지와 내수 자본 시장의 활력을 보여준다. 이는 장기적으로 글로벌 반도체 시장 경쟁 심화로 이어질 수 있다.",
-    "action_point": "중국 반도체 산업 성장세에 따른 국내 반도체 기업의 경쟁 환경 변화를 면밀히 분석."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Stock futures climb, oil prices fall as U.S. and Iran pause attacks: Live updates",
-    "title_ko": "미국과 이란의 공격 중단으로 주식 선물 상승, 유가 하락: 실시간 업데이트",
-    "link": "https://www.cnbc.com/2026/07/26/stock-market-today-live-updates.html",
-    "published": "Sun, 26 Jul 2026 23:39:10 GMT",
-    "fetched_at": "2026-07-27 08:52:56",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "항공",
-      "해운",
-      "운송"
-    ],
-    "keywords": [
-      "미국",
-      "이란",
-      "지정학",
-      "유가",
-      "주식 선물",
-      "긴장 완화"
-    ],
-    "reason": "미국과 이란 간 군사적 긴장 완화는 지정학적 리스크 프리미엄을 낮춰 글로벌 주식 시장 안정에 기여하고, 유가 하락을 통해 인플레이션 압력 완화 및 기업 비용 부담 감소 효과를 가져옵니다.",
-    "action_point": "지정학적 리스크 완화로 인한 유가 하락에 대응하여 에너지 섹터 비중 축소 및 항공, 운송 등 유가 수혜 섹터의 비중 확대를 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "[위기의 중소형사] [교보증권] 수익구조 쏠림 해결책은? - DealSite경제TV",
-    "title_ko": "[위기의 중소형사] [교보증권] 수익구조 쏠림 해결책은?",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDdTIzNzFCdlZLRlVWUExUZWo1S0hjS242X3dXdW52Zm94T3pQMkR0N0puMjJNTWxENUhNZUFHREJ3UWFNaFozSEhjcGZva2xUTG5fcDV3?oc=5",
-    "published": "Sun, 26 Jul 2026 23:00:26 GMT",
-    "fetched_at": "2026-07-27 08:53:04",
-    "sentiment": "악재",
-    "importance": 2,
-    "sectors": [
-      "증권"
-    ],
-    "keywords": [
-      "증권사",
-      "수익구조",
-      "중소형사",
-      "교보증권"
-    ],
-    "reason": "국내 중소형 증권사들의 취약한 수익구조 문제를 지적하며, 이는 금리 인상기 시장 변동성 확대에 따른 이익 감소 우려와 함께 증권업종 내 구조조정 가능성을 시사합니다.",
-    "action_point": "중소형 증권사 투자 비중 축소 검토"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "전쟁·관세 등 변수 산적…100일 뒤 트럼프 성적표는? - 연합뉴스TV",
-    "title_ko": "전쟁·관세 등 변수 산적…100일 뒤 트럼프 성적표는?",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PeHVHcDN1dGZzLUg1bmZGa3FxazJCc1hfd19KejFrckNTLWNLTFF0Z0xqbnhzSEx6ekdUOE9WSEVHSmFFdUwzYm5zS1E4cFdWSy1tdVFjQVNMSUN5TTJJVEdFV09CZWs?oc=5",
-    "published": "Sun, 26 Jul 2026 20:34:00 GMT",
-    "fetched_at": "2026-07-27 06:50:51",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "자동차",
-      "IT 하드웨어",
-      "철강",
-      "화학",
-      "방산",
-      "원자재"
-    ],
-    "keywords": [
-      "트럼프",
-      "미국 대선",
-      "관세",
-      "무역 전쟁",
-      "지정학",
-      "불확실성"
-    ],
-    "reason": "트럼프 재집권 가능성은 글로벌 무역 정책(관세) 및 지정학적 안정성에 대한 불확실성을 증폭시켜, 한국과 같은 수출 주도 경제에 변동성 확대와 공급망 교란 위험을 높일 수 있습니다.",
-    "action_point": "무역 정책 변화에 취약한 수출 중심 기업의 비중 축소를 검토하고, 달러 등 안전 자산 비중 확대를 고려하라."
   }
 ]
