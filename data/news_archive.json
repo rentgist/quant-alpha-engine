@@ -1,5 +1,55 @@
 [
   {
+    "source": "CNBC_World",
+    "title": "China's factory activity unexpectedly contracts in July, ending 4-month expansion streak",
+    "title_ko": "중국 7월 제조업 활동 예상 밖 위축, 4개월 연속 확장세 종료",
+    "link": "https://www.cnbc.com/2026/07/31/china-pmi-factory-activity-economic-growth-exports-.html",
+    "published": "Fri, 31 Jul 2026 01:44:13 GMT",
+    "fetched_at": "2026-07-31 10:54:23",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "제조업",
+      "원자재",
+      "산업재",
+      "해운/물류",
+      "반도체"
+    ],
+    "keywords": [
+      "중국 경제",
+      "제조업 PMI",
+      "경기 둔화",
+      "글로벌 수요",
+      "원자재"
+    ],
+    "reason": "중국의 제조업 PMI 위축은 예상치 못한 경기 둔화 신호로, 글로벌 수요 감소와 공급망 불확실성을 심화시킬 수 있습니다. 이는 중국 경제 회복에 대한 우려를 높이고 전 세계 성장 전망에 부정적인 영향을 미칠 것입니다.",
+    "action_point": "중국 관련 익스포저가 높은 원자재 및 산업재 섹터의 비중 축소를 검토."
+  },
+  {
+    "source": "CNBC_Finance",
+    "title": "Stocks making the biggest moves midday: Meta, Microsoft, MarketAxess, Crocs & more",
+    "title_ko": "오후장 가장 큰 움직임을 보이는 주식: 메타, 마이크로소프트, 마켓액세스, 크록스 등",
+    "link": "https://www.cnbc.com/2026/07/30/stocks-making-the-biggest-moves-midday-meta-msft-mktx-crox.html",
+    "published": "Thu, 30 Jul 2026 17:29:50 GMT",
+    "fetched_at": "2026-07-31 10:54:16",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "기술",
+      "경기소비재",
+      "금융"
+    ],
+    "keywords": [
+      "주식",
+      "개별주",
+      "기술주",
+      "소비재주",
+      "금융주"
+    ],
+    "reason": "이 기사는 오후장 중 특정 대형 기술주, 소비재주, 금융주 등의 개별 주식 움직임을 나열할 뿐, 그 배경에 대한 정보가 없어 거시 경제적 관점에서 즉각적인 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "CNBC_Finance",
     "title": "China’s U.S.-bound shipments fall in July after brief recovery, survey shows",
     "title_ko": "설문조사: 중국의 대미 수출 물량, 일시적 회복세 후 7월 감소",
@@ -2892,53 +2942,5 @@
     ],
     "reason": "코스피의 8% 폭락과 서킷브레이커 발동은 투자 심리가 극도로 위축되었음을 나타내며, 국내외 경기 침체 우려와 시장 불확실성이 심화되고 있음을 반영합니다.",
     "action_point": "위험자산 비중을 축소하고 현금 및 달러 등 안전자산 비중 확대를 검토하십시오."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Oil prices drop more than 2% as a pause in U.S.-Iran hostilities raises de-escalation hopes",
-    "title_ko": "미국-이란 적대행위 중단으로 유가 2% 이상 하락, 갈등 완화 기대감 증폭",
-    "link": "https://www.cnbc.com/2026/07/28/oil-price-today-wti-brent-us-iran-hormuz.html",
-    "published": "Tue, 28 Jul 2026 03:38:41 GMT",
-    "fetched_at": "2026-07-28 13:55:46",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "항공",
-      "운송",
-      "화학",
-      "소비재"
-    ],
-    "keywords": [
-      "유가",
-      "미국-이란",
-      "지정학",
-      "갈등 완화",
-      "원자재"
-    ],
-    "reason": "미국과 이란 간의 적대적 행위 중단으로 지정학적 리스크 프리미엄이 완화되어 유가가 하락했습니다. 이는 전반적인 경제 활동에 긍정적이며, 기업의 원가 부담을 경감시키는 효과가 있습니다.",
-    "action_point": "에너지 섹터 투자 비중을 축소하고, 유가 하락에 따른 원가 부담 경감 수혜주(항공, 운송, 소비재 등)에 대한 비중 확대를 검토하십시오."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Indonesian stocks stage massive turnaround, hitting bull market status after clocking a five-year low just last month",
-    "title_ko": "인도네시아 증시, 지난달 5년 최저치 기록 후 대규모 반등하며 강세장 진입",
-    "link": "https://www.cnbc.com/2026/07/28/indonesian-stocks-enter-bull-market.html",
-    "published": "Tue, 28 Jul 2026 03:55:40 GMT",
-    "fetched_at": "2026-07-28 13:55:54",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "이머징 마켓",
-      "아세안"
-    ],
-    "keywords": [
-      "인도네시아 증시",
-      "강세장",
-      "외국인 투자",
-      "이머징 마켓"
-    ],
-    "reason": "인도네시아 증시가 저평가된 밸류에이션, 규제 당국의 신속한 개입, 외국인 투자자 복귀로 강세장에 진입, 이머징 마켓 전반에 대한 투자심리 개선 가능성을 시사합니다.",
-    "action_point": "이머징 마켓 투자 비중 확대 또는 인도네시아 관련 투자 자산 편입을 검토."
   }
 ]
