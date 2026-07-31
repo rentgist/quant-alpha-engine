@@ -1,5 +1,28 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "title": "\"월급만으로 삶이 팍팍\"…'패시브 인컴' 美 새로운 경제 트렌드 부상 - 더구루",
+    "title_ko": "월급만으로 삶이 팍팍\"…'패시브 인컴' 美 새로운 경제 트렌드 부상",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBfWHgzVHhNek5zZ3dqUFFDWkhrNy1vSVAwNHZhc0RQZXdPTk9qeWQ2QVkyTkdYVlNISkZ2em5hMmlZODJQSlJ3VWptUk1qVUc1QjhEQ0FhQW1mQ3R2XzF4RVFrUQ?oc=5",
+    "published": "Fri, 31 Jul 2026 15:00:35 GMT",
+    "fetched_at": "2026-08-01 07:57:10",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "부동산",
+      "금융",
+      "고배당주"
+    ],
+    "keywords": [
+      "패시브 인컴",
+      "미국 경제",
+      "자산배분",
+      "소비 트렌드"
+    ],
+    "reason": "미국 내에서 월급 외 수입을 찾는 패시브 인컴 트렌드가 확산됨에 따라, 장기적으로 배당주, 부동산 등 안정적인 현금흐름을 창출하는 자산에 대한 수요 증가 가능성이 있다.",
+    "action_point": "배당주, 리츠, 임대수익형 부동산 등 패시브 인컴 관련 자산 비중 확대를 검토하라."
+  },
+  {
     "source": "Maeil_Business",
     "title": "“반도체 조정 끝?”…아마존·MS 15% 폭등에 다시 달린 나스닥",
     "title_ko": "“반도체 조정 끝?”…아마존·MS 15% 폭등에 다시 달린 나스닥",
@@ -2917,28 +2940,5 @@
     ],
     "reason": "러시아에 대한 제재 강화는 지정학적 리스크를 고조시키고 에너지 및 원자재 가격의 변동성을 키우며, 글로벌 금융 시장에 불확실성을 가중시킬 수 있습니다.",
     "action_point": "러시아 제재 강화로 인한 에너지/원자재 가격 상승 및 금융 시장 불안정성 심화 가능성에 대비하여 관련 자산 포지션을 점검하고 방어적 자산 비중을 고려하십시오."
-  },
-  {
-    "source": "CNBC_Finance",
-    "title": "Stocks making the biggest moves after hours: Ford, Teradyne, Visa, KLA Corp and more",
-    "title_ko": "시간 외 거래에서 큰 움직임을 보이는 주식: 포드, 테라다인, 비자, KLA 코프 외",
-    "link": "https://www.cnbc.com/2026/07/28/stocks-making-the-biggest-moves-after-hours-f-ter-v-klac-and-more.html",
-    "published": "Tue, 28 Jul 2026 21:23:28 GMT",
-    "fetched_at": "2026-07-29 10:44:46",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "자동차",
-      "반도체",
-      "결제서비스",
-      "기술"
-    ],
-    "keywords": [
-      "시간 외 거래",
-      "개별 주식",
-      "기업 실적"
-    ],
-    "reason": "이 기사는 시간 외 거래에서 특정 개별 주식들의 움직임을 보고하는 것으로, 해당 기업들의 실적 발표나 특정 이슈에 기인한 현상으로 보입니다. 거시 경제 전반에 미치는 직접적인 영향은 제한적입니다.",
-    "action_point": "해당 없음"
   }
 ]
