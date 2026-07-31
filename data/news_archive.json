@@ -1,5 +1,102 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "title": "[기고]‘호르무즈 전쟁’이 보여준 ‘전략적 지속능력과 질서관리 경쟁’의 시대…김태준의 美·이란戰 중계 - 문화일보",
+    "title_ko": "[기고]‘호르무즈 전쟁’이 보여준 ‘전략적 지속능력과 질서관리 경쟁’의 시대…김태준의 美·이란戰 중계",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9jRmx5dzRubmU3MEZLakI1cWg4a3VmWG04RzVBMDNhME1vbWY1RTJXQXNtSk1vTE5UMGhhUC11UDNqUWtTYTFMRW1VSTlzQkw4?oc=5",
+    "published": "Fri, 31 Jul 2026 12:33:12 GMT",
+    "fetched_at": "2026-07-31 22:42:06",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "원자재",
+      "해운",
+      "방산",
+      "항공",
+      "보험"
+    ],
+    "keywords": [
+      "호르무즈 해협",
+      "미국-이란 갈등",
+      "지정학적 위험",
+      "유가",
+      "해상 운송"
+    ],
+    "reason": "호르무즈 해협은 전 세계 원유 공급의 핵심 통로로, 이곳에서의 전쟁이나 긴장 고조는 국제 유가 폭등을 야기하고 해상 운송에 심각한 차질을 초래하여 글로벌 경제 전반에 악영향을 미치며 시장의 변동성을 확대시킬 수 있습니다.",
+    "action_point": "국제유가 상승 위험에 대비해 에너지 관련 익스포저를 점검하고, 지정학적 리스크 헷지 수단(예: 방산주)을 고려하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "사우디, 이란 대리세력 공격…이라크·홍해로 번지는 이란 전쟁 - 재외동포신문",
+    "title_ko": "사우디, 이란 대리세력 공격…이라크·홍해로 번지는 이란 전쟁",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SazdkRE9YMGQyMmw5TFJRdERBdXNmQ3huR05oUVE4LVotdTBDQkxYT3lCdjl2bnA5SEdqLWZudlk2SUwzNVBjSUFjT1FPVHNzQkxuVGhyekNUQm9vQ2JNTVNRR1YwczY3YXM3cQ?oc=5",
+    "published": "Fri, 31 Jul 2026 10:32:20 GMT",
+    "fetched_at": "2026-07-31 22:42:13",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "에너지",
+      "해운",
+      "방산"
+    ],
+    "keywords": [
+      "사우디",
+      "이란",
+      "중동",
+      "지정학",
+      "홍해",
+      "유가",
+      "해상운송"
+    ],
+    "reason": "중동 지정학적 긴장 고조는 국제 유가 상승 압력을 가하고, 홍해 지역의 해상 운송 차질 우려를 증폭시키며 글로벌 공급망 불안정을 야기할 수 있습니다. 이는 전반적인 시장 위험 회피 심리를 강화할 것입니다.",
+    "action_point": "중동 지정학적 리스크 관련 에너지, 해운 섹터 투자 비중 점검 및 유가 상승 방어 수단 고려."
+  },
+  {
+    "source": "CNBC_Finance",
+    "title": "Fed officials who voted to hike rates say action is needed now against inflation",
+    "title_ko": "금리 인상을 주장한 연준 인사들, 지금 인플레이션에 대한 조치가 필요하다고 언급",
+    "link": "https://www.cnbc.com/2026/07/31/fed-officials-who-voted-to-hike-rates-say-action-is-needed-now-against-inflation.html",
+    "published": "Fri, 31 Jul 2026 12:40:00 GMT",
+    "fetched_at": "2026-07-31 22:41:55",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "기술주",
+      "부동산",
+      "성장주",
+      "금융주"
+    ],
+    "keywords": [
+      "연준",
+      "금리인상",
+      "인플레이션",
+      "매파"
+    ],
+    "reason": "일부 연준 인사들이 금리 동결에 반대하며 인플레이션 대응을 위한 즉각적인 조치를 요구한 것은 연준 내 매파적 압력이 여전함을 시사합니다. 이는 향후 추가 금리 인상 가능성 또는 고금리 장기화 기조를 강화하여 위험자산에 부정적으로 작용할 수 있습니다.",
+    "action_point": "고금리 장기화 가능성에 대비하여 고PER 성장주 및 부동산 관련 자산 비중 축소 검토"
+  },
+  {
+    "source": "CNBC_Finance",
+    "title": "New York sues Kalshi, says prediction market is running 'illegal gambling operation'",
+    "title_ko": "뉴욕주, 예측 시장 칼시(Kalshi)를 '불법 도박 운영' 혐의로 고소",
+    "link": "https://www.cnbc.com/2026/07/31/new-york-sues-kalshi-claims-it-is-illegal-gambling-operation.html",
+    "published": "Fri, 31 Jul 2026 12:41:34 GMT",
+    "fetched_at": "2026-07-31 22:41:48",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "핀테크"
+    ],
+    "keywords": [
+      "Kalshi",
+      "예측 시장",
+      "규제",
+      "불법 도박"
+    ],
+    "reason": "예측 시장의 합법성에 대한 규제 불확실성이 커지면서 해당 시장의 성장이 제약될 수 있으며, 핀테크 산업 전반의 신규 금융 상품에 대한 규제 감독 강화 가능성을 시사합니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "CNBC_World",
     "title": "Exxon and Chevron profits surge on rising oil prices due to Iran war",
     "title_ko": "이란 전쟁으로 유가 급등, 엑손과 쉐브론 이익 급증",
@@ -2844,105 +2941,5 @@
     ],
     "reason": "일본에서 발생한 강진은 직접적인 인명 및 재산 피해를 야기하며, 이는 보험업계 손실 증가 및 재건 수요 발생으로 이어질 수 있습니다. 또한, 일본 내 주요 산업시설 피해 여부에 따라 글로벌 공급망에도 단기적인 영향을 미칠 가능성이 있습니다.",
     "action_point": "일본에 주요 사업 비중이 있거나 공급망이 연계된 국내 기업의 재무적 영향 분석을 즉시 개시하라."
-  },
-  {
-    "source": "CNBC_Finance",
-    "title": "The future of Wall Street is here as startups and brokers build AI agents to trade 24/7",
-    "title_ko": "월스트리트의 미래가 왔다: 스타트업과 증권사, 24시간 거래하는 AI 에이전트 구축 중",
-    "link": "https://www.cnbc.com/2026/07/28/ai-agents-build-to-trade-24/7-the-future-of-wall-street.html",
-    "published": "Tue, 28 Jul 2026 15:00:21 GMT",
-    "fetched_at": "2026-07-29 00:12:45",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "금융서비스",
-      "기술",
-      "핀테크"
-    ],
-    "keywords": [
-      "AI",
-      "인공지능",
-      "자동화",
-      "트레이딩",
-      "금융기술",
-      "증권사"
-    ],
-    "reason": "AI 기반 트레이딩 에이전트 도입은 금융 시장의 효율성과 유동성을 증대시키고 운용 비용을 절감할 수 있으나, 시장 변동성 및 고용 시장에 미칠 장기적 영향을 주시해야 합니다.",
-    "action_point": "핀테크 및 AI 관련 기술 기업의 성장 잠재력을 분석하고 포트폴리오 편입을 검토하라."
-  },
-  {
-    "source": "CNBC_Finance",
-    "title": "Visa is cutting 7% of employees in efficiency push as AI reshapes work",
-    "title_ko": "비자, AI 시대 효율성 강화 위해 직원 7% 감축 발표",
-    "link": "https://www.cnbc.com/2026/07/28/visa-is-cutting-7percent-of-employees-in-efficiency-push-as-ai-reshapes-work.html",
-    "published": "Tue, 28 Jul 2026 14:42:56 GMT",
-    "fetched_at": "2026-07-29 00:12:55",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "결제",
-      "핀테크",
-      "기술/AI"
-    ],
-    "keywords": [
-      "비자",
-      "감원",
-      "효율성",
-      "AI",
-      "결제 산업"
-    ],
-    "reason": "비자의 대규모 감원은 AI 기술 도입을 통한 기업들의 비용 절감 및 효율성 증대 추세를 반영하며, 이는 장기적으로 기업 수익성에는 긍정적이나 특정 산업의 노동 시장에는 구조적 변화를 가져올 수 있습니다.",
-    "action_point": "포트폴리오 내 AI 기반 생산성 향상이 기대되는 기업 비중을 확대하는 방안을 고려."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Wildfires burn nearly 300,000 acres in France and Spain as heat wave looms",
-    "title_ko": "프랑스 및 스페인 산불 30만 에이커 소실, 폭염 임박",
-    "link": "https://www.cnbc.com/2026/07/28/france-spain-wildfires-heat-wave.html",
-    "published": "Tue, 28 Jul 2026 10:23:40 GMT",
-    "fetched_at": "2026-07-28 21:48:45",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "농업",
-      "관광",
-      "에너지",
-      "보험",
-      "부동산"
-    ],
-    "keywords": [
-      "산불",
-      "폭염",
-      "유럽",
-      "기후변화",
-      "농업피해"
-    ],
-    "reason": "프랑스/스페인의 대규모 산불과 폭염은 해당 지역의 농업 생산량 감소, 관광 산업 위축 및 전력 수요 증가로 이어져 단기적인 인플레이션 압력과 경제 활동 둔화를 유발할 수 있습니다.",
-    "action_point": "유럽 익스포저가 높은 농업 및 관광 관련 ETF/펀드 비중 축소 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Blurred frontlines: Trump to meet Zelenskyy as Ukraine, Iran wars collide",
-    "title_ko": "전선 혼탁: 트럼프-젤렌스키 회동 예정, 우크라이나-이란 전쟁 충돌 우려",
-    "link": "https://www.cnbc.com/2026/07/28/trump-zelenskyy-ukraine-russia-iran-war.html",
-    "published": "Tue, 28 Jul 2026 10:09:35 GMT",
-    "fetched_at": "2026-07-28 19:26:03",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "에너지",
-      "방산",
-      "원자재",
-      "금융"
-    ],
-    "keywords": [
-      "트럼프",
-      "젤렌스키",
-      "우크라이나 전쟁",
-      "이란 분쟁",
-      "지정학적 리스크"
-    ],
-    "reason": "두 주요 분쟁 지역(우크라이나, 이란/미국)의 충돌 가능성과 트럼프의 향후 외교 정책 불확실성은 글로벌 지정학적 리스크를 크게 증폭시켜 유가 및 원자재 가격 변동성 확대, 안전자산 선호 심화로 이어질 것입니다.",
-    "action_point": "원자재 및 방산 관련주 비중 확대를 검토하고, 안전자산으로서 달러와 금 보유를 강화하라."
   }
 ]
