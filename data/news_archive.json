@@ -1,5 +1,76 @@
 [
   {
+    "source": "CNBC_World",
+    "title": "Trump says U.S. has 'not agreed to' grant Ukraine Patriot missile licenses",
+    "title_ko": "트럼프, 미국이 우크라이나에 패트리어트 미사일 라이선스 허가에 '동의하지 않았다'고 밝혀",
+    "link": "https://www.cnbc.com/2026/07/31/trump-ukraine-patriot-missile-license-russia.html",
+    "published": "Fri, 31 Jul 2026 18:52:10 GMT",
+    "fetched_at": "2026-08-01 05:54:55",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "방위산업",
+      "항공우주",
+      "국방",
+      "원자재"
+    ],
+    "keywords": [
+      "트럼프",
+      "우크라이나",
+      "패트리어트 미사일",
+      "방위산업",
+      "지정학",
+      "미국 외교 정책"
+    ],
+    "reason": "트럼프의 발언은 향후 미국 대선 결과에 따른 우크라이나 군사 지원 정책의 불확실성을 높이며, 이는 지정학적 긴장과 글로벌 방위산업 시장에 중장기적 영향을 미칠 수 있습니다.",
+    "action_point": "미국 대선 결과에 따른 지정학적 리스크 변화 가능성에 대비하여 글로벌 방산 섹터 및 지정학적 리스크 민감 자산에 대한 투자 비중을 재검토하라."
+  },
+  {
+    "source": "CNBC_Finance",
+    "title": "Stocks making the biggest moves midday: Apple, Amazon, Reddit, GoDaddy, IES Holdings & more",
+    "title_ko": "오후장 가장 큰 변동을 보인 주식: 애플, 아마존, 레딧, 고대디, IES 홀딩스 외",
+    "link": "https://www.cnbc.com/2026/07/31/stocks-making-the-biggest-moves-midday-aapl-amzn-rddt-gddy-iesc.html",
+    "published": "Fri, 31 Jul 2026 17:42:49 GMT",
+    "fetched_at": "2026-08-01 05:54:36",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "기술",
+      "소비재",
+      "산업재"
+    ],
+    "keywords": [
+      "개별주",
+      "시장 변동성",
+      "기술주"
+    ],
+    "reason": "이 뉴스는 특정 대형 및 중소형 개별 주식들의 장중 움직임을 나열하고 있을 뿐, 해당 움직임의 원인이나 거시경제적 함의를 제공하지 않습니다. 따라서 전체 시장이나 매크로 흐름에 대한 직접적인 영향은 미미합니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_Finance",
+    "title": "Stocks making the biggest moves premarket: Replimune, Chevron, Apple, Amazon, Moderna & more",
+    "title_ko": "개장 전 가장 큰 움직임을 보이는 주식: 레플리뮨, 쉐브론, 애플, 아마존, 모더나 외",
+    "link": "https://www.cnbc.com/2026/07/31/stocks-making-the-biggest-moves-premarket-repl-cvx-aapl-amzn-mrna.html",
+    "published": "Fri, 31 Jul 2026 12:30:23 GMT",
+    "fetched_at": "2026-08-01 05:54:44",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "기술",
+      "에너지",
+      "헬스케어",
+      "소비재"
+    ],
+    "keywords": [
+      "개장 전 움직임",
+      "개별 주식",
+      "기업 동향"
+    ],
+    "reason": "이 기사는 개장 전 개별 기업들의 주가 움직임을 단순 보고하는 것으로, 해당 움직임의 원인이나 거시경제적 맥락을 제시하지 않아 시장 전반에 미칠 유의미한 영향은 제한적입니다.",
+    "action_point": "개별 기업에 대한 추가 정보가 없는 한 거시적 포트폴리오 조정은 해당 없음."
+  },
+  {
     "source": "CNBC_Finance",
     "title": "Investors may want to focus on front end of yield curve — as Street anticipates next Fed meetings",
     "title_ko": "투자자들은 연준 회의를 앞두고 단기 금리 구간에 주목해야 할 수도 있습니다.",
@@ -2871,79 +2942,5 @@
     ],
     "reason": "애플의 시가총액 5조 달러 달성은 기술 대형주에 대한 강력한 투자 심리를 보여주며, 특히 AI 분야의 미래 성장 잠재력에 대한 시장의 높은 기대를 반영합니다. 이는 기술 및 AI 관련 기업들의 밸류에이션에 긍정적인 영향을 미칠 수 있습니다.",
     "action_point": "선도적인 AI 관련 대형 기술주 비중 유지 또는 확대 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "SK Hynix second-quarter profit surges to a new high — but misses estimates",
-    "title_ko": "SK하이닉스 2분기, 사상 최고치 이익 기록했지만 시장 예상치 하회",
-    "link": "https://www.cnbc.com/2026/07/29/sk-hynix-earnings-profit-revenue-hbm-memory.html",
-    "published": "Tue, 28 Jul 2026 23:25:26 GMT",
-    "fetched_at": "2026-07-29 08:52:26",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "반도체",
-      "IT 하드웨어",
-      "기술주"
-    ],
-    "keywords": [
-      "SK하이닉스",
-      "실적",
-      "반도체",
-      "메모리",
-      "어닝시즌"
-    ],
-    "reason": "SK하이닉스의 사상 최고 실적에도 불구하고 시장 예상치 하회는 이미 높았던 반도체 업황 개선 기대감에 제동을 걸 수 있습니다. 이는 단기적으로 반도체 섹터 전반에 대한 투자심리를 위축시킬 수 있습니다.",
-    "action_point": "반도체 섹터의 단기적 조정 가능성을 염두에 두고 비중 조정을 검토하십시오."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Elon Musk stocks take $1.5 trillion hit with fresh test in SpaceX lockup ahead",
-    "title_ko": "일론 머스크 관련 주식 시가총액 1.5조 달러 감소, 스페이스X 락업 해제를 앞두고 새로운 시험대에",
-    "link": "https://www.cnbc.com/2026/07/28/elon-musk-stocks-take-1point5-trillion-hit-with-fresh-test-in-spacex-lockup-ahead.html",
-    "published": "Tue, 28 Jul 2026 18:56:34 GMT",
-    "fetched_at": "2026-07-29 08:52:43",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "전기차",
-      "우주항공",
-      "기술주"
-    ],
-    "keywords": [
-      "일론 머스크",
-      "스페이스X",
-      "테슬라",
-      "시가총액",
-      "락업"
-    ],
-    "reason": "일론 머스크의 주요 기업들(테슬라, 스페이스X)이 상당한 시가총액 감소를 겪었으며, 스페이스X 락업 해제는 추가적인 매도 압력과 고성장 기술주 전반의 투자 심리 위축을 야기할 수 있습니다.",
-    "action_point": "테슬라 등 일론 머스크 관련 고성장 기술주에 대한 매도 압력 증가 가능성에 대비하여 포트폴리오 비중 축소를 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "트럼프, ‘두개의 전쟁’ 당사자 만났다…이란, ‘승전’ 주장하며 반발 - v.daum.net",
-    "title_ko": "트럼프, ‘두개의 전쟁’ 당사자 만났다…이란, ‘승전’ 주장하며 반발",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5iMEp3a2RNcEk5Rldtd0lhbkVVZTBGZ0RZVklfTExyLXlpalMxOFNzOXMzNzNFQ1p5UDF3dzBMMXdqaUJURHN3cGxWdnZBTG8?oc=5",
-    "published": "Tue, 28 Jul 2026 20:59:00 GMT",
-    "fetched_at": "2026-07-29 07:05:13",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "방산",
-      "해운",
-      "정유"
-    ],
-    "keywords": [
-      "트럼프",
-      "이란",
-      "지정학",
-      "중동",
-      "유가",
-      "전쟁"
-    ],
-    "reason": "트럼프의 '두 개의 전쟁' 관련 만남과 이란의 반발은 중동 지역의 지정학적 긴장을 고조시키고 국제 유가 변동성을 확대하며 글로벌 위험 회피 심리를 자극할 수 있습니다. 이는 에너지 및 방산 섹터에 직간접적인 영향을 미 미칩니다.",
-    "action_point": "중동 지정학적 리스크 확대로 인한 에너지 가격 상승 가능성에 대비하여 에너지 관련 자산 비중 확대를 검토하십시오."
   }
 ]
