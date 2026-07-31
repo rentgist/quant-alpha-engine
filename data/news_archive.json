@@ -1,6 +1,75 @@
 [
   {
     "source": "CNBC_Finance",
+    "title": "Investors may want to focus on front end of yield curve — as Street anticipates next Fed meetings",
+    "title_ko": "투자자들은 연준 회의를 앞두고 단기 금리 구간에 주목해야 할 수도 있습니다.",
+    "link": "https://www.cnbc.com/2026/07/31/top-investment-ideas-as-interest-rate-uncertainty-grips-market-.html",
+    "published": "Fri, 31 Jul 2026 18:46:45 GMT",
+    "fetched_at": "2026-08-01 04:09:05",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "채권 시장",
+      "금융 섹터"
+    ],
+    "keywords": [
+      "수익률 곡선",
+      "단기 금리",
+      "연준 회의",
+      "채권 시장",
+      "통화 정책"
+    ],
+    "reason": "이 기사는 시장이 연준의 향후 통화 정책 결정, 특히 금리 인상 또는 인하 기대감에 따라 단기 금리 변동성에 주목하고 있음을 시사합니다. 이는 투자자들이 포트폴리오의 듀레이션 전략을 재조정할 필요성을 제기합니다.",
+    "action_point": "단기 금리 변동성에 주목하여 채권 포트폴리오의 듀레이션 단축을 검토하라."
+  },
+  {
+    "source": "CNBC_Finance",
+    "title": "Fintech broker Clear Street offers investors pre-IPO access to $188 billion AI giant Databricks",
+    "title_ko": "핀테크 브로커 클리어 스트리트, 1,880억 달러 AI 대기업 데이터브릭스에 대한 상장 전 투자 접근 제공",
+    "link": "https://www.cnbc.com/2026/07/31/clear-street-pre-ipo-platform-databricks.html",
+    "published": "Fri, 31 Jul 2026 18:20:01 GMT",
+    "fetched_at": "2026-08-01 04:09:12",
+    "sentiment": "호재",
+    "importance": 2,
+    "sectors": [
+      "핀테크",
+      "벤처캐피탈/사모펀드",
+      "인공지능(AI)",
+      "기술"
+    ],
+    "keywords": [
+      "핀테크",
+      "사모시장",
+      "프리IPO",
+      "AI",
+      "데이터브릭스",
+      "클리어스트리트"
+    ],
+    "reason": "이는 후기 단계 비상장 기업에 대한 사모 시장의 유동성과 투자 접근성이 확대되고 있음을 보여줍니다. 특히 AI 분야의 높은 가치 평가와 투자 수요가 지속되고 있음을 시사합니다.",
+    "action_point": "AI 및 고성장 기술 기업에 대한 사모 시장 투자 기회 모색 고려"
+  },
+  {
+    "source": "Maeil_Business",
+    "title": "검찰 보완수사권 국회 통과…국힘 “이재명 대통령, 거부권 행사하라”",
+    "title_ko": "검찰 보완수사권 국회 통과…국힘 “이재명 대통령, 거부권 행사하라”",
+    "link": "https://www.mk.co.kr/news/society/12114001",
+    "published": "Fri, 31 Jul 2026 22:38:39 +09:00",
+    "fetched_at": "2026-08-01 04:09:44",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [],
+    "keywords": [
+      "정치",
+      "국회",
+      "법안",
+      "검찰",
+      "거부권"
+    ],
+    "reason": "이번 뉴스는 국내 정치 및 사법 시스템 관련 논쟁으로, 거시 경제 펀더멘털이나 주요 자산 시장(주식, 금리, 환율 등)에 직접적이고 즉각적인 영향을 미치기는 어렵습니다. 단기적인 정치적 불확실성은 존재하나, 투자 포트폴리오에 미치는 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_Finance",
     "title": "Why Situational Awareness hedge fund imploded, even in a tame stock market",
     "title_ko": "온건한 주식 시장에서도 Situational Awareness 헤지펀드가 파산한 이유",
     "link": "https://www.cnbc.com/2026/07/31/why-leopold-aschenbrenner-situational-awareness-hedge-fund-imploded.html",
@@ -2876,75 +2945,5 @@
     ],
     "reason": "트럼프의 '두 개의 전쟁' 관련 만남과 이란의 반발은 중동 지역의 지정학적 긴장을 고조시키고 국제 유가 변동성을 확대하며 글로벌 위험 회피 심리를 자극할 수 있습니다. 이는 에너지 및 방산 섹터에 직간접적인 영향을 미 미칩니다.",
     "action_point": "중동 지정학적 리스크 확대로 인한 에너지 가격 상승 가능성에 대비하여 에너지 관련 자산 비중 확대를 검토하십시오."
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "“50억 집 보유세 5000만원?”…강남 ‘똘똘한 한 채’ 세금 폭탄 예고",
-    "title_ko": "“50억 집 보유세 5000만원?”…강남 ‘똘똘한 한 채’ 세금 폭탄 예고",
-    "link": "https://www.mk.co.kr/news/realestate/12110138",
-    "published": "Wed, 29 Jul 2026 06:57:39 +09:00",
-    "fetched_at": "2026-07-29 07:05:23",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "부동산",
-      "자산관리"
-    ],
-    "keywords": [
-      "보유세",
-      "종부세",
-      "고가 주택",
-      "강남 부동산"
-    ],
-    "reason": "정부의 고가 주택 보유세 인상 검토는 강남 등 특정 지역 초고가 주택 소유주의 세금 부담을 가중시켜 해당 부동산 시장의 투자 매력을 저하시킬 수 있습니다.",
-    "action_point": "초고가 주택에 대한 보유세 인상 가능성을 고려하여 국내 고가 부동산 비중 축소 및 자산 다각화를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Ford raises guidance after Q2 earnings beat, says F-Series recovery is on track",
-    "title_ko": "포드, 2분기 실적 호조 및 F-시리즈 회복세에 따라 연간 가이던스 상향",
-    "link": "https://www.cnbc.com/2026/07/28/ford-motor-f-earnings-q2-2026.html",
-    "published": "Tue, 28 Jul 2026 20:30:41 GMT",
-    "fetched_at": "2026-07-29 05:59:38",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "자동차",
-      "자동차 부품",
-      "제조업"
-    ],
-    "keywords": [
-      "포드",
-      "실적",
-      "가이던스",
-      "자동차",
-      "차량 가격"
-    ],
-    "reason": "포드의 견조한 실적과 가이던스 상향은 효율적인 운영 및 프리미엄 차량 수요 강세를 반영하며, 전반적인 자동차 섹터의 회복력과 마진 개선 가능성을 시사합니다.",
-    "action_point": "미국 자동차 및 관련 부품 섹터 내 마진 개선 여력이 있는 기업 투자 기회 모색"
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Shein says it's under investigation by the Federal Trade Commission as it prepares for Hong Kong IPO",
-    "title_ko": "쉬인, 홍콩 IPO 준비 중 연방거래위원회(FTC) 조사 받고 있다고 밝혀",
-    "link": "https://www.cnbc.com/2026/07/28/shein-discloses-its-under-investigation-by-the-ftc.html",
-    "published": "Tue, 28 Jul 2026 17:12:52 GMT",
-    "fetched_at": "2026-07-29 05:59:49",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "전자상거래",
-      "의류/패션",
-      "자본시장"
-    ],
-    "keywords": [
-      "쉬인",
-      "FTC",
-      "규제",
-      "IPO",
-      "전자상거래"
-    ],
-    "reason": "FTC 조사는 쉬인의 홍콩 IPO 진행에 불확실성을 가중시키고 기업 가치 평가에 부정적인 영향을 줄 수 있습니다. 이는 유사 비즈니스 모델을 가진 전자상거래 기업들의 IPO 및 규제 리스크에 대한 투자 심리 위축으로 이어질 가능성이 있습니다.",
-    "action_point": "패스트 패션 및 전자상거래 기업 투자 포트폴리오의 규제 리스크 노출 여부 점검."
   }
 ]
