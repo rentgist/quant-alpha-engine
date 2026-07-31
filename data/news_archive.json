@@ -1,5 +1,53 @@
 [
   {
+    "source": "CNBC_World",
+    "title": "Dwindling cash and soaring memory costs: Tech's AI buildout has ballooning price tag",
+    "title_ko": "현금 감소와 치솟는 메모리 비용: 기술 기업의 AI 구축에 막대한 비용 지출",
+    "link": "https://www.cnbc.com/2026/07/31/tech-earnings-cash-memory-ai.html",
+    "published": "Fri, 31 Jul 2026 13:26:59 GMT",
+    "fetched_at": "2026-08-01 00:55:37",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "기술 섹터",
+      "반도체 (메모리)",
+      "클라우드 서비스"
+    ],
+    "keywords": [
+      "AI",
+      "기술 기업",
+      "현금 흐름",
+      "투자 비용",
+      "메모리 반도체"
+    ],
+    "reason": "주요 기술 기업들이 AI 인프라 구축에 막대한 투자를 하며 현금 흐름이 악화되고 메모리 비용이 급증하고 있다. 이는 AI 경쟁 심화에 따른 자본 지출 부담 증가를 시사하며, 단기적으로 기술 기업의 수익성 압박으로 작용할 수 있다.",
+    "action_point": "AI 인프라 구축 비용 증가로 인한 대형 기술 기업의 현금 흐름 악화 가능성을 고려하여 관련 주식 비중 축소를 검토하라."
+  },
+  {
+    "source": "CNBC_Finance",
+    "title": "How Leopold Aschenbrenner built a $45 billion AI hedge fund — and lost most of it in days",
+    "title_ko": "레오폴드 아셴브레너, 450억 달러 규모 AI 헤지펀드를 만들었지만 며칠 만에 대부분을 잃다",
+    "link": "https://www.cnbc.com/2026/07/31/leopold-aschenbrenner-situational-awareness-fund-fire-sale.html",
+    "published": "Fri, 31 Jul 2026 14:44:44 GMT",
+    "fetched_at": "2026-08-01 00:55:11",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "인공지능",
+      "기술주",
+      "헤지펀드"
+    ],
+    "keywords": [
+      "AI 헤지펀드",
+      "레오폴드 아셴브레너",
+      "급락",
+      "기술주",
+      "변동성"
+    ],
+    "reason": "이 뉴스는 AI 관련 투자에 대한 과도한 낙관론에 경종을 울리며, 고성장 기술 섹터의 극심한 변동성과 잠재적 하방 위험을 부각시킵니다.",
+    "action_point": "AI 관련 기술주 포트폴리오의 변동성 위험을 점검하고, 이익 실현 또는 리밸런싱을 고려하라."
+  },
+  {
     "source": "GoogleNews_Korea",
     "title": "[기고]‘호르무즈 전쟁’이 보여준 ‘전략적 지속능력과 질서관리 경쟁’의 시대…김태준의 美·이란戰 중계 - 문화일보",
     "title_ko": "[기고]‘호르무즈 전쟁’이 보여준 ‘전략적 지속능력과 질서관리 경쟁’의 시대…김태준의 美·이란戰 중계",
@@ -2894,52 +2942,5 @@
     ],
     "reason": "44개 미국 주정부가 예측 시장 및 스포츠 베팅에 대한 규제 강화에 뜻을 모아 관련 산업의 영업 환경에 부정적 영향을 미칠 수 있으나, 거시 경제 및 주요 자산 시장 전반에 미치는 영향은 제한적이다.",
     "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_Finance",
-    "title": "Meta likely to highlight smart glasses, avoid social media policy on upcoming earnings call, Kalshi traders say",
-    "title_ko": "칼시 트레이더들에 따르면, 메타는 다가오는 실적 발표에서 스마트 글래스를 강조하고 소셜 미디어 정책 언급은 피할 것으로 보인다.",
-    "link": "https://www.cnbc.com/2026/07/28/meta-q2-earnings-call-mentions-kalshi-market-odds-.html",
-    "published": "Tue, 28 Jul 2026 15:47:59 GMT",
-    "fetched_at": "2026-07-29 02:19:34",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "IT",
-      "소셜 미디어",
-      "가상/증강현실 (AR/VR)"
-    ],
-    "keywords": [
-      "메타",
-      "실적 발표",
-      "스마트 글래스",
-      "소셜 미디어"
-    ],
-    "reason": "메타의 실적 발표 전략을 미리 보여주는 기사로, 소셜 미디어 정책보다는 스마트 글래스 강조를 통해 미래 성장 동력에 대한 시장의 기대를 형성할 수 있으나, 거시경제 전반에 미치는 영향은 제한적이다.",
-    "action_point": "메타의 스마트 글래스 전략 방향에 주목하여 AR/VR 관련 기술주 포트폴리오 재편을 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "“건물 흔들려 뛰쳐나왔다”…부산도 뒤흔든 ‘일본 규모 7.1 강진’ - 중앙일보",
-    "title_ko": "“건물 흔들려 뛰쳐나왔다”…부산도 뒤흔든 ‘일본 규모 7.1 강진’ - 중앙일보",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fWVVPVVJtYm5fMFQzb1lqQmdUcC0zTnMwQUQ2YmxKQ1phY2drY0N2akVZQU11M0lwbFQ3S1huTTY4VURGdEFmRE9ScHpadTBQRElUc01R?oc=5",
-    "published": "Tue, 28 Jul 2026 07:41:23 GMT",
-    "fetched_at": "2026-07-29 02:19:55",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "보험",
-      "건설",
-      "관광",
-      "제조업"
-    ],
-    "keywords": [
-      "일본 강진",
-      "자연재해",
-      "공급망",
-      "재건"
-    ],
-    "reason": "일본에서 발생한 강진은 직접적인 인명 및 재산 피해를 야기하며, 이는 보험업계 손실 증가 및 재건 수요 발생으로 이어질 수 있습니다. 또한, 일본 내 주요 산업시설 피해 여부에 따라 글로벌 공급망에도 단기적인 영향을 미칠 가능성이 있습니다.",
-    "action_point": "일본에 주요 사업 비중이 있거나 공급망이 연계된 국내 기업의 재무적 영향 분석을 즉시 개시하라."
   }
 ]
