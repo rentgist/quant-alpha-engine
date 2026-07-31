@@ -1,5 +1,76 @@
 [
   {
+    "source": "CNBC_Finance",
+    "title": "Why Situational Awareness hedge fund imploded, even in a tame stock market",
+    "title_ko": "온건한 주식 시장에서도 Situational Awareness 헤지펀드가 파산한 이유",
+    "link": "https://www.cnbc.com/2026/07/31/why-leopold-aschenbrenner-situational-awareness-hedge-fund-imploded.html",
+    "published": "Fri, 31 Jul 2026 16:14:54 GMT",
+    "fetched_at": "2026-08-01 02:20:38",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "자산운용",
+      "금융",
+      "기술주"
+    ],
+    "keywords": [
+      "헤지펀드",
+      "모멘텀 역전",
+      "마진콜",
+      "시장 변동성"
+    ],
+    "reason": "대규모 헤지펀드의 파산은 예상치 못한 모멘텀 역전과 마진콜로 인한 것으로, 시장의 잠재적 변동성 증가와 유사 전략을 사용하는 펀드들의 리스크 관리에 대한 경각심을 높일 것입니다.",
+    "action_point": "현재 포트폴리오 내 모멘텀 중심 전략 또는 고변동성 자산 비중을 점검하고 유동성 확보를 고려하십시오."
+  },
+  {
+    "source": "CNBC_Finance",
+    "title": "More consumer companies are staying private for longer, avoiding the IPO road",
+    "title_ko": "더 많은 소비재 기업들이 IPO를 피하고 비상장 상태를 더 오래 유지하고 있다",
+    "link": "https://www.cnbc.com/2026/07/31/private-consumer-companies-ipo.html",
+    "published": "Fri, 31 Jul 2026 11:30:01 GMT",
+    "fetched_at": "2026-08-01 02:20:49",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "금융 서비스",
+      "사모 투자",
+      "벤처 캐피탈"
+    ],
+    "keywords": [
+      "IPO",
+      "비상장 기업",
+      "사모 시장",
+      "유동성",
+      "자본 시장 구조"
+    ],
+    "reason": "기업들의 IPO 회피 추세는 풍부한 사모 시장 유동성과 2차 시장 성장에 기인하며, 이는 공모 시장의 유망 기업 공급 감소와 사모 투자 시장의 강화를 의미합니다.",
+    "action_point": "공모 시장의 신규 상장 기업 중 초기 고성장 기회 감소에 대비하여 사모 투자(Private Equity) 자산 비중 확대를 검토해야 합니다."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "U.S. lawmakers request information from DoorDash on use of Chinese AI models",
+    "title_ko": "미국 의원들, 도어대시에 중국 AI 모델 사용 관련 정보 요청",
+    "link": "https://www.cnbc.com/2026/07/31/us-lawmakers-doordash-chinese-ai-models.html",
+    "published": "Fri, 31 Jul 2026 16:50:38 GMT",
+    "fetched_at": "2026-08-01 02:20:59",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "AI",
+      "기술 (Tech)",
+      "플랫폼 산업"
+    ],
+    "keywords": [
+      "미국 의회",
+      "도어대시",
+      "중국 AI",
+      "기술 규제",
+      "데이터 보안"
+    ],
+    "reason": "도어대시의 중국 AI 모델 사용에 대한 미 의회 조사는 기술 부문 내 데이터 보안 및 지정학적 리스크에 대한 규제 강화 추세를 시사한다. 이는 해외 기술, 특히 중국 기술을 사용하는 기업들의 규제 준수 부담을 가중시킬 수 있다.",
+    "action_point": "기술 규제 리스크가 높은 AI 및 플랫폼 기업에 대한 투자 비중 재검토."
+  },
+  {
     "source": "CNBC_World",
     "title": "Dwindling cash and soaring memory costs: Tech's AI buildout has ballooning price tag",
     "title_ko": "현금 감소와 치솟는 메모리 비용: 기술 기업의 AI 구축에 막대한 비용 지출",
@@ -2875,72 +2946,5 @@
     ],
     "reason": "FTC 조사는 쉬인의 홍콩 IPO 진행에 불확실성을 가중시키고 기업 가치 평가에 부정적인 영향을 줄 수 있습니다. 이는 유사 비즈니스 모델을 가진 전자상거래 기업들의 IPO 및 규제 리스크에 대한 투자 심리 위축으로 이어질 가능성이 있습니다.",
     "action_point": "패스트 패션 및 전자상거래 기업 투자 포트폴리오의 규제 리스크 노출 여부 점검."
-  },
-  {
-    "source": "CNBC_Finance",
-    "title": "Stocks making the biggest moves premarket: Coca-Cola, Sherwin-Williams, Johnson & Johnson & more",
-    "title_ko": "프리마켓에서 가장 큰 움직임을 보이는 주식들: 코카콜라, 셔윈-윌리엄스, 존슨앤드존슨 등",
-    "link": "https://www.cnbc.com/2026/07/28/stocks-making-the-biggest-moves-premarket-ko-shw-jnj.html",
-    "published": "Tue, 28 Jul 2026 11:42:06 GMT",
-    "fetched_at": "2026-07-29 05:59:32",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "소비재",
-      "화학/산업재",
-      "헬스케어"
-    ],
-    "keywords": [
-      "프리마켓",
-      "개별종목",
-      "주가 변동"
-    ],
-    "reason": "이 기사는 개별 대형주들의 프리마켓 변동을 보도하며, 전체 시장이나 매크로 지표에 대한 구체적인 시사점은 제공하지 않는다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Under pressure over China backers, Mercedes CEO pledges to defend U.S. business",
-    "title_ko": "중국 후원자에 대한 압박 속에 메르세데스 CEO, 미국 사업 방어 약속",
-    "link": "https://www.cnbc.com/2026/07/28/china-mercedes-ceo-pledges-defend-us-business.html",
-    "published": "Tue, 28 Jul 2026 17:54:42 GMT",
-    "fetched_at": "2026-07-29 04:08:51",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "자동차",
-      "전기차",
-      "무역/해운"
-    ],
-    "keywords": [
-      "미국-중국 갈등",
-      "자동차 산업",
-      "무역 장벽",
-      "전기차"
-    ],
-    "reason": "미국이 중국 자동차 시장 진입을 강력히 제한하는 법안을 승인하면서 미중 무역 갈등이 심화될 조짐을 보인다. 이는 글로벌 자동차 산업의 공급망 재편과 함께 관련 기업들의 지정학적 리스크를 증가시킬 것이다.",
-    "action_point": "글로벌 자동차 및 전기차 섹터 중 미중 리스크 노출이 높은 기업의 비중 축소 또는 포트폴리오 재편을 고려."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "44 states are aligned on one thing in their fight against prediction markets. It's about sports wagering",
-    "title_ko": "44개 주, 예측 시장 반대에 일치단결: 핵심은 스포츠 베팅",
-    "link": "https://www.cnbc.com/2026/07/28/44-states-say-cftc-has-no-authority-over-sports-prediction-markets.html",
-    "published": "Tue, 28 Jul 2026 18:27:43 GMT",
-    "fetched_at": "2026-07-29 04:08:59",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "온라인 베팅 및 게이밍",
-      "핀테크 (예측 시장 플랫폼 관련)"
-    ],
-    "keywords": [
-      "예측 시장",
-      "스포츠 베팅",
-      "규제",
-      "미국 주정부"
-    ],
-    "reason": "44개 미국 주정부가 예측 시장 및 스포츠 베팅에 대한 규제 강화에 뜻을 모아 관련 산업의 영업 환경에 부정적 영향을 미칠 수 있으나, 거시 경제 및 주요 자산 시장 전반에 미치는 영향은 제한적이다.",
-    "action_point": "해당 없음"
   }
 ]
