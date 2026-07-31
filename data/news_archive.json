@@ -1,5 +1,56 @@
 [
   {
+    "source": "Maeil_Business",
+    "title": "“반도체 조정 끝?”…아마존·MS 15% 폭등에 다시 달린 나스닥",
+    "title_ko": "“반도체 조정 끝?”…아마존·MS 15% 폭등에 다시 달린 나스닥",
+    "link": "https://www.mk.co.kr/news/world/12114137",
+    "published": "Sat, 01 Aug 2026 06:14:19 +09:00",
+    "fetched_at": "2026-08-01 06:58:17",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "IT/기술",
+      "반도체",
+      "클라우드 컴퓨팅",
+      "소프트웨어"
+    ],
+    "keywords": [
+      "아마존",
+      "마이크로소프트",
+      "어닝 서프라이즈",
+      "AI",
+      "나스닥",
+      "기술주",
+      "반도체"
+    ],
+    "reason": "아마존과 마이크로소프트의 강력한 실적, 특히 AI 관련 투자 성과는 기술주 전반에 대한 시장의 불안감을 해소하고 투자심리를 개선시켜 나스닥 및 관련 섹터의 추가 상승 동력을 제공할 수 있습니다. 이는 국내 기술/반도체 섹터에도 긍정적인 영향을 미칠 전망입니다.",
+    "action_point": "미국 및 국내 AI 관련 기술주와 반도체 섹터의 비중 확대를 검토하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "title": "“일감이 너무 많습니다”...K전력기기, 하반기 수주 스케쥴도 빡빡하네",
+    "title_ko": "“일감이 너무 많습니다”...K전력기기, 하반기 수주 스케쥴도 빡빡하네",
+    "link": "https://www.mk.co.kr/news/business/12114133",
+    "published": "Sat, 01 Aug 2026 06:06:45 +09:00",
+    "fetched_at": "2026-08-01 06:58:37",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "전력기기",
+      "중공업",
+      "전력인프라"
+    ],
+    "keywords": [
+      "전력기기",
+      "AI",
+      "수주",
+      "노후 전력망",
+      "생산능력 확대"
+    ],
+    "reason": "글로벌 AI 수요 급증과 노후 전력망 교체 필요성이 맞물려 국내 전력기기 기업들의 수주가 폭발적으로 증가하고 있습니다. 이는 해당 기업들의 실적 호조와 생산 능력 확대로 이어질 것입니다.",
+    "action_point": "전력기기 섹터 투자 비중 확대를 고려하라."
+  },
+  {
     "source": "CNBC_World",
     "title": "Trump says U.S. has 'not agreed to' grant Ukraine Patriot missile licenses",
     "title_ko": "트럼프, 미국이 우크라이나에 패트리어트 미사일 라이선스 허가에 '동의하지 않았다'고 밝혀",
@@ -2889,58 +2940,5 @@
     ],
     "reason": "이 기사는 시간 외 거래에서 특정 개별 주식들의 움직임을 보고하는 것으로, 해당 기업들의 실적 발표나 특정 이슈에 기인한 현상으로 보입니다. 거시 경제 전반에 미치는 직접적인 영향은 제한적입니다.",
     "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Iran launches surprise attack on U.S. forces using several ballistic missiles",
-    "title_ko": "이란, 미군에 여러 탄도미사일 기습 공격 감행",
-    "link": "https://www.cnbc.com/2026/07/29/us-iran-war-hormuz-centcom.html",
-    "published": "Tue, 28 Jul 2026 23:47:17 GMT",
-    "fetched_at": "2026-07-29 08:52:18",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "에너지",
-      "방산",
-      "원자재 (금)",
-      "항공",
-      "해운"
-    ],
-    "keywords": [
-      "이란",
-      "미국",
-      "탄도미사일",
-      "지정학적 리스크",
-      "중동",
-      "유가",
-      "안전자산"
-    ],
-    "reason": "이란의 미군 공격은 중동 지역의 지정학적 긴장을 급격히 고조시키며, 비록 미사일이 모두 요격되었지만 불확실성을 증폭시켜 유가 상승 및 안전 자산 선호를 유발할 수 있습니다.",
-    "action_point": "유가 상승 및 안전자산 선호 심화에 대비하여 에너지/방산 섹터 비중 확대 및 금 보유를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Apple touches $5 trillion market cap for first time",
-    "title_ko": "애플, 최초로 시가총액 5조 달러 달성",
-    "link": "https://www.cnbc.com/2026/07/28/apple-touches-5-trillion-market-cap-for-first-time-.html",
-    "published": "Tue, 28 Jul 2026 20:02:50 GMT",
-    "fetched_at": "2026-07-29 08:52:33",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "기술",
-      "반도체",
-      "성장주",
-      "인공지능"
-    ],
-    "keywords": [
-      "애플",
-      "엔비디아",
-      "시가총액",
-      "AI",
-      "기술주"
-    ],
-    "reason": "애플의 시가총액 5조 달러 달성은 기술 대형주에 대한 강력한 투자 심리를 보여주며, 특히 AI 분야의 미래 성장 잠재력에 대한 시장의 높은 기대를 반영합니다. 이는 기술 및 AI 관련 기업들의 밸류에이션에 긍정적인 영향을 미칠 수 있습니다.",
-    "action_point": "선도적인 AI 관련 대형 기술주 비중 유지 또는 확대 검토."
   }
 ]
