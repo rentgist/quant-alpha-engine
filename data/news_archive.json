@@ -1,6 +1,31 @@
 [
   {
     "source": "CNBC_World",
+    "title": "Oil prices ease as recovering Hormuz Strait traffic tempers war premium",
+    "title_ko": "호르무즈 해협 통행 회복으로 전쟁 프리미엄 완화되며 유가 하락",
+    "link": "https://www.cnbc.com/2026/07/31/oil-prices-today-brent-wti-hormuz-trump-iran-.html",
+    "published": "Fri, 31 Jul 2026 04:25:53 GMT",
+    "fetched_at": "2026-07-31 14:27:07",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "항공",
+      "운송",
+      "화학"
+    ],
+    "keywords": [
+      "유가",
+      "호르무즈 해협",
+      "지정학적 위험",
+      "전쟁 프리미엄",
+      "중동"
+    ],
+    "reason": "호르무즈 해협의 지정학적 위험 완화로 유가가 하락하며 인플레이션 압력 완화 및 에너지 의존 산업의 비용 부담 감소에 긍정적으로 작용합니다.",
+    "action_point": "항공, 운송 등 에너지 비용 민감 산업 섹터 비중 확대를 검토"
+  },
+  {
+    "source": "CNBC_World",
     "title": "China's factory activity unexpectedly contracts in July, ending 4-month expansion streak",
     "title_ko": "중국 7월 제조업 활동 예상 밖 위축, 4개월 연속 확장세 종료",
     "link": "https://www.cnbc.com/2026/07/31/china-pmi-factory-activity-economic-growth-exports-.html",
@@ -2917,30 +2942,5 @@
     ],
     "reason": "장기화된 폭염으로 인한 냉방기기 과부하 및 노후 설비 문제로 전국적으로 화재 발생 위험이 증대되어 인명 및 재산 피해가 증가할 수 있으며, 이는 특히 국내 손해보험사의 손해율 악화로 이어질 수 있습니다.",
     "action_point": "국내 손해보험 섹터의 단기적 실적 하방 압력 증대 가능성 고려."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "[속보]코스피, 8% 폭락에 서킷브레이커…올 들어 8번째 - 경향신문",
-    "title_ko": "[속보]코스피, 8% 폭락에 서킷브레이커…올 들어 8번째",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Vd0otMzl4bzdabHhjVFFXUkpIY2MxaGh1czdzQXJvclNBVE53cjVOdGRYLUhfTXc0bzNuUUFjNll0cVFzejl4X1VxMnBwWEtrUFdkOWlmNDhhd9IBX0FVX3lxTE5CcEZ1UERZZlRKNndZVWFicnNSUHpuSzRtVnp6dXl5Y19Yc0RsSXI3d3dvU3Y4bTJhd0ZSbFNnekFCcHlFS3laaTdjWnN1UTVWeXM4bUxER1VYcmlGRDRv?oc=5",
-    "published": "Tue, 28 Jul 2026 01:19:00 GMT",
-    "fetched_at": "2026-07-28 13:56:08",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "전 섹터",
-      "금융",
-      "기술주",
-      "성장주"
-    ],
-    "keywords": [
-      "코스피",
-      "폭락",
-      "서킷브레이커",
-      "시장불안",
-      "경기침체"
-    ],
-    "reason": "코스피의 8% 폭락과 서킷브레이커 발동은 투자 심리가 극도로 위축되었음을 나타내며, 국내외 경기 침체 우려와 시장 불확실성이 심화되고 있음을 반영합니다.",
-    "action_point": "위험자산 비중을 축소하고 현금 및 달러 등 안전자산 비중 확대를 검토하십시오."
   }
 ]
