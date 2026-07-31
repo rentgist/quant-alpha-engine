@@ -1,6 +1,32 @@
 [
   {
     "source": "GoogleNews_Korea",
+    "title": "호르무즈 유조선 피습에 국제유가 1%대 상승 - 연합뉴스TV",
+    "title_ko": "호르무즈 유조선 피습에 국제유가 1%대 상승",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBJS01FVV9VSlZlZjNXYlJ0VXZEWkJQUjhLNlNidkhYLUZ1YWdXU0hDeEt3OXRjMENrRm05M3FLMFRSVW5RS1UyQUo0ZXZ3TjRIa1pSTnU0SWpRdzlBY25NMzV5SXFiYmM?oc=5",
+    "published": "Fri, 31 Jul 2026 20:28:00 GMT",
+    "fetched_at": "2026-08-01 08:57:35",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "정유",
+      "화학",
+      "해운",
+      "항공",
+      "에너지"
+    ],
+    "keywords": [
+      "호르무즈 해협",
+      "유가",
+      "지정학적 리스크",
+      "원자재",
+      "인플레이션"
+    ],
+    "reason": "주요 해상 운송로의 지정학적 리스크 증대는 국제유가 상승으로 이어져 글로벌 인플레이션 압력을 가중시키고 에너지 의존 기업들의 실적에 부정적 영향을 미칠 수 있습니다.",
+    "action_point": "유가 상승에 취약한 국내 정유, 화학, 항공, 해운 섹터 비중을 축소하고, 인플레이션 헤지 자산 편입을 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
     "title": "\"월급만으로 삶이 팍팍\"…'패시브 인컴' 美 새로운 경제 트렌드 부상 - 더구루",
     "title_ko": "월급만으로 삶이 팍팍\"…'패시브 인컴' 美 새로운 경제 트렌드 부상",
     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBfWHgzVHhNek5zZ3dqUFFDWkhrNy1vSVAwNHZhc0RQZXdPTk9qeWQ2QVkyTkdYVlNISkZ2em5hMmlZODJQSlJ3VWptUk1qVUc1QjhEQ0FhQW1mQ3R2XzF4RVFrUQ?oc=5",
@@ -2914,31 +2940,5 @@
     ],
     "reason": "이란의 공격 시도에 따른 중동 지정학적 리스크 고조는 유가 상승 압력을 키워 인플레이션 우려를 재점화하고 글로벌 증시에 하방 압력을 가할 수 있습니다.",
     "action_point": "지정학적 리스크와 유가 상승에 대비하여 에너지 관련 자산 비중 확대를 검토하고 인플레이션 헤지 전략을 마련하라."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Senate sets up votes to sanction Russia for Ukraine war",
-    "title_ko": "미 상원, 우크라이나 전쟁 관련 러시아 제재 표결 준비",
-    "link": "https://www.cnbc.com/2026/07/28/russia-sanctions-congress-key-vote-lindsey-graham-ukraine.html",
-    "published": "Wed, 29 Jul 2026 00:03:14 GMT",
-    "fetched_at": "2026-07-29 10:45:14",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "원자재",
-      "금융",
-      "방산",
-      "해운"
-    ],
-    "keywords": [
-      "러시아 제재",
-      "우크라이나 전쟁",
-      "지정학적 리스크",
-      "원자재 가격",
-      "금융 시장"
-    ],
-    "reason": "러시아에 대한 제재 강화는 지정학적 리스크를 고조시키고 에너지 및 원자재 가격의 변동성을 키우며, 글로벌 금융 시장에 불확실성을 가중시킬 수 있습니다.",
-    "action_point": "러시아 제재 강화로 인한 에너지/원자재 가격 상승 및 금융 시장 불안정성 심화 가능성에 대비하여 관련 자산 포지션을 점검하고 방어적 자산 비중을 고려하십시오."
   }
 ]
