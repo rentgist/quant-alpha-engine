@@ -1,5 +1,32 @@
 [
   {
+    "source": "CNBC_World",
+    "title": "Tankers near Oman come under fire as Iran threatens to choke off shipping routes",
+    "title_ko": "오만 인근 유조선 공격받아, 이란 해운로 봉쇄 위협",
+    "link": "https://www.cnbc.com/2026/08/01/tankers-near-oman-come-under-fire.html",
+    "published": "Sat, 01 Aug 2026 10:56:11 GMT",
+    "fetched_at": "2026-08-01 20:56:34",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "에너지",
+      "해운",
+      "보험",
+      "항공",
+      "방위산업"
+    ],
+    "keywords": [
+      "이란",
+      "오만",
+      "유조선",
+      "호르무즈 해협",
+      "지정학적 리스크",
+      "유가"
+    ],
+    "reason": "오만 인근 유조선 공격과 이란의 해운로 봉쇄 위협은 중동 지역의 지정학적 긴장을 급격히 고조시키는 사건이다. 이는 호르무즈 해협을 통한 글로벌 원유 공급 안정성을 위협하며 유가 급등과 전반적인 시장 불확실성을 유발할 수 있다.",
+    "action_point": "지정학적 리스크 고조에 따라 국제 유가 관련 자산(에너지 섹터, 원유 선물 등) 비중을 확대하고 달러 및 금 등 안전자산 보유를 강화하라."
+  },
+  {
     "source": "GoogleNews_Korea",
     "title": "[속보]“美·이스라엘, 주말 이란 에너지시설 역대 가장 강력한 공습 계획”…전면전 격화 우려 - munhwa.com",
     "title_ko": "[속보]“美·이스라엘, 주말 이란 에너지시설 역대 가장 강력한 공습 계획”…전면전 격화 우려 - munhwa.com",
@@ -2908,31 +2935,5 @@
     ],
     "reason": "금융당국의 이번 조치는 단일 종목에 대한 과도한 레버리지 투자로 인한 시장 변동성 확대와 연속 폭락 위험을 억제하기 위함입니다. 단기적으로는 해당 종목군 및 고위험 섹터의 투기 심리를 위축시키고 매수세를 둔화시켜 주가에 하방 압력으로 작용할 수 있습니다.",
     "action_point": "단일종목 레버리지 비중이 높은 테마주 및 중소형 성장주에 대한 투자를 재검토하고, 우량주 중심으로 포트폴리오를 조정하라."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "UBS CEO says the AI pullback is healthy — but there’s a bigger risk investors should watch",
-    "title_ko": "UBS CEO: AI 조정은 건전하다 — 그러나 투자자들이 주시해야 할 더 큰 리스크가 있다",
-    "link": "https://www.cnbc.com/2026/07/29/ubs-earnings-ai-correction-stocks-swiss-bank.html",
-    "published": "Wed, 29 Jul 2026 09:40:12 GMT",
-    "fetched_at": "2026-07-29 20:14:28",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "전반적인 시장",
-      "기술",
-      "금융",
-      "에너지",
-      "방위산업"
-    ],
-    "keywords": [
-      "UBS",
-      "AI 조정",
-      "지정학적 리스크",
-      "시장 변동성",
-      "글로벌 경제"
-    ],
-    "reason": "UBS CEO가 AI 섹터 조정은 건전하다고 평가하면서도 지정학적 변동성을 가장 큰 리스크로 지목하며, 견조한 실적 발표와는 별개로 글로벌 시장의 불확실성이 지속될 것임을 시사한다.",
-    "action_point": "지정학적 리스크에 민감한 자산의 비중을 점검하고, 포트폴리오 내 방어적 자산 또는 안전자산 편입을 고려하라."
   }
 ]
