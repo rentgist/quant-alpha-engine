@@ -1,5 +1,54 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "title": "미국 vs 이란 전쟁은 이렇게 끝날 겁니다 - 연합인포맥스",
+    "title_ko": "미국 vs 이란 전쟁은 이렇게 끝날 겁니다",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpRVFWNUxSaW05UTZvaGk1NXpGd3Q0em5vVkZlT19FZlJOX1dBV0ZPQmFpSzFVeW1wUUZZVEEyZnQ0cmJ3YmpTdENGZ1YtNFlPT0pRNTZVelpWRnNQV1pHNFFlLUFfVnc3N3BQQnhCNWXSAXRBVV95cUxNLVpqcFBsakduRzdYZ1c2ejdFcFdGSFNHcnFxMjZmS2pnNmRXcW1FR0ZzU0dGT3haQUpfdm5aeVBXSmNVLU1LcEVETFdxMGMwTndrREZBRjVIb1RiQ19RWXBrTVdLYmJVWGgxa1NFdmtPVGdnSw?oc=5",
+    "published": "Sat, 01 Aug 2026 00:37:29 GMT",
+    "fetched_at": "2026-08-01 14:46:42",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "에너지",
+      "방산",
+      "해운",
+      "글로벌 증시"
+    ],
+    "keywords": [
+      "미국",
+      "이란",
+      "전쟁",
+      "지정학적 리스크",
+      "유가",
+      "호르무즈 해협"
+    ],
+    "reason": "미국과 이란 간의 잠재적 군사 충돌 시나리오 논의는 중동 지정학적 리스크의 심화를 의미하며, 이는 글로벌 유가 급등과 원자재 시장 변동성을 초래하고 전반적인 글로벌 증시 하방 압력으로 작용할 것입니다.",
+    "action_point": "중동 지정학적 리스크 고조에 대비하여 유가 급등 헤지를 위한 원자재/에너지 자산 및 안전자산(달러, 금) 비중 확대를 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "[속보]7월 수출 989억달러, 62.8%↑…반도체 179%↑ - 헤럴드경제",
+    "title_ko": "7월 수출 989억달러, 62.8%↑…반도체 179%↑",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9nV0hSdjR0UzN2Z2k0UXFpd1M3YWk1NlRjM1JVLTRlUlJMdFVFTzg3YmRaaGpDZGh1MTE4OFlSNmFkRHRESmRZbjM5WUkwYk9qSm42QVBqOA?oc=5",
+    "published": "Sat, 01 Aug 2026 00:00:00 GMT",
+    "fetched_at": "2026-08-01 14:46:48",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "반도체",
+      "IT",
+      "수출주 전반"
+    ],
+    "keywords": [
+      "수출",
+      "반도체",
+      "무역",
+      "경제 성장"
+    ],
+    "reason": "7월 수출이 역대 최대치를 기록하고 특히 반도체 수출이 급증하면서 한국 경제의 견조한 회복세와 글로벌 수요 강세를 확인시켜 줍니다. 이는 기업 실적 개선 기대감을 높입니다.",
+    "action_point": "반도체 및 수출 비중이 높은 대형주에 대한 비중 확대를 검토."
+  },
+  {
     "source": "CNBC_World",
     "title": "Trump's AI executive order nears key deadline as regulation debate intensifies",
     "title_ko": "트럼프의 AI 행정명령, 규제 논쟁 심화 속 핵심 마감 시한 임박",
@@ -2889,55 +2938,5 @@
     ],
     "reason": "첨단산업의 글로벌 경쟁 심화에 따라 법률 서비스 분야에서 산업 및 기술 이해를 겸비한 융합형 법조 인력의 수요 증가가 예상됩니다. 이는 법률 서비스 시장의 구조적 변화를 시사합니다.",
     "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "금감원, '금융회사 제3자 IT리스크 관리 가이드라인' 마련 - intn.co.kr",
-    "title_ko": "금감원, '금융회사 제3자 IT리스크 관리 가이드라인' 마련",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5lSmo5NFJUc0JfVUZmdG9FYWVWVnNzQ1dBc2JtMzQtN2E4MVgyby0wVXlhOVVyWUZQYkxEdXd5QkxmSjVTUXhoU0JRaV9VeDh6SDdkd1J1QlJHNnJCVGlxQXlEck1TTHU3T3c?oc=5",
-    "published": "Wed, 29 Jul 2026 03:00:00 GMT",
-    "fetched_at": "2026-07-29 14:01:07",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "금융",
-      "IT 서비스",
-      "정보 보안"
-    ],
-    "keywords": [
-      "금감원",
-      "금융회사",
-      "IT 리스크 관리",
-      "가이드라인",
-      "제3자"
-    ],
-    "reason": "금융감독원이 금융회사의 제3자 IT리스크 관리 가이드라인을 마련하여 금융 시스템의 안정성을 강화하는 조치이다. 이는 금융사 및 관련 IT 서비스 제공업체의 준수 부담을 증가시킬 수 있으나, 장기적으로는 시스템 전반의 신뢰도를 높일 것이다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Oil jumps as U.S.-Iran resume strikes after a brief pause",
-    "title_ko": "미국-이란, 잠시 중단되었던 공습 재개에 유가 급등",
-    "link": "https://www.cnbc.com/2026/07/29/oil-prices-today-brent-wti-iran-us-hormuz.html",
-    "published": "Wed, 29 Jul 2026 00:52:49 GMT",
-    "fetched_at": "2026-07-29 10:44:55",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "항공",
-      "운송",
-      "화학"
-    ],
-    "keywords": [
-      "유가",
-      "중동",
-      "지정학",
-      "이란",
-      "미국",
-      "원자재"
-    ],
-    "reason": "중동 지역의 지정학적 긴장 고조로 유가 상승 압력이 가해지며 글로벌 인플레이션 우려 및 기업 비용 증가 요인으로 작용하여 경제 전반에 부정적 영향을 미칠 수 있습니다.",
-    "action_point": "에너지 관련 자산(원유, 가스) 비중 확대를 고려하고, 항공/운송 등 고유가에 취약한 섹터의 투자 비중을 축소 검토."
   }
 ]
