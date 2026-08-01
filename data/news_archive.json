@@ -1,6 +1,51 @@
 [
   {
     "source": "CNBC_World",
+    "title": "From a Fed decision to Big Tech earnings: What drove last week's volatile market",
+    "title_ko": "연준 결정부터 빅테크 실적까지: 지난주 변동성 시장을 이끈 요인들",
+    "link": "https://www.cnbc.com/2026/08/01/from-a-fed-decision-to-big-tech-earnings-what-drove-last-weeks-volatile-market.html",
+    "published": "Sat, 01 Aug 2026 12:16:13 GMT",
+    "fetched_at": "2026-08-01 22:02:44",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "기술주",
+      "미국 주식 시장"
+    ],
+    "keywords": [
+      "연준",
+      "금리",
+      "빅테크",
+      "실적",
+      "주식 시장"
+    ],
+    "reason": "지난주 미국 증시가 연준 결정과 빅테크 실적이라는 핵심 동력을 바탕으로 반등에 성공했음을 확인시켜 주며, 시장의 강한 회복력을 시사한다.",
+    "action_point": "미국 증시, 특히 빅테크 중심의 성장주에 대한 긍정적 시각을 유지하고 관련 투자 비중을 검토할 것."
+  },
+  {
+    "source": "Maeil_Business",
+    "title": "“車사고 장기 치료는 심사받아야 한다”…‘도입 본격화’ 8주룰, 뭐길래",
+    "title_ko": "“車사고 장기 치료는 심사받아야 한다”…‘도입 본격화’ 8주룰, 뭐길래",
+    "link": "https://www.mk.co.kr/news/economy/12114295",
+    "published": "Sat, 01 Aug 2026 21:23:44 +09:00",
+    "fetched_at": "2026-08-01 22:03:08",
+    "sentiment": "호재",
+    "importance": 2,
+    "sectors": [
+      "보험",
+      "헬스케어"
+    ],
+    "keywords": [
+      "자동차보험",
+      "8주룰",
+      "보험금 누수",
+      "손해율 개선"
+    ],
+    "reason": "8주룰 도입으로 자동차보험의 과도한 장기 치료로 인한 보험금 누수가 줄어들어 보험사의 손해율이 개선될 것으로 예상됩니다. 이는 보험 섹터의 수익성 향상에 긍정적인 영향을 미칩니다.",
+    "action_point": "국내 보험 섹터의 펀더멘털 개선 가능성을 고려하여 투자 비중 상향을 검토."
+  },
+  {
+    "source": "CNBC_World",
     "title": "Tankers near Oman come under fire as Iran threatens to choke off shipping routes",
     "title_ko": "오만 인근 유조선 공격받아, 이란 해운로 봉쇄 위협",
     "link": "https://www.cnbc.com/2026/08/01/tankers-near-oman-come-under-fire.html",
@@ -2885,55 +2930,5 @@
     ],
     "reason": "노보 노디스크의 차세대 비만 치료제 임상 실패 및 시장 기만 의혹으로 주주 소송이 발생하여 해당 기업 가치 하락은 물론, 비만 치료제 섹터 전반에 대한 투자 심리가 위축될 수 있습니다.",
     "action_point": "노보 노디스크 및 비만 치료제 관련 섹터 투자 비중 재검토."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "'PR problem' is standing in the way of China's humanoid robot boom, says Morgan Stanley",
-    "title_ko": "모건스탠리, 'PR 문제'가 중국 휴머노이드 로봇 붐의 걸림돌이라고 지적",
-    "link": "https://www.cnbc.com/2026/07/29/morgan-stanley-humanoid-robots-pr-problem.html",
-    "published": "Wed, 29 Jul 2026 10:21:41 GMT",
-    "fetched_at": "2026-07-29 22:46:45",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "휴머노이드 로봇",
-      "산업 자동화",
-      "중국 기술주",
-      "인공지능"
-    ],
-    "keywords": [
-      "휴머노이드 로봇",
-      "중국",
-      "모건스탠리",
-      "성장 둔화",
-      "PR 문제",
-      "기술주"
-    ],
-    "reason": "모건스탠리가 중국 휴머노이드 로봇 산업의 성장에 걸림돌이 되는 PR 문제와 여러 역풍을 지적하며 낙관론을 낮춰, 해당 섹터의 단기 성장 둔화 및 투자심리 위축이 예상됩니다.",
-    "action_point": "중국 휴머노이드 로봇 관련 섹터 또는 ETF 투자 비중 축소 검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "[속보] 연속 폭락에 '단일종목 레버리지' 추가 조치‥\"투자한도로 총량 관리\" - MBC 뉴스",
-    "title_ko": "[속보] 연속 폭락에 '단일종목 레버리지' 추가 조치‥\"투자한도로 총량 관리\"",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9UQjBSQWVtc2ZkMXNkd0YxU215YUR6YUtSSWtBR2RmRXpBMTRBVF82T29BdWZkUjJZekMwVGsxX2NNNDJSX014NENBR1p5WGJmaXZzUF9FQ0lqWjRZWTVoNm1maVpoYXdiNVExVTRyY2Zaemds0gF0QVVfeXFMT185RUlXUy1tbWlwcDJUMFV5c3drZmFiZXRkQlp1S2VtRW9HMm1NVTFXOTBIMzEzRThxMWlNb0FhUkNKUjRPRWZ6bDNEWE5FaE1DUm5ZSVdPMEZWMnBnX3BzeXFQczJlYVhEQWZ3Nlgtb1NGS2o?oc=5",
-    "published": "Wed, 29 Jul 2026 12:54:25 GMT",
-    "fetched_at": "2026-07-29 22:46:56",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "증권",
-      "테마주",
-      "중소형 성장주"
-    ],
-    "keywords": [
-      "단일종목 레버리지",
-      "투자한도",
-      "시장 규제",
-      "변동성 관리",
-      "증시 안정화"
-    ],
-    "reason": "금융당국의 이번 조치는 단일 종목에 대한 과도한 레버리지 투자로 인한 시장 변동성 확대와 연속 폭락 위험을 억제하기 위함입니다. 단기적으로는 해당 종목군 및 고위험 섹터의 투기 심리를 위축시키고 매수세를 둔화시켜 주가에 하방 압력으로 작용할 수 있습니다.",
-    "action_point": "단일종목 레버리지 비중이 높은 테마주 및 중소형 성장주에 대한 투자를 재검토하고, 우량주 중심으로 포트폴리오를 조정하라."
   }
 ]
