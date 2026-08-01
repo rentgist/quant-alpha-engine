@@ -1,6 +1,77 @@
 [
   {
     "source": "CNBC_World",
+    "title": "U.S. Treasury intervenes to support yen after Japan steps in, FT reports",
+    "title_ko": "미국 재무부, 일본의 엔화 방어 개입에 동참 (FT 보도)",
+    "link": "https://www.cnbc.com/2026/08/01/us-treasury-intervenes-to-support-yen-after-japan-steps-in-ft.html",
+    "published": "Sat, 01 Aug 2026 15:44:08 GMT",
+    "fetched_at": "2026-08-02 00:53:53",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "환율",
+      "글로벌 금융 시장",
+      "원자재"
+    ],
+    "keywords": [
+      "엔화 개입",
+      "미국 재무부",
+      "일본",
+      "환율 안정",
+      "달러 약세"
+    ],
+    "reason": "미국 재무부가 일본과 함께 엔화 방어에 나선 것은 10여 년 만의 첫 조치로, 과도한 엔화 약세 및 달러 강세에 대한 양국의 공동 우려를 보여준다. 이는 글로벌 외환 시장의 변동성을 완화하고 달러 강세 압력을 부분적으로 해소하여, 전반적인 금융 시장 안정에 긍정적인 신호로 작용할 수 있다.",
+    "action_point": "강달러 기조 완화 가능성에 대비하여 달러화 자산 비중을 재검토하고, 원자재 관련 투자 및 신흥국 시장 동향을 주시하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "청와대 \"대통령, 국제사회에 '글로벌 AI 중심 국가' 비전 제시\" - 대한민국 정책브리핑",
+    "title_ko": "청와대 \"대통령, 국제사회에 '글로벌 AI 중심 국가' 비전 제시\"",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HMXFuV1B1R3d3RDlwTGFEM05sTUswdzZ6UVd4cVJqM1VMVjVGMWRKRExOOTNyMXJfSVI1WkF0Vkt1MEYxRDVobWVjcU9jOEpFaGYyb2w4dHRyZFBRRnlOalpKSTAzWWQyVTVTag?oc=5",
+    "published": "Sat, 01 Aug 2026 12:02:28 GMT",
+    "fetched_at": "2026-08-02 00:53:58",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "기술",
+      "반도체",
+      "소프트웨어",
+      "인터넷"
+    ],
+    "keywords": [
+      "AI",
+      "인공지능",
+      "국가 비전",
+      "기술 혁신",
+      "성장 동력"
+    ],
+    "reason": "대통령의 '글로벌 AI 중심 국가' 비전 제시는 AI 및 관련 기술 섹터에 대한 정부의 강력한 지원 의지를 시사하며, 이는 해당 산업의 중장기적인 성장 동력 및 투자 유치에 긍정적인 영향을 미칠 것입니다.",
+    "action_point": "AI 관련 국내 기술주 또는 AI 산업 성장 ETF 비중 확대를 검토하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "title": "“삼전닉스 말고 우리도 돈 쓸어담았어요”…함박웃음 짓는 증권사들",
+    "title_ko": "“삼전닉스 말고 우리도 돈 쓸어담았어요”…함박웃음 짓는 증권사들",
+    "link": "https://www.mk.co.kr/news/stock/12114306",
+    "published": "Sat, 01 Aug 2026 23:15:43 +09:00",
+    "fetched_at": "2026-08-02 00:54:07",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "증권",
+      "금융"
+    ],
+    "keywords": [
+      "증권사 실적",
+      "거래대금",
+      "증시 활황",
+      "위탁매매"
+    ],
+    "reason": "증시 활황과 거래대금 급증이 국내 증권사들의 사상 최대 실적을 견인하며 금융 섹터 전반의 긍정적 분위기를 반영합니다. 이는 투자 심리 개선과 시장 유동성 확대를 시사합니다.",
+    "action_point": "증권 섹터에 대한 비중 확대 또는 신규 진입을 검토."
+  },
+  {
+    "source": "CNBC_World",
     "title": "Berkshire Hathaway shares hit eight-month high",
     "title_ko": "버크셔 해서웨이 주가 8개월 최고치 경신",
     "link": "https://www.cnbc.com/2026/08/01/-berkshire-hathaway-shares-hit-eight-month-high.html",
@@ -2852,79 +2923,5 @@
     ],
     "reason": "나이키의 중국 매출 급락은 글로벌 소비재 기업들이 중국 시장에서 현지 브랜드의 부상과 소비자 트렌드 변화로 인해 경쟁이 심화되고 있음을 보여준다. 이는 중국 사업 비중이 높은 다국적 기업들의 실적에 부정적인 선례가 될 수 있다.",
     "action_point": "중국 시장 의존도가 높은 글로벌 소비재 기업에 대한 투자 비중을 점검."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "[속보] 금융당국 \"단일종목 레버리지 개인별 투자한도로 총량관리\" - 연합뉴스",
-    "title_ko": "[속보] 금융당국 \"단일종목 레버리지 개인별 투자한도로 총량관리\"",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBtY2Y3YWV6VHB6blU2VjRGSy0zNFNTbzlhQm1PNjhYT3FFa2x4SmdtaVF3aHdoZGQ4YS1DRUxqdW50VGRyS1ROdS12MnpqTGtQMjNBN3FOMHNLdk3SAWBBVV95cUxQcERiTUl6VVM0b2lFNzF0cjVMeXMxYmpIbzV2bHU2bngzT1BQQ1JvLVFBc3lfMUtOU01SR2Y1c2tRWjhCaHlIUG1mcHVYcENwSXZtamtOOHhLU25GLTZwdk4?oc=5",
-    "published": "Wed, 29 Jul 2026 12:23:51 GMT",
-    "fetched_at": "2026-07-30 00:44:59",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "성장주",
-      "중소형주",
-      "증권"
-    ],
-    "keywords": [
-      "금융당국",
-      "레버리지",
-      "개인투자",
-      "총량관리",
-      "주식시장"
-    ],
-    "reason": "개인 투자자의 단일 종목 레버리지 투자를 총량적으로 관리함으로써 시장의 투기적 과열을 억제하고 금융 시스템 리스크를 줄이려는 조치이다. 이는 과도한 레버리지를 활용하던 일부 성장주 및 중소형주의 수급에 부정적 영향을 미쳐 주가 하락 압력으로 작용할 수 있다.",
-    "action_point": "개인 레버리지 비중이 높은 성장주 및 중소형주의 신규 매수를 보류하고, 해당 종목 보유 시 비중 축소를 검토하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "단일종목 레버리지ETF '개인별 투자한도' 만든다",
-    "title_ko": "단일종목 레버리지ETF '개인별 투자한도' 만든다",
-    "link": "https://www.mk.co.kr/news/stock/12111161",
-    "published": "Wed, 29 Jul 2026 23:23:34 +09:00",
-    "fetched_at": "2026-07-30 00:45:20",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "금융",
-      "증권",
-      "자산운용",
-      "개인투자"
-    ],
-    "keywords": [
-      "단일종목 레버리지 ETF",
-      "투자한도",
-      "금융당국",
-      "시장 변동성",
-      "규제"
-    ],
-    "reason": "금융당국의 단일종목 레버리지 ETF 투자 한도 설정은 개인 투자자의 과도한 투기를 억제하고 특정 종목의 비정상적 주가 변동성을 완화하려는 조치이며, 이는 시장의 건전성을 제고할 수 있습니다.",
-    "action_point": "국내 증시의 투기적 변동성 감소 가능성을 고려하여 펀더멘털 기반의 안정적 종목 투자 비중 확대를 검토하라."
-  },
-  {
-    "source": "CNBC_Finance",
-    "title": "Stocks making the biggest moves premarket: Biogen, Vertiv, GE HealthCare, Generac & more",
-    "title_ko": "개장 전 가장 큰 움직임을 보이는 주식: 바이오젠, 버티브, GE 헬스케어, 제너락 등",
-    "link": "https://www.cnbc.com/2026/07/29/stocks-making-the-biggest-moves-premarket-biib-vrt-gehc-gnrc.html",
-    "published": "Wed, 29 Jul 2026 12:31:06 GMT",
-    "fetched_at": "2026-07-30 00:44:42",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "헬스케어",
-      "정보기술",
-      "산업재"
-    ],
-    "keywords": [
-      "개장 전 주가",
-      "개별 기업",
-      "바이오젠",
-      "버티브",
-      "GE 헬스케어",
-      "제너락"
-    ],
-    "reason": "이 기사는 개장 전 특정 개별 기업들의 주가 변동을 보고하는 내용으로, 광범위한 시장이나 매크로 경제 전반에 미치는 직접적인 영향은 제한적입니다. 각 기업의 개별적인 이벤트나 뉴스에 따른 움직임으로 해석됩니다.",
-    "action_point": "해당 없음"
   }
 ]
