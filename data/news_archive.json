@@ -1,6 +1,52 @@
 [
   {
     "source": "GoogleNews_Korea",
+    "title": "정부, 증시 긴급조치권한 확보 착수…금융위기·코로나 복기 - v.daum.net",
+    "title_ko": "정부, 증시 긴급조치권한 확보 착수…금융위기·코로나 복기",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9yeUtEMlNEcFFpLUxPMnl1enVvTjRfM1hYYTVjMU5ublVTaTdmMUFTMlpjUExGd2V1alI1eHlKZlFiZmtJS05Tdmx5WmdCWFU?oc=5",
+    "published": "Sat, 01 Aug 2026 20:50:54 GMT",
+    "fetched_at": "2026-08-02 08:49:32",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "금융",
+      "증권"
+    ],
+    "keywords": [
+      "정부",
+      "증시",
+      "긴급조치권한",
+      "시장안정",
+      "금융위기"
+    ],
+    "reason": "정부가 미래 금융위기 및 시장 불안정에 대비하여 증시 긴급조치권한 확보에 착수하는 것으로, 이는 시스템 리스크 관리 강화를 통해 중장기적 시장 안정성을 높일 수 있습니다. 단기적으로는 과거 위기 복기라는 점에서 일부 투자자에게 불안감을 줄 수 있으나, 선제적 대응 체계 구축은 시장의 큰 폭 하락 위험을 완화하는 긍정적 효과를 가집니다.",
+    "action_point": "정부의 시장 안정화 노력 강화로 국내 주식 보유 비중 유지 및 장기적 투자 매력도 재평가."
+  },
+  {
+    "source": "Maeil_Business",
+    "title": "“폭등했는데도 아직 멀었다”…삼전닉스 목표가, ‘주가의 두 배’",
+    "title_ko": "“폭등했는데도 아직 멀었다”…삼전닉스 목표가, ‘주가의 두 배’",
+    "link": "https://www.mk.co.kr/news/stock/12114343",
+    "published": "Sun, 02 Aug 2026 08:46:42 +09:00",
+    "fetched_at": "2026-08-02 08:49:39",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "반도체",
+      "IT"
+    ],
+    "keywords": [
+      "삼성전자",
+      "SK하이닉스",
+      "반도체",
+      "목표주가",
+      "업황"
+    ],
+    "reason": "증권가의 낙관적 시선은 반도체 업황 회복 기대감을 반영하며, 삼성전자와 SK하이닉스 등 주요 반도체 기업의 주가 상승 여력이 크다는 전망을 강화합니다. 이는 IT 및 기술주 전반에 긍정적인 투자 심리를 형성할 수 있습니다.",
+    "action_point": "반도체 섹터 비중 확대 검토"
+  },
+  {
+    "source": "GoogleNews_Korea",
     "title": "[리뷰] 러·우 전쟁 하반기 '변곡점' 주목...\"北 추가 파병, 북러 군사협력 심화\" - SPN 서울평양뉴스",
     "title_ko": "[리뷰] 러·우 전쟁 하반기 '변곡점' 주목...\"北 추가 파병, 북러 군사협력 심화\"",
     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1SSktxbGphWUtKU2lxVWJhM0k4blhzTkE5R2V3VWt6azdMVlQ5T0pMYWJ6VWxyWEVLWlRaM3FFVFVBNkVJVTd6RWktQ1hxU2haY2plWWZHMXlDRjJvT2RzbUlJSDd2RU9BR09R?oc=5",
@@ -2874,54 +2920,5 @@
     ],
     "reason": "마이크로소프트의 양호한 실적은 기술주 전반에 긍정적인 영향을 미치며, 연준의 금리 동결 결정과 함께 시장의 불확실성을 해소하여 투자 심리를 개선할 것입니다. 이는 기술주 중심의 상승 동력을 제공할 수 있습니다.",
     "action_point": "기술 성장주 비중을 유지하며, 실적 개선 가능성이 높은 대형 기술 기업에 대한 투자를 고려."
-  },
-  {
-    "source": "CNBC_Finance",
-    "title": "Here are the last times the Dow dropped by 1,000 points and what happened next",
-    "title_ko": "다우지수 1,000포인트 하락 직후, 이후 시장 반응은 어땠나?",
-    "link": "https://www.cnbc.com/2026/07/29/the-last-times-the-dow-fell-1000-points-and-what-happened-next.html",
-    "published": "Wed, 29 Jul 2026 21:43:50 GMT",
-    "fetched_at": "2026-07-30 08:54:00",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "글로벌 주식 시장",
-      "미국 주식 시장"
-    ],
-    "keywords": [
-      "다우지수",
-      "시장 변동성",
-      "기술적 분석",
-      "주식 시장",
-      "장기 회복"
-    ],
-    "reason": "이 기사는 다우지수 1,000포인트 급락 이후 단기적으로는 약세를 보이나, 중장기적으로는 반등하는 경향이 있음을 과거 사례를 통해 제시하며 시장의 기술적 흐름에 대한 통찰을 제공한다.",
-    "action_point": "단기 시장 변동성 확대를 주시하되, 향후 1~3개월간의 시장 반등 가능성을 고려하여 저가 매수 기회를 탐색하라."
-  },
-  {
-    "source": "CNBC_Finance",
-    "title": "Jeffrey Gundlach says the bond market is telling Warsh the Fed has to start acting on inflation",
-    "title_ko": "제프리 건들락, 채권 시장이 연준에 인플레이션 조치 촉구",
-    "link": "https://www.cnbc.com/2026/07/29/gundlach-says-the-bond-market-is-signaling-the-fed-has-to-act-on-inflation.html",
-    "published": "Wed, 29 Jul 2026 22:20:18 GMT",
-    "fetched_at": "2026-07-30 07:52:31",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "주식 시장 전반",
-      "채권 시장",
-      "금융",
-      "기술주",
-      "부동산"
-    ],
-    "keywords": [
-      "제프리 건들락",
-      "채권 시장",
-      "연준",
-      "인플레이션",
-      "금리"
-    ],
-    "reason": "건들락의 발언은 채권 시장이 연준의 인플레이션 통제 능력에 회의적이라는 신호를 보내며, 이는 장기 금리 상승 압력과 인플레이션 지속 가능성을 시사하여 위험 자산에 부정적 영향을 미칠 수 있습니다.",
-    "action_point": "장기 금리 상승 및 인플레이션 압력 지속에 대비하여 성장주 비중을 줄이고 인플레이션 헤지 자산 편입을 검토하라."
   }
 ]
