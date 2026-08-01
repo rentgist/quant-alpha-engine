@@ -1,5 +1,29 @@
 [
   {
+    "source": "Maeil_Business",
+    "title": "“일본 어딜 가든지 한국어가 들려요”…주요 여행 플랫폼 검색 1위 싹쓸이",
+    "title_ko": "“일본 어딜 가든지 한국어가 들려요”…주요 여행 플랫폼 검색 1위 싹쓸이",
+    "link": "https://www.mk.co.kr/news/world/12114304",
+    "published": "Sat, 01 Aug 2026 22:50:31 +09:00",
+    "fetched_at": "2026-08-02 01:49:33",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "여행",
+      "항공",
+      "소비재"
+    ],
+    "keywords": [
+      "해외여행",
+      "일본여행",
+      "고물가",
+      "고환율",
+      "여행플랫폼"
+    ],
+    "reason": "고물가와 고환율이 지속되는 상황에서도 한국인의 해외여행 수요, 특히 근거리 일본 여행이 견조하게 유지되고 있어 소비 심리 중 레저 부문의 견고함을 시사합니다.",
+    "action_point": "해외여행 수요 강세 지속에 따라 항공 및 온라인 여행 플랫폼 섹터 투자 비중 확대를 검토하라."
+  },
+  {
     "source": "CNBC_World",
     "title": "U.S. Treasury intervenes to support yen after Japan steps in, FT reports",
     "title_ko": "미국 재무부, 일본의 엔화 방어 개입에 동참 (FT 보도)",
@@ -2899,29 +2923,5 @@
     ],
     "reason": "SK하이닉스 미국 주식에 대한 공매도 증가는 AI 관련 주식의 과열 또는 단기 조정 가능성에 대한 시장의 경계심을 반영하며, 이는 반도체 섹터 전반에 하방 압력을 가할 수 있습니다.",
     "action_point": "SK하이닉스를 포함한 AI 관련 반도체 주식의 단기 조정 가능성에 대비하여 포트폴리오 비중을 재검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Nike was once China's sneaker king. Here's why its sales have fallen 30%",
-    "title_ko": "나이키, 한때 중국 운동화 시장의 제왕이었으나 매출 30% 급락한 이유",
-    "link": "https://www.cnbc.com/2026/07/29/nike-china-sales-decline.html",
-    "published": "Wed, 29 Jul 2026 14:49:45 GMT",
-    "fetched_at": "2026-07-30 00:44:49",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "소비재",
-      "의류/신발",
-      "소매"
-    ],
-    "keywords": [
-      "나이키",
-      "중국",
-      "소비재",
-      "시장점유율",
-      "현지브랜드"
-    ],
-    "reason": "나이키의 중국 매출 급락은 글로벌 소비재 기업들이 중국 시장에서 현지 브랜드의 부상과 소비자 트렌드 변화로 인해 경쟁이 심화되고 있음을 보여준다. 이는 중국 사업 비중이 높은 다국적 기업들의 실적에 부정적인 선례가 될 수 있다.",
-    "action_point": "중국 시장 의존도가 높은 글로벌 소비재 기업에 대한 투자 비중을 점검."
   }
 ]
