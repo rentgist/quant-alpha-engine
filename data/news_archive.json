@@ -1,6 +1,53 @@
 [
   {
     "source": "GoogleNews_Korea",
+    "title": "샌프란 AI동맹·외교다변화…경제질서 격랑에 李대통령 해법찾기 - 매일경제 마켓",
+    "title_ko": "샌프란 AI동맹·외교다변화…경제질서 격랑에 李대통령 해법찾기 - 매일경제 마켓",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA0RFVQd05YS01MQ0lKR1B2ajg1SS1ZMnFZWldxa1lOV1RuQTJXUTJPM2s1UThfQWFxdUw3dlRueGNWbnVwMy1RX2ZEaW5XTzdELVE?oc=5",
+    "published": "Sat, 01 Aug 2026 20:30:00 GMT",
+    "fetched_at": "2026-08-02 06:45:13",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "AI",
+      "기술",
+      "반도체"
+    ],
+    "keywords": [
+      "AI동맹",
+      "외교다변화",
+      "경제질서",
+      "이대통령",
+      "국가전략"
+    ],
+    "reason": "이 뉴스는 대한민국이 글로벌 경제 질서 재편에 대응하여 AI 산업 육성 및 외교 다변화를 통해 미래 성장 동력 확보와 리스크 분산을 모색하고 있음을 보여줍니다.",
+    "action_point": "국내 AI 및 기술 혁신 섹터의 장기 투자 매력도를 재평가하고 관련 기업 편입을 검토하라."
+  },
+  {
+    "source": "CNBC_Finance",
+    "title": "Goldman traders are on pace for a record year. A close-up look at how they're doing it",
+    "title_ko": "골드만삭스 트레이더들, 사상 최고 실적 달성 전망: 그 비결 심층 분석",
+    "link": "https://www.cnbc.com/2026/08/01/goldman-traders-are-on-pace-for-a-record-year-a-close-up-look-at-how-theyre-doing-it.html",
+    "published": "Sat, 01 Aug 2026 20:22:15 GMT",
+    "fetched_at": "2026-08-02 06:45:04",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "금융",
+      "증권"
+    ],
+    "keywords": [
+      "골드만삭스",
+      "주식 시장",
+      "트레이딩",
+      "시장 분석",
+      "투자 은행"
+    ],
+    "reason": "이 기사는 골드만삭스 트레이딩 부문의 호실적을 통해 현 시장의 역동성을 보여주며, 주요 투자 은행의 시장 분석 관점을 엿볼 수 있게 한다. 이는 주식 시장 전반의 거래 활동이 활발하고 특정 기회를 포착하는 것이 가능하다는 신호로 해석될 수 있다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "GoogleNews_Korea",
     "title": "“미국, 이란 에너지시설 주말에 공습계획”…전쟁 격화 가능성 - v.daum.net",
     "title_ko": "“미국, 이란 에너지시설 주말에 공습계획”…전쟁 격화 가능성",
     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE01SVo4R2ExMTdobllMQ1ZubGp2OW1IWVlPOUJqODVUNGtGY1BTTHROYUlpN3h4TjJ0VDNvN0FCUHI1S3BYREY0aGMyb2Ywd28?oc=5",
@@ -2871,55 +2918,5 @@
     ],
     "reason": "연준의 금리 동결 결정은 시장 예상에 부합하며 불확실성을 해소했으나, 향후 금리 인하 시점에 대한 명확한 신호는 부재하여 시장은 당분간 관망세를 유지할 가능성이 높다.",
     "action_point": "시장 예상 부합 금리 동결로 통화정책 불확실성은 낮아졌으나, 금리 인하 기대감 후퇴 가능성에 대비하여 장기채 비중 축소 및 금리 민감 성장주에 대한 보수적 접근 유지."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "[속보] 미국채 30년물 금리 5.2%대로 급등…2007년 이후 최고 - 중앙일보",
-    "title_ko": "미국채 30년물 금리 5.2%대로 급등…2007년 이후 최고",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EUHQxMXhrd2dKUnVNTjlpNzhLbjkyTnlTUTRZLVlMckp4QVhKQVpoM3RHT1p6YmtucTZHY3JKb3hveDVwd3Z6THJGTFZWcjFLV2lBYndR?oc=5",
-    "published": "Wed, 29 Jul 2026 20:04:18 GMT",
-    "fetched_at": "2026-07-30 06:50:42",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "주식시장 전체",
-      "부동산",
-      "기술주",
-      "채권시장",
-      "금융주"
-    ],
-    "keywords": [
-      "미국채 금리",
-      "고금리",
-      "글로벌 유동성",
-      "긴축"
-    ],
-    "reason": "미국 장기채 금리 급등은 글로벌 금융 긴축 가속화를 의미하며, 위험자산의 할인율을 높여 주식 및 부동산 등 자산 가치 하락 압력으로 작용합니다.",
-    "action_point": "위험자산 비중 축소 및 달러 자산 보유 확대를 검토하십시오."
-  },
-  {
-    "source": "CNBC_Finance",
-    "title": "Here's what changed in the second Fed statement under Warsh",
-    "title_ko": "워시 재임 중 두 번째 연준 성명서에서 변경된 내용",
-    "link": "https://www.cnbc.com/2026/07/29/fed-decision-redline-heres-what-changed-in-the-second-statement-under-warsh.html",
-    "published": "Wed, 29 Jul 2026 18:48:02 GMT",
-    "fetched_at": "2026-07-30 05:12:05",
-    "sentiment": "중립",
-    "importance": 5,
-    "sectors": [
-      "금융",
-      "기술",
-      "부동산",
-      "채권"
-    ],
-    "keywords": [
-      "연준",
-      "FOMC",
-      "통화정책",
-      "성명서",
-      "금리"
-    ],
-    "reason": "이 기사는 연준 FOMC 성명서의 변경 사항을 언급하며, 이는 향후 통화정책 방향성에 대한 중요한 단서를 제공합니다. 구체적인 변경 내용에 따라 모든 자산 시장에 광범위한 영향을 미칠 수 있습니다.",
-    "action_point": "제공된 기사만으로는 구체적인 변경 내용을 알 수 없으므로, 즉시 해당 FOMC 성명서 원문을 분석하여 포트폴리오 조정 필요성을 판단하십시오."
   }
 ]
