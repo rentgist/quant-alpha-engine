@@ -1,6 +1,25 @@
 [
   {
     "source": "CNBC_World",
+    "title": "Berkshire Hathaway shares hit eight-month high",
+    "title_ko": "버크셔 해서웨이 주가 8개월 최고치 경신",
+    "link": "https://www.cnbc.com/2026/08/01/-berkshire-hathaway-shares-hit-eight-month-high.html",
+    "published": "Sat, 01 Aug 2026 14:41:54 GMT",
+    "fetched_at": "2026-08-01 23:52:21",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [],
+    "keywords": [
+      "버크셔 해서웨이",
+      "워렌 버핏",
+      "주가 상승",
+      "가치투자"
+    ],
+    "reason": "워렌 버핏의 버크셔 해서웨이 주가 상승은 가치주 투자에 대한 시장의 관심과 대형 지주회사의 견고한 실적을 시사한다. 이는 광범위한 시장에 미치는 직접적인 거시적 영향은 제한적이나, 시장의 위험 선호 심리 회복을 간접적으로 반영할 수 있다.",
+    "action_point": "미국 시장에서 대형 우량 가치주 및 다각화된 지주회사에 대한 투자 매력도를 재평가하라."
+  },
+  {
+    "source": "CNBC_World",
     "title": "From a Fed decision to Big Tech earnings: What drove last week's volatile market",
     "title_ko": "연준 결정부터 빅테크 실적까지: 지난주 변동성 시장을 이끈 요인들",
     "link": "https://www.cnbc.com/2026/08/01/from-a-fed-decision-to-big-tech-earnings-what-drove-last-weeks-volatile-market.html",
@@ -2907,28 +2926,5 @@
     ],
     "reason": "이 기사는 개장 전 특정 개별 기업들의 주가 변동을 보고하는 내용으로, 광범위한 시장이나 매크로 경제 전반에 미치는 직접적인 영향은 제한적입니다. 각 기업의 개별적인 이벤트나 뉴스에 따른 움직임으로 해석됩니다.",
     "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Why shareholders are suing Novo Nordisk over next-generation weight-loss drug",
-    "title_ko": "주주들이 차세대 체중 감량 약물 관련 노보 노디스크를 고소하는 이유",
-    "link": "https://www.cnbc.com/2026/07/29/novo-nordisk-lawsuit-cagrisema-weight-loss-drug.html",
-    "published": "Wed, 29 Jul 2026 13:11:19 GMT",
-    "fetched_at": "2026-07-29 22:46:39",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "제약/바이오",
-      "헬스케어"
-    ],
-    "keywords": [
-      "노보 노디스크",
-      "체중 감량 약물",
-      "임상 시험",
-      "주주 소송",
-      "제약"
-    ],
-    "reason": "노보 노디스크의 차세대 비만 치료제 임상 실패 및 시장 기만 의혹으로 주주 소송이 발생하여 해당 기업 가치 하락은 물론, 비만 치료제 섹터 전반에 대한 투자 심리가 위축될 수 있습니다.",
-    "action_point": "노보 노디스크 및 비만 치료제 관련 섹터 투자 비중 재검토."
   }
 ]
