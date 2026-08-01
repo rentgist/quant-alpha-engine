@@ -1,6 +1,82 @@
 [
   {
     "source": "GoogleNews_Korea",
+    "title": "[속보]“美·이스라엘, 주말 이란 에너지시설 역대 가장 강력한 공습 계획”…전면전 격화 우려 - munhwa.com",
+    "title_ko": "[속보]“美·이스라엘, 주말 이란 에너지시설 역대 가장 강력한 공습 계획”…전면전 격화 우려 - munhwa.com",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1vUlBtajlYb0JLWEJ5QTlUU2pNWkNzdG1naTJRa0E5aGxMVzJySTE2S3ZGY1RBam9BY2VLZlNfYmVFVEFjUHIzdGg1MmxkMExF?oc=5",
+    "published": "Sat, 01 Aug 2026 05:48:54 GMT",
+    "fetched_at": "2026-08-01 19:27:38",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "에너지",
+      "방산",
+      "항공",
+      "해운",
+      "글로벌 증시"
+    ],
+    "keywords": [
+      "중동 지정학",
+      "이란",
+      "이스라엘",
+      "미국",
+      "유가",
+      "전면전",
+      "에너지 시설"
+    ],
+    "reason": "미국과 이스라엘의 이란 에너지 시설 공습 계획은 중동 전면전 우려를 고조시켜 국제 유가 급등과 글로벌 위험 회피 심리를 강화할 것입니다.",
+    "action_point": "국제유가 급등에 대비하여 에너지·방산 섹터 비중을 확대하고, 안전자산(금, 달러) 보유를 강화하십시오."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "청와대 \"대통령, 국제사회에 '글로벌 AI 중심 국가' 비전 제시\" - 대한민국 정책브리핑",
+    "title_ko": "청와대 \"대통령, 국제사회에 '글로벌 AI 중심 국가' 비전 제시\"",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbkgwZDVlTFRzOTU0QnZhQ3pVQU5ONHVwQkNFa2V4bWk5YjR1VnVGWHBjSHlGUkdCTDBITHpDODNBZEJrclBYNmRyN2IxbXZzWWpxVkFBazlHV21PWU1lZktCWURoSzBaVXRtT25mTGlFd00zWHR6MWF0SmF4UWkxOXo1VVRXYmszYXc?oc=5",
+    "published": "Sat, 01 Aug 2026 07:19:39 GMT",
+    "fetched_at": "2026-08-01 19:27:30",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "반도체",
+      "소프트웨어",
+      "IT서비스",
+      "로봇",
+      "통신"
+    ],
+    "keywords": [
+      "AI",
+      "대한민국",
+      "국가 비전",
+      "디지털 전환"
+    ],
+    "reason": "대통령의 '글로벌 AI 중심 국가' 비전 제시는 한국 정부가 AI 산업을 미래 성장 동력으로 적극 육성하겠다는 의지를 보여줍니다. 이는 장기적으로 관련 국내 기업의 경쟁력 강화 및 투자 유치를 이끌 수 있습니다.",
+    "action_point": "국내 인공지능 관련 기술 및 서비스 기업의 성장 잠재력을 재평가하고 포트폴리오 편입을 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "테슬라, 지정학 리스크에 중국 사업 분리 추진설… 머스크 \"터무니 없는 가짜 뉴스\" - AI타임스",
+    "title_ko": "테슬라, 지정학 리스크에 중국 사업 분리 추진설… 머스크 \"터무니 없는 가짜 뉴스\"",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1ZVYzeTFIX2Y2UC02T3RfSi1sWmhtSUtUQnhBXzhvV2t1NURXTDB6WEVrdjlfOGdTM1c3MkJyeFdBTXQxWWZLQzJzcFhadHc5a19JSE0zcVFCRm93UnVHejM4ZzJNc3IySkE?oc=5",
+    "published": "Sat, 01 Aug 2026 09:07:34 GMT",
+    "fetched_at": "2026-08-01 19:27:47",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "자동차",
+      "전기차",
+      "IT"
+    ],
+    "keywords": [
+      "테슬라",
+      "중국",
+      "지정학 리스크",
+      "가짜 뉴스"
+    ],
+    "reason": "테슬라의 중국 사업 분리 추진설이 지정학적 리스크와 함께 보도되었으나, 일론 머스크가 즉각 '가짜 뉴스'라고 부인하며 루머가 해소되어 시장에 미칠 직접적인 영향은 제한적이다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "GoogleNews_Korea",
     "title": "\"美·이, 주말 이란 에너지시설 공습계획\"…전쟁 격화 가능성 - yna.co.kr",
     "title_ko": "美·이, 주말 이란 에너지시설 공습계획\"…전쟁 격화 가능성",
     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXVmlRQmF1cHRsaTF3UkcwZkpyOGkwcmt0cnByNUZOR205ZEx5aTZjNDR4ZXpYZWlQNF83NU5MOTY3M3dQYXBSLVlBQkVlZ2tKRXRUYzRaeDRvVTjSAWBBVV95cUxORERDUkZTSnZnNFdXTURMZ0p0Sko4Q1N3cmxTZFVQb1FZRHl1eGN2RUVMckpmWXVMaWtWUS13a0VzMWhrVTNLOVV6REdGeHlzOHoyOHZwdWJlZktVR3lCa0Y?oc=5",
@@ -2858,75 +2934,5 @@
     ],
     "reason": "UBS CEO가 AI 섹터 조정은 건전하다고 평가하면서도 지정학적 변동성을 가장 큰 리스크로 지목하며, 견조한 실적 발표와는 별개로 글로벌 시장의 불확실성이 지속될 것임을 시사한다.",
     "action_point": "지정학적 리스크에 민감한 자산의 비중을 점검하고, 포트폴리오 내 방어적 자산 또는 안전자산 편입을 고려하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "트럼프, 이란 전쟁에 발목 잡히기까지…파탄난 중동 정책 - 한겨레",
-    "title_ko": "트럼프, 이란 전쟁에 발목 잡히기까지…파탄난 중동 정책 - 한겨레",
-    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbTVqWndRQUVmdDZoUTJLQmhFLUFsZHNNRjBlVjVmM09NaGN5N2hnTlVtVmdIWkozakFmTlZzdl9FckY2YXNublgwTzNSNlNQZThieHd4TzY3YmRXZV9vWU1nWXAyUEo3dmk0bVhkTnJSMmlPUWs1Z2tFNjhzVGpRMUNn?oc=5",
-    "published": "Wed, 29 Jul 2026 00:48:00 GMT",
-    "fetched_at": "2026-07-29 20:14:43",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "국방",
-      "해운"
-    ],
-    "keywords": [
-      "트럼프",
-      "이란",
-      "중동 정책",
-      "지정학적 위험",
-      "유가"
-    ],
-    "reason": "과거 트럼프 행정부의 이란 정책 실패를 재조명하며 중동 지역의 잠재적 지정학적 불안정성 심화 가능성을 시사, 이는 국제 유가 상승 압력과 전반적인 시장 위험 회피 심리를 자극할 수 있습니다.",
-    "action_point": "중동 지정학적 리스크 확대 가능성에 대비하여 유가 변동성 주시 및 원자재 관련 자산 비중 조정 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Ukraine has found a new pressure point in Russia’s wartime economy",
-    "title_ko": "우크라이나, 러시아 전시 경제의 새로운 압박 지점 발견",
-    "link": "https://www.cnbc.com/2026/07/29/ukraine-russia-wildberries-putin-trump.html",
-    "published": "Wed, 29 Jul 2026 10:33:29 GMT",
-    "fetched_at": "2026-07-29 20:14:21",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "방산",
-      "에너지",
-      "물류"
-    ],
-    "keywords": [
-      "우크라이나 전쟁",
-      "러시아 경제",
-      "드론 공격",
-      "지정학적 위험"
-    ],
-    "reason": "러시아 전시 경제에 대한 우크라이나의 압박을 가중시키며 지정학적 불안감을 심화시킵니다. 이는 글로벌 에너지 및 원자재 시장에 리스크 프리미엄을 높일 수 있습니다.",
-    "action_point": "지정학적 위험 상승에 대비하여 원자재 관련 자산 또는 안전 자산 비중을 점검하라."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Why America's super rich have embraced the appeal of British soccer teams",
-    "title_ko": "미국 슈퍼 부자들이 영국 축구팀의 매력에 빠진 이유",
-    "link": "https://www.cnbc.com/2026/07/29/why-america-super-rich-love-football-clubs-british.html",
-    "published": "Wed, 29 Jul 2026 05:00:02 GMT",
-    "fetched_at": "2026-07-29 20:14:34",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "스포츠 산업",
-      "대체 투자"
-    ],
-    "keywords": [
-      "미국 투자자",
-      "영국 축구",
-      "프리미어리그",
-      "자산 배분",
-      "대체 투자"
-    ],
-    "reason": "미국 부유층이 영국 축구팀을 장기 자산으로 매입하는 추세는 고액 자산가들의 대체 투자 및 자산 다각화 전략을 보여줍니다. 이는 일반적인 주식/채권 시장보다는 특정 자산 클래스의 수요 증가를 시사합니다.",
-    "action_point": "해당 없음"
   }
 ]
