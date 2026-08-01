@@ -1,6 +1,291 @@
 [
   {
     "source": "GoogleNews_Korea",
+    "title": "\"美·이, 주말 이란 에너지시설 공습계획\"…전쟁 격화 가능성 - yna.co.kr",
+    "title_ko": "美·이, 주말 이란 에너지시설 공습계획\"…전쟁 격화 가능성",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXVmlRQmF1cHRsaTF3UkcwZkpyOGkwcmt0cnByNUZOR205ZEx5aTZjNDR4ZXpYZWlQNF83NU5MOTY3M3dQYXBSLVlBQkVlZ2tKRXRUYzRaeDRvVTjSAWBBVV95cUxORERDUkZTSnZnNFdXTURMZ0p0Sko4Q1N3cmxTZFVQb1FZRHl1eGN2RUVMckpmWXVMaWtWUS13a0VzMWhrVTNLOVV6REdGeHlzOHoyOHZwdWJlZktVR3lCa0Y?oc=5",
+    "published": "Fri, 31 Jul 2026 22:14:01 GMT",
+    "fetched_at": "2026-08-01 17:06:03",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "에너지",
+      "국방",
+      "항공",
+      "해운",
+      "금융"
+    ],
+    "keywords": [
+      "이란",
+      "지정학적 리스크",
+      "유가",
+      "중동",
+      "인플레이션"
+    ],
+    "reason": "미국-이스라엘의 이란 에너지시설 공습 계획은 중동 지정학적 리스크를 극도로 높이며, 유가 급등과 글로벌 인플레이션 압력 가중으로 이어져 경제 불확실성을 증폭시킬 것입니다.",
+    "action_point": "중동 지정학적 리스크 심화에 대비하여 위험 자산 비중을 축소하고, 달러, 금 등 안전 자산 보유를 고려하십시오."
+  },
+  {
+    "source": "Maeil_Business",
+    "title": "“큰 물보라와 함께 폭발했다”…호르무즈 입구서 유조선 잇따라 불길",
+    "title_ko": "“큰 물보라와 함께 폭발했다”…호르무즈 입구서 유조선 잇따라 불길",
+    "link": "https://www.mk.co.kr/news/world/12114255",
+    "published": "Sat, 01 Aug 2026 16:31:34 +09:00",
+    "fetched_at": "2026-08-01 17:06:20",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "에너지",
+      "해운",
+      "방산"
+    ],
+    "keywords": [
+      "호르무즈 해협",
+      "유조선 공격",
+      "이란",
+      "미국",
+      "국제유가",
+      "지정학적 리스크"
+    ],
+    "reason": "호르무즈 해협은 전 세계 원유 수송의 핵심 통로이며, 유조선 공격은 국제유가 급등과 글로벌 지정학적 리스크 고조로 이어져 전반적인 시장 불안을 야기할 수 있습니다.",
+    "action_point": "국제유가 상승에 대비하여 에너지 관련 자산 비중 확대 및 달러 등 안전 자산 보유를 검토하십시오."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "Iran's overlapping power centers make ending the war more complicated",
+    "title_ko": "이란의 중첩된 권력 구조, 전쟁 종식 협상을 더욱 복잡하게 만들어",
+    "link": "https://www.cnbc.com/2026/08/01/iran-ceasefire-power-structure.html",
+    "published": "Sat, 01 Aug 2026 06:52:42 GMT",
+    "fetched_at": "2026-08-01 17:04:32",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "방산",
+      "해운"
+    ],
+    "keywords": [
+      "이란",
+      "지정학적 리스크",
+      "중동",
+      "원유",
+      "글로벌 안보"
+    ],
+    "reason": "이란 내부의 복잡한 권력 구조는 미국과의 휴전 또는 분쟁 해결을 어렵게 만들어 중동 지역의 지정학적 불안정성이 장기화될 수 있습니다. 이는 글로벌 에너지 공급망과 유가에 지속적인 불확실성을 가중시킵니다.",
+    "action_point": "중동 지정학적 리스크에 민감한 원유 관련 자산에 대한 투자 비중을 재검토하고, 관련 리스크 헤지 수단 강구를 고려."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "Building for 131°F: Europe races to protect its infrastructure from a ‘quiet catastrophe’",
+    "title_ko": "131°F 대비 건축: 유럽, '조용한 재앙'으로부터 인프라 보호에 박차",
+    "link": "https://www.cnbc.com/2026/08/01/europe-extreme-heat-climate-change-55c.html",
+    "published": "Sat, 01 Aug 2026 06:58:41 GMT",
+    "fetched_at": "2026-08-01 17:04:39",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "건설",
+      "자재",
+      "에너지",
+      "수자원",
+      "보험",
+      "부동산"
+    ],
+    "keywords": [
+      "기후변화",
+      "극심한 날씨",
+      "유럽",
+      "인프라",
+      "투자",
+      "재앙"
+    ],
+    "reason": "유럽이 극심한 기후 변화로부터 인프라를 보호하기 위해 막대한 투자를 단행해야 하는 상황으로, 이는 장기적으로 관련 산업의 성장을 견인하겠지만 전반적인 경제 부담과 예측 불가능성을 증가시킵니다.",
+    "action_point": "유럽 및 글로벌 인프라 현대화 및 기후 적응 기술 관련 기업에 대한 투자 기회 탐색을 고려."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "This week's earnings scrambled everything we knew about investing in the 'Magnificent Seven'",
+    "title_ko": "이번 주 실적 발표가 '매그니피센트 7' 투자에 대한 모든 것을 뒤흔들었다",
+    "link": "https://www.cnbc.com/2026/07/31/this-weeks-earnings-scrambled-everything-we-knew-about-the-mag-7.html",
+    "published": "Fri, 31 Jul 2026 15:13:09 GMT",
+    "fetched_at": "2026-08-01 17:04:50",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "기술주",
+      "증시"
+    ],
+    "keywords": [
+      "매그니피센트 7",
+      "실적",
+      "기술주",
+      "개별 주식 차별화"
+    ],
+    "reason": "매그니피센트 7 종목들의 실적 차별화가 심화되면서, 이들을 하나의 투자 테마로 보는 시각이 약화되고 기술주 전반의 리밸런싱 및 개별 기업 분석의 중요성이 커질 것이다.",
+    "action_point": "매그니피센트 7 종목 내 비중을 개별 기업 펀더멘털 기준으로 재조정하고 포트폴리오 다각화를 고려하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "리스크 감수하고 추가 파병?...김정은이 원하는 것 [자막뉴스] - YTN",
+    "title_ko": "리스크 감수하고 추가 파병?...김정은이 원하는 것",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1PMktqc1VtQThLem1ZSU1xYjI1eTI1Xy04TmFHNlFvMy11djkzZ1J4SGxMWS1SNTZQc2FubktzQndnSENnTG5ZYkpXRlVXUlkyV0xWTkg0cXVldjBmeEE?oc=5",
+    "published": "Sat, 01 Aug 2026 02:30:00 GMT",
+    "fetched_at": "2026-08-01 17:05:43",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "시장 전반",
+      "방위산업",
+      "금융"
+    ],
+    "keywords": [
+      "김정은",
+      "북한",
+      "지정학",
+      "리스크",
+      "파병"
+    ],
+    "reason": "북한 김정은의 잠재적 추가 파병 가능성 및 대외 전략은 한반도 및 역내 지정학적 리스크를 고조시킬 수 있습니다. 이는 국내 증시 전반에 투자심리 위축 요인으로 작용할 수 있습니다.",
+    "action_point": "한반도 지정학적 리스크 증대에 대비하여 국내 주식 등 위험자산의 비중 조절을 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "\"미·이란 전쟁이 북한 미사일 개발에 도움 줄 수 있어\" - 조선일보",
+    "title_ko": "미·이란 전쟁이 북한 미사일 개발에 도움 줄 수 있어",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNd1k3bUNjalc0Yzc5b2JDRWhXQ284dUxLbWJoZ25zUVdjTFdwNlpxTkRSRXFqRGttVUxESEZfVFVPYXlISXd0SWFIZFNSZHEyT2VVRUk1SEgxU3FlejBFM3JaWVVTbzc3RVl6dlUxOVp0MGtzWnhXdGs3OVBGeVZDSktkVjhhcGk2QUZOSjI1WDZOREhqbzg1QUZidTN5dw?oc=5",
+    "published": "Sat, 01 Aug 2026 01:04:20 GMT",
+    "fetched_at": "2026-08-01 17:05:52",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "방산",
+      "원자재 (에너지)"
+    ],
+    "keywords": [
+      "미국",
+      "이란",
+      "북한",
+      "미사일",
+      "지정학"
+    ],
+    "reason": "미국-이란 갈등이 북한의 미사일 개발을 촉진할 수 있다는 우려는 중동 및 동북아 지정학적 불안정성을 고조시켜, 글로벌 위험회피 심리를 강화하고 유가 상승 압력을 높일 수 있습니다.",
+    "action_point": "지정학적 위험 고조에 대비하여 달러 등 안전자산 비중을 늘리고, 에너지 및 방산 관련 포지션을 재검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "청와대 \"대통령, 국제사회에 '글로벌 AI 중심 국가' 비전 제시\" - 대한민국 정책브리핑",
+    "title_ko": "청와대 \"대통령, 국제사회에 '글로벌 AI 중심 국가' 비전 제시\"",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPblpFRWNya2lqVndoV19iYjJ2d291SGp1NmJZRDdlOGVvaHh0ckQxSzU3aTBqZjJjU3ZxbzFXUWRSM3otMTd4XzQzX3hVYS1DbndwVFBoVzlBTDlFelpodnhjVHZEUG1rRmFKTG9KMlk5N0JiQkVuX0hZN1dkbWdVTlNQNjV5TGlDb1E?oc=5",
+    "published": "Sat, 01 Aug 2026 07:19:39 GMT",
+    "fetched_at": "2026-08-01 17:05:00",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "IT/기술",
+      "반도체",
+      "소프트웨어",
+      "로봇"
+    ],
+    "keywords": [
+      "AI",
+      "인공지능",
+      "글로벌 AI",
+      "국가 비전",
+      "기술 혁신"
+    ],
+    "reason": "대통령의 AI 중심 국가 비전 제시는 국내 AI 산업 육성을 위한 정책적 지원 강화와 R&D 투자 확대를 예고하며, 관련 기업들에 장기적인 성장 동력을 제공할 것입니다.",
+    "action_point": "국내 AI 관련 기술주 및 소프트웨어 섹터에 대한 장기적 관점의 투자 비중 확대를 검토하십시오."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "[속보] 경남 양산 41.6도…역대 최고기온 재차 경신 - yonhapnewstv.co.kr",
+    "title_ko": "[속보] 경남 양산 41.6도…역대 최고기온 재차 경신 - yonhapnewstv.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9nemlEdjE4VXVhMjRTWFdMdnFlRWpKMGh6NDZPS29xcXY3RDBmenlrTlFWdFV1dkpzR2V5Zmw1eDRsLTlVdjF5NFZ3Ukp4NllESEtLV3loSUJjX2hSOU5pZWRUc2Jxblk?oc=5",
+    "published": "Sat, 01 Aug 2026 05:50:00 GMT",
+    "fetched_at": "2026-08-01 17:05:17",
+    "sentiment": "악재",
+    "importance": 2,
+    "sectors": [
+      "전력/유틸리티",
+      "농업",
+      "식품/음료"
+    ],
+    "keywords": [
+      "폭염",
+      "기후변화",
+      "전력수요",
+      "농산물"
+    ],
+    "reason": "전례 없는 폭염은 전력 수요를 급증시켜 에너지 섹터에 단기 영향을 미치며, 장기화될 경우 농작물 피해 및 야외 노동 생산성 저하로 인플레이션 압력을 가중시킬 수 있습니다.",
+    "action_point": "전력 수요 증가로 인한 유틸리티 및 전력 생산 관련 기업의 단기 실적 변화에 주목하십시오."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "[속보]“‘레버리지 ETF’ 국정조사… 김용범 경질”… ‘롤러코스피’ 공세 수위 높이는 국민의힘 - 문화일보",
+    "title_ko": "[속보]“‘레버리지 ETF’ 국정조사… 김용범 경질”… ‘롤러코스피’ 공세 수위 높이는 국민의힘 - 문화일보",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE94LV9rbjBIdU53X2NHaWp0VG1Sb0pxLXRSeE16ZzFway1jTkc3VFZBNC11TU9nYVpLUElGYmk5RVJKNlJRdC1SQ1lKNjNrMlZP?oc=5",
+    "published": "Sat, 01 Aug 2026 06:14:25 GMT",
+    "fetched_at": "2026-08-01 17:05:31",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "금융 섹터",
+      "증권 섹터"
+    ],
+    "keywords": [
+      "레버리지 ETF",
+      "국정조사",
+      "코스피",
+      "금융정책",
+      "정치 리스크"
+    ],
+    "reason": "이 기사는 야당이 현 정부의 금융 시장 관리, 특히 레버리지 ETF 및 코스피 변동성에 대해 비판하며 고위 관계자 경질 및 국정조사를 요구하는 내용입니다. 이는 금융 시장 관련 정책의 불확실성을 높일 수 있으나, 당장의 직접적인 시장 변동성보다는 정치적 논쟁에 가깝습니다.",
+    "action_point": "레버리지 ETF 투자 포지션의 잠재적 규제 리스크를 점검."
+  },
+  {
+    "source": "Maeil_Business",
+    "title": "[폭염스케치] 물총쏘고 동굴찾고 바다로…무더위에 휩싸인 대한민국",
+    "title_ko": "[폭염스케치] 물총쏘고 동굴찾고 바다로…무더위에 휩싸인 대한민국",
+    "link": "https://www.mk.co.kr/news/society/12114250",
+    "published": "Sat, 01 Aug 2026 15:32:49 +09:00",
+    "fetched_at": "2026-08-01 17:06:49",
+    "sentiment": "악재",
+    "importance": 2,
+    "sectors": [
+      "전력/가스",
+      "음료/식품",
+      "건설"
+    ],
+    "keywords": [
+      "폭염",
+      "전력수요",
+      "여름테마"
+    ],
+    "reason": "기록적인 폭염은 전력 수요 증가와 특정 소비재 판매 촉진으로 이어지나, 건설 등 야외 작업 생산성 저하 및 농업 분야 잠재적 피해로 전반적인 경제 활동에 부담을 줄 수 있습니다.",
+    "action_point": "국내 전력 및 냉방 관련 소비재 섹터 비중 확대 검토."
+  },
+  {
+    "source": "Maeil_Business",
+    "title": "약탈 무서워 상점 문닫고 주민들 칩거…스페인 자치령에 몰려든 6만명의 정체",
+    "title_ko": "약탈 무서워 상점 문닫고 주민들 칩거…스페인 자치령에 몰려든 6만명의 정체",
+    "link": "https://www.mk.co.kr/news/world/12114249",
+    "published": "Sat, 01 Aug 2026 15:30:18 +09:00",
+    "fetched_at": "2026-08-01 17:06:57",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [],
+    "keywords": [
+      "스페인",
+      "모로코",
+      "국경 위기",
+      "이민",
+      "지정학"
+    ],
+    "reason": "스페인 자치령에서 발생한 대규모 국경 위기는 빠르게 진정되었으며, 이는 유럽 내 이민 문제의 지속적인 압력을 보여주지만 글로벌 경제나 자산 시장에 미치는 직접적 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "GoogleNews_Korea",
     "title": "미국 vs 이란 전쟁은 이렇게 끝날 겁니다 - 연합인포맥스",
     "title_ko": "미국 vs 이란 전쟁은 이렇게 끝날 겁니다",
     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpRVFWNUxSaW05UTZvaGk1NXpGd3Q0em5vVkZlT19FZlJOX1dBV0ZPQmFpSzFVeW1wUUZZVEEyZnQ0cmJ3YmpTdENGZ1YtNFlPT0pRNTZVelpWRnNQV1pHNFFlLUFfVnc3N3BQQnhCNWXSAXRBVV95cUxNLVpqcFBsakduRzdYZ1c2ejdFcFdGSFNHcnFxMjZmS2pnNmRXcW1FR0ZzU0dGT3haQUpfdm5aeVBXSmNVLU1LcEVETFdxMGMwTndrREZBRjVIb1RiQ19RWXBrTVdLYmJVWGgxa1NFdmtPVGdnSw?oc=5",
@@ -2642,301 +2927,6 @@
       "대체 투자"
     ],
     "reason": "미국 부유층이 영국 축구팀을 장기 자산으로 매입하는 추세는 고액 자산가들의 대체 투자 및 자산 다각화 전략을 보여줍니다. 이는 일반적인 주식/채권 시장보다는 특정 자산 클래스의 수요 증가를 시사합니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "[과기원NOW] 포스텍 연구팀, 한국 첫 국제 양자기술 공동연구 프로그램 'QuantERA' 선정 外 - 동아사이언스",
-    "title_ko": "포스텍 연구팀, 한국 첫 국제 양자기술 공동연구 프로그램 'QuantERA' 선정",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ROWFXallzX3pXdU9QVDNzbWticnE5dmx4YXpMajVJVm9LazN6cGpNVGJCZXdaaEFpU0ktWHlXNmhOa21YbC1CYWZ2X3RNSUd5SWZNOQ?oc=5",
-    "published": "Wed, 29 Jul 2026 09:01:00 GMT",
-    "fetched_at": "2026-07-29 20:14:51",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "양자기술",
-      "과학기술"
-    ],
-    "keywords": [
-      "포스텍",
-      "양자기술",
-      "QuantERA",
-      "국제 공동연구"
-    ],
-    "reason": "한국의 양자기술 분야 국제 협력 및 연구 역량 강화 신호이나, 당장은 국가 과학기술 경쟁력 제고 차원의 장기적 이슈로 단기 금융시장 전반에 미치는 영향은 제한적이다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "사우디, 美 공습 동참…중동 확전 우려 고조[美-이란 전쟁] - 서울경제",
-    "title_ko": "사우디, 美 공습 동참…중동 확전 우려 고조[美-이란 전쟁]",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE51Mm8zdXJ6TjNuUy1qT2d1bDAwY3o4ejY3TTJucUxuRzJBMlFpVUlncWp6WFNTbXBzNTM3eDF2RXZxUHFxeURCS0RMeG1zdUNCWkHSAVNBVV95cUxPR2dTcndlVnJENlFWcl9WQ1ZlQ19WbUFuM1A3aEsxUWVFMXdrQmt4NF81M0hONnMyQkcyVUttM3BJNU11Wml1WWo3MDd4b0xFVUU0OA?oc=5",
-    "published": "Wed, 29 Jul 2026 04:52:29 GMT",
-    "fetched_at": "2026-07-29 17:22:46",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "에너지",
-      "방산",
-      "원자재",
-      "항공운송",
-      "해상운송"
-    ],
-    "keywords": [
-      "중동",
-      "확전",
-      "지정학적 리스크",
-      "유가",
-      "안전자산",
-      "이란",
-      "사우디"
-    ],
-    "reason": "사우디의 美 공습 동참은 중동 지역의 지정학적 긴장을 고조시키며, 이는 유가 상승 압력과 함께 글로벌 경제 불확실성을 증폭시켜 위험회피 심리를 강화할 것입니다. 특히 에너지 공급망 교란 우려가 커집니다.",
-    "action_point": "유가 상승 가능성에 대비하여 정유/화학 등 에너지 섹터의 단기적 반등을 주시하고, 지정학적 리스크 헤지를 위해 달러 및 금 등 안전자산 비중을 확대하라."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "CNBC Daily Open: Banking beats, SK Hynix sinks and surprise attack rattles oil",
-    "title_ko": "CNBC 데일리 오픈: 은행 실적 호조, SK하이닉스 하락, 기습 공격으로 유가 급등",
-    "link": "https://www.cnbc.com/2026/07/29/daily-open-bank-earnings-ubs-sk-hynix.html",
-    "published": "Wed, 29 Jul 2026 06:36:49 GMT",
-    "fetched_at": "2026-07-29 17:22:00",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "금융",
-      "기술 (반도체)",
-      "에너지",
-      "방산"
-    ],
-    "keywords": [
-      "은행 실적",
-      "기술주",
-      "SK하이닉스",
-      "유가 급등",
-      "지정학적 리스크",
-      "인플레이션"
-    ],
-    "reason": "유럽 은행 실적 호조에도 불구하고 기술주 부진과 미국 병력에 대한 기습 공격으로 인한 유가 급등은 인플레이션 압력과 지정학적 불안감을 고조시켜 글로벌 경제 불확실성을 증대시킬 수 있습니다.",
-    "action_point": "유가 상승 및 지정학적 리스크 심화에 대응하여 에너지 및 방산 섹터 비중 확대를 검토하고, 기술주 투자에 대한 보수적 접근을 유지하십시오."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "[속보] 미 중부사령부 \"이란 혁명수비대 탄도미사일 발사\" - 연합뉴스TV",
-    "title_ko": "미 중부사령부 \"이란 혁명수비대 탄도미사일 발사\"",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2RlprREE1Rm5oVjZUX1NRNzFtQnpJSTZYYUFRblVraFhQVC11SUtzd2ctU3dpX2JEWDJJdFc1b3JfUmdVSFBiV2w5LXpialVrZGdVQWVRYTBzX0VxS204ZTVtSDdlWEU?oc=5",
-    "published": "Tue, 28 Jul 2026 22:47:00 GMT",
-    "fetched_at": "2026-07-29 17:22:09",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "방산",
-      "해운"
-    ],
-    "keywords": [
-      "이란",
-      "탄도미사일",
-      "지정학",
-      "중동",
-      "유가"
-    ],
-    "reason": "중동 지역의 지정학적 리스크를 고조시키며 유가 상승 압력을 가하고, 글로벌 시장의 불확실성을 증폭시켜 위험 회피 심리를 자극할 수 있습니다.",
-    "action_point": "유가 상승 및 위험회피 심리 강화에 대비하여 에너지 관련 자산 및 안전자산 비중 확대를 검토하십시오."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "미국·이란 전쟁 재개…유가, 왜 다시 100달러 넘지 않았을까? - 조선일보",
-    "title_ko": "미국·이란 전쟁 재개…유가, 왜 다시 100달러 넘지 않았을까?",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdnBDQk9YUFAzTzJiaHR5T0ZIdzJVQ2drcnJidGVNT3ZlY0NmZHdRMzZaLTlQOFFXRVRzcUVZU3ZvNy0xc2p1Y18xVG5Ga09jc1VLSUhTRWJVSXFDbXltWmE1SkV3MzZCN2VZRkFMcW12dG9uY1ZLT3IzeUxlS1BmWThQOE5mV3pXSlNKbVpn?oc=5",
-    "published": "Wed, 29 Jul 2026 04:09:22 GMT",
-    "fetched_at": "2026-07-29 17:22:25",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "정유",
-      "항공",
-      "해운",
-      "방산",
-      "글로벌 증시"
-    ],
-    "keywords": [
-      "미국",
-      "이란",
-      "지정학",
-      "유가",
-      "원유",
-      "중동",
-      "에너지"
-    ],
-    "reason": "미국과 이란 간 긴장 고조에도 유가가 예상만큼 급등하지 않은 것은 시장이 해당 지정학적 리스크를 이미 반영했거나, 글로벌 수급 역학이 더 큰 영향을 미치고 있음을 시사한다. 이는 에너지 시장의 복합적 환경을 반영한다.",
-    "action_point": "지정학적 긴장과 별개로 유가 급등세가 제한적인 배경을 분석하여 에너지 관련 및 유가 민감 섹터 투자 비중을 재조정 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "\"AI가 경제 신호 교란\"...BIS, 통화정책 '오작동' 경고 - YTN",
-    "title_ko": "AI가 경제 신호 교란\"...BIS, 통화정책 '오작동' 경고",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5BSkIwMmFpd3dDb0ttUlVfVjY3N0t6MkRuMzUtN3dSUmVhRTFiSUtMeHp1bkJzNWpCdTBxa2ZDazlybmRBRDhnVjE3NHZyRFc0NjNtVEszQTZFUWt1SVE?oc=5",
-    "published": "Wed, 29 Jul 2026 06:25:00 GMT",
-    "fetched_at": "2026-07-29 17:23:10",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "전반적인 시장",
-      "금융",
-      "기술"
-    ],
-    "keywords": [
-      "AI",
-      "BIS",
-      "통화정책",
-      "경제 신호",
-      "불확실성"
-    ],
-    "reason": "BIS의 경고는 AI로 인해 경제 데이터 해석이 왜곡되어 중앙은행의 통화정책 결정에 오류가 발생할 수 있음을 시사한다. 이는 향후 거시경제 불확실성을 높이고 정책 예측 가능성을 저하시킬 수 있다.",
-    "action_point": "향후 중앙은행 통화정책 불확실성 확대를 고려하여 포트폴리오의 방어적 자산 비중을 높이고 시장 변동성 확대에 대비하라."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Minister apologizes as Korean leveraged ETF investors nurse heavy losses amid chip stock rout",
-    "title_ko": "반도체 주식 폭락 속 국내 레버리지 ETF 투자자 손실에 장관 사과",
-    "link": "https://www.cnbc.com/2026/07/29/korea-leveraged-etf-kodex-sk-hynix.html",
-    "published": "Wed, 29 Jul 2026 07:01:28 GMT",
-    "fetched_at": "2026-07-29 17:21:37",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "반도체",
-      "증권",
-      "금융"
-    ],
-    "keywords": [
-      "한국",
-      "레버리지 ETF",
-      "개인 투자자",
-      "반도체",
-      "주식 손실",
-      "규제"
-    ],
-    "reason": "국내 개인 투자자들의 레버리지 베팅으로 인한 손실은 시장 심리에 부정적 영향을 미치고, 특정 섹터의 변동성을 키울 수 있습니다. 향후 레버리지 상품 규제 강화 가능성도 존재합니다.",
-    "action_point": "반도체 등 국내 개인 투자자 레버리지 비중이 높은 섹터의 추가적인 변동성 확대에 대비하고, 관련 규제 변화 가능성을 주시하라."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Tech stocks extend sell-off with SoftBank down 10% as AI plays take a hit",
-    "title_ko": "기술주 매도세 확산, AI 관련주 하락 속 소프트뱅크 10% 급락",
-    "link": "https://www.cnbc.com/2026/07/29/chip-selloff-sk-hynix-samsung-softbank.html",
-    "published": "Wed, 29 Jul 2026 08:20:13 GMT",
-    "fetched_at": "2026-07-29 17:21:49",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "기술",
-      "인공지능",
-      "인터넷"
-    ],
-    "keywords": [
-      "기술주",
-      "매도세",
-      "소프트뱅크",
-      "AI",
-      "중국 인터넷 주식"
-    ],
-    "reason": "글로벌 기술주 전반, 특히 인공지능 관련주의 매도세가 심화되며 투자심리가 위축될 수 있습니다. 다만, 중국 인터넷 기업들은 차별화된 흐름을 보이며 특정 시장 및 섹터 내 긍정적 모멘텀을 시사합니다.",
-    "action_point": "글로벌 기술주 및 인공지능 관련 종목의 추가 하락 가능성에 대비하여 포트폴리오 비중 축소를 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "[보도설명자료] ｢'비상경제점검회의' 종료 \"중동 상황은 경제부총리 책임 구조로\"｣ (7.29., 조선일보·SBSBiz·뉴스1·연합뉴스 등) 보도 관련 - 대한민국 정책브리핑",
-    "title_ko": "[보도설명자료] ｢'비상경제점검회의' 종료 \"중동 상황은 경제부총리 책임 구조로\"｣ (7.29., 조선일보·SBSBiz·뉴스1·연합뉴스 등) 보도 관련 - 대한민국 정책브리핑",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBrNEdkTDE5cU5qaUNTdU1VMnNndVNyM0l3cXc0MGFzM0xfOFhqM3BtSm5qWWVWbGV0UTQ3WUN4S1A0c0k3Sm5EX1ZlekhpZEJfX0VtZ2NzSXQtUnNCb0cxaENyNWdZbE5nLW5BUGFLSQ?oc=5",
-    "published": "Wed, 29 Jul 2026 05:06:44 GMT",
-    "fetched_at": "2026-07-29 17:22:38",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "국내 전반",
-      "에너지"
-    ],
-    "keywords": [
-      "비상경제점검회의",
-      "중동",
-      "경제부총리",
-      "정부정책",
-      "위기관리"
-    ],
-    "reason": "정부가 중동 상황에 대한 경제적 파급 효과 관리 시스템을 구축하고 있음을 보여주며, 잠재적 리스크에 대한 정부의 대응 의지를 시사합니다. 이는 불확실성 속에서 시장 안정화에 기여할 수 있습니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "韓기업 해외투자 500조원 시대 … 법률 조력자 K로펌이 뛴다",
-    "title_ko": "韓기업 해외투자 500조원 시대 … 법률 조력자 K로펌이 뛴다",
-    "link": "https://www.mk.co.kr/news/society/12110678",
-    "published": "Wed, 29 Jul 2026 17:16:33 +09:00",
-    "fetched_at": "2026-07-29 17:23:28",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "IT/반도체",
-      "자동차",
-      "배터리",
-      "법률 서비스"
-    ],
-    "keywords": [
-      "해외투자",
-      "대기업",
-      "K-로펌",
-      "글로벌 확장"
-    ],
-    "reason": "국내 주요 대기업들이 미국 등 해외 현지 공장 설립 및 설비 확장에 대규모 투자를 진행하며 글로벌 경쟁력을 강화하고 있습니다. 이는 장기적인 성장 동력 확보와 공급망 안정화에 기여하며, 관련 법률 서비스 시장 또한 성장을 견인할 것입니다.",
-    "action_point": "미국 등 해외 생산기반 확대를 추진하여 글로벌 경쟁력을 강화하는 국내 주요 대기업의 포트폴리오 내 비중 확대를 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "[창간 81주년 기획] 지역 기업인들이 말하는 대구 경제 재도약 해법…“기술은 있다, 이제는 사람이 남아야 한다” - v.daum.net",
-    "title_ko": "[창간 81주년 기획] 지역 기업인들이 말하는 대구 경제 재도약 해법…“기술은 있다, 이제는 사람이 남아야 한다”",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE51UlF3U2NVLTB0cFBsaFlWOXFfQnozQ0hRSDJaOHNJb1hiY0lRZHNRUXBrcklyVjBVN243Wm9kTU1aMWNQSFVsTWxCSlNQMGs?oc=5",
-    "published": "Wed, 29 Jul 2026 04:55:08 GMT",
-    "fetched_at": "2026-07-29 17:22:56",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "지역 경제",
-      "제조업",
-      "인구 정책"
-    ],
-    "keywords": [
-      "대구 경제",
-      "지역 균형 발전",
-      "인구 유출",
-      "기술 경쟁력",
-      "지방 소멸"
-    ],
-    "reason": "대구 지역 경제의 장기적인 재도약 방안을 모색하는 내용으로, 지역 산업 경쟁력 강화 및 인구 유출 문제 해소에 대한 의지를 보여준다. 그러나 전국 단위의 거시 경제 지표나 시장 흐름에 즉각적인 영향을 미칠 수준은 아니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "\"법률 지식만으로는 분쟁 대응에 한계\"…첨단산업 해박한 '융합형 법조인' 뜬다",
-    "title_ko": "법률 지식만으로는 분쟁 대응에 한계\"…첨단산업 해박한 '융합형 법조인' 뜬다",
-    "link": "https://www.mk.co.kr/news/society/12110679",
-    "published": "Wed, 29 Jul 2026 17:16:33 +09:00",
-    "fetched_at": "2026-07-29 17:23:38",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "법률 서비스",
-      "교육"
-    ],
-    "keywords": [
-      "융합형 인재",
-      "법률 서비스",
-      "첨단산업",
-      "K-리걸"
-    ],
-    "reason": "첨단산업의 글로벌 경쟁 심화에 따라 법률 서비스 분야에서 산업 및 기술 이해를 겸비한 융합형 법조 인력의 수요 증가가 예상됩니다. 이는 법률 서비스 시장의 구조적 변화를 시사합니다.",
     "action_point": "해당 없음"
   }
 ]
