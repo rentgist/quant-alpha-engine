@@ -1,5 +1,72 @@
 [
   {
+    "source": "Maeil_Business",
+    "title": "흔들리는 K증시, 연일 터지는 비상장치…사이드카, 서킷브레이커 뭐길래?",
+    "title_ko": "흔들리는 K증시, 연일 터지는 비상장치…사이드카, 서킷브레이커 뭐길래?",
+    "link": "https://www.mk.co.kr/news/stock/12114451",
+    "published": "Mon, 03 Aug 2026 05:00:00 +09:00",
+    "fetched_at": "2026-08-03 06:45:56",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "전반적 시장"
+    ],
+    "keywords": [
+      "K증시",
+      "시장 변동성",
+      "사이드카",
+      "서킷브레이커"
+    ],
+    "reason": "국내 증시의 고변동성 심화 및 비상장치 발동은 투자자 불안감을 증폭시키고, 전반적인 주식 투자 환경에 부정적인 영향을 미쳐 위험 회피 심리를 강화할 것입니다.",
+    "action_point": "국내 주식 포트폴리오 내 고변동성 종목 비중 축소 및 현금 비중 확대 고려."
+  },
+  {
+    "source": "Maeil_Business",
+    "title": "튀르키예 공장에 뜬 정의선…유럽 공략할 ‘비장의 무기’ 있다는데",
+    "title_ko": "튀르키예 공장에 뜬 정의선…유럽 공략할 ‘비장의 무기’ 있다는데",
+    "link": "https://www.mk.co.kr/news/business/12114748",
+    "published": "Mon, 03 Aug 2026 06:05:22 +09:00",
+    "fetched_at": "2026-08-03 06:45:50",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "자동차",
+      "전기차",
+      "자동차 부품"
+    ],
+    "keywords": [
+      "정의선",
+      "현대자동차",
+      "튀르키예",
+      "유럽",
+      "소형EV",
+      "아이오닉3"
+    ],
+    "reason": "현대차그룹의 유럽 소형 전기차 시장 공략 강화는 한국 자동차 산업의 글로벌 경쟁력과 수출 전망에 긍정적이며, 관련 공급망에도 호재로 작용할 수 있습니다.",
+    "action_point": "현대차 및 관련 부품주에 대한 포트폴리오 비중 확대 검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "[경제 단신] 현대엔지니어링, 새 가치체계 선포 외 - v.daum.net",
+    "title_ko": "[경제 단신] 현대엔지니어링, 새 가치체계 선포 외",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMLXJfbkw2TUxvNS14WXM1WHpwQm9uX2p5Qzl5bHo5ODFLd3kteHZfUE1YQ1ItS1ltU0xreFdqUjhUZU1wcUo4ZXlxdFV5Z2s?oc=5",
+    "published": "Sun, 02 Aug 2026 20:03:20 GMT",
+    "fetched_at": "2026-08-03 06:45:41",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "건설",
+      "엔지니어링"
+    ],
+    "keywords": [
+      "현대엔지니어링",
+      "가치체계",
+      "기업전략"
+    ],
+    "reason": "현대엔지니어링의 내부 가치체계 선포는 개별 기업의 중장기 경영 전략의 일환으로, 거시 경제 또는 특정 투자 자산군 전반에 미칠 유의미한 영향은 없습니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "CNBC_World",
     "title": "AstraZeneca in talks with Bristol Myers Squibb on $400 billion megadeal, FT reports",
     "title_ko": "아스트라제네카, 브리스톨 마이어스 스큅과 4,000억 달러 규모 초대형 합병 논의 중 (FT 보도)",
@@ -2814,75 +2881,5 @@
     ],
     "reason": "이 기사는 중국이 오픈웨이트 AI 모델 분야에서 선두를 달리고 있음을 지적하며, 이는 미래 AI 기술 표준을 주도할 수 있다는 점에서 미국과의 기술 패권 경쟁 심화를 의미합니다.",
     "action_point": "미국 중심의 AI 기술 투자 전략을 재고하고, 중국 AI 기술 생태계의 부상에 따른 글로벌 기술 지형 변화에 대비하라."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "OpenAI cuts prices for two of its GPT-5.6 AI models as companies grow sensitive to costs",
-    "title_ko": "OpenAI, 비용에 민감해진 기업들을 위해 GPT-5.6 AI 모델 가격 인하",
-    "link": "https://www.cnbc.com/2026/07/30/open-ai-price-cut-gpt.html",
-    "published": "Thu, 30 Jul 2026 17:27:49 GMT",
-    "fetched_at": "2026-07-31 04:11:07",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "인공지능",
-      "클라우드 컴퓨팅",
-      "소프트웨어"
-    ],
-    "keywords": [
-      "OpenAI",
-      "AI 모델",
-      "가격 인하",
-      "비용 효율성",
-      "생성형 AI"
-    ],
-    "reason": "OpenAI의 AI 모델 가격 인하는 기업들의 AI 도입 비용 부담을 낮춰 AI 기술 확산에 긍정적이나, AI 서비스 제공 기업들의 수익성에는 압박 요인이 될 수 있다.",
-    "action_point": "AI 기술 도입을 가속화할 기업 및 클라우드 서비스 제공 업체에 대한 투자 기회를 모색하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "“우리가 5위로 밀렸다고?”...브라질 직접 찾은 정의선 회장의 주문은",
-    "title_ko": "“우리가 5위로 밀렸다고?”...브라질 직접 찾은 정의선 회장의 주문은",
-    "link": "https://www.mk.co.kr/news/business/12112683",
-    "published": "Thu, 30 Jul 2026 23:23:39 +09:00",
-    "fetched_at": "2026-07-31 04:11:24",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "자동차",
-      "전기차",
-      "수소에너지"
-    ],
-    "keywords": [
-      "현대차",
-      "브라질",
-      "BYD",
-      "경쟁",
-      "친환경차"
-    ],
-    "reason": "현대차의 브라질 시장 점유율 하락은 글로벌 자동차 시장 내 중국 전기차 기업의 가격 경쟁력 심화를 보여줍니다. 이는 현대차 그룹의 신흥 시장 전략 및 수익성에 부정적 영향을 미 미칠 수 있습니다.",
-    "action_point": "글로벌 자동차 시장 내 중국 기업의 경쟁 심화 추세에 주목하고 현대차 그룹의 신흥 시장 점유율 및 친환경차 전략 변화를 면밀히 분석하라."
-  },
-  {
-    "source": "CNBC_Finance",
-    "title": "Stocks making the biggest moves premarket: Meta, Microsoft, Teladoc, Norwegian Cruise Line & more",
-    "title_ko": "프리마켓에서 가장 크게 움직이는 종목들: 메타, 마이크로소프트, 텔라닥, 노르웨이 크루즈 라인 외",
-    "link": "https://www.cnbc.com/2026/07/30/stocks-making-the-biggest-moves-premarket-meta-msft-tdoc-nclh.html",
-    "published": "Thu, 30 Jul 2026 12:03:01 GMT",
-    "fetched_at": "2026-07-31 04:10:49",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "기술",
-      "헬스케어",
-      "소비재"
-    ],
-    "keywords": [
-      "프리마켓",
-      "개별종목",
-      "주식시장"
-    ],
-    "reason": "이 기사는 특정 개별 기업들의 프리마켓 움직임을 나열할 뿐, 전반적인 시장 방향성이나 매크로 경제 지표에 대한 구체적인 분석이나 정보를 제공하지 않습니다.",
-    "action_point": "해당 없음"
   }
 ]
