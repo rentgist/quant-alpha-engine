@@ -1,6 +1,77 @@
 [
   {
     "source": "CNBC_World",
+    "title": "AstraZeneca in talks with Bristol Myers Squibb on $400 billion megadeal, FT reports",
+    "title_ko": "아스트라제네카, 브리스톨 마이어스 스큅과 4,000억 달러 규모 초대형 합병 논의 중 (FT 보도)",
+    "link": "https://www.cnbc.com/2026/08/02/astrazeneca-and-bristol-myers-squibb-mull-400-billion-deal-report-.html",
+    "published": "Sun, 02 Aug 2026 20:00:18 GMT",
+    "fetched_at": "2026-08-03 05:06:49",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "제약",
+      "바이오",
+      "헬스케어"
+    ],
+    "keywords": [
+      "아스트라제네카",
+      "브리스톨 마이어스 스큅",
+      "인수합병",
+      "제약산업",
+      "초대형 거래"
+    ],
+    "reason": "제약산업 내 대규모 M&A 가능성을 시사하며, 이는 글로벌 제약사들의 경쟁 환경 변화 및 향후 M&A 활성화에 대한 기대를 높일 수 있습니다. 해당 기업들의 주가 및 관련 제약/바이오 섹터에 긍정적 영향을 미칠 수 있습니다.",
+    "action_point": "글로벌 제약/바이오 섹터 내 인수합병(M&A) 잠재 기업 및 관련 ETF 투자 검토."
+  },
+  {
+    "source": "Maeil_Business",
+    "title": "美 채권자경단이 움직인다 ... 기준금리 인상 명분 강해졌다",
+    "title_ko": "美 채권자경단이 움직인다 ... 기준금리 인상 명분 강해졌다",
+    "link": "https://www.mk.co.kr/news/economy/12114546",
+    "published": "Mon, 03 Aug 2026 05:00:00 +09:00",
+    "fetched_at": "2026-08-03 05:07:12",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "주식",
+      "채권",
+      "부동산",
+      "환율"
+    ],
+    "keywords": [
+      "미국 금리",
+      "채권 시장",
+      "인플레이션",
+      "연준",
+      "기준금리"
+    ],
+    "reason": "미국 채권 시장의 매파적 움직임이 연준의 추가 금리 인상 또는 고금리 장기화에 대한 명분을 강화하며, 이는 글로벌 유동성 축소 및 위험자산에 대한 압박으로 이어질 것입니다.",
+    "action_point": "금리 민감 주식 및 장기채 비중을 축소하고 달러 자산 보유를 확대하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "환갑 맞은 K뮤지컬...'국제 마켓 흥행' '브로드웨이 주연' - YTN",
+    "title_ko": "환갑 맞은 K뮤지컬...'국제 마켓 흥행' '브로드웨이 주연'",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9uRW1UWUdQV2xHdm1Xa0VKV0JDY1lIR3dndmsyOEFOMFVOZ3NMVFNpbVdNanNMeW9nTzk4Ty1vNzF5WmtfMGtPSDNWRk9MeUROOUo5T3V5RExEU29xNGc?oc=5",
+    "published": "Sun, 02 Aug 2026 14:32:00 GMT",
+    "fetched_at": "2026-08-03 05:06:57",
+    "sentiment": "호재",
+    "importance": 2,
+    "sectors": [
+      "엔터테인먼트",
+      "문화콘텐츠"
+    ],
+    "keywords": [
+      "K뮤지컬",
+      "문화콘텐츠",
+      "수출",
+      "브로드웨이"
+    ],
+    "reason": "K뮤지컬의 국제적 성공은 한국 문화 콘텐츠의 글로벌 경쟁력 강화와 수출 잠재력을 높이나, 거시경제나 주식시장 전반에 미치는 직접적인 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
     "title": "Investors scored on Iran war's oil market boom. Staying long the trade will get trickier",
     "title_ko": "이란 전쟁발 유가 급등으로 투자자들이 수익을 올렸으나, 이 거래를 장기 보유하는 것은 더 어려워질 것이다.",
     "link": "https://www.cnbc.com/2026/08/02/oil-prices-iran-war-energy-market.html",
@@ -2813,73 +2884,5 @@
     ],
     "reason": "이 기사는 특정 개별 기업들의 프리마켓 움직임을 나열할 뿐, 전반적인 시장 방향성이나 매크로 경제 지표에 대한 구체적인 분석이나 정보를 제공하지 않습니다.",
     "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "title": "U.S. economy slowed to 1.5% growth rate in Q2; June core inflation at 3.3%",
-    "title_ko": "미국 2분기 경제 성장률 1.5%로 둔화; 6월 근원 인플레이션 3.3%",
-    "link": "https://www.cnbc.com/2026/07/30/us-economy-slowed-to-1point5percent-growth-rate-in-q2-june-core-inflation-at-3point3percent.html",
-    "published": "Thu, 30 Jul 2026 15:04:43 GMT",
-    "fetched_at": "2026-07-31 02:15:38",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "금리",
-      "주식",
-      "환율"
-    ],
-    "keywords": [
-      "미국 GDP",
-      "인플레이션",
-      "연준",
-      "경제 둔화"
-    ],
-    "reason": "미국 2분기 GDP 성장률 둔화는 연준의 추가 금리 인상 압력을 완화할 수 있으나, 여전히 높은 근원 인플레이션은 통화정책의 불확실성을 유지시킨다. 성장 둔화의 원인이 정부 지출 및 재고 감소였던 점은 민간 소비의 상대적 견고함을 시사한다.",
-    "action_point": "연준의 금리 인상 압력 완화 기대로 장기채 및 고성장 기술주 비중 유지."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "[조윤제 칼럼] 경제정책, 반도체 호황 너머를 보는 시각 가져야 - v.daum.net",
-    "title_ko": "경제정책, 반도체 호황 너머를 보는 시각 가져야",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBBZnpPRWhCUGZhRWhfelFfbVJTY204d2RmR1RlRzJWX3FjSlFmOW54aXppeFl3SERlczdsYXozOHJTN0ZsZGY4NVdRY1p3cFk?oc=5",
-    "published": "Thu, 30 Jul 2026 15:20:09 GMT",
-    "fetched_at": "2026-07-31 02:15:48",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "반도체",
-      "거시경제",
-      "정부 정책"
-    ],
-    "keywords": [
-      "경제정책",
-      "반도체 호황",
-      "산업 다각화",
-      "장기 성장"
-    ],
-    "reason": "이 칼럼은 한국 경제의 반도체 산업 의존도에 대한 경고와 함께 장기적인 성장을 위한 경제정책의 다각화를 주문하고 있습니다. 이는 미래 정부 정책 방향과 산업별 지원의 변화 가능성을 시사합니다.",
-    "action_point": "반도체 외 신성장 동력 관련 섹터에 대한 장기적 투자 기회 모색."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "AI investor Leopold Aschenbrenner forced to unwind all public stock positions after steep losses, sources say",
-    "title_ko": "AI 투자자 레오폴드 아셴브레너, 막대한 손실 후 모든 상장 주식 포지션 청산 강요당해",
-    "link": "https://www.cnbc.com/2026/07/30/leopold-aschenbrenners-hedge-fund-is-facing-steep-ai-losses.html",
-    "published": "Thu, 30 Jul 2026 14:55:31 GMT",
-    "fetched_at": "2026-07-31 00:03:22",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "기술 (AI 관련)",
-      "성장주"
-    ],
-    "keywords": [
-      "AI 투자",
-      "헤지펀드",
-      "주식 청산",
-      "손실"
-    ],
-    "reason": "AI 투자 전문 헤지펀드의 막대한 손실로 인한 주식 포지션 전량 청산은 고성장 기술 섹터의 과열 또는 변동성 확대 가능성을 시사하며, 관련 섹터에 대한 투자심리를 위축시킬 수 있습니다.",
-    "action_point": "AI 관련 기술주에 대한 신규 투자를 보류하고 기존 포지션에 대한 리스크 관리를 강화."
   }
 ]
