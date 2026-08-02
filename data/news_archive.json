@@ -1,5 +1,224 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "title": "[속보] '주말 대규모 이란 공격' 예고했던 트럼프 \"공격 보류···'합의의 틀' 동의 이뤄져\" - 대구MBC",
+    "title_ko": "[속보] '주말 대규모 이란 공격' 예고했던 트럼프 \"공격 보류···'합의의 틀' 동의 이뤄져\"",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1CMlh6MUJlX1Z0ZmdwU3lzSWF0SUNkRzNMY3QzZ2pybFhob2pHLWJ1VkJ5UWVoTUxGMDZoUkVPNXFLZV9nTXQ5OGFPMEo?oc=5",
+    "published": "Sun, 02 Aug 2026 03:03:18 GMT",
+    "fetched_at": "2026-08-02 17:06:49",
+    "sentiment": "호재",
+    "importance": 5,
+    "sectors": [
+      "에너지",
+      "방산",
+      "전반적인 위험자산"
+    ],
+    "keywords": [
+      "트럼프",
+      "이란",
+      "지정학적 긴장 완화",
+      "유가",
+      "위험자산"
+    ],
+    "reason": "트럼프의 이란 공격 보류 발언은 중동 지정학적 긴장 완화를 시사하며, 이는 글로벌 유가 하방 압력 및 전반적인 위험자산 선호 심리 개선에 긍정적인 영향을 미칠 것입니다. 불확실성 감소로 시장 변동성이 줄어들 수 있습니다.",
+    "action_point": "중동 지정학적 리스크 완화에 따라 방산 섹터 비중 축소를 검토하고, 유가 하방 압력에 대비한 에너지 관련 포트폴리오 조정을 고려하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "트럼프, 이란 공습 전격 취소…“호르무즈 전면 개방 합의 윤곽” - 한겨레",
+    "title_ko": "트럼프, 이란 공습 전격 취소…“호르무즈 전면 개방 합의 윤곽”",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9wRks2bVgteDFvanE5SDFfSm12Z0JsM0kteHFRNmZ6ODBvWTNlejZSZmgwZXJSUmgzMk9fa1FWUFFpY0JJamhaM1BMUzNGdVdUQWo3T09ISy13RTRnQjFDRF9WR2FKRTBISTVybXN1MA?oc=5",
+    "published": "Sun, 02 Aug 2026 06:37:00 GMT",
+    "fetched_at": "2026-08-02 17:06:57",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "운수",
+      "항공",
+      "화학",
+      "제조업"
+    ],
+    "keywords": [
+      "트럼프",
+      "이란",
+      "공습",
+      "호르무즈 해협",
+      "유가",
+      "지정학",
+      "위험 완화"
+    ],
+    "reason": "미국의 이란 공습 취소와 호르무즈 해협 개방 합의 윤곽은 중동 지정학적 긴장을 완화하고 글로벌 원유 공급 불확실성을 해소하여 유가 하향 안정화에 기여할 것으로 예상된다. 이는 위험 회피 심리를 약화시키고 원유 수입국들의 경제적 부담을 줄여준다.",
+    "action_point": "유가 하락 수혜 업종(항공, 화학, 해운 등)에 대한 비중 확대를 검토한다."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "[속보]미국, 이란 공격 취소 - 한경매거진&북",
+    "title_ko": "[속보]미국, 이란 공격 취소 - 한경매거진&북",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZOTN0cTlHemtEejF3MFlrdnJudEdkenkzb0NuTVRHUEk4eURMTEFjMTFib3h1eW9HZkx1QklHLWV4TXhvdDFiaG9uMDVMZXJaVWp0MU5Sb1BuYldpTlNDcXFZZ0oxbzdNenVudw?oc=5",
+    "published": "Sun, 02 Aug 2026 02:37:00 GMT",
+    "fetched_at": "2026-08-02 17:07:31",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "해운",
+      "증시 전반"
+    ],
+    "keywords": [
+      "미국",
+      "이란",
+      "공격 취소",
+      "지정학",
+      "유가",
+      "중동"
+    ],
+    "reason": "미국의 이란 공격 취소는 중동 지역의 지정학적 위험을 완화하고, 이는 국제 유가 상승 압력을 경감시키며 전반적인 시장의 위험 회피 심리를 개선할 것입니다.",
+    "action_point": "중동 지정학적 위험 완화에 따른 유가 안정화 및 전반적인 투자심리 개선을 반영하여 위험자산 비중 유지 또는 확대 검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "정부, 증시 긴급조치권한 확보 착수…금융위기·코로나 복기 - 연합뉴스",
+    "title_ko": "정부, 증시 긴급조치권한 확보 착수…금융위기·코로나 복기",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WVTBvcm56U3loQjROVWVSMkRLOU5fUTZqRkVJVDZzeHhBNFFiMktPbzlqRkVTQ0VaR2FOeEhQQkd3ai12Q1J1SVNLN2czR2NFTWEtclMxQXVxdGvSAWBBVV95cUxOdlBfYk9tT2pnQXdpZTJhS196bUZySlVlSS1FSE02TDZ2aVVjd0tmYVl5elJia25NWmt0bmx4MndMR09EM0Y0bUJ1b3hKd3ZEVm5IZkk1SXNSSVJQVmhxUmE?oc=5",
+    "published": "Sat, 01 Aug 2026 20:49:00 GMT",
+    "fetched_at": "2026-08-02 17:07:39",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "전반적 시장",
+      "금융"
+    ],
+    "keywords": [
+      "정부",
+      "증시",
+      "긴급조치",
+      "금융위기",
+      "시장안정"
+    ],
+    "reason": "정부가 과거 위기 상황을 복기하며 증시 긴급조치 권한 확보에 나서는 것은 잠재적 시장 불안정에 대한 정부의 인식을 반영하며, 시장 참여자들에게는 경기 및 증시 하방 위험에 대한 경고로 해석될 수 있습니다. 이는 향후 시장 변동성 확대 시 정부의 개입 가능성을 시사하나, 동시에 현재 시장이 안고 있는 불안 요소를 부각시킵니다.",
+    "action_point": "국내 증시의 잠재적 하방 위험에 대비하여 포트폴리오의 방어적 자산 비중을 점검하고 유동성을 확보하라."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "An exam leak in India exposed a Gen Z jobs crisis that goes much deeper",
+    "title_ko": "인도 시험 유출 사태, Z세대 고용 위기의 심각성을 드러내다",
+    "link": "https://www.cnbc.com/2026/08/02/india-exam-leak-protests-jobs-crisis-gen-z-unemployment-modi.html",
+    "published": "Sun, 02 Aug 2026 05:18:21 GMT",
+    "fetched_at": "2026-08-02 17:06:30",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "소비재",
+      "부동산",
+      "교육"
+    ],
+    "keywords": [
+      "인도",
+      "실업",
+      "Z세대",
+      "사회 불안",
+      "신흥국"
+    ],
+    "reason": "이 뉴스는 인도 내 Z세대 고용 위기와 사회 불안 심화를 나타내며, 이는 인도의 장기적인 경제 성장과 소비 잠재력에 부정적인 영향을 미칠 수 있다.",
+    "action_point": "인도 경제의 사회적 리스크 확대를 고려하여, 인도 시장 관련 투자 비중의 점진적 조정을 검토."
+  },
+  {
+    "source": "Maeil_Business",
+    "title": "\"21조 투입해 피지컬AI 생태계 구축 … 경남, 제조혁신 중심으로\"",
+    "title_ko": "21조 투입해 피지컬AI 생태계 구축 … 경남, 제조혁신 중심으로",
+    "link": "https://www.mk.co.kr/news/society/12114497",
+    "published": "Sun, 02 Aug 2026 17:01:09 +09:00",
+    "fetched_at": "2026-08-02 17:07:54",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "인공지능",
+      "로봇",
+      "자동화",
+      "스마트팩토리",
+      "제조업"
+    ],
+    "keywords": [
+      "피지컬 AI",
+      "제조혁신",
+      "경상남도 투자",
+      "산업 자동화",
+      "로봇 산업"
+    ],
+    "reason": "경상남도의 21조 원 규모 피지컬 AI 및 제조혁신 생태계 구축 계획은 해당 지역 및 관련 산업의 장기 성장 동력을 제공하며, 첨단 제조업 역량 강화를 통해 AI 및 자동화 솔루션 기업에 긍정적 영향을 미칠 것으로 예상된다.",
+    "action_point": "경상남도 기반 또는 관련 피지컬 AI 및 제조 자동화 솔루션 기업의 포트폴리오 편입을 검토하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "title": "[매일경제TV] 반도체 대형주 회복 가능성은",
+    "title_ko": "[매일경제TV] 반도체 대형주 회복 가능성은",
+    "link": "https://www.mk.co.kr/news/culture/12114495",
+    "published": "Sun, 02 Aug 2026 16:59:53 +09:00",
+    "fetched_at": "2026-08-02 17:08:06",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "반도체",
+      "화장품",
+      "전력기기"
+    ],
+    "keywords": [
+      "반도체 대형주",
+      "주가 반등",
+      "변동성 완화",
+      "수급 집중"
+    ],
+    "reason": "변동성 정점 통과 이후 반도체 대형주의 회복 가능성을 진단하며, 화장품 및 전력기기 등 수급이 몰리는 특정 섹터에 대한 긍정적 시각을 제시한다.",
+    "action_point": "반도체 대형주의 회복 가능성을 고려하여 해당 섹터 비중 확대를 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "[ET시론] 미래우주경제 선도를 위한 우주AI 전략 - 전자신문",
+    "title_ko": "[ET시론] 미래우주경제 선도를 위한 우주AI 전략",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0xNWFZVVlGRS1mOGhMRVBKcnM5OXA4V05XYkx2WlJuaUJNRDZvUzJFWlZCT2JVaTc2bmt3bXl2THBlSW5UOURZOE9DRkliUQ?oc=5",
+    "published": "Sun, 02 Aug 2026 07:00:00 GMT",
+    "fetched_at": "2026-08-02 17:06:37",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "우주항공",
+      "인공지능",
+      "정보통신기술"
+    ],
+    "keywords": [
+      "우주경제",
+      "인공지능(AI)",
+      "미래기술",
+      "전략"
+    ],
+    "reason": "해당 시론은 미래 우주경제 선도를 위한 AI 전략을 다루며, 장기적인 산업 방향성을 제시하지만, 단기적인 시장이나 거시경제 지표에 미치는 직접적인 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "[속보] 대구·경북 경산·경주·경남 사천 폭염중대경보 - 연합뉴스TV",
+    "title_ko": "[속보] 대구·경북 경산·경주·경남 사천 폭염중대경보",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5saVpZZTdtRDVYUW56MXh2R1lzZlllbzEwd2thWTNRSHQ5MVJUaUxMSDJuZ0d1LXNWdC1YYXY2SzBpOXA2S3F3ZFVMdXFNVXpBVFo5dG9DNmNsUWhlbFF0NlJfZkoxRDA?oc=5",
+    "published": "Sun, 02 Aug 2026 01:15:00 GMT",
+    "fetched_at": "2026-08-02 17:07:23",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "농업",
+      "전력/에너지",
+      "음료/빙과"
+    ],
+    "keywords": [
+      "폭염",
+      "기후변화",
+      "농업",
+      "전력수요"
+    ],
+    "reason": "대구·경북 등 영남권 일부 지역에 폭염 중대경보가 발령되어 농작물 피해 및 전력 수요 증가가 예상됩니다. 이는 해당 지역의 농업 및 에너지 관련 산업에 단기적인 영향을 미 미칠 수 있으나, 국가 전체 경제 및 주요 투자 자산에 미치는 거시적 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "CNBC_World",
     "title": "Capital One says it closed Trump Organization's accounts after anti-money laundering probe",
     "title_ko": "캐피탈 원, 돈세탁 방지 조사 후 트럼프 그룹 계좌 폐쇄 발표",
@@ -2690,229 +2909,5 @@
     ],
     "reason": "메가캡 기술 기업들의 실적과 대규모 자본 지출에 대한 시장의 상이한 반응을 보여주며, 향후 기술 섹터 내에서도 수익성 있는 성장 기업과 그렇지 않은 기업 간의 차별화가 심화될 것임을 시사한다. 투자자들은 이제 단순한 성장 전망보다는 자본 효율성과 실질적인 수익 창출 능력을 더욱 중요하게 평가할 것이다.",
     "action_point": "기술 섹터 내에서 대규모 자본 지출에 대한 명확한 수익 창출 능력을 입증하는 기업으로 비중을 늘리고, 불확실성이 큰 기업은 재평가하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "\"한국은 치고 나가는데\"…'꼴찌 전락 위기' 日 초비상 [최만수의 재팬 인사이트] - 한국경제",
-    "title_ko": "한국은 치고 나가는데'…'꼴찌 전락 위기' 日 초비상 [최만수의 재팬 인사이트]",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1yamZsdEZOdVpQZXFwZ09NU1dUamFGSkk0cTdERDNIeGE3RENoYlFzck5qQjFCSGNKemMtZEdkSk5XRWhuWF9OUThzX25tZmZpSTNtbmU3WWhMdw?oc=5",
-    "published": "Thu, 30 Jul 2026 03:21:30 GMT",
-    "fetched_at": "2026-07-30 16:29:23",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "한국 증시 전반",
-      "수출 관련주",
-      "제조업"
-    ],
-    "keywords": [
-      "한국 경제",
-      "일본 경제",
-      "국가 경쟁력",
-      "경제 성장률"
-    ],
-    "reason": "이 뉴스는 한국 경제의 일본 대비 상대적 우위를 강조하며 국내 증시 전반에 긍정적 투자 심리를 형성하고, 아시아 역내 경쟁력 변화에 대한 투자 관점 재정립을 시사합니다.",
-    "action_point": "한국 경제의 상대적 우위를 활용할 수 있는 내수 및 수출 경쟁력 보유 기업 비중 확대를 검토하십시오."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "AI 전쟁 중인데, 韓 과학계는 구독 영수증 '풀칠' 중? - 헬로디디",
-    "title_ko": "AI 전쟁 중인데, 韓 과학계는 구독 영수증 '풀칠' 중?",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5XOWFiQXI2V3NWak1ST0FYS05TbVNtaFJSOGoxbHRPdjhkSGo4LTlNRWVwSndyelZTN1ZiVWRVeEFlcmw4TkUxMlJIYzB1S09kdFkzV19IcHBGUVNHWTh0Y1FkeU5XdVNhS1E?oc=5",
-    "published": "Thu, 30 Jul 2026 02:51:23 GMT",
-    "fetched_at": "2026-07-30 16:30:03",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "IT/기술",
-      "과학기술 R&D",
-      "소프트웨어"
-    ],
-    "keywords": [
-      "AI",
-      "과학기술",
-      "R&D",
-      "경쟁력",
-      "비효율",
-      "한국"
-    ],
-    "reason": "이 기사는 한국 과학기술계의 비효율적인 행정 시스템이 글로벌 AI 경쟁 시대에 뒤처질 수 있다는 우려를 제기하며, 장기적으로 국가 경쟁력 및 관련 산업의 성장 동력 약화 가능성을 시사합니다. 이는 미래 성장 동력 확보와 직결된 구조적 문제로 판단됩니다.",
-    "action_point": "한국 AI 관련 섹터의 장기 성장 잠재력을 보수적으로 평가하고, 글로벌 AI 선도 기업으로의 투자 비중 확대를 검토."
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "“우린 생활가전 계속 밉니다”…LG전자, 2분기 역대급 실적 쓴 비결",
-    "title_ko": "“우린 생활가전 계속 밉니다”…LG전자, 2분기 역대급 실적 쓴 비결",
-    "link": "https://www.mk.co.kr/news/business/12112051",
-    "published": "Thu, 30 Jul 2026 16:19:52 +09:00",
-    "fetched_at": "2026-07-30 16:31:02",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "가전",
-      "전자제품",
-      "소비재",
-      "기술주"
-    ],
-    "keywords": [
-      "LG전자",
-      "실적",
-      "생활가전",
-      "신사업",
-      "영업이익",
-      "소비"
-    ],
-    "reason": "LG전자의 역대급 실적은 견조한 가전 및 신사업 부문 성장을 통해 국내 대형 소비재/기술 기업의 수익성을 입증한다. 이는 해당 섹터의 투자 매력도를 높이는 긍정적 신호로 해석될 수 있다.",
-    "action_point": "국내 대형 가전 및 신사업 확장 기업의 중장기 투자 매력도를 재평가하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "SK이노, 윤활유·배터리 호조로 2분기 영업익 3조4873억원",
-    "title_ko": "SK이노, 윤활유·배터리 호조로 2분기 영업익 3조4873억원",
-    "link": "https://www.mk.co.kr/news/business/12112046",
-    "published": "Thu, 30 Jul 2026 16:13:39 +09:00",
-    "fetched_at": "2026-07-30 16:31:29",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "정유",
-      "화학",
-      "2차전지"
-    ],
-    "keywords": [
-      "SK이노베이션",
-      "2분기 실적",
-      "윤활유",
-      "배터리",
-      "정유사업",
-      "유가",
-      "호르무즈 해협"
-    ],
-    "reason": "SK이노베이션의 2분기 호실적은 배터리와 윤활유 등 비정유 사업의 성장에 힘입었으며, 이는 에너지 전환 관련 산업의 견조함을 시사한다. 다만 정유 사업 이익 감소와 호르무즈 해협발 지정학적 위험은 유가 변동성 확대 가능성을 내포한다.",
-    "action_point": "에너지 전환 수혜 섹터(2차전지, 고부가가치 화학) 투자 비중 확대를 검토하고, 유가 급등락 가능성에 대비하여 정유 섹터 익스포저를 재점검하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "“단일 레버리지는 자연사시켜야”…‘ETF 아버지’ 가 작심하고 입 열었다",
-    "title_ko": "“단일 레버리지는 자연사시켜야”…‘ETF 아버지’ 가 작심하고 입 열었다",
-    "link": "https://www.mk.co.kr/news/stock/12112049",
-    "published": "Thu, 30 Jul 2026 16:14:44 +09:00",
-    "fetched_at": "2026-07-30 16:31:11",
-    "sentiment": "악재",
-    "importance": 2,
-    "sectors": [
-      "금융",
-      "증권",
-      "자산운용"
-    ],
-    "keywords": [
-      "레버리지 ETF",
-      "시장 변동성",
-      "자산운용사",
-      "투자 상품"
-    ],
-    "reason": "한투운용 대표의 발언은 단일 레버리지 ETF의 위험성을 재차 강조하며, 해당 상품의 투자 수요 위축 및 국내 증시 변동성 관리에 대한 논의를 촉발할 가능성이 있습니다.",
-    "action_point": "단일 레버리지 ETF를 보유한 투자자는 해당 상품의 리스크를 재평가하고 투자 비중 조정을 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "China threatens retaliation against U.S. humanoid robot ban, says it 'severely damages' relations",
-    "title_ko": "중국, 미국 휴머노이드 로봇 금지에 보복 위협, '관계 심각하게 훼손' 주장",
-    "link": "https://www.cnbc.com/2026/07/30/china-us-robot-humanoid-ban-trump-visit.html",
-    "published": "Thu, 30 Jul 2026 02:52:30 GMT",
-    "fetched_at": "2026-07-30 13:49:22",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "기술 섹터",
-      "로봇 산업",
-      "반도체",
-      "제조업"
-    ],
-    "keywords": [
-      "미중 갈등",
-      "기술 규제",
-      "로봇",
-      "지정학",
-      "무역 전쟁"
-    ],
-    "reason": "미국과 중국 간의 기술 경쟁 심화와 지정학적 긴장을 보여주며, 첨단 기술 분야의 추가적인 무역 규제 가능성을 높여 글로벌 공급망과 투자 심리에 부정적인 영향을 미칠 수 있습니다.",
-    "action_point": "미중 기술 갈등에 노출된 첨단 기술 및 로봇 산업 관련 기업 비중 축소를 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "2026년 상반기 인천 경제, \"수출·생산 소폭 개선…주거용 건설 등 일부 지표는 숙제\" - 경기신문",
-    "title_ko": "2026년 상반기 인천 경제, \"수출·생산 소폭 개선…주거용 건설 등 일부 지표는 숙제\"",
-    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ObXFkMnZqZ014RThra3Z4S291SXZMTlAxd2hLOWtBeldZQWZYRGVxY1VGaFhqODRpemFGZEhoTFdad09OSER6ZERWemJWVXFPUmJycGdrUVBGNDJwbnVxLWJR?oc=5",
-    "published": "Thu, 30 Jul 2026 04:04:36 GMT",
-    "fetched_at": "2026-07-30 13:49:30",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "제조업",
-      "수출주",
-      "건설업",
-      "부동산"
-    ],
-    "keywords": [
-      "인천 경제",
-      "수출",
-      "생산",
-      "건설 경기",
-      "지역 경제"
-    ],
-    "reason": "인천 지역의 2026년 상반기 수출 및 생산은 소폭 개선될 전망이나, 주거용 건설 부진은 지속될 것으로 보여 지역 경제 내 업종별 차별화가 예상됩니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "title": "U.S. resumes strikes against Iran, retaliating against surprise missile attack",
-    "title_ko": "미국, 이란에 대한 공습 재개, 기습 미사일 공격에 보복",
-    "link": "https://www.cnbc.com/2026/07/30/us-iran-war-hormuz-centcom-trump-.html",
-    "published": "Thu, 30 Jul 2026 01:21:23 GMT",
-    "fetched_at": "2026-07-30 10:27:29",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "에너지",
-      "방산",
-      "해운",
-      "항공"
-    ],
-    "keywords": [
-      "미국",
-      "이란",
-      "중동",
-      "지정학적 리스크",
-      "유가",
-      "군사충돌"
-    ],
-    "reason": "미국의 이란 공습 재개는 중동 지역의 지정학적 긴장을 최고조로 끌어올려 글로벌 유가 상승 압력과 전반적인 위험자산 회피 심리를 강화할 것입니다. 특히 호르무즈 해협 등 주요 운송로의 불확실성이 증대됩니다.",
-    "action_point": "중동 지정학적 리스크 확대로 인한 국제 유가 급등 가능성에 대비하여 에너지 관련 자산 비중 확대를 고려하고, 금 등 안전자산 포트폴리오를 점검하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "[스타트 경제] 코스피, 사상 첫 이틀 연속 서킷 브레이커...이틀 만에 865조 원 사라져 - YTN",
-    "title_ko": "코스피, 사상 첫 이틀 연속 서킷 브레이커...이틀 만에 865조 원 사라져 - YTN",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBwbWgxYnFSa2k4eFFtYy1Tb055OFoxRjFuQ04tV2pLcXByc0h2Z1JGSlBoM0hCV3VtWGdDQ016RmhkaXdmdzAyNFg4NzNQLWc5V1I2MVhNRXNCVXU5cVE?oc=5",
-    "published": "Wed, 29 Jul 2026 22:38:00 GMT",
-    "fetched_at": "2026-07-30 10:27:42",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "주식시장 전반",
-      "금융",
-      "성장주"
-    ],
-    "keywords": [
-      "코스피",
-      "서킷 브레이커",
-      "주식시장",
-      "투자심리",
-      "시장변동성",
-      "자본유출"
-    ],
-    "reason": "코스피의 사상 첫 이틀 연속 서킷 브레이커 발동은 극심한 투자심리 위축과 시장 패닉을 반영하며, 대규모 자본 이탈과 경제 전반의 불확실성 확대를 시사한다. 이는 국내외 경제 둔화 및 기업 실적 악화 우려를 증폭시킨다.",
-    "action_point": "주식시장 비중을 방어적으로 축소하고, 안전자산으로의 포트폴리오 재조정을 검토하라."
   }
 ]
