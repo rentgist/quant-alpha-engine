@@ -1,5 +1,77 @@
 [
   {
+    "source": "CNBC_World",
+    "title": "Capital One says it closed Trump Organization's accounts after anti-money laundering probe",
+    "title_ko": "캐피탈 원, 돈세탁 방지 조사 후 트럼프 그룹 계좌 폐쇄 발표",
+    "link": "https://www.cnbc.com/2026/08/01/capital-one-closed-trump-organization-accounts-after-investigation.html",
+    "published": "Sun, 02 Aug 2026 01:56:07 GMT",
+    "fetched_at": "2026-08-02 14:19:00",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "금융",
+      "정치"
+    ],
+    "keywords": [
+      "트럼프",
+      "돈세탁",
+      "캐피탈원",
+      "규제",
+      "은행"
+    ],
+    "reason": "전 미국 대통령 기업의 돈세탁 방지 조사 관련 계좌 폐쇄 소식으로, 금융권의 규제 준수 강화 움직임과 트럼프 관련 정치적 리스크가 부각될 수 있습니다. 광범위한 시장 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "Maeil_Business",
+    "title": "전국 폭염 장기화에 중대본 2단계로 격상…범정부 대응 강화",
+    "title_ko": "전국 폭염 장기화에 중대본 2단계로 격상…범정부 대응 강화",
+    "link": "https://www.mk.co.kr/news/society/12114428",
+    "published": "Sun, 02 Aug 2026 14:18:27 +09:00",
+    "fetched_at": "2026-08-02 14:19:17",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "에너지",
+      "농업",
+      "식품",
+      "유통"
+    ],
+    "keywords": [
+      "폭염",
+      "전력수요",
+      "농산물가격",
+      "생산성"
+    ],
+    "reason": "전국적 폭염 장기화는 전력 수요 급증과 농업 생산성 하락을 유발하여 전반적인 경제 활동에 부정적 영향을 미치고 농산물 물가 상승 압력을 가중시킬 수 있습니다.",
+    "action_point": "전력 관련주 및 냉방 관련 소비재의 단기적 수급 변화에 대비하고, 농산물 가격 상승에 따른 식품 기업의 원가 부담을 점검하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "title": "S&P 신용등급 ‘AA’ 획득…대한민국하고 신용등급 같아진 이 기업은",
+    "title_ko": "S&P 신용등급 ‘AA’ 획득…대한민국하고 신용등급 같아진 이 기업은",
+    "link": "https://www.mk.co.kr/news/economy/12114427",
+    "published": "Sun, 02 Aug 2026 14:16:47 +09:00",
+    "fetched_at": "2026-08-02 14:19:26",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "보험",
+      "금융"
+    ],
+    "keywords": [
+      "S&P",
+      "신용등급",
+      "AA",
+      "삼성화재",
+      "자본력",
+      "리스크관리",
+      "글로벌 경쟁력"
+    ],
+    "reason": "삼성화재의 S&P 'AA' 등급 획득은 해당 기업의 견고한 재무 건전성과 리스크 관리 역량을 입증하며, 국내 보험 및 금융 섹터 전반에 대한 신뢰도를 높일 수 있습니다. 이는 글로벌 시장에서의 경쟁력 강화 및 자금 조달 비용 절감 효과를 가져올 것입니다.",
+    "action_point": "국내 대형 보험사 및 금융주 투자 매력도 재평가."
+  },
+  {
     "source": "GoogleNews_Korea",
     "title": "“노골적 전쟁 준비…반격 가할 것” 나토 경고한 北, 무슨 일 - 중앙일보",
     "title_ko": "“노골적 전쟁 준비…반격 가할 것” 나토 경고한 北, 무슨 일 - 중앙일보",
@@ -2842,82 +2914,5 @@
     ],
     "reason": "코스피의 사상 첫 이틀 연속 서킷 브레이커 발동은 극심한 투자심리 위축과 시장 패닉을 반영하며, 대규모 자본 이탈과 경제 전반의 불확실성 확대를 시사한다. 이는 국내외 경제 둔화 및 기업 실적 악화 우려를 증폭시킨다.",
     "action_point": "주식시장 비중을 방어적으로 축소하고, 안전자산으로의 포트폴리오 재조정을 검토하라."
-  },
-  {
-    "source": "CNBC_Finance",
-    "title": "The U.S. wants Asia to use its AI — but China dominates cheaper models",
-    "title_ko": "미국은 아시아가 자국 AI를 사용하길 원하지만, 중국이 더 저렴한 모델을 장악",
-    "link": "https://www.cnbc.com/2026/07/30/us-wants-asia-to-use-its-ai-but-china-dominates-cheaper-models.html",
-    "published": "Wed, 29 Jul 2026 23:10:46 GMT",
-    "fetched_at": "2026-07-30 10:27:20",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "AI",
-      "반도체",
-      "클라우드 컴퓨팅",
-      "소프트웨어",
-      "데이터 센터"
-    ],
-    "keywords": [
-      "AI",
-      "미국",
-      "중국",
-      "아시아",
-      "기술 경쟁",
-      "생성형 AI",
-      "반도체"
-    ],
-    "reason": "미중 AI 기술 경쟁이 아시아 시장을 중심으로 심화되고 있으며, 이는 AI 관련 산업 전반의 성장과 함께 각국 정책 및 규제 환경 변화를 야기할 것입니다.",
-    "action_point": "글로벌 AI 인프라 및 첨단 반도체 섹터 내 리더 기업에 대한 비중 확대를 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Samsung Electronics second-quarter operating profit beats estimates on soaring AI chip demand",
-    "title_ko": "삼성전자 2분기 영업이익, AI 칩 수요 급증에 예상치 상회",
-    "link": "https://www.cnbc.com/2026/07/30/samsung-q2-earnings-ai-chip-.html",
-    "published": "Thu, 30 Jul 2026 00:50:50 GMT",
-    "fetched_at": "2026-07-30 10:27:35",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "반도체",
-      "기술주"
-    ],
-    "keywords": [
-      "삼성전자",
-      "AI 칩",
-      "반도체",
-      "실적"
-    ],
-    "reason": "AI 칩 수요 급증은 반도체 산업의 강력한 회복세와 성장 잠재력을 재확인시키며, 삼성전자를 포함한 글로벌 기술주 전반에 긍정적인 투자 심리를 형성할 것입니다.",
-    "action_point": "글로벌 반도체 및 AI 관련 기술주 비중 확대를 검토"
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "뷰런테크놀로지 ‘룩아웃’, 조달청 2026 혁신제품 선정",
-    "title_ko": "뷰런테크놀로지 ‘룩아웃’, 조달청 2026 혁신제품 선정",
-    "link": "https://www.mk.co.kr/news/it/12111706",
-    "published": "Thu, 30 Jul 2026 10:25:26 +09:00",
-    "fetched_at": "2026-07-30 10:27:56",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "AI",
-      "라이다",
-      "스마트 인프라",
-      "공공 조달"
-    ],
-    "keywords": [
-      "뷰런테크놀로지",
-      "룩아웃",
-      "조달청",
-      "혁신제품",
-      "라이다",
-      "AI",
-      "스마트 인프라"
-    ],
-    "reason": "뷰런테크놀로지의 라이다 기반 AI 솔루션이 조달청 혁신제품으로 선정된 것은 해당 기업의 공공시장 확대 및 기술력 인정을 의미하며, AI 및 스마트 인프라 섹터 전반에 대한 긍정적 신호로 해석될 수 있습니다.",
-    "action_point": "스마트 인프라 및 AI 기반 라이다 기술 관련 국내 정책 수혜 기업군 동향을 점검하여 잠재적 투자 기회를 탐색."
   }
 ]
