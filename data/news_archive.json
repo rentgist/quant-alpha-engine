@@ -1,5 +1,31 @@
 [
   {
+    "source": "CNBC_World",
+    "title": "Oil drops over 4% after Trump calls off planned strike on Iran",
+    "title_ko": "트럼프, 이란 공습 계획 철회 후 유가 4% 이상 하락",
+    "link": "https://www.cnbc.com/2026/08/03/oil-prices-today-wti-brent-hormuz-trump-iran.html",
+    "published": "Sun, 02 Aug 2026 23:33:07 GMT",
+    "fetched_at": "2026-08-03 08:51:05",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "정유/화학",
+      "항공",
+      "해운/물류",
+      "자동차/운수",
+      "소비재"
+    ],
+    "keywords": [
+      "유가",
+      "이란",
+      "트럼프",
+      "지정학적 리스크",
+      "원자재"
+    ],
+    "reason": "트럼프 대통령의 이란 공습 계획 철회는 중동 지역 지정학적 긴장 완화 및 글로벌 원유 공급 불확실성 감소로 이어져 유가 하락 압력을 가하고, 이는 전반적인 시장의 위험 회피 심리를 완화시킬 것입니다.",
+    "action_point": "항공, 해운, 화학 등 에너지 의존도가 높은 섹터의 매수 기회를 모색."
+  },
+  {
     "source": "Maeil_Business",
     "title": "트럼프 “이란과 호르무즈 문제 합의…3일 오후 협상 시작”",
     "title_ko": "트럼프 “이란과 호르무즈 문제 합의…3일 오후 협상 시작”",
@@ -2856,31 +2882,5 @@
     ],
     "reason": "아마존의 클라우드(AWS) 사업 호조와 CAPEX 증액은 AI 및 클라우드 서비스 수요의 강력한 성장을 시사하며, 이는 메모리 반도체 등 관련 부품 및 장비 시장에 긍정적인 파급 효과를 가져올 것이다.",
     "action_point": "메모리 반도체 섹터 비중 확대 검토"
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Apple's stock drops 8% as supply constraints lead to weak revenue guidance: Live updates",
-    "title_ko": "애플 주가, 공급 제약으로 인한 저조한 매출 전망에 8% 하락: 실시간 업데이트",
-    "link": "https://www.cnbc.com/2026/07/30/apple-earnings-live-updates.html",
-    "published": "Thu, 30 Jul 2026 21:53:24 GMT",
-    "fetched_at": "2026-07-31 07:03:49",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "IT",
-      "기술",
-      "하드웨어",
-      "반도체",
-      "글로벌 공급망"
-    ],
-    "keywords": [
-      "애플",
-      "주가 하락",
-      "매출 전망",
-      "공급망 제약",
-      "실적"
-    ],
-    "reason": "글로벌 IT 대장주 애플의 실적 부진과 공급망 제약은 기술 섹터 전반의 투자 심리를 위축시키고, 유사한 공급망 문제에 직면할 수 있는 다른 기업들의 리스크를 부각시킵니다.",
-    "action_point": "글로벌 기술 및 하드웨어 섹터 내 공급망 의존도가 높은 기업의 투자 비중 축소를 검토하라."
   }
 ]
