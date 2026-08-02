@@ -1,5 +1,28 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "title": "中엔 밀리고 美엔 앞섰다…韓 2분기 경제성장률 9위 - 아시아경제",
+    "title_ko": "中엔 밀리고 美엔 앞섰다…韓 2분기 경제성장률 9위",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PQ2pHZ1ZxOHZsemxGV3FfaEhBSHRNQVduQnFQMy1jUzY4cmhaWk9pNEJVcWpKdGQzSERubjdDTENNNzVOZE5ScU5HWDNDZE54Z0FsdnRNNjlVRHFqb043dw?oc=5",
+    "published": "Sun, 02 Aug 2026 09:07:11 GMT",
+    "fetched_at": "2026-08-02 20:55:07",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "거시경제 전반",
+      "수출 기업",
+      "내수 기업"
+    ],
+    "keywords": [
+      "경제성장률",
+      "2분기",
+      "한국 경제",
+      "글로벌 비교"
+    ],
+    "reason": "한국의 2분기 경제성장률이 주요국 대비 중위권에 위치하여 국내 경제의 완만한 회복세를 나타내지만, 강력한 성장 동력을 가진 국가들과는 차이가 있음을 시사합니다.",
+    "action_point": "국내 성장 모멘텀이 글로벌 중위권 수준임을 감안, 내수주 대비 수출 경쟁력 우위 기업 비중 확대를 검토."
+  },
+  {
     "source": "CNBC_World",
     "title": "Trump cancels planned attack on Iran, saying he reached an agreement over the 'perimeters of a deal'",
     "title_ko": "트럼프, 이란 공격 취소, '거래의 윤곽'에 대한 합의에 도달했다고 밝혀",
@@ -2874,32 +2897,5 @@
     ],
     "reason": "이란의 미국에 대한 '선제공격' 의도 분석은 중동 지정학적 긴장을 극도로 고조시키며, 이는 국제 유가 급등과 글로벌 안보 불안을 야기하여 투자 심리를 급격히 위축시킬 것입니다. 핵심 해상 운송로 봉쇄 가능성으로 국제 무역 및 공급망에 심각한 차질이 발생할 수 있습니다.",
     "action_point": "국제유가 급등과 지정학적 리스크 심화에 대비하여 에너지 섹터 비중을 확대하고, 안전자산(예: 달러, 금) 확보를 고려하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "\"선제공격은 이번이 처음\"...미국-이란 전쟁 양상 달라질까 [Y녹취록] - YTN",
-    "title_ko": "선제공격은 이번이 처음\"...미국-이란 전쟁 양상 달라질까 [Y녹취록]",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBnaUNDc29fX0ZIeVR4Q3FOWk5SV19CQ0tpSzFZU0dkcUxJZHFaSW5waXBSTTJWdmM4d3d2UmpsOXY3QW9Tam8zeC1mUG1xTmxvTnJhQzNvYUh4RGlwdGc?oc=5",
-    "published": "Thu, 30 Jul 2026 05:15:00 GMT",
-    "fetched_at": "2026-07-30 16:30:20",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "에너지",
-      "방산",
-      "해운",
-      "항공",
-      "글로벌 증시"
-    ],
-    "keywords": [
-      "미국",
-      "이란",
-      "중동",
-      "지정학적 위험",
-      "유가",
-      "전쟁"
-    ],
-    "reason": "미국과 이란 간 '선제공격' 언급은 중동 지역의 지정학적 긴장 고조와 분쟁의 확전 가능성을 시사하며, 이는 국제유가 급등 압력과 글로벌 위험자산 회피 심리를 강화할 수 있습니다. 특히 핵심 해상 운송로인 호르무즈 해협 봉쇄 가능성은 원자재 공급망에 심각한 영향을 미칠 수 있습니다.",
-    "action_point": "유가 상승 압력에 대비하여 에너지 섹터 비중 확대를 검토하고, 지정학적 위험 회피를 위해 안전 자산 선호를 강화하라."
   }
 ]
