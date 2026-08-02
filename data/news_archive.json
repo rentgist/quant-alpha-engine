@@ -1,6 +1,32 @@
 [
   {
     "source": "Maeil_Business",
+    "title": "트럼프 “이란과 호르무즈 문제 합의…3일 오후 협상 시작”",
+    "title_ko": "트럼프 “이란과 호르무즈 문제 합의…3일 오후 협상 시작”",
+    "link": "https://www.mk.co.kr/news/world/12114770",
+    "published": "Mon, 03 Aug 2026 07:38:06 +09:00",
+    "fetched_at": "2026-08-03 07:45:36",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "항공/해운",
+      "화학",
+      "방산"
+    ],
+    "keywords": [
+      "트럼프",
+      "이란",
+      "호르무즈 해협",
+      "협상",
+      "지정학적 위험",
+      "유가"
+    ],
+    "reason": "이란과의 호르무즈 해협 관련 합의 및 협상 소식은 중동 지역 지정학적 긴장 완화를 의미하며, 이는 국제 유가의 지정학적 위험 프리미엄을 낮추는 요인으로 작용할 것입니다.",
+    "action_point": "국제 유가 하방 압력 발생 가능성에 대비하여 에너지 관련 자산 비중 조정 검토."
+  },
+  {
+    "source": "Maeil_Business",
     "title": "흔들리는 K증시, 연일 터지는 비상장치…사이드카, 서킷브레이커 뭐길래?",
     "title_ko": "흔들리는 K증시, 연일 터지는 비상장치…사이드카, 서킷브레이커 뭐길래?",
     "link": "https://www.mk.co.kr/news/stock/12114451",
@@ -2856,30 +2882,5 @@
     ],
     "reason": "글로벌 IT 대장주 애플의 실적 부진과 공급망 제약은 기술 섹터 전반의 투자 심리를 위축시키고, 유사한 공급망 문제에 직면할 수 있는 다른 기업들의 리스크를 부각시킵니다.",
     "action_point": "글로벌 기술 및 하드웨어 섹터 내 공급망 의존도가 높은 기업의 투자 비중 축소를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "China’s open-weight model lead exposes America’s AI blind spot",
-    "title_ko": "중국의 오픈웨이트 모델 선두, 미국의 AI 사각지대 노출",
-    "link": "https://www.cnbc.com/2026/07/30/china-open-source-trump-ai.html",
-    "published": "Thu, 30 Jul 2026 18:51:42 GMT",
-    "fetched_at": "2026-07-31 04:10:59",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "기술주",
-      "반도체",
-      "소프트웨어",
-      "클라우드"
-    ],
-    "keywords": [
-      "AI",
-      "중국",
-      "미국",
-      "기술 경쟁",
-      "오픈소스"
-    ],
-    "reason": "이 기사는 중국이 오픈웨이트 AI 모델 분야에서 선두를 달리고 있음을 지적하며, 이는 미래 AI 기술 표준을 주도할 수 있다는 점에서 미국과의 기술 패권 경쟁 심화를 의미합니다.",
-    "action_point": "미국 중심의 AI 기술 투자 전략을 재고하고, 중국 AI 기술 생태계의 부상에 따른 글로벌 기술 지형 변화에 대비하라."
   }
 ]
