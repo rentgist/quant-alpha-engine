@@ -1,6 +1,29 @@
 [
   {
     "source": "GoogleNews_Korea",
+    "title": "“노골적 전쟁 준비…반격 가할 것” 나토 경고한 北, 무슨 일 - 중앙일보",
+    "title_ko": "“노골적 전쟁 준비…반격 가할 것” 나토 경고한 北, 무슨 일 - 중앙일보",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iLUdSX2ttdUR4NHloMzYtNHVzc2lUUmVGVGpWS21EUkpGZG05cGJmeVRhZVBPNWhsZWl2djlpNWZVSmpaY2Y5dm9odG5LWFV3RHJvdDR3?oc=5",
+    "published": "Sun, 02 Aug 2026 01:18:18 GMT",
+    "fetched_at": "2026-08-02 10:51:37",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "방산",
+      "금융",
+      "항공"
+    ],
+    "keywords": [
+      "북한",
+      "나토",
+      "지정학적 리스크",
+      "안보"
+    ],
+    "reason": "북한의 나토 경고 및 호전적 발언은 한반도와 국제 정세의 지정학적 불안정성을 고조시키며, 국내외 투자 시장의 불확실성을 증대시킬 수 있다.",
+    "action_point": "지정학적 리스크 헤지를 위한 방산 관련주 편입 또는 위험자산 비중 축소 검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
     "title": "정부, 증시 긴급조치권한 확보 착수…금융위기·코로나 복기 - v.daum.net",
     "title_ko": "정부, 증시 긴급조치권한 확보 착수…금융위기·코로나 복기",
     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9yeUtEMlNEcFFpLUxPMnl1enVvTjRfM1hYYTVjMU5ublVTaTdmMUFTMlpjUExGd2V1alI1eHlKZlFiZmtJS05Tdmx5WmdCWFU?oc=5",
@@ -2896,29 +2919,5 @@
     ],
     "reason": "뷰런테크놀로지의 라이다 기반 AI 솔루션이 조달청 혁신제품으로 선정된 것은 해당 기업의 공공시장 확대 및 기술력 인정을 의미하며, AI 및 스마트 인프라 섹터 전반에 대한 긍정적 신호로 해석될 수 있습니다.",
     "action_point": "스마트 인프라 및 AI 기반 라이다 기술 관련 국내 정책 수혜 기업군 동향을 점검하여 잠재적 투자 기회를 탐색."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Stock futures rise as Microsoft jumps after earnings; traders hope to recover from Fed Day sell-off: Live updates",
-    "title_ko": "마이크로소프트 실적 발표 후 주식 선물 상승, 연준 발표일 매도세 회복 기대: 실시간 업데이트",
-    "link": "https://www.cnbc.com/2026/07/29/stock-market-today-live-updates.html",
-    "published": "Wed, 29 Jul 2026 23:47:53 GMT",
-    "fetched_at": "2026-07-30 08:54:06",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "기술",
-      "IT",
-      "주식시장 전반"
-    ],
-    "keywords": [
-      "기술주",
-      "실적 발표",
-      "연준",
-      "금리 동결",
-      "주식 선물"
-    ],
-    "reason": "마이크로소프트의 양호한 실적은 기술주 전반에 긍정적인 영향을 미치며, 연준의 금리 동결 결정과 함께 시장의 불확실성을 해소하여 투자 심리를 개선할 것입니다. 이는 기술주 중심의 상승 동력을 제공할 수 있습니다.",
-    "action_point": "기술 성장주 비중을 유지하며, 실적 개선 가능성이 높은 대형 기술 기업에 대한 투자를 고려."
   }
 ]
