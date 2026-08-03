@@ -1,5 +1,28 @@
 [
   {
+    "source": "CNBC_Finance",
+    "title": "Stocks making the biggest moves premarket: Alibaba, Bristol-Myers Squibb, eBay & more",
+    "title_ko": "개장 전 가장 큰 움직임을 보이는 주식: 알리바바, 브리스톨-마이어스 스큅, 이베이 외",
+    "link": "https://www.cnbc.com/2026/08/03/stocks-making-the-biggest-moves-premarket-baba-azn-ebay-more.html",
+    "published": "Mon, 03 Aug 2026 12:54:55 GMT",
+    "fetched_at": "2026-08-04 06:59:17",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "기술",
+      "헬스케어",
+      "소비재"
+    ],
+    "keywords": [
+      "알리바바",
+      "브리스톨-마이어스 스큅",
+      "이베이",
+      "개장 전 주가"
+    ],
+    "reason": "이 기사는 개장 전 특정 기업 주가의 개별적인 움직임을 나열하는 것으로, 거시경제나 시장 전반에 미치는 영향은 제한적이며 해당 기업의 개별 이슈에 국한됩니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "CNBC_World",
     "title": "Twenty five states sue Trump administration over latest global tariffs",
     "title_ko": "미국 25개 주, 트럼프 행정부의 최신 글로벌 관세 부과에 소송 제기",
@@ -2862,31 +2885,5 @@
     ],
     "reason": "글로벌 AI 수요 급증과 노후 전력망 교체 필요성이 맞물려 국내 전력기기 기업들의 수주가 폭발적으로 증가하고 있습니다. 이는 해당 기업들의 실적 호조와 생산 능력 확대로 이어질 것입니다.",
     "action_point": "전력기기 섹터 투자 비중 확대를 고려하라."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Trump says U.S. has 'not agreed to' grant Ukraine Patriot missile licenses",
-    "title_ko": "트럼프, 미국이 우크라이나에 패트리어트 미사일 라이선스 허가에 '동의하지 않았다'고 밝혀",
-    "link": "https://www.cnbc.com/2026/07/31/trump-ukraine-patriot-missile-license-russia.html",
-    "published": "Fri, 31 Jul 2026 18:52:10 GMT",
-    "fetched_at": "2026-08-01 05:54:55",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "방위산업",
-      "항공우주",
-      "국방",
-      "원자재"
-    ],
-    "keywords": [
-      "트럼프",
-      "우크라이나",
-      "패트리어트 미사일",
-      "방위산업",
-      "지정학",
-      "미국 외교 정책"
-    ],
-    "reason": "트럼프의 발언은 향후 미국 대선 결과에 따른 우크라이나 군사 지원 정책의 불확실성을 높이며, 이는 지정학적 긴장과 글로벌 방위산업 시장에 중장기적 영향을 미칠 수 있습니다.",
-    "action_point": "미국 대선 결과에 따른 지정학적 리스크 변화 가능성에 대비하여 글로벌 방산 섹터 및 지정학적 리스크 민감 자산에 대한 투자 비중을 재검토하라."
   }
 ]
