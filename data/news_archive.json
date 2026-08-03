@@ -1,6 +1,101 @@
 [
   {
     "source": "CNBC_World",
+    "title": "Twenty five states sue Trump administration over latest global tariffs",
+    "title_ko": "미국 25개 주, 트럼프 행정부의 최신 글로벌 관세 부과에 소송 제기",
+    "link": "https://www.cnbc.com/2026/08/03/trump-tariffs-25-states-lawsuit-supreme-court.html",
+    "published": "Mon, 03 Aug 2026 20:35:17 GMT",
+    "fetched_at": "2026-08-04 05:55:55",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "제조업",
+      "소비재",
+      "운송",
+      "해운"
+    ],
+    "keywords": [
+      "관세",
+      "무역분쟁",
+      "미국 정치",
+      "법적 리스크"
+    ],
+    "reason": "미국 주정부의 관세 철회 소송은 트럼프 행정부의 무역 정책에 대한 불확실성을 가중시키며, 글로벌 공급망과 기업 수익성에 대한 우려를 지속시킬 수 있습니다.",
+    "action_point": "무역 관세 민감도가 높은 수출 의존 기업 비중 축소를 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "美·이란 전쟁에 AI 데이터센터도 피격…“현대전 새 표적 됐다” - v.daum.net",
+    "title_ko": "美·이란 전쟁에 AI 데이터센터도 피격…“현대전 새 표적 됐다”",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1xa0F2ekg1SFJzVlAzUllDbml2eUJtNXd5YkZRcHBBRlpNanpaUGM4N3JFcFltdzdabXE0a24zNWNDYzFlM2dFTFJiWjlCeWs?oc=5",
+    "published": "Mon, 03 Aug 2026 16:37:07 GMT",
+    "fetched_at": "2026-08-04 05:56:13",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "반도체",
+      "클라우드 서비스",
+      "사이버 보안"
+    ],
+    "keywords": [
+      "미국-이란",
+      "AI 데이터센터",
+      "지정학적 리스크",
+      "사이버 보안"
+    ],
+    "reason": "미국-이란 갈등 고조와 AI 데이터센터의 피격 가능성으로 지정학적 리스크가 심화되고, 에너지 시장의 불안정성 및 글로벌 기술 인프라의 사이버 보안 우려를 증폭시킨다.",
+    "action_point": "원유 및 방산 관련 자산 비중 확대를 검토하고, AI 인프라 관련주의 지정학적 리스크를 재평가하라."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "Palantir soars 12% on blowout quarter, with U.S. commercial revenue soaring nearly 150%",
+    "title_ko": "팔란티어, 실적 호조에 주가 12% 급등... 미국 상업 부문 매출 150% 가까이 폭증",
+    "link": "https://www.cnbc.com/2026/08/03/palantir-pltr-earnings-q2-2026.html",
+    "published": "Mon, 03 Aug 2026 20:53:16 GMT",
+    "fetched_at": "2026-08-04 05:56:02",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "인공지능",
+      "소프트웨어",
+      "기술주"
+    ],
+    "keywords": [
+      "팔란티어",
+      "AI",
+      "실적",
+      "매출",
+      "성장주"
+    ],
+    "reason": "팔란티어의 견조한 실적은 AI 산업 전반의 수요 강세와 성장 기대감을 재확인시켰습니다. 이는 기술 성장주, 특히 AI 관련 기업들에 대한 투자 심리를 개선할 것입니다.",
+    "action_point": "인공지능(AI) 관련 기술주 포트폴리오 비중 유지 또는 확대 검토."
+  },
+  {
+    "source": "CNBC_Finance",
+    "title": "Stocks making the biggest moves after hours: Palantir, On Semiconductor, Snap & more",
+    "title_ko": "장 마감 후 가장 큰 변동을 보인 주식들: 팔란티어, 온 세미컨덕터, 스냅 등",
+    "link": "https://www.cnbc.com/2026/08/03/stocks-making-the-biggest-moves-after-hours-pltr-on-snap.html",
+    "published": "Mon, 03 Aug 2026 20:45:50 GMT",
+    "fetched_at": "2026-08-04 05:55:42",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "기술",
+      "반도체",
+      "소프트웨어"
+    ],
+    "keywords": [
+      "장외거래",
+      "기술주",
+      "개별주",
+      "주식 변동성"
+    ],
+    "reason": "이 기사는 특정 기술주들의 장외거래 변동을 보도할 뿐, 그 원인이나 거시경제적 함의에 대한 정보는 부재하여 시장 전반의 방향성을 제시하기 어렵습니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
     "title": "Trump says Exxon and Chevron made 'too much money' off high oil prices during Iran conflict: 'I don't like it'",
     "title_ko": "트럼프, 이란 분쟁 중 정유사들이 '너무 많은 돈' 벌었다며 비판: '마음에 들지 않는다'",
     "link": "https://www.cnbc.com/2026/08/03/trump-says-exxon-and-chevron-made-too-much-money-off-high-oil-prices-during-iran-conflict-i-dont-like-it.html",
@@ -2793,99 +2888,5 @@
     ],
     "reason": "트럼프의 발언은 향후 미국 대선 결과에 따른 우크라이나 군사 지원 정책의 불확실성을 높이며, 이는 지정학적 긴장과 글로벌 방위산업 시장에 중장기적 영향을 미칠 수 있습니다.",
     "action_point": "미국 대선 결과에 따른 지정학적 리스크 변화 가능성에 대비하여 글로벌 방산 섹터 및 지정학적 리스크 민감 자산에 대한 투자 비중을 재검토하라."
-  },
-  {
-    "source": "CNBC_Finance",
-    "title": "Stocks making the biggest moves midday: Apple, Amazon, Reddit, GoDaddy, IES Holdings & more",
-    "title_ko": "오후장 가장 큰 변동을 보인 주식: 애플, 아마존, 레딧, 고대디, IES 홀딩스 외",
-    "link": "https://www.cnbc.com/2026/07/31/stocks-making-the-biggest-moves-midday-aapl-amzn-rddt-gddy-iesc.html",
-    "published": "Fri, 31 Jul 2026 17:42:49 GMT",
-    "fetched_at": "2026-08-01 05:54:36",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "기술",
-      "소비재",
-      "산업재"
-    ],
-    "keywords": [
-      "개별주",
-      "시장 변동성",
-      "기술주"
-    ],
-    "reason": "이 뉴스는 특정 대형 및 중소형 개별 주식들의 장중 움직임을 나열하고 있을 뿐, 해당 움직임의 원인이나 거시경제적 함의를 제공하지 않습니다. 따라서 전체 시장이나 매크로 흐름에 대한 직접적인 영향은 미미합니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_Finance",
-    "title": "Stocks making the biggest moves premarket: Replimune, Chevron, Apple, Amazon, Moderna & more",
-    "title_ko": "개장 전 가장 큰 움직임을 보이는 주식: 레플리뮨, 쉐브론, 애플, 아마존, 모더나 외",
-    "link": "https://www.cnbc.com/2026/07/31/stocks-making-the-biggest-moves-premarket-repl-cvx-aapl-amzn-mrna.html",
-    "published": "Fri, 31 Jul 2026 12:30:23 GMT",
-    "fetched_at": "2026-08-01 05:54:44",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "기술",
-      "에너지",
-      "헬스케어",
-      "소비재"
-    ],
-    "keywords": [
-      "개장 전 움직임",
-      "개별 주식",
-      "기업 동향"
-    ],
-    "reason": "이 기사는 개장 전 개별 기업들의 주가 움직임을 단순 보고하는 것으로, 해당 움직임의 원인이나 거시경제적 맥락을 제시하지 않아 시장 전반에 미칠 유의미한 영향은 제한적입니다.",
-    "action_point": "개별 기업에 대한 추가 정보가 없는 한 거시적 포트폴리오 조정은 해당 없음."
-  },
-  {
-    "source": "CNBC_Finance",
-    "title": "Investors may want to focus on front end of yield curve — as Street anticipates next Fed meetings",
-    "title_ko": "투자자들은 연준 회의를 앞두고 단기 금리 구간에 주목해야 할 수도 있습니다.",
-    "link": "https://www.cnbc.com/2026/07/31/top-investment-ideas-as-interest-rate-uncertainty-grips-market-.html",
-    "published": "Fri, 31 Jul 2026 18:46:45 GMT",
-    "fetched_at": "2026-08-01 04:09:05",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "채권 시장",
-      "금융 섹터"
-    ],
-    "keywords": [
-      "수익률 곡선",
-      "단기 금리",
-      "연준 회의",
-      "채권 시장",
-      "통화 정책"
-    ],
-    "reason": "이 기사는 시장이 연준의 향후 통화 정책 결정, 특히 금리 인상 또는 인하 기대감에 따라 단기 금리 변동성에 주목하고 있음을 시사합니다. 이는 투자자들이 포트폴리오의 듀레이션 전략을 재조정할 필요성을 제기합니다.",
-    "action_point": "단기 금리 변동성에 주목하여 채권 포트폴리오의 듀레이션 단축을 검토하라."
-  },
-  {
-    "source": "CNBC_Finance",
-    "title": "Fintech broker Clear Street offers investors pre-IPO access to $188 billion AI giant Databricks",
-    "title_ko": "핀테크 브로커 클리어 스트리트, 1,880억 달러 AI 대기업 데이터브릭스에 대한 상장 전 투자 접근 제공",
-    "link": "https://www.cnbc.com/2026/07/31/clear-street-pre-ipo-platform-databricks.html",
-    "published": "Fri, 31 Jul 2026 18:20:01 GMT",
-    "fetched_at": "2026-08-01 04:09:12",
-    "sentiment": "호재",
-    "importance": 2,
-    "sectors": [
-      "핀테크",
-      "벤처캐피탈/사모펀드",
-      "인공지능(AI)",
-      "기술"
-    ],
-    "keywords": [
-      "핀테크",
-      "사모시장",
-      "프리IPO",
-      "AI",
-      "데이터브릭스",
-      "클리어스트리트"
-    ],
-    "reason": "이는 후기 단계 비상장 기업에 대한 사모 시장의 유동성과 투자 접근성이 확대되고 있음을 보여줍니다. 특히 AI 분야의 높은 가치 평가와 투자 수요가 지속되고 있음을 시사합니다.",
-    "action_point": "AI 및 고성장 기술 기업에 대한 사모 시장 투자 기회 모색 고려"
   }
 ]
