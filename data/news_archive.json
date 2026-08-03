@@ -1,5 +1,50 @@
 [
   {
+    "source": "CNBC_World",
+    "title": "Big Tech's Anthropic and OpenAI stakes are distorting the corporate earnings picture",
+    "title_ko": "빅테크 기업의 앤스로픽 및 OpenAI 지분 투자가 기업 실적을 왜곡하고 있다",
+    "link": "https://www.cnbc.com/2026/08/03/big-techs-anthropic-and-openai-stakes-distort-corporate-earnings.html",
+    "published": "Mon, 03 Aug 2026 22:48:18 GMT",
+    "fetched_at": "2026-08-04 08:01:02",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "기술주"
+    ],
+    "keywords": [
+      "빅테크",
+      "AI 투자",
+      "기업 실적",
+      "수익 왜곡",
+      "밸류에이션"
+    ],
+    "reason": "빅테크 기업의 발표 실적이 비영업성 AI 투자 이익으로 부풀려져 있어, 실제 영업 이익 기반의 가치 평가에 대한 의문을 제기하며 기술주 전반의 밸류에이션 부담을 높일 수 있습니다.",
+    "action_point": "기술주 내 비영업 이익 의존도가 높은 기업에 대한 비중 축소를 검토하고, 실질적인 영업 성과 기반의 종목으로 재편을 고려하십시오."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "Palantir's Karp renews attacks on frontier AI labs that are 'trying to drug addict us'",
+    "title_ko": "팔란티어 카프, '우리를 마약 중독자로 만들려 한다'며 선도적인 AI 연구소들에 대한 비판 재개",
+    "link": "https://www.cnbc.com/2026/08/03/palantir-karp-open-ai-anthropic-open-weight.html",
+    "published": "Mon, 03 Aug 2026 22:20:56 GMT",
+    "fetched_at": "2026-08-04 08:01:13",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "인공지능(AI)",
+      "기술(Technology)"
+    ],
+    "keywords": [
+      "팔란티어",
+      "알렉스 카프",
+      "인공지능(AI)",
+      "선도 AI 연구소",
+      "지식재산권(IP)"
+    ],
+    "reason": "이 기사는 빠르게 발전하는 AI 산업 내 지식재산권 침해, 윤리적 문제 및 경쟁 심화에 대한 논란을 부각시킨다. 이는 AI 기술 개발 및 상용화 과정에서 발생할 수 있는 잠재적 리스크와 규제 가능성을 시사한다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "CNBC_Finance",
     "title": "Stocks making the biggest moves premarket: Alibaba, Bristol-Myers Squibb, eBay & more",
     "title_ko": "개장 전 가장 큰 움직임을 보이는 주식: 알리바바, 브리스톨-마이어스 스큅, 이베이 외",
@@ -2834,56 +2879,5 @@
     ],
     "reason": "미국 내에서 월급 외 수입을 찾는 패시브 인컴 트렌드가 확산됨에 따라, 장기적으로 배당주, 부동산 등 안정적인 현금흐름을 창출하는 자산에 대한 수요 증가 가능성이 있다.",
     "action_point": "배당주, 리츠, 임대수익형 부동산 등 패시브 인컴 관련 자산 비중 확대를 검토하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "“반도체 조정 끝?”…아마존·MS 15% 폭등에 다시 달린 나스닥",
-    "title_ko": "“반도체 조정 끝?”…아마존·MS 15% 폭등에 다시 달린 나스닥",
-    "link": "https://www.mk.co.kr/news/world/12114137",
-    "published": "Sat, 01 Aug 2026 06:14:19 +09:00",
-    "fetched_at": "2026-08-01 06:58:17",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "IT/기술",
-      "반도체",
-      "클라우드 컴퓨팅",
-      "소프트웨어"
-    ],
-    "keywords": [
-      "아마존",
-      "마이크로소프트",
-      "어닝 서프라이즈",
-      "AI",
-      "나스닥",
-      "기술주",
-      "반도체"
-    ],
-    "reason": "아마존과 마이크로소프트의 강력한 실적, 특히 AI 관련 투자 성과는 기술주 전반에 대한 시장의 불안감을 해소하고 투자심리를 개선시켜 나스닥 및 관련 섹터의 추가 상승 동력을 제공할 수 있습니다. 이는 국내 기술/반도체 섹터에도 긍정적인 영향을 미칠 전망입니다.",
-    "action_point": "미국 및 국내 AI 관련 기술주와 반도체 섹터의 비중 확대를 검토하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "“일감이 너무 많습니다”...K전력기기, 하반기 수주 스케쥴도 빡빡하네",
-    "title_ko": "“일감이 너무 많습니다”...K전력기기, 하반기 수주 스케쥴도 빡빡하네",
-    "link": "https://www.mk.co.kr/news/business/12114133",
-    "published": "Sat, 01 Aug 2026 06:06:45 +09:00",
-    "fetched_at": "2026-08-01 06:58:37",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "전력기기",
-      "중공업",
-      "전력인프라"
-    ],
-    "keywords": [
-      "전력기기",
-      "AI",
-      "수주",
-      "노후 전력망",
-      "생산능력 확대"
-    ],
-    "reason": "글로벌 AI 수요 급증과 노후 전력망 교체 필요성이 맞물려 국내 전력기기 기업들의 수주가 폭발적으로 증가하고 있습니다. 이는 해당 기업들의 실적 호조와 생산 능력 확대로 이어질 것입니다.",
-    "action_point": "전력기기 섹터 투자 비중 확대를 고려하라."
   }
 ]
