@@ -1,5 +1,52 @@
 [
   {
+    "source": "CNBC_World",
+    "title": "Trump says Exxon and Chevron made 'too much money' off high oil prices during Iran conflict: 'I don't like it'",
+    "title_ko": "트럼프, 이란 분쟁 중 정유사들이 '너무 많은 돈' 벌었다며 비판: '마음에 들지 않는다'",
+    "link": "https://www.cnbc.com/2026/08/03/trump-says-exxon-and-chevron-made-too-much-money-off-high-oil-prices-during-iran-conflict-i-dont-like-it.html",
+    "published": "Mon, 03 Aug 2026 19:19:33 GMT",
+    "fetched_at": "2026-08-04 04:20:10",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지"
+    ],
+    "keywords": [
+      "트럼프",
+      "석유",
+      "정유사",
+      "지정학",
+      "인플레이션"
+    ],
+    "reason": "트럼프의 발언은 향후 잠재적 정책 방향을 시사하며, 지정학적 갈등 시 정유사 이익에 대한 규제 및 압력 가능성을 높여 에너지 섹터에 정치적 불확실성을 가중시킨다. 이는 유가 흐름에도 간접적인 영향을 미칠 수 있다.",
+    "action_point": "미국 대선 결과 및 에너지 정책 변화 가능성을 주시하며, 대형 정유사 등 에너지 관련 자산 비중 조정 여부를 검토."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "Hugging Face CEO says China is winning the AI race and dominating on open models",
+    "title_ko": "Hugging Face CEO, 중국이 AI 경쟁에서 승리하고 오픈 모델을 지배하고 있다고 언급",
+    "link": "https://www.cnbc.com/2026/08/03/hugging-face-china-ai-race-open-models.html",
+    "published": "Mon, 03 Aug 2026 17:28:17 GMT",
+    "fetched_at": "2026-08-04 04:19:56",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "인공지능 소프트웨어",
+      "반도체 (AI 칩)",
+      "클라우드 컴퓨팅",
+      "기술주 (빅테크)"
+    ],
+    "keywords": [
+      "AI",
+      "중국",
+      "오픈소스 AI",
+      "기술 경쟁",
+      "산업 패권"
+    ],
+    "reason": "이 발언은 AI 기술 패권 경쟁에서 중국의 부상을 시사하며, 글로벌 AI 시장의 경쟁 심화와 미국 기술 기업들의 독점적 지위에 대한 도전으로 해석될 수 있다.",
+    "action_point": "미국 중심 AI 기술주 포트폴리오의 리스크를 재평가하고, 중국 AI 관련 기업으로의 투자 다각화를 모색하라."
+  },
+  {
     "source": "GoogleNews_Korea",
     "title": "현대전 새 표적된 AI 데이터센터…美·이란 전쟁서 5곳 피격 - 연합뉴스",
     "title_ko": "현대전 새 표적된 AI 데이터센터…美·이란 전쟁서 5곳 피격",
@@ -2840,48 +2887,5 @@
     ],
     "reason": "이는 후기 단계 비상장 기업에 대한 사모 시장의 유동성과 투자 접근성이 확대되고 있음을 보여줍니다. 특히 AI 분야의 높은 가치 평가와 투자 수요가 지속되고 있음을 시사합니다.",
     "action_point": "AI 및 고성장 기술 기업에 대한 사모 시장 투자 기회 모색 고려"
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "검찰 보완수사권 국회 통과…국힘 “이재명 대통령, 거부권 행사하라”",
-    "title_ko": "검찰 보완수사권 국회 통과…국힘 “이재명 대통령, 거부권 행사하라”",
-    "link": "https://www.mk.co.kr/news/society/12114001",
-    "published": "Fri, 31 Jul 2026 22:38:39 +09:00",
-    "fetched_at": "2026-08-01 04:09:44",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [],
-    "keywords": [
-      "정치",
-      "국회",
-      "법안",
-      "검찰",
-      "거부권"
-    ],
-    "reason": "이번 뉴스는 국내 정치 및 사법 시스템 관련 논쟁으로, 거시 경제 펀더멘털이나 주요 자산 시장(주식, 금리, 환율 등)에 직접적이고 즉각적인 영향을 미치기는 어렵습니다. 단기적인 정치적 불확실성은 존재하나, 투자 포트폴리오에 미치는 영향은 제한적입니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_Finance",
-    "title": "Why Situational Awareness hedge fund imploded, even in a tame stock market",
-    "title_ko": "온건한 주식 시장에서도 Situational Awareness 헤지펀드가 파산한 이유",
-    "link": "https://www.cnbc.com/2026/07/31/why-leopold-aschenbrenner-situational-awareness-hedge-fund-imploded.html",
-    "published": "Fri, 31 Jul 2026 16:14:54 GMT",
-    "fetched_at": "2026-08-01 02:20:38",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "자산운용",
-      "금융",
-      "기술주"
-    ],
-    "keywords": [
-      "헤지펀드",
-      "모멘텀 역전",
-      "마진콜",
-      "시장 변동성"
-    ],
-    "reason": "대규모 헤지펀드의 파산은 예상치 못한 모멘텀 역전과 마진콜로 인한 것으로, 시장의 잠재적 변동성 증가와 유사 전략을 사용하는 펀드들의 리스크 관리에 대한 경각심을 높일 것입니다.",
-    "action_point": "현재 포트폴리오 내 모멘텀 중심 전략 또는 고변동성 자산 비중을 점검하고 유동성 확보를 고려하십시오."
   }
 ]
