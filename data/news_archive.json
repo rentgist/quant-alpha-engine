@@ -1,6 +1,80 @@
 [
   {
     "source": "CNBC_Finance",
+    "title": "California's diesel prices have jumped since the Iran war started, with ripple effects across the country",
+    "title_ko": "이란 전쟁 시작 이후 캘리포니아 디젤 가격 급등, 전국적 파급 효과 예상",
+    "link": "https://www.cnbc.com/2026/08/03/californias-diesel-prices-have-jumped-since-the-iran-war-started-with-ripple-effects-across-the-country.html",
+    "published": "Mon, 03 Aug 2026 15:27:52 GMT",
+    "fetched_at": "2026-08-04 00:38:05",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "운송/물류",
+      "소비재",
+      "제조업"
+    ],
+    "keywords": [
+      "디젤 가격",
+      "에너지",
+      "물류",
+      "인플레이션",
+      "지정학적 리스크"
+    ],
+    "reason": "이란 전쟁으로 인한 캘리포니아 디젤 가격 급등은 미국 전역의 물류 및 운송 비용을 상승시키고, 이는 상품 가격 인상으로 이어져 인플레이션 압력을 가중시킬 것입니다.",
+    "action_point": "에너지 관련 자산 비중을 확대하고, 운송 비용 민감 섹터 비중 축소를 검토하라."
+  },
+  {
+    "source": "CNBC_Finance",
+    "title": "Visa to buy cybersecurity firm BioCatch for $2.4 billion amid surge in AI-powered scams",
+    "title_ko": "비자, AI 기반 사기 급증 속 사이버보안 기업 바이오캐치 24억 달러에 인수",
+    "link": "https://www.cnbc.com/2026/08/03/visa-buys-biocatch-fraud-detection.html",
+    "published": "Mon, 03 Aug 2026 14:11:17 GMT",
+    "fetched_at": "2026-08-04 00:38:12",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "금융 서비스",
+      "사이버보안",
+      "핀테크"
+    ],
+    "keywords": [
+      "Visa",
+      "BioCatch",
+      "사이버보안",
+      "AI 사기",
+      "M&A",
+      "결제 시스템"
+    ],
+    "reason": "비자(Visa)의 사이버보안 기업 인수는 AI 기반 사기 위협 증가에 대응하며 결제 시스템의 안정성 강화에 기여할 것입니다. 이는 핀테크 산업 전반에 걸쳐 보안 솔루션의 중요성이 커지고 있음을 시사합니다.",
+    "action_point": "글로벌 핀테크 및 사이버보안 섹터 내 우량기업에 대한 투자 비중 확대를 검토하십시오."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "Amazon tops $3 trillion market cap as stock continues post-earnings surge",
+    "title_ko": "아마존, 실적 발표 후 주가 상승세 이어가며 시가총액 3조 달러 돌파",
+    "link": "https://www.cnbc.com/2026/08/03/amazon-amzn-stock-market-cap-earnings.html",
+    "published": "Mon, 03 Aug 2026 15:35:00 GMT",
+    "fetched_at": "2026-08-04 00:38:31",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "기술주",
+      "전자상거래",
+      "클라우드 컴퓨팅"
+    ],
+    "keywords": [
+      "아마존",
+      "시가총액",
+      "빅테크",
+      "주가상승",
+      "실적"
+    ],
+    "reason": "아마존의 시가총액 3조 달러 돌파는 빅테크 기업들의 견고한 실적과 성장성에 대한 시장의 강한 신뢰를 보여줍니다. 이는 전반적인 기술주 강세와 시장 낙관론을 지지할 수 있습니다.",
+    "action_point": "글로벌 빅테크 성장주에 대한 투자 비중을 유지하라."
+  },
+  {
+    "source": "CNBC_Finance",
     "title": "Tourism price wars threaten to dim a rare bright spot in China's consumer spending",
     "title_ko": "관광 가격 전쟁, 중국 소비 지출의 드문 '밝은 점'마저 위협",
     "link": "https://www.cnbc.com/2026/08/03/china-price-demand-tourism-hotel.html",
@@ -2806,81 +2880,5 @@
     ],
     "reason": "주요 기술 기업들이 AI 인프라 구축에 막대한 투자를 하며 현금 흐름이 악화되고 메모리 비용이 급증하고 있다. 이는 AI 경쟁 심화에 따른 자본 지출 부담 증가를 시사하며, 단기적으로 기술 기업의 수익성 압박으로 작용할 수 있다.",
     "action_point": "AI 인프라 구축 비용 증가로 인한 대형 기술 기업의 현금 흐름 악화 가능성을 고려하여 관련 주식 비중 축소를 검토하라."
-  },
-  {
-    "source": "CNBC_Finance",
-    "title": "How Leopold Aschenbrenner built a $45 billion AI hedge fund — and lost most of it in days",
-    "title_ko": "레오폴드 아셴브레너, 450억 달러 규모 AI 헤지펀드를 만들었지만 며칠 만에 대부분을 잃다",
-    "link": "https://www.cnbc.com/2026/07/31/leopold-aschenbrenner-situational-awareness-fund-fire-sale.html",
-    "published": "Fri, 31 Jul 2026 14:44:44 GMT",
-    "fetched_at": "2026-08-01 00:55:11",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "인공지능",
-      "기술주",
-      "헤지펀드"
-    ],
-    "keywords": [
-      "AI 헤지펀드",
-      "레오폴드 아셴브레너",
-      "급락",
-      "기술주",
-      "변동성"
-    ],
-    "reason": "이 뉴스는 AI 관련 투자에 대한 과도한 낙관론에 경종을 울리며, 고성장 기술 섹터의 극심한 변동성과 잠재적 하방 위험을 부각시킵니다.",
-    "action_point": "AI 관련 기술주 포트폴리오의 변동성 위험을 점검하고, 이익 실현 또는 리밸런싱을 고려하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "[기고]‘호르무즈 전쟁’이 보여준 ‘전략적 지속능력과 질서관리 경쟁’의 시대…김태준의 美·이란戰 중계 - 문화일보",
-    "title_ko": "[기고]‘호르무즈 전쟁’이 보여준 ‘전략적 지속능력과 질서관리 경쟁’의 시대…김태준의 美·이란戰 중계",
-    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9jRmx5dzRubmU3MEZLakI1cWg4a3VmWG04RzVBMDNhME1vbWY1RTJXQXNtSk1vTE5UMGhhUC11UDNqUWtTYTFMRW1VSTlzQkw4?oc=5",
-    "published": "Fri, 31 Jul 2026 12:33:12 GMT",
-    "fetched_at": "2026-07-31 22:42:06",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "원자재",
-      "해운",
-      "방산",
-      "항공",
-      "보험"
-    ],
-    "keywords": [
-      "호르무즈 해협",
-      "미국-이란 갈등",
-      "지정학적 위험",
-      "유가",
-      "해상 운송"
-    ],
-    "reason": "호르무즈 해협은 전 세계 원유 공급의 핵심 통로로, 이곳에서의 전쟁이나 긴장 고조는 국제 유가 폭등을 야기하고 해상 운송에 심각한 차질을 초래하여 글로벌 경제 전반에 악영향을 미치며 시장의 변동성을 확대시킬 수 있습니다.",
-    "action_point": "국제유가 상승 위험에 대비해 에너지 관련 익스포저를 점검하고, 지정학적 리스크 헷지 수단(예: 방산주)을 고려하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "사우디, 이란 대리세력 공격…이라크·홍해로 번지는 이란 전쟁 - 재외동포신문",
-    "title_ko": "사우디, 이란 대리세력 공격…이라크·홍해로 번지는 이란 전쟁",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SazdkRE9YMGQyMmw5TFJRdERBdXNmQ3huR05oUVE4LVotdTBDQkxYT3lCdjl2bnA5SEdqLWZudlk2SUwzNVBjSUFjT1FPVHNzQkxuVGhyekNUQm9vQ2JNTVNRR1YwczY3YXM3cQ?oc=5",
-    "published": "Fri, 31 Jul 2026 10:32:20 GMT",
-    "fetched_at": "2026-07-31 22:42:13",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "에너지",
-      "해운",
-      "방산"
-    ],
-    "keywords": [
-      "사우디",
-      "이란",
-      "중동",
-      "지정학",
-      "홍해",
-      "유가",
-      "해상운송"
-    ],
-    "reason": "중동 지정학적 긴장 고조는 국제 유가 상승 압력을 가하고, 홍해 지역의 해상 운송 차질 우려를 증폭시키며 글로벌 공급망 불안정을 야기할 수 있습니다. 이는 전반적인 시장 위험 회피 심리를 강화할 것입니다.",
-    "action_point": "중동 지정학적 리스크 관련 에너지, 해운 섹터 투자 비중 점검 및 유가 상승 방어 수단 고려."
   }
 ]
