@@ -1,6 +1,59 @@
 [
   {
     "source": "CNBC_World",
+    "title": "U.S., Japan confirm coordinated yen intervention, signal readiness for more",
+    "title_ko": "미국과 일본, 공동 엔화 개입 확인 및 추가 개입 준비 시사",
+    "link": "https://www.cnbc.com/2026/08/03/yen-intervention-us-japan-trump-bessent-katayama.html",
+    "published": "Mon, 03 Aug 2026 00:59:33 GMT",
+    "fetched_at": "2026-08-03 10:54:18",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "외환",
+      "수출"
+    ],
+    "keywords": [
+      "엔화",
+      "환율 개입",
+      "미국",
+      "일본",
+      "통화 정책",
+      "외환 시장 안정"
+    ],
+    "reason": "미국과 일본의 공동 엔화 매수 개입은 엔화 약세 압력을 완화하고 외환 시장의 변동성을 줄여 안정화에 기여할 것이다. 이는 글로벌 금융 시장의 불확실성을 일부 해소하는 요인으로 작용한다.",
+    "action_point": "달러 대비 엔화 강세가 원화에 미칠 상대적 영향을 고려하여 환 노출 자산의 비중을 점검하라."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "CNBC Daily Open: Markets exhale as Trump steps back, OPEC+ steps up",
+    "title_ko": "CNBC 데일리 오픈: 트럼프의 철회와 OPEC+ 증산에 시장 안도",
+    "link": "https://www.cnbc.com/2026/08/03/trump-ceasefire-nuclear-deal-strait-of-hormuz-opec-oil-output-.html",
+    "published": "Mon, 03 Aug 2026 01:02:45 GMT",
+    "fetched_at": "2026-08-03 10:54:27",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "항공",
+      "운송",
+      "소비재",
+      "정유",
+      "에너지",
+      "증시 전반"
+    ],
+    "keywords": [
+      "트럼프",
+      "이란",
+      "OPEC+",
+      "유가",
+      "지정학",
+      "증산",
+      "증시"
+    ],
+    "reason": "트럼프의 이란 공습 취소와 OPEC+의 증산 결정으로 유가 내 전쟁 프리미엄이 제거되어 하락했고, 이는 글로벌 지정학적 긴장 완화 및 에너지 비용 감소로 전반적인 증시 상승을 견인할 것이다.",
+    "action_point": "유가 하락 수혜가 예상되는 항공, 운송, 소비재 섹터 비중 확대를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
     "title": "Oil drops over 4% after Trump calls off planned strike on Iran",
     "title_ko": "트럼프, 이란 공습 계획 철회 후 유가 4% 이상 하락",
     "link": "https://www.cnbc.com/2026/08/03/oil-prices-today-wti-brent-hormuz-trump-iran.html",
@@ -2831,56 +2884,5 @@
     ],
     "reason": "한국 경제의 반도체 의존도를 넘어선 장기적인 성장 전략 모색의 필요성을 강조하며, 향후 경제 정책 방향과 산업 구조 변화 가능성을 시사한다.",
     "action_point": "향후 국내 경제의 산업 다변화 정책 추진 가능성을 주시하고, 반도체 외 신성장 동력 섹터 발굴을 검토하라."
-  },
-  {
-    "source": "CNBC_Finance",
-    "title": "Stocks making the biggest moves after hours: Apple, Amazon, Rivian, Reddit & more",
-    "title_ko": "시간 외 거래에서 가장 큰 움직임을 보인 주식: 애플, 아마존, 리비안, 레딧 외",
-    "link": "https://www.cnbc.com/2026/07/30/stocks-making-the-biggest-moves-after-hours-aapl-amzn-rivn-rddt-.html",
-    "published": "Thu, 30 Jul 2026 21:23:11 GMT",
-    "fetched_at": "2026-07-31 08:54:39",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "기술",
-      "전자상거래",
-      "자동차",
-      "소셜 미디어"
-    ],
-    "keywords": [
-      "시간 외 거래",
-      "주식 변동성",
-      "개별주식",
-      "빅테크",
-      "전기차"
-    ],
-    "reason": "시간 외 개별 주식의 등락을 보고하는 기사로, 특정 종목의 단기적인 변동성을 나타내지만, 거시경제 전반이나 광범위한 시장 추세에 미치는 직접적인 영향은 제한적입니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Amazon hikes 2026 capex to $220 billion due to higher memory costs",
-    "title_ko": "아마존, 메모리 비용 상승으로 2026년 CAPEX 2,200억 달러로 증액",
-    "link": "https://www.cnbc.com/2026/07/30/amazon-amzn-q2-earnings-report-2026.html",
-    "published": "Thu, 30 Jul 2026 21:31:31 GMT",
-    "fetched_at": "2026-07-31 07:03:41",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "기술",
-      "반도체",
-      "클라우드 컴퓨팅",
-      "데이터센터"
-    ],
-    "keywords": [
-      "아마존",
-      "AWS",
-      "CAPEX",
-      "메모리",
-      "클라우드",
-      "반도체"
-    ],
-    "reason": "아마존의 클라우드(AWS) 사업 호조와 CAPEX 증액은 AI 및 클라우드 서비스 수요의 강력한 성장을 시사하며, 이는 메모리 반도체 등 관련 부품 및 장비 시장에 긍정적인 파급 효과를 가져올 것이다.",
-    "action_point": "메모리 반도체 섹터 비중 확대 검토"
   }
 ]
