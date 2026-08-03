@@ -1,6 +1,81 @@
 [
   {
     "source": "CNBC_World",
+    "title": "Why the U.S. stepped in after decades to prop up Japan's yen — and what's at stake",
+    "title_ko": "미국이 수십 년 만에 일본 엔화 지지를 위해 나선 이유 — 그리고 무엇이 위태로운가",
+    "link": "https://www.cnbc.com/2026/08/03/japan-yen-intervention-us-treasurys-euros-.html",
+    "published": "Mon, 03 Aug 2026 04:36:53 GMT",
+    "fetched_at": "2026-08-03 14:33:18",
+    "sentiment": "호재",
+    "importance": 5,
+    "sectors": [
+      "환율",
+      "수출주",
+      "금융주"
+    ],
+    "keywords": [
+      "미국",
+      "일본",
+      "엔화",
+      "환율개입",
+      "공조",
+      "환율안정"
+    ],
+    "reason": "미국의 일본 엔화 지지 개입은 글로벌 외환 시장의 안정성을 높이고, 급격한 엔화 약세가 초래할 수 있는 금융 시스템 불안정을 방지하려는 의도로 해석됩니다.",
+    "action_point": "엔화 자산 보유자는 향후 엔화 강세 전환 가능성을 염두에 두고 포트폴리오를 점검하고, 국내 수출 경쟁 산업의 수혜 여부를 평가하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "[속보]트럼프 “내일 이란과 협상 시작···호르무즈 관련 합의 이뤄질 것” - 경향신문",
+    "title_ko": "트럼프 “내일 이란과 협상 시작···호르무즈 관련 합의 이뤄질 것”",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kX1RjTnVGcnBoVzh6T1FfWUF4ZGtrY2FQSGJMcWRVRW1mNWowWHM5dW5WS0Fla1ZFTEhwYTFVVk83R1VBUE8teFg4eTg4UFZ5dmZiYXoyNTdxQdIBX0FVX3lxTE5qX01fdTJjNDYtMXRWZ0U0TldsYjhYVFJYWldQM1VfWmF3WHVoRm1tSEpZb3RPdGZ6Z1BtNG9vOHRQazJWWTl5dWd0WXdYQWVKY0t3RFVTeHE4cXVDbnlB?oc=5",
+    "published": "Sun, 02 Aug 2026 22:51:00 GMT",
+    "fetched_at": "2026-08-03 14:33:35",
+    "sentiment": "호재",
+    "importance": 5,
+    "sectors": [
+      "원자재 (특히 유가)",
+      "해운",
+      "항공",
+      "정유/화학"
+    ],
+    "keywords": [
+      "트럼프",
+      "이란",
+      "호르무즈",
+      "협상",
+      "지정학",
+      "유가"
+    ],
+    "reason": "트럼프의 이란과의 협상 개시 및 호르무즈 합의 가능성 언급은 중동 지정학적 긴장 완화를 시사하며, 이는 글로벌 유가 안정화와 해상 운송 리스크 감소로 이어질 수 있습니다.",
+    "action_point": "중동 지정학적 리스크 완화로 인한 유가 하락 가능성에 대비해 에너지 관련 상품 및 정유주 투자 비중을 점검하라."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "'Winter is coming': Ukraine fears its toughest test since Russia's full-scale invasion",
+    "title_ko": "'겨울이 오고 있다': 우크라이나, 러시아 전면 침공 이후 가장 힘든 시험 직면 우려",
+    "link": "https://www.cnbc.com/2026/08/03/ukraine-russia-war-putin-zelenskyy-winter.html",
+    "published": "Mon, 03 Aug 2026 05:00:01 GMT",
+    "fetched_at": "2026-08-03 14:33:25",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "방산",
+      "농업"
+    ],
+    "keywords": [
+      "우크라이나",
+      "러시아",
+      "지정학적 리스크",
+      "미사일 공격",
+      "에너지"
+    ],
+    "reason": "우크라이나 전쟁의 격화는 지정학적 리스크를 고조시키며, 글로벌 에너지 및 농산물 가격 상승 압력을 가하고 전반적인 시장 투자 심리를 위축시킬 수 있습니다.",
+    "action_point": "지정학적 불확실성 증대에 대비하여 방산주 및 에너지 관련 상품 비중 확대를 검토하고, 안전자산 선호 심리에 주목하십시오."
+  },
+  {
+    "source": "CNBC_World",
     "title": "U.S., Japan confirm coordinated yen intervention, signal readiness for more",
     "title_ko": "미국과 일본, 공동 엔화 개입 확인 및 추가 개입 준비 시사",
     "link": "https://www.cnbc.com/2026/08/03/yen-intervention-us-japan-trump-bessent-katayama.html",
@@ -2813,76 +2888,5 @@
     ],
     "reason": "이 기사는 오후장 중 특정 대형 기술주, 소비재주, 금융주 등의 개별 주식 움직임을 나열할 뿐, 그 배경에 대한 정보가 없어 거시 경제적 관점에서 즉각적인 영향은 제한적입니다.",
     "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_Finance",
-    "title": "China’s U.S.-bound shipments fall in July after brief recovery, survey shows",
-    "title_ko": "설문조사: 중국의 대미 수출 물량, 일시적 회복세 후 7월 감소",
-    "link": "https://www.cnbc.com/2026/07/30/china-us-exports-drop.html",
-    "published": "Thu, 30 Jul 2026 22:01:01 GMT",
-    "fetched_at": "2026-07-31 08:54:30",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "제조업",
-      "해운/물류",
-      "원자재"
-    ],
-    "keywords": [
-      "중국",
-      "미국",
-      "수출",
-      "제조업",
-      "경기둔화",
-      "무역"
-    ],
-    "reason": "중국의 대미 수출 감소 및 제조업 활동 둔화는 글로벌 경기 둔화 우려를 증폭시키며, 원자재 수요 및 글로벌 공급망에 부정적인 영향을 미칠 수 있습니다.",
-    "action_point": "글로벌 경기 둔화 우려 확산에 따라 원자재 및 수출 의존도가 높은 기업의 비중 축소를 검토하십시오."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Nasdaq futures rise after strong rebound on Wall Street, Amazon surges after earnings: Live updates",
-    "title_ko": "월가 강력 반등 후 나스닥 선물 상승, 아마존 실적 발표 후 급등: 실시간 업데이트",
-    "link": "https://www.cnbc.com/2026/07/30/stock-market-today-live-updates.html",
-    "published": "Thu, 30 Jul 2026 23:29:07 GMT",
-    "fetched_at": "2026-07-31 08:54:46",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "기술",
-      "전자상거래",
-      "클라우드 컴퓨팅"
-    ],
-    "keywords": [
-      "나스닥",
-      "기술주",
-      "실적",
-      "시장 반등"
-    ],
-    "reason": "주요 기술 기업들의 호실적과 강력한 시장 반등은 투자자들의 성장주 신뢰 회복과 함께 광범위한 시장 분위기 개선을 시사합니다. 이는 기업 펀더멘털에 기반한 시장 회복 기대감을 높일 수 있습니다.",
-    "action_point": "미국 성장주 비중 확대 또는 관련 ETF 매수 검토"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "[조윤제 칼럼] 경제정책, 반도체 호황 너머를 보는 시각 가져야 - 중앙일보",
-    "title_ko": "[조윤제 칼럼] 경제정책, 반도체 호황 너머를 보는 시각 가져야",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1uUmhlRzhISFRwZVZPUGpyYXl1NmdaNHpDeGpGZWdURlBrNFA1MkFMMG5GcGY2WGFnVl9pVG4yRkJxc2oybTgyWDlzcjMwbmpYNXoybHNB?oc=5",
-    "published": "Thu, 30 Jul 2026 15:18:00 GMT",
-    "fetched_at": "2026-07-31 08:55:00",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "반도체",
-      "경제정책",
-      "IT"
-    ],
-    "keywords": [
-      "경제정책",
-      "반도체",
-      "산업다변화",
-      "장기전략"
-    ],
-    "reason": "한국 경제의 반도체 의존도를 넘어선 장기적인 성장 전략 모색의 필요성을 강조하며, 향후 경제 정책 방향과 산업 구조 변화 가능성을 시사한다.",
-    "action_point": "향후 국내 경제의 산업 다변화 정책 추진 가능성을 주시하고, 반도체 외 신성장 동력 섹터 발굴을 검토하라."
   }
 ]
