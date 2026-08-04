@@ -1,6 +1,29 @@
 [
   {
     "source": "CNBC_World",
+    "title": "McDonald's earnings beat estimates, chain announces new U.S. head to accelerate growth",
+    "title_ko": "맥도날드, 예상치 상회하는 실적 발표 및 미국 성장 가속화를 위한 신임 책임자 선임",
+    "link": "https://www.cnbc.com/2026/08/04/mcdonalds-mcd-q2-2026-earnings.html",
+    "published": "Tue, 04 Aug 2026 11:34:49 GMT",
+    "fetched_at": "2026-08-04 21:53:42",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "소비재",
+      "외식 산업"
+    ],
+    "keywords": [
+      "맥도날드",
+      "실적",
+      "소비재",
+      "경영진 교체",
+      "성장 전략"
+    ],
+    "reason": "맥도날드의 긍정적인 실적과 성장 전략은 개별 기업에 대한 호재이나, 거시 경제 전반이나 주요 투자 자산군에 미치는 직접적인 영향은 제한적이다. 소비재 섹터 내 특정 기업 동향을 보여준다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
     "title": "Trump warns Iran talks are ‘last chance’ to end war — oil prices rise as Tehran denies negotiations",
     "title_ko": "트럼프, 이란 협상이 전쟁 종식의 '마지막 기회' 경고 — 테헤란 협상 부인에 유가 상승",
     "link": "https://www.cnbc.com/2026/08/04/us-iran-war-trump-hormuz.html",
@@ -2839,27 +2862,5 @@
     ],
     "reason": "지난주 미국 증시가 연준 결정과 빅테크 실적이라는 핵심 동력을 바탕으로 반등에 성공했음을 확인시켜 주며, 시장의 강한 회복력을 시사한다.",
     "action_point": "미국 증시, 특히 빅테크 중심의 성장주에 대한 긍정적 시각을 유지하고 관련 투자 비중을 검토할 것."
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "“車사고 장기 치료는 심사받아야 한다”…‘도입 본격화’ 8주룰, 뭐길래",
-    "title_ko": "“車사고 장기 치료는 심사받아야 한다”…‘도입 본격화’ 8주룰, 뭐길래",
-    "link": "https://www.mk.co.kr/news/economy/12114295",
-    "published": "Sat, 01 Aug 2026 21:23:44 +09:00",
-    "fetched_at": "2026-08-01 22:03:08",
-    "sentiment": "호재",
-    "importance": 2,
-    "sectors": [
-      "보험",
-      "헬스케어"
-    ],
-    "keywords": [
-      "자동차보험",
-      "8주룰",
-      "보험금 누수",
-      "손해율 개선"
-    ],
-    "reason": "8주룰 도입으로 자동차보험의 과도한 장기 치료로 인한 보험금 누수가 줄어들어 보험사의 손해율이 개선될 것으로 예상됩니다. 이는 보험 섹터의 수익성 향상에 긍정적인 영향을 미칩니다.",
-    "action_point": "국내 보험 섹터의 펀더멘털 개선 가능성을 고려하여 투자 비중 상향을 검토."
   }
 ]
