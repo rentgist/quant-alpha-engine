@@ -1,5 +1,52 @@
 [
   {
+    "source": "CNBC_Finance",
+    "title": "Jeff Bezos just filed to sell $4 billion in Amazon. The shares are falling",
+    "title_ko": "제프 베이조스, 아마존 주식 40억 달러 매각 신고. 주가 하락",
+    "link": "https://www.cnbc.com/2026/08/04/jeff-bezos-just-filed-to-sell-4-billion-in-amazon-the-shares-are-falling.html",
+    "published": "Tue, 04 Aug 2026 16:14:49 GMT",
+    "fetched_at": "2026-08-05 02:29:25",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "기술주",
+      "성장주",
+      "전자상거래"
+    ],
+    "keywords": [
+      "제프 베이조스",
+      "아마존",
+      "주식 매각",
+      "차익실현"
+    ],
+    "reason": "아마존 창업자의 대규모 주식 매각은 최근 최고가를 경신한 기술주 전반에 대한 과열 및 차익실현 경계 심리를 자극하며 단기적인 조정을 유발할 수 있습니다. 이는 유동성 장세에서 성장주에 대한 투자심리 위축으로 이어질 가능성이 있습니다.",
+    "action_point": "기술주 및 성장주 섹터 포트폴리오의 단기 과열 여부를 점검하고, 보유 비중 축소 또는 분할 매도 전략을 검토."
+  },
+  {
+    "source": "CNBC_Finance",
+    "title": "Stocks making the biggest moves premarket: McDonald's, Caterpillar, Palantir, Merck & more",
+    "title_ko": "프리마켓에서 가장 큰 움직임을 보이는 주식들: 맥도날드, 캐터필러, 팔란티어, 머크 외",
+    "link": "https://www.cnbc.com/2026/08/04/stocks-making-the-biggest-moves-premarket-mcd-cat-pltr-mrk.html",
+    "published": "Tue, 04 Aug 2026 11:42:17 GMT",
+    "fetched_at": "2026-08-05 02:29:34",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "소비재",
+      "산업재",
+      "기술",
+      "헬스케어"
+    ],
+    "keywords": [
+      "프리마켓",
+      "개별주식",
+      "미국 주식",
+      "변동성"
+    ],
+    "reason": "이 기사는 특정 개별 주식들의 프리마켓 움직임을 전달할 뿐, 해당 움직임의 원인이나 거시경제적 의미를 제시하지 않아 시장 전반에 미칠 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "CNBC_World",
     "title": "Bessent says there may be deal Tuesday or Wednesday to open Strait of Hormuz with 'freedom of movement'",
     "title_ko": "재무장관, 호르무즈 해협 '자유로운 통행' 합의 화요일 또는 수요일 가능성 시사",
@@ -2826,56 +2873,5 @@
     ],
     "reason": "1조원대 KDB생명 매각 본입찰은 국내 보험 및 금융 산업 내 구조조정과 재편이 지속되고 있음을 보여줍니다. 이는 장기적으로 산업 효율성 증대 가능성을 시사합니다.",
     "action_point": "국내 보험 섹터의 투자 전략 및 포트폴리오 비중을 재검토하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "남미선 FTA·희토류 외교 성과냈는데…국내선 다섯 글자 요구받는 李",
-    "title_ko": "남미선 FTA·희토류 외교 성과냈는데…국내선 다섯 글자 요구받는 李",
-    "link": "https://www.mk.co.kr/news/politics/12114301",
-    "published": "Sat, 01 Aug 2026 22:29:19 +09:00",
-    "fetched_at": "2026-08-02 02:53:49",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "첨단 산업",
-      "수출주",
-      "증시 전반"
-    ],
-    "keywords": [
-      "이재명",
-      "남미",
-      "FTA",
-      "희토류",
-      "공급망",
-      "개헌",
-      "정치 리스크",
-      "외교 성과"
-    ],
-    "reason": "희토류 공급망 확보 및 FTA 개선 등 대외 경제적 성과는 긍정적이나, 국내 정치권의 대통령 연임 개헌 논의는 정책 불확실성을 높여 국내 자산의 리스크 프리미엄을 확대시킬 수 있다.",
-    "action_point": "국내 정치 불확실성 증대에 따른 원화 약세 및 증시 변동성 확대 가능성에 대비하여 달러 자산 비중 확대를 고려하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "“일본 어딜 가든지 한국어가 들려요”…주요 여행 플랫폼 검색 1위 싹쓸이",
-    "title_ko": "“일본 어딜 가든지 한국어가 들려요”…주요 여행 플랫폼 검색 1위 싹쓸이",
-    "link": "https://www.mk.co.kr/news/world/12114304",
-    "published": "Sat, 01 Aug 2026 22:50:31 +09:00",
-    "fetched_at": "2026-08-02 01:49:33",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "여행",
-      "항공",
-      "소비재"
-    ],
-    "keywords": [
-      "해외여행",
-      "일본여행",
-      "고물가",
-      "고환율",
-      "여행플랫폼"
-    ],
-    "reason": "고물가와 고환율이 지속되는 상황에서도 한국인의 해외여행 수요, 특히 근거리 일본 여행이 견조하게 유지되고 있어 소비 심리 중 레저 부문의 견고함을 시사합니다.",
-    "action_point": "해외여행 수요 강세 지속에 따라 항공 및 온라인 여행 플랫폼 섹터 투자 비중 확대를 검토하라."
   }
 ]
