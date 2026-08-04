@@ -1,6 +1,27 @@
 [
   {
     "source": "CNBC_World",
+    "title": "HSBC pretax profit beats estimates, boosted by higher net interest income and fees",
+    "title_ko": "HSBC, 순이자수익 및 수수료 증가에 힘입어 세전 이익 예상치 상회",
+    "link": "https://www.cnbc.com/2026/08/04/hsbc-profit-beats-estimates-higher-net-interest-income-fees.html",
+    "published": "Tue, 04 Aug 2026 04:50:05 GMT",
+    "fetched_at": "2026-08-04 16:30:59",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "금융"
+    ],
+    "keywords": [
+      "HSBC",
+      "은행",
+      "실적",
+      "순이자수익"
+    ],
+    "reason": "HSBC의 예상치 상회 실적은 고금리 환경에서 은행권의 견조한 수익성을 시사하며, 이는 글로벌 금융 섹터 전반에 대한 투자 심리를 개선할 수 있다.",
+    "action_point": "고금리 환경의 수혜를 입는 글로벌 및 국내 은행 섹터에 대한 투자 비중 확대를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
     "title": "AI is helping Grab ship products more than 30% faster, CFO says, as company raises forecasts",
     "title_ko": "그랩 CFO, AI가 제품 배송 속도 30% 이상 향상시켜 실적 전망 상향 조정",
     "link": "https://www.cnbc.com/2026/08/04/grab-earnings-ai-forecast-cfo-.html",
@@ -2858,27 +2879,5 @@
     ],
     "reason": "이 기사는 야당이 현 정부의 금융 시장 관리, 특히 레버리지 ETF 및 코스피 변동성에 대해 비판하며 고위 관계자 경질 및 국정조사를 요구하는 내용입니다. 이는 금융 시장 관련 정책의 불확실성을 높일 수 있으나, 당장의 직접적인 시장 변동성보다는 정치적 논쟁에 가깝습니다.",
     "action_point": "레버리지 ETF 투자 포지션의 잠재적 규제 리스크를 점검."
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "[폭염스케치] 물총쏘고 동굴찾고 바다로…무더위에 휩싸인 대한민국",
-    "title_ko": "[폭염스케치] 물총쏘고 동굴찾고 바다로…무더위에 휩싸인 대한민국",
-    "link": "https://www.mk.co.kr/news/society/12114250",
-    "published": "Sat, 01 Aug 2026 15:32:49 +09:00",
-    "fetched_at": "2026-08-01 17:06:49",
-    "sentiment": "악재",
-    "importance": 2,
-    "sectors": [
-      "전력/가스",
-      "음료/식품",
-      "건설"
-    ],
-    "keywords": [
-      "폭염",
-      "전력수요",
-      "여름테마"
-    ],
-    "reason": "기록적인 폭염은 전력 수요 증가와 특정 소비재 판매 촉진으로 이어지나, 건설 등 야외 작업 생산성 저하 및 농업 분야 잠재적 피해로 전반적인 경제 활동에 부담을 줄 수 있습니다.",
-    "action_point": "국내 전력 및 냉방 관련 소비재 섹터 비중 확대 검토."
   }
 ]
