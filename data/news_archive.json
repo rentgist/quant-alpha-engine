@@ -1,5 +1,29 @@
 [
   {
+    "source": "CNBC_World",
+    "title": "SpaceX stock drops after first earnings report as AI costs soar: Live updates",
+    "title_ko": "SpaceX 주가, 첫 실적 보고 후 AI 비용 급증으로 하락: 실시간 업데이트",
+    "link": "https://www.cnbc.com/2026/08/04/spacex-spcx-earnings-live-updates-q2-2026.html",
+    "published": "Tue, 04 Aug 2026 23:08:44 GMT",
+    "fetched_at": "2026-08-05 08:56:07",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "우주 산업",
+      "인공지능",
+      "기술 섹터"
+    ],
+    "keywords": [
+      "SpaceX",
+      "AI 비용",
+      "주가 하락",
+      "스타링크",
+      "기술 투자"
+    ],
+    "reason": "이 뉴스는 선도적인 사기업조차도 AI 개발에 막대한 비용을 지출하며 재무적 압박을 받을 수 있음을 시사하며, 고성장 기술 및 우주 산업 전반의 기업 가치 평가에 대한 재고를 불러올 수 있습니다.",
+    "action_point": "AI 기술 개발 및 도입에 따른 비용 부담이 큰 기업의 투자 매력도를 재검토하라."
+  },
+  {
     "source": "CNBC_Finance",
     "title": "Michael Burry bets against rally: 'We are near a major top, and possible a 1987-type fall'",
     "title_ko": "마이클 버리, 랠리에 대한 베팅 철회: '우리는 주요 고점 근처에 있으며, 1987년과 같은 폭락 가능성도 있다'",
@@ -2845,28 +2869,5 @@
     ],
     "reason": "미국-이란 충돌 위험 고조로 중동 지정학적 리스크가 급격히 확대되며 유가 급등, 위험자산 회피 및 안전자산 선호 심화가 예상됩니다.",
     "action_point": "시장 변동성 확대에 대비하여 위험자산 비중을 축소하고 원유 및 달러, 금 등 안전자산 비중을 확대하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "美 경제, 소비 양극화 속 인플레이션 현상 뚜렷...\"韓 수출기업 투트랙 전략 수립해야\" - 더구루",
-    "title_ko": "美 경제, 소비 양극화 속 인플레이션 현상 뚜렷...\"韓 수출기업 투트랙 전략 수립해야\" - 더구루",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1OeUxSY19rdkxSem9nd3dEdUhaUnVHRzAwZS1fWDVBamM5M01jaWtCRGdHUDNuV0FiT0ttd0V6SW9oTElyUHlWWXZfaHNWSFpOTjFId1lZTnZDcHlBVk5LT0tDSQ?oc=5",
-    "published": "Sat, 01 Aug 2026 15:00:55 GMT",
-    "fetched_at": "2026-08-02 05:06:01",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "소비재",
-      "수출주"
-    ],
-    "keywords": [
-      "미국 경제",
-      "소비 양극화",
-      "인플레이션",
-      "수출 기업",
-      "투트랙 전략"
-    ],
-    "reason": "미국 소비 양극화와 인플레이션 심화는 한국 수출 기업들의 실적에 차별적인 영향을 미칠 수 있으며, 이는 특정 소비재 및 수출 관련 섹터의 투자심리에 부정적으로 작용할 수 있습니다. 미 연준의 통화정책 방향성에도 간접적 영향을 줄 수 있습니다.",
-    "action_point": "미국 소비 양극화와 인플레이션 심화에 따라 국내 수출 기업의 옥석 가리기 및 필수 소비재 비중 확대를 검토하라."
   }
 ]
