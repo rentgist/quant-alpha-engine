@@ -1,6 +1,76 @@
 [
   {
     "source": "CNBC_Finance",
+    "title": "Michael Burry bets against rally: 'We are near a major top, and possible a 1987-type fall'",
+    "title_ko": "마이클 버리, 랠리에 대한 베팅 철회: '우리는 주요 고점 근처에 있으며, 1987년과 같은 폭락 가능성도 있다'",
+    "link": "https://www.cnbc.com/2026/08/04/michael-burry-bets-against-rally-we-are-near-a-major-top.html",
+    "published": "Tue, 04 Aug 2026 20:43:15 GMT",
+    "fetched_at": "2026-08-05 06:02:40",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "전반적 시장",
+      "성장주",
+      "기술주"
+    ],
+    "keywords": [
+      "마이클 버리",
+      "약세장",
+      "시장 고점",
+      "시장 폭락",
+      "1987년 폭락"
+    ],
+    "reason": "마이클 버리의 극단적 약세 전망은 광범위한 시장 불안감을 증폭시키고 투자자들의 위험 회피 심리를 자극할 수 있습니다. 특히 성장주 중심의 현 랠리에 대한 경고로, 전반적인 주식 시장의 조정 압력이 커질 수 있습니다.",
+    "action_point": "투자 심리 위축 및 시장 전반의 조정 가능성에 대비하여 현금 비중 확대 또는 포트폴리오의 방어적 자산 편입을 고려해야 합니다."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "국제유가, 미·이란 협상 기대에 이틀째 급락…브렌트 5%↓ - v.daum.net",
+    "title_ko": "국제유가, 미·이란 협상 기대에 이틀째 급락…브렌트 5%↓",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE02dnFfSnJtNVNrTWJBMzFrNURsbWdKWjJQWXNEOEFQVzRJeHVheklWZFZEQ3FZY3dfMk9zSUVrYkJBZ1dIU2JCZ3JDcWxSNUU?oc=5",
+    "published": "Tue, 04 Aug 2026 19:25:39 GMT",
+    "fetched_at": "2026-08-05 06:02:59",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "항공",
+      "운송",
+      "화학",
+      "제조업"
+    ],
+    "keywords": [
+      "국제유가",
+      "미·이란 협상",
+      "유가 급락",
+      "인플레이션"
+    ],
+    "reason": "국제유가 하락은 글로벌 인플레이션 압력을 완화하고 한국과 같은 에너지 수입국 기업들의 비용 부담을 경감시켜 실질소득 및 기업 마진 개선에 긍정적 영향을 미칩니다. 이는 통화정책의 긴축 강도 완화 기대로 이어질 수 있습니다.",
+    "action_point": "항공, 운송, 화학 등 유가 하락 수혜 섹터에 대한 비중 확대를 검토하십시오."
+  },
+  {
+    "source": "CNBC_Finance",
+    "title": "Kalshi strikes partnership with compliance tech firm to help companies police insider trading",
+    "title_ko": "칼시, 기업 내부자 거래 감시 지원 위해 규제 준수 기술 기업과 제휴",
+    "link": "https://www.cnbc.com/2026/08/04/kalshi-makes-partnership-with-comply-compliance-tech-company.html",
+    "published": "Tue, 04 Aug 2026 12:05:41 GMT",
+    "fetched_at": "2026-08-05 06:02:48",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "핀테크",
+      "규제준수기술"
+    ],
+    "keywords": [
+      "칼시",
+      "내부자거래",
+      "규제준수",
+      "핀테크"
+    ],
+    "reason": "이 뉴스는 칼시와 컴플라이의 파트너십으로 내부자 거래 감시 역량 강화에 기여하겠지만, 개별 기업 이슈로 거시경제나 금융시장 전반에 미치는 영향은 제한적이며 특정 기술 섹터에만 국한됩니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_Finance",
     "title": "Jeff Bezos just filed to sell $4 billion in Amazon. The shares are falling",
     "title_ko": "제프 베이조스, 아마존 주식 40억 달러 매각 신고. 주가 하락",
     "link": "https://www.cnbc.com/2026/08/04/jeff-bezos-just-filed-to-sell-4-billion-in-amazon-the-shares-are-falling.html",
@@ -2798,80 +2868,5 @@
     ],
     "reason": "미국 소비 양극화와 인플레이션 심화는 한국 수출 기업들의 실적에 차별적인 영향을 미칠 수 있으며, 이는 특정 소비재 및 수출 관련 섹터의 투자심리에 부정적으로 작용할 수 있습니다. 미 연준의 통화정책 방향성에도 간접적 영향을 줄 수 있습니다.",
     "action_point": "미국 소비 양극화와 인플레이션 심화에 따라 국내 수출 기업의 옥석 가리기 및 필수 소비재 비중 확대를 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "中, 美신장 강제노동제재 반발…\"경제대화 하루만에 악의적 조치\" - 연합뉴스",
-    "title_ko": "中, 美신장 강제노동제재 반발…\"경제대화 하루만에 악의적 조치\"",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DYWN0R0RkbHJoQ2JnQmlHQzloVEhTelRabUYtY0dOYkVLM1VDOTIxdHR4cEc4UmVXZFpRRGNvQWR1OGJuV3RKR19xWERtLU9MNmlqU0lxdDZqVVAwYVRKVtIBYEFVX3lxTE1DYWN0R0RkbHJoQ2JnQmlHQzloVEhTelRabUYtY0dOYkVLM1VDOTIxdHR4cEc4UmVXZFpRRGNvQWR1OGJuV3RKR19xWERtLU9MNmlqU0lxdDZqVVAwYVRKVg?oc=5",
-    "published": "Sat, 01 Aug 2026 04:42:05 GMT",
-    "fetched_at": "2026-08-02 03:55:20",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "기술",
-      "제조업",
-      "반도체",
-      "해운/물류"
-    ],
-    "keywords": [
-      "미중 관계",
-      "신장",
-      "강제노동",
-      "제재",
-      "무역갈등",
-      "공급망"
-    ],
-    "reason": "미국과 중국 간 경제 대화 직후 제재 반발은 양국 갈등의 장기화 및 심화 가능성을 시사하며, 이는 글로벌 공급망 불안정성을 높이고 기업들의 투자 심리를 위축시킬 수 있습니다. 특히 기술 및 제조업 섹터에 대한 규제 불확실성을 가중시킬 것입니다.",
-    "action_point": "미중 갈등 심화에 따른 공급망 재편 및 기술 규제 위험 노출도가 높은 자산 비중 축소를 검토하십시오."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "그린란드, 경제 자립 인프라 구축 돌입…전략광물 가치 부상 - 더구루",
-    "title_ko": "그린란드, 경제 자립 인프라 구축 돌입…전략광물 가치 부상 - 더구루",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HX1NIWWI2YzRFR2dIWjdXUVJJX2E5TlZNY3FxbTdyWUU5M04ybVZySDRFSnZCTXF5Mi1hZmxMX205akVIUU1zRmJYWEd1d1FwdzBCOHVpRUE3TDJCV0E?oc=5",
-    "published": "Sat, 01 Aug 2026 15:00:31 GMT",
-    "fetched_at": "2026-08-02 03:55:12",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "원자재",
-      "광업",
-      "인프라",
-      "2차전지",
-      "반도체"
-    ],
-    "keywords": [
-      "그린란드",
-      "전략광물",
-      "희토류",
-      "자원 안보",
-      "인프라"
-    ],
-    "reason": "그린란드의 전략광물 기반 경제 자립 인프라 구축은 글로벌 희토류 등 핵심 광물 공급망에 중장기적 변화를 예고하며, 지정학적 자원 안보 경쟁 심화를 시사한다.",
-    "action_point": "전략광물 채굴 및 가공 관련 기업 또는 관련 ETF 투자 기회 모색"
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "이제 ‘진짜’들만 남는다…‘1조원대 매물’ KDB생명 새 주인은 [M&A복덕방]",
-    "title_ko": "이제 ‘진짜’들만 남는다…‘1조원대 매물’ KDB생명 새 주인은 [M&A복덕방]",
-    "link": "https://www.mk.co.kr/news/stock/12114298",
-    "published": "Sat, 01 Aug 2026 21:32:57 +09:00",
-    "fetched_at": "2026-08-02 03:55:31",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "보험",
-      "금융"
-    ],
-    "keywords": [
-      "KDB생명",
-      "M&A",
-      "생명보험",
-      "금융산업",
-      "인수합병"
-    ],
-    "reason": "1조원대 KDB생명 매각 본입찰은 국내 보험 및 금융 산업 내 구조조정과 재편이 지속되고 있음을 보여줍니다. 이는 장기적으로 산업 효율성 증대 가능성을 시사합니다.",
-    "action_point": "국내 보험 섹터의 투자 전략 및 포트폴리오 비중을 재검토하라."
   }
 ]
