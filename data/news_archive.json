@@ -1,5 +1,102 @@
 [
   {
+    "source": "CNBC_World",
+    "title": "SpaceX's earnings are not helping its stock, but Nvidia is getting a boost",
+    "title_ko": "스페이스X 실적 부진에도 엔비디아 주가는 상승세",
+    "link": "https://www.cnbc.com/2026/08/05/spacexs-earnings-are-not-helping-its-stock-but-nvidia-is-getting-a-boost.html",
+    "published": "Wed, 05 Aug 2026 16:55:34 GMT",
+    "fetched_at": "2026-08-06 02:21:22",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "반도체",
+      "클라우드/IT 인프라",
+      "기술주"
+    ],
+    "keywords": [
+      "하이퍼스케일러",
+      "설비투자",
+      "반도체",
+      "엔비디아",
+      "AI"
+    ],
+    "reason": "하이퍼스케일러들의 AI 및 클라우드 인프라 확장을 위한 대규모 설비투자가 지속되며, 이는 단기적으로 해당 기업들의 수익성에 부담이 될 수 있으나, 반도체 등 핵심 부품 공급업체들의 성장세를 더욱 가속화할 전망이다.",
+    "action_point": "AI 인프라 투자 확대 수혜를 받는 반도체 및 관련 기술주 비중 확대를 고려."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "[속보] 이란 \"오만과 호르무즈 항로 좌표 합의‥공동성명 조율 중\" - MBC 뉴스",
+    "title_ko": "[속보] 이란 \"오만과 호르무즈 항로 좌표 합의‥공동성명 조율 중\"",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ZQ3J3MUFGcnREY1M1YmRaWDRXVzZnSTRodzVnWkNsckFNYm9GV21MOGl6bTFkR1FYZ0hmVkYwa2l5d1Y5ZVMyWjZoZ3BLQldEa2pyVW1IREFnNWt1RmlqYVRyZi1VZkQ4R3pWWEkwbVlyRHN50gF0QVVfeXFMTTNrcDRkOWJsZmJ6c0xLejAtaTdhaWN2bGJQTVRFZldXa3FhVTdNV0NwZ1RPZnVtek04dmh6dGdXV0VKZlZIWGZlbXNrTGExMGpEQW5XRloxeTBRZUllSkZicF82YjJMeVVlSW82X2tqLTJyeFg?oc=5",
+    "published": "Wed, 05 Aug 2026 15:12:15 GMT",
+    "fetched_at": "2026-08-06 02:21:40",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "정유/석유화학",
+      "해운",
+      "에너지"
+    ],
+    "keywords": [
+      "이란",
+      "오만",
+      "호르무즈 해협",
+      "원유",
+      "유가",
+      "지정학",
+      "해운"
+    ],
+    "reason": "호르무즈 해협의 안정적인 운항 가능성이 높아져 글로벌 원유 공급망 불확실성을 완화하고 유가 상승 압력을 낮추는 데 기여할 수 있다. 이는 국제 해상 무역의 안정성에도 긍정적인 신호이다.",
+    "action_point": "국제 유가 하락 압력 증가 가능성에 대비하여 에너지 섹터 비중 조정을 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "Google's AI reshuffle: Chief scientist Jeff Dean exits and Demis Hassabis steps down as DeepMind CEO",
+    "title_ko": "구글 AI 조직 개편: 최고 과학자 제프 딘 퇴사 및 데미스 하사비스 딥마인드 CEO 사임",
+    "link": "https://www.cnbc.com/2026/08/05/google-chief-scientist-jeff-dean-leaving-company-after-27-years.html",
+    "published": "Wed, 05 Aug 2026 17:18:50 GMT",
+    "fetched_at": "2026-08-06 02:21:08",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "기술",
+      "인공지능",
+      "클라우드 컴퓨팅"
+    ],
+    "keywords": [
+      "Google",
+      "AI",
+      "조직 개편",
+      "인사 변동",
+      "DeepMind"
+    ],
+    "reason": "구글 핵심 AI 부문의 리더십 변화는 단기적으로 구글 AI 전략의 불확실성을 높일 수 있으나, 이는 AI 경쟁 심화 속 기업의 새로운 성장 동력 모색 과정으로 볼 수 있다.",
+    "action_point": "주요 AI 선두 기업의 리더십 변동에 따른 중장기 전략 변화를 분석하며 관련 기술주 포트폴리오 리스크를 재평가."
+  },
+  {
+    "source": "CNBC_Finance",
+    "title": "Stocks making the biggest moves premarket: SpaceX, AMD, Eli Lilly, Disney & more",
+    "title_ko": "프리마켓에서 가장 큰 움직임을 보이는 주식: SpaceX, AMD, Eli Lilly, Disney 외 다수",
+    "link": "https://www.cnbc.com/2026/08/05/stocks-making-the-biggest-moves-premarket-spcx-amd-lly-dis-more.html",
+    "published": "Wed, 05 Aug 2026 11:43:43 GMT",
+    "fetched_at": "2026-08-06 02:20:57",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "기술",
+      "반도체",
+      "헬스케어",
+      "미디어/엔터테인먼트"
+    ],
+    "keywords": [
+      "프리마켓",
+      "주식 움직임",
+      "개별 종목"
+    ],
+    "reason": "개별 기업들의 프리마켓 주가 움직임을 보도하는 단순 시장 동향 요약으로, 거시 경제 전반에 대한 직접적인 영향보다는 해당 기업 및 섹터에 대한 단기적 관심의 시그널입니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "CNBC_Finance",
     "title": "Situational Awareness hedge fund meltdown was a warning shot for leveraged markets, BofA CEO says",
     "title_ko": "BofA CEO, 시추에이셔널 어웨어니스 헤지펀드 붕괴는 레버리지 시장에 대한 경고라고 언급",
@@ -2768,101 +2865,5 @@
     ],
     "reason": "대통령이 순방 직후 부동산 및 주식시장 관련 비공개 회의를 소집하는 것은 해당 시장에 대한 정부의 적극적인 부양 의지를 시사하며, 관련 정책 변화에 대한 기대감을 높인다.",
     "action_point": "국내 부동산 및 증시 관련 정책 수혜 예상 섹터에 대한 투자 기회 점검."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Ukrainian drones kill two in Russia, strike Wildberries warehouse, governors say",
-    "title_ko": "우크라이나 드론, 러시아 내 2명 사망 및 와일드베리즈 창고 공격",
-    "link": "https://www.cnbc.com/2026/08/02/ukrainian-drones-kill-two-russia-governors-say.html",
-    "published": "Sun, 02 Aug 2026 12:06:04 GMT",
-    "fetched_at": "2026-08-02 22:00:10",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "방산",
-      "물류",
-      "보험"
-    ],
-    "keywords": [
-      "러시아-우크라이나 전쟁",
-      "지정학적 리스크",
-      "드론 공격",
-      "에너지 안보"
-    ],
-    "reason": "이 뉴스는 러시아 본토에 대한 우크라이나의 지속적인 공격을 보여주며, 이는 러시아-우크라이나 전쟁의 장기화 및 지정학적 리스크 심화를 시사합니다. 특히 러시아 내 주요 시설에 대한 타격은 에너지 시장 불안정성 및 국제 공급망 교란 가능성을 높일 수 있습니다.",
-    "action_point": "러시아-우크라이나 전쟁의 지정학적 리스크 심화에 대비, 에너지 및 방산 섹터 비중 유지 및 금(Gold) 등 안전자산 비중 확대를 검토하십시오."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "中엔 밀리고 美엔 앞섰다…韓 2분기 경제성장률 9위 - 아시아경제",
-    "title_ko": "中엔 밀리고 美엔 앞섰다…韓 2분기 경제성장률 9위",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PQ2pHZ1ZxOHZsemxGV3FfaEhBSHRNQVduQnFQMy1jUzY4cmhaWk9pNEJVcWpKdGQzSERubjdDTENNNzVOZE5ScU5HWDNDZE54Z0FsdnRNNjlVRHFqb043dw?oc=5",
-    "published": "Sun, 02 Aug 2026 09:07:11 GMT",
-    "fetched_at": "2026-08-02 20:55:07",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "거시경제 전반",
-      "수출 기업",
-      "내수 기업"
-    ],
-    "keywords": [
-      "경제성장률",
-      "2분기",
-      "한국 경제",
-      "글로벌 비교"
-    ],
-    "reason": "한국의 2분기 경제성장률이 주요국 대비 중위권에 위치하여 국내 경제의 완만한 회복세를 나타내지만, 강력한 성장 동력을 가진 국가들과는 차이가 있음을 시사합니다.",
-    "action_point": "국내 성장 모멘텀이 글로벌 중위권 수준임을 감안, 내수주 대비 수출 경쟁력 우위 기업 비중 확대를 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Trump cancels planned attack on Iran, saying he reached an agreement over the 'perimeters of a deal'",
-    "title_ko": "트럼프, 이란 공격 취소, '거래의 윤곽'에 대한 합의에 도달했다고 밝혀",
-    "link": "https://www.cnbc.com/2026/08/02/trump-planned-attack-on-iran-canceled-after-reaching-outline-of-deal.html",
-    "published": "Sun, 02 Aug 2026 10:18:35 GMT",
-    "fetched_at": "2026-08-02 19:26:14",
-    "sentiment": "호재",
-    "importance": 5,
-    "sectors": [
-      "에너지",
-      "방산",
-      "해운",
-      "글로벌 증시"
-    ],
-    "keywords": [
-      "이란",
-      "미국",
-      "트럼프",
-      "지정학",
-      "유가",
-      "갈등 완화"
-    ],
-    "reason": "미국과 이란 간 군사적 충돌 우려가 해소되면서 중동발 지정학적 리스크가 완화되었다. 이는 글로벌 금융시장의 불확실성을 낮추고 투자심리 개선 및 유가 안정화에 긍정적으로 작용할 것이다.",
-    "action_point": "글로벌 위험선호 심리 회복에 맞춰 주식 등 위험자산 비중 확대를 검토하고, 유가 하락에 따른 에너지 관련 투자 비중을 조정하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "AI가 불붙인 전력전쟁···핵융합 기업 CFS에 5조5000억원 몰렸다 - 헬로디디",
-    "title_ko": "AI가 불붙인 전력전쟁···핵융합 기업 CFS에 5조5000억원 몰렸다 - 헬로디디",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1TMEh1Q0huVHJkb3hOZzhXbUVfRFFQaVFzX0FuVzFZMWhVUFVMT3dmWmpWWU9YRWxJMHBaMVIyTGFwZnJ1aDduY1RlRS1EdXVNcWtpUTJvQS0wOVd4Q2tleVZyNVkzN2ZkakE?oc=5",
-    "published": "Sun, 02 Aug 2026 08:40:00 GMT",
-    "fetched_at": "2026-08-02 19:26:51",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "AI",
-      "전력 인프라"
-    ],
-    "keywords": [
-      "AI",
-      "전력",
-      "핵융합",
-      "투자"
-    ],
-    "reason": "인공지능(AI) 발전으로 인한 전력 수요 급증이 전력전쟁을 촉발하고 있으며, 핵융합 등 차세대 에너지 기술에 막대한 자본이 유입되고 있음을 시사합니다. 이는 AI 성장과 함께 에너지 전환 가속화에 대한 시장 기대를 반영합니다.",
-    "action_point": "AI 전력 수요 증대에 따른 전력 인프라 및 혁신 에너지 솔루션 관련 기업 투자 비중 확대를 검토하라."
   }
 ]
