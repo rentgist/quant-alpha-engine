@@ -1,5 +1,73 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "title": "트럼프, 이란전쟁 출구전략 놓고 험난한 선택지 직면 - 글로벌이코노믹",
+    "title_ko": "트럼프, 이란전쟁 출구전략 놓고 험난한 선택지 직면",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ2xlWDRUTlQwWmR6Y1l2M1RmYmt0d3RUN2wtTTVJb3liR1BhVG0xc3JobkQ2aDJBSVV3dTJPV1g4X0RkeDB0S0dzUkxFcHpqemtiMWptdjhrQy1CaDBpeDJqTFU0OW4tV2xRRVVCOXoxYmFLaVNJRWJibk93WXducVphYlAxb1E?oc=5",
+    "published": "Wed, 05 Aug 2026 16:00:00 GMT",
+    "fetched_at": "2026-08-06 07:10:58",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "에너지",
+      "국방/항공우주",
+      "해운/물류",
+      "금융"
+    ],
+    "keywords": [
+      "트럼프",
+      "이란",
+      "중동",
+      "지정학적 리스크",
+      "유가"
+    ],
+    "reason": "미국 전 대통령 트럼프의 이란 관련 언급은 중동 지역의 지정학적 리스크가 장기화되거나 재부상할 가능성을 시사합니다. 이는 국제유가에 상승 압력으로 작용하며, 글로벌 위험 선호 심리를 위축시킬 수 있습니다.",
+    "action_point": "중동 불안정성 심화에 대비하여 원유 및 방산 관련 자산의 비중 확대를 검토하라."
+  },
+  {
+    "source": "CNBC_Finance",
+    "title": "As Warsh and the Fed contemplate fewer meetings, markets brace for potential volatility ahead",
+    "title_ko": "워시와 연준이 회의 횟수 축소를 고려함에 따라 시장은 향후 잠재적 변동성에 대비",
+    "link": "https://www.cnbc.com/2026/08/05/as-warsh-and-the-fed-contemplate-fewer-meetings-markets-brace-for-potential-volatility-ahead.html",
+    "published": "Wed, 05 Aug 2026 19:21:24 GMT",
+    "fetched_at": "2026-08-06 07:10:39",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "전반적인 시장"
+    ],
+    "keywords": [
+      "연준",
+      "통화정책",
+      "시장 변동성",
+      "커뮤니케이션"
+    ],
+    "reason": "워시 이사가 연준의 회의 횟수 축소를 고려하는 것은 연준의 정책 기조 및 시장과의 소통 방식에 근본적인 변화를 예고하며, 이는 불확실성을 증폭시켜 시장 전반의 변동성을 높일 수 있습니다.",
+    "action_point": "시장 변동성 확대에 대비하여 포트폴리오의 방어적 자산 비중 확대 및 유동성 확보를 검토."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "Marc Benioff gets a new operating chief, as Salesforce promotes Miguel Milano",
+    "title_ko": "마크 베니오프, 세일즈포스 미겔 밀라노 승진시키며 새 최고운영책임자 선임",
+    "link": "https://www.cnbc.com/2026/08/05/marc-benioff-gets-a-new-coo-as-salesforce-promotes-miguel-milano-.html",
+    "published": "Wed, 05 Aug 2026 20:48:20 GMT",
+    "fetched_at": "2026-08-06 07:10:49",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "소프트웨어",
+      "클라우드 컴퓨팅"
+    ],
+    "keywords": [
+      "세일즈포스",
+      "미겔 밀라노",
+      "최고운영책임자",
+      "임원 승진"
+    ],
+    "reason": "세일즈포스 내부의 핵심 임원 승진 뉴스로, 회사 경영 효율성 및 성장 전략에 긍정적 영향을 미칠 수 있으나, 거시 경제 지표나 광범위한 시장 흐름에는 직접적인 영향이 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "CNBC_Finance",
     "title": "Fed Governor Cook says she's 'prepared to act' on rate hike to address inflation",
     "title_ko": "연준 이사 쿡, 인플레이션 대응 위해 금리 인상 '행동할 준비가 되어 있다' 발언",
@@ -2801,73 +2869,5 @@
     ],
     "reason": "미국 채권 시장의 매파적 움직임이 연준의 추가 금리 인상 또는 고금리 장기화에 대한 명분을 강화하며, 이는 글로벌 유동성 축소 및 위험자산에 대한 압박으로 이어질 것입니다.",
     "action_point": "금리 민감 주식 및 장기채 비중을 축소하고 달러 자산 보유를 확대하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "환갑 맞은 K뮤지컬...'국제 마켓 흥행' '브로드웨이 주연' - YTN",
-    "title_ko": "환갑 맞은 K뮤지컬...'국제 마켓 흥행' '브로드웨이 주연'",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9uRW1UWUdQV2xHdm1Xa0VKV0JDY1lIR3dndmsyOEFOMFVOZ3NMVFNpbVdNanNMeW9nTzk4Ty1vNzF5WmtfMGtPSDNWRk9MeUROOUo5T3V5RExEU29xNGc?oc=5",
-    "published": "Sun, 02 Aug 2026 14:32:00 GMT",
-    "fetched_at": "2026-08-03 05:06:57",
-    "sentiment": "호재",
-    "importance": 2,
-    "sectors": [
-      "엔터테인먼트",
-      "문화콘텐츠"
-    ],
-    "keywords": [
-      "K뮤지컬",
-      "문화콘텐츠",
-      "수출",
-      "브로드웨이"
-    ],
-    "reason": "K뮤지컬의 국제적 성공은 한국 문화 콘텐츠의 글로벌 경쟁력 강화와 수출 잠재력을 높이나, 거시경제나 주식시장 전반에 미치는 직접적인 영향은 제한적입니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Investors scored on Iran war's oil market boom. Staying long the trade will get trickier",
-    "title_ko": "이란 전쟁발 유가 급등으로 투자자들이 수익을 올렸으나, 이 거래를 장기 보유하는 것은 더 어려워질 것이다.",
-    "link": "https://www.cnbc.com/2026/08/02/oil-prices-iran-war-energy-market.html",
-    "published": "Sun, 02 Aug 2026 13:00:01 GMT",
-    "fetched_at": "2026-08-03 03:56:02",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "운송",
-      "화학"
-    ],
-    "keywords": [
-      "이란 전쟁",
-      "유가",
-      "원유 시장",
-      "변동성",
-      "에너지 투자"
-    ],
-    "reason": "미-이란 지정학적 긴장으로 인한 유가 변동성 심화는 단기적 투기 수익 기회는 줄고, 장기적으로는 유가 시장의 복합성과 다른 에너지 테마의 중요성을 부각한다.",
-    "action_point": "원유 관련 장기 포지션의 수익성 재평가 및 대체 에너지 테마 투자 기회 모색."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "'Spider-Man: Brand New Day' chases 'Avengers: Endgame' opening record with $355 million domestic debut",
-    "title_ko": "스파이더맨: 브랜드 뉴 데이, 개봉 첫 주말 3억 5,500만 달러 기록하며 '어벤져스: 엔드게임' 기록 추격",
-    "link": "https://www.cnbc.com/2026/08/02/spider-man-brand-new-day-box-office-355-million-domestic-opening.html",
-    "published": "Sun, 02 Aug 2026 15:54:05 GMT",
-    "fetched_at": "2026-08-03 03:55:51",
-    "sentiment": "호재",
-    "importance": 2,
-    "sectors": [
-      "미디어/엔터테인먼트",
-      "소비재(자유재)"
-    ],
-    "keywords": [
-      "스파이더맨",
-      "박스오피스",
-      "소비 지출",
-      "엔터테인먼트"
-    ],
-    "reason": "이 기사는 엔터테인먼트 섹터 내 특정 영화의 흥행 성공을 보여주며, 소비자들의 자유재 지출 수요가 여전히 강함을 시사합니다. 그러나 거시경제 전반이나 다른 투자 자산에 미칠 직접적인 영향은 제한적입니다.",
-    "action_point": "해당 없음"
   }
 ]
