@@ -1,6 +1,71 @@
 [
   {
     "source": "CNBC_World",
+    "title": "Private companies added just 44,000 workers in July, below expectations, ADP reports",
+    "title_ko": "ADP 보고서에 따르면 7월 민간 기업 일자리 4만 4천 개 증가, 예상치 하회",
+    "link": "https://www.cnbc.com/2026/08/05/private-companies-added-just-44000-workers-in-july-below-expectations-adp-reports.html",
+    "published": "Wed, 05 Aug 2026 12:29:19 GMT",
+    "fetched_at": "2026-08-05 21:48:30",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "기술주",
+      "성장주"
+    ],
+    "keywords": [
+      "미국 고용",
+      "금리 인상",
+      "경기 둔화",
+      "연준 정책"
+    ],
+    "reason": "7월 민간 고용 지표가 예상치를 크게 하회하며 미국 경제 둔화 가능성을 시사하고, 연준의 추가 금리 인상 기대감을 낮춰 위험 자산에 긍정적으로 작용할 수 있습니다.",
+    "action_point": "미국 연준의 금리 인상 사이클 종료 가능성에 대비하여 성장주 및 금리 민감 자산 비중 확대 검토"
+  },
+  {
+    "source": "CNBC_Finance",
+    "title": "Ken Griffin's Citadel posts best month in years after scooping up Situational Awareness stocks",
+    "title_ko": "켄 그리핀의 시타델, 시츄에이셔널 어웨어니스 주식 인수 후 수년 만에 최고 월간 수익 기록",
+    "link": "https://www.cnbc.com/2026/08/05/ken-griffins-citadel-posts-best-month-in-years-after-scooping-up-situational-awareness-stocks.html",
+    "published": "Wed, 05 Aug 2026 11:13:46 GMT",
+    "fetched_at": "2026-08-05 21:48:20",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [],
+    "keywords": [
+      "켄 그리핀",
+      "시타델",
+      "헤지펀드",
+      "수익률",
+      "기관 투자"
+    ],
+    "reason": "주요 헤지펀드의 성공적인 수익률 기록은 해당 기관의 투자 전략 및 시장 운용 능력에 대한 긍정적 신호이지만, 특정 시장의 방향성이나 개별 자산군에 대한 직접적인 투자 시그널을 제공하지는 않습니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "“폭염 키우며 전쟁으로 떼돈 ‘석유 공룡’, 기후위기 책임” - v.daum.net",
+    "title_ko": "“폭염 키우며 전쟁으로 떼돈 ‘석유 공룡’, 기후위기 책임”",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9VckFJaHBCOE5fMnhQdGFON1NrbEFoRWcwUDVqc2dDTmFpcWhZLVhhWWlWRzVQblk1MnQtZDBMWkF4bC1VLURHWlNZVHJPYzQ?oc=5",
+    "published": "Wed, 05 Aug 2026 11:58:09 GMT",
+    "fetched_at": "2026-08-05 21:48:43",
+    "sentiment": "악재",
+    "importance": 2,
+    "sectors": [
+      "에너지",
+      "정유/화학",
+      "친환경 에너지"
+    ],
+    "keywords": [
+      "기후위기",
+      "탄소중립",
+      "석유 기업",
+      "ESG"
+    ],
+    "reason": "기후위기와 전쟁으로 인한 석유 기업의 이익 증가에 대한 비판적 시각을 제시하며, 향후 에너지 정책 변화와 ESG 규제 강화 가능성을 시사합니다. 이는 장기적으로 화석연료 관련 기업에 부담으로 작용할 수 있습니다.",
+    "action_point": "전통 에너지 기업의 장기 ESG 리스크를 고려하여 투자 비중을 조절하고, 친환경 에너지 섹터 투자 기회를 탐색하라."
+  },
+  {
+    "source": "CNBC_World",
     "title": "Oil prices move higher after Yemen's Iran-backed Houthis claim Saudi tanker strike",
     "title_ko": "예멘 후티 반군, 사우디 유조선 공격 주장 후 유가 상승",
     "link": "https://www.cnbc.com/2026/08/05/oil-prices-iran-war-houthis-saudi-tanker.html",
@@ -2797,77 +2862,5 @@
     ],
     "reason": "기업형 경제외교는 특정 국가 및 기업의 해외 사업 확장을 국가 차원에서 지원하며, 이는 수출 증대와 해외 수주 가능성을 높여 관련 기업의 실적 개선 및 국가 경제 성장에 긍정적인 영향을 미칩니다.",
     "action_point": "수출 지향 산업 및 해외 프로젝트 수행 능력이 뛰어난 기업의 비중 확대를 검토하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "“삼전닉스 고점 언제냐고요?…영업이익률 정점 알면 보입니다”",
-    "title_ko": "삼전닉스 고점 언제냐고요?…영업이익률 정점 알면 보입니다",
-    "link": "https://www.mk.co.kr/news/stock/12114672",
-    "published": "Sun, 02 Aug 2026 18:40:26 +09:00",
-    "fetched_at": "2026-08-02 19:27:13",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "반도체",
-      "IT 하드웨어"
-    ],
-    "keywords": [
-      "반도체",
-      "영업이익률",
-      "고점",
-      "삼성전자",
-      "SK하이닉스",
-      "미국 금리"
-    ],
-    "reason": "주요 반도체 기업의 영업이익률 정점 시점 전망은 현재 반도체 랠리에 대한 피크아웃 우려를 높이며, 향후 주가 상승 모멘텀 둔화를 시사합니다. 미국 금리 및 빅테크 현금흐름이 주요 변수로 작용할 수 있습니다.",
-    "action_point": "반도체 섹터에 대한 추가 비중 확대는 유보하고, 현 보유 비중의 축소 시점을 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "[속보] 경남 양산 ‘42도’…국내 최고기온 기록 재경신 - KBS 뉴스",
-    "title_ko": "경남 양산 ‘42도’…국내 최고기온 기록 재경신",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBtNmRaOUVOcUw3Q05zckpMeC1BdlI2TXlEXzZHSkRJdXdJSXgwS1hUM1BYS2hzMDExRXpMQldCOTJWMnRmUVZjUzZyQTNoUjdYYWZiRVVEbFVfajQ?oc=5",
-    "published": "Sun, 02 Aug 2026 04:34:00 GMT",
-    "fetched_at": "2026-08-02 19:27:04",
-    "sentiment": "악재",
-    "importance": 2,
-    "sectors": [
-      "전력",
-      "가전",
-      "농업",
-      "음료"
-    ],
-    "keywords": [
-      "폭염",
-      "기후변화",
-      "전력수요",
-      "농업피해"
-    ],
-    "reason": "기록적인 폭염은 전력 및 냉방가전 수요를 증대시키지만, 농업 생산성 하락과 야외활동 위축으로 인한 전반적인 경제 활동 둔화 위험을 높입니다.",
-    "action_point": "전력 및 냉방가전 등 폭염 수혜 섹터 비중 확대를 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "[속보] '주말 대규모 이란 공격' 예고했던 트럼프 \"공격 보류···'합의의 틀' 동의 이뤄져\" - 대구MBC",
-    "title_ko": "[속보] '주말 대규모 이란 공격' 예고했던 트럼프 \"공격 보류···'합의의 틀' 동의 이뤄져\"",
-    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1CMlh6MUJlX1Z0ZmdwU3lzSWF0SUNkRzNMY3QzZ2pybFhob2pHLWJ1VkJ5UWVoTUxGMDZoUkVPNXFLZV9nTXQ5OGFPMEo?oc=5",
-    "published": "Sun, 02 Aug 2026 03:03:18 GMT",
-    "fetched_at": "2026-08-02 17:06:49",
-    "sentiment": "호재",
-    "importance": 5,
-    "sectors": [
-      "에너지",
-      "방산",
-      "전반적인 위험자산"
-    ],
-    "keywords": [
-      "트럼프",
-      "이란",
-      "지정학적 긴장 완화",
-      "유가",
-      "위험자산"
-    ],
-    "reason": "트럼프의 이란 공격 보류 발언은 중동 지정학적 긴장 완화를 시사하며, 이는 글로벌 유가 하방 압력 및 전반적인 위험자산 선호 심리 개선에 긍정적인 영향을 미칠 것입니다. 불확실성 감소로 시장 변동성이 줄어들 수 있습니다.",
-    "action_point": "중동 지정학적 리스크 완화에 따라 방산 섹터 비중 축소를 검토하고, 유가 하방 압력에 대비한 에너지 관련 포트폴리오 조정을 고려하라."
   }
 ]
