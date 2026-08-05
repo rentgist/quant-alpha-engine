@@ -1,6 +1,80 @@
 [
   {
     "source": "CNBC_World",
+    "title": "U.S. says Strait of Hormuz is 'free and open' as Bessent says deal with Iran is close",
+    "title_ko": "미국, 호르무즈 해협 '자유롭고 개방적'이라고 밝혀…베센트, 이란과의 협상 임박 시사",
+    "link": "https://www.cnbc.com/2026/08/05/us-iran-war-trump-hormuz-bessent-iran-deal-close.html",
+    "published": "Wed, 05 Aug 2026 01:26:27 GMT",
+    "fetched_at": "2026-08-05 10:43:16",
+    "sentiment": "호재",
+    "importance": 5,
+    "sectors": [
+      "에너지",
+      "해운"
+    ],
+    "keywords": [
+      "호르무즈 해협",
+      "이란",
+      "원유 공급",
+      "지정학적 리스크"
+    ],
+    "reason": "이란과의 협상 임박 및 호르무즈 해협의 안정화 소식은 중동 지정학적 리스크 완화와 잠재적인 원유 공급 증가를 시사하며, 이는 글로벌 유가 하락 압력으로 작용할 수 있다.",
+    "action_point": "유가 하락에 따른 에너지 관련 자산 비중 조정을 고려하라."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "S&P 500 futures are little changed after massive rally lifts index to fresh record: Live updates",
+    "title_ko": "S&P 500 선물, 대규모 랠리로 지수가 신기록 경신 후 소폭 변동: 실시간 업데이트",
+    "link": "https://www.cnbc.com/2026/08/04/stock-market-today-live-updates.html",
+    "published": "Wed, 05 Aug 2026 01:28:09 GMT",
+    "fetched_at": "2026-08-05 10:43:32",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "전반적 주식시장",
+      "기술주",
+      "성장주"
+    ],
+    "keywords": [
+      "S&P 500",
+      "신기록",
+      "주식 랠리",
+      "시장 강세",
+      "위험자산 선호"
+    ],
+    "reason": "S&P 500과 다우 지수의 사상 최고치 경신은 글로벌 주식시장의 강력한 투자 심리와 유동성 유입을 보여줍니다. 선물 시장의 소폭 변동은 단기적 숨고르기일 수 있으나, 전반적인 위험자산 선호 심리가 강화되는 신호로 해석됩니다.",
+    "action_point": "미국 주식 시장의 견조한 상승세 지속 가능성에 주목하며, 포트폴리오 내 성장주 및 기술주 비중 확대를 고려하라."
+  },
+  {
+    "source": "CNBC_Finance",
+    "title": "Stocks making the biggest moves after the bell: SpaceX, AMD, Pinterest, Arista Networks, Wynn Resorts & more",
+    "title_ko": "장 마감 후 가장 큰 변동을 보인 종목들: 스페이스X, AMD, 핀터레스트, 아리스타 네트웍스, 윈 리조트 외",
+    "link": "https://www.cnbc.com/2026/08/04/stocks-making-the-biggest-moves-after-the-bell-spcx-amd-pins-anet-wynn.html",
+    "published": "Tue, 04 Aug 2026 22:25:44 GMT",
+    "fetched_at": "2026-08-05 10:43:08",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "기술",
+      "반도체",
+      "소셜 미디어",
+      "네트워킹",
+      "카지노/레저"
+    ],
+    "keywords": [
+      "스페이스X",
+      "AMD",
+      "핀터레스트",
+      "아리스타 네트웍스",
+      "윈 리조트",
+      "장 마감 후",
+      "주식 변동"
+    ],
+    "reason": "이 기사는 장 마감 후 개별 기업들의 주가 변동을 나열한 것으로, 거시 경제나 주요 투자 자산 전반에 미치는 직접적인 영향은 제한적입니다. 개별 기업의 미공개 이슈로 인한 단기 변동으로 해석됩니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
     "title": "SpaceX stock drops after first earnings report as AI costs soar: Live updates",
     "title_ko": "SpaceX 주가, 첫 실적 보고 후 AI 비용 급증으로 하락: 실시간 업데이트",
     "link": "https://www.cnbc.com/2026/08/04/spacex-spcx-earnings-live-updates-q2-2026.html",
@@ -2797,77 +2871,5 @@
     ],
     "reason": "주요 수출기업들의 달러 매도에 힘입어 원/달러 환율이 1600원대 위기에서 진정되며 시장 불안감이 완화되고 있다. 이는 수입 물가 안정과 국내 금융시장 안정화에 긍정적으로 작용할 수 있다.",
     "action_point": "원/달러 환율 안정화로 인한 수입 물가 하락 수혜 업종(예: 항공, 유틸리티, 소비재)에 대한 비중 확대를 검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "샌프란 AI동맹·외교다변화…경제질서 격랑에 李대통령 해법찾기 - 매일경제 마켓",
-    "title_ko": "샌프란 AI동맹·외교다변화…경제질서 격랑에 李대통령 해법찾기 - 매일경제 마켓",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA0RFVQd05YS01MQ0lKR1B2ajg1SS1ZMnFZWldxa1lOV1RuQTJXUTJPM2s1UThfQWFxdUw3dlRueGNWbnVwMy1RX2ZEaW5XTzdELVE?oc=5",
-    "published": "Sat, 01 Aug 2026 20:30:00 GMT",
-    "fetched_at": "2026-08-02 06:45:13",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "AI",
-      "기술",
-      "반도체"
-    ],
-    "keywords": [
-      "AI동맹",
-      "외교다변화",
-      "경제질서",
-      "이대통령",
-      "국가전략"
-    ],
-    "reason": "이 뉴스는 대한민국이 글로벌 경제 질서 재편에 대응하여 AI 산업 육성 및 외교 다변화를 통해 미래 성장 동력 확보와 리스크 분산을 모색하고 있음을 보여줍니다.",
-    "action_point": "국내 AI 및 기술 혁신 섹터의 장기 투자 매력도를 재평가하고 관련 기업 편입을 검토하라."
-  },
-  {
-    "source": "CNBC_Finance",
-    "title": "Goldman traders are on pace for a record year. A close-up look at how they're doing it",
-    "title_ko": "골드만삭스 트레이더들, 사상 최고 실적 달성 전망: 그 비결 심층 분석",
-    "link": "https://www.cnbc.com/2026/08/01/goldman-traders-are-on-pace-for-a-record-year-a-close-up-look-at-how-theyre-doing-it.html",
-    "published": "Sat, 01 Aug 2026 20:22:15 GMT",
-    "fetched_at": "2026-08-02 06:45:04",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "금융",
-      "증권"
-    ],
-    "keywords": [
-      "골드만삭스",
-      "주식 시장",
-      "트레이딩",
-      "시장 분석",
-      "투자 은행"
-    ],
-    "reason": "이 기사는 골드만삭스 트레이딩 부문의 호실적을 통해 현 시장의 역동성을 보여주며, 주요 투자 은행의 시장 분석 관점을 엿볼 수 있게 한다. 이는 주식 시장 전반의 거래 활동이 활발하고 특정 기회를 포착하는 것이 가능하다는 신호로 해석될 수 있다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "“미국, 이란 에너지시설 주말에 공습계획”…전쟁 격화 가능성 - v.daum.net",
-    "title_ko": "“미국, 이란 에너지시설 주말에 공습계획”…전쟁 격화 가능성",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE01SVo4R2ExMTdobllMQ1ZubGp2OW1IWVlPOUJqODVUNGtGY1BTTHROYUlpN3h4TjJ0VDNvN0FCUHI1S3BYREY0aGMyb2Ywd28?oc=5",
-    "published": "Sat, 01 Aug 2026 12:26:51 GMT",
-    "fetched_at": "2026-08-02 05:06:11",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "에너지",
-      "항공",
-      "운송",
-      "방산"
-    ],
-    "keywords": [
-      "미국",
-      "이란",
-      "공습",
-      "지정학",
-      "유가"
-    ],
-    "reason": "미국-이란 충돌 위험 고조로 중동 지정학적 리스크가 급격히 확대되며 유가 급등, 위험자산 회피 및 안전자산 선호 심화가 예상됩니다.",
-    "action_point": "시장 변동성 확대에 대비하여 위험자산 비중을 축소하고 원유 및 달러, 금 등 안전자산 비중을 확대하라."
   }
 ]
