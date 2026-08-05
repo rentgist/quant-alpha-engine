@@ -1,6 +1,72 @@
 [
   {
     "source": "CNBC_World",
+    "title": "SoftBank jumps 10% as Asia tech stocks track Wall Street AI rally",
+    "title_ko": "아시아 기술주가 월스트리트 AI 랠리를 추종하며 소프트뱅크 주가 10% 급등",
+    "link": "https://www.cnbc.com/2026/08/05/softbank-samsung-sk-hynix-samsung-tech-rally.html",
+    "published": "Wed, 05 Aug 2026 01:27:06 GMT",
+    "fetched_at": "2026-08-05 13:56:45",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "기술주",
+      "반도체",
+      "인공지능(AI)"
+    ],
+    "keywords": [
+      "소프트뱅크",
+      "아시아 기술주",
+      "AI",
+      "성장주"
+    ],
+    "reason": "월스트리트발 AI 및 성장주 랠리가 아시아 기술주 전반의 상승을 견인하며, 기술 섹터에 대한 투자 심리가 강하게 유지되고 있음을 보여준다. 이는 글로벌 기술주 투자 환경에 긍정적인 영향을 미칠 수 있다.",
+    "action_point": "글로벌 기술 성장주 및 AI 관련 주식의 포트폴리오 비중 확대를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "India's central bank keeps benchmark rates steady amid creeping inflation",
+    "title_ko": "인도 중앙은행, 점진적 인플레이션 속 기준금리 동결",
+    "link": "https://www.cnbc.com/2026/08/05/india-rbi-interest-rate-inflation-iran-war.html",
+    "published": "Wed, 05 Aug 2026 04:47:50 GMT",
+    "fetched_at": "2026-08-05 13:56:30",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "신흥국 투자 펀드"
+    ],
+    "keywords": [
+      "인도",
+      "중앙은행",
+      "금리 동결",
+      "인플레이션",
+      "신흥국"
+    ],
+    "reason": "인도 중앙은행의 금리 동결은 인플레이션 압력 속에서도 경제 성장 유지에 무게를 둔 조치로 해석되며, 신흥국 전반의 통화 정책 안정성 기조를 지지할 수 있습니다.",
+    "action_point": "인도 비중이 높은 신흥국 투자 자산의 인플레이션 위험 노출도를 점검."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "GM, Chinese automaker extend joint venture for 20 years despite geopolitical tensions with U.S.",
+    "title_ko": "GM, 중국 자동차 제조사와 미국과의 지정학적 긴장에도 불구하고 합작 투자 20년 연장",
+    "link": "https://www.cnbc.com/2026/08/04/gm-chinese-automaker-extend-tie-up-amid-geopolitical-tensions-with-us.html",
+    "published": "Wed, 05 Aug 2026 02:30:01 GMT",
+    "fetched_at": "2026-08-05 13:56:39",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "자동차"
+    ],
+    "keywords": [
+      "GM",
+      "중국 시장",
+      "합작 투자",
+      "미중 관계"
+    ],
+    "reason": "GM이 미중 지정학적 긴장에도 불구하고 중국 내 사업을 확대하고 수출을 모색한다는 점에서, 글로벌 기업들이 중국 시장을 완전히 포기하지 않고 사업 기회를 지속적으로 모색하고 있음을 보여준다.",
+    "action_point": "GM 사례를 참고하여, 지정학적 위험 속 중국 시장에서 사업 연속성을 확보한 글로벌 자동차 및 제조 기업에 대한 포트폴리오 비중 확대를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
     "title": "U.S. says Strait of Hormuz is 'free and open' as Bessent says deal with Iran is close",
     "title_ko": "미국, 호르무즈 해협 '자유롭고 개방적'이라고 밝혀…베센트, 이란과의 협상 임박 시사",
     "link": "https://www.cnbc.com/2026/08/05/us-iran-war-trump-hormuz-bessent-iran-deal-close.html",
@@ -2797,79 +2863,5 @@
     ],
     "reason": "증권가의 낙관적 시선은 반도체 업황 회복 기대감을 반영하며, 삼성전자와 SK하이닉스 등 주요 반도체 기업의 주가 상승 여력이 크다는 전망을 강화합니다. 이는 IT 및 기술주 전반에 긍정적인 투자 심리를 형성할 수 있습니다.",
     "action_point": "반도체 섹터 비중 확대 검토"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "[리뷰] 러·우 전쟁 하반기 '변곡점' 주목...\"北 추가 파병, 북러 군사협력 심화\" - SPN 서울평양뉴스",
-    "title_ko": "[리뷰] 러·우 전쟁 하반기 '변곡점' 주목...\"北 추가 파병, 북러 군사협력 심화\"",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1SSktxbGphWUtKU2lxVWJhM0k4blhzTkE5R2V3VWt6azdMVlQ5T0pMYWJ6VWxyWEVLWlRaM3FFVFVBNkVJVTd6RWktQ1hxU2haY2plWWZHMXlDRjJvT2RzbUlJSDd2RU9BR09R?oc=5",
-    "published": "Sat, 01 Aug 2026 22:12:42 GMT",
-    "fetched_at": "2026-08-02 07:44:56",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "방산",
-      "에너지",
-      "원자재",
-      "해운"
-    ],
-    "keywords": [
-      "러시아-우크라이나 전쟁",
-      "북한",
-      "북러 군사협력",
-      "지정학적 리스크",
-      "안보"
-    ],
-    "reason": "러시아와 북한의 군사협력 심화는 우크라이나 전쟁의 장기화 및 국제 안보 불안을 가중시키며, 특히 동북아시아 지역의 지정학적 리스크를 고조시켜 글로벌 에너지, 원자재 가격 상승 및 방산 산업에 영향을 미칠 수 있습니다.",
-    "action_point": "지정학적 리스크 헤지를 위한 달러, 금 등 안전자산 비중 확대와 함께 국내외 방산 및 에너지 섹터 내 비중 확대 검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "경제 위기보다 무서운 ‘이것’…“냉방비 부담에 식비까지 줄였다” - KBS 뉴스",
-    "title_ko": "경제 위기보다 무서운 ‘이것’…“냉방비 부담에 식비까지 줄였다”",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tMnhrdzd2R1RydzJzQnlrREo0eEVMZDhvUmFWZXBkdDFFbWNFTV9DLVl3dWs4dk81SmhLSDJQcUQxZTNHcjg1RmR3S0FOOC1KUkFLR3F6VDR6d3JabVF0QjhWTkU2UQ?oc=5",
-    "published": "Sat, 01 Aug 2026 22:00:00 GMT",
-    "fetched_at": "2026-08-02 07:44:44",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "유통",
-      "음식료",
-      "소비재"
-    ],
-    "keywords": [
-      "가계 소비",
-      "인플레이션",
-      "생활비 부담",
-      "내수 경기",
-      "전기료"
-    ],
-    "reason": "높은 냉방비 등 생활비 부담이 가계의 필수 소비 지출마저 줄이게 하여 전반적인 소비 심리 위축과 내수 경기 둔화를 심화시킬 우려가 큽니다. 이는 국내 기업의 실적 악화로 이어질 수 있습니다.",
-    "action_point": "국내 내수 소비재 및 유통 섹터 비중 축소를 검토하고 경기 방어적 필수재 또는 가치주에 대한 관심을 높여라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "“1600원 위기 한 달 만에 뚝”…SK하이닉스·조선사가 푼 달러에 분위기 반전 - 매일경제 마켓",
-    "title_ko": "“1600원 위기 한 달 만에 뚝”…SK하이닉스·조선사가 푼 달러에 분위기 반전 - 매일경제 마켓",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBnR29kSWk3NWlBNXhWZ3B0eVJuenFPblA2aWl0S3BRN2VvQ2x3b0R2bUxRZXRrTGtJWHN3NFRmT19FV0RyV3pjaTVRZmRwc3JtY3c?oc=5",
-    "published": "Sat, 01 Aug 2026 21:35:11 GMT",
-    "fetched_at": "2026-08-02 07:45:16",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "반도체",
-      "조선",
-      "수입관련주",
-      "항공/여행"
-    ],
-    "keywords": [
-      "환율",
-      "원/달러",
-      "SK하이닉스",
-      "조선",
-      "수출"
-    ],
-    "reason": "주요 수출기업들의 달러 매도에 힘입어 원/달러 환율이 1600원대 위기에서 진정되며 시장 불안감이 완화되고 있다. 이는 수입 물가 안정과 국내 금융시장 안정화에 긍정적으로 작용할 수 있다.",
-    "action_point": "원/달러 환율 안정화로 인한 수입 물가 하락 수혜 업종(예: 항공, 유틸리티, 소비재)에 대한 비중 확대를 검토."
   }
 ]
