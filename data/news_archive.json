@@ -1,5 +1,224 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "title": "미국, 이란 전쟁에 장거리 정밀 미사일 모두 소진 - 한겨레",
+    "title_ko": "미국, 이란 전쟁에 장거리 정밀 미사일 모두 소진",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOWlTRGhkYmx4YjFiWW81WVc4aXpsWDctLUllLUp0NjFJUW10UGI4MVUzRXloOFdIWlV0SGF1RnRzdXVKN0Y5T2gxMzNoU3hRYTVZbHJKRTUyZjVhbUw0TFhiNWdLRUZYWGRBa3ZyU3FMRXhTWERQb3B6M3d0WmI2YUZ3?oc=5",
+    "published": "Tue, 04 Aug 2026 23:26:00 GMT",
+    "fetched_at": "2026-08-05 16:35:53",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "방산",
+      "원자재",
+      "항공우주"
+    ],
+    "keywords": [
+      "미국",
+      "이란",
+      "미사일",
+      "지정학적 위험",
+      "방산",
+      "중동"
+    ],
+    "reason": "미국의 장거리 정밀 미사일 소진은 중동 지역의 지정학적 불안정 심화를 의미하며, 이는 글로벌 안보 위험 증가 및 원자재 가격 변동성 확대, 방산 섹터에 대한 장기적 수요 증가 가능성으로 이어진다.",
+    "action_point": "지속되는 중동 지정학적 리스크에 대비하여 방산 섹터 투자 비중 확대를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "Europe is blowing up riverbeds as an extreme drought wreaks havoc on its economy",
+    "title_ko": "유럽, 극심한 가뭄으로 강바닥 폭파하며 경제 전반에 심각한 타격",
+    "link": "https://www.cnbc.com/2026/08/05/drought-rhine-danube-water-levels-economy.html",
+    "published": "Wed, 05 Aug 2026 07:15:17 GMT",
+    "fetched_at": "2026-08-05 16:34:48",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "물류",
+      "운송",
+      "제조업"
+    ],
+    "keywords": [
+      "유럽 가뭄",
+      "에너지 공급",
+      "물류 차질",
+      "경제 성장 둔화",
+      "인플레이션"
+    ],
+    "reason": "유럽 가뭄으로 인한 주요 수로 운송 차질은 에너지 공급 불안정 및 물류 비용 상승을 초래하며, 유럽 경제 성장 둔화와 인플레이션 압력을 가중시킬 수 있다.",
+    "action_point": "유럽 경기 둔화 및 인플레이션 압력 심화에 대비하여 유럽 관련 자산 비중 축소를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "The Stoxx 600 just hit a record high – here's what's driving the pan-European index",
+    "title_ko": "Stoxx 600, 사상 최고치 경신 – 범유럽 지수 상승 동력은 무엇인가",
+    "link": "https://www.cnbc.com/2026/08/05/stoxx-600-record-leaders-laggards-markets.html",
+    "published": "Wed, 05 Aug 2026 06:45:58 GMT",
+    "fetched_at": "2026-08-05 16:35:00",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "유럽 경기민감주",
+      "유럽 금융주",
+      "유럽 기술주"
+    ],
+    "keywords": [
+      "Stoxx 600",
+      "유럽 증시",
+      "사상 최고치",
+      "위험자산 선호"
+    ],
+    "reason": "범유럽 지수인 Stoxx 600의 사상 최고치 경신은 유럽 기업 실적과 경제 전망에 대한 투자자 신뢰가 높음을 시사한다. 이는 글로벌 위험자산 선호 심리를 강화할 수 있으나, 섹터별 성과는 차별화될 수 있다.",
+    "action_point": "유럽 증시의 긍정적 흐름을 감안하여 포트폴리오 내 유럽 관련 자산(예: 유럽 주식 ETF)의 비중 확대를 검토하고, 특정 성장 동력을 가진 섹터에 주목하라."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "CNBC Daily Open: Markets rally on hopes of Iran-U.S. Strait of Hormuz deal",
+    "title_ko": "시장, 이란-미국 호르무즈 해협 합의 기대감에 랠리",
+    "link": "https://www.cnbc.com/2026/08/05/daily-open-iran-us-strait-of-hormuz-novo-nordisk.html",
+    "published": "Wed, 05 Aug 2026 06:46:20 GMT",
+    "fetched_at": "2026-08-05 16:35:10",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "해운/항공",
+      "운송",
+      "산업재"
+    ],
+    "keywords": [
+      "호르무즈 해협",
+      "이란",
+      "미국",
+      "유가",
+      "지정학적 리스크",
+      "글로벌 공급망"
+    ],
+    "reason": "이란과 미국 간 호르무즈 해협 개방 합의 기대는 글로벌 유가 안정화와 지정학적 리스크 완화로 이어져 시장 전반의 투자심리를 개선하고 인플레이션 압력을 낮출 수 있습니다.",
+    "action_point": "에너지 섹터 비중을 축소하고 유가 하락 수혜 섹터(운송, 항공, 산업재 등)의 투자 확대를 검토."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "Novo Nordisk stock falls after raised forecast fails to change the debate over its obesity business",
+    "title_ko": "노보 노디스크 주가, 상향된 전망에도 비만 사업 논쟁을 바꾸지 못해 하락",
+    "link": "https://www.cnbc.com/2026/08/05/novo-nordisk-stock-guidance-earnings-wegovy-ozempic-eli-lilly.html",
+    "published": "Wed, 05 Aug 2026 07:23:34 GMT",
+    "fetched_at": "2026-08-05 16:34:40",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "제약/바이오",
+      "헬스케어"
+    ],
+    "keywords": [
+      "노보 노디스크",
+      "비만 치료제",
+      "경쟁 심화",
+      "일라이 릴리"
+    ],
+    "reason": "비만 치료제 시장의 경쟁 심화가 노보 노디스크의 성장 전망에 대한 시장의 의구심을 키우며 해당 섹터 전반의 투자심리에 부정적 영향을 미칠 수 있습니다.",
+    "action_point": "비만 치료제 관련 제약/바이오 섹터 종목 비중 축소 또는 신규 진입 보류를 검토."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "SpaceX's AI spending unnerves Wall Street despite promises of quick payoff",
+    "title_ko": "SpaceX의 AI 투자 지출, 빠른 수익 약속에도 불구하고 월스트리트 불안감 조성",
+    "link": "https://www.cnbc.com/2026/08/04/spacex-ai-spending-unnerves-wall-street-despite-promising-quick-payoff.html",
+    "published": "Wed, 05 Aug 2026 01:43:06 GMT",
+    "fetched_at": "2026-08-05 16:35:18",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "인공지능(AI)",
+      "우주 산업",
+      "기술주"
+    ],
+    "keywords": [
+      "SpaceX",
+      "AI 투자",
+      "월스트리트",
+      "기업공개(IPO)",
+      "기술주"
+    ],
+    "reason": "월스트리트가 SpaceX의 막대한 AI 투자 지출에 불안감을 표출하는 것은 AI 관련 고성장 기술 기업들의 투자 효율성과 빠른 수익 창출 능력에 대한 시장의 회의적인 시각을 반영합니다. 이는 향후 대규모 CAPEX가 필요한 기술 기업들의 가치 평가에 부정적인 영향을 미 미칠 수 있습니다.",
+    "action_point": "기술 섹터 내 AI 관련 기업들의 투자 대비 수익성 및 현금 흐름을 면밀히 재검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "\"지식재산으로 경제성장의 판을 바꾸겠습니다!\" - 대한민국 정책브리핑",
+    "title_ko": "지식재산으로 경제성장의 판을 바꾸겠습니다!",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVGpZRFl1TVY1d2lLcGxfUmM0MnBtNDNkYkFlTnQ3c1hqX1dMYXFqQm9wM0lNRGpFNFo3RHh3S2h2LTlpb01zVGI1RkR0OV9FUXVGbEJnV0RGa09yZzdDeUxZY2tBbjVHWkVzaFVQb1NBYTAxbWxwRFRHVl8zdFNkQWxwaGNLT1F1M3ZzVWRobFlETU52SFdxTk5LU3VURnlYV3c?oc=5",
+    "published": "Wed, 05 Aug 2026 02:12:16 GMT",
+    "fetched_at": "2026-08-05 16:35:25",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "기술",
+      "제약바이오",
+      "콘텐츠",
+      "벤처캐피탈"
+    ],
+    "keywords": [
+      "지식재산",
+      "경제성장",
+      "정부정책",
+      "혁신",
+      "R&D"
+    ],
+    "reason": "정부가 지식재산을 활용한 경제성장 패러다임 전환을 추진함에 따라, 혁신 기술 기반 산업 및 관련 R&D 투자가 중장기적으로 확대될 가능성이 높다. 이는 지식재산 관련 기업들의 기업가치 상승으로 이어질 수 있다.",
+    "action_point": "지식재산권 확보 및 활용에 강점이 있는 기술, 제약바이오, 콘텐츠 섹터 기업 발굴 및 비중 확대 검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "[단독] 테슬라 로보택시 '눈', 삼성·LG가 독점 공급 - 한국경제",
+    "title_ko": "[단독] 테슬라 로보택시 '눈', 삼성·LG가 독점 공급 - 한국경제",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41TWcxc25HaERVQmFZa0dMSTl6LUh5dmd2Z1M1ZEowQWZPZ2N1RkVaNUlJa3JlU3BVSzh4al9MWFM2eU5VOE1TZmUwQXFCRGw0ZDE0dzB4SDBRdw?oc=5",
+    "published": "Wed, 05 Aug 2026 07:04:00 GMT",
+    "fetched_at": "2026-08-05 16:35:32",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "IT/전자",
+      "자동차 부품",
+      "반도체"
+    ],
+    "keywords": [
+      "테슬라",
+      "로보택시",
+      "삼성",
+      "LG",
+      "자율주행",
+      "전장"
+    ],
+    "reason": "삼성과 LG가 테슬라 로보택시의 핵심 부품을 독점 공급하며 첨단 전장 및 자율주행 시장에서의 기술력을 입증하고, 향후 성장 동력을 확보할 것으로 예상된다.",
+    "action_point": "삼성전자, LG전자 및 관련 전장 부품 섹터 비중 확대 검토"
+  },
+  {
+    "source": "Maeil_Business",
+    "title": "파란하늘과 초록호수",
+    "title_ko": "파란하늘과 초록호수",
+    "link": "https://www.mk.co.kr/news/society/12117776",
+    "published": "Wed, 05 Aug 2026 16:25:09 +09:00",
+    "fetched_at": "2026-08-05 16:36:24",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "농업",
+      "수자원",
+      "식품",
+      "환경"
+    ],
+    "keywords": [
+      "폭염",
+      "조류경보",
+      "수질오염",
+      "대청호"
+    ],
+    "reason": "전국적 폭염과 주요 상수원 조류경보는 농작물 피해 및 식수 공급 문제 야기 가능성이 있어 식품 물가 상승 압력과 수자원 관리 비용 증가로 이어질 수 있습니다.",
+    "action_point": "농산물 가격 상승 압력에 따른 식품 관련 소비재 기업의 주가 동향을 주시하십시오."
+  },
+  {
     "source": "CNBC_World",
     "title": "SoftBank jumps 10% as Asia tech stocks track Wall Street AI rally",
     "title_ko": "아시아 기술주가 월스트리트 AI 랠리를 추종하며 소프트뱅크 주가 10% 급등",
@@ -2653,215 +2872,5 @@
     ],
     "reason": "경상남도의 21조 원 규모 피지컬 AI 및 제조혁신 생태계 구축 계획은 해당 지역 및 관련 산업의 장기 성장 동력을 제공하며, 첨단 제조업 역량 강화를 통해 AI 및 자동화 솔루션 기업에 긍정적 영향을 미칠 것으로 예상된다.",
     "action_point": "경상남도 기반 또는 관련 피지컬 AI 및 제조 자동화 솔루션 기업의 포트폴리오 편입을 검토하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "[매일경제TV] 반도체 대형주 회복 가능성은",
-    "title_ko": "[매일경제TV] 반도체 대형주 회복 가능성은",
-    "link": "https://www.mk.co.kr/news/culture/12114495",
-    "published": "Sun, 02 Aug 2026 16:59:53 +09:00",
-    "fetched_at": "2026-08-02 17:08:06",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "반도체",
-      "화장품",
-      "전력기기"
-    ],
-    "keywords": [
-      "반도체 대형주",
-      "주가 반등",
-      "변동성 완화",
-      "수급 집중"
-    ],
-    "reason": "변동성 정점 통과 이후 반도체 대형주의 회복 가능성을 진단하며, 화장품 및 전력기기 등 수급이 몰리는 특정 섹터에 대한 긍정적 시각을 제시한다.",
-    "action_point": "반도체 대형주의 회복 가능성을 고려하여 해당 섹터 비중 확대를 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "[ET시론] 미래우주경제 선도를 위한 우주AI 전략 - 전자신문",
-    "title_ko": "[ET시론] 미래우주경제 선도를 위한 우주AI 전략",
-    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0xNWFZVVlGRS1mOGhMRVBKcnM5OXA4V05XYkx2WlJuaUJNRDZvUzJFWlZCT2JVaTc2bmt3bXl2THBlSW5UOURZOE9DRkliUQ?oc=5",
-    "published": "Sun, 02 Aug 2026 07:00:00 GMT",
-    "fetched_at": "2026-08-02 17:06:37",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "우주항공",
-      "인공지능",
-      "정보통신기술"
-    ],
-    "keywords": [
-      "우주경제",
-      "인공지능(AI)",
-      "미래기술",
-      "전략"
-    ],
-    "reason": "해당 시론은 미래 우주경제 선도를 위한 AI 전략을 다루며, 장기적인 산업 방향성을 제시하지만, 단기적인 시장이나 거시경제 지표에 미치는 직접적인 영향은 제한적입니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "[속보] 대구·경북 경산·경주·경남 사천 폭염중대경보 - 연합뉴스TV",
-    "title_ko": "[속보] 대구·경북 경산·경주·경남 사천 폭염중대경보",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5saVpZZTdtRDVYUW56MXh2R1lzZlllbzEwd2thWTNRSHQ5MVJUaUxMSDJuZ0d1LXNWdC1YYXY2SzBpOXA2S3F3ZFVMdXFNVXpBVFo5dG9DNmNsUWhlbFF0NlJfZkoxRDA?oc=5",
-    "published": "Sun, 02 Aug 2026 01:15:00 GMT",
-    "fetched_at": "2026-08-02 17:07:23",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "농업",
-      "전력/에너지",
-      "음료/빙과"
-    ],
-    "keywords": [
-      "폭염",
-      "기후변화",
-      "농업",
-      "전력수요"
-    ],
-    "reason": "대구·경북 등 영남권 일부 지역에 폭염 중대경보가 발령되어 농작물 피해 및 전력 수요 증가가 예상됩니다. 이는 해당 지역의 농업 및 에너지 관련 산업에 단기적인 영향을 미 미칠 수 있으나, 국가 전체 경제 및 주요 투자 자산에 미치는 거시적 영향은 제한적입니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Capital One says it closed Trump Organization's accounts after anti-money laundering probe",
-    "title_ko": "캐피탈 원, 돈세탁 방지 조사 후 트럼프 그룹 계좌 폐쇄 발표",
-    "link": "https://www.cnbc.com/2026/08/01/capital-one-closed-trump-organization-accounts-after-investigation.html",
-    "published": "Sun, 02 Aug 2026 01:56:07 GMT",
-    "fetched_at": "2026-08-02 14:19:00",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "금융",
-      "정치"
-    ],
-    "keywords": [
-      "트럼프",
-      "돈세탁",
-      "캐피탈원",
-      "규제",
-      "은행"
-    ],
-    "reason": "전 미국 대통령 기업의 돈세탁 방지 조사 관련 계좌 폐쇄 소식으로, 금융권의 규제 준수 강화 움직임과 트럼프 관련 정치적 리스크가 부각될 수 있습니다. 광범위한 시장 영향은 제한적입니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "전국 폭염 장기화에 중대본 2단계로 격상…범정부 대응 강화",
-    "title_ko": "전국 폭염 장기화에 중대본 2단계로 격상…범정부 대응 강화",
-    "link": "https://www.mk.co.kr/news/society/12114428",
-    "published": "Sun, 02 Aug 2026 14:18:27 +09:00",
-    "fetched_at": "2026-08-02 14:19:17",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "에너지",
-      "농업",
-      "식품",
-      "유통"
-    ],
-    "keywords": [
-      "폭염",
-      "전력수요",
-      "농산물가격",
-      "생산성"
-    ],
-    "reason": "전국적 폭염 장기화는 전력 수요 급증과 농업 생산성 하락을 유발하여 전반적인 경제 활동에 부정적 영향을 미치고 농산물 물가 상승 압력을 가중시킬 수 있습니다.",
-    "action_point": "전력 관련주 및 냉방 관련 소비재의 단기적 수급 변화에 대비하고, 농산물 가격 상승에 따른 식품 기업의 원가 부담을 점검하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "S&P 신용등급 ‘AA’ 획득…대한민국하고 신용등급 같아진 이 기업은",
-    "title_ko": "S&P 신용등급 ‘AA’ 획득…대한민국하고 신용등급 같아진 이 기업은",
-    "link": "https://www.mk.co.kr/news/economy/12114427",
-    "published": "Sun, 02 Aug 2026 14:16:47 +09:00",
-    "fetched_at": "2026-08-02 14:19:26",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "보험",
-      "금융"
-    ],
-    "keywords": [
-      "S&P",
-      "신용등급",
-      "AA",
-      "삼성화재",
-      "자본력",
-      "리스크관리",
-      "글로벌 경쟁력"
-    ],
-    "reason": "삼성화재의 S&P 'AA' 등급 획득은 해당 기업의 견고한 재무 건전성과 리스크 관리 역량을 입증하며, 국내 보험 및 금융 섹터 전반에 대한 신뢰도를 높일 수 있습니다. 이는 글로벌 시장에서의 경쟁력 강화 및 자금 조달 비용 절감 효과를 가져올 것입니다.",
-    "action_point": "국내 대형 보험사 및 금융주 투자 매력도 재평가."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "“노골적 전쟁 준비…반격 가할 것” 나토 경고한 北, 무슨 일 - 중앙일보",
-    "title_ko": "“노골적 전쟁 준비…반격 가할 것” 나토 경고한 北, 무슨 일 - 중앙일보",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iLUdSX2ttdUR4NHloMzYtNHVzc2lUUmVGVGpWS21EUkpGZG05cGJmeVRhZVBPNWhsZWl2djlpNWZVSmpaY2Y5dm9odG5LWFV3RHJvdDR3?oc=5",
-    "published": "Sun, 02 Aug 2026 01:18:18 GMT",
-    "fetched_at": "2026-08-02 10:51:37",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "방산",
-      "금융",
-      "항공"
-    ],
-    "keywords": [
-      "북한",
-      "나토",
-      "지정학적 리스크",
-      "안보"
-    ],
-    "reason": "북한의 나토 경고 및 호전적 발언은 한반도와 국제 정세의 지정학적 불안정성을 고조시키며, 국내외 투자 시장의 불확실성을 증대시킬 수 있다.",
-    "action_point": "지정학적 리스크 헤지를 위한 방산 관련주 편입 또는 위험자산 비중 축소 검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "정부, 증시 긴급조치권한 확보 착수…금융위기·코로나 복기 - v.daum.net",
-    "title_ko": "정부, 증시 긴급조치권한 확보 착수…금융위기·코로나 복기",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9yeUtEMlNEcFFpLUxPMnl1enVvTjRfM1hYYTVjMU5ublVTaTdmMUFTMlpjUExGd2V1alI1eHlKZlFiZmtJS05Tdmx5WmdCWFU?oc=5",
-    "published": "Sat, 01 Aug 2026 20:50:54 GMT",
-    "fetched_at": "2026-08-02 08:49:32",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "금융",
-      "증권"
-    ],
-    "keywords": [
-      "정부",
-      "증시",
-      "긴급조치권한",
-      "시장안정",
-      "금융위기"
-    ],
-    "reason": "정부가 미래 금융위기 및 시장 불안정에 대비하여 증시 긴급조치권한 확보에 착수하는 것으로, 이는 시스템 리스크 관리 강화를 통해 중장기적 시장 안정성을 높일 수 있습니다. 단기적으로는 과거 위기 복기라는 점에서 일부 투자자에게 불안감을 줄 수 있으나, 선제적 대응 체계 구축은 시장의 큰 폭 하락 위험을 완화하는 긍정적 효과를 가집니다.",
-    "action_point": "정부의 시장 안정화 노력 강화로 국내 주식 보유 비중 유지 및 장기적 투자 매력도 재평가."
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "“폭등했는데도 아직 멀었다”…삼전닉스 목표가, ‘주가의 두 배’",
-    "title_ko": "“폭등했는데도 아직 멀었다”…삼전닉스 목표가, ‘주가의 두 배’",
-    "link": "https://www.mk.co.kr/news/stock/12114343",
-    "published": "Sun, 02 Aug 2026 08:46:42 +09:00",
-    "fetched_at": "2026-08-02 08:49:39",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "반도체",
-      "IT"
-    ],
-    "keywords": [
-      "삼성전자",
-      "SK하이닉스",
-      "반도체",
-      "목표주가",
-      "업황"
-    ],
-    "reason": "증권가의 낙관적 시선은 반도체 업황 회복 기대감을 반영하며, 삼성전자와 SK하이닉스 등 주요 반도체 기업의 주가 상승 여력이 크다는 전망을 강화합니다. 이는 IT 및 기술주 전반에 긍정적인 투자 심리를 형성할 수 있습니다.",
-    "action_point": "반도체 섹터 비중 확대 검토"
   }
 ]
