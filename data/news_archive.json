@@ -1,5 +1,74 @@
 [
   {
+    "source": "CNBC_Finance",
+    "title": "Situational Awareness hedge fund meltdown was a warning shot for leveraged markets, BofA CEO says",
+    "title_ko": "BofA CEO, 시추에이셔널 어웨어니스 헤지펀드 붕괴는 레버리지 시장에 대한 경고라고 언급",
+    "link": "https://www.cnbc.com/2026/08/05/bofa-brian-moynihan-situational-awareness-meltdown-was-a-warning-shot.html",
+    "published": "Wed, 05 Aug 2026 15:07:12 GMT",
+    "fetched_at": "2026-08-06 00:09:08",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "금융",
+      "투자은행",
+      "헤지펀드"
+    ],
+    "keywords": [
+      "헤지펀드 붕괴",
+      "레버리지 시장",
+      "금융 안정성",
+      "뱅크오브아메리카"
+    ],
+    "reason": "BofA CEO의 헤지펀드 붕괴에 대한 경고는 레버리지 시장의 잠재적 위험을 부각한다. 이는 금융기관의 리스크 관리를 강화하고 전반적인 시장 유동성 및 투자 심리를 위축시킬 수 있다.",
+    "action_point": "고레버리지 투자 포지션 및 관련 금융 섹터 비중 점검"
+  },
+  {
+    "source": "CNBC_World",
+    "title": "Fed's Kashkari says 'now is the time to start slowly moving' rates up",
+    "title_ko": "연준 카슈카리 총재, '이제 금리를 천천히 인상하기 시작할 때' 언급",
+    "link": "https://www.cnbc.com/2026/08/05/feds-kashkari-says-now-is-the-time-to-start-slowly-moving-rates-up.html",
+    "published": "Wed, 05 Aug 2026 13:06:35 GMT",
+    "fetched_at": "2026-08-06 00:09:18",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "기술주",
+      "부동산",
+      "성장주"
+    ],
+    "keywords": [
+      "금리 인상",
+      "연방준비제도",
+      "매파",
+      "통화 정책"
+    ],
+    "reason": "연준 내 매파적 시각이 존재함을 재확인하며, 이는 향후 금리 인상 가능성에 대한 시장 기대를 높여 증시 전반에 부담으로 작용할 수 있습니다.",
+    "action_point": "금리 인상에 취약한 성장주 및 고부채 기업 비중 축소 검토."
+  },
+  {
+    "source": "CNBC_Finance",
+    "title": "Bank of America spends $250 million a year on GLP-1 drugs for its employees, CEO says",
+    "title_ko": "뱅크오브아메리카, 직원 GLP-1 약물에 연간 2억 5천만 달러 지출",
+    "link": "https://www.cnbc.com/2026/08/05/bank-of-america-ceo-glp-1-drugs-cost.html",
+    "published": "Wed, 05 Aug 2026 14:59:45 GMT",
+    "fetched_at": "2026-08-06 00:08:59",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "제약",
+      "헬스케어"
+    ],
+    "keywords": [
+      "GLP-1",
+      "비만 치료제",
+      "제약",
+      "기업 복지",
+      "헬스케어 비용"
+    ],
+    "reason": "뱅크오브아메리카의 대규모 GLP-1 약물 지출은 해당 약물 시장의 폭발적인 성장을 증명하며, 관련 제약사들의 매출 및 수익성에 긍정적인 영향을 미칠 것입니다.",
+    "action_point": "GLP-1 약물을 개발/생산하는 글로벌 제약사 및 관련 헬스케어 섹터 투자 비중 확대를 검토하십시오."
+  },
+  {
     "source": "CNBC_World",
     "title": "Private companies added just 44,000 workers in July, below expectations, ADP reports",
     "title_ko": "ADP 보고서에 따르면 7월 민간 기업 일자리 4만 4천 개 증가, 예상치 하회",
@@ -2795,72 +2864,5 @@
     ],
     "reason": "인공지능(AI) 발전으로 인한 전력 수요 급증이 전력전쟁을 촉발하고 있으며, 핵융합 등 차세대 에너지 기술에 막대한 자본이 유입되고 있음을 시사합니다. 이는 AI 성장과 함께 에너지 전환 가속화에 대한 시장 기대를 반영합니다.",
     "action_point": "AI 전력 수요 증대에 따른 전력 인프라 및 혁신 에너지 솔루션 관련 기업 투자 비중 확대를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Bomb carried by woman kills three, injures 21 near Moscow restaurant, authorities say",
-    "title_ko": "당국 발표: 모스크바 식당 인근 폭탄 테러, 여성 소지 폭탄으로 3명 사망, 21명 부상",
-    "link": "https://www.cnbc.com/2026/08/02/bomb-carried-by-woman-kills-three-near-moscow-restaurant-authorities.html",
-    "published": "Sun, 02 Aug 2026 08:35:35 GMT",
-    "fetched_at": "2026-08-02 19:26:28",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "국방/보안",
-      "원자재"
-    ],
-    "keywords": [
-      "러시아",
-      "테러",
-      "지정학적 위험"
-    ],
-    "reason": "러시아 수도 모스크바 인근에서 발생한 폭탄 테러는 러시아 내부의 지정학적 위험을 증폭시키며, 글로벌 시장 전반의 위험 회피 심리를 소폭 강화할 수 있습니다.",
-    "action_point": "글로벌 지정학적 위험 증가에 대비하여 안전 자산(예: 금, 달러) 비중을 현행 유지하거나 소폭 확대하는 방안을 검토하십시오."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "\"소득 상관없이 1인 50만원\"…이달 초 지급 목표 - v.daum.net",
-    "title_ko": "소득 상관없이 1인 50만원…이달 초 지급 목표",
-    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE80RGtrTDl2SlZqd0JUYUhyTFNPY1pfck5sVnYzZmo0c1NNN2dqX2czbGg0eVlnZ1FXamxwREZkOEY1MmxtbEE?oc=5",
-    "published": "Sat, 01 Aug 2026 23:54:50 GMT",
-    "fetched_at": "2026-08-02 19:26:35",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "유통",
-      "소비재",
-      "음식료",
-      "레저"
-    ],
-    "keywords": [
-      "1인 50만원",
-      "보편 지급",
-      "재난지원금",
-      "소비 진작",
-      "내수 활성화"
-    ],
-    "reason": "1인당 50만원의 현금성 지급은 가계 소비를 직접적으로 늘려 내수 경제 활성화에 기여할 것으로 예상된다. 이는 유통, 소비재 등 내수 관련 섹터에 단기적인 긍정적 영향을 미칠 수 있다.",
-    "action_point": "내수 소비 관련 주식(유통, 음식료, 레저 등)의 단기적인 상승 여력을 주시하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "정상만 만나는 외교는 끝났다…李 순방이 보여준 '기업형 경제외교' - 연합인포맥스",
-    "title_ko": "정상만 만나는 외교는 끝났다…李 순방이 보여준 '기업형 경제외교'",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE56YmxCM1dNaXRfOTFxRC14UmJjaDRKR01NQlpLSDd4bFRZZmxxS2R1MWJSZ3ROalJWeVJfYURZUWl1M0xFNFhBQU9LTG9QbmljZWNjRnQ4RWVDQWNkbkQ2VnQtYnlDWEpic1Z0RGxnYzg?oc=5",
-    "published": "Sun, 02 Aug 2026 08:31:48 GMT",
-    "fetched_at": "2026-08-02 19:26:42",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "수출주",
-      "해외 프로젝트 관련주"
-    ],
-    "keywords": [
-      "경제외교",
-      "수출 증진",
-      "해외 투자"
-    ],
-    "reason": "기업형 경제외교는 특정 국가 및 기업의 해외 사업 확장을 국가 차원에서 지원하며, 이는 수출 증대와 해외 수주 가능성을 높여 관련 기업의 실적 개선 및 국가 경제 성장에 긍정적인 영향을 미칩니다.",
-    "action_point": "수출 지향 산업 및 해외 프로젝트 수행 능력이 뛰어난 기업의 비중 확대를 검토하라."
   }
 ]
