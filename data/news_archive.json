@@ -1,6 +1,105 @@
 [
   {
     "source": "CNBC_World",
+    "title": "Trump admin refunds $100 billion in 'liberation day' tariffs",
+    "title_ko": "트럼프 행정부, '해방의 날' 관세 1,000억 달러 환불 조치",
+    "link": "https://www.cnbc.com/2026/08/05/trump-tariffs-refunds-ieepa-lawsuit.html",
+    "published": "Wed, 05 Aug 2026 16:47:52 GMT",
+    "fetched_at": "2026-08-06 04:15:30",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "제조업",
+      "기술주",
+      "유통업",
+      "해운/물류",
+      "수출 관련 산업"
+    ],
+    "keywords": [
+      "관세",
+      "보호무역주의",
+      "미국 행정부",
+      "무역 분쟁",
+      "공급망"
+    ],
+    "reason": "트럼프 행정부가 IEEPA 유사 관세 체제를 재구축하려는 움직임은 글로벌 보호무역주의 강화 및 무역 분쟁 재연 가능성을 시사하며, 이는 기업 수익성과 공급망에 불확실성을 가중시킨다.",
+    "action_point": "글로벌 무역 분쟁 재연 가능성에 대비하여 수출 비중이 높은 국내외 기업 투자 비중을 축소하고, 방어적 자산 편입을 고려하라."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "Microsoft AI exec tells developers to default to OpenAI's top model as part of efficiency push",
+    "title_ko": "마이크로소프트 AI 임원, 효율성 증대 노력 일환으로 개발자들에게 OpenAI 최고 모델 기본 사용 지시",
+    "link": "https://www.cnbc.com/2026/08/05/microsoft-makes-openai-gpt-5point6-sol-default-in-github-copilot-for-staff.html",
+    "published": "Wed, 05 Aug 2026 18:46:39 GMT",
+    "fetched_at": "2026-08-06 04:15:38",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "기술",
+      "클라우드 서비스",
+      "반도체"
+    ],
+    "keywords": [
+      "마이크로소프트",
+      "OpenAI",
+      "AI",
+      "효율성",
+      "클라우드"
+    ],
+    "reason": "마이크로소프트의 OpenAI 최고 모델 사용 지시는 AI 기술의 내부 통합 가속화와 클라우드 서비스 경쟁력 강화를 의미하며, AI 산업 전반의 성장과 기술 기업들의 효율성 향상 기조를 반영합니다.",
+    "action_point": "AI 기술 통합 및 클라우드 서비스 경쟁력 강화가 예상되는 마이크로소프트와 관련 AI/반도체 섹터 비중을 유지하거나 확대하는 방안을 고려."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "Meta debuts first AI coding agent to take on Anthropic and OpenAI",
+    "title_ko": "메타, 앤트로픽과 오픈AI에 맞설 최초의 AI 코딩 에이전트 공개",
+    "link": "https://www.cnbc.com/2026/08/05/meta-debuts-muse-code-to-take-on-anthropic-and-openai-.html",
+    "published": "Wed, 05 Aug 2026 19:06:16 GMT",
+    "fetched_at": "2026-08-06 04:15:46",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "기술",
+      "소프트웨어",
+      "반도체"
+    ],
+    "keywords": [
+      "메타",
+      "AI",
+      "코딩 에이전트",
+      "인공지능",
+      "기술 경쟁"
+    ],
+    "reason": "메타의 AI 코딩 에이전트 출시는 거대 기술 기업 간 AI 경쟁 심화를 의미하며, 이는 AI 기술 발전 및 상용화 속도를 가속화할 것입니다. 장기적으로 AI 관련 인프라 및 서비스 수요 증가로 이어질 수 있습니다.",
+    "action_point": "AI 기술 경쟁 심화에 따른 AI 반도체 및 관련 소프트웨어 기업 투자 기회를 적극적으로 모색하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "\"지식재산으로 경제성장의 판을 바꾸겠습니다!\" - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+    "title_ko": "지식재산으로 경제성장의 판을 바꾸겠습니다! - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVzRzN0Q0eDN2X1hqVlk1eHBlSUdGVDdFUlB4WU1SNjlSTTR0Z1pLaFZtVWJIbFctX3ViYmZTcTJCUHJvd2x1UXRGSFA5MGdRbGNYNmdYbmR2OXRqd3Q5Q3pzd0MtSExzSUNiUXJKT19VaDBLazdHRU1IdlJnYl9MMnRjd2R5eXFhd3hN?oc=5",
+    "published": "Wed, 05 Aug 2026 05:04:02 GMT",
+    "fetched_at": "2026-08-06 04:16:02",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "기술주",
+      "바이오",
+      "콘텐츠 산업",
+      "지식재산권 관련 산업"
+    ],
+    "keywords": [
+      "지식재산",
+      "경제성장",
+      "정책",
+      "혁신",
+      "R&D"
+    ],
+    "reason": "정부의 지식재산권 강화 및 활용 정책은 장기적으로 국가 경쟁력 제고 및 혁신 성장을 목표로 하며, 기술 및 R&D 중심 산업의 투자 매력을 높일 수 있습니다. 단기 시장 영향은 제한적입니다.",
+    "action_point": "지식재산 활용 및 R&D 투자 비중이 높은 국내 혁신 기업의 중장기 투자 포트폴리오 편입을 검토하십시오."
+  },
+  {
+    "source": "CNBC_World",
     "title": "SpaceX's earnings are not helping its stock, but Nvidia is getting a boost",
     "title_ko": "스페이스X 실적 부진에도 엔비디아 주가는 상승세",
     "link": "https://www.cnbc.com/2026/08/05/spacexs-earnings-are-not-helping-its-stock-but-nvidia-is-getting-a-boost.html",
@@ -2768,102 +2867,5 @@
     ],
     "reason": "미일 양국의 공동 개입은 엔화 약세에 대한 강력한 대응 의지를 보여주며, 단기적으로 엔화 강세 압력을 높이고 외환 시장의 변동성을 완화할 수 있습니다. 이는 아시아 통화 전반에 대한 달러 강세 압력을 일부 상쇄할 가능성이 있습니다.",
     "action_point": "엔화 약세 베팅 포지션을 축소하고, 엔화 강세 전환에 대비한 투자 전략을 수립하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "이재명 대통령, 순방 직후 부동산·주식 등 '경제 현안' 챙긴다 - KBC광주방송",
-    "title_ko": "이재명 대통령, 순방 직후 부동산·주식 등 '경제 현안' 챙긴다",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9VMm9ZcmVpMnhjUmpNTFBFRmlUVEc4SnVmdkFxUlpYMGt5MFNKcGRXQjNlZGVpY0xrSFZzZVhuY1Y4MjJ2VnBJZmdrVkFJcGhDUVZ4QWJRQzd3UjRvSndfbQ?oc=5",
-    "published": "Sun, 02 Aug 2026 13:49:17 GMT",
-    "fetched_at": "2026-08-03 00:54:36",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "부동산",
-      "금융",
-      "정책 관련 섹터"
-    ],
-    "keywords": [
-      "이재명 대통령",
-      "경제 현안",
-      "부동산",
-      "주식",
-      "정부 정책"
-    ],
-    "reason": "대통령이 순방 직후 부동산 및 주식 시장 등 경제 현안을 챙긴다는 것은 해당 분야에 대한 정부의 정책적 관심과 개입 의지를 시사합니다. 향후 구체적인 정책 발표 여부에 따라 시장 전반에 영향을 미칠 수 있습니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "title": "OPEC agrees September oil hike, completing rollback of voluntary cuts",
-    "title_ko": "OPEC, 9월 원유 증산 합의…자발적 감산 완전 철회",
-    "link": "https://www.cnbc.com/2026/08/02/opec-agrees-september-oil-hike-completing-rollback-of-voluntary-cuts.html",
-    "published": "Sun, 02 Aug 2026 13:09:44 GMT",
-    "fetched_at": "2026-08-02 23:38:06",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "항공",
-      "해운",
-      "화학",
-      "제조업"
-    ],
-    "keywords": [
-      "OPEC+",
-      "원유 증산",
-      "유가",
-      "공급망",
-      "인플레이션"
-    ],
-    "reason": "OPEC+의 증산 합의는 공식적인 원유 공급을 늘려 유가 상승 압력을 완화할 수 있으나, 이란 및 우크라이나 전쟁으로 인한 수출 차질로 실제 시장 영향은 제한적일 수 있다.",
-    "action_point": "유가 상승 압력 완화 가능성을 고려하여 에너지 관련 ETF 비중을 조정하고, 운송 및 제조업 등 에너지 의존도가 높은 섹터의 투자 매력을 재평가."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "성장률 1위 한국경제, 2분기 9위로 ‘곤두박질’…中에도 밀렸다 - v.daum.net",
-    "title_ko": "성장률 1위 한국경제, 2분기 9위로 ‘곤두박질’…中에도 밀렸다",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE85LTl2ZU5uWXljTWJsS3dFVTlKVTRrZnRsOVVLVHRRTURyV0dTZF91VW5KUUE0dkVpbi0ybnZwZmJfNFQ3dVZKWVlVQVhnWUE?oc=5",
-    "published": "Sat, 01 Aug 2026 20:03:07 GMT",
-    "fetched_at": "2026-08-02 23:38:15",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "경기민감주",
-      "금융",
-      "내수소비재"
-    ],
-    "keywords": [
-      "한국 경제",
-      "성장률",
-      "경기 둔화",
-      "2분기"
-    ],
-    "reason": "한국 경제 성장률 순위 급락은 국내 경기 둔화를 명확히 시사하며, 기업 실적 악화 및 투자 심리 위축으로 이어질 수 있다. 원화 가치에도 부정적 영향을 미칠 수 있다.",
-    "action_point": "국내 경기 민감 섹터 비중 축소를 검토하고, 달러 등 안전자산 및 해외 분산 투자를 강화하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "이 대통령, 귀국하자마자 부동산·증시 챙긴다…비공개 회의 소집",
-    "title_ko": "이 대통령, 귀국하자마자 부동산·증시 챙긴다…비공개 회의 소집",
-    "link": "https://www.mk.co.kr/news/politics/12114723",
-    "published": "Sun, 02 Aug 2026 22:18:15 +09:00",
-    "fetched_at": "2026-08-02 23:38:33",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "부동산",
-      "증권",
-      "건설"
-    ],
-    "keywords": [
-      "대통령",
-      "경제정책",
-      "부동산",
-      "주식시장",
-      "비공개 회의"
-    ],
-    "reason": "대통령이 순방 직후 부동산 및 주식시장 관련 비공개 회의를 소집하는 것은 해당 시장에 대한 정부의 적극적인 부양 의지를 시사하며, 관련 정책 변화에 대한 기대감을 높인다.",
-    "action_point": "국내 부동산 및 증시 관련 정책 수혜 예상 섹터에 대한 투자 기회 점검."
   }
 ]
