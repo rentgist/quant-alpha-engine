@@ -1,5 +1,128 @@
 [
   {
+    "source": "CNBC_World",
+    "title": "Oil prices move higher after Yemen's Iran-backed Houthis claim Saudi tanker strike",
+    "title_ko": "예멘 후티 반군, 사우디 유조선 공격 주장 후 유가 상승",
+    "link": "https://www.cnbc.com/2026/08/05/oil-prices-iran-war-houthis-saudi-tanker.html",
+    "published": "Wed, 05 Aug 2026 09:53:06 GMT",
+    "fetched_at": "2026-08-05 19:26:26",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "항공",
+      "해운",
+      "화학",
+      "인플레이션 민감 섹터"
+    ],
+    "keywords": [
+      "유가",
+      "지정학적 리스크",
+      "후티 반군",
+      "홍해",
+      "사우디",
+      "에너지 공급망"
+    ],
+    "reason": "예멘 후티 반군의 사우디 유조선 공격 주장은 중동 지정학적 긴장과 홍해 해상 운송 리스크를 고조시켜 국제 유가 상승 압력을 가중시킬 것입니다. 이는 인플레이션 우려를 심화하고 글로벌 경제 성장에 부정적 영향을 미칠 수 있습니다.",
+    "action_point": "고유가 기조 지속에 대비해 에너지 섹터 비중 확대를 검토하고, 유류비 민감 업종(항공, 해운)에 대한 투자 비중을 축소하라."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "AMD plummets 8% in premarket trading despite beating expectations",
+    "title_ko": "AMD, 예상치 상회에도 불구하고 개장 전 거래에서 8% 급락",
+    "link": "https://www.cnbc.com/2026/08/05/amd-stock-today-earnings-q2.html",
+    "published": "Wed, 05 Aug 2026 10:21:14 GMT",
+    "fetched_at": "2026-08-05 19:26:44",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "반도체",
+      "인공지능(AI)",
+      "기술주"
+    ],
+    "keywords": [
+      "AMD",
+      "반도체",
+      "AI",
+      "주식 급락",
+      "실적 발표"
+    ],
+    "reason": "AMD 주가가 예상치를 상회했음에도 급락한 것은 AI 반도체 섹터 전반의 과열된 밸류에이션에 대한 경계심 또는 향후 성장세 둔화 우려를 반영할 수 있으며, 관련 섹터 전반에 대한 투자심리를 위축시킬 가능성이 있다.",
+    "action_point": "AI 및 반도체 섹터 내 급등 종목들의 밸류에이션 리스크를 점검하고, 포트폴리오 비중 조절을 고려하라."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "SpaceX dives 10% after AI spending surge rattles investors",
+    "title_ko": "스페이스X, AI 지출 급증에 투자자 동요하며 10% 하락",
+    "link": "https://www.cnbc.com/2026/08/05/spacex-spcx-stock-today-earnings.html",
+    "published": "Wed, 05 Aug 2026 09:04:08 GMT",
+    "fetched_at": "2026-08-05 19:26:17",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "우주 항공",
+      "인공지능",
+      "기술주"
+    ],
+    "keywords": [
+      "SpaceX",
+      "AI 투자",
+      "엘론 머스크",
+      "기업 가치",
+      "기술주"
+    ],
+    "reason": "스페이스X의 AI 관련 투자 지출 급증에 대해 투자자들이 기업 가치 하락으로 반응했으며, 이는 고성장 기술 기업의 비용 효율성 및 수익성 전망에 대한 시장의 우려를 반영합니다.",
+    "action_point": "과도한 AI 투자 지출로 인한 수익성 악화 우려가 있는 기술 기업의 투자 비중 축소를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "Anthropic's Mythos created fake identities to fool humans in new cyber incident",
+    "title_ko": "앤스로픽의 미토스, 새로운 사이버 사고에서 인간을 속이기 위해 가짜 신원 생성",
+    "link": "https://www.cnbc.com/2026/08/05/anthropic-mythos-openai-security-breaches.html",
+    "published": "Wed, 05 Aug 2026 10:18:07 GMT",
+    "fetched_at": "2026-08-05 19:26:34",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "인공지능(AI)",
+      "소프트웨어",
+      "사이버보안"
+    ],
+    "keywords": [
+      "Anthropic",
+      "AI 윤리",
+      "사이버 보안",
+      "인공지능 규제",
+      "가짜 신원"
+    ],
+    "reason": "이 사건은 AI 모델의 잠재적 악용 가능성과 보안 취약성을 드러내며, AI 개발 기업에 대한 규제 강화 압력과 장기적인 투자 심리 위축으로 이어질 수 있습니다. 특히 AI 안전 및 윤리 문제에 대한 시장의 우려를 증폭시킬 것입니다.",
+    "action_point": "AI 기술 관련 기업 투자 시 보안 및 윤리 리스크 평가를 강화하고, 관련 규제 동향을 면밀히 주시하십시오."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "\"지식재산으로 경제성장의 판을 바꾸겠습니다!\" - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+    "title_ko": "\"지식재산으로 경제성장의 판을 바꾸겠습니다!\" - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPb0ZEekdvNDFXQ3lXR2ZZUXZfZ2lBaE8yT3R6VzMwT25fNVU3Z1hfamtDNFNqNXRDZ284cVhYWUZiUGJDZ2xkeWNLM2NiY0hhcGJfX0N4S2cxWEJGNmZLQUZtak5vVUI0SU1vc1gzOXVESnR3R08xSWZYRnJRNXFIcG9pU0xQeHA1N0dj?oc=5",
+    "published": "Wed, 05 Aug 2026 04:33:52 GMT",
+    "fetched_at": "2026-08-05 19:26:52",
+    "sentiment": "호재",
+    "importance": 2,
+    "sectors": [
+      "기술",
+      "바이오",
+      "벤처캐피탈",
+      "컨텐츠"
+    ],
+    "keywords": [
+      "지식재산",
+      "경제성장",
+      "정책",
+      "혁신"
+    ],
+    "reason": "정부의 지식재산 기반 경제성장 정책 발표는 단기적인 시장 영향은 제한적이나, 장기적으로 기술 및 지식 기반 산업의 경쟁력 강화에 긍정적입니다. 혁신 기업 육성 및 지식재산권 보호 환경 조성 기대를 높입니다.",
+    "action_point": "지식재산권 확보 및 활용 역량이 높은 기술·바이오 섹터 기업의 장기 투자 가능성을 검토하라."
+  },
+  {
     "source": "GoogleNews_Korea",
     "title": "미국, 이란 전쟁에 장거리 정밀 미사일 모두 소진 - 한겨레",
     "title_ko": "미국, 이란 전쟁에 장거리 정밀 미사일 모두 소진",
@@ -2746,131 +2869,5 @@
     ],
     "reason": "트럼프의 이란 공격 보류 발언은 중동 지정학적 긴장 완화를 시사하며, 이는 글로벌 유가 하방 압력 및 전반적인 위험자산 선호 심리 개선에 긍정적인 영향을 미칠 것입니다. 불확실성 감소로 시장 변동성이 줄어들 수 있습니다.",
     "action_point": "중동 지정학적 리스크 완화에 따라 방산 섹터 비중 축소를 검토하고, 유가 하방 압력에 대비한 에너지 관련 포트폴리오 조정을 고려하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "트럼프, 이란 공습 전격 취소…“호르무즈 전면 개방 합의 윤곽” - 한겨레",
-    "title_ko": "트럼프, 이란 공습 전격 취소…“호르무즈 전면 개방 합의 윤곽”",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9wRks2bVgteDFvanE5SDFfSm12Z0JsM0kteHFRNmZ6ODBvWTNlejZSZmgwZXJSUmgzMk9fa1FWUFFpY0JJamhaM1BMUzNGdVdUQWo3T09ISy13RTRnQjFDRF9WR2FKRTBISTVybXN1MA?oc=5",
-    "published": "Sun, 02 Aug 2026 06:37:00 GMT",
-    "fetched_at": "2026-08-02 17:06:57",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "운수",
-      "항공",
-      "화학",
-      "제조업"
-    ],
-    "keywords": [
-      "트럼프",
-      "이란",
-      "공습",
-      "호르무즈 해협",
-      "유가",
-      "지정학",
-      "위험 완화"
-    ],
-    "reason": "미국의 이란 공습 취소와 호르무즈 해협 개방 합의 윤곽은 중동 지정학적 긴장을 완화하고 글로벌 원유 공급 불확실성을 해소하여 유가 하향 안정화에 기여할 것으로 예상된다. 이는 위험 회피 심리를 약화시키고 원유 수입국들의 경제적 부담을 줄여준다.",
-    "action_point": "유가 하락 수혜 업종(항공, 화학, 해운 등)에 대한 비중 확대를 검토한다."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "[속보]미국, 이란 공격 취소 - 한경매거진&북",
-    "title_ko": "[속보]미국, 이란 공격 취소 - 한경매거진&북",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZOTN0cTlHemtEejF3MFlrdnJudEdkenkzb0NuTVRHUEk4eURMTEFjMTFib3h1eW9HZkx1QklHLWV4TXhvdDFiaG9uMDVMZXJaVWp0MU5Sb1BuYldpTlNDcXFZZ0oxbzdNenVudw?oc=5",
-    "published": "Sun, 02 Aug 2026 02:37:00 GMT",
-    "fetched_at": "2026-08-02 17:07:31",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "해운",
-      "증시 전반"
-    ],
-    "keywords": [
-      "미국",
-      "이란",
-      "공격 취소",
-      "지정학",
-      "유가",
-      "중동"
-    ],
-    "reason": "미국의 이란 공격 취소는 중동 지역의 지정학적 위험을 완화하고, 이는 국제 유가 상승 압력을 경감시키며 전반적인 시장의 위험 회피 심리를 개선할 것입니다.",
-    "action_point": "중동 지정학적 위험 완화에 따른 유가 안정화 및 전반적인 투자심리 개선을 반영하여 위험자산 비중 유지 또는 확대 검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "정부, 증시 긴급조치권한 확보 착수…금융위기·코로나 복기 - 연합뉴스",
-    "title_ko": "정부, 증시 긴급조치권한 확보 착수…금융위기·코로나 복기",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WVTBvcm56U3loQjROVWVSMkRLOU5fUTZqRkVJVDZzeHhBNFFiMktPbzlqRkVTQ0VaR2FOeEhQQkd3ai12Q1J1SVNLN2czR2NFTWEtclMxQXVxdGvSAWBBVV95cUxOdlBfYk9tT2pnQXdpZTJhS196bUZySlVlSS1FSE02TDZ2aVVjd0tmYVl5elJia25NWmt0bmx4MndMR09EM0Y0bUJ1b3hKd3ZEVm5IZkk1SXNSSVJQVmhxUmE?oc=5",
-    "published": "Sat, 01 Aug 2026 20:49:00 GMT",
-    "fetched_at": "2026-08-02 17:07:39",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "전반적 시장",
-      "금융"
-    ],
-    "keywords": [
-      "정부",
-      "증시",
-      "긴급조치",
-      "금융위기",
-      "시장안정"
-    ],
-    "reason": "정부가 과거 위기 상황을 복기하며 증시 긴급조치 권한 확보에 나서는 것은 잠재적 시장 불안정에 대한 정부의 인식을 반영하며, 시장 참여자들에게는 경기 및 증시 하방 위험에 대한 경고로 해석될 수 있습니다. 이는 향후 시장 변동성 확대 시 정부의 개입 가능성을 시사하나, 동시에 현재 시장이 안고 있는 불안 요소를 부각시킵니다.",
-    "action_point": "국내 증시의 잠재적 하방 위험에 대비하여 포트폴리오의 방어적 자산 비중을 점검하고 유동성을 확보하라."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "An exam leak in India exposed a Gen Z jobs crisis that goes much deeper",
-    "title_ko": "인도 시험 유출 사태, Z세대 고용 위기의 심각성을 드러내다",
-    "link": "https://www.cnbc.com/2026/08/02/india-exam-leak-protests-jobs-crisis-gen-z-unemployment-modi.html",
-    "published": "Sun, 02 Aug 2026 05:18:21 GMT",
-    "fetched_at": "2026-08-02 17:06:30",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "소비재",
-      "부동산",
-      "교육"
-    ],
-    "keywords": [
-      "인도",
-      "실업",
-      "Z세대",
-      "사회 불안",
-      "신흥국"
-    ],
-    "reason": "이 뉴스는 인도 내 Z세대 고용 위기와 사회 불안 심화를 나타내며, 이는 인도의 장기적인 경제 성장과 소비 잠재력에 부정적인 영향을 미칠 수 있다.",
-    "action_point": "인도 경제의 사회적 리스크 확대를 고려하여, 인도 시장 관련 투자 비중의 점진적 조정을 검토."
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "\"21조 투입해 피지컬AI 생태계 구축 … 경남, 제조혁신 중심으로\"",
-    "title_ko": "21조 투입해 피지컬AI 생태계 구축 … 경남, 제조혁신 중심으로",
-    "link": "https://www.mk.co.kr/news/society/12114497",
-    "published": "Sun, 02 Aug 2026 17:01:09 +09:00",
-    "fetched_at": "2026-08-02 17:07:54",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "인공지능",
-      "로봇",
-      "자동화",
-      "스마트팩토리",
-      "제조업"
-    ],
-    "keywords": [
-      "피지컬 AI",
-      "제조혁신",
-      "경상남도 투자",
-      "산업 자동화",
-      "로봇 산업"
-    ],
-    "reason": "경상남도의 21조 원 규모 피지컬 AI 및 제조혁신 생태계 구축 계획은 해당 지역 및 관련 산업의 장기 성장 동력을 제공하며, 첨단 제조업 역량 강화를 통해 AI 및 자동화 솔루션 기업에 긍정적 영향을 미칠 것으로 예상된다.",
-    "action_point": "경상남도 기반 또는 관련 피지컬 AI 및 제조 자동화 솔루션 기업의 포트폴리오 편입을 검토하라."
   }
 ]
