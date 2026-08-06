@@ -2,6 +2,78 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "Airbnb stock soars 9% on earnings and revenue beat, strong guidance for third quarter",
+    "title_ko": "에어비앤비 주가, 실적 및 매출 예상치 상회와 3분기 강력한 가이던스에 9% 급등",
+    "link": "https://www.cnbc.com/2026/08/06/airbnb-abnb-q2-earningsreport.html",
+    "published": "Thu, 06 Aug 2026 22:01:34 GMT",
+    "fetched_at": "2026-08-07 08:50:44",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "여행 및 관광",
+      "숙박업",
+      "이커머스/플랫폼"
+    ],
+    "keywords": [
+      "에어비앤비",
+      "실적발표",
+      "여행수요",
+      "온라인여행플랫폼"
+    ],
+    "reason": "에어비앤비의 호실적은 글로벌 여행 수요가 예상보다 강하게 회복되고 있음을 시사하며, 이는 전반적인 소비 지표 개선과 서비스 섹터 투자심리에 긍정적 영향을 미칠 수 있습니다.",
+    "action_point": "글로벌 여행 회복 수혜 섹터(항공, 숙박, 면세 등) 비중 확대 검토"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "SpaceX stock could face further pressure as first batch of shares unlock since IPO",
+    "title_ko": "스페이스X, IPO 이후 첫 내부자 주식 락업 해제로 추가 하방 압력 직면 가능성",
+    "link": "https://www.cnbc.com/2026/08/06/spacex-faces-test-as-shares-unlock-allowing-early-investors-cash-out.html",
+    "published": "Thu, 06 Aug 2026 15:19:56 GMT",
+    "fetched_at": "2026-08-07 08:50:27",
+    "sentiment": "악재",
+    "importance": 2,
+    "sectors": [
+      "우주항공",
+      "기술주",
+      "사모시장"
+    ],
+    "keywords": [
+      "스페이스X",
+      "락업 해제",
+      "내부자 매도",
+      "비상장 기업"
+    ],
+    "reason": "스페이스X 내부자 주식 락업 해제는 해당 기업 주가에 하방 압력을 가하며, 유사 비상장 기술 기업 투자심리에 부정적 영향을 미칠 수 있습니다.",
+    "action_point": "비상장 우주항공 및 기술 기업 투자 포트폴리오의 밸류에이션 리스크를 점검하십시오."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "From birth to brokerage: Why South Korea is seeing a surge in infant investment accounts",
+    "title_ko": "출생부터 증권까지: 왜 한국에서 영유아 투자 계좌가 급증하는가",
+    "link": "https://www.cnbc.com/2026/08/07/south-korea-investment-stock-baby-accounts.html",
+    "published": "Thu, 06 Aug 2026 23:42:20 GMT",
+    "fetched_at": "2026-08-07 08:50:39",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "증권/금융",
+      "자산운용"
+    ],
+    "keywords": [
+      "영유아 투자",
+      "증권 계좌",
+      "장기 투자",
+      "한국 증시",
+      "소액 투자"
+    ],
+    "reason": "한국 내 장기 소액 투자 문화 확산을 보여주며, 향후 국내 증시의 개인 투자자 기반 강화와 유동성 증가에 기여할 수 있는 장기적인 추세입니다. 단기 시장 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "'AI Kill Switch' bill needs to be passed this year amid ongoing rogue agent hacks, Rep. Lieu says",
     "title_ko": "AI 킬 스위치 법안, 계속되는 악성 AI 에이전트 해킹 사태 속 올해 통과 필요해 보여",
     "link": "https://www.cnbc.com/2026/08/06/ai-kill-switch-bill-openai-anthropic-meta.html",
@@ -2872,83 +2944,5 @@
     "reason": "트럼프의 발언은 향후 잠재적 정책 방향을 시사하며, 지정학적 갈등 시 정유사 이익에 대한 규제 및 압력 가능성을 높여 에너지 섹터에 정치적 불확실성을 가중시킨다. 이는 유가 흐름에도 간접적인 영향을 미칠 수 있다.",
     "action_point": "미국 대선 결과 및 에너지 정책 변화 가능성을 주시하며, 대형 정유사 등 에너지 관련 자산 비중 조정 여부를 검토.",
     "market": "GLOBAL"
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Hugging Face CEO says China is winning the AI race and dominating on open models",
-    "title_ko": "Hugging Face CEO, 중국이 AI 경쟁에서 승리하고 오픈 모델을 지배하고 있다고 언급",
-    "link": "https://www.cnbc.com/2026/08/03/hugging-face-china-ai-race-open-models.html",
-    "published": "Mon, 03 Aug 2026 17:28:17 GMT",
-    "fetched_at": "2026-08-04 04:19:56",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "인공지능 소프트웨어",
-      "반도체 (AI 칩)",
-      "클라우드 컴퓨팅",
-      "기술주 (빅테크)"
-    ],
-    "keywords": [
-      "AI",
-      "중국",
-      "오픈소스 AI",
-      "기술 경쟁",
-      "산업 패권"
-    ],
-    "reason": "이 발언은 AI 기술 패권 경쟁에서 중국의 부상을 시사하며, 글로벌 AI 시장의 경쟁 심화와 미국 기술 기업들의 독점적 지위에 대한 도전으로 해석될 수 있다.",
-    "action_point": "미국 중심 AI 기술주 포트폴리오의 리스크를 재평가하고, 중국 AI 관련 기업으로의 투자 다각화를 모색하라.",
-    "market": "GLOBAL"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "현대전 새 표적된 AI 데이터센터…美·이란 전쟁서 5곳 피격 - 연합뉴스",
-    "title_ko": "현대전 새 표적된 AI 데이터센터…美·이란 전쟁서 5곳 피격",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yMTl3TWJfTEZzSWNRU21kd1ppUkhTTE9EbExIMDRVLXlMOF9obEJXbUVyOFFaWkRoS1lmdjl0Y1Zya0VWNVVKYmh1VmJJV0NCSmg0TGotUEd1WWPSAWBBVV95cUxNVnZqVmZjZDNteFJSMVJ2OUdvLTBIaXhkSm5LWV9lM0RBQ0FYOTBKalNtN2taU1FZeGhrQ21YRnV4NlUxbU40Z3VkNzNTUWlxMUU5RkJKYnZGZ21BQjRQRDE?oc=5",
-    "published": "Mon, 03 Aug 2026 14:34:51 GMT",
-    "fetched_at": "2026-08-04 02:47:44",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "AI",
-      "반도체",
-      "클라우드",
-      "사이버보안",
-      "방산",
-      "에너지"
-    ],
-    "keywords": [
-      "AI 데이터센터",
-      "미·이란 전쟁",
-      "지정학",
-      "사이버 안보",
-      "기술 인프라"
-    ],
-    "reason": "AI 데이터센터가 현대전의 새로운 표적이 되었다는 소식은 지정학적 리스크가 첨단 기술 인프라로 확장됨을 의미합니다. 이는 글로벌 기술 공급망 불안정성을 증대시키고, AI 및 반도체 섹터의 투자 리스크를 높이며, 사이버 보안 시장의 중요성을 부각시킵니다.",
-    "action_point": "글로벌 기술주의 지정학적 리스크 노출도를 재평가하고, 사이버 보안 관련 섹터 투자 비중 확대를 고려하라.",
-    "market": "KR"
-  },
-  {
-    "source": "CNBC_Finance",
-    "title": "Kalshi traders think July jobs report will come in slightly cooler than economists’ predictions",
-    "title_ko": "Kalshi 트레이더들, 7월 고용 보고서가 이코노미스트 예측보다 소폭 둔화될 것으로 예상",
-    "link": "https://www.cnbc.com/2026/08/03/kalshi-traders-think-july-jobs-will-come-in-cooler-than-estimates.html",
-    "published": "Mon, 03 Aug 2026 15:59:04 GMT",
-    "fetched_at": "2026-08-04 02:47:21",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "주식 시장 전반",
-      "경기 민감 섹터",
-      "금리 민감 섹터"
-    ],
-    "keywords": [
-      "고용 보고서",
-      "경기 둔화",
-      "금리 인상",
-      "연준"
-    ],
-    "reason": "이 소식은 7월 고용 보고서가 예상보다 크게 둔화될 가능성을 시사하며, 이는 경기 둔화 우려를 증폭시키고 증시 전반에 하방 압력을 가할 수 있습니다.",
-    "action_point": "미국 고용 보고서 발표 전까지 위험 자산 비중을 축소하고, 방어적 자산 편입을 검토하라.",
-    "market": "US"
   }
 ]
