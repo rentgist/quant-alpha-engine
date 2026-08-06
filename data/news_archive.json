@@ -1,6 +1,98 @@
 [
   {
     "source": "CNBC_World",
+    "title": "JPMorgan's Jamie Dimon warns of high leverage: 'Somebody will disrupt the market'",
+    "title_ko": "JP모건 제이미 다이먼, 높은 레버리지 경고: '누군가 시장을 교란할 것'",
+    "link": "https://www.cnbc.com/2026/08/06/jpmorgan-jamie-dimon-leverage-market-disruption.html",
+    "published": "Thu, 06 Aug 2026 02:02:39 GMT",
+    "fetched_at": "2026-08-06 13:56:56",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "금융",
+      "부동산",
+      "모든 자산"
+    ],
+    "keywords": [
+      "레버리지",
+      "시장 불안정성",
+      "금융 시스템 리스크",
+      "신용 경색"
+    ],
+    "reason": "JP모건 CEO의 높은 레버리지 경고는 금융 시장 내 잠재적 시스템 리스크를 부각하며, 신용 경색 및 시장 변동성 확대 가능성을 시사하여 투자 심리 위축으로 이어질 수 있습니다.",
+    "action_point": "고레버리지 자산 및 신용 리스크에 민감한 포트폴리오 비중 축소 검토."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "Asia tech sell-off has not derailed AI investment cycle, J.P. Morgan says",
+    "title_ko": "아시아 기술주 매도세에도 AI 투자 사이클은 꺾이지 않았다, J.P. 모건 발표",
+    "link": "https://www.cnbc.com/2026/08/06/asia-tech-sell-off-has-not-derailed-ai-investment-cycle-jp-morgan-says.html",
+    "published": "Thu, 06 Aug 2026 03:43:32 GMT",
+    "fetched_at": "2026-08-06 13:57:04",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "기술주",
+      "반도체",
+      "인공지능"
+    ],
+    "keywords": [
+      "아시아 기술주",
+      "AI 투자",
+      "반도체",
+      "J.P. 모건",
+      "조정"
+    ],
+    "reason": "J.P. 모건은 최근 아시아 기술주 및 반도체 지수의 25~30% 조정에도 불구하고 AI 투자 사이클이 여전히 견고함을 강조하며, 이는 단기적인 가격 조정이지 추세의 붕괴가 아님을 시사한다.",
+    "action_point": "AI 및 반도체 관련 기술주에 대한 장기적 관점을 유지하고, 최근 조정을 매수 기회로 활용할지 검토."
+  },
+  {
+    "source": "Maeil_Business",
+    "title": "“상장폐지 칼바람 막아라”… 상장사 규제 대응 잰걸음 나선 로펌들",
+    "title_ko": "“상장폐지 칼바람 막아라”… 상장사 규제 대응 잰걸음 나선 로펌들",
+    "link": "https://www.mk.co.kr/news/society/12119098",
+    "published": "Thu, 06 Aug 2026 13:50:58 +09:00",
+    "fetched_at": "2026-08-06 13:57:24",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "중소형주",
+      "코스닥 기업"
+    ],
+    "keywords": [
+      "상장폐지",
+      "규제 강화",
+      "자본시장",
+      "기업 지배구조"
+    ],
+    "reason": "로펌들의 움직임은 하반기 국내 자본시장의 상장폐지 리스크 증가와 규제 강화를 예고합니다. 이는 재무 건전성이 취약하거나 지배구조에 문제가 있는 상장사들에 대한 투자 심리 위축으로 이어질 수 있습니다.",
+    "action_point": "재무 건전성이 취약하거나 지배구조 이슈가 있는 국내 중소형주 비중 축소를 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "title": "고양시, 지역순환경제 구축 + 미래산업 육성… 두 마리 토끼 잡는다 - 문화일보",
+    "title_ko": "고양시, 지역순환경제 구축 + 미래산업 육성… 두 마리 토끼 잡는다",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1UblhxUjhKZnJaSFRmVFgxc0JSU2thZS1YUl9vX2Niem9ZREZWWkRRYldDMjFBMHZEMmhWUnRoR1Q0aV9HZlI3MlNMOFB2dldU?oc=5",
+    "published": "Thu, 06 Aug 2026 00:55:17 GMT",
+    "fetched_at": "2026-08-06 13:57:14",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "지역 경제",
+      "친환경 산업",
+      "첨단산업"
+    ],
+    "keywords": [
+      "고양시",
+      "지역순환경제",
+      "미래산업",
+      "지역경제활성화"
+    ],
+    "reason": "고양시의 지역순환경제 구축 및 미래산업 육성 계획은 해당 지역 경제 활성화에 긍정적이나, 국가 거시경제 전반이나 주요 투자 자산군에 미치는 직접적인 영향은 제한적이다. 이는 주로 지방 차원의 발전 전략에 해당한다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
     "title": "CNBC Daily Open: Iran, Oman in talks on Hormuz; SpaceX is loyal to Nvidia on AI",
     "title_ko": "CNBC 데일리 오픈: 이란과 오만, 호르무즈 해협 논의; 스페이스X는 AI 분야에서 엔비디아에 집중",
     "link": "https://www.cnbc.com/2026/08/06/us-iran-oman-hormuz-amd-nvidia-musk-spacex-.html",
@@ -2765,107 +2857,5 @@
     ],
     "reason": "미국과 일본의 공동 엔화 매수 개입은 엔화 약세 압력을 완화하고 외환 시장의 변동성을 줄여 안정화에 기여할 것이다. 이는 글로벌 금융 시장의 불확실성을 일부 해소하는 요인으로 작용한다.",
     "action_point": "달러 대비 엔화 강세가 원화에 미칠 상대적 영향을 고려하여 환 노출 자산의 비중을 점검하라."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "CNBC Daily Open: Markets exhale as Trump steps back, OPEC+ steps up",
-    "title_ko": "CNBC 데일리 오픈: 트럼프의 철회와 OPEC+ 증산에 시장 안도",
-    "link": "https://www.cnbc.com/2026/08/03/trump-ceasefire-nuclear-deal-strait-of-hormuz-opec-oil-output-.html",
-    "published": "Mon, 03 Aug 2026 01:02:45 GMT",
-    "fetched_at": "2026-08-03 10:54:27",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "항공",
-      "운송",
-      "소비재",
-      "정유",
-      "에너지",
-      "증시 전반"
-    ],
-    "keywords": [
-      "트럼프",
-      "이란",
-      "OPEC+",
-      "유가",
-      "지정학",
-      "증산",
-      "증시"
-    ],
-    "reason": "트럼프의 이란 공습 취소와 OPEC+의 증산 결정으로 유가 내 전쟁 프리미엄이 제거되어 하락했고, 이는 글로벌 지정학적 긴장 완화 및 에너지 비용 감소로 전반적인 증시 상승을 견인할 것이다.",
-    "action_point": "유가 하락 수혜가 예상되는 항공, 운송, 소비재 섹터 비중 확대를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Oil drops over 4% after Trump calls off planned strike on Iran",
-    "title_ko": "트럼프, 이란 공습 계획 철회 후 유가 4% 이상 하락",
-    "link": "https://www.cnbc.com/2026/08/03/oil-prices-today-wti-brent-hormuz-trump-iran.html",
-    "published": "Sun, 02 Aug 2026 23:33:07 GMT",
-    "fetched_at": "2026-08-03 08:51:05",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "정유/화학",
-      "항공",
-      "해운/물류",
-      "자동차/운수",
-      "소비재"
-    ],
-    "keywords": [
-      "유가",
-      "이란",
-      "트럼프",
-      "지정학적 리스크",
-      "원자재"
-    ],
-    "reason": "트럼프 대통령의 이란 공습 계획 철회는 중동 지역 지정학적 긴장 완화 및 글로벌 원유 공급 불확실성 감소로 이어져 유가 하락 압력을 가하고, 이는 전반적인 시장의 위험 회피 심리를 완화시킬 것입니다.",
-    "action_point": "항공, 해운, 화학 등 에너지 의존도가 높은 섹터의 매수 기회를 모색."
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "트럼프 “이란과 호르무즈 문제 합의…3일 오후 협상 시작”",
-    "title_ko": "트럼프 “이란과 호르무즈 문제 합의…3일 오후 협상 시작”",
-    "link": "https://www.mk.co.kr/news/world/12114770",
-    "published": "Mon, 03 Aug 2026 07:38:06 +09:00",
-    "fetched_at": "2026-08-03 07:45:36",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "항공/해운",
-      "화학",
-      "방산"
-    ],
-    "keywords": [
-      "트럼프",
-      "이란",
-      "호르무즈 해협",
-      "협상",
-      "지정학적 위험",
-      "유가"
-    ],
-    "reason": "이란과의 호르무즈 해협 관련 합의 및 협상 소식은 중동 지역 지정학적 긴장 완화를 의미하며, 이는 국제 유가의 지정학적 위험 프리미엄을 낮추는 요인으로 작용할 것입니다.",
-    "action_point": "국제 유가 하방 압력 발생 가능성에 대비하여 에너지 관련 자산 비중 조정 검토."
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "흔들리는 K증시, 연일 터지는 비상장치…사이드카, 서킷브레이커 뭐길래?",
-    "title_ko": "흔들리는 K증시, 연일 터지는 비상장치…사이드카, 서킷브레이커 뭐길래?",
-    "link": "https://www.mk.co.kr/news/stock/12114451",
-    "published": "Mon, 03 Aug 2026 05:00:00 +09:00",
-    "fetched_at": "2026-08-03 06:45:56",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "전반적 시장"
-    ],
-    "keywords": [
-      "K증시",
-      "시장 변동성",
-      "사이드카",
-      "서킷브레이커"
-    ],
-    "reason": "국내 증시의 고변동성 심화 및 비상장치 발동은 투자자 불안감을 증폭시키고, 전반적인 주식 투자 환경에 부정적인 영향을 미쳐 위험 회피 심리를 강화할 것입니다.",
-    "action_point": "국내 주식 포트폴리오 내 고변동성 종목 비중 축소 및 현금 비중 확대 고려."
   }
 ]
