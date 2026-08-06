@@ -7,17 +7,17 @@ import pytz
 
 # 검증된 미국 주요 매체 및 한국 매체 RSS 피드
 RSS_FEEDS = {
-    "WSJ_Business": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
-    "WSJ_Markets":  "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
-    "WSJ_World":    "https://feeds.a.dj.com/rss/RSSWorldNews.xml",       # 국제/전쟁/지정학
-    "CNBC_Finance": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
-    "CNBC_World":   "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100727362",
+    "WSJ_Business": ("https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml", "US"),
+    "WSJ_Markets":  ("https://feeds.a.dj.com/rss/RSSMarketsMain.xml", "US"),
+    "WSJ_World":    ("https://feeds.a.dj.com/rss/RSSWorldNews.xml", "GLOBAL"),
+    "CNBC_Finance": ("https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664", "US"),
+    "CNBC_World":   ("https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100727362", "GLOBAL"),
     "GoogleNews_Korea": (
         "https://news.google.com/rss/search?q=%EA%B2%BD%EC%A0%9C+OR+%EA%B5%AD%EC%A0%9C"
         "+OR+%EC%A0%84%EC%9F%81+OR+%EC%9C%84%EA%B8%B0+OR+%EB%A6%AC%EC%8A%A4%ED%81%AC"
-        "+OR+%EC%86%8D%EB%B3%B4&hl=ko&gl=KR&ceid=KR:ko"
+        "+OR+%EC%86%8D%EB%B3%B4&hl=ko&gl=KR&ceid=KR:ko", "KR"
     ),
-    "Maeil_Business": "https://www.mk.co.kr/rss/30000001/",              # 매일경제 경제 전문
+    "Maeil_Business": ("https://www.mk.co.kr/rss/30000001/", "KR"),
 }
 
 DATA_DIR  = "data"
