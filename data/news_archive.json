@@ -2,6 +2,101 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "'AI Kill Switch' bill needs to be passed this year amid ongoing rogue agent hacks, Rep. Lieu says",
+    "title_ko": "AI 킬 스위치 법안, 계속되는 악성 AI 에이전트 해킹 사태 속 올해 통과 필요해 보여",
+    "link": "https://www.cnbc.com/2026/08/06/ai-kill-switch-bill-openai-anthropic-meta.html",
+    "published": "Thu, 06 Aug 2026 14:57:11 GMT",
+    "fetched_at": "2026-08-07 00:08:00",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "기술",
+      "소프트웨어",
+      "반도체",
+      "사이버 보안"
+    ],
+    "keywords": [
+      "AI",
+      "인공지능",
+      "규제",
+      "킬 스위치",
+      "사이버 보안"
+    ],
+    "reason": "AI 모델의 보안 취약성과 악성 사용 가능성에 대한 우려가 커지면서 관련 규제 도입이 가속화될 수 있습니다. 이는 AI 기술 기업에 새로운 비용 부담과 성장 제약으로 작용할 가능성이 있습니다.",
+    "action_point": "AI 관련 기술주 및 소프트웨어 기업의 규제 리스크를 재평가하고 포트폴리오 비중 조정 검토"
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Traders on Kalshi now think it's likely that the S&P 500 will hit 8,000 in 2026",
+    "title_ko": "칼시 트레이더들, S&P 500 지수 2026년까지 8,000 도달 가능성 높게 전망",
+    "link": "https://www.cnbc.com/2026/08/06/traders-on-kalshi-say-its-likely-sp-500-will-hit-8000-in-2026.html",
+    "published": "Thu, 06 Aug 2026 14:48:42 GMT",
+    "fetched_at": "2026-08-07 00:07:29",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "기술",
+      "경기소비재"
+    ],
+    "keywords": [
+      "S&P 500",
+      "주식 시장 전망",
+      "강세장",
+      "투자 심리"
+    ],
+    "reason": "미국 주식 시장에 대한 낙관적 장기 전망을 제시하며, 투자자들의 위험 선호 심리를 강화하고 강세장 기조를 지속시킬 가능성이 있습니다.",
+    "action_point": "미국 시장 주식 자산, 특히 성장주 비중 유지 및 확대 검토."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Opinion: Demis Hassabis’ new role exposes Google’s AI balancing act",
+    "title_ko": "논평: 데미스 하사비스의 새 역할, 구글 AI 상업화-연구 균형점 찾기 숙제 노출",
+    "link": "https://www.cnbc.com/2026/08/06/demis-hassabis-google-reshuffle-deepmind-role.html",
+    "published": "Thu, 06 Aug 2026 13:15:41 GMT",
+    "fetched_at": "2026-08-07 00:07:53",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "기술",
+      "인공지능"
+    ],
+    "keywords": [
+      "구글",
+      "AI",
+      "상업화",
+      "연구개발"
+    ],
+    "reason": "구글의 AI 상업화 속도와 연구 개발 간의 내부적 균형점 모색이 부각되며, 이는 구글의 단기 AI 수익화 전략에 영향을 미칠 수 있음을 시사한다.",
+    "action_point": "구글의 AI 상업화 지연 가능성을 염두에 두고 AI 관련 기업 투자 시 각 기업의 실제 수익화 모델과 실행력을 우선적으로 평가하라."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Stocks making the biggest moves premarket: Zillow, Peloton, Sandisk, Moderna & more",
+    "title_ko": "프리마켓에서 가장 큰 움직임을 보이는 주식: 질로우, 펠로톤, 샌디스크, 모더나 외",
+    "link": "https://www.cnbc.com/2026/08/06/stocks-making-the-biggest-moves-premarket-.html",
+    "published": "Thu, 06 Aug 2026 12:14:08 GMT",
+    "fetched_at": "2026-08-07 00:07:41",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "기술",
+      "헬스케어",
+      "소비재"
+    ],
+    "keywords": [
+      "프리마켓",
+      "개별 주식",
+      "기업 이슈"
+    ],
+    "reason": "개별 기업의 프리마켓 주가 변동을 다루는 기사로, 특정 섹터나 전체 시장의 방향성을 제시하기보다는 개별 기업 이슈에 기인한 움직임으로 판단됩니다. 거시경제적 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "World's biggest spirits maker pops 7% on $1 billion cost-cutting plan",
     "title_ko": "세계 최대 주류 업체, 10억 달러 비용 절감 계획에 주가 7% 급등",
     "link": "https://www.cnbc.com/2026/08/06/diageo-savings-plan-restructuring-earnings-spirits.html",
@@ -2855,108 +2950,5 @@
     "reason": "이 소식은 7월 고용 보고서가 예상보다 크게 둔화될 가능성을 시사하며, 이는 경기 둔화 우려를 증폭시키고 증시 전반에 하방 압력을 가할 수 있습니다.",
     "action_point": "미국 고용 보고서 발표 전까지 위험 자산 비중을 축소하고, 방어적 자산 편입을 검토하라.",
     "market": "US"
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Jobs report and earnings: What NYSE insider Jay Woods is watching this week",
-    "title_ko": "고용 보고서와 실적: NYSE 내부자 제이 우즈가 이번 주 주목하는 것",
-    "link": "https://www.cnbc.com/2026/08/03/jobs-report-and-earnings-what-nyse-insider-jay-woods-is-watching-this-week.html",
-    "published": "Mon, 03 Aug 2026 17:13:02 GMT",
-    "fetched_at": "2026-08-04 02:47:35",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "전반적 주식 시장",
-      "금리 민감 섹터",
-      "소비재"
-    ],
-    "keywords": [
-      "고용 보고서",
-      "기업 실적",
-      "비농업 고용",
-      "미국 경제",
-      "금리",
-      "주식 시장"
-    ],
-    "reason": "미국 비농업 고용 지표는 연준의 통화 정책 방향에 큰 영향을 미치며, 기업 실적은 전반적인 경제 건전성과 주식 시장의 방향성을 결정하는 핵심 요인이므로 이번 주 시장의 변동성이 확대될 수 있습니다.",
-    "action_point": "미국 비농업 고용 지표 및 기업 실적 발표 결과에 따른 시장 방향성 변화에 대비하여 포트폴리오를 점검하라.",
-    "market": "GLOBAL"
-  },
-  {
-    "source": "CNBC_Finance",
-    "title": "California's diesel prices have jumped since the Iran war started, with ripple effects across the country",
-    "title_ko": "이란 전쟁 시작 이후 캘리포니아 디젤 가격 급등, 전국적 파급 효과 예상",
-    "link": "https://www.cnbc.com/2026/08/03/californias-diesel-prices-have-jumped-since-the-iran-war-started-with-ripple-effects-across-the-country.html",
-    "published": "Mon, 03 Aug 2026 15:27:52 GMT",
-    "fetched_at": "2026-08-04 00:38:05",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "운송/물류",
-      "소비재",
-      "제조업"
-    ],
-    "keywords": [
-      "디젤 가격",
-      "에너지",
-      "물류",
-      "인플레이션",
-      "지정학적 리스크"
-    ],
-    "reason": "이란 전쟁으로 인한 캘리포니아 디젤 가격 급등은 미국 전역의 물류 및 운송 비용을 상승시키고, 이는 상품 가격 인상으로 이어져 인플레이션 압력을 가중시킬 것입니다.",
-    "action_point": "에너지 관련 자산 비중을 확대하고, 운송 비용 민감 섹터 비중 축소를 검토하라.",
-    "market": "US"
-  },
-  {
-    "source": "CNBC_Finance",
-    "title": "Visa to buy cybersecurity firm BioCatch for $2.4 billion amid surge in AI-powered scams",
-    "title_ko": "비자, AI 기반 사기 급증 속 사이버보안 기업 바이오캐치 24억 달러에 인수",
-    "link": "https://www.cnbc.com/2026/08/03/visa-buys-biocatch-fraud-detection.html",
-    "published": "Mon, 03 Aug 2026 14:11:17 GMT",
-    "fetched_at": "2026-08-04 00:38:12",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "금융 서비스",
-      "사이버보안",
-      "핀테크"
-    ],
-    "keywords": [
-      "Visa",
-      "BioCatch",
-      "사이버보안",
-      "AI 사기",
-      "M&A",
-      "결제 시스템"
-    ],
-    "reason": "비자(Visa)의 사이버보안 기업 인수는 AI 기반 사기 위협 증가에 대응하며 결제 시스템의 안정성 강화에 기여할 것입니다. 이는 핀테크 산업 전반에 걸쳐 보안 솔루션의 중요성이 커지고 있음을 시사합니다.",
-    "action_point": "글로벌 핀테크 및 사이버보안 섹터 내 우량기업에 대한 투자 비중 확대를 검토하십시오.",
-    "market": "US"
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Amazon tops $3 trillion market cap as stock continues post-earnings surge",
-    "title_ko": "아마존, 실적 발표 후 주가 상승세 이어가며 시가총액 3조 달러 돌파",
-    "link": "https://www.cnbc.com/2026/08/03/amazon-amzn-stock-market-cap-earnings.html",
-    "published": "Mon, 03 Aug 2026 15:35:00 GMT",
-    "fetched_at": "2026-08-04 00:38:31",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "기술주",
-      "전자상거래",
-      "클라우드 컴퓨팅"
-    ],
-    "keywords": [
-      "아마존",
-      "시가총액",
-      "빅테크",
-      "주가상승",
-      "실적"
-    ],
-    "reason": "아마존의 시가총액 3조 달러 돌파는 빅테크 기업들의 견고한 실적과 성장성에 대한 시장의 강한 신뢰를 보여줍니다. 이는 전반적인 기술주 강세와 시장 낙관론을 지지할 수 있습니다.",
-    "action_point": "글로벌 빅테크 성장주에 대한 투자 비중을 유지하라.",
-    "market": "GLOBAL"
   }
 ]
