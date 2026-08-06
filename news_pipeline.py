@@ -117,7 +117,7 @@ def main():
     existing_links = {item.get("link", "") for item in archive}
     new_items = []
 
-    for source_name, url in RSS_FEEDS.items():
+    for source_name, (url, market) in RSS_FEEDS.items():
         print(f"\n📡 [{source_name}] 수집 중...")
         try:
             feed = feedparser.parse(url)
@@ -151,6 +151,7 @@ def main():
 
             news_obj = {
                 "source":       source_name,
+            "market": market,
                 "title":        title,
                 "title_ko":     classification.get("title_ko", title),   # ← 한국어 번역 저장
                 "link":         link,
