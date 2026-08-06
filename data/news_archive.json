@@ -1,6 +1,52 @@
 [
   {
     "source": "CNBC_World",
+    "title": "CNBC Daily Open: Iran, Oman in talks on Hormuz; SpaceX is loyal to Nvidia on AI",
+    "title_ko": "CNBC 데일리 오픈: 이란과 오만, 호르무즈 해협 논의; 스페이스X는 AI 분야에서 엔비디아에 집중",
+    "link": "https://www.cnbc.com/2026/08/06/us-iran-oman-hormuz-amd-nvidia-musk-spacex-.html",
+    "published": "Thu, 06 Aug 2026 01:41:55 GMT",
+    "fetched_at": "2026-08-06 10:43:25",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "해운/물류",
+      "반도체/AI"
+    ],
+    "keywords": [
+      "호르무즈 해협",
+      "지정학",
+      "석유",
+      "엔비디아",
+      "AI"
+    ],
+    "reason": "호르무즈 해협을 둘러싼 지정학적 리스크 완화 기대감이 시장 전반의 낙관론을 확산시키고 유가 안정에 기여하며, AI 분야의 견조한 수요가 지속되고 있음을 시사한다.",
+    "action_point": "호르무즈 해협 긴장 완화에 따른 유가 하향 안정화와 AI 산업 성장 기조를 감안하여 위험자산에 대한 기존 투자 비중을 유지하라."
+  },
+  {
+    "source": "CNBC_World",
+    "title": "U.S. is ready to return to 'commitments,' Iran says, after Trump signals deal is near",
+    "title_ko": "이란, 트럼프의 협상 임박 신호 후 미국이 '약속'으로 돌아올 준비가 되어 있다고 밝혀",
+    "link": "https://www.cnbc.com/2026/08/06/us-iran-war-hormuz-trump-bessent-deal.html",
+    "published": "Thu, 06 Aug 2026 01:31:30 GMT",
+    "fetched_at": "2026-08-06 10:43:15",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "에너지",
+      "정유"
+    ],
+    "keywords": [
+      "미국-이란 관계",
+      "핵협상",
+      "유가",
+      "지정학적 리스크"
+    ],
+    "reason": "트럼프의 협상 임박 발언은 지정학적 리스크 완화 기대를 높일 수 있으나, 이란 측의 즉각적인 부인으로 인해 불확실성이 지속되며 유가 변동성에 영향을 줄 수 있다.",
+    "action_point": "미국-이란 관계의 불확실성이 지속됨에 따라 유가 변동성 확대 가능성에 대비하여 에너지 관련 자산 비중을 신중하게 조절하라."
+  },
+  {
+    "source": "CNBC_World",
     "title": "Thursday's big stock stories: What’s likely to move the market in the next trading session",
     "title_ko": "목요일 주요 증시 이슈: 다음 거래일에 시장을 움직일 요인은 무엇인가",
     "link": "https://www.cnbc.com/2026/08/05/thursdays-big-stock-stories-whats-likely-to-move-the-market.html",
@@ -2821,51 +2867,5 @@
     ],
     "reason": "국내 증시의 고변동성 심화 및 비상장치 발동은 투자자 불안감을 증폭시키고, 전반적인 주식 투자 환경에 부정적인 영향을 미쳐 위험 회피 심리를 강화할 것입니다.",
     "action_point": "국내 주식 포트폴리오 내 고변동성 종목 비중 축소 및 현금 비중 확대 고려."
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "튀르키예 공장에 뜬 정의선…유럽 공략할 ‘비장의 무기’ 있다는데",
-    "title_ko": "튀르키예 공장에 뜬 정의선…유럽 공략할 ‘비장의 무기’ 있다는데",
-    "link": "https://www.mk.co.kr/news/business/12114748",
-    "published": "Mon, 03 Aug 2026 06:05:22 +09:00",
-    "fetched_at": "2026-08-03 06:45:50",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "자동차",
-      "전기차",
-      "자동차 부품"
-    ],
-    "keywords": [
-      "정의선",
-      "현대자동차",
-      "튀르키예",
-      "유럽",
-      "소형EV",
-      "아이오닉3"
-    ],
-    "reason": "현대차그룹의 유럽 소형 전기차 시장 공략 강화는 한국 자동차 산업의 글로벌 경쟁력과 수출 전망에 긍정적이며, 관련 공급망에도 호재로 작용할 수 있습니다.",
-    "action_point": "현대차 및 관련 부품주에 대한 포트폴리오 비중 확대 검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "[경제 단신] 현대엔지니어링, 새 가치체계 선포 외 - v.daum.net",
-    "title_ko": "[경제 단신] 현대엔지니어링, 새 가치체계 선포 외",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMLXJfbkw2TUxvNS14WXM1WHpwQm9uX2p5Qzl5bHo5ODFLd3kteHZfUE1YQ1ItS1ltU0xreFdqUjhUZU1wcUo4ZXlxdFV5Z2s?oc=5",
-    "published": "Sun, 02 Aug 2026 20:03:20 GMT",
-    "fetched_at": "2026-08-03 06:45:41",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "건설",
-      "엔지니어링"
-    ],
-    "keywords": [
-      "현대엔지니어링",
-      "가치체계",
-      "기업전략"
-    ],
-    "reason": "현대엔지니어링의 내부 가치체계 선포는 개별 기업의 중장기 경영 전략의 일환으로, 거시 경제 또는 특정 투자 자산군 전반에 미칠 유의미한 영향은 없습니다.",
-    "action_point": "해당 없음"
   }
 ]
