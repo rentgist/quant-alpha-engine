@@ -1,5 +1,31 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "폭염·전쟁에…세계 식량가격지수 3년반 만에 최고 수준 - yonhapnewstv.co.kr",
+    "title_ko": "폭염·전쟁에…세계 식량가격지수 3년반 만에 최고 수준",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5BVVNXMzM3Q3VUczJIeEFXNnE5ZzlrZ0I0YWdHb0VtaG5ObVV6Qkc2XzlJLU42WDhDTXI1T2stQ3NoTm82RjRfQnNxOU1ONWhwcG1WS2todHQ2VHJRQzJ2b01jS0R0NEk?oc=5",
+    "published": "Fri, 07 Aug 2026 14:05:00 GMT",
+    "fetched_at": "2026-08-08 01:42:24",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "식품/음료",
+      "유통",
+      "농업",
+      "소비재"
+    ],
+    "keywords": [
+      "식량가격지수",
+      "인플레이션",
+      "폭염",
+      "전쟁",
+      "원자재"
+    ],
+    "reason": "지정학적 갈등과 기후변화로 인한 식량가격지수 상승은 전 세계적인 인플레이션 압력을 가중시키고 고금리 기조를 장기화할 가능성이 높습니다. 이는 한국의 물가 상승 및 소비 심리 위축으로 이어질 수 있습니다.",
+    "action_point": "식품 물가 상승에 따른 인플레이션 장기화에 대비하여 필수소비재 섹터 비중 확대를 검토하라."
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "U.S. economy unexpectedly lost 23,000 jobs in July",
@@ -2922,30 +2948,5 @@
     "reason": "미국과 이란 간 호르무즈 해협 자유 통행 합의 가능성은 중동 지정학적 긴장 완화 및 글로벌 원유 공급 안정화를 의미한다. 이는 유가 하락 압력으로 이어져 인플레이션 완화 및 위험자산 투자 심리 개선에 기여할 수 있다.",
     "action_point": "원자재 중 유가 관련 자산 비중 축소를 검토하고, 유가 하락 수혜 섹터(항공, 해운, 소비재 등)에 대한 투자 확대를 고려하라.",
     "market": "GLOBAL"
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "1조규모 정책펀드 불붙었다...바이오주 급등에 코스닥 3연속 매수 사이드카",
-    "title_ko": "1조규모 정책펀드 불붙었다...바이오주 급등에 코스닥 3연속 매수 사이드카",
-    "link": "https://www.mk.co.kr/news/stock/12116914",
-    "published": "Tue, 04 Aug 2026 22:48:03 +09:00",
-    "fetched_at": "2026-08-05 00:17:20",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "바이오",
-      "헬스케어",
-      "코스닥 성장주"
-    ],
-    "keywords": [
-      "정책펀드",
-      "바이오주",
-      "코스닥",
-      "사이드카",
-      "기관 매수"
-    ],
-    "reason": "1조 규모 정책펀드 조성과 기관의 대규모 순매수가 바이오 섹터를 중심으로 코스닥 시장의 급등을 주도하며 전반적인 투자심리 개선과 성장주 강세를 시사합니다.",
-    "action_point": "바이오 및 코스닥 성장주 섹터에 대한 투자 비중 확대를 검토하십시오.",
-    "market": "KR"
   }
 ]
