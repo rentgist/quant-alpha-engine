@@ -2,6 +2,83 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "Iran's chief negotiator accuses Trump of 'theater diplomacy' with Hormuz traffic near standstill",
+    "title_ko": "이란 수석 협상가, 호르무즈 해협 통행 마비 속 트럼프의 '극장 외교' 비난",
+    "link": "https://www.cnbc.com/2026/08/07/us-iran-war-trump-hormuz-diplomacy-oil-.html",
+    "published": "Fri, 07 Aug 2026 01:46:01 GMT",
+    "fetched_at": "2026-08-07 11:08:40",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "에너지",
+      "해운/물류",
+      "방산"
+    ],
+    "keywords": [
+      "이란",
+      "호르무즈 해협",
+      "지정학적 리스크",
+      "유가",
+      "중동"
+    ],
+    "reason": "중동 지역 갈등이 심화되며 호르무즈 해협을 통한 글로벌 원유 공급망이 위협받고 있어 국제유가 상승 및 시장의 위험 회피 심리가 고조될 것으로 예상됩니다.",
+    "action_point": "중동 지정학적 리스크 고조에 따른 국제유가 상승 압력 및 위험자산 회피 심리 강화에 대비하여 에너지 섹터 비중 확대 및 방산주 편입을 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "S&P 500 futures are little changed as traders await big jobs report: Live updates",
+    "title_ko": "S&P 500 선물, 주요 고용 보고서 발표를 앞두고 소폭 변동",
+    "link": "https://www.cnbc.com/2026/08/06/stock-market-today-live-updates.html",
+    "published": "Fri, 07 Aug 2026 01:55:55 GMT",
+    "fetched_at": "2026-08-07 11:08:53",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "전반적인 주식 시장",
+      "기술주",
+      "금융주",
+      "부동산"
+    ],
+    "keywords": [
+      "S&P 500 선물",
+      "고용 보고서",
+      "미국 경제",
+      "금리 정책",
+      "시장 변동성"
+    ],
+    "reason": "미국 고용 보고서는 연준의 향후 통화 정책 방향을 결정하는 핵심 지표로, 시장은 이 결과에 따라 금리 기대치 및 주식, 채권 시장의 변동성이 크게 확대될 수 있습니다.",
+    "action_point": "미국 고용 보고서 발표 전까지 신규 포지션 진입을 유보하고, 결과에 따른 시나리오별 자산 배분 계획을 미리 수립하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "CNBC Daily Open: Trump's deal seems to be in dire straits",
+    "title_ko": "CNBC 데일리 오픈: 트럼프의 이란 협상, 난항에 부딪힌 듯",
+    "link": "https://www.cnbc.com/2026/08/07/cnbc-daily-open-trump-deal-iran-hormuz-straits-.html",
+    "published": "Fri, 07 Aug 2026 01:19:23 GMT",
+    "fetched_at": "2026-08-07 11:09:03",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "원유/에너지",
+      "방산",
+      "금"
+    ],
+    "keywords": [
+      "트럼프",
+      "이란",
+      "핵협상",
+      "원유",
+      "지정학적 리스크",
+      "유가"
+    ],
+    "reason": "트럼프의 이란 협상 무산 가능성은 중동 지역의 지정학적 긴장을 고조시키고, 이란산 원유 공급에 대한 불확실성을 증폭시켜 유가 상승 압력으로 작용할 수 있습니다.",
+    "action_point": "지정학적 리스크 심화 및 유가 상승 압력에 대비하여 에너지/방산 관련 자산 비중 확대를 검토하고, 안전자산인 금 투자를 고려하십시오."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "Airbnb stock soars 9% on earnings and revenue beat, strong guidance for third quarter",
     "title_ko": "에어비앤비 주가, 실적 및 매출 예상치 상회와 3분기 강력한 가이던스에 9% 급등",
     "link": "https://www.cnbc.com/2026/08/06/airbnb-abnb-q2-earningsreport.html",
@@ -2872,77 +2949,5 @@
     "reason": "미국-이란 갈등 고조와 AI 데이터센터의 피격 가능성으로 지정학적 리스크가 심화되고, 에너지 시장의 불안정성 및 글로벌 기술 인프라의 사이버 보안 우려를 증폭시킨다.",
     "action_point": "원유 및 방산 관련 자산 비중 확대를 검토하고, AI 인프라 관련주의 지정학적 리스크를 재평가하라.",
     "market": "KR"
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Palantir soars 12% on blowout quarter, with U.S. commercial revenue soaring nearly 150%",
-    "title_ko": "팔란티어, 실적 호조에 주가 12% 급등... 미국 상업 부문 매출 150% 가까이 폭증",
-    "link": "https://www.cnbc.com/2026/08/03/palantir-pltr-earnings-q2-2026.html",
-    "published": "Mon, 03 Aug 2026 20:53:16 GMT",
-    "fetched_at": "2026-08-04 05:56:02",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "인공지능",
-      "소프트웨어",
-      "기술주"
-    ],
-    "keywords": [
-      "팔란티어",
-      "AI",
-      "실적",
-      "매출",
-      "성장주"
-    ],
-    "reason": "팔란티어의 견조한 실적은 AI 산업 전반의 수요 강세와 성장 기대감을 재확인시켰습니다. 이는 기술 성장주, 특히 AI 관련 기업들에 대한 투자 심리를 개선할 것입니다.",
-    "action_point": "인공지능(AI) 관련 기술주 포트폴리오 비중 유지 또는 확대 검토.",
-    "market": "GLOBAL"
-  },
-  {
-    "source": "CNBC_Finance",
-    "title": "Stocks making the biggest moves after hours: Palantir, On Semiconductor, Snap & more",
-    "title_ko": "장 마감 후 가장 큰 변동을 보인 주식들: 팔란티어, 온 세미컨덕터, 스냅 등",
-    "link": "https://www.cnbc.com/2026/08/03/stocks-making-the-biggest-moves-after-hours-pltr-on-snap.html",
-    "published": "Mon, 03 Aug 2026 20:45:50 GMT",
-    "fetched_at": "2026-08-04 05:55:42",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "기술",
-      "반도체",
-      "소프트웨어"
-    ],
-    "keywords": [
-      "장외거래",
-      "기술주",
-      "개별주",
-      "주식 변동성"
-    ],
-    "reason": "이 기사는 특정 기술주들의 장외거래 변동을 보도할 뿐, 그 원인이나 거시경제적 함의에 대한 정보는 부재하여 시장 전반의 방향성을 제시하기 어렵습니다.",
-    "action_point": "해당 없음",
-    "market": "US"
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Trump says Exxon and Chevron made 'too much money' off high oil prices during Iran conflict: 'I don't like it'",
-    "title_ko": "트럼프, 이란 분쟁 중 정유사들이 '너무 많은 돈' 벌었다며 비판: '마음에 들지 않는다'",
-    "link": "https://www.cnbc.com/2026/08/03/trump-says-exxon-and-chevron-made-too-much-money-off-high-oil-prices-during-iran-conflict-i-dont-like-it.html",
-    "published": "Mon, 03 Aug 2026 19:19:33 GMT",
-    "fetched_at": "2026-08-04 04:20:10",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지"
-    ],
-    "keywords": [
-      "트럼프",
-      "석유",
-      "정유사",
-      "지정학",
-      "인플레이션"
-    ],
-    "reason": "트럼프의 발언은 향후 잠재적 정책 방향을 시사하며, 지정학적 갈등 시 정유사 이익에 대한 규제 및 압력 가능성을 높여 에너지 섹터에 정치적 불확실성을 가중시킨다. 이는 유가 흐름에도 간접적인 영향을 미칠 수 있다.",
-    "action_point": "미국 대선 결과 및 에너지 정책 변화 가능성을 주시하며, 대형 정유사 등 에너지 관련 자산 비중 조정 여부를 검토.",
-    "market": "GLOBAL"
   }
 ]
