@@ -1,5 +1,81 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Trump teased an Iran deal that didn't come, but markets soared. Here’s why it keeps happening",
+    "title_ko": "트럼프는 이란 협상을 암시했으나 성사되지 않았음에도 시장은 급등했다. 왜 이런 일이 계속 반복되는가?",
+    "link": "https://www.cnbc.com/2026/08/07/trump-iran-hormuz-deal-stocks-oil.html",
+    "published": "Fri, 07 Aug 2026 17:50:12 GMT",
+    "fetched_at": "2026-08-08 06:29:40",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "방산"
+    ],
+    "keywords": [
+      "트럼프",
+      "이란",
+      "유가",
+      "지정학",
+      "시장반응"
+    ],
+    "reason": "이란 협상에 대한 기대감만으로도 지정학적 리스크 프리미엄이 일시적으로 완화되어 시장이 긍정적으로 반응할 수 있음을 보여준다. 하지만 실제 협상 부재와 비축유 고갈 등의 요인은 이러한 시장 반응의 지속 가능성에 의문을 제기한다.",
+    "action_point": "이란 관련 지정학적 긴장 완화 기대감에 따른 유가 변동성에 단기적 대응보다 실질적 협상 진전을 주시하며 에너지 섹터 포지션을 조절하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Here are three key takeaways from the disappointing July jobs report",
+    "title_ko": "실망스러운 7월 고용 보고서의 세 가지 핵심 시사점",
+    "link": "https://www.cnbc.com/2026/08/07/here-are-three-key-takeaways-from-the-disappointing-july-jobs-report.html",
+    "published": "Fri, 07 Aug 2026 18:09:18 GMT",
+    "fetched_at": "2026-08-08 06:29:58",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "주식 시장 전반",
+      "채권 시장",
+      "환율 시장",
+      "금융"
+    ],
+    "keywords": [
+      "미국 고용",
+      "비농업 고용",
+      "실업률",
+      "연준 통화정책",
+      "경기 둔화"
+    ],
+    "reason": "미국 비농업 고용 감소는 경기 둔화 가능성을 시사하나, 실업률 하락은 여전히 타이트한 노동 시장을 나타내 연준의 금리 정책 방향에 대한 시장의 혼란을 가중시킬 것이다.",
+    "action_point": "미국 고용 시장의 혼조세가 연준의 통화정책 불확실성을 키우는 바, 포트폴리오의 금리 민감도와 경기 방어/민감 자산 비중을 점검하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Trump revives effort to fire Fed's Lisa Cook",
+    "title_ko": "트럼프, 연준 리사 쿡 이사 해고 시도 재개",
+    "link": "https://www.cnbc.com/2026/08/07/trump-lisa-cook-federal-reserve.html",
+    "published": "Fri, 07 Aug 2026 18:38:17 GMT",
+    "fetched_at": "2026-08-08 06:30:12",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "금융",
+      "채권"
+    ],
+    "keywords": [
+      "트럼프",
+      "연방준비제도",
+      "리사 쿡",
+      "중앙은행 독립성",
+      "통화정책",
+      "정치적 리스크",
+      "미국 대선"
+    ],
+    "reason": "트럼프의 연준 이사 해고 시도는 연준의 독립성 침해 우려를 증폭시키며, 향후 통화 정책의 불확실성을 높여 금융 시장 및 채권 시장에 부정적 영향을 미칠 수 있습니다.",
+    "action_point": "미국 대선 결과에 따른 연준 통화정책 불확실성 확대에 대비하여 포트폴리오의 방어적 성향을 강화하고 안전자산 비중 확대를 검토하라."
+  },
+  {
     "source": "GoogleNews_Korea",
     "market": "KR",
     "title": "\"푸틴, 전쟁 장기화 속 정보기관에 의존…통제 강화\" - 연합뉴스",
@@ -2870,78 +2946,6 @@
     ],
     "reason": "마이클 버리의 극단적 약세 전망은 광범위한 시장 불안감을 증폭시키고 투자자들의 위험 회피 심리를 자극할 수 있습니다. 특히 성장주 중심의 현 랠리에 대한 경고로, 전반적인 주식 시장의 조정 압력이 커질 수 있습니다.",
     "action_point": "투자 심리 위축 및 시장 전반의 조정 가능성에 대비하여 현금 비중 확대 또는 포트폴리오의 방어적 자산 편입을 고려해야 합니다.",
-    "market": "US"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "국제유가, 미·이란 협상 기대에 이틀째 급락…브렌트 5%↓ - v.daum.net",
-    "title_ko": "국제유가, 미·이란 협상 기대에 이틀째 급락…브렌트 5%↓",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE02dnFfSnJtNVNrTWJBMzFrNURsbWdKWjJQWXNEOEFQVzRJeHVheklWZFZEQ3FZY3dfMk9zSUVrYkJBZ1dIU2JCZ3JDcWxSNUU?oc=5",
-    "published": "Tue, 04 Aug 2026 19:25:39 GMT",
-    "fetched_at": "2026-08-05 06:02:59",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "항공",
-      "운송",
-      "화학",
-      "제조업"
-    ],
-    "keywords": [
-      "국제유가",
-      "미·이란 협상",
-      "유가 급락",
-      "인플레이션"
-    ],
-    "reason": "국제유가 하락은 글로벌 인플레이션 압력을 완화하고 한국과 같은 에너지 수입국 기업들의 비용 부담을 경감시켜 실질소득 및 기업 마진 개선에 긍정적 영향을 미칩니다. 이는 통화정책의 긴축 강도 완화 기대로 이어질 수 있습니다.",
-    "action_point": "항공, 운송, 화학 등 유가 하락 수혜 섹터에 대한 비중 확대를 검토하십시오.",
-    "market": "KR"
-  },
-  {
-    "source": "CNBC_Finance",
-    "title": "Kalshi strikes partnership with compliance tech firm to help companies police insider trading",
-    "title_ko": "칼시, 기업 내부자 거래 감시 지원 위해 규제 준수 기술 기업과 제휴",
-    "link": "https://www.cnbc.com/2026/08/04/kalshi-makes-partnership-with-comply-compliance-tech-company.html",
-    "published": "Tue, 04 Aug 2026 12:05:41 GMT",
-    "fetched_at": "2026-08-05 06:02:48",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "핀테크",
-      "규제준수기술"
-    ],
-    "keywords": [
-      "칼시",
-      "내부자거래",
-      "규제준수",
-      "핀테크"
-    ],
-    "reason": "이 뉴스는 칼시와 컴플라이의 파트너십으로 내부자 거래 감시 역량 강화에 기여하겠지만, 개별 기업 이슈로 거시경제나 금융시장 전반에 미치는 영향은 제한적이며 특정 기술 섹터에만 국한됩니다.",
-    "action_point": "해당 없음",
-    "market": "US"
-  },
-  {
-    "source": "CNBC_Finance",
-    "title": "Jeff Bezos just filed to sell $4 billion in Amazon. The shares are falling",
-    "title_ko": "제프 베이조스, 아마존 주식 40억 달러 매각 신고. 주가 하락",
-    "link": "https://www.cnbc.com/2026/08/04/jeff-bezos-just-filed-to-sell-4-billion-in-amazon-the-shares-are-falling.html",
-    "published": "Tue, 04 Aug 2026 16:14:49 GMT",
-    "fetched_at": "2026-08-05 02:29:25",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "기술주",
-      "성장주",
-      "전자상거래"
-    ],
-    "keywords": [
-      "제프 베이조스",
-      "아마존",
-      "주식 매각",
-      "차익실현"
-    ],
-    "reason": "아마존 창업자의 대규모 주식 매각은 최근 최고가를 경신한 기술주 전반에 대한 과열 및 차익실현 경계 심리를 자극하며 단기적인 조정을 유발할 수 있습니다. 이는 유동성 장세에서 성장주에 대한 투자심리 위축으로 이어질 가능성이 있습니다.",
-    "action_point": "기술주 및 성장주 섹터 포트폴리오의 단기 과열 여부를 점검하고, 보유 비중 축소 또는 분할 매도 전략을 검토.",
     "market": "US"
   }
 ]
