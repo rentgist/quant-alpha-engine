@@ -1,5 +1,148 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "U.S. economy unexpectedly lost 23,000 jobs in July",
+    "title_ko": "미국 경제, 7월 예상치 못한 2만 3천개 일자리 감소",
+    "link": "https://www.cnbc.com/2026/08/07/jobs-report-july-2026.html",
+    "published": "Fri, 07 Aug 2026 13:40:19 GMT",
+    "fetched_at": "2026-08-08 00:44:53",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "소비재",
+      "금융",
+      "산업재",
+      "기술주"
+    ],
+    "keywords": [
+      "미국 고용",
+      "경기 둔화",
+      "연준 통화정책",
+      "금리 인하 기대"
+    ],
+    "reason": "예상치 못한 고용 감소는 미국 경제 둔화 신호로, 연준의 금리 인상 속도 조절 또는 향후 인하 가능성에 대한 기대를 높여 주식 시장 전반에 단기 변동성을 유발할 수 있습니다. 특히 소비 감소로 이어져 기업 실적에 부정적 영향을 미칠 수 있습니다.",
+    "action_point": "경기 둔화 우려로 인해 위험자산 비중을 축소하고 장기 국채와 같은 안전자산의 투자 매력을 재검토."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "“SNS 중독된 우리 아이, 책임져라”...메타, 벌금 ‘1조원’ 낸다",
+    "title_ko": "“SNS 중독된 우리 아이, 책임져라”...메타, 벌금 ‘1조원’ 낸다",
+    "link": "https://www.mk.co.kr/news/world/12121494",
+    "published": "Fri, 07 Aug 2026 23:16:44 +09:00",
+    "fetched_at": "2026-08-08 00:45:32",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "소셜 미디어",
+      "빅테크",
+      "광고 기술"
+    ],
+    "keywords": [
+      "메타",
+      "SNS 중독",
+      "벌금",
+      "규제",
+      "빅테크 소송"
+    ],
+    "reason": "메타에 대한 대규모 벌금 부과 및 운영 방식 변경 명령은 빅테크 기업 전반의 사용자 복지 관련 법적 리스크 증대와 규제 강화 추세를 시사하며, 이는 관련 기업의 투자 매력을 저해할 수 있습니다.",
+    "action_point": "글로벌 소셜 미디어 및 플랫폼 기업 비중 축소를 검토하고, 관련 규제 동향을 주시하십시오."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "미국 '마이너스 고용' 쇼크…9월 금리인상 제동 걸리나",
+    "title_ko": "미국 '마이너스 고용' 쇼크…9월 금리인상 제동 걸리나",
+    "link": "https://www.mk.co.kr/news/world/12121493",
+    "published": "Fri, 07 Aug 2026 23:14:10 +09:00",
+    "fetched_at": "2026-08-08 00:45:41",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "기술주",
+      "성장주",
+      "부동산",
+      "채권"
+    ],
+    "keywords": [
+      "미국 고용",
+      "비농업 일자리",
+      "금리 인상",
+      "연방준비제도",
+      "경기 둔화"
+    ],
+    "reason": "미국 7월 고용 감소는 연준의 9월 금리 인상 가능성을 낮춰 글로벌 유동성 긴축 완화 기대감을 높이고 위험자산 선호를 강화할 수 있다. 이는 고금리 환경에서 압박받던 성장주와 기술주에 긍정적이다.",
+    "action_point": "미국 금리 인상 사이클 완화 기대에 따른 기술주 및 성장주 비중 확대 검토."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Shares of this digital medical platform jumped more than 100% overnight. Here’s why",
+    "title_ko": "한 디지털 의료 플랫폼 주식, 밤새 100% 이상 폭등. 이유는?",
+    "link": "https://www.cnbc.com/2026/08/07/doximity-shares-double-heres-whats-driving-it-.html",
+    "published": "Fri, 07 Aug 2026 15:06:40 GMT",
+    "fetched_at": "2026-08-08 00:45:01",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "디지털 헬스케어",
+      "인공지능(AI)"
+    ],
+    "keywords": [
+      "디지털 헬스케어",
+      "AI 검색",
+      "수익성 잠재력",
+      "시장 확대"
+    ],
+    "reason": "AI 검색 기술 발전이 디지털 헬스케어 플랫폼의 수익성 개선과 시장 확대를 이끌며 관련 기업 가치 상승에 대한 기대감을 높였다. 이는 특정 섹터 내 혁신 가속화 시그널로 해석될 수 있다.",
+    "action_point": "디지털 헬스케어 및 AI 관련 기업 중 성장 잠재력이 높은 종목 발굴을 검토."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Private equity is circling budget airlines after Apollo's EasyJet deal — and this carrier could be next",
+    "title_ko": "아폴로의 이지젯 인수 시도 이후 사모펀드들이 저가 항공사들을 노리고 있다 — 다음 타자는 이 항공사가 될 수도",
+    "link": "https://www.cnbc.com/2026/08/07/easyjet-apollo-private-equity-airlines-travel.html",
+    "published": "Fri, 07 Aug 2026 12:35:19 GMT",
+    "fetched_at": "2026-08-08 00:45:09",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "항공",
+      "운송"
+    ],
+    "keywords": [
+      "사모펀드",
+      "저가 항공사",
+      "M&A",
+      "기업 인수"
+    ],
+    "reason": "사모펀드의 저가 항공사 투자 움직임은 해당 섹터의 저평가 인식을 반영하며, M&A 활동 증가와 함께 관련 기업들의 주가 재평가 기회를 제공할 수 있다.",
+    "action_point": "저가 항공사 섹터 내 잠재적 M&A 대상 기업들의 가치 평가를 재검토하고 선별적으로 투자 기회를 모색하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Cassidy supports Todd Blanche, rescuing Trump's embattled attorney general pick",
+    "title_ko": "캐시디, 트럼프의 난항 겪는 법무장관 지명자 토드 블랑슈 지지",
+    "link": "https://www.cnbc.com/2026/08/07/blanche-ag-trump-cassidy-senate-confirmation.html",
+    "published": "Fri, 07 Aug 2026 15:27:00 GMT",
+    "fetched_at": "2026-08-08 00:45:20",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [],
+    "keywords": [
+      "토드 블랑슈",
+      "법무장관",
+      "트럼프",
+      "미국 정치",
+      "인준"
+    ],
+    "reason": "미국 법무장관 지명자의 인준 절차 진행 소식으로, 미국 국내 정치적 안정성에 기여할 수 있으나, 글로벌 금융시장의 거시경제적 변동성에는 직접적인 영향이 미미합니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "CNBC_Finance",
     "market": "US",
     "title": "Odds the Fed will hike in September tumble following big July jobs miss",
@@ -2804,157 +2947,5 @@
     "reason": "1조 규모 정책펀드 조성과 기관의 대규모 순매수가 바이오 섹터를 중심으로 코스닥 시장의 급등을 주도하며 전반적인 투자심리 개선과 성장주 강세를 시사합니다.",
     "action_point": "바이오 및 코스닥 성장주 섹터에 대한 투자 비중 확대를 검토하십시오.",
     "market": "KR"
-  },
-  {
-    "source": "CNBC_Finance",
-    "title": "Polymarket in talks for fundraising round at more than $20 billion valuation",
-    "title_ko": "폴리마켓, 200억 달러 이상 기업 가치로 자금 조달 협상 중",
-    "link": "https://www.cnbc.com/2026/08/04/polymarket-seeks-fundraising-round-at-more-than-20-billion-valuation.html",
-    "published": "Tue, 04 Aug 2026 13:31:19 GMT",
-    "fetched_at": "2026-08-05 00:16:42",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "핀테크",
-      "블록체인",
-      "웹3",
-      "벤처캐피탈",
-      "기술주"
-    ],
-    "keywords": [
-      "Polymarket",
-      "예측 시장",
-      "웹3",
-      "기업 가치",
-      "자금 조달",
-      "벤처 투자"
-    ],
-    "reason": "폴리마켓의 200억 달러 이상 기업 가치 및 10억 달러 이상의 연간 매출은 Web3 및 예측 시장 분야에 대한 강력한 투자자 신뢰를 보여줍니다. 이는 혁신 기술 섹터 전반에 대한 긍정적인 투자 심리를 강화할 수 있습니다.",
-    "action_point": "혁신 핀테크 및 Web3 섹터 내 성장 잠재력 있는 기업 탐색 및 장기적인 투자 비중 확대를 검토.",
-    "market": "US"
-  },
-  {
-    "source": "CNBC_Finance",
-    "title": "Philadelphia Fed President Paulson content with rates at current level, but keeping an open mind",
-    "title_ko": "필라델피아 연은 총재 폴슨, 현재 금리 수준에 만족하지만 유연한 태도 유지",
-    "link": "https://www.cnbc.com/2026/08/04/philadelphia-fed-president-paulson-content-with-current-rates-but-keeping-an-open-mind.html",
-    "published": "Tue, 04 Aug 2026 13:18:15 GMT",
-    "fetched_at": "2026-08-05 00:16:56",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "금융",
-      "기술/성장주",
-      "부동산"
-    ],
-    "keywords": [
-      "Fed",
-      "금리",
-      "통화정책",
-      "FOMC",
-      "폴슨"
-    ],
-    "reason": "이 발언은 연준이 현재의 제약적인 금리 수준에 만족하며 즉각적인 인하 가능성이 낮음을 시사하여, '더 높은 금리가 더 오래 지속될' 환경에 대한 시장의 기대를 강화합니다.",
-    "action_point": "고금리 장기화 가능성에 대비하여 부채가 많은 성장주 비중 축소를 검토하고 현금흐름 우량주에 집중하라.",
-    "market": "US"
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "“내일도 땀으로 범벅되겠네”…입추 앞두고 수도권·호남 폭염중대경보 확대",
-    "title_ko": "“내일도 땀으로 범벅되겠네”…입추 앞두고 수도권·호남 폭염중대경보 확대",
-    "link": "https://www.mk.co.kr/news/society/12116897",
-    "published": "Tue, 04 Aug 2026 22:13:40 +09:00",
-    "fetched_at": "2026-08-05 00:17:30",
-    "sentiment": "악재",
-    "importance": 2,
-    "sectors": [
-      "유틸리티",
-      "유통",
-      "식음료",
-      "농업",
-      "건설"
-    ],
-    "keywords": [
-      "폭염",
-      "기후변화",
-      "전력수요",
-      "소비"
-    ],
-    "reason": "국지적 폭염은 전력 수요 증가로 유틸리티 섹터에 단기적 영향을 주며, 특정 소비재 판매를 촉진하나 농업 및 건설 등 야외 활동이 많은 산업에는 부정적 영향을 미칠 수 있습니다.",
-    "action_point": "해당 없음",
-    "market": "KR"
-  },
-  {
-    "source": "CNBC_World",
-    "title": "McDonald's earnings beat estimates, chain announces new U.S. head to accelerate growth",
-    "title_ko": "맥도날드, 예상치 상회하는 실적 발표 및 미국 성장 가속화를 위한 신임 책임자 선임",
-    "link": "https://www.cnbc.com/2026/08/04/mcdonalds-mcd-q2-2026-earnings.html",
-    "published": "Tue, 04 Aug 2026 11:34:49 GMT",
-    "fetched_at": "2026-08-04 21:53:42",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "소비재",
-      "외식 산업"
-    ],
-    "keywords": [
-      "맥도날드",
-      "실적",
-      "소비재",
-      "경영진 교체",
-      "성장 전략"
-    ],
-    "reason": "맥도날드의 긍정적인 실적과 성장 전략은 개별 기업에 대한 호재이나, 거시 경제 전반이나 주요 투자 자산군에 미치는 직접적인 영향은 제한적이다. 소비재 섹터 내 특정 기업 동향을 보여준다.",
-    "action_point": "해당 없음",
-    "market": "GLOBAL"
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Trump warns Iran talks are ‘last chance’ to end war — oil prices rise as Tehran denies negotiations",
-    "title_ko": "트럼프, 이란 협상이 전쟁 종식의 '마지막 기회' 경고 — 테헤란 협상 부인에 유가 상승",
-    "link": "https://www.cnbc.com/2026/08/04/us-iran-war-trump-hormuz.html",
-    "published": "Tue, 04 Aug 2026 09:55:49 GMT",
-    "fetched_at": "2026-08-04 19:27:37",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "에너지",
-      "정유",
-      "방산"
-    ],
-    "keywords": [
-      "트럼프",
-      "이란",
-      "유가",
-      "지정학적 위험",
-      "중동"
-    ],
-    "reason": "트럼프의 이란 협상 관련 '마지막 기회' 경고와 이란의 협상 부인은 중동 지역의 지정학적 위험을 고조시키고 유가 상승 압력을 높인다. 이는 글로벌 에너지 비용 증가와 인플레이션 우려로 이어질 수 있다.",
-    "action_point": "유가 상승에 따른 에너지 섹터 비중 확대 및 방산주 관심 유지",
-    "market": "GLOBAL"
-  },
-  {
-    "source": "CNBC_World",
-    "title": "BP profit more than doubles as Trump blasts Big Oil for ‘making too much money’",
-    "title_ko": "BP 이익 두 배 이상 증가, 트럼프는 '너무 많은 돈을 번다'며 대형 정유사 비판",
-    "link": "https://www.cnbc.com/2026/08/04/bp-2q-earnings-oil-iran-war.html",
-    "published": "Tue, 04 Aug 2026 08:11:48 GMT",
-    "fetched_at": "2026-08-04 19:27:46",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지/정유",
-      "운송"
-    ],
-    "keywords": [
-      "BP",
-      "트럼프",
-      "고유가",
-      "정유산업",
-      "정치적 압력"
-    ],
-    "reason": "BP의 대규모 이익과 트럼프의 비판은 고유가 시대에 에너지 기업에 대한 정치적 압력 및 규제 리스크가 커질 수 있음을 시사하며, 이는 해당 섹터의 불확실성을 증대시킬 것입니다.",
-    "action_point": "에너지/정유 섹터의 정치적 리스크 증가에 대비하여 해당 섹터 투자 비중 축소 검토.",
-    "market": "GLOBAL"
   }
 ]
