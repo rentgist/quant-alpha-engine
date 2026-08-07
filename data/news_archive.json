@@ -2,6 +2,353 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "A 'weaponized' yen: How the U.S.-Japan intervention may reshape global currency markets",
+    "title_ko": "엔화의 '무기화': 미국-일본의 개입이 글로벌 외환 시장을 어떻게 재편할 수 있는가",
+    "link": "https://www.cnbc.com/2026/08/07/japan-us-yen-intervention-global-currency-markets.html",
+    "published": "Fri, 07 Aug 2026 00:05:26 GMT",
+    "fetched_at": "2026-08-07 17:07:57",
+    "sentiment": "중립",
+    "importance": 5,
+    "sectors": [
+      "외환",
+      "금융",
+      "수출"
+    ],
+    "keywords": [
+      "미국-일본 개입",
+      "엔화",
+      "외환 시장",
+      "환율 정책",
+      "시장 불안정"
+    ],
+    "reason": "미국과 일본의 전례 없는 엔화 지지 공동 개입은 글로벌 외환 시장의 변동성을 높이고 주요국 간 통화 정책 공조에 대한 재평가를 요구할 것입니다. 이는 엔화 강세 압력으로 작용하며, 달러화의 지위 및 기타 통화에 연쇄적인 영향을 줄 수 있습니다.",
+    "action_point": "엔화 관련 포지션의 환율 변동성 위험을 재평가하고, 글로벌 외환 시장의 달러화 추세 변화 가능성에 대비하라."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Copper jumps to its highest level ever. What the metal is telling us",
+    "title_ko": "구리 가격 사상 최고치 경신, 시장에 주는 시그널은?",
+    "link": "https://www.cnbc.com/2026/08/06/copper-jumps-to-its-highest-level-ever-what-the-metal-is-telling-us-.html",
+    "published": "Thu, 06 Aug 2026 20:07:51 GMT",
+    "fetched_at": "2026-08-07 17:07:22",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "원자재",
+      "산업재",
+      "신재생에너지",
+      "건설",
+      "글로벌 경제"
+    ],
+    "keywords": [
+      "구리",
+      "원자재 가격",
+      "인플레이션",
+      "산업 수요",
+      "경제 지표"
+    ],
+    "reason": "구리 가격의 사상 최고치 경신은 글로벌 산업 수요 강세 또는 공급 제약에 따른 인플레이션 압력을 시사하지만, 복합적인 신호로 인해 경제 전반에 미칠 영향은 다각적으로 해석될 수 있습니다.",
+    "action_point": "원자재 관련 자산 비중 점검 및 인플레이션 헤지 전략 마련을 검토하십시오."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Europe’s wildfire ‘protection gap’ is growing, insurers warn",
+    "title_ko": "유럽 산불 '보호 격차' 확대, 보험사 경고",
+    "link": "https://www.cnbc.com/2026/08/07/wildfires-insurance-cover-zurich-allianz-munich.html",
+    "published": "Fri, 07 Aug 2026 07:52:04 GMT",
+    "fetched_at": "2026-08-07 17:07:38",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "보험",
+      "부동산"
+    ],
+    "keywords": [
+      "유럽",
+      "산불",
+      "보험",
+      "기후 변화"
+    ],
+    "reason": "기후 변화로 인한 재난(산불)의 증가가 보험 업계의 부담을 가중시키고 있으며, 미보장 손실 확대로 유럽 경제에 장기적인 리스크 요인으로 작용할 수 있습니다.",
+    "action_point": "유럽 내 산불 취약 지역의 부동산 및 해당 지역 중심의 보험 관련 자산 투자에 신중한 접근 필요."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Hormuz closure clouds China's crude imports after they hit a 3-month high in July",
+    "title_ko": "호르무즈 해협 폐쇄 가능성, 7월 3개월래 최고치 기록한 중국 원유 수입에 먹구름",
+    "link": "https://www.cnbc.com/2026/08/07/china-crude-imports-july-hormuz-iran-war-.html",
+    "published": "Fri, 07 Aug 2026 05:55:34 GMT",
+    "fetched_at": "2026-08-07 17:08:10",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "정유",
+      "석유화학",
+      "해운",
+      "항공",
+      "에너지"
+    ],
+    "keywords": [
+      "호르무즈 해협",
+      "중국 원유 수입",
+      "유가",
+      "지정학적 리스크",
+      "에너지 수요"
+    ],
+    "reason": "호르무즈 해협의 지정학적 리스크가 국제 유가 변동성을 키우는 동시에, 중국의 원유 수요 약세는 글로벌 경기 둔화 우려를 심화시켜 전체 시장에 부정적 압력으로 작용할 수 있습니다.",
+    "action_point": "유가 상승 리스크에 대비, 에너지 섹터 비중을 재평가하고 경기 둔화 우려에 대응하는 방어적 자산 편입을 강화하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[박상영의 경제본색] (21) 18년 이어진 1주택 보호…비거주 혜택 걷어낸다 - 주간경향",
+    "title_ko": "[박상영의 경제본색] (21) 18년 이어진 1주택 보호…비거주 혜택 걷어낸다 - 주간경향",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9aY1EyN2k1NVZmWWhpMFZwRTJqYmtURWNORHR3N3hNSVZRbWFlYTVqZ0s0cnNDeWdxVXpCSFdIOXE0b2tGbDQycTE4MndGM2dYVmRhRVZRZDNiZ2VWaEE?oc=5",
+    "published": "Fri, 07 Aug 2026 05:43:00 GMT",
+    "fetched_at": "2026-08-07 17:08:27",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "부동산",
+      "건설",
+      "금융"
+    ],
+    "keywords": [
+      "부동산",
+      "주택시장",
+      "정책",
+      "세금",
+      "비거주"
+    ],
+    "reason": "비거주 주택에 대한 혜택 축소는 다주택 소유자의 보유 부담을 늘려 부동산 투자 심리 위축 및 시장 유동성 증가로 이어질 수 있습니다. 이는 국내 부동산 시장, 특히 투자용 주택 가격에 하방 압력을 가할 것입니다.",
+    "action_point": "국내 투자용 비거주 주택 비중 축소를 검토하고 유동성 확보 방안을 모색하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "\"워시를 그림자 내각으로 여기는 트럼프, 경제 위험 요인\" - 연합인포맥스",
+    "title_ko": "워시를 그림자 내각으로 여기는 트럼프, 경제 위험 요인",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAxa2c4d1RabzBCcEdpV0JuNEFuYUV5NmFwYktVa3BieTM5TjhsaGpyVTlkaGZ4cEpMQnphNDNSd0hfbDNaTTZkZ19kWnF4cXBySTZwNXRaaW9OWndoVGZqZHFTaXRDbG41M21lY2NPUFY?oc=5",
+    "published": "Fri, 07 Aug 2026 02:26:45 GMT",
+    "fetched_at": "2026-08-07 17:08:46",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "수출주",
+      "반도체",
+      "자동차",
+      "방위산업",
+      "금융시장 전반"
+    ],
+    "keywords": [
+      "트럼프",
+      "미국 대선",
+      "경제 위험",
+      "보호무역",
+      "지정학적 리스크"
+    ],
+    "reason": "트럼프의 재집권 가능성은 보호무역주의 강화와 지정학적 불확실성을 증폭시켜 글로벌 공급망과 통상 환경에 심각한 변화를 초래하며, 이는 한국 경제에 중대한 하방 압력으로 작용할 수 있습니다.",
+    "action_point": "미국 대선 관련 리스크 관리 차원에서 글로벌 분산 투자 및 수출 민감 섹터 비중 축소를 검토하라."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "United Wholesale Mortgage plunges 35% after suspending dividend and raising capital",
+    "title_ko": "유나이티드 홀세일 모기지, 배당 중단 및 자본 확충 발표 후 35% 폭락",
+    "link": "https://www.cnbc.com/2026/08/06/united-wholesale-mortgage-plunges-40percent-suspends-dividend-raises-capital-.html",
+    "published": "Thu, 06 Aug 2026 20:37:51 GMT",
+    "fetched_at": "2026-08-07 17:07:29",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "금융",
+      "부동산",
+      "모기지"
+    ],
+    "keywords": [
+      "모기지",
+      "배당 중단",
+      "자본 확충",
+      "주택 시장"
+    ],
+    "reason": "대형 모기지 업체의 배당 중단 및 주가 급락은 높은 금리 환경 속 미국 주택담보대출 시장 및 금융권의 건전성에 대한 우려를 증폭시킬 수 있습니다. 이는 전반적인 금융 시장의 위험 회피 심리를 자극할 가능성이 있습니다.",
+    "action_point": "미국 주택담보대출 관련 금융 자산 및 부동산 섹터 익스포저를 점검하고 비중 축소를 고려하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Volkswagen controlling families call for faster overhaul to fend off Chinese rivals",
+    "title_ko": "폭스바겐 지배 가문, 중국 경쟁사 견제를 위해 신속한 혁신 촉구",
+    "link": "https://www.cnbc.com/2026/08/07/volkswagen-vw-porsche-autos-job-cuts.html",
+    "published": "Fri, 07 Aug 2026 08:03:43 GMT",
+    "fetched_at": "2026-08-07 17:07:43",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "자동차",
+      "전기차",
+      "배터리"
+    ],
+    "keywords": [
+      "폭스바겐",
+      "중국 자동차",
+      "경쟁 심화",
+      "자동차 산업 재편"
+    ],
+    "reason": "폭스바겐의 위기감 표출은 글로벌 전통 완성차 업체들이 중국 전기차 브랜드의 강력한 경쟁에 직면했음을 시사하며, 이는 해당 섹터의 마진 압박과 구조조정을 가속화할 가능성이 높습니다.",
+    "action_point": "글로벌 전통 자동차 제조사 비중 축소 또는 포트폴리오 재편 검토"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "The 72-hour crisis that could upend Meta’s business in India as firm risks losing legal protection",
+    "title_ko": "메타, 인도에서 법적 보호 상실 위기에 직면하며 72시간 내 사업 위기 가능성",
+    "link": "https://www.cnbc.com/2026/08/07/meta-india-zuckerberg-apology-genz-protest.html",
+    "published": "Fri, 07 Aug 2026 04:11:09 GMT",
+    "fetched_at": "2026-08-07 17:08:17",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "소셜 미디어",
+      "IT/기술",
+      "인터넷 플랫폼"
+    ],
+    "keywords": [
+      "메타",
+      "인도",
+      "규제",
+      "세이프 하버",
+      "법적 보호"
+    ],
+    "reason": "인도 내 메타의 법적 보호 상실은 해당 기업의 재무 및 운영 안정성에 심각한 타격을 줄 수 있으며, 이는 다른 신흥 시장의 IT 기업 규제 환경 변화 가능성을 시사한다.",
+    "action_point": "글로벌 소셜 미디어 및 플랫폼 기업의 신흥국 규제 리스크를 점검하고, 해당 기업 투자 비중 조정을 검토하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "“AI 메모리 수요 선제 대응”…SK하이닉스, 용인 Y2·청주 M17에 54조원 투자",
+    "title_ko": "“AI 메모리 수요 선제 대응”…SK하이닉스, 용인 Y2·청주 M17에 54조원 투자",
+    "link": "https://www.mk.co.kr/news/economy/12121053",
+    "published": "Fri, 07 Aug 2026 17:01:09 +09:00",
+    "fetched_at": "2026-08-07 17:09:29",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "반도체",
+      "IT하드웨어",
+      "반도체 장비",
+      "건설"
+    ],
+    "keywords": [
+      "SK하이닉스",
+      "AI 메모리",
+      "반도체 투자",
+      "D램",
+      "낸드"
+    ],
+    "reason": "SK하이닉스의 대규모 투자는 AI 메모리 수요의 강력한 성장을 확인하며, 이는 장기적으로 반도체 업황 개선과 한국 IT 섹터의 경쟁력 강화를 의미합니다. 관련 장비 및 건설 부문의 수혜도 기대됩니다.",
+    "action_point": "AI 메모리 수요 성장 확신에 따라 반도체 섹터 내 AI 관련주 비중 확대를 검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[속보] 서울도 '40도'…오늘 노원 40.2도 기록 - 연합뉴스",
+    "title_ko": "서울도 '40도'…오늘 노원 40.2도 기록",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE14cnJ4eEl5SERmUzlxNHByYXZSRldNcTRRcGR0Z2FOLXc4SDlhSHJwdkdFQ1l3Q09hQ2pqNUhaaWx2NDNYUjNfaW5nUlIwNVBYRjBHLUpjMWpVVXPSAWBBVV95cUxQUndJc1NuR0FSaWZ5bWh1eG9IR2hPaHlnQzJzYVk5SVc5eEVialQxbHgyZ3g0d04wdnUzVW9QY2lDNTZfak1kTUhUVExGUF9Xb1FfZGVEUVJUQlpHSDJjVGY?oc=5",
+    "published": "Fri, 07 Aug 2026 06:31:55 GMT",
+    "fetched_at": "2026-08-07 17:08:58",
+    "sentiment": "악재",
+    "importance": 2,
+    "sectors": [
+      "에너지",
+      "농업",
+      "소비재"
+    ],
+    "keywords": [
+      "폭염",
+      "기후변화",
+      "전력수요"
+    ],
+    "reason": "서울의 기록적인 폭염은 전력 수요 급증과 전력망 부하를 야기하며, 농작물 피해 및 야외 활동 위축으로 특정 소비재 가격 상승 및 경제활동 둔화를 초래할 수 있습니다.",
+    "action_point": "전력 및 냉방 관련 소비재 섹터의 단기적 비중 확대를 검토하고, 농산물 가격 상승으로 인한 인플레이션 위험에 대비하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "건설현장도 폭염 전쟁...야외 작업 멈추고 '휴식' - YTN",
+    "title_ko": "건설현장도 폭염 전쟁...야외 작업 멈추고 '휴식'",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBqQzExLTBHVWd3b1dESzJhVUtMMzVYMVFWNDhUY3RybWdyT3pvbHN1aHZmSEI1OV9rcUZVV0hLelVJVFRXM0REVFRPRVZpWmxzUWpDSFNoQWREZ0xvYWREbWRwNzZkNGR0Qy0ySUR4a1dFTjYyaHc?oc=5",
+    "published": "Fri, 07 Aug 2026 06:49:00 GMT",
+    "fetched_at": "2026-08-07 17:09:08",
+    "sentiment": "악재",
+    "importance": 2,
+    "sectors": [
+      "건설",
+      "건자재"
+    ],
+    "keywords": [
+      "폭염",
+      "건설현장",
+      "작업중단",
+      "생산성"
+    ],
+    "reason": "폭염으로 인한 건설 현장 작업 중단은 건설사들의 생산성 저하와 공사 기간 지연을 초래하여 단기 실적에 부정적인 영향을 미칠 수 있습니다. 이는 건설 및 건자재 섹터의 잠재적 매출 감소 및 원가 상승 압력으로 작용할 가능성이 있습니다.",
+    "action_point": "건설 및 건자재 섹터 포트폴리오 비중 축소 검토."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "신세계아이앤씨, 2분기 영업익 153억원…전년 대비 13% 증가",
+    "title_ko": "신세계아이앤씨, 2분기 영업익 153억원…전년 대비 13% 증가",
+    "link": "https://www.mk.co.kr/news/it/12121052",
+    "published": "Fri, 07 Aug 2026 17:00:37 +09:00",
+    "fetched_at": "2026-08-07 17:09:39",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "IT 서비스",
+      "유통"
+    ],
+    "keywords": [
+      "신세계아이앤씨",
+      "2분기 실적",
+      "영업이익",
+      "IT 서비스",
+      "유통"
+    ],
+    "reason": "신세계아이앤씨의 2분기 수익성 개선은 개별 기업의 IT 서비스 및 유통 부문 효율성 증대를 보여주지만, 거시 경제 전반이나 특정 산업 전반에 미칠 파급 효과는 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "‘오징어 게임’ 미국판 무산되나…“넷플릭스 제작 중단”",
+    "title_ko": "‘오징어 게임’ 미국판 무산되나…“넷플릭스 제작 중단”",
+    "link": "https://www.mk.co.kr/news/culture/12121049",
+    "published": "Fri, 07 Aug 2026 16:57:55 +09:00",
+    "fetched_at": "2026-08-07 17:09:46",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "미디어/콘텐츠",
+      "엔터테인먼트",
+      "OTT"
+    ],
+    "keywords": [
+      "오징어 게임",
+      "넷플릭스",
+      "콘텐츠 제작",
+      "프로젝트 중단"
+    ],
+    "reason": "넷플릭스의 특정 콘텐츠 프로젝트 중단 소식으로, 미디어/콘텐츠 섹터 내 개별 기업 및 IP 관련 투자 심리에 미미한 영향을 줄 수 있으나, 거시 경제나 광범위한 시장에는 영향이 제한적이다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "Oil rises as Iran's draft plan sees U.S. and Israel banned from Strait of Hormuz",
     "title_ko": "이란, 호르무즈 해협에서 미국 및 이스라엘 선박 통행 금지 초안 발표에 유가 상승",
     "link": "https://www.cnbc.com/2026/08/07/oil-rises-supply-fears-iran-draft-plan-strait-hormuz.html",
@@ -2614,340 +2961,5 @@
     "reason": "트럼프의 발언은 유가 하락 압력으로 작용할 수 있으나, 실제 정책 변화 없이 단기적인 정치적 레토릭에 그칠 가능성이 크다. 하지만 국제유가 동향 및 에너지 기업들의 마진에 대한 시장의 관심은 커질 것이다.",
     "action_point": "해당 없음",
     "market": "KR"
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Apple launches fresh legal challenge against UK encrypted data access demand",
-    "title_ko": "애플, 영국 암호화된 데이터 접근 요구에 대해 새로운 법적 이의 제기",
-    "link": "https://www.cnbc.com/2026/08/04/apple-encrypted-data-legal-challenge-uk.html",
-    "published": "Tue, 04 Aug 2026 10:15:27 GMT",
-    "fetched_at": "2026-08-04 19:27:54",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "기술",
-      "클라우드 서비스",
-      "사이버 보안"
-    ],
-    "keywords": [
-      "애플",
-      "영국",
-      "암호화",
-      "데이터 접근",
-      "개인정보",
-      "규제 리스크"
-    ],
-    "reason": "애플의 법적 이의 제기는 글로벌 빅테크 기업들이 직면한 개인정보 보호 및 정부 데이터 접근 요구 간의 지속적인 갈등을 보여줍니다. 이는 기술 기업들의 규제 리스크를 부각하며 관련 법률 준수 비용 증가 가능성을 시사합니다.",
-    "action_point": "해당 없음",
-    "market": "GLOBAL"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "개발도상국 물가·생산성 변화와 기후변화에 대한 취약성: 국제개발협력 방향 - kdi.re.kr",
-    "title_ko": "개발도상국 물가·생산성 변화와 기후변화에 대한 취약성: 국제개발협력 방향 - kdi.re.kr",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tSklCakMxa2lFdktBUDBwNjRhSWk0T1JHTHdKVVQwUjVxZUJqQUJ3NTJnai11RzJLRkN2b21TVE5Cb2RQWXBibWNrcWgwYmpxVlRDTGhMRDRjNEpzMnpyeUw5RWQ?oc=5",
-    "published": "Mon, 03 Aug 2026 19:50:13 GMT",
-    "fetched_at": "2026-08-04 19:28:43",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [],
-    "keywords": [
-      "개발도상국",
-      "기후변화",
-      "물가",
-      "생산성",
-      "국제개발협력"
-    ],
-    "reason": "KDI 보고서는 개발도상국의 물가, 생산성, 기후변화 취약성 및 국제개발협력 방향에 대한 장기적, 구조적 정책 논의를 다루고 있습니다. 단기 및 중기 시장에 미칠 직접적인 영향은 제한적입니다.",
-    "action_point": "해당 없음",
-    "market": "KR"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "더 친절해진 한국은행 통계…ECOS에 '속보·잠정' 표기 추가 - 연합인포맥스",
-    "title_ko": "더 친절해진 한국은행 통계…ECOS에 '속보·잠정' 표기 추가",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DRHo5QnBvc2hXTnVRRUhpc3pUSVdjNC0tSTdMeVpuZHBmTnNQMThhODVPbTJleVV1U19wdVNFS0pUQ1l0U0ZFTVhLZll4T0RDWTdyekpzNlZEY2tkYU1HUVBhYmN2OTZBSGFNVXdtdVg?oc=5",
-    "published": "Tue, 04 Aug 2026 05:25:41 GMT",
-    "fetched_at": "2026-08-04 19:28:52",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [],
-    "keywords": [
-      "한국은행",
-      "통계",
-      "ECOS",
-      "데이터 투명성"
-    ],
-    "reason": "한국은행 통계 시스템(ECOS)의 데이터 표기 개선은 정보의 명확성과 투명성을 높여 시장 참여자들의 경제 지표 해석에 도움을 주지만, 직접적인 시장 방향을 변경하지는 않는다.",
-    "action_point": "해당 없음",
-    "market": "KR"
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "“에어컨 더 세겐 못 틀겠어”…냉방비 아끼는 ‘패브릭 절약법’ 떴다",
-    "title_ko": "“에어컨 더 세겐 못 틀겠어”…냉방비 아끼는 ‘패브릭 절약법’ 떴다",
-    "link": "https://www.mk.co.kr/news/business/12116634",
-    "published": "Tue, 04 Aug 2026 19:13:12 +09:00",
-    "fetched_at": "2026-08-04 19:29:43",
-    "sentiment": "악재",
-    "importance": 2,
-    "sectors": [
-      "홈 인테리어",
-      "소매 유통",
-      "섬유"
-    ],
-    "keywords": [
-      "폭염",
-      "냉방비",
-      "절약",
-      "패브릭",
-      "소비 트렌드"
-    ],
-    "reason": "기록적인 폭염과 높은 에너지 비용이 가계 지출에 부담을 주면서, 소비자들이 냉방비 절약을 위한 홈 인테리어 제품으로 지출을 전환하는 경향을 보여주고 있다. 이는 가계의 소비 여력 감소와 인플레이션 압력의 지속 가능성을 시사한다.",
-    "action_point": "고온 장기화와 에너지 비용 상승이 국내 소비 여력을 압박하는지 점검하고, 홈 인테리어 및 냉방 효율 관련 소비재 섹터의 단기적 수혜 여부를 평가하라.",
-    "market": "KR"
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "[Health Recipe] 더위가 재난인 시대…폭염 시 생존법칙 ‘야외 활동’ 전면 중단해야",
-    "title_ko": "[Health Recipe] 더위가 재난인 시대…폭염 시 생존법칙 ‘야외 활동’ 전면 중단해야",
-    "link": "https://www.mk.co.kr/news/society/12116625",
-    "published": "Tue, 04 Aug 2026 19:08:40 +09:00",
-    "fetched_at": "2026-08-04 19:29:56",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "레저/관광",
-      "건설",
-      "가전"
-    ],
-    "keywords": [
-      "폭염",
-      "온열질환",
-      "야외활동",
-      "기후변화"
-    ],
-    "reason": "이 뉴스는 기후 변화로 인한 폭염이 공중 보건에 미치는 심각한 영향을 강조하며, 야외 활동 감소로 이어져 일부 소비재 및 서비스 섹터의 단기 실적에 부정적인 영향을 줄 수 있음을 시사합니다. 동시에 실내 활동 및 냉방 관련 소비 증가 가능성도 내포합니다.",
-    "action_point": "여름철 고온 장기화로 인한 야외 활동 관련 국내 소비재 및 서비스 섹터의 실적 하향 가능성을 반영하여 해당 포트폴리오 비중 축소 검토.",
-    "market": "KR"
-  },
-  {
-    "source": "CNBC_World",
-    "title": "HSBC pretax profit beats estimates, boosted by higher net interest income and fees",
-    "title_ko": "HSBC, 순이자수익 및 수수료 증가에 힘입어 세전 이익 예상치 상회",
-    "link": "https://www.cnbc.com/2026/08/04/hsbc-profit-beats-estimates-higher-net-interest-income-fees.html",
-    "published": "Tue, 04 Aug 2026 04:50:05 GMT",
-    "fetched_at": "2026-08-04 16:30:59",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "금융"
-    ],
-    "keywords": [
-      "HSBC",
-      "은행",
-      "실적",
-      "순이자수익"
-    ],
-    "reason": "HSBC의 예상치 상회 실적은 고금리 환경에서 은행권의 견조한 수익성을 시사하며, 이는 글로벌 금융 섹터 전반에 대한 투자 심리를 개선할 수 있다.",
-    "action_point": "고금리 환경의 수혜를 입는 글로벌 및 국내 은행 섹터에 대한 투자 비중 확대를 검토하라.",
-    "market": "GLOBAL"
-  },
-  {
-    "source": "CNBC_World",
-    "title": "AI is helping Grab ship products more than 30% faster, CFO says, as company raises forecasts",
-    "title_ko": "그랩 CFO, AI가 제품 배송 속도 30% 이상 향상시켜 실적 전망 상향 조정",
-    "link": "https://www.cnbc.com/2026/08/04/grab-earnings-ai-forecast-cfo-.html",
-    "published": "Tue, 04 Aug 2026 04:36:35 GMT",
-    "fetched_at": "2026-08-04 13:55:04",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "기술",
-      "플랫폼",
-      "물류",
-      "전자상거래"
-    ],
-    "keywords": [
-      "AI",
-      "Grab",
-      "효율성",
-      "실적 상향",
-      "동남아시아"
-    ],
-    "reason": "그랩의 AI 활용을 통한 배송 효율성 증대 및 실적 전망 상향은 기술 혁신이 기업 가치에 긍정적으로 작용하는 사례를 보여주며, AI 도입을 통한 비용 절감 및 생산성 향상이 타 플랫폼 기업 및 물류 섹터에도 파급될 수 있음을 시사한다.",
-    "action_point": "AI 기술 도입을 통한 효율 개선이 기대되는 플랫폼 및 물류 섹터 기업 발굴 검토",
-    "market": "GLOBAL"
-  },
-  {
-    "source": "CNBC_World",
-    "title": "India to raise up to $3.3 billion by selling stake in country’s largest life insurer at 10% discount",
-    "title_ko": "인도, 최대 생명보험사 지분 10% 할인 매각 통해 33억 달러 조달 예정",
-    "link": "https://www.cnbc.com/2026/08/04/india-lic-stake-sale-discount.html",
-    "published": "Tue, 04 Aug 2026 03:00:01 GMT",
-    "fetched_at": "2026-08-04 13:55:14",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "인도 금융",
-      "이머징마켓 주식"
-    ],
-    "keywords": [
-      "인도",
-      "생명보험",
-      "국영기업 매각",
-      "지분 매각",
-      "자금 조달"
-    ],
-    "reason": "인도 정부가 재정 확보를 위해 주요 국영 생명보험사 지분을 대규모 매각하는 것으로, 이는 인도 재정 건전성 및 자본 시장에 긍정적이나, 해당 주식에는 단기적인 공급 부담으로 작용할 수 있습니다.",
-    "action_point": "인도 및 이머징마켓 펀드 보유 비중에 따라 인도 금융 섹터 투자 비중 점검",
-    "market": "GLOBAL"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "[속보] 기상청, 서울 전역 폭염중대경보 확대 발령 - 연합뉴스TV",
-    "title_ko": "[속보] 기상청, 서울 전역 폭염중대경보 확대 발령",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GQUVUYkpxU1h1YTQwOTY1cjEzbjZpdXlNT1hwUVAwTmIyUW81ejFQLU1EUUJhUG81eERNODZmTkNIQVNORkZjMHc5TEl6dnRiV3dHSENHMmdXQ09CNGVSNW1VNXFEcFk?oc=5",
-    "published": "Tue, 04 Aug 2026 01:26:00 GMT",
-    "fetched_at": "2026-08-04 13:55:22",
-    "sentiment": "악재",
-    "importance": 2,
-    "sectors": [
-      "전력/유틸리티",
-      "유통/소비재",
-      "농업",
-      "건설"
-    ],
-    "keywords": [
-      "폭염",
-      "서울",
-      "기상청",
-      "에너지",
-      "여름"
-    ],
-    "reason": "서울 전역에 확대된 폭염중대경보는 단기적으로 전력 수요 급증을 유발하여 유틸리티 섹터에 영향을 미치며, 야외 활동 감소로 인한 소비 위축 및 일부 산업 생산성 저하를 초래할 수 있습니다.",
-    "action_point": "전력/유틸리티 관련 주식의 단기적 수요 증가 가능성 주시.",
-    "market": "KR"
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Stock futures rise slightly after rip-roaring rally leads Dow to record closing high: Live updates",
-    "title_ko": "다우지수 사상 최고치 기록 랠리 이후 주식 선물 소폭 상승: 실시간 업데이트",
-    "link": "https://www.cnbc.com/2026/08/03/stock-market-today-live-updates.html",
-    "published": "Tue, 04 Aug 2026 00:13:46 GMT",
-    "fetched_at": "2026-08-04 10:28:55",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "기술",
-      "대형 성장주",
-      "증권"
-    ],
-    "keywords": [
-      "주식 선물",
-      "다우 지수",
-      "사상 최고치",
-      "아마존",
-      "시가총액",
-      "랠리"
-    ],
-    "reason": "미국 증시의 강력한 상승 모멘텀을 확인시켜주며, 특히 대형 기술주 중심의 시장 강세가 지속되고 있음을 시사한다. 이는 투자자 신뢰 회복 및 글로벌 증시의 추가 상승 여력을 기대하게 한다.",
-    "action_point": "미국 대형 기술주 및 성장주 비중을 유지하며 시장 강세 추세에 동참하라.",
-    "market": "GLOBAL"
-  },
-  {
-    "source": "CNBC_World",
-    "title": "CNBC Daily Open: Fast and furious intervention to prop up the yen — will it work?",
-    "title_ko": "CNBC 데일리 오픈: 빠르고 맹렬한 엔화 부양 개입 — 효과가 있을까?",
-    "link": "https://www.cnbc.com/2026/08/04/cnbc-daily-open-japan-yen-intervention-oil-prices-amazon.html",
-    "published": "Tue, 04 Aug 2026 00:52:30 GMT",
-    "fetched_at": "2026-08-04 10:29:04",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "금융",
-      "수출입 관련 산업"
-    ],
-    "keywords": [
-      "엔화 개입",
-      "미국 협력",
-      "환율 안정",
-      "일본 경제"
-    ],
-    "reason": "일본의 미국과 협력한 엔화 부양 개입은 글로벌 환율 시장의 변동성을 완화하려는 시도로, 원/엔 환율 및 역내 경쟁 구도에 영향을 미칠 수 있습니다. 성공 여부에 따라 아시아 시장 전반의 투자심리에 영향을 줄 것입니다.",
-    "action_point": "엔화 강세가 한국 수출 기업의 경쟁력에 미칠 영향을 분석하고 관련 섹터 투자 비중을 재검토하라.",
-    "market": "GLOBAL"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "7월 소비자물가 2.8% 상승...국제 유가 하락 등으로 3개월 만에 2%대 진입 - 조선일보",
-    "title_ko": "7월 소비자물가 2.8% 상승...국제 유가 하락 등으로 3개월 만에 2%대 진입 - 조선일보",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOU5CdzVKdVlQc3l3WkItVXVLSVpxQU9xcVpoZkdKc29IRzJWTnlrMGJGRHJUUnBDN0lDZ1loOFZLYnVUMUpTeE5qczNVZW50SFI2alNOQUpIUkRReDJMTTA0T0NsQ2RYWG05Q3g2U3d2MHE1MkM5Zk0yeVZKWXVBUzl3ZjFiTllZWmlON2J3?oc=5",
-    "published": "Mon, 03 Aug 2026 23:11:00 GMT",
-    "fetched_at": "2026-08-04 10:29:16",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "소비재",
-      "부동산",
-      "금융"
-    ],
-    "keywords": [
-      "소비자물가",
-      "인플레이션",
-      "한국은행",
-      "금리인상",
-      "국제유가"
-    ],
-    "reason": "소비자물가 상승률 둔화는 한국은행의 추가 금리 인상 부담을 경감시키고, 금리 인하 기대를 높여 주식 시장의 투자심리 개선에 긍정적인 영향을 줄 것입니다.",
-    "action_point": "국내 금리 인상 중단 기대감으로 금리 민감 섹터(부동산, 건설, 소비재) 비중 확대를 검토하라.",
-    "market": "KR"
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Big Tech's Anthropic and OpenAI stakes are distorting the corporate earnings picture",
-    "title_ko": "빅테크 기업의 앤스로픽 및 OpenAI 지분 투자가 기업 실적을 왜곡하고 있다",
-    "link": "https://www.cnbc.com/2026/08/03/big-techs-anthropic-and-openai-stakes-distort-corporate-earnings.html",
-    "published": "Mon, 03 Aug 2026 22:48:18 GMT",
-    "fetched_at": "2026-08-04 08:01:02",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "기술주"
-    ],
-    "keywords": [
-      "빅테크",
-      "AI 투자",
-      "기업 실적",
-      "수익 왜곡",
-      "밸류에이션"
-    ],
-    "reason": "빅테크 기업의 발표 실적이 비영업성 AI 투자 이익으로 부풀려져 있어, 실제 영업 이익 기반의 가치 평가에 대한 의문을 제기하며 기술주 전반의 밸류에이션 부담을 높일 수 있습니다.",
-    "action_point": "기술주 내 비영업 이익 의존도가 높은 기업에 대한 비중 축소를 검토하고, 실질적인 영업 성과 기반의 종목으로 재편을 고려하십시오.",
-    "market": "GLOBAL"
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Palantir's Karp renews attacks on frontier AI labs that are 'trying to drug addict us'",
-    "title_ko": "팔란티어 카프, '우리를 마약 중독자로 만들려 한다'며 선도적인 AI 연구소들에 대한 비판 재개",
-    "link": "https://www.cnbc.com/2026/08/03/palantir-karp-open-ai-anthropic-open-weight.html",
-    "published": "Mon, 03 Aug 2026 22:20:56 GMT",
-    "fetched_at": "2026-08-04 08:01:13",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "인공지능(AI)",
-      "기술(Technology)"
-    ],
-    "keywords": [
-      "팔란티어",
-      "알렉스 카프",
-      "인공지능(AI)",
-      "선도 AI 연구소",
-      "지식재산권(IP)"
-    ],
-    "reason": "이 기사는 빠르게 발전하는 AI 산업 내 지식재산권 침해, 윤리적 문제 및 경쟁 심화에 대한 논란을 부각시킨다. 이는 AI 기술 개발 및 상용화 과정에서 발생할 수 있는 잠재적 리스크와 규제 가능성을 시사한다.",
-    "action_point": "해당 없음",
-    "market": "GLOBAL"
   }
 ]
