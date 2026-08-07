@@ -2,6 +2,32 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "‘SaaSpocalypse’ debate intensifies as software stocks swing wildly",
+    "title_ko": "'SaaSpocalypse' 논쟁 심화, 소프트웨어 주식 변동성 급증",
+    "link": "https://www.cnbc.com/2026/08/07/saaspocalypse-debate-intensifies-as-software-stocks-swing-wildly.html",
+    "published": "Fri, 07 Aug 2026 20:22:17 GMT",
+    "fetched_at": "2026-08-08 08:25:26",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "소프트웨어",
+      "테크놀로지",
+      "클라우드 컴퓨팅",
+      "인공지능"
+    ],
+    "keywords": [
+      "SaaS",
+      "소프트웨어 주식",
+      "인공지능",
+      "변동성",
+      "기술주"
+    ],
+    "reason": "인공지능(AI) 기술의 급속한 발전으로 소프트웨어(SaaS) 기업들의 사업 모델 재평가가 이루어지면서 해당 섹터의 주가 변동성이 극도로 확대되고 있다. 이는 기술주 전반의 투자심리에 영향을 미칠 수 있다.",
+    "action_point": "보유 중인 소프트웨어/SaaS 관련 기업들의 AI 경쟁력과 사업 모델 전환 가능성을 철저히 재평가하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "Trump teased an Iran deal that didn't come, but markets soared. Here’s why it keeps happening",
     "title_ko": "트럼프는 이란 협상을 암시했으나 성사되지 않았음에도 시장은 급등했다. 왜 이런 일이 계속 반복되는가?",
     "link": "https://www.cnbc.com/2026/08/07/trump-iran-hormuz-deal-stocks-oil.html",
@@ -2922,30 +2948,5 @@
     "reason": "이 뉴스는 선도적인 사기업조차도 AI 개발에 막대한 비용을 지출하며 재무적 압박을 받을 수 있음을 시사하며, 고성장 기술 및 우주 산업 전반의 기업 가치 평가에 대한 재고를 불러올 수 있습니다.",
     "action_point": "AI 기술 개발 및 도입에 따른 비용 부담이 큰 기업의 투자 매력도를 재검토하라.",
     "market": "GLOBAL"
-  },
-  {
-    "source": "CNBC_Finance",
-    "title": "Michael Burry bets against rally: 'We are near a major top, and possible a 1987-type fall'",
-    "title_ko": "마이클 버리, 랠리에 대한 베팅 철회: '우리는 주요 고점 근처에 있으며, 1987년과 같은 폭락 가능성도 있다'",
-    "link": "https://www.cnbc.com/2026/08/04/michael-burry-bets-against-rally-we-are-near-a-major-top.html",
-    "published": "Tue, 04 Aug 2026 20:43:15 GMT",
-    "fetched_at": "2026-08-05 06:02:40",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "전반적 시장",
-      "성장주",
-      "기술주"
-    ],
-    "keywords": [
-      "마이클 버리",
-      "약세장",
-      "시장 고점",
-      "시장 폭락",
-      "1987년 폭락"
-    ],
-    "reason": "마이클 버리의 극단적 약세 전망은 광범위한 시장 불안감을 증폭시키고 투자자들의 위험 회피 심리를 자극할 수 있습니다. 특히 성장주 중심의 현 랠리에 대한 경고로, 전반적인 주식 시장의 조정 압력이 커질 수 있습니다.",
-    "action_point": "투자 심리 위축 및 시장 전반의 조정 가능성에 대비하여 현금 비중 확대 또는 포트폴리오의 방어적 자산 편입을 고려해야 합니다.",
-    "market": "US"
   }
 ]
