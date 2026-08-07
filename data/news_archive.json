@@ -1,5 +1,55 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Oil rises as Iran's draft plan sees U.S. and Israel banned from Strait of Hormuz",
+    "title_ko": "이란, 호르무즈 해협에서 미국 및 이스라엘 선박 통행 금지 초안 발표에 유가 상승",
+    "link": "https://www.cnbc.com/2026/08/07/oil-rises-supply-fears-iran-draft-plan-strait-hormuz.html",
+    "published": "Fri, 07 Aug 2026 05:27:03 GMT",
+    "fetched_at": "2026-08-07 15:05:20",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "에너지",
+      "운송",
+      "화학",
+      "방산"
+    ],
+    "keywords": [
+      "유가",
+      "이란",
+      "호르무즈 해협",
+      "지정학적 리스크",
+      "공급 차질"
+    ],
+    "reason": "호르무즈 해협 봉쇄 가능성 언급은 글로벌 원유 공급의 핵심 병목 지점에서 심각한 차질을 유발하여 유가를 급등시키고 인플레이션 압력을 가중시킨다. 이는 전반적인 경제 활동 둔화와 금리 인상 압력을 높이는 악재로 작용한다.",
+    "action_point": "에너지 및 원자재 관련 자산 비중 확대를 고려하고, 고유가 지속에 따른 인플레이션 헤지 전략을 강화하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Meta ordered to pay $567 million into abatement fund as remedy to child harms case in New Mexico",
+    "title_ko": "메타, 뉴멕시코 아동 유해 사례 관련 5억 6,700만 달러 배상금 지급 명령",
+    "link": "https://www.cnbc.com/2026/08/06/meta-to-pay-into-567-million-fund-after-child-harms-case-new-mexico.html",
+    "published": "Fri, 07 Aug 2026 01:28:57 GMT",
+    "fetched_at": "2026-08-07 15:05:34",
+    "sentiment": "악재",
+    "importance": 2,
+    "sectors": [
+      "IT/기술",
+      "소셜미디어"
+    ],
+    "keywords": [
+      "메타",
+      "법적분쟁",
+      "아동보호",
+      "규제리스크",
+      "배상금"
+    ],
+    "reason": "메타에 대한 대규모 배상금 명령은 단기적으로 기업의 재무 상태에 부담을 줄 수 있으며, 소셜 미디어 및 빅테크 기업에 대한 규제 및 법적 리스크가 증가할 수 있다는 우려를 키울 수 있다.",
+    "action_point": "소셜미디어 및 빅테크 기업에 대한 규제 강화 추세에 따라 관련 섹터 투자 비중을 점검하라."
+  },
+  {
     "source": "CNBC_Finance",
     "market": "US",
     "title": "Stocks making the biggest moves after hours: Twilio, Airbnb, DraftKings, Trade Desk and more",
@@ -2898,55 +2948,6 @@
     ],
     "reason": "이 기사는 빠르게 발전하는 AI 산업 내 지식재산권 침해, 윤리적 문제 및 경쟁 심화에 대한 논란을 부각시킨다. 이는 AI 기술 개발 및 상용화 과정에서 발생할 수 있는 잠재적 리스크와 규제 가능성을 시사한다.",
     "action_point": "해당 없음",
-    "market": "GLOBAL"
-  },
-  {
-    "source": "CNBC_Finance",
-    "title": "Stocks making the biggest moves premarket: Alibaba, Bristol-Myers Squibb, eBay & more",
-    "title_ko": "개장 전 가장 큰 움직임을 보이는 주식: 알리바바, 브리스톨-마이어스 스큅, 이베이 외",
-    "link": "https://www.cnbc.com/2026/08/03/stocks-making-the-biggest-moves-premarket-baba-azn-ebay-more.html",
-    "published": "Mon, 03 Aug 2026 12:54:55 GMT",
-    "fetched_at": "2026-08-04 06:59:17",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "기술",
-      "헬스케어",
-      "소비재"
-    ],
-    "keywords": [
-      "알리바바",
-      "브리스톨-마이어스 스큅",
-      "이베이",
-      "개장 전 주가"
-    ],
-    "reason": "이 기사는 개장 전 특정 기업 주가의 개별적인 움직임을 나열하는 것으로, 거시경제나 시장 전반에 미치는 영향은 제한적이며 해당 기업의 개별 이슈에 국한됩니다.",
-    "action_point": "해당 없음",
-    "market": "US"
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Twenty five states sue Trump administration over latest global tariffs",
-    "title_ko": "미국 25개 주, 트럼프 행정부의 최신 글로벌 관세 부과에 소송 제기",
-    "link": "https://www.cnbc.com/2026/08/03/trump-tariffs-25-states-lawsuit-supreme-court.html",
-    "published": "Mon, 03 Aug 2026 20:35:17 GMT",
-    "fetched_at": "2026-08-04 05:55:55",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "제조업",
-      "소비재",
-      "운송",
-      "해운"
-    ],
-    "keywords": [
-      "관세",
-      "무역분쟁",
-      "미국 정치",
-      "법적 리스크"
-    ],
-    "reason": "미국 주정부의 관세 철회 소송은 트럼프 행정부의 무역 정책에 대한 불확실성을 가중시키며, 글로벌 공급망과 기업 수익성에 대한 우려를 지속시킬 수 있습니다.",
-    "action_point": "무역 관세 민감도가 높은 수출 의존 기업 비중 축소를 검토하라.",
     "market": "GLOBAL"
   }
 ]
