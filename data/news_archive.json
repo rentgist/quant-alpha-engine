@@ -2,6 +2,55 @@
   {
     "source": "GoogleNews_Korea",
     "market": "KR",
+    "title": "\"푸틴, 전쟁 장기화 속 정보기관에 의존…통제 강화\" - 연합뉴스",
+    "title_ko": "푸틴, 전쟁 장기화 속 정보기관에 의존…통제 강화",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHWlJGanFsNXJUMzFOTURROC1weXA5X01MczBKZ1VpV2ZfZHAwZjNhY0JmVExCZzZETnRFc1lCcVBxTGx1RWNIM2swS0kzU01ab0M3TUItS1h1dG_SAWBBVV95cUxQVHdHN2toQUFVWmVxeW1wMUpVQ2pncWJlY1VkYWlZNXR0TjdQNnFGYjJtTnV4Qk4yamVKRGZSUHdnR21HZnR0TzdSN0tMV09NYXNfdk80amNMcW42N0JOdFA?oc=5",
+    "published": "Fri, 07 Aug 2026 13:14:33 GMT",
+    "fetched_at": "2026-08-08 04:44:49",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "방산",
+      "원자재"
+    ],
+    "keywords": [
+      "푸틴",
+      "러시아",
+      "우크라이나 전쟁",
+      "지정학적 리스크",
+      "통제 강화"
+    ],
+    "reason": "이 뉴스는 러시아-우크라이나 전쟁의 장기화 및 러시아 내부 통제 강화 가능성을 시사하여 글로벌 지정학적 불확실성을 증대시키고 원자재 시장 변동성을 유발할 수 있습니다.",
+    "action_point": "글로벌 지정학적 리스크 장기화에 대비하여 에너지 및 방산 섹터 포트폴리오 비중을 점검하고 유지 여부를 검토하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "“식량 가격, 내년엔 더 오른다”…폭염·전쟁에 곡물·유지·설탕 가격↑",
+    "title_ko": "“식량 가격, 내년엔 더 오른다”…폭염·전쟁에 곡물·유지·설탕 가격↑",
+    "link": "https://www.mk.co.kr/news/economy/12121422",
+    "published": "Fri, 07 Aug 2026 22:23:02 +09:00",
+    "fetched_at": "2026-08-08 04:44:59",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "식품/음료",
+      "유통",
+      "농업"
+    ],
+    "keywords": [
+      "식량 가격",
+      "인플레이션",
+      "기후 변화",
+      "지정학"
+    ],
+    "reason": "세계 식량가격지수가 3년 반 만에 최고치를 기록하며 전반적인 물가 상승 압력이 지속될 것임을 시사합니다. 이는 글로벌 중앙은행의 긴축 기조 유지 가능성과 소비자의 구매력 감소로 이어질 수 있습니다.",
+    "action_point": "물가 상승 압력 장기화에 대비하여 인플레이션 헤지 자산 편입 검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
     "title": "폭염·전쟁에…세계 식량가격지수 3년반 만에 최고 수준 - yonhapnewstv.co.kr",
     "title_ko": "폭염·전쟁에…세계 식량가격지수 3년반 만에 최고 수준",
     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5BVVNXMzM3Q3VUczJIeEFXNnE5ZzlrZ0I0YWdHb0VtaG5ObVV6Qkc2XzlJLU42WDhDTXI1T2stQ3NoTm82RjRfQnNxOU1ONWhwcG1WS2todHQ2VHJRQzJ2b01jS0R0NEk?oc=5",
@@ -2894,59 +2943,5 @@
     "reason": "아마존 창업자의 대규모 주식 매각은 최근 최고가를 경신한 기술주 전반에 대한 과열 및 차익실현 경계 심리를 자극하며 단기적인 조정을 유발할 수 있습니다. 이는 유동성 장세에서 성장주에 대한 투자심리 위축으로 이어질 가능성이 있습니다.",
     "action_point": "기술주 및 성장주 섹터 포트폴리오의 단기 과열 여부를 점검하고, 보유 비중 축소 또는 분할 매도 전략을 검토.",
     "market": "US"
-  },
-  {
-    "source": "CNBC_Finance",
-    "title": "Stocks making the biggest moves premarket: McDonald's, Caterpillar, Palantir, Merck & more",
-    "title_ko": "프리마켓에서 가장 큰 움직임을 보이는 주식들: 맥도날드, 캐터필러, 팔란티어, 머크 외",
-    "link": "https://www.cnbc.com/2026/08/04/stocks-making-the-biggest-moves-premarket-mcd-cat-pltr-mrk.html",
-    "published": "Tue, 04 Aug 2026 11:42:17 GMT",
-    "fetched_at": "2026-08-05 02:29:34",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "소비재",
-      "산업재",
-      "기술",
-      "헬스케어"
-    ],
-    "keywords": [
-      "프리마켓",
-      "개별주식",
-      "미국 주식",
-      "변동성"
-    ],
-    "reason": "이 기사는 특정 개별 주식들의 프리마켓 움직임을 전달할 뿐, 해당 움직임의 원인이나 거시경제적 의미를 제시하지 않아 시장 전반에 미칠 영향은 제한적입니다.",
-    "action_point": "해당 없음",
-    "market": "US"
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Bessent says there may be deal Tuesday or Wednesday to open Strait of Hormuz with 'freedom of movement'",
-    "title_ko": "재무장관, 호르무즈 해협 '자유로운 통행' 합의 화요일 또는 수요일 가능성 시사",
-    "link": "https://www.cnbc.com/2026/08/04/bessent-says-there-may-be-deal-tuesday-or-wednesday-to-open-strait-of-hormuz-with-freedom-of-movement.html",
-    "published": "Tue, 04 Aug 2026 14:00:55 GMT",
-    "fetched_at": "2026-08-05 00:17:10",
-    "sentiment": "호재",
-    "importance": 5,
-    "sectors": [
-      "에너지",
-      "해운",
-      "항공",
-      "화학",
-      "소비재",
-      "방위산업"
-    ],
-    "keywords": [
-      "호르무즈 해협",
-      "이란",
-      "유가",
-      "지정학",
-      "원자재",
-      "재무장관"
-    ],
-    "reason": "미국과 이란 간 호르무즈 해협 자유 통행 합의 가능성은 중동 지정학적 긴장 완화 및 글로벌 원유 공급 안정화를 의미한다. 이는 유가 하락 압력으로 이어져 인플레이션 완화 및 위험자산 투자 심리 개선에 기여할 수 있다.",
-    "action_point": "원자재 중 유가 관련 자산 비중 축소를 검토하고, 유가 하락 수혜 섹터(항공, 해운, 소비재 등)에 대한 투자 확대를 고려하라.",
-    "market": "GLOBAL"
   }
 ]
