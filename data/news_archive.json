@@ -1,5 +1,57 @@
 [
   {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Berkshire earnings rose last quarter and CEO Greg Abel is starting to deploy Buffett's massive cash hoard",
+    "title_ko": "버크셔의 지난 분기 실적 상승, CEO 그렉 아벨 버핏의 막대한 현금 비축액 배치 시작",
+    "link": "https://www.cnbc.com/2026/08/08/berkshire-hathaway-earnings-q2-2026.html",
+    "published": "Sat, 08 Aug 2026 13:28:00 GMT",
+    "fetched_at": "2026-08-08 22:38:23",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "산업재",
+      "에너지",
+      "철도",
+      "제조업"
+    ],
+    "keywords": [
+      "버크셔 해서웨이",
+      "실적",
+      "현금 투자",
+      "산업재",
+      "가치주"
+    ],
+    "reason": "버크셔 해서웨이의 견조한 실적과 막대한 현금의 적극적인 투자는 광범위한 산업 부문에 대한 긍정적 전망을 시사하며, 시장 전반의 투자 심리 개선에 기여할 수 있습니다.",
+    "action_point": "버크셔 해서웨이의 현금 투자 방향을 고려하여 산업재 및 에너지 섹터 내 저평가 우량주 발굴을 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "스마트홈 패권 전쟁, 전장은 아파트 - 한국아파트신문",
+    "title_ko": "스마트홈 패권 전쟁, 전장은 아파트",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE52TDJWdm1PVTlEd1dWekVSZ2t2bi1CYWQxdzFqNVpMdzdwNVpScW1qbTJjSGNoeDh0b040UlZuQ0RuTnlNSU1NcnJMSW44OVRSa0p2dmxsNHpSNFpZRF9GQ2NMTUtHc2JP?oc=5",
+    "published": "Sat, 08 Aug 2026 07:00:00 GMT",
+    "fetched_at": "2026-08-08 22:38:37",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "건설",
+      "부동산",
+      "IT/가전",
+      "통신"
+    ],
+    "keywords": [
+      "스마트홈",
+      "아파트",
+      "사물인터넷(IoT)",
+      "건설",
+      "플랫폼 경쟁"
+    ],
+    "reason": "국내 아파트 시장에서 스마트홈 기술 경쟁이 심화되고 있음을 보여주며, 건설 및 IT/가전 업종 내 관련 기업들의 사업 기회 확대를 시사한다. 하지만 거시 경제 전반이나 주요 자산군에 미치는 직접적인 영향은 제한적이다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "How cleaning up space debris could grow to become a big business",
@@ -2890,50 +2942,6 @@
     ],
     "reason": "뱅크오브아메리카의 대규모 GLP-1 약물 지출은 해당 약물 시장의 폭발적인 성장을 증명하며, 관련 제약사들의 매출 및 수익성에 긍정적인 영향을 미칠 것입니다.",
     "action_point": "GLP-1 약물을 개발/생산하는 글로벌 제약사 및 관련 헬스케어 섹터 투자 비중 확대를 검토하십시오.",
-    "market": "US"
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Private companies added just 44,000 workers in July, below expectations, ADP reports",
-    "title_ko": "ADP 보고서에 따르면 7월 민간 기업 일자리 4만 4천 개 증가, 예상치 하회",
-    "link": "https://www.cnbc.com/2026/08/05/private-companies-added-just-44000-workers-in-july-below-expectations-adp-reports.html",
-    "published": "Wed, 05 Aug 2026 12:29:19 GMT",
-    "fetched_at": "2026-08-05 21:48:30",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "기술주",
-      "성장주"
-    ],
-    "keywords": [
-      "미국 고용",
-      "금리 인상",
-      "경기 둔화",
-      "연준 정책"
-    ],
-    "reason": "7월 민간 고용 지표가 예상치를 크게 하회하며 미국 경제 둔화 가능성을 시사하고, 연준의 추가 금리 인상 기대감을 낮춰 위험 자산에 긍정적으로 작용할 수 있습니다.",
-    "action_point": "미국 연준의 금리 인상 사이클 종료 가능성에 대비하여 성장주 및 금리 민감 자산 비중 확대 검토",
-    "market": "GLOBAL"
-  },
-  {
-    "source": "CNBC_Finance",
-    "title": "Ken Griffin's Citadel posts best month in years after scooping up Situational Awareness stocks",
-    "title_ko": "켄 그리핀의 시타델, 시츄에이셔널 어웨어니스 주식 인수 후 수년 만에 최고 월간 수익 기록",
-    "link": "https://www.cnbc.com/2026/08/05/ken-griffins-citadel-posts-best-month-in-years-after-scooping-up-situational-awareness-stocks.html",
-    "published": "Wed, 05 Aug 2026 11:13:46 GMT",
-    "fetched_at": "2026-08-05 21:48:20",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [],
-    "keywords": [
-      "켄 그리핀",
-      "시타델",
-      "헤지펀드",
-      "수익률",
-      "기관 투자"
-    ],
-    "reason": "주요 헤지펀드의 성공적인 수익률 기록은 해당 기관의 투자 전략 및 시장 운용 능력에 대한 긍정적 신호이지만, 특정 시장의 방향성이나 개별 자산군에 대한 직접적인 투자 시그널을 제공하지는 않습니다.",
-    "action_point": "해당 없음",
     "market": "US"
   }
 ]
