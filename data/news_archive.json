@@ -2,6 +2,33 @@
   {
     "source": "GoogleNews_Korea",
     "market": "KR",
+    "title": "\"이란전쟁 美가구당 180만원 추가 부담\"…총비용 1400조 경고도 - 머니투데이 - 머니투데이",
+    "title_ko": "이란전쟁 美가구당 180만원 추가 부담\"…총비용 1400조 경고도 - 머니투데이 - 머니투데이",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ZdmROTDdCQWNsZ0prQjJFZl9MU0N2MjB6bHc3cVYzNnI2M3Z2VkYtWFA0Wk1YSFZhM3Rlbm9lUHFsR3VWYXdUQlhYQklHaXZqV09Pb3hGd2IteEUzMlByWU53Xy1TbEdy0gFuQVVfeXFMT1B1eFZkbHdhcHVHNXR0eGdub2o2aHBMVFJGNWpueVhnOHBKaHdNaFBfNmRVcmZ0MnZXXzV6TFBmRkU2a083ZXE3NHFzbEpnTmkxUzIyaHJNc1l4ZTFheERWaG9IM2dSdE10S0J5TVE?oc=5",
+    "published": "Fri, 07 Aug 2026 21:06:56 GMT",
+    "fetched_at": "2026-08-08 13:05:53",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "원자재(유가)",
+      "방산",
+      "항공",
+      "해운",
+      "글로벌 경기 전반"
+    ],
+    "keywords": [
+      "이란 전쟁",
+      "유가",
+      "지정학적 리스크",
+      "미국 경제",
+      "인플레이션"
+    ],
+    "reason": "이란 전쟁 가능성 경고는 유가 급등, 글로벌 공급망 교란 및 인플레이션 압력 가중을 통해 미국 및 세계 경제에 상당한 부담을 줄 수 있습니다. 이는 전반적인 소비 위축과 경기 둔화로 이어질 수 있는 심각한 지정학적 리스크입니다.",
+    "action_point": "지정학적 리스크와 유가 급등에 대비하여 에너지, 방산 섹터 비중 확대 및 달러 자산 유지 검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
     "title": "21세기판 오디세이 트럼프… 이란전쟁에서 길을 잃다 - 주간조선",
     "title_ko": "21세기판 오디세이 트럼프… 이란전쟁에서 길을 잃다",
     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZbkhSTHF5a0dtamFrT3dNOVlqNV80ZVhIMEhKY3FWWlV1b3VYSHR2UDNpa21FWmk0QTczampKN1VTLU5YSUg3Yld0TkRtRmNkNVYyR1E3aHBqUGRlLXA0YVFiYV94WDlBaWfSAW5BVV95cUxOWlZudUpaZ0tMTVFRWkZHcDFkZ3hFOTlUWEtsWldieDY2ZWJ3UDM5aVFaZUd1SHZrajM2NUtfLWxMcnB5RW9HWUhtNUZ6Q1p1QWRoOXRNMHlTUU9IcEhUYzdEeXM0ZktmRlZNOWpOQQ?oc=5",
@@ -2920,28 +2947,6 @@
     ],
     "reason": "인도 중앙은행의 금리 동결은 인플레이션 압력 속에서도 경제 성장 유지에 무게를 둔 조치로 해석되며, 신흥국 전반의 통화 정책 안정성 기조를 지지할 수 있습니다.",
     "action_point": "인도 비중이 높은 신흥국 투자 자산의 인플레이션 위험 노출도를 점검.",
-    "market": "GLOBAL"
-  },
-  {
-    "source": "CNBC_World",
-    "title": "GM, Chinese automaker extend joint venture for 20 years despite geopolitical tensions with U.S.",
-    "title_ko": "GM, 중국 자동차 제조사와 미국과의 지정학적 긴장에도 불구하고 합작 투자 20년 연장",
-    "link": "https://www.cnbc.com/2026/08/04/gm-chinese-automaker-extend-tie-up-amid-geopolitical-tensions-with-us.html",
-    "published": "Wed, 05 Aug 2026 02:30:01 GMT",
-    "fetched_at": "2026-08-05 13:56:39",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "자동차"
-    ],
-    "keywords": [
-      "GM",
-      "중국 시장",
-      "합작 투자",
-      "미중 관계"
-    ],
-    "reason": "GM이 미중 지정학적 긴장에도 불구하고 중국 내 사업을 확대하고 수출을 모색한다는 점에서, 글로벌 기업들이 중국 시장을 완전히 포기하지 않고 사업 기회를 지속적으로 모색하고 있음을 보여준다.",
-    "action_point": "GM 사례를 참고하여, 지정학적 위험 속 중국 시장에서 사업 연속성을 확보한 글로벌 자동차 및 제조 기업에 대한 포트폴리오 비중 확대를 검토하라.",
     "market": "GLOBAL"
   }
 ]
