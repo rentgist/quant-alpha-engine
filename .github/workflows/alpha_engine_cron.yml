@@ -32,6 +32,9 @@ jobs:
       - name: Run Smart Money Engine
         run: python smart_money_engine.py
 
+      - name: Run US Flow Proxy Engine
+        run: python us_flow_engine.py
+
       - name: Commit and Push changes
         run: |
           git config --global user.name "github-actions[bot]"
