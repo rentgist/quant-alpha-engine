@@ -2,6 +2,83 @@
   {
     "source": "GoogleNews_Korea",
     "market": "KR",
+    "title": "미군, 이란전쟁 출구전략 검토…공습 한계에 탄약도 부족 - 경향신문",
+    "title_ko": "미군, 이란전쟁 출구전략 검토…공습 한계에 탄약도 부족",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGcTczYXdFeTdGSTRna3NqTnVBdWVicXdfNWZoR24zNnBON01kZEZqd2ttNmIyQVlGQW1Gb3RNWVRBajNFVHBncEhaN3JIU2ZBZmhwbUMyNEZ4Z9IBX0FVX3lxTE9mYWdXRzJVNW9kd2Y2dkdaczZTOEI1Z3JTSWo4MTJQRFRrTnJBNTVOUThPaXVmVHJYNWFPSXAzX3ExRHVJQUpUR2NIUEdWQXI5d01ENWF4eXFsOUpPZ0ZN?oc=5",
+    "published": "Sat, 08 Aug 2026 06:56:00 GMT",
+    "fetched_at": "2026-08-08 17:29:03",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "방산",
+      "글로벌 리스크 자산"
+    ],
+    "keywords": [
+      "미국",
+      "이란",
+      "지정학",
+      "중동",
+      "유가",
+      "방산",
+      "출구전략"
+    ],
+    "reason": "미군이 이란 관련 분쟁의 출구전략을 검토하는 것은 중동의 지정학적 긴장 완화 가능성을 시사하며, 이는 글로벌 위험자산 선호심리 개선 및 유가 안정화에 긍정적 영향을 미칠 수 있습니다. 동시에 미국의 군사 전략 및 방산 수요 변화를 암시합니다.",
+    "action_point": "중동 지정학적 리스크 완화 가능성에 대비해 원자재 포트폴리오 내 유가 관련 자산 비중 축소 검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "다음주 경제지표 줄줄이 공개… 가계대출·고용·수출입물가 주목 - 천지일보",
+    "title_ko": "다음주 경제지표 줄줄이 공개… 가계대출·고용·수출입물가 주목",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1iWDBDTXhjTHdfMHFCM2ZGUFpCZTlDa0loVXJFc2lMSHVCeUI0cHFZN3JPamVaTFRuV3JJU2kzbHIwZEVWdzJjVGVHQTMyd29KaHhpbVJTaFdxckJaNkIxeDlhY1MxRm9GZnc?oc=5",
+    "published": "Sat, 08 Aug 2026 06:35:00 GMT",
+    "fetched_at": "2026-08-08 17:29:12",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "금융",
+      "부동산",
+      "소비재",
+      "제조업"
+    ],
+    "keywords": [
+      "경제지표",
+      "가계대출",
+      "고용",
+      "수출입물가",
+      "금리",
+      "인플레이션"
+    ],
+    "reason": "다음 주 발표될 가계대출, 고용, 수출입물가 지표는 한국 경제의 내수 상황과 대외 무역 여건 및 물가 압력을 종합적으로 평가할 핵심 자료다. 이 결과에 따라 한국은행의 통화정책 방향과 시장의 금리, 인플레이션 기대가 크게 영향을 받을 것이다.",
+    "action_point": "발표될 가계대출, 고용, 수출입물가 지표가 국내 금리 및 소비 관련 자산의 변동성을 확대할 수 있으므로 관련 포트폴리오 비중을 재점검하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "‘김부장’ 제작사 판타지오 회장, 자본시장법 위반 혐의 피소",
+    "title_ko": "‘김부장’ 제작사 판타지오 회장, 자본시장법 위반 혐의 피소",
+    "link": "https://www.mk.co.kr/news/society/12121743",
+    "published": "Sat, 08 Aug 2026 16:54:07 +09:00",
+    "fetched_at": "2026-08-08 17:29:32",
+    "sentiment": "악재",
+    "importance": 2,
+    "sectors": [
+      "엔터테인먼트",
+      "미디어"
+    ],
+    "keywords": [
+      "판타지오",
+      "자본시장법",
+      "미공개 정보",
+      "코스닥"
+    ],
+    "reason": "판타지오 개별 기업의 법적 리스크로, 해당 기업 주가에 직접적인 악영향을 미칠 수 있습니다. 거시 경제나 광범위한 시장 전반에는 미치는 영향이 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
     "title": "[기고]이란전쟁의 나비효과, ‘사우디·튀르키예·파키스탄 메카 공동방위조약’…김태준의 美·이란戰 중계 - munhwa.com",
     "title_ko": "[기고]이란전쟁의 나비효과, ‘사우디·튀르키예·파키스탄 메카 공동방위조약’…김태준의 美·이란戰 중계",
     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9WdmVMWEdHZW42TUdMcTlDdlI0Z2YzRm9YcGpfSVZvZnRMUmRvN1ZEYllvcU50NW96NVdpWVVWQ0RfckZxWG5Qd2ViMktLUmgz?oc=5",
@@ -2871,83 +2948,6 @@
     ],
     "reason": "이 사건은 AI 모델의 잠재적 악용 가능성과 보안 취약성을 드러내며, AI 개발 기업에 대한 규제 강화 압력과 장기적인 투자 심리 위축으로 이어질 수 있습니다. 특히 AI 안전 및 윤리 문제에 대한 시장의 우려를 증폭시킬 것입니다.",
     "action_point": "AI 기술 관련 기업 투자 시 보안 및 윤리 리스크 평가를 강화하고, 관련 규제 동향을 면밀히 주시하십시오.",
-    "market": "GLOBAL"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "\"지식재산으로 경제성장의 판을 바꾸겠습니다!\" - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
-    "title_ko": "\"지식재산으로 경제성장의 판을 바꾸겠습니다!\" - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPb0ZEekdvNDFXQ3lXR2ZZUXZfZ2lBaE8yT3R6VzMwT25fNVU3Z1hfamtDNFNqNXRDZ284cVhYWUZiUGJDZ2xkeWNLM2NiY0hhcGJfX0N4S2cxWEJGNmZLQUZtak5vVUI0SU1vc1gzOXVESnR3R08xSWZYRnJRNXFIcG9pU0xQeHA1N0dj?oc=5",
-    "published": "Wed, 05 Aug 2026 04:33:52 GMT",
-    "fetched_at": "2026-08-05 19:26:52",
-    "sentiment": "호재",
-    "importance": 2,
-    "sectors": [
-      "기술",
-      "바이오",
-      "벤처캐피탈",
-      "컨텐츠"
-    ],
-    "keywords": [
-      "지식재산",
-      "경제성장",
-      "정책",
-      "혁신"
-    ],
-    "reason": "정부의 지식재산 기반 경제성장 정책 발표는 단기적인 시장 영향은 제한적이나, 장기적으로 기술 및 지식 기반 산업의 경쟁력 강화에 긍정적입니다. 혁신 기업 육성 및 지식재산권 보호 환경 조성 기대를 높입니다.",
-    "action_point": "지식재산권 확보 및 활용 역량이 높은 기술·바이오 섹터 기업의 장기 투자 가능성을 검토하라.",
-    "market": "KR"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "미국, 이란 전쟁에 장거리 정밀 미사일 모두 소진 - 한겨레",
-    "title_ko": "미국, 이란 전쟁에 장거리 정밀 미사일 모두 소진",
-    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOWlTRGhkYmx4YjFiWW81WVc4aXpsWDctLUllLUp0NjFJUW10UGI4MVUzRXloOFdIWlV0SGF1RnRzdXVKN0Y5T2gxMzNoU3hRYTVZbHJKRTUyZjVhbUw0TFhiNWdLRUZYWGRBa3ZyU3FMRXhTWERQb3B6M3d0WmI2YUZ3?oc=5",
-    "published": "Tue, 04 Aug 2026 23:26:00 GMT",
-    "fetched_at": "2026-08-05 16:35:53",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "방산",
-      "원자재",
-      "항공우주"
-    ],
-    "keywords": [
-      "미국",
-      "이란",
-      "미사일",
-      "지정학적 위험",
-      "방산",
-      "중동"
-    ],
-    "reason": "미국의 장거리 정밀 미사일 소진은 중동 지역의 지정학적 불안정 심화를 의미하며, 이는 글로벌 안보 위험 증가 및 원자재 가격 변동성 확대, 방산 섹터에 대한 장기적 수요 증가 가능성으로 이어진다.",
-    "action_point": "지속되는 중동 지정학적 리스크에 대비하여 방산 섹터 투자 비중 확대를 검토하라.",
-    "market": "KR"
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Europe is blowing up riverbeds as an extreme drought wreaks havoc on its economy",
-    "title_ko": "유럽, 극심한 가뭄으로 강바닥 폭파하며 경제 전반에 심각한 타격",
-    "link": "https://www.cnbc.com/2026/08/05/drought-rhine-danube-water-levels-economy.html",
-    "published": "Wed, 05 Aug 2026 07:15:17 GMT",
-    "fetched_at": "2026-08-05 16:34:48",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "물류",
-      "운송",
-      "제조업"
-    ],
-    "keywords": [
-      "유럽 가뭄",
-      "에너지 공급",
-      "물류 차질",
-      "경제 성장 둔화",
-      "인플레이션"
-    ],
-    "reason": "유럽 가뭄으로 인한 주요 수로 운송 차질은 에너지 공급 불안정 및 물류 비용 상승을 초래하며, 유럽 경제 성장 둔화와 인플레이션 압력을 가중시킬 수 있다.",
-    "action_point": "유럽 경기 둔화 및 인플레이션 압력 심화에 대비하여 유럽 관련 자산 비중 축소를 검토하라.",
     "market": "GLOBAL"
   }
 ]
