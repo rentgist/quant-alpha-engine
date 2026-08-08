@@ -2,6 +2,28 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "Berkshire earnings may prove stock is cheap. And that Abel and Buffett think so too",
+    "title_ko": "버크셔 해서웨이 실적, 주가가 저렴하다는 것을 증명할 수 있다. 아벨과 버핏도 그렇게 생각한다.",
+    "link": "https://www.cnbc.com/2026/08/07/berkshire-earnings-may-prove-stock-is-cheap-and-that-abel-and-buffett-think-so-too.html",
+    "published": "Fri, 07 Aug 2026 16:43:36 GMT",
+    "fetched_at": "2026-08-08 09:54:54",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "금융",
+      "지주회사"
+    ],
+    "keywords": [
+      "버크셔 해서웨이",
+      "자사주 매입",
+      "가치주"
+    ],
+    "reason": "버크셔 해서웨이의 대규모 자사주 매입은 경영진이 현재 주가를 저평가되어 있다고 판단하며, 이는 버크셔 주주들에게 긍정적인 신호이자 시장 전반의 가치주에 대한 관심을 유발할 수 있습니다.",
+    "action_point": "가치주 투자 비중을 검토하고, 특히 버크셔 해서웨이 주식의 잠재적 매력도를 평가하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "‘SaaSpocalypse’ debate intensifies as software stocks swing wildly",
     "title_ko": "'SaaSpocalypse' 논쟁 심화, 소프트웨어 주식 변동성 급증",
     "link": "https://www.cnbc.com/2026/08/07/saaspocalypse-debate-intensifies-as-software-stocks-swing-wildly.html",
@@ -2923,30 +2945,5 @@
     "reason": "이 기사는 장 마감 후 개별 기업들의 주가 변동을 나열한 것으로, 거시 경제나 주요 투자 자산 전반에 미치는 직접적인 영향은 제한적입니다. 개별 기업의 미공개 이슈로 인한 단기 변동으로 해석됩니다.",
     "action_point": "해당 없음",
     "market": "US"
-  },
-  {
-    "source": "CNBC_World",
-    "title": "SpaceX stock drops after first earnings report as AI costs soar: Live updates",
-    "title_ko": "SpaceX 주가, 첫 실적 보고 후 AI 비용 급증으로 하락: 실시간 업데이트",
-    "link": "https://www.cnbc.com/2026/08/04/spacex-spcx-earnings-live-updates-q2-2026.html",
-    "published": "Tue, 04 Aug 2026 23:08:44 GMT",
-    "fetched_at": "2026-08-05 08:56:07",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "우주 산업",
-      "인공지능",
-      "기술 섹터"
-    ],
-    "keywords": [
-      "SpaceX",
-      "AI 비용",
-      "주가 하락",
-      "스타링크",
-      "기술 투자"
-    ],
-    "reason": "이 뉴스는 선도적인 사기업조차도 AI 개발에 막대한 비용을 지출하며 재무적 압박을 받을 수 있음을 시사하며, 고성장 기술 및 우주 산업 전반의 기업 가치 평가에 대한 재고를 불러올 수 있습니다.",
-    "action_point": "AI 기술 개발 및 도입에 따른 비용 부담이 큰 기업의 투자 매력도를 재검토하라.",
-    "market": "GLOBAL"
   }
 ]
