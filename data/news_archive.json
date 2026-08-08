@@ -2,6 +2,110 @@
   {
     "source": "GoogleNews_Korea",
     "market": "KR",
+    "title": "[기고]이란전쟁의 나비효과, ‘사우디·튀르키예·파키스탄 메카 공동방위조약’…김태준의 美·이란戰 중계 - munhwa.com",
+    "title_ko": "[기고]이란전쟁의 나비효과, ‘사우디·튀르키예·파키스탄 메카 공동방위조약’…김태준의 美·이란戰 중계",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9WdmVMWEdHZW42TUdMcTlDdlI0Z2YzRm9YcGpfSVZvZnRMUmRvN1ZEYllvcU50NW96NVdpWVVWQ0RfckZxWG5Qd2ViMktLUmgz?oc=5",
+    "published": "Sat, 08 Aug 2026 05:49:57 GMT",
+    "fetched_at": "2026-08-08 16:41:40",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "에너지 (원유/가스)",
+      "방위산업",
+      "해운",
+      "항공",
+      "건설"
+    ],
+    "keywords": [
+      "이란 전쟁",
+      "중동 지정학",
+      "원유",
+      "국제 안보",
+      "방위"
+    ],
+    "reason": "미국-이란 전쟁 가능성 및 사우디-튀르키예-파키스탄의 공동 방위 조약은 중동 지역의 지정학적 리스크를 극도로 고조시키며, 이는 국제 유가 급등과 글로벌 경제 불확실성 증폭으로 이어질 수 있습니다.",
+    "action_point": "중동 지정학적 리스크 심화에 대비하여 원유 관련 자산 비중을 확대하고, 전반적인 위험 자산 비중을 축소하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Trump administration to invest $3 billion in minerals projects to boost U.S. defense supply chains",
+    "title_ko": "트럼프 행정부, 미국 국방 공급망 강화를 위해 광물 프로젝트에 30억 달러 투자",
+    "link": "https://www.cnbc.com/2026/08/08/trump-admin-to-invest-3-billion-in-defense-linked-minerals-projects.html",
+    "published": "Sat, 08 Aug 2026 06:28:46 GMT",
+    "fetched_at": "2026-08-08 16:41:25",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "핵심 광물",
+      "방위산업"
+    ],
+    "keywords": [
+      "핵심 광물",
+      "국방 공급망",
+      "미국-중국 갈등",
+      "희토류",
+      "전략 물자"
+    ],
+    "reason": "미국이 국방력 강화를 위해 핵심 광물 확보에 대규모 투자를 단행하며 중국 의존도를 줄이려는 전략을 보여준다. 이는 관련 광물 채굴 및 방위 산업에 긍정적이며, 글로벌 공급망 재편을 가속화할 것이다.",
+    "action_point": "핵심 광물 채굴 및 가공 기업과 미국 방위 산업 관련 기업의 장기 투자 매력도를 재평가하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "미군, 이란전쟁 출구전략 검토…공습 한계에 탄약도 부족 - 경향신문",
+    "title_ko": "미군, 이란전쟁 출구전략 검토…공습 한계에 탄약도 부족",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObi1LcG5ZTGhfY2VoZHRBQnpTS1NKeHF4eE8xb0lhMEhMcGFGSUt0RlpGY0lZdG1qZ0pNRklpUEhmNjJhaDJ5X1dfczZZbklMYTQ5SVA5aktIQmRwbDJxLTAwaFZGYVotMGdBZGxpSDZhMHd3dHZaM1kyZ3RreTctSk84eHhEQUpHWU8xZFNPREdGaGwxT29ORHZwdW9CWUU5MzRydHRWc2hXZ9IBX0FVX3lxTE9mYWdXRzJVNW9kd2Y2dkdaczZTOEI1Z3JTSWo4MTJQRFRrTnJBNTVOUThPaXVmVHJYNWFPSXAzX3ExRHVJQUpUR2NIUEdWQXI5d01ENWF4eXFsOUpPZ0ZN?oc=5",
+    "published": "Sat, 08 Aug 2026 06:56:00 GMT",
+    "fetched_at": "2026-08-08 16:41:50",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "방산",
+      "항공/운송"
+    ],
+    "keywords": [
+      "미군",
+      "이란",
+      "전쟁",
+      "출구전략",
+      "지정학",
+      "유가"
+    ],
+    "reason": "미군이 이란전쟁 출구전략을 검토한다는 소식은 중동 지정학적 리스크 완화 기대를 높여 유가 하락 압력으로 작용할 수 있으며, 이는 글로벌 경제 불확실성 감소와 소비 회복에 긍정적이다.",
+    "action_point": "중동 리스크 완화에 따른 유가 하락 가능성을 고려하여 에너지 섹터 비중 축소를 검토하고, 항공/운송 등 유가 하락 수혜주를 주시하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "\"미군 수뇌부, 이란 전쟁 출구전략 모색 중\" - asiae.co.kr",
+    "title_ko": "미군 수뇌부, 이란 전쟁 출구전략 모색 중",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WazNqRS1DSDhaWDlkMXJfcjJyZnMwbkIycEo3bkY4bUN2d1JLb09MVGR2VFRFQjlOOFZick9uVEExM2pHOUxBVTNON2JIWjA1WG15VkxaTS1DNVpGYUdFSw?oc=5",
+    "published": "Sat, 08 Aug 2026 06:27:47 GMT",
+    "fetched_at": "2026-08-08 16:41:57",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "해운",
+      "방위산업",
+      "글로벌 경제"
+    ],
+    "keywords": [
+      "이란",
+      "미군",
+      "출구전략",
+      "지정학",
+      "중동",
+      "유가"
+    ],
+    "reason": "미군이 이란 전쟁의 출구전략을 모색한다는 보도는 중동 지역의 지정학적 긴장 완화 가능성을 시사하며, 이는 유가 하방 압력으로 작용하고 글로벌 시장의 위험 선호 심리를 회복시킬 수 있습니다.",
+    "action_point": "중동발 지정학적 리스크 완화와 유가 하락 가능성에 대비하여 에너지 관련 자산 비중을 조정하고 위험자산 편입을 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
     "title": "전쟁 장기화에 美세금 눈덩이…트럼프 \"여론 악화, 내 탓 아냐\" - 연합뉴스TV",
     "title_ko": "전쟁 장기화에 美세금 눈덩이…트럼프 \"여론 악화, 내 탓 아냐\"",
     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5MR3k0VEtwZ1ZOUnpsV1Y4SHkyYnFjSXpVMUg0QlpGUy12b3NKZFpBeGNhdUJ3ZHFIY0lSRG9nWk5Pbm0wQ2pidlgzbTVvdzRKVWgyYy1VWVdZcDJwcmlQWGtOV3BFcjg?oc=5",
@@ -2844,105 +2948,6 @@
     ],
     "reason": "유럽 가뭄으로 인한 주요 수로 운송 차질은 에너지 공급 불안정 및 물류 비용 상승을 초래하며, 유럽 경제 성장 둔화와 인플레이션 압력을 가중시킬 수 있다.",
     "action_point": "유럽 경기 둔화 및 인플레이션 압력 심화에 대비하여 유럽 관련 자산 비중 축소를 검토하라.",
-    "market": "GLOBAL"
-  },
-  {
-    "source": "CNBC_World",
-    "title": "The Stoxx 600 just hit a record high – here's what's driving the pan-European index",
-    "title_ko": "Stoxx 600, 사상 최고치 경신 – 범유럽 지수 상승 동력은 무엇인가",
-    "link": "https://www.cnbc.com/2026/08/05/stoxx-600-record-leaders-laggards-markets.html",
-    "published": "Wed, 05 Aug 2026 06:45:58 GMT",
-    "fetched_at": "2026-08-05 16:35:00",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "유럽 경기민감주",
-      "유럽 금융주",
-      "유럽 기술주"
-    ],
-    "keywords": [
-      "Stoxx 600",
-      "유럽 증시",
-      "사상 최고치",
-      "위험자산 선호"
-    ],
-    "reason": "범유럽 지수인 Stoxx 600의 사상 최고치 경신은 유럽 기업 실적과 경제 전망에 대한 투자자 신뢰가 높음을 시사한다. 이는 글로벌 위험자산 선호 심리를 강화할 수 있으나, 섹터별 성과는 차별화될 수 있다.",
-    "action_point": "유럽 증시의 긍정적 흐름을 감안하여 포트폴리오 내 유럽 관련 자산(예: 유럽 주식 ETF)의 비중 확대를 검토하고, 특정 성장 동력을 가진 섹터에 주목하라.",
-    "market": "GLOBAL"
-  },
-  {
-    "source": "CNBC_World",
-    "title": "CNBC Daily Open: Markets rally on hopes of Iran-U.S. Strait of Hormuz deal",
-    "title_ko": "시장, 이란-미국 호르무즈 해협 합의 기대감에 랠리",
-    "link": "https://www.cnbc.com/2026/08/05/daily-open-iran-us-strait-of-hormuz-novo-nordisk.html",
-    "published": "Wed, 05 Aug 2026 06:46:20 GMT",
-    "fetched_at": "2026-08-05 16:35:10",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "해운/항공",
-      "운송",
-      "산업재"
-    ],
-    "keywords": [
-      "호르무즈 해협",
-      "이란",
-      "미국",
-      "유가",
-      "지정학적 리스크",
-      "글로벌 공급망"
-    ],
-    "reason": "이란과 미국 간 호르무즈 해협 개방 합의 기대는 글로벌 유가 안정화와 지정학적 리스크 완화로 이어져 시장 전반의 투자심리를 개선하고 인플레이션 압력을 낮출 수 있습니다.",
-    "action_point": "에너지 섹터 비중을 축소하고 유가 하락 수혜 섹터(운송, 항공, 산업재 등)의 투자 확대를 검토.",
-    "market": "GLOBAL"
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Novo Nordisk stock falls after raised forecast fails to change the debate over its obesity business",
-    "title_ko": "노보 노디스크 주가, 상향된 전망에도 비만 사업 논쟁을 바꾸지 못해 하락",
-    "link": "https://www.cnbc.com/2026/08/05/novo-nordisk-stock-guidance-earnings-wegovy-ozempic-eli-lilly.html",
-    "published": "Wed, 05 Aug 2026 07:23:34 GMT",
-    "fetched_at": "2026-08-05 16:34:40",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "제약/바이오",
-      "헬스케어"
-    ],
-    "keywords": [
-      "노보 노디스크",
-      "비만 치료제",
-      "경쟁 심화",
-      "일라이 릴리"
-    ],
-    "reason": "비만 치료제 시장의 경쟁 심화가 노보 노디스크의 성장 전망에 대한 시장의 의구심을 키우며 해당 섹터 전반의 투자심리에 부정적 영향을 미칠 수 있습니다.",
-    "action_point": "비만 치료제 관련 제약/바이오 섹터 종목 비중 축소 또는 신규 진입 보류를 검토.",
-    "market": "GLOBAL"
-  },
-  {
-    "source": "CNBC_World",
-    "title": "SpaceX's AI spending unnerves Wall Street despite promises of quick payoff",
-    "title_ko": "SpaceX의 AI 투자 지출, 빠른 수익 약속에도 불구하고 월스트리트 불안감 조성",
-    "link": "https://www.cnbc.com/2026/08/04/spacex-ai-spending-unnerves-wall-street-despite-promising-quick-payoff.html",
-    "published": "Wed, 05 Aug 2026 01:43:06 GMT",
-    "fetched_at": "2026-08-05 16:35:18",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "인공지능(AI)",
-      "우주 산업",
-      "기술주"
-    ],
-    "keywords": [
-      "SpaceX",
-      "AI 투자",
-      "월스트리트",
-      "기업공개(IPO)",
-      "기술주"
-    ],
-    "reason": "월스트리트가 SpaceX의 막대한 AI 투자 지출에 불안감을 표출하는 것은 AI 관련 고성장 기술 기업들의 투자 효율성과 빠른 수익 창출 능력에 대한 시장의 회의적인 시각을 반영합니다. 이는 향후 대규모 CAPEX가 필요한 기술 기업들의 가치 평가에 부정적인 영향을 미 미칠 수 있습니다.",
-    "action_point": "기술 섹터 내 AI 관련 기업들의 투자 대비 수익성 및 현금 흐름을 면밀히 재검토하라.",
     "market": "GLOBAL"
   }
 ]
