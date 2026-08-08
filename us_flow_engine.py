@@ -1,5 +1,6 @@
 ﻿import os
 import pandas as pd
+import json
 import yfinance as yf
 from datetime import datetime
 import pytz
@@ -7,6 +8,7 @@ import pytz
 KST = pytz.timezone("Asia/Seoul")
 DATA_DIR    = "data"
 REPORT_FILE = os.path.join(DATA_DIR, "us_flow_report.md")
+REPORT_JSON_FILE = os.path.join(DATA_DIR, "us_flow_report.json")
 
 def generate_us_flow_report():
     print("Generating US Flow Report...")
@@ -19,6 +21,7 @@ def generate_us_flow_report():
     }
     
     results = []
+    market_dates = []
     
     for ticker, name in etfs.items():
         try:
@@ -31,6 +34,7 @@ def generate_us_flow_report():
                 
             close = df['Close']
             volume = df['Volume']
+            market_dates.append(pd.Timestamp(df.index[-1]).strftime("%Y-%m-%d"))
             
             recent_pct = (close.iloc[-1] - close.iloc[-2]) / close.iloc[-2] * 100
             recent_vol = volume.iloc[-1]
@@ -70,8 +74,18 @@ def generate_us_flow_report():
     os.makedirs(DATA_DIR, exist_ok=True)
     with open(REPORT_FILE, "w", encoding="utf-8") as f:
         f.write("\n".join(lines) + "\n")
+
+    snapshot = {
+        "generated_at_kst": now_str,
+        "market_as_of": max(market_dates) if market_dates else None,
+        "method": "daily_return_pct_x_volume_ratio_20d",
+        "is_actual_fund_flow": False,
+        "records": results,
+    }
+    with open(REPORT_JSON_FILE, "w", encoding="utf-8") as f:
+        json.dump(snapshot, f, ensure_ascii=False, indent=2)
         
-    print(f"Saved to {REPORT_FILE}")
+    print(f"Saved to {REPORT_FILE} and {REPORT_JSON_FILE}")
 
 if __name__ == "__main__":
     generate_us_flow_report()
