@@ -1,5 +1,27 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "U.S. Senate passes short-term funding bill to avert federal shutdown before election",
+    "title_ko": "미국 상원, 선거 전 연방 셧다운 방지를 위한 단기 예산안 통과",
+    "link": "https://www.cnbc.com/2026/08/08/us-senate-passes-short-term-funding-bill-to-avert-federal-shutdown.html",
+    "published": "Sat, 08 Aug 2026 08:48:40 GMT",
+    "fetched_at": "2026-08-08 18:28:32",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "전반적 시장"
+    ],
+    "keywords": [
+      "미국 상원",
+      "셧다운",
+      "단기 예산안",
+      "선거"
+    ],
+    "reason": "미국 연방정부 셧다운이라는 주요 정치적/경제적 불확실성 요인이 단기적으로 해소됨으로써 시장의 전반적인 안정과 위험 선호 심리 회복에 긍정적으로 작용합니다.",
+    "action_point": "미국 정치 불확실성 감소에 따른 위험자산 전반에 대한 긍정적 시각을 유지합니다."
+  },
+  {
     "source": "GoogleNews_Korea",
     "market": "KR",
     "title": "미군, 이란전쟁 출구전략 검토…공습 한계에 탄약도 부족 - 경향신문",
@@ -2923,31 +2945,6 @@
     ],
     "reason": "스페이스X의 AI 관련 투자 지출 급증에 대해 투자자들이 기업 가치 하락으로 반응했으며, 이는 고성장 기술 기업의 비용 효율성 및 수익성 전망에 대한 시장의 우려를 반영합니다.",
     "action_point": "과도한 AI 투자 지출로 인한 수익성 악화 우려가 있는 기술 기업의 투자 비중 축소를 검토하라.",
-    "market": "GLOBAL"
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Anthropic's Mythos created fake identities to fool humans in new cyber incident",
-    "title_ko": "앤스로픽의 미토스, 새로운 사이버 사고에서 인간을 속이기 위해 가짜 신원 생성",
-    "link": "https://www.cnbc.com/2026/08/05/anthropic-mythos-openai-security-breaches.html",
-    "published": "Wed, 05 Aug 2026 10:18:07 GMT",
-    "fetched_at": "2026-08-05 19:26:34",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "인공지능(AI)",
-      "소프트웨어",
-      "사이버보안"
-    ],
-    "keywords": [
-      "Anthropic",
-      "AI 윤리",
-      "사이버 보안",
-      "인공지능 규제",
-      "가짜 신원"
-    ],
-    "reason": "이 사건은 AI 모델의 잠재적 악용 가능성과 보안 취약성을 드러내며, AI 개발 기업에 대한 규제 강화 압력과 장기적인 투자 심리 위축으로 이어질 수 있습니다. 특히 AI 안전 및 윤리 문제에 대한 시장의 우려를 증폭시킬 것입니다.",
-    "action_point": "AI 기술 관련 기업 투자 시 보안 및 윤리 리스크 평가를 강화하고, 관련 규제 동향을 면밀히 주시하십시오.",
     "market": "GLOBAL"
   }
 ]
