@@ -1,5 +1,80 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "21세기판 오디세이 트럼프… 이란전쟁에서 길을 잃다 - 주간조선",
+    "title_ko": "21세기판 오디세이 트럼프… 이란전쟁에서 길을 잃다",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZbkhSTHF5a0dtamFrT3dNOVlqNV80ZVhIMEhKY3FWWlV1b3VYSHR2UDNpa21FWmk0QTczampKN1VTLU5YSUg3Yld0TkRtRmNkNVYyR1E3aHBqUGRlLXA0YVFiYV94WDlBaWfSAW5BVV95cUxOWlZudUpaZ0tMTVFRWkZHcDFkZ3hFOTlUWEtsWldieDY2ZWJ3UDM5aVFaZUd1SHZrajM2NUtfLWxMcnB5RW9HWUhtNUZ6Q1p1QWRoOXRNMHlTUU9IcEhUYzdEeXM0ZktmRlZNOWpOQQ?oc=5",
+    "published": "Fri, 07 Aug 2026 19:00:00 GMT",
+    "fetched_at": "2026-08-08 11:50:59",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "원자재",
+      "방위산업",
+      "해운/물류",
+      "항공",
+      "금융"
+    ],
+    "keywords": [
+      "트럼프",
+      "이란",
+      "지정학적 리스크",
+      "중동",
+      "원유"
+    ],
+    "reason": "트럼프 행정부 시기 이란과의 군사적 긴장 고조 가능성을 암시하며, 이는 중동 지역 불안정 심화와 국제 유가 변동성 확대를 야기할 수 있습니다. 글로벌 경제 불확실성이 커져 안전자산 선호 심리가 강화될 수 있습니다.",
+    "action_point": "지정학적 리스크 확대를 대비하여 안전자산(달러, 금) 비중을 늘리고 에너지 섹터에 대한 관심도를 높여라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "세계 식량가격 3년 반만에 최고치…폭염·전쟁 탓 - 연합뉴스TV",
+    "title_ko": "세계 식량가격 3년 반만에 최고치…폭염·전쟁 탓",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1qWjZxT1ljWV9WQkdtbXh3VnFMZ0gzcHJqOGw1MDVhQ1VwYzNWM0FFNEtPTWJ0ZmZqeVNPX2Y1MDlFZlhVZlVMSXlCLV9QRTN2b1JKbnljTUZya3l3TkJCaWNqN3p4Nnc?oc=5",
+    "published": "Sat, 08 Aug 2026 02:47:00 GMT",
+    "fetched_at": "2026-08-08 11:51:13",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "식품",
+      "소비재",
+      "농업"
+    ],
+    "keywords": [
+      "식량가격",
+      "인플레이션",
+      "기후변화",
+      "지정학"
+    ],
+    "reason": "세계 식량가격 상승은 글로벌 인플레이션 압력을 가중시켜 각국 중앙은행의 금리 인하 기대감을 약화하고, 소비재 기업의 원가 부담 및 가계 실질 구매력 감소로 이어져 전반적인 경제 성장에 부정적인 영향을 미칠 수 있습니다.",
+    "action_point": "인플레이션 헤지 자산 편입을 고려하고, 식품 및 소비재 섹터 기업들의 마진 압박을 주시하며 투자 비중을 재검토하십시오."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "전쟁에 원유 공급망 흔들려도 에너지안보로 재평가되는 K-정유 - 연합뉴스",
+    "title_ko": "전쟁에 원유 공급망 흔들려도 에너지안보로 재평가되는 K-정유 - 연합뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE44cWtNMGotbXNmVmg1YUtuanpVYk1Fc21wOXktUzVhMVZtQ1BUd25fcm85SEx5dmFWTHpxLUg1M2h1eE82UVZZc0hIaVFpcVJiUlMtQjFwdi16TFXSAWBBVV95cUxNYS1FZ0Fxdjk5QkJlb3h2eFk2aGJmbE1Zazl6RXkxMy1STEY2aXBRUVNyd29NcWpQZVJBVm1KOVoyNDZWZHVYY2ZZcFNreDdPT0RETXg4MnQ2bTFsRDN6Sjk?oc=5",
+    "published": "Fri, 07 Aug 2026 22:35:01 GMT",
+    "fetched_at": "2026-08-08 11:51:06",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "정유",
+      "에너지"
+    ],
+    "keywords": [
+      "전쟁",
+      "원유",
+      "공급망",
+      "에너지안보",
+      "정유"
+    ],
+    "reason": "글로벌 지정학적 불안정 심화로 원유 공급망 불확실성이 커지는 가운데, 국내 정유 산업이 에너지 안보의 핵심 역할을 하며 재평가될 가능성이 높다. 이는 관련 기업의 투자 매력을 높일 수 있다.",
+    "action_point": "국내 정유 섹터 비중 확대 검토"
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "Berkshire earnings may prove stock is cheap. And that Abel and Buffett think so too",
@@ -2868,82 +2943,5 @@
     "reason": "GM이 미중 지정학적 긴장에도 불구하고 중국 내 사업을 확대하고 수출을 모색한다는 점에서, 글로벌 기업들이 중국 시장을 완전히 포기하지 않고 사업 기회를 지속적으로 모색하고 있음을 보여준다.",
     "action_point": "GM 사례를 참고하여, 지정학적 위험 속 중국 시장에서 사업 연속성을 확보한 글로벌 자동차 및 제조 기업에 대한 포트폴리오 비중 확대를 검토하라.",
     "market": "GLOBAL"
-  },
-  {
-    "source": "CNBC_World",
-    "title": "U.S. says Strait of Hormuz is 'free and open' as Bessent says deal with Iran is close",
-    "title_ko": "미국, 호르무즈 해협 '자유롭고 개방적'이라고 밝혀…베센트, 이란과의 협상 임박 시사",
-    "link": "https://www.cnbc.com/2026/08/05/us-iran-war-trump-hormuz-bessent-iran-deal-close.html",
-    "published": "Wed, 05 Aug 2026 01:26:27 GMT",
-    "fetched_at": "2026-08-05 10:43:16",
-    "sentiment": "호재",
-    "importance": 5,
-    "sectors": [
-      "에너지",
-      "해운"
-    ],
-    "keywords": [
-      "호르무즈 해협",
-      "이란",
-      "원유 공급",
-      "지정학적 리스크"
-    ],
-    "reason": "이란과의 협상 임박 및 호르무즈 해협의 안정화 소식은 중동 지정학적 리스크 완화와 잠재적인 원유 공급 증가를 시사하며, 이는 글로벌 유가 하락 압력으로 작용할 수 있다.",
-    "action_point": "유가 하락에 따른 에너지 관련 자산 비중 조정을 고려하라.",
-    "market": "GLOBAL"
-  },
-  {
-    "source": "CNBC_World",
-    "title": "S&P 500 futures are little changed after massive rally lifts index to fresh record: Live updates",
-    "title_ko": "S&P 500 선물, 대규모 랠리로 지수가 신기록 경신 후 소폭 변동: 실시간 업데이트",
-    "link": "https://www.cnbc.com/2026/08/04/stock-market-today-live-updates.html",
-    "published": "Wed, 05 Aug 2026 01:28:09 GMT",
-    "fetched_at": "2026-08-05 10:43:32",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "전반적 주식시장",
-      "기술주",
-      "성장주"
-    ],
-    "keywords": [
-      "S&P 500",
-      "신기록",
-      "주식 랠리",
-      "시장 강세",
-      "위험자산 선호"
-    ],
-    "reason": "S&P 500과 다우 지수의 사상 최고치 경신은 글로벌 주식시장의 강력한 투자 심리와 유동성 유입을 보여줍니다. 선물 시장의 소폭 변동은 단기적 숨고르기일 수 있으나, 전반적인 위험자산 선호 심리가 강화되는 신호로 해석됩니다.",
-    "action_point": "미국 주식 시장의 견조한 상승세 지속 가능성에 주목하며, 포트폴리오 내 성장주 및 기술주 비중 확대를 고려하라.",
-    "market": "GLOBAL"
-  },
-  {
-    "source": "CNBC_Finance",
-    "title": "Stocks making the biggest moves after the bell: SpaceX, AMD, Pinterest, Arista Networks, Wynn Resorts & more",
-    "title_ko": "장 마감 후 가장 큰 변동을 보인 종목들: 스페이스X, AMD, 핀터레스트, 아리스타 네트웍스, 윈 리조트 외",
-    "link": "https://www.cnbc.com/2026/08/04/stocks-making-the-biggest-moves-after-the-bell-spcx-amd-pins-anet-wynn.html",
-    "published": "Tue, 04 Aug 2026 22:25:44 GMT",
-    "fetched_at": "2026-08-05 10:43:08",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "기술",
-      "반도체",
-      "소셜 미디어",
-      "네트워킹",
-      "카지노/레저"
-    ],
-    "keywords": [
-      "스페이스X",
-      "AMD",
-      "핀터레스트",
-      "아리스타 네트웍스",
-      "윈 리조트",
-      "장 마감 후",
-      "주식 변동"
-    ],
-    "reason": "이 기사는 장 마감 후 개별 기업들의 주가 변동을 나열한 것으로, 거시 경제나 주요 투자 자산 전반에 미치는 직접적인 영향은 제한적입니다. 개별 기업의 미공개 이슈로 인한 단기 변동으로 해석됩니다.",
-    "action_point": "해당 없음",
-    "market": "US"
   }
 ]
