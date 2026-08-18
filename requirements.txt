@@ -7,3 +7,4 @@ google-genai
 requests
 pytz
 lxml
+yfinance
