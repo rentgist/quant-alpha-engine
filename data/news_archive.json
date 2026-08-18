@@ -2,6 +2,77 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "Trump says no talks scheduled with Iran as he teases action in Hormuz Strait",
+    "title_ko": "트럼프, 이란과의 회담 계획 없다고 밝히며 호르무즈 해협에서의 조치 시사",
+    "link": "https://www.cnbc.com/2026/08/18/us-iran-war-trump-hormuz-trump-ceasefire-expires-extension-.html",
+    "published": "Tue, 18 Aug 2026 18:28:37 GMT",
+    "fetched_at": "2026-08-19 08:14:31",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "해운",
+      "방위산업"
+    ],
+    "keywords": [
+      "트럼프",
+      "이란",
+      "호르무즈 해협",
+      "지정학적 리스크",
+      "유가"
+    ],
+    "reason": "호르무즈 해협에서의 군사적 조치 시사는 중동 지정학적 긴장을 고조시키며, 글로벌 원유 공급 불확실성 증대로 유가 상승 압력을 가하고 시장 전반의 위험 회피 심리를 자극할 수 있습니다.",
+    "action_point": "유가 변동성 확대 및 지정학적 리스크에 대비하여 원자재 관련 익스포저를 점검하고, 단기적 위험자산 비중 축소를 고려."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "'Absolutely crazy': Here's what South Korean stock investors are doing in U.S. markets",
+    "title_ko": "'정말 미쳤다': 한국 주식 투자자들이 미국 시장에서 하는 일",
+    "link": "https://www.cnbc.com/2026/08/18/korean-stock-investors-flee-bruising-home-market-pile-into-us.html",
+    "published": "Mon, 17 Aug 2026 23:39:54 GMT",
+    "fetched_at": "2026-08-19 08:14:38",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "주식",
+      "환율"
+    ],
+    "keywords": [
+      "한국 투자자",
+      "미국 주식",
+      "자본 유출",
+      "국내 시장"
+    ],
+    "reason": "한국 개인 투자자들의 해외, 특히 미국 시장으로의 대규모 자금 유출은 국내 주식 시장의 매도 압력을 가중시키고 원화 약세 요인으로 작용할 수 있습니다. 이는 국내 자산 전반에 대한 투자 심리 위축을 시사합니다.",
+    "action_point": "미국 주식 시장에 대한 투자 비중을 유지하거나 확대하는 방안을 검토하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "관세 성실신고확인제도, 성공의 조건 [D&A 관세·외환리포트]",
+    "title_ko": "관세 성실신고확인제도, 성공의 조건 [D&A 관세·외환리포트]",
+    "link": "https://www.mk.co.kr/news/society/12130338",
+    "published": "Wed, 19 Aug 2026 07:00:00 +09:00",
+    "fetched_at": "2026-08-19 08:14:51",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "수입업",
+      "전문서비스"
+    ],
+    "keywords": [
+      "관세",
+      "성실신고확인제도",
+      "세법개정안",
+      "수입기업"
+    ],
+    "reason": "2026년 세법개정안에 포함된 관세 성실신고확인제도는 수입기업의 관세 신고 절차 및 관련 비용에 영향을 줄 수 있으나, 거시경제나 주요 자산 시장에 미치는 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "30-year Treasury yield tops 5.33%, new 19-year high, on inflation and spending concerns",
     "title_ko": "30년 만기 미 국채 수익률 5.33% 돌파, 인플레이션 및 정부 지출 우려에 19년 만 최고치 경신",
     "link": "https://www.cnbc.com/2026/08/18/treasury-yields-.html",
@@ -2867,81 +2938,5 @@
     "reason": "트럼프 행정부가 IEEPA 유사 관세 체제를 재구축하려는 움직임은 글로벌 보호무역주의 강화 및 무역 분쟁 재연 가능성을 시사하며, 이는 기업 수익성과 공급망에 불확실성을 가중시킨다.",
     "action_point": "글로벌 무역 분쟁 재연 가능성에 대비하여 수출 비중이 높은 국내외 기업 투자 비중을 축소하고, 방어적 자산 편입을 고려하라.",
     "market": "GLOBAL"
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Microsoft AI exec tells developers to default to OpenAI's top model as part of efficiency push",
-    "title_ko": "마이크로소프트 AI 임원, 효율성 증대 노력 일환으로 개발자들에게 OpenAI 최고 모델 기본 사용 지시",
-    "link": "https://www.cnbc.com/2026/08/05/microsoft-makes-openai-gpt-5point6-sol-default-in-github-copilot-for-staff.html",
-    "published": "Wed, 05 Aug 2026 18:46:39 GMT",
-    "fetched_at": "2026-08-06 04:15:38",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "기술",
-      "클라우드 서비스",
-      "반도체"
-    ],
-    "keywords": [
-      "마이크로소프트",
-      "OpenAI",
-      "AI",
-      "효율성",
-      "클라우드"
-    ],
-    "reason": "마이크로소프트의 OpenAI 최고 모델 사용 지시는 AI 기술의 내부 통합 가속화와 클라우드 서비스 경쟁력 강화를 의미하며, AI 산업 전반의 성장과 기술 기업들의 효율성 향상 기조를 반영합니다.",
-    "action_point": "AI 기술 통합 및 클라우드 서비스 경쟁력 강화가 예상되는 마이크로소프트와 관련 AI/반도체 섹터 비중을 유지하거나 확대하는 방안을 고려.",
-    "market": "GLOBAL"
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Meta debuts first AI coding agent to take on Anthropic and OpenAI",
-    "title_ko": "메타, 앤트로픽과 오픈AI에 맞설 최초의 AI 코딩 에이전트 공개",
-    "link": "https://www.cnbc.com/2026/08/05/meta-debuts-muse-code-to-take-on-anthropic-and-openai-.html",
-    "published": "Wed, 05 Aug 2026 19:06:16 GMT",
-    "fetched_at": "2026-08-06 04:15:46",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "기술",
-      "소프트웨어",
-      "반도체"
-    ],
-    "keywords": [
-      "메타",
-      "AI",
-      "코딩 에이전트",
-      "인공지능",
-      "기술 경쟁"
-    ],
-    "reason": "메타의 AI 코딩 에이전트 출시는 거대 기술 기업 간 AI 경쟁 심화를 의미하며, 이는 AI 기술 발전 및 상용화 속도를 가속화할 것입니다. 장기적으로 AI 관련 인프라 및 서비스 수요 증가로 이어질 수 있습니다.",
-    "action_point": "AI 기술 경쟁 심화에 따른 AI 반도체 및 관련 소프트웨어 기업 투자 기회를 적극적으로 모색하라.",
-    "market": "GLOBAL"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "\"지식재산으로 경제성장의 판을 바꾸겠습니다!\" - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
-    "title_ko": "지식재산으로 경제성장의 판을 바꾸겠습니다! - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVzRzN0Q0eDN2X1hqVlk1eHBlSUdGVDdFUlB4WU1SNjlSTTR0Z1pLaFZtVWJIbFctX3ViYmZTcTJCUHJvd2x1UXRGSFA5MGdRbGNYNmdYbmR2OXRqd3Q5Q3pzd0MtSExzSUNiUXJKT19VaDBLazdHRU1IdlJnYl9MMnRjd2R5eXFhd3hN?oc=5",
-    "published": "Wed, 05 Aug 2026 05:04:02 GMT",
-    "fetched_at": "2026-08-06 04:16:02",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "기술주",
-      "바이오",
-      "콘텐츠 산업",
-      "지식재산권 관련 산업"
-    ],
-    "keywords": [
-      "지식재산",
-      "경제성장",
-      "정책",
-      "혁신",
-      "R&D"
-    ],
-    "reason": "정부의 지식재산권 강화 및 활용 정책은 장기적으로 국가 경쟁력 제고 및 혁신 성장을 목표로 하며, 기술 및 R&D 중심 산업의 투자 매력을 높일 수 있습니다. 단기 시장 영향은 제한적입니다.",
-    "action_point": "지식재산 활용 및 R&D 투자 비중이 높은 국내 혁신 기업의 중장기 투자 포트폴리오 편입을 검토하십시오.",
-    "market": "KR"
   }
 ]
