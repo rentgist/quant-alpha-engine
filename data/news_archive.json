@@ -2,6 +2,55 @@
   {
     "source": "CNBC_Finance",
     "market": "US",
+    "title": "Analysis: Bond market pressure is squeezing Main Street as Wall Street waits on Warsh",
+    "title_ko": "분석: 채권 시장 압박이 실물 경제를 위축시키며, 고금리 장기화 우려 증폭",
+    "link": "https://www.cnbc.com/2026/08/18/bond-market-treasury-yields-warsh-main-street.html",
+    "published": "Tue, 18 Aug 2026 16:48:00 GMT",
+    "fetched_at": "2026-08-19 03:23:05",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "부동산",
+      "기술주",
+      "금융주",
+      "소비재"
+    ],
+    "keywords": [
+      "채권 시장",
+      "금리 상승",
+      "차입 비용",
+      "실물 경제",
+      "인플레이션"
+    ],
+    "reason": "장기 국채 매도로 인해 차입 비용이 상승하고 이는 기업 및 가계의 부담을 가중시켜 전반적인 실물 경제 활동을 위축시킬 수 있으며, 고금리 환경이 장기화될 우려가 커집니다.",
+    "action_point": "고금리 장기화에 대비하여 부채가 많은 기업 및 성장주 비중 축소 검토."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Kalshi seeks to launch ‘perps’ on equity indexes as it moves in on traditional exchanges' turf",
+    "title_ko": "Kalshi, 전통 거래소 영역에 진출하며 주식 지수 '퍼프(Perps)' 출시 모색",
+    "link": "https://www.cnbc.com/2026/08/18/kalshi-wants-to-launch-perps-tied-to-equity-indexes.html",
+    "published": "Tue, 18 Aug 2026 16:49:55 GMT",
+    "fetched_at": "2026-08-19 03:23:19",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "금융 서비스",
+      "증권/파생상품"
+    ],
+    "keywords": [
+      "파생상품",
+      "주식 지수",
+      "금융 혁신",
+      "거래소 경쟁"
+    ],
+    "reason": "Kalshi의 주식 지수 연계 영구계약(perps) 출시는 파생상품 시장에 새로운 경쟁과 혁신을 가져올 수 있으며, 이는 기존 금융 거래소의 독점적 지위에 도전하며 시장 구조 변화 가능성을 시사합니다.",
+    "action_point": "새롭게 등장하는 주식 지수 연계 파생상품의 특성을 파악하고 포트폴리오 활용 가능성을 검토하라."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
     "title": "Stanley Druckenmiller loaded up on Amazon and chip stocks before July rout",
     "title_ko": "스탠리 드러켄밀러, 7월 폭락장 앞서 아마존 및 반도체 주식 대량 매수",
     "link": "https://www.cnbc.com/2026/08/17/druckenmiller-loaded-up-on-amazon-and-chip-stocks-before-july-rout.html",
@@ -2894,54 +2943,5 @@
     "reason": "호르무즈 해협의 안정적인 운항 가능성이 높아져 글로벌 원유 공급망 불확실성을 완화하고 유가 상승 압력을 낮추는 데 기여할 수 있다. 이는 국제 해상 무역의 안정성에도 긍정적인 신호이다.",
     "action_point": "국제 유가 하락 압력 증가 가능성에 대비하여 에너지 섹터 비중 조정을 검토하라.",
     "market": "KR"
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Google's AI reshuffle: Chief scientist Jeff Dean exits and Demis Hassabis steps down as DeepMind CEO",
-    "title_ko": "구글 AI 조직 개편: 최고 과학자 제프 딘 퇴사 및 데미스 하사비스 딥마인드 CEO 사임",
-    "link": "https://www.cnbc.com/2026/08/05/google-chief-scientist-jeff-dean-leaving-company-after-27-years.html",
-    "published": "Wed, 05 Aug 2026 17:18:50 GMT",
-    "fetched_at": "2026-08-06 02:21:08",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "기술",
-      "인공지능",
-      "클라우드 컴퓨팅"
-    ],
-    "keywords": [
-      "Google",
-      "AI",
-      "조직 개편",
-      "인사 변동",
-      "DeepMind"
-    ],
-    "reason": "구글 핵심 AI 부문의 리더십 변화는 단기적으로 구글 AI 전략의 불확실성을 높일 수 있으나, 이는 AI 경쟁 심화 속 기업의 새로운 성장 동력 모색 과정으로 볼 수 있다.",
-    "action_point": "주요 AI 선두 기업의 리더십 변동에 따른 중장기 전략 변화를 분석하며 관련 기술주 포트폴리오 리스크를 재평가.",
-    "market": "GLOBAL"
-  },
-  {
-    "source": "CNBC_Finance",
-    "title": "Stocks making the biggest moves premarket: SpaceX, AMD, Eli Lilly, Disney & more",
-    "title_ko": "프리마켓에서 가장 큰 움직임을 보이는 주식: SpaceX, AMD, Eli Lilly, Disney 외 다수",
-    "link": "https://www.cnbc.com/2026/08/05/stocks-making-the-biggest-moves-premarket-spcx-amd-lly-dis-more.html",
-    "published": "Wed, 05 Aug 2026 11:43:43 GMT",
-    "fetched_at": "2026-08-06 02:20:57",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "기술",
-      "반도체",
-      "헬스케어",
-      "미디어/엔터테인먼트"
-    ],
-    "keywords": [
-      "프리마켓",
-      "주식 움직임",
-      "개별 종목"
-    ],
-    "reason": "개별 기업들의 프리마켓 주가 움직임을 보도하는 단순 시장 동향 요약으로, 거시 경제 전반에 대한 직접적인 영향보다는 해당 기업 및 섹터에 대한 단기적 관심의 시그널입니다.",
-    "action_point": "해당 없음",
-    "market": "US"
   }
 ]
