@@ -1,5 +1,30 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "\"김정은 응답 왔다\" 진짜?…미 전쟁부는 \"트럼프 지시 이행\" - JTBC",
+    "title_ko": "\"김정은 응답 왔다\" 진짜?…미 전쟁부는 \"트럼프 지시 이행\"",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5rUU1iYlh1cVI0RkZuY0szTXNxSmIzWC1VY3N5Y1ZfdU9zSmZRREMtNHJiNThmanhMLVROVV9xV2RFUFk3QzI4THRBSlNoNWhsTXBWbg?oc=5",
+    "published": "Tue, 18 Aug 2026 10:33:00 GMT",
+    "fetched_at": "2026-08-19 05:13:11",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "방산주",
+      "코스피/코스닥 전반"
+    ],
+    "keywords": [
+      "김정은",
+      "북한",
+      "트럼프",
+      "미국",
+      "지정학",
+      "남북관계"
+    ],
+    "reason": "이 기사는 북한과 미국 간의 잠재적 상호작용 및 지정학적 불확실성을 시사하며, 이는 한국 증시의 전반적인 투자심리에 영향을 미칠 수 있습니다. 구체적인 내용이 불확실하여 큰 변동을 야기하지는 않겠지만, 지정학적 리스크에 대한 투자자들의 경계심을 높일 수 있습니다.",
+    "action_point": "북한 관련 지정학적 리스크 민감 섹터(방산 등)의 단기 변동성 확대 가능성을 주시하라."
+  },
+  {
     "source": "CNBC_Finance",
     "market": "US",
     "title": "Analysis: Bond market pressure is squeezing Main Street as Wall Street waits on Warsh",
@@ -2916,32 +2941,5 @@
     "reason": "하이퍼스케일러들의 AI 및 클라우드 인프라 확장을 위한 대규모 설비투자가 지속되며, 이는 단기적으로 해당 기업들의 수익성에 부담이 될 수 있으나, 반도체 등 핵심 부품 공급업체들의 성장세를 더욱 가속화할 전망이다.",
     "action_point": "AI 인프라 투자 확대 수혜를 받는 반도체 및 관련 기술주 비중 확대를 고려.",
     "market": "GLOBAL"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "[속보] 이란 \"오만과 호르무즈 항로 좌표 합의‥공동성명 조율 중\" - MBC 뉴스",
-    "title_ko": "[속보] 이란 \"오만과 호르무즈 항로 좌표 합의‥공동성명 조율 중\"",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ZQ3J3MUFGcnREY1M1YmRaWDRXVzZnSTRodzVnWkNsckFNYm9GV21MOGl6bTFkR1FYZ0hmVkYwa2l5d1Y5ZVMyWjZoZ3BLQldEa2pyVW1IREFnNWt1RmlqYVRyZi1VZkQ4R3pWWEkwbVlyRHN50gF0QVVfeXFMTTNrcDRkOWJsZmJ6c0xLejAtaTdhaWN2bGJQTVRFZldXa3FhVTdNV0NwZ1RPZnVtek04dmh6dGdXV0VKZlZIWGZlbXNrTGExMGpEQW5XRloxeTBRZUllSkZicF82YjJMeVVlSW82X2tqLTJyeFg?oc=5",
-    "published": "Wed, 05 Aug 2026 15:12:15 GMT",
-    "fetched_at": "2026-08-06 02:21:40",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "정유/석유화학",
-      "해운",
-      "에너지"
-    ],
-    "keywords": [
-      "이란",
-      "오만",
-      "호르무즈 해협",
-      "원유",
-      "유가",
-      "지정학",
-      "해운"
-    ],
-    "reason": "호르무즈 해협의 안정적인 운항 가능성이 높아져 글로벌 원유 공급망 불확실성을 완화하고 유가 상승 압력을 낮추는 데 기여할 수 있다. 이는 국제 해상 무역의 안정성에도 긍정적인 신호이다.",
-    "action_point": "국제 유가 하락 압력 증가 가능성에 대비하여 에너지 섹터 비중 조정을 검토하라.",
-    "market": "KR"
   }
 ]
