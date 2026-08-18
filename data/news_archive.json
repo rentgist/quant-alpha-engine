@@ -1,5 +1,55 @@
 [
   {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Stanley Druckenmiller loaded up on Amazon and chip stocks before July rout",
+    "title_ko": "스탠리 드러켄밀러, 7월 폭락장 앞서 아마존 및 반도체 주식 대량 매수",
+    "link": "https://www.cnbc.com/2026/08/17/druckenmiller-loaded-up-on-amazon-and-chip-stocks-before-july-rout.html",
+    "published": "Mon, 17 Aug 2026 17:44:56 GMT",
+    "fetched_at": "2026-08-19 02:20:05",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "기술주",
+      "반도체",
+      "전자상거래",
+      "클라우드 컴퓨팅"
+    ],
+    "keywords": [
+      "스탠리 드러켄밀러",
+      "아마존",
+      "반도체",
+      "성장주",
+      "기관투자자"
+    ],
+    "reason": "유명 매크로 투자자인 스탠리 드러켄밀러의 아마존 및 반도체 주식 대량 매수는 해당 섹터의 장기 성장 전망에 대한 강한 신뢰를 시사하며, 단기 변동성에도 불구하고 기술주에 대한 긍정적 시각을 드러냅니다.",
+    "action_point": "기술주 및 반도체 섹터 내 대형 성장주 비중 확대를 검토하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "가업승계에 ‘2세 네트워크’까지 초고액자산가 맞춤서비스",
+    "title_ko": "가업승계에 ‘2세 네트워크’까지 초고액자산가 맞춤서비스",
+    "link": "https://www.mk.co.kr/news/stock/12130667",
+    "published": "Tue, 18 Aug 2026 23:11:49 +09:00",
+    "fetched_at": "2026-08-19 02:20:44",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "금융",
+      "자산관리"
+    ],
+    "keywords": [
+      "가업승계",
+      "패밀리 오피스",
+      "초고액자산가",
+      "자산관리",
+      "KB증권"
+    ],
+    "reason": "KB증권의 초고액자산가 맞춤형 패밀리 오피스 서비스 강화는 자산가들의 복합적인 니즈와 자산 다각화 추세를 반영합니다. 이는 금융권의 자산관리 서비스 경쟁 심화를 보여주나, 시장 전체의 투자 자산에 미치는 직접적인 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'",
@@ -2893,53 +2943,5 @@
     "reason": "개별 기업들의 프리마켓 주가 움직임을 보도하는 단순 시장 동향 요약으로, 거시 경제 전반에 대한 직접적인 영향보다는 해당 기업 및 섹터에 대한 단기적 관심의 시그널입니다.",
     "action_point": "해당 없음",
     "market": "US"
-  },
-  {
-    "source": "CNBC_Finance",
-    "title": "Situational Awareness hedge fund meltdown was a warning shot for leveraged markets, BofA CEO says",
-    "title_ko": "BofA CEO, 시추에이셔널 어웨어니스 헤지펀드 붕괴는 레버리지 시장에 대한 경고라고 언급",
-    "link": "https://www.cnbc.com/2026/08/05/bofa-brian-moynihan-situational-awareness-meltdown-was-a-warning-shot.html",
-    "published": "Wed, 05 Aug 2026 15:07:12 GMT",
-    "fetched_at": "2026-08-06 00:09:08",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "금융",
-      "투자은행",
-      "헤지펀드"
-    ],
-    "keywords": [
-      "헤지펀드 붕괴",
-      "레버리지 시장",
-      "금융 안정성",
-      "뱅크오브아메리카"
-    ],
-    "reason": "BofA CEO의 헤지펀드 붕괴에 대한 경고는 레버리지 시장의 잠재적 위험을 부각한다. 이는 금융기관의 리스크 관리를 강화하고 전반적인 시장 유동성 및 투자 심리를 위축시킬 수 있다.",
-    "action_point": "고레버리지 투자 포지션 및 관련 금융 섹터 비중 점검",
-    "market": "US"
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Fed's Kashkari says 'now is the time to start slowly moving' rates up",
-    "title_ko": "연준 카슈카리 총재, '이제 금리를 천천히 인상하기 시작할 때' 언급",
-    "link": "https://www.cnbc.com/2026/08/05/feds-kashkari-says-now-is-the-time-to-start-slowly-moving-rates-up.html",
-    "published": "Wed, 05 Aug 2026 13:06:35 GMT",
-    "fetched_at": "2026-08-06 00:09:18",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "기술주",
-      "부동산",
-      "성장주"
-    ],
-    "keywords": [
-      "금리 인상",
-      "연방준비제도",
-      "매파",
-      "통화 정책"
-    ],
-    "reason": "연준 내 매파적 시각이 존재함을 재확인하며, 이는 향후 금리 인상 가능성에 대한 시장 기대를 높여 증시 전반에 부담으로 작용할 수 있습니다.",
-    "action_point": "금리 인상에 취약한 성장주 및 고부채 기업 비중 축소 검토.",
-    "market": "GLOBAL"
   }
 ]
