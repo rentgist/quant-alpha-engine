@@ -1,5 +1,28 @@
 [
   {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "전북 소외론 불식할까…전북 금융중심지 지정 첫발",
+    "title_ko": "전북 소외론 불식할까…전북 금융중심지 지정 첫발",
+    "link": "https://www.mk.co.kr/news/economy/12131197",
+    "published": "Wed, 19 Aug 2026 15:22:02 +09:00",
+    "fetched_at": "2026-08-19 15:26:58",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "금융",
+      "부동산"
+    ],
+    "keywords": [
+      "전북 금융중심지",
+      "지역경제 활성화",
+      "정부 공약",
+      "금융위원회"
+    ],
+    "reason": "전북 금융중심지 지정 평가 착수는 해당 지역 경제에 긍정적이나, 대한민국 전체 주식, 금리, 환율 시장에 미치는 거시적 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "Here’s the best place to hedge severe El Niño shocks to the food supply chain, BofA says",
@@ -2911,31 +2934,6 @@
     ],
     "reason": "다우존스 지수의 사상 최고치 경신은 시장 전반의 긍정적 심리를 반영하며, 에너지 섹터 대형 기업 CEO의 발언은 해당 섹터와 유가에 직접적인 영향을 줄 수 있습니다.",
     "action_point": "에너지 섹터 대장주의 향후 전망 및 유가 방향성에 대한 CEO 발언을 경청하고 관련 포트폴리오 비중을 검토하십시오.",
-    "market": "GLOBAL"
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Dow futures inch higher after blue-chip index posts new record close: Live updates",
-    "title_ko": "다우 선물, 블루칩 지수 사상 최고치 마감 후 소폭 상승: 실시간 업데이트",
-    "link": "https://www.cnbc.com/2026/08/05/stock-market-today-live-updates.html",
-    "published": "Wed, 05 Aug 2026 23:45:32 GMT",
-    "fetched_at": "2026-08-06 08:50:10",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "가치주",
-      "기술주",
-      "산업재",
-      "금융주"
-    ],
-    "keywords": [
-      "다우지수",
-      "시장분화",
-      "가치주",
-      "성장주"
-    ],
-    "reason": "다우지수 사상 최고치 마감에도 불구하고 나스닥과 S&P500이 하락하여 시장 내 가치주와 성장주 간의 분화가 심화되고 있음을 보여줍니다. 이는 고금리 환경 속에서 안전자산 선호 심리가 반영된 결과일 수 있습니다.",
-    "action_point": "가치주 비중을 유지하고 성장주 및 기술주 비중을 신중하게 조절해야 합니다.",
     "market": "GLOBAL"
   }
 ]
