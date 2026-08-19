@@ -1,5 +1,77 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Trump pauses 50% scheduled tariffs on Canada for three days, announces 'deal' with Ottawa",
+    "title_ko": "트럼프, 캐나다에 대한 50% 관세 사흘간 중단 및 오타와와의 '협상' 발표",
+    "link": "https://www.cnbc.com/2026/08/18/trump-carney-canada-tariffs-dealine-talks.html",
+    "published": "Wed, 19 Aug 2026 03:18:57 GMT",
+    "fetched_at": "2026-08-19 12:39:10",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "철강 및 금속",
+      "자동차 및 부품",
+      "목재 및 건축자재"
+    ],
+    "keywords": [
+      "미국-캐나다 무역",
+      "관세",
+      "트럼프",
+      "무역협상",
+      "철강",
+      "자동차"
+    ],
+    "reason": "미국과 캐나다 간의 예정된 관세 중단과 협상 발표는 즉각적인 무역 긴장 완화 신호로, 글로벌 무역 심리와 특정 산업 섹터에 긍정적으로 작용할 수 있습니다.",
+    "action_point": "미국-캐나다 무역 분쟁 완화 기대감에 따른 관련 섹터 투자 비중 확대를 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[속보] WSJ \"트럼프, 北 김정은과 연내 만남 추진\" - yonhapnewstv.co.kr",
+    "title_ko": "WSJ \"트럼프, 北 김정은과 연내 만남 추진\"",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVTEc5dVdDZDgzTzFiOHBCWGJrVGRpbDVqSlo3d0Fkc0dPbVJVd05BNWRDZXF3STRTOUs3cU9Pak90QUpDZ2dHMm1fVnluTzZjMlZFSE5CRVVZQTl0c0YtejJ6X2tIQTQ?oc=5",
+    "published": "Tue, 18 Aug 2026 23:19:00 GMT",
+    "fetched_at": "2026-08-19 12:39:28",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "방산",
+      "한국 증시 전반"
+    ],
+    "keywords": [
+      "트럼프",
+      "김정은",
+      "북미 관계",
+      "지정학"
+    ],
+    "reason": "미국 대선에서 트럼프 전 대통령 당선 가능성이 점쳐지는 가운데, 북한 김정은 위원장과의 연내 만남 추진 소식은 향후 북미 관계 및 한반도 지정학적 환경에 큰 변화를 예고합니다. 이는 국내 증시에 대한 지정학적 리스크 평가에 영향을 미칠 수 있습니다.",
+    "action_point": "한반도 지정학적 리스크 변화에 따른 국내 방산 및 대북 관련 섹터의 투자 비중 조정 가능성 점검."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "레이밴·오클리 거느린 90조 이탈리아 기업 ‘델핀’ 상속전쟁에 흔들",
+    "title_ko": "레이밴·오클리 거느린 90조 이탈리아 기업 ‘델핀’ 상속전쟁에 흔들",
+    "link": "https://www.mk.co.kr/news/world/12131012",
+    "published": "Wed, 19 Aug 2026 11:55:50 +09:00",
+    "fetched_at": "2026-08-19 12:39:44",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "소비재",
+      "명품"
+    ],
+    "keywords": [
+      "상속전쟁",
+      "델핀",
+      "명품",
+      "지배구조"
+    ],
+    "reason": "델핀의 상속 분쟁은 기업의 전략적 결정과 운영 안정성을 저해하여 기업 가치에 부정적인 영향을 미칠 수 있으며, 이는 유사한 지배구조를 가진 유럽 명품 기업들에 대한 투자 심리 위축으로 이어질 가능성이 있다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "CNBC_Finance",
     "market": "US",
     "title": "Stocks making the biggest moves premarket: Home Depot, Tesla, Fabrinet, Duolingo & more",
@@ -2865,76 +2937,5 @@
     "reason": "미국 전 대통령 트럼프의 이란 관련 언급은 중동 지역의 지정학적 리스크가 장기화되거나 재부상할 가능성을 시사합니다. 이는 국제유가에 상승 압력으로 작용하며, 글로벌 위험 선호 심리를 위축시킬 수 있습니다.",
     "action_point": "중동 불안정성 심화에 대비하여 원유 및 방산 관련 자산의 비중 확대를 검토하라.",
     "market": "KR"
-  },
-  {
-    "source": "CNBC_Finance",
-    "title": "As Warsh and the Fed contemplate fewer meetings, markets brace for potential volatility ahead",
-    "title_ko": "워시와 연준이 회의 횟수 축소를 고려함에 따라 시장은 향후 잠재적 변동성에 대비",
-    "link": "https://www.cnbc.com/2026/08/05/as-warsh-and-the-fed-contemplate-fewer-meetings-markets-brace-for-potential-volatility-ahead.html",
-    "published": "Wed, 05 Aug 2026 19:21:24 GMT",
-    "fetched_at": "2026-08-06 07:10:39",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "전반적인 시장"
-    ],
-    "keywords": [
-      "연준",
-      "통화정책",
-      "시장 변동성",
-      "커뮤니케이션"
-    ],
-    "reason": "워시 이사가 연준의 회의 횟수 축소를 고려하는 것은 연준의 정책 기조 및 시장과의 소통 방식에 근본적인 변화를 예고하며, 이는 불확실성을 증폭시켜 시장 전반의 변동성을 높일 수 있습니다.",
-    "action_point": "시장 변동성 확대에 대비하여 포트폴리오의 방어적 자산 비중 확대 및 유동성 확보를 검토.",
-    "market": "US"
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Marc Benioff gets a new operating chief, as Salesforce promotes Miguel Milano",
-    "title_ko": "마크 베니오프, 세일즈포스 미겔 밀라노 승진시키며 새 최고운영책임자 선임",
-    "link": "https://www.cnbc.com/2026/08/05/marc-benioff-gets-a-new-coo-as-salesforce-promotes-miguel-milano-.html",
-    "published": "Wed, 05 Aug 2026 20:48:20 GMT",
-    "fetched_at": "2026-08-06 07:10:49",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "소프트웨어",
-      "클라우드 컴퓨팅"
-    ],
-    "keywords": [
-      "세일즈포스",
-      "미겔 밀라노",
-      "최고운영책임자",
-      "임원 승진"
-    ],
-    "reason": "세일즈포스 내부의 핵심 임원 승진 뉴스로, 회사 경영 효율성 및 성장 전략에 긍정적 영향을 미칠 수 있으나, 거시 경제 지표나 광범위한 시장 흐름에는 직접적인 영향이 제한적입니다.",
-    "action_point": "해당 없음",
-    "market": "GLOBAL"
-  },
-  {
-    "source": "CNBC_Finance",
-    "title": "Fed Governor Cook says she's 'prepared to act' on rate hike to address inflation",
-    "title_ko": "연준 이사 쿡, 인플레이션 대응 위해 금리 인상 '행동할 준비가 되어 있다' 발언",
-    "link": "https://www.cnbc.com/2026/08/05/fed-governor-cook-says-shes-prepared-to-act-on-rate-hike-to-address-inflation.html",
-    "published": "Wed, 05 Aug 2026 20:36:16 GMT",
-    "fetched_at": "2026-08-06 05:58:09",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "주식 시장",
-      "부동산",
-      "채권 시장",
-      "금융"
-    ],
-    "keywords": [
-      "연준",
-      "금리 인상",
-      "인플레이션",
-      "통화 정책",
-      "매파적"
-    ],
-    "reason": "연준 이사의 매파적 발언은 시장의 추가 금리 인상 가능성을 높여 위험 자산 전반에 하방 압력을 가하고, 고금리 장기화에 대한 우려를 심화시킬 것입니다. 이는 주식 및 부동산 시장에 부정적으로 작용하며 채권 금리 상승 요인으로 작용합니다.",
-    "action_point": "고금리 장기화에 대비하여 금리 민감도가 높은 성장주 및 부채 부담이 큰 자산의 비중을 축소하고, 방어적 섹터 및 달러 자산으로의 재조정을 검토하십시오.",
-    "market": "US"
   }
 ]
