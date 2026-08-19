@@ -1,5 +1,5 @@
 {
-  "generated_at_kst": "2026-08-20 05:17:59",
+  "generated_at_kst": "2026-08-20 06:18:02",
   "market_as_of": "2026-08-19",
   "method": "daily_return_pct_x_volume_ratio_20d",
   "is_actual_fund_flow": false,
@@ -8,29 +8,29 @@
       "ticker": "RSP",
       "name": "S&P 500 Equal Weight",
       "pct": 1.0373602564870683,
-      "vol_ratio": 0.9719233861562097,
-      "flow_proxy": 1.0082346931487856
+      "vol_ratio": 1.00396257292327,
+      "flow_proxy": 1.0414708721511003
     },
     {
       "ticker": "IWM",
       "name": "Russell 2000",
       "pct": 0.49628290971979183,
-      "vol_ratio": 0.7296449088097567,
-      "flow_proxy": 0.36211029840633824
+      "vol_ratio": 0.7659415212286099,
+      "flow_proxy": 0.3801236868305382
     },
     {
       "ticker": "SPY",
       "name": "S&P 500",
-      "pct": 0.2149929445126059,
-      "vol_ratio": 0.7177875367470483,
-      "flow_proxy": 0.1543192560596982
+      "pct": 0.2097837417361565,
+      "vol_ratio": 0.8478427423342924,
+      "flow_proxy": 0.17786362289073188
     },
     {
       "ticker": "QQQ",
       "name": "Nasdaq 100",
       "pct": -0.1992993346877987,
-      "vol_ratio": 0.8267752022804105,
-      "flow_proxy": -0.164775747750856
+      "vol_ratio": 0.8620563657931022,
+      "flow_proxy": -0.17180726016594688
     },
     {
       "ticker": "SOXX",
