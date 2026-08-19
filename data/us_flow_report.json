@@ -1,5 +1,5 @@
 {
-  "generated_at_kst": "2026-08-19 08:14:55",
+  "generated_at_kst": "2026-08-19 09:42:05",
   "market_as_of": "2026-08-18",
   "method": "daily_return_pct_x_volume_ratio_20d",
   "is_actual_fund_flow": false,
@@ -8,8 +8,8 @@
       "ticker": "RSP",
       "name": "S&P 500 Equal Weight",
       "pct": -0.4529190771359144,
-      "vol_ratio": 0.7464311764279943,
-      "flow_proxy": -0.3380729195732421
+      "vol_ratio": 0.7522713531472085,
+      "flow_proxy": -0.34071804702321923
     },
     {
       "ticker": "SPY",

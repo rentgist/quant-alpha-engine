@@ -1,5 +1,55 @@
 [
   {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "What Chinese liquor maker Moutai's slump says about the country's economy",
+    "title_ko": "중국 주류 업체 마오타이의 침체가 중국 경제에 시사하는 바",
+    "link": "https://www.cnbc.com/2026/08/19/china-economy-moutai-ai-property.html",
+    "published": "Tue, 18 Aug 2026 23:58:09 GMT",
+    "fetched_at": "2026-08-19 09:40:23",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "소비재",
+      "명품",
+      "신흥국",
+      "중국 관련 산업"
+    ],
+    "keywords": [
+      "마오타이",
+      "중국 경제",
+      "소비 둔화",
+      "럭셔리 시장",
+      "순이익 감소"
+    ],
+    "reason": "중국 최고급 소비재인 마오타이의 순이익 감소는 중국 고액 자산가들의 소비 심리 위축과 전반적인 경제 둔화를 시사하며, 이는 중국 경제 전반에 대한 우려를 증폭시킵니다.",
+    "action_point": "중국 소비재 및 럭셔리 섹터 노출 비중 축소를 검토하고 중국 경기 둔화에 대한 포트폴리오 헤징 방안을 모색하라."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Prediction market traders see roughly 1-in-4 odds Paramount’s bid to buy Warner Bros. Discovery fails",
+    "title_ko": "예측 시장 트레이더들, 파라마운트의 워너 브로스 디스커버리 인수 실패 확률 약 25%로 예상",
+    "link": "https://www.cnbc.com/2026/08/17/pskys-wbd-bid-has-1-in-4-odds-of-falling-through-kalshi-traders-say.html",
+    "published": "Mon, 17 Aug 2026 17:43:40 GMT",
+    "fetched_at": "2026-08-19 09:40:37",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "미디어",
+      "엔터테인먼트"
+    ],
+    "keywords": [
+      "파라마운트",
+      "워너 브로스 디스커버리",
+      "M&A",
+      "인수합병",
+      "예측 시장"
+    ],
+    "reason": "파라마운트와 워너 브로스 디스커버리 간의 대규모 M&A 불확실성이 커진다는 소식으로, 미디어/엔터테인먼트 섹터 내 기업 전략 및 투자 심리에 영향을 미칠 수 있습니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "Trump says no talks scheduled with Iran as he teases action in Hormuz Strait",
@@ -2884,59 +2934,5 @@
     "reason": "메모리 반도체 기업의 높은 영업이익률이 슈퍼사이클 종료 조건으로 언급되며, 이는 향후 반도체 가격 및 수요 둔화 가능성을 시사하여 관련 기업 실적에 부정적 영향을 줄 수 있습니다.",
     "action_point": "반도체 섹터 비중 축소 및 관련 기업 투자 재검토.",
     "market": "KR"
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "中, 美 고강도 제재에 반격 \"드론 부품 대미 수출 통제\"",
-    "title_ko": "中, 美 고강도 제재에 반격 \"드론 부품 대미 수출 통제\"",
-    "link": "https://www.mk.co.kr/news/world/12118345",
-    "published": "Wed, 05 Aug 2026 23:00:03 +09:00",
-    "fetched_at": "2026-08-06 05:58:29",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "기술주",
-      "반도체",
-      "방산",
-      "항공우주",
-      "글로벌 공급망"
-    ],
-    "keywords": [
-      "미중 갈등",
-      "수출 통제",
-      "기술 패권",
-      "드론",
-      "공급망 리스크"
-    ],
-    "reason": "중국의 드론 부품 수출 통제는 미국과의 기술 패권 경쟁이 심화되고 있음을 보여주며, 글로벌 첨단 기술 공급망에 불확실성을 가중시키고 지정학적 긴장을 고조시킬 것입니다.",
-    "action_point": "미중 기술 갈등 심화에 따른 첨단 기술 섹터, 특히 중국 공급망 의존도가 높은 기업에 대한 투자 위험을 재평가하라.",
-    "market": "KR"
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Trump admin refunds $100 billion in 'liberation day' tariffs",
-    "title_ko": "트럼프 행정부, '해방의 날' 관세 1,000억 달러 환불 조치",
-    "link": "https://www.cnbc.com/2026/08/05/trump-tariffs-refunds-ieepa-lawsuit.html",
-    "published": "Wed, 05 Aug 2026 16:47:52 GMT",
-    "fetched_at": "2026-08-06 04:15:30",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "제조업",
-      "기술주",
-      "유통업",
-      "해운/물류",
-      "수출 관련 산업"
-    ],
-    "keywords": [
-      "관세",
-      "보호무역주의",
-      "미국 행정부",
-      "무역 분쟁",
-      "공급망"
-    ],
-    "reason": "트럼프 행정부가 IEEPA 유사 관세 체제를 재구축하려는 움직임은 글로벌 보호무역주의 강화 및 무역 분쟁 재연 가능성을 시사하며, 이는 기업 수익성과 공급망에 불확실성을 가중시킨다.",
-    "action_point": "글로벌 무역 분쟁 재연 가능성에 대비하여 수출 비중이 높은 국내외 기업 투자 비중을 축소하고, 방어적 자산 편입을 고려하라.",
-    "market": "GLOBAL"
   }
 ]
