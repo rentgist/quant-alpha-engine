@@ -2,6 +2,31 @@
   {
     "source": "CNBC_Finance",
     "market": "US",
+    "title": "Stocks making the biggest moves premarket: Home Depot, Tesla, Fabrinet, Duolingo & more",
+    "title_ko": "프리마켓에서 가장 큰 움직임을 보이는 주식들: 홈디포, 테슬라, 파브리넷, 듀오링고 외",
+    "link": "https://www.cnbc.com/2026/08/18/stocks-making-the-biggest-moves-premarket-hd-tsla-fn-duol.html",
+    "published": "Tue, 18 Aug 2026 11:46:11 GMT",
+    "fetched_at": "2026-08-19 11:13:54",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "소비재",
+      "기술주",
+      "산업재"
+    ],
+    "keywords": [
+      "프리마켓",
+      "개별 주식",
+      "주가 변동",
+      "홈디포",
+      "테슬라"
+    ],
+    "reason": "이 기사는 특정 기업들의 프리마켓 주가 변동을 단순히 나열하고 있으며, 개별 기업 이슈에 따른 움직임일 가능성이 높습니다. 거시 경제나 시장 전반에 대한 유의미한 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
     "title": "What Chinese liquor maker Moutai's slump says about the country's economy",
     "title_ko": "중국 주류 업체 마오타이의 침체가 중국 경제에 시사하는 바",
     "link": "https://www.cnbc.com/2026/08/19/china-economy-moutai-ai-property.html",
@@ -2911,28 +2936,5 @@
     "reason": "연준 이사의 매파적 발언은 시장의 추가 금리 인상 가능성을 높여 위험 자산 전반에 하방 압력을 가하고, 고금리 장기화에 대한 우려를 심화시킬 것입니다. 이는 주식 및 부동산 시장에 부정적으로 작용하며 채권 금리 상승 요인으로 작용합니다.",
     "action_point": "고금리 장기화에 대비하여 금리 민감도가 높은 성장주 및 부채 부담이 큰 자산의 비중을 축소하고, 방어적 섹터 및 달러 자산으로의 재조정을 검토하십시오.",
     "market": "US"
-  },
-  {
-    "source": "Maeil_Business",
-    "title": "“버핏이 구글 주식 사기 시작했다” … 반도체 슈퍼사이클 끝나가는 신호?",
-    "title_ko": "“버핏이 구글 주식 사기 시작했다” … 반도체 슈퍼사이클 끝나가는 신호?",
-    "link": "https://www.mk.co.kr/news/it/12117689",
-    "published": "Thu, 06 Aug 2026 04:00:00 +09:00",
-    "fetched_at": "2026-08-06 05:58:21",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "반도체",
-      "IT 하드웨어"
-    ],
-    "keywords": [
-      "반도체 슈퍼사이클",
-      "메모리 반도체",
-      "영업이익률",
-      "실적 피크"
-    ],
-    "reason": "메모리 반도체 기업의 높은 영업이익률이 슈퍼사이클 종료 조건으로 언급되며, 이는 향후 반도체 가격 및 수요 둔화 가능성을 시사하여 관련 기업 실적에 부정적 영향을 줄 수 있습니다.",
-    "action_point": "반도체 섹터 비중 축소 및 관련 기업 투자 재검토.",
-    "market": "KR"
   }
 ]
