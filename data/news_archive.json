@@ -1,5 +1,53 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Trump touted a deal to avert new tariffs on Canada. Here's what we know so far",
+    "title_ko": "트럼프, 캐나다 관세 회피 협상 강조. 현재까지 알려진 내용은?",
+    "link": "https://www.cnbc.com/2026/08/19/trump-canada-tariffs-deal-carney.html",
+    "published": "Wed, 19 Aug 2026 20:10:14 GMT",
+    "fetched_at": "2026-08-20 07:15:12",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "제조",
+      "수출"
+    ],
+    "keywords": [
+      "트럼프",
+      "캐나다",
+      "관세",
+      "무역협상"
+    ],
+    "reason": "미국과 캐나다 간 관세 부과 연기 및 회피 협상 노력은 북미 무역 갈등 완화 가능성을 시사하며, 이는 글로벌 무역 불확실성 감소에 긍정적 영향을 미칩니다.",
+    "action_point": "무역 분쟁 리스크 완화 시그널에 따라 국내 수출주 및 글로벌 경기 민감주 포트폴리오 비중을 유지하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Stock winners and losers as Anthropic passes OpenAI as hottest AI upstart",
+    "title_ko": "가장 뜨거운 AI 신생기업으로 앤트로픽이 OpenAI를 추월하며 주식 시장의 승자와 패자 갈려",
+    "link": "https://www.cnbc.com/2026/08/19/stock-winners-and-losers-as-anthropic-passes-openai-as-hottest-ai-upstart.html",
+    "published": "Wed, 19 Aug 2026 16:00:07 GMT",
+    "fetched_at": "2026-08-20 07:15:33",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "기술",
+      "소프트웨어",
+      "반도체"
+    ],
+    "keywords": [
+      "AI",
+      "앤트로픽",
+      "OpenAI",
+      "경쟁",
+      "기술혁신"
+    ],
+    "reason": "AI 프론티어 모델 시장의 리더십 변화는 관련 기술 기업들의 파트너십, 투자 흐름 및 기업 가치에 직접적인 영향을 미칠 것입니다. 이는 AI 섹터 내 자본 재분배와 경쟁 심화를 촉진할 것입니다.",
+    "action_point": "AI 생태계 내 앤트로픽의 부상에 따른 파트너십 변화를 주시하고, 경쟁 심화에 대비한 AI 관련 기업들의 경쟁력 분석을 강화하라."
+  },
+  {
     "source": "Maeil_Business",
     "market": "KR",
     "title": "[속보] 트럼프, ‘김정은과 연내 회담 예상하나’ 질문에 “그럴 것”",
@@ -2898,53 +2946,5 @@
     ],
     "reason": "트럼프의 이란 협상 무산 가능성은 중동 지역의 지정학적 긴장을 고조시키고, 이란산 원유 공급에 대한 불확실성을 증폭시켜 유가 상승 압력으로 작용할 수 있습니다.",
     "action_point": "지정학적 리스크 심화 및 유가 상승 압력에 대비하여 에너지/방산 관련 자산 비중 확대를 검토하고, 안전자산인 금 투자를 고려하십시오."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Airbnb stock soars 9% on earnings and revenue beat, strong guidance for third quarter",
-    "title_ko": "에어비앤비 주가, 실적 및 매출 예상치 상회와 3분기 강력한 가이던스에 9% 급등",
-    "link": "https://www.cnbc.com/2026/08/06/airbnb-abnb-q2-earningsreport.html",
-    "published": "Thu, 06 Aug 2026 22:01:34 GMT",
-    "fetched_at": "2026-08-07 08:50:44",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "여행 및 관광",
-      "숙박업",
-      "이커머스/플랫폼"
-    ],
-    "keywords": [
-      "에어비앤비",
-      "실적발표",
-      "여행수요",
-      "온라인여행플랫폼"
-    ],
-    "reason": "에어비앤비의 호실적은 글로벌 여행 수요가 예상보다 강하게 회복되고 있음을 시사하며, 이는 전반적인 소비 지표 개선과 서비스 섹터 투자심리에 긍정적 영향을 미칠 수 있습니다.",
-    "action_point": "글로벌 여행 회복 수혜 섹터(항공, 숙박, 면세 등) 비중 확대 검토"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "SpaceX stock could face further pressure as first batch of shares unlock since IPO",
-    "title_ko": "스페이스X, IPO 이후 첫 내부자 주식 락업 해제로 추가 하방 압력 직면 가능성",
-    "link": "https://www.cnbc.com/2026/08/06/spacex-faces-test-as-shares-unlock-allowing-early-investors-cash-out.html",
-    "published": "Thu, 06 Aug 2026 15:19:56 GMT",
-    "fetched_at": "2026-08-07 08:50:27",
-    "sentiment": "악재",
-    "importance": 2,
-    "sectors": [
-      "우주항공",
-      "기술주",
-      "사모시장"
-    ],
-    "keywords": [
-      "스페이스X",
-      "락업 해제",
-      "내부자 매도",
-      "비상장 기업"
-    ],
-    "reason": "스페이스X 내부자 주식 락업 해제는 해당 기업 주가에 하방 압력을 가하며, 유사 비상장 기술 기업 투자심리에 부정적 영향을 미칠 수 있습니다.",
-    "action_point": "비상장 우주항공 및 기술 기업 투자 포트폴리오의 밸류에이션 리스크를 점검하십시오."
   }
 ]
