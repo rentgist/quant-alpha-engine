@@ -1,29 +1,15 @@
 {
-  "generated_at_kst": "2026-08-19 13:29:31",
+  "generated_at_kst": "2026-08-19 14:22:15",
   "market_as_of": "2026-08-18",
   "method": "daily_return_pct_x_volume_ratio_20d",
   "is_actual_fund_flow": false,
   "records": [
     {
-      "ticker": "QQQ",
-      "name": "Nasdaq 100",
-      "pct": NaN,
-      "vol_ratio": 1.2098732872754008,
-      "flow_proxy": NaN
-    },
-    {
-      "ticker": "RSP",
-      "name": "S&P 500 Equal Weight",
-      "pct": -0.4529190771359144,
-      "vol_ratio": 0.7469791431268029,
-      "flow_proxy": -0.3383211041447677
-    },
-    {
       "ticker": "SPY",
       "name": "S&P 500",
-      "pct": -0.6755757074274701,
-      "vol_ratio": 0.9408411283045848,
-      "flow_proxy": -0.635609410831229
+      "pct": NaN,
+      "vol_ratio": 0.9286410705364909,
+      "flow_proxy": NaN
     },
     {
       "ticker": "IWM",
@@ -31,6 +17,20 @@
       "pct": -1.2596154058468572,
       "vol_ratio": 0.9231963371868124,
       "flow_proxy": -1.1628723289418985
+    },
+    {
+      "ticker": "QQQ",
+      "name": "Nasdaq 100",
+      "pct": -1.6934502629578556,
+      "vol_ratio": 1.223342202897525,
+      "flow_proxy": -2.071669175184256
+    },
+    {
+      "ticker": "RSP",
+      "name": "S&P 500 Equal Weight",
+      "pct": NaN,
+      "vol_ratio": 0.7522713531472085,
+      "flow_proxy": NaN
     },
     {
       "ticker": "SOXX",
