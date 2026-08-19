@@ -1,5 +1,52 @@
 [
   {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "[속보] 트럼프, ‘김정은과 연내 회담 예상하나’ 질문에 “그럴 것”",
+    "title_ko": "[속보] 트럼프, ‘김정은과 연내 회담 예상하나’ 질문에 “그럴 것”",
+    "link": "https://www.mk.co.kr/news/world/12131713",
+    "published": "Thu, 20 Aug 2026 00:46:10 +09:00",
+    "fetched_at": "2026-08-20 05:16:36",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "국내 증시 전반",
+      "방위산업"
+    ],
+    "keywords": [
+      "트럼프",
+      "김정은",
+      "북미 정상회담",
+      "지정학적 리스크"
+    ],
+    "reason": "트럼프 대통령의 김정은 위원장과의 연내 회담 예상 발언은 한반도 지정학적 리스크 완화 기대감을 높여 국내 증시에 긍정적 영향을 미칠 수 있습니다. 이는 '코리아 디스카운트' 해소에 기여할 가능성이 있습니다.",
+    "action_point": "한반도 지정학적 리스크 완화 기대감에 따라 국내 주식 투자 비중 확대를 검토하고, 방위산업 관련주 비중은 축소를 고려하라."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Stocks making the biggest moves after hours: Toll Brothers, Keysight Technologies, La-Z-Boy & more",
+    "title_ko": "장 마감 후 가장 크게 움직인 주식들: 톨 브라더스, 키사이트 테크놀로지스, 라지보이 외 다수",
+    "link": "https://www.cnbc.com/2026/08/18/stocks-making-the-biggest-moves-after-hours-tol-keys-lzb.html",
+    "published": "Tue, 18 Aug 2026 20:55:53 GMT",
+    "fetched_at": "2026-08-20 05:16:16",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "부동산",
+      "기술",
+      "소비재"
+    ],
+    "keywords": [
+      "장외거래",
+      "개별주식",
+      "미국 주식",
+      "실적발표"
+    ],
+    "reason": "이 기사는 특정 기업들의 장외거래 움직임을 보도하며, 이는 주로 실적 발표나 개별 기업 뉴스에 기인합니다. 거시경제적 관점에서 시장 전반의 방향을 제시하기보다는 해당 기업 및 섹터의 동향을 간접적으로 시사합니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "GoogleNews_Korea",
     "market": "KR",
     "title": "미국 언론 \"한국, 이란 전쟁의 희생양\"...영 김 \"미국 기업, 제대로 대우해야\" - YTN",
@@ -2899,55 +2946,5 @@
     ],
     "reason": "스페이스X 내부자 주식 락업 해제는 해당 기업 주가에 하방 압력을 가하며, 유사 비상장 기술 기업 투자심리에 부정적 영향을 미칠 수 있습니다.",
     "action_point": "비상장 우주항공 및 기술 기업 투자 포트폴리오의 밸류에이션 리스크를 점검하십시오."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "From birth to brokerage: Why South Korea is seeing a surge in infant investment accounts",
-    "title_ko": "출생부터 증권까지: 왜 한국에서 영유아 투자 계좌가 급증하는가",
-    "link": "https://www.cnbc.com/2026/08/07/south-korea-investment-stock-baby-accounts.html",
-    "published": "Thu, 06 Aug 2026 23:42:20 GMT",
-    "fetched_at": "2026-08-07 08:50:39",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "증권/금융",
-      "자산운용"
-    ],
-    "keywords": [
-      "영유아 투자",
-      "증권 계좌",
-      "장기 투자",
-      "한국 증시",
-      "소액 투자"
-    ],
-    "reason": "한국 내 장기 소액 투자 문화 확산을 보여주며, 향후 국내 증시의 개인 투자자 기반 강화와 유동성 증가에 기여할 수 있는 장기적인 추세입니다. 단기 시장 영향은 제한적입니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "'AI Kill Switch' bill needs to be passed this year amid ongoing rogue agent hacks, Rep. Lieu says",
-    "title_ko": "AI 킬 스위치 법안, 계속되는 악성 AI 에이전트 해킹 사태 속 올해 통과 필요해 보여",
-    "link": "https://www.cnbc.com/2026/08/06/ai-kill-switch-bill-openai-anthropic-meta.html",
-    "published": "Thu, 06 Aug 2026 14:57:11 GMT",
-    "fetched_at": "2026-08-07 00:08:00",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "기술",
-      "소프트웨어",
-      "반도체",
-      "사이버 보안"
-    ],
-    "keywords": [
-      "AI",
-      "인공지능",
-      "규제",
-      "킬 스위치",
-      "사이버 보안"
-    ],
-    "reason": "AI 모델의 보안 취약성과 악성 사용 가능성에 대한 우려가 커지면서 관련 규제 도입이 가속화될 수 있습니다. 이는 AI 기술 기업에 새로운 비용 부담과 성장 제약으로 작용할 가능성이 있습니다.",
-    "action_point": "AI 관련 기술주 및 소프트웨어 기업의 규제 리스크를 재평가하고 포트폴리오 비중 조정 검토"
   }
 ]
