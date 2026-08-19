@@ -2,6 +2,80 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "The U.S. banned Nvidia's best chips from going to China. Now it's trying to close a crucial loophole",
+    "title_ko": "미국, 엔비디아 최고사양 칩 對중국 수출 금지 후 핵심 허점 차단 시도",
+    "link": "https://www.cnbc.com/2026/08/19/china-ai-nvidia-chips-us-export-controls.html",
+    "published": "Wed, 19 Aug 2026 10:32:51 GMT",
+    "fetched_at": "2026-08-19 21:25:17",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "반도체",
+      "인공지능",
+      "클라우드 컴퓨팅",
+      "기술"
+    ],
+    "keywords": [
+      "Nvidia",
+      "대중국 수출통제",
+      "AI 칩",
+      "클라우드 접근",
+      "미중 기술 갈등"
+    ],
+    "reason": "미국의 對중국 AI 칩 수출 통제 강화는 기술 공급망의 불확실성을 증대시키고, 중국의 AI 개발 속도를 늦출 수 있습니다. 이는 엔비디아 등 관련 기업의 실적 압박으로 이어질 수 있으며, 미중 기술 갈등 심화를 시사합니다.",
+    "action_point": "반도체 및 클라우드 컴퓨팅 섹터 내 대중국 익스포저가 높은 기업의 투자 비중 축소 검토."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Stocks making the biggest moves premarket: Moderna, Lowe's, Estee Lauder & more",
+    "title_ko": "프리마켓에서 가장 큰 움직임을 보이는 주식: 모더나, 로우스, 에스티로더 외",
+    "link": "https://www.cnbc.com/2026/08/19/stocks-making-the-biggest-moves-premarket-mrna-low-el.html",
+    "published": "Wed, 19 Aug 2026 11:32:40 GMT",
+    "fetched_at": "2026-08-19 21:25:03",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "제약/바이오",
+      "유통",
+      "소비재"
+    ],
+    "keywords": [
+      "프리마켓",
+      "개별 주식",
+      "모더나",
+      "로우스",
+      "에스티로더"
+    ],
+    "reason": "이 기사는 특정 개별 기업들의 프리마켓 움직임을 보도하며, 전체 시장 또는 거시 경제에 미치는 직접적인 영향은 제한적이다. 다만, 언급된 기업들의 주가 변동 요인은 해당 산업 섹터의 투자 심리를 반영할 수 있다.",
+    "action_point": "포트폴리오 내 제약/바이오, 유통, 소비재 섹터 보유 비중을 점검하고 개별 기업별 동향을 주시."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Retail investors aren't entirely giving up on AI trade, but they appear more cautious",
+    "title_ko": "개미 투자자들, AI 투자 완전히 포기하진 않지만 신중론 부상",
+    "link": "https://www.cnbc.com/2026/08/19/retail-investors-stick-with-ai-trade-but-appear-more-cautious.html",
+    "published": "Wed, 19 Aug 2026 11:09:33 GMT",
+    "fetched_at": "2026-08-19 21:25:09",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "기술",
+      "AI"
+    ],
+    "keywords": [
+      "AI",
+      "기술주",
+      "개미투자자",
+      "위험회피"
+    ],
+    "reason": "AI 및 기술주에 대한 개인 투자자들의 강세 심리는 유지되나, 하방 위험 대비는 과열된 시장에 대한 신중한 접근을 시사하며 해당 섹터의 급등세 둔화 가능성을 내포합니다.",
+    "action_point": "AI 및 기술주에 대한 신규 투자는 신중히 접근하고, 기존 포트폴리오의 리스크 헤지 방안을 모색하십시오."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "Iran reportedly weighs attacks on U.S. targets in Europe as UAE severs trade with Tehran",
     "title_ko": "이란, 유럽 내 미국 표적 공격 검토 보도... UAE, 테헤란과의 무역 단절",
     "link": "https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz.html",
@@ -2865,80 +2939,5 @@
     ],
     "reason": "북한의 미상 발사체 발사는 한반도 지정학적 긴장을 높여 단기적으로 국내 증시의 변동성을 키우고 원화 약세 압력을 가중시킬 수 있습니다.",
     "action_point": "원화 약세 압력에 대비하여 달러 자산 보유 비중 유지."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "美 살모넬라균 공포에 치폴레도 타격…할라페뇨 오염 의심에 주가 급락",
-    "title_ko": "美 살모넬라균 공포에 치폴레도 타격…할라페뇨 오염 의심에 주가 급락",
-    "link": "https://www.mk.co.kr/news/world/12119397",
-    "published": "Thu, 06 Aug 2026 17:30:49 +09:00",
-    "fetched_at": "2026-08-06 17:35:53",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "외식/레스토랑",
-      "식품 공급망"
-    ],
-    "keywords": [
-      "살모넬라균",
-      "치폴레",
-      "할라페뇨",
-      "식품 안전",
-      "멕시코산 농산물"
-    ],
-    "reason": "미국 내 치폴레의 살모넬라균 감염 사태는 해당 기업의 실적과 평판에 직접적인 악영향을 미쳐 주가 급락으로 이어졌습니다. 식품 안전 및 공급망 관리에 대한 중요성을 부각시키지만, 거시 경제 전반에 미치는 영향은 제한적입니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "title": "Beijing flips the script on the U.S. tech war — and tests the truce weeks before Xi's visit",
-    "title_ko": "베이징, 미국 기술 전쟁 판도를 뒤집다 — 시진핑 방문 수 주 전 휴전 시험",
-    "link": "https://www.cnbc.com/2026/08/06/us-china-trump-xi-summit-trade-technology-restrictions.html",
-    "published": "Thu, 06 Aug 2026 05:59:02 GMT",
-    "fetched_at": "2026-08-06 16:36:14",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "기술주",
-      "반도체",
-      "IT 하드웨어",
-      "수출입 관련주"
-    ],
-    "keywords": [
-      "미중 기술 전쟁",
-      "무역 보복",
-      "대중국 제재",
-      "지정학적 리스크",
-      "수출 규제"
-    ],
-    "reason": "중국의 광범위한 무역 보복 조치는 미중 기술 전쟁의 긴장을 고조시키며, 글로벌 공급망과 기술 섹터의 불확실성을 키워 기업 실적과 투자 심리에 부정적인 영향을 미칠 수 있습니다.",
-    "action_point": "미중 기술 갈등 고조에 따른 대중국 수출 비중이 높은 기술 및 반도체 기업에 대한 투자 비중 축소를 검토하라.",
-    "market": "GLOBAL"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "title": "미국인들에게 가장 중요한 현안은 물가…이란 전쟁은 관심밖 - yna.co.kr",
-    "title_ko": "미국인들에게 가장 중요한 현안은 물가…이란 전쟁은 관심밖",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGQlV1bHRBWFk0X2l3Y19samZmVFZuc3YwYzV5Rl9ab0RpXy0yeVc4b21RWHBZckhnb0RUQzBvVHhKZkY4TVZRUDhSMlh5eHRwSmItZmNEc2M5Ty0yUlFkdtIBYEFVX3lxTFBGQlV1bHRBWFk0X2l3Y19samZmVFZuc3YwYzV5Rl9ab0RpXy0yeVc4b21RWHBZckhnb0RUQzBvVHhKZkY4TVZRUDhSMlh5eHRwSmItZmNEc2M5Ty0yUlFkdg?oc=5",
-    "published": "Wed, 05 Aug 2026 23:22:27 GMT",
-    "fetched_at": "2026-08-06 16:36:27",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "주식시장 전반",
-      "부동산",
-      "기술주"
-    ],
-    "keywords": [
-      "물가",
-      "인플레이션",
-      "금리",
-      "연준",
-      "미국 경제"
-    ],
-    "reason": "미국 대중의 최우선 현안이 물가라는 점은 연준이 인플레이션 억제 정책 기조를 유지할 가능성을 높여 고금리 장기화 기대를 강화하며, 이는 위험자산에 부정적이다. 이란 전쟁에 대한 관심 부족은 지정학적 요인의 시장 영향력을 다소 완화할 수 있다.",
-    "action_point": "고금리 장기화 기조에 대비하여 금리 민감 주식 및 부동산 투자 비중을 재검토하고 유동성 확보에 집중하라.",
-    "market": "KR"
   }
 ]
