@@ -2,6 +2,32 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "U.S. retreat from global order ‘eroding’ European competitiveness, central bank boss warns",
+    "title_ko": "미국의 글로벌 질서 후퇴가 유럽 경쟁력 '약화'시키고 있어, 중앙은행 총재 경고",
+    "link": "https://www.cnbc.com/2026/08/19/lagarde-ecb-europe-economy-trump.html",
+    "published": "Wed, 19 Aug 2026 11:27:08 GMT",
+    "fetched_at": "2026-08-20 00:21:45",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "기술",
+      "금융",
+      "제조업",
+      "유럽 관련 자산"
+    ],
+    "keywords": [
+      "미국 글로벌 질서 후퇴",
+      "유럽 경쟁력",
+      "ECB 라가르드",
+      "AI 시대",
+      "유럽 통합"
+    ],
+    "reason": "ECB 총재의 발언은 미국의 글로벌 리더십 약화와 AI 시대 도래 속에서 유럽이 구조적인 경쟁력 약화에 직면해 있음을 시사한다. 이는 장기적으로 유럽 경제 성장 둔화와 투자 매력도 하락으로 이어질 수 있다.",
+    "action_point": "유럽 투자 자산 비중 축소 또는 보수적 접근 유지 검토."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "Amazon to expand drone service to nearly 500 cities after targeting 1 million deliveries this year",
     "title_ko": "아마존, 올해 100만 건 배송 목표로 드론 서비스 500개 도시로 확장 예정",
     "link": "https://www.cnbc.com/2026/08/19/amazon-plans-drone-expansion-as-top-exec-projects-1-million-deliveries.html",
@@ -2918,27 +2944,5 @@
     ],
     "reason": "글로벌 빅파마 간 대형 M&A 논의는 특허 만료, R&D 비용 증가 등으로 인한 제약 산업 내 구조조정 및 효율성 추구 경향을 시사합니다. 이는 향후 제약/바이오 섹터 전반의 M&A 활성화 가능성을 높일 수 있습니다.",
     "action_point": "글로벌 제약/바이오 섹터 내 M&A 트렌드와 잠재적 인수 대상 기업들의 가치를 면밀히 평가하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[속보] 합참 \"北, 원산 일대서 단거리 탄도미사일 발사\" - 연합뉴스TV",
-    "title_ko": "합참 \"北, 원산 일대서 단거리 탄도미사일 발사\"",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5UR3FjaEM2c0c0dnVqeDVOS1ZlektKTnNTeDdjZHhaLVRwZlBMTGpLNm1yOFdPMTdzUzZ5Sm1acFl5dUJpb0I2OHFORjg0ZkRnMm82SjlQa2tRQXp4ZmJjZlItdUZQaWc?oc=5",
-    "published": "Thu, 06 Aug 2026 09:01:00 GMT",
-    "fetched_at": "2026-08-06 19:29:13",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "방산",
-      "한국 증시"
-    ],
-    "keywords": [
-      "북한",
-      "미사일",
-      "지정학적 리스크"
-    ],
-    "reason": "북한의 단거리 미사일 발사는 한반도 지정학적 긴장을 고조시켜 국내 증시에 단기적인 리스크 오프 심리를 유발하고, 원화 약세 압력을 가할 수 있습니다.",
-    "action_point": "달러 자산 보유를 유지하여 지정학적 리스크에 대비하십시오."
   }
 ]
