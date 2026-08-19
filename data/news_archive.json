@@ -1,5 +1,52 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "미국 언론 \"한국, 이란 전쟁의 희생양\"...영 김 \"미국 기업, 제대로 대우해야\" - YTN",
+    "title_ko": "미국 언론 \"한국, 이란 전쟁의 희생양\"...영 김 \"미국 기업, 제대로 대우해야\"",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1DTnBtcjV0Q1lHY1dsTnhtaS00WmlsS3o1bkRCMTRSNkRXcG1sV3VlUG5vbS1wdC02c1FuLTVXOTdVTWR0Yml1bEtjTS1HLVNfRU9ZWlFYQmhZaUVnSEE?oc=5",
+    "published": "Wed, 19 Aug 2026 14:01:00 GMT",
+    "fetched_at": "2026-08-20 04:19:04",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "석유화학",
+      "해운",
+      "수출주"
+    ],
+    "keywords": [
+      "이란",
+      "지정학",
+      "유가",
+      "미국 통상",
+      "한국 경제"
+    ],
+    "reason": "이란 전쟁 리스크 고조는 유가 상승을 유발하여 한국 경제 전반에 악영향을 미치며, 미국 의원의 발언은 통상 압력 확대로 이어질 수 있어 국내 기업의 불확실성을 가중시킨다.",
+    "action_point": "유가 상승에 취약한 에너지 다소비 산업군 비중 축소를 검토하고, 원화 약세 가능성에 대비하여 달러 자산 보유 비중을 유지하십시오."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Board approves $19.9 billion plan to overhaul Washington Dulles airport",
+    "title_ko": "워싱턴 덜레스 공항 199억 달러 규모 재정비 계획 승인",
+    "link": "https://www.cnbc.com/2026/08/19/board-approves-19point9-billion-plan-to-overhaul-dcs-dulles-airport.html",
+    "published": "Wed, 19 Aug 2026 16:30:07 GMT",
+    "fetched_at": "2026-08-20 04:18:54",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "건설 및 인프라"
+    ],
+    "keywords": [
+      "공항",
+      "인프라 투자",
+      "건설"
+    ],
+    "reason": "워싱턴 덜레스 공항의 대규모 인프라 투자 계획은 미국 수도권 경제와 건설 섹터에 긍정적이나, 글로벌 거시경제 전반에 미치는 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "CNBC_Finance",
     "market": "US",
     "title": "Fed officials saw need for rate hike if inflation doesn't cool, minutes show",
@@ -2902,51 +2949,5 @@
     ],
     "reason": "AI 모델의 보안 취약성과 악성 사용 가능성에 대한 우려가 커지면서 관련 규제 도입이 가속화될 수 있습니다. 이는 AI 기술 기업에 새로운 비용 부담과 성장 제약으로 작용할 가능성이 있습니다.",
     "action_point": "AI 관련 기술주 및 소프트웨어 기업의 규제 리스크를 재평가하고 포트폴리오 비중 조정 검토"
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Traders on Kalshi now think it's likely that the S&P 500 will hit 8,000 in 2026",
-    "title_ko": "칼시 트레이더들, S&P 500 지수 2026년까지 8,000 도달 가능성 높게 전망",
-    "link": "https://www.cnbc.com/2026/08/06/traders-on-kalshi-say-its-likely-sp-500-will-hit-8000-in-2026.html",
-    "published": "Thu, 06 Aug 2026 14:48:42 GMT",
-    "fetched_at": "2026-08-07 00:07:29",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "기술",
-      "경기소비재"
-    ],
-    "keywords": [
-      "S&P 500",
-      "주식 시장 전망",
-      "강세장",
-      "투자 심리"
-    ],
-    "reason": "미국 주식 시장에 대한 낙관적 장기 전망을 제시하며, 투자자들의 위험 선호 심리를 강화하고 강세장 기조를 지속시킬 가능성이 있습니다.",
-    "action_point": "미국 시장 주식 자산, 특히 성장주 비중 유지 및 확대 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Opinion: Demis Hassabis’ new role exposes Google’s AI balancing act",
-    "title_ko": "논평: 데미스 하사비스의 새 역할, 구글 AI 상업화-연구 균형점 찾기 숙제 노출",
-    "link": "https://www.cnbc.com/2026/08/06/demis-hassabis-google-reshuffle-deepmind-role.html",
-    "published": "Thu, 06 Aug 2026 13:15:41 GMT",
-    "fetched_at": "2026-08-07 00:07:53",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "기술",
-      "인공지능"
-    ],
-    "keywords": [
-      "구글",
-      "AI",
-      "상업화",
-      "연구개발"
-    ],
-    "reason": "구글의 AI 상업화 속도와 연구 개발 간의 내부적 균형점 모색이 부각되며, 이는 구글의 단기 AI 수익화 전략에 영향을 미칠 수 있음을 시사한다.",
-    "action_point": "구글의 AI 상업화 지연 가능성을 염두에 두고 AI 관련 기업 투자 시 각 기업의 실제 수익화 모델과 실행력을 우선적으로 평가하라."
   }
 ]
