@@ -1,5 +1,82 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Treasury doubles debt buybacks as Bessent moves to steady bond market",
+    "title_ko": "재무부, 채권 시장 안정화 위해 국채 바이백 규모 2배로 확대",
+    "link": "https://www.cnbc.com/2026/08/19/treasury-announces-upscaled-buyback-operation-for-longer-term-debt-sending-yields-lower.html",
+    "published": "Wed, 19 Aug 2026 15:12:28 GMT",
+    "fetched_at": "2026-08-20 02:18:40",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "채권",
+      "금융",
+      "부동산",
+      "기술주"
+    ],
+    "keywords": [
+      "재무부",
+      "국채 바이백",
+      "장기채",
+      "금리",
+      "유동성"
+    ],
+    "reason": "미 재무부의 장기 국채 바이백 확대는 해당 시장의 공급 부담을 줄여 금리 변동성을 완화하고 안정화를 꾀하는 조치입니다. 이는 장기 금리 상승 압력을 둔화시키는 효과를 가져올 수 있습니다.",
+    "action_point": "미국 장기 금리 안정화 기대에 따라 금리 민감 성장주 및 장기 채권형 자산의 투자 매력을 재평가하라."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Stocks making the biggest moves midday: Moderna, Pilgrim's Pride, Target, gold miners & more",
+    "title_ko": "장중 가장 큰 변동을 보이는 주식: 모더나, 필그림스 프라이드, 타겟, 금광주 등",
+    "link": "https://www.cnbc.com/2026/08/19/stocks-making-the-biggest-moves-midday-mrna-ppc-tgt-gdx.html",
+    "published": "Wed, 19 Aug 2026 15:41:55 GMT",
+    "fetched_at": "2026-08-20 02:18:32",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "바이오/제약",
+      "소비재",
+      "유통",
+      "금광업"
+    ],
+    "keywords": [
+      "장중 주식 변동",
+      "개별 주식",
+      "모더나",
+      "금광주"
+    ],
+    "reason": "이 기사는 특정 개별 주식 및 금광업 섹터의 장중 가격 변동을 단순 보고하는 내용으로, 거시경제나 시장 전반에 미치는 직접적인 영향은 제한적입니다. 개별 기업 및 섹터 이슈에 가깝습니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Trump picks Heidi Overton, a top White House aide, to lead the Food and Drug Administration",
+    "title_ko": "트럼프, 백악관 고위 보좌관 하이디 오버턴을 식약처장으로 지명",
+    "link": "https://www.cnbc.com/2026/08/19/trump-picks-heidi-overton-lead-fda.html",
+    "published": "Wed, 19 Aug 2026 16:54:41 GMT",
+    "fetched_at": "2026-08-20 02:18:48",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "제약/바이오",
+      "헬스케어",
+      "식음료"
+    ],
+    "keywords": [
+      "트럼프",
+      "FDA",
+      "식품의약국",
+      "제약",
+      "바이오",
+      "헬스케어"
+    ],
+    "reason": "새 FDA 국장 임명은 제약, 바이오, 헬스케어 및 식음료 산업의 규제 환경에 영향을 미칠 수 있으며, 향후 정책 방향에 따라 개별 기업에 기회 또는 제약으로 작용할 수 있습니다.",
+    "action_point": "제약/바이오 및 헬스케어 섹터 내 개별 기업들의 FDA 관련 리스크 및 기회 요인 변화에 대한 분석을 강화하라."
+  },
+  {
     "source": "GoogleNews_Korea",
     "market": "KR",
     "title": "[속보] 北김여정 \"북미 지도자 간 소통 전혀 알지 못해\" - 연합뉴스TV",
@@ -2862,83 +2939,5 @@
     ],
     "reason": "세계 최대 주류 기업의 자체적인 비용 절감 노력은 해당 기업의 수익성 개선에는 긍정적이나, 거시 경제나 광범위한 시장에 미치는 직접적인 영향은 제한적이다. 이는 개별 기업의 효율성 제고 사례로 해석된다.",
     "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[속보] 합참 \"북한, 단거리 탄도미사일 1발 발사\" - 연합뉴스TV",
-    "title_ko": "[속보] 합참 \"북한, 단거리 탄도미사일 1발 발사\"",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wQTFVMGc0T1laWXJZaEFHRXFJN0U2SEFTVE9CMjhhdE4zUkNTM1NoSmZ1YzVfVkliSThLNi1tMFA2MlQ0QXFRM1h1Z25aY3V1WHdwOFhqcExrWlhnZVN1NnlQdmJ5Rm8?oc=5",
-    "published": "Thu, 06 Aug 2026 10:08:00 GMT",
-    "fetched_at": "2026-08-06 21:51:42",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "금융",
-      "방산",
-      "관광/레저"
-    ],
-    "keywords": [
-      "북한",
-      "미사일",
-      "지정학적 리스크",
-      "안보"
-    ],
-    "reason": "북한의 단거리 탄도미사일 발사는 한반도의 지정학적 긴장을 고조시키며, 국내 금융시장 전반에 단기적인 투자 심리 위축 및 변동성을 유발할 수 있습니다. 다만, 과거 사례를 볼 때 즉각적인 추가 도발이 없다면 영향은 제한적이고 일시적인 경향을 보입니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "車·조선·철강 ‘AI 혁신’으로, 반도체 뛰어넘는다(종합) - 국제신문",
-    "title_ko": "車·조선·철강 ‘AI 혁신’으로, 반도체 뛰어넘는다(종합)",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZHJNS2VwYmRQWTBwY1h0bUtieVctTVlEVTNyeXVDcTdJanRCS1NRcWRCeXh0NWJGNDIwYTJ4Y3lodkVhdUtrcnA4b0dlcVdqOHNGTXZWM3IxemoyRE9ZUFNDZWpHVWVTdzZfaXdHVTlVRE1yaGRBSkU4SW9yVzF5eGhjVlZ3N0tyV1M3V1BlbktDWjQ?oc=5",
-    "published": "Thu, 06 Aug 2026 10:37:00 GMT",
-    "fetched_at": "2026-08-06 21:51:51",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "자동차",
-      "조선",
-      "철강",
-      "반도체",
-      "IT/소프트웨어"
-    ],
-    "keywords": [
-      "AI 혁신",
-      "산업 전환",
-      "자동차",
-      "조선",
-      "철강"
-    ],
-    "reason": "자동차, 조선, 철강 등 전통 산업이 AI 혁신을 통해 새로운 성장 동력을 확보하며 산업 전반의 경쟁력 강화에 기여할 수 있다는 기대감을 형성합니다. 이는 현재 반도체에 집중된 투자 포트폴리오의 다각화를 시사할 수 있습니다.",
-    "action_point": "AI 기술 도입 및 적용에 적극적인 자동차, 조선, 철강 섹터 기업의 중장기 투자 매력도를 재평가하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[똑소리톡] \"이란 전쟁, 끝난 줄 알았죠?… 진짜 위기는 지금부터입니다\" - v.daum.net",
-    "title_ko": "이란 전쟁, 끝난 줄 알았죠?… 진짜 위기는 지금부터입니다",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5RSnA1dnh3dF9kWU9uS3Z0YlB5VFpmd0Q5Y0J2aUpHODNlZ3hpNTFOdjhaV2g2Vng3Zk5HX2VPNlV1MXFmYjZmN3hUQXF3RjQ?oc=5",
-    "published": "Thu, 06 Aug 2026 09:06:00 GMT",
-    "fetched_at": "2026-08-06 19:29:27",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "원유/에너지",
-      "방산",
-      "해운/물류",
-      "금융"
-    ],
-    "keywords": [
-      "이란",
-      "중동",
-      "지정학",
-      "유가",
-      "전쟁",
-      "리스크"
-    ],
-    "reason": "중동 지역의 지정학적 리스크가 끝난 것이 아니라 오히려 잠재적 위기가 시작될 수 있다는 경고로, 이는 국제 유가 변동성 확대 및 글로벌 공급망 불안정성을 야기하여 전반적인 시장 심리에 악영향을 줄 수 있습니다.",
-    "action_point": "중동 지정학적 리스크 확산에 대비하여 방산 및 에너지 섹터 비중 확대와 안전자산(금, 달러) 보유를 검토하라."
   }
 ]
