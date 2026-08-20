@@ -1,5 +1,57 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Bessent says Treasury buyback operation could be more than $4 billion",
+    "title_ko": "Bessent, 미 국채 환매 규모 40억 달러 초과 가능성 언급",
+    "link": "https://www.cnbc.com/2026/08/20/bessent-says-treasury-buyback-operation-could-be-more-than-4-billion.html",
+    "published": "Thu, 20 Aug 2026 15:35:33 GMT",
+    "fetched_at": "2026-08-21 01:22:52",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "채권",
+      "금융",
+      "부동산",
+      "성장주"
+    ],
+    "keywords": [
+      "국채 환매",
+      "장기채",
+      "금리 안정",
+      "유동성"
+    ],
+    "reason": "미 재무부의 장기 국채 환매는 시장 유동성을 공급하고 최근 급등했던 장기 금리의 상승 압력을 완화하여 채권 시장 안정화 및 전반적인 자본 시장에 긍정적 영향을 줄 수 있습니다.",
+    "action_point": "장기 금리 안정화에 따른 채권 포트폴리오의 듀레이션 조정 및 금리 민감 성장주 비중 확대를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "AI data center outrage is showing up everywhere from ads to elections",
+    "title_ko": "AI 데이터 센터에 대한 반감이 광고부터 선거까지 전방위로 확산되고 있다",
+    "link": "https://www.cnbc.com/2026/08/20/ai-data-center-election-backlash.html",
+    "published": "Thu, 20 Aug 2026 15:56:12 GMT",
+    "fetched_at": "2026-08-21 01:22:59",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "AI/반도체",
+      "클라우드 컴퓨팅",
+      "전력/유틸리티",
+      "건설/인프라",
+      "부동산"
+    ],
+    "keywords": [
+      "AI 데이터 센터",
+      "반감",
+      "미국 중간선거",
+      "규제 위험",
+      "전력 소비"
+    ],
+    "reason": "미국 내 AI 데이터 센터 건설 및 운영에 대한 정치적 반감이 확산되며 규제 강화 가능성이 높아지고 있다. 이는 AI 인프라 확장에 차질을 빚어 관련 기업들의 투자 계획과 실적에 부정적 영향을 줄 수 있다.",
+    "action_point": "AI 인프라 구축 지연 위험을 감안하여 데이터 센터 관련 기업 및 AI 반도체 섹터의 중장기 투자 전망을 재검토."
+  },
+  {
     "source": "GoogleNews_Korea",
     "market": "KR",
     "title": "김여정 \"전쟁놀이 못하게 된 서울의 가긍한 처지…인과응보\" - 연합뉴스",
@@ -2898,51 +2950,5 @@
     ],
     "reason": "미국의 전쟁 장기화로 인한 재정 부담 증가는 국채 발행 증가와 인플레이션 압력을 가중시켜 미국 금리 상승과 달러 변동성 확대를 야기하며, 대선 국면의 정치적 불확실성을 높입니다.",
     "action_point": "미국 재정 악화에 따른 국채 금리 상승 압력에 대비하여 채권 포트폴리오의 듀레이션 축소를 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "밀양 농업용수 가뭄 ‘심각’ 상향…전남광주도 가뭄 위기 고조 - 한겨레",
-    "title_ko": "밀양 농업용수 가뭄 ‘심각’ 상향…전남광주도 가뭄 위기 고조",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB0RHlTbm5aa3NNVGtZR1lLWlRUeXVpX3EzQVQzOVVualp4VVZuM2JDb3gyTTVIbGRxYWZ1UGJYZGRCR3IzYk9yV1VIRHFCc2pITXZERnR0QnMtTkpWbkk4R2s2WEZXcUo3YWkzTA?oc=5",
-    "published": "Sat, 08 Aug 2026 05:49:00 GMT",
-    "fetched_at": "2026-08-08 15:35:53",
-    "sentiment": "악재",
-    "importance": 2,
-    "sectors": [
-      "농업",
-      "식품"
-    ],
-    "keywords": [
-      "가뭄",
-      "농업용수",
-      "물가상승"
-    ],
-    "reason": "국지적 가뭄 심화는 농산물 생산량 감소와 가격 상승 압력으로 이어져 식품 물가에 영향을 미칠 수 있으며, 장기화 시 관련 지역 경제에 부정적이다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "세계 식량가격 3년반 만에 최고…폭염·전쟁 여파 - v.daum.net",
-    "title_ko": "세계 식량가격 3년반 만에 최고…폭염·전쟁 여파",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBhV2hqRlkzaUExU3VaR3Z3Z3ZVSmNyNW5zUjBDSlJpTDR1TXBwR3BjMzlhY0VIbzVJTWRMTHpucldBY0JRMWF2SzZodW9nME0?oc=5",
-    "published": "Sat, 08 Aug 2026 01:12:00 GMT",
-    "fetched_at": "2026-08-08 14:35:41",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "식품/음료",
-      "농업",
-      "소비재"
-    ],
-    "keywords": [
-      "식량가격",
-      "인플레이션",
-      "기후변화",
-      "지정학"
-    ],
-    "reason": "세계 식량가격 상승은 글로벌 인플레이션 압력을 가중시키며, 각국 중앙은행의 긴축 기조 장기화 또는 완화 시점 지연 가능성을 높여 금리 및 경제 성장 전망에 부정적 영향을 미칠 수 있습니다.",
-    "action_point": "글로벌 인플레이션 장기화에 대비하여 원자재 및 물가연동채 등 인플레이션 헤지 자산 비중 확대 검토."
   }
 ]
