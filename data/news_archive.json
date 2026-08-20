@@ -2,6 +2,32 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "Humanoid robots' 'ChatGPT moment' could be 10 years away, Unitree founder says",
+    "title_ko": "휴머노이드 로봇의 '챗GPT 모멘트'는 10년 뒤에나 올 수 있다, 유니트리 설립자 말하다",
+    "link": "https://www.cnbc.com/2026/08/20/unitree-humanoid-robots-chatgpt-moment.html",
+    "published": "Thu, 20 Aug 2026 09:02:11 GMT",
+    "fetched_at": "2026-08-20 20:19:10",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "로봇",
+      "인공지능",
+      "반도체",
+      "자동화"
+    ],
+    "keywords": [
+      "휴머노이드 로봇",
+      "인공지능",
+      "기술 발전",
+      "로봇 공학",
+      "미래 기술"
+    ],
+    "reason": "휴머노이드 로봇의 상용화 및 대중화는 여전히 장기적인 관점에서 접근해야 함을 시사하며, 관련 기술 기업들의 단기적인 성과 기대치를 조정할 수 있습니다. 장기적인 성장 잠재력은 유효하나, 급진적인 변화는 시기상조임을 강조합니다.",
+    "action_point": "휴머노이드 로봇 관련 단기 과열 투자에 대한 신중한 접근을 유지하고, 장기적인 기술 발전 추세를 관망."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "Alibaba shares fall 4% as AI spending drives 75% drop in net income",
     "title_ko": "알리바바 주가, AI 투자로 순이익 75% 급감하며 4% 하락",
     "link": "https://www.cnbc.com/2026/08/20/alibaba-cloud-revenue.html",
@@ -2919,29 +2945,5 @@
     ],
     "reason": "세계 식량가격 상승은 글로벌 인플레이션 압력을 가중시켜 각국 중앙은행의 금리 인하 기대감을 약화하고, 소비재 기업의 원가 부담 및 가계 실질 구매력 감소로 이어져 전반적인 경제 성장에 부정적인 영향을 미칠 수 있습니다.",
     "action_point": "인플레이션 헤지 자산 편입을 고려하고, 식품 및 소비재 섹터 기업들의 마진 압박을 주시하며 투자 비중을 재검토하십시오."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "전쟁에 원유 공급망 흔들려도 에너지안보로 재평가되는 K-정유 - 연합뉴스",
-    "title_ko": "전쟁에 원유 공급망 흔들려도 에너지안보로 재평가되는 K-정유 - 연합뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE44cWtNMGotbXNmVmg1YUtuanpVYk1Fc21wOXktUzVhMVZtQ1BUd25fcm85SEx5dmFWTHpxLUg1M2h1eE82UVZZc0hIaVFpcVJiUlMtQjFwdi16TFXSAWBBVV95cUxNYS1FZ0Fxdjk5QkJlb3h2eFk2aGJmbE1Zazl6RXkxMy1STEY2aXBRUVNyd29NcWpQZVJBVm1KOVoyNDZWZHVYY2ZZcFNreDdPT0RETXg4MnQ2bTFsRDN6Sjk?oc=5",
-    "published": "Fri, 07 Aug 2026 22:35:01 GMT",
-    "fetched_at": "2026-08-08 11:51:06",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "정유",
-      "에너지"
-    ],
-    "keywords": [
-      "전쟁",
-      "원유",
-      "공급망",
-      "에너지안보",
-      "정유"
-    ],
-    "reason": "글로벌 지정학적 불안정 심화로 원유 공급망 불확실성이 커지는 가운데, 국내 정유 산업이 에너지 안보의 핵심 역할을 하며 재평가될 가능성이 높다. 이는 관련 기업의 투자 매력을 높일 수 있다.",
-    "action_point": "국내 정유 섹터 비중 확대 검토"
   }
 ]
