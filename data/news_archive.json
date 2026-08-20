@@ -2,6 +2,58 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "Walmart hikes full-year outlook, says it will use huge tariff refund to keep prices low",
+    "title_ko": "월마트, 연간 실적 전망 상향 조정, 막대한 관세 환급액으로 저가 정책 유지할 것",
+    "link": "https://www.cnbc.com/2026/08/20/walmart-wmt-q2-2027-earnings.html",
+    "published": "Thu, 20 Aug 2026 12:21:48 GMT",
+    "fetched_at": "2026-08-20 21:27:47",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "유통",
+      "소비재",
+      "물류"
+    ],
+    "keywords": [
+      "월마트",
+      "소비 지출",
+      "관세 환급",
+      "인플레이션",
+      "유통"
+    ],
+    "reason": "월마트의 실적 전망 상향은 미국 소비 지출의 견조함을 시사하며, 관세 환급을 통한 저가 유지 정책은 인플레이션 압력을 완화하고 소비 심리를 지지할 것입니다.",
+    "action_point": "미국 소비 지표와 연관된 유통 및 소비재 섹터 투자 비중 유지 또는 확대 고려"
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "트럼프 '이란 경제고립 작전' 선언…이란 \"美 위기 시선 돌리기\"(종합2보) - 연합뉴스",
+    "title_ko": "트럼프 '이란 경제고립 작전' 선언…이란 \"美 위기 시선 돌리기\"(종합2보)",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11RnMtYUxEalJpa2FLMDhWNjhFcVFEby1HQ2ctYkF2ZVZ0X1R5YVRVekF6REhOM2NrYi1GVFZqOTJSck0zaGFCT28wbWpiWWp6akZzNkIxMERBdmczaVY3VtIBYEFVX3lxTE11RnMtYUxEalJpa2FLMDhWNjhFcVFEby1HQ2ctYkF2ZVZ0X1R5YVRVekF6REhOM2NrYi1GVFZqOTJSck0zaGFCT28wbWpiWWp6akZzNkIxMERBdmczaVY3Vg?oc=5",
+    "published": "Thu, 20 Aug 2026 08:21:22 GMT",
+    "fetched_at": "2026-08-20 21:27:54",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "방산",
+      "해운",
+      "항공"
+    ],
+    "keywords": [
+      "트럼프",
+      "이란",
+      "경제고립",
+      "지정학",
+      "유가",
+      "중동"
+    ],
+    "reason": "트럼프의 이란 경제고립 선언은 중동 지정학적 리스크를 고조시키며, 글로벌 원유 공급 불확실성 증가로 국제 유가 상승 압력을 키울 수 있습니다. 이는 인플레이션 압력 및 기업 비용 증가 요인으로 작용합니다.",
+    "action_point": "원유 관련 자산 비중 확대 및 방산 섹터 관심 유지"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "Humanoid robots' 'ChatGPT moment' could be 10 years away, Unitree founder says",
     "title_ko": "휴머노이드 로봇의 '챗GPT 모멘트'는 10년 뒤에나 올 수 있다, 유니트리 설립자 말하다",
     "link": "https://www.cnbc.com/2026/08/20/unitree-humanoid-robots-chatgpt-moment.html",
@@ -2894,56 +2946,5 @@
     ],
     "reason": "이란 전쟁 가능성 경고는 유가 급등, 글로벌 공급망 교란 및 인플레이션 압력 가중을 통해 미국 및 세계 경제에 상당한 부담을 줄 수 있습니다. 이는 전반적인 소비 위축과 경기 둔화로 이어질 수 있는 심각한 지정학적 리스크입니다.",
     "action_point": "지정학적 리스크와 유가 급등에 대비하여 에너지, 방산 섹터 비중 확대 및 달러 자산 유지 검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "21세기판 오디세이 트럼프… 이란전쟁에서 길을 잃다 - 주간조선",
-    "title_ko": "21세기판 오디세이 트럼프… 이란전쟁에서 길을 잃다",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZbkhSTHF5a0dtamFrT3dNOVlqNV80ZVhIMEhKY3FWWlV1b3VYSHR2UDNpa21FWmk0QTczampKN1VTLU5YSUg3Yld0TkRtRmNkNVYyR1E3aHBqUGRlLXA0YVFiYV94WDlBaWfSAW5BVV95cUxOWlZudUpaZ0tMTVFRWkZHcDFkZ3hFOTlUWEtsWldieDY2ZWJ3UDM5aVFaZUd1SHZrajM2NUtfLWxMcnB5RW9HWUhtNUZ6Q1p1QWRoOXRNMHlTUU9IcEhUYzdEeXM0ZktmRlZNOWpOQQ?oc=5",
-    "published": "Fri, 07 Aug 2026 19:00:00 GMT",
-    "fetched_at": "2026-08-08 11:50:59",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "원자재",
-      "방위산업",
-      "해운/물류",
-      "항공",
-      "금융"
-    ],
-    "keywords": [
-      "트럼프",
-      "이란",
-      "지정학적 리스크",
-      "중동",
-      "원유"
-    ],
-    "reason": "트럼프 행정부 시기 이란과의 군사적 긴장 고조 가능성을 암시하며, 이는 중동 지역 불안정 심화와 국제 유가 변동성 확대를 야기할 수 있습니다. 글로벌 경제 불확실성이 커져 안전자산 선호 심리가 강화될 수 있습니다.",
-    "action_point": "지정학적 리스크 확대를 대비하여 안전자산(달러, 금) 비중을 늘리고 에너지 섹터에 대한 관심도를 높여라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "세계 식량가격 3년 반만에 최고치…폭염·전쟁 탓 - 연합뉴스TV",
-    "title_ko": "세계 식량가격 3년 반만에 최고치…폭염·전쟁 탓",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1qWjZxT1ljWV9WQkdtbXh3VnFMZ0gzcHJqOGw1MDVhQ1VwYzNWM0FFNEtPTWJ0ZmZqeVNPX2Y1MDlFZlhVZlVMSXlCLV9QRTN2b1JKbnljTUZya3l3TkJCaWNqN3p4Nnc?oc=5",
-    "published": "Sat, 08 Aug 2026 02:47:00 GMT",
-    "fetched_at": "2026-08-08 11:51:13",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "식품",
-      "소비재",
-      "농업"
-    ],
-    "keywords": [
-      "식량가격",
-      "인플레이션",
-      "기후변화",
-      "지정학"
-    ],
-    "reason": "세계 식량가격 상승은 글로벌 인플레이션 압력을 가중시켜 각국 중앙은행의 금리 인하 기대감을 약화하고, 소비재 기업의 원가 부담 및 가계 실질 구매력 감소로 이어져 전반적인 경제 성장에 부정적인 영향을 미칠 수 있습니다.",
-    "action_point": "인플레이션 헤지 자산 편입을 고려하고, 식품 및 소비재 섹터 기업들의 마진 압박을 주시하며 투자 비중을 재검토하십시오."
   }
 ]
