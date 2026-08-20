@@ -2,6 +2,74 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "Alibaba shares fall 4% as AI spending drives 75% drop in net income",
+    "title_ko": "알리바바 주가, AI 투자로 순이익 75% 급감하며 4% 하락",
+    "link": "https://www.cnbc.com/2026/08/20/alibaba-cloud-revenue.html",
+    "published": "Thu, 20 Aug 2026 10:04:40 GMT",
+    "fetched_at": "2026-08-20 19:20:33",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "기술",
+      "클라우드 컴퓨팅",
+      "전자상거래"
+    ],
+    "keywords": [
+      "알리바바",
+      "AI 투자",
+      "순이익 감소",
+      "주가 하락",
+      "빅테크"
+    ],
+    "reason": "알리바바의 순이익 급감은 AI 투자 비용이 단기적으로 기업 수익성을 압박할 수 있음을 보여줍니다. 이는 다른 빅테크 기업들의 AI 투자 효율성에 대한 시장의 우려를 키울 수 있습니다.",
+    "action_point": "AI 관련 대규모 투자를 단행 중인 테크 기업들의 단기 수익성 악화 가능성을 점검하고, 포트폴리오 내 비중을 재조정할지 검토하십시오."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[속보] 합참 “북한, 동해상으로 단거리 탄도미사일 10여발 발사” - 경향신문",
+    "title_ko": "[속보] 합참 “북한, 동해상으로 단거리 탄도미사일 10여발 발사” - 경향신문",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9UcEZaTXYweV82bUx4REtaOUI3RDAwSGk4ZDMtUkIyb3BfTVRCaWtaQklqWTczWTVRNFdrZEU2WWdxOTNXM2ZJZTROZmRsV00zSGFKeHFRSm0xd9IBX0FVX3lxTFBJdlhXc1ZyQmlZdm5jNzBudHZ6QVVyam9ZdldyR3J3ZFpxUUZrckNYVVlOcUJnaXRoVGFjYlpxdU9OdGNhOTZ1dHV0WVFCRVM2SnRpazFVaUpaRVd1Y3FF?oc=5",
+    "published": "Thu, 20 Aug 2026 08:11:00 GMT",
+    "fetched_at": "2026-08-20 19:20:49",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "방산",
+      "증시 전반"
+    ],
+    "keywords": [
+      "북한",
+      "탄도미사일",
+      "지정학적 리스크",
+      "한반도 안보"
+    ],
+    "reason": "북한의 단거리 탄도미사일 발사는 한반도의 지정학적 리스크를 높여 국내 증시의 단기 변동성을 확대시키고, 원화 약세 압력을 가중시킬 수 있습니다.",
+    "action_point": "지정학적 리스크 심화 시 원화 약세 가능성에 대비하여 달러 등 안전자산 비중 유지 또는 확대 고려."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[속보] 종합특검, '내란 가담 의혹' 심우정 전 검찰총장 불구속 기소 - MBC 뉴스",
+    "title_ko": "[속보] 종합특검, '내란 가담 의혹' 심우정 전 검찰총장 불구속 기소 - MBC 뉴스",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9GcVBoZXM1TWtkcUt6MFFZTzEtWUJMNXNyUEV2VG5ndHZoTVo1NEhKLVBRVlFjQldOaDk5OENVclJwby1Md3RCcGd1VHJlem5SM0ZLSEdlSllwZFpSVzhPR1h6ZERDMjVaSWloQktsdjZyRjFqc1k40gF3QVVfeXFMT2pBUGtYeXFVNHVVd3lOLXotajNSenV3VzBYWVlMeENxZ3lDaF96Qm1kMzF3RWU0U1Y5VDJSYVBoS2ZVNVJmRUlna1JTa0ZkV3RBWjJZb0Zvc1pyTGZDMGRRWVpQazl6QnZuX1dvTTJab3JpMEFlbVE?oc=5",
+    "published": "Thu, 20 Aug 2026 09:09:10 GMT",
+    "fetched_at": "2026-08-20 19:20:56",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [],
+    "keywords": [
+      "종합특검",
+      "내란 가담 의혹",
+      "검찰총장",
+      "기소"
+    ],
+    "reason": "전 검찰총장에 대한 내란 가담 의혹 기소는 국내 정치 및 사법 시스템의 안정성과 신뢰에 대한 우려를 야기할 수 있으나, 당장의 경제 및 금융 시장에 미치는 직접적인 영향은 제한적이다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "Bond yields edge higher as traders digest Treasury debt buyback plan",
     "title_ko": "채권 수익률, 국채 환매 계획 소화하며 소폭 상승",
     "link": "https://www.cnbc.com/2026/08/20/bond-yields-edge-higher-as-traders-digest-treasury-debt-buyback-plan.html",
@@ -2875,77 +2943,5 @@
     ],
     "reason": "글로벌 지정학적 불안정 심화로 원유 공급망 불확실성이 커지는 가운데, 국내 정유 산업이 에너지 안보의 핵심 역할을 하며 재평가될 가능성이 높다. 이는 관련 기업의 투자 매력을 높일 수 있다.",
     "action_point": "국내 정유 섹터 비중 확대 검토"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Berkshire earnings may prove stock is cheap. And that Abel and Buffett think so too",
-    "title_ko": "버크셔 해서웨이 실적, 주가가 저렴하다는 것을 증명할 수 있다. 아벨과 버핏도 그렇게 생각한다.",
-    "link": "https://www.cnbc.com/2026/08/07/berkshire-earnings-may-prove-stock-is-cheap-and-that-abel-and-buffett-think-so-too.html",
-    "published": "Fri, 07 Aug 2026 16:43:36 GMT",
-    "fetched_at": "2026-08-08 09:54:54",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "금융",
-      "지주회사"
-    ],
-    "keywords": [
-      "버크셔 해서웨이",
-      "자사주 매입",
-      "가치주"
-    ],
-    "reason": "버크셔 해서웨이의 대규모 자사주 매입은 경영진이 현재 주가를 저평가되어 있다고 판단하며, 이는 버크셔 주주들에게 긍정적인 신호이자 시장 전반의 가치주에 대한 관심을 유발할 수 있습니다.",
-    "action_point": "가치주 투자 비중을 검토하고, 특히 버크셔 해서웨이 주식의 잠재적 매력도를 평가하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "‘SaaSpocalypse’ debate intensifies as software stocks swing wildly",
-    "title_ko": "'SaaSpocalypse' 논쟁 심화, 소프트웨어 주식 변동성 급증",
-    "link": "https://www.cnbc.com/2026/08/07/saaspocalypse-debate-intensifies-as-software-stocks-swing-wildly.html",
-    "published": "Fri, 07 Aug 2026 20:22:17 GMT",
-    "fetched_at": "2026-08-08 08:25:26",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "소프트웨어",
-      "테크놀로지",
-      "클라우드 컴퓨팅",
-      "인공지능"
-    ],
-    "keywords": [
-      "SaaS",
-      "소프트웨어 주식",
-      "인공지능",
-      "변동성",
-      "기술주"
-    ],
-    "reason": "인공지능(AI) 기술의 급속한 발전으로 소프트웨어(SaaS) 기업들의 사업 모델 재평가가 이루어지면서 해당 섹터의 주가 변동성이 극도로 확대되고 있다. 이는 기술주 전반의 투자심리에 영향을 미칠 수 있다.",
-    "action_point": "보유 중인 소프트웨어/SaaS 관련 기업들의 AI 경쟁력과 사업 모델 전환 가능성을 철저히 재평가하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Trump teased an Iran deal that didn't come, but markets soared. Here’s why it keeps happening",
-    "title_ko": "트럼프는 이란 협상을 암시했으나 성사되지 않았음에도 시장은 급등했다. 왜 이런 일이 계속 반복되는가?",
-    "link": "https://www.cnbc.com/2026/08/07/trump-iran-hormuz-deal-stocks-oil.html",
-    "published": "Fri, 07 Aug 2026 17:50:12 GMT",
-    "fetched_at": "2026-08-08 06:29:40",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "방산"
-    ],
-    "keywords": [
-      "트럼프",
-      "이란",
-      "유가",
-      "지정학",
-      "시장반응"
-    ],
-    "reason": "이란 협상에 대한 기대감만으로도 지정학적 리스크 프리미엄이 일시적으로 완화되어 시장이 긍정적으로 반응할 수 있음을 보여준다. 하지만 실제 협상 부재와 비축유 고갈 등의 요인은 이러한 시장 반응의 지속 가능성에 의문을 제기한다.",
-    "action_point": "이란 관련 지정학적 긴장 완화 기대감에 따른 유가 변동성에 단기적 대응보다 실질적 협상 진전을 주시하며 에너지 섹터 포지션을 조절하라."
   }
 ]
