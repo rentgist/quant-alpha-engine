@@ -1,5 +1,53 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "김여정 \"전쟁놀이 못하게 된 서울의 가긍한 처지…인과응보\" - 연합뉴스",
+    "title_ko": "김여정 \"전쟁놀이 못하게 된 서울의 가긍한 처지…인과응보\"",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SZmZYQmluZmZmZThBQkthaF9aTDk3SUltNk1ZQ2YxbFhoRzZiTXY0Y3pkdTROMEx3ckxoVVpPTGhrYXh0N3ZnRnVrNUhTMUdGZUNzVURmZFdHWDTSAWBBVV95cUxQVW1ETXdrZHUxRW45MXh3c3AtdmFVcTE0UG5tcEhoUFMtdEFyVVNhVHpETlU2WkROckVSSThIRUNNVmtoekRYakRiOWlsSUsxX2RCY0t6bFR0dG5USEIzWmc?oc=5",
+    "published": "Thu, 20 Aug 2026 12:42:51 GMT",
+    "fetched_at": "2026-08-21 00:25:08",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "전체 주식시장",
+      "외환(KRW)",
+      "관광/레저"
+    ],
+    "keywords": [
+      "북한",
+      "지정학적 리스크",
+      "남북 관계",
+      "김여정"
+    ],
+    "reason": "북한 김여정의 강경 발언은 남북 간의 지정학적 긴장을 고조시키며, 이는 한국 시장의 전반적인 투자 심리에 부정적인 영향을 미쳐 외국인 자금 유출 압력과 원화 약세 요인으로 작용할 수 있습니다.",
+    "action_point": "원화 약세 대비 달러 자산 비중 유지 또는 확대 검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "바이오협회, 식량위기 3대 축 제시…\"2031년 그린바이오 10조 시장\" - 팜이데일리",
+    "title_ko": "바이오협회, 식량위기 3대 축 제시…\"2031년 그린바이오 10조 시장\"",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0ydi1iWkVUMkE5YnloWDBUSmJldDA5OTJGYzEyT21DYk0yc0pSWkFibVZDMG5uWHNOODlwMGRmTkgwXzFMTEVJSFNuU2s5TFBOOExZTjc5MUE2VWd2YUduMlladERwVkZCLWFjVjV3?oc=5",
+    "published": "Thu, 20 Aug 2026 10:37:27 GMT",
+    "fetched_at": "2026-08-21 00:25:16",
+    "sentiment": "호재",
+    "importance": 2,
+    "sectors": [
+      "그린바이오",
+      "농업",
+      "바이오"
+    ],
+    "keywords": [
+      "그린바이오",
+      "식량위기",
+      "시장성장",
+      "바이오협회"
+    ],
+    "reason": "바이오협회가 제시한 2031년 10조원 규모의 그린바이오 시장 성장 전망은 국내 관련 기업들의 장기적인 성장 잠재력을 부각시키며, 식량 안보 및 지속가능성 트렌드에 대한 투자 관심을 높일 것입니다.",
+    "action_point": "그린바이오 및 스마트팜 관련 국내 상장 기업의 투자 매력도를 재평가하고 비중 확대를 검토하라."
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "Trump says Iran's economy is collapsing. A former central bank adviser in Tehran pushes back",
@@ -2896,53 +2944,5 @@
     ],
     "reason": "세계 식량가격 상승은 글로벌 인플레이션 압력을 가중시키며, 각국 중앙은행의 긴축 기조 장기화 또는 완화 시점 지연 가능성을 높여 금리 및 경제 성장 전망에 부정적 영향을 미칠 수 있습니다.",
     "action_point": "글로벌 인플레이션 장기화에 대비하여 원자재 및 물가연동채 등 인플레이션 헤지 자산 비중 확대 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Inside the startup drone maker powering Ukraine's deep-strike campaign",
-    "title_ko": "우크라이나의 장거리 타격 작전을 지원하는 스타트업 드론 제조사 내부",
-    "link": "https://www.cnbc.com/2026/08/08/ukraine-russia-war-fire-point-drones.html",
-    "published": "Sat, 08 Aug 2026 05:21:12 GMT",
-    "fetched_at": "2026-08-08 14:35:30",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "방위산업",
-      "기술"
-    ],
-    "keywords": [
-      "우크라이나",
-      "드론",
-      "군사 기술",
-      "지정학적 위험"
-    ],
-    "reason": "이 기사는 현대전에서 첨단 군사 기술(드론)의 중요성 증가와 우크라이나 분쟁의 지속 가능성을 보여주며, 지정학적 긴장과 방위산업 혁신 수요가 계속될 것임을 시사한다.",
-    "action_point": "지정학적 리스크 장기화에 대비하여 방위산업 및 군사 기술 섹터의 중장기 투자 매력을 재평가하고 관련 기업들을 주시하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[속보]李대통령 \"청년이 결혼 망설이는 일 없어야...제도상 불이익 면밀히 조사\" - KBC광주방송",
-    "title_ko": "李대통령 \"청년이 결혼 망설이는 일 없어야...제도상 불이익 면밀히 조사\"",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2NXVFaldlM2ZETVlfM1RFNHFmcWJvZDF0cFpueGg3T3BBN0YtekxTRUwtYXUtamh6RUdPbjFGcGs2ZDFKdEdxal9jdkp0cWlHLXJvYW5LQkN6UG9zMzBKbg?oc=5",
-    "published": "Sat, 08 Aug 2026 05:20:44 GMT",
-    "fetched_at": "2026-08-08 14:35:51",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "부동산",
-      "유아동",
-      "교육"
-    ],
-    "keywords": [
-      "대통령",
-      "청년",
-      "결혼",
-      "저출산",
-      "제도개선"
-    ],
-    "reason": "대통령의 저출산·저결혼 해결 의지를 보여주는 정책 방향 제시이나, 구체적 시행안이 없어 단기적인 시장 영향은 제한적이다. 장기적으로 인구구조 변화 관련 산업에 영향을 줄 수 있다.",
-    "action_point": "해당 없음"
   }
 ]
