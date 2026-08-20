@@ -2,6 +2,31 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "Bitcoin surges 12% in two days as Trump, crypto execs lead last ditch effort for Clarity Act",
+    "title_ko": "비트코인, 이틀 새 12% 급등... 트럼프와 암호화폐 업계, '명확성 법안' 통과 막판 총력",
+    "link": "https://www.cnbc.com/2026/08/20/bitcoin-surges-as-trump-crypto-execs-lead-final-push-for-clarity-act.html",
+    "published": "Thu, 20 Aug 2026 16:07:53 GMT",
+    "fetched_at": "2026-08-21 03:24:25",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "암호화폐",
+      "핀테크",
+      "기술주"
+    ],
+    "keywords": [
+      "비트코인",
+      "클래러티 법안",
+      "트럼프",
+      "암호화폐 규제",
+      "디지털 자산"
+    ],
+    "reason": "트럼프 전 대통령과 암호화폐 업계의 '명확성 법안' 추진은 규제 불확실성을 해소하여 비트코인을 포함한 디지털 자산 시장에 긍정적인 투자 심리를 형성하고 제도권 편입 기대감을 높입니다.",
+    "action_point": "암호화폐 자산 편입 또는 비중 확대를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "Bessent says Treasury buyback operation could be more than $4 billion",
     "title_ko": "Bessent, 미 국채 환매 규모 40억 달러 초과 가능성 언급",
     "link": "https://www.cnbc.com/2026/08/20/bessent-says-treasury-buyback-operation-could-be-more-than-4-billion.html",
@@ -2924,31 +2949,5 @@
     ],
     "reason": "미군이 이란 전쟁의 출구전략을 모색한다는 보도는 중동 지역의 지정학적 긴장 완화 가능성을 시사하며, 이는 유가 하방 압력으로 작용하고 글로벌 시장의 위험 선호 심리를 회복시킬 수 있습니다.",
     "action_point": "중동발 지정학적 리스크 완화와 유가 하락 가능성에 대비하여 에너지 관련 자산 비중을 조정하고 위험자산 편입을 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "전쟁 장기화에 美세금 눈덩이…트럼프 \"여론 악화, 내 탓 아냐\" - 연합뉴스TV",
-    "title_ko": "전쟁 장기화에 美세금 눈덩이…트럼프 \"여론 악화, 내 탓 아냐\"",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5MR3k0VEtwZ1ZOUnpsV1Y4SHkyYnFjSXpVMUg0QlpGUy12b3NKZFpBeGNhdUJ3ZHFIY0lSRG9nWk5Pbm0wQ2pidlgzbTVvdzRKVWgyYy1VWVdZcDJwcmlQWGtOV3BFcjg?oc=5",
-    "published": "Sat, 08 Aug 2026 04:54:00 GMT",
-    "fetched_at": "2026-08-08 15:35:42",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "채권",
-      "환율",
-      "방산",
-      "원자재"
-    ],
-    "keywords": [
-      "전쟁 장기화",
-      "미국 재정",
-      "국채 금리",
-      "지정학",
-      "트럼프"
-    ],
-    "reason": "미국의 전쟁 장기화로 인한 재정 부담 증가는 국채 발행 증가와 인플레이션 압력을 가중시켜 미국 금리 상승과 달러 변동성 확대를 야기하며, 대선 국면의 정치적 불확실성을 높입니다.",
-    "action_point": "미국 재정 악화에 따른 국채 금리 상승 압력에 대비하여 채권 포트폴리오의 듀레이션 축소를 검토하라."
   }
 ]
