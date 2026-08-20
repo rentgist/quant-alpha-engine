@@ -1,5 +1,29 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Bond yields edge higher as traders digest Treasury debt buyback plan",
+    "title_ko": "채권 수익률, 국채 환매 계획 소화하며 소폭 상승",
+    "link": "https://www.cnbc.com/2026/08/20/bond-yields-edge-higher-as-traders-digest-treasury-debt-buyback-plan.html",
+    "published": "Thu, 20 Aug 2026 08:57:47 GMT",
+    "fetched_at": "2026-08-20 18:24:37",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "채권 시장",
+      "부동산 섹터",
+      "성장주"
+    ],
+    "keywords": [
+      "채권 수익률",
+      "국채",
+      "환매 계획",
+      "금리"
+    ],
+    "reason": "미국 국채 환매 계획 소화 과정에서 채권 수익률이 상승하며 전반적인 자금 조달 비용 상승 가능성을 시사한다. 이는 채권 투자 매력을 낮추고 주식 시장 특히 성장주에 대한 할인율을 높이는 요인이 될 수 있다.",
+    "action_point": "미국 채권 시장의 금리 상승 압력에 대비하여 장기 채권 비중 축소 및 금리 민감 자산에 대한 리스크 관리 강화."
+  },
+  {
     "source": "GoogleNews_Korea",
     "market": "KR",
     "title": "“최대 압박” 외치던 트럼프의 새 “경제 전쟁”···제3국까지 제재 예고 - 경향신문",
@@ -2923,31 +2947,5 @@
     ],
     "reason": "이란 협상에 대한 기대감만으로도 지정학적 리스크 프리미엄이 일시적으로 완화되어 시장이 긍정적으로 반응할 수 있음을 보여준다. 하지만 실제 협상 부재와 비축유 고갈 등의 요인은 이러한 시장 반응의 지속 가능성에 의문을 제기한다.",
     "action_point": "이란 관련 지정학적 긴장 완화 기대감에 따른 유가 변동성에 단기적 대응보다 실질적 협상 진전을 주시하며 에너지 섹터 포지션을 조절하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Here are three key takeaways from the disappointing July jobs report",
-    "title_ko": "실망스러운 7월 고용 보고서의 세 가지 핵심 시사점",
-    "link": "https://www.cnbc.com/2026/08/07/here-are-three-key-takeaways-from-the-disappointing-july-jobs-report.html",
-    "published": "Fri, 07 Aug 2026 18:09:18 GMT",
-    "fetched_at": "2026-08-08 06:29:58",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "주식 시장 전반",
-      "채권 시장",
-      "환율 시장",
-      "금융"
-    ],
-    "keywords": [
-      "미국 고용",
-      "비농업 고용",
-      "실업률",
-      "연준 통화정책",
-      "경기 둔화"
-    ],
-    "reason": "미국 비농업 고용 감소는 경기 둔화 가능성을 시사하나, 실업률 하락은 여전히 타이트한 노동 시장을 나타내 연준의 금리 정책 방향에 대한 시장의 혼란을 가중시킬 것이다.",
-    "action_point": "미국 고용 시장의 혼조세가 연준의 통화정책 불확실성을 키우는 바, 포트폴리오의 금리 민감도와 경기 방어/민감 자산 비중을 점검하라."
   }
 ]
