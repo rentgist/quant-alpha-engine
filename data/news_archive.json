@@ -1,5 +1,31 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[속보] 김여정, UFS훈련 축소에 \"전쟁놀이 못하게된 서울…가긍한 처지\" - 연합뉴스TV",
+    "title_ko": "[속보] 김여정, UFS훈련 축소에 \"전쟁놀이 못하게된 서울…가긍한 처지\" - 연합뉴스TV",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02TEZiM3V3R0VKckdXSXp4a0ZqUjhpakx4akQ2WHdpZjNOeUpFeWp5eHBiNnNSdVhzVFNGWFMwM2Q4cEtiSmZJSF9LVktTYzRMcS1ySWplZm1BSWliM2d6RUhOU2RVZEU?oc=5",
+    "published": "Thu, 20 Aug 2026 12:17:00 GMT",
+    "fetched_at": "2026-08-21 04:23:48",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "방산",
+      "관광",
+      "한국 증시 전반"
+    ],
+    "keywords": [
+      "김여정",
+      "UFS훈련",
+      "한미연합훈련",
+      "북한",
+      "지정학",
+      "한반도 리스크"
+    ],
+    "reason": "김여정의 UFS 훈련 축소 관련 발언은 북한의 지속적인 대남 비난 기조를 재확인하며, 한반도 지정학적 리스크에 대한 투자자들의 경계심을 유지시키는 요인입니다. 훈련 축소 자체는 표면적으로 긴장 완화로 해석될 수 있으나, 북한의 적대적 수사가 이를 상쇄합니다.",
+    "action_point": "한반도 지정학적 리스크 노출 자산에 대한 방어적 비중을 유지하라."
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "Bitcoin surges 12% in two days as Trump, crypto execs lead last ditch effort for Clarity Act",
@@ -2922,32 +2948,5 @@
     ],
     "reason": "미군이 이란전쟁 출구전략을 검토한다는 소식은 중동 지정학적 리스크 완화 기대를 높여 유가 하락 압력으로 작용할 수 있으며, 이는 글로벌 경제 불확실성 감소와 소비 회복에 긍정적이다.",
     "action_point": "중동 리스크 완화에 따른 유가 하락 가능성을 고려하여 에너지 섹터 비중 축소를 검토하고, 항공/운송 등 유가 하락 수혜주를 주시하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "\"미군 수뇌부, 이란 전쟁 출구전략 모색 중\" - asiae.co.kr",
-    "title_ko": "미군 수뇌부, 이란 전쟁 출구전략 모색 중",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WazNqRS1DSDhaWDlkMXJfcjJyZnMwbkIycEo3bkY4bUN2d1JLb09MVGR2VFRFQjlOOFZick9uVEExM2pHOUxBVTNON2JIWjA1WG15VkxaTS1DNVpGYUdFSw?oc=5",
-    "published": "Sat, 08 Aug 2026 06:27:47 GMT",
-    "fetched_at": "2026-08-08 16:41:57",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "해운",
-      "방위산업",
-      "글로벌 경제"
-    ],
-    "keywords": [
-      "이란",
-      "미군",
-      "출구전략",
-      "지정학",
-      "중동",
-      "유가"
-    ],
-    "reason": "미군이 이란 전쟁의 출구전략을 모색한다는 보도는 중동 지역의 지정학적 긴장 완화 가능성을 시사하며, 이는 유가 하방 압력으로 작용하고 글로벌 시장의 위험 선호 심리를 회복시킬 수 있습니다.",
-    "action_point": "중동발 지정학적 리스크 완화와 유가 하락 가능성에 대비하여 에너지 관련 자산 비중을 조정하고 위험자산 편입을 검토하라."
   }
 ]
