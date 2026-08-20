@@ -2,6 +2,53 @@
   {
     "source": "GoogleNews_Korea",
     "market": "KR",
+    "title": "김여정 \"전쟁놀이 못하게 된 서울의 가긍한 처지\"…조롱·막말(종합) - 연합뉴스",
+    "title_ko": "김여정 \"전쟁놀이 못하게 된 서울의 가긍한 처지\"…조롱·막말(종합)",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PQlhXanZVZXhPUzRGMkgwTnNQRGxwQ2lzVDFnZnp5ZUxUQldtU003eFpueWZrN01wb1BHZjZiRmZPT0RzTUFpN0VoMFY2M29kN283V19ZMW1VaXfSAWBBVV95cUxPZFhuYk52aUtkY3BnVWkxUDBqQ1JoaGR5RjZzXzZjOG5KRkpMS19JTHBRWnQzRDdreThfUXRsd1dfZ2luSURxanRINkJfMlREUklZby1Nb1hCZnZNR3ZfYlc?oc=5",
+    "published": "Thu, 20 Aug 2026 13:28:20 GMT",
+    "fetched_at": "2026-08-21 05:18:34",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "방산",
+      "관광"
+    ],
+    "keywords": [
+      "김여정",
+      "북한",
+      "남북관계",
+      "지정학적 리스크",
+      "대남 비난"
+    ],
+    "reason": "김여정의 강도 높은 대남 비난 담화는 남북 간 긴장감을 고조시키며 지정학적 리스크에 대한 투자 심리를 위축시킬 수 있습니다. 다만, 실제 무력 도발이 아닌 수사적 공세이므로 즉각적인 시장 영향은 제한적일 가능성이 큽니다.",
+    "action_point": "원/달러 환율의 단기 변동성 확대 가능성에 대비하여 달러 자산 비중을 점검하십시오."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Meta shares seem cheap, but the charts are showing an ominous sign, says Jay Woods",
+    "title_ko": "메타 주식은 저렴해 보이지만 차트에서 불길한 징후가 나타나고 있다고 제이 우즈가 말한다",
+    "link": "https://www.cnbc.com/2026/08/20/meta-shares-seem-cheap-but-the-charts-are-showing-an-ominous-sign-says-jay-woods.html",
+    "published": "Thu, 20 Aug 2026 17:00:01 GMT",
+    "fetched_at": "2026-08-21 05:18:19",
+    "sentiment": "악재",
+    "importance": 2,
+    "sectors": [
+      "기술",
+      "소셜 미디어"
+    ],
+    "keywords": [
+      "메타",
+      "기술주",
+      "차트 분석",
+      "소셜 미디어"
+    ],
+    "reason": "메타 주식이 펀더멘털상 저평가되어 보이나 차트 분석에서 부정적인 신호가 감지되어 단기 하방 압력이 있을 수 있음을 시사한다. 이는 기술 섹터 전반에 대한 투자 심리 위축으로 이어질 가능성이 있다.",
+    "action_point": "메타 주식 및 유사 대형 기술주에 대한 단기 투자 비중 축소를 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
     "title": "[속보] 김여정, UFS훈련 축소에 \"전쟁놀이 못하게된 서울…가긍한 처지\" - 연합뉴스TV",
     "title_ko": "[속보] 김여정, UFS훈련 축소에 \"전쟁놀이 못하게된 서울…가긍한 처지\" - 연합뉴스TV",
     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02TEZiM3V3R0VKckdXSXp4a0ZqUjhpakx4akQ2WHdpZjNOeUpFeWp5eHBiNnNSdVhzVFNGWFMwM2Q4cEtiSmZJSF9LVktTYzRMcS1ySWplZm1BSWliM2d6RUhOU2RVZEU?oc=5",
@@ -2898,55 +2945,5 @@
     ],
     "reason": "미국-이란 전쟁 가능성 및 사우디-튀르키예-파키스탄의 공동 방위 조약은 중동 지역의 지정학적 리스크를 극도로 고조시키며, 이는 국제 유가 급등과 글로벌 경제 불확실성 증폭으로 이어질 수 있습니다.",
     "action_point": "중동 지정학적 리스크 심화에 대비하여 원유 관련 자산 비중을 확대하고, 전반적인 위험 자산 비중을 축소하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Trump administration to invest $3 billion in minerals projects to boost U.S. defense supply chains",
-    "title_ko": "트럼프 행정부, 미국 국방 공급망 강화를 위해 광물 프로젝트에 30억 달러 투자",
-    "link": "https://www.cnbc.com/2026/08/08/trump-admin-to-invest-3-billion-in-defense-linked-minerals-projects.html",
-    "published": "Sat, 08 Aug 2026 06:28:46 GMT",
-    "fetched_at": "2026-08-08 16:41:25",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "핵심 광물",
-      "방위산업"
-    ],
-    "keywords": [
-      "핵심 광물",
-      "국방 공급망",
-      "미국-중국 갈등",
-      "희토류",
-      "전략 물자"
-    ],
-    "reason": "미국이 국방력 강화를 위해 핵심 광물 확보에 대규모 투자를 단행하며 중국 의존도를 줄이려는 전략을 보여준다. 이는 관련 광물 채굴 및 방위 산업에 긍정적이며, 글로벌 공급망 재편을 가속화할 것이다.",
-    "action_point": "핵심 광물 채굴 및 가공 기업과 미국 방위 산업 관련 기업의 장기 투자 매력도를 재평가하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "미군, 이란전쟁 출구전략 검토…공습 한계에 탄약도 부족 - 경향신문",
-    "title_ko": "미군, 이란전쟁 출구전략 검토…공습 한계에 탄약도 부족",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObi1LcG5ZTGhfY2VoZHRBQnpTS1NKeHF4eE8xb0lhMEhMcGFGSUt0RlpGY0lZdG1qZ0pNRklpUEhmNjJhaDJ5X1dfczZZbklMYTQ5SVA5aktIQmRwbDJxLTAwaFZGYVotMGdBZGxpSDZhMHd3dHZaM1kyZ3RreTctSk84eHhEQUpHWU8xZFNPREdGaGwxT29ORHZwdW9CWUU5MzRydHRWc2hXZ9IBX0FVX3lxTE9mYWdXRzJVNW9kd2Y2dkdaczZTOEI1Z3JTSWo4MTJQRFRrTnJBNTVOUThPaXVmVHJYNWFPSXAzX3ExRHVJQUpUR2NIUEdWQXI5d01ENWF4eXFsOUpPZ0ZN?oc=5",
-    "published": "Sat, 08 Aug 2026 06:56:00 GMT",
-    "fetched_at": "2026-08-08 16:41:50",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "방산",
-      "항공/운송"
-    ],
-    "keywords": [
-      "미군",
-      "이란",
-      "전쟁",
-      "출구전략",
-      "지정학",
-      "유가"
-    ],
-    "reason": "미군이 이란전쟁 출구전략을 검토한다는 소식은 중동 지정학적 리스크 완화 기대를 높여 유가 하락 압력으로 작용할 수 있으며, 이는 글로벌 경제 불확실성 감소와 소비 회복에 긍정적이다.",
-    "action_point": "중동 리스크 완화에 따른 유가 하락 가능성을 고려하여 에너지 섹터 비중 축소를 검토하고, 항공/운송 등 유가 하락 수혜주를 주시하라."
   }
 ]
