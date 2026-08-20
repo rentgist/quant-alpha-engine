@@ -1,5 +1,375 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "트럼프, 이란에 '최대 경제 전쟁' 선포...이란 \"국제법 위반\" - YTN",
+    "title_ko": "트럼프, 이란에 '최대 경제 전쟁' 선포...이란 \"국제법 위반\"",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE16R09vSko5MWx3OGpGcDZCc3FwY2JINU1ZVjFQVFlqZFlYVWpManpDMzdBQmVST3ZRRUZlVTk0NmlPZC1SbVpvb1VZbHByZWFCRDk0dU9MMXNESE5lWlE?oc=5",
+    "published": "Thu, 20 Aug 2026 04:36:00 GMT",
+    "fetched_at": "2026-08-20 16:37:29",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "원유/에너지",
+      "방산",
+      "해운",
+      "정유/화학",
+      "글로벌 증시"
+    ],
+    "keywords": [
+      "트럼프",
+      "이란",
+      "경제 전쟁",
+      "지정학적 리스크",
+      "유가"
+    ],
+    "reason": "트럼프의 이란에 대한 '최대 경제 전쟁' 선포는 중동의 지정학적 불안정성을 극도로 고조시키며, 이란산 원유 공급 차질 우려를 증대시켜 국제 유가 상승 압력으로 작용할 것입니다. 이는 글로벌 경기 둔화 가능성과 함께 금융 시장의 불확실성을 심화시킬 것입니다.",
+    "action_point": "원유 관련 헤지 포지션 구축을 검토하고, 지정학적 리스크에 민감한 자산의 비중을 축소하십시오."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Bitcoin, ether surge as Trump urges Congress to pass crypto Clarity Act",
+    "title_ko": "비트코인, 이더리움 급등, 트럼프 의회에 암호화폐 명확성 법안 통과 촉구",
+    "link": "https://www.cnbc.com/2026/08/20/cryptocurrencies-trump-bitcoin-ethereum.html",
+    "published": "Thu, 20 Aug 2026 05:29:50 GMT",
+    "fetched_at": "2026-08-20 16:33:29",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "암호화폐"
+    ],
+    "keywords": [
+      "비트코인",
+      "이더리움",
+      "트럼프",
+      "암호화폐 규제",
+      "법안"
+    ],
+    "reason": "트럼프의 암호화폐 규제 명확화 법안 촉구는 시장 불확실성을 해소하고 제도권 투자자들의 유입을 가속화하여 암호화폐 시장 전반에 긍정적인 영향을 미칠 수 있습니다.",
+    "action_point": "암호화폐 자산 및 블록체인 관련 기술 기업에 대한 투자 비중 확대를 검토하십시오."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "CNBC Daily Open: Trump bemoans 'ridiculous rates'",
+    "title_ko": "CNBC 데일리 오픈: 트럼프, '터무니없는 금리' 한탄",
+    "link": "https://www.cnbc.com/2026/08/20/daily-open-trump-interest-rates.html",
+    "published": "Thu, 20 Aug 2026 06:22:22 GMT",
+    "fetched_at": "2026-08-20 16:35:23",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "금융",
+      "에너지",
+      "기술",
+      "방산",
+      "부동산"
+    ],
+    "keywords": [
+      "트럼프",
+      "금리",
+      "이란",
+      "경제 전쟁",
+      "암호화폐 규제",
+      "지정학적 리스크",
+      "통화 정책"
+    ],
+    "reason": "트럼프 대통령의 금리 인하 압박은 시장에 완화적 통화 정책 기대감을 줄 수 있으나, 이란에 대한 경제 전쟁 선포는 지정학적 긴장을 고조시켜 유가 상승 및 전반적인 시장 불확실성을 증폭시킬 수 있습니다.",
+    "action_point": "유가 변동성 및 중동 지정학적 리스크에 대비하여 에너지 관련 익스포저를 점검하고 안전자산 비중 확대를 고려하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "트럼프 \"대이란 경제작전 나설것…이란 돕는 나라는 불이익\" - JTBC",
+    "title_ko": "트럼프 \"대이란 경제작전 나설것…이란 돕는 나라는 불이익\"",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Ib0IyRVhDbng5UzhfcWlON25vUG1YMzBFMlJNd1k0cWRYZlZuZTlERmJmeU9fei1FSkYyM29ETnE2MVVlRVZZREFGVHVGWlY1ZElSQg?oc=5",
+    "published": "Wed, 19 Aug 2026 23:26:00 GMT",
+    "fetched_at": "2026-08-20 16:36:52",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "원자재",
+      "해운/물류",
+      "정유/화학",
+      "방산"
+    ],
+    "keywords": [
+      "트럼프",
+      "이란",
+      "경제 제재",
+      "지정학",
+      "원유",
+      "중동"
+    ],
+    "reason": "트럼프의 대이란 경제작전 발언은 중동 지정학적 리스크를 심화시키고, 국제 유가 변동성 확대를 야기하여 글로벌 공급망 및 에너지 시장에 부정적 영향을 미칠 수 있습니다.",
+    "action_point": "중동 지정학적 리스크 심화 및 국제 유가 변동성 확대에 대비하여 원유 관련 자산 또는 방산 섹터 편입을 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Nvidia plays matchmaker in Nordics, sources tell CNBC, as AI data center deals boom in region",
+    "title_ko": "엔비디아, 북유럽 AI 데이터센터 붐 속 GPU 고객과 운영자 연결 중재",
+    "link": "https://www.cnbc.com/2026/08/19/nvidia-nordic-ai-data-centers.html",
+    "published": "Wed, 19 Aug 2026 14:25:12 GMT",
+    "fetched_at": "2026-08-20 16:33:38",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "반도체",
+      "데이터센터",
+      "IT 인프라"
+    ],
+    "keywords": [
+      "엔비디아",
+      "AI",
+      "데이터센터",
+      "북유럽",
+      "GPU",
+      "인프라"
+    ],
+    "reason": "엔비디아가 북유럽 AI 데이터센터 구축을 중재하며 AI 인프라 투자 확대를 가속화하고, 관련 반도체 및 데이터센터 섹터의 성장 모멘텀을 강화할 것입니다.",
+    "action_point": "AI 반도체 및 데이터센터 관련주에 대한 투자 비중 유지 또는 확대 검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[속보] SK하이닉스 성과급, ‘현금 40%·자사주 40%·이연금 20%’ - 중앙일보",
+    "title_ko": "SK하이닉스 성과급, ‘현금 40%·자사주 40%·이연금 20%’",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzckduSFp0R0xXQ1hqS1FWazFCYUU0aWJKMkFiVElqdjFTXzFMOGVHZFRLWVA3bG0td3FLNE82RGM4S25mVk5iTFV5WXJCRDN0N3FFRXBB?oc=5",
+    "published": "Thu, 20 Aug 2026 05:08:33 GMT",
+    "fetched_at": "2026-08-20 16:35:57",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "반도체",
+      "IT/기술"
+    ],
+    "keywords": [
+      "SK하이닉스",
+      "성과급",
+      "자사주",
+      "반도체"
+    ],
+    "reason": "SK하이닉스의 성과급에 자사주 40%가 포함되어 임직원 동기 부여에는 긍정적이나, 향후 임직원 매도 시 잠재적인 시장 매도 물량 출회로 주가에 단기적 변동성을 줄 수 있습니다.",
+    "action_point": "SK하이닉스 주식에 대한 신규 매수를 보류하고, 기존 보유자는 단기적인 수급 변동 가능성에 대비하여 포지션을 재검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "\"미군, 이란전쟁 이후 757명 부상·18명 전사\" - 연합뉴스TV",
+    "title_ko": "미군, 이란전쟁 이후 757명 부상·18명 전사",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YWEdRSHdSNzA1WVhCSXJ1N0dLN0FURVBBNGIyajlHb0lXdFd5Q3JhSFdzUWw2ZU96X3VacG13RXV1bjNUWlJ1MlNxb2hubllrUWdNVmd0aVVETVhiamMzYVRSdGEzeGc?oc=5",
+    "published": "Thu, 20 Aug 2026 07:06:00 GMT",
+    "fetched_at": "2026-08-20 16:37:20",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "에너지",
+      "방산",
+      "원자재"
+    ],
+    "keywords": [
+      "미군",
+      "이란",
+      "중동",
+      "지정학",
+      "유가",
+      "전쟁"
+    ],
+    "reason": "이 기사는 과거 이란 관련 분쟁의 인명 피해를 보고하며 중동 지역의 지정학적 불안정성이 여전히 상존함을 상기시킨다. 이는 국제 유가 변동성 확대 가능성과 전반적인 투자 심리에 부정적 영향을 미 줄 수 있다.",
+    "action_point": "중동 지정학적 리스크 지속에 대비하여 에너지 및 방산 섹터 비중을 유지하고 유가 변동성 확대에 주목하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "AI 개발에 개인정보 활용 특례 신설…‘개인정보보호법’ 개정안 국회 통과",
+    "title_ko": "AI 개발에 개인정보 활용 특례 신설…‘개인정보보호법’ 개정안 국회 통과",
+    "link": "https://www.mk.co.kr/news/it/12132373",
+    "published": "Thu, 20 Aug 2026 16:25:42 +09:00",
+    "fetched_at": "2026-08-20 16:37:43",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "인공지능",
+      "IT",
+      "데이터",
+      "보안"
+    ],
+    "keywords": [
+      "개인정보보호법",
+      "AI 개발",
+      "데이터 활용",
+      "규제 개선"
+    ],
+    "reason": "개인정보 활용 특례 신설로 국내 AI 개발 및 데이터 산업 성장에 긍정적 요인이 되며, 관련 기업들의 사업 확장 기회를 제공합니다. 규제 불확실성 감소와 함께 데이터 활용의 폭이 넓어질 것입니다.",
+    "action_point": "국내 AI 기술 개발 및 데이터 솔루션 관련 기업의 투자 비중 확대를 검토하십시오."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "HUG “보증금 떼일 걱정 없는 전세 살며 주거 비용 낮추세요”",
+    "title_ko": "HUG “보증금 떼일 걱정 없는 전세 살며 주거 비용 낮추세요”",
+    "link": "https://www.mk.co.kr/news/realestate/12132369",
+    "published": "Thu, 20 Aug 2026 16:20:49 +09:00",
+    "fetched_at": "2026-08-20 16:38:18",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "부동산",
+      "금융"
+    ],
+    "keywords": [
+      "HUG",
+      "전세",
+      "보증금",
+      "부동산 정책",
+      "주거 안정"
+    ],
+    "reason": "새로운 전세 계약 방식 도입은 임차인의 보증금 미반환 위험을 낮추고 주거비용 안정화를 통해 가계 재정 부담을 완화하며, 국내 전세 시장의 구조적 안정성을 제고할 것으로 예상된다.",
+    "action_point": "국내 임대 부동산 투자 포트폴리오의 리스크와 수익성을 재평가하고, 전세 관련 금융권 익스포저를 점검하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "CJ 이재현 회장·이미경 부회장, 그레인지 UMG 회장과 회동",
+    "title_ko": "CJ 이재현 회장·이미경 부회장, 그레인지 UMG 회장과 회동",
+    "link": "https://www.mk.co.kr/news/culture/12132368",
+    "published": "Thu, 20 Aug 2026 16:20:38 +09:00",
+    "fetched_at": "2026-08-20 16:38:25",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "엔터테인먼트",
+      "콘텐츠"
+    ],
+    "keywords": [
+      "CJ",
+      "UMG",
+      "KCON",
+      "K컬처",
+      "엔터테인먼트",
+      "음악"
+    ],
+    "reason": "세계 최대 음악기업과의 회동은 K-컬처 콘텐츠의 글로벌 성장 잠재력을 시사하며, 관련 기업들의 해외 시장 확장 기회를 확대할 수 있습니다.",
+    "action_point": "K-콘텐츠 관련 기업 포트폴리오 비중 확대 검토"
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[속보]오세훈 “용산공원 주택공급 동의하면 역사의 죄인으로 남는 것” - 경향신문",
+    "title_ko": "[속보]오세훈 “용산공원 주택공급 동의하면 역사의 죄인으로 남는 것”",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE14aUFqYU1scnV0QWRaMm5iWGFTWFZCLXVub1R2eFFxS2YybElDVUxzR2VBNnEzWGVnZHRwVkQ1bkV6WGVMZmQzeXZlQ1lIWVFFeWV3NkM4c1BBQdIBX0FVX3lxTE5aOFo4RjAxS1FEZUEyY2FKb3c0S1daaGhOMFVJc28wbVA2cUZPOHFZUnF0RjRtWDFFQWJoQnc2TXdWTVBrcXZrTEJFQlVZV2YxYUxUb0g2b011TmpZUV80?oc=5",
+    "published": "Thu, 20 Aug 2026 06:40:00 GMT",
+    "fetched_at": "2026-08-20 16:37:06",
+    "sentiment": "악재",
+    "importance": 2,
+    "sectors": [
+      "부동산",
+      "건설"
+    ],
+    "keywords": [
+      "오세훈",
+      "용산공원",
+      "주택공급",
+      "부동산 정책"
+    ],
+    "reason": "오세훈 서울시장의 강력한 용산공원 주택공급 반대 입장은 서울 시내 주요 지역의 주택 공급 확대가 어렵다는 점을 재확인시키며, 국내 건설 및 부동산 개발 섹터의 불확실성을 가중시킨다.",
+    "action_point": "서울 주요 지역 주택 공급 확대 제한 기조에 따라 국내 건설 및 부동산 개발 관련 신규 투자에 보수적 접근 유지."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "서울 심야 '반딧불이버스' 다닌다…오세훈 \"24시간 경제도시로\" - 연합뉴스",
+    "title_ko": "서울 심야 '반딧불이버스' 다닌다…오세훈 \"24시간 경제도시로\"",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE92MTF1cmVhNWlWLVktbW5GNWFsMnhFS0hxaTJTTDFiOXlnVE5WWE1lTDFRZUtkTVhZbjhvZFVRZ0ItNlhDVjNJYkdRWVR6QlpFNVNyWmJNQUszLWdVSTg4T9IBYEFVX3lxTE92MTF1cmVhNWlWLVktbW5GNWFsMnhFS0hxaTJTTDFiOXlnVE5WWE1lTDFRZUtkTVhZbjhvZFVRZ0ItNlhDVjNJYkdRWVR6QlpFNVNyWmJNQUszLWdVSTg4Tw?oc=5",
+    "published": "Thu, 20 Aug 2026 02:09:16 GMT",
+    "fetched_at": "2026-08-20 16:37:35",
+    "sentiment": "호재",
+    "importance": 2,
+    "sectors": [
+      "서비스업",
+      "유통업"
+    ],
+    "keywords": [
+      "서울",
+      "심야버스",
+      "24시간 경제",
+      "생활편의"
+    ],
+    "reason": "서울시의 심야버스 확대는 심야 경제활동을 촉진하여 서비스 및 유통업 매출 증대에 기여할 수 있으나, 전반적인 거시경제나 대형 투자 자산에 미치는 영향은 제한적이다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "롯데관광개발, 제주 드림타워에 ‘이미스’ 첫 매장 선보여",
+    "title_ko": "롯데관광개발, 제주 드림타워에 ‘이미스’ 첫 매장 선보여",
+    "link": "https://www.mk.co.kr/news/business/12132370",
+    "published": "Thu, 20 Aug 2026 16:21:21 +09:00",
+    "fetched_at": "2026-08-20 16:38:03",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "관광",
+      "유통/소매"
+    ],
+    "keywords": [
+      "롯데관광개발",
+      "제주 드림타워",
+      "이미스",
+      "K패션",
+      "제주 관광"
+    ],
+    "reason": "롯데관광개발의 제주 드림타워 내 신규 매장 오픈은 개별 기업의 리테일 매출 증대 및 제주 지역 관광 콘텐츠 강화를 시사하나, 거시 경제나 광범위한 투자 자산에 미치는 영향은 제한적이다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "“보험금 벌써 들어왔네”…AI활용·자동심사로 지급 속도 빨라진다",
+    "title_ko": "“보험금 벌써 들어왔네”…AI활용·자동심사로 지급 속도 빨라진다",
+    "link": "https://www.mk.co.kr/news/economy/12132367",
+    "published": "Thu, 20 Aug 2026 16:19:28 +09:00",
+    "fetched_at": "2026-08-20 16:38:34",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "보험",
+      "IT 서비스"
+    ],
+    "keywords": [
+      "AI",
+      "자동 심사",
+      "보험금 지급",
+      "소비자 보호"
+    ],
+    "reason": "보험사들의 AI 활용 및 자동 심사 도입은 보험금 지급 프로세스의 효율성을 높이고 소비자 만족도를 개선하여, 장기적으로 업계의 운영 비용 절감에 기여할 수 있다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "이 대통령 “임기 440일 지나, 다시 심기일전” vs 국힘 “4년 더 맡겨도 되나”",
+    "title_ko": "이 대통령 “임기 440일 지나, 다시 심기일전” vs 국힘 “4년 더 맡겨도 되나”",
+    "link": "https://www.mk.co.kr/news/politics/12132363",
+    "published": "Thu, 20 Aug 2026 16:15:35 +09:00",
+    "fetched_at": "2026-08-20 16:38:43",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "해당 없음"
+    ],
+    "keywords": [
+      "이재명",
+      "국정 운영",
+      "정치",
+      "국민의힘"
+    ],
+    "reason": "대통령의 집권 2년차 국정 운영 다짐과 야당의 비판이 주요 내용으로, 현 정치적 상황을 반영하나 시장에 직접적 영향을 미칠 정책 변화나 경제 지표를 포함하지 않는다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "Trump scaling down U.S.-South Korea drills risks more than just joint military readiness",
@@ -2576,371 +2946,5 @@
     ],
     "reason": "세계 식량가격지수가 3년 반 만에 최고치를 기록하며 전반적인 물가 상승 압력이 지속될 것임을 시사합니다. 이는 글로벌 중앙은행의 긴축 기조 유지 가능성과 소비자의 구매력 감소로 이어질 수 있습니다.",
     "action_point": "물가 상승 압력 장기화에 대비하여 인플레이션 헤지 자산 편입 검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "폭염·전쟁에…세계 식량가격지수 3년반 만에 최고 수준 - yonhapnewstv.co.kr",
-    "title_ko": "폭염·전쟁에…세계 식량가격지수 3년반 만에 최고 수준",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5BVVNXMzM3Q3VUczJIeEFXNnE5ZzlrZ0I0YWdHb0VtaG5ObVV6Qkc2XzlJLU42WDhDTXI1T2stQ3NoTm82RjRfQnNxOU1ONWhwcG1WS2todHQ2VHJRQzJ2b01jS0R0NEk?oc=5",
-    "published": "Fri, 07 Aug 2026 14:05:00 GMT",
-    "fetched_at": "2026-08-08 01:42:24",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "식품/음료",
-      "유통",
-      "농업",
-      "소비재"
-    ],
-    "keywords": [
-      "식량가격지수",
-      "인플레이션",
-      "폭염",
-      "전쟁",
-      "원자재"
-    ],
-    "reason": "지정학적 갈등과 기후변화로 인한 식량가격지수 상승은 전 세계적인 인플레이션 압력을 가중시키고 고금리 기조를 장기화할 가능성이 높습니다. 이는 한국의 물가 상승 및 소비 심리 위축으로 이어질 수 있습니다.",
-    "action_point": "식품 물가 상승에 따른 인플레이션 장기화에 대비하여 필수소비재 섹터 비중 확대를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "U.S. economy unexpectedly lost 23,000 jobs in July",
-    "title_ko": "미국 경제, 7월 예상치 못한 2만 3천개 일자리 감소",
-    "link": "https://www.cnbc.com/2026/08/07/jobs-report-july-2026.html",
-    "published": "Fri, 07 Aug 2026 13:40:19 GMT",
-    "fetched_at": "2026-08-08 00:44:53",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "소비재",
-      "금융",
-      "산업재",
-      "기술주"
-    ],
-    "keywords": [
-      "미국 고용",
-      "경기 둔화",
-      "연준 통화정책",
-      "금리 인하 기대"
-    ],
-    "reason": "예상치 못한 고용 감소는 미국 경제 둔화 신호로, 연준의 금리 인상 속도 조절 또는 향후 인하 가능성에 대한 기대를 높여 주식 시장 전반에 단기 변동성을 유발할 수 있습니다. 특히 소비 감소로 이어져 기업 실적에 부정적 영향을 미칠 수 있습니다.",
-    "action_point": "경기 둔화 우려로 인해 위험자산 비중을 축소하고 장기 국채와 같은 안전자산의 투자 매력을 재검토."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "“SNS 중독된 우리 아이, 책임져라”...메타, 벌금 ‘1조원’ 낸다",
-    "title_ko": "“SNS 중독된 우리 아이, 책임져라”...메타, 벌금 ‘1조원’ 낸다",
-    "link": "https://www.mk.co.kr/news/world/12121494",
-    "published": "Fri, 07 Aug 2026 23:16:44 +09:00",
-    "fetched_at": "2026-08-08 00:45:32",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "소셜 미디어",
-      "빅테크",
-      "광고 기술"
-    ],
-    "keywords": [
-      "메타",
-      "SNS 중독",
-      "벌금",
-      "규제",
-      "빅테크 소송"
-    ],
-    "reason": "메타에 대한 대규모 벌금 부과 및 운영 방식 변경 명령은 빅테크 기업 전반의 사용자 복지 관련 법적 리스크 증대와 규제 강화 추세를 시사하며, 이는 관련 기업의 투자 매력을 저해할 수 있습니다.",
-    "action_point": "글로벌 소셜 미디어 및 플랫폼 기업 비중 축소를 검토하고, 관련 규제 동향을 주시하십시오."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "미국 '마이너스 고용' 쇼크…9월 금리인상 제동 걸리나",
-    "title_ko": "미국 '마이너스 고용' 쇼크…9월 금리인상 제동 걸리나",
-    "link": "https://www.mk.co.kr/news/world/12121493",
-    "published": "Fri, 07 Aug 2026 23:14:10 +09:00",
-    "fetched_at": "2026-08-08 00:45:41",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "기술주",
-      "성장주",
-      "부동산",
-      "채권"
-    ],
-    "keywords": [
-      "미국 고용",
-      "비농업 일자리",
-      "금리 인상",
-      "연방준비제도",
-      "경기 둔화"
-    ],
-    "reason": "미국 7월 고용 감소는 연준의 9월 금리 인상 가능성을 낮춰 글로벌 유동성 긴축 완화 기대감을 높이고 위험자산 선호를 강화할 수 있다. 이는 고금리 환경에서 압박받던 성장주와 기술주에 긍정적이다.",
-    "action_point": "미국 금리 인상 사이클 완화 기대에 따른 기술주 및 성장주 비중 확대 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Shares of this digital medical platform jumped more than 100% overnight. Here’s why",
-    "title_ko": "한 디지털 의료 플랫폼 주식, 밤새 100% 이상 폭등. 이유는?",
-    "link": "https://www.cnbc.com/2026/08/07/doximity-shares-double-heres-whats-driving-it-.html",
-    "published": "Fri, 07 Aug 2026 15:06:40 GMT",
-    "fetched_at": "2026-08-08 00:45:01",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "디지털 헬스케어",
-      "인공지능(AI)"
-    ],
-    "keywords": [
-      "디지털 헬스케어",
-      "AI 검색",
-      "수익성 잠재력",
-      "시장 확대"
-    ],
-    "reason": "AI 검색 기술 발전이 디지털 헬스케어 플랫폼의 수익성 개선과 시장 확대를 이끌며 관련 기업 가치 상승에 대한 기대감을 높였다. 이는 특정 섹터 내 혁신 가속화 시그널로 해석될 수 있다.",
-    "action_point": "디지털 헬스케어 및 AI 관련 기업 중 성장 잠재력이 높은 종목 발굴을 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Private equity is circling budget airlines after Apollo's EasyJet deal — and this carrier could be next",
-    "title_ko": "아폴로의 이지젯 인수 시도 이후 사모펀드들이 저가 항공사들을 노리고 있다 — 다음 타자는 이 항공사가 될 수도",
-    "link": "https://www.cnbc.com/2026/08/07/easyjet-apollo-private-equity-airlines-travel.html",
-    "published": "Fri, 07 Aug 2026 12:35:19 GMT",
-    "fetched_at": "2026-08-08 00:45:09",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "항공",
-      "운송"
-    ],
-    "keywords": [
-      "사모펀드",
-      "저가 항공사",
-      "M&A",
-      "기업 인수"
-    ],
-    "reason": "사모펀드의 저가 항공사 투자 움직임은 해당 섹터의 저평가 인식을 반영하며, M&A 활동 증가와 함께 관련 기업들의 주가 재평가 기회를 제공할 수 있다.",
-    "action_point": "저가 항공사 섹터 내 잠재적 M&A 대상 기업들의 가치 평가를 재검토하고 선별적으로 투자 기회를 모색하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Cassidy supports Todd Blanche, rescuing Trump's embattled attorney general pick",
-    "title_ko": "캐시디, 트럼프의 난항 겪는 법무장관 지명자 토드 블랑슈 지지",
-    "link": "https://www.cnbc.com/2026/08/07/blanche-ag-trump-cassidy-senate-confirmation.html",
-    "published": "Fri, 07 Aug 2026 15:27:00 GMT",
-    "fetched_at": "2026-08-08 00:45:20",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [],
-    "keywords": [
-      "토드 블랑슈",
-      "법무장관",
-      "트럼프",
-      "미국 정치",
-      "인준"
-    ],
-    "reason": "미국 법무장관 지명자의 인준 절차 진행 소식으로, 미국 국내 정치적 안정성에 기여할 수 있으나, 글로벌 금융시장의 거시경제적 변동성에는 직접적인 영향이 미미합니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Odds the Fed will hike in September tumble following big July jobs miss",
-    "title_ko": "예상 하회 7월 고용 지표 발표 후 9월 연준 금리 인상 가능성 급락",
-    "link": "https://www.cnbc.com/2026/08/07/odds-the-fed-hikes-in-september-tumble-following-big-july-jobs-miss.html",
-    "published": "Fri, 07 Aug 2026 13:34:44 GMT",
-    "fetched_at": "2026-08-07 23:06:00",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "기술주",
-      "성장주",
-      "부동산",
-      "채권"
-    ],
-    "keywords": [
-      "연준",
-      "금리 인상",
-      "고용 지표",
-      "긴축 완화"
-    ],
-    "reason": "7월 고용 지표가 예상치를 하회하면서 연준의 9월 금리 인상 가능성이 낮아졌다. 이는 긴축 우려를 완화하고 주식 등 위험 자산에 긍정적으로 작용하며 채권 가격 상승 요인으로 작용할 수 있다.",
-    "action_point": "미국 장기채 및 성장주/기술주 비중 확대 검토"
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Stocks making the biggest moves premarket: Atlassian Corporation, Doximity, First Solar, Airbnb & more",
-    "title_ko": "개장 전 가장 큰 움직임을 보이는 주식: 아틀라시안, 독시미티, 퍼스트 솔라, 에어비앤비 외",
-    "link": "https://www.cnbc.com/2026/08/07/stocks-making-the-biggest-moves-premarket-atlassian-corporation-wendys-vista-corp-first-solar-airbnb-more.html",
-    "published": "Fri, 07 Aug 2026 13:23:35 GMT",
-    "fetched_at": "2026-08-07 23:06:09",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "기술",
-      "재생에너지",
-      "여행"
-    ],
-    "keywords": [
-      "개장 전",
-      "개별 주식",
-      "아틀라시안",
-      "독시미티",
-      "퍼스트 솔라",
-      "에어비앤비"
-    ],
-    "reason": "이 기사는 개장 전 개별 기업들의 주가 움직임을 단순 나열할 뿐, 특정 섹터나 거시경제 전반에 영향을 미칠 만한 구체적인 배경 정보나 동향을 제공하지 않습니다. 따라서 거시경제적 영향은 미미합니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "China is gaining ground in AI. But the U.S. still has a major advantage",
-    "title_ko": "중국, AI 분야에서 약진하나 미국은 여전히 주요 우위 보유",
-    "link": "https://www.cnbc.com/2026/08/07/china-us-ai-race-hugging-face-models.html",
-    "published": "Fri, 07 Aug 2026 11:19:21 GMT",
-    "fetched_at": "2026-08-07 20:38:52",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "인공지능(AI)",
-      "반도체",
-      "소프트웨어",
-      "클라우드 컴퓨팅"
-    ],
-    "keywords": [
-      "인공지능",
-      "미중 기술 경쟁",
-      "반도체",
-      "소프트웨어",
-      "기술 격차"
-    ],
-    "reason": "중국의 AI 기술 발전은 미중 기술 경쟁을 심화시키며 AI 관련 산업 전반의 투자 심리를 유지시킬 것입니다. 이는 AI 분야의 지속적인 혁신과 성장을 시사합니다.",
-    "action_point": "미국 AI 기술 선도 기업 및 관련 인프라(반도체 등) 기업에 대한 투자 비중을 유지하거나 확대하는 전략을 검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[속보] 카카오 노사 올해 임금협약 최종 타결…연봉 6.3% 인상 - JTBC",
-    "title_ko": "[속보] 카카오 노사 올해 임금협약 최종 타결…연봉 6.3% 인상",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Sd3BuVktZNnRZaWlvTkI5NXFmRVpseEJWcnRUOXdaajZTbW51NEVIaUhnMUloaWdvdXQ4T25ScnhfT1R2RnNEREtLcU13dmZ5dkg1Tw?oc=5",
-    "published": "Fri, 07 Aug 2026 07:20:00 GMT",
-    "fetched_at": "2026-08-07 20:39:04",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "IT/플랫폼"
-    ],
-    "keywords": [
-      "카카오",
-      "임금협약",
-      "연봉 인상",
-      "노사"
-    ],
-    "reason": "카카오의 연봉 6.3% 인상은 인건비 상승으로 단기적으로 수익성에 소폭 부담을 줄 수 있으나, 노사 관계 안정화로 불확실성이 해소된 점은 긍정적입니다. 시장 전반의 매크로 영향은 제한적입니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Yen rally fades a week after U.S.-Japan intervention as focus shifts to policy",
-    "title_ko": "미일 개입 일주일 만에 엔화 강세 꺾여, 정책에 초점 이동",
-    "link": "https://www.cnbc.com/2026/08/07/us-japan-intervention-yen-unwinds-gains.html",
-    "published": "Fri, 07 Aug 2026 09:18:47 GMT",
-    "fetched_at": "2026-08-07 18:52:11",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "환율",
-      "금융",
-      "수출 관련주"
-    ],
-    "keywords": [
-      "엔화",
-      "환율",
-      "미일 개입",
-      "통화 정책"
-    ],
-    "reason": "미일 공조 개입 효과가 약화되며 엔화 약세 압력이 재차 커지고, 이는 일본 통화 정책의 한계와 주요국과의 금리 격차를 부각하여 환율 변동성을 심화시킬 것입니다.",
-    "action_point": "엔화 추가 약세 가능성에 대비하여 엔화 자산 비중을 축소하고, 엔 캐리 트레이드 기회를 주시하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "SK Hynix to invest $38 billion building new memory chip plants as demand soars",
-    "title_ko": "SK하이닉스, 수요 급증에 380억 달러 투자해 신규 메모리 반도체 공장 건설 예정",
-    "link": "https://www.cnbc.com/2026/08/07/sk-hynix-memory-chips-ai-prices.html",
-    "published": "Fri, 07 Aug 2026 09:02:59 GMT",
-    "fetched_at": "2026-08-07 18:52:17",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "반도체",
-      "기술주",
-      "반도체 장비"
-    ],
-    "keywords": [
-      "SK하이닉스",
-      "메모리 반도체",
-      "투자",
-      "수요",
-      "공급"
-    ],
-    "reason": "이번 투자는 메모리 반도체 시장의 강력한 수요와 공급 부족 현상을 명확히 보여주며, 글로벌 반도체 슈퍼 사이클의 지속 가능성을 강화합니다. 이는 관련 산업 전반에 긍정적인 영향을 미칠 것입니다.",
-    "action_point": "반도체 및 반도체 장비 섹터 비중 확대를 적극적으로 고려."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Treasury yields hold steady ahead of key nonfarm payrolls, jobless data",
-    "title_ko": "주요 비농업 고용 및 실업률 데이터 발표 앞두고 미 국채 수익률 보합세 유지",
-    "link": "https://www.cnbc.com/2026/08/07/treasury-yields-steady-ahead-of-key-nonfarm-payrolls-jobless-data.html",
-    "published": "Fri, 07 Aug 2026 08:44:07 GMT",
-    "fetched_at": "2026-08-07 18:52:29",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "금융",
-      "기술 성장주",
-      "부동산"
-    ],
-    "keywords": [
-      "미 국채 수익률",
-      "비농업 고용",
-      "실업률",
-      "고용시장"
-    ],
-    "reason": "미국 고용지표는 연준의 금리 결정에 핵심 변수이며, 이에 따라 글로벌 증시, 채권, 환율 등 자산 시장 전반에 큰 영향을 미칠 수 있어 시장이 관망세를 보이고 있다.",
-    "action_point": "금리 민감 주식 및 채권 비중을 점검하고, 미국 고용지표 발표 결과에 따른 포트폴리오 조정 계획을 수립하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "A 'weaponized' yen: How the U.S.-Japan intervention may reshape global currency markets",
-    "title_ko": "엔화의 '무기화': 미국-일본의 개입이 글로벌 외환 시장을 어떻게 재편할 수 있는가",
-    "link": "https://www.cnbc.com/2026/08/07/japan-us-yen-intervention-global-currency-markets.html",
-    "published": "Fri, 07 Aug 2026 00:05:26 GMT",
-    "fetched_at": "2026-08-07 17:07:57",
-    "sentiment": "중립",
-    "importance": 5,
-    "sectors": [
-      "외환",
-      "금융",
-      "수출"
-    ],
-    "keywords": [
-      "미국-일본 개입",
-      "엔화",
-      "외환 시장",
-      "환율 정책",
-      "시장 불안정"
-    ],
-    "reason": "미국과 일본의 전례 없는 엔화 지지 공동 개입은 글로벌 외환 시장의 변동성을 높이고 주요국 간 통화 정책 공조에 대한 재평가를 요구할 것입니다. 이는 엔화 강세 압력으로 작용하며, 달러화의 지위 및 기타 통화에 연쇄적인 영향을 줄 수 있습니다.",
-    "action_point": "엔화 관련 포지션의 환율 변동성 위험을 재평가하고, 글로벌 외환 시장의 달러화 추세 변화 가능성에 대비하라."
   }
 ]
