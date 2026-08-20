@@ -2,6 +2,84 @@
   {
     "source": "GoogleNews_Korea",
     "market": "KR",
+    "title": "“최대 압박” 외치던 트럼프의 새 “경제 전쟁”···제3국까지 제재 예고 - 경향신문",
+    "title_ko": "“최대 압박” 외치던 트럼프의 새 “경제 전쟁”···제3국까지 제재 예고",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHeGpzQlZyMU1FY2NWVHlRWDZlMmpBY1pQcVRwR0hnYjhpaGF6WnhlRDVERnFhaVRXVi1KbWxkZ2pNaG5GSm9FN2s5TXc0czl2c0dkajRhYk9rQdIBX0FVX3lxTE9RNXhybWwyeTl5LXNLUWNiWVRISTZYbFVncXNpa3N0dlhlTHdXVmVNVU5rMjBSMEwxMjg0ZWd6R3RVR1hsM1Rqc2FkZUc4ajNNMFhnQzhBdzFaWTB3bUhr?oc=5",
+    "published": "Thu, 20 Aug 2026 07:36:00 GMT",
+    "fetched_at": "2026-08-20 17:26:30",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "글로벌 무역/물류",
+      "IT/기술 (글로벌 공급망 의존)",
+      "제조업 (수출 중심)",
+      "원자재",
+      "해운/항공"
+    ],
+    "keywords": [
+      "트럼프",
+      "경제 전쟁",
+      "제재",
+      "제3국",
+      "글로벌 무역",
+      "지정학적 위험"
+    ],
+    "reason": "트럼프의 새로운 '경제 전쟁' 선포와 제3국 제재 예고는 글로벌 무역 환경의 불확실성을 극대화하며, 공급망 교란 및 국제 관계 악화를 초래할 수 있습니다. 이는 전반적인 세계 경제 성장 둔화 압력으로 작용하며 지정학적 리스크를 심화시킬 것입니다.",
+    "action_point": "대외 의존도가 높은 수출 및 글로벌 공급망 관련 섹터 비중 축소 검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "\"트럼프의 이란 상대 경제전쟁 성패, 아랍에미리트에 달려\" - MBC 뉴스",
+    "title_ko": "트럼프의 이란 상대 경제전쟁 성패, 아랍에미리트에 달려",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9SaDBJWXhuRnFreGpEaHpMUXdsQ05heFAyMlNjakhwTEJYNEsyVk9kNC14bjZDeE12RVRMYjRmQW5yMVpZNDJrTUh1VjVqaXJPdmZXMWNIak1fekpOWUlNS1BIRTd0dHZ3eHpTWkNBSDVSZmxt0gF0QVVfeXFMTlNYOG9wYVM3QTNRSWN2X0RuVUxQMkx1blRNZ2g1UXhrLTNmX1VNSU9VMVNENjAybS1GSEpNczF2VFJDTFY5TG82eU9FeTVYNzF1QWlhREZpdWtSdU9aQmhYNng0YmxqckZlQm1xTVRrMzluU0c?oc=5",
+    "published": "Thu, 20 Aug 2026 02:02:38 GMT",
+    "fetched_at": "2026-08-20 17:26:21",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "방산",
+      "운송"
+    ],
+    "keywords": [
+      "이란",
+      "지정학",
+      "유가",
+      "중동",
+      "경제전쟁"
+    ],
+    "reason": "미국의 대이란 경제 제재 강화 가능성을 시사하며 중동 지역 지정학적 불안정성 증대 및 유가 상승 압력으로 작용할 수 있습니다. 이는 글로벌 경제 불확실성을 높이는 요인입니다.",
+    "action_point": "유가 상승 가능성에 대비하여 에너지 섹터 및 방산 섹터 투자 비중 확대를 검토하십시오."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Singapore's Temasek is on a hot streak in India as three bets surge after IPOs",
+    "title_ko": "싱가포르 테마섹, 인도 시장에서 연이은 성공…3개 IPO 후 주가 급등",
+    "link": "https://www.cnbc.com/2026/08/20/singapore-temasek-india-foreign-shiprocket-milky-mist.html",
+    "published": "Thu, 20 Aug 2026 06:57:50 GMT",
+    "fetched_at": "2026-08-20 17:26:12",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "신흥국 투자",
+      "인도 주식 시장",
+      "투자 금융"
+    ],
+    "keywords": [
+      "싱가포르 테마섹",
+      "인도",
+      "IPO",
+      "성장 투자",
+      "신흥국"
+    ],
+    "reason": "싱가포르 국부펀드 테마섹의 인도 투자 성공은 인도 시장의 성장 잠재력과 신흥국 투자 매력을 부각시키며, 관련 투자 심리를 긍정적으로 자극할 것입니다.",
+    "action_point": "인도 및 신흥국 시장의 성장주 투자 기회 발굴 검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
     "title": "트럼프, 이란에 '최대 경제 전쟁' 선포...이란 \"국제법 위반\" - YTN",
     "title_ko": "트럼프, 이란에 '최대 경제 전쟁' 선포...이란 \"국제법 위반\"",
     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE16R09vSko5MWx3OGpGcDZCc3FwY2JINU1ZVjFQVFlqZFlYVWpManpDMzdBQmVST3ZRRUZlVTk0NmlPZC1SbVpvb1VZbHByZWFCRDk0dU9MMXNESE5lWlE?oc=5",
@@ -2871,80 +2949,5 @@
     ],
     "reason": "미국 비농업 고용 감소는 경기 둔화 가능성을 시사하나, 실업률 하락은 여전히 타이트한 노동 시장을 나타내 연준의 금리 정책 방향에 대한 시장의 혼란을 가중시킬 것이다.",
     "action_point": "미국 고용 시장의 혼조세가 연준의 통화정책 불확실성을 키우는 바, 포트폴리오의 금리 민감도와 경기 방어/민감 자산 비중을 점검하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Trump revives effort to fire Fed's Lisa Cook",
-    "title_ko": "트럼프, 연준 리사 쿡 이사 해고 시도 재개",
-    "link": "https://www.cnbc.com/2026/08/07/trump-lisa-cook-federal-reserve.html",
-    "published": "Fri, 07 Aug 2026 18:38:17 GMT",
-    "fetched_at": "2026-08-08 06:30:12",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "금융",
-      "채권"
-    ],
-    "keywords": [
-      "트럼프",
-      "연방준비제도",
-      "리사 쿡",
-      "중앙은행 독립성",
-      "통화정책",
-      "정치적 리스크",
-      "미국 대선"
-    ],
-    "reason": "트럼프의 연준 이사 해고 시도는 연준의 독립성 침해 우려를 증폭시키며, 향후 통화 정책의 불확실성을 높여 금융 시장 및 채권 시장에 부정적 영향을 미칠 수 있습니다.",
-    "action_point": "미국 대선 결과에 따른 연준 통화정책 불확실성 확대에 대비하여 포트폴리오의 방어적 성향을 강화하고 안전자산 비중 확대를 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "\"푸틴, 전쟁 장기화 속 정보기관에 의존…통제 강화\" - 연합뉴스",
-    "title_ko": "푸틴, 전쟁 장기화 속 정보기관에 의존…통제 강화",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHWlJGanFsNXJUMzFOTURROC1weXA5X01MczBKZ1VpV2ZfZHAwZjNhY0JmVExCZzZETnRFc1lCcVBxTGx1RWNIM2swS0kzU01ab0M3TUItS1h1dG_SAWBBVV95cUxQVHdHN2toQUFVWmVxeW1wMUpVQ2pncWJlY1VkYWlZNXR0TjdQNnFGYjJtTnV4Qk4yamVKRGZSUHdnR21HZnR0TzdSN0tMV09NYXNfdk80amNMcW42N0JOdFA?oc=5",
-    "published": "Fri, 07 Aug 2026 13:14:33 GMT",
-    "fetched_at": "2026-08-08 04:44:49",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "방산",
-      "원자재"
-    ],
-    "keywords": [
-      "푸틴",
-      "러시아",
-      "우크라이나 전쟁",
-      "지정학적 리스크",
-      "통제 강화"
-    ],
-    "reason": "이 뉴스는 러시아-우크라이나 전쟁의 장기화 및 러시아 내부 통제 강화 가능성을 시사하여 글로벌 지정학적 불확실성을 증대시키고 원자재 시장 변동성을 유발할 수 있습니다.",
-    "action_point": "글로벌 지정학적 리스크 장기화에 대비하여 에너지 및 방산 섹터 포트폴리오 비중을 점검하고 유지 여부를 검토하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "“식량 가격, 내년엔 더 오른다”…폭염·전쟁에 곡물·유지·설탕 가격↑",
-    "title_ko": "“식량 가격, 내년엔 더 오른다”…폭염·전쟁에 곡물·유지·설탕 가격↑",
-    "link": "https://www.mk.co.kr/news/economy/12121422",
-    "published": "Fri, 07 Aug 2026 22:23:02 +09:00",
-    "fetched_at": "2026-08-08 04:44:59",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "식품/음료",
-      "유통",
-      "농업"
-    ],
-    "keywords": [
-      "식량 가격",
-      "인플레이션",
-      "기후 변화",
-      "지정학"
-    ],
-    "reason": "세계 식량가격지수가 3년 반 만에 최고치를 기록하며 전반적인 물가 상승 압력이 지속될 것임을 시사합니다. 이는 글로벌 중앙은행의 긴축 기조 유지 가능성과 소비자의 구매력 감소로 이어질 수 있습니다.",
-    "action_point": "물가 상승 압력 장기화에 대비하여 인플레이션 헤지 자산 편입 검토."
   }
 ]
