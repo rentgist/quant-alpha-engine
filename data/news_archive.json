@@ -2,6 +2,57 @@
   {
     "source": "GoogleNews_Korea",
     "market": "KR",
+    "title": "트럼프 대통령, 이란 상대 ‘파괴적’ 경제 압박 선언…이란에 숨통 틔워주는 국가들에 경고 - VOA 한국어 홈페이지",
+    "title_ko": "트럼프 대통령, 이란 상대 ‘파괴적’ 경제 압박 선언…이란에 숨통 틔워주는 국가들에 경고",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNjJFSFV1S3BZZFRhVzJ5ZFF5OTJyWnE5LW9lZWJBY1BhNlpqQWR6RDBNU08wcUtPMlloSWJMbFZoN0xZZEVjZHFHTml5eDJWc3V0V1NkRURCSzJFRV9IMG8yUXU5UzRKUlM0dXRSS1hQS0hza3ljcnlTYWtpaXQ1bm1sSm1VekhUNG85N1JSeUFjcDhGRXdVWDZUYzVTWl9nWEwzeDR5azNFekRNSDdrVW5B0gG0AUFVX3lxTE82X2JOYUlGTUtuOE5NSVdCMXB6bk8wVE5HZ1JJMVlDMWdlT3pPV3R5TGhIcl9hOTJGRHBkdmNRbW1LZnpzZEZhV0lfdGc4a2ZWWGFPN3E5VmxwNF9ncEp1c3AzT2RYeXYzQXgtbDdVZ0EtVEdzVGdBbWN1ZnN5QWhDRElROE9raGdGN0w5SVRkOXh4NlVZUEhHS1FXVmhpemNQVVRGbk9mbEZYNkVmVXpnYWtnZg?oc=5",
+    "published": "Thu, 20 Aug 2026 18:25:58 GMT",
+    "fetched_at": "2026-08-21 07:17:10",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "방산",
+      "해운"
+    ],
+    "keywords": [
+      "트럼프",
+      "이란",
+      "경제 제재",
+      "지정학적 리스크",
+      "유가"
+    ],
+    "reason": "트럼프의 이란에 대한 '파괴적' 경제 압박 선언과 지원국 경고는 중동 지정학적 리스크를 고조시키고, 글로벌 유가 상승 압력 및 에너지 공급망 불안정으로 이어질 수 있습니다.",
+    "action_point": "중동 지정학적 리스크 고조에 따른 유가 상승 가능성에 대비하여 에너지 관련 자산 비중 확대 또는 인플레이션 헤지 포지션 구축을 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "트럼프 행정부, 동맹국에 '이란 경제 압박' 동참 압박...미군 \"동맹 방어 전념\" - YTN",
+    "title_ko": "트럼프 행정부, 동맹국에 '이란 경제 압박' 동참 압박...미군 '동맹 방어 전념'",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5GbGlQT2xBeVhyWWRtVWl4clhGRW1XTDgwdERzYkZOTm10OWYxanByNnJqNHVRMHU0LTJQd184blZFTk5QOE5sQW5HRktNN1B1VUltaG16aWFVc3h4RGc?oc=5",
+    "published": "Thu, 20 Aug 2026 20:52:00 GMT",
+    "fetched_at": "2026-08-21 07:17:19",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "원자재",
+      "항공",
+      "운수"
+    ],
+    "keywords": [
+      "이란 제재",
+      "지정학적 리스크",
+      "유가 상승",
+      "원자재 가격",
+      "글로벌 불확실성"
+    ],
+    "reason": "미국의 이란 경제 압박 강화는 중동 지정학적 불안을 고조시켜 국제 유가 상승 압력으로 작용하며, 글로벌 경제 불확실성을 증폭시킬 수 있습니다.",
+    "action_point": "국제유가 상승 가능성에 대비하여 에너지 섹터 또는 원자재 관련 ETF/파생상품 비중 확대 검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
     "title": "김여정 \"전쟁놀이 못하게 된 서울의 가긍한 처지\"…조롱·막말(종합) - 연합뉴스",
     "title_ko": "김여정 \"전쟁놀이 못하게 된 서울의 가긍한 처지\"…조롱·막말(종합)",
     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PQlhXanZVZXhPUzRGMkgwTnNQRGxwQ2lzVDFnZnp5ZUxUQldtU003eFpueWZrN01wb1BHZjZiRmZPT0RzTUFpN0VoMFY2M29kN283V19ZMW1VaXfSAWBBVV95cUxPZFhuYk52aUtkY3BnVWkxUDBqQ1JoaGR5RjZzXzZjOG5KRkpMS19JTHBRWnQzRDdreThfUXRsd1dfZ2luSURxanRINkJfMlREUklZby1Nb1hCZnZNR3ZfYlc?oc=5",
@@ -2895,55 +2946,5 @@
     ],
     "reason": "다음 주 발표될 가계대출, 고용, 수출입물가 지표는 한국 경제의 내수 상황과 대외 무역 여건 및 물가 압력을 종합적으로 평가할 핵심 자료다. 이 결과에 따라 한국은행의 통화정책 방향과 시장의 금리, 인플레이션 기대가 크게 영향을 받을 것이다.",
     "action_point": "발표될 가계대출, 고용, 수출입물가 지표가 국내 금리 및 소비 관련 자산의 변동성을 확대할 수 있으므로 관련 포트폴리오 비중을 재점검하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "‘김부장’ 제작사 판타지오 회장, 자본시장법 위반 혐의 피소",
-    "title_ko": "‘김부장’ 제작사 판타지오 회장, 자본시장법 위반 혐의 피소",
-    "link": "https://www.mk.co.kr/news/society/12121743",
-    "published": "Sat, 08 Aug 2026 16:54:07 +09:00",
-    "fetched_at": "2026-08-08 17:29:32",
-    "sentiment": "악재",
-    "importance": 2,
-    "sectors": [
-      "엔터테인먼트",
-      "미디어"
-    ],
-    "keywords": [
-      "판타지오",
-      "자본시장법",
-      "미공개 정보",
-      "코스닥"
-    ],
-    "reason": "판타지오 개별 기업의 법적 리스크로, 해당 기업 주가에 직접적인 악영향을 미칠 수 있습니다. 거시 경제나 광범위한 시장 전반에는 미치는 영향이 제한적입니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[기고]이란전쟁의 나비효과, ‘사우디·튀르키예·파키스탄 메카 공동방위조약’…김태준의 美·이란戰 중계 - munhwa.com",
-    "title_ko": "[기고]이란전쟁의 나비효과, ‘사우디·튀르키예·파키스탄 메카 공동방위조약’…김태준의 美·이란戰 중계",
-    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9WdmVMWEdHZW42TUdMcTlDdlI0Z2YzRm9YcGpfSVZvZnRMUmRvN1ZEYllvcU50NW96NVdpWVVWQ0RfckZxWG5Qd2ViMktLUmgz?oc=5",
-    "published": "Sat, 08 Aug 2026 05:49:57 GMT",
-    "fetched_at": "2026-08-08 16:41:40",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "에너지 (원유/가스)",
-      "방위산업",
-      "해운",
-      "항공",
-      "건설"
-    ],
-    "keywords": [
-      "이란 전쟁",
-      "중동 지정학",
-      "원유",
-      "국제 안보",
-      "방위"
-    ],
-    "reason": "미국-이란 전쟁 가능성 및 사우디-튀르키예-파키스탄의 공동 방위 조약은 중동 지역의 지정학적 리스크를 극도로 고조시키며, 이는 국제 유가 급등과 글로벌 경제 불확실성 증폭으로 이어질 수 있습니다.",
-    "action_point": "중동 지정학적 리스크 심화에 대비하여 원유 관련 자산 비중을 확대하고, 전반적인 위험 자산 비중을 축소하라."
   }
 ]
