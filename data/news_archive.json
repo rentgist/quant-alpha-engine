@@ -1,5 +1,81 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "트럼프, 이란에 “가장 강력한 경제 작전” 선언…제3국도 압박 - 한겨레",
+    "title_ko": "트럼프, 이란에 “가장 강력한 경제 작전” 선언…제3국도 압박 - 한겨레",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1JSUNrN3FLc0k0WGdBTXdRdHdneDUyVnVyVXpQN1BjQk0xTHVJQUs5SzNRQnMyRTJUQWNQOWt0T216cmlpZlk2UmlEVWVIWW1DbWkxX1M1WG9mcFROTXJGVUZhNDZFN0JMb0VfZXJCTXNTbG8?oc=5",
+    "published": "Thu, 20 Aug 2026 00:03:00 GMT",
+    "fetched_at": "2026-08-20 11:11:54",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "원유/가스",
+      "해운/물류",
+      "방산",
+      "석유화학"
+    ],
+    "keywords": [
+      "트럼프",
+      "이란",
+      "경제 제재",
+      "지정학적 위험",
+      "원유"
+    ],
+    "reason": "트럼프의 대이란 '가장 강력한 경제 작전' 선언 및 제3국 압박은 중동 지정학적 리스크를 극도로 고조시키며, 국제유가 상승 압력 및 글로벌 무역 불확실성을 증대시켜 세계 경제 성장 둔화 가능성을 높입니다.",
+    "action_point": "중동 지정학적 리스크 심화에 따른 유가 상승 가능성을 고려하여 에너지/원자재 섹터 비중 확대 검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "트럼프, '이란 경제고립 작전' 선언…\"지원국도 막대한 대가\" - 연합뉴스",
+    "title_ko": "트럼프, '이란 경제고립 작전' 선언…\"지원국도 막대한 대가\"",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SMWJtY0REX0FRclRteElCcldoTFg2cEV6U1dYcWlsXzlxUkFIM3pTODhOc3dSVHp1MkJOckVMcllTMkwxS2x0RHVLMTlMbnd5ZVF5UFY1RDdlbXPSAWBBVV95cUxNQlRRYXM0eHJpT21xUnd1OVp1UWFJaVhZUUFSNDRtdFVfVk9raVNrMmpaSjZoV0ZON2ctNklrMkQwZmtkMGlUMEpYRHlqaGJNa1ZjVTUtdWx4U1lpcDJlNE0?oc=5",
+    "published": "Wed, 19 Aug 2026 23:54:25 GMT",
+    "fetched_at": "2026-08-20 11:12:03",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "방산",
+      "해운"
+    ],
+    "keywords": [
+      "트럼프",
+      "이란",
+      "경제제재",
+      "지정학",
+      "원유",
+      "중동"
+    ],
+    "reason": "트럼프의 이란 경제고립 선언은 향후 미국의 이란 제재 강화 가능성을 시사하며, 이는 중동 지정학적 리스크를 고조시키고 국제 유가 및 해상 운송 안정성에 부정적인 영향을 미칠 수 있습니다.",
+    "action_point": "국제 유가 상승 및 중동 지정학적 리스크 심화에 대비하여 에너지/방산 섹터 비중 확대를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Inside India newsletter: Chip squeeze hits Chinese smartphones in India as Apple, Samsung gain an edge",
+    "title_ko": "인도 스마트폰 시장, 칩 가격 상승으로 중국 브랜드 고전 속 삼성·애플 부상",
+    "link": "https://www.cnbc.com/2026/08/20/india-apple-samsung-china-smartphone-chip-inflation.html",
+    "published": "Thu, 20 Aug 2026 00:17:08 GMT",
+    "fetched_at": "2026-08-20 11:11:44",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "IT 하드웨어",
+      "반도체"
+    ],
+    "keywords": [
+      "스마트폰",
+      "인도 시장",
+      "반도체 칩",
+      "삼성전자",
+      "애플"
+    ],
+    "reason": "메모리 칩 가격 상승이 인도 스마트폰 시장의 경쟁 구도를 변화시키며, 삼성과 애플 같은 프리미엄 브랜드의 시장 점유율 확대로 이어질 가능성이 큽니다.",
+    "action_point": "삼성전자 등 인도 시장에서 강세를 보이는 프리미엄 스마트폰 관련 기업 투자 비중 확대 검토"
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "Trump announces 'economic warfare' on Iran, threatens ‘tremendous’ consequences for its backers",
@@ -2871,77 +2947,5 @@
     ],
     "reason": "인도 내 메타의 법적 보호 상실은 해당 기업의 재무 및 운영 안정성에 심각한 타격을 줄 수 있으며, 이는 다른 신흥 시장의 IT 기업 규제 환경 변화 가능성을 시사한다.",
     "action_point": "글로벌 소셜 미디어 및 플랫폼 기업의 신흥국 규제 리스크를 점검하고, 해당 기업 투자 비중 조정을 검토하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "“AI 메모리 수요 선제 대응”…SK하이닉스, 용인 Y2·청주 M17에 54조원 투자",
-    "title_ko": "“AI 메모리 수요 선제 대응”…SK하이닉스, 용인 Y2·청주 M17에 54조원 투자",
-    "link": "https://www.mk.co.kr/news/economy/12121053",
-    "published": "Fri, 07 Aug 2026 17:01:09 +09:00",
-    "fetched_at": "2026-08-07 17:09:29",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "반도체",
-      "IT하드웨어",
-      "반도체 장비",
-      "건설"
-    ],
-    "keywords": [
-      "SK하이닉스",
-      "AI 메모리",
-      "반도체 투자",
-      "D램",
-      "낸드"
-    ],
-    "reason": "SK하이닉스의 대규모 투자는 AI 메모리 수요의 강력한 성장을 확인하며, 이는 장기적으로 반도체 업황 개선과 한국 IT 섹터의 경쟁력 강화를 의미합니다. 관련 장비 및 건설 부문의 수혜도 기대됩니다.",
-    "action_point": "AI 메모리 수요 성장 확신에 따라 반도체 섹터 내 AI 관련주 비중 확대를 검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[속보] 서울도 '40도'…오늘 노원 40.2도 기록 - 연합뉴스",
-    "title_ko": "서울도 '40도'…오늘 노원 40.2도 기록",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE14cnJ4eEl5SERmUzlxNHByYXZSRldNcTRRcGR0Z2FOLXc4SDlhSHJwdkdFQ1l3Q09hQ2pqNUhaaWx2NDNYUjNfaW5nUlIwNVBYRjBHLUpjMWpVVXPSAWBBVV95cUxQUndJc1NuR0FSaWZ5bWh1eG9IR2hPaHlnQzJzYVk5SVc5eEVialQxbHgyZ3g0d04wdnUzVW9QY2lDNTZfak1kTUhUVExGUF9Xb1FfZGVEUVJUQlpHSDJjVGY?oc=5",
-    "published": "Fri, 07 Aug 2026 06:31:55 GMT",
-    "fetched_at": "2026-08-07 17:08:58",
-    "sentiment": "악재",
-    "importance": 2,
-    "sectors": [
-      "에너지",
-      "농업",
-      "소비재"
-    ],
-    "keywords": [
-      "폭염",
-      "기후변화",
-      "전력수요"
-    ],
-    "reason": "서울의 기록적인 폭염은 전력 수요 급증과 전력망 부하를 야기하며, 농작물 피해 및 야외 활동 위축으로 특정 소비재 가격 상승 및 경제활동 둔화를 초래할 수 있습니다.",
-    "action_point": "전력 및 냉방 관련 소비재 섹터의 단기적 비중 확대를 검토하고, 농산물 가격 상승으로 인한 인플레이션 위험에 대비하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "건설현장도 폭염 전쟁...야외 작업 멈추고 '휴식' - YTN",
-    "title_ko": "건설현장도 폭염 전쟁...야외 작업 멈추고 '휴식'",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBqQzExLTBHVWd3b1dESzJhVUtMMzVYMVFWNDhUY3RybWdyT3pvbHN1aHZmSEI1OV9rcUZVV0hLelVJVFRXM0REVFRPRVZpWmxzUWpDSFNoQWREZ0xvYWREbWRwNzZkNGR0Qy0ySUR4a1dFTjYyaHc?oc=5",
-    "published": "Fri, 07 Aug 2026 06:49:00 GMT",
-    "fetched_at": "2026-08-07 17:09:08",
-    "sentiment": "악재",
-    "importance": 2,
-    "sectors": [
-      "건설",
-      "건자재"
-    ],
-    "keywords": [
-      "폭염",
-      "건설현장",
-      "작업중단",
-      "생산성"
-    ],
-    "reason": "폭염으로 인한 건설 현장 작업 중단은 건설사들의 생산성 저하와 공사 기간 지연을 초래하여 단기 실적에 부정적인 영향을 미칠 수 있습니다. 이는 건설 및 건자재 섹터의 잠재적 매출 감소 및 원가 상승 압력으로 작용할 가능성이 있습니다.",
-    "action_point": "건설 및 건자재 섹터 포트폴리오 비중 축소 검토."
   }
 ]
