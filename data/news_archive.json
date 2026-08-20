@@ -1,5 +1,109 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Trump announces 'economic warfare' on Iran, threatens ‘tremendous’ consequences for its backers",
+    "title_ko": "트럼프, 이란에 '경제 전쟁' 선포…지지세력에 '엄청난' 결과 경고",
+    "link": "https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz-economic-warfare.html",
+    "published": "Wed, 19 Aug 2026 23:52:55 GMT",
+    "fetched_at": "2026-08-20 09:40:02",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "에너지",
+      "방산",
+      "원자재",
+      "해운/물류",
+      "금융"
+    ],
+    "keywords": [
+      "트럼프",
+      "이란",
+      "경제 전쟁",
+      "제재",
+      "지정학",
+      "유가",
+      "중동"
+    ],
+    "reason": "미국-이란의 경제 전쟁 선포는 중동 지정학적 긴장을 고조시키고, 글로벌 원유 공급망 불확실성을 확대하여 유가 급등 및 전반적인 시장 위험 회피 심리를 자극할 것입니다. 특히 이란의 석유 생산국 지위가 유가 변동성 증폭의 핵심 요인으로 작용할 수 있습니다.",
+    "action_point": "중동 지정학적 긴장 고조에 따른 유가 변동성 확대와 안전자산 선호 심리 강화에 대비하여 에너지 섹터 및 금 관련 자산 비중을 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Japan exports beat estimates in July as robust chip shipments power fifth straight month of gains",
+    "title_ko": "일본 7월 수출, 강력한 반도체 출하에 힘입어 5개월 연속 예상치 상회",
+    "link": "https://www.cnbc.com/2026/08/20/japan-exports-imports-july-chip-ai.html",
+    "published": "Thu, 20 Aug 2026 00:30:32 GMT",
+    "fetched_at": "2026-08-20 09:40:08",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "반도체",
+      "기술주",
+      "수출주"
+    ],
+    "keywords": [
+      "일본 수출",
+      "반도체",
+      "AI",
+      "글로벌 경기"
+    ],
+    "reason": "일본의 수출 호조, 특히 반도체 및 AI 관련 장비 출하 증가는 글로벌 기술 수요가 견조하며 경기 침체 우려에도 불구하고 견고한 성장 동력을 유지하고 있음을 시사한다. 이는 아시아 전체 수출 경제에 긍정적인 신호로 작용할 수 있다.",
+    "action_point": "반도체 및 AI 관련 성장주 비중 유지 또는 확대 검토"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Asia's hydrogen dreams: Region bets on emerging green technology to improve transportation",
+    "title_ko": "아시아의 수소 꿈: 이 지역은 운송 시스템 개선을 위해 신흥 그린 수소 기술에 집중하고 있다",
+    "link": "https://www.cnbc.com/2026/08/20/asia-hydrogen-trains-green-transport.html",
+    "published": "Thu, 20 Aug 2026 00:09:09 GMT",
+    "fetched_at": "2026-08-20 09:40:16",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "수소 산업",
+      "친환경 에너지",
+      "철도",
+      "화학",
+      "산업재"
+    ],
+    "keywords": [
+      "수소 경제",
+      "친환경 에너지",
+      "아시아",
+      "수소열차"
+    ],
+    "reason": "아시아 지역의 수소 경제 구축 노력은 친환경 에너지 및 관련 인프라 산업에 장기적인 투자와 성장 기회를 제공할 것이며, 이는 해당 섹터 기업들의 실적 개선 및 가치 상승으로 이어질 수 있다.",
+    "action_point": "수소 생산, 운송 및 활용 관련 국내외 선두 기업들의 포트폴리오 편입을 검토하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "동대문구 답십리대림 59.65㎡, 8억2000만원 최근 3년 신고가",
+    "title_ko": "동대문구 답십리대림 59.65㎡, 8억2000만원 최근 3년 신고가",
+    "link": "https://www.mk.co.kr/news/realestate/12131928",
+    "published": "Thu, 20 Aug 2026 09:36:30 +09:00",
+    "fetched_at": "2026-08-20 09:41:10",
+    "sentiment": "호재",
+    "importance": 2,
+    "sectors": [
+      "부동산",
+      "건설",
+      "금융"
+    ],
+    "keywords": [
+      "부동산",
+      "아파트",
+      "신고가",
+      "서울",
+      "동대문구"
+    ],
+    "reason": "서울 특정 지역의 아파트가 3년 만에 신고가를 기록하며 해당 지역 부동산 시장의 회복세와 주택 구매 심리 개선을 시사합니다. 이는 수도권 핵심 입지 주택 자산에 대한 투자자들의 관심이 다시 증가하고 있음을 보여줍니다.",
+    "action_point": "서울 핵심 입지 소형 아파트 자산의 가치 재평가."
+  },
+  {
     "source": "GoogleNews_Korea",
     "market": "KR",
     "title": "[속보] 트럼프, ’김정은과 연내 회담 예상하나’ 질문에 “그럴 것“ - 연합뉴스TV",
@@ -2839,103 +2943,5 @@
     ],
     "reason": "폭염으로 인한 건설 현장 작업 중단은 건설사들의 생산성 저하와 공사 기간 지연을 초래하여 단기 실적에 부정적인 영향을 미칠 수 있습니다. 이는 건설 및 건자재 섹터의 잠재적 매출 감소 및 원가 상승 압력으로 작용할 가능성이 있습니다.",
     "action_point": "건설 및 건자재 섹터 포트폴리오 비중 축소 검토."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "신세계아이앤씨, 2분기 영업익 153억원…전년 대비 13% 증가",
-    "title_ko": "신세계아이앤씨, 2분기 영업익 153억원…전년 대비 13% 증가",
-    "link": "https://www.mk.co.kr/news/it/12121052",
-    "published": "Fri, 07 Aug 2026 17:00:37 +09:00",
-    "fetched_at": "2026-08-07 17:09:39",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "IT 서비스",
-      "유통"
-    ],
-    "keywords": [
-      "신세계아이앤씨",
-      "2분기 실적",
-      "영업이익",
-      "IT 서비스",
-      "유통"
-    ],
-    "reason": "신세계아이앤씨의 2분기 수익성 개선은 개별 기업의 IT 서비스 및 유통 부문 효율성 증대를 보여주지만, 거시 경제 전반이나 특정 산업 전반에 미칠 파급 효과는 제한적입니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "‘오징어 게임’ 미국판 무산되나…“넷플릭스 제작 중단”",
-    "title_ko": "‘오징어 게임’ 미국판 무산되나…“넷플릭스 제작 중단”",
-    "link": "https://www.mk.co.kr/news/culture/12121049",
-    "published": "Fri, 07 Aug 2026 16:57:55 +09:00",
-    "fetched_at": "2026-08-07 17:09:46",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "미디어/콘텐츠",
-      "엔터테인먼트",
-      "OTT"
-    ],
-    "keywords": [
-      "오징어 게임",
-      "넷플릭스",
-      "콘텐츠 제작",
-      "프로젝트 중단"
-    ],
-    "reason": "넷플릭스의 특정 콘텐츠 프로젝트 중단 소식으로, 미디어/콘텐츠 섹터 내 개별 기업 및 IP 관련 투자 심리에 미미한 영향을 줄 수 있으나, 거시 경제나 광범위한 시장에는 영향이 제한적이다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Oil rises as Iran's draft plan sees U.S. and Israel banned from Strait of Hormuz",
-    "title_ko": "이란, 호르무즈 해협에서 미국 및 이스라엘 선박 통행 금지 초안 발표에 유가 상승",
-    "link": "https://www.cnbc.com/2026/08/07/oil-rises-supply-fears-iran-draft-plan-strait-hormuz.html",
-    "published": "Fri, 07 Aug 2026 05:27:03 GMT",
-    "fetched_at": "2026-08-07 15:05:20",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "에너지",
-      "운송",
-      "화학",
-      "방산"
-    ],
-    "keywords": [
-      "유가",
-      "이란",
-      "호르무즈 해협",
-      "지정학적 리스크",
-      "공급 차질"
-    ],
-    "reason": "호르무즈 해협 봉쇄 가능성 언급은 글로벌 원유 공급의 핵심 병목 지점에서 심각한 차질을 유발하여 유가를 급등시키고 인플레이션 압력을 가중시킨다. 이는 전반적인 경제 활동 둔화와 금리 인상 압력을 높이는 악재로 작용한다.",
-    "action_point": "에너지 및 원자재 관련 자산 비중 확대를 고려하고, 고유가 지속에 따른 인플레이션 헤지 전략을 강화하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Meta ordered to pay $567 million into abatement fund as remedy to child harms case in New Mexico",
-    "title_ko": "메타, 뉴멕시코 아동 유해 사례 관련 5억 6,700만 달러 배상금 지급 명령",
-    "link": "https://www.cnbc.com/2026/08/06/meta-to-pay-into-567-million-fund-after-child-harms-case-new-mexico.html",
-    "published": "Fri, 07 Aug 2026 01:28:57 GMT",
-    "fetched_at": "2026-08-07 15:05:34",
-    "sentiment": "악재",
-    "importance": 2,
-    "sectors": [
-      "IT/기술",
-      "소셜미디어"
-    ],
-    "keywords": [
-      "메타",
-      "법적분쟁",
-      "아동보호",
-      "규제리스크",
-      "배상금"
-    ],
-    "reason": "메타에 대한 대규모 배상금 명령은 단기적으로 기업의 재무 상태에 부담을 줄 수 있으며, 소셜 미디어 및 빅테크 기업에 대한 규제 및 법적 리스크가 증가할 수 있다는 우려를 키울 수 있다.",
-    "action_point": "소셜미디어 및 빅테크 기업에 대한 규제 강화 추세에 따라 관련 섹터 투자 비중을 점검하라."
   }
 ]
