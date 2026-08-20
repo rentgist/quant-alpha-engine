@@ -2,6 +2,31 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "Trump says Iran's economy is collapsing. A former central bank adviser in Tehran pushes back",
+    "title_ko": "트럼프, 이란 경제 붕괴 주장…테헤란 전 중앙은행 고문 반박",
+    "link": "https://www.cnbc.com/2026/08/20/iran-economy-worries-trump-sanction-war-hormuz-uae-.html",
+    "published": "Thu, 20 Aug 2026 08:38:11 GMT",
+    "fetched_at": "2026-08-20 22:38:48",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "방산",
+      "해운"
+    ],
+    "keywords": [
+      "이란",
+      "제재",
+      "경제",
+      "유가",
+      "지정학"
+    ],
+    "reason": "이란 경제에 대한 상반된 시각은 대이란 제재의 지속적인 영향을 시사하며, 이는 중동 지역의 지정학적 불안정성과 글로벌 유가 변동성을 높일 수 있습니다.",
+    "action_point": "중동 지정학적 리스크 지속에 따른 원자재 및 에너지 섹터 변동성 확대에 대비하여 관련 자산 비중 조정 검토"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "Walmart hikes full-year outlook, says it will use huge tariff refund to keep prices low",
     "title_ko": "월마트, 연간 실적 전망 상향 조정, 막대한 관세 환급액으로 저가 정책 유지할 것",
     "link": "https://www.cnbc.com/2026/08/20/walmart-wmt-q2-2027-earnings.html",
@@ -2919,32 +2944,5 @@
     ],
     "reason": "대통령의 저출산·저결혼 해결 의지를 보여주는 정책 방향 제시이나, 구체적 시행안이 없어 단기적인 시장 영향은 제한적이다. 장기적으로 인구구조 변화 관련 산업에 영향을 줄 수 있다.",
     "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "\"이란전쟁 美가구당 180만원 추가 부담\"…총비용 1400조 경고도 - 머니투데이 - 머니투데이",
-    "title_ko": "이란전쟁 美가구당 180만원 추가 부담\"…총비용 1400조 경고도 - 머니투데이 - 머니투데이",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ZdmROTDdCQWNsZ0prQjJFZl9MU0N2MjB6bHc3cVYzNnI2M3Z2VkYtWFA0Wk1YSFZhM3Rlbm9lUHFsR3VWYXdUQlhYQklHaXZqV09Pb3hGd2IteEUzMlByWU53Xy1TbEdy0gFuQVVfeXFMT1B1eFZkbHdhcHVHNXR0eGdub2o2aHBMVFJGNWpueVhnOHBKaHdNaFBfNmRVcmZ0MnZXXzV6TFBmRkU2a083ZXE3NHFzbEpnTmkxUzIyaHJNc1l4ZTFheERWaG9IM2dSdE10S0J5TVE?oc=5",
-    "published": "Fri, 07 Aug 2026 21:06:56 GMT",
-    "fetched_at": "2026-08-08 13:05:53",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "원자재(유가)",
-      "방산",
-      "항공",
-      "해운",
-      "글로벌 경기 전반"
-    ],
-    "keywords": [
-      "이란 전쟁",
-      "유가",
-      "지정학적 리스크",
-      "미국 경제",
-      "인플레이션"
-    ],
-    "reason": "이란 전쟁 가능성 경고는 유가 급등, 글로벌 공급망 교란 및 인플레이션 압력 가중을 통해 미국 및 세계 경제에 상당한 부담을 줄 수 있습니다. 이는 전반적인 소비 위축과 경기 둔화로 이어질 수 있는 심각한 지정학적 리스크입니다.",
-    "action_point": "지정학적 리스크와 유가 급등에 대비하여 에너지, 방산 섹터 비중 확대 및 달러 자산 유지 검토."
   }
 ]
