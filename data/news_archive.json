@@ -2,6 +2,32 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "Bessent says there's a 'very good chance' U.S. budget deficit under Trump has peaked",
+    "title_ko": "베센트, 트럼프 행정부 하 미국 예산 적자 정점 찍었을 가능성 매우 높다 언급",
+    "link": "https://www.cnbc.com/2026/08/20/bessent-budget-deficit-trump.html",
+    "published": "Thu, 20 Aug 2026 16:23:57 GMT",
+    "fetched_at": "2026-08-21 13:29:20",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "채권 시장",
+      "부동산",
+      "기술주",
+      "금융"
+    ],
+    "keywords": [
+      "미국 예산 적자",
+      "트럼프 행정부",
+      "재무장관",
+      "재정 정책",
+      "금리"
+    ],
+    "reason": "미국 재무장관의 발언은 트럼프 행정부 하의 재정 건전성 개선 기대를 높여, 향후 미 국채 발행 부담 완화 및 장기 금리 안정화에 긍정적 영향을 줄 수 있습니다.",
+    "action_point": "미국 재정 건전성 개선 기대에 따라 장기 금리 상승 압력 완화를 예상하고, 금리 민감 자산(장기 채권, 성장주, 리츠) 비중 확대를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "U.S. bond intervention is like 'paying your mortgage with your credit card,' JPMorgan's Sullivan says",
     "title_ko": "JP모건 설리번, 美 채권시장 개입 '신용카드로 주택담보대출 갚는 격'",
     "link": "https://www.cnbc.com/2026/08/21/us-bond-intervention-shifting-problem-future-jpmorgan.html",
@@ -2929,25 +2955,5 @@
     ],
     "reason": "미국 공화당, 특히 트럼프 전 대통령의 경제 운영 능력에 대한 대중의 인식이 약화되고 있음을 보여준다. 이는 향후 미국 대선 결과 및 정책 방향에 대한 불확실성을 증대시켜 장기적인 투자 전략에 영향을 줄 수 있다.",
     "action_point": "미국 대선 정책 불확실성 확대에 대비, 미국 관련 투자 비중 및 통화 헤지 전략을 재검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Senate Republicans narrowly confirm Todd Blanche as attorney general",
-    "title_ko": "상원 공화당, 토드 블랜치 법무장관 간신히 인준",
-    "link": "https://www.cnbc.com/2026/08/08/senate-republicans-narrowly-confirm-todd-blanche-as-attorney-general.html",
-    "published": "Sat, 08 Aug 2026 09:27:09 GMT",
-    "fetched_at": "2026-08-08 19:21:41",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [],
-    "keywords": [
-      "미국 정치",
-      "법무부",
-      "상원",
-      "인준"
-    ],
-    "reason": "미국 상원의 법무장관 인준은 미국 국내 법 집행 및 사법 정책에 영향을 미치지만, 당장 글로벌 경제 또는 금융 시장에 직접적인 파급 효과는 제한적이다.",
-    "action_point": "해당 없음"
   }
 ]
