@@ -1,5 +1,105 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "NATO member Romania scrambles F-16 fighter jets to destroy drone near critical European gas project",
+    "title_ko": "NATO 회원국 루마니아, 유럽 핵심 가스 프로젝트 인근 드론 파괴 위해 F-16 전투기 긴급 출격",
+    "link": "https://www.cnbc.com/2026/08/21/romania-russia-ukraine-drone-gas-nato.html",
+    "published": "Fri, 21 Aug 2026 10:15:18 GMT",
+    "fetched_at": "2026-08-21 21:27:05",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "방산",
+      "원자재"
+    ],
+    "keywords": [
+      "루마니아",
+      "NATO",
+      "드론",
+      "지정학",
+      "에너지 안보"
+    ],
+    "reason": "NATO 회원국 영토 인근에서 발생한 드론 사건은 동유럽 지역의 지정학적 긴장을 고조시키며, 유럽 에너지 안보에 대한 우려를 증폭시켜 원자재 시장 변동성을 키울 수 있습니다.",
+    "action_point": "유럽 지정학적 긴장 고조에 따른 에너지 관련 원자재(천연가스, 유가) 변동성 확대 가능성에 대비하여 관련 포지션 리밸런싱을 검토."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Oil prices head for second weekly rise as U.S. vows to turn up economic pressure on Iran",
+    "title_ko": "미국의 대이란 경제 압박 강화 예고에 유가 2주 연속 상승세",
+    "link": "https://www.cnbc.com/2026/08/21/oil-prices-us-iran.html",
+    "published": "Fri, 21 Aug 2026 12:07:32 GMT",
+    "fetched_at": "2026-08-21 21:27:12",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "화학",
+      "운송",
+      "제조업",
+      "방산"
+    ],
+    "keywords": [
+      "유가",
+      "이란 제재",
+      "지정학적 리스크",
+      "인플레이션",
+      "원자재 가격"
+    ],
+    "reason": "미국의 이란 제재 강화는 글로벌 원유 공급 불확실성을 증대시켜 유가 상승을 압박할 것입니다. 이는 인플레이션 압력으로 작용하고 에너지 의존도가 높은 기업들의 생산 비용을 증가시킬 수 있습니다.",
+    "action_point": "유가 상승에 따른 인플레이션 압력 및 기업 비용 증가에 대비하여 에너지 고소비 산업군 비중 축소를 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[속보] 삼성전자 \"올해 주주환원 재원 최대 110조원 예상\" - JTBC",
+    "title_ko": "[속보] 삼성전자 \"올해 주주환원 재원 최대 110조원 예상\"",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE96WG9LZU1iWFgzbEx6dGgxS09Eb25NandnOVVoclJjNDlRXzI0bmdQeVpORHkyTkg3Zk9EemlFRWNGTU1jUHUtd0E1WVBHVEpuOHBDZA?oc=5",
+    "published": "Fri, 21 Aug 2026 08:18:00 GMT",
+    "fetched_at": "2026-08-21 21:27:20",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "반도체",
+      "IT 하드웨어",
+      "증권"
+    ],
+    "keywords": [
+      "삼성전자",
+      "주주환원",
+      "배당",
+      "자사주",
+      "주가부양"
+    ],
+    "reason": "삼성전자의 대규모 주주환원 계획은 주가 상승 기대감을 높이고, 투자심리 개선에 긍정적인 영향을 미칩니다. 이는 반도체 업황 개선에 대한 자신감을 반영하는 것으로 해석됩니다.",
+    "action_point": "삼성전자 및 반도체 섹터 비중 확대 또는 신규 진입 검토."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Stocks making the biggest moves premarket: BJ's Wholesale, Broadcom, Ross Stores & more",
+    "title_ko": "프리마켓에서 가장 큰 변동을 보인 주식들: BJ's Wholesale, 브로드컴, 로스 스토어 등",
+    "link": "https://www.cnbc.com/2026/08/21/stocks-making-the-biggest-moves-premarket-bj-avg-coin-rost.html",
+    "published": "Fri, 21 Aug 2026 12:00:54 GMT",
+    "fetched_at": "2026-08-21 21:26:58",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "소매유통",
+      "반도체",
+      "기술"
+    ],
+    "keywords": [
+      "프리마켓",
+      "개별주",
+      "주가 변동"
+    ],
+    "reason": "이 기사는 특정 개별 기업들의 프리마켓 주가 변동을 나열한 것으로, 광범위한 시장이나 매크로 경제에 대한 직접적인 영향보다는 해당 기업들의 실적 또는 개별 이슈에 대한 반응으로 해석됩니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "CNBC_Finance",
     "market": "US",
     "title": "Samsung plans up to $80 billion in shareholder returns after SK Hynix buyback",
@@ -2878,102 +2978,5 @@
     ],
     "reason": "캘리포니아 법무장관의 발언은 메타에 대한 법적 소송의 재정적 위험이 당초 예상보다 크지 않을 수 있음을 시사하며, 이는 단기적으로 메타의 주가에 긍정적인 영향을 줄 수 있습니다.",
     "action_point": "메타 주식에 대한 법률 리스크 부담이 완화되었으므로 해당 종목 보유 포지션 유지를 검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[中경제, 두 개의 실험실⑧] 데이터로 200만위안 신용…루이첸 '무형담보' - 연합인포맥스",
-    "title_ko": "[中경제, 두 개의 실험실⑧] 데이터로 200만위안 신용…루이첸 '무형담보'",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1LaTFmTkRWUDFsRzVDOGxGRUR4aG12aEtUdjRPLUg1d1RTd2Exc3VObnBhaTNybWk0THBUSXJXaUVrdXNtVVE1UDNTLVR5dXFtajR6b052VUUyMlE5MU5XM0g2QXlkblp1d29iaVV0Qnk?oc=5",
-    "published": "Wed, 19 Aug 2026 04:30:23 GMT",
-    "fetched_at": "2026-08-19 16:33:25",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "금융",
-      "기술",
-      "중소기업"
-    ],
-    "keywords": [
-      "중국 경제",
-      "데이터",
-      "무형담보",
-      "핀테크"
-    ],
-    "reason": "중국이 데이터 기반 무형자산을 담보로 신용대출을 확대하는 실험을 통해 중소기업 자금조달을 용이하게 하고 핀테크 혁신을 추진하는 움직임이다. 이는 중국 경제 내 새로운 성장 동력 발굴 노력의 일환으로 해석된다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "美 ‘경제 봉쇄’에도 버티는 이란…“정권엔 고통의 임계점 없다” - v.daum.net",
-    "title_ko": "美 ‘경제 봉쇄’에도 버티는 이란…“정권엔 고통의 임계점 없다”",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBEckFhdDItQUN4aWNyb2ZpTDM3X1NFaVgtVGs0RURLa0hxSlp5S0loTXYxeWdZY1BiMHdKVWlJdGpRdzh1Rmk3N29VM1VHRlk?oc=5",
-    "published": "Wed, 19 Aug 2026 01:31:43 GMT",
-    "fetched_at": "2026-08-19 16:33:44",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "에너지",
-      "원자재"
-    ],
-    "keywords": [
-      "이란",
-      "미국 제재",
-      "지정학",
-      "중동",
-      "유가"
-    ],
-    "reason": "미국 경제 제재에도 이란이 버티고 있어 중동 지역의 지정학적 긴장이 장기화될 가능성이 높으며, 이는 글로벌 유가를 포함한 원자재 시장에 지속적인 불확실성을 더합니다.",
-    "action_point": "중동 지정학적 리스크 지속과 유가 변동성 확대 가능성에 대비하여 에너지 관련 섹터 또는 원자재(유가) 헤지 포지션 유지 검토."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "포스코 리튬, 세계 최대 中 배터리 시장 뚫었다",
-    "title_ko": "포스코 리튬, 세계 최대 中 배터리 시장 뚫었다",
-    "link": "https://www.mk.co.kr/news/business/12131315",
-    "published": "Wed, 19 Aug 2026 16:31:51 +09:00",
-    "fetched_at": "2026-08-19 16:33:56",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "2차전지 소재",
-      "철강/소재",
-      "전기차"
-    ],
-    "keywords": [
-      "포스코홀딩스",
-      "리튬",
-      "중국",
-      "배터리",
-      "수산화리튬"
-    ],
-    "reason": "포스코가 세계 최대 중국 배터리 시장에 리튬을 공급하며 자원 투자 전략의 결실을 맺고, 국내 2차전지 소재 산업의 경쟁력을 강화한다.",
-    "action_point": "포스코홀딩스 및 국내 2차전지 소재 관련 기업의 투자 매력도를 재평가하고 비중 확대를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "China’s backflipping robot maker Unitree pops 542% in Shanghai debut",
-    "title_ko": "중국 로봇 제조업체 유니트리, 상하이 증시 상장 첫날 542% 폭등",
-    "link": "https://www.cnbc.com/2026/08/19/china-backflipping-robot-maker-unitree-jumps-shanghai-ipo.html",
-    "published": "Wed, 19 Aug 2026 07:20:10 GMT",
-    "fetched_at": "2026-08-19 16:31:43",
-    "sentiment": "호재",
-    "importance": 2,
-    "sectors": [
-      "로봇",
-      "자동화",
-      "인공지능"
-    ],
-    "keywords": [
-      "중국",
-      "로봇산업",
-      "IPO",
-      "기술주"
-    ],
-    "reason": "중국 로봇 제조업체의 상하이 증시 폭등은 중국 하이테크 및 로봇 산업에 대한 투자자들의 강한 낙관론을 반영하며, 글로벌 기술주 및 AI 관련 섹터에 대한 관심 증가를 시사합니다.",
-    "action_point": "로봇 및 자동화 관련 글로벌 기술주 비중 확대 검토"
   }
 ]
