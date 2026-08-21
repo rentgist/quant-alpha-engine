@@ -1,5 +1,57 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "미 '경제 압박' 언급 후 이란 대통령 \"지금이 전쟁 끝낼 때\" - v.daum.net",
+    "title_ko": "미 '경제 압박' 언급 후 이란 대통령 \"지금이 전쟁 끝낼 때\"",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBNLTEzQ1VSeWt3ZmMzY1pBajR6TW53ZzFKbms3WTRFcUVnZm1TSkNmbGNOSWZtd3hldUFQWXBVLTNnemx6MGZnWk9ZMXpCM00?oc=5",
+    "published": "Fri, 21 Aug 2026 13:39:00 GMT",
+    "fetched_at": "2026-08-22 01:21:02",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "방산",
+      "해운"
+    ],
+    "keywords": [
+      "이란",
+      "미국",
+      "경제 압박",
+      "지정학적 리스크",
+      "유가",
+      "중동"
+    ],
+    "reason": "미국의 이란 경제 압박 지속과 이란의 반응은 중동 지역의 지정학적 불안감을 유지시키며, 국제 유가 변동성 및 글로벌 공급망 불확실성을 높일 수 있다.",
+    "action_point": "중동 지정학적 리스크 지속에 따른 유가 변동성 확대에 대비하여 에너지 섹터 관련 투자 전략을 재검토한다."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "이란 대통령 \"승기 잡은 지금 전쟁 끝내야\"…美 제재 예고에 강력 반발 - 머니투데이 - 머니투데이",
+    "title_ko": "이란 대통령 \"승기 잡은 지금 전쟁 끝내야\"…美 제재 예고에 강력 반발 - 머니투데이",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBJdzI2b0t5TThuZ05IMklVRkZLcmpEMXhHakFHblY3NkNVYVN5UTBIQVMwd0l4RWVuOUJ4RlZfVWVUUGZTUUNtZEtKZDNiLUs1dVpUNUhkRTlyMGV3b0lVaWRoV3FfcW1m0gFuQVVfeXFMTU45TXJfMDZpbDQxN295UEs0NjY0NS1HQ1ZQbUd6UGZaNDl5U1NhdU1wZGRKZUJfb3BLUmJQWHJ5YWQ1eXZRU2pUZVZ6cGc3bTJyUjVETDFHZDhuWTU2TVNWVTQ4a1R3MnNhZGFzTmc?oc=5",
+    "published": "Fri, 21 Aug 2026 14:20:38 GMT",
+    "fetched_at": "2026-08-22 01:21:10",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "방산",
+      "해운"
+    ],
+    "keywords": [
+      "이란",
+      "미국",
+      "제재",
+      "중동",
+      "지정학",
+      "유가"
+    ],
+    "reason": "이란 대통령의 강경 발언과 미국의 제재 예고는 중동 지정학적 긴장을 고조시키며, 글로벌 에너지 시장의 불확실성을 증대시켜 유가 상승 압력을 가하고 투자 심리를 위축시킬 수 있습니다.",
+    "action_point": "유가 상승 가능성에 대비하여 에너지 섹터 비중을 점검하고, 지정학적 위험 회피 자산에 대한 관심을 확대하십시오."
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "Gold rebounds as bond jitters, debt fears and weaker dollar revive bullion demand",
@@ -2931,57 +2983,5 @@
     ],
     "reason": "우크라이나 내부 정치적 불안정성 증가는 전쟁 상황 불확실성을 높여 지정학적 리스크 프리미엄을 확대할 수 있습니다. 이는 투자 심리 위축 및 안전자산 선호 심리를 자극할 가능성이 있습니다.",
     "action_point": "글로벌 지정학적 리스크 확대를 대비하여 안전자산(달러, 금 등) 비중 유지 또는 소폭 확대를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Seoul, Washington to halve joint drills as Trump reportedly seeks summit with North Korea's Kim",
-    "title_ko": "서울과 워싱턴, 트럼프의 김정은 북미정상회담 추진 보도에 따라 연합훈련 절반으로 축소",
-    "link": "https://www.cnbc.com/2026/08/19/south-korea-trump-military-drills-exercise-north-korea-kim-jong-un-.html",
-    "published": "Wed, 19 Aug 2026 01:57:05 GMT",
-    "fetched_at": "2026-08-19 16:31:53",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "방위산업",
-      "관광/소비재",
-      "금융"
-    ],
-    "keywords": [
-      "북미정상회담",
-      "한미연합훈련",
-      "한반도 비핵화",
-      "지정학적 리스크",
-      "남북 관계"
-    ],
-    "reason": "한미 연합훈련 축소 및 북미정상회담 추진은 한반도 지정학적 리스크 완화 기대로 이어져 국내 시장 투자 심리 개선과 원화 강세 요인으로 작용할 수 있습니다.",
-    "action_point": "한반도 지정학적 리스크 완화에 따른 국내 주식 비중 확대를 검토하고, 방위산업 섹터는 투자 비중 축소를 고려하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "CNBC Daily Open: Robots rising, tariff turnaround and yield nerves",
-    "title_ko": "CNBC 데일리 오픈: 로봇주 부상, 관세 정책 변화, 채권 수익률 불안",
-    "link": "https://www.cnbc.com/2026/08/19/cnbc-daily-open-robots-rising-tariff-turnaround-and-yield-nerves.html",
-    "published": "Wed, 19 Aug 2026 06:10:54 GMT",
-    "fetched_at": "2026-08-19 16:32:22",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "로봇/자동화",
-      "기술주",
-      "성장주",
-      "반도체"
-    ],
-    "keywords": [
-      "로봇",
-      "중국",
-      "지정학적 긴장",
-      "채권 수익률",
-      "금리",
-      "증시"
-    ],
-    "reason": "중국 로봇 기업의 급등은 개별 섹터의 잠재력을 보여주나, 지속되는 지정학적 긴장과 채권 시장의 약세로 인한 금리 상승 압력은 전반적인 주식 시장에 하방 압력을 가하며 투자심리를 위축시키고 있습니다.",
-    "action_point": "금리 상승 압력과 지정학적 불확실성 증대에 대비하여 포트폴리오의 방어적 비중을 확대하고, 금리 민감 성장주에 대한 보수적인 접근을 유지하라."
   }
 ]
