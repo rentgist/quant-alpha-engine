@@ -2,6 +2,84 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "No more doom scrolling or Instagram Stories? A Meta trial loss could end the social media we know",
+    "title_ko": "둠 스크롤링이나 인스타그램 스토리는 사라지는가? 메타의 재판 패배는 우리가 아는 소셜 미디어를 끝낼 수 있다",
+    "link": "https://www.cnbc.com/2026/08/21/meta-social-media-lawsuit-trial-instagram-facebook.html",
+    "published": "Fri, 21 Aug 2026 12:11:14 GMT",
+    "fetched_at": "2026-08-21 22:37:50",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "기술",
+      "미디어",
+      "광고"
+    ],
+    "keywords": [
+      "메타",
+      "소셜 미디어",
+      "규제",
+      "빅테크",
+      "법적 리스크"
+    ],
+    "reason": "메타의 주요 소송 패소 가능성은 소셜 미디어 산업 전반에 걸친 대규모 규제 강화와 비즈니스 모델 변화를 야기할 수 있으며, 이는 빅테크 기업들의 법적 리스크를 증가시킬 것입니다.",
+    "action_point": "글로벌 소셜 미디어 및 디지털 광고 플랫폼 기업 비중 축소를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "U.S., Canada near final trade deal as Trump tariff deadline looms",
+    "title_ko": "트럼프 관세 시한 임박, 미국과 캐나다 최종 무역 협상 근접",
+    "link": "https://www.cnbc.com/2026/08/21/trump-canada-tariffs-trade-deal-deadline.html",
+    "published": "Fri, 21 Aug 2026 13:32:50 GMT",
+    "fetched_at": "2026-08-21 22:37:58",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "제조업",
+      "유통",
+      "소비재",
+      "물류",
+      "금융"
+    ],
+    "keywords": [
+      "미국",
+      "캐나다",
+      "무역협상",
+      "관세",
+      "불확실성 해소",
+      "트럼프"
+    ],
+    "reason": "미국과 캐나다 간 무역 협상 타결이 임박함에 따라, 트럼프 행정부의 추가 관세 부과 위협이 해소되어 북미 교역 관련 기업들의 불확실성이 크게 감소하고 투자 심리가 개선될 것으로 예상됩니다.",
+    "action_point": "북미 무역 의존도가 높은 제조업 및 소비재 섹터의 투자 비중 확대를 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "미국 경제압박 예고에…이란 국회의장 “부당한 제재 극복해야” - 한겨레",
+    "title_ko": "미국 경제압박 예고에…이란 국회의장 “부당한 제재 극복해야”",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNTdFeW9hZTdnTG93cUN4Z1FwOWY3OGROLUY3dUNWNVZ5N3ZnUlBnWVQwcmFvYmpLTGc3emt3MkFGVHp6YTlyMlZkWkl1ZWFsNXFSNGFZemZaYzg5Y0RTOGlSSE1oZkRvSFhqMXJ0ODhMelRISUNlVmhhOGRiZHYxTnFB?oc=5",
+    "published": "Fri, 21 Aug 2026 13:10:00 GMT",
+    "fetched_at": "2026-08-21 22:38:06",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "원자재",
+      "방산",
+      "해운"
+    ],
+    "keywords": [
+      "미국 제재",
+      "이란",
+      "지정학",
+      "원유",
+      "중동"
+    ],
+    "reason": "미국의 이란 경제압박 예고는 중동 지역의 지정학적 긴장을 고조시키며, 이는 국제 유가 변동성 확대 및 안전자산 선호 심리를 자극할 수 있습니다.",
+    "action_point": "중동 지정학적 리스크 관련 에너지 섹터 비중 확대 또는 유가 관련 파생상품 헤지 검토."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "NATO member Romania scrambles F-16 fighter jets to destroy drone near critical European gas project",
     "title_ko": "NATO 회원국 루마니아, 유럽 핵심 가스 프로젝트 인근 드론 파괴 위해 F-16 전투기 긴급 출격",
     "link": "https://www.cnbc.com/2026/08/21/romania-russia-ukraine-drone-gas-nato.html",
@@ -2904,79 +2982,5 @@
     ],
     "reason": "미국의 이란 경제 제재가 예상보다 효과를 보지 못하고 있어 중동 지역의 지정학적 긴장이 장기화될 수 있음을 시사하며, 이는 글로벌 유가 변동성 확대 및 공급망 불안정으로 이어질 수 있습니다.",
     "action_point": "중동 지정학적 긴장 장기화 가능성에 대비하여 에너지 및 원자재 관련 자산 비중을 유지하고 변동성 확대에 대비하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[속보] “트럼프, 이르면 올가을 北 김정은과 정상회담 추진” - 중앙일보",
-    "title_ko": "트럼프, 이르면 올가을 北 김정은과 정상회담 추진",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5pV0FzejlEck1zNHFxTTh0RWtlOVdndXNCbGFBU1I2WWUzM3dtMDItNmFENnJ1TjJpcEdBcVN1eGludnVXaE4wTXVHeVR6UkpJVno2akpn?oc=5",
-    "published": "Tue, 18 Aug 2026 23:14:07 GMT",
-    "fetched_at": "2026-08-19 16:33:02",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "방산",
-      "금융",
-      "관광"
-    ],
-    "keywords": [
-      "트럼프",
-      "김정은",
-      "북미정상회담",
-      "지정학적 리스크",
-      "한반도"
-    ],
-    "reason": "트럼프-김정은 정상회담 추진 소식은 한반도 지정학적 리스크 완화 기대로 국내 증시 및 원화 가치에 긍정적으로 작용할 수 있습니다. 다만 트럼프의 예측 불가능성이 결과의 불확실성을 높입니다.",
-    "action_point": "한반도 지정학적 리스크 완화 가능성에 따른 방산 섹터 비중 축소를 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[경제읽기] 원‧달러 환율 1,300원 대로 하락…코스피 급락 - 연합뉴스TV",
-    "title_ko": "[경제읽기] 원‧달러 환율 1,300원 대로 하락…코스피 급락",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1aM0hEUnJWeVRzaUZMNjdhSTkwb3ZXVlZoTy1lMDN0MElaYWc5dnF2dUMtUGZVOXdJU3FOdXFuVXRaZUp6ekZyOGxkWkRuYmRCT0JOeVJSb2NuNzVfOEFFbjdQSnlPU28?oc=5",
-    "published": "Wed, 19 Aug 2026 04:19:00 GMT",
-    "fetched_at": "2026-08-19 16:33:15",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "전반적 증시",
-      "수출주",
-      "수입주",
-      "금융"
-    ],
-    "keywords": [
-      "원달러 환율",
-      "코스피",
-      "환율 변동성",
-      "시장 급락"
-    ],
-    "reason": "원화 강세에도 불구하고 코스피가 급락하는 것은 시장에 강력한 하방 압력이 존재함을 시사하며, 이는 글로벌 경기 둔화 우려 또는 고금리 장기화 가능성과 연관되어 전반적인 투자 심리 위축을 야기한다.",
-    "action_point": "코스피 급락과 원화 강세 흐름을 고려하여 주요 수출주 비중 축소를 검토하고 시장 변동성 확대에 대비한 방어적 자산 확보를 고려한다."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "California AG Bonta says case against Meta is about 'restitution and distortion,' not damages",
-    "title_ko": "캘리포니아 법무장관 본타, 메타 소송은 '배상과 왜곡'에 관한 것이지 손해배상이 아니라고 밝혀",
-    "link": "https://www.cnbc.com/2026/08/18/meta-attorneys-general-opening-arguments-california-bonta-restitution.html",
-    "published": "Wed, 19 Aug 2026 01:34:22 GMT",
-    "fetched_at": "2026-08-19 16:32:10",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "기술",
-      "소셜 미디어"
-    ],
-    "keywords": [
-      "메타",
-      "법률 리스크",
-      "캘리포니아",
-      "규제",
-      "소셜 미디어"
-    ],
-    "reason": "캘리포니아 법무장관의 발언은 메타에 대한 법적 소송의 재정적 위험이 당초 예상보다 크지 않을 수 있음을 시사하며, 이는 단기적으로 메타의 주가에 긍정적인 영향을 줄 수 있습니다.",
-    "action_point": "메타 주식에 대한 법률 리스크 부담이 완화되었으므로 해당 종목 보유 포지션 유지를 검토."
   }
 ]
