@@ -2,6 +2,81 @@
   {
     "source": "GoogleNews_Korea",
     "market": "KR",
+    "title": "이란 대통령 \"우리가 힘 가진 지금이 전쟁 끝낼 때\"(종합) - 연합뉴스",
+    "title_ko": "이란 대통령 '우리가 힘 가진 지금이 전쟁 끝낼 때'(종합)",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IelNCeFRxV2NDSjNUZkRqVlhza1hnTG9BeVE5X2NqN3VhdE5WX0UwTEJ5NEdyN2lHclo0WFVTMkZrbk5HTzlsdElpcldVckVCWWNwNGx0RE1JV0HSAWBBVV95cUxQZHdpRUQ5a3FfTjRoMTB3a09NMXMwSlVZWUNyVXg1LWVpcXg5LXdFQmRpTEdMWkl5SDVFamU1WTVzeDNFbXVrbHFfR2FaUl9vNnRjN0FURXJhWHB0THB0WGw?oc=5",
+    "published": "Fri, 21 Aug 2026 13:00:16 GMT",
+    "fetched_at": "2026-08-22 04:20:05",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "원유/에너지",
+      "항공/해운"
+    ],
+    "keywords": [
+      "이란",
+      "중동 정세",
+      "지정학적 리스크",
+      "원유 가격",
+      "전쟁 종식"
+    ],
+    "reason": "이란 대통령의 발언은 중동 지역의 긴장 완화 가능성을 시사하며, 이는 글로벌 지정학적 리스크 프리미엄을 낮추고 유가 안정에 기여할 수 있습니다. 다만, 실제 행동으로 이어질지는 불확실합니다.",
+    "action_point": "중동 지정학적 리스크 완화 시그널에 따른 국제 유가 하방 압력 가능성을 주시하며 에너지 관련 자산 비중을 재조정하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[국제]유럽 기록적 가뭄에 각국 원전 '스톱'...국제 곡물가 2년 만에 최고치 - YTN",
+    "title_ko": "유럽 기록적 가뭄에 각국 원전 '스톱'...국제 곡물가 2년 만에 최고치",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1HUnpOWmhZVXB3bkZDMWRuN19JbXNKWEtnWUVWWTNURy1RTEY5alk3UmNZOFh2LWliVzByQk42Y0t1UWtUUWd2UmdIMnZqeFZ5cXpaRmNEM0txa2ttVmtTaDdwN3JWVDV2bmt2ekVpYw?oc=5",
+    "published": "Fri, 21 Aug 2026 16:20:00 GMT",
+    "fetched_at": "2026-08-22 04:20:19",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "농업",
+      "식료품",
+      "유틸리티",
+      "원자재"
+    ],
+    "keywords": [
+      "유럽 가뭄",
+      "에너지 위기",
+      "곡물가",
+      "인플레이션"
+    ],
+    "reason": "유럽의 기록적인 가뭄이 전력 생산 차질과 국제 곡물가 급등을 야기하여 글로벌 에너지 위기와 식량 인플레이션을 심화시키고, 유럽 경제 둔화 압력을 가중시킨다.",
+    "action_point": "유럽발 에너지 위기와 식량 인플레이션 심화에 대비하여 원자재 및 인플레이션 헤지 자산 비중을 늘리고 유럽 경기 민감 자산 비중 축소를 고려하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Trump to allow import of 300,000 metric tons of ground beef without tariff",
+    "title_ko": "트럼프, 관세 없이 30만 톤의 소고기 수입 허용 예정",
+    "link": "https://www.cnbc.com/2026/08/21/trump-ground-beef-import-tariff.html",
+    "published": "Fri, 21 Aug 2026 16:42:13 GMT",
+    "fetched_at": "2026-08-22 04:19:52",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "음식료",
+      "소비재"
+    ],
+    "keywords": [
+      "소고기",
+      "관세",
+      "수입",
+      "물가",
+      "인플레이션",
+      "미국"
+    ],
+    "reason": "미국 내 소고기 가격 급등에 대응하여 관세 없이 수입을 허용하는 조치로, 미국 식품 물가 안정에 기여하며 소비재 섹터의 원가 부담 완화에 긍정적 영향을 미칠 수 있다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
     "title": "미 '경제 압박' 언급 후 이란 대통령 \"지금이 전쟁 끝낼 때\" - v.daum.net",
     "title_ko": "미 '경제 압박' 언급 후 이란 대통령 \"지금이 전쟁 끝낼 때\"",
     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBNLTEzQ1VSeWt3ZmMzY1pBajR6TW53ZzFKbms3WTRFcUVnZm1TSkNmbGNOSWZtd3hldUFQWXBVLTNnemx6MGZnWk9ZMXpCM00?oc=5",
@@ -2908,80 +2983,5 @@
     ],
     "reason": "이란의 쿠웨이트 침공 검토 및 해저 케이블 절단 계획은 중동 지정학적 위험의 심각한 고조를 의미하며, 이는 국제 유가 급등과 글로벌 물류 및 통신 마비로 이어져 전 세계 경제에 막대한 충격을 줄 수 있습니다.",
     "action_point": "중동발 지정학적 위험 고조에 대비하여 방산 및 에너지 관련 자산 비중 확대를 검토하고 달러 보유를 강화하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "김영익 \"내년 상반기 그간 못봤던 거대 금융위기 벌어질 가능성 있어\" - 조선일보",
-    "title_ko": "김영익 \"내년 상반기 그간 못봤던 거대 금융위기 벌어질 가능성 있어\"",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUmMwcHpHcnhUWUtnRDZwc1RnNklsOWg3QlpISjNLQWw2T0VYb3Z4akt3UHV3NV9YWE5qQjE2eEdhTVFtekxqWWthTEEweU5PZE1VaS1uSzByaTZrTGVSM2RZZEZ5UVNDSVFnLWFDOHdFc25DcDNQUWJiYU9YZDBHRA?oc=5",
-    "published": "Tue, 18 Aug 2026 20:36:27 GMT",
-    "fetched_at": "2026-08-19 16:33:33",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "전 금융권",
-      "부동산",
-      "경기민감주"
-    ],
-    "keywords": [
-      "금융위기",
-      "경기침체",
-      "고금리",
-      "시장불안"
-    ],
-    "reason": "유명 경제학자의 거대 금융위기 가능성 언급은 시장 전반의 불확실성과 투자심리를 급격히 위축시키며, 모든 자산군의 투자 회피 심리를 강화할 것입니다.",
-    "action_point": "고위험 자산 비중을 축소하고 현금 및 방어적 자산(예: 달러, 단기 국채) 비중 확대를 검토하라."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Goldman studied where AI is squeezing labor markets. Here's what it found",
-    "title_ko": "골드만삭스, AI가 노동 시장을 압박하는 영역 연구 결과 발표",
-    "link": "https://www.cnbc.com/2026/08/19/goldman-ai-impact-employment-jobs.html",
-    "published": "Wed, 19 Aug 2026 06:55:57 GMT",
-    "fetched_at": "2026-08-19 16:30:49",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "IT (AI/반도체/클라우드)",
-      "노동집약적 서비스업",
-      "소비재"
-    ],
-    "keywords": [
-      "AI",
-      "노동 시장",
-      "고용 영향",
-      "골드만삭스"
-    ],
-    "reason": "AI의 확산은 선진국 노동 시장의 고용 압박과 임금 하락 압력으로 이어져 장기적으로 소비 지출과 경제 성장에 부정적 영향을 미칠 수 있으나, AI 관련 기술 기업에는 긍정적 기회 요인입니다.",
-    "action_point": "AI 수혜 기술 기업 비중 확대 및 노동집약적/자동화 취약 산업 비중 축소를 검토하십시오."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Zelenskyy faces challenge to his wartime rule as former defense chief calls for election",
-    "title_ko": "젤렌스키, 전 국방장관의 전시 선거 요구로 전운 통치에 도전 직면",
-    "link": "https://www.cnbc.com/2026/08/19/ukraine-war-fedorov-zelenskky-election.html",
-    "published": "Wed, 19 Aug 2026 07:06:09 GMT",
-    "fetched_at": "2026-08-19 16:31:31",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "방산",
-      "에너지",
-      "원자재",
-      "지정학적 위험 관련 섹터"
-    ],
-    "keywords": [
-      "젤렌스키",
-      "우크라이나",
-      "선거",
-      "정치적 불안정",
-      "전시",
-      "지정학"
-    ],
-    "reason": "우크라이나 내부 정치적 불안정성 증가는 전쟁 상황 불확실성을 높여 지정학적 리스크 프리미엄을 확대할 수 있습니다. 이는 투자 심리 위축 및 안전자산 선호 심리를 자극할 가능성이 있습니다.",
-    "action_point": "글로벌 지정학적 리스크 확대를 대비하여 안전자산(달러, 금 등) 비중 유지 또는 소폭 확대를 검토하라."
   }
 ]
