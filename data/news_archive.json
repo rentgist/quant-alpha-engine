@@ -1,5 +1,30 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Japan's historic yen intervention has ‘turbo-charged’ the carry trade",
+    "title_ko": "일본의 역사적인 엔 개입이 캐리 트레이드를 '강화'시켰다",
+    "link": "https://www.cnbc.com/2026/08/20/us-japan-yen-intervention-bank-of-japan-carry-trade.html",
+    "published": "Fri, 21 Aug 2026 02:28:08 GMT",
+    "fetched_at": "2026-08-21 15:29:15",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "환율",
+      "금리",
+      "자산운용"
+    ],
+    "keywords": [
+      "일본 엔화",
+      "외환 개입",
+      "캐리 트레이드",
+      "금리 차이",
+      "통화 정책"
+    ],
+    "reason": "일본의 엔화 방어 개입이 오히려 엔화를 빌려 고금리 자산에 투자하는 캐리 트레이드의 매력을 높였다. 이는 글로벌 자본이 고금리 자산으로 이동하는 경향을 심화시킬 수 있다.",
+    "action_point": "엔화 약세 지속에 대비, 고금리 통화 및 자산 투자 비중 유지."
+  },
+  {
     "source": "GoogleNews_Korea",
     "market": "KR",
     "title": "美 “우리 편인가, 맞설 것인가“…동맹에 ’이란 경제 고립’ 동참 압박 - 연합뉴스TV",
@@ -2937,31 +2962,5 @@
     ],
     "reason": "버크셔 해서웨이의 견조한 실적과 막대한 현금의 적극적인 투자는 광범위한 산업 부문에 대한 긍정적 전망을 시사하며, 시장 전반의 투자 심리 개선에 기여할 수 있습니다.",
     "action_point": "버크셔 해서웨이의 현금 투자 방향을 고려하여 산업재 및 에너지 섹터 내 저평가 우량주 발굴을 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "스마트홈 패권 전쟁, 전장은 아파트 - 한국아파트신문",
-    "title_ko": "스마트홈 패권 전쟁, 전장은 아파트",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE52TDJWdm1PVTlEd1dWekVSZ2t2bi1CYWQxdzFqNVpMdzdwNVpScW1qbTJjSGNoeDh0b040UlZuQ0RuTnlNSU1NcnJMSW44OVRSa0p2dmxsNHpSNFpZRF9GQ2NMTUtHc2JP?oc=5",
-    "published": "Sat, 08 Aug 2026 07:00:00 GMT",
-    "fetched_at": "2026-08-08 22:38:37",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "건설",
-      "부동산",
-      "IT/가전",
-      "통신"
-    ],
-    "keywords": [
-      "스마트홈",
-      "아파트",
-      "사물인터넷(IoT)",
-      "건설",
-      "플랫폼 경쟁"
-    ],
-    "reason": "국내 아파트 시장에서 스마트홈 기술 경쟁이 심화되고 있음을 보여주며, 건설 및 IT/가전 업종 내 관련 기업들의 사업 기회 확대를 시사한다. 하지만 거시 경제 전반이나 주요 자산군에 미치는 직접적인 영향은 제한적이다.",
-    "action_point": "해당 없음"
   }
 ]
