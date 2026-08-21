@@ -1,5 +1,29 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Gold rebounds as bond jitters, debt fears and weaker dollar revive bullion demand",
+    "title_ko": "미 국채 시장 불안, 부채 우려, 달러 약세로 금 수요 부활",
+    "link": "https://www.cnbc.com/2026/08/21/gold-prices-us-debt-dollar.html",
+    "published": "Fri, 21 Aug 2026 13:21:19 GMT",
+    "fetched_at": "2026-08-22 00:24:24",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "원자재",
+      "금융"
+    ],
+    "keywords": [
+      "금",
+      "국채",
+      "부채",
+      "달러",
+      "안전자산"
+    ],
+    "reason": "미국 부채 우려와 높은 국채 금리, 약세 달러가 복합적으로 작용하며 투자자들이 위험 회피 심리로 안전자산인 금으로 이동하고 있음을 시사한다. 이는 주식 등 위험자산에 대한 투자 심리 위축 및 시장 변동성 확대로 이어질 수 있다.",
+    "action_point": "포트폴리오 내 금과 같은 안전자산 비중 확대를 검토하라."
+  },
+  {
     "source": "GoogleNews_Korea",
     "market": "KR",
     "title": "서울의 밤, 달라진다! '서울형 야간경제' 본격화 - 서울특별시",
@@ -2959,30 +2983,5 @@
     ],
     "reason": "중국 로봇 기업의 급등은 개별 섹터의 잠재력을 보여주나, 지속되는 지정학적 긴장과 채권 시장의 약세로 인한 금리 상승 압력은 전반적인 주식 시장에 하방 압력을 가하며 투자심리를 위축시키고 있습니다.",
     "action_point": "금리 상승 압력과 지정학적 불확실성 증대에 대비하여 포트폴리오의 방어적 비중을 확대하고, 금리 민감 성장주에 대한 보수적인 접근을 유지하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "“이미 경제위기, 서민 삶 붕괴되고 있다”...디젤값이 폭등하면 벌어지는 일 - 매일경제",
-    "title_ko": "“이미 경제위기, 서민 삶 붕괴되고 있다”...디젤값이 폭등하면 벌어지는 일",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAxZDRNWVVSbU5DY3czdmFJN3BLRTgzMTNWeXl0bnV5X184NzcyalFmRTRDWGJYVDlxRjRWSVpJNXptSFhNZjFIZ2Z2dllISFpzeko4Yg?oc=5",
-    "published": "Wed, 19 Aug 2026 00:26:42 GMT",
-    "fetched_at": "2026-08-19 16:32:31",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "물류/운송",
-      "제조업",
-      "유통/소비재"
-    ],
-    "keywords": [
-      "디젤값 폭등",
-      "경제위기",
-      "인플레이션",
-      "서민경제",
-      "물가상승"
-    ],
-    "reason": "디젤 가격 폭등은 물류 및 운송 비용을 전반적으로 상승시켜 전 산업에 걸쳐 인플레이션 압력을 가중시키고, 이는 가계의 실질 구매력 감소와 기업 수익성 악화로 이어져 경기 둔화를 심화시킬 수 있습니다.",
-    "action_point": "물가상승 압력과 소비 위축에 취약한 운송 및 내수 소비재 섹터 비중 축소를 검토하라."
   }
 ]
