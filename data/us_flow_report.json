@@ -1,5 +1,5 @@
 {
-  "generated_at_kst": "2026-08-22 05:16:11",
+  "generated_at_kst": "2026-08-22 06:16:09",
   "market_as_of": "2026-08-21",
   "method": "daily_return_pct_x_volume_ratio_20d",
   "is_actual_fund_flow": false,
@@ -22,15 +22,15 @@
       "ticker": "SPY",
       "name": "S&P 500",
       "pct": 0.4091260447248608,
-      "vol_ratio": 0.7888419986335441,
-      "flow_proxy": 0.32273580681379593
+      "vol_ratio": 0.8357138016806661,
+      "flow_proxy": 0.3419122822035877
     },
     {
       "ticker": "QQQ",
       "name": "Nasdaq 100",
       "pct": 0.353060046908119,
-      "vol_ratio": 0.7903584582050404,
-      "flow_proxy": 0.2790439943281002
+      "vol_ratio": 0.8389482695365545,
+      "flow_proxy": 0.2961991153960612
     },
     {
       "ticker": "SOXX",
