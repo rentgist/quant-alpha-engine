@@ -2,6 +2,29 @@
   {
     "source": "CNBC_Finance",
     "market": "US",
+    "title": "Samsung plans up to $80 billion in shareholder returns after SK Hynix buyback",
+    "title_ko": "삼성전자, SK하이닉스 자사주 매입 후 최대 800억 달러 주주 환원 계획",
+    "link": "https://www.cnbc.com/2026/08/21/samsung-shareholder-return-package-sk-hynix-buyback-ai-chip-boom.html",
+    "published": "Fri, 21 Aug 2026 09:08:18 GMT",
+    "fetched_at": "2026-08-21 20:17:39",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "반도체",
+      "IT",
+      "대형주"
+    ],
+    "keywords": [
+      "삼성전자",
+      "주주환원",
+      "배당"
+    ],
+    "reason": "삼성전자의 대규모 주주환원 계획은 견조한 실적과 주주가치 제고 의지를 강하게 시사하며, 이는 IT 및 반도체 섹터 전반에 긍정적인 투자 심리를 형성할 것입니다.",
+    "action_point": "반도체 및 대형 기술주 포트폴리오 비중 유지 또는 확대 검토."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
     "title": "Stocks making the biggest moves premarket: Walmart, Coinbase, Moderna, Alibaba & more",
     "title_ko": "개장 전 가장 큰 움직임을 보이는 주식들: 월마트, 코인베이스, 모더나, 알리바바 외",
     "link": "https://www.cnbc.com/2026/08/20/stocks-making-the-biggest-moves-premarket-.html",
@@ -2952,26 +2975,5 @@
     ],
     "reason": "중국 로봇 제조업체의 상하이 증시 폭등은 중국 하이테크 및 로봇 산업에 대한 투자자들의 강한 낙관론을 반영하며, 글로벌 기술주 및 AI 관련 섹터에 대한 관심 증가를 시사합니다.",
     "action_point": "로봇 및 자동화 관련 글로벌 기술주 비중 확대 검토"
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "“요즘 로또 1등도 10억 안되는데”…11억 차익 ‘줍줍’에 9만명 몰렸다",
-    "title_ko": "“요즘 로또 1등도 10억 안되는데”…11억 차익 ‘줍줍’에 9만명 몰렸다",
-    "link": "https://www.mk.co.kr/news/realestate/12131309",
-    "published": "Wed, 19 Aug 2026 16:29:36 +09:00",
-    "fetched_at": "2026-08-19 16:34:11",
-    "sentiment": "호재",
-    "importance": 2,
-    "sectors": [
-      "부동산"
-    ],
-    "keywords": [
-      "무순위 청약",
-      "시세차익",
-      "서울 부동산"
-    ],
-    "reason": "서울 핵심지 아파트 무순위 청약에 대규모 자금이 몰린 것은 여전히 높은 부동산 시세차익 기대감과 풍부한 유동성이 특정 자산으로 쏠리는 현상을 보여줍니다.",
-    "action_point": "서울 핵심지 부동산 자산 비중 유지 또는 확대 검토."
   }
 ]
