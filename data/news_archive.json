@@ -1,5 +1,82 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Japan headline inflation rate hits highest this year as energy prices bite",
+    "title_ko": "일본 헤드라인 물가, 에너지 가격 상승으로 올해 최고치 기록",
+    "link": "https://www.cnbc.com/2026/08/21/japan-inflation-iran-war-energy.html",
+    "published": "Fri, 21 Aug 2026 02:13:18 GMT",
+    "fetched_at": "2026-08-21 11:18:33",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "금융",
+      "에너지",
+      "원자재",
+      "소비재"
+    ],
+    "keywords": [
+      "일본 인플레이션",
+      "에너지 가격",
+      "일본은행",
+      "통화정책",
+      "엔화"
+    ],
+    "reason": "일본의 물가 상승은 일본은행의 통화 정책 정상화 기대감을 유지시키나, 에너지 가격발 인플레이션은 소비 심리 및 기업 마진에 잠재적 부담으로 작용할 수 있다.",
+    "action_point": "일본은행의 통화 정책 정상화 가능성에 따른 엔화 강세 압력에 대비하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "이란 전쟁 6개월에 '경제적 D-day'...중국은 사실상 \"반대\" - YTN",
+    "title_ko": "이란 전쟁 6개월에 '경제적 D-day'...중국은 사실상 \"반대\" - YTN",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1NakF5SHFzWks4TXEyZ2lhV0ZOS0Uyc0NFNGJleFRUM1RtZ3lfSkV0a1BxZmw2T0VlRHVpQWZjdnR3eTdkdkFLa2V6NWdpa2c1cGZ1N0R2TFpOWXlNaUFMNTlhTE91RUl2ZlFOaWUyODNTQlc1dVE?oc=5",
+    "published": "Fri, 21 Aug 2026 01:53:00 GMT",
+    "fetched_at": "2026-08-21 11:18:43",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "해운",
+      "방산"
+    ],
+    "keywords": [
+      "이란 전쟁",
+      "중동 정세",
+      "유가",
+      "지정학적 리스크",
+      "글로벌 경제"
+    ],
+    "reason": "이란과의 장기전은 유가 상승 압력을 가중시키고 글로벌 공급망 불안정 및 인플레이션 우려를 심화시켜 전반적인 금융 시장에 악재로 작용할 것입니다.",
+    "action_point": "지정학적 리스크 상승에 따른 에너지 관련 자산 비중 조정 및 방산 섹터 주시."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Chinese humanoid robots' biggest obstacle: humans are still (mostly) better",
+    "title_ko": "중국 휴머노이드 로봇의 가장 큰 장애물: 인간이 여전히 (대부분) 더 낫다",
+    "link": "https://www.cnbc.com/2026/08/21/chinese-humanoid-robots-face-challenge-of-their-own-capabilities.html",
+    "published": "Fri, 21 Aug 2026 01:56:01 GMT",
+    "fetched_at": "2026-08-21 11:18:09",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "로봇",
+      "자동화",
+      "제조업",
+      "기술"
+    ],
+    "keywords": [
+      "휴머노이드 로봇",
+      "자동화",
+      "생산성",
+      "노동력",
+      "기술 발전"
+    ],
+    "reason": "휴머노이드 로봇의 효율성 한계가 언급되며, 광범위한 인간 노동 대체 및 생산성 향상 기대 시점이 늦춰질 수 있음을 시사합니다. 이는 로봇 및 자동화 관련 산업의 단기 성장 기대감에 영향을 줄 수 있습니다.",
+    "action_point": "휴머노이드 로봇 상용화에 직접적으로 의존하는 기업들의 단기 실적 전망을 보수적으로 재평가하라."
+  },
+  {
     "source": "GoogleNews_Korea",
     "market": "KR",
     "title": "트럼프 대통령, 이란 상대 ‘파괴적’ 경제 압박 선언…이란에 숨통 틔워주는 국가들에 경고 - VOA 한국어 홈페이지",
@@ -2870,81 +2947,5 @@
     ],
     "reason": "강릉 및 동해 지역의 국지성 폭우는 단기적으로 해당 지역의 관광 및 상업 활동을 위축시키고, 인프라 손상 및 재산 피해로 인한 보험금 청구 증가로 이어질 수 있습니다.",
     "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "U.S. Senate passes short-term funding bill to avert federal shutdown before election",
-    "title_ko": "미국 상원, 선거 전 연방 셧다운 방지를 위한 단기 예산안 통과",
-    "link": "https://www.cnbc.com/2026/08/08/us-senate-passes-short-term-funding-bill-to-avert-federal-shutdown.html",
-    "published": "Sat, 08 Aug 2026 08:48:40 GMT",
-    "fetched_at": "2026-08-08 18:28:32",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "전반적 시장"
-    ],
-    "keywords": [
-      "미국 상원",
-      "셧다운",
-      "단기 예산안",
-      "선거"
-    ],
-    "reason": "미국 연방정부 셧다운이라는 주요 정치적/경제적 불확실성 요인이 단기적으로 해소됨으로써 시장의 전반적인 안정과 위험 선호 심리 회복에 긍정적으로 작용합니다.",
-    "action_point": "미국 정치 불확실성 감소에 따른 위험자산 전반에 대한 긍정적 시각을 유지합니다."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "미군, 이란전쟁 출구전략 검토…공습 한계에 탄약도 부족 - 경향신문",
-    "title_ko": "미군, 이란전쟁 출구전략 검토…공습 한계에 탄약도 부족",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGcTczYXdFeTdGSTRna3NqTnVBdWVicXdfNWZoR24zNnBON01kZEZqd2ttNmIyQVlGQW1Gb3RNWVRBajNFVHBncEhaN3JIU2ZBZmhwbUMyNEZ4Z9IBX0FVX3lxTE9mYWdXRzJVNW9kd2Y2dkdaczZTOEI1Z3JTSWo4MTJQRFRrTnJBNTVOUThPaXVmVHJYNWFPSXAzX3ExRHVJQUpUR2NIUEdWQXI5d01ENWF4eXFsOUpPZ0ZN?oc=5",
-    "published": "Sat, 08 Aug 2026 06:56:00 GMT",
-    "fetched_at": "2026-08-08 17:29:03",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "방산",
-      "글로벌 리스크 자산"
-    ],
-    "keywords": [
-      "미국",
-      "이란",
-      "지정학",
-      "중동",
-      "유가",
-      "방산",
-      "출구전략"
-    ],
-    "reason": "미군이 이란 관련 분쟁의 출구전략을 검토하는 것은 중동의 지정학적 긴장 완화 가능성을 시사하며, 이는 글로벌 위험자산 선호심리 개선 및 유가 안정화에 긍정적 영향을 미칠 수 있습니다. 동시에 미국의 군사 전략 및 방산 수요 변화를 암시합니다.",
-    "action_point": "중동 지정학적 리스크 완화 가능성에 대비해 원자재 포트폴리오 내 유가 관련 자산 비중 축소 검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "다음주 경제지표 줄줄이 공개… 가계대출·고용·수출입물가 주목 - 천지일보",
-    "title_ko": "다음주 경제지표 줄줄이 공개… 가계대출·고용·수출입물가 주목",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1iWDBDTXhjTHdfMHFCM2ZGUFpCZTlDa0loVXJFc2lMSHVCeUI0cHFZN3JPamVaTFRuV3JJU2kzbHIwZEVWdzJjVGVHQTMyd29KaHhpbVJTaFdxckJaNkIxeDlhY1MxRm9GZnc?oc=5",
-    "published": "Sat, 08 Aug 2026 06:35:00 GMT",
-    "fetched_at": "2026-08-08 17:29:12",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "금융",
-      "부동산",
-      "소비재",
-      "제조업"
-    ],
-    "keywords": [
-      "경제지표",
-      "가계대출",
-      "고용",
-      "수출입물가",
-      "금리",
-      "인플레이션"
-    ],
-    "reason": "다음 주 발표될 가계대출, 고용, 수출입물가 지표는 한국 경제의 내수 상황과 대외 무역 여건 및 물가 압력을 종합적으로 평가할 핵심 자료다. 이 결과에 따라 한국은행의 통화정책 방향과 시장의 금리, 인플레이션 기대가 크게 영향을 받을 것이다.",
-    "action_point": "발표될 가계대출, 고용, 수출입물가 지표가 국내 금리 및 소비 관련 자산의 변동성을 확대할 수 있으므로 관련 포트폴리오 비중을 재점검하라."
   }
 ]
