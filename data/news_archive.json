@@ -2,6 +2,75 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "Broadcom debt deal expected to reach upwards of $70 billion, sources say",
+    "title_ko": "브로드컴, 700억 달러 규모 부채 조달 예상",
+    "link": "https://www.cnbc.com/2026/08/21/broadcom-debt-deal-expected-to-reach-upwards-of-70-billion-sources.html",
+    "published": "Fri, 21 Aug 2026 15:59:25 GMT",
+    "fetched_at": "2026-08-22 08:14:51",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "반도체",
+      "기술"
+    ],
+    "keywords": [
+      "브로드컴",
+      "부채 조달",
+      "반도체 산업",
+      "M&A"
+    ],
+    "reason": "브로드컴의 대규모 부채 조달은 반도체 산업 내 M&A 및 투자 활동 증가를 시사하며, 이는 기술 섹터의 통합과 성장에 대한 기대를 높일 수 있습니다.",
+    "action_point": "반도체 섹터 내 대규모 M&A 가능성이 있는 기업을 중심으로 투자 포트폴리오를 점검하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "인천공항, 사상 첫 세계 1위…승객 늘자 새치기 문제도 [항공+]",
+    "title_ko": "인천공항, 사상 첫 세계 1위…승객 늘자 새치기 문제도 [항공+]",
+    "link": "https://www.mk.co.kr/news/culture/12133725",
+    "published": "Sat, 22 Aug 2026 08:12:06 +09:00",
+    "fetched_at": "2026-08-22 08:15:01",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "항공",
+      "관광/레저",
+      "유통",
+      "카지노"
+    ],
+    "keywords": [
+      "인천공항",
+      "국제선 여객",
+      "관광",
+      "항공",
+      "인바운드"
+    ],
+    "reason": "인천공항 국제선 여객 실적 세계 1위는 한국 관광 및 항공 산업의 견조한 회복과 성장세를 방증하며, 관련 서비스업 전반의 실적 개선 기대감을 높입니다.",
+    "action_point": "항공, 면세, 호텔, 카지노 등 인바운드 관광 수혜 섹터에 대한 투자 비중 확대 검토."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Trump admin taps former JPMorgan Chase exec Matt Zames to advise Social Security agency",
+    "title_ko": "트럼프 행정부, 전 JP모건 임원 맷 제임스 사회보장국 고문으로 임명",
+    "link": "https://www.cnbc.com/2026/08/21/jpmorgan-matt-zames-social-security-administration.html",
+    "published": "Fri, 21 Aug 2026 15:10:31 GMT",
+    "fetched_at": "2026-08-22 08:14:42",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [],
+    "keywords": [
+      "트럼프 행정부",
+      "사회보장국",
+      "맷 제임스",
+      "정부 현대화"
+    ],
+    "reason": "전 JP모건 임원의 사회보장국 고문 임명은 기관의 효율성 개선을 위한 행정적 조치로, 현재 금융시장이나 거시경제에 직접적인 투자 영향은 미미합니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "Tesla recalls 3 million vehicles in China over doorhandle safety, driver monitoring",
     "title_ko": "테슬라, 중국에서 도어핸들 안전 및 운전자 모니터링 문제로 300만 대 리콜",
     "link": "https://www.cnbc.com/2026/08/21/tesla-recalls-cars-in-china-over-doorhandle-safety-driver-monitoring.html",
@@ -2906,79 +2975,5 @@
     ],
     "reason": "모더나-머크의 암 백신 후기 임상 성공은 해당 기업들의 성장 잠재력을 크게 높이고, mRNA 기술의 적용 범위를 확장하여 바이오/제약 섹터 전반에 긍정적인 투자 심리를 자극합니다.",
     "action_point": "혁신 신약 개발 역량을 갖춘 바이오 및 제약사 투자 기회에 대한 심층 분석을 시작하십시오."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "[속보] 北김여정 “북미 지도자 간 소통 전혀 알지 못하는 일”",
-    "title_ko": "[속보] 北김여정 “북미 지도자 간 소통 전혀 알지 못하는 일”",
-    "link": "https://www.mk.co.kr/news/politics/12131659",
-    "published": "Wed, 19 Aug 2026 22:15:04 +09:00",
-    "fetched_at": "2026-08-19 22:37:27",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "방산",
-      "금융"
-    ],
-    "keywords": [
-      "북미 관계",
-      "지정학적 리스크",
-      "김여정",
-      "대북정책"
-    ],
-    "reason": "북한 김여정의 발언은 북미 간 대화 단절이 지속되고 있음을 재확인하며 한반도 지정학적 리스크 완화에 대한 기대감을 약화시킵니다. 이는 단기적으로 국내 증시의 투자 심리에 부정적 영향을 줄 수 있으나, 기존의 리스크를 크게 변화시키는 수준은 아닙니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "The U.S. banned Nvidia's best chips from going to China. Now it's trying to close a crucial loophole",
-    "title_ko": "미국, 엔비디아 최고사양 칩 對중국 수출 금지 후 핵심 허점 차단 시도",
-    "link": "https://www.cnbc.com/2026/08/19/china-ai-nvidia-chips-us-export-controls.html",
-    "published": "Wed, 19 Aug 2026 10:32:51 GMT",
-    "fetched_at": "2026-08-19 21:25:17",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "반도체",
-      "인공지능",
-      "클라우드 컴퓨팅",
-      "기술"
-    ],
-    "keywords": [
-      "Nvidia",
-      "대중국 수출통제",
-      "AI 칩",
-      "클라우드 접근",
-      "미중 기술 갈등"
-    ],
-    "reason": "미국의 對중국 AI 칩 수출 통제 강화는 기술 공급망의 불확실성을 증대시키고, 중국의 AI 개발 속도를 늦출 수 있습니다. 이는 엔비디아 등 관련 기업의 실적 압박으로 이어질 수 있으며, 미중 기술 갈등 심화를 시사합니다.",
-    "action_point": "반도체 및 클라우드 컴퓨팅 섹터 내 대중국 익스포저가 높은 기업의 투자 비중 축소 검토."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Stocks making the biggest moves premarket: Moderna, Lowe's, Estee Lauder & more",
-    "title_ko": "프리마켓에서 가장 큰 움직임을 보이는 주식: 모더나, 로우스, 에스티로더 외",
-    "link": "https://www.cnbc.com/2026/08/19/stocks-making-the-biggest-moves-premarket-mrna-low-el.html",
-    "published": "Wed, 19 Aug 2026 11:32:40 GMT",
-    "fetched_at": "2026-08-19 21:25:03",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "제약/바이오",
-      "유통",
-      "소비재"
-    ],
-    "keywords": [
-      "프리마켓",
-      "개별 주식",
-      "모더나",
-      "로우스",
-      "에스티로더"
-    ],
-    "reason": "이 기사는 특정 개별 기업들의 프리마켓 움직임을 보도하며, 전체 시장 또는 거시 경제에 미치는 직접적인 영향은 제한적이다. 다만, 언급된 기업들의 주가 변동 요인은 해당 산업 섹터의 투자 심리를 반영할 수 있다.",
-    "action_point": "포트폴리오 내 제약/바이오, 유통, 소비재 섹터 보유 비중을 점검하고 개별 기업별 동향을 주시."
   }
 ]
