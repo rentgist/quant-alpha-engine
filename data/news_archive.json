@@ -1,5 +1,33 @@
 [
   {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "금·비트코인만 오르고 달러는 약세…베센트의 역설",
+    "title_ko": "금·비트코인만 오르고 달러는 약세…베센트의 역설",
+    "link": "https://www.mk.co.kr/news/economy/12133837",
+    "published": "Sat, 22 Aug 2026 17:27:07 +09:00",
+    "fetched_at": "2026-08-22 18:18:19",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "환율",
+      "채권",
+      "원자재",
+      "가상자산",
+      "금융"
+    ],
+    "keywords": [
+      "달러 약세",
+      "미국 재정적자",
+      "국가 부채",
+      "금",
+      "비트코인",
+      "미국 국채"
+    ],
+    "reason": "미국 정부의 장기물 재매입 시도에도 불구하고 재정적자 및 국가부채 문제가 해결되지 않아 달러 약세가 심화되고, 이에 대한 헤지로 금과 비트코인 가격이 급등하고 있다.",
+    "action_point": "미국 재정 건전성 우려에 따른 달러 약세에 대비, 금 및 비트코인 등 대체자산 포트폴리오 비중 확대 검토."
+  },
+  {
     "source": "GoogleNews_Korea",
     "market": "KR",
     "title": "달리오 \"美, '3±2'년내 부채위기…채권 줄이고 금·비트코인 늘려라\" - 연합인포맥스",
@@ -2974,29 +3002,5 @@
     ],
     "reason": "미국-이란의 경제 전쟁 선포는 중동 지정학적 긴장을 고조시키고, 글로벌 원유 공급망 불확실성을 확대하여 유가 급등 및 전반적인 시장 위험 회피 심리를 자극할 것입니다. 특히 이란의 석유 생산국 지위가 유가 변동성 증폭의 핵심 요인으로 작용할 수 있습니다.",
     "action_point": "중동 지정학적 긴장 고조에 따른 유가 변동성 확대와 안전자산 선호 심리 강화에 대비하여 에너지 섹터 및 금 관련 자산 비중을 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Japan exports beat estimates in July as robust chip shipments power fifth straight month of gains",
-    "title_ko": "일본 7월 수출, 강력한 반도체 출하에 힘입어 5개월 연속 예상치 상회",
-    "link": "https://www.cnbc.com/2026/08/20/japan-exports-imports-july-chip-ai.html",
-    "published": "Thu, 20 Aug 2026 00:30:32 GMT",
-    "fetched_at": "2026-08-20 09:40:08",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "반도체",
-      "기술주",
-      "수출주"
-    ],
-    "keywords": [
-      "일본 수출",
-      "반도체",
-      "AI",
-      "글로벌 경기"
-    ],
-    "reason": "일본의 수출 호조, 특히 반도체 및 AI 관련 장비 출하 증가는 글로벌 기술 수요가 견조하며 경기 침체 우려에도 불구하고 견고한 성장 동력을 유지하고 있음을 시사한다. 이는 아시아 전체 수출 경제에 긍정적인 신호로 작용할 수 있다.",
-    "action_point": "반도체 및 AI 관련 성장주 비중 유지 또는 확대 검토"
   }
 ]
