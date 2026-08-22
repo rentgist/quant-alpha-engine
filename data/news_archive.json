@@ -1,5 +1,134 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "장기금리 급등…금융시장·세계 경제에 울린 ‘경고’ - 한겨레",
+    "title_ko": "장기금리 급등…금융시장·세계 경제에 울린 ‘경고’",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1BRXhFNVVNS2pkeUtqVHFucEYxaURXS0ZfWU54TV9FOVJMOUR2d2xHWkZlNXplY2FrMmk0WGUwVUxXUnVlUFp2Yk1EaTBWLUJwYV9oMzk0ZFduWkV2UmVaVENUcjk1NUtYc1c3WlBqUjNPQQ?oc=5",
+    "published": "Sat, 22 Aug 2026 02:33:00 GMT",
+    "fetched_at": "2026-08-22 16:25:31",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "성장주",
+      "부동산",
+      "채권시장",
+      "금융주"
+    ],
+    "keywords": [
+      "장기금리",
+      "금리 급등",
+      "금융시장",
+      "세계 경제"
+    ],
+    "reason": "장기금리 급등은 기업의 차입 비용 증가 및 미래 현금흐름 할인율 상승으로 주식시장 밸류에이션에 하방 압력을 가하며, 부동산 시장에도 부정적 영향을 미쳐 전반적인 금융시장의 경착륙 가능성을 높입니다.",
+    "action_point": "금리 민감도가 높은 성장주 및 고부채 기업 비중을 축소하고, 방어적 자산 편입을 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Altérra CEO says $250 billion climate investment target is within reach",
+    "title_ko": "알테라 CEO, 2,500억 달러 기후 투자 목표 달성 가능성 언급",
+    "link": "https://www.cnbc.com/video/2026/08/22/alterra-climate-investment-2030.html",
+    "published": "Sat, 22 Aug 2026 04:00:01 GMT",
+    "fetched_at": "2026-08-22 16:24:45",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "재생에너지",
+      "친환경 기술",
+      "ESG 관련 산업",
+      "인프라"
+    ],
+    "keywords": [
+      "기후 투자",
+      "알테라",
+      "UAE",
+      "2,500억 달러",
+      "친환경 에너지",
+      "지속가능"
+    ],
+    "reason": "이 뉴스는 UAE가 후원하는 알테라가 2030년까지 2,500억 달러의 기후 투자 목표를 달성할 수 있다는 자신감을 표명하며, 글로벌 친환경 에너지 및 지속가능 기술 분야에 대한 장기적이고 대규모 자본 유입을 시사합니다. 이는 해당 섹터의 성장과 관련 기업들의 실적 개선에 긍정적인 영향을 미칠 것입니다.",
+    "action_point": "글로벌 재생에너지 및 친환경 기술 관련 자산 비중 확대를 검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "트럼프 ’경제 압박’ 통할까…이란 대통령 “전쟁 끝내야“ - 연합뉴스TV",
+    "title_ko": "트럼프 ’경제 압박’ 통할까…이란 대통령 “전쟁 끝내야“",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9jR3RoSkc0Rjc2cDloc2otTXZnNVpYUXRUU0xaUTdyVG1iT1ZjV3ItTGt6blgtaHFiTWRwdjdjM0pEM2UwSU4tU3A1a1JucENvZ1U5YThXaGxJTHo0YUtPZ19NM2VWRm8?oc=5",
+    "published": "Sat, 22 Aug 2026 05:17:00 GMT",
+    "fetched_at": "2026-08-22 16:25:23",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "원자재",
+      "정유화학",
+      "항공",
+      "해운",
+      "방산"
+    ],
+    "keywords": [
+      "이란",
+      "지정학",
+      "유가",
+      "경제압박"
+    ],
+    "reason": "이란의 경제 압박 수용 가능성과 전쟁 종식 언급은 중동 지정학적 긴장 완화 기대로 이어져 국제 유가에 하방 압력으로 작용할 수 있다.",
+    "action_point": "국제 유가 하락 시 항공, 해운, 정유 섹터 비중 확대 및 에너지 관련 자산 비중 축소 검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "“세계가 우리 승리 인정…전쟁 끝내자”… 이란 대통령 ‘승전’ 주장 - 문화일보",
+    "title_ko": "“세계가 우리 승리 인정…전쟁 끝내자”… 이란 대통령 ‘승전’ 주장",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8tMVBNZkF5akpHRDlmMGVDaTRpdzZzSV9kYkFuTmU4UVRqRkF2dGQ1YjUzYy1sY29iSmNjY2RIbEFMNjdfeEVDanVQU01idXFv?oc=5",
+    "published": "Fri, 21 Aug 2026 23:48:59 GMT",
+    "fetched_at": "2026-08-22 16:27:18",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "방산",
+      "해운",
+      "원자재"
+    ],
+    "keywords": [
+      "이란",
+      "중동",
+      "지정학",
+      "유가",
+      "전쟁"
+    ],
+    "reason": "이란 대통령의 '승전' 주장 및 전쟁 종식 요구는 중동 지역의 지정학적 긴장 완화 가능성을 시사하며, 이는 글로벌 유가에 하방 압력으로 작용하고 시장 전반의 위험 선호 심리를 개선할 수 있습니다.",
+    "action_point": "유가 및 관련 원자재 포지션을 재검토하고 중동 관련 방산주 비중 축소를 고려."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "“이란 전쟁 때문이라고?”…환승객 세계 1위된 인천국제공항",
+    "title_ko": "“이란 전쟁 때문이라고?”…환승객 세계 1위된 인천국제공항",
+    "link": "https://www.mk.co.kr/news/world/12133810",
+    "published": "Sat, 22 Aug 2026 15:33:03 +09:00",
+    "fetched_at": "2026-08-22 16:31:30",
+    "sentiment": "호재",
+    "importance": 2,
+    "sectors": [
+      "항공",
+      "관광"
+    ],
+    "keywords": [
+      "인천국제공항",
+      "환승객",
+      "중동",
+      "항공",
+      "반사 이익",
+      "지정학"
+    ],
+    "reason": "중동 지역의 지정학적 불안정 심화로 장거리 항공 환승 수요가 아시아 허브로 이동하며, 인천국제공항의 환승객 증가로 국내 항공 및 관련 관광 산업이 반사 이익을 얻을 것으로 예상됩니다.",
+    "action_point": "국내 항공 및 관광 관련 기업의 실적 개선 가능성을 분석하고, 포트폴리오 편입을 검토하라."
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "U.S., Canada fail to reach a tariff deal, deepen trade war",
@@ -2863,123 +2992,5 @@
     ],
     "reason": "S&P 500 지수가 3일 연속 하락을 멈추고 선물 시장에서 상승세를 보이는 것은 단기적인 시장 불안감이 다소 완화되고 있음을 시사합니다. 이는 추가적인 하락 압력을 제한할 수 있으나, 거시경제의 근본적인 변화를 의미하지는 않습니다.",
     "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Call-buying bonanza around Trump's Hyperliquid comments includes some eyebrow-raising trades",
-    "title_ko": "트럼프의 하이퍼리퀴드 관련 발언 후 콜옵션 매수 열풍, 일부 의심스러운 거래도 포함",
-    "link": "https://www.cnbc.com/2026/08/19/call-buying-bonanza-around-trumps-hyperliquid-comments-includes-eyebrow-raising-trades.html",
-    "published": "Wed, 19 Aug 2026 22:39:40 GMT",
-    "fetched_at": "2026-08-20 08:14:38",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "핀테크",
-      "가상자산",
-      "블록체인"
-    ],
-    "keywords": [
-      "트럼프",
-      "하이퍼리퀴드",
-      "규제",
-      "가상자산",
-      "콜옵션"
-    ],
-    "reason": "트럼프의 하이퍼리퀴드 규제 시사 발언은 해당 플랫폼과 유사한 비규제 핀테크 및 가상자산 섹터에 대한 불확실성을 높입니다. 이는 잠재적으로 규제 비용 증가나 성장세 둔화로 이어질 수 있습니다.",
-    "action_point": "가상자산 및 비규제 핀테크 관련 투자 자산의 규제 리스크를 재평가하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "“군사력 1위도 지갑 열 수 밖에”…美 육군, K9 자주포 쏜다",
-    "title_ko": "“군사력 1위도 지갑 열 수 밖에”…美 육군, K9 자주포 쏜다",
-    "link": "https://www.mk.co.kr/news/business/12131812",
-    "published": "Thu, 20 Aug 2026 08:08:37 +09:00",
-    "fetched_at": "2026-08-20 08:15:01",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "방산"
-    ],
-    "keywords": [
-      "K방산",
-      "K9 자주포",
-      "미국 수출",
-      "한화에어로스페이스"
-    ],
-    "reason": "K-방산의 기술력과 경쟁력을 미국 시장에서 공식적으로 인정받은 사례로, 향후 대규모 양산 계약 시 국내 방위산업 기업들의 실적 개선과 추가 수출 기대감을 높일 것입니다.",
-    "action_point": "K-방산 관련 기업들의 주가 추이 및 추가 수주 가능성을 면밀히 주시하고 포트폴리오 편입을 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Trump touted a deal to avert new tariffs on Canada. Here's what we know so far",
-    "title_ko": "트럼프, 캐나다 관세 회피 협상 강조. 현재까지 알려진 내용은?",
-    "link": "https://www.cnbc.com/2026/08/19/trump-canada-tariffs-deal-carney.html",
-    "published": "Wed, 19 Aug 2026 20:10:14 GMT",
-    "fetched_at": "2026-08-20 07:15:12",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "제조",
-      "수출"
-    ],
-    "keywords": [
-      "트럼프",
-      "캐나다",
-      "관세",
-      "무역협상"
-    ],
-    "reason": "미국과 캐나다 간 관세 부과 연기 및 회피 협상 노력은 북미 무역 갈등 완화 가능성을 시사하며, 이는 글로벌 무역 불확실성 감소에 긍정적 영향을 미칩니다.",
-    "action_point": "무역 분쟁 리스크 완화 시그널에 따라 국내 수출주 및 글로벌 경기 민감주 포트폴리오 비중을 유지하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Stock winners and losers as Anthropic passes OpenAI as hottest AI upstart",
-    "title_ko": "가장 뜨거운 AI 신생기업으로 앤트로픽이 OpenAI를 추월하며 주식 시장의 승자와 패자 갈려",
-    "link": "https://www.cnbc.com/2026/08/19/stock-winners-and-losers-as-anthropic-passes-openai-as-hottest-ai-upstart.html",
-    "published": "Wed, 19 Aug 2026 16:00:07 GMT",
-    "fetched_at": "2026-08-20 07:15:33",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "기술",
-      "소프트웨어",
-      "반도체"
-    ],
-    "keywords": [
-      "AI",
-      "앤트로픽",
-      "OpenAI",
-      "경쟁",
-      "기술혁신"
-    ],
-    "reason": "AI 프론티어 모델 시장의 리더십 변화는 관련 기술 기업들의 파트너십, 투자 흐름 및 기업 가치에 직접적인 영향을 미칠 것입니다. 이는 AI 섹터 내 자본 재분배와 경쟁 심화를 촉진할 것입니다.",
-    "action_point": "AI 생태계 내 앤트로픽의 부상에 따른 파트너십 변화를 주시하고, 경쟁 심화에 대비한 AI 관련 기업들의 경쟁력 분석을 강화하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "[속보] 트럼프, ‘김정은과 연내 회담 예상하나’ 질문에 “그럴 것”",
-    "title_ko": "[속보] 트럼프, ‘김정은과 연내 회담 예상하나’ 질문에 “그럴 것”",
-    "link": "https://www.mk.co.kr/news/world/12131713",
-    "published": "Thu, 20 Aug 2026 00:46:10 +09:00",
-    "fetched_at": "2026-08-20 05:16:36",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "국내 증시 전반",
-      "방위산업"
-    ],
-    "keywords": [
-      "트럼프",
-      "김정은",
-      "북미 정상회담",
-      "지정학적 리스크"
-    ],
-    "reason": "트럼프 대통령의 김정은 위원장과의 연내 회담 예상 발언은 한반도 지정학적 리스크 완화 기대감을 높여 국내 증시에 긍정적 영향을 미칠 수 있습니다. 이는 '코리아 디스카운트' 해소에 기여할 가능성이 있습니다.",
-    "action_point": "한반도 지정학적 리스크 완화 기대감에 따라 국내 주식 투자 비중 확대를 검토하고, 방위산업 관련주 비중은 축소를 고려하라."
   }
 ]
