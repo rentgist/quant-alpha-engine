@@ -2,6 +2,108 @@
   {
     "source": "GoogleNews_Korea",
     "market": "KR",
+    "title": "달리오 \"美, '3±2'년내 부채위기…채권 줄이고 금·비트코인 늘려라\" - 연합인포맥스",
+    "title_ko": "달리오 \"美, '3±2'년내 부채위기…채권 줄이고 금·비트코인 늘려라\"",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5JWW9WeTQtTDhBT2pzdnNBUmlEMTRESnlsbUhvZmJSdjZha1FOX1FrMFE1b091T21WSW83aVhlY1RzYWpzQzczTmxyTm5pTzdMUkdYNDBCZzVFSzRydkhVQW1QaEdlbVE0VU9EWkFUVHI?oc=5",
+    "published": "Fri, 21 Aug 2026 20:09:00 GMT",
+    "fetched_at": "2026-08-22 17:18:52",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "채권시장",
+      "금",
+      "암호화폐",
+      "글로벌 금융시장"
+    ],
+    "keywords": [
+      "레이 달리오",
+      "미국 부채",
+      "자산 배분",
+      "인플레이션 헤지",
+      "경기 침체"
+    ],
+    "reason": "레이 달리오의 미국 부채 위기 경고는 장기적인 글로벌 금융 시스템 불안정성을 시사하며, 전통적인 안전자산인 채권의 매력 감소와 금, 비트코인 등 대체 자산의 중요성 부각으로 이어질 수 있습니다.",
+    "action_point": "미국 채권 비중 축소를 검토하고, 금 및 비트코인 등 대체 자산에 대한 투자 비중 확대를 고려하십시오."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[속보]미·캐나다 협상 결렬… ‘50% 관세’ 현실화 - 문화일보",
+    "title_ko": "[속보]미·캐나다 협상 결렬… ‘50% 관세’ 현실화 - 문화일보",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ZY3B5dzhyS1dCa0VneE02dXE5M1F4LUNIZDZTVkZSNXRKbmY3NEx5WjdETGl0cEktVWRMN3pmTWU0Uzdsd3dHdTZHSUxRVmhT?oc=5",
+    "published": "Sat, 22 Aug 2026 04:35:44 GMT",
+    "fetched_at": "2026-08-22 17:18:45",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "무역",
+      "제조업",
+      "물류",
+      "자동차"
+    ],
+    "keywords": [
+      "미국",
+      "캐나다",
+      "관세",
+      "무역분쟁",
+      "북미"
+    ],
+    "reason": "미국과 캐나다 간 협상 결렬 및 고관세 부과는 북미 지역의 교역 위축과 글로벌 공급망 불안정성을 심화시킬 것입니다. 이는 전반적인 세계 경제 성장 둔화 압력으로 작용하며, 무역 의존도가 높은 한국 경제에도 간접적인 악영향을 미칠 수 있습니다.",
+    "action_point": "글로벌 무역 분쟁 확대 가능성에 대비하여 수출 의존도가 높은 기업의 투자 비중을 재검토하고 방어적 자산 편입을 고려하십시오."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "산업위기지역 대응 빨라진다…위기 심화 맞춘 ‘전환 패스트트랙’ 도입 - 산업일보",
+    "title_ko": "산업위기지역 대응 빨라진다…위기 심화 맞춘 ‘전환 패스트트랙’ 도입",
+    "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9VdzVOekd6OTU0RWhaenY4bHFNQV81c0U5Z3F0UlZrTGFxdUZHOXRWYXBOZUNjX2pqYWhXWnc2YzNSMER0?oc=5",
+    "published": "Sat, 22 Aug 2026 06:09:20 GMT",
+    "fetched_at": "2026-08-22 17:19:00",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "지역경제",
+      "제조업",
+      "조선업",
+      "자동차부품"
+    ],
+    "keywords": [
+      "산업위기지역",
+      "정부정책",
+      "지역경제",
+      "구조조정",
+      "패스트트랙"
+    ],
+    "reason": "정부가 산업위기지역에 대한 지원 및 구조조정 절차를 신속화하여 해당 지역의 기업 및 고용 안정화를 꾀한다. 이는 특정 지역의 경제 불안정 심화를 억제하고 연착륙을 유도하는 조치로 풀이된다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "20주년 앞두고…폭우에 사상 첫 취소 결정한 거제섬꽃축제 [제철축제]",
+    "title_ko": "20주년 앞두고…폭우에 사상 첫 취소 결정한 거제섬꽃축제 [제철축제]",
+    "link": "https://www.mk.co.kr/news/culture/12133831",
+    "published": "Sat, 22 Aug 2026 17:03:25 +09:00",
+    "fetched_at": "2026-08-22 17:23:22",
+    "sentiment": "악재",
+    "importance": 2,
+    "sectors": [
+      "관광",
+      "레저",
+      "숙박"
+    ],
+    "keywords": [
+      "거제섬꽃축제",
+      "폭우",
+      "축제 취소",
+      "관광업계"
+    ],
+    "reason": "지역 축제 취소는 해당 지역의 관광 및 소비 심리에 단기적 부정적 영향을 미치며, 이상기후로 인한 지역 경제 타격 우려를 시사합니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
     "title": "장기금리 급등…금융시장·세계 경제에 울린 ‘경고’ - 한겨레",
     "title_ko": "장기금리 급등…금융시장·세계 경제에 울린 ‘경고’",
     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1BRXhFNVVNS2pkeUtqVHFucEYxaURXS0ZfWU54TV9FOVJMOUR2d2xHWkZlNXplY2FrMmk0WGUwVUxXUnVlUFp2Yk1EaTBWLUJwYV9oMzk0ZFduWkV2UmVaVENUcjk1NUtYc1c3WlBqUjNPQQ?oc=5",
@@ -2896,101 +2998,5 @@
     ],
     "reason": "일본의 수출 호조, 특히 반도체 및 AI 관련 장비 출하 증가는 글로벌 기술 수요가 견조하며 경기 침체 우려에도 불구하고 견고한 성장 동력을 유지하고 있음을 시사한다. 이는 아시아 전체 수출 경제에 긍정적인 신호로 작용할 수 있다.",
     "action_point": "반도체 및 AI 관련 성장주 비중 유지 또는 확대 검토"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Asia's hydrogen dreams: Region bets on emerging green technology to improve transportation",
-    "title_ko": "아시아의 수소 꿈: 이 지역은 운송 시스템 개선을 위해 신흥 그린 수소 기술에 집중하고 있다",
-    "link": "https://www.cnbc.com/2026/08/20/asia-hydrogen-trains-green-transport.html",
-    "published": "Thu, 20 Aug 2026 00:09:09 GMT",
-    "fetched_at": "2026-08-20 09:40:16",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "수소 산업",
-      "친환경 에너지",
-      "철도",
-      "화학",
-      "산업재"
-    ],
-    "keywords": [
-      "수소 경제",
-      "친환경 에너지",
-      "아시아",
-      "수소열차"
-    ],
-    "reason": "아시아 지역의 수소 경제 구축 노력은 친환경 에너지 및 관련 인프라 산업에 장기적인 투자와 성장 기회를 제공할 것이며, 이는 해당 섹터 기업들의 실적 개선 및 가치 상승으로 이어질 수 있다.",
-    "action_point": "수소 생산, 운송 및 활용 관련 국내외 선두 기업들의 포트폴리오 편입을 검토하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "동대문구 답십리대림 59.65㎡, 8억2000만원 최근 3년 신고가",
-    "title_ko": "동대문구 답십리대림 59.65㎡, 8억2000만원 최근 3년 신고가",
-    "link": "https://www.mk.co.kr/news/realestate/12131928",
-    "published": "Thu, 20 Aug 2026 09:36:30 +09:00",
-    "fetched_at": "2026-08-20 09:41:10",
-    "sentiment": "호재",
-    "importance": 2,
-    "sectors": [
-      "부동산",
-      "건설",
-      "금융"
-    ],
-    "keywords": [
-      "부동산",
-      "아파트",
-      "신고가",
-      "서울",
-      "동대문구"
-    ],
-    "reason": "서울 특정 지역의 아파트가 3년 만에 신고가를 기록하며 해당 지역 부동산 시장의 회복세와 주택 구매 심리 개선을 시사합니다. 이는 수도권 핵심 입지 주택 자산에 대한 투자자들의 관심이 다시 증가하고 있음을 보여줍니다.",
-    "action_point": "서울 핵심 입지 소형 아파트 자산의 가치 재평가."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[속보] 트럼프, ’김정은과 연내 회담 예상하나’ 질문에 “그럴 것“ - 연합뉴스TV",
-    "title_ko": "[속보] 트럼프, ’김정은과 연내 회담 예상하나’ 질문에 “그럴 것“ - 연합뉴스TV",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iSjBjUl9rSVNHRXFlRGQ1V3J0LTYzME5GN2JUQzlZb093MGZaOERDdE5UTWduMUNhTU5IeVZ4UDZvS3ZLWGU1QVI1VVgxLVRrVTlYdlN1VzFHVmItTmtsSHdpNExCMjQ?oc=5",
-    "published": "Wed, 19 Aug 2026 15:41:00 GMT",
-    "fetched_at": "2026-08-20 08:14:51",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "국내 증시 전반"
-    ],
-    "keywords": [
-      "트럼프",
-      "김정은",
-      "북미회담",
-      "지정학",
-      "코리아 디스카운트"
-    ],
-    "reason": "미국과 북한 정상 간 연내 회담 가능성 언급은 한반도 지정학적 리스크 완화에 대한 기대감을 높여 국내 증시의 '코리아 디스카운트' 해소에 긍정적인 영향을 미칠 수 있다.",
-    "action_point": "한반도 지정학적 리스크 완화 기대감에 따라 국내 주식 시장에 대한 긍정적 시각을 유지하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "S&P 500 futures tick higher after index snaps three-day slide: Live updates",
-    "title_ko": "S&P 500 선물, 3일 연속 하락세 멈춘 후 소폭 상승: 실시간 업데이트",
-    "link": "https://www.cnbc.com/2026/08/19/stock-market-today-live-updates.html",
-    "published": "Wed, 19 Aug 2026 23:02:12 GMT",
-    "fetched_at": "2026-08-20 08:14:31",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "글로벌 주식시장"
-    ],
-    "keywords": [
-      "S&P 500",
-      "주가지수",
-      "시장심리",
-      "기술적 반등"
-    ],
-    "reason": "S&P 500 지수가 3일 연속 하락을 멈추고 선물 시장에서 상승세를 보이는 것은 단기적인 시장 불안감이 다소 완화되고 있음을 시사합니다. 이는 추가적인 하락 압력을 제한할 수 있으나, 거시경제의 근본적인 변화를 의미하지는 않습니다.",
-    "action_point": "해당 없음"
   }
 ]
