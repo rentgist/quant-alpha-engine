@@ -1,5 +1,5 @@
 {
-  "generated_at_kst": "2026-08-22 08:16:02",
+  "generated_at_kst": "2026-08-22 09:41:40",
   "market_as_of": "2026-08-21",
   "method": "daily_return_pct_x_volume_ratio_20d",
   "is_actual_fund_flow": false,
@@ -8,8 +8,8 @@
       "ticker": "IWM",
       "name": "Russell 2000",
       "pct": 0.7693008781684656,
-      "vol_ratio": 1.1498864354955745,
-      "flow_proxy": 0.8846086446207521
+      "vol_ratio": 1.149882533493383,
+      "flow_proxy": 0.8846056428070398
     },
     {
       "ticker": "RSP",

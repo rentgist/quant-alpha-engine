@@ -1,5 +1,31 @@
 [
   {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Stocks making the biggest moves midday: Moderna, Robinhood, BJ's Wholesale, Coinbase & more",
+    "title_ko": "정오 기준 가장 큰 움직임을 보이는 주식: 모더나, 로빈후드, BJ's 홀세일, 코인베이스 등",
+    "link": "https://www.cnbc.com/2026/08/21/stocks-making-the-biggest-moves-midday-mrna-hood-bj-coin.html",
+    "published": "Fri, 21 Aug 2026 17:38:21 GMT",
+    "fetched_at": "2026-08-22 09:40:21",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "헬스케어",
+      "금융",
+      "소매"
+    ],
+    "keywords": [
+      "개별 주식",
+      "주가 변동",
+      "시장 움직임",
+      "모더나",
+      "로빈후드",
+      "코인베이스"
+    ],
+    "reason": "이 기사는 정오 기준 개별 기업들의 주가 변동을 단순히 나열한 것으로, 특정 섹터나 거시 경제 전반에 미칠 유의미한 영향이나 추세를 파악하기 어렵습니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "Broadcom debt deal expected to reach upwards of $70 billion, sources say",
@@ -2951,29 +2977,5 @@
     ],
     "reason": "아마존의 드론 배송 확장 소식은 전자상거래 부문의 물류 혁신과 자동화 가속화를 의미하며, 장기적으로 해당 섹터의 효율성 증대에 기여할 것입니다.",
     "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Moderna, Merck cancer vaccine shows promise in late-stage trial; Moderna stock soars 90%",
-    "title_ko": "모더나-머크 암 백신, 후기 임상서 희망 보여; 모더나 주가 90% 급등",
-    "link": "https://www.cnbc.com/2026/08/19/moderna-merck-cancer-vaccine-shows-initial-late-stage-melanoma-data.html",
-    "published": "Wed, 19 Aug 2026 12:57:32 GMT",
-    "fetched_at": "2026-08-19 22:37:09",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "바이오",
-      "제약"
-    ],
-    "keywords": [
-      "모더나",
-      "머크",
-      "암 백신",
-      "mRNA",
-      "임상"
-    ],
-    "reason": "모더나-머크의 암 백신 후기 임상 성공은 해당 기업들의 성장 잠재력을 크게 높이고, mRNA 기술의 적용 범위를 확장하여 바이오/제약 섹터 전반에 긍정적인 투자 심리를 자극합니다.",
-    "action_point": "혁신 신약 개발 역량을 갖춘 바이오 및 제약사 투자 기회에 대한 심층 분석을 시작하십시오."
   }
 ]
