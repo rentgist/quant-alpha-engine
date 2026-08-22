@@ -1,5 +1,103 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "U.S., Canada fail to reach a tariff deal, deepen trade war",
+    "title_ko": "미국, 캐나다 관세 협상 실패, 무역 전쟁 심화",
+    "link": "https://www.cnbc.com/2026/08/21/us-canada-fail-to-reach-a-tariff-deal-deepen-trade-war.html",
+    "published": "Sat, 22 Aug 2026 06:20:46 GMT",
+    "fetched_at": "2026-08-22 15:22:35",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "자동차",
+      "산업재",
+      "글로벌 무역"
+    ],
+    "keywords": [
+      "미국",
+      "캐나다",
+      "관세",
+      "무역 전쟁",
+      "수출입"
+    ],
+    "reason": "미국과 캐나다 간의 관세 부과 및 무역 협상 결렬은 글로벌 무역 긴장을 고조시켜 세계 경제 성장에 대한 불확실성을 키우고 주요 교역국들의 공급망에 부정적인 영향을 미칠 수 있습니다.",
+    "action_point": "글로벌 무역 긴장 심화에 따른 시장 변동성 확대 및 안전자산 선호 심리 강화에 대비하여 달러 자산 비중 확대 검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[다음주 경제] 기준금리 동결이냐 인상이냐…작년 출생통계도 발표 - 연합뉴스",
+    "title_ko": "[다음주 경제] 기준금리 동결이냐 인상이냐…작년 출생통계도 발표 - 연합뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ybXJHS0NZR01MNE9YNWVocUxYcmFjYVpNcjd4cHhkSnhUMzBwc0l5emlHYlFsOEtTYU5tZTV5Vks3NVRET1ZYZi13WW1wVmpxTlY1bXZqaDVLSGPSAWBBVV95cUxPWFBDY0V1VGlfWExyckNkRkphLUxSZnh1YjBId3NJX2o3TWxFbUhTVVVndEc0dzZ4UF9XTTN1TW40c3phaVk1SVhyNEhRWWtSWGxHdzQ2c2NQcEVfbjFCaEw?oc=5",
+    "published": "Sat, 22 Aug 2026 00:07:19 GMT",
+    "fetched_at": "2026-08-22 15:22:59",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "금융",
+      "부동산",
+      "건설",
+      "성장주"
+    ],
+    "keywords": [
+      "기준금리",
+      "한국은행",
+      "금리정책",
+      "출생통계",
+      "매크로경제"
+    ],
+    "reason": "한국은행의 기준금리 결정은 국내 주식, 채권, 부동산 시장에 직접적인 영향을 미치며, 통화정책 방향을 제시합니다. 발표될 출생통계는 한국의 장기 경제 성장 잠재력과 인구 구조 변화를 가늠하는 지표가 됩니다.",
+    "action_point": "한국은행 금리 결정에 따른 금융시장 변동성 확대 가능성에 대비하여 금리 민감주 및 부동산 관련 자산 비중을 점검하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Six investors reveal the biggest market risks — and one strategy they agree on",
+    "title_ko": "6명의 투자 전문가들이 밝히는 최대 시장 리스크와 모두가 동의하는 한 가지 전략",
+    "link": "https://www.cnbc.com/2026/08/22/investors-market-risks-diversification-stocks-kospi.html",
+    "published": "Sat, 22 Aug 2026 05:00:01 GMT",
+    "fetched_at": "2026-08-22 15:22:41",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "전반적 포트폴리오 전략"
+    ],
+    "keywords": [
+      "시장 리스크",
+      "다변화",
+      "포트폴리오",
+      "투자 전략"
+    ],
+    "reason": "주요 투자 전문가들이 시장 리스크를 언급하며 최근 고수익 자산에 대한 집중 투자를 경계하고 분산 투자를 권고하는 의견을 모았다. 이는 전반적인 포트폴리오 재조정 필요성을 시사한다.",
+    "action_point": "과거 고수익 자산에 대한 의존도를 줄이고 다양한 자산군 및 지역으로 포트폴리오 다각화를 적극적으로 모색하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "How one Silicon Valley firm is seizing an opportunity from Premier League soccer's gambling ad clampdown",
+    "title_ko": "한 실리콘밸리 기업, 프리미어리그 축구 도박 광고 규제에서 기회 포착",
+    "link": "https://www.cnbc.com/2026/08/21/premier-league-gambling-shirt-sponsors.html",
+    "published": "Fri, 21 Aug 2026 14:00:02 GMT",
+    "fetched_at": "2026-08-22 15:22:49",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "스포츠 마케팅",
+      "미디어/광고",
+      "게임/베팅",
+      "기술/IT"
+    ],
+    "keywords": [
+      "프리미어리그",
+      "도박 광고 규제",
+      "스포츠 스폰서십",
+      "실리콘밸리"
+    ],
+    "reason": "프리미어리그의 도박 광고 규제는 스포츠 스폰서십 시장의 변화를 촉발하며, 특정 광고 수익 감소와 함께 새로운 유형의 기업들에게 마케팅 기회를 제공합니다. 이는 스포츠 관련 산업 내 자금 흐름과 경쟁 구도를 바꿀 수 있습니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "GoogleNews_Korea",
     "market": "KR",
     "title": "미 경제 압박 통할까…이란 대통령 \"전쟁 끝내야\" - 연합뉴스TV",
@@ -2883,102 +2981,5 @@
     ],
     "reason": "트럼프 대통령의 김정은 위원장과의 연내 회담 예상 발언은 한반도 지정학적 리스크 완화 기대감을 높여 국내 증시에 긍정적 영향을 미칠 수 있습니다. 이는 '코리아 디스카운트' 해소에 기여할 가능성이 있습니다.",
     "action_point": "한반도 지정학적 리스크 완화 기대감에 따라 국내 주식 투자 비중 확대를 검토하고, 방위산업 관련주 비중은 축소를 고려하라."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Stocks making the biggest moves after hours: Toll Brothers, Keysight Technologies, La-Z-Boy & more",
-    "title_ko": "장 마감 후 가장 크게 움직인 주식들: 톨 브라더스, 키사이트 테크놀로지스, 라지보이 외 다수",
-    "link": "https://www.cnbc.com/2026/08/18/stocks-making-the-biggest-moves-after-hours-tol-keys-lzb.html",
-    "published": "Tue, 18 Aug 2026 20:55:53 GMT",
-    "fetched_at": "2026-08-20 05:16:16",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "부동산",
-      "기술",
-      "소비재"
-    ],
-    "keywords": [
-      "장외거래",
-      "개별주식",
-      "미국 주식",
-      "실적발표"
-    ],
-    "reason": "이 기사는 특정 기업들의 장외거래 움직임을 보도하며, 이는 주로 실적 발표나 개별 기업 뉴스에 기인합니다. 거시경제적 관점에서 시장 전반의 방향을 제시하기보다는 해당 기업 및 섹터의 동향을 간접적으로 시사합니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "미국 언론 \"한국, 이란 전쟁의 희생양\"...영 김 \"미국 기업, 제대로 대우해야\" - YTN",
-    "title_ko": "미국 언론 \"한국, 이란 전쟁의 희생양\"...영 김 \"미국 기업, 제대로 대우해야\"",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1DTnBtcjV0Q1lHY1dsTnhtaS00WmlsS3o1bkRCMTRSNkRXcG1sV3VlUG5vbS1wdC02c1FuLTVXOTdVTWR0Yml1bEtjTS1HLVNfRU9ZWlFYQmhZaUVnSEE?oc=5",
-    "published": "Wed, 19 Aug 2026 14:01:00 GMT",
-    "fetched_at": "2026-08-20 04:19:04",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "석유화학",
-      "해운",
-      "수출주"
-    ],
-    "keywords": [
-      "이란",
-      "지정학",
-      "유가",
-      "미국 통상",
-      "한국 경제"
-    ],
-    "reason": "이란 전쟁 리스크 고조는 유가 상승을 유발하여 한국 경제 전반에 악영향을 미치며, 미국 의원의 발언은 통상 압력 확대로 이어질 수 있어 국내 기업의 불확실성을 가중시킨다.",
-    "action_point": "유가 상승에 취약한 에너지 다소비 산업군 비중 축소를 검토하고, 원화 약세 가능성에 대비하여 달러 자산 보유 비중을 유지하십시오."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Board approves $19.9 billion plan to overhaul Washington Dulles airport",
-    "title_ko": "워싱턴 덜레스 공항 199억 달러 규모 재정비 계획 승인",
-    "link": "https://www.cnbc.com/2026/08/19/board-approves-19point9-billion-plan-to-overhaul-dcs-dulles-airport.html",
-    "published": "Wed, 19 Aug 2026 16:30:07 GMT",
-    "fetched_at": "2026-08-20 04:18:54",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "건설 및 인프라"
-    ],
-    "keywords": [
-      "공항",
-      "인프라 투자",
-      "건설"
-    ],
-    "reason": "워싱턴 덜레스 공항의 대규모 인프라 투자 계획은 미국 수도권 경제와 건설 섹터에 긍정적이나, 글로벌 거시경제 전반에 미치는 영향은 제한적입니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Fed officials saw need for rate hike if inflation doesn't cool, minutes show",
-    "title_ko": "연준 위원들, 인플레이션 둔화되지 않으면 금리 인상 필요성 언급 (의사록 공개)",
-    "link": "https://www.cnbc.com/2026/08/19/fed-minutes-july-2026-officials-saw-need-for-rate-hike-if-inflation-doesnt-cool.html",
-    "published": "Wed, 19 Aug 2026 18:07:21 GMT",
-    "fetched_at": "2026-08-20 03:20:00",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "기술",
-      "부동산",
-      "성장주",
-      "금융"
-    ],
-    "keywords": [
-      "연준",
-      "금리 인상",
-      "인플레이션",
-      "긴축",
-      "통화 정책"
-    ],
-    "reason": "연준 의사록에서 인플레이션이 둔화되지 않을 경우 추가 금리 인상 가능성을 시사하며, 이는 시장의 고금리 장기화 우려를 심화시키고 위험자산 전반에 하방 압력을 가할 것입니다.",
-    "action_point": "고금리 장기화 가능성에 대비하여 금리 민감 성장주 비중 축소 및 방어적 자산 비중 확대를 검토하라."
   }
 ]
