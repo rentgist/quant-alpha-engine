@@ -2,6 +2,29 @@
   {
     "source": "GoogleNews_Korea",
     "market": "KR",
+    "title": "이란 협상파 \"전쟁 끝내고 경제 회복할 때\"‥강경파에 대립각 - MBC 뉴스",
+    "title_ko": "이란 협상파 \"전쟁 끝내고 경제 회복할 때\"‥강경파에 대립각",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBMWDBUUFdpQl9qYUk2VExzelFybnRlVFVkWFBBaEloZFZIMmFzTlN3M0ROSHk4bHozelE3NFhWVTk4TDI3VnhvZGF4VzhaNGNoaGpyYWtfY0YzVHRfWjBUOXlfTk1GS19MNHhudjRYcUJwdVZI0gF0QVVfeXFMUHlsdmRXS29laWwzX3ZISkRjalV2Zy03cVlRX1VkcEk5QTdfd2FXMU9GU0loU21fMWd6QVBkb1VuR1cwZm0zNmJaVzNkRVA1Qy15Q3UyOXNSSzduZnBrSUVmdmhKSG8xcENXd1JpenQ2U2ZiWW4?oc=5",
+    "published": "Sat, 22 Aug 2026 11:19:01 GMT",
+    "fetched_at": "2026-08-23 00:12:18",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "에너지",
+      "국방"
+    ],
+    "keywords": [
+      "이란",
+      "중동 정세",
+      "유가",
+      "지정학"
+    ],
+    "reason": "이란 내 강경파에 대립각을 세운 협상파의 발언은 중동 지역 지정학적 리스크 완화 및 유가 안정화 가능성을 시사하며, 글로벌 경제 회복에 긍정적 영향을 줄 수 있다.",
+    "action_point": "지정학적 리스크 완화 및 유가 안정화 가능성에 대비, 에너지 관련 자산 비중 재검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
     "title": "이란 지도부서 “전쟁 끝내야” 목소리…경제난에 협상파 공개 제동 - 국제신문",
     "title_ko": "이란 지도부서 “전쟁 끝내야” 목소리…경제난에 협상파 공개 제동",
     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbGRrS25CYkRQbElnT20zaDBKMzd4QWVfcVN3ZjVURnNXRk4xTkx4bWhUTHVicnRaTWx4b0hCbkNucXpvYlNwOXowa2VNLTg4ek41bGVqaFdiTjRaX2tWaDZ0Tkp2U1p4NlJCbUZIWUJJR2trM2NXSUxtTERINld3dEVqSEdpb3NSbGVlaUxn?oc=5",
@@ -2972,30 +2995,5 @@
     ],
     "reason": "북한의 핵무기 보유량이 기존 추정치를 상회한다는 분석은 한반도의 지정학적 리스크를 고조시키며, 국내 금융시장 변동성 확대 및 외국인 투자 심리 위축으로 이어질 수 있습니다.",
     "action_point": "국내 자산의 지정학적 리스크 프리미엄 상승에 대비하여 달러 등 안전자산 비중을 늘리고, 방위산업 섹터의 투자 기회를 모색하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "트럼프 \"이란에 전례없는 가혹한 경제 작전\" vs 이란 \"국제법 위반\" - YTN",
-    "title_ko": "트럼프 \"이란에 전례없는 가혹한 경제 작전\" vs 이란 \"국제법 위반\" - YTN",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5fQkxBam04OHNEaTJhckNZcnFMdmMxQ2N5Smtib2xITWtrZWh2T1k5WW1HLTc1Znh1dmcwdC1Nd055WHBud1cxWkw3S1VvUmtWWFFIS3dXV0NWYjk2ZlE?oc=5",
-    "published": "Thu, 20 Aug 2026 01:40:00 GMT",
-    "fetched_at": "2026-08-20 14:23:45",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "방산",
-      "항공"
-    ],
-    "keywords": [
-      "이란",
-      "미국",
-      "경제 제재",
-      "지정학",
-      "유가"
-    ],
-    "reason": "미국의 이란에 대한 전례 없는 경제 제재 위협은 중동 지역의 지정학적 긴장을 고조시키며 유가 상승 압력으로 작용할 수 있어 글로벌 경제 및 금융 시장에 부정적 영향을 미칩니다.",
-    "action_point": "에너지 섹터 비중 확대 및 방산 섹터 주시를 통해 유가 상승과 지정학적 위험 확대에 대비하라."
   }
 ]
