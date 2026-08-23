@@ -2,6 +2,57 @@
   {
     "source": "GoogleNews_Korea",
     "market": "KR",
+    "title": "트럼프 “美경제 르네상스, 내가 해냈다”…“이란전? 100번도 다시” - 서울신문",
+    "title_ko": "트럼프 “美경제 르네상스, 내가 해냈다”…“이란전? 100번도 다시” - 서울신문",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1JRUxKYy00aTFMVzZGeVBtbm5LWDk4T0tDVGQ2NXhHUHYwWmZkZksydk9iLWZ5TVp6WUxrcnlpWDBJS1Y4MURJX1Q5SnktVldaUGFHeU1TcFBySDROSk1QdXpwUjEyR1hEYllBUHNHSGs5dk54cVow?oc=5",
+    "published": "Sun, 23 Aug 2026 09:02:47 GMT",
+    "fetched_at": "2026-08-23 18:18:49",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "방위산업",
+      "금",
+      "외환"
+    ],
+    "keywords": [
+      "트럼프",
+      "미국 대선",
+      "이란",
+      "지정학적 리스크",
+      "유가",
+      "안전자산"
+    ],
+    "reason": "트럼프의 이란 관련 강경 발언은 중동 지정학적 긴장을 고조시키고 유가 상승 및 안전자산 선호 심리를 자극할 수 있으며, 향후 미국 대선 결과에 따른 정책 불확실성을 증대시킵니다.",
+    "action_point": "중동 지정학적 리스크 고조에 대비하여 에너지 및 방위산업 섹터 비중 확대를 검토하고 달러/금 등 안전자산 보유를 유지하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "\"융합연구원 등 4개 기관 신설…글로벌 CEO들 학장으로 모신다\"",
+    "title_ko": "융합연구원 등 4개 기관 신설…글로벌 CEO들 학장으로 모신다",
+    "link": "https://www.mk.co.kr/news/society/12134242",
+    "published": "Sun, 23 Aug 2026 17:54:10 +09:00",
+    "fetched_at": "2026-08-23 18:19:03",
+    "sentiment": "호재",
+    "importance": 2,
+    "sectors": [
+      "건설/부동산",
+      "기술 연구 개발"
+    ],
+    "keywords": [
+      "부산",
+      "지역균형발전",
+      "산학협력",
+      "연구기관",
+      "도시개발"
+    ],
+    "reason": "부산 지역의 산학협력을 통한 신규 연구기관 설립은 지역 경제 활성화 및 관련 산업 투자 유치에 긍정적 영향을 미칠 수 있습니다.",
+    "action_point": "부산 지역 개발 및 관련 산업 투자 유망 종목 분석"
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
     "title": "호르무즈 칼자루 쥔 이란...트럼프 '사상 최대 봉쇄령'에 경제 전쟁 선포 [자막뉴스] - YTN",
     "title_ko": "호르무즈 칼자루 쥔 이란...트럼프 '사상 최대 봉쇄령'에 경제 전쟁 선포",
     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0zbXpYT3gzQkdCek80bVhPQ3RWQ0lqelFZUFIzOXZPbkFwYnptQXFXY0x6c2JxT1V3M3k5Qkt5ak9LQ2JGSHZveV9SdV81MTByLU1yNHQ3Sk1UQ1p5Znc?oc=5",
@@ -2960,55 +3011,5 @@
     ],
     "reason": "트럼프의 이란에 대한 '파괴적' 경제 압박 선언과 지원국 경고는 중동 지정학적 리스크를 고조시키고, 글로벌 유가 상승 압력 및 에너지 공급망 불안정으로 이어질 수 있습니다.",
     "action_point": "중동 지정학적 리스크 고조에 따른 유가 상승 가능성에 대비하여 에너지 관련 자산 비중 확대 또는 인플레이션 헤지 포지션 구축을 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "트럼프 행정부, 동맹국에 '이란 경제 압박' 동참 압박...미군 \"동맹 방어 전념\" - YTN",
-    "title_ko": "트럼프 행정부, 동맹국에 '이란 경제 압박' 동참 압박...미군 '동맹 방어 전념'",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5GbGlQT2xBeVhyWWRtVWl4clhGRW1XTDgwdERzYkZOTm10OWYxanByNnJqNHVRMHU0LTJQd184blZFTk5QOE5sQW5HRktNN1B1VUltaG16aWFVc3h4RGc?oc=5",
-    "published": "Thu, 20 Aug 2026 20:52:00 GMT",
-    "fetched_at": "2026-08-21 07:17:19",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "원자재",
-      "항공",
-      "운수"
-    ],
-    "keywords": [
-      "이란 제재",
-      "지정학적 리스크",
-      "유가 상승",
-      "원자재 가격",
-      "글로벌 불확실성"
-    ],
-    "reason": "미국의 이란 경제 압박 강화는 중동 지정학적 불안을 고조시켜 국제 유가 상승 압력으로 작용하며, 글로벌 경제 불확실성을 증폭시킬 수 있습니다.",
-    "action_point": "국제유가 상승 가능성에 대비하여 에너지 섹터 또는 원자재 관련 ETF/파생상품 비중 확대 검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "김여정 \"전쟁놀이 못하게 된 서울의 가긍한 처지\"…조롱·막말(종합) - 연합뉴스",
-    "title_ko": "김여정 \"전쟁놀이 못하게 된 서울의 가긍한 처지\"…조롱·막말(종합)",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PQlhXanZVZXhPUzRGMkgwTnNQRGxwQ2lzVDFnZnp5ZUxUQldtU003eFpueWZrN01wb1BHZjZiRmZPT0RzTUFpN0VoMFY2M29kN283V19ZMW1VaXfSAWBBVV95cUxPZFhuYk52aUtkY3BnVWkxUDBqQ1JoaGR5RjZzXzZjOG5KRkpMS19JTHBRWnQzRDdreThfUXRsd1dfZ2luSURxanRINkJfMlREUklZby1Nb1hCZnZNR3ZfYlc?oc=5",
-    "published": "Thu, 20 Aug 2026 13:28:20 GMT",
-    "fetched_at": "2026-08-21 05:18:34",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "방산",
-      "관광"
-    ],
-    "keywords": [
-      "김여정",
-      "북한",
-      "남북관계",
-      "지정학적 리스크",
-      "대남 비난"
-    ],
-    "reason": "김여정의 강도 높은 대남 비난 담화는 남북 간 긴장감을 고조시키며 지정학적 리스크에 대한 투자 심리를 위축시킬 수 있습니다. 다만, 실제 무력 도발이 아닌 수사적 공세이므로 즉각적인 시장 영향은 제한적일 가능성이 큽니다.",
-    "action_point": "원/달러 환율의 단기 변동성 확대 가능성에 대비하여 달러 자산 비중을 점검하십시오."
   }
 ]
