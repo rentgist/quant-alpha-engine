@@ -1,5 +1,80 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8",
+    "title_ko": "미국-캐나다 무역 협상 결렬, 트럼프 행정부 캐나다산 제품에 50% 관세 부과",
+    "link": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
+    "published": "Sat, 22 Aug 2026 20:18:15 GMT",
+    "fetched_at": "2026-08-23 09:44:08",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "자동차",
+      "철강금속",
+      "농업",
+      "제조업",
+      "물류"
+    ],
+    "keywords": [
+      "미국-캐나다 무역",
+      "관세",
+      "무역 전쟁",
+      "북미 경제",
+      "보호무역주의"
+    ],
+    "reason": "미국과 캐나다 간 무역 협상 결렬과 신규 관세 부과는 양국 경제에 부정적 영향을 미치며, 글로벌 무역 긴장 심화와 공급망 불안을 야기할 수 있습니다. 특히 북미 지역의 특정 산업 및 관련 기업에 직접적인 비용 부담으로 작용할 것입니다.",
+    "action_point": "글로벌 무역 분쟁 심화 가능성에 대비하여 무역 의존도가 높은 산업의 투자 비중 축소를 검토하고, 달러 등 안전 자산 비중을 유지하십시오."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "“몸값 2760조, 역대급 IPO 온다”…앤트로픽, 스페이스X 뛰어넘을까",
+    "title_ko": "“몸값 2760조, 역대급 IPO 온다”…앤트로픽, 스페이스X 뛰어넘을까",
+    "link": "https://www.mk.co.kr/news/stock/12133939",
+    "published": "Sun, 23 Aug 2026 09:39:10 +09:00",
+    "fetched_at": "2026-08-23 09:44:34",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "IT/소프트웨어",
+      "인공지능",
+      "반도체"
+    ],
+    "keywords": [
+      "앤트로픽",
+      "IPO",
+      "인공지능",
+      "클로드",
+      "기술주"
+    ],
+    "reason": "대규모 AI 기업의 IPO는 인공지능 섹터에 대한 투자자들의 강한 신뢰와 자금 유입을 시사하며, 관련 기술주의 밸류에이션을 지지할 수 있으나, 동시에 시장의 특정 부문으로 자금 쏠림 현상을 심화시킬 수 있다.",
+    "action_point": "AI 관련 기술주의 밸류에이션 과열 가능성을 염두에 두고 포트폴리오 내 비중 조정을 검토한다."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Trump reshuffled his portfolio in June, selling names like Meta and buying Berkshire Hathaway",
+    "title_ko": "트럼프, 6월 포트폴리오 개편 단행…메타 등 매도, 버크셔 해서웨이 매수",
+    "link": "https://www.cnbc.com/2026/08/22/trump-reshuffled-his-portfolio-in-june-selling-names-like-meta-and-buying-berkshire-hathaway.html",
+    "published": "Sat, 22 Aug 2026 18:57:46 GMT",
+    "fetched_at": "2026-08-23 09:44:15",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "기술주",
+      "가치주"
+    ],
+    "keywords": [
+      "트럼프",
+      "포트폴리오 개편",
+      "메타",
+      "버크셔 해서웨이"
+    ],
+    "reason": "트럼프 전 대통령의 개인 포트폴리오 변경은 시장 전체나 매크로 경제에 직접적인 영향을 미치지 않습니다. 다만, 그의 투자 성향 변화(기술주 매도, 가치주 매수)는 일부 투자자들의 개별 종목 투자 심리에 미미한 영향을 줄 수 있습니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "GoogleNews_Korea",
     "market": "KR",
     "title": "미국·캐나다 보복관세 '맞불'...관세전쟁 재점화 - YTN",
@@ -2931,75 +3006,5 @@
     ],
     "reason": "세계 최대 음악기업과의 회동은 K-컬처 콘텐츠의 글로벌 성장 잠재력을 시사하며, 관련 기업들의 해외 시장 확장 기회를 확대할 수 있습니다.",
     "action_point": "K-콘텐츠 관련 기업 포트폴리오 비중 확대 검토"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[속보]오세훈 “용산공원 주택공급 동의하면 역사의 죄인으로 남는 것” - 경향신문",
-    "title_ko": "[속보]오세훈 “용산공원 주택공급 동의하면 역사의 죄인으로 남는 것”",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE14aUFqYU1scnV0QWRaMm5iWGFTWFZCLXVub1R2eFFxS2YybElDVUxzR2VBNnEzWGVnZHRwVkQ1bkV6WGVMZmQzeXZlQ1lIWVFFeWV3NkM4c1BBQdIBX0FVX3lxTE5aOFo4RjAxS1FEZUEyY2FKb3c0S1daaGhOMFVJc28wbVA2cUZPOHFZUnF0RjRtWDFFQWJoQnc2TXdWTVBrcXZrTEJFQlVZV2YxYUxUb0g2b011TmpZUV80?oc=5",
-    "published": "Thu, 20 Aug 2026 06:40:00 GMT",
-    "fetched_at": "2026-08-20 16:37:06",
-    "sentiment": "악재",
-    "importance": 2,
-    "sectors": [
-      "부동산",
-      "건설"
-    ],
-    "keywords": [
-      "오세훈",
-      "용산공원",
-      "주택공급",
-      "부동산 정책"
-    ],
-    "reason": "오세훈 서울시장의 강력한 용산공원 주택공급 반대 입장은 서울 시내 주요 지역의 주택 공급 확대가 어렵다는 점을 재확인시키며, 국내 건설 및 부동산 개발 섹터의 불확실성을 가중시킨다.",
-    "action_point": "서울 주요 지역 주택 공급 확대 제한 기조에 따라 국내 건설 및 부동산 개발 관련 신규 투자에 보수적 접근 유지."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "서울 심야 '반딧불이버스' 다닌다…오세훈 \"24시간 경제도시로\" - 연합뉴스",
-    "title_ko": "서울 심야 '반딧불이버스' 다닌다…오세훈 \"24시간 경제도시로\"",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE92MTF1cmVhNWlWLVktbW5GNWFsMnhFS0hxaTJTTDFiOXlnVE5WWE1lTDFRZUtkTVhZbjhvZFVRZ0ItNlhDVjNJYkdRWVR6QlpFNVNyWmJNQUszLWdVSTg4T9IBYEFVX3lxTE92MTF1cmVhNWlWLVktbW5GNWFsMnhFS0hxaTJTTDFiOXlnVE5WWE1lTDFRZUtkTVhZbjhvZFVRZ0ItNlhDVjNJYkdRWVR6QlpFNVNyWmJNQUszLWdVSTg4Tw?oc=5",
-    "published": "Thu, 20 Aug 2026 02:09:16 GMT",
-    "fetched_at": "2026-08-20 16:37:35",
-    "sentiment": "호재",
-    "importance": 2,
-    "sectors": [
-      "서비스업",
-      "유통업"
-    ],
-    "keywords": [
-      "서울",
-      "심야버스",
-      "24시간 경제",
-      "생활편의"
-    ],
-    "reason": "서울시의 심야버스 확대는 심야 경제활동을 촉진하여 서비스 및 유통업 매출 증대에 기여할 수 있으나, 전반적인 거시경제나 대형 투자 자산에 미치는 영향은 제한적이다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "롯데관광개발, 제주 드림타워에 ‘이미스’ 첫 매장 선보여",
-    "title_ko": "롯데관광개발, 제주 드림타워에 ‘이미스’ 첫 매장 선보여",
-    "link": "https://www.mk.co.kr/news/business/12132370",
-    "published": "Thu, 20 Aug 2026 16:21:21 +09:00",
-    "fetched_at": "2026-08-20 16:38:03",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "관광",
-      "유통/소매"
-    ],
-    "keywords": [
-      "롯데관광개발",
-      "제주 드림타워",
-      "이미스",
-      "K패션",
-      "제주 관광"
-    ],
-    "reason": "롯데관광개발의 제주 드림타워 내 신규 매장 오픈은 개별 기업의 리테일 매출 증대 및 제주 지역 관광 콘텐츠 강화를 시사하나, 거시 경제나 광범위한 투자 자산에 미치는 영향은 제한적이다.",
-    "action_point": "해당 없음"
   }
 ]
