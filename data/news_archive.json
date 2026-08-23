@@ -2,6 +2,262 @@
   {
     "source": "GoogleNews_Korea",
     "market": "KR",
+    "title": "호르무즈 칼자루 쥔 이란...트럼프 '사상 최대 봉쇄령'에 경제 전쟁 선포 [자막뉴스] - YTN",
+    "title_ko": "호르무즈 칼자루 쥔 이란...트럼프 '사상 최대 봉쇄령'에 경제 전쟁 선포",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0zbXpYT3gzQkdCek80bVhPQ3RWQ0lqelFZUFIzOXZPbkFwYnptQXFXY0x6c2JxT1V3M3k5Qkt5ak9LQ2JGSHZveV9SdV81MTByLU1yNHQ3Sk1UQ1p5Znc?oc=5",
+    "published": "Sun, 23 Aug 2026 07:10:00 GMT",
+    "fetched_at": "2026-08-23 17:19:08",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "원유/에너지",
+      "해운/물류",
+      "방산",
+      "항공",
+      "화학"
+    ],
+    "keywords": [
+      "이란",
+      "호르무즈 해협",
+      "미국 봉쇄령",
+      "경제 전쟁",
+      "지정학적 리스크",
+      "유가"
+    ],
+    "reason": "이란의 호르무즈 해협 통제 위협 및 미국과의 경제 전쟁 선포는 중동 지역의 지정학적 리스크를 급격히 고조시킨다. 이는 글로벌 원유 공급 불확실성 증대로 유가 상승 압력을 가하며, 전반적인 시장의 투자 심리를 위축시킬 수 있다.",
+    "action_point": "유가 상승 압력에 대비하여 에너지 섹터 비중을 확대하고, 방산 섹터에 대한 투자를 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "카니, 무역갈등 미국에 '전쟁' 선포‥미·캐나다 파국 치닫나 - MBC 뉴스",
+    "title_ko": "카니, 무역갈등 미국에 '전쟁' 선포‥미·캐나다 파국 치닫나",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE14UWhUTWhQMUZVTUNFY3N2UXdyU2pzZmw5bG9JMDFEOFlDY0NBOFVsUXhybmI4a0JpSnNMT1dFbHcyanNKYVBjV0hLMmp6WFktZGVNLXIwVUU5VTlaaW1WdUpvb2NYWTYyTXl2WHJBMUNnSmxs0gF0QVVfeXFMUFd5dWdRdzdkRUJOWWFrOUE4ZG5jM1ZnamFtVnY0NUlkRDRuWUdxSjUyX2dRR3Y1SE4yc3lNT3ExcjFvQXIweGRXX0VQckl2WTAtTldPOE5wWXNELWVMeGM1Rm1SVnB3dVdKNmkyby1VX21QMmk?oc=5",
+    "published": "Sun, 23 Aug 2026 01:28:11 GMT",
+    "fetched_at": "2026-08-23 17:18:39",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "무역",
+      "제조업",
+      "원자재",
+      "운송/물류"
+    ],
+    "keywords": [
+      "무역갈등",
+      "미국",
+      "캐나다",
+      "관세",
+      "보호무역"
+    ],
+    "reason": "미국과 캐나다 간 무역 갈등 격화는 북미 지역의 공급망 교란을 야기하고, 전반적인 글로벌 무역 불확실성을 증대시켜 관련 산업 및 원자재 시장에 부정적인 영향을 미 미칠 수 있습니다.",
+    "action_point": "북미 무역 의존도가 높은 기업 및 캐나다산 원자재 관련 투자 비중을 재검토하십시오."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "“응징” 말한 트럼프, 캐나다에 50% 관세폭탄…카니 “전쟁이다” - 중앙일보",
+    "title_ko": "“응징” 말한 트럼프, 캐나다에 50% 관세폭탄…카니 “전쟁이다” - 중앙일보",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TZ2JTLVdoYmRsbTRPNjk2a280eHE2RXVRVFBxWFpXMGV6dGRhOURUb2YzaURtRC02ZlRVTk1HekZHdFg4VHVpYlVlRnM2WVl2WllzNFZn?oc=5",
+    "published": "Sun, 23 Aug 2026 07:14:13 GMT",
+    "fetched_at": "2026-08-23 17:18:47",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "글로벌 무역",
+      "수출주",
+      "산업재",
+      "소비재",
+      "금융"
+    ],
+    "keywords": [
+      "트럼프",
+      "관세",
+      "캐나다",
+      "무역분쟁",
+      "보호무역",
+      "지정학"
+    ],
+    "reason": "트럼프의 캐나다 대상 50% 관세 위협은 북미 무역 갈등 격화 및 글로벌 보호무역주의 확산 우려를 키워 지정학적 리스크와 시장 불확실성을 증대시킵니다. 이는 글로벌 공급망 교란과 기업 실적 악화 가능성으로 이어질 수 있습니다.",
+    "action_point": "글로벌 무역 갈등 심화에 대비하여 위험자산 비중을 줄이고 안전자산(달러, 금) 보유를 확대하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "7월 경제 지표 부진 우려 의식했나… 中 중앙재경위, 경제 회복력·활력 강조 - 조선비즈 - Chosunbiz",
+    "title_ko": "7월 경제 지표 부진 우려 의식했나… 中 중앙재경위, 경제 회복력·활력 강조 - 조선비즈 - Chosunbiz",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbDQza0JmQk9DajBQM2c1ZXlUNjdxbmJSYmU4bENoZlZpNUtFMk5GclBFRXFYSlhxSHBNc3NweUhOUC1ZN25sNUM5MnkyaW9qSzhDaVBOc2J1ZzRPSlZBRm9MMFptT2E2VGEzRkxWOS1kbl8tRE94eW4yejh3dDdYcDBSbnVHdGtUOWQxZmtIT0RhcERkbTdNVjFMNUJZZ9IBsgFBVV95cUxNTXA4dVRiVGVVTjAzUWJoRFNRWE5FOG5ocVdVa0dzM0dFNnlDbzBZSE1YV002bUdXSnc4UDMzcDdaMDB6NENYbmVWa3R6Z19iUGFiNHhremF1ZVNwUzhUaXRiVDE4bXU3UjcwNTlDY042ZUtsMTRSZGZaTjdFNlFHVy10MmlzQl9vXzJyM3Bid2t0RnN2WXlHeklJbzBaTWZfRWpzemNQMmxtem9URmFmbFZR?oc=5",
+    "published": "Sun, 23 Aug 2026 06:48:00 GMT",
+    "fetched_at": "2026-08-23 17:18:59",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "한국 수출주",
+      "원자재",
+      "글로벌 경기 민감주",
+      "신흥국 시장"
+    ],
+    "keywords": [
+      "중국 경제",
+      "경기 부양",
+      "경제 회복",
+      "7월 지표"
+    ],
+    "reason": "중국 최고 경제 기구가 7월 지표 부진 우려 속에서 경기 회복력 강화를 강조하며, 향후 정책적 지원 가능성을 시사하나 실제 부양책의 내용과 효과는 미지수다.",
+    "action_point": "중국 경기 회복을 위한 구체적인 정책 발표 시 국내 대중국 수출 비중이 높은 기업 및 원자재 관련 섹터의 투자 기회를 면밀히 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "中 7월 경기지표 부진에…중앙재경위, 경제 회복력·활력 강조 - 연합뉴스",
+    "title_ko": "中 7월 경기지표 부진에…중앙재경위, 경제 회복력·활력 강조 - 연합뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE82Z0dBX3VVSGltdGxPZlFhRFlacnJ6dENRX2dpZVBMdVltU3V2d1FvbHc5TUc0RmpxUVJLWXpfcGV1TkpTUzJVdU5XUFJDblpidmp4RDhNclJaV2PSAWBBVV95cUxPNXVoek00RHhTNUMwSGk5VldrZ0FGcFdmWTZqMldEQUdtOTNtVWhqRnlCSkRvcmplUXU5bVRiYjBCQmNDVjhjNU4tN09QZ3RyTm9XWEJRdkFTdVdMOTE5NWw?oc=5",
+    "published": "Sun, 23 Aug 2026 06:13:12 GMT",
+    "fetched_at": "2026-08-23 17:19:15",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "철강",
+      "화학",
+      "반도체",
+      "디스플레이",
+      "기계",
+      "운송"
+    ],
+    "keywords": [
+      "중국 경제",
+      "경기 부진",
+      "중앙재경위",
+      "경제 회복력",
+      "수출"
+    ],
+    "reason": "중국의 7월 경기지표 부진은 글로벌 수요 약화와 경기 둔화 우려를 심화시키며, 대중국 수출 의존도가 높은 한국 경제와 관련 기업에 부정적 영향을 미칠 수 있습니다. 중앙재경위의 회복력 강조는 현재 상황의 심각성을 방증합니다.",
+    "action_point": "중국향 수출 비중이 높은 국내 산업재 및 IT 섹터의 실적 하향 조정 가능성을 고려하여 비중 축소를 검토."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "통신3사 새 먹거리 'AI 데이터센터'",
+    "title_ko": "통신3사 새 먹거리 'AI 데이터센터'",
+    "link": "https://www.mk.co.kr/news/it/12134127",
+    "published": "Sun, 23 Aug 2026 17:08:35 +09:00",
+    "fetched_at": "2026-08-23 17:19:40",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "통신",
+      "데이터센터",
+      "AI",
+      "반도체"
+    ],
+    "keywords": [
+      "통신3사",
+      "AI 데이터센터",
+      "성장동력",
+      "인프라 투자"
+    ],
+    "reason": "통신 3사의 AI 데이터센터 사업 진출은 기존 포화된 무선사업을 넘어선 새로운 성장 동력을 확보하려는 전략이다. 이는 국내 AI 인프라 투자 확대와 관련 산업 생태계 성장에 기여할 것으로 예상된다.",
+    "action_point": "국내 통신 섹터의 AI 데이터센터 사업 확장에 따른 인프라 및 반도체 관련 기업 투자 기회 검토."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "\"8·13 공급대책 현장 직접 다녀왔습니다\"",
+    "title_ko": "8·13 공급대책 현장 직접 다녀왔습니다",
+    "link": "https://www.mk.co.kr/news/realestate/12134120",
+    "published": "Sun, 23 Aug 2026 17:07:53 +09:00",
+    "fetched_at": "2026-08-23 17:20:23",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "부동산",
+      "건설"
+    ],
+    "keywords": [
+      "8·13 공급대책",
+      "부동산",
+      "공공분양",
+      "택지",
+      "주택공급"
+    ],
+    "reason": "정부의 8·13 공급대책 현장 점검은 주택 공급 확대 의지를 재확인하며, 이는 중장기적으로 국내 부동산 시장의 가격 안정화에 압력을 가할 수 있습니다.",
+    "action_point": "지속적인 주택 공급 확대 정책 기조에 따라 포트폴리오 내 국내 부동산 비중 축소를 검토하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "생명의 판막, 한땀 한땀 ‘1000번 손바느질’...연봉 1억 장인들 120만명 살렸다",
+    "title_ko": "생명의 판막, 한땀 한땀 ‘1000번 손바느질’...연봉 1억 장인들 120만명 살렸다",
+    "link": "https://www.mk.co.kr/news/it/12134138",
+    "published": "Sun, 23 Aug 2026 17:17:54 +09:00",
+    "fetched_at": "2026-08-23 17:19:32",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "의료기기",
+      "헬스케어"
+    ],
+    "keywords": [
+      "심장 판막",
+      "의료기기",
+      "정밀 제조",
+      "에드워즈라이프사이언스"
+    ],
+    "reason": "이 뉴스는 고부가가치 정밀 의료기기 시장, 특히 구조적 심장 치료 분야의 기술적 진보와 시장 리더의 성공 사례를 보여줍니다. 이는 헬스케어 섹터 내 특정 니치 시장의 견고한 성장성과 높은 진입 장벽을 시사합니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "체험부터 패션까지 … 게임사 팝업스토어의 변신",
+    "title_ko": "체험부터 패션까지 … 게임사 팝업스토어의 변신",
+    "link": "https://www.mk.co.kr/news/it/12134126",
+    "published": "Sun, 23 Aug 2026 17:08:35 +09:00",
+    "fetched_at": "2026-08-23 17:19:47",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "게임",
+      "유통",
+      "패션"
+    ],
+    "keywords": [
+      "게임",
+      "팝업스토어",
+      "팬덤",
+      "브랜드 협업"
+    ],
+    "reason": "게임업계의 팝업스토어 전략 변화는 팬덤 결집을 통한 IP 가치와 수익성을 높이려는 노력의 일환이다. 이는 경쟁 심화 속에서 게임사의 마케팅 및 리테일 전략이 진화하고 있음을 시사한다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "\"K팝 로봇 아이돌과 월드투어 돌겠습니다\"",
+    "title_ko": "K팝 로봇 아이돌과 월드투어 돌겠습니다",
+    "link": "https://www.mk.co.kr/news/business/12134124",
+    "published": "Sun, 23 Aug 2026 17:08:34 +09:00",
+    "fetched_at": "2026-08-23 17:19:57",
+    "sentiment": "호재",
+    "importance": 2,
+    "sectors": [
+      "엔터테인먼트",
+      "로봇",
+      "소프트웨어"
+    ],
+    "keywords": [
+      "K팝",
+      "로봇",
+      "엔터테크",
+      "소프트웨어",
+      "문화 콘텐츠"
+    ],
+    "reason": "로봇 기술과 K팝 콘텐츠의 융합을 통한 엔터테인먼트 산업의 새로운 성장 동력을 제시하며, 미래 엔터테크 시장의 경쟁 우위가 소프트웨어와 기획력에 있음을 시사한다.",
+    "action_point": "K팝 IP 기반의 로봇 엔터테크 분야에서 소프트웨어 및 기획력을 갖춘 선도 기업에 대한 투자 기회를 탐색하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
     "title": "“전쟁 해보자”…캐나다, 미국 50% 관세폭탄 직후 ‘같은 규모’ 맞불 관세 - 한겨레",
     "title_ko": "“전쟁 해보자”…캐나다, 미국 50% 관세폭탄 직후 ‘같은 규모’ 맞불 관세",
     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1NcHM2UGVwM2FaVFBTa00tNGgtS1ZRdjZva2FwQUhfR0VGS1FtSnJ5VU9iS1RsWkNhcG5fQlJuZ1I3anBfMTFPSDZnWnFZMkhyNVo2a3NUQTVTSWFQV1NxbnRGTnVHdm1wUzFMRUpCNA?oc=5",
@@ -2754,256 +3010,5 @@
     ],
     "reason": "김여정의 강도 높은 대남 비난 담화는 남북 간 긴장감을 고조시키며 지정학적 리스크에 대한 투자 심리를 위축시킬 수 있습니다. 다만, 실제 무력 도발이 아닌 수사적 공세이므로 즉각적인 시장 영향은 제한적일 가능성이 큽니다.",
     "action_point": "원/달러 환율의 단기 변동성 확대 가능성에 대비하여 달러 자산 비중을 점검하십시오."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Meta shares seem cheap, but the charts are showing an ominous sign, says Jay Woods",
-    "title_ko": "메타 주식은 저렴해 보이지만 차트에서 불길한 징후가 나타나고 있다고 제이 우즈가 말한다",
-    "link": "https://www.cnbc.com/2026/08/20/meta-shares-seem-cheap-but-the-charts-are-showing-an-ominous-sign-says-jay-woods.html",
-    "published": "Thu, 20 Aug 2026 17:00:01 GMT",
-    "fetched_at": "2026-08-21 05:18:19",
-    "sentiment": "악재",
-    "importance": 2,
-    "sectors": [
-      "기술",
-      "소셜 미디어"
-    ],
-    "keywords": [
-      "메타",
-      "기술주",
-      "차트 분석",
-      "소셜 미디어"
-    ],
-    "reason": "메타 주식이 펀더멘털상 저평가되어 보이나 차트 분석에서 부정적인 신호가 감지되어 단기 하방 압력이 있을 수 있음을 시사한다. 이는 기술 섹터 전반에 대한 투자 심리 위축으로 이어질 가능성이 있다.",
-    "action_point": "메타 주식 및 유사 대형 기술주에 대한 단기 투자 비중 축소를 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[속보] 김여정, UFS훈련 축소에 \"전쟁놀이 못하게된 서울…가긍한 처지\" - 연합뉴스TV",
-    "title_ko": "[속보] 김여정, UFS훈련 축소에 \"전쟁놀이 못하게된 서울…가긍한 처지\" - 연합뉴스TV",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02TEZiM3V3R0VKckdXSXp4a0ZqUjhpakx4akQ2WHdpZjNOeUpFeWp5eHBiNnNSdVhzVFNGWFMwM2Q4cEtiSmZJSF9LVktTYzRMcS1ySWplZm1BSWliM2d6RUhOU2RVZEU?oc=5",
-    "published": "Thu, 20 Aug 2026 12:17:00 GMT",
-    "fetched_at": "2026-08-21 04:23:48",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "방산",
-      "관광",
-      "한국 증시 전반"
-    ],
-    "keywords": [
-      "김여정",
-      "UFS훈련",
-      "한미연합훈련",
-      "북한",
-      "지정학",
-      "한반도 리스크"
-    ],
-    "reason": "김여정의 UFS 훈련 축소 관련 발언은 북한의 지속적인 대남 비난 기조를 재확인하며, 한반도 지정학적 리스크에 대한 투자자들의 경계심을 유지시키는 요인입니다. 훈련 축소 자체는 표면적으로 긴장 완화로 해석될 수 있으나, 북한의 적대적 수사가 이를 상쇄합니다.",
-    "action_point": "한반도 지정학적 리스크 노출 자산에 대한 방어적 비중을 유지하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Bitcoin surges 12% in two days as Trump, crypto execs lead last ditch effort for Clarity Act",
-    "title_ko": "비트코인, 이틀 새 12% 급등... 트럼프와 암호화폐 업계, '명확성 법안' 통과 막판 총력",
-    "link": "https://www.cnbc.com/2026/08/20/bitcoin-surges-as-trump-crypto-execs-lead-final-push-for-clarity-act.html",
-    "published": "Thu, 20 Aug 2026 16:07:53 GMT",
-    "fetched_at": "2026-08-21 03:24:25",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "암호화폐",
-      "핀테크",
-      "기술주"
-    ],
-    "keywords": [
-      "비트코인",
-      "클래러티 법안",
-      "트럼프",
-      "암호화폐 규제",
-      "디지털 자산"
-    ],
-    "reason": "트럼프 전 대통령과 암호화폐 업계의 '명확성 법안' 추진은 규제 불확실성을 해소하여 비트코인을 포함한 디지털 자산 시장에 긍정적인 투자 심리를 형성하고 제도권 편입 기대감을 높입니다.",
-    "action_point": "암호화폐 자산 편입 또는 비중 확대를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Bessent says Treasury buyback operation could be more than $4 billion",
-    "title_ko": "Bessent, 미 국채 환매 규모 40억 달러 초과 가능성 언급",
-    "link": "https://www.cnbc.com/2026/08/20/bessent-says-treasury-buyback-operation-could-be-more-than-4-billion.html",
-    "published": "Thu, 20 Aug 2026 15:35:33 GMT",
-    "fetched_at": "2026-08-21 01:22:52",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "채권",
-      "금융",
-      "부동산",
-      "성장주"
-    ],
-    "keywords": [
-      "국채 환매",
-      "장기채",
-      "금리 안정",
-      "유동성"
-    ],
-    "reason": "미 재무부의 장기 국채 환매는 시장 유동성을 공급하고 최근 급등했던 장기 금리의 상승 압력을 완화하여 채권 시장 안정화 및 전반적인 자본 시장에 긍정적 영향을 줄 수 있습니다.",
-    "action_point": "장기 금리 안정화에 따른 채권 포트폴리오의 듀레이션 조정 및 금리 민감 성장주 비중 확대를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "AI data center outrage is showing up everywhere from ads to elections",
-    "title_ko": "AI 데이터 센터에 대한 반감이 광고부터 선거까지 전방위로 확산되고 있다",
-    "link": "https://www.cnbc.com/2026/08/20/ai-data-center-election-backlash.html",
-    "published": "Thu, 20 Aug 2026 15:56:12 GMT",
-    "fetched_at": "2026-08-21 01:22:59",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "AI/반도체",
-      "클라우드 컴퓨팅",
-      "전력/유틸리티",
-      "건설/인프라",
-      "부동산"
-    ],
-    "keywords": [
-      "AI 데이터 센터",
-      "반감",
-      "미국 중간선거",
-      "규제 위험",
-      "전력 소비"
-    ],
-    "reason": "미국 내 AI 데이터 센터 건설 및 운영에 대한 정치적 반감이 확산되며 규제 강화 가능성이 높아지고 있다. 이는 AI 인프라 확장에 차질을 빚어 관련 기업들의 투자 계획과 실적에 부정적 영향을 줄 수 있다.",
-    "action_point": "AI 인프라 구축 지연 위험을 감안하여 데이터 센터 관련 기업 및 AI 반도체 섹터의 중장기 투자 전망을 재검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "김여정 \"전쟁놀이 못하게 된 서울의 가긍한 처지…인과응보\" - 연합뉴스",
-    "title_ko": "김여정 \"전쟁놀이 못하게 된 서울의 가긍한 처지…인과응보\"",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SZmZYQmluZmZmZThBQkthaF9aTDk3SUltNk1ZQ2YxbFhoRzZiTXY0Y3pkdTROMEx3ckxoVVpPTGhrYXh0N3ZnRnVrNUhTMUdGZUNzVURmZFdHWDTSAWBBVV95cUxQVW1ETXdrZHUxRW45MXh3c3AtdmFVcTE0UG5tcEhoUFMtdEFyVVNhVHpETlU2WkROckVSSThIRUNNVmtoekRYakRiOWlsSUsxX2RCY0t6bFR0dG5USEIzWmc?oc=5",
-    "published": "Thu, 20 Aug 2026 12:42:51 GMT",
-    "fetched_at": "2026-08-21 00:25:08",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "전체 주식시장",
-      "외환(KRW)",
-      "관광/레저"
-    ],
-    "keywords": [
-      "북한",
-      "지정학적 리스크",
-      "남북 관계",
-      "김여정"
-    ],
-    "reason": "북한 김여정의 강경 발언은 남북 간의 지정학적 긴장을 고조시키며, 이는 한국 시장의 전반적인 투자 심리에 부정적인 영향을 미쳐 외국인 자금 유출 압력과 원화 약세 요인으로 작용할 수 있습니다.",
-    "action_point": "원화 약세 대비 달러 자산 비중 유지 또는 확대 검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "바이오협회, 식량위기 3대 축 제시…\"2031년 그린바이오 10조 시장\" - 팜이데일리",
-    "title_ko": "바이오협회, 식량위기 3대 축 제시…\"2031년 그린바이오 10조 시장\"",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0ydi1iWkVUMkE5YnloWDBUSmJldDA5OTJGYzEyT21DYk0yc0pSWkFibVZDMG5uWHNOODlwMGRmTkgwXzFMTEVJSFNuU2s5TFBOOExZTjc5MUE2VWd2YUduMlladERwVkZCLWFjVjV3?oc=5",
-    "published": "Thu, 20 Aug 2026 10:37:27 GMT",
-    "fetched_at": "2026-08-21 00:25:16",
-    "sentiment": "호재",
-    "importance": 2,
-    "sectors": [
-      "그린바이오",
-      "농업",
-      "바이오"
-    ],
-    "keywords": [
-      "그린바이오",
-      "식량위기",
-      "시장성장",
-      "바이오협회"
-    ],
-    "reason": "바이오협회가 제시한 2031년 10조원 규모의 그린바이오 시장 성장 전망은 국내 관련 기업들의 장기적인 성장 잠재력을 부각시키며, 식량 안보 및 지속가능성 트렌드에 대한 투자 관심을 높일 것입니다.",
-    "action_point": "그린바이오 및 스마트팜 관련 국내 상장 기업의 투자 매력도를 재평가하고 비중 확대를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Trump says Iran's economy is collapsing. A former central bank adviser in Tehran pushes back",
-    "title_ko": "트럼프, 이란 경제 붕괴 주장…테헤란 전 중앙은행 고문 반박",
-    "link": "https://www.cnbc.com/2026/08/20/iran-economy-worries-trump-sanction-war-hormuz-uae-.html",
-    "published": "Thu, 20 Aug 2026 08:38:11 GMT",
-    "fetched_at": "2026-08-20 22:38:48",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "방산",
-      "해운"
-    ],
-    "keywords": [
-      "이란",
-      "제재",
-      "경제",
-      "유가",
-      "지정학"
-    ],
-    "reason": "이란 경제에 대한 상반된 시각은 대이란 제재의 지속적인 영향을 시사하며, 이는 중동 지역의 지정학적 불안정성과 글로벌 유가 변동성을 높일 수 있습니다.",
-    "action_point": "중동 지정학적 리스크 지속에 따른 원자재 및 에너지 섹터 변동성 확대에 대비하여 관련 자산 비중 조정 검토"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Walmart hikes full-year outlook, says it will use huge tariff refund to keep prices low",
-    "title_ko": "월마트, 연간 실적 전망 상향 조정, 막대한 관세 환급액으로 저가 정책 유지할 것",
-    "link": "https://www.cnbc.com/2026/08/20/walmart-wmt-q2-2027-earnings.html",
-    "published": "Thu, 20 Aug 2026 12:21:48 GMT",
-    "fetched_at": "2026-08-20 21:27:47",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "유통",
-      "소비재",
-      "물류"
-    ],
-    "keywords": [
-      "월마트",
-      "소비 지출",
-      "관세 환급",
-      "인플레이션",
-      "유통"
-    ],
-    "reason": "월마트의 실적 전망 상향은 미국 소비 지출의 견조함을 시사하며, 관세 환급을 통한 저가 유지 정책은 인플레이션 압력을 완화하고 소비 심리를 지지할 것입니다.",
-    "action_point": "미국 소비 지표와 연관된 유통 및 소비재 섹터 투자 비중 유지 또는 확대 고려"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "트럼프 '이란 경제고립 작전' 선언…이란 \"美 위기 시선 돌리기\"(종합2보) - 연합뉴스",
-    "title_ko": "트럼프 '이란 경제고립 작전' 선언…이란 \"美 위기 시선 돌리기\"(종합2보)",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11RnMtYUxEalJpa2FLMDhWNjhFcVFEby1HQ2ctYkF2ZVZ0X1R5YVRVekF6REhOM2NrYi1GVFZqOTJSck0zaGFCT28wbWpiWWp6akZzNkIxMERBdmczaVY3VtIBYEFVX3lxTE11RnMtYUxEalJpa2FLMDhWNjhFcVFEby1HQ2ctYkF2ZVZ0X1R5YVRVekF6REhOM2NrYi1GVFZqOTJSck0zaGFCT28wbWpiWWp6akZzNkIxMERBdmczaVY3Vg?oc=5",
-    "published": "Thu, 20 Aug 2026 08:21:22 GMT",
-    "fetched_at": "2026-08-20 21:27:54",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "방산",
-      "해운",
-      "항공"
-    ],
-    "keywords": [
-      "트럼프",
-      "이란",
-      "경제고립",
-      "지정학",
-      "유가",
-      "중동"
-    ],
-    "reason": "트럼프의 이란 경제고립 선언은 중동 지정학적 리스크를 고조시키며, 글로벌 원유 공급 불확실성 증가로 국제 유가 상승 압력을 키울 수 있습니다. 이는 인플레이션 압력 및 기업 비용 증가 요인으로 작용합니다.",
-    "action_point": "원유 관련 자산 비중 확대 및 방산 섹터 관심 유지"
   }
 ]
