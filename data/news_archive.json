@@ -4,6 +4,103 @@
     "market": "KR",
     "title": "이란 \"미 경제 제재 동참국은 모두 적...국익 타격\" 경고 - YTN",
     "title_ko": "이란 \"미 경제 제재 동참국은 모두 적...국익 타격\" 경고 - YTN",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1vNF84WlhBUHhfaVNaOEpRRUJlRHBEOUpYUkJ2TzkySUpNQTRIN2NaT2tSeWFfMlZaNHJlRzBSWTBoUkUwY3NnU2JEang0THBGaXVpT1lsMjVaa1VEdVE?oc=5",
+    "published": "Sun, 23 Aug 2026 03:24:00 GMT",
+    "fetched_at": "2026-08-23 13:27:49",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "해운",
+      "방산"
+    ],
+    "keywords": [
+      "이란",
+      "미국",
+      "제재",
+      "지정학적 리스크",
+      "국제유가",
+      "중동"
+    ],
+    "reason": "이란의 강경한 발언은 중동 지정학적 리스크를 고조시키며, 국제유가 변동성 확대 및 글로벌 경제 불확실성을 높일 수 있습니다.",
+    "action_point": "국제유가 변동성 확대에 대비하여 에너지 섹터 관련 투자 비중을 점검하고 방산 섹터를 주시하십시오."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "이란 협상파 \"전쟁 끝내고 경제 회복할 때\"…강경파에 대립각 - v.daum.net",
+    "title_ko": "이란 협상파 \"전쟁 끝내고 경제 회복할 때\"…강경파에 대립각",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9UbjN2ckhEY3B4em9uZmpRV1RWc2drN1VZVkxlM1BZS1gwcVludjJXNmpiY3JLSWtXaWJLaUU5NUJXSmRyX1p2ODZrZnBxV0U?oc=5",
+    "published": "Sat, 22 Aug 2026 21:45:00 GMT",
+    "fetched_at": "2026-08-23 13:28:00",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "원자재 (유가)",
+      "해운/물류"
+    ],
+    "keywords": [
+      "이란",
+      "지정학",
+      "석유",
+      "경제회복",
+      "중동"
+    ],
+    "reason": "이란 내 협상파의 부상은 중동 지정학적 긴장 완화 및 유가 안정화 가능성을 높이며, 이는 글로벌 경제 불확실성 감소에 기여할 수 있습니다.",
+    "action_point": "이란 발 지정학적 리스크 완화 가능성에 따라 유가 하방 압력 발생 시 에너지 섹터의 투자 비중 축소를 검토하십시오."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "후쿠시마 오염수, 3년간 13% 방류…인근 어획액, 사고前 절반으로 늘어",
+    "title_ko": "후쿠시마 오염수, 3년간 13% 방류…인근 어획액, 사고前 절반으로 늘어",
+    "link": "https://www.mk.co.kr/news/society/12133984",
+    "published": "Sun, 23 Aug 2026 12:49:14 +09:00",
+    "fetched_at": "2026-08-23 13:28:24",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "수산물",
+      "식음료",
+      "유통",
+      "외식"
+    ],
+    "keywords": [
+      "후쿠시마",
+      "오염수",
+      "방류",
+      "어업",
+      "수산물"
+    ],
+    "reason": "후쿠시마 오염수 방류가 지속됨에 따라 IAEA의 국제기준 준수 발표에도 불구하고 국내 소비자들의 수산물 관련 불안 심리가 이어져 수산물 및 관련 산업의 매출에 부정적 영향을 미칠 수 있습니다.",
+    "action_point": "국내 수산물 및 관련 유통, 외식 기업의 투자 비중 축소 검토"
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[속보] 김민석 “비거주 1주택자, 사유 폭넓게 인정해 사각지대 없어져야” - 중앙일보",
+    "title_ko": "[속보] 김민석 “비거주 1주택자, 사유 폭넓게 인정해 사각지대 없어져야” - 중앙일보",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1IRFE1b1NFT1pnVGZlaFRQZVZ1dWYzc2dfSUV4R2gxX1hXellSc20yZjE2Yy1uNnpBVGNGT0JraklnNko5QlpPT2kzbTNFV3JSamE0dm9n?oc=5",
+    "published": "Sun, 23 Aug 2026 02:12:06 GMT",
+    "fetched_at": "2026-08-23 13:28:11",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "부동산"
+    ],
+    "keywords": [
+      "부동산",
+      "규제 완화",
+      "비거주 1주택자"
+    ],
+    "reason": "해당 발언은 비거주 1주택자에 대한 부동산 규제 합리화를 시사하며, 특정 사각지대 해소를 통해 주택 시장의 거래 유연성을 미세하게 개선할 가능성이 있다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "이란 \"미 경제 제재 동참국은 모두 적...국익 타격\" 경고 - YTN",
+    "title_ko": "이란 \"미 경제 제재 동참국은 모두 적...국익 타격\" 경고 - YTN",
     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nWDlwbUxqc0xoNDkwMWI0NVZjWTJHejlLUGlQQjNrdHYwZk5ObjB4ZEh1bVFiTnRvNXFJNWs4cXlyR2pfTkl6TkF6LUx5bGtNQm93VFFoeEZkbEwweGc?oc=5",
     "published": "Sun, 23 Aug 2026 01:40:00 GMT",
     "fetched_at": "2026-08-23 12:42:22",
@@ -2906,109 +3003,5 @@
     ],
     "reason": "미국의 대이란 경제 제재 강화 가능성을 시사하며 중동 지역 지정학적 불안정성 증대 및 유가 상승 압력으로 작용할 수 있습니다. 이는 글로벌 경제 불확실성을 높이는 요인입니다.",
     "action_point": "유가 상승 가능성에 대비하여 에너지 섹터 및 방산 섹터 투자 비중 확대를 검토하십시오."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Singapore's Temasek is on a hot streak in India as three bets surge after IPOs",
-    "title_ko": "싱가포르 테마섹, 인도 시장에서 연이은 성공…3개 IPO 후 주가 급등",
-    "link": "https://www.cnbc.com/2026/08/20/singapore-temasek-india-foreign-shiprocket-milky-mist.html",
-    "published": "Thu, 20 Aug 2026 06:57:50 GMT",
-    "fetched_at": "2026-08-20 17:26:12",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "신흥국 투자",
-      "인도 주식 시장",
-      "투자 금융"
-    ],
-    "keywords": [
-      "싱가포르 테마섹",
-      "인도",
-      "IPO",
-      "성장 투자",
-      "신흥국"
-    ],
-    "reason": "싱가포르 국부펀드 테마섹의 인도 투자 성공은 인도 시장의 성장 잠재력과 신흥국 투자 매력을 부각시키며, 관련 투자 심리를 긍정적으로 자극할 것입니다.",
-    "action_point": "인도 및 신흥국 시장의 성장주 투자 기회 발굴 검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "트럼프, 이란에 '최대 경제 전쟁' 선포...이란 \"국제법 위반\" - YTN",
-    "title_ko": "트럼프, 이란에 '최대 경제 전쟁' 선포...이란 \"국제법 위반\"",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE16R09vSko5MWx3OGpGcDZCc3FwY2JINU1ZVjFQVFlqZFlYVWpManpDMzdBQmVST3ZRRUZlVTk0NmlPZC1SbVpvb1VZbHByZWFCRDk0dU9MMXNESE5lWlE?oc=5",
-    "published": "Thu, 20 Aug 2026 04:36:00 GMT",
-    "fetched_at": "2026-08-20 16:37:29",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "원유/에너지",
-      "방산",
-      "해운",
-      "정유/화학",
-      "글로벌 증시"
-    ],
-    "keywords": [
-      "트럼프",
-      "이란",
-      "경제 전쟁",
-      "지정학적 리스크",
-      "유가"
-    ],
-    "reason": "트럼프의 이란에 대한 '최대 경제 전쟁' 선포는 중동의 지정학적 불안정성을 극도로 고조시키며, 이란산 원유 공급 차질 우려를 증대시켜 국제 유가 상승 압력으로 작용할 것입니다. 이는 글로벌 경기 둔화 가능성과 함께 금융 시장의 불확실성을 심화시킬 것입니다.",
-    "action_point": "원유 관련 헤지 포지션 구축을 검토하고, 지정학적 리스크에 민감한 자산의 비중을 축소하십시오."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Bitcoin, ether surge as Trump urges Congress to pass crypto Clarity Act",
-    "title_ko": "비트코인, 이더리움 급등, 트럼프 의회에 암호화폐 명확성 법안 통과 촉구",
-    "link": "https://www.cnbc.com/2026/08/20/cryptocurrencies-trump-bitcoin-ethereum.html",
-    "published": "Thu, 20 Aug 2026 05:29:50 GMT",
-    "fetched_at": "2026-08-20 16:33:29",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "암호화폐"
-    ],
-    "keywords": [
-      "비트코인",
-      "이더리움",
-      "트럼프",
-      "암호화폐 규제",
-      "법안"
-    ],
-    "reason": "트럼프의 암호화폐 규제 명확화 법안 촉구는 시장 불확실성을 해소하고 제도권 투자자들의 유입을 가속화하여 암호화폐 시장 전반에 긍정적인 영향을 미칠 수 있습니다.",
-    "action_point": "암호화폐 자산 및 블록체인 관련 기술 기업에 대한 투자 비중 확대를 검토하십시오."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "CNBC Daily Open: Trump bemoans 'ridiculous rates'",
-    "title_ko": "CNBC 데일리 오픈: 트럼프, '터무니없는 금리' 한탄",
-    "link": "https://www.cnbc.com/2026/08/20/daily-open-trump-interest-rates.html",
-    "published": "Thu, 20 Aug 2026 06:22:22 GMT",
-    "fetched_at": "2026-08-20 16:35:23",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "금융",
-      "에너지",
-      "기술",
-      "방산",
-      "부동산"
-    ],
-    "keywords": [
-      "트럼프",
-      "금리",
-      "이란",
-      "경제 전쟁",
-      "암호화폐 규제",
-      "지정학적 리스크",
-      "통화 정책"
-    ],
-    "reason": "트럼프 대통령의 금리 인하 압박은 시장에 완화적 통화 정책 기대감을 줄 수 있으나, 이란에 대한 경제 전쟁 선포는 지정학적 긴장을 고조시켜 유가 상승 및 전반적인 시장 불확실성을 증폭시킬 수 있습니다.",
-    "action_point": "유가 변동성 및 중동 지정학적 리스크에 대비하여 에너지 관련 익스포저를 점검하고 안전자산 비중 확대를 고려하라."
   }
 ]
