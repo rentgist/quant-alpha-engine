@@ -1,5 +1,27 @@
 [
   {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Wells Fargo and Citigroup have room to buy a big bank. These 5 regionals fit the bill",
+    "title_ko": "웰스파고와 씨티그룹, 대형 은행 인수 여력 보유: 5개 지역 은행이 잠재적 대상",
+    "link": "https://www.cnbc.com/2026/08/23/wells-fargo-citigroup-deals-regional-banks.html",
+    "published": "Sun, 23 Aug 2026 12:00:01 GMT",
+    "fetched_at": "2026-08-23 22:25:51",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "금융",
+      "은행"
+    ],
+    "keywords": [
+      "은행 M&A",
+      "금융 규제 완화",
+      "미국 지역 은행"
+    ],
+    "reason": "미국 금융 규제 당국이 대형 은행 간의 M&A를 허용할 가능성을 시사하며, 이는 미국 금융권의 구조 개편 및 효율성 증대를 가져올 수 있습니다. 잠재적 인수 대상 은행들의 가치 상승 가능성도 존재합니다.",
+    "action_point": "미국 금융 섹터 전반의 투자 매력도 증가에 따라 관련 ETF 비중 확대를 검토"
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "Small UK power plant shut down after cyberattack linked to Iran: Telegraph",
@@ -2982,31 +3004,5 @@
     ],
     "reason": "미국 재무장관의 발언은 트럼프 행정부 하의 재정 건전성 개선 기대를 높여, 향후 미 국채 발행 부담 완화 및 장기 금리 안정화에 긍정적 영향을 줄 수 있습니다.",
     "action_point": "미국 재정 건전성 개선 기대에 따라 장기 금리 상승 압력 완화를 예상하고, 금리 민감 자산(장기 채권, 성장주, 리츠) 비중 확대를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "U.S. bond intervention is like 'paying your mortgage with your credit card,' JPMorgan's Sullivan says",
-    "title_ko": "JP모건 설리번, 美 채권시장 개입 '신용카드로 주택담보대출 갚는 격'",
-    "link": "https://www.cnbc.com/2026/08/21/us-bond-intervention-shifting-problem-future-jpmorgan.html",
-    "published": "Fri, 21 Aug 2026 02:48:10 GMT",
-    "fetched_at": "2026-08-21 12:42:20",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "채권 시장 전반",
-      "금융",
-      "부동산",
-      "주식 시장 전반"
-    ],
-    "keywords": [
-      "미국 채권",
-      "국채 시장",
-      "금리",
-      "재정 정책",
-      "금융 안정성"
-    ],
-    "reason": "미국 국채 시장의 근본적인 문제가 해결되지 않고 미래로 미뤄지고 있다는 경고로, 이는 향후 금리 변동성 확대 및 금융 시장 불안정성 심화 가능성을 시사한다.",
-    "action_point": "미국 채권 시장의 구조적 문제 장기화 가능성에 대비하여 장기 국채 비중 축소 및 단기/변동금리형 자산 비중 확대를 검토하라."
   }
 ]
