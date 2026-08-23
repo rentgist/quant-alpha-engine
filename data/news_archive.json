@@ -2,6 +2,74 @@
   {
     "source": "GoogleNews_Korea",
     "market": "KR",
+    "title": "푸틴 \"러 경제 파괴하려는 우크라, 판도라의 상자 열었다\" - 연합뉴스",
+    "title_ko": "푸틴 \"러 경제 파괴하려는 우크라, 판도라의 상자 열었다\"",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xbTdqWllCU21aQUNjQk9ZMFJlcWhqbklfNEdIa0ZYTU5zOTd1VEc2TU1WQUotWTVjOGl6R3pRUWZ5MFEzUlJuckl3bHVoSHJXVG8wNmZpZzR3ZFXSAWBBVV95cUxNd1dOWWlYSUYzbTd6UXNlamtfcVRYOXNCYkwzNDJLSFk4dDh3ZXFfejRPQk5OM2ZWSUFEWGJqMVNtMDNncjFYVFFzcVg3TzZZTHptMzRrQXNtdHdoQk8zMVQ?oc=5",
+    "published": "Sun, 23 Aug 2026 14:02:53 GMT",
+    "fetched_at": "2026-08-24 03:15:36",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "원자재",
+      "방산",
+      "글로벌 경제"
+    ],
+    "keywords": [
+      "푸틴",
+      "러시아",
+      "우크라이나",
+      "지정학적 리스크",
+      "에너지",
+      "원자재"
+    ],
+    "reason": "푸틴 대통령의 발언은 러시아-우크라이나 분쟁의 추가적인 심화를 시사하며, 이는 지정학적 불확실성을 증대시키고 글로벌 에너지 및 원자재 시장에 변동성을 야기할 수 있습니다.",
+    "action_point": "지정학적 리스크 고조에 따른 에너지 및 원자재 가격 변동성 확대에 대비하여 관련 포트폴리오 비중을 점검하고 방산주 편입을 고려하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "After 10 years at United, CEO Scott Kirby is thinking big about the future of his airline from JFK to AI",
+    "title_ko": "유나이티드 항공 CEO 스캇 커비, 10년간의 재임 후 JFK부터 AI까지 항공사의 미래에 대해 큰 그림을 그리다",
+    "link": "https://www.cnbc.com/2026/08/23/united-airlines-ceo-scott-kirby.html",
+    "published": "Sun, 23 Aug 2026 12:00:01 GMT",
+    "fetched_at": "2026-08-24 03:15:26",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "항공"
+    ],
+    "keywords": [
+      "유나이티드 항공",
+      "항공 산업",
+      "AI",
+      "M&A"
+    ],
+    "reason": "유나이티드 항공 CEO의 장기 전략 구상으로, 잠재적 M&A와 AI 도입 계획을 논의한다. 이는 개별 항공사의 미래 비전에 대한 내용으로, 거시 경제나 광범위한 투자 자산에 직접적인 영향을 주지는 않는다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "고유가 지원금 950억원 미사용…“31일까지 안 쓰면 소멸”",
+    "title_ko": "고유가 지원금 950억원 미사용…“31일까지 안 쓰면 소멸”",
+    "link": "https://www.mk.co.kr/news/economy/12134287",
+    "published": "Sun, 23 Aug 2026 21:03:48 +09:00",
+    "fetched_at": "2026-08-24 03:15:50",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [],
+    "keywords": [
+      "고유가 지원금",
+      "정부 정책",
+      "소비 지출"
+    ],
+    "reason": "미사용 고유가 지원금의 소멸은 계획된 소규모 소비 진작 효과가 제한됨을 의미하나, 전체 거시경제 및 자산 시장에 미치는 영향은 극히 미미하다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
     "title": "푸틴 \"러 경제 파괴하려는 우크라, 판도라의 상자 열었다\" - MBC 뉴스",
     "title_ko": "푸틴 \"러 경제 파괴하려는 우크라, 판도라의 상자 열었다\"",
     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wTDY5eFVodmNEb05KWlVkMTlxN19vYjFobVFkSEtySENrTmszdVBUZFdpNW9UeUhHOUdDYXliNVNPQTlCZ2N1Ujg1Mkw1bFdHTVlrS1BGS1RCcFhieVd2OHB0c3U4R0piTWFGSVF2UnBFb1lE0gF0QVVfeXFMTXZqMDZralpqOWFWXzEwTnlpLWR2Q2RWU0hfN3Z0N25UQ2paQ3V3aWFQUTMwWkZUVU00QzdpZjR3Yjk2eEJNeG43cXl1dnp4UE5hZVFEVzA0eHdzRUZacm4xak9aVzRYVFlPZFdXUmExc2toTDU?oc=5",
@@ -2928,76 +2996,6 @@
       "정부 정책"
     ],
     "reason": "사회적 기업 및 협동조합 육성을 위한 정부의 정책 방향을 제시하는 법안으로, 장기적으로 포용적 경제 성장에 기여할 수 있으나, 단기적인 주식, 금리, 환율 등 주요 투자 자산 시장에 미치는 직접적 영향은 제한적입니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "산업부, 산업위기지역 '패스트트랙' 신설…침체 지속시 특별지역으로 신속 전환 - 전기신문",
-    "title_ko": "산업부, 산업위기지역 '패스트트랙' 신설…침체 지속시 특별지역으로 신속 전환",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jTXh5T2JpdjF1TkllV3A5dDk3TmpFaldiRFZLcE02VVJUY1AyTFpKSXp2OUtLUGdzVVhyWXFreEpTaG1rRXRCdzBKM1dnWUtLYVh5Q0tKbzNYclFiZnJHNnFiWUVVQVJPdEt3Vks3UWbSAXBBVV95cUxNY014eU9iaXYxdU5JZVdwOXQ5N05qRWpXYkRWS3BNNlVSVGNQMkxaSkl6djlLS1Bnc1VYcllxa3hKU2hta0V0QncwSjNXZ1lLS2FYeUNLSm8zWHJRYmZyRzZxYllFVUFST3RLd1ZLN1Fm?oc=5",
-    "published": "Fri, 21 Aug 2026 02:58:29 GMT",
-    "fetched_at": "2026-08-21 16:36:40",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "조선",
-      "자동차",
-      "철강",
-      "지역경제"
-    ],
-    "keywords": [
-      "산업위기지역",
-      "패스트트랙",
-      "특별지역",
-      "산업부",
-      "경기부양"
-    ],
-    "reason": "정부가 산업 침체 지역에 대한 지원책을 강화하여 해당 지역의 경제적 충격을 완화하고 산업 구조 전환을 지원하려는 목적이다. 이는 특정 지역 및 관련 산업의 연착륙을 돕는 정책적 노력으로 해석된다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "[세계지식포럼 연사] 뉴욕시 유일의 공화당 의석을 지킨 이가 보는 美 중간선거",
-    "title_ko": "뉴욕시 유일의 공화당 의석을 지킨 이가 보는 美 중간선거",
-    "link": "https://www.mk.co.kr/news/columnists/12133312",
-    "published": "Fri, 21 Aug 2026 16:28:47 +09:00",
-    "fetched_at": "2026-08-21 16:37:08",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [],
-    "keywords": [
-      "미국 중간선거",
-      "공화당",
-      "트럼프",
-      "세계지식포럼"
-    ],
-    "reason": "이 기사는 세계지식포럼 연사 소개로, 미국 중간선거 및 잠재적 트럼프 재집권 가능성에 대한 한 인사의 시각을 제시한다. 이는 향후 미국 정치 지형 변화가 글로벌 금융시장에 미칠 장기적 영향에 대한 이해도를 높이는 데 기여할 수 있다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "“이러다 TV도 만들겠네”…정수기·밥솥 회사들, 영역 파괴 ‘눈길’",
-    "title_ko": "“이러다 TV도 만들겠네”…정수기·밥솥 회사들, 영역 파괴 ‘눈길’",
-    "link": "https://www.mk.co.kr/news/economy/12133310",
-    "published": "Fri, 21 Aug 2026 16:27:53 +09:00",
-    "fetched_at": "2026-08-21 16:37:17",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "가전",
-      "소비재"
-    ],
-    "keywords": [
-      "가전",
-      "경쟁",
-      "제품 다양화",
-      "중견기업",
-      "수익성"
-    ],
-    "reason": "중견 가전 기업들이 수익성 한계를 극복하기 위해 제품군을 다양화하며 대기업 영역까지 진출, 국내 가전 시장 내 경쟁 심화 양상이 뚜렷해지고 있습니다. 이는 특정 산업 내 경쟁 구도 변화를 의미합니다.",
     "action_point": "해당 없음"
   }
 ]
