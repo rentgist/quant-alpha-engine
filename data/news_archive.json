@@ -1,5 +1,30 @@
 [
   {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Labubu maker Pop Mart shares fall as key ex-China sales data drop, Citi cuts price target",
+    "title_ko": "라부부 제작사 팝마트 주가, 중국 외 해외 매출 부진 및 씨티 목표주가 하향으로 하락",
+    "link": "https://www.cnbc.com/2026/08/21/labubu-maker-pop-mart-shares-fall-after-sales-drop-in-asia-americas-.html",
+    "published": "Fri, 21 Aug 2026 07:18:33 GMT",
+    "fetched_at": "2026-08-24 08:12:11",
+    "sentiment": "악재",
+    "importance": 2,
+    "sectors": [
+      "소비재",
+      "소매",
+      "엔터테인먼트"
+    ],
+    "keywords": [
+      "팝마트",
+      "라부부",
+      "주가 하락",
+      "해외 매출",
+      "목표주가 하향"
+    ],
+    "reason": "팝마트의 주가 하락은 해외 시장 매출 부진과 애널리스트의 목표주가 하향 조정에 기인하며, 이는 개별 기업의 실적 악화 및 특정 소비재 섹터의 투자 심리 위축 가능성을 시사합니다.",
+    "action_point": "해외 시장 확장 전략을 가진 유사 소비재 기업의 실적과 전망을 재검토."
+  },
+  {
     "source": "GoogleNews_Korea",
     "market": "KR",
     "title": "미국, 이란 경제 제재 발표 D-1...이란 \"미국, 군사적 패배 증거\" - YTN",
@@ -2972,30 +2997,5 @@
     ],
     "reason": "트럼프의 이란에 대한 경제적 압박 선언은 중동 지역 지정학적 리스크를 고조시키고 유가 상승 압력으로 작용할 수 있습니다. 이는 글로벌 인플레이션 우려를 키우고 경기 둔화 가능성을 높이는 악재입니다.",
     "action_point": "지정학적 리스크 및 유가 상승에 대비하여 에너지 섹터 비중 확대를 검토하고, 안전자산으로서 달러 보유를 유지하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "\"트럼프의 대이란 '경제전쟁', 군사작전 원치 않는다는 신호\" - v.daum.net",
-    "title_ko": "트럼프의 대이란 '경제전쟁', 군사작전 원치 않는다는 신호",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMbS1FMmU2VV9sMzNRYklJLUxzSzBWMzMxTUpIYWZ5Mkc1ZzI1eWZEbFhtQ0FsSU5kZE55bW9zMFB4S3hOblp6RThaNzNwLVU?oc=5",
-    "published": "Fri, 21 Aug 2026 07:19:50 GMT",
-    "fetched_at": "2026-08-21 16:36:48",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "항공/해운",
-      "글로벌 증시"
-    ],
-    "keywords": [
-      "트럼프",
-      "이란",
-      "경제전쟁",
-      "군사적 위험 감소",
-      "지정학적 리스크"
-    ],
-    "reason": "트럼프 행정부가 이란에 대한 군사적 옵션 대신 경제 제재를 선택함을 시사하여 중동 지역의 군사적 긴장 고조 위험을 완화하고, 이는 유가 급등 등 글로벌 시장의 불확실성 증대를 제한할 수 있습니다.",
-    "action_point": "유가 추가 상승에 베팅하는 에너지 관련 포지션 비중 축소를 검토하십시오."
   }
 ]
