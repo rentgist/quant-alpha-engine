@@ -2,6 +2,79 @@
   {
     "source": "GoogleNews_Korea",
     "market": "KR",
+    "title": "이란 \"미 경제 제재 동참국은 모두 적...국익 타격\" 경고 - YTN",
+    "title_ko": "이란 \"미 경제 제재 동참국은 모두 적...국익 타격\" 경고 - YTN",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nWDlwbUxqc0xoNDkwMWI0NVZjWTJHejlLUGlQQjNrdHYwZk5ObjB4ZEh1bVFiTnRvNXFJNWs4cXlyR2pfTkl6TkF6LUx5bGtNQm93VFFoeEZkbEwweGc?oc=5",
+    "published": "Sun, 23 Aug 2026 01:40:00 GMT",
+    "fetched_at": "2026-08-23 12:42:22",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "원유/가스",
+      "화학/석유화학",
+      "해운/물류",
+      "방산"
+    ],
+    "keywords": [
+      "이란",
+      "경제 제재",
+      "지정학적 위험",
+      "유가",
+      "중동"
+    ],
+    "reason": "미국 제재에 대한 이란의 강력한 반발은 중동 지정학적 긴장을 고조시키며, 잠재적인 원유 공급 차질과 유가 상승 압력을 야기하여 글로벌 인플레이션 및 기업 비용에 부정적 영향을 미칠 수 있습니다.",
+    "action_point": "고유가 수혜 업종(에너지) 비중 확대 및 고유가 취약 업종(화학, 해운) 비중 축소를 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "진동보다 먼저 온 ‘지진 속보’ 문자…일본 5.9 규모 강진 - 한겨레",
+    "title_ko": "진동보다 먼저 온 ‘지진 속보’ 문자…일본 5.9 규모 강진",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOS0t2bDZJczJpM0xibXVmUHotUmtyVklTRi1hSkRRSWlLbUhoZnJSVHAxaV9vb3BWRzJYQ1pIWWIxY1lpbFZLZjd0VkpFR2FBYUpyOExiaFFqOXhBTTZ6cmluZ0VzVzlwcFpQczM3Y2Z0bEFzNGpSQ09Pb1RWNjNOVUl3?oc=5",
+    "published": "Sun, 23 Aug 2026 02:54:00 GMT",
+    "fetched_at": "2026-08-23 12:42:13",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "해당 없음"
+    ],
+    "keywords": [
+      "일본 지진",
+      "5.9 규모",
+      "자연재해"
+    ],
+    "reason": "일본 내수 시장 및 특정 지역에 단기적인 영향을 미칠 수 있으나, 5.9 규모의 지진은 글로벌 매크로 변동이나 광범위한 투자 자산에 유의미한 영향을 주지 않을 가능성이 높습니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "우사인 볼트 100m 기록 깼다…중국 운동회에서 벌어진 ‘대사건’",
+    "title_ko": "우사인 볼트 100m 기록 깼다…중국 운동회에서 벌어진 ‘대사건’",
+    "link": "https://www.mk.co.kr/news/it/12133982",
+    "published": "Sun, 23 Aug 2026 12:42:02 +09:00",
+    "fetched_at": "2026-08-23 12:42:35",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "로봇",
+      "인공지능",
+      "자동화",
+      "반도체"
+    ],
+    "keywords": [
+      "휴머노이드 로봇",
+      "인공지능",
+      "로봇 기술",
+      "자동화",
+      "중국"
+    ],
+    "reason": "중국 로봇 기술의 빠른 발전이 장기적으로 노동 시장 및 산업 자동화에 큰 변화를 가져올 수 있음을 시사하나, 단기적 거시 경제 및 시장 전반에 미치는 직접적인 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
     "title": "이란 \"미 경제 제재 동참 시 적으로 간주\" - 연합뉴스TV",
     "title_ko": "이란 \"미 경제 제재 동참 시 적으로 간주\"",
     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xX1pVMkxpQ3B6UXlZbl9mLXNmTFN0ZzluMFppZFJJM3dGWmVGVUtfeGF3WV8ySnRCZ3V2SmZxcl9Zd1p5bFN4SW1GUlBtUVhnNFphY182R0FKY3hCMHk5V1BtRzEyNVE?oc=5",
@@ -2937,81 +3010,5 @@
     ],
     "reason": "트럼프 대통령의 금리 인하 압박은 시장에 완화적 통화 정책 기대감을 줄 수 있으나, 이란에 대한 경제 전쟁 선포는 지정학적 긴장을 고조시켜 유가 상승 및 전반적인 시장 불확실성을 증폭시킬 수 있습니다.",
     "action_point": "유가 변동성 및 중동 지정학적 리스크에 대비하여 에너지 관련 익스포저를 점검하고 안전자산 비중 확대를 고려하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "트럼프 \"대이란 경제작전 나설것…이란 돕는 나라는 불이익\" - JTBC",
-    "title_ko": "트럼프 \"대이란 경제작전 나설것…이란 돕는 나라는 불이익\"",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Ib0IyRVhDbng5UzhfcWlON25vUG1YMzBFMlJNd1k0cWRYZlZuZTlERmJmeU9fei1FSkYyM29ETnE2MVVlRVZZREFGVHVGWlY1ZElSQg?oc=5",
-    "published": "Wed, 19 Aug 2026 23:26:00 GMT",
-    "fetched_at": "2026-08-20 16:36:52",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "원자재",
-      "해운/물류",
-      "정유/화학",
-      "방산"
-    ],
-    "keywords": [
-      "트럼프",
-      "이란",
-      "경제 제재",
-      "지정학",
-      "원유",
-      "중동"
-    ],
-    "reason": "트럼프의 대이란 경제작전 발언은 중동 지정학적 리스크를 심화시키고, 국제 유가 변동성 확대를 야기하여 글로벌 공급망 및 에너지 시장에 부정적 영향을 미칠 수 있습니다.",
-    "action_point": "중동 지정학적 리스크 심화 및 국제 유가 변동성 확대에 대비하여 원유 관련 자산 또는 방산 섹터 편입을 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Nvidia plays matchmaker in Nordics, sources tell CNBC, as AI data center deals boom in region",
-    "title_ko": "엔비디아, 북유럽 AI 데이터센터 붐 속 GPU 고객과 운영자 연결 중재",
-    "link": "https://www.cnbc.com/2026/08/19/nvidia-nordic-ai-data-centers.html",
-    "published": "Wed, 19 Aug 2026 14:25:12 GMT",
-    "fetched_at": "2026-08-20 16:33:38",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "반도체",
-      "데이터센터",
-      "IT 인프라"
-    ],
-    "keywords": [
-      "엔비디아",
-      "AI",
-      "데이터센터",
-      "북유럽",
-      "GPU",
-      "인프라"
-    ],
-    "reason": "엔비디아가 북유럽 AI 데이터센터 구축을 중재하며 AI 인프라 투자 확대를 가속화하고, 관련 반도체 및 데이터센터 섹터의 성장 모멘텀을 강화할 것입니다.",
-    "action_point": "AI 반도체 및 데이터센터 관련주에 대한 투자 비중 유지 또는 확대 검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[속보] SK하이닉스 성과급, ‘현금 40%·자사주 40%·이연금 20%’ - 중앙일보",
-    "title_ko": "SK하이닉스 성과급, ‘현금 40%·자사주 40%·이연금 20%’",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzckduSFp0R0xXQ1hqS1FWazFCYUU0aWJKMkFiVElqdjFTXzFMOGVHZFRLWVA3bG0td3FLNE82RGM4S25mVk5iTFV5WXJCRDN0N3FFRXBB?oc=5",
-    "published": "Thu, 20 Aug 2026 05:08:33 GMT",
-    "fetched_at": "2026-08-20 16:35:57",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "반도체",
-      "IT/기술"
-    ],
-    "keywords": [
-      "SK하이닉스",
-      "성과급",
-      "자사주",
-      "반도체"
-    ],
-    "reason": "SK하이닉스의 성과급에 자사주 40%가 포함되어 임직원 동기 부여에는 긍정적이나, 향후 임직원 매도 시 잠재적인 시장 매도 물량 출회로 주가에 단기적 변동성을 줄 수 있습니다.",
-    "action_point": "SK하이닉스 주식에 대한 신규 매수를 보류하고, 기존 보유자는 단기적인 수급 변동 가능성에 대비하여 포지션을 재검토하라."
   }
 ]
