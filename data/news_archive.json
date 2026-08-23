@@ -1,5 +1,79 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Small UK power plant shut down after cyberattack linked to Iran: Telegraph",
+    "title_ko": "이란과 연계된 사이버 공격으로 영국 소규모 발전소 폐쇄: 텔레그래프",
+    "link": "https://www.cnbc.com/2026/08/23/small-uk-power-plant-shut-down-after-iran-linked-cyberattack-report.html",
+    "published": "Sun, 23 Aug 2026 11:35:52 GMT",
+    "fetched_at": "2026-08-23 21:20:00",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "사이버 보안",
+      "에너지 인프라"
+    ],
+    "keywords": [
+      "사이버 공격",
+      "영국",
+      "이란",
+      "에너지",
+      "지정학"
+    ],
+    "reason": "영국 소규모 발전소에 대한 사이버 공격은 즉각적인 에너지 시스템 위협은 없으나, 국가 기반 시설에 대한 사이버 공격 위험과 이란과의 지정학적 긴장 가능성을 부각시킵니다.",
+    "action_point": "글로벌 인프라 사이버 공격 위험 증대 추세에 맞춰 사이버 보안 관련 섹터 투자 비중 확대를 고려하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "한강뷰 노른자에 ‘무상거주 꼼수’…황제 법인주택 이렇게 많았다",
+    "title_ko": "한강뷰 노른자에 ‘무상거주 꼼수’…황제 법인주택 이렇게 많았다",
+    "link": "https://www.mk.co.kr/news/economy/12134284",
+    "published": "Sun, 23 Aug 2026 20:53:50 +09:00",
+    "fetched_at": "2026-08-23 21:20:15",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "부동산",
+      "건설"
+    ],
+    "keywords": [
+      "국세청",
+      "법인주택",
+      "고가주택",
+      "세금",
+      "부동산"
+    ],
+    "reason": "국세청의 고가 법인주택 사적 유용 전수조사 강화는 해당 부동산 시장의 불확실성을 높이고 잠재적 매물 증가를 유발할 수 있습니다. 이는 법인 명의 고가 주택 소유 법인 및 사주들에게 세무 리스크를 증가시키고, 관련 규제 강화 가능성을 시사합니다.",
+    "action_point": "고가 법인주택 시장의 규제 및 세무 리스크 증가에 대비하여 관련 자산 매입 또는 보유 전략을 재검토하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "“특허만료? 딴걸로 돈벌면 돼”…머크 ‘암백신’으로 신고가 찍었다",
+    "title_ko": "“특허만료? 딴걸로 돈벌면 돼”…머크 ‘암백신’으로 신고가 찍었다",
+    "link": "https://www.mk.co.kr/news/stock/12134279",
+    "published": "Sun, 23 Aug 2026 20:23:42 +09:00",
+    "fetched_at": "2026-08-23 21:20:22",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "제약",
+      "바이오",
+      "헬스케어"
+    ],
+    "keywords": [
+      "머크",
+      "암백신",
+      "mRNA",
+      "신약개발",
+      "키트루다",
+      "특허만료"
+    ],
+    "reason": "머크의 mRNA 암백신 3상 성공은 키트루다 특허 만료 우려를 상쇄하며 신약 개발의 중요성을 재확인시키고, 제약/바이오 섹터 내 혁신 기술의 가치를 부각시킨다.",
+    "action_point": "혁신 신약 파이프라인을 보유한 제약/바이오 기업 및 mRNA 기술 관련 기업 투자 기회 모색."
+  },
+  {
     "source": "GoogleNews_Korea",
     "market": "KR",
     "title": "미국·캐나다 무역전쟁 격화…카니 “美와 전쟁 중” - 전자신문",
@@ -2934,82 +3008,5 @@
     ],
     "reason": "미국 국채 시장의 근본적인 문제가 해결되지 않고 미래로 미뤄지고 있다는 경고로, 이는 향후 금리 변동성 확대 및 금융 시장 불안정성 심화 가능성을 시사한다.",
     "action_point": "미국 채권 시장의 구조적 문제 장기화 가능성에 대비하여 장기 국채 비중 축소 및 단기/변동금리형 자산 비중 확대를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Japan headline inflation rate hits highest this year as energy prices bite",
-    "title_ko": "일본 헤드라인 물가, 에너지 가격 상승으로 올해 최고치 기록",
-    "link": "https://www.cnbc.com/2026/08/21/japan-inflation-iran-war-energy.html",
-    "published": "Fri, 21 Aug 2026 02:13:18 GMT",
-    "fetched_at": "2026-08-21 11:18:33",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "금융",
-      "에너지",
-      "원자재",
-      "소비재"
-    ],
-    "keywords": [
-      "일본 인플레이션",
-      "에너지 가격",
-      "일본은행",
-      "통화정책",
-      "엔화"
-    ],
-    "reason": "일본의 물가 상승은 일본은행의 통화 정책 정상화 기대감을 유지시키나, 에너지 가격발 인플레이션은 소비 심리 및 기업 마진에 잠재적 부담으로 작용할 수 있다.",
-    "action_point": "일본은행의 통화 정책 정상화 가능성에 따른 엔화 강세 압력에 대비하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "이란 전쟁 6개월에 '경제적 D-day'...중국은 사실상 \"반대\" - YTN",
-    "title_ko": "이란 전쟁 6개월에 '경제적 D-day'...중국은 사실상 \"반대\" - YTN",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1NakF5SHFzWks4TXEyZ2lhV0ZOS0Uyc0NFNGJleFRUM1RtZ3lfSkV0a1BxZmw2T0VlRHVpQWZjdnR3eTdkdkFLa2V6NWdpa2c1cGZ1N0R2TFpOWXlNaUFMNTlhTE91RUl2ZlFOaWUyODNTQlc1dVE?oc=5",
-    "published": "Fri, 21 Aug 2026 01:53:00 GMT",
-    "fetched_at": "2026-08-21 11:18:43",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "해운",
-      "방산"
-    ],
-    "keywords": [
-      "이란 전쟁",
-      "중동 정세",
-      "유가",
-      "지정학적 리스크",
-      "글로벌 경제"
-    ],
-    "reason": "이란과의 장기전은 유가 상승 압력을 가중시키고 글로벌 공급망 불안정 및 인플레이션 우려를 심화시켜 전반적인 금융 시장에 악재로 작용할 것입니다.",
-    "action_point": "지정학적 리스크 상승에 따른 에너지 관련 자산 비중 조정 및 방산 섹터 주시."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Chinese humanoid robots' biggest obstacle: humans are still (mostly) better",
-    "title_ko": "중국 휴머노이드 로봇의 가장 큰 장애물: 인간이 여전히 (대부분) 더 낫다",
-    "link": "https://www.cnbc.com/2026/08/21/chinese-humanoid-robots-face-challenge-of-their-own-capabilities.html",
-    "published": "Fri, 21 Aug 2026 01:56:01 GMT",
-    "fetched_at": "2026-08-21 11:18:09",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "로봇",
-      "자동화",
-      "제조업",
-      "기술"
-    ],
-    "keywords": [
-      "휴머노이드 로봇",
-      "자동화",
-      "생산성",
-      "노동력",
-      "기술 발전"
-    ],
-    "reason": "휴머노이드 로봇의 효율성 한계가 언급되며, 광범위한 인간 노동 대체 및 생산성 향상 기대 시점이 늦춰질 수 있음을 시사합니다. 이는 로봇 및 자동화 관련 산업의 단기 성장 기대감에 영향을 줄 수 있습니다.",
-    "action_point": "휴머노이드 로봇 상용화에 직접적으로 의존하는 기업들의 단기 실적 전망을 보수적으로 재평가하라."
   }
 ]
