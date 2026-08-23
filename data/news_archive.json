@@ -2,6 +2,132 @@
   {
     "source": "GoogleNews_Korea",
     "market": "KR",
+    "title": "“전쟁 해보자”…캐나다, 미국 50% 관세폭탄 직후 ‘같은 규모’ 맞불 관세 - 한겨레",
+    "title_ko": "“전쟁 해보자”…캐나다, 미국 50% 관세폭탄 직후 ‘같은 규모’ 맞불 관세",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1NcHM2UGVwM2FaVFBTa00tNGgtS1ZRdjZva2FwQUhfR0VGS1FtSnJ5VU9iS1RsWkNhcG5fQlJuZ1I3anBfMTFPSDZnWnFZMkhyNVo2a3NUQTVTSWFQV1NxbnRGTnVHdm1wUzFMRUpCNA?oc=5",
+    "published": "Sun, 23 Aug 2026 05:44:00 GMT",
+    "fetched_at": "2026-08-23 16:25:47",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "무역",
+      "제조업",
+      "자동차",
+      "에너지",
+      "물류"
+    ],
+    "keywords": [
+      "미국-캐나다 무역",
+      "관세",
+      "보복 관세",
+      "글로벌 공급망",
+      "북미 경제"
+    ],
+    "reason": "미국과 캐나다 간의 대규모 관세 부과 및 보복 조치는 북미 지역의 무역 불확실성을 증대시키고 글로벌 공급망에 부담을 줄 것입니다. 이는 양국 경제 성장 둔화 및 인플레이션 압력 상승 요인으로 작용할 수 있습니다.",
+    "action_point": "북미 시장 노출도가 높은 기업의 투자 비중을 조정하고, 글로벌 무역 분쟁 심화에 따른 환율 변동성 확대에 대비하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "이란 협상파 \"전쟁 끝내고 경제 회복할 때\" - 연합뉴스TV",
+    "title_ko": "이란 협상파 \"전쟁 끝내고 경제 회복할 때\"",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZaUlCdllyT0tmc1dFYS0ydm1SN1ROd05kU1ViY0VvOWt6bERiaEtpSGZoSzFRdGx1blJ6TzJzZFVmZWRhdHhPakxSYW1walV4X2JySHFvVE5VMjZVeE9jR2E5aVBtdVE?oc=5",
+    "published": "Sun, 23 Aug 2026 06:02:00 GMT",
+    "fetched_at": "2026-08-23 16:25:57",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "정유",
+      "석유화학",
+      "항공",
+      "해운"
+    ],
+    "keywords": [
+      "이란",
+      "중동",
+      "지정학",
+      "유가",
+      "경제 회복"
+    ],
+    "reason": "이란 내 협상파의 발언은 중동 지역 긴장 완화 가능성을 시사하며, 이는 글로벌 유가 하락 압력으로 작용하여 원자재 시장 및 전반적인 경제 회복 기대감을 높일 수 있습니다.",
+    "action_point": "중동 지정학적 리스크 완화 기조에 따른 유가 하락 압력에 대비하여 에너지 섹터 비중 축소를 검토하고 항공, 해운 등 유가 수혜 섹터 투자 비중 확대를 고려하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[속보] 민주당 \"종부세, 1주택자 거주·비거주 구분 없게 강하게 요청\"‥고위 당정 - MBC 뉴스",
+    "title_ko": "[속보] 민주당 \"종부세, 1주택자 거주·비거주 구분 없게 강하게 요청\"‥고위 당정",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1HLUdRMVY4c2RKWl84WlNBMTB2WnREUFU2S1BFd0dmMERScnozbHVfWTF6R2o2bGlfOEFsampZODg3TTlNNGNnZVFOR3JqNTRhcU9adWp1UmdjaHJRckhMel9XN3dGZDRSUE5MZlhtTzUydUE0RjBWZtIBeEFVX3lxTE4yWlZpbEZacUQ2UExEWWx0OER1ZDh3QldzbWJuR2RSSmY1bFhxa1BQZXhsWkFfaE84ZjFwd185Yml3MXR6OWZhVm9OckhfRE9DZ1V1R0JLS1MtMTZXcGNPZnlKVXVvaURGX1M0bU5UZ1p3enllemxTMA?oc=5",
+    "published": "Sun, 23 Aug 2026 06:01:43 GMT",
+    "fetched_at": "2026-08-23 16:26:16",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "부동산"
+    ],
+    "keywords": [
+      "종부세",
+      "1주택자",
+      "부동산 세금",
+      "세제 개편",
+      "국내 정책"
+    ],
+    "reason": "1주택자의 종합부동산세 부과 기준에서 거주 여부 구분을 없애는 논의는 세금 부담 완화 및 세제 간소화를 통해 국내 부동산 시장의 투자 심리에 긍정적 영향을 줄 수 있습니다.",
+    "action_point": "국내 1주택 자산의 세금 부담 완화 기조를 확인하고 매도 계획을 재고하여 장기 보유 전략을 강화한다."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "한은 \"2014~2015년 북한 경제충격 때 중하위층에 비대칭적 피해\" - 연합인포맥스",
+    "title_ko": "한은 \"2014~2015년 북한 경제충격 때 중하위층에 비대칭적 피해\" - 연합인포맥스",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1KajBKMVhSS21DSHoteTZIdjJacHRYaEMwZUdyejRjYmJLZFFYTk5mUUhBaUNJallQakNOZWM4RHpqSm1WWnIzLVhFT2RadF9vekNMdUxDMWFod3VsTElveFBNS0FXeGNRSnRLTkthNmE?oc=5",
+    "published": "Sun, 23 Aug 2026 03:00:30 GMT",
+    "fetched_at": "2026-08-23 16:26:32",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "내수소비재",
+      "부동산",
+      "금융"
+    ],
+    "keywords": [
+      "북한 경제",
+      "소득 불균형",
+      "가계 소비",
+      "사회 안정망",
+      "한국은행"
+    ],
+    "reason": "한국은행이 과거 북한 경제충격 시 국내 중하위층이 비대칭적 피해를 입었음을 분석하여, 향후 유사 충격 발생 시 국내 소득 불균형 심화 및 내수 위축 가능성을 경고한다.",
+    "action_point": "국내 소득 불균형 심화에 취약한 내수 소비재, 부동산 및 금융 섹터 자산에 대한 잠재적 위험 노출도를 분석하고, 포트폴리오 비중 재조정을 검토."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "“K컬처 ‘3대 병목’은 내부 한계·연계 단절·지원 미비...韓헐리우드 조성해야”",
+    "title_ko": "K컬처 ‘3대 병목’은 내부 한계·연계 단절·지원 미비...韓헐리우드 조성해야",
+    "link": "https://www.mk.co.kr/news/economy/12134059",
+    "published": "Sun, 23 Aug 2026 15:42:17 +09:00",
+    "fetched_at": "2026-08-23 16:27:10",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "미디어/콘텐츠",
+      "엔터테인먼트",
+      "관광",
+      "소비재"
+    ],
+    "keywords": [
+      "K컬처",
+      "콘텐츠",
+      "엔터테인먼트",
+      "성장동력"
+    ],
+    "reason": "K컬처가 한국 경제의 장기 성장 동력으로 지목되나, 구조적 한계와 지원 미비 등 병목 현상 해결이 선행되어야 함을 강조하는 보고서. 이는 관련 산업의 중장기 전략 방향과 잠재력에 대한 통찰을 제공한다.",
+    "action_point": "현재 K컬처 관련 자산을 보유 중인 경우, 해당 기업이 제시된 병목 현상 해소에 대한 구체적인 전략을 가졌는지 점검."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
     "title": "[속보] 민주당 “종부세, 1주택자는 거주·비거주 구분 두지 않기로 강하게 요청” - 경향신문",
     "title_ko": "[속보] 민주당 “종부세, 1주택자는 거주·비거주 구분 두지 않기로 강하게 요청” - 경향신문",
     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BTno1OTlIYi1MVlV2aXBwbnVtcXVrX2tVeDh6UWN5aFAxQ2lkVGJmc1lvWEFPS2J4RG5ETE9wV09GMFhxVzBzY0ozclRnU1NlSkpMV0JPRHNYUdIBX0FVX3lxTE5fWk4zdUhrcllRNDFad2ZwaFpnbVAtV3c2b01CeURfcnBScEJwXzl4aFltaHdqZWNwQlNjR2JEUFI2WXZ6Nl9YRFFBRXcwTG82bV9sV081ZHk3Z1JFNDRF?oc=5",
@@ -2879,123 +3005,5 @@
     ],
     "reason": "트럼프의 이란 경제고립 선언은 중동 지정학적 리스크를 고조시키며, 글로벌 원유 공급 불확실성 증가로 국제 유가 상승 압력을 키울 수 있습니다. 이는 인플레이션 압력 및 기업 비용 증가 요인으로 작용합니다.",
     "action_point": "원유 관련 자산 비중 확대 및 방산 섹터 관심 유지"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Humanoid robots' 'ChatGPT moment' could be 10 years away, Unitree founder says",
-    "title_ko": "휴머노이드 로봇의 '챗GPT 모멘트'는 10년 뒤에나 올 수 있다, 유니트리 설립자 말하다",
-    "link": "https://www.cnbc.com/2026/08/20/unitree-humanoid-robots-chatgpt-moment.html",
-    "published": "Thu, 20 Aug 2026 09:02:11 GMT",
-    "fetched_at": "2026-08-20 20:19:10",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "로봇",
-      "인공지능",
-      "반도체",
-      "자동화"
-    ],
-    "keywords": [
-      "휴머노이드 로봇",
-      "인공지능",
-      "기술 발전",
-      "로봇 공학",
-      "미래 기술"
-    ],
-    "reason": "휴머노이드 로봇의 상용화 및 대중화는 여전히 장기적인 관점에서 접근해야 함을 시사하며, 관련 기술 기업들의 단기적인 성과 기대치를 조정할 수 있습니다. 장기적인 성장 잠재력은 유효하나, 급진적인 변화는 시기상조임을 강조합니다.",
-    "action_point": "휴머노이드 로봇 관련 단기 과열 투자에 대한 신중한 접근을 유지하고, 장기적인 기술 발전 추세를 관망."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Alibaba shares fall 4% as AI spending drives 75% drop in net income",
-    "title_ko": "알리바바 주가, AI 투자로 순이익 75% 급감하며 4% 하락",
-    "link": "https://www.cnbc.com/2026/08/20/alibaba-cloud-revenue.html",
-    "published": "Thu, 20 Aug 2026 10:04:40 GMT",
-    "fetched_at": "2026-08-20 19:20:33",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "기술",
-      "클라우드 컴퓨팅",
-      "전자상거래"
-    ],
-    "keywords": [
-      "알리바바",
-      "AI 투자",
-      "순이익 감소",
-      "주가 하락",
-      "빅테크"
-    ],
-    "reason": "알리바바의 순이익 급감은 AI 투자 비용이 단기적으로 기업 수익성을 압박할 수 있음을 보여줍니다. 이는 다른 빅테크 기업들의 AI 투자 효율성에 대한 시장의 우려를 키울 수 있습니다.",
-    "action_point": "AI 관련 대규모 투자를 단행 중인 테크 기업들의 단기 수익성 악화 가능성을 점검하고, 포트폴리오 내 비중을 재조정할지 검토하십시오."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[속보] 합참 “북한, 동해상으로 단거리 탄도미사일 10여발 발사” - 경향신문",
-    "title_ko": "[속보] 합참 “북한, 동해상으로 단거리 탄도미사일 10여발 발사” - 경향신문",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9UcEZaTXYweV82bUx4REtaOUI3RDAwSGk4ZDMtUkIyb3BfTVRCaWtaQklqWTczWTVRNFdrZEU2WWdxOTNXM2ZJZTROZmRsV00zSGFKeHFRSm0xd9IBX0FVX3lxTFBJdlhXc1ZyQmlZdm5jNzBudHZ6QVVyam9ZdldyR3J3ZFpxUUZrckNYVVlOcUJnaXRoVGFjYlpxdU9OdGNhOTZ1dHV0WVFCRVM2SnRpazFVaUpaRVd1Y3FF?oc=5",
-    "published": "Thu, 20 Aug 2026 08:11:00 GMT",
-    "fetched_at": "2026-08-20 19:20:49",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "방산",
-      "증시 전반"
-    ],
-    "keywords": [
-      "북한",
-      "탄도미사일",
-      "지정학적 리스크",
-      "한반도 안보"
-    ],
-    "reason": "북한의 단거리 탄도미사일 발사는 한반도의 지정학적 리스크를 높여 국내 증시의 단기 변동성을 확대시키고, 원화 약세 압력을 가중시킬 수 있습니다.",
-    "action_point": "지정학적 리스크 심화 시 원화 약세 가능성에 대비하여 달러 등 안전자산 비중 유지 또는 확대 고려."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[속보] 종합특검, '내란 가담 의혹' 심우정 전 검찰총장 불구속 기소 - MBC 뉴스",
-    "title_ko": "[속보] 종합특검, '내란 가담 의혹' 심우정 전 검찰총장 불구속 기소 - MBC 뉴스",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9GcVBoZXM1TWtkcUt6MFFZTzEtWUJMNXNyUEV2VG5ndHZoTVo1NEhKLVBRVlFjQldOaDk5OENVclJwby1Md3RCcGd1VHJlem5SM0ZLSEdlSllwZFpSVzhPR1h6ZERDMjVaSWloQktsdjZyRjFqc1k40gF3QVVfeXFMT2pBUGtYeXFVNHVVd3lOLXotajNSenV3VzBYWVlMeENxZ3lDaF96Qm1kMzF3RWU0U1Y5VDJSYVBoS2ZVNVJmRUlna1JTa0ZkV3RBWjJZb0Zvc1pyTGZDMGRRWVpQazl6QnZuX1dvTTJab3JpMEFlbVE?oc=5",
-    "published": "Thu, 20 Aug 2026 09:09:10 GMT",
-    "fetched_at": "2026-08-20 19:20:56",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [],
-    "keywords": [
-      "종합특검",
-      "내란 가담 의혹",
-      "검찰총장",
-      "기소"
-    ],
-    "reason": "전 검찰총장에 대한 내란 가담 의혹 기소는 국내 정치 및 사법 시스템의 안정성과 신뢰에 대한 우려를 야기할 수 있으나, 당장의 경제 및 금융 시장에 미치는 직접적인 영향은 제한적이다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Bond yields edge higher as traders digest Treasury debt buyback plan",
-    "title_ko": "채권 수익률, 국채 환매 계획 소화하며 소폭 상승",
-    "link": "https://www.cnbc.com/2026/08/20/bond-yields-edge-higher-as-traders-digest-treasury-debt-buyback-plan.html",
-    "published": "Thu, 20 Aug 2026 08:57:47 GMT",
-    "fetched_at": "2026-08-20 18:24:37",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "채권 시장",
-      "부동산 섹터",
-      "성장주"
-    ],
-    "keywords": [
-      "채권 수익률",
-      "국채",
-      "환매 계획",
-      "금리"
-    ],
-    "reason": "미국 국채 환매 계획 소화 과정에서 채권 수익률이 상승하며 전반적인 자금 조달 비용 상승 가능성을 시사한다. 이는 채권 투자 매력을 낮추고 주식 시장 특히 성장주에 대한 할인율을 높이는 요인이 될 수 있다.",
-    "action_point": "미국 채권 시장의 금리 상승 압력에 대비하여 장기 채권 비중 축소 및 금리 민감 자산에 대한 리스크 관리 강화."
   }
 ]
