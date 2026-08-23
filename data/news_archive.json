@@ -2,6 +2,80 @@
   {
     "source": "GoogleNews_Korea",
     "market": "KR",
+    "title": "푸틴 \"러 경제 파괴하려는 우크라, 판도라의 상자 열었다\" - MBC 뉴스",
+    "title_ko": "푸틴 \"러 경제 파괴하려는 우크라, 판도라의 상자 열었다\"",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wTDY5eFVodmNEb05KWlVkMTlxN19vYjFobVFkSEtySENrTmszdVBUZFdpNW9UeUhHOUdDYXliNVNPQTlCZ2N1Ujg1Mkw1bFdHTVlrS1BGS1RCcFhieVd2OHB0c3U4R0piTWFGSVF2UnBFb1lE0gF0QVVfeXFMTXZqMDZralpqOWFWXzEwTnlpLWR2Q2RWU0hfN3Z0N25UQ2paQ3V3aWFQUTMwWkZUVU00QzdpZjR3Yjk2eEJNeG43cXl1dnp4UE5hZVFEVzA0eHdzRUZacm4xak9aVzRYVFlPZFdXUmExc2toTDU?oc=5",
+    "published": "Sun, 23 Aug 2026 14:19:56 GMT",
+    "fetched_at": "2026-08-24 02:12:45",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "에너지",
+      "방산",
+      "원자재",
+      "해운"
+    ],
+    "keywords": [
+      "푸틴",
+      "러시아-우크라이나 전쟁",
+      "지정학적 리스크",
+      "경제 제재",
+      "에너지"
+    ],
+    "reason": "푸틴의 발언은 러시아-우크라이나 전쟁의 경제적 보복 및 장기화 가능성을 시사하며, 지정학적 리스크를 고조시켜 글로벌 에너지/원자재 가격 상승 압력과 시장 변동성 확대를 야기할 수 있다.",
+    "action_point": "방산 및 에너지 섹터 투자 비중 확대를 검토하고, 원자재 가격 상승에 대비하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "“美 채권금리 발작, 말은 못해도 고맙죠”…보험사 표정관리 왜",
+    "title_ko": "“美 채권금리 발작, 말은 못해도 고맙죠”…보험사 표정관리 왜",
+    "link": "https://www.mk.co.kr/news/economy/12134299",
+    "published": "Sun, 23 Aug 2026 22:24:34 +09:00",
+    "fetched_at": "2026-08-24 02:12:57",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "보험",
+      "금융",
+      "주식",
+      "부동산"
+    ],
+    "keywords": [
+      "미국 채권금리",
+      "장기 금리",
+      "보험사",
+      "고금리",
+      "재투자"
+    ],
+    "reason": "미국 장기채 금리 급등은 글로벌 자본 조달 비용을 높여 주식 및 부동산 등 위험 자산의 밸류에이션에 부담을 주지만, 국내 보험사에는 만기 도래 자산의 재투자 수익률을 개선하는 긍정적 측면도 있습니다.",
+    "action_point": "고금리 장기화 가능성에 대비하여 주식 포트폴리오 내 성장주 비중을 축소하고 국내 보험 섹터의 투자 매력을 재평가하라."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Chinese humanoid robots' biggest obstacle: Humans are still (mostly) better",
+    "title_ko": "중국 휴머노이드 로봇의 가장 큰 걸림돌: 인간이 여전히 (대부분) 더 낫다",
+    "link": "https://www.cnbc.com/2026/08/21/chinese-humanoid-robots-face-challenge-of-their-own-capabilities.html",
+    "published": "Fri, 21 Aug 2026 09:30:55 GMT",
+    "fetched_at": "2026-08-24 02:12:35",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "로봇 산업",
+      "자동화 산업"
+    ],
+    "keywords": [
+      "휴머노이드 로봇",
+      "로봇 자동화",
+      "노동 효율성"
+    ],
+    "reason": "이 기사는 휴머노이드 로봇이 대부분의 노동 시나리오에서 인간만큼 효율적이지 않다는 점을 지적하며, 로봇 기술의 광범위한 상용화 및 노동 시장 대체 효과가 예상보다 지연될 수 있음을 시사합니다.",
+    "action_point": "로봇 산업 내 휴머노이드 로봇 관련 기업의 단기 성장 기대치를 재평가하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
     "title": "푸틴 “우크라이나, 러시아 경제 파괴하려 판도라 상자 열어” - 연합뉴스TV",
     "title_ko": "푸틴 “우크라이나, 러시아 경제 파괴하려 판도라 상자 열어”",
     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vbWhiUXhkMDRaVTFyMkNpSmRrV0F4R3RMOXFQeTI0OTB3V1ZYbFZyTUpSYTdEY1hfWkszVER3REJyakRjaF9TckJScG95MWhKLXNjbmhtLTNxemNmR0hiYVVaM2hnQlU?oc=5",
@@ -2925,85 +2999,5 @@
     ],
     "reason": "중견 가전 기업들이 수익성 한계를 극복하기 위해 제품군을 다양화하며 대기업 영역까지 진출, 국내 가전 시장 내 경쟁 심화 양상이 뚜렷해지고 있습니다. 이는 특정 산업 내 경쟁 구도 변화를 의미합니다.",
     "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Japan's historic yen intervention has ‘turbo-charged’ the carry trade",
-    "title_ko": "일본의 역사적인 엔 개입이 캐리 트레이드를 '강화'시켰다",
-    "link": "https://www.cnbc.com/2026/08/20/us-japan-yen-intervention-bank-of-japan-carry-trade.html",
-    "published": "Fri, 21 Aug 2026 02:28:08 GMT",
-    "fetched_at": "2026-08-21 15:29:15",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "환율",
-      "금리",
-      "자산운용"
-    ],
-    "keywords": [
-      "일본 엔화",
-      "외환 개입",
-      "캐리 트레이드",
-      "금리 차이",
-      "통화 정책"
-    ],
-    "reason": "일본의 엔화 방어 개입이 오히려 엔화를 빌려 고금리 자산에 투자하는 캐리 트레이드의 매력을 높였다. 이는 글로벌 자본이 고금리 자산으로 이동하는 경향을 심화시킬 수 있다.",
-    "action_point": "엔화 약세 지속에 대비, 고금리 통화 및 자산 투자 비중 유지."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "美 “우리 편인가, 맞설 것인가“…동맹에 ’이란 경제 고립’ 동참 압박 - 연합뉴스TV",
-    "title_ko": "美 “우리 편인가, 맞설 것인가“…동맹에 ’이란 경제 고립’ 동참 압박",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZc0cxRWVfTTBZTlhEZXZTSkJGWVV5LW1NRU9ycFlkVFpIbmpjTTFwdGdfNHN1OVR5WDI2VXZwZU1Uamlhb3BLTEFtMWlXVkpVN2ZjRXJEX1JGZG9vYVlhQXF1aXlaSm8?oc=5",
-    "published": "Thu, 20 Aug 2026 22:45:00 GMT",
-    "fetched_at": "2026-08-21 14:24:34",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "에너지",
-      "정유",
-      "화학",
-      "방산",
-      "해운"
-    ],
-    "keywords": [
-      "미국",
-      "이란",
-      "제재",
-      "경제 고립",
-      "유가",
-      "중동",
-      "지정학"
-    ],
-    "reason": "미국의 이란 경제 고립 압박은 중동 지정학적 불안정을 고조시키고 글로벌 원유 공급에 차질을 줄 가능성이 있어 유가 상승 압력으로 작용할 것입니다. 이는 전 세계적인 인플레이션 우려를 다시 키우고 경기 둔화 가능성을 높일 수 있습니다.",
-    "action_point": "원유 및 에너지 관련 자산 비중 확대를 검토하고, 지정학적 리스크에 따른 시장 변동성 확대에 대비하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Stock futures are little changed after a steep sell-off sparked by a move back higher in Treasury yields: Live updates",
-    "title_ko": "국채 금리 상승으로 인한 가파른 매도세 이후 주식 선물은 소폭 변동: 실시간 업데이트",
-    "link": "https://www.cnbc.com/2026/08/20/stock-market-today-live-updates.html",
-    "published": "Fri, 21 Aug 2026 04:42:41 GMT",
-    "fetched_at": "2026-08-21 14:24:22",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "기술주",
-      "성장주",
-      "채권시장",
-      "증권업"
-    ],
-    "keywords": [
-      "주식 선물",
-      "매도세",
-      "국채 금리",
-      "다우지수",
-      "시장 변동성"
-    ],
-    "reason": "국채 금리 상승은 주식의 미래 현금 흐름 할인율을 높여 특히 성장주 밸류에이션에 부정적 영향을 미치며, 시장 전반의 위험 회피 심리를 심화시켜 광범위한 매도세를 유발했다.",
-    "action_point": "고금리 환경 지속 가능성에 대비하여 성장주 비중 축소 및 방어적 자산 편입을 검토."
   }
 ]
