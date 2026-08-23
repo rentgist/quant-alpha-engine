@@ -2,6 +2,53 @@
   {
     "source": "GoogleNews_Korea",
     "market": "KR",
+    "title": "[속보] 민주당 “종부세, 1주택자는 거주·비거주 구분 두지 않기로 강하게 요청” - 경향신문",
+    "title_ko": "[속보] 민주당 “종부세, 1주택자는 거주·비거주 구분 두지 않기로 강하게 요청” - 경향신문",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BTno1OTlIYi1MVlV2aXBwbnVtcXVrX2tVeDh6UWN5aFAxQ2lkVGJmc1lvWEFPS2J4RG5ETE9wV09GMFhxVzBzY0ozclRnU1NlSkpMV0JPRHNYUdIBX0FVX3lxTE5fWk4zdUhrcllRNDFad2ZwaFpnbVAtV3c2b01CeURfcnBScEJwXzl4aFltaHdqZWNwQlNjR2JEUFI2WXZ6Nl9YRFFBRXcwTG82bV9sV081ZHk3Z1JFNDRF?oc=5",
+    "published": "Sun, 23 Aug 2026 05:41:00 GMT",
+    "fetched_at": "2026-08-23 15:24:31",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "부동산"
+    ],
+    "keywords": [
+      "종부세",
+      "1주택자",
+      "부동산",
+      "세금",
+      "민주당"
+    ],
+    "reason": "민주당의 종부세 1주택자 과세 간소화 요청은 관련 부동산 세금 부담 완화 신호로 해석될 수 있으나, 현재는 제안 단계이며 전체 부동산 시장에 미치는 영향은 제한적이다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Paramount, California AG office reportedly plan to meet Monday to discuss settling WBD lawsuit",
+    "title_ko": "파라마운트, 캘리포니아 법무장관실과 WBD 소송 합의 논의 예정",
+    "link": "https://www.cnbc.com/2026/08/22/paramount-california-ag-said-to-plan-meeting-on-settling-wbd-suit-.html",
+    "published": "Sat, 22 Aug 2026 20:34:13 GMT",
+    "fetched_at": "2026-08-23 15:24:20",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "미디어",
+      "콘텐츠"
+    ],
+    "keywords": [
+      "파라마운트",
+      "워너 브라더스 디스커버리",
+      "독점금지",
+      "소송",
+      "합의"
+    ],
+    "reason": "파라마운트와 워너 브라더스 디스커버리 간의 독점금지 소송 합의 논의는 관련 기업들의 법적 불확실성을 해소하는 긍정적 신호이나, 전반적인 시장이나 거시 경제에 미치는 영향은 제한적이다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
     "title": "이란 \"미 경제 제재 동참국은 모두 적...국익 타격\" 경고 - YTN",
     "title_ko": "이란 \"미 경제 제재 동참국은 모두 적...국익 타격\" 경고 - YTN",
     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1vNF84WlhBUHhfaVNaOEpRRUJlRHBEOUpYUkJ2TzkySUpNQTRIN2NaT2tSeWFfMlZaNHJlRzBSWTBoUkUwY3NnU2JEang0THBGaXVpT1lsMjVaa1VEdVE?oc=5",
@@ -2950,58 +2997,5 @@
     ],
     "reason": "미국 국채 환매 계획 소화 과정에서 채권 수익률이 상승하며 전반적인 자금 조달 비용 상승 가능성을 시사한다. 이는 채권 투자 매력을 낮추고 주식 시장 특히 성장주에 대한 할인율을 높이는 요인이 될 수 있다.",
     "action_point": "미국 채권 시장의 금리 상승 압력에 대비하여 장기 채권 비중 축소 및 금리 민감 자산에 대한 리스크 관리 강화."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "“최대 압박” 외치던 트럼프의 새 “경제 전쟁”···제3국까지 제재 예고 - 경향신문",
-    "title_ko": "“최대 압박” 외치던 트럼프의 새 “경제 전쟁”···제3국까지 제재 예고",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHeGpzQlZyMU1FY2NWVHlRWDZlMmpBY1pQcVRwR0hnYjhpaGF6WnhlRDVERnFhaVRXVi1KbWxkZ2pNaG5GSm9FN2s5TXc0czl2c0dkajRhYk9rQdIBX0FVX3lxTE9RNXhybWwyeTl5LXNLUWNiWVRISTZYbFVncXNpa3N0dlhlTHdXVmVNVU5rMjBSMEwxMjg0ZWd6R3RVR1hsM1Rqc2FkZUc4ajNNMFhnQzhBdzFaWTB3bUhr?oc=5",
-    "published": "Thu, 20 Aug 2026 07:36:00 GMT",
-    "fetched_at": "2026-08-20 17:26:30",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "글로벌 무역/물류",
-      "IT/기술 (글로벌 공급망 의존)",
-      "제조업 (수출 중심)",
-      "원자재",
-      "해운/항공"
-    ],
-    "keywords": [
-      "트럼프",
-      "경제 전쟁",
-      "제재",
-      "제3국",
-      "글로벌 무역",
-      "지정학적 위험"
-    ],
-    "reason": "트럼프의 새로운 '경제 전쟁' 선포와 제3국 제재 예고는 글로벌 무역 환경의 불확실성을 극대화하며, 공급망 교란 및 국제 관계 악화를 초래할 수 있습니다. 이는 전반적인 세계 경제 성장 둔화 압력으로 작용하며 지정학적 리스크를 심화시킬 것입니다.",
-    "action_point": "대외 의존도가 높은 수출 및 글로벌 공급망 관련 섹터 비중 축소 검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "\"트럼프의 이란 상대 경제전쟁 성패, 아랍에미리트에 달려\" - MBC 뉴스",
-    "title_ko": "트럼프의 이란 상대 경제전쟁 성패, 아랍에미리트에 달려",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9SaDBJWXhuRnFreGpEaHpMUXdsQ05heFAyMlNjakhwTEJYNEsyVk9kNC14bjZDeE12RVRMYjRmQW5yMVpZNDJrTUh1VjVqaXJPdmZXMWNIak1fekpOWUlNS1BIRTd0dHZ3eHpTWkNBSDVSZmxt0gF0QVVfeXFMTlNYOG9wYVM3QTNRSWN2X0RuVUxQMkx1blRNZ2g1UXhrLTNmX1VNSU9VMVNENjAybS1GSEpNczF2VFJDTFY5TG82eU9FeTVYNzF1QWlhREZpdWtSdU9aQmhYNng0YmxqckZlQm1xTVRrMzluU0c?oc=5",
-    "published": "Thu, 20 Aug 2026 02:02:38 GMT",
-    "fetched_at": "2026-08-20 17:26:21",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "방산",
-      "운송"
-    ],
-    "keywords": [
-      "이란",
-      "지정학",
-      "유가",
-      "중동",
-      "경제전쟁"
-    ],
-    "reason": "미국의 대이란 경제 제재 강화 가능성을 시사하며 중동 지역 지정학적 불안정성 증대 및 유가 상승 압력으로 작용할 수 있습니다. 이는 글로벌 경제 불확실성을 높이는 요인입니다.",
-    "action_point": "유가 상승 가능성에 대비하여 에너지 섹터 및 방산 섹터 투자 비중 확대를 검토하십시오."
   }
 ]
