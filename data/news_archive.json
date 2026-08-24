@@ -1,5 +1,56 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Treasury yields fall as investors brace for Warsh’s Jackson Hole keynote amid bond fears",
+    "title_ko": "채권 시장 우려 속에 워시의 잭슨홀 기조연설을 앞두고 국채 금리 하락",
+    "link": "https://www.cnbc.com/2026/08/24/treasury-yields-warsh-jackson-hole.html",
+    "published": "Mon, 24 Aug 2026 08:24:46 GMT",
+    "fetched_at": "2026-08-24 17:36:58",
+    "sentiment": "중립",
+    "importance": 5,
+    "sectors": [
+      "금융",
+      "부동산",
+      "기술",
+      "채권"
+    ],
+    "keywords": [
+      "국채 금리",
+      "잭슨홀",
+      "연방준비제도",
+      "통화 정책"
+    ],
+    "reason": "잭슨홀 회의의 연방준비제도 주요 인사 연설을 앞두고 시장은 향후 통화 정책 방향에 대한 불확실성으로 국채 금리가 하락하며 관망세를 보이고 있습니다. 이는 전반적인 자산 시장에 금리 민감도를 높일 것입니다.",
+    "action_point": "잭슨홀 연설에서 발표될 통화 정책 신호에 대비하여 금리 민감 자산(예: 장기채, 성장주) 포트폴리오의 리스크를 점검하십시오."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "미 ‘이란 경제 D-데이’ 발표 하루 전 이란 만남 공개한 중국 - 경향신문",
+    "title_ko": "미 ‘이란 경제 D-데이’ 발표 하루 전 이란 만남 공개한 중국",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5Mm5kYjkwZTl6ekxLVUNtb2tLOFl5VlhlalVFckstZk1OWG96SkVFYjNQaUs1d1o0YzNQRkkzRllQdFE0MkxIcXNVb1d5NUl4VjlpODBFZUZ0Z9IBX0FVX3lxTFBDeVNIWUdFVHJ2dXRzTlhVTFAxU3hSbU9uMFdOOElrdDZQZlNFOUxlRmRGaFEwQ2dpVV9VMGZuVVYwcG9zTDZMZmFfMTVwLVlOUWNrMVI0RU92TWliVEFV?oc=5",
+    "published": "Mon, 24 Aug 2026 06:52:00 GMT",
+    "fetched_at": "2026-08-24 17:37:16",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지/정유",
+      "방산",
+      "해운/물류"
+    ],
+    "keywords": [
+      "미중 관계",
+      "이란",
+      "지정학적 리스크",
+      "원유",
+      "유가",
+      "중동"
+    ],
+    "reason": "미국이 이란에 대한 경제 압박을 강화하는 시점에 중국이 이란과의 협력을 공개하며 미중 갈등 심화와 중동 정세 불안정을 야기할 수 있습니다. 이는 유가 상승 압력 및 글로벌 리스크 회피 심리를 증폭시킬 수 있습니다.",
+    "action_point": "지정학적 리스크 확대로 인한 유가 상승 및 안전자산 선호 심리 강화에 대비한 포트폴리오 조정을 검토하라."
+  },
+  {
     "source": "GoogleNews_Korea",
     "market": "KR",
     "title": "KDI, 올해 국내 경제성장률 3.2% 전망 - 농민신문",
@@ -2932,51 +2983,5 @@
     ],
     "reason": "전 JP모건 임원의 사회보장국 고문 임명은 기관의 효율성 개선을 위한 행정적 조치로, 현재 금융시장이나 거시경제에 직접적인 투자 영향은 미미합니다.",
     "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Tesla recalls 3 million vehicles in China over doorhandle safety, driver monitoring",
-    "title_ko": "테슬라, 중국에서 도어핸들 안전 및 운전자 모니터링 문제로 300만 대 리콜",
-    "link": "https://www.cnbc.com/2026/08/21/tesla-recalls-cars-in-china-over-doorhandle-safety-driver-monitoring.html",
-    "published": "Fri, 21 Aug 2026 19:29:48 GMT",
-    "fetched_at": "2026-08-22 06:14:51",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "전기차",
-      "자동차"
-    ],
-    "keywords": [
-      "테슬라",
-      "리콜",
-      "중국",
-      "전기차",
-      "품질문제"
-    ],
-    "reason": "테슬라의 대규모 리콜은 중국 시장에서의 판매 및 브랜드 이미지에 부정적인 영향을 미칠 수 있으며, 이는 전반적인 전기차 섹터 투자 심리에도 악영향을 줄 가능성이 있다.",
-    "action_point": "테슬라 및 전기차 섹터 보유 비중 재검토."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Kalshi traders think the bitcoin rally could end the year near current levels",
-    "title_ko": "칼시 트레이더들, 비트코인 랠리 올해 현재 수준에서 마무리될 것으로 예상",
-    "link": "https://www.cnbc.com/2026/08/21/kalshi-traders-say-bitcoin-rally-wont-go-much-higher-by-end-of-2026.html",
-    "published": "Fri, 21 Aug 2026 17:43:25 GMT",
-    "fetched_at": "2026-08-22 06:14:33",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "암호화폐"
-    ],
-    "keywords": [
-      "비트코인",
-      "암호화폐",
-      "예측 시장",
-      "가격 전망"
-    ],
-    "reason": "예측 시장 트레이더들이 비트코인이 2026년 말까지 현재 수준에서 움직일 가능성이 높다고 보고 있어, 최근의 비트코인 랠리에 대한 기대감이 다소 완화될 수 있음을 시사합니다.",
-    "action_point": "비트코인 추가 상승 기대감 조정 및 포트폴리오 내 비중 재평가."
   }
 ]
