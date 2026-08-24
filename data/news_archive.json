@@ -1,5 +1,76 @@
 [
   {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Prediction market traders doubtful Bessent’s bond interventions will push yields lower",
+    "title_ko": "예측 시장, 베센트의 채권 개입에도 불구하고 채권 수익률 하락에 회의적",
+    "link": "https://www.cnbc.com/2026/08/24/prediction-market-traders-skeptical-bessent-will-send-yields-lower.html",
+    "published": "Mon, 24 Aug 2026 15:34:11 GMT",
+    "fetched_at": "2026-08-25 01:24:33",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "기술주",
+      "부동산",
+      "금융주",
+      "고배당주"
+    ],
+    "keywords": [
+      "채권 수익률",
+      "고금리",
+      "시장 기대",
+      "금리 민감주"
+    ],
+    "reason": "이 뉴스는 시장이 잠재적 개입에도 불구하고 채권 수익률이 높게 유지되거나 상승할 것으로 예상하며, 이는 지속적인 고금리 환경과 차입 비용 증가를 시사하여 위험 자산 및 경제 성장에 전반적으로 부정적입니다.",
+    "action_point": "장기 고금리 환경에 대비하여 금리 민감 자산(장기채, 성장주, 부동산)의 비중 축소를 검토하라."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Goldman Sachs partner warns of 'huge danger' in letting AI replace bankers' reasoning skills",
+    "title_ko": "골드만삭스 파트너, AI가 은행원의 추론 능력 대체 시 '막대한 위험' 경고",
+    "link": "https://www.cnbc.com/2026/08/24/goldman-sachs-ai-partner-danger-skills.html",
+    "published": "Mon, 24 Aug 2026 15:50:50 GMT",
+    "fetched_at": "2026-08-25 01:24:39",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "금융",
+      "기술"
+    ],
+    "keywords": [
+      "AI",
+      "금융 산업",
+      "인재 육성",
+      "골드만삭스"
+    ],
+    "reason": "이 기사는 AI 기술 도입의 장기적인 부작용에 대한 경고로, 금융업의 인재 구조와 미래 업무 방식 변화에 대한 시사점을 제공합니다. 당장의 시장 방향보다는 금융 산업의 구조적 변화와 관련된 논의입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "California AG Rob Bonta cancels Paramount settlement meeting, citing 'lack of good faith'",
+    "title_ko": "캘리포니아 법무장관 롭 본타, '불성실' 이유로 파라마운트 합의 회의 취소",
+    "link": "https://www.cnbc.com/2026/08/24/california-ag-bonta-paramount-settlement-meeting.html",
+    "published": "Mon, 24 Aug 2026 15:41:29 GMT",
+    "fetched_at": "2026-08-25 01:24:58",
+    "sentiment": "악재",
+    "importance": 2,
+    "sectors": [
+      "미디어",
+      "엔터테인먼트"
+    ],
+    "keywords": [
+      "파라마운트",
+      "캘리포니아 법무장관",
+      "합의 취소",
+      "규제 리스크"
+    ],
+    "reason": "파라마운트와 캘리포니아 법무장관 간의 합의 회의 취소는 해당 기업의 법적 및 규제 리스크가 지속되고 있음을 시사하며, 이는 파라마운트 개별 기업의 투자 심리에 부정적인 영향을 미칠 수 있습니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "GoogleNews_Korea",
     "market": "KR",
     "title": "트럼프 '경제전쟁' 통할까?...'초강력 대이란 경제 제재' 내일 발표 - YTN",
@@ -2910,83 +2981,5 @@
     ],
     "reason": "미국 경제 압박의 효과와 이란의 전쟁 종식 발언은 중동 지정학적 리스크 완화 기대를 높이지만, 유가 변동성 및 불확실성은 여전하여 신중한 접근이 필요하다.",
     "action_point": "중동 긴장 완화 기대와 유가 변동성을 고려하여 에너지 및 방산 섹터 비중 조정을 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[뉴욕유가] \"전쟁 끝내자\" 이란 대통령 호소에도 상승…WTI 0.26%↑ - 연합인포맥스",
-    "title_ko": "[뉴욕유가] \"전쟁 끝내자\" 이란 대통령 호소에도 상승…WTI 0.26%↑",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zZ0hYUU1vZE9mT3BJRDRLUEh3OXRUYlgtUHNUSFhEQ3I2UEZpUUdnbDBkQ2Y5ZlFpXy1lVFAxNHoyLWNVY1pPdDNxc3JkTzFHU19XUjFnY1VVSXA4d2djZkRaeEhhRzNFbUtSZ01ET0U?oc=5",
-    "published": "Fri, 21 Aug 2026 21:58:03 GMT",
-    "fetched_at": "2026-08-22 14:18:34",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "에너지",
-      "항공/운송",
-      "화학",
-      "제조업"
-    ],
-    "keywords": [
-      "국제유가",
-      "WTI",
-      "이란",
-      "지정학적 리스크",
-      "인플레이션"
-    ],
-    "reason": "이란의 평화 호소에도 유가가 상승한 것은 중동 지정학적 리스크와 공급 불안정 우려가 지속되고 있음을 보여주며, 이는 인플레이션 압력을 가중시키고 글로벌 경기 둔화 우려를 키울 수 있습니다.",
-    "action_point": "에너지 수입 의존도가 높은 국내 기업들의 원가 부담 증가에 대비하여 에너지/화학/운송 섹터 비중 축소 또는 헤지 전략 검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[속보]트럼프 “호르무즈는 美영토… 합의는 이란이 절실히 원해” - 문화일보",
-    "title_ko": "[속보]트럼프 “호르무즈는 美영토… 합의는 이란이 절실히 원해”",
-    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBtWnd1bE8wZUVpS3BwQU90ZXRCN2Zuc05BZDZFaFRWNnFQeWlZMmZHRjh0MC1Ecm4zQWlzcGFsbWFNV1pkNUZBbHYwdGRTNTM5?oc=5",
-    "published": "Sat, 22 Aug 2026 01:25:18 GMT",
-    "fetched_at": "2026-08-22 12:34:50",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "방산",
-      "항공",
-      "해운"
-    ],
-    "keywords": [
-      "트럼프",
-      "호르무즈 해협",
-      "이란",
-      "지정학적 리스크",
-      "유가",
-      "중동"
-    ],
-    "reason": "트럼프의 호르무즈 해협 관련 발언은 이란과의 긴장을 고조시키고 중동 지정학적 리스크를 증폭시킬 수 있습니다. 이는 글로벌 원유 공급에 대한 불확실성을 높여 유가 상승 압력으로 작용할 가능성이 큽니다.",
-    "action_point": "유가 상승 압력에 대비하여 에너지 관련 익스포저를 점검하고, 지정학적 리스크 헤지를 위한 안전자산(달러, 금) 비중 확대를 고려하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "“유학비 부담 확 줄어 좋아요”…삼전닉스 주주환원 300조원의 ‘나비효과’",
-    "title_ko": "“유학비 부담 확 줄어 좋아요”…삼전닉스 주주환원 300조원의 ‘나비효과’",
-    "link": "https://www.mk.co.kr/news/economy/12133765",
-    "published": "Sat, 22 Aug 2026 11:37:57 +09:00",
-    "fetched_at": "2026-08-22 12:36:30",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "반도체",
-      "환율"
-    ],
-    "keywords": [
-      "주주환원",
-      "삼성전자",
-      "SK하이닉스",
-      "원화 강세",
-      "달러 공급",
-      "환율"
-    ],
-    "reason": "삼성전자 및 SK하이닉스의 대규모 주주환원은 기업의 외환 보유고 중 달러를 시장에 공급하여 원화 강세 압력을 가중시킬 것으로 예상되며, 이는 전반적인 환율 시장에 큰 영향을 미칠 것입니다.",
-    "action_point": "달러 대비 원화 강세에 대비하여 달러 자산 비중 축소 또는 환헤지 전략을 검토하라."
   }
 ]
