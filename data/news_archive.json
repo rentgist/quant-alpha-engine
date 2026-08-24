@@ -1,5 +1,33 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "美, 이란 '경제고립' 돌입, 글로벌 제재 발표…\"중국도 예외 아냐\" - 머니투데이 - 머니투데이",
+    "title_ko": "美, 이란 '경제고립' 돌입, 글로벌 제재 발표…\"중국도 예외 아냐\"",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5OQmV1dmpudWRnTUpOWTJuVVdIdXQ5N01DR0VMa0RyRTBrcDl0eEtTMEcySXNUQnVjbkNjVnFuNEctaDhSVUJLeWJDMlZXajV3cF9Eemw0UjhlaE9NWVN2OXVvWDJELVIx0gFuQVVfeXFMTTFoTlNmZ2FvNy1IMlY0OGl3MmNBODZDby00QzFBLUY1M3RBNFRRTF8tUVR6U3I1RmcwYUR4SnQ3UjlxOEtuNDczOXpKcVhRaWZ2REdSNU1ZbEdhNlFkeVBrM3doQ19rSFFmNVN6T0E?oc=5",
+    "published": "Mon, 24 Aug 2026 18:00:09 GMT",
+    "fetched_at": "2026-08-25 07:16:18",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "해운",
+      "화학",
+      "금융"
+    ],
+    "keywords": [
+      "미국",
+      "이란",
+      "제재",
+      "석유",
+      "지정학",
+      "중국",
+      "무역"
+    ],
+    "reason": "미국의 이란 경제고립 조치는 글로벌 석유 공급에 불확실성을 높여 유가 상승 압력을 가하고, 중국까지 제재 대상에 포함될 경우 지정학적 긴장 및 글로벌 무역 마찰이 심화될 것입니다.",
+    "action_point": "국제유가 상승 압력 및 지정학적 리스크 확대에 대비하여 원유 등 원자재 관련 자산 비중 확대를 검토하고 방어적 포트폴리오를 강화하라."
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "Trump says U.S. will hike Canada auto tariffs to 50% as trade war escalates",
@@ -2960,30 +2988,5 @@
     ],
     "reason": "중동 지역의 지정학적 불안정 심화로 장거리 항공 환승 수요가 아시아 허브로 이동하며, 인천국제공항의 환승객 증가로 국내 항공 및 관련 관광 산업이 반사 이익을 얻을 것으로 예상됩니다.",
     "action_point": "국내 항공 및 관광 관련 기업의 실적 개선 가능성을 분석하고, 포트폴리오 편입을 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "U.S., Canada fail to reach a tariff deal, deepen trade war",
-    "title_ko": "미국, 캐나다 관세 협상 실패, 무역 전쟁 심화",
-    "link": "https://www.cnbc.com/2026/08/21/us-canada-fail-to-reach-a-tariff-deal-deepen-trade-war.html",
-    "published": "Sat, 22 Aug 2026 06:20:46 GMT",
-    "fetched_at": "2026-08-22 15:22:35",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "자동차",
-      "산업재",
-      "글로벌 무역"
-    ],
-    "keywords": [
-      "미국",
-      "캐나다",
-      "관세",
-      "무역 전쟁",
-      "수출입"
-    ],
-    "reason": "미국과 캐나다 간의 관세 부과 및 무역 협상 결렬은 글로벌 무역 긴장을 고조시켜 세계 경제 성장에 대한 불확실성을 키우고 주요 교역국들의 공급망에 부정적인 영향을 미칠 수 있습니다.",
-    "action_point": "글로벌 무역 긴장 심화에 따른 시장 변동성 확대 및 안전자산 선호 심리 강화에 대비하여 달러 자산 비중 확대 검토."
   }
 ]
