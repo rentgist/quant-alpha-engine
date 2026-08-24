@@ -1,5 +1,55 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "트럼프 '경제전쟁' 통할까?...'초강력 대이란 경제 제재' 내일 발표 - YTN",
+    "title_ko": "트럼프 '경제전쟁' 통할까?...'초강력 대이란 경제 제재' 내일 발표 - YTN",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0zdUVGaVljVmJqTlJrNHZkb0xNMEkxQTlubDNvNGY5Tmo0b3Ewc0NPNk95VkhXZF9jakZPR2FuOEc5QUJSano2OWZ4S19nVWRnOWx5dHVPSDdDUmJKX1E?oc=5",
+    "published": "Mon, 24 Aug 2026 12:57:00 GMT",
+    "fetched_at": "2026-08-24 23:32:44",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "정유/화학",
+      "항공/운수"
+    ],
+    "keywords": [
+      "트럼프",
+      "이란",
+      "경제 제재",
+      "유가",
+      "지정학"
+    ],
+    "reason": "대이란 제재 강화는 국제유가 상승 압력으로 작용하며, 중동 지정학적 리스크를 고조시켜 글로벌 경기 둔화 우려를 키울 수 있습니다. 한국은 원유 수입국이므로 무역수지 및 기업 비용에 부정적입니다.",
+    "action_point": "국제유가 상승에 대비하여 정유/화학, 항공/운수 등 유가 민감 섹터 비중 조절 검토."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "'전문직 비자장사' 강행하는 트럼프… H-1B 수수료 1억4000만원 재추진",
+    "title_ko": "'전문직 비자장사' 강행하는 트럼프… H-1B 수수료 1억4000만원 재추진",
+    "link": "https://www.mk.co.kr/news/world/12135282",
+    "published": "Mon, 24 Aug 2026 23:07:31 +09:00",
+    "fetched_at": "2026-08-24 23:32:53",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "IT/기술주",
+      "컨설팅",
+      "헬스케어"
+    ],
+    "keywords": [
+      "트럼프",
+      "H-1B 비자",
+      "전문직",
+      "이민 정책",
+      "인건비"
+    ],
+    "reason": "트럼프 행정부의 H-1B 비자 수수료 인상 정책은 미국 내 기술 및 전문 서비스 기업들의 인건비 부담을 가중시키고 해외 고급 인력 유입을 제한하여 미국 경제의 혁신 역량과 경쟁력에 부정적인 영향을 미칠 수 있다.",
+    "action_point": "H-1B 비자 의존도가 높은 미국 기술 기업 및 전문 서비스 기업의 실적 전망을 재평가하고, 관련 주식 비중 축소를 검토하라."
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "Bessent could tap near $1 trillion Treasury General Account to fund bond buybacks, sources said",
@@ -2938,51 +2988,5 @@
     ],
     "reason": "삼성전자 및 SK하이닉스의 대규모 주주환원은 기업의 외환 보유고 중 달러를 시장에 공급하여 원화 강세 압력을 가중시킬 것으로 예상되며, 이는 전반적인 환율 시장에 큰 영향을 미칠 것입니다.",
     "action_point": "달러 대비 원화 강세에 대비하여 달러 자산 비중 축소 또는 환헤지 전략을 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "산업위기지역 대응 빨라진다…특별지역 신청 '패스트트랙' 신설 - 대한민국 정책브리핑",
-    "title_ko": "산업위기지역 대응 빨라진다…특별지역 신청 '패스트트랙' 신설",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZTWhXVjRMd3NaakJ5LXhqeDNLLXZPYXNLZVlFVFRZOVRjTk56M0VRM09aeGNxV3ZRV0JNLTJ0RXRYazd6TnZPREVDejkzbC1NN0hkZ1dfZkNybHVNWnFELWxyMXp0ZDdEUXAtNQ?oc=5",
-    "published": "Sat, 22 Aug 2026 02:15:00 GMT",
-    "fetched_at": "2026-08-22 12:34:39",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "지역경제",
-      "제조업"
-    ],
-    "keywords": [
-      "산업위기지역",
-      "정부정책",
-      "지역경제",
-      "패스트트랙"
-    ],
-    "reason": "정부의 산업위기지역 지원 절차 간소화는 특정 지역 및 산업의 경기 하강을 방어하는 데 기여하나, 전체 시장의 방향성을 전환할 만한 거시경제적 영향은 제한적이다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "'시장 퇴출 위기' 몰린 바이오·헬스 기업은?…의견거절·상폐 사유 속출 - 팜이데일리",
-    "title_ko": "'시장 퇴출 위기' 몰린 바이오·헬스 기업은?…의견거절·상폐 사유 속출 - 팜이데일리",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB1NkJWd0NOb2ppNHZLSVpHaFRBT1UzUWZ5RVE1a3ozSnFPSWJHMVA1R2k5cU41emJKZ3o1TzRZX19DaC1sYlBWVDFTX3RiM1lEc0pzRy1GWGpnckpwc2pjQ203RG12S1U4WC1VbVlB?oc=5",
-    "published": "Fri, 21 Aug 2026 23:00:10 GMT",
-    "fetched_at": "2026-08-22 12:36:00",
-    "sentiment": "악재",
-    "importance": 2,
-    "sectors": [
-      "바이오",
-      "헬스케어"
-    ],
-    "keywords": [
-      "바이오",
-      "헬스케어",
-      "상장폐지",
-      "감사의견"
-    ],
-    "reason": "국내 바이오·헬스 섹터 내 일부 기업들의 재무 건전성 악화와 감사의견 거절로 상장 폐지 위험이 부각되며 해당 섹터 투자 심리에 부정적인 영향을 미칠 수 있습니다.",
-    "action_point": "국내 바이오/헬스 섹터 내 재무 위험이 있는 기업들의 보유 비중 축소를 검토하라."
   }
 ]
