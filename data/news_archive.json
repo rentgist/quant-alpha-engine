@@ -1,5 +1,80 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[속보] 원/달러 환율 1370원대로 하락 - JTBC",
+    "title_ko": "[속보] 원/달러 환율 1370원대로 하락",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92b25HQzlqTGQzajFOM2JQdWZ3dG1wVjZNR3pDSTcwSDBWM3BNLU5qZ205UXVpM3FUS3dDUzU2aEdVZVlXQWwzMXhnRnpuV1VkRExudg?oc=5",
+    "published": "Mon, 24 Aug 2026 02:13:00 GMT",
+    "fetched_at": "2026-08-24 12:45:15",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "수출주",
+      "수입주",
+      "항공",
+      "유통"
+    ],
+    "keywords": [
+      "원/달러 환율",
+      "환율 하락",
+      "원화 강세"
+    ],
+    "reason": "원/달러 환율 하락은 원화 강세 전환으로, 수입 물가 안정에 긍정적이며 전반적인 인플레이션 압력을 완화할 수 있습니다. 다만 수출 기업의 가격 경쟁력 및 수익성에는 부정적인 영향을 미칩니다.",
+    "action_point": "환율 하락에 따른 수출주 비중 축소와 수입 비용 절감 효과가 예상되는 내수·수입 관련주에 대한 관심 확대."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Alibaba plunges after announcing $10.2 billion share placement to fund AI push",
+    "title_ko": "알리바바, AI 투자 자금 조달 위해 102억 달러 주식 발행 발표 후 급락",
+    "link": "https://www.cnbc.com/2026/08/24/alibaba-share-placement-drop-ai-hong-kong.html",
+    "published": "Mon, 24 Aug 2026 02:55:22 GMT",
+    "fetched_at": "2026-08-24 12:45:07",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "기술",
+      "전자상거래",
+      "AI",
+      "중국 기술주"
+    ],
+    "keywords": [
+      "알리바바",
+      "주식 발행",
+      "AI 투자",
+      "주가 급락",
+      "자금 조달"
+    ],
+    "reason": "알리바바의 대규모 주식 발행은 단기적으로 기존 주주 가치 희석 우려를 키우며 주가 하락 압력을 가하고 있습니다. 이는 AI 투자 확대라는 장기적 성장 전략에도 불구하고 시장이 단기적 유동성 이슈에 민감하게 반응하고 있음을 보여줍니다.",
+    "action_point": "알리바바 주식 보유 비중 축소를 검토하고, AI 투자 명목의 대규모 주식 발행 가능성이 있는 기술주에 대한 신규 투자를 신중히 접근하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "‘프로야구 천만 관중 시대’ 속 경제 이야기 - KDI 경제교육·정보센터",
+    "title_ko": "프로야구 천만 관중 시대 속 경제 이야기",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1XNmdwLVVQWU9iX2NhV1NGUVRvc2EzdWl4eVplN1JhaVhmV2ZFSVZQZ0ZUalI5NlotUlFoYUJablAyWko4Mm1xM0RQNmtaY3hpMjNnb0FGcW9wRVJPRmlNcjFrNTRqV2xlSlo2RlhDcjhCblpjZ2l1TFc5WQ?oc=5",
+    "published": "Mon, 24 Aug 2026 02:05:15 GMT",
+    "fetched_at": "2026-08-24 12:45:26",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "레저",
+      "엔터테인먼트",
+      "소비재"
+    ],
+    "keywords": [
+      "프로야구",
+      "관중",
+      "소비",
+      "레저",
+      "내수"
+    ],
+    "reason": "KDI의 프로야구 관중 증가 분석은 국내 레저 및 엔터테인먼트 산업의 견조한 성장세와 내수 소비 개선 추세를 시사한다. 이는 특정 소비재 및 서비스 섹터에 긍정적인 영향을 미칠 수 있다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "Oil prices fall as investors await 'toughest' U.S. sanctions on Iran",
@@ -2918,75 +2993,5 @@
     ],
     "reason": "이 기사는 특정 개별 기업들의 프리마켓 주가 변동을 나열한 것으로, 광범위한 시장이나 매크로 경제에 대한 직접적인 영향보다는 해당 기업들의 실적 또는 개별 이슈에 대한 반응으로 해석됩니다.",
     "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Samsung plans up to $80 billion in shareholder returns after SK Hynix buyback",
-    "title_ko": "삼성전자, SK하이닉스 자사주 매입 후 최대 800억 달러 주주 환원 계획",
-    "link": "https://www.cnbc.com/2026/08/21/samsung-shareholder-return-package-sk-hynix-buyback-ai-chip-boom.html",
-    "published": "Fri, 21 Aug 2026 09:08:18 GMT",
-    "fetched_at": "2026-08-21 20:17:39",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "반도체",
-      "IT",
-      "대형주"
-    ],
-    "keywords": [
-      "삼성전자",
-      "주주환원",
-      "배당"
-    ],
-    "reason": "삼성전자의 대규모 주주환원 계획은 견조한 실적과 주주가치 제고 의지를 강하게 시사하며, 이는 IT 및 반도체 섹터 전반에 긍정적인 투자 심리를 형성할 것입니다.",
-    "action_point": "반도체 및 대형 기술주 포트폴리오 비중 유지 또는 확대 검토."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Stocks making the biggest moves premarket: Walmart, Coinbase, Moderna, Alibaba & more",
-    "title_ko": "개장 전 가장 큰 움직임을 보이는 주식들: 월마트, 코인베이스, 모더나, 알리바바 외",
-    "link": "https://www.cnbc.com/2026/08/20/stocks-making-the-biggest-moves-premarket-.html",
-    "published": "Thu, 20 Aug 2026 12:24:53 GMT",
-    "fetched_at": "2026-08-21 18:26:40",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "유통",
-      "암호화폐",
-      "제약바이오",
-      "기술주"
-    ],
-    "keywords": [
-      "개장전 거래",
-      "개별 주식",
-      "기업 뉴스"
-    ],
-    "reason": "본 기사는 개장 전 특정 기업들의 주가 변동을 나열하는 것으로, 전반적인 시장이나 거시 경제에 미치는 직접적인 영향은 제한적이며 개별 기업의 뉴스를 반영합니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Bitcoin on track for 20% weekly gain as investor optimism floods back",
-    "title_ko": "투자자 낙관론 회복에 비트코인 주간 20% 상승 전망",
-    "link": "https://www.cnbc.com/2026/08/21/bitcoin-gain-cryptocurrency-investors-optimistic.html",
-    "published": "Fri, 21 Aug 2026 09:20:31 GMT",
-    "fetched_at": "2026-08-21 18:26:48",
-    "sentiment": "호재",
-    "importance": 2,
-    "sectors": [
-      "암호화폐",
-      "핀테크"
-    ],
-    "keywords": [
-      "비트코인",
-      "암호화폐",
-      "투자심리",
-      "위험선호"
-    ],
-    "reason": "비트코인의 강세는 투자자들의 위험 선호 심리 회복과 디지털 자산으로의 자금 유입 가능성을 시사하며, 이는 전반적인 시장 분위기에도 영향을 줄 수 있습니다.",
-    "action_point": "포트폴리오 내 암호화폐 자산 비중을 점검하고, 관련 시장 동향을 주시."
   }
 ]
