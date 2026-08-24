@@ -1,5 +1,273 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "KDI, 올해 국내 경제성장률 3.2% 전망 - 농민신문",
+    "title_ko": "KDI, 올해 국내 경제성장률 3.2% 전망",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2dDMzSXZGMmNWRjdOamlXNU5LMmlTLWlrdzQ1WE1FMUZhUVZ3RkZOTjY0bGFKcHo3Zm1SVGd6STFXNDVyQ2FVeDE0bFZkaHlMQUw3emRidFdDQQ?oc=5",
+    "published": "Mon, 24 Aug 2026 06:44:00 GMT",
+    "fetched_at": "2026-08-24 16:50:58",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "금융",
+      "소비재",
+      "부동산",
+      "산업재"
+    ],
+    "keywords": [
+      "KDI",
+      "경제성장률",
+      "한국 경제",
+      "거시 경제"
+    ],
+    "reason": "KDI의 3.2% 성장률 전망은 국내 경기 회복에 대한 긍정적 시그널로, 전반적인 기업 실적 기대치와 투자 심리 개선에 기여할 수 있습니다.",
+    "action_point": "내수 경기 민감주 비중 확대를 검토하고, 국내 금리 하방 압력 지속 여부를 주시하십시오."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "\"중동 미군기지, 이란 전쟁서 허점 노출…무용론 커져\" - 연합뉴스TV",
+    "title_ko": "중동 미군기지, 이란 전쟁서 허점 노출…무용론 커져",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9MWVltQ3djMFpGeGVOcmNEbFNNUWNIVEZOelE4b0N3QWx6RDRMRW9QU1ctYnZKZ3RuejQ5c3cwX0NHQmdQSHBqQVhOM0VYYmFqa1RhRjE1MmViNWFhWWdOcXBjSldhdWc?oc=5",
+    "published": "Mon, 24 Aug 2026 06:17:00 GMT",
+    "fetched_at": "2026-08-24 16:51:06",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "원자재",
+      "해운/물류",
+      "방위산업"
+    ],
+    "keywords": [
+      "중동",
+      "이란",
+      "지정학적 리스크",
+      "원유",
+      "미군"
+    ],
+    "reason": "중동 미군기지의 취약성 노출 논란은 역내 지정학적 리스크를 고조시키며, 이는 글로벌 원유 공급 불안정성 증가 및 국제 유가 상승 압력으로 이어질 수 있다. 중동 지역의 긴장 고조는 해운 및 물류 경로에도 부정적 영향을 미 미칠 수 있다.",
+    "action_point": "중동 지정학적 리스크 심화에 대비하여 원자재 포트폴리오 내 유가 민감 자산 비중 확대를 검토하고, 해운/물류 관련 리스크 노출도를 재평가하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "미국 '경제 D-데이' 위협에 이란 \"걸프국 옥죈다\" 맞불 태세 - 연합뉴스",
+    "title_ko": "미국 '경제 D-데이' 위협에 이란 \"걸프국 옥죈다\" 맞불 태세",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1TT0ZqODJCazhDRXFERjJFaF9yZ281SDJFMnVWeEJjM3Q2aG9ZSDNxRUlDaFVSZ2JVdmo2eTRRa05UbS1HR0p3azM5SE53ZURRWjltRlM2QkZpNUU4cXpmd9IBYEFVX3lxTE1TT0ZqODJCazhDRXFERjJFaF9yZ281SDJFMnVWeEJjM3Q2aG9ZSDNxRUlDaFVSZ2JVdmo2eTRRa05UbS1HR0p3azM5SE53ZURRWjltRlM2QkZpNUU4cXpmdw?oc=5",
+    "published": "Mon, 24 Aug 2026 01:54:06 GMT",
+    "fetched_at": "2026-08-24 16:51:21",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "원자재",
+      "해운",
+      "방산"
+    ],
+    "keywords": [
+      "미국",
+      "이란",
+      "걸프",
+      "지정학",
+      "유가"
+    ],
+    "reason": "미국과 이란 간의 지정학적 긴장 고조는 주요 원유 수송로인 걸프 지역의 안정을 위협하며, 글로벌 유가 상승과 인플레이션 압력 가중으로 이어져 시장 전반에 부정적인 영향을 미칠 수 있습니다.",
+    "action_point": "유가 관련 상품 투자 또는 에너지/정유 섹터 비중 확대를 검토하여 지정학적 리스크에 대비하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "3년물 연 3.836%…국고채 금리 일제히 하락",
+    "title_ko": "3년물 연 3.836%…국고채 금리 일제히 하락",
+    "link": "https://www.mk.co.kr/news/economy/12134964",
+    "published": "Mon, 24 Aug 2026 16:47:51 +09:00",
+    "fetched_at": "2026-08-24 16:51:54",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "금융",
+      "부동산",
+      "건설",
+      "성장주"
+    ],
+    "keywords": [
+      "국고채",
+      "금리 하락",
+      "채권 시장",
+      "유동성"
+    ],
+    "reason": "국고채 금리 하락은 국내 금융 시장의 유동성 개선과 기업의 자금 조달 비용 감소 기대를 반영한다. 이는 증시 전반의 밸류에이션에 긍정적이며, 특히 금리 민감 섹터에 호재로 작용한다.",
+    "action_point": "금리 하락에 따른 수혜가 예상되는 성장주 및 부동산 관련 자산 비중 확대를 검토하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "200조 미래대응기금 격돌… 與 “혁신적 장치” vs 野 “상시 쌈짓돈”",
+    "title_ko": "200조 미래대응기금 격돌… 與 “혁신적 장치” vs 野 “상시 쌈짓돈”",
+    "link": "https://www.mk.co.kr/news/politics/12134961",
+    "published": "Mon, 24 Aug 2026 16:43:27 +09:00",
+    "fetched_at": "2026-08-24 16:52:13",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "정부정책",
+      "재정/금융"
+    ],
+    "keywords": [
+      "미래대응기금",
+      "재정정책",
+      "국가채무",
+      "정치적 불확실성",
+      "예산"
+    ],
+    "reason": "정부의 200조원 규모 미래대응기금 추진을 두고 여야가 격돌하며 국내 재정정책 방향에 대한 불확실성이 커지고 있다. 이는 향후 국가 재정 건전성 및 정부 지출 우선순위에 대한 논의를 촉발할 것이다.",
+    "action_point": "국내 장기물 국채 및 재정 정책 민감 자산의 포트폴리오 위험을 점검하고 변동성 확대에 대비하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Shein targets $27 billion Hong Kong IPO — a fraction of its 2022 valuation",
+    "title_ko": "쉬인, 2022년 평가액의 일부에 불과한 270억 달러 규모 홍콩 IPO 추진",
+    "link": "https://www.cnbc.com/2026/08/24/shein-ipo-valuation-hong-kong.html",
+    "published": "Mon, 24 Aug 2026 07:34:17 GMT",
+    "fetched_at": "2026-08-24 16:50:28",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "전자상거래",
+      "소비재(패션)",
+      "사모펀드/벤처캐피탈"
+    ],
+    "keywords": [
+      "Shein",
+      "IPO",
+      "홍콩증시",
+      "밸류에이션",
+      "전자상거래",
+      "패스트패션"
+    ],
+    "reason": "쉬인 IPO는 사모시장의 기술주 밸류에이션 조정 흐름을 보여주며, 글로벌 전자상거래 및 패션 산업의 투자 심리에 영향을 줄 수 있습니다.",
+    "action_point": "유니콘 기업 투자 비중 및 성장주 밸류에이션을 재점검하십시오."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Singapore inflation hits highest in nearly two years, but undershoots expectations",
+    "title_ko": "싱가포르 인플레이션, 거의 2년 만에 최고치 기록했으나 예상치 하회",
+    "link": "https://www.cnbc.com/2026/08/24/singapore-inflation-budget-iran-war.html",
+    "published": "Mon, 24 Aug 2026 05:24:43 GMT",
+    "fetched_at": "2026-08-24 16:50:45",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "부동산",
+      "성장주"
+    ],
+    "keywords": [
+      "싱가포르",
+      "인플레이션",
+      "물가지수",
+      "예상치 하회",
+      "통화정책"
+    ],
+    "reason": "싱가포르 물가지표가 예상치를 하회하며 동남아시아 지역의 통화 긴축 우려를 다소 완화시켜, 전반적인 아시아 시장 투자 심리에 긍정적 영향을 줄 수 있습니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "권창영 특검 \"내란세력과 전쟁 이제 시작…특수본 설치해 수사 이어가야\" - JTBC뉴스",
+    "title_ko": "권창영 특검 \"내란세력과 전쟁 이제 시작…특수본 설치해 수사 이어가야\" - JTBC뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9hcURlZmtxckNuOTJxdlN0T0poTmFXOEZvTUhOYTVYZzUyUlZJZ2R6ZW5WRjFoUVJLU0oySlpZbDd1MUNrME9ZLWdVYXM2dkJJUHpTTg?oc=5",
+    "published": "Mon, 24 Aug 2026 02:20:00 GMT",
+    "fetched_at": "2026-08-24 16:51:41",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "국내 주식 시장",
+      "한국 경제 전반"
+    ],
+    "keywords": [
+      "권창영 특검",
+      "내란세력",
+      "국내 정치",
+      "정치적 불확실성"
+    ],
+    "reason": "권창영 특검의 '내란세력과 전쟁 시작' 발언은 국내 정치적 긴장과 불확실성을 크게 높여 국내 자산에 대한 투자심리를 위축시키고 잠재적 정책 리스크를 부각시킬 수 있습니다.",
+    "action_point": "국내 정치적 불확실성 확산에 대비하여 국내 주식 비중 축소 및 달러 등 안전자산 비중 확대 검토."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Fund manager lists four of his best-value unloved stocks to swerve the AI hype",
+    "title_ko": "AI 과열 피할 저평가 종목 4가지 - 한 펀드매니저가 제시",
+    "link": "https://www.cnbc.com/2026/08/24/fund-manager-unloved-stocks-ai-hype.html",
+    "published": "Mon, 24 Aug 2026 05:00:01 GMT",
+    "fetched_at": "2026-08-24 16:50:52",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "소비재",
+      "기술 (비AI)",
+      "산업재"
+    ],
+    "keywords": [
+      "가치주",
+      "AI 버블",
+      "저평가",
+      "포트폴리오 다각화"
+    ],
+    "reason": "이 뉴스는 AI 관련주 과열에 대한 경계심을 표명하며, 저평가된 비AI 섹터 가치주로의 투자 다각화를 제안하는 투자 전략입니다. 특정 자산군의 직접적인 변화보다는 투자 심리와 자금 흐름에 대한 새로운 관점을 제시합니다.",
+    "action_point": "AI 관련 고평가 종목 비중을 점검하고, 저평가된 비AI 섹터 가치주 발굴을 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "靑, 지지율 하락에 \"국민 삶 최우선…민생·경제 실질 성과에 최선\" - 연합인포맥스",
+    "title_ko": "靑, 지지율 하락에 \"국민 삶 최우선…민생·경제 실질 성과에 최선\"",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Ga1EzTjhKdzFnRWpoODNOOHZaUmtwdWVRcW9jNUtfNWFyWjdCTU5mTmNIeF9RNkJ2MjdKUjJZamR2akp0Ul9ZQjNYLWxVa1VtTFM1bGxHWHBVUGdWN3k2UkFLNU1iVUVCQXFXVTR5T3A?oc=5",
+    "published": "Mon, 24 Aug 2026 07:26:07 GMT",
+    "fetched_at": "2026-08-24 16:51:29",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "내수 관련주",
+      "정책 수혜주"
+    ],
+    "keywords": [
+      "지지율 하락",
+      "민생 경제",
+      "정책 방향",
+      "내수 부양"
+    ],
+    "reason": "대통령실이 지지율 하락에 대응하여 민생과 경제 성과를 강조한 것은 향후 정책 초점이 내수 활성화 및 민생 안정에 맞춰질 가능성을 시사합니다. 아직 구체적인 정책 발표가 아니기에 시장에 직접적인 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "강원도 제2기 미래산업글로벌도시 종합계획심의회 본격 활동",
+    "title_ko": "강원도 제2기 미래산업글로벌도시 종합계획심의회 본격 활동",
+    "link": "https://www.mk.co.kr/news/society/12134957",
+    "published": "Mon, 24 Aug 2026 16:40:30 +09:00",
+    "fetched_at": "2026-08-24 16:52:37",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "지역개발",
+      "건설"
+    ],
+    "keywords": [
+      "강원도",
+      "미래산업",
+      "지역개발",
+      "종합계획"
+    ],
+    "reason": "강원도의 장기 지역 발전 전략이 본격화되는 신호이나, 전국 단위 거시경제 및 주요 투자자산에 미치는 직접적 영향은 제한적입니다. 구체적인 산업 및 기업 관련 계획 발표가 추후 중요합니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "CNBC Daily Open: The cost of AI, trade showdown and Iran's 'economic D-day'",
@@ -2710,284 +2978,5 @@
     ],
     "reason": "예측 시장 트레이더들이 비트코인이 2026년 말까지 현재 수준에서 움직일 가능성이 높다고 보고 있어, 최근의 비트코인 랠리에 대한 기대감이 다소 완화될 수 있음을 시사합니다.",
     "action_point": "비트코인 추가 상승 기대감 조정 및 포트폴리오 내 비중 재평가."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "“임상3상 간 치매치료제 46개, 먹는 약도 개발중…정복 머지않았다”",
-    "title_ko": "임상3상 간 치매치료제 46개, 먹는 약도 개발중…정복 머지않았다",
-    "link": "https://www.mk.co.kr/news/society/12133698",
-    "published": "Sat, 22 Aug 2026 06:10:55 +09:00",
-    "fetched_at": "2026-08-22 06:15:07",
-    "sentiment": "호재",
-    "importance": 2,
-    "sectors": [
-      "제약",
-      "바이오",
-      "헬스케어"
-    ],
-    "keywords": [
-      "치매치료제",
-      "신약개발",
-      "임상3상"
-    ],
-    "reason": "다수의 치매 치료제 후보물질이 임상 3상 단계에 진입하고 경구용 치료제 개발까지 진행 중이어서 제약/바이오 섹터에 긍정적인 투자 심리를 형성할 수 있습니다.",
-    "action_point": "치매 치료제 개발에 집중하는 국내외 제약/바이오 기업 포트폴리오 편입 검토"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "이란 대통령 \"우리가 힘 가진 지금이 전쟁 끝낼 때\"(종합) - 연합뉴스",
-    "title_ko": "이란 대통령 '우리가 힘 가진 지금이 전쟁 끝낼 때'(종합)",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IelNCeFRxV2NDSjNUZkRqVlhza1hnTG9BeVE5X2NqN3VhdE5WX0UwTEJ5NEdyN2lHclo0WFVTMkZrbk5HTzlsdElpcldVckVCWWNwNGx0RE1JV0HSAWBBVV95cUxQZHdpRUQ5a3FfTjRoMTB3a09NMXMwSlVZWUNyVXg1LWVpcXg5LXdFQmRpTEdMWkl5SDVFamU1WTVzeDNFbXVrbHFfR2FaUl9vNnRjN0FURXJhWHB0THB0WGw?oc=5",
-    "published": "Fri, 21 Aug 2026 13:00:16 GMT",
-    "fetched_at": "2026-08-22 04:20:05",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "원유/에너지",
-      "항공/해운"
-    ],
-    "keywords": [
-      "이란",
-      "중동 정세",
-      "지정학적 리스크",
-      "원유 가격",
-      "전쟁 종식"
-    ],
-    "reason": "이란 대통령의 발언은 중동 지역의 긴장 완화 가능성을 시사하며, 이는 글로벌 지정학적 리스크 프리미엄을 낮추고 유가 안정에 기여할 수 있습니다. 다만, 실제 행동으로 이어질지는 불확실합니다.",
-    "action_point": "중동 지정학적 리스크 완화 시그널에 따른 국제 유가 하방 압력 가능성을 주시하며 에너지 관련 자산 비중을 재조정하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[국제]유럽 기록적 가뭄에 각국 원전 '스톱'...국제 곡물가 2년 만에 최고치 - YTN",
-    "title_ko": "유럽 기록적 가뭄에 각국 원전 '스톱'...국제 곡물가 2년 만에 최고치",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1HUnpOWmhZVXB3bkZDMWRuN19JbXNKWEtnWUVWWTNURy1RTEY5alk3UmNZOFh2LWliVzByQk42Y0t1UWtUUWd2UmdIMnZqeFZ5cXpaRmNEM0txa2ttVmtTaDdwN3JWVDV2bmt2ekVpYw?oc=5",
-    "published": "Fri, 21 Aug 2026 16:20:00 GMT",
-    "fetched_at": "2026-08-22 04:20:19",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "농업",
-      "식료품",
-      "유틸리티",
-      "원자재"
-    ],
-    "keywords": [
-      "유럽 가뭄",
-      "에너지 위기",
-      "곡물가",
-      "인플레이션"
-    ],
-    "reason": "유럽의 기록적인 가뭄이 전력 생산 차질과 국제 곡물가 급등을 야기하여 글로벌 에너지 위기와 식량 인플레이션을 심화시키고, 유럽 경제 둔화 압력을 가중시킨다.",
-    "action_point": "유럽발 에너지 위기와 식량 인플레이션 심화에 대비하여 원자재 및 인플레이션 헤지 자산 비중을 늘리고 유럽 경기 민감 자산 비중 축소를 고려하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Trump to allow import of 300,000 metric tons of ground beef without tariff",
-    "title_ko": "트럼프, 관세 없이 30만 톤의 소고기 수입 허용 예정",
-    "link": "https://www.cnbc.com/2026/08/21/trump-ground-beef-import-tariff.html",
-    "published": "Fri, 21 Aug 2026 16:42:13 GMT",
-    "fetched_at": "2026-08-22 04:19:52",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "음식료",
-      "소비재"
-    ],
-    "keywords": [
-      "소고기",
-      "관세",
-      "수입",
-      "물가",
-      "인플레이션",
-      "미국"
-    ],
-    "reason": "미국 내 소고기 가격 급등에 대응하여 관세 없이 수입을 허용하는 조치로, 미국 식품 물가 안정에 기여하며 소비재 섹터의 원가 부담 완화에 긍정적 영향을 미칠 수 있다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "미 '경제 압박' 언급 후 이란 대통령 \"지금이 전쟁 끝낼 때\" - v.daum.net",
-    "title_ko": "미 '경제 압박' 언급 후 이란 대통령 \"지금이 전쟁 끝낼 때\"",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBNLTEzQ1VSeWt3ZmMzY1pBajR6TW53ZzFKbms3WTRFcUVnZm1TSkNmbGNOSWZtd3hldUFQWXBVLTNnemx6MGZnWk9ZMXpCM00?oc=5",
-    "published": "Fri, 21 Aug 2026 13:39:00 GMT",
-    "fetched_at": "2026-08-22 01:21:02",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "방산",
-      "해운"
-    ],
-    "keywords": [
-      "이란",
-      "미국",
-      "경제 압박",
-      "지정학적 리스크",
-      "유가",
-      "중동"
-    ],
-    "reason": "미국의 이란 경제 압박 지속과 이란의 반응은 중동 지역의 지정학적 불안감을 유지시키며, 국제 유가 변동성 및 글로벌 공급망 불확실성을 높일 수 있다.",
-    "action_point": "중동 지정학적 리스크 지속에 따른 유가 변동성 확대에 대비하여 에너지 섹터 관련 투자 전략을 재검토한다."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "이란 대통령 \"승기 잡은 지금 전쟁 끝내야\"…美 제재 예고에 강력 반발 - 머니투데이 - 머니투데이",
-    "title_ko": "이란 대통령 \"승기 잡은 지금 전쟁 끝내야\"…美 제재 예고에 강력 반발 - 머니투데이",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBJdzI2b0t5TThuZ05IMklVRkZLcmpEMXhHakFHblY3NkNVYVN5UTBIQVMwd0l4RWVuOUJ4RlZfVWVUUGZTUUNtZEtKZDNiLUs1dVpUNUhkRTlyMGV3b0lVaWRoV3FfcW1m0gFuQVVfeXFMTU45TXJfMDZpbDQxN295UEs0NjY0NS1HQ1ZQbUd6UGZaNDl5U1NhdU1wZGRKZUJfb3BLUmJQWHJ5YWQ1eXZRU2pUZVZ6cGc3bTJyUjVETDFHZDhuWTU2TVNWVTQ4a1R3MnNhZGFzTmc?oc=5",
-    "published": "Fri, 21 Aug 2026 14:20:38 GMT",
-    "fetched_at": "2026-08-22 01:21:10",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "방산",
-      "해운"
-    ],
-    "keywords": [
-      "이란",
-      "미국",
-      "제재",
-      "중동",
-      "지정학",
-      "유가"
-    ],
-    "reason": "이란 대통령의 강경 발언과 미국의 제재 예고는 중동 지정학적 긴장을 고조시키며, 글로벌 에너지 시장의 불확실성을 증대시켜 유가 상승 압력을 가하고 투자 심리를 위축시킬 수 있습니다.",
-    "action_point": "유가 상승 가능성에 대비하여 에너지 섹터 비중을 점검하고, 지정학적 위험 회피 자산에 대한 관심을 확대하십시오."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Gold rebounds as bond jitters, debt fears and weaker dollar revive bullion demand",
-    "title_ko": "미 국채 시장 불안, 부채 우려, 달러 약세로 금 수요 부활",
-    "link": "https://www.cnbc.com/2026/08/21/gold-prices-us-debt-dollar.html",
-    "published": "Fri, 21 Aug 2026 13:21:19 GMT",
-    "fetched_at": "2026-08-22 00:24:24",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "원자재",
-      "금융"
-    ],
-    "keywords": [
-      "금",
-      "국채",
-      "부채",
-      "달러",
-      "안전자산"
-    ],
-    "reason": "미국 부채 우려와 높은 국채 금리, 약세 달러가 복합적으로 작용하며 투자자들이 위험 회피 심리로 안전자산인 금으로 이동하고 있음을 시사한다. 이는 주식 등 위험자산에 대한 투자 심리 위축 및 시장 변동성 확대로 이어질 수 있다.",
-    "action_point": "포트폴리오 내 금과 같은 안전자산 비중 확대를 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "서울의 밤, 달라진다! '서울형 야간경제' 본격화 - 서울특별시",
-    "title_ko": "서울의 밤, 달라진다! '서울형 야간경제' 본격화",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ITjNjUFl2OVRfbGZQMlhHRlk5UEZBQVpCanBhUkhSbzRSZGdMdXRERWFIS3hDY3I1N1pNdExncEQyY1dHc3VmaTdXT25HdVk4RVRwVGRjSlc?oc=5",
-    "published": "Fri, 21 Aug 2026 09:43:17 GMT",
-    "fetched_at": "2026-08-21 23:25:04",
-    "sentiment": "호재",
-    "importance": 2,
-    "sectors": [
-      "관광",
-      "외식",
-      "유통",
-      "문화/엔터테인먼트",
-      "부동산"
-    ],
-    "keywords": [
-      "야간경제",
-      "서울시",
-      "관광",
-      "상권활성화",
-      "소비"
-    ],
-    "reason": "서울시의 야간경제 활성화 정책은 관광, 외식, 유통 등 관련 서비스업의 매출 증대와 고용 창출에 기여할 수 있습니다. 이는 서울 내 특정 상권의 활성화를 이끌어 지역 경제에 긍정적인 영향을 미칠 것으로 보입니다.",
-    "action_point": "서울 기반의 관광, 외식, 유통 관련 기업 투자 기회를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "No more doom scrolling or Instagram Stories? A Meta trial loss could end the social media we know",
-    "title_ko": "둠 스크롤링이나 인스타그램 스토리는 사라지는가? 메타의 재판 패배는 우리가 아는 소셜 미디어를 끝낼 수 있다",
-    "link": "https://www.cnbc.com/2026/08/21/meta-social-media-lawsuit-trial-instagram-facebook.html",
-    "published": "Fri, 21 Aug 2026 12:11:14 GMT",
-    "fetched_at": "2026-08-21 22:37:50",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "기술",
-      "미디어",
-      "광고"
-    ],
-    "keywords": [
-      "메타",
-      "소셜 미디어",
-      "규제",
-      "빅테크",
-      "법적 리스크"
-    ],
-    "reason": "메타의 주요 소송 패소 가능성은 소셜 미디어 산업 전반에 걸친 대규모 규제 강화와 비즈니스 모델 변화를 야기할 수 있으며, 이는 빅테크 기업들의 법적 리스크를 증가시킬 것입니다.",
-    "action_point": "글로벌 소셜 미디어 및 디지털 광고 플랫폼 기업 비중 축소를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "U.S., Canada near final trade deal as Trump tariff deadline looms",
-    "title_ko": "트럼프 관세 시한 임박, 미국과 캐나다 최종 무역 협상 근접",
-    "link": "https://www.cnbc.com/2026/08/21/trump-canada-tariffs-trade-deal-deadline.html",
-    "published": "Fri, 21 Aug 2026 13:32:50 GMT",
-    "fetched_at": "2026-08-21 22:37:58",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "제조업",
-      "유통",
-      "소비재",
-      "물류",
-      "금융"
-    ],
-    "keywords": [
-      "미국",
-      "캐나다",
-      "무역협상",
-      "관세",
-      "불확실성 해소",
-      "트럼프"
-    ],
-    "reason": "미국과 캐나다 간 무역 협상 타결이 임박함에 따라, 트럼프 행정부의 추가 관세 부과 위협이 해소되어 북미 교역 관련 기업들의 불확실성이 크게 감소하고 투자 심리가 개선될 것으로 예상됩니다.",
-    "action_point": "북미 무역 의존도가 높은 제조업 및 소비재 섹터의 투자 비중 확대를 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "미국 경제압박 예고에…이란 국회의장 “부당한 제재 극복해야” - 한겨레",
-    "title_ko": "미국 경제압박 예고에…이란 국회의장 “부당한 제재 극복해야”",
-    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNTdFeW9hZTdnTG93cUN4Z1FwOWY3OGROLUY3dUNWNVZ5N3ZnUlBnWVQwcmFvYmpLTGc3emt3MkFGVHp6YTlyMlZkWkl1ZWFsNXFSNGFZemZaYzg5Y0RTOGlSSE1oZkRvSFhqMXJ0ODhMelRISUNlVmhhOGRiZHYxTnFB?oc=5",
-    "published": "Fri, 21 Aug 2026 13:10:00 GMT",
-    "fetched_at": "2026-08-21 22:38:06",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "원자재",
-      "방산",
-      "해운"
-    ],
-    "keywords": [
-      "미국 제재",
-      "이란",
-      "지정학",
-      "원유",
-      "중동"
-    ],
-    "reason": "미국의 이란 경제압박 예고는 중동 지역의 지정학적 긴장을 고조시키며, 이는 국제 유가 변동성 확대 및 안전자산 선호 심리를 자극할 수 있습니다.",
-    "action_point": "중동 지정학적 리스크 관련 에너지 섹터 비중 확대 또는 유가 관련 파생상품 헤지 검토."
   }
 ]
