@@ -1,5 +1,31 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "美 경제 제재 앞두고 이란 리알화 역대 최저 - 연합인포맥스",
+    "title_ko": "美 경제 제재 앞두고 이란 리알화 역대 최저",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE53MU9BYTl2VWtaMW9rSVhEQ0xaZkVocGRVdGs5MEFIM2hTbjBBcFhNdGZ2TXdUQzRXMjNzRTQ4Q1F0NDZoQ2syZXprSk9zX3puX3BsUmU2SEJIbkxkQWlmc01tQ1RkbVVodFhIOHhrN0M?oc=5",
+    "published": "Mon, 24 Aug 2026 11:18:39 GMT",
+    "fetched_at": "2026-08-25 03:25:42",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "원유/에너지",
+      "항공",
+      "해운",
+      "화학"
+    ],
+    "keywords": [
+      "이란",
+      "미국 제재",
+      "리알화",
+      "유가",
+      "지정학적 리스크"
+    ],
+    "reason": "미국 경제 제재가 임박하면서 이란 리알화가 최저치를 기록, 중동 지정학적 리스크를 심화시키고 글로벌 원유 공급 불확실성을 증대시켜 유가 변동성을 키울 수 있습니다.",
+    "action_point": "원유 관련 익스포저를 점검하고, 고유가 헤지 전략을 고려하라."
+  },
+  {
     "source": "CNBC_Finance",
     "market": "US",
     "title": "Prediction market traders doubtful Bessent’s bond interventions will push yields lower",
@@ -2954,32 +2980,5 @@
     ],
     "reason": "프리미어리그의 도박 광고 규제는 스포츠 스폰서십 시장의 변화를 촉발하며, 특정 광고 수익 감소와 함께 새로운 유형의 기업들에게 마케팅 기회를 제공합니다. 이는 스포츠 관련 산업 내 자금 흐름과 경쟁 구도를 바꿀 수 있습니다.",
     "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "미 경제 압박 통할까…이란 대통령 \"전쟁 끝내야\" - 연합뉴스TV",
-    "title_ko": "미 경제 압박 통할까…이란 대통령 \"전쟁 끝내야\"",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43RVphV3BXWHdwZ29GOThrY256NjFqT3BvVkdOeHkxRWFURENWTnMyamRnY1NGekdFaHBGVm84U1k0Ry01Q3lXMk42TmZSWXdWRm4yNjVKaTdXcEJYUkM1X1pSaDRMNTQ?oc=5",
-    "published": "Sat, 22 Aug 2026 02:22:00 GMT",
-    "fetched_at": "2026-08-22 14:18:26",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "원자재",
-      "에너지",
-      "방산",
-      "해운"
-    ],
-    "keywords": [
-      "이란",
-      "미국",
-      "중동",
-      "유가",
-      "지정학적 위험",
-      "경제 제재"
-    ],
-    "reason": "미국 경제 압박의 효과와 이란의 전쟁 종식 발언은 중동 지정학적 리스크 완화 기대를 높이지만, 유가 변동성 및 불확실성은 여전하여 신중한 접근이 필요하다.",
-    "action_point": "중동 긴장 완화 기대와 유가 변동성을 고려하여 에너지 및 방산 섹터 비중 조정을 검토하라."
   }
 ]
