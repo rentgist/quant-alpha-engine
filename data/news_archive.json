@@ -1,5 +1,50 @@
 [
   {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Kalshi traders think the bitcoin rally could end the year near current levels",
+    "title_ko": "칼시 트레이더들은 비트코인 랠리가 연말 현재 수준에서 마무리될 것으로 예상한다",
+    "link": "https://www.cnbc.com/2026/08/21/kalshi-traders-say-bitcoin-rally-wont-go-much-higher-by-end-of-2026.html",
+    "published": "Fri, 21 Aug 2026 17:43:25 GMT",
+    "fetched_at": "2026-08-24 18:37:05",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "가상자산"
+    ],
+    "keywords": [
+      "비트코인",
+      "가상자산",
+      "가격 예측",
+      "칼시"
+    ],
+    "reason": "칼시 트레이더들의 예측은 2026년까지 비트코인 가격이 현재 수준을 크게 벗어나지 않을 가능성을 시사합니다. 이는 가상자산 시장의 과열이 진정되고 장기적인 성장 동력이 재평가될 수 있음을 의미합니다.",
+    "action_point": "비트코인 및 가상자산 포트폴리오의 장기 성장 기대치를 현실적으로 재점검하십시오."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "바클레이스, 빅옐로·슈르가드 성장 리스크 속 세이프스토어 지지 - Investing.com 한국어",
+    "title_ko": "바클레이스, 빅옐로·슈르가드 성장 리스크 속 세이프스토어 지지",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9uZkNuOEVfa1Qyc2lvLXZLSG1hTV9wRmlzZ01KNjZsalhOeXJhWTVBUlVqeGQtbW9PWFZNVWRzS0liWkcwOUlYeGNfVWR0MmxtNVgyOGJXUW5iNUdMOXpjN1l6NWVBVEs1ejlmTV9wV2Q?oc=5",
+    "published": "Mon, 24 Aug 2026 08:02:00 GMT",
+    "fetched_at": "2026-08-24 18:37:22",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "부동산",
+      "특수 리츠"
+    ],
+    "keywords": [
+      "바클레이스",
+      "셀프 스토리지",
+      "부동산 리츠",
+      "애널리스트 보고서"
+    ],
+    "reason": "이 기사는 바클레이스가 특정 셀프 스토리지 기업들의 성장 전망을 다르게 평가하며 SafeStore를 선호한다는 내용으로, 해당 니치 부동산 섹터 내 개별 기업의 투자 의견에만 영향을 미칩니다. 거시 경제나 광범위한 자산 시장에는 제한적인 영향을 줍니다.",
+    "action_point": "해당 없음. 이 기사는 특정 영국/유럽 셀프 스토리지 기업에 대한 애널리스트 보고서로, 국내 투자자의 포트폴리오에 직접적인 영향이 미미합니다."
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "Treasury yields fall as investors brace for Warsh’s Jackson Hole keynote amid bond fears",
@@ -2937,51 +2982,5 @@
     ],
     "reason": "브로드컴의 대규모 부채 조달은 반도체 산업 내 M&A 및 투자 활동 증가를 시사하며, 이는 기술 섹터의 통합과 성장에 대한 기대를 높일 수 있습니다.",
     "action_point": "반도체 섹터 내 대규모 M&A 가능성이 있는 기업을 중심으로 투자 포트폴리오를 점검하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "인천공항, 사상 첫 세계 1위…승객 늘자 새치기 문제도 [항공+]",
-    "title_ko": "인천공항, 사상 첫 세계 1위…승객 늘자 새치기 문제도 [항공+]",
-    "link": "https://www.mk.co.kr/news/culture/12133725",
-    "published": "Sat, 22 Aug 2026 08:12:06 +09:00",
-    "fetched_at": "2026-08-22 08:15:01",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "항공",
-      "관광/레저",
-      "유통",
-      "카지노"
-    ],
-    "keywords": [
-      "인천공항",
-      "국제선 여객",
-      "관광",
-      "항공",
-      "인바운드"
-    ],
-    "reason": "인천공항 국제선 여객 실적 세계 1위는 한국 관광 및 항공 산업의 견조한 회복과 성장세를 방증하며, 관련 서비스업 전반의 실적 개선 기대감을 높입니다.",
-    "action_point": "항공, 면세, 호텔, 카지노 등 인바운드 관광 수혜 섹터에 대한 투자 비중 확대 검토."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Trump admin taps former JPMorgan Chase exec Matt Zames to advise Social Security agency",
-    "title_ko": "트럼프 행정부, 전 JP모건 임원 맷 제임스 사회보장국 고문으로 임명",
-    "link": "https://www.cnbc.com/2026/08/21/jpmorgan-matt-zames-social-security-administration.html",
-    "published": "Fri, 21 Aug 2026 15:10:31 GMT",
-    "fetched_at": "2026-08-22 08:14:42",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [],
-    "keywords": [
-      "트럼프 행정부",
-      "사회보장국",
-      "맷 제임스",
-      "정부 현대화"
-    ],
-    "reason": "전 JP모건 임원의 사회보장국 고문 임명은 기관의 효율성 개선을 위한 행정적 조치로, 현재 금융시장이나 거시경제에 직접적인 투자 영향은 미미합니다.",
-    "action_point": "해당 없음"
   }
 ]
