@@ -1,5 +1,104 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "What's bogging down the data center trade has nothing to do with demand",
+    "title_ko": "데이터 센터 거래를 방해하는 요인은 수요와 무관하다",
+    "link": "https://www.cnbc.com/2026/08/23/whats-bogging-down-the-data-center-trade-has-nothing-to-do-with-demand.html",
+    "published": "Sun, 23 Aug 2026 22:55:14 GMT",
+    "fetched_at": "2026-08-24 09:42:28",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "데이터 센터",
+      "반도체",
+      "클라우드 컴퓨팅",
+      "기술 인프라"
+    ],
+    "keywords": [
+      "데이터 센터",
+      "미국 기술 패권",
+      "정책 리스크",
+      "선거"
+    ],
+    "reason": "미국 데이터 센터 성장의 발목을 잡는 요인이 수요가 아닌 정책/지정학적 요인임을 시사하며, 미 대선에 따른 정책 불확실성이 관련 기술 기업에 하방 압력으로 작용할 수 있습니다. 이는 미국 기술 패권 유지의 어려움을 나타냅니다.",
+    "action_point": "미국 데이터 센터 및 핵심 기술 인프라 관련 기업 투자 시 대선발 정책 리스크에 대비해 포트폴리오 비중을 재검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "트럼프 측근 \"김정은보다 李 먼저 만나야…서울 방문하라\" - 주간조선",
+    "title_ko": "트럼프 측근 \"김정은보다 李 먼저 만나야…서울 방문하라\" - 주간조선",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HaElSU2EtMTlwRFl1N04yMGhIS2ZWVWpBTTJnZWZ6X3ExalFBTmNCNDYwMmEwWFZmQWg1ckVLWUVJSGl1X0NibVJIQnZsWWp2bUhMTzJOUG02Rm1IOGpiLTdkMTZUb0FCNHc?oc=5",
+    "published": "Sun, 23 Aug 2026 23:30:00 GMT",
+    "fetched_at": "2026-08-24 09:42:45",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "방산",
+      "남북경협"
+    ],
+    "keywords": [
+      "트럼프",
+      "한미관계",
+      "북미관계",
+      "이재명",
+      "외교"
+    ],
+    "reason": "트럼프 측근의 발언은 차기 미국 행정부의 한반도 외교 정책 방향에 대한 잠재적 변화를 시사하며, 남북 관계 및 한미 동맹의 미래에 불확실성을 더한다.",
+    "action_point": "트럼프 재집권 시 한반도 정책 변화 가능성에 대비하여 방산 및 남북경협 관련 테마주 비중 조정 검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "‘보험’까지 품는 한국투자금융…미래에셋과 ‘종합금융 전쟁’ 불붙는다 - 시사저널",
+    "title_ko": "'보험'까지 품는 한국투자금융…미래에셋과 '종합금융 전쟁' 불붙는다",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1XN0R3QllKWWE5RUpUaENSM0U2OGRFQkFxS2ZxV1VHQlFRYUdKNHlYUzRibjhtaFpnVDVDWERITE5XX0NmTGE0bE50RkNhZnVZdmRza2ZpeVdpVElHWnlkTUdMVjNlNXpXZ0xmbWFTONIBc0FVX3lxTE9aZmFYendFTDVRSlFGV1Y3OGxLTEdPZHBFbFBidmxEeHdzWTBUeXRqcDFmWjZuNVNGR2xpQ2xuYVZxaXlPelRoOTRUYWxDcl9qMkdoQnAtN25OWm9UdTM1SXNxUG94c0NfT0d3c3VKaFVpXzg?oc=5",
+    "published": "Mon, 24 Aug 2026 00:00:00 GMT",
+    "fetched_at": "2026-08-24 09:42:58",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "금융",
+      "증권",
+      "보험"
+    ],
+    "keywords": [
+      "한국투자금융",
+      "미래에셋",
+      "종합금융",
+      "보험업",
+      "경쟁심화"
+    ],
+    "reason": "한국투자금융의 보험업 진출과 미래에셋과의 경쟁 심화는 국내 금융권의 지각변동을 가속화하며, 특히 증권 및 보험업계의 수익성 경쟁을 심화시킬 수 있다. 이는 장기적인 효율성 증대 가능성에도 불구하고 단기적으로는 해당 기업들의 마진 압박 요인으로 작용할 수 있다.",
+    "action_point": "국내 증권 및 보험 섹터 내 경쟁 심화에 따른 잠재적 이익률 하락 가능성을 감안, 관련주 비중 축소 검토"
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "“도쿄 마비 대비하자”… 日 ‘제2의 수도’ 유치전에 13개 도시 뛰어들어 ‘후끈’",
+    "title_ko": "“도쿄 마비 대비하자”… 日 ‘제2의 수도’ 유치전에 13개 도시 뛰어들어 ‘후끈’",
+    "link": "https://www.mk.co.kr/news/world/12134457",
+    "published": "Mon, 24 Aug 2026 09:42:49 +09:00",
+    "fetched_at": "2026-08-24 09:43:06",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "건설",
+      "부동산",
+      "지역 경제"
+    ],
+    "keywords": [
+      "일본",
+      "도쿄",
+      "제2의 수도",
+      "재해 대비",
+      "지역 발전"
+    ],
+    "reason": "일본의 장기적인 재해 대비 및 지역 균형 발전 노력의 일환으로, 특정 지역의 인프라 투자 확대를 유발할 수 있으나, 글로벌 및 한국 시장에 미치는 직접적인 거시 경제 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "CNBC_Finance",
     "market": "US",
     "title": "Labubu maker Pop Mart shares fall as key ex-China sales data drop, Citi cuts price target",
@@ -2892,110 +2991,5 @@
     ],
     "reason": "트럼프의 대이란 강경책 실패 후 중국으로의 '경제전쟁' 전환 가능성은 글로벌 무역 둔화, 공급망 불안정 및 투자 심리 위축을 야기하여 전반적인 경제 불확실성을 증폭시킬 수 있습니다. 이는 특히 수출 의존도가 높은 한국 경제와 관련 기업에 부정적 영향을 미칠 수 있습니다.",
     "action_point": "글로벌 무역 분쟁 민감 섹터 비중 축소 및 방어적 자산 비중 확대를 검토하십시오."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "'A delicate dance': JD Vance says economic pressure is the best way to achieve Washington's objectives in Iran",
-    "title_ko": "JD 밴스, 이란에 대한 워싱턴의 목표 달성에는 '경제적 압박'이 최선이라고 주장",
-    "link": "https://www.cnbc.com/2026/08/21/us-iran-war-trump-hormuz-vance-economic-pressure.html",
-    "published": "Fri, 21 Aug 2026 04:32:59 GMT",
-    "fetched_at": "2026-08-21 16:35:30",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "국방/항공우주",
-      "해운/물류"
-    ],
-    "keywords": [
-      "JD 밴스",
-      "이란",
-      "경제적 압박",
-      "제재",
-      "중동 지정학",
-      "원유"
-    ],
-    "reason": "미국이 이란에 대한 정책 기조로 경제적 압박을 선택했음을 시사하며, 이는 군사적 충돌 회피 노력으로 해석될 수 있으나, 중동 지역의 지정학적 긴장감은 지속될 것임을 의미한다. 특히 이란 관련 원유 공급 불안정성은 유가 변동성을 높일 수 있다.",
-    "action_point": "중동 지정학적 긴장 지속에 따른 원유 가격 변동성 확대에 대비하여 에너지 섹터 비중을 조절하고, 달러 등 안전자산 보유를 고려하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "'Perfect storm' brews for global food supply this winter as grain prices soar",
-    "title_ko": "곡물 가격 급등세 속, 올겨울 글로벌 식량 공급에 '퍼펙트 스톰' 우려 고조",
-    "link": "https://www.cnbc.com/2026/08/21/grain-price-russia-food-supply.html",
-    "published": "Fri, 21 Aug 2026 05:00:01 GMT",
-    "fetched_at": "2026-08-21 16:35:46",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "농업",
-      "식품",
-      "소비재",
-      "물류",
-      "원자재"
-    ],
-    "keywords": [
-      "식량 공급",
-      "곡물 가격",
-      "인플레이션",
-      "밀",
-      "농업 생산량"
-    ],
-    "reason": "곡물 가격 급등은 글로벌 인플레이션 압력을 더욱 심화시키고 소비재 기업들의 원가 부담을 가중시킬 것이며, 식량 안보에 대한 우려를 높일 수 있습니다.",
-    "action_point": "인플레이션 압력 심화에 대비하여 식량 관련 원자재 및 인플레이션 헤지 자산 편입을 검토하고, 식품 관련 기업들의 원가 부담 증가 가능성을 주시하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "CNBC Daily Open: The 'Bessent Bid' wears off",
-    "title_ko": "CNBC 데일리 오픈: '베센트 장관의 매수세' 효과 약화",
-    "link": "https://www.cnbc.com/2026/08/21/cnbc-daily-open-the-bessent-bid-wares-off.html",
-    "published": "Fri, 21 Aug 2026 07:02:47 GMT",
-    "fetched_at": "2026-08-21 16:35:54",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "기술주",
-      "부동산",
-      "성장주",
-      "금융주"
-    ],
-    "keywords": [
-      "미국 국채",
-      "국채 금리",
-      "금리 인상",
-      "베센트"
-    ],
-    "reason": "미국 재무장관의 국채 매입 계획 발표에도 불구하고 국채 금리가 계속 상승하여, 시장에 금리 부담을 가중시키고 전반적인 자산 가치 평가에 부정적인 영향을 미칠 것으로 예상됩니다.",
-    "action_point": "금리 상승에 취약한 장기채권 비중 축소 및 성장주에 대한 보수적 접근 유지."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "트럼프의 '경제 D-Day' 선언, 이란을 압박할 수 있을까? - BBC",
-    "title_ko": "트럼프의 '경제 D-Day' 선언, 이란을 압박할 수 있을까? - BBC",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9sZDZScHRIcF9PMThncWdNWVNpTWZtdFdfS01ybkRFaFVKZG1RZUtmX1l3RjY4aURQbEtYVHBEUG5wbGZEZC1OUVZTYjRCMUp6Y0xneVpZYXNxNXB60gFiQVVfeXFMTmRYQWJjbXpQOHBVaFprQ3pFTFBQTHNnVnYwM2tYWkNSRnBfalZJSHRQYXNCalY0SUlzWjBVZWpxZk9xLUJIUi1RaFlhTWdZWVE4X3VFOFRwQlp5YlhFQlBESUE?oc=5",
-    "published": "Fri, 21 Aug 2026 03:57:36 GMT",
-    "fetched_at": "2026-08-21 16:36:13",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "방산",
-      "항공",
-      "해운",
-      "화학"
-    ],
-    "keywords": [
-      "트럼프",
-      "이란",
-      "경제 제재",
-      "지정학",
-      "유가"
-    ],
-    "reason": "트럼프의 이란에 대한 경제적 압박 선언은 중동 지역 지정학적 리스크를 고조시키고 유가 상승 압력으로 작용할 수 있습니다. 이는 글로벌 인플레이션 우려를 키우고 경기 둔화 가능성을 높이는 악재입니다.",
-    "action_point": "지정학적 리스크 및 유가 상승에 대비하여 에너지 섹터 비중 확대를 검토하고, 안전자산으로서 달러 보유를 유지하라."
   }
 ]
