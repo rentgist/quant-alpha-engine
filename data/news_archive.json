@@ -1,5 +1,83 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Trump says U.S. will hike Canada auto tariffs to 50% as trade war escalates",
+    "title_ko": "트럼프, 미-캐나다 무역 전쟁 격화에 따라 캐나다산 자동차 관세 50% 인상 발표",
+    "link": "https://www.cnbc.com/2026/08/24/trump-canada-auto-tariffs-trade-war.html",
+    "published": "Mon, 24 Aug 2026 19:08:56 GMT",
+    "fetched_at": "2026-08-25 06:20:27",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "자동차",
+      "철강/금속",
+      "운송",
+      "소비재"
+    ],
+    "keywords": [
+      "트럼프",
+      "관세",
+      "미국",
+      "캐나다",
+      "자동차",
+      "무역 전쟁",
+      "공급망"
+    ],
+    "reason": "미국이 캐나다산 자동차 및 부품에 50% 관세를 부과할 경우, 북미 자동차 산업의 생산 비용 상승과 공급망 교란이 불가피하며, 이는 글로벌 무역 갈등의 심화와 경제 불확실성을 증대시킬 것입니다.",
+    "action_point": "미국-캐나다 무역 분쟁 격화로 글로벌 증시 변동성 확대 및 경제 둔화 우려가 커짐에 따라, 안전 자산(달러, 금) 비중을 확대하고 자동차 섹터 투자 비중을 축소하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Nvidia reports earnings this week. Jay Woods says these are the key levels to watch",
+    "title_ko": "엔비디아, 이번 주 실적 발표 예정. 제이 우즈, 주시해야 할 핵심 수준 제시",
+    "link": "https://www.cnbc.com/2026/08/24/nvidia-to-report-earnings-jay-woods-says-watch-these-key-levels.html",
+    "published": "Mon, 24 Aug 2026 16:05:24 GMT",
+    "fetched_at": "2026-08-25 06:20:34",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "반도체",
+      "기술",
+      "인공지능"
+    ],
+    "keywords": [
+      "엔비디아",
+      "실적",
+      "AI",
+      "반도체"
+    ],
+    "reason": "엔비디아의 실적 발표는 AI 및 반도체 섹터 전반의 투자 심리와 미래 성장 기대치를 좌우하며, 글로벌 기술주 시장에 큰 영향을 미칠 수 있습니다.",
+    "action_point": "엔비디아 및 AI/반도체 관련 포트폴리오 비중을 점검하고, 실적 발표 전후 변동성에 대비하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[속보] 美, 이란 ‘경제적 고립 작전’ 개시…中 은행에도 “제재 예외 없다” - 조선일보",
+    "title_ko": "美, 이란 ‘경제적 고립 작전’ 개시…中 은행에도 “제재 예외 없다”",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWVRhNXUyTDhLRUZPLTZla3pucnpUb0pzNjZGeG0yQzJVLWcxZDRKTUZWSmwwVmw3cWViVG5GZ2xiSGw2TkF4bE9Fd19jOTVDQnhJT1hjNzBNanMyUmU3N3Q3Q0tMZGdHeGE3bnNPa1NBajM4b3dheUNwdHVsRklDaGVWZ0pIY0QxRG5pUXBRb3NfZ0RRZjN6WDRBTlNTdw?oc=5",
+    "published": "Mon, 24 Aug 2026 17:47:00 GMT",
+    "fetched_at": "2026-08-25 06:20:46",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "금융",
+      "해운"
+    ],
+    "keywords": [
+      "미국",
+      "이란",
+      "중국",
+      "제재",
+      "유가",
+      "지정학적 위험"
+    ],
+    "reason": "미국의 이란 제재 강화 및 중국 은행 대상 조치는 중동 지정학적 긴장과 미중 갈등을 심화시켜 유가 상승 압력 및 글로벌 금융시장 변동성 확대를 야기할 수 있습니다.",
+    "action_point": "국제 유가 상승 압력에 대비하여 에너지 관련 자산 비중 확대를 검토하고, 금융 시장 변동성에 대비한 방어적 포지션을 강화하라."
+  },
+  {
     "source": "GoogleNews_Korea",
     "market": "KR",
     "title": "美 경제 제재 앞두고 이란 리알화 역대 최저 - 연합인포맥스",
@@ -2907,78 +2985,5 @@
     ],
     "reason": "미국과 캐나다 간의 관세 부과 및 무역 협상 결렬은 글로벌 무역 긴장을 고조시켜 세계 경제 성장에 대한 불확실성을 키우고 주요 교역국들의 공급망에 부정적인 영향을 미칠 수 있습니다.",
     "action_point": "글로벌 무역 긴장 심화에 따른 시장 변동성 확대 및 안전자산 선호 심리 강화에 대비하여 달러 자산 비중 확대 검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[다음주 경제] 기준금리 동결이냐 인상이냐…작년 출생통계도 발표 - 연합뉴스",
-    "title_ko": "[다음주 경제] 기준금리 동결이냐 인상이냐…작년 출생통계도 발표 - 연합뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ybXJHS0NZR01MNE9YNWVocUxYcmFjYVpNcjd4cHhkSnhUMzBwc0l5emlHYlFsOEtTYU5tZTV5Vks3NVRET1ZYZi13WW1wVmpxTlY1bXZqaDVLSGPSAWBBVV95cUxPWFBDY0V1VGlfWExyckNkRkphLUxSZnh1YjBId3NJX2o3TWxFbUhTVVVndEc0dzZ4UF9XTTN1TW40c3phaVk1SVhyNEhRWWtSWGxHdzQ2c2NQcEVfbjFCaEw?oc=5",
-    "published": "Sat, 22 Aug 2026 00:07:19 GMT",
-    "fetched_at": "2026-08-22 15:22:59",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "금융",
-      "부동산",
-      "건설",
-      "성장주"
-    ],
-    "keywords": [
-      "기준금리",
-      "한국은행",
-      "금리정책",
-      "출생통계",
-      "매크로경제"
-    ],
-    "reason": "한국은행의 기준금리 결정은 국내 주식, 채권, 부동산 시장에 직접적인 영향을 미치며, 통화정책 방향을 제시합니다. 발표될 출생통계는 한국의 장기 경제 성장 잠재력과 인구 구조 변화를 가늠하는 지표가 됩니다.",
-    "action_point": "한국은행 금리 결정에 따른 금융시장 변동성 확대 가능성에 대비하여 금리 민감주 및 부동산 관련 자산 비중을 점검하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Six investors reveal the biggest market risks — and one strategy they agree on",
-    "title_ko": "6명의 투자 전문가들이 밝히는 최대 시장 리스크와 모두가 동의하는 한 가지 전략",
-    "link": "https://www.cnbc.com/2026/08/22/investors-market-risks-diversification-stocks-kospi.html",
-    "published": "Sat, 22 Aug 2026 05:00:01 GMT",
-    "fetched_at": "2026-08-22 15:22:41",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "전반적 포트폴리오 전략"
-    ],
-    "keywords": [
-      "시장 리스크",
-      "다변화",
-      "포트폴리오",
-      "투자 전략"
-    ],
-    "reason": "주요 투자 전문가들이 시장 리스크를 언급하며 최근 고수익 자산에 대한 집중 투자를 경계하고 분산 투자를 권고하는 의견을 모았다. 이는 전반적인 포트폴리오 재조정 필요성을 시사한다.",
-    "action_point": "과거 고수익 자산에 대한 의존도를 줄이고 다양한 자산군 및 지역으로 포트폴리오 다각화를 적극적으로 모색하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "How one Silicon Valley firm is seizing an opportunity from Premier League soccer's gambling ad clampdown",
-    "title_ko": "한 실리콘밸리 기업, 프리미어리그 축구 도박 광고 규제에서 기회 포착",
-    "link": "https://www.cnbc.com/2026/08/21/premier-league-gambling-shirt-sponsors.html",
-    "published": "Fri, 21 Aug 2026 14:00:02 GMT",
-    "fetched_at": "2026-08-22 15:22:49",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "스포츠 마케팅",
-      "미디어/광고",
-      "게임/베팅",
-      "기술/IT"
-    ],
-    "keywords": [
-      "프리미어리그",
-      "도박 광고 규제",
-      "스포츠 스폰서십",
-      "실리콘밸리"
-    ],
-    "reason": "프리미어리그의 도박 광고 규제는 스포츠 스폰서십 시장의 변화를 촉발하며, 특정 광고 수익 감소와 함께 새로운 유형의 기업들에게 마케팅 기회를 제공합니다. 이는 스포츠 관련 산업 내 자금 흐름과 경쟁 구도를 바꿀 수 있습니다.",
-    "action_point": "해당 없음"
   }
 ]
