@@ -2,6 +2,56 @@
   {
     "source": "GoogleNews_Korea",
     "market": "KR",
+    "title": "이란, 미 경제 제재 발표에 “완벽 대비···방어만 하지 않을 것” - 경향신문",
+    "title_ko": "이란, 미 경제 제재 발표에 “완벽 대비···방어만 하지 않을 것” - 경향신문",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44eFMzQml0azB0cE1wd2t0dlZhZk42Z0xJYTlCMFd5SU9TX1dTTnlxWG9BODRzclZjVVpyd2pyZFI3N3AtRXNiUUJqV2VxWlBYaklTX2RSeEdoUdIBX0FVX3lxTE9iNk1BcVU2dS1iV25GLWdkNXBFLWZub3NiX2xOZE1fTTlTanNyQjR6OV9tR1d6dXh2MnFqLVdQSFcydEtjOVlxOUxSODY2dThDLTNiZTd2REZ2bmc0dnd3?oc=5",
+    "published": "Mon, 24 Aug 2026 22:35:00 GMT",
+    "fetched_at": "2026-08-25 08:14:55",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "방산",
+      "해운",
+      "화학"
+    ],
+    "keywords": [
+      "이란",
+      "미국 제재",
+      "지정학",
+      "유가",
+      "중동"
+    ],
+    "reason": "미국의 대이란 제재 강화와 이란의 강경 대응 예고는 중동 지역 지정학적 불안정을 심화시키며, 유가 상승 압력과 글로벌 인플레이션 우려를 증대시킬 수 있습니다.",
+    "action_point": "중동 지정학적 리스크 확산 및 유가 상승에 대비해 에너지/방산 섹터 비중 확대를 검토하고, 안전자산 확보를 위해 달러 자산 보유를 유지하십시오."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Crypto extends gains after biggest 3-day rally since 2023",
+    "title_ko": "암호화폐, 2023년 이후 최대 3일간의 랠리 후 상승세 지속",
+    "link": "https://www.cnbc.com/2026/08/24/crypto-extends-gains-after-biggest-3-day-rally-since-2023.html",
+    "published": "Mon, 24 Aug 2026 20:02:22 GMT",
+    "fetched_at": "2026-08-25 08:14:45",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "암호화폐",
+      "블록체인 기술",
+      "핀테크"
+    ],
+    "keywords": [
+      "비트코인",
+      "암호화폐 랠리",
+      "가상자산",
+      "디지털 자산"
+    ],
+    "reason": "비트코인의 강력한 상승세는 암호화폐 시장 전반의 투자 심리를 개선하며, 관련 블록체인 및 핀테크 기술 기업들에 긍정적인 영향을 미칠 수 있습니다.",
+    "action_point": "암호화폐 자산군에 대한 포트폴리오 편입 또는 비중 확대를 검토하여 상승 모멘텀을 활용한다."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
     "title": "美, 이란 '경제고립' 돌입, 글로벌 제재 발표…\"중국도 예외 아냐\" - 머니투데이 - 머니투데이",
     "title_ko": "美, 이란 '경제고립' 돌입, 글로벌 제재 발표…\"중국도 예외 아냐\"",
     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5OQmV1dmpudWRnTUpOWTJuVVdIdXQ5N01DR0VMa0RyRTBrcDl0eEtTMEcySXNUQnVjbkNjVnFuNEctaDhSVUJLeWJDMlZXajV3cF9Eemw0UjhlaE9NWVN2OXVvWDJELVIx0gFuQVVfeXFMTTFoTlNmZ2FvNy1IMlY0OGl3MmNBODZDby00QzFBLUY1M3RBNFRRTF8tUVR6U3I1RmcwYUR4SnQ3UjlxOEtuNDczOXpKcVhRaWZ2REdSNU1ZbEdhNlFkeVBrM3doQ19rSFFmNVN6T0E?oc=5",
@@ -2937,56 +2987,5 @@
     ],
     "reason": "이란의 경제 압박 수용 가능성과 전쟁 종식 언급은 중동 지정학적 긴장 완화 기대로 이어져 국제 유가에 하방 압력으로 작용할 수 있다.",
     "action_point": "국제 유가 하락 시 항공, 해운, 정유 섹터 비중 확대 및 에너지 관련 자산 비중 축소 검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "“세계가 우리 승리 인정…전쟁 끝내자”… 이란 대통령 ‘승전’ 주장 - 문화일보",
-    "title_ko": "“세계가 우리 승리 인정…전쟁 끝내자”… 이란 대통령 ‘승전’ 주장",
-    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8tMVBNZkF5akpHRDlmMGVDaTRpdzZzSV9kYkFuTmU4UVRqRkF2dGQ1YjUzYy1sY29iSmNjY2RIbEFMNjdfeEVDanVQU01idXFv?oc=5",
-    "published": "Fri, 21 Aug 2026 23:48:59 GMT",
-    "fetched_at": "2026-08-22 16:27:18",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "방산",
-      "해운",
-      "원자재"
-    ],
-    "keywords": [
-      "이란",
-      "중동",
-      "지정학",
-      "유가",
-      "전쟁"
-    ],
-    "reason": "이란 대통령의 '승전' 주장 및 전쟁 종식 요구는 중동 지역의 지정학적 긴장 완화 가능성을 시사하며, 이는 글로벌 유가에 하방 압력으로 작용하고 시장 전반의 위험 선호 심리를 개선할 수 있습니다.",
-    "action_point": "유가 및 관련 원자재 포지션을 재검토하고 중동 관련 방산주 비중 축소를 고려."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "“이란 전쟁 때문이라고?”…환승객 세계 1위된 인천국제공항",
-    "title_ko": "“이란 전쟁 때문이라고?”…환승객 세계 1위된 인천국제공항",
-    "link": "https://www.mk.co.kr/news/world/12133810",
-    "published": "Sat, 22 Aug 2026 15:33:03 +09:00",
-    "fetched_at": "2026-08-22 16:31:30",
-    "sentiment": "호재",
-    "importance": 2,
-    "sectors": [
-      "항공",
-      "관광"
-    ],
-    "keywords": [
-      "인천국제공항",
-      "환승객",
-      "중동",
-      "항공",
-      "반사 이익",
-      "지정학"
-    ],
-    "reason": "중동 지역의 지정학적 불안정 심화로 장거리 항공 환승 수요가 아시아 허브로 이동하며, 인천국제공항의 환승객 증가로 국내 항공 및 관련 관광 산업이 반사 이익을 얻을 것으로 예상됩니다.",
-    "action_point": "국내 항공 및 관광 관련 기업의 실적 개선 가능성을 분석하고, 포트폴리오 편입을 검토하라."
   }
 ]
