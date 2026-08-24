@@ -1,5 +1,30 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Bessent could tap near $1 trillion Treasury General Account to fund bond buybacks, sources said",
+    "title_ko": "소식통: 미 재무부, 약 1조 달러 규모 TGA 활용해 채권 바이백 자금 조달 가능성",
+    "link": "https://www.cnbc.com/2026/08/24/bessent-1-trillion-treasury-general-account-bond-buybacks.html",
+    "published": "Mon, 24 Aug 2026 13:17:35 GMT",
+    "fetched_at": "2026-08-24 22:43:13",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "기술주",
+      "부동산",
+      "성장주"
+    ],
+    "keywords": [
+      "재무부",
+      "TGA",
+      "채권 바이백",
+      "장기금리",
+      "유동성"
+    ],
+    "reason": "미 재무부가 대규모 채권 바이백을 통해 장기 국채 공급을 줄이면 장기 금리 하락 압력이 커져 전반적인 유동성 개선 및 위험자산 선호 심리를 강화할 것이다.",
+    "action_point": "장기 금리 하락 압력에 따라 성장주 및 부동산 관련 자산의 비중 확대를 검토하라."
+  },
+  {
     "source": "CNBC_Finance",
     "market": "US",
     "title": "Stocks making the biggest moves premarket: Alibaba, Marvell, Sandisk, Coinbase and more",
@@ -2959,30 +2984,5 @@
     ],
     "reason": "국내 바이오·헬스 섹터 내 일부 기업들의 재무 건전성 악화와 감사의견 거절로 상장 폐지 위험이 부각되며 해당 섹터 투자 심리에 부정적인 영향을 미칠 수 있습니다.",
     "action_point": "국내 바이오/헬스 섹터 내 재무 위험이 있는 기업들의 보유 비중 축소를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Anthropic IPO filing will show AI backlash as a risk factor, sources say",
-    "title_ko": "Anthropic, IPO 서류에 'AI 반발'을 위험 요소로 명시할 예정",
-    "link": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
-    "published": "Fri, 21 Aug 2026 22:03:39 GMT",
-    "fetched_at": "2026-08-22 11:10:03",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "인공지능",
-      "기술주",
-      "데이터센터"
-    ],
-    "keywords": [
-      "AI",
-      "위험 요소",
-      "기업공개",
-      "기술 규제",
-      "데이터센터"
-    ],
-    "reason": "이 뉴스는 AI 기술의 사회적 영향(일자리 감소, 데이터센터 문제 등)에 대한 대중의 우려가 증대되고 있음을 보여주며, 이는 AI 기업들의 가치 평가 및 향후 규제 환경에 부정적인 영향을 미칠 수 있습니다.",
-    "action_point": "고평가된 AI 관련 기술주 및 데이터센터 관련주의 투자 비중 축소를 검토하라."
   }
 ]
