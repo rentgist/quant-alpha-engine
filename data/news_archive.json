@@ -1,5 +1,30 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "이란 \"美 경제 제재, 전 세계 국가 주권에 대한 공격\" - 머니투데이 - 머니투데이",
+    "title_ko": "이란 \"美 경제 제재, 전 세계 국가 주권에 대한 공격\" - 머니투데이",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SQmpiX1c0d19kTnptM2lpcVBZT0xCbWk5YzlIU1pNYWNKczAxdmY1ekJrelp0T2VfOTBSX3djWjhlanJBakxfaVo5RGdlNlVaNlZzTVVBenJsRTRBd2JfM3J5Zl81Ry150gFuQVVfeXFMT012WVNqbnRkNmdLQ3lkanBuelZNUWk2ZGpPcW5vUkwzMW5ab0pvd3ZFX0pBbVo1X2ROcXF3Y1RfaXJXakUwR2NZdE8yQ2xSRVlra0JjWEhoNFNTNU41Y21aTHNUUmgwVzZrdUhLaUE?oc=5",
+    "published": "Tue, 25 Aug 2026 18:03:04 GMT",
+    "fetched_at": "2026-08-26 04:24:07",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "방산",
+      "해운",
+      "글로벌 증시"
+    ],
+    "keywords": [
+      "이란",
+      "미국 제재",
+      "지정학",
+      "원유"
+    ],
+    "reason": "이란의 미국 제재에 대한 강경 발언은 중동 지역의 지정학적 긴장을 재확인하며, 이는 글로벌 원유 공급 불확실성과 전반적인 시장 위험 회피 심리를 유지시키는 요인이 될 수 있습니다.",
+    "action_point": "지정학적 리스크 증가에 대비하여 원유 관련 자산의 변동성을 주시하고, 안전자산으로의 포트폴리오 리밸런싱을 고려하라."
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "SpaceX plans to build a $100 billion spaceport in Louisiana",
@@ -2962,30 +2987,5 @@
     ],
     "reason": "트럼프의 캐나다 대상 50% 관세 위협은 북미 무역 갈등 격화 및 글로벌 보호무역주의 확산 우려를 키워 지정학적 리스크와 시장 불확실성을 증대시킵니다. 이는 글로벌 공급망 교란과 기업 실적 악화 가능성으로 이어질 수 있습니다.",
     "action_point": "글로벌 무역 갈등 심화에 대비하여 위험자산 비중을 줄이고 안전자산(달러, 금) 보유를 확대하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "7월 경제 지표 부진 우려 의식했나… 中 중앙재경위, 경제 회복력·활력 강조 - 조선비즈 - Chosunbiz",
-    "title_ko": "7월 경제 지표 부진 우려 의식했나… 中 중앙재경위, 경제 회복력·활력 강조 - 조선비즈 - Chosunbiz",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbDQza0JmQk9DajBQM2c1ZXlUNjdxbmJSYmU4bENoZlZpNUtFMk5GclBFRXFYSlhxSHBNc3NweUhOUC1ZN25sNUM5MnkyaW9qSzhDaVBOc2J1ZzRPSlZBRm9MMFptT2E2VGEzRkxWOS1kbl8tRE94eW4yejh3dDdYcDBSbnVHdGtUOWQxZmtIT0RhcERkbTdNVjFMNUJZZ9IBsgFBVV95cUxNTXA4dVRiVGVVTjAzUWJoRFNRWE5FOG5ocVdVa0dzM0dFNnlDbzBZSE1YV002bUdXSnc4UDMzcDdaMDB6NENYbmVWa3R6Z19iUGFiNHhremF1ZVNwUzhUaXRiVDE4bXU3UjcwNTlDY042ZUtsMTRSZGZaTjdFNlFHVy10MmlzQl9vXzJyM3Bid2t0RnN2WXlHeklJbzBaTWZfRWpzemNQMmxtem9URmFmbFZR?oc=5",
-    "published": "Sun, 23 Aug 2026 06:48:00 GMT",
-    "fetched_at": "2026-08-23 17:18:59",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "한국 수출주",
-      "원자재",
-      "글로벌 경기 민감주",
-      "신흥국 시장"
-    ],
-    "keywords": [
-      "중국 경제",
-      "경기 부양",
-      "경제 회복",
-      "7월 지표"
-    ],
-    "reason": "중국 최고 경제 기구가 7월 지표 부진 우려 속에서 경기 회복력 강화를 강조하며, 향후 정책적 지원 가능성을 시사하나 실제 부양책의 내용과 효과는 미지수다.",
-    "action_point": "중국 경기 회복을 위한 구체적인 정책 발표 시 국내 대중국 수출 비중이 높은 기업 및 원자재 관련 섹터의 투자 기회를 면밀히 검토하라."
   }
 ]
