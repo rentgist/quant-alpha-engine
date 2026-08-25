@@ -1,43 +1,43 @@
 {
-  "generated_at_kst": "2026-08-25 21:30:09",
-  "market_as_of": "2026-08-24",
+  "generated_at_kst": "2026-08-25 22:42:41",
+  "market_as_of": "2026-08-25",
   "method": "daily_return_pct_x_volume_ratio_20d",
   "is_actual_fund_flow": false,
   "records": [
     {
-      "ticker": "RSP",
-      "name": "S&P 500 Equal Weight",
-      "pct": 0.11728899218819105,
-      "vol_ratio": 0.6475225338620492,
-      "flow_proxy": 0.07594726541582356
-    },
-    {
-      "ticker": "SPY",
-      "name": "S&P 500",
-      "pct": -0.29384110198065355,
-      "vol_ratio": 0.7077920587434815,
-      "flow_proxy": -0.20797839851434008
-    },
-    {
-      "ticker": "IWM",
-      "name": "Russell 2000",
-      "pct": -0.6634185528282428,
-      "vol_ratio": 0.6754338510916855,
-      "flow_proxy": -0.4480953480224528
+      "ticker": "SOXX",
+      "name": "Semiconductor",
+      "pct": 2.0286852457051534,
+      "vol_ratio": 0.13257132567886995,
+      "flow_proxy": 0.26894549240829624
     },
     {
       "ticker": "QQQ",
       "name": "Nasdaq 100",
-      "pct": -0.9979809224073127,
-      "vol_ratio": 0.9530477576585357,
-      "flow_proxy": -0.9511234802862865
+      "pct": 0.8792079947136048,
+      "vol_ratio": 0.07626739072072611,
+      "flow_proxy": 0.0670548996576086
     },
     {
-      "ticker": "SOXX",
-      "name": "Semiconductor",
-      "pct": -2.6670503687636136,
-      "vol_ratio": 0.8395295005836471,
-      "flow_proxy": -2.2390674641195485
+      "ticker": "IWM",
+      "name": "Russell 2000",
+      "pct": 0.3356042540870787,
+      "vol_ratio": 0.07696683962818297,
+      "flow_proxy": 0.025830398802856157
+    },
+    {
+      "ticker": "SPY",
+      "name": "S&P 500",
+      "pct": 0.3811589573074467,
+      "vol_ratio": 0.04710513584744959,
+      "flow_proxy": 0.017954544463439515
+    },
+    {
+      "ticker": "RSP",
+      "name": "S&P 500 Equal Weight",
+      "pct": -0.029282739945892592,
+      "vol_ratio": 0.1048575405225543,
+      "flow_proxy": -0.003070516090487852
     }
   ]
 }

@@ -1,5 +1,83 @@
 [
   {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "China needs U.S. dollars but is building a hedge against Washington’s sanctions",
+    "title_ko": "중국, 미국 달러 필요하지만 워싱턴의 제재에 대비한 헤지 구축 중",
+    "link": "https://www.cnbc.com/2026/08/25/china-iran-us-sanctions-banks-cips.html",
+    "published": "Tue, 25 Aug 2026 12:42:15 GMT",
+    "fetched_at": "2026-08-25 22:41:20",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "금융",
+      "무역",
+      "원자재"
+    ],
+    "keywords": [
+      "미중 관계",
+      "달러 패권",
+      "제재",
+      "금융 시스템",
+      "CIPS",
+      "지정학"
+    ],
+    "reason": "미국 금융 시스템에 대한 중국의 의존도를 줄이려는 시도로, 이는 미중 간 패권 경쟁을 심화시키고 장기적으로 달러의 기축통화 지위와 글로벌 금융 질서에 영향을 미칠 수 있습니다.",
+    "action_point": "글로벌 금융 시스템의 분절화 가능성에 대비하여 달러 편중 포트폴리오의 통화 및 자산 다변화를 모색하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Oil drops 3% as U.S. shifts to economic pressure on Iran, easing fears of renewed war",
+    "title_ko": "미국, 이란에 대한 경제 압박으로 전환하며 전쟁 재발 우려 완화에 유가 3% 하락",
+    "link": "https://www.cnbc.com/2026/08/25/oil-prices-iran-trump-hormuz.html",
+    "published": "Tue, 25 Aug 2026 13:29:31 GMT",
+    "fetched_at": "2026-08-25 22:41:28",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "항공",
+      "해운",
+      "소비재",
+      "화학"
+    ],
+    "keywords": [
+      "유가",
+      "이란",
+      "미국",
+      "지정학",
+      "인플레이션"
+    ],
+    "reason": "미국이 이란에 대한 정책을 군사적 충돌보다 경제적 압박으로 전환하면서 중동발 지정학적 리스크 프리미엄이 완화되어 유가 하락 및 글로벌 인플레이션 압력 완화에 기여할 것입니다.",
+    "action_point": "에너지 비용 절감 수혜가 예상되는 운송, 소비재 및 화학 섹터 투자 비중 확대를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Apple announces new Mac Mini and Mac Studio models with AI upgrades",
+    "title_ko": "애플, AI 업그레이드된 새로운 Mac Mini 및 Mac Studio 모델 발표",
+    "link": "https://www.cnbc.com/2026/08/25/apple-announces-new-mac-mini-and-mac-studio-models-with-ai-upgrades.html",
+    "published": "Tue, 25 Aug 2026 13:00:01 GMT",
+    "fetched_at": "2026-08-25 22:41:36",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "IT 하드웨어",
+      "반도체",
+      "소프트웨어"
+    ],
+    "keywords": [
+      "애플",
+      "Mac",
+      "AI",
+      "반도체",
+      "개발자"
+    ],
+    "reason": "애플의 신제품 출시는 IT 하드웨어 수요를 자극하고 자체 칩셋 기반의 AI 역량 강화를 시사한다. 이는 AI 기술의 광범위한 확산 및 관련 산업 성장에 긍정적인 신호로 작용할 수 있다.",
+    "action_point": "AI 반도체 및 AI 하드웨어 솔루션 관련 기업의 장기 성장 가능성을 재평가하고 투자 비중 확대를 검토하라."
+  },
+  {
     "source": "Maeil_Business",
     "market": "KR",
     "title": "“우리나라, 미국 자회사 취급 말라”…트럼프와 기싸움 벌이는 캐나다",
@@ -2907,83 +2985,5 @@
     ],
     "reason": "게임업계의 팝업스토어 전략 변화는 팬덤 결집을 통한 IP 가치와 수익성을 높이려는 노력의 일환이다. 이는 경쟁 심화 속에서 게임사의 마케팅 및 리테일 전략이 진화하고 있음을 시사한다.",
     "action_point": "해당 없음"
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "\"K팝 로봇 아이돌과 월드투어 돌겠습니다\"",
-    "title_ko": "K팝 로봇 아이돌과 월드투어 돌겠습니다",
-    "link": "https://www.mk.co.kr/news/business/12134124",
-    "published": "Sun, 23 Aug 2026 17:08:34 +09:00",
-    "fetched_at": "2026-08-23 17:19:57",
-    "sentiment": "호재",
-    "importance": 2,
-    "sectors": [
-      "엔터테인먼트",
-      "로봇",
-      "소프트웨어"
-    ],
-    "keywords": [
-      "K팝",
-      "로봇",
-      "엔터테크",
-      "소프트웨어",
-      "문화 콘텐츠"
-    ],
-    "reason": "로봇 기술과 K팝 콘텐츠의 융합을 통한 엔터테인먼트 산업의 새로운 성장 동력을 제시하며, 미래 엔터테크 시장의 경쟁 우위가 소프트웨어와 기획력에 있음을 시사한다.",
-    "action_point": "K팝 IP 기반의 로봇 엔터테크 분야에서 소프트웨어 및 기획력을 갖춘 선도 기업에 대한 투자 기회를 탐색하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "“전쟁 해보자”…캐나다, 미국 50% 관세폭탄 직후 ‘같은 규모’ 맞불 관세 - 한겨레",
-    "title_ko": "“전쟁 해보자”…캐나다, 미국 50% 관세폭탄 직후 ‘같은 규모’ 맞불 관세",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1NcHM2UGVwM2FaVFBTa00tNGgtS1ZRdjZva2FwQUhfR0VGS1FtSnJ5VU9iS1RsWkNhcG5fQlJuZ1I3anBfMTFPSDZnWnFZMkhyNVo2a3NUQTVTSWFQV1NxbnRGTnVHdm1wUzFMRUpCNA?oc=5",
-    "published": "Sun, 23 Aug 2026 05:44:00 GMT",
-    "fetched_at": "2026-08-23 16:25:47",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "무역",
-      "제조업",
-      "자동차",
-      "에너지",
-      "물류"
-    ],
-    "keywords": [
-      "미국-캐나다 무역",
-      "관세",
-      "보복 관세",
-      "글로벌 공급망",
-      "북미 경제"
-    ],
-    "reason": "미국과 캐나다 간의 대규모 관세 부과 및 보복 조치는 북미 지역의 무역 불확실성을 증대시키고 글로벌 공급망에 부담을 줄 것입니다. 이는 양국 경제 성장 둔화 및 인플레이션 압력 상승 요인으로 작용할 수 있습니다.",
-    "action_point": "북미 시장 노출도가 높은 기업의 투자 비중을 조정하고, 글로벌 무역 분쟁 심화에 따른 환율 변동성 확대에 대비하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "이란 협상파 \"전쟁 끝내고 경제 회복할 때\" - 연합뉴스TV",
-    "title_ko": "이란 협상파 \"전쟁 끝내고 경제 회복할 때\"",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZaUlCdllyT0tmc1dFYS0ydm1SN1ROd05kU1ViY0VvOWt6bERiaEtpSGZoSzFRdGx1blJ6TzJzZFVmZWRhdHhPakxSYW1walV4X2JySHFvVE5VMjZVeE9jR2E5aVBtdVE?oc=5",
-    "published": "Sun, 23 Aug 2026 06:02:00 GMT",
-    "fetched_at": "2026-08-23 16:25:57",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "정유",
-      "석유화학",
-      "항공",
-      "해운"
-    ],
-    "keywords": [
-      "이란",
-      "중동",
-      "지정학",
-      "유가",
-      "경제 회복"
-    ],
-    "reason": "이란 내 협상파의 발언은 중동 지역 긴장 완화 가능성을 시사하며, 이는 글로벌 유가 하락 압력으로 작용하여 원자재 시장 및 전반적인 경제 회복 기대감을 높일 수 있습니다.",
-    "action_point": "중동 지정학적 리스크 완화 기조에 따른 유가 하락 압력에 대비하여 에너지 섹터 비중 축소를 검토하고 항공, 해운 등 유가 수혜 섹터 투자 비중 확대를 고려하라."
   }
 ]
