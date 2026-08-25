@@ -2,6 +2,54 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "Stock futures are little changed as traders await key inflation report, Nvidia earnings: Live updates",
+    "title_ko": "핵심 인플레이션 보고서와 엔비디아 실적 발표를 앞두고 주식 선물은 소폭 변동: 실시간 업데이트",
+    "link": "https://www.cnbc.com/2026/08/25/stock-market-today-live-updates.html",
+    "published": "Tue, 25 Aug 2026 22:16:08 GMT",
+    "fetched_at": "2026-08-26 07:16:56",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "기술",
+      "반도체",
+      "AI"
+    ],
+    "keywords": [
+      "인플레이션",
+      "엔비디아",
+      "실적",
+      "금리",
+      "거시 경제"
+    ],
+    "reason": "핵심 인플레이션 데이터는 통화정책 방향을 결정하며 금리와 시장 전반에 영향을 미치고, 엔비디아 실적은 AI 및 기술 섹터의 건전성을 가늠하는 중요한 지표가 되어 시장 움직임을 좌우할 것입니다.",
+    "action_point": "핵심 인플레이션 발표 전 금리 민감 자산의 위험 노출을 점검하고, 엔비디아 실적 발표에 따른 기술주 변동성 확대에 대비하라."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Stocks making the biggest moves midday: Dick's Sporting Goods, Marvell, AMD, Kura Oncology & more",
+    "title_ko": "오전장 가장 큰 변동을 보인 주식: 딕스 스포팅 굿즈, 마벨, AMD, 쿠라 종양학 등",
+    "link": "https://www.cnbc.com/2026/08/25/stocks-making-the-biggest-moves-midday-dks-mrvl-amd-kura.html",
+    "published": "Tue, 25 Aug 2026 17:29:38 GMT",
+    "fetched_at": "2026-08-26 07:16:47",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "반도체",
+      "소비재",
+      "헬스케어"
+    ],
+    "keywords": [
+      "개별주",
+      "미국증시",
+      "기술주"
+    ],
+    "reason": "미국 증시 오전장 중 특정 개별 종목들의 큰 주가 변동을 나열한 기사로, 특정 섹터나 거시 경제 전반에 미치는 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "Iran and Oman discuss joint shipping route in Strait of Hormuz and mine clearing mission",
     "title_ko": "이란과 오만, 호르무즈 해협 공동 항로 및 지뢰 제거 임무 논의",
     "link": "https://www.cnbc.com/2026/08/25/iran-oman-strait-hormuz-oil.html",
@@ -2930,57 +2978,5 @@
     ],
     "reason": "트럼프의 이란 관련 강경 발언은 중동 지정학적 긴장을 고조시키고 유가 상승 및 안전자산 선호 심리를 자극할 수 있으며, 향후 미국 대선 결과에 따른 정책 불확실성을 증대시킵니다.",
     "action_point": "중동 지정학적 리스크 고조에 대비하여 에너지 및 방위산업 섹터 비중 확대를 검토하고 달러/금 등 안전자산 보유를 유지하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "\"융합연구원 등 4개 기관 신설…글로벌 CEO들 학장으로 모신다\"",
-    "title_ko": "융합연구원 등 4개 기관 신설…글로벌 CEO들 학장으로 모신다",
-    "link": "https://www.mk.co.kr/news/society/12134242",
-    "published": "Sun, 23 Aug 2026 17:54:10 +09:00",
-    "fetched_at": "2026-08-23 18:19:03",
-    "sentiment": "호재",
-    "importance": 2,
-    "sectors": [
-      "건설/부동산",
-      "기술 연구 개발"
-    ],
-    "keywords": [
-      "부산",
-      "지역균형발전",
-      "산학협력",
-      "연구기관",
-      "도시개발"
-    ],
-    "reason": "부산 지역의 산학협력을 통한 신규 연구기관 설립은 지역 경제 활성화 및 관련 산업 투자 유치에 긍정적 영향을 미칠 수 있습니다.",
-    "action_point": "부산 지역 개발 및 관련 산업 투자 유망 종목 분석"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "호르무즈 칼자루 쥔 이란...트럼프 '사상 최대 봉쇄령'에 경제 전쟁 선포 [자막뉴스] - YTN",
-    "title_ko": "호르무즈 칼자루 쥔 이란...트럼프 '사상 최대 봉쇄령'에 경제 전쟁 선포",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0zbXpYT3gzQkdCek80bVhPQ3RWQ0lqelFZUFIzOXZPbkFwYnptQXFXY0x6c2JxT1V3M3k5Qkt5ak9LQ2JGSHZveV9SdV81MTByLU1yNHQ3Sk1UQ1p5Znc?oc=5",
-    "published": "Sun, 23 Aug 2026 07:10:00 GMT",
-    "fetched_at": "2026-08-23 17:19:08",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "원유/에너지",
-      "해운/물류",
-      "방산",
-      "항공",
-      "화학"
-    ],
-    "keywords": [
-      "이란",
-      "호르무즈 해협",
-      "미국 봉쇄령",
-      "경제 전쟁",
-      "지정학적 리스크",
-      "유가"
-    ],
-    "reason": "이란의 호르무즈 해협 통제 위협 및 미국과의 경제 전쟁 선포는 중동 지역의 지정학적 리스크를 급격히 고조시킨다. 이는 글로벌 원유 공급 불확실성 증대로 유가 상승 압력을 가하며, 전반적인 시장의 투자 심리를 위축시킬 수 있다.",
-    "action_point": "유가 상승 압력에 대비하여 에너지 섹터 비중을 확대하고, 방산 섹터에 대한 투자를 검토하라."
   }
 ]
