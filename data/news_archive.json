@@ -1,5 +1,122 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Dragon Ball Z theme park gets $7 billion green light",
+    "title_ko": "드래곤볼 Z 테마파크, 70억 달러 투자 승인",
+    "link": "https://www.cnbc.com/2026/08/25/dragon-ball-z-theme-park-france-paris.html",
+    "published": "Tue, 25 Aug 2026 08:53:08 GMT",
+    "fetched_at": "2026-08-25 18:25:31",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "레저",
+      "관광",
+      "건설"
+    ],
+    "keywords": [
+      "테마파크",
+      "사우디아라비아",
+      "프랑스",
+      "투자",
+      "엔터테인먼트"
+    ],
+    "reason": "사우디아라비아와 프랑스의 대규모 엔터테인먼트 투자는 특정 지역의 관광 및 건설 산업에 긍정적 영향을 미치나, 글로벌 매크로 시장 전체에 미치는 파급 효과는 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Lego posts record first-half revenue, CEO touts strong sales at high-end and value pricing",
+    "title_ko": "레고, 상반기 사상 최대 매출 기록…CEO, 고가 및 저가 제품군 모두 견조한 판매 강조",
+    "link": "https://www.cnbc.com/2026/08/25/lego-first-half-2026-revenue.html",
+    "published": "Tue, 25 Aug 2026 07:00:01 GMT",
+    "fetched_at": "2026-08-25 18:25:40",
+    "sentiment": "호재",
+    "importance": 2,
+    "sectors": [
+      "소비재",
+      "유통",
+      "완구"
+    ],
+    "keywords": [
+      "레고",
+      "소비재",
+      "실적",
+      "소비심리",
+      "가격전략"
+    ],
+    "reason": "레고의 견조한 실적은 고가와 저가 제품 모두에서 소비가 견고하다는 것을 시사하며, 이는 전반적인 소비 심리 및 구매력 유지에 대한 긍정적 신호로 해석될 수 있습니다.",
+    "action_point": "글로벌 소비재 섹터에서 프리미엄 및 가성비 제품군을 모두 성공적으로 운영하는 기업에 대한 리서치 확대"
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "국제성모병원 글로벌 의료협력 성과, 해외 비즈니스 매체가 주목 - 의학신문",
+    "title_ko": "국제성모병원 글로벌 의료협력 성과, 해외 비즈니스 매체가 주목",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5vWkExM0VkcXhRcTRvelRzQnNyeDg5a2xRZEtIbjE3b05HM1VqMzdRa3RzVU82clpIdGZHaG80ZWdGVkZRVkZqMzFXVFZWaXI1MXhqSlpkZGZ1LTRVWTZVcVZTXzJIdGZBZ1E?oc=5",
+    "published": "Tue, 25 Aug 2026 07:08:45 GMT",
+    "fetched_at": "2026-08-25 18:25:48",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "의료 서비스",
+      "의료 관광"
+    ],
+    "keywords": [
+      "국제성모병원",
+      "글로벌 의료협력",
+      "의료관광",
+      "헬스케어 수출"
+    ],
+    "reason": "국제성모병원의 글로벌 의료협력 성과는 국내 특정 병원의 대외 성과로, 한국 의료 서비스의 경쟁력 향상을 간접적으로 시사합니다. 하지만 거시 경제나 광범위한 투자 자산군에 미치는 직접적인 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "운용사 10곳 중 4곳, 주총 안건 절반 넘게 ‘형식적 기재’",
+    "title_ko": "운용사 10곳 중 4곳, 주총 안건 절반 넘게 ‘형식적 기재’",
+    "link": "https://www.mk.co.kr/news/stock/12136109",
+    "published": "Tue, 25 Aug 2026 18:24:45 +09:00",
+    "fetched_at": "2026-08-25 18:26:00",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "금융",
+      "자산운용"
+    ],
+    "keywords": [
+      "운용사",
+      "주주총회",
+      "의결권",
+      "금감원",
+      "수탁자책임",
+      "기업 지배구조"
+    ],
+    "reason": "자산운용사들이 주주총회 의결권 행사에 있어 형식적인 태도를 보인다는 지적이며, 이는 국내 기업들의 전반적인 기업 지배구조 개선 노력에 부정적인 영향을 미칠 수 있습니다. 금감원의 개선 요구는 향후 운용사들의 스튜어드십 책임 강화로 이어질 수 있습니다.",
+    "action_point": "자산운용사 선정 시 의결권 행사 투명성과 스튜어드십 활동 내역을 면밀히 검토하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "‘하청 인사 압력’ 구현모 전 KT대표 1심 무죄…“의심되나 증거 부족”",
+    "title_ko": "‘하청 인사 압력’ 구현모 전 KT대표 1심 무죄…“의심되나 증거 부족”",
+    "link": "https://www.mk.co.kr/news/society/12136099",
+    "published": "Tue, 25 Aug 2026 18:07:23 +09:00",
+    "fetched_at": "2026-08-25 18:26:15",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [],
+    "keywords": [
+      "KT",
+      "기업 지배구조",
+      "법적 리스크"
+    ],
+    "reason": "구현모 전 KT 대표의 1심 무죄 판결은 KT 개별 기업의 과거 법적 리스크 해소 측면이 있으나, 거시경제나 전체 시장에 미치는 영향은 제한적이다. 특정 산업 전반의 투자심리에 변화를 주지 않는다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "GoogleNews_Korea",
     "market": "KR",
     "title": "이란, 미 ‘경제 고립 작전’에 맞대응…“2년치 경제 계획 짜놓아” - 한겨레",
@@ -2865,125 +2982,5 @@
     ],
     "reason": "이란 내 협상파의 부상은 중동 지정학적 긴장 완화 및 유가 안정화 가능성을 높이며, 이는 글로벌 경제 불확실성 감소에 기여할 수 있습니다.",
     "action_point": "이란 발 지정학적 리스크 완화 가능성에 따라 유가 하방 압력 발생 시 에너지 섹터의 투자 비중 축소를 검토하십시오."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "후쿠시마 오염수, 3년간 13% 방류…인근 어획액, 사고前 절반으로 늘어",
-    "title_ko": "후쿠시마 오염수, 3년간 13% 방류…인근 어획액, 사고前 절반으로 늘어",
-    "link": "https://www.mk.co.kr/news/society/12133984",
-    "published": "Sun, 23 Aug 2026 12:49:14 +09:00",
-    "fetched_at": "2026-08-23 13:28:24",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "수산물",
-      "식음료",
-      "유통",
-      "외식"
-    ],
-    "keywords": [
-      "후쿠시마",
-      "오염수",
-      "방류",
-      "어업",
-      "수산물"
-    ],
-    "reason": "후쿠시마 오염수 방류가 지속됨에 따라 IAEA의 국제기준 준수 발표에도 불구하고 국내 소비자들의 수산물 관련 불안 심리가 이어져 수산물 및 관련 산업의 매출에 부정적 영향을 미칠 수 있습니다.",
-    "action_point": "국내 수산물 및 관련 유통, 외식 기업의 투자 비중 축소 검토"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[속보] 김민석 “비거주 1주택자, 사유 폭넓게 인정해 사각지대 없어져야” - 중앙일보",
-    "title_ko": "[속보] 김민석 “비거주 1주택자, 사유 폭넓게 인정해 사각지대 없어져야” - 중앙일보",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1IRFE1b1NFT1pnVGZlaFRQZVZ1dWYzc2dfSUV4R2gxX1hXellSc20yZjE2Yy1uNnpBVGNGT0JraklnNko5QlpPT2kzbTNFV3JSamE0dm9n?oc=5",
-    "published": "Sun, 23 Aug 2026 02:12:06 GMT",
-    "fetched_at": "2026-08-23 13:28:11",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "부동산"
-    ],
-    "keywords": [
-      "부동산",
-      "규제 완화",
-      "비거주 1주택자"
-    ],
-    "reason": "해당 발언은 비거주 1주택자에 대한 부동산 규제 합리화를 시사하며, 특정 사각지대 해소를 통해 주택 시장의 거래 유연성을 미세하게 개선할 가능성이 있다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "이란 \"미 경제 제재 동참국은 모두 적...국익 타격\" 경고 - YTN",
-    "title_ko": "이란 \"미 경제 제재 동참국은 모두 적...국익 타격\" 경고 - YTN",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nWDlwbUxqc0xoNDkwMWI0NVZjWTJHejlLUGlQQjNrdHYwZk5ObjB4ZEh1bVFiTnRvNXFJNWs4cXlyR2pfTkl6TkF6LUx5bGtNQm93VFFoeEZkbEwweGc?oc=5",
-    "published": "Sun, 23 Aug 2026 01:40:00 GMT",
-    "fetched_at": "2026-08-23 12:42:22",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "원유/가스",
-      "화학/석유화학",
-      "해운/물류",
-      "방산"
-    ],
-    "keywords": [
-      "이란",
-      "경제 제재",
-      "지정학적 위험",
-      "유가",
-      "중동"
-    ],
-    "reason": "미국 제재에 대한 이란의 강력한 반발은 중동 지정학적 긴장을 고조시키며, 잠재적인 원유 공급 차질과 유가 상승 압력을 야기하여 글로벌 인플레이션 및 기업 비용에 부정적 영향을 미칠 수 있습니다.",
-    "action_point": "고유가 수혜 업종(에너지) 비중 확대 및 고유가 취약 업종(화학, 해운) 비중 축소를 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "진동보다 먼저 온 ‘지진 속보’ 문자…일본 5.9 규모 강진 - 한겨레",
-    "title_ko": "진동보다 먼저 온 ‘지진 속보’ 문자…일본 5.9 규모 강진",
-    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOS0t2bDZJczJpM0xibXVmUHotUmtyVklTRi1hSkRRSWlLbUhoZnJSVHAxaV9vb3BWRzJYQ1pIWWIxY1lpbFZLZjd0VkpFR2FBYUpyOExiaFFqOXhBTTZ6cmluZ0VzVzlwcFpQczM3Y2Z0bEFzNGpSQ09Pb1RWNjNOVUl3?oc=5",
-    "published": "Sun, 23 Aug 2026 02:54:00 GMT",
-    "fetched_at": "2026-08-23 12:42:13",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "해당 없음"
-    ],
-    "keywords": [
-      "일본 지진",
-      "5.9 규모",
-      "자연재해"
-    ],
-    "reason": "일본 내수 시장 및 특정 지역에 단기적인 영향을 미칠 수 있으나, 5.9 규모의 지진은 글로벌 매크로 변동이나 광범위한 투자 자산에 유의미한 영향을 주지 않을 가능성이 높습니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "우사인 볼트 100m 기록 깼다…중국 운동회에서 벌어진 ‘대사건’",
-    "title_ko": "우사인 볼트 100m 기록 깼다…중국 운동회에서 벌어진 ‘대사건’",
-    "link": "https://www.mk.co.kr/news/it/12133982",
-    "published": "Sun, 23 Aug 2026 12:42:02 +09:00",
-    "fetched_at": "2026-08-23 12:42:35",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "로봇",
-      "인공지능",
-      "자동화",
-      "반도체"
-    ],
-    "keywords": [
-      "휴머노이드 로봇",
-      "인공지능",
-      "로봇 기술",
-      "자동화",
-      "중국"
-    ],
-    "reason": "중국 로봇 기술의 빠른 발전이 장기적으로 노동 시장 및 산업 자동화에 큰 변화를 가져올 수 있음을 시사하나, 단기적 거시 경제 및 시장 전반에 미치는 직접적인 영향은 제한적입니다.",
-    "action_point": "해당 없음"
   }
 ]
