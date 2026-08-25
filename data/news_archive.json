@@ -1,5 +1,82 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Canada unveils retaliatory tariffs on about $20 billion of U.S. goods",
+    "title_ko": "캐나다, 약 200억 달러 규모 미국산 제품에 보복 관세 부과 발표",
+    "link": "https://www.cnbc.com/2026/08/25/canada-trump-tariffs-trade-carney-leblanc.html",
+    "published": "Tue, 25 Aug 2026 15:30:12 GMT",
+    "fetched_at": "2026-08-26 00:33:47",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "제조업",
+      "무역",
+      "운송",
+      "소비재"
+    ],
+    "keywords": [
+      "캐나다",
+      "미국",
+      "관세",
+      "무역분쟁",
+      "보복조치"
+    ],
+    "reason": "캐나다의 보복 관세는 미-캐나다 무역 분쟁을 격화시키고 전반적인 글로벌 무역 긴장을 고조시켜 세계 경제 성장 둔화 우려를 심화시킬 수 있습니다. 이는 글로벌 공급망 불안정 및 기업들의 생산 비용 증가로 이어질 가능성이 있습니다.",
+    "action_point": "글로벌 무역 분쟁 확산 위험에 대비하여 수출 의존도가 높은 국내 산업의 투자 비중을 재검토하고 방어적 자산 편입을 고려."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "The 'debasement trade' returns after Bessent bond maneuver. Crypto and gold are back in style",
+    "title_ko": "베슨트의 채권 전략 이후 '자산 가치 하락 헤지 거래' 재개. 암호화폐와 금 다시 인기 부상",
+    "link": "https://www.cnbc.com/2026/08/25/debasement-trade-debt-gold-bitcoin-dollar.html",
+    "published": "Tue, 25 Aug 2026 15:16:02 GMT",
+    "fetched_at": "2026-08-26 00:33:55",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "귀금속 (금)",
+      "암호화폐",
+      "채권 시장",
+      "인플레이션 헤지 자산"
+    ],
+    "keywords": [
+      "가치 하락 헤지",
+      "미국 재정 지출",
+      "금",
+      "암호화폐",
+      "인플레이션",
+      "채권 약세"
+    ],
+    "reason": "미국 정부의 막대한 재정 지출과 재정 건전성에 대한 우려가 커지면서 화폐 가치 하락에 대비하는 움직임이 강화되고 있습니다. 이는 금과 암호화폐 같은 인플레이션 헤지 자산으로의 자금 이동을 촉진하며, 장기적으로 채권 시장에 압력을 가할 수 있습니다.",
+    "action_point": "금, 암호화폐 등 인플레이션 헤지 자산 비중 확대를 검토하고, 장기 국채 보유 리스크를 재평가하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "A lesser known area of the AI market is set for its biggest boom since 2022. Buy this stock to play the trend, Morgan Stanley says",
+    "title_ko": "AI 시장의 덜 알려진 분야가 2022년 이후 가장 큰 붐을 맞을 준비가 되었다. 모건스탠리는 이 트렌드에 투자할 주식을 추천한다",
+    "link": "https://www.cnbc.com/2026/08/25/-buy-this-stock-to-play-boom-in-one-area-of-ai-morgan-stanley-says.html",
+    "published": "Tue, 25 Aug 2026 14:11:19 GMT",
+    "fetched_at": "2026-08-26 00:34:04",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "인공지능",
+      "사이버보안",
+      "소프트웨어"
+    ],
+    "keywords": [
+      "인공지능",
+      "사이버보안",
+      "모건스탠리",
+      "주식 추천"
+    ],
+    "reason": "모건스탠리가 AI 시장 내 사이버보안 분야의 큰 성장을 전망하며 특정 주식을 추천, 이는 해당 분야의 투자 심리 개선 및 자금 유입 기대를 높일 수 있습니다.",
+    "action_point": "AI 기반 사이버보안 섹터 내 투자 기회 발굴을 검토하십시오."
+  },
+  {
     "source": "CNBC_Finance",
     "market": "US",
     "title": "China needs U.S. dollars but is building a hedge against Washington’s sanctions",
@@ -2914,76 +2991,5 @@
     ],
     "reason": "통신 3사의 AI 데이터센터 사업 진출은 기존 포화된 무선사업을 넘어선 새로운 성장 동력을 확보하려는 전략이다. 이는 국내 AI 인프라 투자 확대와 관련 산업 생태계 성장에 기여할 것으로 예상된다.",
     "action_point": "국내 통신 섹터의 AI 데이터센터 사업 확장에 따른 인프라 및 반도체 관련 기업 투자 기회 검토."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "\"8·13 공급대책 현장 직접 다녀왔습니다\"",
-    "title_ko": "8·13 공급대책 현장 직접 다녀왔습니다",
-    "link": "https://www.mk.co.kr/news/realestate/12134120",
-    "published": "Sun, 23 Aug 2026 17:07:53 +09:00",
-    "fetched_at": "2026-08-23 17:20:23",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "부동산",
-      "건설"
-    ],
-    "keywords": [
-      "8·13 공급대책",
-      "부동산",
-      "공공분양",
-      "택지",
-      "주택공급"
-    ],
-    "reason": "정부의 8·13 공급대책 현장 점검은 주택 공급 확대 의지를 재확인하며, 이는 중장기적으로 국내 부동산 시장의 가격 안정화에 압력을 가할 수 있습니다.",
-    "action_point": "지속적인 주택 공급 확대 정책 기조에 따라 포트폴리오 내 국내 부동산 비중 축소를 검토하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "생명의 판막, 한땀 한땀 ‘1000번 손바느질’...연봉 1억 장인들 120만명 살렸다",
-    "title_ko": "생명의 판막, 한땀 한땀 ‘1000번 손바느질’...연봉 1억 장인들 120만명 살렸다",
-    "link": "https://www.mk.co.kr/news/it/12134138",
-    "published": "Sun, 23 Aug 2026 17:17:54 +09:00",
-    "fetched_at": "2026-08-23 17:19:32",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "의료기기",
-      "헬스케어"
-    ],
-    "keywords": [
-      "심장 판막",
-      "의료기기",
-      "정밀 제조",
-      "에드워즈라이프사이언스"
-    ],
-    "reason": "이 뉴스는 고부가가치 정밀 의료기기 시장, 특히 구조적 심장 치료 분야의 기술적 진보와 시장 리더의 성공 사례를 보여줍니다. 이는 헬스케어 섹터 내 특정 니치 시장의 견고한 성장성과 높은 진입 장벽을 시사합니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "체험부터 패션까지 … 게임사 팝업스토어의 변신",
-    "title_ko": "체험부터 패션까지 … 게임사 팝업스토어의 변신",
-    "link": "https://www.mk.co.kr/news/it/12134126",
-    "published": "Sun, 23 Aug 2026 17:08:35 +09:00",
-    "fetched_at": "2026-08-23 17:19:47",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "게임",
-      "유통",
-      "패션"
-    ],
-    "keywords": [
-      "게임",
-      "팝업스토어",
-      "팬덤",
-      "브랜드 협업"
-    ],
-    "reason": "게임업계의 팝업스토어 전략 변화는 팬덤 결집을 통한 IP 가치와 수익성을 높이려는 노력의 일환이다. 이는 경쟁 심화 속에서 게임사의 마케팅 및 리테일 전략이 진화하고 있음을 시사한다.",
-    "action_point": "해당 없음"
   }
 ]
