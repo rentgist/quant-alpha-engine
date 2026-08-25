@@ -2,6 +2,84 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "CNBC Daily Open: Washington escalates on two fronts; Nvidia earnings in focus",
+    "title_ko": "CNBC 데일리 오픈: 워싱턴, 두 전선에서 긴장 고조; 엔비디아 실적 주시",
+    "link": "https://www.cnbc.com/2026/08/25/trump-bessent-us-sanctions-iran-canada-tariffs-nvidia-.html",
+    "published": "Tue, 25 Aug 2026 01:07:35 GMT",
+    "fetched_at": "2026-08-25 11:13:22",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "반도체",
+      "기술주",
+      "금융주"
+    ],
+    "keywords": [
+      "엔비디아",
+      "실적",
+      "인플레이션",
+      "연준",
+      "잭슨홀",
+      "지정학적 리스크"
+    ],
+    "reason": "엔비디아 실적은 기술주 및 AI 섹터의 방향을 가늠하는 주요 지표이며, 인플레이션 지표와 잭슨홀 미팅은 연준의 통화정책 기조를 좌우할 핵심 변수입니다. 워싱턴발 지정학적/정책적 불확실성까지 겹쳐 시장 전반의 변동성이 크게 확대될 것으로 예상됩니다.",
+    "action_point": "이번 주 주요 경제 이벤트와 기업 실적 발표를 앞두고 현금 비중을 확보하고 포트폴리오의 리스크 관리를 강화하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Stock futures are flat as investors await Nvidia earnings, inflation report due later this week: Live updates",
+    "title_ko": "주식 선물 보합세, 투자자들은 엔비디아 실적과 주 후반 인플레이션 보고서 대기 중",
+    "link": "https://www.cnbc.com/2026/08/24/stock-market-today-live-updates.html",
+    "published": "Tue, 25 Aug 2026 01:52:06 GMT",
+    "fetched_at": "2026-08-25 11:13:13",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "기술주",
+      "반도체",
+      "전반적인 시장"
+    ],
+    "keywords": [
+      "엔비디아",
+      "실적",
+      "인플레이션",
+      "금리",
+      "기술주"
+    ],
+    "reason": "엔비디아 실적은 AI 관련 기술주 전반에, 인플레이션 보고서는 연준의 금리 정책 방향에 결정적 영향을 미쳐 시장 전반의 변동성을 키울 수 있습니다. 투자자들은 주요 이벤트를 앞두고 관망세를 보이며 불확실성이 증대되고 있습니다.",
+    "action_point": "엔비디아 실적 및 인플레이션 지표 발표 전까지 기술주 포지션의 리스크를 점검하고, 변동성 확대에 대비하여 현금 비중을 확보하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "“이란 돈을 누가 받아줘요”...美 역대급 경제 제재에 리알화 가치 폭락 - v.daum.net",
+    "title_ko": "“이란 돈을 누가 받아줘요”...美 역대급 경제 제재에 리알화 가치 폭락",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBpUVBlY2w3cjZXSzNIaDdmdzY2QVZlZzFMQ2xfM3lrR1FEOGZZRDd2MEVIaG5OdEF3azJPX3FNLV9VbVM5dThoRmpKTThULUU?oc=5",
+    "published": "Mon, 24 Aug 2026 22:00:02 GMT",
+    "fetched_at": "2026-08-25 11:13:36",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "원자재",
+      "방산",
+      "해운"
+    ],
+    "keywords": [
+      "이란",
+      "미국 제재",
+      "리알화",
+      "유가",
+      "지정학적 위험",
+      "중동"
+    ],
+    "reason": "미국 경제 제재로 이란의 원유 수출이 제약을 받으며 글로벌 원유 공급 감소로 유가 상승 압력이 가중되고, 중동 지정학적 위험이 고조될 수 있습니다.",
+    "action_point": "유가 상승 압력에 대비하여 에너지 및 원자재 섹터 투자 비중 확대를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "Trump admin unveils anti-Iran global sanctions plan, signals China not exempt",
     "title_ko": "트럼프 행정부, 대이란 국제 제재 계획 발표, 중국도 예외 아님 시사",
     "link": "https://www.cnbc.com/2026/08/24/trump-iran-economy-sanctions-china-bessent.html",
@@ -2909,81 +2987,5 @@
     ],
     "reason": "레이 달리오의 미국 부채 위기 경고는 장기적인 글로벌 금융 시스템 불안정성을 시사하며, 전통적인 안전자산인 채권의 매력 감소와 금, 비트코인 등 대체 자산의 중요성 부각으로 이어질 수 있습니다.",
     "action_point": "미국 채권 비중 축소를 검토하고, 금 및 비트코인 등 대체 자산에 대한 투자 비중 확대를 고려하십시오."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[속보]미·캐나다 협상 결렬… ‘50% 관세’ 현실화 - 문화일보",
-    "title_ko": "[속보]미·캐나다 협상 결렬… ‘50% 관세’ 현실화 - 문화일보",
-    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ZY3B5dzhyS1dCa0VneE02dXE5M1F4LUNIZDZTVkZSNXRKbmY3NEx5WjdETGl0cEktVWRMN3pmTWU0Uzdsd3dHdTZHSUxRVmhT?oc=5",
-    "published": "Sat, 22 Aug 2026 04:35:44 GMT",
-    "fetched_at": "2026-08-22 17:18:45",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "무역",
-      "제조업",
-      "물류",
-      "자동차"
-    ],
-    "keywords": [
-      "미국",
-      "캐나다",
-      "관세",
-      "무역분쟁",
-      "북미"
-    ],
-    "reason": "미국과 캐나다 간 협상 결렬 및 고관세 부과는 북미 지역의 교역 위축과 글로벌 공급망 불안정성을 심화시킬 것입니다. 이는 전반적인 세계 경제 성장 둔화 압력으로 작용하며, 무역 의존도가 높은 한국 경제에도 간접적인 악영향을 미칠 수 있습니다.",
-    "action_point": "글로벌 무역 분쟁 확대 가능성에 대비하여 수출 의존도가 높은 기업의 투자 비중을 재검토하고 방어적 자산 편입을 고려하십시오."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "산업위기지역 대응 빨라진다…위기 심화 맞춘 ‘전환 패스트트랙’ 도입 - 산업일보",
-    "title_ko": "산업위기지역 대응 빨라진다…위기 심화 맞춘 ‘전환 패스트트랙’ 도입",
-    "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9VdzVOekd6OTU0RWhaenY4bHFNQV81c0U5Z3F0UlZrTGFxdUZHOXRWYXBOZUNjX2pqYWhXWnc2YzNSMER0?oc=5",
-    "published": "Sat, 22 Aug 2026 06:09:20 GMT",
-    "fetched_at": "2026-08-22 17:19:00",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "지역경제",
-      "제조업",
-      "조선업",
-      "자동차부품"
-    ],
-    "keywords": [
-      "산업위기지역",
-      "정부정책",
-      "지역경제",
-      "구조조정",
-      "패스트트랙"
-    ],
-    "reason": "정부가 산업위기지역에 대한 지원 및 구조조정 절차를 신속화하여 해당 지역의 기업 및 고용 안정화를 꾀한다. 이는 특정 지역의 경제 불안정 심화를 억제하고 연착륙을 유도하는 조치로 풀이된다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "20주년 앞두고…폭우에 사상 첫 취소 결정한 거제섬꽃축제 [제철축제]",
-    "title_ko": "20주년 앞두고…폭우에 사상 첫 취소 결정한 거제섬꽃축제 [제철축제]",
-    "link": "https://www.mk.co.kr/news/culture/12133831",
-    "published": "Sat, 22 Aug 2026 17:03:25 +09:00",
-    "fetched_at": "2026-08-22 17:23:22",
-    "sentiment": "악재",
-    "importance": 2,
-    "sectors": [
-      "관광",
-      "레저",
-      "숙박"
-    ],
-    "keywords": [
-      "거제섬꽃축제",
-      "폭우",
-      "축제 취소",
-      "관광업계"
-    ],
-    "reason": "지역 축제 취소는 해당 지역의 관광 및 소비 심리에 단기적 부정적 영향을 미치며, 이상기후로 인한 지역 경제 타격 우려를 시사합니다.",
-    "action_point": "해당 없음"
   }
 ]
