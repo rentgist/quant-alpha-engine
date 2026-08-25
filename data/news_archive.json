@@ -1,5 +1,54 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Iran and Oman discuss joint shipping route in Strait of Hormuz and mine clearing mission",
+    "title_ko": "이란과 오만, 호르무즈 해협 공동 항로 및 지뢰 제거 임무 논의",
+    "link": "https://www.cnbc.com/2026/08/25/iran-oman-strait-hormuz-oil.html",
+    "published": "Tue, 25 Aug 2026 21:07:56 GMT",
+    "fetched_at": "2026-08-26 06:18:54",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "해운",
+      "보험"
+    ],
+    "keywords": [
+      "이란",
+      "오만",
+      "호르무즈 해협",
+      "해상 운송",
+      "지뢰 제거",
+      "지정학"
+    ],
+    "reason": "호르무즈 해협은 전 세계 에너지 공급의 핵심 통로로, 공동 항로 및 지뢰 제거 논의는 해당 지역의 해상 운송 안전성 강화 및 지정학적 리스크 완화에 긍정적 신호이다.",
+    "action_point": "국제 유가 하향 안정화 가능성 점검 및 해운/물류 섹터 투자심리 개선 여부 확인."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Top chip analyst says the group could fall another 10%. Here's why",
+    "title_ko": "최고 반도체 애널리스트, 반도체 섹터 10% 추가 하락 가능성 경고",
+    "link": "https://www.cnbc.com/2026/08/25/top-chip-analyst-says-the-group-could-fall-another-10percent-heres-why.html",
+    "published": "Tue, 25 Aug 2026 17:04:09 GMT",
+    "fetched_at": "2026-08-26 06:19:04",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "반도체",
+      "기술주"
+    ],
+    "keywords": [
+      "반도체",
+      "하락 전망",
+      "밸류에이션",
+      "AI"
+    ],
+    "reason": "최고 애널리스트의 반도체 섹터 10% 추가 하락 전망은 AI 붐 이후 급등했던 밸류에이션의 조정 가능성을 시사합니다. 이는 기술주 전반과 반도체 의존도가 높은 국내 증시에 하방 압력을 가할 수 있습니다.",
+    "action_point": "반도체 섹터 비중 축소를 검토하고, 관련 지수 추종 ETF 매도 기회를 모색하라."
+  },
+  {
     "source": "GoogleNews_Korea",
     "market": "KR",
     "title": "이란 \"美 경제 제재, 전 세계 국가 주권에 대한 공격\" - 머니투데이 - 머니투데이",
@@ -2933,59 +2982,5 @@
     ],
     "reason": "이란의 호르무즈 해협 통제 위협 및 미국과의 경제 전쟁 선포는 중동 지역의 지정학적 리스크를 급격히 고조시킨다. 이는 글로벌 원유 공급 불확실성 증대로 유가 상승 압력을 가하며, 전반적인 시장의 투자 심리를 위축시킬 수 있다.",
     "action_point": "유가 상승 압력에 대비하여 에너지 섹터 비중을 확대하고, 방산 섹터에 대한 투자를 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "카니, 무역갈등 미국에 '전쟁' 선포‥미·캐나다 파국 치닫나 - MBC 뉴스",
-    "title_ko": "카니, 무역갈등 미국에 '전쟁' 선포‥미·캐나다 파국 치닫나",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE14UWhUTWhQMUZVTUNFY3N2UXdyU2pzZmw5bG9JMDFEOFlDY0NBOFVsUXhybmI4a0JpSnNMT1dFbHcyanNKYVBjV0hLMmp6WFktZGVNLXIwVUU5VTlaaW1WdUpvb2NYWTYyTXl2WHJBMUNnSmxs0gF0QVVfeXFMUFd5dWdRdzdkRUJOWWFrOUE4ZG5jM1ZnamFtVnY0NUlkRDRuWUdxSjUyX2dRR3Y1SE4yc3lNT3ExcjFvQXIweGRXX0VQckl2WTAtTldPOE5wWXNELWVMeGM1Rm1SVnB3dVdKNmkyby1VX21QMmk?oc=5",
-    "published": "Sun, 23 Aug 2026 01:28:11 GMT",
-    "fetched_at": "2026-08-23 17:18:39",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "무역",
-      "제조업",
-      "원자재",
-      "운송/물류"
-    ],
-    "keywords": [
-      "무역갈등",
-      "미국",
-      "캐나다",
-      "관세",
-      "보호무역"
-    ],
-    "reason": "미국과 캐나다 간 무역 갈등 격화는 북미 지역의 공급망 교란을 야기하고, 전반적인 글로벌 무역 불확실성을 증대시켜 관련 산업 및 원자재 시장에 부정적인 영향을 미 미칠 수 있습니다.",
-    "action_point": "북미 무역 의존도가 높은 기업 및 캐나다산 원자재 관련 투자 비중을 재검토하십시오."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "“응징” 말한 트럼프, 캐나다에 50% 관세폭탄…카니 “전쟁이다” - 중앙일보",
-    "title_ko": "“응징” 말한 트럼프, 캐나다에 50% 관세폭탄…카니 “전쟁이다” - 중앙일보",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TZ2JTLVdoYmRsbTRPNjk2a280eHE2RXVRVFBxWFpXMGV6dGRhOURUb2YzaURtRC02ZlRVTk1HekZHdFg4VHVpYlVlRnM2WVl2WllzNFZn?oc=5",
-    "published": "Sun, 23 Aug 2026 07:14:13 GMT",
-    "fetched_at": "2026-08-23 17:18:47",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "글로벌 무역",
-      "수출주",
-      "산업재",
-      "소비재",
-      "금융"
-    ],
-    "keywords": [
-      "트럼프",
-      "관세",
-      "캐나다",
-      "무역분쟁",
-      "보호무역",
-      "지정학"
-    ],
-    "reason": "트럼프의 캐나다 대상 50% 관세 위협은 북미 무역 갈등 격화 및 글로벌 보호무역주의 확산 우려를 키워 지정학적 리스크와 시장 불확실성을 증대시킵니다. 이는 글로벌 공급망 교란과 기업 실적 악화 가능성으로 이어질 수 있습니다.",
-    "action_point": "글로벌 무역 갈등 심화에 대비하여 위험자산 비중을 줄이고 안전자산(달러, 금) 보유를 확대하라."
   }
 ]
