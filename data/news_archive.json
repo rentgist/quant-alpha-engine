@@ -1,5 +1,85 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "레이 달리오 \"美 이르면 3년내 부채 위기... 금·비트코인 투자 늘려라\" - 조선일보",
+    "title_ko": "레이 달리오 \"美 이르면 3년내 부채 위기... 금·비트코인 투자 늘려라\" - 조선일보",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQXl6eFE1WnpzT1NEbG04RjV2SGp4RkVzdjdObURGTHRDenR1ZHBzY2tpSk9hWFF0NTNQaGoyai1KTmF0cDE1cU1fZUM4UmVqeXNZd0NsSThiT2ZwQjJjZW1FZURsbEJkRGY3WWlFRU81bFp0dWVmTDBzM3ZjaHhGMw?oc=5",
+    "published": "Tue, 25 Aug 2026 08:20:52 GMT",
+    "fetched_at": "2026-08-25 20:19:18",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "금융",
+      "가상자산",
+      "원자재 (금)",
+      "글로벌 주식",
+      "외환"
+    ],
+    "keywords": [
+      "레이 달리오",
+      "미국 부채",
+      "금",
+      "비트코인",
+      "자산 배분"
+    ],
+    "reason": "세계적인 거시경제 전문가 레이 달리오의 미국 부채 위기 경고는 달러화 약세 및 인플레이션 압력 심화에 대한 우려를 반영하며, 전통 자산 대비 금과 비트코인 등 대체 자산으로의 자본 이동 가능성을 시사합니다.",
+    "action_point": "포트폴리오 내 금과 비트코인 비중 확대를 검토하여 잠재적 미국 부채 위기 및 달러 약세에 대비하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Ukraine is targeting Russia’s retail giants. Ozon is the next economic pressure point",
+    "title_ko": "우크라이나, 러시아 소매 거대기업 표적 삼다. 오존이 다음 경제 압박 지점.",
+    "link": "https://www.cnbc.com/2026/08/25/ukraine-war-russia-ozon-wildberries-economy.html",
+    "published": "Tue, 25 Aug 2026 10:20:17 GMT",
+    "fetched_at": "2026-08-25 20:18:36",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "소매",
+      "물류/운송",
+      "지정학 리스크 관련 산업",
+      "신흥국 주식 (러시아 익스포저)"
+    ],
+    "keywords": [
+      "우크라이나",
+      "러시아",
+      "소매",
+      "공급망",
+      "지정학",
+      "경제압박",
+      "Ozon"
+    ],
+    "reason": "러시아 주요 소매 기업에 대한 우크라이나의 표적 공격은 러시아 경제의 취약성을 노린 것으로, 전반적인 공급망 불안을 가중시키고 지정학적 긴장을 고조시킬 수 있습니다.",
+    "action_point": "러시아-우크라이나 전쟁 장기화 및 경제 압박 심화에 따른 글로벌 지정학적 리스크 상승에 대비하여 포트폴리오 내 방어적 자산 비중을 점검하고 유지하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "BlackBerry CEO says robotics is one of its fastest-growing businesses",
+    "title_ko": "블랙베리 CEO, 로봇 공학이 가장 빠르게 성장하는 사업 중 하나라고 언급",
+    "link": "https://www.cnbc.com/2026/08/25/blackberry-qnx-robotics-physical-ai.html",
+    "published": "Tue, 25 Aug 2026 09:26:05 GMT",
+    "fetched_at": "2026-08-25 20:18:49",
+    "sentiment": "호재",
+    "importance": 2,
+    "sectors": [
+      "로봇",
+      "소프트웨어",
+      "기술주"
+    ],
+    "keywords": [
+      "블랙베리",
+      "로봇",
+      "QNX",
+      "소프트웨어",
+      "성장 사업"
+    ],
+    "reason": "블랙베리의 QNX 사업부가 자동차를 넘어 로봇 공학 분야로 확장하며 새로운 성장 동력을 확보하고 있음을 시사합니다. 이는 블랙베리 기업 가치에 긍정적이며, 전반적인 로봇 및 소프트웨어 산업의 성장 기대감을 높일 수 있습니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "Dragon Ball Z theme park gets $7 billion green light",
@@ -2908,79 +2988,5 @@
     ],
     "reason": "민주당의 종부세 1주택자 과세 간소화 요청은 관련 부동산 세금 부담 완화 신호로 해석될 수 있으나, 현재는 제안 단계이며 전체 부동산 시장에 미치는 영향은 제한적이다.",
     "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Paramount, California AG office reportedly plan to meet Monday to discuss settling WBD lawsuit",
-    "title_ko": "파라마운트, 캘리포니아 법무장관실과 WBD 소송 합의 논의 예정",
-    "link": "https://www.cnbc.com/2026/08/22/paramount-california-ag-said-to-plan-meeting-on-settling-wbd-suit-.html",
-    "published": "Sat, 22 Aug 2026 20:34:13 GMT",
-    "fetched_at": "2026-08-23 15:24:20",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "미디어",
-      "콘텐츠"
-    ],
-    "keywords": [
-      "파라마운트",
-      "워너 브라더스 디스커버리",
-      "독점금지",
-      "소송",
-      "합의"
-    ],
-    "reason": "파라마운트와 워너 브라더스 디스커버리 간의 독점금지 소송 합의 논의는 관련 기업들의 법적 불확실성을 해소하는 긍정적 신호이나, 전반적인 시장이나 거시 경제에 미치는 영향은 제한적이다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "이란 \"미 경제 제재 동참국은 모두 적...국익 타격\" 경고 - YTN",
-    "title_ko": "이란 \"미 경제 제재 동참국은 모두 적...국익 타격\" 경고 - YTN",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1vNF84WlhBUHhfaVNaOEpRRUJlRHBEOUpYUkJ2TzkySUpNQTRIN2NaT2tSeWFfMlZaNHJlRzBSWTBoUkUwY3NnU2JEang0THBGaXVpT1lsMjVaa1VEdVE?oc=5",
-    "published": "Sun, 23 Aug 2026 03:24:00 GMT",
-    "fetched_at": "2026-08-23 13:27:49",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "해운",
-      "방산"
-    ],
-    "keywords": [
-      "이란",
-      "미국",
-      "제재",
-      "지정학적 리스크",
-      "국제유가",
-      "중동"
-    ],
-    "reason": "이란의 강경한 발언은 중동 지정학적 리스크를 고조시키며, 국제유가 변동성 확대 및 글로벌 경제 불확실성을 높일 수 있습니다.",
-    "action_point": "국제유가 변동성 확대에 대비하여 에너지 섹터 관련 투자 비중을 점검하고 방산 섹터를 주시하십시오."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "이란 협상파 \"전쟁 끝내고 경제 회복할 때\"…강경파에 대립각 - v.daum.net",
-    "title_ko": "이란 협상파 \"전쟁 끝내고 경제 회복할 때\"…강경파에 대립각",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9UbjN2ckhEY3B4em9uZmpRV1RWc2drN1VZVkxlM1BZS1gwcVludjJXNmpiY3JLSWtXaWJLaUU5NUJXSmRyX1p2ODZrZnBxV0U?oc=5",
-    "published": "Sat, 22 Aug 2026 21:45:00 GMT",
-    "fetched_at": "2026-08-23 13:28:00",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "원자재 (유가)",
-      "해운/물류"
-    ],
-    "keywords": [
-      "이란",
-      "지정학",
-      "석유",
-      "경제회복",
-      "중동"
-    ],
-    "reason": "이란 내 협상파의 부상은 중동 지정학적 긴장 완화 및 유가 안정화 가능성을 높이며, 이는 글로벌 경제 불확실성 감소에 기여할 수 있습니다.",
-    "action_point": "이란 발 지정학적 리스크 완화 가능성에 따라 유가 하방 압력 발생 시 에너지 섹터의 투자 비중 축소를 검토하십시오."
   }
 ]
