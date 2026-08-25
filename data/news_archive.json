@@ -1,5 +1,55 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Trump targets Iran’s trade lifelines — here are the countries most exposed",
+    "title_ko": "트럼프, 이란의 무역 동맥 조준 — 최대 노출국가들은 어디인가",
+    "link": "https://www.cnbc.com/2026/08/25/us-iran-secondary-sanctions-china-india-uae-hormuz-trade-.html",
+    "published": "Tue, 25 Aug 2026 06:24:36 GMT",
+    "fetched_at": "2026-08-25 15:28:43",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "해운",
+      "방산"
+    ],
+    "keywords": [
+      "이란 제재",
+      "지정학적 리스크",
+      "유가",
+      "트럼프"
+    ],
+    "reason": "트럼프 행정부의 이란 무역 제재 강화 위협은 중동 지정학적 긴장을 고조시키고 글로벌 원유 공급망에 불확실성을 가중시켜 유가 상승 압력을 높일 수 있습니다. 이는 전 세계 경제에 부담을 줄 가능성이 있습니다.",
+    "action_point": "중동 지정학적 리스크 고조에 따른 국제 유가 상승 압력 대비 에너지 섹터 비중 확대 검토"
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "中경제사령탑, 경기둔화에도 연일 자신감…\"고품질 발전 추진\" - 연합뉴스",
+    "title_ko": "中경제사령탑, 경기둔화에도 연일 자신감…고품질 발전 추진",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5LWVViLTc5SW5CMjh0VVZXZ19VZEk0SG1wOXJyQThneTVnNjJMdVJJc2x1emVhYmhxNS0tSGkweFJuYUI1YkNYaVRYMmtaeE9RR19pVVlFNUxXSWhkdjJobdIBYEFVX3lxTE5LWVViLTc5SW5CMjh0VVZXZ19VZEk0SG1wOXJyQThneTVnNjJMdVJJc2x1emVhYmhxNS0tSGkweFJuYUI1YkNYaVRYMmtaeE9RR19pVVlFNUxXSWhkdjJobQ?oc=5",
+    "published": "Tue, 25 Aug 2026 01:16:19 GMT",
+    "fetched_at": "2026-08-25 15:28:52",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "국내 수출주",
+      "반도체",
+      "원자재",
+      "소비재"
+    ],
+    "keywords": [
+      "중국 경제",
+      "경기 둔화",
+      "고품질 발전",
+      "수출",
+      "아시아 경제"
+    ],
+    "reason": "중국 경제사령탑의 자신감 표명은 경기 둔화에 대한 시장 우려를 불식시키려는 의도이나, '고품질 발전' 강조는 성장률 둔화 속 구조 전환에 초점을 맞추는 정책 기조를 시사한다. 이는 단기적 경기 부양책보다는 장기적 관점에서 산업 구조 개편을 추진할 것임을 의미한다.",
+    "action_point": "중국의 장기적 구조 전환 정책에 따라 대중국 수출 비중이 높은 국내 기업들의 사업 모델 변화 및 신규 시장 개척 여부를 주시하라."
+  },
+  {
     "source": "GoogleNews_Korea",
     "market": "KR",
     "title": "국민연금 부동산투자 '평판' 리스크 부상…내부 감사에 한 달째 공전 - 연합인포맥스",
@@ -2940,53 +2990,5 @@
     ],
     "reason": "이란 내 협상파의 부상은 중동 지역 긴장 완화 및 이란의 글로벌 경제 재통합 가능성을 시사하며, 이는 지정학적 리스크 프리미엄을 낮추고 글로벌 유가 안정 또는 하락에 기여할 수 있다.",
     "action_point": "지정학적 리스크 완화 및 유가 안정화 가능성을 고려하여 에너지 및 방산 섹터 비중 조정을 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "7000곳 때려도 안 무너졌다…트럼프가 오판한 ‘이란의 힘’ - v.daum.net",
-    "title_ko": "7000곳 때려도 안 무너졌다…트럼프가 오판한 ‘이란의 힘’",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9QYUF5OWVYc3lkS2tVQ3F6LW5fSlk5U2NOQmVLV1J3Z2E3a0VmRmZMSEVvQnlrd2xqaXdUR2FFZDNHQUpJaF90b254Ni1GbjQ?oc=5",
-    "published": "Sat, 22 Aug 2026 11:07:12 GMT",
-    "fetched_at": "2026-08-22 22:25:29",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "원자재",
-      "방위산업",
-      "해운"
-    ],
-    "keywords": [
-      "이란",
-      "지정학",
-      "중동",
-      "원유",
-      "안보"
-    ],
-    "reason": "이 기사는 이란이 외부 압력에도 쉽게 무너지지 않는다는 점을 시사하며, 이는 중동 지정학적 리스크가 단기에 해소되기 어렵고 장기화될 가능성을 높인다. 결과적으로 원유 시장에 지속적인 리스크 프리미엄을 부과하고 글로벌 시장 불확실성을 가중시킬 수 있다.",
-    "action_point": "중동 지정학적 리스크의 장기화 가능성을 고려하여 원유 관련 자산의 리스크 프리미엄 유지에 대비하고, 방위산업 섹터의 투자 매력을 재평가하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Meta is the latest tech giant to land in her courtroom. Meet Judge Yvonne Gonzalez Rogers",
-    "title_ko": "메타, 그녀의 법정에 선 최신 거대 기술 기업. 이본느 곤잘레스 로저스 판사를 만나다",
-    "link": "https://www.cnbc.com/2026/08/22/meet-yvonne-gonzalez-rogers-judge-taking-on-meta.html",
-    "published": "Sat, 22 Aug 2026 12:12:03 GMT",
-    "fetched_at": "2026-08-22 22:25:06",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "기술",
-      "소셜 미디어"
-    ],
-    "keywords": [
-      "메타",
-      "법정",
-      "규제",
-      "기술 기업"
-    ],
-    "reason": "메타가 거대 기술 기업 규제 관련 주요 소송에 직면하며, 회사의 사업 모델과 미래 성장 전망에 큰 영향을 미칠 수 있습니다. 이는 전반적인 기술 섹터 내 거대 기업들의 법적 리스크를 상기시키는 계기가 될 수 있습니다.",
-    "action_point": "기술 섹터 내 거대 기업들의 규제 및 법적 리스크 노출 정도를 점검하라."
   }
 ]
