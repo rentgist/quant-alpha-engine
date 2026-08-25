@@ -1,5 +1,98 @@
 [
   {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "“우리나라, 미국 자회사 취급 말라”…트럼프와 기싸움 벌이는 캐나다",
+    "title_ko": "“우리나라, 미국 자회사 취급 말라”…트럼프와 기싸움 벌이는 캐나다",
+    "link": "https://www.mk.co.kr/news/world/12136177",
+    "published": "Tue, 25 Aug 2026 20:40:15 +09:00",
+    "fetched_at": "2026-08-25 21:28:48",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "제조업",
+      "글로벌 무역 관련 섹터"
+    ],
+    "keywords": [
+      "트럼프",
+      "캐나다",
+      "무역갈등",
+      "보호무역"
+    ],
+    "reason": "미국과 캐나다 간 무역 갈등은 글로벌 보호무역주의 심화와 지정학적 리스크를 부각시키며, 전반적인 글로벌 경기 둔화 우려를 가중시킬 수 있습니다.",
+    "action_point": "글로벌 무역 분쟁 확대 가능성에 대비하여 수출 비중이 높은 기업에 대한 보수적 접근을 고려."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Stocks making the biggest moves premarket: Dick's Sporting Goods, Advanced Micro Devices, Kura Oncology & more",
+    "title_ko": "개장 전 가장 큰 움직임을 보이는 주식들: 딕스 스포팅 굿즈, 어드밴스드 마이크로 디바이시스, 쿠라 온콜로지 등",
+    "link": "https://www.cnbc.com/2026/08/25/stocks-making-the-biggest-moves-premarket-dks-amd-kura.html",
+    "published": "Tue, 25 Aug 2026 11:38:57 GMT",
+    "fetched_at": "2026-08-25 21:28:21",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "소비재 (재량)",
+      "반도체",
+      "제약/바이오"
+    ],
+    "keywords": [
+      "개장 전 거래",
+      "개별 주식",
+      "시장 변동성"
+    ],
+    "reason": "이 기사는 개장 전 특정 개별 주식들의 가격 변동을 나열하고 있을 뿐, 시장 전반의 방향성이나 거시 경제적 의미를 제공하지 않습니다. 따라서 광범위한 투자 포트폴리오에 미칠 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "OpenAI bans Russian ChatGPT accounts used in covert misinformation campaign",
+    "title_ko": "OpenAI, 러시아의 비밀 허위 정보 캠페인에 사용된 ChatGPT 계정 차단",
+    "link": "https://www.cnbc.com/2026/08/25/openai-russia-chatgpt-influence-campaign.html",
+    "published": "Tue, 25 Aug 2026 11:21:09 GMT",
+    "fetched_at": "2026-08-25 21:28:30",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "AI/테크",
+      "사이버 보안"
+    ],
+    "keywords": [
+      "AI",
+      "허위 정보",
+      "기술 규제",
+      "사이버 보안"
+    ],
+    "reason": "이 뉴스는 AI 기술의 오용 가능성과 지정학적 맥락에서 허위 정보 확산에 대한 우려를 심화시킵니다. 장기적으로 AI 윤리 및 기술 규제 강화 논의를 촉발할 수 있으나, 단기적 시장 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "빵 두 개가 3만원?…1만6000원 가격표에 누리꾼들 “차라리 치킨”",
+    "title_ko": "빵 두 개가 3만원?…1만6000원 가격표에 누리꾼들 “차라리 치킨”",
+    "link": "https://www.mk.co.kr/news/economy/12136195",
+    "published": "Tue, 25 Aug 2026 21:11:43 +09:00",
+    "fetched_at": "2026-08-25 21:28:40",
+    "sentiment": "악재",
+    "importance": 2,
+    "sectors": [
+      "음식료",
+      "유통",
+      "소비재"
+    ],
+    "keywords": [
+      "물가상승",
+      "인플레이션",
+      "소비심리",
+      "베이커리"
+    ],
+    "reason": "높은 빵 가격 논란은 전반적인 식품 물가 상승과 소비자의 저항 심리를 반영하며, 음식료 및 외식업종 전반의 소비 위축 가능성을 시사합니다.",
+    "action_point": "고물가에 따른 국내 외식 및 가공식품 섹터 기업들의 실적 하방 위험을 점검하고, 필수소비재 내에서도 가격 전가력이 낮은 기업 비중을 축소 검토."
+  },
+  {
     "source": "GoogleNews_Korea",
     "market": "KR",
     "title": "레이 달리오 \"美 이르면 3년내 부채 위기... 금·비트코인 투자 늘려라\" - 조선일보",
@@ -2892,101 +2985,5 @@
     ],
     "reason": "이란 내 협상파의 발언은 중동 지역 긴장 완화 가능성을 시사하며, 이는 글로벌 유가 하락 압력으로 작용하여 원자재 시장 및 전반적인 경제 회복 기대감을 높일 수 있습니다.",
     "action_point": "중동 지정학적 리스크 완화 기조에 따른 유가 하락 압력에 대비하여 에너지 섹터 비중 축소를 검토하고 항공, 해운 등 유가 수혜 섹터 투자 비중 확대를 고려하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[속보] 민주당 \"종부세, 1주택자 거주·비거주 구분 없게 강하게 요청\"‥고위 당정 - MBC 뉴스",
-    "title_ko": "[속보] 민주당 \"종부세, 1주택자 거주·비거주 구분 없게 강하게 요청\"‥고위 당정",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1HLUdRMVY4c2RKWl84WlNBMTB2WnREUFU2S1BFd0dmMERScnozbHVfWTF6R2o2bGlfOEFsampZODg3TTlNNGNnZVFOR3JqNTRhcU9adWp1UmdjaHJRckhMel9XN3dGZDRSUE5MZlhtTzUydUE0RjBWZtIBeEFVX3lxTE4yWlZpbEZacUQ2UExEWWx0OER1ZDh3QldzbWJuR2RSSmY1bFhxa1BQZXhsWkFfaE84ZjFwd185Yml3MXR6OWZhVm9OckhfRE9DZ1V1R0JLS1MtMTZXcGNPZnlKVXVvaURGX1M0bU5UZ1p3enllemxTMA?oc=5",
-    "published": "Sun, 23 Aug 2026 06:01:43 GMT",
-    "fetched_at": "2026-08-23 16:26:16",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "부동산"
-    ],
-    "keywords": [
-      "종부세",
-      "1주택자",
-      "부동산 세금",
-      "세제 개편",
-      "국내 정책"
-    ],
-    "reason": "1주택자의 종합부동산세 부과 기준에서 거주 여부 구분을 없애는 논의는 세금 부담 완화 및 세제 간소화를 통해 국내 부동산 시장의 투자 심리에 긍정적 영향을 줄 수 있습니다.",
-    "action_point": "국내 1주택 자산의 세금 부담 완화 기조를 확인하고 매도 계획을 재고하여 장기 보유 전략을 강화한다."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "한은 \"2014~2015년 북한 경제충격 때 중하위층에 비대칭적 피해\" - 연합인포맥스",
-    "title_ko": "한은 \"2014~2015년 북한 경제충격 때 중하위층에 비대칭적 피해\" - 연합인포맥스",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1KajBKMVhSS21DSHoteTZIdjJacHRYaEMwZUdyejRjYmJLZFFYTk5mUUhBaUNJallQakNOZWM4RHpqSm1WWnIzLVhFT2RadF9vekNMdUxDMWFod3VsTElveFBNS0FXeGNRSnRLTkthNmE?oc=5",
-    "published": "Sun, 23 Aug 2026 03:00:30 GMT",
-    "fetched_at": "2026-08-23 16:26:32",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "내수소비재",
-      "부동산",
-      "금융"
-    ],
-    "keywords": [
-      "북한 경제",
-      "소득 불균형",
-      "가계 소비",
-      "사회 안정망",
-      "한국은행"
-    ],
-    "reason": "한국은행이 과거 북한 경제충격 시 국내 중하위층이 비대칭적 피해를 입었음을 분석하여, 향후 유사 충격 발생 시 국내 소득 불균형 심화 및 내수 위축 가능성을 경고한다.",
-    "action_point": "국내 소득 불균형 심화에 취약한 내수 소비재, 부동산 및 금융 섹터 자산에 대한 잠재적 위험 노출도를 분석하고, 포트폴리오 비중 재조정을 검토."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "“K컬처 ‘3대 병목’은 내부 한계·연계 단절·지원 미비...韓헐리우드 조성해야”",
-    "title_ko": "K컬처 ‘3대 병목’은 내부 한계·연계 단절·지원 미비...韓헐리우드 조성해야",
-    "link": "https://www.mk.co.kr/news/economy/12134059",
-    "published": "Sun, 23 Aug 2026 15:42:17 +09:00",
-    "fetched_at": "2026-08-23 16:27:10",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "미디어/콘텐츠",
-      "엔터테인먼트",
-      "관광",
-      "소비재"
-    ],
-    "keywords": [
-      "K컬처",
-      "콘텐츠",
-      "엔터테인먼트",
-      "성장동력"
-    ],
-    "reason": "K컬처가 한국 경제의 장기 성장 동력으로 지목되나, 구조적 한계와 지원 미비 등 병목 현상 해결이 선행되어야 함을 강조하는 보고서. 이는 관련 산업의 중장기 전략 방향과 잠재력에 대한 통찰을 제공한다.",
-    "action_point": "현재 K컬처 관련 자산을 보유 중인 경우, 해당 기업이 제시된 병목 현상 해소에 대한 구체적인 전략을 가졌는지 점검."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[속보] 민주당 “종부세, 1주택자는 거주·비거주 구분 두지 않기로 강하게 요청” - 경향신문",
-    "title_ko": "[속보] 민주당 “종부세, 1주택자는 거주·비거주 구분 두지 않기로 강하게 요청” - 경향신문",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BTno1OTlIYi1MVlV2aXBwbnVtcXVrX2tVeDh6UWN5aFAxQ2lkVGJmc1lvWEFPS2J4RG5ETE9wV09GMFhxVzBzY0ozclRnU1NlSkpMV0JPRHNYUdIBX0FVX3lxTE5fWk4zdUhrcllRNDFad2ZwaFpnbVAtV3c2b01CeURfcnBScEJwXzl4aFltaHdqZWNwQlNjR2JEUFI2WXZ6Nl9YRFFBRXcwTG82bV9sV081ZHk3Z1JFNDRF?oc=5",
-    "published": "Sun, 23 Aug 2026 05:41:00 GMT",
-    "fetched_at": "2026-08-23 15:24:31",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "부동산"
-    ],
-    "keywords": [
-      "종부세",
-      "1주택자",
-      "부동산",
-      "세금",
-      "민주당"
-    ],
-    "reason": "민주당의 종부세 1주택자 과세 간소화 요청은 관련 부동산 세금 부담 완화 신호로 해석될 수 있으나, 현재는 제안 단계이며 전체 부동산 시장에 미치는 영향은 제한적이다.",
-    "action_point": "해당 없음"
   }
 ]
