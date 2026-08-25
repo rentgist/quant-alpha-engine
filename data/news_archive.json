@@ -1,5 +1,30 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "국민연금 부동산투자 '평판' 리스크 부상…내부 감사에 한 달째 공전 - 연합인포맥스",
+    "title_ko": "국민연금 부동산투자 '평판' 리스크 부상…내부 감사에 한 달째 공전",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE01dEtBQ1l4c2Nva0FCOExpWXdSUk5sNjZ0WmlvTUYzdC15em9qdWVhMlF6Q2pUN3ZtOHZxN2xHVGY2MjBkM19abEtXV29RaDRpOEJtNDFFamVtX19NRy1tdDRXSzl4aGZOVkdwQ0ptQzc?oc=5",
+    "published": "Tue, 25 Aug 2026 04:20:20 GMT",
+    "fetched_at": "2026-08-25 14:24:52",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "부동산",
+      "건설",
+      "금융"
+    ],
+    "keywords": [
+      "국민연금",
+      "부동산투자",
+      "평판 리스크",
+      "내부 감사",
+      "투자 지연"
+    ],
+    "reason": "국민연금의 부동산 투자 의사결정 공전은 국내외 부동산 시장의 투자 심리를 위축시키고 관련 섹터에 불확실성을 높일 수 있습니다. 대형 기관의 자금 집행 지연은 유동성 우려를 가중시킵니다.",
+    "action_point": "부동산 섹터 및 부동산 PF 관련 금융주의 포트폴리오 비중 축소 검토."
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "Xpeng shares sink as weak delivery forecast overshadows $6.3 billion robot unit valuation",
@@ -2963,30 +2988,5 @@
     ],
     "reason": "메타가 거대 기술 기업 규제 관련 주요 소송에 직면하며, 회사의 사업 모델과 미래 성장 전망에 큰 영향을 미칠 수 있습니다. 이는 전반적인 기술 섹터 내 거대 기업들의 법적 리스크를 상기시키는 계기가 될 수 있습니다.",
     "action_point": "기술 섹터 내 거대 기업들의 규제 및 법적 리스크 노출 정도를 점검하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Ukrainian drones kill several, hit warehouse of Russian online retailer Ozon",
-    "title_ko": "우크라이나 드론, 러시아 온라인 유통업체 오존 물류창고 공격 및 사망자 발생",
-    "link": "https://www.cnbc.com/2026/08/22/ukrainian-drones-hit-warehouse-of-russian-online-retailer-ozon.html",
-    "published": "Sat, 22 Aug 2026 11:27:58 GMT",
-    "fetched_at": "2026-08-22 21:19:23",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "물류",
-      "온라인 유통",
-      "방산"
-    ],
-    "keywords": [
-      "우크라이나 전쟁",
-      "러시아 경제",
-      "드론 공격",
-      "물류 인프라",
-      "지정학적 리스크"
-    ],
-    "reason": "우크라이나의 러시아 경제 인프라 공격 확대는 지정학적 긴장을 고조시키고 러시아 국내 물류 및 소비 시장에 혼란을 야기할 수 있으며, 이는 간접적으로 글로벌 시장 불확실성을 증대시킨다.",
-    "action_point": "지정학적 리스크 고조에 따라 안전자산(예: 달러, 금) 비중 유지를 검토하고, 유럽 관련 투자 익스포저를 점검하라."
   }
 ]
