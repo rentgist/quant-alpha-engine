@@ -2,6 +2,82 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "Gold hits over three-month high on dollar weakness, Treasury bond buyback plans",
+    "title_ko": "금값, 달러 약세 및 국채 매입 계획에 3개월래 최고치 경신",
+    "link": "https://www.cnbc.com/2026/08/25/gold-hits-over-three-month-high-on-dollar-weakness-treasury-bond-buyback-plans.html",
+    "published": "Tue, 25 Aug 2026 02:28:00 GMT",
+    "fetched_at": "2026-08-25 12:40:47",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "금 관련주",
+      "원자재 섹터",
+      "비달러 자산"
+    ],
+    "keywords": [
+      "금",
+      "달러 약세",
+      "미국 국채",
+      "금리 하락 기대",
+      "안전자산"
+    ],
+    "reason": "달러 약세와 미국 국채 매입 계획은 금리 인하 기대감을 높여 안전자산인 금의 매력을 부각시키고, 전반적인 위험자산 선호 심리에도 긍정적인 영향을 미칠 수 있습니다.",
+    "action_point": "달러 약세 및 금리 하락 기대감을 활용하여 금 관련 자산 및 비달러 자산의 비중 확대를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Bitcoin jumps 3%, closing in on $80,000 as rally gathers pace",
+    "title_ko": "비트코인 3% 급등, 8만 달러 근접하며 랠리 가속화",
+    "link": "https://www.cnbc.com/2026/08/25/bitcoin-price-near-80000-cryptocurrency-ether-us-treasuries.html",
+    "published": "Tue, 25 Aug 2026 03:05:12 GMT",
+    "fetched_at": "2026-08-25 12:41:33",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "가상자산",
+      "블록체인/핀테크",
+      "기술주"
+    ],
+    "keywords": [
+      "비트코인",
+      "가상자산",
+      "암호화폐 ETF",
+      "위험선호",
+      "랠리"
+    ],
+    "reason": "비트코인의 급등은 기관 자금의 재유입과 전반적인 투자자 위험 선호도 개선을 반영합니다. 이는 가상자산 시장 전반의 상승세를 견인하고 기술 성장주 등 위험 자산에 대한 투자 심리에도 긍정적 영향을 미칠 수 있습니다.",
+    "action_point": "가상자산 및 블록체인 관련 기술 섹터 투자 비중 확대 검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[속보] 당정 \"지방국립대 등록금 전액 지원…전기차 보조금 역대 최대\" - 연합뉴스TV",
+    "title_ko": "[속보] 당정 \"지방국립대 등록금 전액 지원…전기차 보조금 역대 최대\"",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBIUXlUMy1QN3NrM1BJNWk4UkoyVkw3RkZnVlViN1lHRTBOWVVlTE5Ub0FYbWd2MzRocnVKQ1ltYXNyWjJvN2tUd3BrSEc2SklhVUNnS3dsQzdfa1IxcE8xSmh6Y0hvVGs?oc=5",
+    "published": "Tue, 25 Aug 2026 00:33:00 GMT",
+    "fetched_at": "2026-08-25 12:41:42",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "자동차",
+      "이차전지",
+      "자동차 부품",
+      "친환경차 인프라"
+    ],
+    "keywords": [
+      "당정",
+      "전기차 보조금",
+      "등록금 지원",
+      "친환경차",
+      "소비 진작"
+    ],
+    "reason": "당정의 전기차 보조금 역대 최대 지원 발표는 국내 전기차 및 이차전지 산업의 판매량과 성장 모멘텀을 강화할 것이며, 등록금 지원은 가계의 가처분 소득을 일부 늘려 소비 진작에 기여할 수 있습니다.",
+    "action_point": "국내 전기차 및 이차전지 관련 섹터의 투자 비중 확대를 검토한다."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "CNBC Daily Open: Washington escalates on two fronts; Nvidia earnings in focus",
     "title_ko": "CNBC 데일리 오픈: 워싱턴, 두 전선에서 긴장 고조; 엔비디아 실적 주시",
     "link": "https://www.cnbc.com/2026/08/25/trump-bessent-us-sanctions-iran-canada-tariffs-nvidia-.html",
@@ -2908,84 +2984,5 @@
     ],
     "reason": "자유민주주의 위기 논의는 장기적인 지정학적 불안정성, 보호무역주의 심화 및 정치적 불확실성 증대로 이어져 글로벌 자본 흐름과 시장 심리에 부정적인 영향을 미칠 수 있습니다. 이는 장기 투자 전략 수립 시 주요 고려 사항이 됩니다.",
     "action_point": "포트폴리오 내 지정학적 리스크 노출도를 재검토하고 장기적 관점에서 방어적 자산 편입을 고려하십시오."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Ahead of tough new U.S. sanctions, Iran criticizes 'extraterritorial sovereignty'",
-    "title_ko": "미국의 강력한 새 제재를 앞두고 이란, '역외 주권' 비판",
-    "link": "https://www.cnbc.com/2026/08/22/iran-criticizes-us-sanctions-extraterritorial-sovereignty.html",
-    "published": "Sat, 22 Aug 2026 10:34:23 GMT",
-    "fetched_at": "2026-08-22 20:12:43",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "해운",
-      "화학"
-    ],
-    "keywords": [
-      "미국 제재",
-      "이란",
-      "유가",
-      "지정학적 리스크",
-      "중동"
-    ],
-    "reason": "미국의 강력한 이란 제재는 글로벌 원유 공급 불확실성을 높여 유가 상승 압력을 가하고, 중동 지역의 지정학적 리스크를 심화시킬 것입니다.",
-    "action_point": "유가 상승 압력에 대비하여 에너지 섹터 관련 투자 비중을 높이는 것을 고려하고, 인플레이션 헤지 전략을 검토하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "금·비트코인만 오르고 달러는 약세…베센트의 역설",
-    "title_ko": "금·비트코인만 오르고 달러는 약세…베센트의 역설",
-    "link": "https://www.mk.co.kr/news/economy/12133837",
-    "published": "Sat, 22 Aug 2026 17:27:07 +09:00",
-    "fetched_at": "2026-08-22 18:18:19",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "환율",
-      "채권",
-      "원자재",
-      "가상자산",
-      "금융"
-    ],
-    "keywords": [
-      "달러 약세",
-      "미국 재정적자",
-      "국가 부채",
-      "금",
-      "비트코인",
-      "미국 국채"
-    ],
-    "reason": "미국 정부의 장기물 재매입 시도에도 불구하고 재정적자 및 국가부채 문제가 해결되지 않아 달러 약세가 심화되고, 이에 대한 헤지로 금과 비트코인 가격이 급등하고 있다.",
-    "action_point": "미국 재정 건전성 우려에 따른 달러 약세에 대비, 금 및 비트코인 등 대체자산 포트폴리오 비중 확대 검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "달리오 \"美, '3±2'년내 부채위기…채권 줄이고 금·비트코인 늘려라\" - 연합인포맥스",
-    "title_ko": "달리오 \"美, '3±2'년내 부채위기…채권 줄이고 금·비트코인 늘려라\"",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5JWW9WeTQtTDhBT2pzdnNBUmlEMTRESnlsbUhvZmJSdjZha1FOX1FrMFE1b091T21WSW83aVhlY1RzYWpzQzczTmxyTm5pTzdMUkdYNDBCZzVFSzRydkhVQW1QaEdlbVE0VU9EWkFUVHI?oc=5",
-    "published": "Fri, 21 Aug 2026 20:09:00 GMT",
-    "fetched_at": "2026-08-22 17:18:52",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "채권시장",
-      "금",
-      "암호화폐",
-      "글로벌 금융시장"
-    ],
-    "keywords": [
-      "레이 달리오",
-      "미국 부채",
-      "자산 배분",
-      "인플레이션 헤지",
-      "경기 침체"
-    ],
-    "reason": "레이 달리오의 미국 부채 위기 경고는 장기적인 글로벌 금융 시스템 불안정성을 시사하며, 전통적인 안전자산인 채권의 매력 감소와 금, 비트코인 등 대체 자산의 중요성 부각으로 이어질 수 있습니다.",
-    "action_point": "미국 채권 비중 축소를 검토하고, 금 및 비트코인 등 대체 자산에 대한 투자 비중 확대를 고려하십시오."
   }
 ]
