@@ -2,6 +2,55 @@
   {
     "source": "GoogleNews_Korea",
     "market": "KR",
+    "title": "[속보]네팔 홍수로 남동발전·두산에너빌리티 직원 8명 연락두절 - 아시아경제",
+    "title_ko": "[속보]네팔 홍수로 남동발전·두산에너빌리티 직원 8명 연락두절 - 아시아경제",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9SeW5feE1rMWhaLUZCeHRxTjZLNU9RWXpMUjlmVUFkLW5Qc0xjNTNUWHZicXR5bXlWYy1wanhWcENCZ21pVi1jQ0ZpdzJTdF9YUDRVQVBUc0s1WnJleFZQYw?oc=5",
+    "published": "Wed, 26 Aug 2026 10:18:54 GMT",
+    "fetched_at": "2026-08-26 20:20:47",
+    "sentiment": "악재",
+    "importance": 2,
+    "sectors": [
+      "발전",
+      "중공업",
+      "건설"
+    ],
+    "keywords": [
+      "네팔 홍수",
+      "남동발전",
+      "두산에너빌리티",
+      "직원 실종",
+      "자연재해"
+    ],
+    "reason": "네팔 홍수로 한국 기업 직원들의 연락두절은 해당 기업(두산에너빌리티 등)에 단기적인 인명피해 및 프로젝트 지연 우려를 발생시키나, 국내외 금융시장 및 거시경제에 미치는 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "휴온스-휴온스랩 합병 결국 중단…주주 반발·주가 하락 고려",
+    "title_ko": "휴온스-휴온스랩 합병 결국 중단…주주 반발·주가 하락 고려",
+    "link": "https://www.mk.co.kr/news/it/12137156",
+    "published": "Wed, 26 Aug 2026 19:58:37 +09:00",
+    "fetched_at": "2026-08-26 20:20:56",
+    "sentiment": "악재",
+    "importance": 2,
+    "sectors": [
+      "제약",
+      "바이오"
+    ],
+    "keywords": [
+      "휴온스",
+      "휴온스랩",
+      "합병 중단",
+      "주주 반발",
+      "주가 하락"
+    ],
+    "reason": "휴온스-휴온스랩 합병 중단은 주주 반발과 주가 하락으로 인한 기업 가치 평가 및 지배구조에 대한 시장의 우려를 반영한다. 이는 해당 기업들의 단기 주가에 부정적 영향을 미칠 수 있으나, 국내 제약/바이오 섹터 전반에 미치는 파급 효과는 제한적이다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
     "title": "트럼프의 전방위 전쟁에 미국 소비 심리 '꽁꽁'...\"경기 침체 적신호\" - YTN",
     "title_ko": "트럼프의 전방위 전쟁에 미국 소비 심리 '꽁꽁'...'경기 침체 적신호'",
     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBnRVM1Tm1BbE5vZkxaQmFxZTRyMDhHTVJxNFNUSEZMb1R3Rnlya0R3UEdIbWl4YmJpbVgwSDJsRjR6RTNVUW5DRGZvMnlOemlvM3NHZDlqZzZjelpIR1E?oc=5",
@@ -2937,55 +2986,5 @@
     ],
     "reason": "알리바바의 대규모 주식 발행은 단기적으로 기존 주주 가치 희석 우려를 키우며 주가 하락 압력을 가하고 있습니다. 이는 AI 투자 확대라는 장기적 성장 전략에도 불구하고 시장이 단기적 유동성 이슈에 민감하게 반응하고 있음을 보여줍니다.",
     "action_point": "알리바바 주식 보유 비중 축소를 검토하고, AI 투자 명목의 대규모 주식 발행 가능성이 있는 기술주에 대한 신규 투자를 신중히 접근하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "‘프로야구 천만 관중 시대’ 속 경제 이야기 - KDI 경제교육·정보센터",
-    "title_ko": "프로야구 천만 관중 시대 속 경제 이야기",
-    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1XNmdwLVVQWU9iX2NhV1NGUVRvc2EzdWl4eVplN1JhaVhmV2ZFSVZQZ0ZUalI5NlotUlFoYUJablAyWko4Mm1xM0RQNmtaY3hpMjNnb0FGcW9wRVJPRmlNcjFrNTRqV2xlSlo2RlhDcjhCblpjZ2l1TFc5WQ?oc=5",
-    "published": "Mon, 24 Aug 2026 02:05:15 GMT",
-    "fetched_at": "2026-08-24 12:45:26",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "레저",
-      "엔터테인먼트",
-      "소비재"
-    ],
-    "keywords": [
-      "프로야구",
-      "관중",
-      "소비",
-      "레저",
-      "내수"
-    ],
-    "reason": "KDI의 프로야구 관중 증가 분석은 국내 레저 및 엔터테인먼트 산업의 견조한 성장세와 내수 소비 개선 추세를 시사한다. 이는 특정 소비재 및 서비스 섹터에 긍정적인 영향을 미칠 수 있다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Oil prices fall as investors await 'toughest' U.S. sanctions on Iran",
-    "title_ko": "유가 하락, 미 이란 초강력 제재 예고에 투자자 관망세",
-    "link": "https://www.cnbc.com/2026/08/24/oil-price-today-wti-brent-us-sanctions-iran.html",
-    "published": "Mon, 24 Aug 2026 00:59:57 GMT",
-    "fetched_at": "2026-08-24 11:18:01",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "항공",
-      "해운",
-      "화학"
-    ],
-    "keywords": [
-      "유가",
-      "이란 제재",
-      "지정학적 리스크",
-      "인플레이션"
-    ],
-    "reason": "미국의 이란 제재 예고로 유가가 하락하며 단기적으로 인플레이션 압력이 완화될 수 있으나, 중동의 지정학적 리스크는 장기적 유가 변동성을 확대시킬 수 있습니다.",
-    "action_point": "유가 하락 수혜 섹터(항공, 해운) 투자 기회를 모색하되, 중동 지정학적 리스크 확대로 인한 유가 반등 가능성에도 대비하라."
   }
 ]
