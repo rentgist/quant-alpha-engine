@@ -1,5 +1,78 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "미·캐나다 관세전쟁에 '빙긋' 웃는 나라 - v.daum.net",
+    "title_ko": "미·캐나다 관세전쟁에 '빙긋' 웃는 나라",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1IMVFkLVJtR1dSZmQ1Mmd2OHhkbDBIaS1BamlvS1pCOGZFTlozWlg2enpSc0thRnJNRlY0N29zSVpGTVdnSm84NzRJLUptcjA?oc=5",
+    "published": "Wed, 26 Aug 2026 07:36:00 GMT",
+    "fetched_at": "2026-08-26 17:32:23",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "제조업",
+      "수출입 관련 산업",
+      "원자재 관련 산업"
+    ],
+    "keywords": [
+      "관세전쟁",
+      "미국",
+      "캐나다",
+      "무역분쟁",
+      "글로벌 공급망"
+    ],
+    "reason": "미국과 캐나다 간 관세 분쟁은 해당 국가 간의 무역 흐름을 왜곡시키고 글로벌 공급망에 변화를 가져올 수 있습니다. 이는 특정 품목에서 제3국에 시장 점유율 확대 기회를 제공할 수 있습니다.",
+    "action_point": "미국-캐나다 간 관세 부과 품목을 확인하고, 해당 품목의 글로벌 공급망 재편 과정에서 경쟁 우위를 확보할 수 있는 한국 기업을 면밀히 분석하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "\"평화경제특구, 국내 특구 중 가장 강력한 지원 필요\" - 연합뉴스",
+    "title_ko": "평화경제특구, 국내 특구 중 가장 강력한 지원 필요",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAyeUZ0M1BPcVY5TzVWTFB1bW9uZzduRGJVNnhqS21lLWxoX2hRX2xDRklRQTliaEhJX2hqTlhIWUd3VlpBTDZQQTBGNGNPb282SVpaMDRkeVZick40R25PTNIBYEFVX3lxTFAyeUZ0M1BPcVY5TzVWTFB1bW9uZzduRGJVNnhqS21lLWxoX2hRX2xDRklRQTliaEhJX2hqTlhIWUd3VlpBTDZQQTBGNGNPb282SVpaMDRkeVZick40R25PTA?oc=5",
+    "published": "Wed, 26 Aug 2026 01:00:01 GMT",
+    "fetched_at": "2026-08-26 17:32:44",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "건설",
+      "부동산",
+      "인프라"
+    ],
+    "keywords": [
+      "평화경제특구",
+      "정부지원",
+      "지역개발",
+      "남북경협"
+    ],
+    "reason": "이 뉴스는 평화경제특구에 대한 강력한 정부 지원 필요성을 제기하며, 향후 정책 구체화 시 특정 지역의 부동산 가치 및 인프라 개발 관련 기업에 긍정적인 영향을 미칠 수 있음을 시사합니다. 그러나 아직 구체적인 정책 발표가 아니므로 광범위한 시장 영향은 제한적입니다.",
+    "action_point": "평화경제특구로 지정될 가능성이 있는 지역과 관련 인프라/건설 섹터 기업들에 대한 선제적 분석을 시작하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "공항 검색대서 대기 시간 줄어들까…항공업계, AI 도입에 연일 박차",
+    "title_ko": "공항 검색대서 대기 시간 줄어들까…항공업계, AI 도입에 연일 박차",
+    "link": "https://www.mk.co.kr/news/business/12136963",
+    "published": "Wed, 26 Aug 2026 17:29:15 +09:00",
+    "fetched_at": "2026-08-26 17:33:01",
+    "sentiment": "호재",
+    "importance": 2,
+    "sectors": [
+      "항공업",
+      "IT 서비스",
+      "소프트웨어"
+    ],
+    "keywords": [
+      "AI 도입",
+      "항공업 효율",
+      "공항 보안",
+      "수하물 관리"
+    ],
+    "reason": "항공업계의 AI 도입은 운영 효율성 증대와 고객 만족도 향상을 통해 장기적으로 항공사의 수익성 개선에 기여할 수 있습니다. 이는 관련 AI 솔루션 및 서비스 제공 기업에게 새로운 성장 동력을 제공합니다.",
+    "action_point": "항공업종 내 AI 기술 도입에 적극적인 기업 및 관련 AI 솔루션 제공 기업에 대한 투자 기회 모색."
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "Iran and Oman prepare Hormuz deal as U.S. holds back on secondary sanctions",
@@ -2908,79 +2981,5 @@
     ],
     "reason": "이 조치는 개인의 금융 서비스 이용 편의성을 증대시키고, 금융기관의 고객 정보 관리 효율성을 소폭 개선할 것입니다. 거시경제 지표나 전반적인 시장에는 유의미한 영향을 미치지 않습니다.",
     "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "What's bogging down the data center trade has nothing to do with demand",
-    "title_ko": "데이터 센터 거래를 방해하는 요인은 수요와 무관하다",
-    "link": "https://www.cnbc.com/2026/08/23/whats-bogging-down-the-data-center-trade-has-nothing-to-do-with-demand.html",
-    "published": "Sun, 23 Aug 2026 22:55:14 GMT",
-    "fetched_at": "2026-08-24 09:42:28",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "데이터 센터",
-      "반도체",
-      "클라우드 컴퓨팅",
-      "기술 인프라"
-    ],
-    "keywords": [
-      "데이터 센터",
-      "미국 기술 패권",
-      "정책 리스크",
-      "선거"
-    ],
-    "reason": "미국 데이터 센터 성장의 발목을 잡는 요인이 수요가 아닌 정책/지정학적 요인임을 시사하며, 미 대선에 따른 정책 불확실성이 관련 기술 기업에 하방 압력으로 작용할 수 있습니다. 이는 미국 기술 패권 유지의 어려움을 나타냅니다.",
-    "action_point": "미국 데이터 센터 및 핵심 기술 인프라 관련 기업 투자 시 대선발 정책 리스크에 대비해 포트폴리오 비중을 재검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "트럼프 측근 \"김정은보다 李 먼저 만나야…서울 방문하라\" - 주간조선",
-    "title_ko": "트럼프 측근 \"김정은보다 李 먼저 만나야…서울 방문하라\" - 주간조선",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HaElSU2EtMTlwRFl1N04yMGhIS2ZWVWpBTTJnZWZ6X3ExalFBTmNCNDYwMmEwWFZmQWg1ckVLWUVJSGl1X0NibVJIQnZsWWp2bUhMTzJOUG02Rm1IOGpiLTdkMTZUb0FCNHc?oc=5",
-    "published": "Sun, 23 Aug 2026 23:30:00 GMT",
-    "fetched_at": "2026-08-24 09:42:45",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "방산",
-      "남북경협"
-    ],
-    "keywords": [
-      "트럼프",
-      "한미관계",
-      "북미관계",
-      "이재명",
-      "외교"
-    ],
-    "reason": "트럼프 측근의 발언은 차기 미국 행정부의 한반도 외교 정책 방향에 대한 잠재적 변화를 시사하며, 남북 관계 및 한미 동맹의 미래에 불확실성을 더한다.",
-    "action_point": "트럼프 재집권 시 한반도 정책 변화 가능성에 대비하여 방산 및 남북경협 관련 테마주 비중 조정 검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "‘보험’까지 품는 한국투자금융…미래에셋과 ‘종합금융 전쟁’ 불붙는다 - 시사저널",
-    "title_ko": "'보험'까지 품는 한국투자금융…미래에셋과 '종합금융 전쟁' 불붙는다",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1XN0R3QllKWWE5RUpUaENSM0U2OGRFQkFxS2ZxV1VHQlFRYUdKNHlYUzRibjhtaFpnVDVDWERITE5XX0NmTGE0bE50RkNhZnVZdmRza2ZpeVdpVElHWnlkTUdMVjNlNXpXZ0xmbWFTONIBc0FVX3lxTE9aZmFYendFTDVRSlFGV1Y3OGxLTEdPZHBFbFBidmxEeHdzWTBUeXRqcDFmWjZuNVNGR2xpQ2xuYVZxaXlPelRoOTRUYWxDcl9qMkdoQnAtN25OWm9UdTM1SXNxUG94c0NfT0d3c3VKaFVpXzg?oc=5",
-    "published": "Mon, 24 Aug 2026 00:00:00 GMT",
-    "fetched_at": "2026-08-24 09:42:58",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "금융",
-      "증권",
-      "보험"
-    ],
-    "keywords": [
-      "한국투자금융",
-      "미래에셋",
-      "종합금융",
-      "보험업",
-      "경쟁심화"
-    ],
-    "reason": "한국투자금융의 보험업 진출과 미래에셋과의 경쟁 심화는 국내 금융권의 지각변동을 가속화하며, 특히 증권 및 보험업계의 수익성 경쟁을 심화시킬 수 있다. 이는 장기적인 효율성 증대 가능성에도 불구하고 단기적으로는 해당 기업들의 마진 압박 요인으로 작용할 수 있다.",
-    "action_point": "국내 증권 및 보험 섹터 내 경쟁 심화에 따른 잠재적 이익률 하락 가능성을 감안, 관련주 비중 축소 검토"
   }
 ]
