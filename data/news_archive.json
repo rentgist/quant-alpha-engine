@@ -1,5 +1,52 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Mortgage rates hit highest level in 3 weeks, weakening demand further",
+    "title_ko": "모기지 금리 3주 만에 최고치 기록, 수요 추가 약화",
+    "link": "https://www.cnbc.com/2026/08/26/mortgage-rates-hit-highest-level-in-3-weeks-weakening-demand-further.html",
+    "published": "Wed, 26 Aug 2026 11:33:07 GMT",
+    "fetched_at": "2026-08-26 21:31:53",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "부동산",
+      "건설",
+      "은행/금융",
+      "소비재"
+    ],
+    "keywords": [
+      "모기지 금리",
+      "주택 시장",
+      "수요 위축",
+      "금리 인상 영향"
+    ],
+    "reason": "미국 모기지 금리 상승은 주택 구매 및 재융자 수요를 위축시켜 부동산 시장 둔화를 심화시킬 것입니다. 이는 가계 소비 여력 감소로 이어져 전반적인 경제 성장에도 부정적 영향을 미칠 수 있습니다.",
+    "action_point": "미국 주택 시장 익스포저가 높은 소비재 및 금융 섹터 투자 비중 축소를 검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "러·우크라, 대규모 전쟁 포로 교환 추진…\"명단 협의 중\" - 연합뉴스TV",
+    "title_ko": "러·우크라, 대규모 전쟁 포로 교환 추진…\"명단 협의 중\"",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE82S2FSMnM5Nkk3VGR2OU5YRE9ybDR0alpWcF9ubGN6OXhzNFYwVUE3SzJKbjFNaTh3WC1TWTdnaW1DemtYdWZvYjRYdThmaGpVeVJ1cEpPVElMUFlDX2t4MkMxbXprQ28?oc=5",
+    "published": "Wed, 26 Aug 2026 10:50:00 GMT",
+    "fetched_at": "2026-08-26 21:32:01",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "지정학"
+    ],
+    "keywords": [
+      "러시아",
+      "우크라이나",
+      "전쟁 포로",
+      "지정학적 리스크"
+    ],
+    "reason": "대규모 포로 교환 추진은 러시아-우크라이나 전쟁에서 미미한 수준의 긴장 완화 신호로 해석될 수 있으나, 전반적인 전쟁 상황이나 지정학적 리스크의 본질을 변화시키는 수준은 아니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "GoogleNews_Korea",
     "market": "KR",
     "title": "[속보]네팔 홍수로 남동발전·두산에너빌리티 직원 8명 연락두절 - 아시아경제",
@@ -2936,55 +2983,5 @@
     ],
     "reason": "다우지수의 2주 연속 하락과 주가지수 선물 하락은 전반적인 시장 심리 약화를 나타내며, 단기 주식 시장의 추가적인 하방 압력을 시사합니다.",
     "action_point": "주식 시장의 단기적인 추가 하락 가능성에 대비하여 방어적 포트폴리오로 재조정 검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[속보] 원/달러 환율 1370원대로 하락 - JTBC",
-    "title_ko": "[속보] 원/달러 환율 1370원대로 하락",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92b25HQzlqTGQzajFOM2JQdWZ3dG1wVjZNR3pDSTcwSDBWM3BNLU5qZ205UXVpM3FUS3dDUzU2aEdVZVlXQWwzMXhnRnpuV1VkRExudg?oc=5",
-    "published": "Mon, 24 Aug 2026 02:13:00 GMT",
-    "fetched_at": "2026-08-24 12:45:15",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "수출주",
-      "수입주",
-      "항공",
-      "유통"
-    ],
-    "keywords": [
-      "원/달러 환율",
-      "환율 하락",
-      "원화 강세"
-    ],
-    "reason": "원/달러 환율 하락은 원화 강세 전환으로, 수입 물가 안정에 긍정적이며 전반적인 인플레이션 압력을 완화할 수 있습니다. 다만 수출 기업의 가격 경쟁력 및 수익성에는 부정적인 영향을 미칩니다.",
-    "action_point": "환율 하락에 따른 수출주 비중 축소와 수입 비용 절감 효과가 예상되는 내수·수입 관련주에 대한 관심 확대."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Alibaba plunges after announcing $10.2 billion share placement to fund AI push",
-    "title_ko": "알리바바, AI 투자 자금 조달 위해 102억 달러 주식 발행 발표 후 급락",
-    "link": "https://www.cnbc.com/2026/08/24/alibaba-share-placement-drop-ai-hong-kong.html",
-    "published": "Mon, 24 Aug 2026 02:55:22 GMT",
-    "fetched_at": "2026-08-24 12:45:07",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "기술",
-      "전자상거래",
-      "AI",
-      "중국 기술주"
-    ],
-    "keywords": [
-      "알리바바",
-      "주식 발행",
-      "AI 투자",
-      "주가 급락",
-      "자금 조달"
-    ],
-    "reason": "알리바바의 대규모 주식 발행은 단기적으로 기존 주주 가치 희석 우려를 키우며 주가 하락 압력을 가하고 있습니다. 이는 AI 투자 확대라는 장기적 성장 전략에도 불구하고 시장이 단기적 유동성 이슈에 민감하게 반응하고 있음을 보여줍니다.",
-    "action_point": "알리바바 주식 보유 비중 축소를 검토하고, AI 투자 명목의 대규모 주식 발행 가능성이 있는 기술주에 대한 신규 투자를 신중히 접근하라."
   }
 ]
