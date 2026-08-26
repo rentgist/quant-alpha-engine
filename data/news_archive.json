@@ -1,5 +1,82 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "트럼프, CIA국장 러시아 방문에 “성과 나올 수도”…‘두 전쟁’ 종식론 주장 - v.daum.net",
+    "title_ko": "트럼프, CIA국장 러시아 방문에 “성과 나올 수도”…‘두 전쟁’ 종식론 주장",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAtQkhOSXdhVzBrazV6bXlvc18ycFpCRE9rbndCQ1RHQlpoOXRwb3R5WDZoR1Q2MWhVb0V2SE5XNlZEbkh6Vy1QaGMzZlVyekk?oc=5",
+    "published": "Wed, 26 Aug 2026 15:17:07 GMT",
+    "fetched_at": "2026-08-27 03:51:11",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "방산",
+      "에너지",
+      "항공",
+      "여행",
+      "기술"
+    ],
+    "keywords": [
+      "트럼프",
+      "러시아",
+      "전쟁 종식",
+      "지정학적 위험",
+      "평화 협상"
+    ],
+    "reason": "트럼프의 발언은 주요 전쟁의 종식 가능성을 시사하며, 이는 글로벌 지정학적 위험 완화 및 불확실성 감소로 이어져 전반적인 투자 심리에 긍정적 영향을 줄 수 있다.",
+    "action_point": "지정학적 위험 완화 기대감으로 방산 섹터 비중 축소를 검토하고, 에너지 가격 안정 및 글로벌 경기 회복 수혜주(항공, 여행 등)에 대한 투자를 고려하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "SpaceX is 'attractively valued' after $100 billion Louisiana spaceport plan, Morgan Stanley says",
+    "title_ko": "모건스탠리, 1,000억 달러 규모 루이지애나 우주항 계획 발표 후 스페이스X '매력적 가치' 평가",
+    "link": "https://www.cnbc.com/2026/08/26/spacex-is-attractively-valued-after-100-billion-louisiana-spaceport-plan-morgan-stanley-says.html",
+    "published": "Wed, 26 Aug 2026 15:33:31 GMT",
+    "fetched_at": "2026-08-27 03:51:00",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "우주항공",
+      "방위산업",
+      "통신"
+    ],
+    "keywords": [
+      "스페이스X",
+      "우주항공",
+      "투자",
+      "모건스탠리",
+      "루이지애나"
+    ],
+    "reason": "스페이스X의 대규모 우주항 투자는 우주항공 산업의 장기적인 성장 잠재력을 부각시키며, 관련 기술 및 인프라 기업들의 가치를 재평가할 기회를 제공합니다.",
+    "action_point": "우주항공 및 위성 통신 관련 상장 기업 투자 기회 모색"
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "“발전소에서 산지직송 합니다”…LS일렉·효성중공업 새 먹거리라는데",
+    "title_ko": "“발전소에서 산지직송 합니다”…LS일렉·효성중공업 새 먹거리라는데",
+    "link": "https://www.mk.co.kr/news/business/12137285",
+    "published": "Wed, 26 Aug 2026 23:02:18 +09:00",
+    "fetched_at": "2026-08-27 03:51:24",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "전력설비",
+      "중전기"
+    ],
+    "keywords": [
+      "HVDC",
+      "전력설비",
+      "AI 전력수요",
+      "북미 전력망",
+      "LS일렉트릭",
+      "효성중공업"
+    ],
+    "reason": "북미 전력망 현대화 및 인공지능(AI)발 전력 수요 급증으로 HVDC를 포함한 전력설비 시장이 급성장할 것이며, 이는 관련 국내 기업들에게 긍정적인 실적 모멘텀으로 작용할 것입니다.",
+    "action_point": "전력설비 및 중전기 섹터 기업들의 투자 매력도를 재평가하고, 관련 기업 비중 확대를 검토하라."
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "Nvidia earnings live updates: Q2 results, memory prices and AI outlook",
@@ -2924,78 +3001,5 @@
     ],
     "reason": "정부의 200조원 규모 미래대응기금 추진을 두고 여야가 격돌하며 국내 재정정책 방향에 대한 불확실성이 커지고 있다. 이는 향후 국가 재정 건전성 및 정부 지출 우선순위에 대한 논의를 촉발할 것이다.",
     "action_point": "국내 장기물 국채 및 재정 정책 민감 자산의 포트폴리오 위험을 점검하고 변동성 확대에 대비하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Shein targets $27 billion Hong Kong IPO — a fraction of its 2022 valuation",
-    "title_ko": "쉬인, 2022년 평가액의 일부에 불과한 270억 달러 규모 홍콩 IPO 추진",
-    "link": "https://www.cnbc.com/2026/08/24/shein-ipo-valuation-hong-kong.html",
-    "published": "Mon, 24 Aug 2026 07:34:17 GMT",
-    "fetched_at": "2026-08-24 16:50:28",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "전자상거래",
-      "소비재(패션)",
-      "사모펀드/벤처캐피탈"
-    ],
-    "keywords": [
-      "Shein",
-      "IPO",
-      "홍콩증시",
-      "밸류에이션",
-      "전자상거래",
-      "패스트패션"
-    ],
-    "reason": "쉬인 IPO는 사모시장의 기술주 밸류에이션 조정 흐름을 보여주며, 글로벌 전자상거래 및 패션 산업의 투자 심리에 영향을 줄 수 있습니다.",
-    "action_point": "유니콘 기업 투자 비중 및 성장주 밸류에이션을 재점검하십시오."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Singapore inflation hits highest in nearly two years, but undershoots expectations",
-    "title_ko": "싱가포르 인플레이션, 거의 2년 만에 최고치 기록했으나 예상치 하회",
-    "link": "https://www.cnbc.com/2026/08/24/singapore-inflation-budget-iran-war.html",
-    "published": "Mon, 24 Aug 2026 05:24:43 GMT",
-    "fetched_at": "2026-08-24 16:50:45",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "부동산",
-      "성장주"
-    ],
-    "keywords": [
-      "싱가포르",
-      "인플레이션",
-      "물가지수",
-      "예상치 하회",
-      "통화정책"
-    ],
-    "reason": "싱가포르 물가지표가 예상치를 하회하며 동남아시아 지역의 통화 긴축 우려를 다소 완화시켜, 전반적인 아시아 시장 투자 심리에 긍정적 영향을 줄 수 있습니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "권창영 특검 \"내란세력과 전쟁 이제 시작…특수본 설치해 수사 이어가야\" - JTBC뉴스",
-    "title_ko": "권창영 특검 \"내란세력과 전쟁 이제 시작…특수본 설치해 수사 이어가야\" - JTBC뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9hcURlZmtxckNuOTJxdlN0T0poTmFXOEZvTUhOYTVYZzUyUlZJZ2R6ZW5WRjFoUVJLU0oySlpZbDd1MUNrME9ZLWdVYXM2dkJJUHpTTg?oc=5",
-    "published": "Mon, 24 Aug 2026 02:20:00 GMT",
-    "fetched_at": "2026-08-24 16:51:41",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "국내 주식 시장",
-      "한국 경제 전반"
-    ],
-    "keywords": [
-      "권창영 특검",
-      "내란세력",
-      "국내 정치",
-      "정치적 불확실성"
-    ],
-    "reason": "권창영 특검의 '내란세력과 전쟁 시작' 발언은 국내 정치적 긴장과 불확실성을 크게 높여 국내 자산에 대한 투자심리를 위축시키고 잠재적 정책 리스크를 부각시킬 수 있습니다.",
-    "action_point": "국내 정치적 불확실성 확산에 대비하여 국내 주식 비중 축소 및 달러 등 안전자산 비중 확대 검토."
   }
 ]
