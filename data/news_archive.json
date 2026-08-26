@@ -2,6 +2,81 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "Trump's Saudi nuclear deal reaches Congress as experts warn of proliferation risk",
+    "title_ko": "트럼프 행정부의 사우디 핵 협상 의회 제출, 전문가들은 확산 위험 경고",
+    "link": "https://www.cnbc.com/2026/08/26/trump-saudi-nuclear-agreement-congress-iran-deal-.html",
+    "published": "Wed, 26 Aug 2026 02:34:28 GMT",
+    "fetched_at": "2026-08-26 12:45:19",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "국방"
+    ],
+    "keywords": [
+      "트럼프",
+      "사우디",
+      "핵 협상",
+      "확산 위험",
+      "지정학"
+    ],
+    "reason": "트럼프 행정부의 사우디 핵 협상 추진은 중동 지역의 지정학적 긴장을 고조시키고 핵 확산 우려를 키워, 국제 유가 변동성 확대 및 위험 회피 심리 강화를 야기할 수 있다.",
+    "action_point": "중동 지정학적 위험 고조에 대비하여 에너지 섹터 및 안전자산(예: 금, 달러) 비중을 점검하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Oil falls on easing concerns of renewed tensions as the U.S. pivots to economic pressure on Iran",
+    "title_ko": "미국이 이란에 대한 경제적 압박으로 전환함에 따라 긴장 고조 우려 완화로 유가 하락",
+    "link": "https://www.cnbc.com/2026/08/26/oil-falls-as-the-us-pivots-to-economic-pressure-on-iran-.html",
+    "published": "Wed, 26 Aug 2026 01:29:20 GMT",
+    "fetched_at": "2026-08-26 12:45:27",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "항공",
+      "해운",
+      "화학",
+      "제조업"
+    ],
+    "keywords": [
+      "유가",
+      "미국-이란",
+      "지정학적 리스크",
+      "경제 제재",
+      "원자재"
+    ],
+    "reason": "미국과 이란 간 군사적 충돌 우려가 완화되고 경제 제재로 전환되면서 국제 유가가 하락했다. 이는 에너지 비용 부담을 줄여 글로벌 인플레이션 압력을 완화하고 전반적인 경제 활동에 긍정적으로 작용할 수 있다.",
+    "action_point": "유가 하락에 따른 비용 절감 효과가 큰 항공, 해운, 화학 섹터의 투자 매력을 재평가하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[이슈&인사이트] 플랫폼 경제와 개인정보 보호 규제 - 에너지경제신문",
+    "title_ko": "[이슈&인사이트] 플랫폼 경제와 개인정보 보호 규제 - 에너지경제신문",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9sN0tib0k2cWVnM3A3NGMzY1h2d00yMXhuc1ViY2U3enNMMU9QYmUyZ1FEcXBzX2hhQzdkWWNPeXpnOFZwaVBxZ3Zwc24xcmNWVklIcUYtU1pyLTJzV3BvWXZrOA?oc=5",
+    "published": "Wed, 26 Aug 2026 02:00:00 GMT",
+    "fetched_at": "2026-08-26 12:45:42",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "플랫폼",
+      "IT 서비스",
+      "전자상거래",
+      "핀테크"
+    ],
+    "keywords": [
+      "플랫폼 경제",
+      "개인정보 보호",
+      "규제",
+      "데이터"
+    ],
+    "reason": "플랫폼 경제 및 개인정보 보호 규제 논의는 플랫폼 기업의 데이터 활용 및 사업 확장에 제약을 가하고 추가적인 규제 준수 비용을 발생시켜 해당 기업들의 성장 잠재력에 부정적인 영향을 미칠 수 있습니다. 이는 장기적으로 플랫폼 섹터의 밸류에이션에 부담으로 작용할 수 있는 잠재적 악재입니다.",
+    "action_point": "플랫폼 관련 종목 투자 시 강화되는 규제 환경과 잠재적 리스크 요인에 대한 분석을 강화하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "CNBC Daily Open: The U.S. is flexing its economic power — drawing retaliation",
     "title_ko": "CNBC 데일리 오픈: 미국이 경제력을 과시하며 보복을 촉발하다",
     "link": "https://www.cnbc.com/2026/08/26/cnbc-daily-open-canada-trade-us-iran-strait-of-hormuz.html",
@@ -2912,76 +2987,5 @@
     ],
     "reason": "유나이티드 항공 CEO의 장기 전략 구상으로, 잠재적 M&A와 AI 도입 계획을 논의한다. 이는 개별 항공사의 미래 비전에 대한 내용으로, 거시 경제나 광범위한 투자 자산에 직접적인 영향을 주지는 않는다.",
     "action_point": "해당 없음"
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "고유가 지원금 950억원 미사용…“31일까지 안 쓰면 소멸”",
-    "title_ko": "고유가 지원금 950억원 미사용…“31일까지 안 쓰면 소멸”",
-    "link": "https://www.mk.co.kr/news/economy/12134287",
-    "published": "Sun, 23 Aug 2026 21:03:48 +09:00",
-    "fetched_at": "2026-08-24 03:15:50",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [],
-    "keywords": [
-      "고유가 지원금",
-      "정부 정책",
-      "소비 지출"
-    ],
-    "reason": "미사용 고유가 지원금의 소멸은 계획된 소규모 소비 진작 효과가 제한됨을 의미하나, 전체 거시경제 및 자산 시장에 미치는 영향은 극히 미미하다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "푸틴 \"러 경제 파괴하려는 우크라, 판도라의 상자 열었다\" - MBC 뉴스",
-    "title_ko": "푸틴 \"러 경제 파괴하려는 우크라, 판도라의 상자 열었다\"",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wTDY5eFVodmNEb05KWlVkMTlxN19vYjFobVFkSEtySENrTmszdVBUZFdpNW9UeUhHOUdDYXliNVNPQTlCZ2N1Ujg1Mkw1bFdHTVlrS1BGS1RCcFhieVd2OHB0c3U4R0piTWFGSVF2UnBFb1lE0gF0QVVfeXFMTXZqMDZralpqOWFWXzEwTnlpLWR2Q2RWU0hfN3Z0N25UQ2paQ3V3aWFQUTMwWkZUVU00QzdpZjR3Yjk2eEJNeG43cXl1dnp4UE5hZVFEVzA0eHdzRUZacm4xak9aVzRYVFlPZFdXUmExc2toTDU?oc=5",
-    "published": "Sun, 23 Aug 2026 14:19:56 GMT",
-    "fetched_at": "2026-08-24 02:12:45",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "에너지",
-      "방산",
-      "원자재",
-      "해운"
-    ],
-    "keywords": [
-      "푸틴",
-      "러시아-우크라이나 전쟁",
-      "지정학적 리스크",
-      "경제 제재",
-      "에너지"
-    ],
-    "reason": "푸틴의 발언은 러시아-우크라이나 전쟁의 경제적 보복 및 장기화 가능성을 시사하며, 지정학적 리스크를 고조시켜 글로벌 에너지/원자재 가격 상승 압력과 시장 변동성 확대를 야기할 수 있다.",
-    "action_point": "방산 및 에너지 섹터 투자 비중 확대를 검토하고, 원자재 가격 상승에 대비하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "“美 채권금리 발작, 말은 못해도 고맙죠”…보험사 표정관리 왜",
-    "title_ko": "“美 채권금리 발작, 말은 못해도 고맙죠”…보험사 표정관리 왜",
-    "link": "https://www.mk.co.kr/news/economy/12134299",
-    "published": "Sun, 23 Aug 2026 22:24:34 +09:00",
-    "fetched_at": "2026-08-24 02:12:57",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "보험",
-      "금융",
-      "주식",
-      "부동산"
-    ],
-    "keywords": [
-      "미국 채권금리",
-      "장기 금리",
-      "보험사",
-      "고금리",
-      "재투자"
-    ],
-    "reason": "미국 장기채 금리 급등은 글로벌 자본 조달 비용을 높여 주식 및 부동산 등 위험 자산의 밸류에이션에 부담을 주지만, 국내 보험사에는 만기 도래 자산의 재투자 수익률을 개선하는 긍정적 측면도 있습니다.",
-    "action_point": "고금리 장기화 가능성에 대비하여 주식 포트폴리오 내 성장주 비중을 축소하고 국내 보험 섹터의 투자 매력을 재평가하라."
   }
 ]
