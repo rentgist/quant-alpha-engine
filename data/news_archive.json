@@ -2,6 +2,59 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "Nvidia earnings live updates: Q2 results, memory prices and AI outlook",
+    "title_ko": "엔비디아 실적 실시간 업데이트: 2분기 결과, 메모리 가격 및 AI 전망",
+    "link": "https://www.cnbc.com/2026/08/26/nvidia-nvda-earnings-report-q2-2027-live-updates.html",
+    "published": "Wed, 26 Aug 2026 16:05:42 GMT",
+    "fetched_at": "2026-08-27 01:10:34",
+    "sentiment": "중립",
+    "importance": 5,
+    "sectors": [
+      "반도체",
+      "기술",
+      "인공지능",
+      "데이터 센터"
+    ],
+    "keywords": [
+      "엔비디아",
+      "AI",
+      "반도체",
+      "실적",
+      "데이터 센터"
+    ],
+    "reason": "엔비디아의 실적 발표는 글로벌 AI 및 반도체 산업의 현재 수요와 미래 전망을 가늠하는 핵심 지표이며, 전반적인 기술 시장 심리에 즉각적이고 큰 영향을 미친다.",
+    "action_point": "엔비디아 실적 발표 내용에 따라 AI 및 반도체 섹터 투자 비중을 즉각 조정할지 검토."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Fed, NASA and DOJ among victims of Chinese state-sponsored hacker group: Court documents",
+    "title_ko": "연방준비제도(Fed), NASA, 법무부(DOJ) 등 중국 국가 지원 해커 그룹의 공격 대상에 포함: 법원 문서",
+    "link": "https://www.cnbc.com/2026/08/26/china-hacker-federal-reserve-doj-nasa.html",
+    "published": "Wed, 26 Aug 2026 16:02:47 GMT",
+    "fetched_at": "2026-08-27 01:10:43",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "사이버 보안",
+      "방위 산업",
+      "IT 서비스",
+      "금융"
+    ],
+    "keywords": [
+      "사이버 공격",
+      "중국",
+      "미국 정부",
+      "해킹",
+      "지정학적 리스크",
+      "사이버 안보"
+    ],
+    "reason": "이 뉴스는 미국 핵심 기관 및 인프라에 대한 국가 지원 사이버 공격 위협을 부각하며 지정학적 긴장과 사이버 안보 리스크를 고조시킵니다. 이는 관련 기업의 투자 확대와 함께 전반적인 시장 불확실성을 증대시킬 수 있습니다.",
+    "action_point": "사이버 보안 및 방위 산업 관련주 비중 확대 검토"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "Fed’s preferred inflation gauge shows core prices rose 3.3% annually in July",
     "title_ko": "연준 선호 물가지표, 7월 근원 PCE 전년 대비 3.3% 상승",
     "link": "https://www.cnbc.com/2026/08/26/feds-preferred-inflation-gauge-shows-core-prices-rose-3point3percent-annually-in-july.html",
@@ -2944,52 +2997,5 @@
     ],
     "reason": "권창영 특검의 '내란세력과 전쟁 시작' 발언은 국내 정치적 긴장과 불확실성을 크게 높여 국내 자산에 대한 투자심리를 위축시키고 잠재적 정책 리스크를 부각시킬 수 있습니다.",
     "action_point": "국내 정치적 불확실성 확산에 대비하여 국내 주식 비중 축소 및 달러 등 안전자산 비중 확대 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Fund manager lists four of his best-value unloved stocks to swerve the AI hype",
-    "title_ko": "AI 과열 피할 저평가 종목 4가지 - 한 펀드매니저가 제시",
-    "link": "https://www.cnbc.com/2026/08/24/fund-manager-unloved-stocks-ai-hype.html",
-    "published": "Mon, 24 Aug 2026 05:00:01 GMT",
-    "fetched_at": "2026-08-24 16:50:52",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "소비재",
-      "기술 (비AI)",
-      "산업재"
-    ],
-    "keywords": [
-      "가치주",
-      "AI 버블",
-      "저평가",
-      "포트폴리오 다각화"
-    ],
-    "reason": "이 뉴스는 AI 관련주 과열에 대한 경계심을 표명하며, 저평가된 비AI 섹터 가치주로의 투자 다각화를 제안하는 투자 전략입니다. 특정 자산군의 직접적인 변화보다는 투자 심리와 자금 흐름에 대한 새로운 관점을 제시합니다.",
-    "action_point": "AI 관련 고평가 종목 비중을 점검하고, 저평가된 비AI 섹터 가치주 발굴을 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "靑, 지지율 하락에 \"국민 삶 최우선…민생·경제 실질 성과에 최선\" - 연합인포맥스",
-    "title_ko": "靑, 지지율 하락에 \"국민 삶 최우선…민생·경제 실질 성과에 최선\"",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Ga1EzTjhKdzFnRWpoODNOOHZaUmtwdWVRcW9jNUtfNWFyWjdCTU5mTmNIeF9RNkJ2MjdKUjJZamR2akp0Ul9ZQjNYLWxVa1VtTFM1bGxHWHBVUGdWN3k2UkFLNU1iVUVCQXFXVTR5T3A?oc=5",
-    "published": "Mon, 24 Aug 2026 07:26:07 GMT",
-    "fetched_at": "2026-08-24 16:51:29",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "내수 관련주",
-      "정책 수혜주"
-    ],
-    "keywords": [
-      "지지율 하락",
-      "민생 경제",
-      "정책 방향",
-      "내수 부양"
-    ],
-    "reason": "대통령실이 지지율 하락에 대응하여 민생과 경제 성과를 강조한 것은 향후 정책 초점이 내수 활성화 및 민생 안정에 맞춰질 가능성을 시사합니다. 아직 구체적인 정책 발표가 아니기에 시장에 직접적인 영향은 제한적입니다.",
-    "action_point": "해당 없음"
   }
 ]
