@@ -2,6 +2,59 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "Fed’s preferred inflation gauge shows core prices rose 3.3% annually in July",
+    "title_ko": "연준 선호 물가지표, 7월 근원 PCE 전년 대비 3.3% 상승",
+    "link": "https://www.cnbc.com/2026/08/26/feds-preferred-inflation-gauge-shows-core-prices-rose-3point3percent-annually-in-july.html",
+    "published": "Wed, 26 Aug 2026 13:35:50 GMT",
+    "fetched_at": "2026-08-26 23:35:21",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "기술주",
+      "성장주",
+      "부동산",
+      "금융"
+    ],
+    "keywords": [
+      "PCE",
+      "인플레이션",
+      "연준",
+      "금리",
+      "물가 지표",
+      "근원 물가"
+    ],
+    "reason": "연준의 선호 물가지표인 근원 PCE가 시장 예상치(3.6%)보다 낮은 3.3%를 기록하며 인플레이션 압력 완화 가능성을 시사합니다. 이는 연준의 추가적인 공격적 금리 인상 가능성을 낮춰 위험 자산에 긍정적으로 작용할 수 있습니다.",
+    "action_point": "금리 인상 완화 기조를 반영하여 미국 주식 시장의 성장주 및 금리 민감 섹터 투자 비중 확대를 검토하십시오."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "박현주 \"고객 디지털자산 150조 시대 열 것\"",
+    "title_ko": "박현주 \"고객 디지털자산 150조 시대 열 것\"",
+    "link": "https://www.mk.co.kr/news/stock/12137284",
+    "published": "Wed, 26 Aug 2026 23:02:15 +09:00",
+    "fetched_at": "2026-08-26 23:35:36",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "금융",
+      "핀테크",
+      "블록체인",
+      "자산운용"
+    ],
+    "keywords": [
+      "박현주",
+      "미래에셋",
+      "디지털 자산",
+      "자산운용",
+      "블록체인"
+    ],
+    "reason": "미래에셋그룹의 대규모 디지털 자산 시장 진출 선언은 국내 금융 산업의 새로운 성장 동력을 제시하며, 디지털 자산의 제도권 편입 및 시장 활성화에 긍정적 영향을 미칠 것입니다.",
+    "action_point": "디지털 자산 및 관련 금융·기술 섹터 투자 비중 확대를 검토."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "OpenAI’s Jalapeño AI chip brings new 'threat' to Nvidia margins as custom silicon gains ground",
     "title_ko": "OpenAI의 할라페뇨 AI 칩, 맞춤형 반도체 부상하며 엔비디아 마진에 새로운 '위협' 가시화",
     "link": "https://www.cnbc.com/2026/08/26/openai-jalapeno-ai-chip-nvidia.html",
@@ -2938,55 +2991,5 @@
     ],
     "reason": "대통령실이 지지율 하락에 대응하여 민생과 경제 성과를 강조한 것은 향후 정책 초점이 내수 활성화 및 민생 안정에 맞춰질 가능성을 시사합니다. 아직 구체적인 정책 발표가 아니기에 시장에 직접적인 영향은 제한적입니다.",
     "action_point": "해당 없음"
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "강원도 제2기 미래산업글로벌도시 종합계획심의회 본격 활동",
-    "title_ko": "강원도 제2기 미래산업글로벌도시 종합계획심의회 본격 활동",
-    "link": "https://www.mk.co.kr/news/society/12134957",
-    "published": "Mon, 24 Aug 2026 16:40:30 +09:00",
-    "fetched_at": "2026-08-24 16:52:37",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "지역개발",
-      "건설"
-    ],
-    "keywords": [
-      "강원도",
-      "미래산업",
-      "지역개발",
-      "종합계획"
-    ],
-    "reason": "강원도의 장기 지역 발전 전략이 본격화되는 신호이나, 전국 단위 거시경제 및 주요 투자자산에 미치는 직접적 영향은 제한적입니다. 구체적인 산업 및 기업 관련 계획 발표가 추후 중요합니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "CNBC Daily Open: The cost of AI, trade showdown and Iran's 'economic D-day'",
-    "title_ko": "CNBC 데일리 오픈: AI 비용, 무역 분쟁, 그리고 이란의 '경제적 D-데이'",
-    "link": "https://www.cnbc.com/2026/08/24/cnbc-daily-open-ai-iran-economic-d-day.html",
-    "published": "Mon, 24 Aug 2026 06:00:37 GMT",
-    "fetched_at": "2026-08-24 15:37:08",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "기술",
-      "반도체",
-      "에너지",
-      "방산",
-      "운송/물류"
-    ],
-    "keywords": [
-      "AI 비용",
-      "지정학적 긴장",
-      "무역 분쟁",
-      "이란",
-      "시장 변동성"
-    ],
-    "reason": "AI 투자 증가는 기술주에 긍정적이나 비용 부담 우려를 동반하며, 지정학적 긴장 및 무역 분쟁은 에너지 섹터와 전반적인 시장 불확실성을 증폭시켜 투자심리를 위축시킬 수 있습니다.",
-    "action_point": "지정학적 긴장 및 무역 분쟁 심화 가능성에 대비해 위험 자산 비중을 축소하고 에너지 섹터 변동성에 주목하십시오."
   }
 ]
