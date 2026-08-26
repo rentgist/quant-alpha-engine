@@ -2,6 +2,80 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "OpenAI’s Jalapeño AI chip brings new 'threat' to Nvidia margins as custom silicon gains ground",
+    "title_ko": "OpenAI의 할라페뇨 AI 칩, 맞춤형 반도체 부상하며 엔비디아 마진에 새로운 '위협' 가시화",
+    "link": "https://www.cnbc.com/2026/08/26/openai-jalapeno-ai-chip-nvidia.html",
+    "published": "Wed, 26 Aug 2026 13:27:35 GMT",
+    "fetched_at": "2026-08-26 22:47:31",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "반도체",
+      "인공지능",
+      "클라우드 컴퓨팅"
+    ],
+    "keywords": [
+      "OpenAI",
+      "AI 칩",
+      "Nvidia",
+      "맞춤형 반도체",
+      "마진 압박",
+      "추론 효율성"
+    ],
+    "reason": "OpenAI의 맞춤형 AI 칩 개발은 엔비디아와 같은 기존 AI 반도체 공급업체의 마진 압박을 가중시키고, 장기적으로는 AI 반도체 시장의 경쟁 구도 변화를 예고합니다. 이는 고성능 범용 GPU 의존도를 낮추려는 빅테크 기업들의 전략과 맞물려 있습니다.",
+    "action_point": "엔비디아를 비롯한 범용 AI 반도체 관련 포트폴리오의 중장기적 수익성 하락 가능성을 염두에 두고 비중 조절을 검토."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Bill Gates warns ‘there is no plan’ for the ‘upheaval’ AI will cause",
+    "title_ko": "빌 게이츠, AI가 초래할 '대변혁'에 대한 '계획이 없다' 경고",
+    "link": "https://www.cnbc.com/2026/08/26/bill-gates-ai-jobs-economic-upheaval.html",
+    "published": "Wed, 26 Aug 2026 13:46:16 GMT",
+    "fetched_at": "2026-08-26 22:47:46",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "기술",
+      "노동집약 산업",
+      "교육",
+      "정부 정책"
+    ],
+    "keywords": [
+      "AI",
+      "노동 시장",
+      "사회 시스템",
+      "규제 위험"
+    ],
+    "reason": "빌 게이츠의 경고는 AI 기술 발전이 초래할 노동 시장의 대규모 변화와 사회 시스템 부담에 대한 정부의 미흡한 준비가 장기적인 경제 및 사회적 불확실성을 증가시킬 수 있음을 시사합니다. 이는 향후 AI 관련 규제 강화 및 사회 복지 비용 증가 가능성을 내포합니다.",
+    "action_point": "AI 기술의 사회적 비용 증가 및 규제 강화 가능성을 고려하여, 관련 기술 및 노동집약적 산업 투자 비중에 대한 위험 관리를 강화하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Meta settles social media addiction case with California, other states for $16.7 billion",
+    "title_ko": "메타, 캘리포니아 등 주정부와 소셜 미디어 중독 소송 167억 달러에 합의",
+    "link": "https://www.cnbc.com/2026/08/26/meta-social-media-trial-settlement.html",
+    "published": "Wed, 26 Aug 2026 13:41:01 GMT",
+    "fetched_at": "2026-08-26 22:47:23",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "IT/기술주",
+      "미디어/엔터테인먼트"
+    ],
+    "keywords": [
+      "메타",
+      "소셜 미디어",
+      "규제 리스크",
+      "법적 합의"
+    ],
+    "reason": "메타가 거액의 합의금을 지불하면서 단기적으로 기업의 재무 건전성에 부담을 줄 수 있으나, 장기적으로는 주요 법적 리스크 불확실성이 해소된 것으로 볼 수 있습니다. 이는 다른 소셜 미디어 플랫폼에도 잠재적인 규제 강화와 유사 소송 리스크를 상기시키는 계기가 될 수 있습니다.",
+    "action_point": "소셜 미디어 및 광고 기반 기술주의 잠재적 규제 리스크를 고려하여 해당 섹터 투자 비중을 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "Mortgage rates hit highest level in 3 weeks, weakening demand further",
     "title_ko": "모기지 금리 3주 만에 최고치 기록, 수요 추가 약화",
     "link": "https://www.cnbc.com/2026/08/26/mortgage-rates-hit-highest-level-in-3-weeks-weakening-demand-further.html",
@@ -2914,74 +2988,5 @@
     ],
     "reason": "AI 투자 증가는 기술주에 긍정적이나 비용 부담 우려를 동반하며, 지정학적 긴장 및 무역 분쟁은 에너지 섹터와 전반적인 시장 불확실성을 증폭시켜 투자심리를 위축시킬 수 있습니다.",
     "action_point": "지정학적 긴장 및 무역 분쟁 심화 가능성에 대비해 위험 자산 비중을 축소하고 에너지 섹터 변동성에 주목하십시오."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "U.S. to unveil 'greatest financial offensive' against Iran as Tehran threatens ship seizures",
-    "title_ko": "미국, 이란에 대한 '최대 금융 공세' 발표 예정… 이란은 선박 나포 위협",
-    "link": "https://www.cnbc.com/2026/08/24/us-iran-war-trump-hormuz-bessent-economic-sanctions-.html",
-    "published": "Mon, 24 Aug 2026 04:58:03 GMT",
-    "fetched_at": "2026-08-24 14:31:15",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "방산",
-      "해운"
-    ],
-    "keywords": [
-      "미국-이란 갈등",
-      "이란 제재",
-      "유가 상승",
-      "지정학적 리스크",
-      "해상 운송"
-    ],
-    "reason": "미국과 이란 간의 긴장 고조는 중동 지역의 지정학적 리스크를 증대시키며, 원유 공급 차질과 유가 상승을 초래하여 인플레이션 압력을 가중시킬 수 있습니다. 이는 글로벌 경제 안정에 부정적 영향을 미칠 것입니다.",
-    "action_point": "유가 상승 및 지정학적 리스크 확대에 대비하여 에너지 섹터 및 방산 관련주 비중을 검토하고 안전자산 선호를 유지하십시오."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Samsung plans up to $80 billion in shareholder returns after SK Hynix buyback",
-    "title_ko": "삼성, SK하이닉스 자사주 매입 후 최대 800억 달러 주주 환원 계획",
-    "link": "https://www.cnbc.com/2026/08/21/samsung-shareholder-return-package-sk-hynix-buyback-ai-chip-boom.html",
-    "published": "Fri, 21 Aug 2026 09:08:18 GMT",
-    "fetched_at": "2026-08-24 13:35:51",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "IT/반도체"
-    ],
-    "keywords": [
-      "삼성전자",
-      "주주환원",
-      "배당",
-      "반도체"
-    ],
-    "reason": "삼성전자의 대규모 주주환원 계획은 강력한 현금흐름과 주주가치 제고 의지를 보여주며, IT/반도체 섹터 전반에 긍정적인 투자심리를 형성할 것입니다. 이는 국내 증시 전반에도 우호적인 영향을 미칠 수 있습니다.",
-    "action_point": "삼성전자 및 주요 반도체 기업의 비중 유지를 검토하며, 주주환원 정책이 강화되는 기업들을 주시한다."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Stock futures slip after Dow posts back-to-back weekly declines: Live updates",
-    "title_ko": "다우지수 2주 연속 하락 후 주가지수 선물 하락: 실시간 업데이트",
-    "link": "https://www.cnbc.com/2026/08/23/stock-market-today-live-updates.html",
-    "published": "Mon, 24 Aug 2026 04:20:50 GMT",
-    "fetched_at": "2026-08-24 13:35:59",
-    "sentiment": "악재",
-    "importance": 2,
-    "sectors": [
-      "전반적 주식 시장"
-    ],
-    "keywords": [
-      "주가지수 선물",
-      "다우지수",
-      "주간 하락",
-      "시장 심리"
-    ],
-    "reason": "다우지수의 2주 연속 하락과 주가지수 선물 하락은 전반적인 시장 심리 약화를 나타내며, 단기 주식 시장의 추가적인 하방 압력을 시사합니다.",
-    "action_point": "주식 시장의 단기적인 추가 하락 가능성에 대비하여 방어적 포트폴리오로 재조정 검토."
   }
 ]
