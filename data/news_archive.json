@@ -1,5 +1,77 @@
 [
   {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Fed Chairman Kevin Warsh delivers his key Jackson Hole speech Friday. Here's what to expect",
+    "title_ko": "케빈 와시 연준 의장, 금요일 잭슨홀 연설 예정: 예상되는 내용",
+    "link": "https://www.cnbc.com/2026/08/27/fed-chairman-kevin-warsh-delivers-his-key-jackson-hole-speech-friday.html",
+    "published": "Thu, 27 Aug 2026 22:58:01 GMT",
+    "fetched_at": "2026-08-28 08:22:35",
+    "sentiment": "중립",
+    "importance": 5,
+    "sectors": [
+      "금융",
+      "기술",
+      "부동산"
+    ],
+    "keywords": [
+      "잭슨홀",
+      "연준 의장",
+      "통화정책",
+      "금리"
+    ],
+    "reason": "연준 의장의 잭슨홀 연설은 향후 통화정책 방향에 대한 중대한 신호를 제공하며, 이는 글로벌 금리, 주식, 환율 등 모든 자산 시장에 광범위한 영향을 미칩니다.",
+    "action_point": "연설 내용에 따라 시장 변동성이 커질 수 있으므로, 연설 전후 포트폴리오의 리스크 노출도를 점검하고 현금 비중을 조정할 준비를 하십시오."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Salesforce rockets 22% for second-best day ever, leading software rally",
+    "title_ko": "세일즈포스, 2분기 실적 호조와 AI 파트너십 확대로 22% 폭등하며 소프트웨어 랠리 주도",
+    "link": "https://www.cnbc.com/2026/08/27/salesforce-stock-soars-on-track-for-second-best-day-ever.html",
+    "published": "Thu, 27 Aug 2026 20:04:01 GMT",
+    "fetched_at": "2026-08-28 08:22:44",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "소프트웨어",
+      "클라우드 컴퓨팅",
+      "인공지능(AI)",
+      "기술주"
+    ],
+    "keywords": [
+      "세일즈포스",
+      "실적",
+      "AI",
+      "소프트웨어",
+      "클라우드"
+    ],
+    "reason": "세일즈포스의 호실적과 AI 파트너십 확대는 기업용 소프트웨어 및 클라우드 서비스에 대한 견조한 수요를 보여주며, AI 기술 투자에 대한 긍정적 전망을 강화한다. 이는 관련 기술주 전반의 투자 심리를 개선할 수 있다.",
+    "action_point": "클라우드/AI 기반 소프트웨어 섹터 투자 비중 확대를 검토."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Stocks making the biggest moves after hours: Gap, Workday, Autodesk and more",
+    "title_ko": "시간 외 거래에서 가장 큰 변동을 보인 주식들: Gap, Workday, Autodesk 등",
+    "link": "https://www.cnbc.com/2026/08/27/stocks-making-the-biggest-moves-after-hours-gap-wday-adsk-and-more.html",
+    "published": "Thu, 27 Aug 2026 22:11:51 GMT",
+    "fetched_at": "2026-08-28 08:22:27",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "소프트웨어",
+      "의류/소매"
+    ],
+    "keywords": [
+      "시간 외 거래",
+      "개별 기업",
+      "주가 변동"
+    ],
+    "reason": "이 기사는 Gap, Workday, Autodesk 등 특정 기업들의 시간 외 주가 변동을 보고하며, 이는 개별 기업 실적 및 이슈에 기인한 것으로 거시 경제 또는 광범위한 섹터에 미치는 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "CIA chief John Ratcliffe reportedly made secretive Moscow trip to warn Russia against attacking NATO",
@@ -2921,81 +2993,5 @@
     ],
     "reason": "미국이 캐나다산 자동차 및 부품에 50% 관세를 부과할 경우, 북미 자동차 산업의 생산 비용 상승과 공급망 교란이 불가피하며, 이는 글로벌 무역 갈등의 심화와 경제 불확실성을 증대시킬 것입니다.",
     "action_point": "미국-캐나다 무역 분쟁 격화로 글로벌 증시 변동성 확대 및 경제 둔화 우려가 커짐에 따라, 안전 자산(달러, 금) 비중을 확대하고 자동차 섹터 투자 비중을 축소하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Nvidia reports earnings this week. Jay Woods says these are the key levels to watch",
-    "title_ko": "엔비디아, 이번 주 실적 발표 예정. 제이 우즈, 주시해야 할 핵심 수준 제시",
-    "link": "https://www.cnbc.com/2026/08/24/nvidia-to-report-earnings-jay-woods-says-watch-these-key-levels.html",
-    "published": "Mon, 24 Aug 2026 16:05:24 GMT",
-    "fetched_at": "2026-08-25 06:20:34",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "반도체",
-      "기술",
-      "인공지능"
-    ],
-    "keywords": [
-      "엔비디아",
-      "실적",
-      "AI",
-      "반도체"
-    ],
-    "reason": "엔비디아의 실적 발표는 AI 및 반도체 섹터 전반의 투자 심리와 미래 성장 기대치를 좌우하며, 글로벌 기술주 시장에 큰 영향을 미칠 수 있습니다.",
-    "action_point": "엔비디아 및 AI/반도체 관련 포트폴리오 비중을 점검하고, 실적 발표 전후 변동성에 대비하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[속보] 美, 이란 ‘경제적 고립 작전’ 개시…中 은행에도 “제재 예외 없다” - 조선일보",
-    "title_ko": "美, 이란 ‘경제적 고립 작전’ 개시…中 은행에도 “제재 예외 없다”",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWVRhNXUyTDhLRUZPLTZla3pucnpUb0pzNjZGeG0yQzJVLWcxZDRKTUZWSmwwVmw3cWViVG5GZ2xiSGw2TkF4bE9Fd19jOTVDQnhJT1hjNzBNanMyUmU3N3Q3Q0tMZGdHeGE3bnNPa1NBajM4b3dheUNwdHVsRklDaGVWZ0pIY0QxRG5pUXBRb3NfZ0RRZjN6WDRBTlNTdw?oc=5",
-    "published": "Mon, 24 Aug 2026 17:47:00 GMT",
-    "fetched_at": "2026-08-25 06:20:46",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "금융",
-      "해운"
-    ],
-    "keywords": [
-      "미국",
-      "이란",
-      "중국",
-      "제재",
-      "유가",
-      "지정학적 위험"
-    ],
-    "reason": "미국의 이란 제재 강화 및 중국 은행 대상 조치는 중동 지정학적 긴장과 미중 갈등을 심화시켜 유가 상승 압력 및 글로벌 금융시장 변동성 확대를 야기할 수 있습니다.",
-    "action_point": "국제 유가 상승 압력에 대비하여 에너지 관련 자산 비중 확대를 검토하고, 금융 시장 변동성에 대비한 방어적 포지션을 강화하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "美 경제 제재 앞두고 이란 리알화 역대 최저 - 연합인포맥스",
-    "title_ko": "美 경제 제재 앞두고 이란 리알화 역대 최저",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE53MU9BYTl2VWtaMW9rSVhEQ0xaZkVocGRVdGs5MEFIM2hTbjBBcFhNdGZ2TXdUQzRXMjNzRTQ4Q1F0NDZoQ2syZXprSk9zX3puX3BsUmU2SEJIbkxkQWlmc01tQ1RkbVVodFhIOHhrN0M?oc=5",
-    "published": "Mon, 24 Aug 2026 11:18:39 GMT",
-    "fetched_at": "2026-08-25 03:25:42",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "원유/에너지",
-      "항공",
-      "해운",
-      "화학"
-    ],
-    "keywords": [
-      "이란",
-      "미국 제재",
-      "리알화",
-      "유가",
-      "지정학적 리스크"
-    ],
-    "reason": "미국 경제 제재가 임박하면서 이란 리알화가 최저치를 기록, 중동 지정학적 리스크를 심화시키고 글로벌 원유 공급 불확실성을 증대시켜 유가 변동성을 키울 수 있습니다.",
-    "action_point": "원유 관련 익스포저를 점검하고, 고유가 헤지 전략을 고려하라."
   }
 ]
