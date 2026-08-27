@@ -1,5 +1,32 @@
 [
   {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Stocks making the biggest moves after hours: Nvidia, Salesforce, CrowdStrike, Urban Outfitters and more",
+    "title_ko": "시간 외 거래에서 가장 큰 움직임을 보인 주식들: 엔비디아, 세일즈포스, 크라우드스트라이크, 어반 아웃피터스 외",
+    "link": "https://www.cnbc.com/2026/08/26/stocks-making-the-biggest-moves-after-hours-nvda-crm-crwd-urbn-and-more.html",
+    "published": "Wed, 26 Aug 2026 21:31:58 GMT",
+    "fetched_at": "2026-08-27 11:25:27",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "기술",
+      "소프트웨어",
+      "반도체",
+      "소비재"
+    ],
+    "keywords": [
+      "시간 외 거래",
+      "주가 변동",
+      "개별 기업",
+      "엔비디아",
+      "세일즈포스",
+      "크라우드스트라이크"
+    ],
+    "reason": "이 기사는 시간 외 거래에서 엔비디아 등 주요 기술 및 소비재 기업들의 주가 변동성을 보여주나, 구체적인 원인이나 거시경제적 영향에 대한 정보는 부족하여 시장 전체 방향성 예측에 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "Okta pops 20% after topping estimates as AI threat spikes demand for identity security",
@@ -2969,31 +2996,5 @@
     ],
     "reason": "중동 미군기지의 취약성 노출 논란은 역내 지정학적 리스크를 고조시키며, 이는 글로벌 원유 공급 불안정성 증가 및 국제 유가 상승 압력으로 이어질 수 있다. 중동 지역의 긴장 고조는 해운 및 물류 경로에도 부정적 영향을 미 미칠 수 있다.",
     "action_point": "중동 지정학적 리스크 심화에 대비하여 원자재 포트폴리오 내 유가 민감 자산 비중 확대를 검토하고, 해운/물류 관련 리스크 노출도를 재평가하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "미국 '경제 D-데이' 위협에 이란 \"걸프국 옥죈다\" 맞불 태세 - 연합뉴스",
-    "title_ko": "미국 '경제 D-데이' 위협에 이란 \"걸프국 옥죈다\" 맞불 태세",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1TT0ZqODJCazhDRXFERjJFaF9yZ281SDJFMnVWeEJjM3Q2aG9ZSDNxRUlDaFVSZ2JVdmo2eTRRa05UbS1HR0p3azM5SE53ZURRWjltRlM2QkZpNUU4cXpmd9IBYEFVX3lxTE1TT0ZqODJCazhDRXFERjJFaF9yZ281SDJFMnVWeEJjM3Q2aG9ZSDNxRUlDaFVSZ2JVdmo2eTRRa05UbS1HR0p3azM5SE53ZURRWjltRlM2QkZpNUU4cXpmdw?oc=5",
-    "published": "Mon, 24 Aug 2026 01:54:06 GMT",
-    "fetched_at": "2026-08-24 16:51:21",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "원자재",
-      "해운",
-      "방산"
-    ],
-    "keywords": [
-      "미국",
-      "이란",
-      "걸프",
-      "지정학",
-      "유가"
-    ],
-    "reason": "미국과 이란 간의 지정학적 긴장 고조는 주요 원유 수송로인 걸프 지역의 안정을 위협하며, 글로벌 유가 상승과 인플레이션 압력 가중으로 이어져 시장 전반에 부정적인 영향을 미칠 수 있습니다.",
-    "action_point": "유가 관련 상품 투자 또는 에너지/정유 섹터 비중 확대를 검토하여 지정학적 리스크에 대비하라."
   }
 ]
