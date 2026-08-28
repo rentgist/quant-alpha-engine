@@ -1,5 +1,277 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "이란전쟁 6개월…核폐기 사라지고, 멀쩡했던 호르무즈만 닫혔다 - v.daum.net",
+    "title_ko": "이란전쟁 6개월…核폐기 사라지고, 멀쩡했던 호르무즈만 닫혔다",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ONk41Z3VGUVFHa1NrUXdrRW9XQ2U2QzczeEVxYWhqT2VURFhOS0FZMTV4SUJqRlp6NFkxclJsNDFyR2dUMXlRa0EwNGRXSVk?oc=5",
+    "published": "Fri, 28 Aug 2026 05:21:09 GMT",
+    "fetched_at": "2026-08-28 17:00:59",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "에너지",
+      "해운",
+      "항공",
+      "방산",
+      "화학"
+    ],
+    "keywords": [
+      "이란전쟁",
+      "호르무즈만",
+      "유가",
+      "지정학적 리스크",
+      "핵확산"
+    ],
+    "reason": "호르무즈만 폐쇄는 전 세계 원유 공급에 심각한 차질을 야기하여 유가를 급등시키고 인플레이션을 심화하며 글로벌 경기 침체 우려를 높인다. 이란의 핵 문제 장기화는 중동발 지정학적 리스크를 고조시킨다.",
+    "action_point": "유가 급등 및 지정학적 리스크 확대에 대비하여 에너지/방산 섹터 비중 확대와 달러/금 등 안전자산 보유를 강화하라."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Trump ratchets up rhetoric against Beijing as U.S.-China officials meet for Xi's Washington visit",
+    "title_ko": "트럼프, 시진핑 워싱턴 방문 앞두고 미·중 당국자 회동 중에도 대중국 강경 발언 수위 높여",
+    "link": "https://www.cnbc.com/2026/08/28/trump-x-meeting-us-china-iran-sanctions.html",
+    "published": "Fri, 28 Aug 2026 01:35:13 GMT",
+    "fetched_at": "2026-08-28 16:59:01",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "기술",
+      "산업재",
+      "소비재",
+      "반도체"
+    ],
+    "keywords": [
+      "트럼프",
+      "미중관계",
+      "지정학",
+      "무역갈등",
+      "공급망"
+    ],
+    "reason": "트럼프 전 대통령의 대중국 강경 발언은 향후 미중 무역 및 기술 갈등이 재점화될 가능성을 시사하며, 이는 글로벌 공급망과 지정학적 불확실성을 증폭시켜 시장의 위험 회피 심리를 자극할 수 있습니다.",
+    "action_point": "글로벌 공급망 불확실성에 대비하여 중국 의존도가 높은 기술 및 산업재 섹터 비중을 축소하고, 방어적 섹터로의 포트폴리오 재조정을 고려하십시오."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Iran says return to diplomacy 'isn't impossible' — but all Mideast wars must end to reopen Hormuz",
+    "title_ko": "이란, '외교 복귀 불가능하지 않지만' 호르무즈 해협 재개 위해 중동 분쟁 종식 조건 제시",
+    "link": "https://www.cnbc.com/2026/08/28/us-iran-war-trump-hormuz-oman-centcom.html",
+    "published": "Fri, 28 Aug 2026 07:20:34 GMT",
+    "fetched_at": "2026-08-28 16:59:22",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "국방/항공",
+      "해운/물류"
+    ],
+    "keywords": [
+      "이란",
+      "호르무즈 해협",
+      "중동 분쟁",
+      "지정학",
+      "유가"
+    ],
+    "reason": "이란이 호르무즈 해협 재개와 외교 복귀에 대한 강력한 조건을 제시하며 중동 지정학적 리스크와 유가 변동성 불확실성을 지속시킨다. 이는 글로벌 공급망 및 인플레이션 압력에 대한 우려를 장기화시킬 수 있다.",
+    "action_point": "중동 지정학적 리스크 장기화 및 유가 변동성 확대 가능성에 대비, 에너지 관련 자산 익스포저를 재검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Six months into the Iran war: Markets become accustomed to stalemate with no end in sight",
+    "title_ko": "이란 전쟁 6개월: 시장은 끝없는 교착 상태에 익숙해지다",
+    "link": "https://www.cnbc.com/2026/08/28/us-iran-war-six-months-trump.html",
+    "published": "Fri, 28 Aug 2026 05:02:16 GMT",
+    "fetched_at": "2026-08-28 16:59:49",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "방산",
+      "해운",
+      "보험"
+    ],
+    "keywords": [
+      "이란 전쟁",
+      "지정학적 리스크",
+      "유가",
+      "중동 불안정"
+    ],
+    "reason": "이란 전쟁의 장기화 및 끝없는 교착 상태는 중동 지역의 지정학적 리스크를 고착화하여 글로벌 에너지 가격에 지속적인 상방 압력을 가할 수 있습니다. 시장이 현재의 상황에 익숙해졌다고는 하나, 근본적인 불확실성은 언제든 시장 변동성으로 이어질 수 있습니다.",
+    "action_point": "에너지 및 방산 섹터에 대한 장기적 투자 관점을 유지하고, 지정학적 리스크 헤지를 위한 금 또는 달러 등 안전자산 비중을 점검하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "CNBC Daily Open: Waiting for Warsh",
+    "title_ko": "CNBC 데일리 오픈: 워시 연준 의장 연설 대기",
+    "link": "https://www.cnbc.com/2026/08/28/cnbc-daily-open-warsh.html",
+    "published": "Fri, 28 Aug 2026 06:14:12 GMT",
+    "fetched_at": "2026-08-28 17:00:02",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "금융",
+      "기술",
+      "부동산"
+    ],
+    "keywords": [
+      "미국 연준",
+      "케빈 워시",
+      "금리 변동성",
+      "통화 정책",
+      "시장 불확실성"
+    ],
+    "reason": "연준 의장의 연설은 현재 높은 변동성을 보이는 채권 수익률에 대한 시장의 기대를 형성하며 향후 통화 정책 방향에 중요한 단서를 제공할 것입니다.",
+    "action_point": "연준 의장 연설 내용에 따라 금리 방향성 변화에 대비하여 포트폴리오 내 금리 민감 자산의 비중을 점검하고 필요시 조정 고려."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "국가간 스케일링 경쟁 … AI 위험성도 키운다",
+    "title_ko": "국가간 스케일링 경쟁 … AI 위험성도 키운다",
+    "link": "https://www.mk.co.kr/news/culture/12138972",
+    "published": "Fri, 28 Aug 2026 17:00:51 +09:00",
+    "fetched_at": "2026-08-28 17:01:44",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "IT/반도체",
+      "소프트웨어",
+      "사이버보안"
+    ],
+    "keywords": [
+      "AI",
+      "생성형 AI",
+      "스케일링 경쟁",
+      "기술 위험",
+      "반도체"
+    ],
+    "reason": "AI 기술 경쟁 심화는 관련 기업 투자 심리를 자극하지만, 내재된 위험성 증가는 장기적으로 규제 불확실성 및 사회적 비용 증가 가능성을 내포합니다.",
+    "action_point": "AI 핵심 인프라 및 기술 선도 기업에 대한 투자를 지속하되, AI 리스크 관리 및 규제 관련 신규 투자 기회를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Trump’s Greenland fixation puts security at the heart of Iceland’s knife-edge EU vote",
+    "title_ko": "트럼프의 그린란드 집착, 아이슬란드 EU 가입 투표에 안보 문제 부각",
+    "link": "https://www.cnbc.com/2026/08/28/iceland-eu-referendum-trump-greenland-arctic.html",
+    "published": "Fri, 28 Aug 2026 07:07:12 GMT",
+    "fetched_at": "2026-08-28 16:59:41",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "방위산업",
+      "에너지/자원"
+    ],
+    "keywords": [
+      "트럼프",
+      "그린란드",
+      "아이슬란드",
+      "EU",
+      "안보",
+      "지정학",
+      "북극"
+    ],
+    "reason": "이 뉴스는 트럼프의 그린란드 관심과 미국 안보 공약에 대한 불확실성을 부각하며 북극 지역의 지정학적 긴장을 높일 수 있습니다. 아이슬란드 EU 가입 투표에 안보 이슈가 핵심으로 떠오르면서 이 지역의 안정성에 대한 불확실성이 커지고 있습니다.",
+    "action_point": "지정학적 리스크 확대에 대비하여 달러 자산 비중 유지 검토."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Judge blocks Pentagon blacklist of Anthropic as supply chain risk",
+    "title_ko": "판사, 국방부의 앤트로픽 블랙리스트 등재를 공급망 위험 사유로 차단",
+    "link": "https://www.cnbc.com/2026/08/28/judge-blocks-pentagon-blacklist--anthropic-.html",
+    "published": "Fri, 28 Aug 2026 02:50:45 GMT",
+    "fetched_at": "2026-08-28 17:00:12",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "AI",
+      "기술"
+    ],
+    "keywords": [
+      "앤트로픽",
+      "AI",
+      "국방부",
+      "블랙리스트",
+      "공급망"
+    ],
+    "reason": "이번 판결은 미 국방부가 주요 AI 기업인 앤트로픽을 공급망 위험을 이유로 블랙리스트에 올리는 것을 막아, AI 기술 기업에 대한 잠재적 규제 리스크를 완화한다. 이는 AI 섹터 전반에 긍정적인 신호로 작용할 수 있다.",
+    "action_point": "AI 기술 및 관련 서비스 기업의 투자 매력도 상승 여부를 검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "경제 협·단체 규제합리화 간담회 브리핑 - 대한민국 정책브리핑",
+    "title_ko": "경제 협·단체 규제합리화 간담회 브리핑",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5sdnBBQjI0UGNRdm1FczNtaWdIMU9EbHZacGNVVWIwckhGblh4aWZKNjFSNlNLbGlXOWdVc2NZb29OUzRrQXNQQWs0QjdTTUhzVU9FS0I3NHplOXpsMzhDMVp4MU1uMjJ1S2tTN2lhMWFOM2xCOEVV?oc=5",
+    "published": "Fri, 28 Aug 2026 06:30:00 GMT",
+    "fetched_at": "2026-08-28 17:01:10",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "제조업",
+      "서비스업",
+      "중소기업",
+      "전반적인 기업 활동"
+    ],
+    "keywords": [
+      "규제합리화",
+      "경제정책",
+      "기업환경",
+      "투자심리"
+    ],
+    "reason": "정부의 규제 합리화 노력은 기업 활동의 제약 완화 및 투자 심리 개선으로 이어져 전반적인 경제 활력 제고에 긍정적으로 작용할 수 있습니다. 이는 장기적으로 기업 실적과 고용에 긍정적인 영향을 미칠 잠재력을 가집니다.",
+    "action_point": "규제 완화 수혜가 예상되는 국내 주요 산업 및 기업에 대한 투자 비중 확대를 검토하라."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Stocks making the biggest moves midday: Nvidia, Okta, Hormel, Veeva, HP, Celsius, Best Buy & more",
+    "title_ko": "장중 가장 큰 움직임을 보이는 주식들: 엔비디아, 옥타, 호멜, 비바, HP, 셀시우스, 베스트바이 외 다수",
+    "link": "https://www.cnbc.com/2026/08/27/stocks-making-the-biggest-moves-midday-nvda-okta-hrl-veev.html",
+    "published": "Thu, 27 Aug 2026 20:09:44 GMT",
+    "fetched_at": "2026-08-28 16:59:10",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "기술",
+      "소비재"
+    ],
+    "keywords": [
+      "개별 주식",
+      "장중 변동성",
+      "미국 증시"
+    ],
+    "reason": "다양한 개별 기업의 장중 주가 변동을 단순히 나열한 기사로, 전반적인 시장 심리나 거시 경제 지표, 특정 섹터의 구조적 변화를 의미하지 않는다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "기후·순환경제·산림 한자리서 논의…제주국제환경포럼주간 - 연합뉴스",
+    "title_ko": "기후·순환경제·산림 한자리서 논의…제주국제환경포럼주간",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5xY2t3eGtFRm1FOU9sYkZZYXEyaWxQX09QaWdEcE9YOWFjdmxNUmh5V3QzSHI5dmlISTlmLUE0WnRkWk1JVXRqczNBazZQRzlUWHZEcUNEVGM3endKeTNqNNIBYEFVX3lxTE5xY2t3eGtFRm1FOU9sYkZZYXEyaWxQX09QaWdEcE9YOWFjdmxNUmh5V3QzSHI5dmlISTlmLUE0WnRkWk1JVXRqczNBazZQRzlUWHZEcUNEVGM3endKeTNqNA?oc=5",
+    "published": "Fri, 28 Aug 2026 00:38:55 GMT",
+    "fetched_at": "2026-08-28 17:01:33",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "신재생에너지",
+      "친환경 산업"
+    ],
+    "keywords": [
+      "기후변화",
+      "순환경제",
+      "ESG"
+    ],
+    "reason": "제주국제환경포럼은 기후변화 및 순환경제 등 장기적인 환경 관련 의제 논의의 장으로, 단기적인 시장 영향은 제한적이나 향후 ESG 및 친환경 산업 관련 정책 방향에 대한 단서를 제공할 수 있다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "CNBC_Finance",
     "market": "US",
     "title": "Fed Chairman Kevin Warsh delivers his key Jackson Hole speech Friday. Here's what to expect",
@@ -2707,291 +2979,5 @@
     ],
     "reason": "비트코인의 급등은 기관 자금의 재유입과 전반적인 투자자 위험 선호도 개선을 반영합니다. 이는 가상자산 시장 전반의 상승세를 견인하고 기술 성장주 등 위험 자산에 대한 투자 심리에도 긍정적 영향을 미칠 수 있습니다.",
     "action_point": "가상자산 및 블록체인 관련 기술 섹터 투자 비중 확대 검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[속보] 당정 \"지방국립대 등록금 전액 지원…전기차 보조금 역대 최대\" - 연합뉴스TV",
-    "title_ko": "[속보] 당정 \"지방국립대 등록금 전액 지원…전기차 보조금 역대 최대\"",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBIUXlUMy1QN3NrM1BJNWk4UkoyVkw3RkZnVlViN1lHRTBOWVVlTE5Ub0FYbWd2MzRocnVKQ1ltYXNyWjJvN2tUd3BrSEc2SklhVUNnS3dsQzdfa1IxcE8xSmh6Y0hvVGs?oc=5",
-    "published": "Tue, 25 Aug 2026 00:33:00 GMT",
-    "fetched_at": "2026-08-25 12:41:42",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "자동차",
-      "이차전지",
-      "자동차 부품",
-      "친환경차 인프라"
-    ],
-    "keywords": [
-      "당정",
-      "전기차 보조금",
-      "등록금 지원",
-      "친환경차",
-      "소비 진작"
-    ],
-    "reason": "당정의 전기차 보조금 역대 최대 지원 발표는 국내 전기차 및 이차전지 산업의 판매량과 성장 모멘텀을 강화할 것이며, 등록금 지원은 가계의 가처분 소득을 일부 늘려 소비 진작에 기여할 수 있습니다.",
-    "action_point": "국내 전기차 및 이차전지 관련 섹터의 투자 비중 확대를 검토한다."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "CNBC Daily Open: Washington escalates on two fronts; Nvidia earnings in focus",
-    "title_ko": "CNBC 데일리 오픈: 워싱턴, 두 전선에서 긴장 고조; 엔비디아 실적 주시",
-    "link": "https://www.cnbc.com/2026/08/25/trump-bessent-us-sanctions-iran-canada-tariffs-nvidia-.html",
-    "published": "Tue, 25 Aug 2026 01:07:35 GMT",
-    "fetched_at": "2026-08-25 11:13:22",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "반도체",
-      "기술주",
-      "금융주"
-    ],
-    "keywords": [
-      "엔비디아",
-      "실적",
-      "인플레이션",
-      "연준",
-      "잭슨홀",
-      "지정학적 리스크"
-    ],
-    "reason": "엔비디아 실적은 기술주 및 AI 섹터의 방향을 가늠하는 주요 지표이며, 인플레이션 지표와 잭슨홀 미팅은 연준의 통화정책 기조를 좌우할 핵심 변수입니다. 워싱턴발 지정학적/정책적 불확실성까지 겹쳐 시장 전반의 변동성이 크게 확대될 것으로 예상됩니다.",
-    "action_point": "이번 주 주요 경제 이벤트와 기업 실적 발표를 앞두고 현금 비중을 확보하고 포트폴리오의 리스크 관리를 강화하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Stock futures are flat as investors await Nvidia earnings, inflation report due later this week: Live updates",
-    "title_ko": "주식 선물 보합세, 투자자들은 엔비디아 실적과 주 후반 인플레이션 보고서 대기 중",
-    "link": "https://www.cnbc.com/2026/08/24/stock-market-today-live-updates.html",
-    "published": "Tue, 25 Aug 2026 01:52:06 GMT",
-    "fetched_at": "2026-08-25 11:13:13",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "기술주",
-      "반도체",
-      "전반적인 시장"
-    ],
-    "keywords": [
-      "엔비디아",
-      "실적",
-      "인플레이션",
-      "금리",
-      "기술주"
-    ],
-    "reason": "엔비디아 실적은 AI 관련 기술주 전반에, 인플레이션 보고서는 연준의 금리 정책 방향에 결정적 영향을 미쳐 시장 전반의 변동성을 키울 수 있습니다. 투자자들은 주요 이벤트를 앞두고 관망세를 보이며 불확실성이 증대되고 있습니다.",
-    "action_point": "엔비디아 실적 및 인플레이션 지표 발표 전까지 기술주 포지션의 리스크를 점검하고, 변동성 확대에 대비하여 현금 비중을 확보하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "“이란 돈을 누가 받아줘요”...美 역대급 경제 제재에 리알화 가치 폭락 - v.daum.net",
-    "title_ko": "“이란 돈을 누가 받아줘요”...美 역대급 경제 제재에 리알화 가치 폭락",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBpUVBlY2w3cjZXSzNIaDdmdzY2QVZlZzFMQ2xfM3lrR1FEOGZZRDd2MEVIaG5OdEF3azJPX3FNLV9VbVM5dThoRmpKTThULUU?oc=5",
-    "published": "Mon, 24 Aug 2026 22:00:02 GMT",
-    "fetched_at": "2026-08-25 11:13:36",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "원자재",
-      "방산",
-      "해운"
-    ],
-    "keywords": [
-      "이란",
-      "미국 제재",
-      "리알화",
-      "유가",
-      "지정학적 위험",
-      "중동"
-    ],
-    "reason": "미국 경제 제재로 이란의 원유 수출이 제약을 받으며 글로벌 원유 공급 감소로 유가 상승 압력이 가중되고, 중동 지정학적 위험이 고조될 수 있습니다.",
-    "action_point": "유가 상승 압력에 대비하여 에너지 및 원자재 섹터 투자 비중 확대를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Trump admin unveils anti-Iran global sanctions plan, signals China not exempt",
-    "title_ko": "트럼프 행정부, 대이란 국제 제재 계획 발표, 중국도 예외 아님 시사",
-    "link": "https://www.cnbc.com/2026/08/24/trump-iran-economy-sanctions-china-bessent.html",
-    "published": "Mon, 24 Aug 2026 18:32:36 GMT",
-    "fetched_at": "2026-08-25 09:41:40",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지/정유",
-      "해운/물류",
-      "금융",
-      "방위산업"
-    ],
-    "keywords": [
-      "이란 제재",
-      "이차 제재",
-      "중국",
-      "유가",
-      "지정학적 위험"
-    ],
-    "reason": "트럼프 행정부의 대이란 이차 제재 발표는 유가 상승 압력과 함께 이란 관련 무역 및 금융 거래의 불확실성을 증폭시킨다. 특히 중국에 대한 잠재적 제재는 글로벌 무역 관계에 긴장을 고조시키고 지정학적 위험을 확대시킬 수 있다.",
-    "action_point": "지정학적 위험 고조 및 유가 상승 압력에 대비하여 달러 등 안전자산 보유를 유지하고 에너지/원자재 관련 자산 편입을 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "흔들리는 중국 경제 심리, 공산당 기관지까지 '방어' 나섰지만... - 뉴스핌",
-    "title_ko": "흔들리는 중국 경제 심리, 공산당 기관지까지 '방어' 나섰지만...",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1KR1JzS2hLdmV2R2ZqWUFlb3hoTU5CUm10dTV3SG1nVF9GcWlQTTRHRkJzWHFuaDB3Q0lRRnZOakhrZFBOUXM4ektRM0JTYm5WNTF5djY5eV9kZGEt?oc=5",
-    "published": "Mon, 24 Aug 2026 23:40:00 GMT",
-    "fetched_at": "2026-08-25 09:42:28",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "원자재",
-      "산업재",
-      "국내 수출주",
-      "글로벌 경기 민감주"
-    ],
-    "keywords": [
-      "중국 경제",
-      "경기 둔화",
-      "소비 심리",
-      "글로벌 경기"
-    ],
-    "reason": "중국 경제 심리 위축은 글로벌 수요 감소로 이어져 원자재 가격 하락 압력과 국내 수출 기업 실적 악화 가능성을 높입니다. 공산당의 방어 노력에도 불구하고 실질적인 경기 둔화 우려가 지속될 수 있습니다.",
-    "action_point": "중국 경기 둔화에 민감한 원자재 관련 섹터 및 국내 대중국 수출 비중이 큰 기업들의 투자 비중 축소를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "CNBC's The China Connection newsletter: Robots need help learning human skills. These AI companies are rushing to meet the demand",
-    "title_ko": "CNBC '더 차이나 커넥션' 뉴스레터: 로봇은 인간 기술 학습에 도움이 필요합니다. AI 기업들이 이 수요를 충족시키기 위해 서두르고 있습니다.",
-    "link": "https://www.cnbc.com/2026/08/24/cnbcs-the-china-connection-newsletter-piling-into-human-skills-ai.html",
-    "published": "Mon, 24 Aug 2026 23:00:01 GMT",
-    "fetched_at": "2026-08-25 09:41:58",
-    "sentiment": "호재",
-    "importance": 2,
-    "sectors": [
-      "인공지능",
-      "로봇공학",
-      "소프트웨어"
-    ],
-    "keywords": [
-      "인공지능",
-      "로봇",
-      "휴머노이드",
-      "학습 데이터",
-      "중국 기술"
-    ],
-    "reason": "이 기사는 인공지능 및 로봇공학 분야에서 인간-로봇 상호작용 효율성 개선을 위한 투자가 활발히 이루어지고 있음을 보여줍니다. 이는 장기적으로 기술 혁신과 관련 섹터의 성장 잠재력을 시사합니다.",
-    "action_point": "인공지능 및 로봇공학 섹터 내 혁신 기업들에 대한 장기 투자 기회를 모색."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "이란, 미 경제 제재 발표에 “완벽 대비···방어만 하지 않을 것” - 경향신문",
-    "title_ko": "이란, 미 경제 제재 발표에 “완벽 대비···방어만 하지 않을 것” - 경향신문",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44eFMzQml0azB0cE1wd2t0dlZhZk42Z0xJYTlCMFd5SU9TX1dTTnlxWG9BODRzclZjVVpyd2pyZFI3N3AtRXNiUUJqV2VxWlBYaklTX2RSeEdoUdIBX0FVX3lxTE9iNk1BcVU2dS1iV25GLWdkNXBFLWZub3NiX2xOZE1fTTlTanNyQjR6OV9tR1d6dXh2MnFqLVdQSFcydEtjOVlxOUxSODY2dThDLTNiZTd2REZ2bmc0dnd3?oc=5",
-    "published": "Mon, 24 Aug 2026 22:35:00 GMT",
-    "fetched_at": "2026-08-25 08:14:55",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "방산",
-      "해운",
-      "화학"
-    ],
-    "keywords": [
-      "이란",
-      "미국 제재",
-      "지정학",
-      "유가",
-      "중동"
-    ],
-    "reason": "미국의 대이란 제재 강화와 이란의 강경 대응 예고는 중동 지역 지정학적 불안정을 심화시키며, 유가 상승 압력과 글로벌 인플레이션 우려를 증대시킬 수 있습니다.",
-    "action_point": "중동 지정학적 리스크 확산 및 유가 상승에 대비해 에너지/방산 섹터 비중 확대를 검토하고, 안전자산 확보를 위해 달러 자산 보유를 유지하십시오."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Crypto extends gains after biggest 3-day rally since 2023",
-    "title_ko": "암호화폐, 2023년 이후 최대 3일간의 랠리 후 상승세 지속",
-    "link": "https://www.cnbc.com/2026/08/24/crypto-extends-gains-after-biggest-3-day-rally-since-2023.html",
-    "published": "Mon, 24 Aug 2026 20:02:22 GMT",
-    "fetched_at": "2026-08-25 08:14:45",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "암호화폐",
-      "블록체인 기술",
-      "핀테크"
-    ],
-    "keywords": [
-      "비트코인",
-      "암호화폐 랠리",
-      "가상자산",
-      "디지털 자산"
-    ],
-    "reason": "비트코인의 강력한 상승세는 암호화폐 시장 전반의 투자 심리를 개선하며, 관련 블록체인 및 핀테크 기술 기업들에 긍정적인 영향을 미칠 수 있습니다.",
-    "action_point": "암호화폐 자산군에 대한 포트폴리오 편입 또는 비중 확대를 검토하여 상승 모멘텀을 활용한다."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "美, 이란 '경제고립' 돌입, 글로벌 제재 발표…\"중국도 예외 아냐\" - 머니투데이 - 머니투데이",
-    "title_ko": "美, 이란 '경제고립' 돌입, 글로벌 제재 발표…\"중국도 예외 아냐\"",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5OQmV1dmpudWRnTUpOWTJuVVdIdXQ5N01DR0VMa0RyRTBrcDl0eEtTMEcySXNUQnVjbkNjVnFuNEctaDhSVUJLeWJDMlZXajV3cF9Eemw0UjhlaE9NWVN2OXVvWDJELVIx0gFuQVVfeXFMTTFoTlNmZ2FvNy1IMlY0OGl3MmNBODZDby00QzFBLUY1M3RBNFRRTF8tUVR6U3I1RmcwYUR4SnQ3UjlxOEtuNDczOXpKcVhRaWZ2REdSNU1ZbEdhNlFkeVBrM3doQ19rSFFmNVN6T0E?oc=5",
-    "published": "Mon, 24 Aug 2026 18:00:09 GMT",
-    "fetched_at": "2026-08-25 07:16:18",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "해운",
-      "화학",
-      "금융"
-    ],
-    "keywords": [
-      "미국",
-      "이란",
-      "제재",
-      "석유",
-      "지정학",
-      "중국",
-      "무역"
-    ],
-    "reason": "미국의 이란 경제고립 조치는 글로벌 석유 공급에 불확실성을 높여 유가 상승 압력을 가하고, 중국까지 제재 대상에 포함될 경우 지정학적 긴장 및 글로벌 무역 마찰이 심화될 것입니다.",
-    "action_point": "국제유가 상승 압력 및 지정학적 리스크 확대에 대비하여 원유 등 원자재 관련 자산 비중 확대를 검토하고 방어적 포트폴리오를 강화하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Trump says U.S. will hike Canada auto tariffs to 50% as trade war escalates",
-    "title_ko": "트럼프, 미-캐나다 무역 전쟁 격화에 따라 캐나다산 자동차 관세 50% 인상 발표",
-    "link": "https://www.cnbc.com/2026/08/24/trump-canada-auto-tariffs-trade-war.html",
-    "published": "Mon, 24 Aug 2026 19:08:56 GMT",
-    "fetched_at": "2026-08-25 06:20:27",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "자동차",
-      "철강/금속",
-      "운송",
-      "소비재"
-    ],
-    "keywords": [
-      "트럼프",
-      "관세",
-      "미국",
-      "캐나다",
-      "자동차",
-      "무역 전쟁",
-      "공급망"
-    ],
-    "reason": "미국이 캐나다산 자동차 및 부품에 50% 관세를 부과할 경우, 북미 자동차 산업의 생산 비용 상승과 공급망 교란이 불가피하며, 이는 글로벌 무역 갈등의 심화와 경제 불확실성을 증대시킬 것입니다.",
-    "action_point": "미국-캐나다 무역 분쟁 격화로 글로벌 증시 변동성 확대 및 경제 둔화 우려가 커짐에 따라, 안전 자산(달러, 금) 비중을 확대하고 자동차 섹터 투자 비중을 축소하라."
   }
 ]
