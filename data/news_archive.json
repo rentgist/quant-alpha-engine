@@ -1,5 +1,53 @@
 [
   {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "“추락하는 신발엔 날개가 없다” … 미국판 ABC마트의 몰락",
+    "title_ko": "“추락하는 신발엔 날개가 없다” … 미국판 ABC마트의 몰락",
+    "link": "https://www.mk.co.kr/news/business/12138911",
+    "published": "Sat, 29 Aug 2026 04:30:00 +09:00",
+    "fetched_at": "2026-08-29 04:55:30",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "유통",
+      "소비재",
+      "섬유/의류"
+    ],
+    "keywords": [
+      "미국 소비",
+      "소매 판매",
+      "소비 심리",
+      "경기 둔화"
+    ],
+    "reason": "미국 주요 신발 및 스포츠 용품 유통업체의 몰락은 미국 소비자 지출 둔화 및 재량 소비재 수요 감소 가능성을 시사하며, 이는 미국 경기 둔화의 전조가 될 수 있습니다.",
+    "action_point": "미국 소비재 섹터 비중 축소 및 경기 방어주 편입 검토."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "U.S. appeals court rules against prediction markets, sets up likely fight at Supreme Court",
+    "title_ko": "미국 항소법원, 예측 시장에 불리한 판결…대법원 상고 가능성 시사",
+    "link": "https://www.cnbc.com/2026/08/28/appeals-court-rules-against-prediction-markets-tees-up-scotus-fight.html",
+    "published": "Fri, 28 Aug 2026 19:32:48 GMT",
+    "fetched_at": "2026-08-29 04:55:18",
+    "sentiment": "악재",
+    "importance": 2,
+    "sectors": [
+      "핀테크",
+      "온라인 베팅/갬블링"
+    ],
+    "keywords": [
+      "예측 시장",
+      "규제",
+      "항소법원",
+      "대법원",
+      "스왑 계약"
+    ],
+    "reason": "이 판결은 미국 내 예측 시장(특히 스포츠 관련 이벤트 계약)의 규제 불확실성을 증폭시키며, 관련 상품의 제공 및 확장에 제동을 걸 수 있습니다. 이는 특정 핀테크/온라인 베팅 산업의 성장에 부정적입니다.",
+    "action_point": "일반적인 포트폴리오에 미치는 영향은 미미하므로 당장 취할 조치는 해당 없음."
+  },
+  {
     "source": "GoogleNews_Korea",
     "market": "KR",
     "title": "이란전쟁 6개월…核폐기 사라지고, 멀쩡했던 호르무즈만 닫혔다 - v.daum.net",
@@ -2929,55 +2977,5 @@
     ],
     "reason": "이 계약은 자동차 산업의 AI 기반 디지털 전환 가속화를 보여주며, 글로벌 IT 서비스 및 AI 솔루션 시장의 성장세를 확인시켜 준다.",
     "action_point": "인공지능(AI) 관련 기술 및 IT 서비스 제공 기업에 대한 중장기 투자 매력도를 재평가하고 비중 확대 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Gold hits over three-month high on dollar weakness, Treasury bond buyback plans",
-    "title_ko": "금값, 달러 약세 및 국채 매입 계획에 3개월래 최고치 경신",
-    "link": "https://www.cnbc.com/2026/08/25/gold-hits-over-three-month-high-on-dollar-weakness-treasury-bond-buyback-plans.html",
-    "published": "Tue, 25 Aug 2026 02:28:00 GMT",
-    "fetched_at": "2026-08-25 12:40:47",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "금 관련주",
-      "원자재 섹터",
-      "비달러 자산"
-    ],
-    "keywords": [
-      "금",
-      "달러 약세",
-      "미국 국채",
-      "금리 하락 기대",
-      "안전자산"
-    ],
-    "reason": "달러 약세와 미국 국채 매입 계획은 금리 인하 기대감을 높여 안전자산인 금의 매력을 부각시키고, 전반적인 위험자산 선호 심리에도 긍정적인 영향을 미칠 수 있습니다.",
-    "action_point": "달러 약세 및 금리 하락 기대감을 활용하여 금 관련 자산 및 비달러 자산의 비중 확대를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Bitcoin jumps 3%, closing in on $80,000 as rally gathers pace",
-    "title_ko": "비트코인 3% 급등, 8만 달러 근접하며 랠리 가속화",
-    "link": "https://www.cnbc.com/2026/08/25/bitcoin-price-near-80000-cryptocurrency-ether-us-treasuries.html",
-    "published": "Tue, 25 Aug 2026 03:05:12 GMT",
-    "fetched_at": "2026-08-25 12:41:33",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "가상자산",
-      "블록체인/핀테크",
-      "기술주"
-    ],
-    "keywords": [
-      "비트코인",
-      "가상자산",
-      "암호화폐 ETF",
-      "위험선호",
-      "랠리"
-    ],
-    "reason": "비트코인의 급등은 기관 자금의 재유입과 전반적인 투자자 위험 선호도 개선을 반영합니다. 이는 가상자산 시장 전반의 상승세를 견인하고 기술 성장주 등 위험 자산에 대한 투자 심리에도 긍정적 영향을 미칠 수 있습니다.",
-    "action_point": "가상자산 및 블록체인 관련 기술 섹터 투자 비중 확대 검토."
   }
 ]
