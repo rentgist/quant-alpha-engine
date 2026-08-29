@@ -1,5 +1,308 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Analysis: Kevin Warsh sharpens inflation warning at Jackson Hole, signaling possible rate hike",
+    "title_ko": "분석: 케빈 워시, 잭슨홀에서 인플레이션 경고 강화하며 금리 인상 가능성 시사",
+    "link": "https://www.cnbc.com/2026/08/28/kevin-warsh-jackson-hole-fed-inflation-rate-hike.html",
+    "published": "Fri, 28 Aug 2026 17:44:02 GMT",
+    "fetched_at": "2026-08-29 18:37:12",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "주식시장 (성장주 중심)",
+      "부동산",
+      "채권"
+    ],
+    "keywords": [
+      "케빈 워시",
+      "잭슨홀",
+      "인플레이션",
+      "금리 인상",
+      "연준"
+    ],
+    "reason": "연준 고위 인사의 금리 인상 가능성 시사는 시장의 긴축 우려를 높여 위험 자산 전반에 하방 압력을 가하며, 특히 금리에 민감한 성장주와 부동산 시장에 부정적인 영향을 미칠 것입니다.",
+    "action_point": "금리 인상 가능성에 대비하여 고PER 성장주 비중을 축소하고, 단기 고금리 채권 및 달러 자산 비중 확대를 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "이란 전쟁 6개월…중재국들 ‘호르무즈 개방’ 노력, 트럼프는 거부 - 한겨레",
+    "title_ko": "이란 전쟁 6개월…중재국들 ‘호르무즈 개방’ 노력, 트럼프는 거부",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVUduZ3VDd0tvSFM4UEZNOTBxekRJN3NtM2VjdENuRjRyMmpZNkJJZjY2c1pjODZjT2hkcVlNQ2V1aGw4cWduWE9objlHcXZaakIxX2xncXhoNC1zTXFFZHE1WUtHcVFuTjV2RWRIZVdpdDB6SENrZzdiSzNxUGowb2RB?oc=5",
+    "published": "Sat, 29 Aug 2026 02:31:00 GMT",
+    "fetched_at": "2026-08-29 18:38:27",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "원유/정유",
+      "해운/물류",
+      "방산"
+    ],
+    "keywords": [
+      "이란 전쟁",
+      "호르무즈 해협",
+      "트럼프",
+      "지정학적 리스크",
+      "유가"
+    ],
+    "reason": "이란 전쟁 장기화 및 호르무즈 해협 관련 중재 노력 무산은 국제유가 상승 압력을 가중시키고 글로벌 인플레이션을 심화시키며, 지정학적 불확실성을 증폭시켜 위험 회피 심리를 자극한다.",
+    "action_point": "원유 관련 자산 비중 확대 및 지정학적 리스크 헤지 자산 편입 검토"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Trump announces deal with Venezuela to secure more than 65 billion barrels of oil reserves",
+    "title_ko": "트럼프, 베네수엘라와 650억 배럴 이상 석유 매장량 확보 거래 발표",
+    "link": "https://www.cnbc.com/2026/08/28/trump-announces-deal-with-venezuela-to-secure-more-than-65-billion-barrels-of-oil-reserves.html",
+    "published": "Fri, 28 Aug 2026 23:42:26 GMT",
+    "fetched_at": "2026-08-29 18:36:53",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "항공",
+      "해운",
+      "화학",
+      "제조업"
+    ],
+    "keywords": [
+      "트럼프",
+      "베네수엘라",
+      "석유",
+      "원유 공급",
+      "에너지 안보"
+    ],
+    "reason": "미국이 베네수엘라의 막대한 석유 매장량에 대한 통제권을 확보하는 것은 글로벌 원유 공급 안정화 및 잠재적인 유가 하락 압력으로 작용할 수 있습니다. 이는 에너지 안보 강화와 인플레이션 완화에 기여할 가능성이 높습니다.",
+    "action_point": "에너지 섹터 내 원유 생산 기업 비중 축소 및 유가 하락 수혜 섹터(항공, 해운, 화학) 투자 확대 검토."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Treasury moves to sanction UAE branch of Egyptian bank over Iran ties",
+    "title_ko": "미 재무부, 이란 연계 혐의로 이집트 은행 UAE 지점 제재 착수",
+    "link": "https://www.cnbc.com/2026/08/28/treasury-uae-banque-misr-sanctions-iran.html",
+    "published": "Fri, 28 Aug 2026 18:13:13 GMT",
+    "fetched_at": "2026-08-29 18:37:23",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "금융",
+      "에너지"
+    ],
+    "keywords": [
+      "미국 제재",
+      "이란",
+      "그림자 금융",
+      "지정학"
+    ],
+    "reason": "미국의 이란 제재 강화는 중동 지역의 지정학적 리스크를 높이고, 이란의 불법 자금 조달을 어렵게 하여 잠재적으로 글로벌 에너지 시장에 영향을 미칠 수 있습니다.",
+    "action_point": "중동 지정학적 리스크 증가 및 금융 제재 강화로 인한 유가 변동성 확대에 대비하고, 달러 자산 보유를 유지하며 리스크 관리를 강화하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Oil exports from the Gulf rise to more than 60% of level before Iran war, Goldman Sachs estimates",
+    "title_ko": "걸프 지역 원유 수출량, 이란 전쟁 이전 수준의 60% 이상으로 증가 추정 – 골드만삭스",
+    "link": "https://www.cnbc.com/2026/08/28/iran-war-gulf-oil-exports-goldman-estimate.html",
+    "published": "Fri, 28 Aug 2026 18:10:55 GMT",
+    "fetched_at": "2026-08-29 18:37:44",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "항공",
+      "해운",
+      "화학"
+    ],
+    "keywords": [
+      "원유 공급",
+      "걸프 지역",
+      "유가 안정화",
+      "지정학적 위험",
+      "골드만삭스"
+    ],
+    "reason": "걸프 지역 원유 수출량의 회복은 글로벌 공급 안정화에 기여하며, 이는 잠재적으로 유가 상승 압력을 완화하고 에너지 의존 산업에 긍정적인 영향을 미칠 수 있다. 다만, 지정학적 불확실성은 여전하다.",
+    "action_point": "유가 안정화에 따른 원가 부담 감소가 예상되는 항공, 해운, 화학 등 유가 하락 수혜 섹터의 투자 비중 확대를 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "위안화 강세·수출 호조세에도…중국 경제 속으로 곪고 있다 [주末머니] - 아시아경제",
+    "title_ko": "위안화 강세·수출 호조세에도…중국 경제 속으로 곪고 있다 [주末머니]",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KR01QSmZ3c2hTaFF4MVBjcU54NDlKUnZnQTVUQjRua3hGT3J2eHVESkVCU2o0ZjF6NHpyR0tUMFZncHptLWNjWGtCYndscHV6QzBnRVNpRmE0SjFQSmhOeA?oc=5",
+    "published": "Sat, 29 Aug 2026 06:48:00 GMT",
+    "fetched_at": "2026-08-29 18:38:04",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "수출입",
+      "제조업",
+      "원자재",
+      "해운",
+      "중국관련투자"
+    ],
+    "keywords": [
+      "중국 경제",
+      "위안화",
+      "수출",
+      "구조적 문제",
+      "경기 둔화"
+    ],
+    "reason": "중국 경제가 겉으로는 위안화 강세와 수출 호조를 보이나 내부적으로 구조적 문제로 곪고 있다는 분석은 향후 중국 경기 둔화 가능성을 시사하며, 이는 글로벌 수요 감소 및 한국의 대중국 수출에 부정적인 영향을 미칠 수 있습니다.",
+    "action_point": "중국 경제 둔화 위험에 노출된 대중국 수출 비중이 높은 기업 및 섹터 투자 비중 축소 검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "'전쟁 6개월' 트럼프 \"해상 봉쇄 성공적\"...미 언론 \"이란 굴복 가능성 낮아 - YTN",
+    "title_ko": "'전쟁 6개월' 트럼프 \"해상 봉쇄 성공적\"...미 언론 \"이란 굴복 가능성 낮아",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB2Q0JmWE1DQUE3NE0zY1lJWDRLYmlzaEVQc2Rxbl90SGp0WmFoc0hielpvUUpoZWZRankydGFudmdHYk1pZmxBTE5fZzZHTG0wMzcxZmJXbTByZGlWbUE?oc=5",
+    "published": "Sat, 29 Aug 2026 00:07:00 GMT",
+    "fetched_at": "2026-08-29 18:38:13",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "해운",
+      "방산"
+    ],
+    "keywords": [
+      "트럼프",
+      "이란",
+      "해상 봉쇄",
+      "지정학",
+      "유가",
+      "중동"
+    ],
+    "reason": "미국과 이란 간의 해상 봉쇄 및 지정학적 긴장 장기화 가능성을 시사하며, 이는 중동 불안정 심화와 국제 유가 변동성 확대로 이어질 수 있습니다.",
+    "action_point": "중동 지정학적 리스크 심화에 따른 유가 상승 가능성에 대비하여 에너지 섹터 비중 확대를 검토하거나 인플레이션 헤지 상품을 고려하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Meta’s $18 billion settlement puts TikTok and YouTube on notice. Who's next on the firing line?",
+    "title_ko": "메타의 180억 달러 합의금, 틱톡과 유튜브에 경고장. 다음 타겟은 누구인가?",
+    "link": "https://www.cnbc.com/2026/08/29/meta-settlement-tiktok-youtube-snap-teen-safety.html",
+    "published": "Sat, 29 Aug 2026 05:00:01 GMT",
+    "fetched_at": "2026-08-29 18:37:04",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "소셜 미디어",
+      "플랫폼 테크",
+      "온라인 광고"
+    ],
+    "keywords": [
+      "메타",
+      "틱톡",
+      "유튜브",
+      "아동 보호",
+      "규제",
+      "빅테크"
+    ],
+    "reason": "메타의 대규모 합의는 소셜 미디어 및 플랫폼 기업 전반에 걸친 아동 보호 규제 강화 압박을 의미하며, 이는 해당 섹터의 운영 비용 증가 및 사업 모델 불확실성을 초래할 수 있습니다. 특히 경쟁사들도 유사한 규제 리스크에 직면하게 될 것입니다.",
+    "action_point": "글로벌 소셜 미디어 및 플랫폼 기업의 규제 리스크를 재평가하고 관련 포트폴리오 비중을 조정할 것."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "인천경제 제조업 반등에도 수출·건설·고용 '뒷걸음' - 인천투데이",
+    "title_ko": "인천경제 제조업 반등에도 수출·건설·고용 '뒷걸음'",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvcXR0U0t3aVkyRzlpOXZwQ2Y5ZzlJa21adGZpTzRBVHEzWlRfMmZrWVZCdGRvQlNfU2M1alRBRTk5eTM3azhud0FFVng0QmQ0SGdyVWFpLTVtUXFOUEtqMDRZeENGSGo4RHc5VVRESEw?oc=5",
+    "published": "Sat, 29 Aug 2026 03:00:00 GMT",
+    "fetched_at": "2026-08-29 18:37:53",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "건설업",
+      "내수 소비재",
+      "수출입",
+      "제조업"
+    ],
+    "keywords": [
+      "인천 경제",
+      "수출",
+      "건설",
+      "고용",
+      "경기 둔화"
+    ],
+    "reason": "인천 경제의 주요 지표 부진은 국내 경기 전반의 회복세가 고르지 않고, 특히 건설 및 내수 부문의 둔화가 지속될 수 있음을 시사한다. 이는 기업 실적 및 고용 시장에 대한 우려를 증폭시킨다.",
+    "action_point": "건설 및 내수 소비 관련 섹터의 비중 축소를 검토하고 수출 기업들의 실적 하향 조정 가능성을 주시하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "“어제 삼전 374원 실망하셨어요?”...석달뒤엔 ‘이만큼’받는다",
+    "title_ko": "“어제 삼전 374원 실망하셨어요?”...석달뒤엔 ‘이만큼’받는다",
+    "link": "https://www.mk.co.kr/news/stock/12139461",
+    "published": "Sat, 29 Aug 2026 17:42:32 +09:00",
+    "fetched_at": "2026-08-29 18:39:05",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "IT",
+      "반도체",
+      "대형주"
+    ],
+    "keywords": [
+      "삼성전자",
+      "배당금",
+      "주주환원",
+      "현금흐름"
+    ],
+    "reason": "삼성전자의 3분기 배당금이 주당 4570원에 달할 것이라는 전망은 강력한 현금흐름과 적극적인 주주환원 정책을 시사하며, 이는 해당 기업 및 전반적인 IT/반도체 섹터에 긍정적인 신호로 해석됩니다.",
+    "action_point": "삼성전자 및 견고한 현금흐름을 바탕으로 한 주주환원 여력이 있는 IT/반도체 대형주 비중 확대 또는 신규 편입을 검토."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "29CM, 고객 개인정보 15만9000건 유출…“결제·계정정보는 안전”",
+    "title_ko": "29CM, 고객 개인정보 15만9000건 유출…“결제·계정정보는 안전”",
+    "link": "https://www.mk.co.kr/news/business/12139471",
+    "published": "Sat, 29 Aug 2026 18:12:32 +09:00",
+    "fetched_at": "2026-08-29 18:38:49",
+    "sentiment": "악재",
+    "importance": 2,
+    "sectors": [
+      "온라인 쇼핑 플랫폼",
+      "IT 보안",
+      "유통"
+    ],
+    "keywords": [
+      "개인정보 유출",
+      "29CM",
+      "무신사",
+      "이커머스",
+      "데이터 보안"
+    ],
+    "reason": "국내 주요 온라인 플랫폼에서 발생한 개인정보 유출 사고는 해당 기업의 브랜드 이미지 및 소비자 신뢰에 부정적 영향을 미치며, 향후 규제 강화 및 보안 투자 증대 압력으로 이어질 수 있습니다. 다만, 결제 및 계정 정보가 유출되지 않아 단기 시장 충격은 제한적입니다.",
+    "action_point": "온라인 플랫폼 기업 투자 시 데이터 보안 시스템 및 리스크 관리 역량 점검을 강화하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "“제발 살아있기를”…‘네팔·중국 대홍수’ 실종자 3천명 육박, 500명 늘어",
+    "title_ko": "“제발 살아있기를”…‘네팔·중국 대홍수’ 실종자 3천명 육박, 500명 늘어",
+    "link": "https://www.mk.co.kr/news/world/12139463",
+    "published": "Sat, 29 Aug 2026 17:53:22 +09:00",
+    "fetched_at": "2026-08-29 18:38:59",
+    "sentiment": "악재",
+    "importance": 2,
+    "sectors": [
+      "관광"
+    ],
+    "keywords": [
+      "네팔",
+      "중국",
+      "대홍수",
+      "인명피해",
+      "자연재해"
+    ],
+    "reason": "네팔-중국 국경의 대규모 홍수 발생은 심각한 인명피해를 초래하는 인도주의적 위기이나, 글로벌 경제 및 주요 투자 자산에 미칠 직접적인 거시경제적 영향은 제한적일 것으로 판단된다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "CNBC_Finance",
     "market": "US",
     "title": "Corn and wheat prices jump to highest prices in more than three years",
@@ -2678,302 +2981,5 @@
     ],
     "reason": "이란에 대한 새로운 제재는 미국과 중국 간의 지정학적 긴장을 고조시켜 글로벌 공급망 및 무역에 불확실성을 가중시키고 전반적인 위험 회피 심리를 자극할 수 있습니다.",
     "action_point": "이란 제재로 인한 미중 갈등 고조 가능성을 고려하여 기술주 비중 축소를 검토하고, 지정학적 위험 헤지 차원에서 방산주 및 달러 자산 보유 비중을 유지하십시오."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "베일 벗은 미국 ‘이란 경제 전쟁’···백악관 안에서도 “되겠나” - 경향신문",
-    "title_ko": "베일 벗은 미국 ‘이란 경제 전쟁’···백악관 안에서도 “되겠나”",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UQ3V2TWFFT1FIRHBBdlhjWVczVFJMdEl0eTBrbE1NRUNSOFl0OFZjbzZzc25rTW5TMi03YUxsUFVZZkZTRTJPdkdUVkZhMTBOTEZ0YW5jY3VpUdIBX0FVX3lxTE1aMzN3cXVQcE9YaFNvcDdiTFoxUGl1aG54aVh3SmRtMko3a0xXOWlJVnFDejNPdkFfZFpKcEQ0WkpWRnlMOC0tMzF0b0FHcjNCZUNZLWh3bmhIWGY0aTM0?oc=5",
-    "published": "Tue, 25 Aug 2026 06:33:00 GMT",
-    "fetched_at": "2026-08-25 16:36:41",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "방산",
-      "운송"
-    ],
-    "keywords": [
-      "미국",
-      "이란",
-      "경제 전쟁",
-      "지정학",
-      "유가",
-      "제재"
-    ],
-    "reason": "미국의 이란 경제 전쟁은 중동 지역의 지정학적 불안정성을 고조시키고 글로벌 유가 변동성을 확대할 수 있습니다. 백악관 내부 회의적인 시각에도 불구하고, 실제 정책 실행은 시장 불확실성을 증폭시키는 요인입니다.",
-    "action_point": "원유 등 에너지 원자재 관련 익스포저 점검 및 포트폴리오 헤징 고려."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "“한 달 월급으로는 월세도 부족해요”…59㎡ 월세 1년새 140만원↑",
-    "title_ko": "“한 달 월급으로는 월세도 부족해요”…59㎡ 월세 1년새 140만원↑",
-    "link": "https://www.mk.co.kr/news/realestate/12135891",
-    "published": "Tue, 25 Aug 2026 16:28:55 +09:00",
-    "fetched_at": "2026-08-25 16:38:24",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "부동산",
-      "소비재",
-      "유통",
-      "금융"
-    ],
-    "keywords": [
-      "월세 급등",
-      "가계부담 증가",
-      "인플레이션 압력",
-      "내수 위축",
-      "부동산 정책"
-    ],
-    "reason": "서울 월세 급등은 가계의 가처분소득을 감소시켜 소비 심리를 위축시키고, 주거비발 인플레이션 압력을 가중시켜 국내 경기 둔화 가능성을 높입니다.",
-    "action_point": "국내 소비재 및 유통 섹터 비중 축소 검토"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "New Delhi draws in $73 billion in 11 weeks, powered by special deposits for non-resident Indians",
-    "title_ko": "인도, 비거주 인도인 특별 예금에 힘입어 11주간 730억 달러 유치",
-    "link": "https://www.cnbc.com/2026/08/25/india-billion-foreign-inflows-rupee-weakness.html",
-    "published": "Tue, 25 Aug 2026 07:13:36 GMT",
-    "fetched_at": "2026-08-25 16:36:22",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "인도 금융",
-      "신흥국 주식"
-    ],
-    "keywords": [
-      "인도",
-      "자본 유입",
-      "비거주 인도인",
-      "외환 예금"
-    ],
-    "reason": "인도로의 대규모 자본 유입은 인도 경제의 안정성을 강화하고 루피화 강세 압력을 가중시킬 수 있으며, 신흥국 전반에 대한 투자 심리 개선에 긍정적 영향을 미칠 수 있습니다.",
-    "action_point": "인도 경제의 펀더멘털 개선을 감안하여 신흥국 포트폴리오 내 인도 자산 비중 확대를 고려하거나 인도 관련 투자 기회를 모색하십시오."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "대통령직속 국가기후위기대응위원회 - 국가기후위기대응위원회",
-    "title_ko": "대통령직속 국가기후위기대응위원회 - 국가기후위기대응위원회",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQldpcURpTGR3VkJ4a3VIdy1oazgxdUtDVXJXZHktSnBLZGVmcnJoajR4aTVqQmwwY21ScDFwUUJwbkNIdHJaUFdsOEgzX0QxOVdfNlFFN3BxVkQwQnd1N3BjbWRkUnczdHVtZlVWZ0JNcUR6RF8wbXFmM3lQWkppSmVEd3FkX0FDRURfaC1Kb294OXRveXhWMHJB?oc=5",
-    "published": "Tue, 25 Aug 2026 05:35:36 GMT",
-    "fetched_at": "2026-08-25 16:36:52",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "신재생에너지",
-      "탄소중립 관련 산업",
-      "친환경차",
-      "건설(친환경 인프라)"
-    ],
-    "keywords": [
-      "기후위기",
-      "탄소중립",
-      "국가정책",
-      "환경규제"
-    ],
-    "reason": "이 기사는 대통령직속 국가기후위기대응위원회를 언급하며, 정부의 기후위기 대응 의지를 재확인하지만, 구체적인 정책 변화나 즉각적인 시장 영향 요소를 담고 있지 않아 단기적 투자 시그널은 약합니다.",
-    "action_point": "이 기사는 구체적인 투자 결정을 유발하는 새로운 정책 내용을 포함하지 않으므로, 즉각적인 포트폴리오 조정은 해당 없습니다."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "[포토] 매경AX클럽 첫 리뷰보드, 인공지능 전환 실무체계 토의",
-    "title_ko": "[포토] 매경AX클럽 첫 리뷰보드, 인공지능 전환 실무체계 토의",
-    "link": "https://www.mk.co.kr/news/it/12135898",
-    "published": "Tue, 25 Aug 2026 16:32:54 +09:00",
-    "fetched_at": "2026-08-25 16:37:36",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "IT/소프트웨어",
-      "인공지능",
-      "반도체"
-    ],
-    "keywords": [
-      "인공지능",
-      "AX",
-      "디지털 전환",
-      "산업혁신"
-    ],
-    "reason": "국내 기업의 AI 전환 논의는 장기적인 산업 혁신 및 디지털 전환 트렌드를 확인시켜주나, 본 세미나는 실무체계 토의에 중점을 두어 단기적인 시장 영향은 제한적이다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "AI 스타트업 라이너, 500억 시리즈C 투자 유치",
-    "title_ko": "AI 스타트업 라이너, 500억 시리즈C 투자 유치",
-    "link": "https://www.mk.co.kr/news/it/12135895",
-    "published": "Tue, 25 Aug 2026 16:30:42 +09:00",
-    "fetched_at": "2026-08-25 16:37:57",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "AI",
-      "기술"
-    ],
-    "keywords": [
-      "AI",
-      "스타트업",
-      "투자 유치",
-      "시리즈C",
-      "기술 투자"
-    ],
-    "reason": "국내 AI 에이전트 및 검색 기술 스타트업의 대규모 투자 유치는 AI 산업의 지속적인 성장과 혁신 잠재력을 확인시켜 줍니다. 이는 장기적으로 국내 기술 섹터 전반에 긍정적인 투자심리 기여 요인입니다.",
-    "action_point": "AI 테마의 장기적 성장성에 주목하여 관련 국내 상장 기업들의 투자 기회를 검토."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "용산공원 주택 공급 놓고 또 마주 앉는 오세훈·김윤덕…이번엔 해법 나올까",
-    "title_ko": "용산공원 주택 공급 놓고 또 마주 앉는 오세훈·김윤덕…이번엔 해법 나올까",
-    "link": "https://www.mk.co.kr/news/realestate/12135893",
-    "published": "Tue, 25 Aug 2026 16:29:19 +09:00",
-    "fetched_at": "2026-08-25 16:38:10",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "부동산",
-      "건설"
-    ],
-    "keywords": [
-      "용산공원",
-      "주택 공급",
-      "정비사업",
-      "규제 완화",
-      "국토교통부",
-      "서울시"
-    ],
-    "reason": "국토부와 서울시 간 용산공원 주택 공급 및 정비사업 규제 완화 논의는 국내 부동산 시장의 주요 정책 방향을 결정할 수 있으며, 합의 시 특정 지역 주택 공급과 시장 활성화에 영향을 미칠 수 있습니다.",
-    "action_point": "국내 건설 및 부동산 섹터 내 재건축·재개발 비중이 높은 기업들의 정책 수혜 가능성을 재평가하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "“한국서 잘 팔리네”…핵심 상권 파고드는 이 브랜드들",
-    "title_ko": "“한국서 잘 팔리네”…핵심 상권 파고드는 이 브랜드들",
-    "link": "https://www.mk.co.kr/news/business/12135890",
-    "published": "Tue, 25 Aug 2026 16:28:44 +09:00",
-    "fetched_at": "2026-08-25 16:38:32",
-    "sentiment": "호재",
-    "importance": 2,
-    "sectors": [
-      "유통",
-      "패션/의류",
-      "부동산"
-    ],
-    "keywords": [
-      "SPA 브랜드",
-      "소비",
-      "유통",
-      "강남 상권",
-      "오프라인 확장"
-    ],
-    "reason": "국내 해외 SPA 브랜드의 오프라인 확장 가속화는 견고한 국내 소비 심리, 특히 패션 소매 부문에서의 수요 강세를 시사합니다. 이는 내수 경기의 회복과 핵심 상권 상업용 부동산 시장의 활성화에 긍정적 신호입니다.",
-    "action_point": "국내 유통 및 핵심 상권 부동산 관련 자산 비중 확대를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Trump targets Iran’s trade lifelines — here are the countries most exposed",
-    "title_ko": "트럼프, 이란의 무역 동맥 조준 — 최대 노출국가들은 어디인가",
-    "link": "https://www.cnbc.com/2026/08/25/us-iran-secondary-sanctions-china-india-uae-hormuz-trade-.html",
-    "published": "Tue, 25 Aug 2026 06:24:36 GMT",
-    "fetched_at": "2026-08-25 15:28:43",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "해운",
-      "방산"
-    ],
-    "keywords": [
-      "이란 제재",
-      "지정학적 리스크",
-      "유가",
-      "트럼프"
-    ],
-    "reason": "트럼프 행정부의 이란 무역 제재 강화 위협은 중동 지정학적 긴장을 고조시키고 글로벌 원유 공급망에 불확실성을 가중시켜 유가 상승 압력을 높일 수 있습니다. 이는 전 세계 경제에 부담을 줄 가능성이 있습니다.",
-    "action_point": "중동 지정학적 리스크 고조에 따른 국제 유가 상승 압력 대비 에너지 섹터 비중 확대 검토"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "中경제사령탑, 경기둔화에도 연일 자신감…\"고품질 발전 추진\" - 연합뉴스",
-    "title_ko": "中경제사령탑, 경기둔화에도 연일 자신감…고품질 발전 추진",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5LWVViLTc5SW5CMjh0VVZXZ19VZEk0SG1wOXJyQThneTVnNjJMdVJJc2x1emVhYmhxNS0tSGkweFJuYUI1YkNYaVRYMmtaeE9RR19pVVlFNUxXSWhkdjJobdIBYEFVX3lxTE5LWVViLTc5SW5CMjh0VVZXZ19VZEk0SG1wOXJyQThneTVnNjJMdVJJc2x1emVhYmhxNS0tSGkweFJuYUI1YkNYaVRYMmtaeE9RR19pVVlFNUxXSWhkdjJobQ?oc=5",
-    "published": "Tue, 25 Aug 2026 01:16:19 GMT",
-    "fetched_at": "2026-08-25 15:28:52",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "국내 수출주",
-      "반도체",
-      "원자재",
-      "소비재"
-    ],
-    "keywords": [
-      "중국 경제",
-      "경기 둔화",
-      "고품질 발전",
-      "수출",
-      "아시아 경제"
-    ],
-    "reason": "중국 경제사령탑의 자신감 표명은 경기 둔화에 대한 시장 우려를 불식시키려는 의도이나, '고품질 발전' 강조는 성장률 둔화 속 구조 전환에 초점을 맞추는 정책 기조를 시사한다. 이는 단기적 경기 부양책보다는 장기적 관점에서 산업 구조 개편을 추진할 것임을 의미한다.",
-    "action_point": "중국의 장기적 구조 전환 정책에 따라 대중국 수출 비중이 높은 국내 기업들의 사업 모델 변화 및 신규 시장 개척 여부를 주시하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "국민연금 부동산투자 '평판' 리스크 부상…내부 감사에 한 달째 공전 - 연합인포맥스",
-    "title_ko": "국민연금 부동산투자 '평판' 리스크 부상…내부 감사에 한 달째 공전",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE01dEtBQ1l4c2Nva0FCOExpWXdSUk5sNjZ0WmlvTUYzdC15em9qdWVhMlF6Q2pUN3ZtOHZxN2xHVGY2MjBkM19abEtXV29RaDRpOEJtNDFFamVtX19NRy1tdDRXSzl4aGZOVkdwQ0ptQzc?oc=5",
-    "published": "Tue, 25 Aug 2026 04:20:20 GMT",
-    "fetched_at": "2026-08-25 14:24:52",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "부동산",
-      "건설",
-      "금융"
-    ],
-    "keywords": [
-      "국민연금",
-      "부동산투자",
-      "평판 리스크",
-      "내부 감사",
-      "투자 지연"
-    ],
-    "reason": "국민연금의 부동산 투자 의사결정 공전은 국내외 부동산 시장의 투자 심리를 위축시키고 관련 섹터에 불확실성을 높일 수 있습니다. 대형 기관의 자금 집행 지연은 유동성 우려를 가중시킵니다.",
-    "action_point": "부동산 섹터 및 부동산 PF 관련 금융주의 포트폴리오 비중 축소 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Xpeng shares sink as weak delivery forecast overshadows $6.3 billion robot unit valuation",
-    "title_ko": "샤오펑 주가, 부진한 인도량 전망에 하락... 63억 달러 로봇 사업부 가치에도 불구하고",
-    "link": "https://www.cnbc.com/2026/08/25/xpeng-shares-robot-valuation-china.html",
-    "published": "Tue, 25 Aug 2026 04:08:37 GMT",
-    "fetched_at": "2026-08-25 13:29:52",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "전기차",
-      "로봇"
-    ],
-    "keywords": [
-      "샤오펑",
-      "전기차",
-      "인도량 전망",
-      "로봇",
-      "주가"
-    ],
-    "reason": "이 뉴스는 글로벌 전기차 시장, 특히 중국 전기차 제조업체들의 수요 둔화 또는 경쟁 심화를 시사한다. 샤오펑의 로봇 사업부 가치에도 불구하고 핵심 사업 실적 우려가 부각되며 투자자들의 단기 실적 및 시장 점유율에 대한 집중을 보여준다.",
-    "action_point": "중국 전기차 관련 투자 비중 축소 또는 신규 진입 보류를 검토하라."
   }
 ]
