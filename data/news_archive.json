@@ -1,5 +1,56 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "'전쟁 6개월' 트럼프 \"해상 봉쇄 성공적\"...미 언론 \"이란 굴복 가능성 낮아 - YTN",
+    "title_ko": "'전쟁 6개월' 트럼프 \"해상 봉쇄 성공적\"...미 언론 \"이란 굴복 가능성 낮아",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB0YS03Q2QxVGlfN211ZkhmRkhQTm1VV1NZbFg5WW1DTXo4MTRZd1cyYUxJcExKWFBGckN6WkNDRXdhckFsc3JnT0FBRWgzQ3dFTVRaVEU3OUdlWHRlYkE?oc=5",
+    "published": "Sat, 29 Aug 2026 14:15:00 GMT",
+    "fetched_at": "2026-08-30 03:01:57",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "해운",
+      "항공"
+    ],
+    "keywords": [
+      "트럼프",
+      "이란",
+      "해상 봉쇄",
+      "지정학적 위험",
+      "유가"
+    ],
+    "reason": "트럼프의 이란 해상 봉쇄 언급과 이란의 비굴복 가능성은 중동 지정학적 긴장을 고조시키며, 글로벌 유가 상승 압력 및 시장 불확실성을 증대시킬 수 있습니다.",
+    "action_point": "유가 상승 압력에 대비하여 에너지 섹터 비중 확대를 검토하고, 해운/항공 등 유류비 민감 섹터에 대한 익스포저를 점검하십시오."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Tech backlash reaches fever pitch as AI angst collides with social media fears",
+    "title_ko": "AI 우려와 소셜 미디어 공포가 맞물리며 기술 섹터 역풍 거세져",
+    "link": "https://www.cnbc.com/2026/08/29/tech-backlash-ai-data-centers-elections.html",
+    "published": "Sat, 29 Aug 2026 12:16:03 GMT",
+    "fetched_at": "2026-08-30 03:01:46",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "기술",
+      "소셜 미디어",
+      "인공지능",
+      "클라우드 컴퓨팅"
+    ],
+    "keywords": [
+      "기술 규제",
+      "AI",
+      "소셜 미디어",
+      "데이터 센터",
+      "정치적 압력"
+    ],
+    "reason": "AI 및 소셜 미디어 기업에 대한 대중적 반감과 규제 압력이 증대되고 있으며, 이는 관련 기술 기업의 성장 전망과 비용 구조에 부정적인 영향을 미칠 수 있습니다.",
+    "action_point": "AI 및 소셜 미디어 관련 기술주의 비중 축소를 검토하고, 규제 강화 가능성에 대비하라."
+  },
+  {
     "source": "CNBC_Finance",
     "market": "US",
     "title": "September Fed decision is now a coin flip as rate hike odds increase post Warsh",
@@ -2929,55 +2980,5 @@
     ],
     "reason": "글로벌 자동차 부품 기업의 국내 배터리 생산 공장 증설은 국내 자동차 및 이차전지 산업의 경쟁력을 높이고 관련 공급망 강화에 긍정적으로 작용할 것입니다. 이는 지역 경제 활성화 및 고용 창출에도 기여합니다.",
     "action_point": "국내 자동차 부품 및 이차전지 관련 밸류체인 내 투자 기회를 점검하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "공장 안에 대학까지…전기 인재 직접 키워요",
-    "title_ko": "공장 안에 대학까지…전기 인재 직접 키워요",
-    "link": "https://www.mk.co.kr/news/society/12135995",
-    "published": "Tue, 25 Aug 2026 17:31:49 +09:00",
-    "fetched_at": "2026-08-25 17:33:03",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "전기전자",
-      "지역개발",
-      "산업교육"
-    ],
-    "keywords": [
-      "부산",
-      "청년인구",
-      "인재양성",
-      "전기산업",
-      "일자리 창출"
-    ],
-    "reason": "부산 지역의 전기 산업 인재난 해소를 위한 기업-정부 협력 모델로, 장기적인 지역 경제 활성화에는 긍정적이나, 국내외 거시 경제 및 주요 투자 자산에 미치는 직접적인 영향은 제한적입니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "美 '이란 경제전쟁' 첫날 호르무즈 유조선 또 피격 - MBC 뉴스",
-    "title_ko": "美 '이란 경제전쟁' 첫날 호르무즈 유조선 또 피격 - MBC 뉴스",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBKc2Y5bDJpbVRxTmxiNk90RmdRQWFRcW01akRJME8wVEpqdzJTY19ZMkpJMl9taHRjUEdON2UxNVF2VEhHSXktbldlOVlqbE54dVBEVkJqanpSVm5RYlM1LVNGQjRhN3NPY2Q2cklSOS1OVXh10gF0QVVfeXFMT0ZkRmxrUElISWs4OExET0REWGZjWGZSY2lfR25UamdiLVF3VzRYazhQOHdRMFlyRXhFQ195RDFicTRXVXB6dmhxQjNYN0x3ZGMwZ291alR1amVuZVc2YUJGck9FWVFmMlh2XzFUQjhKQW5lQlU?oc=5",
-    "published": "Tue, 25 Aug 2026 01:41:22 GMT",
-    "fetched_at": "2026-08-25 16:37:02",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "에너지",
-      "해운",
-      "방산"
-    ],
-    "keywords": [
-      "호르무즈 해협",
-      "유가",
-      "이란",
-      "지정학적 리스크",
-      "유조선 피격"
-    ],
-    "reason": "호르무즈 해협 유조선 피격은 미국-이란 경제전쟁 심화 속 지정학적 리스크를 고조시킨다. 유가 상승 압력과 해운 운임 및 보험료 인상으로 글로벌 인플레이션 및 경기 둔화 우려를 심화시킬 것이다.",
-    "action_point": "원유 가격 상승에 대비하여 에너지 관련 자산 비중 확대를 검토하라."
   }
 ]
