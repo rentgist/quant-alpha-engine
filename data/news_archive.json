@@ -1,5 +1,79 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "U.S. strikes Iranian rocket launchers near Strait of Hormuz",
+    "title_ko": "미국, 호르무즈 해협 인근 이란 로켓 발사대 공격",
+    "link": "https://www.cnbc.com/2026/08/30/us-iran-strikes-strait-hormuz.html",
+    "published": "Sun, 30 Aug 2026 21:32:59 GMT",
+    "fetched_at": "2026-08-31 06:44:37",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "국방",
+      "해운"
+    ],
+    "keywords": [
+      "미국",
+      "이란",
+      "호르무즈 해협",
+      "지정학적 리스크",
+      "유가"
+    ],
+    "reason": "미국의 호르무즈 해협 인근 이란 공격은 중동의 지정학적 긴장을 고조시키며 글로벌 원유 공급망 리스크를 증대시킨다. 이는 유가 상승 압력과 시장 변동성 확대로 이어질 수 있다.",
+    "action_point": "원유 및 관련 에너지 자산 비중 확대를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Aon nears $17 billion deal to buy insurance broker USI, WSJ reports",
+    "title_ko": "Aon, 보험 중개업체 USI를 170억 달러에 인수 합병 임박 (WSJ 보도)",
+    "link": "https://www.cnbc.com/2026/08/30/aon-usi-17-billion-deal-talks.html",
+    "published": "Sun, 30 Aug 2026 20:46:12 GMT",
+    "fetched_at": "2026-08-31 06:44:46",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "보험",
+      "금융 서비스"
+    ],
+    "keywords": [
+      "Aon",
+      "USI",
+      "인수합병",
+      "보험 중개",
+      "사모펀드"
+    ],
+    "reason": "보험 중개업계 내 대규모 M&A로, 산업 내 통합과 선두 기업의 시장 지배력 강화 추세를 보여줍니다. Aon의 사업 확장 및 효율성 증대에는 긍정적이나, 거시 경제 전반에 미치는 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "“임원 달고 이 정도는 기본”…삼성·SK 주식 부자 400명 육박",
+    "title_ko": "“임원 달고 이 정도는 기본”…삼성·SK 주식 부자 400명 육박",
+    "link": "https://www.mk.co.kr/news/business/12140023",
+    "published": "Mon, 31 Aug 2026 06:15:15 +09:00",
+    "fetched_at": "2026-08-31 06:45:00",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "반도체",
+      "IT",
+      "전자"
+    ],
+    "keywords": [
+      "삼성전자",
+      "SK하이닉스",
+      "임원",
+      "주식 보유",
+      "내부자"
+    ],
+    "reason": "주요 반도체/IT 기업 임원들의 높은 주식 보유는 해당 기업의 장기적인 성장 및 주주가치 제고에 대한 내부자들의 자신감을 반영하는 지표로 해석될 수 있습니다.",
+    "action_point": "삼성전자 및 SK하이닉스의 주가 하방 경직성 및 장기 성장 잠재력 재평가."
+  },
+  {
     "source": "CNBC_Finance",
     "market": "US",
     "title": "Analysts like this humanoid supplier, even if the robots remain concepts — for now",
@@ -2900,82 +2974,5 @@
     ],
     "reason": "2차 제재는 특정 국가에 대한 국제 사회의 압박이 강화되고 있음을 시사하며, 이는 지정학적 위험을 고조시키고 글로벌 경제 및 역내 시장의 불확실성을 증대시킬 수 있습니다.",
     "action_point": "지정학적 위험 고조에 따른 원화 약세 가능성에 대비하여 달러 등 안전자산 비중 유지를 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Canada unveils retaliatory tariffs on about $20 billion of U.S. goods",
-    "title_ko": "캐나다, 약 200억 달러 규모 미국산 제품에 보복 관세 부과 발표",
-    "link": "https://www.cnbc.com/2026/08/25/canada-trump-tariffs-trade-carney-leblanc.html",
-    "published": "Tue, 25 Aug 2026 15:30:12 GMT",
-    "fetched_at": "2026-08-26 00:33:47",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "제조업",
-      "무역",
-      "운송",
-      "소비재"
-    ],
-    "keywords": [
-      "캐나다",
-      "미국",
-      "관세",
-      "무역분쟁",
-      "보복조치"
-    ],
-    "reason": "캐나다의 보복 관세는 미-캐나다 무역 분쟁을 격화시키고 전반적인 글로벌 무역 긴장을 고조시켜 세계 경제 성장 둔화 우려를 심화시킬 수 있습니다. 이는 글로벌 공급망 불안정 및 기업들의 생산 비용 증가로 이어질 가능성이 있습니다.",
-    "action_point": "글로벌 무역 분쟁 확산 위험에 대비하여 수출 의존도가 높은 국내 산업의 투자 비중을 재검토하고 방어적 자산 편입을 고려."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "The 'debasement trade' returns after Bessent bond maneuver. Crypto and gold are back in style",
-    "title_ko": "베슨트의 채권 전략 이후 '자산 가치 하락 헤지 거래' 재개. 암호화폐와 금 다시 인기 부상",
-    "link": "https://www.cnbc.com/2026/08/25/debasement-trade-debt-gold-bitcoin-dollar.html",
-    "published": "Tue, 25 Aug 2026 15:16:02 GMT",
-    "fetched_at": "2026-08-26 00:33:55",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "귀금속 (금)",
-      "암호화폐",
-      "채권 시장",
-      "인플레이션 헤지 자산"
-    ],
-    "keywords": [
-      "가치 하락 헤지",
-      "미국 재정 지출",
-      "금",
-      "암호화폐",
-      "인플레이션",
-      "채권 약세"
-    ],
-    "reason": "미국 정부의 막대한 재정 지출과 재정 건전성에 대한 우려가 커지면서 화폐 가치 하락에 대비하는 움직임이 강화되고 있습니다. 이는 금과 암호화폐 같은 인플레이션 헤지 자산으로의 자금 이동을 촉진하며, 장기적으로 채권 시장에 압력을 가할 수 있습니다.",
-    "action_point": "금, 암호화폐 등 인플레이션 헤지 자산 비중 확대를 검토하고, 장기 국채 보유 리스크를 재평가하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "A lesser known area of the AI market is set for its biggest boom since 2022. Buy this stock to play the trend, Morgan Stanley says",
-    "title_ko": "AI 시장의 덜 알려진 분야가 2022년 이후 가장 큰 붐을 맞을 준비가 되었다. 모건스탠리는 이 트렌드에 투자할 주식을 추천한다",
-    "link": "https://www.cnbc.com/2026/08/25/-buy-this-stock-to-play-boom-in-one-area-of-ai-morgan-stanley-says.html",
-    "published": "Tue, 25 Aug 2026 14:11:19 GMT",
-    "fetched_at": "2026-08-26 00:34:04",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "인공지능",
-      "사이버보안",
-      "소프트웨어"
-    ],
-    "keywords": [
-      "인공지능",
-      "사이버보안",
-      "모건스탠리",
-      "주식 추천"
-    ],
-    "reason": "모건스탠리가 AI 시장 내 사이버보안 분야의 큰 성장을 전망하며 특정 주식을 추천, 이는 해당 분야의 투자 심리 개선 및 자금 유입 기대를 높일 수 있습니다.",
-    "action_point": "AI 기반 사이버보안 섹터 내 투자 기회 발굴을 검토하십시오."
   }
 ]
