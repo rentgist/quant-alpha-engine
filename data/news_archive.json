@@ -1,5 +1,29 @@
 [
   {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Analysts like this humanoid supplier, even if the robots remain concepts — for now",
+    "title_ko": "애널리스트들, 휴머노이드 로봇이 아직 개념 단계에 머물러 있어도 이 공급업체에 주목",
+    "link": "https://www.cnbc.com/2026/08/30/analysts-favor-humanoid-supplier-even-as-robots-remain-concepts-for-now.html",
+    "published": "Sun, 30 Aug 2026 10:40:19 GMT",
+    "fetched_at": "2026-08-30 23:06:02",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "로봇 산업",
+      "산업 자동화",
+      "정밀 기계 부품"
+    ],
+    "keywords": [
+      "휴머노이드 로봇",
+      "로봇 부품",
+      "상업화",
+      "성장 잠재력"
+    ],
+    "reason": "휴머노이드 로봇의 상업화는 아직 미지수이나, 핵심 부품 공급업체에 대한 애널리스트들의 긍정적 평가는 로봇 및 자동화 산업의 장기 성장 잠재력을 시사합니다.",
+    "action_point": "로봇 및 산업 자동화 섹터 내 핵심 부품 기술 기업 비중 확대를 검토."
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "The big lesson from this week's earnings: The AI buildout is not a zero-sum game",
@@ -2953,31 +2977,5 @@
     ],
     "reason": "모건스탠리가 AI 시장 내 사이버보안 분야의 큰 성장을 전망하며 특정 주식을 추천, 이는 해당 분야의 투자 심리 개선 및 자금 유입 기대를 높일 수 있습니다.",
     "action_point": "AI 기반 사이버보안 섹터 내 투자 기회 발굴을 검토하십시오."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "China needs U.S. dollars but is building a hedge against Washington’s sanctions",
-    "title_ko": "중국, 미국 달러 필요하지만 워싱턴의 제재에 대비한 헤지 구축 중",
-    "link": "https://www.cnbc.com/2026/08/25/china-iran-us-sanctions-banks-cips.html",
-    "published": "Tue, 25 Aug 2026 12:42:15 GMT",
-    "fetched_at": "2026-08-25 22:41:20",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "금융",
-      "무역",
-      "원자재"
-    ],
-    "keywords": [
-      "미중 관계",
-      "달러 패권",
-      "제재",
-      "금융 시스템",
-      "CIPS",
-      "지정학"
-    ],
-    "reason": "미국 금융 시스템에 대한 중국의 의존도를 줄이려는 시도로, 이는 미중 간 패권 경쟁을 심화시키고 장기적으로 달러의 기축통화 지위와 글로벌 금융 질서에 영향을 미칠 수 있습니다.",
-    "action_point": "글로벌 금융 시스템의 분절화 가능성에 대비하여 달러 편중 포트폴리오의 통화 및 자산 다변화를 모색하라."
   }
 ]
