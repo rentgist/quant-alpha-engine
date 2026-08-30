@@ -1,5 +1,274 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "The big lesson from this week's earnings: The AI buildout is not a zero-sum game",
+    "title_ko": "이번 주 실적 발표의 큰 교훈: AI 구축은 제로섬 게임이 아니다",
+    "link": "https://www.cnbc.com/2026/08/29/big-lesson-from-this-weeks-earnings-ai-buildout-is-not-a-zero-sum-game.html",
+    "published": "Sat, 29 Aug 2026 13:25:55 GMT",
+    "fetched_at": "2026-08-30 17:42:11",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "기술",
+      "소프트웨어",
+      "반도체",
+      "인공지능"
+    ],
+    "keywords": [
+      "AI",
+      "실적",
+      "기술주",
+      "성장주",
+      "Nvidia",
+      "Salesforce",
+      "CrowdStrike"
+    ],
+    "reason": "주요 AI 관련 기업들의 예상치를 뛰어넘는 실적은 AI 성장 모멘텀이 특정 기업에 국한되지 않고 광범위하게 확산되고 있음을 확인시켜주며, 기술 섹터 전반에 대한 긍정적 투자 심리를 강화할 것입니다.",
+    "action_point": "AI 관련 기술주 포트폴리오 비중 확대 또는 유지 검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "경제부총리 이형일, 법무장관 김승원, 성평등장관 용혜인 - 조선일보",
+    "title_ko": "경제부총리 이형일, 법무장관 김승원, 성평등장관 용혜인",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWHpBSVNUMHdnaEMxc1NyaHJaVnRkZl9BVWdZTjJEcDRBTVp2MFBqUGRIM1dRb0dLU3FCQnBVZVdrSnpWSllrREpQSmNLRUE4MS1yVnVvb01SQkZSZUx5V1RmS01xY3dmT0VvSWg3WTVOaFZnbzc3U2U4M0tUMW5xdC1FLXZFSjNSX1RkOHI0UUs?oc=5",
+    "published": "Sun, 30 Aug 2026 04:12:04 GMT",
+    "fetched_at": "2026-08-30 17:43:43",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "금융",
+      "부동산",
+      "건설",
+      "산업 전반"
+    ],
+    "keywords": [
+      "경제부총리",
+      "인사",
+      "정부정책"
+    ],
+    "reason": "이형일 경제부총리 등 신임 장관 인사는 향후 정부의 경제 정책 방향에 영향을 미치겠지만, 구체적인 정책 기조가 미발표되어 시장에 미치는 즉각적인 영향은 중립적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "‘이집트 은행 제재’ 미, 이란 경제고립 착수…이란 “굴복 않을 것” - 한겨레",
+    "title_ko": "‘이집트 은행 제재’ 미, 이란 경제고립 착수…이란 “굴복 않을 것” - 한겨레",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBOcmJxUjQ2VGsyY1R2aG1TNFZLR1VpdlBoV0JyNHhoMWszYXNpd3lTY2VMcFoxN3d2OFU4WHMzNDFLQlFvTkpDaWVUMHhJamRGdXlERmdfMzZpMnFzcjdfaFprSFRFdTRySUZkeDdHV0VIZ2M?oc=5",
+    "published": "Sun, 30 Aug 2026 06:22:00 GMT",
+    "fetched_at": "2026-08-30 17:44:01",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "원자재",
+      "금융",
+      "방산",
+      "해운"
+    ],
+    "keywords": [
+      "이란 제재",
+      "지정학적 위험",
+      "유가 상승",
+      "중동"
+    ],
+    "reason": "미국의 이란 경제 고립 강화는 중동 지정학적 긴장을 고조시켜 원유 공급 불확실성과 유가 상승 압력을 높이며, 글로벌 금융 및 무역 환경의 리스크를 증가시킨다.",
+    "action_point": "중동 지정학적 위험 고조에 따른 유가 변동성 확대에 대비하여 에너지 관련 자산 비중 확대를 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "이 대통령, 법무장관에 김승원 지명...경제부총리 이형일·국방 강신철 - YTN",
+    "title_ko": "이 대통령, 법무장관에 김승원 지명...경제부총리 이형일·국방 강신철 - YTN",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9BN1F2dUNoUE8yLXhzS1BQcGJoQmdtUy1GM1JWRlJLRFZCM2l2bDctRXZRTUZXUVQtTnpVcjJVTTZOWWZwZXV6OUhJOWxvN3Jna2Z4d3NyTFdJSjRRUnc?oc=5",
+    "published": "Sun, 30 Aug 2026 03:52:00 GMT",
+    "fetched_at": "2026-08-30 17:44:17",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "전 섹터",
+      "금융",
+      "방산"
+    ],
+    "keywords": [
+      "내각 개편",
+      "경제부총리",
+      "장관 임명",
+      "이형일"
+    ],
+    "reason": "새 경제부총리 지명은 향후 경제 정책 방향에 대한 기대를 형성하며, 초기에는 시장에 중립적인 영향을 미치나, 향후 정책 기조에 따라 금융 시장 전반에 영향을 줄 수 있음.",
+    "action_point": "새 경제팀 출범에 따른 경제 정책 변화 가능성에 대비해 국내 정책 민감주 포트폴리오 점검."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "OpenAI to end model access to Cursor after acquisition by Elon Musk's SpaceX",
+    "title_ko": "OpenAI, 일론 머스크의 스페이스X에 인수된 커서에 모델 접근 중단 예정",
+    "link": "https://www.cnbc.com/2026/08/29/openai-cursor-spacex-model-access.html",
+    "published": "Sat, 29 Aug 2026 19:06:22 GMT",
+    "fetched_at": "2026-08-30 17:41:51",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "IT/기술",
+      "인공지능",
+      "소프트웨어"
+    ],
+    "keywords": [
+      "OpenAI",
+      "Cursor",
+      "SpaceX",
+      "인수",
+      "인공지능",
+      "모델 접근",
+      "경쟁"
+    ],
+    "reason": "OpenAI가 경쟁사(일론 머스크 연관)에 인수된 Cursor에 모델 접근을 중단하는 것은 AI 생태계 내 경쟁 심화를 나타내며, 특정 개발 도구 사용자들에게는 불편을 초래할 수 있습니다. 이는 AI 기술 접근성과 향후 AI 시장의 파편화 가능성에 대한 우려를 제기합니다.",
+    "action_point": "인공지능(AI) 관련 소프트웨어 및 플랫폼 투자 시, 공급망 안정성과 경쟁 환경 변화 리스크를 재평가."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Venezuela's interim president says U.S. energy deal will last 25 years",
+    "title_ko": "베네수엘라 임시 대통령, \"미국과의 에너지 협정 25년간 지속될 것\"",
+    "link": "https://www.cnbc.com/2026/08/30/venezuelas-interim-president-says-us-energy-deal-will-last-25-years.html",
+    "published": "Sun, 30 Aug 2026 07:29:04 GMT",
+    "fetched_at": "2026-08-30 17:42:05",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "에너지",
+      "원자재"
+    ],
+    "keywords": [
+      "베네수엘라",
+      "미국",
+      "에너지 협정",
+      "원유 공급",
+      "지정학"
+    ],
+    "reason": "베네수엘라와 미국의 장기 에너지 협정은 글로벌 원유 공급망의 다각화 및 미국 에너지 안보 강화에 기여할 수 있습니다. 이는 장기적인 유가 변동성 완화 요인이 되지만, 단기 시장 영향은 제한적입니다.",
+    "action_point": "장기적인 원유 공급 안정화 기대감을 반영하여 에너지 관련 자산 포트폴리오의 장기 전략을 재검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[프로필] 이형일 경제부총리 후보자…실력·인품 겸비한 거시정책통 - 연합인포맥스",
+    "title_ko": "[프로필] 이형일 경제부총리 후보자…실력·인품 겸비한 거시정책통",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1RlR0VER3dHZ6dlJXZUNmWVp0RHUtSkZBN1VWM0ZxWDg0ZFJhMksxQ3p0cGZmMzd6TnRKS29SWlhZdVN3elNoYjU4OGZha1ZpOWQwd25PSXFJb05TNkpKcHI2dVI1RG5FaE85ZzBMUG0?oc=5",
+    "published": "Sun, 30 Aug 2026 03:13:34 GMT",
+    "fetched_at": "2026-08-30 17:42:50",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "거시경제 정책"
+    ],
+    "keywords": [
+      "이형일",
+      "경제부총리 후보",
+      "거시정책"
+    ],
+    "reason": "새로운 경제부총리 후보자의 거시경제 정책 철학 및 역량을 소개하는 기사로, 향후 경제 정책 방향을 가늠해볼 수 있는 초기 단서입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "국힘 \"李정부 개각, 공소취소 전격전·경제정책 기조 불변 선언\" - 연합뉴스",
+    "title_ko": "국힘 \"李정부 개각, 공소취소 전격전·경제정책 기조 불변 선언\"",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OTWFHM0hjUVpTdzM5enlNUjBPc285cnFSSjdLU0ttTmRLcHAxMVVQdEZRQmI5ZGJWY2F2RVROYUVnY3pVcXVSN1BMOHU4WnJzS29qNDYwTG5MU1phU2FPY9IBYEFVX3lxTE5OTWFHM0hjUVpTdzM5enlNUjBPc285cnFSSjdLU0ttTmRLcHAxMVVQdEZRQmI5ZGJWY2F2RVROYUVnY3pVcXVSN1BMOHU4WnJzS29qNDYwTG5MU1phU2FPYw?oc=5",
+    "published": "Sun, 30 Aug 2026 04:53:51 GMT",
+    "fetched_at": "2026-08-30 17:43:03",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "국내 경제 전반"
+    ],
+    "keywords": [
+      "국힘",
+      "이정부",
+      "개각",
+      "경제정책",
+      "기조 불변",
+      "정책 안정성"
+    ],
+    "reason": "이 뉴스는 정부의 경제정책 기조가 개각에도 불구하고 유지될 것임을 확인시켜, 국내 정책 관련 불확실성을 해소하고 시장에 예측 가능성을 제공합니다. 이는 급격한 변화 없이 현행 경제 정책이 지속될 것임을 시사합니다.",
+    "action_point": "국내 정책 관련 변동성이 제한적인바, 기존 국내 자산 포트폴리오 전략을 유지한다."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "안양 만안 충훈동 공공재개발 … 롯데·현대건설 1.4조에 수주",
+    "title_ko": "안양 만안 충훈동 공공재개발 … 롯데·현대건설 1.4조에 수주",
+    "link": "https://www.mk.co.kr/news/realestate/12139909",
+    "published": "Sun, 30 Aug 2026 17:40:36 +09:00",
+    "fetched_at": "2026-08-30 17:46:05",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "건설",
+      "부동산"
+    ],
+    "keywords": [
+      "공공재개발",
+      "롯데건설",
+      "현대건설",
+      "수주",
+      "안양",
+      "1.4조"
+    ],
+    "reason": "롯데건설과 현대건설 컨소시엄의 대규모 공공재개발 수주는 해당 기업들의 수주잔고 및 실적에 긍정적이며, 국내 건설 경기의 일정 부분 회복세를 시사합니다.",
+    "action_point": "롯데건설, 현대건설 등 대형 건설사들의 주가 흐름 및 실적 가이던스 변화를 주시."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[속보] 울산 동구 일대에 시간당 100mm 폭우, 침수 피해 주의 - KBS 뉴스",
+    "title_ko": "[속보] 울산 동구 일대에 시간당 100mm 폭우, 침수 피해 주의 - KBS 뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hX19KaGtRVnlwa2JMd0VKZzBhWktsS0dzMy1QMG04RGdZOFdTN25Mck9lUUFhVEQ3Q25sb1NkSmFmdmJZYW40cUJtYTdXcDZXR2hjV3NwRWxvWmI0NGJwcVNfOHJiZw?oc=5",
+    "published": "Sun, 30 Aug 2026 07:06:00 GMT",
+    "fetched_at": "2026-08-30 17:43:52",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "보험",
+      "건설",
+      "유통",
+      "운송"
+    ],
+    "keywords": [
+      "울산",
+      "폭우",
+      "침수",
+      "자연재해"
+    ],
+    "reason": "울산 동구의 국지성 폭우로 인한 침수 피해는 해당 지역의 소상공인 매출 및 보험사 손실에 단기적 영향을 미칠 수 있으나, 국내 거시 경제 전반이나 주요 투자 자산에 미치는 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "인천 시티오씨엘 9단지 등 이번주 전국 청약 2392가구",
+    "title_ko": "인천 시티오씨엘 9단지 등 이번주 전국 청약 2392가구",
+    "link": "https://www.mk.co.kr/news/realestate/12139905",
+    "published": "Sun, 30 Aug 2026 17:40:34 +09:00",
+    "fetched_at": "2026-08-30 17:47:16",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "부동산"
+    ],
+    "keywords": [
+      "부동산",
+      "청약",
+      "인천",
+      "아파트 공급"
+    ],
+    "reason": "이번주 인천 중심의 아파트 청약 물량은 지역 주택 시장의 공급 동향을 보여주지만, 전반적인 국내 부동산 시장이나 거시경제 지표에 미치는 영향은 제한적입니다. 특정 지역의 수요-공급 균형에 미미한 영향을 줄 수 있습니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "CNBC_Finance",
     "market": "US",
     "title": "Stocks making the biggest moves premarket: PayPal, Affirm Holdings, Gap, Marvell Technology & more",
@@ -2710,280 +2979,5 @@
     ],
     "reason": "미국 금융 시스템에 대한 중국의 의존도를 줄이려는 시도로, 이는 미중 간 패권 경쟁을 심화시키고 장기적으로 달러의 기축통화 지위와 글로벌 금융 질서에 영향을 미칠 수 있습니다.",
     "action_point": "글로벌 금융 시스템의 분절화 가능성에 대비하여 달러 편중 포트폴리오의 통화 및 자산 다변화를 모색하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Oil drops 3% as U.S. shifts to economic pressure on Iran, easing fears of renewed war",
-    "title_ko": "미국, 이란에 대한 경제 압박으로 전환하며 전쟁 재발 우려 완화에 유가 3% 하락",
-    "link": "https://www.cnbc.com/2026/08/25/oil-prices-iran-trump-hormuz.html",
-    "published": "Tue, 25 Aug 2026 13:29:31 GMT",
-    "fetched_at": "2026-08-25 22:41:28",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "항공",
-      "해운",
-      "소비재",
-      "화학"
-    ],
-    "keywords": [
-      "유가",
-      "이란",
-      "미국",
-      "지정학",
-      "인플레이션"
-    ],
-    "reason": "미국이 이란에 대한 정책을 군사적 충돌보다 경제적 압박으로 전환하면서 중동발 지정학적 리스크 프리미엄이 완화되어 유가 하락 및 글로벌 인플레이션 압력 완화에 기여할 것입니다.",
-    "action_point": "에너지 비용 절감 수혜가 예상되는 운송, 소비재 및 화학 섹터 투자 비중 확대를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Apple announces new Mac Mini and Mac Studio models with AI upgrades",
-    "title_ko": "애플, AI 업그레이드된 새로운 Mac Mini 및 Mac Studio 모델 발표",
-    "link": "https://www.cnbc.com/2026/08/25/apple-announces-new-mac-mini-and-mac-studio-models-with-ai-upgrades.html",
-    "published": "Tue, 25 Aug 2026 13:00:01 GMT",
-    "fetched_at": "2026-08-25 22:41:36",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "IT 하드웨어",
-      "반도체",
-      "소프트웨어"
-    ],
-    "keywords": [
-      "애플",
-      "Mac",
-      "AI",
-      "반도체",
-      "개발자"
-    ],
-    "reason": "애플의 신제품 출시는 IT 하드웨어 수요를 자극하고 자체 칩셋 기반의 AI 역량 강화를 시사한다. 이는 AI 기술의 광범위한 확산 및 관련 산업 성장에 긍정적인 신호로 작용할 수 있다.",
-    "action_point": "AI 반도체 및 AI 하드웨어 솔루션 관련 기업의 장기 성장 가능성을 재평가하고 투자 비중 확대를 검토하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "“우리나라, 미국 자회사 취급 말라”…트럼프와 기싸움 벌이는 캐나다",
-    "title_ko": "“우리나라, 미국 자회사 취급 말라”…트럼프와 기싸움 벌이는 캐나다",
-    "link": "https://www.mk.co.kr/news/world/12136177",
-    "published": "Tue, 25 Aug 2026 20:40:15 +09:00",
-    "fetched_at": "2026-08-25 21:28:48",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "제조업",
-      "글로벌 무역 관련 섹터"
-    ],
-    "keywords": [
-      "트럼프",
-      "캐나다",
-      "무역갈등",
-      "보호무역"
-    ],
-    "reason": "미국과 캐나다 간 무역 갈등은 글로벌 보호무역주의 심화와 지정학적 리스크를 부각시키며, 전반적인 글로벌 경기 둔화 우려를 가중시킬 수 있습니다.",
-    "action_point": "글로벌 무역 분쟁 확대 가능성에 대비하여 수출 비중이 높은 기업에 대한 보수적 접근을 고려."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Stocks making the biggest moves premarket: Dick's Sporting Goods, Advanced Micro Devices, Kura Oncology & more",
-    "title_ko": "개장 전 가장 큰 움직임을 보이는 주식들: 딕스 스포팅 굿즈, 어드밴스드 마이크로 디바이시스, 쿠라 온콜로지 등",
-    "link": "https://www.cnbc.com/2026/08/25/stocks-making-the-biggest-moves-premarket-dks-amd-kura.html",
-    "published": "Tue, 25 Aug 2026 11:38:57 GMT",
-    "fetched_at": "2026-08-25 21:28:21",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "소비재 (재량)",
-      "반도체",
-      "제약/바이오"
-    ],
-    "keywords": [
-      "개장 전 거래",
-      "개별 주식",
-      "시장 변동성"
-    ],
-    "reason": "이 기사는 개장 전 특정 개별 주식들의 가격 변동을 나열하고 있을 뿐, 시장 전반의 방향성이나 거시 경제적 의미를 제공하지 않습니다. 따라서 광범위한 투자 포트폴리오에 미칠 영향은 제한적입니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "OpenAI bans Russian ChatGPT accounts used in covert misinformation campaign",
-    "title_ko": "OpenAI, 러시아의 비밀 허위 정보 캠페인에 사용된 ChatGPT 계정 차단",
-    "link": "https://www.cnbc.com/2026/08/25/openai-russia-chatgpt-influence-campaign.html",
-    "published": "Tue, 25 Aug 2026 11:21:09 GMT",
-    "fetched_at": "2026-08-25 21:28:30",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "AI/테크",
-      "사이버 보안"
-    ],
-    "keywords": [
-      "AI",
-      "허위 정보",
-      "기술 규제",
-      "사이버 보안"
-    ],
-    "reason": "이 뉴스는 AI 기술의 오용 가능성과 지정학적 맥락에서 허위 정보 확산에 대한 우려를 심화시킵니다. 장기적으로 AI 윤리 및 기술 규제 강화 논의를 촉발할 수 있으나, 단기적 시장 영향은 제한적입니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "빵 두 개가 3만원?…1만6000원 가격표에 누리꾼들 “차라리 치킨”",
-    "title_ko": "빵 두 개가 3만원?…1만6000원 가격표에 누리꾼들 “차라리 치킨”",
-    "link": "https://www.mk.co.kr/news/economy/12136195",
-    "published": "Tue, 25 Aug 2026 21:11:43 +09:00",
-    "fetched_at": "2026-08-25 21:28:40",
-    "sentiment": "악재",
-    "importance": 2,
-    "sectors": [
-      "음식료",
-      "유통",
-      "소비재"
-    ],
-    "keywords": [
-      "물가상승",
-      "인플레이션",
-      "소비심리",
-      "베이커리"
-    ],
-    "reason": "높은 빵 가격 논란은 전반적인 식품 물가 상승과 소비자의 저항 심리를 반영하며, 음식료 및 외식업종 전반의 소비 위축 가능성을 시사합니다.",
-    "action_point": "고물가에 따른 국내 외식 및 가공식품 섹터 기업들의 실적 하방 위험을 점검하고, 필수소비재 내에서도 가격 전가력이 낮은 기업 비중을 축소 검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "레이 달리오 \"美 이르면 3년내 부채 위기... 금·비트코인 투자 늘려라\" - 조선일보",
-    "title_ko": "레이 달리오 \"美 이르면 3년내 부채 위기... 금·비트코인 투자 늘려라\" - 조선일보",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQXl6eFE1WnpzT1NEbG04RjV2SGp4RkVzdjdObURGTHRDenR1ZHBzY2tpSk9hWFF0NTNQaGoyai1KTmF0cDE1cU1fZUM4UmVqeXNZd0NsSThiT2ZwQjJjZW1FZURsbEJkRGY3WWlFRU81bFp0dWVmTDBzM3ZjaHhGMw?oc=5",
-    "published": "Tue, 25 Aug 2026 08:20:52 GMT",
-    "fetched_at": "2026-08-25 20:19:18",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "금융",
-      "가상자산",
-      "원자재 (금)",
-      "글로벌 주식",
-      "외환"
-    ],
-    "keywords": [
-      "레이 달리오",
-      "미국 부채",
-      "금",
-      "비트코인",
-      "자산 배분"
-    ],
-    "reason": "세계적인 거시경제 전문가 레이 달리오의 미국 부채 위기 경고는 달러화 약세 및 인플레이션 압력 심화에 대한 우려를 반영하며, 전통 자산 대비 금과 비트코인 등 대체 자산으로의 자본 이동 가능성을 시사합니다.",
-    "action_point": "포트폴리오 내 금과 비트코인 비중 확대를 검토하여 잠재적 미국 부채 위기 및 달러 약세에 대비하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Ukraine is targeting Russia’s retail giants. Ozon is the next economic pressure point",
-    "title_ko": "우크라이나, 러시아 소매 거대기업 표적 삼다. 오존이 다음 경제 압박 지점.",
-    "link": "https://www.cnbc.com/2026/08/25/ukraine-war-russia-ozon-wildberries-economy.html",
-    "published": "Tue, 25 Aug 2026 10:20:17 GMT",
-    "fetched_at": "2026-08-25 20:18:36",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "소매",
-      "물류/운송",
-      "지정학 리스크 관련 산업",
-      "신흥국 주식 (러시아 익스포저)"
-    ],
-    "keywords": [
-      "우크라이나",
-      "러시아",
-      "소매",
-      "공급망",
-      "지정학",
-      "경제압박",
-      "Ozon"
-    ],
-    "reason": "러시아 주요 소매 기업에 대한 우크라이나의 표적 공격은 러시아 경제의 취약성을 노린 것으로, 전반적인 공급망 불안을 가중시키고 지정학적 긴장을 고조시킬 수 있습니다.",
-    "action_point": "러시아-우크라이나 전쟁 장기화 및 경제 압박 심화에 따른 글로벌 지정학적 리스크 상승에 대비하여 포트폴리오 내 방어적 자산 비중을 점검하고 유지하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "BlackBerry CEO says robotics is one of its fastest-growing businesses",
-    "title_ko": "블랙베리 CEO, 로봇 공학이 가장 빠르게 성장하는 사업 중 하나라고 언급",
-    "link": "https://www.cnbc.com/2026/08/25/blackberry-qnx-robotics-physical-ai.html",
-    "published": "Tue, 25 Aug 2026 09:26:05 GMT",
-    "fetched_at": "2026-08-25 20:18:49",
-    "sentiment": "호재",
-    "importance": 2,
-    "sectors": [
-      "로봇",
-      "소프트웨어",
-      "기술주"
-    ],
-    "keywords": [
-      "블랙베리",
-      "로봇",
-      "QNX",
-      "소프트웨어",
-      "성장 사업"
-    ],
-    "reason": "블랙베리의 QNX 사업부가 자동차를 넘어 로봇 공학 분야로 확장하며 새로운 성장 동력을 확보하고 있음을 시사합니다. 이는 블랙베리 기업 가치에 긍정적이며, 전반적인 로봇 및 소프트웨어 산업의 성장 기대감을 높일 수 있습니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Dragon Ball Z theme park gets $7 billion green light",
-    "title_ko": "드래곤볼 Z 테마파크, 70억 달러 투자 승인",
-    "link": "https://www.cnbc.com/2026/08/25/dragon-ball-z-theme-park-france-paris.html",
-    "published": "Tue, 25 Aug 2026 08:53:08 GMT",
-    "fetched_at": "2026-08-25 18:25:31",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "레저",
-      "관광",
-      "건설"
-    ],
-    "keywords": [
-      "테마파크",
-      "사우디아라비아",
-      "프랑스",
-      "투자",
-      "엔터테인먼트"
-    ],
-    "reason": "사우디아라비아와 프랑스의 대규모 엔터테인먼트 투자는 특정 지역의 관광 및 건설 산업에 긍정적 영향을 미치나, 글로벌 매크로 시장 전체에 미치는 파급 효과는 제한적입니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Lego posts record first-half revenue, CEO touts strong sales at high-end and value pricing",
-    "title_ko": "레고, 상반기 사상 최대 매출 기록…CEO, 고가 및 저가 제품군 모두 견조한 판매 강조",
-    "link": "https://www.cnbc.com/2026/08/25/lego-first-half-2026-revenue.html",
-    "published": "Tue, 25 Aug 2026 07:00:01 GMT",
-    "fetched_at": "2026-08-25 18:25:40",
-    "sentiment": "호재",
-    "importance": 2,
-    "sectors": [
-      "소비재",
-      "유통",
-      "완구"
-    ],
-    "keywords": [
-      "레고",
-      "소비재",
-      "실적",
-      "소비심리",
-      "가격전략"
-    ],
-    "reason": "레고의 견조한 실적은 고가와 저가 제품 모두에서 소비가 견고하다는 것을 시사하며, 이는 전반적인 소비 심리 및 구매력 유지에 대한 긍정적 신호로 해석될 수 있습니다.",
-    "action_point": "글로벌 소비재 섹터에서 프리미엄 및 가성비 제품군을 모두 성공적으로 운영하는 기업에 대한 리서치 확대"
   }
 ]
