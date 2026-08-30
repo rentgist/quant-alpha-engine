@@ -1,5 +1,81 @@
 [
   {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Stocks making the biggest moves premarket: PayPal, Affirm Holdings, Gap, Marvell Technology & more",
+    "title_ko": "개장 전 가장 크게 움직이는 주식: 페이팔, 어펌 홀딩스, 갭, 마벨 테크놀로지 외 다수",
+    "link": "https://www.cnbc.com/2026/08/28/stocks-making-the-biggest-moves-premarket-pypl-afrm-gap-mrvl.html",
+    "published": "Fri, 28 Aug 2026 11:43:00 GMT",
+    "fetched_at": "2026-08-30 11:28:58",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "핀테크",
+      "유통",
+      "반도체"
+    ],
+    "keywords": [
+      "개장 전 거래",
+      "개별 주식",
+      "페이팔",
+      "어펌",
+      "갭",
+      "마벨 테크놀로지"
+    ],
+    "reason": "이 기사는 특정 개별 기업의 개장 전 주가 움직임을 단순 보도하는 것으로, 전반적인 시장이나 거시 경제에 미치는 실질적인 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "'관광·경제·청년' 진용 채우는 오세훈…민선9기 시정 체제 다진다 - 머니투데이 - 머니투데이",
+    "title_ko": "'관광·경제·청년' 진용 채우는 오세훈…민선9기 시정 체제 다진다",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE85R2ZyU1huS2hZc295U3cxUzluT3gwUnhlck9fUkJmbUZtdF9zbEZmNVdaQzljeHZFbGdBZ2lOaW91Z1QwRXh4UFh4dURIdWVoWE9JbFZGM1ROeTlyRjFITll6UndmR0ZCYWfSAW9BVV95cUxPeXZfaEJYaXE1cjF4VVhCd3hXTGJWUmJ0WlNiYldBaXk5Sko5SUtCSXRYRVFhcnV0cnA0SU9KMUh5aGppWk1TVlVIYmlVYjBmc0V2eHMtRmNBaHBoYWp6LU1vLTB4VllyVkFNbzBaVzg?oc=5",
+    "published": "Sat, 29 Aug 2026 23:30:00 GMT",
+    "fetched_at": "2026-08-30 11:29:08",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "관광",
+      "유통",
+      "부동산 (서울 한정)"
+    ],
+    "keywords": [
+      "오세훈",
+      "서울시",
+      "민선9기",
+      "관광",
+      "경제",
+      "청년"
+    ],
+    "reason": "오세훈 서울시장의 민선9기 시정 체제 정비 소식으로, 향후 서울시의 관광, 경제, 청년 관련 정책 방향성을 가늠할 수 있으나, 현재 시점에서는 구체적인 시장 영향은 제한적이다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[속보]신혼부부 버팀목 대출 '반토막' - 한경매거진&북",
+    "title_ko": "[속보]신혼부부 버팀목 대출 '반토막'",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtSE5tay0zTldpQy0yNnVNcFVCOEhJWEVQVzJ6WWtzWFFvNElkZlFuNUtjcG5vYjY0dFNKb2ZZX0htRUV5c3dOa2lnZlFCN3NtQ01oWE5nU0tvSU1lR0N5eU53c2ZXSHpYRlZHMw?oc=5",
+    "published": "Sun, 30 Aug 2026 00:43:00 GMT",
+    "fetched_at": "2026-08-30 11:29:15",
+    "sentiment": "악재",
+    "importance": 2,
+    "sectors": [
+      "부동산",
+      "건설",
+      "금융"
+    ],
+    "keywords": [
+      "신혼부부",
+      "버팀목대출",
+      "주택시장",
+      "대출규제"
+    ],
+    "reason": "신혼부부를 위한 주택 구입 자금 조달이 어려워지면서 해당 계층의 주택 수요가 위축되고, 이는 주택 시장 전반, 특히 중소형 아파트 매매 시장에 하방 압력으로 작용할 수 있습니다.",
+    "action_point": "국내 주택 관련 부동산 및 건설 섹터 투자 비중 축소를 검토하라."
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "Iran trade falls as Supreme Leader Khamenei urges less reliance on the U.S. dollar",
@@ -2909,72 +2985,5 @@
     ],
     "reason": "레고의 견조한 실적은 고가와 저가 제품 모두에서 소비가 견고하다는 것을 시사하며, 이는 전반적인 소비 심리 및 구매력 유지에 대한 긍정적 신호로 해석될 수 있습니다.",
     "action_point": "글로벌 소비재 섹터에서 프리미엄 및 가성비 제품군을 모두 성공적으로 운영하는 기업에 대한 리서치 확대"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "국제성모병원 글로벌 의료협력 성과, 해외 비즈니스 매체가 주목 - 의학신문",
-    "title_ko": "국제성모병원 글로벌 의료협력 성과, 해외 비즈니스 매체가 주목",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5vWkExM0VkcXhRcTRvelRzQnNyeDg5a2xRZEtIbjE3b05HM1VqMzdRa3RzVU82clpIdGZHaG80ZWdGVkZRVkZqMzFXVFZWaXI1MXhqSlpkZGZ1LTRVWTZVcVZTXzJIdGZBZ1E?oc=5",
-    "published": "Tue, 25 Aug 2026 07:08:45 GMT",
-    "fetched_at": "2026-08-25 18:25:48",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "의료 서비스",
-      "의료 관광"
-    ],
-    "keywords": [
-      "국제성모병원",
-      "글로벌 의료협력",
-      "의료관광",
-      "헬스케어 수출"
-    ],
-    "reason": "국제성모병원의 글로벌 의료협력 성과는 국내 특정 병원의 대외 성과로, 한국 의료 서비스의 경쟁력 향상을 간접적으로 시사합니다. 하지만 거시 경제나 광범위한 투자 자산군에 미치는 직접적인 영향은 제한적입니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "운용사 10곳 중 4곳, 주총 안건 절반 넘게 ‘형식적 기재’",
-    "title_ko": "운용사 10곳 중 4곳, 주총 안건 절반 넘게 ‘형식적 기재’",
-    "link": "https://www.mk.co.kr/news/stock/12136109",
-    "published": "Tue, 25 Aug 2026 18:24:45 +09:00",
-    "fetched_at": "2026-08-25 18:26:00",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "금융",
-      "자산운용"
-    ],
-    "keywords": [
-      "운용사",
-      "주주총회",
-      "의결권",
-      "금감원",
-      "수탁자책임",
-      "기업 지배구조"
-    ],
-    "reason": "자산운용사들이 주주총회 의결권 행사에 있어 형식적인 태도를 보인다는 지적이며, 이는 국내 기업들의 전반적인 기업 지배구조 개선 노력에 부정적인 영향을 미칠 수 있습니다. 금감원의 개선 요구는 향후 운용사들의 스튜어드십 책임 강화로 이어질 수 있습니다.",
-    "action_point": "자산운용사 선정 시 의결권 행사 투명성과 스튜어드십 활동 내역을 면밀히 검토하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "‘하청 인사 압력’ 구현모 전 KT대표 1심 무죄…“의심되나 증거 부족”",
-    "title_ko": "‘하청 인사 압력’ 구현모 전 KT대표 1심 무죄…“의심되나 증거 부족”",
-    "link": "https://www.mk.co.kr/news/society/12136099",
-    "published": "Tue, 25 Aug 2026 18:07:23 +09:00",
-    "fetched_at": "2026-08-25 18:26:15",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [],
-    "keywords": [
-      "KT",
-      "기업 지배구조",
-      "법적 리스크"
-    ],
-    "reason": "구현모 전 KT 대표의 1심 무죄 판결은 KT 개별 기업의 과거 법적 리스크 해소 측면이 있으나, 거시경제나 전체 시장에 미치는 영향은 제한적이다. 특정 산업 전반의 투자심리에 변화를 주지 않는다.",
-    "action_point": "해당 없음"
   }
 ]
