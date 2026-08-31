@@ -2,6 +2,78 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "Stock futures fall after U.S. strikes Iran; Wall Street heads for winning month: Live updates",
+    "title_ko": "미국, 이란 공습 후 주가지수 선물 하락; 월스트리트, 월간 상승세 예상: 실시간 업데이트",
+    "link": "https://www.cnbc.com/2026/08/30/stock-market-today-live-updates.html",
+    "published": "Sun, 30 Aug 2026 23:36:35 GMT",
+    "fetched_at": "2026-08-31 09:02:35",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "에너지",
+      "국방",
+      "항공우주",
+      "기술주"
+    ],
+    "keywords": [
+      "미국-이란 갈등",
+      "지정학적 리스크",
+      "주식 선물",
+      "유가",
+      "안전자산"
+    ],
+    "reason": "미국의 이란 공습은 중동 지역의 지정학적 긴장을 고조시키며, 이는 국제 유가 상승 및 전반적인 시장의 위험 회피 심리를 자극하여 주식 시장에 하방 압력을 가할 것입니다.",
+    "action_point": "미국-이란 갈등 고조로 인한 시장 변동성 확대에 대비하여 위험 자산 비중을 축소하고, 안전 자산(금, 달러) 및 에너지 관련 자산 편입을 고려하십시오."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "與 \"실용·실력 중심 인사\"…野 \"경제 정책 불변 선언\" - 연합뉴스TV",
+    "title_ko": "與 \"실용·실력 중심 인사\"…野 \"경제 정책 불변 선언\"",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBuLTk3U0VDMm1LZUtjejdKYW1EVUZjOUpGUGs3UDRuU3ZpYWhKNVpZLVZDRG5wWXJ1UmFGbUNOc04zVmJfWTVONklMOGZPM1daVTlZcjJndzdIRVpYTE9GdFkwbmtZcHM?oc=5",
+    "published": "Sun, 30 Aug 2026 20:17:00 GMT",
+    "fetched_at": "2026-08-31 09:02:55",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "국내 경기 민감주",
+      "정부 정책 관련 산업"
+    ],
+    "keywords": [
+      "인사",
+      "경제 정책",
+      "여당",
+      "야당",
+      "정치"
+    ],
+    "reason": "여당의 실용 인사 기조와 야당의 현 경제 정책 유지 비판은 정치적 불확실성을 시사하나, 즉각적인 정책 변화가 아니므로 시장에 미치는 직접적 영향은 제한적이다.",
+    "action_point": "현 경제 정책 방향의 불확실성을 고려하여 국내 경기 민감 섹터 비중 확대 유보."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Icelanders reject reopening talks to join the EU despite Trump's Greenland threats",
+    "title_ko": "아이슬란드 국민, 트럼프의 그린란드 위협에도 불구하고 EU 가입 재협상 거부",
+    "link": "https://www.cnbc.com/2026/08/30/iceland-eu-accession-referendum-result.html",
+    "published": "Sun, 30 Aug 2026 12:32:44 GMT",
+    "fetched_at": "2026-08-31 09:02:22",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "해당 없음"
+    ],
+    "keywords": [
+      "아이슬란드",
+      "EU",
+      "그린란드",
+      "트럼프"
+    ],
+    "reason": "아이슬란드의 EU 가입 재협상 거부는 해당 국가의 국내 정치적 결정으로, 글로벌 금융 시장에 미치는 직접적인 영향은 매우 제한적입니다. 트럼프의 그린란드 관련 언급은 외교적 이슈이나, 아이슬란드 투표 결과 자체는 글로벌 자산 포트폴리오에 유의미한 변화를 주지 않습니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "U.S. strikes Iranian rocket launchers near Strait of Hormuz",
     "title_ko": "미국, 호르무즈 해협 인근 이란 로켓 발사대 공격",
     "link": "https://www.cnbc.com/2026/08/30/us-iran-strikes-strait-hormuz.html",
@@ -2900,79 +2972,5 @@
     ],
     "reason": "최고 애널리스트의 반도체 섹터 10% 추가 하락 전망은 AI 붐 이후 급등했던 밸류에이션의 조정 가능성을 시사합니다. 이는 기술주 전반과 반도체 의존도가 높은 국내 증시에 하방 압력을 가할 수 있습니다.",
     "action_point": "반도체 섹터 비중 축소를 검토하고, 관련 지수 추종 ETF 매도 기회를 모색하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "이란 \"美 경제 제재, 전 세계 국가 주권에 대한 공격\" - 머니투데이 - 머니투데이",
-    "title_ko": "이란 \"美 경제 제재, 전 세계 국가 주권에 대한 공격\" - 머니투데이",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SQmpiX1c0d19kTnptM2lpcVBZT0xCbWk5YzlIU1pNYWNKczAxdmY1ekJrelp0T2VfOTBSX3djWjhlanJBakxfaVo5RGdlNlVaNlZzTVVBenJsRTRBd2JfM3J5Zl81Ry150gFuQVVfeXFMT012WVNqbnRkNmdLQ3lkanBuelZNUWk2ZGpPcW5vUkwzMW5ab0pvd3ZFX0pBbVo1X2ROcXF3Y1RfaXJXakUwR2NZdE8yQ2xSRVlra0JjWEhoNFNTNU41Y21aTHNUUmgwVzZrdUhLaUE?oc=5",
-    "published": "Tue, 25 Aug 2026 18:03:04 GMT",
-    "fetched_at": "2026-08-26 04:24:07",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "방산",
-      "해운",
-      "글로벌 증시"
-    ],
-    "keywords": [
-      "이란",
-      "미국 제재",
-      "지정학",
-      "원유"
-    ],
-    "reason": "이란의 미국 제재에 대한 강경 발언은 중동 지역의 지정학적 긴장을 재확인하며, 이는 글로벌 원유 공급 불확실성과 전반적인 시장 위험 회피 심리를 유지시키는 요인이 될 수 있습니다.",
-    "action_point": "지정학적 리스크 증가에 대비하여 원유 관련 자산의 변동성을 주시하고, 안전자산으로의 포트폴리오 리밸런싱을 고려하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "SpaceX plans to build a $100 billion spaceport in Louisiana",
-    "title_ko": "SpaceX, 루이지애나에 1,000억 달러 규모 우주항 건설 계획",
-    "link": "https://www.cnbc.com/2026/08/25/spacex-louisiana-spaceport.html",
-    "published": "Tue, 25 Aug 2026 17:35:48 GMT",
-    "fetched_at": "2026-08-26 03:24:55",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "항공우주",
-      "건설",
-      "첨단기술"
-    ],
-    "keywords": [
-      "SpaceX",
-      "우주항",
-      "루이지애나",
-      "상업우주"
-    ],
-    "reason": "SpaceX의 대규모 우주 인프라 투자는 상업 우주 산업의 확장을 가속화하고 장기적인 성장 잠재력을 강화할 것입니다. 이는 관련 기술 및 공급망 기업에 긍정적 영향을 줄 수 있습니다.",
-    "action_point": "우주 산업의 장기 성장 잠재력에 주목하며 관련 기술 및 인프라 기업 투자 비중 확대를 검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "\"2차 제재로 '경제 왕따' 전락\" vs \"2년 대응 계획 있다\" - YTN",
-    "title_ko": "2차 제재로 '경제 왕따' 전락 vs '2년 대응 계획 있다'",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBvekpHTG5xU29IbEtaeHFvQldTNF8wX3ZselNTRHBhNWJGRTJlbjNNd3JDemlFRU9UN3pBdHlfZ2RrLU51ZzVUREt2aGNoLWtpQ3ZnbndYZ01VNndkVGc?oc=5",
-    "published": "Tue, 25 Aug 2026 12:59:00 GMT",
-    "fetched_at": "2026-08-26 02:23:31",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "외교/안보",
-      "방산",
-      "금융",
-      "수출입/무역"
-    ],
-    "keywords": [
-      "2차 제재",
-      "경제 제재",
-      "지정학적 위험",
-      "국제관계"
-    ],
-    "reason": "2차 제재는 특정 국가에 대한 국제 사회의 압박이 강화되고 있음을 시사하며, 이는 지정학적 위험을 고조시키고 글로벌 경제 및 역내 시장의 불확실성을 증대시킬 수 있습니다.",
-    "action_point": "지정학적 위험 고조에 따른 원화 약세 가능성에 대비하여 달러 등 안전자산 비중 유지를 검토."
   }
 ]
