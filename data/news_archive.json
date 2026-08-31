@@ -1,5 +1,425 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Russia preparing 'massive strikes' on Ukraine's energy sites after deadliest attack of the year",
+    "title_ko": "러시아, 올해 최악의 공격 이후 우크라이나 에너지 시설에 '대규모 공격' 준비",
+    "link": "https://www.cnbc.com/2026/08/31/russia-massive-strikes-ukraine-energy-infrastructure.html",
+    "published": "Mon, 31 Aug 2026 07:29:27 GMT",
+    "fetched_at": "2026-08-31 23:37:42",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "에너지",
+      "방위산업"
+    ],
+    "keywords": [
+      "러시아",
+      "우크라이나",
+      "에너지",
+      "지정학적 위험",
+      "전쟁"
+    ],
+    "reason": "우크라이나 에너지 시설에 대한 러시아의 대규모 공격 준비는 글로벌 에너지 공급 불안정을 심화시키고 유가를 포함한 원자재 가격에 상승 압력을 가할 것입니다. 또한, 지정학적 위험 고조로 전반적인 시장의 위험 회피 심리를 자극할 것으로 예상됩니다.",
+    "action_point": "글로벌 에너지 가격 상승 압력 및 지정학적 위험 고조에 대비하여 에너지 섹터 비중을 확대하고 안전자산(금, 달러) 보유를 유지하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "U.S.-Iran escalation shows Washington's frustration with slow-moving sanctions",
+    "title_ko": "미-이란 갈등 고조, 느린 제재 효과에 대한 워싱턴의 좌절 표출",
+    "link": "https://www.cnbc.com/2026/08/31/us-trump-hormuz-iran-kharg-larak-oil-analysts-sanctions-.html",
+    "published": "Mon, 31 Aug 2026 06:59:11 GMT",
+    "fetched_at": "2026-08-31 23:38:06",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "에너지",
+      "방산",
+      "해운"
+    ],
+    "keywords": [
+      "미국",
+      "이란",
+      "지정학",
+      "갈등",
+      "유가",
+      "제재"
+    ],
+    "reason": "미-이란 갈등 고조는 중동 지정학적 불안정성을 심화시켜 국제 유가 상승 압력을 높이고, 글로벌 경제의 불확실성을 가중시킨다.",
+    "action_point": "중동 지정학적 리스크 심화에 따른 국제 유가 변동성 확대에 대비, 에너지 섹터 비중 확대 또는 관련 ETF 매입 검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "중동 전쟁 한달여 만에 재충돌…이란, 미국 공습에 보복 - 한겨레",
+    "title_ko": "중동 전쟁 한달여 만에 재충돌…이란, 미국 공습에 보복",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1rVDVENGZONkxBam1HREJ6WnJSMk0tc0FySTdSZDRVdlNMWF9FUkQ1eWF2OXYwVzM5Z0Q5S2pSTUdvakR2YVZPQmlvZVNjNWdLcVBVVG83Mkp3elNJWW5FSUhGLWp0RDA2QXpHaUxzNA?oc=5",
+    "published": "Mon, 31 Aug 2026 05:39:00 GMT",
+    "fetched_at": "2026-08-31 23:38:50",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "에너지",
+      "방산",
+      "해운"
+    ],
+    "keywords": [
+      "중동",
+      "이란",
+      "미국",
+      "지정학적 리스크",
+      "유가",
+      "안전자산"
+    ],
+    "reason": "중동 지역에서의 이란과 미국 간 재충돌은 지정학적 리스크를 급격히 고조시키며, 주요 산유국의 불안정 심화로 국제 유가 상승 압력을 가하고 글로벌 공급망에 불확실성을 증대시킬 것입니다. 이는 시장 전반의 위험 회피 심리를 자극할 수 있습니다.",
+    "action_point": "지정학적 리스크 고조와 유가 상승에 대비하여 에너지 및 방산 섹터 비중 확대를 검토하고, 위험자산 비중 축소를 통해 포트폴리오 방어력을 강화하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "G20 meeting live updates: Bessent, Warsh kick off summit with growth-focused remarks",
+    "title_ko": "G20 회의 실시간 업데이트: 베센트, 워시가 성장 중심 발언으로 정상회의 시작",
+    "link": "https://www.cnbc.com/2026/08/31/g20-finance-meeting-live-updates.html",
+    "published": "Mon, 31 Aug 2026 14:29:56 GMT",
+    "fetched_at": "2026-08-31 23:37:34",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "글로벌 경기민감주"
+    ],
+    "keywords": [
+      "G20",
+      "성장",
+      "글로벌 경제",
+      "재무장관 회의"
+    ],
+    "reason": "G20 재무장관 회의에서 성장 중심 발언이 나왔다는 것은 글로벌 정책 입안자들이 경기 부양을 우선시하고 있음을 시사한다. 이는 향후 정책 조율에 대한 초기 신호로 해석될 수 있으나, 구체적인 정책 발표 전까지는 시장에 미치는 직접적인 영향은 제한적이다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "India’s economy expands 7.8% in fiscal first quarter, beating estimates",
+    "title_ko": "인도 경제, 회계연도 1분기 7.8% 성장하여 예상치 상회",
+    "link": "https://www.cnbc.com/2026/08/31/india-economy-gdp-energy-el-nino.html",
+    "published": "Mon, 31 Aug 2026 11:23:42 GMT",
+    "fetched_at": "2026-08-31 23:37:57",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "인도 주식 시장",
+      "금융",
+      "IT",
+      "부동산",
+      "신흥시장 펀드"
+    ],
+    "keywords": [
+      "인도",
+      "경제 성장",
+      "예상치 상회",
+      "신흥시장"
+    ],
+    "reason": "인도의 견조한 경제 성장은 내수 서비스 부문의 강세에 힘입은 것으로, 인도가 주요 글로벌 성장 동력임을 재확인하며 신흥시장 전반에 대한 긍정적 투자 심리를 형성할 것입니다.",
+    "action_point": "인도 주식 시장 및 인도 비중이 높은 신흥국 펀드에 대한 투자 확대를 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "이란 대통령 \"미 제재 무력화해 인도와 경제협력 격상\" - MBC 뉴스",
+    "title_ko": "이란 대통령 \"미 제재 무력화해 인도와 경제협력 격상\" - MBC 뉴스",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5NTy1Jb1pKM2RGTVFjUVhIUlFGNjY0WkdnM1JFa0FTNHk1eHppQVBYamlHdUVJNTBYVHRTVzYwN1ZfVGZNZ1NrdExocTYzRmR0amVHWldoemZUV21QMWhpOG9ESVlSa0ZCZTBUbFBNU3NhOVY50gF0QVVfeXFMUHRVQ0dycmU2MC1YZktPOFVyWHBlT2ZxQm1jc1RVaklobnhTTTJFNVozQld6REF5YU1udUprN0RLcjg3ZjRaNnJhTWozeVJqNnJWREgxUlZhcXRMZFQ4alBMVUlwOFZDbGViSnowbGFCNnJabjE?oc=5",
+    "published": "Mon, 31 Aug 2026 11:51:59 GMT",
+    "fetched_at": "2026-08-31 23:39:54",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "해운"
+    ],
+    "keywords": [
+      "이란",
+      "인도",
+      "미국 제재",
+      "지정학"
+    ],
+    "reason": "미국의 이란 제재 무력화 시도는 지정학적 긴장을 높일 수 있으며, 이란산 원유 공급 확대 가능성으로 국제 유가 변동성을 키울 수 있습니다.",
+    "action_point": "지정학적 리스크 증가에 따른 원유 등 원자재 가격 변동성 확대 가능성에 대비하십시오."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "미·이란 한 달만 재충돌…\"중국도 테이블에\" 경제압박 기조는 계속 - 프레시안",
+    "title_ko": "미·이란 한 달만 재충돌…\"중국도 테이블에\" 경제압박 기조는 계속",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBQVjN1ZF8wSlRmVWZtR0FLS2lnTTZoVlFUVi0yYldLaDRKb1hMZ3VudWU2N0pxdk9RbjQtWFJ6ZFg1and5dDdwZjVJX1dHVFVxR1VkckVoZTVqVjk0dmZlWG11ZEd2TEdCUUJF?oc=5",
+    "published": "Mon, 31 Aug 2026 08:30:10 GMT",
+    "fetched_at": "2026-08-31 23:40:02",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "원자재",
+      "에너지",
+      "방산",
+      "항공",
+      "화학"
+    ],
+    "keywords": [
+      "미국",
+      "이란",
+      "중국",
+      "지정학",
+      "원유",
+      "경제압박",
+      "중동"
+    ],
+    "reason": "미국-이란 간 지정학적 긴장이 재고조되고 중국 개입 가능성까지 언급되며 중동 지역 리스크가 심화될 수 있습니다. 이는 국제 유가 상승 압력으로 작용하여 글로벌 경제 불확실성을 증대시킬 것입니다.",
+    "action_point": "중동 지정학적 리스크 심화에 따른 유가 상승 가능성에 대비하여 에너지 관련주 및 인플레이션 헤지 자산 편입을 검토하고, 방산 섹터에 대한 관심을 유지한다."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "푸틴, 석달만에 시진핑 만나 …\"러·중협력 성공적\"",
+    "title_ko": "푸틴, 석달만에 시진핑 만나 …\"러·중협력 성공적\"",
+    "link": "https://www.mk.co.kr/news/world/12140820",
+    "published": "Mon, 31 Aug 2026 22:59:30 +09:00",
+    "fetched_at": "2026-08-31 23:40:11",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "방산",
+      "에너지",
+      "원자재",
+      "해운"
+    ],
+    "keywords": [
+      "푸틴",
+      "시진핑",
+      "러·중 협력",
+      "상하이협력기구",
+      "지정학",
+      "반서방"
+    ],
+    "reason": "러시아와 중국의 협력 강화는 반서방 진영의 결속을 다지며 글로벌 지정학적 불확실성을 증대시킵니다. 이는 무역 마찰 심화, 공급망 재편, 원자재 가격 변동성 확대를 야기할 수 있습니다.",
+    "action_point": "지정학적 긴장 심화에 대비해 방산 및 원자재 관련 자산 비중 확대 검토."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Crypto exchange Gemini not at fault for collapse of Earn lending program, arbitrator says",
+    "title_ko": "중재인, 암호화폐 거래소 제미니의 언 프로그램 붕괴 책임 없다고 결정",
+    "link": "https://www.cnbc.com/2026/08/31/gemini-not-at-fault-for-collapse-of-earn-lending-program-arbitrator-says.html",
+    "published": "Mon, 31 Aug 2026 12:17:54 GMT",
+    "fetched_at": "2026-08-31 23:37:22",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "암호화폐"
+    ],
+    "keywords": [
+      "제미니",
+      "언 프로그램",
+      "암호화폐 거래소",
+      "중재 판결",
+      "대출 서비스"
+    ],
+    "reason": "중재 판결로 제미니는 언 프로그램 붕괴에 대한 직접적인 법적 책임에서 벗어났으나, 암호화폐 대출 서비스의 내재된 위험성에 대한 투자자 경각심은 여전히 높다.",
+    "action_point": "암호화폐 대출(lending) 서비스 투자 비중 및 리스크 재검토"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "OpenAI's ad business shows blistering growth, hits $1 billion annualized revenue run rate",
+    "title_ko": "OpenAI의 광고 사업, 폭발적 성장세를 보이며 연간 매출 10억 달러 달성",
+    "link": "https://www.cnbc.com/2026/08/31/open-ai-chatgpt-ads-revenue.html",
+    "published": "Mon, 31 Aug 2026 14:06:23 GMT",
+    "fetched_at": "2026-08-31 23:37:49",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "인공지능",
+      "기술주",
+      "디지털 광고",
+      "클라우드 컴퓨팅"
+    ],
+    "keywords": [
+      "OpenAI",
+      "인공지능",
+      "ChatGPT",
+      "광고 매출",
+      "기술주"
+    ],
+    "reason": "OpenAI의 광고 사업 성장은 AI 기술의 강력한 상업적 성공 가능성을 입증하며, 관련 기술 기업들의 수익 모델 다각화 및 시장 성장에 긍정적 신호를 제공한다. 이는 기술 섹터 전반에 대한 투자 심리를 개선할 수 있다.",
+    "action_point": "AI 및 디지털 광고 관련 성장주에 대한 비중 확대를 검토."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Goldman expects one yen trade to continue thriving even as another fades",
+    "title_ko": "골드만삭스, 엔화 개입 효과는 희미해지지만 캐리 트레이드는 지속될 것으로 전망",
+    "link": "https://www.cnbc.com/2026/08/31/-goldman-yen-trades-currency.html",
+    "published": "Mon, 31 Aug 2026 04:48:59 GMT",
+    "fetched_at": "2026-08-31 23:38:28",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "외환 시장",
+      "금융"
+    ],
+    "keywords": [
+      "엔화 개입",
+      "캐리 트레이드",
+      "골드만삭스",
+      "금리차"
+    ],
+    "reason": "일본 정부의 엔화 시장 개입 효과가 약화되면서 엔화 약세 압력이 지속될 가능성이 있으며, 이는 고금리 통화와의 금리 차이를 이용한 캐리 트레이딩 전략의 수익성을 유지시킬 것이다.",
+    "action_point": "엔화 캐리 트레이드 기회를 활용하여 고금리 통화 또는 관련 자산 비중을 확대하는 방안을 검토."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "End of an era at Apple: Tim Cook's last day as CEO",
+    "title_ko": "애플 시대의 종말: 팀 쿡의 마지막 CEO 재임일",
+    "link": "https://www.cnbc.com/video/2026/08/31/end-of-an-era-at-apple-tim-cooks-last-day-as-ceo.html",
+    "published": "Mon, 31 Aug 2026 13:28:41 GMT",
+    "fetched_at": "2026-08-31 23:38:39",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "IT 하드웨어",
+      "소프트웨어 및 서비스",
+      "기술주 전반"
+    ],
+    "keywords": [
+      "애플",
+      "팀 쿡",
+      "CEO 교체",
+      "리더십 전환"
+    ],
+    "reason": "애플이라는 거대 기술 기업의 CEO 교체는 단기적으로 해당 기업 주가에 불확실성을 가중시키고, 장기적으로는 기업의 전략적 방향성에 대한 재평가를 요구합니다. 이는 전체 기술 섹터 투자 심리에 간접적인 영향을 미칠 수 있습니다.",
+    "action_point": "글로벌 기술주 포트폴리오 내 애플 비중 및 향후 전략 변화 가능성을 재검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[화요경제 항산항심] 그 많았던 타워크레인은 어디로 갔을까 - 국제신문",
+    "title_ko": "[화요경제 항산항심] 그 많았던 타워크레인은 어디로 갔을까",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNktNMDFfX1U3azVvODU2ellralkyMzJnbk1zdW90OE96OWtkV0Z4OEtFcUpNd2xrUU1mLVg2M1J2V3phbXFMUUpLMW50WmItR0pqSlFCZUJPcGJMcFdDSEcxS2stQlBWQTFuQ252RzhjUVNNdGxad1FfWEV3T3JfdUs0YzltWGNEckRaRDJ3?oc=5",
+    "published": "Mon, 31 Aug 2026 09:48:00 GMT",
+    "fetched_at": "2026-08-31 23:39:27",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "건설",
+      "건설자재",
+      "부동산",
+      "금융"
+    ],
+    "keywords": [
+      "타워크레인",
+      "건설경기",
+      "부동산 PF",
+      "건설투자"
+    ],
+    "reason": "타워크레인 감소는 국내 건설투자 및 신규 착공의 급격한 위축을 시사하며, 이는 건설업은 물론 건설자재, 부동산 섹터 전반에 걸친 경기 침체와 금융권의 프로젝트 파이낸싱(PF) 부실 위험을 증대시킬 수 있습니다.",
+    "action_point": "국내 건설 및 건설자재 섹터 비중 축소 검토, PF 익스포저가 높은 금융주 리스크 점검."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[단독] 중간선거 앞두고 악재 우려? ‘전쟁’ 쏙 빠진 미 공화당 전대 - JTBC",
+    "title_ko": "[단독] 중간선거 앞두고 악재 우려? ‘전쟁’ 쏙 빠진 미 공화당 전대 - JTBC",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1HM2FfcGZQdklDdjhfdjNJR1cycUtiMGhCakM3dTJja3hXYk9QR3RxUUlNaFpLdUFEUWNtVUROdHgyb0lHLXJhT3JiSHNYd1A5RjctSQ?oc=5",
+    "published": "Mon, 31 Aug 2026 11:11:00 GMT",
+    "fetched_at": "2026-08-31 23:39:43",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "정치",
+      "거시경제"
+    ],
+    "keywords": [
+      "미국 중간선거",
+      "공화당",
+      "정치 전략",
+      "지정학적 리스크"
+    ],
+    "reason": "미 공화당이 중간선거를 앞두고 '전쟁' 관련 언급을 줄이는 것은 대내 경제 문제에 집중하려는 정치 전략으로 보이며, 이는 장기적으로 미국의 정책 방향과 지정학적 리스크 인식에 미묘한 변화를 줄 수 있다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Aon CEO says insurance broker seeks to build 'premiere middle market platform' with purchase of rival USI",
+    "title_ko": "Aon CEO, 경쟁사 USI 인수를 통해 '최고의 중소기업 시장 플랫폼' 구축 목표 밝혀",
+    "link": "https://www.cnbc.com/2026/08/31/aon-ceo-says-usi-deal-seeks-to-build-premiere-middle-market-insurance-platform.html",
+    "published": "Mon, 31 Aug 2026 12:35:32 GMT",
+    "fetched_at": "2026-08-31 23:36:56",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "보험",
+      "금융 서비스"
+    ],
+    "keywords": [
+      "Aon",
+      "USI",
+      "보험 중개",
+      "M&A",
+      "중소기업 시장"
+    ],
+    "reason": "이 뉴스는 미국 보험 중개업체 내의 M&A 소식으로, Aon의 특정 시장 경쟁력 강화에 초점을 맞춥니다. 거시 경제나 광범위한 시장에 미치는 직접적인 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Kalshi partners with brokerage Alpaca as it tries to build its international audience",
+    "title_ko": "칼시, 브로커리지 알파카와 파트너십 맺고 글로벌 투자자 유치 추진",
+    "link": "https://www.cnbc.com/2026/08/31/kalshi-looks-international-partners-with-brokerage-alpaca.html",
+    "published": "Mon, 31 Aug 2026 12:00:01 GMT",
+    "fetched_at": "2026-08-31 23:37:03",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "핀테크",
+      "증권/브로커리지",
+      "대체투자"
+    ],
+    "keywords": [
+      "칼시",
+      "알파카",
+      "예측 시장",
+      "글로벌 확장",
+      "핀테크"
+    ],
+    "reason": "예측 시장 플랫폼 칼시와 브로커리지 알파카의 파트너십은 이벤트 계약에 대한 글로벌 접근성을 확대하여 핀테크 및 대체투자 시장의 진화를 보여줍니다. 이는 금융 상품의 디지털화 및 개인 투자 접근성 확장의 일환입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[속보] 홍성에 긴급 재난호우문자…충남 곳곳 호우경보 - 연합뉴스TV",
+    "title_ko": "[속보] 홍성에 긴급 재난호우문자…충남 곳곳 호우경보",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1vZ2k5X2x4Z19jVm9uZEZiWXNkNVdsbW1yVHloRmRCQi12cVpKY3llYXd6ZUtaRHhIZE13a3RPSE9QRmtMTFFveng2SU0yV0NfM0o0OUVFNTY5QUxVcVFTVnNHRFFtSTQ?oc=5",
+    "published": "Mon, 31 Aug 2026 12:47:00 GMT",
+    "fetched_at": "2026-08-31 23:39:02",
+    "sentiment": "악재",
+    "importance": 2,
+    "sectors": [
+      "농업",
+      "보험",
+      "식품"
+    ],
+    "keywords": [
+      "호우",
+      "재난",
+      "충남",
+      "농산물"
+    ],
+    "reason": "충남 지역의 호우경보는 농산물 생산량 감소와 가격 상승 압력으로 이어질 수 있으며, 재해 관련 보험사 손해율에 단기적인 영향을 미칠 수 있습니다.",
+    "action_point": "국내 농산물 관련 주식 및 보험주에 대한 단기적인 투자 전략을 재검토하십시오."
+  },
+  {
     "source": "CNBC_Finance",
     "market": "US",
     "title": "China's Xi builds diplomatic clout with multiple state visits ahead of Trump summit",
@@ -2551,427 +2971,5 @@
     ],
     "reason": "미국 국채금리 및 국제유가 하락과 국내 주요 반도체 기업의 자사주 매입이 코스피 반등을 견인하며 시장 전반에 긍정적인 투자 심리를 형성했다. 특히 반도체 섹터의 강세가 뚜렷했다.",
     "action_point": "국내 대형 반도체주에 대한 투자 비중을 유지하거나 시장 조정 시 확대 기회를 모색."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "China's short-drama producers flood the market with cheap bets — and let audiences pick the winners",
-    "title_ko": "중국 단편 드라마 제작사들, 저가 공세로 시장 범람... 시청자들이 승자를 선택하게 해",
-    "link": "https://www.cnbc.com/2026/08/26/short-drama-china-production-ai-entertainment-economics.html",
-    "published": "Wed, 26 Aug 2026 07:11:25 GMT",
-    "fetched_at": "2026-08-26 16:38:11",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "미디어/콘텐츠",
-      "IT/플랫폼"
-    ],
-    "keywords": [
-      "단편 드라마",
-      "중국",
-      "콘텐츠",
-      "미디어",
-      "엔터테인먼트"
-    ],
-    "reason": "중국 단편 드라마 시장의 성장은 새로운 콘텐츠 제작 및 소비 모델을 제시하나, 유통 비용 상승 및 시청자 유지의 어려움은 해당 섹터의 장기 수익성에 대한 불확실성을 높입니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Amazon service Bezos once called 'artificial artificial intelligence' is shutting down",
-    "title_ko": "아마존, 베이조스가 '인공 인공지능'이라 불렀던 서비스 종료",
-    "link": "https://www.cnbc.com/2026/08/25/amazon-service-that-jeff-bezos-called-artificial-ai-is-shutting-down.html",
-    "published": "Wed, 26 Aug 2026 00:34:03 GMT",
-    "fetched_at": "2026-08-26 16:38:32",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "기술",
-      "인공지능"
-    ],
-    "keywords": [
-      "아마존",
-      "메카니컬 터크",
-      "인공지능",
-      "크라우드소싱"
-    ],
-    "reason": "아마존의 메카니컬 터크 서비스 종료는 인공지능(AI) 기술 발전으로 인간의 단순 반복 작업 대체 가능성이 높아지고 있음을 시사하나, 전반적인 시장 및 매크로 경제에 미치는 직접적인 영향은 제한적이다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "美 IBKR, 다올투자증권과 전략적 제휴 …양방향 글로벌 투자 플랫폼 구축 ‘맞손’",
-    "title_ko": "美 IBKR, 다올투자증권과 전략적 제휴 …양방향 글로벌 투자 플랫폼 구축 ‘맞손’",
-    "link": "https://www.mk.co.kr/news/stock/12136883",
-    "published": "Wed, 26 Aug 2026 16:37:03 +09:00",
-    "fetched_at": "2026-08-26 16:39:15",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "증권",
-      "금융"
-    ],
-    "keywords": [
-      "IBKR",
-      "다올투자증권",
-      "글로벌 투자 플랫폼",
-      "해외 주식",
-      "증권업 경쟁"
-    ],
-    "reason": "다올투자증권이 IBKR과의 제휴를 통해 국내 투자자들의 해외 주식 접근성을 높여 증권업 경쟁 구도에 변화를 줄 수 있으나, 거시 경제에 미칠 직접적인 영향은 제한적이다.",
-    "action_point": "국내 증권사를 통한 해외 주식 투자 플랫폼 다양성을 고려하여 포트폴리오의 해외 자산 비중 조정을 검토."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "“추석 선물로 누가 이런 걸 산다고”…편의점에 3100만원짜리 로봇 등장한 이유",
-    "title_ko": "“추석 선물로 누가 이런 걸 산다고”…편의점에 3100만원짜리 로봇 등장한 이유",
-    "link": "https://www.mk.co.kr/news/business/12136876",
-    "published": "Wed, 26 Aug 2026 16:28:44 +09:00",
-    "fetched_at": "2026-08-26 16:39:32",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "유통",
-      "소비재"
-    ],
-    "keywords": [
-      "추석",
-      "명절선물",
-      "편의점",
-      "유통업계",
-      "프리미엄",
-      "소비트렌드"
-    ],
-    "reason": "유통업계가 추석 명절을 맞아 고가·이색 프리미엄 선물로 객단가를 높이고 이목을 끄는 마케팅 전략을 펼치고 있음을 보여준다. 이는 특정 소비층의 구매력을 반영하나, 광범위한 거시경제적 의미는 제한적이다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "“3000만원 넣으면 3900만원 돌려준다고?”…고환급 보험 가입전 ‘이것’ 따져라",
-    "title_ko": "“3000만원 넣으면 3900만원 돌려준다고?”…고환급 보험 가입전 ‘이것’ 따져라",
-    "link": "https://www.mk.co.kr/news/economy/12136863",
-    "published": "Wed, 26 Aug 2026 16:15:00 +09:00",
-    "fetched_at": "2026-08-26 16:40:51",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "보험",
-      "금융"
-    ],
-    "keywords": [
-      "고환급 보험",
-      "연금보험",
-      "달러보험",
-      "중간 해약",
-      "환급률"
-    ],
-    "reason": "고환급 보험 상품의 중간 해약 시 손실 위험과 10년 이상 장기 유지의 중요성을 강조하며, 투자자들의 신중한 접근을 유도하는 기사임. 특정 금융 상품의 리스크 관리에 대한 경고로, 거시 경제 전반에 미치는 영향은 제한적이다.",
-    "action_point": "고환급 보험 가입을 고려 중이라면 10년 이상 장기 유지 가능성과 중간 해약 시 손실 위험을 철저히 검토하고 신중하게 결정하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "CNBC Daily Open: Nvidia carries world of AI on its shoulders",
-    "title_ko": "CNBC 데일리 오픈: 엔비디아가 인공지능 세계를 짊어지다",
-    "link": "https://www.cnbc.com/2026/08/26/nvidia-ai-chips-demand.html",
-    "published": "Wed, 26 Aug 2026 06:30:17 GMT",
-    "fetched_at": "2026-08-26 15:31:18",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "인공지능(AI)",
-      "반도체",
-      "기술주"
-    ],
-    "keywords": [
-      "엔비디아",
-      "인공지능",
-      "반도체",
-      "실적 발표",
-      "기술주"
-    ],
-    "reason": "엔비디아 실적은 인공지능(AI) 관련 투심 및 기술주 전반의 시장 방향성을 결정할 핵심 변수로, 향후 시장의 큰 흐름을 좌우할 수 있습니다.",
-    "action_point": "엔비디아 실적 발표 결과에 따라 인공지능 및 반도체 관련 자산의 포트폴리오 비중 조정 계획 수립."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Trump's Saudi nuclear deal reaches Congress as experts warn of proliferation risk",
-    "title_ko": "트럼프 행정부의 사우디 핵 협상 의회 제출, 전문가들은 확산 위험 경고",
-    "link": "https://www.cnbc.com/2026/08/26/trump-saudi-nuclear-agreement-congress-iran-deal-.html",
-    "published": "Wed, 26 Aug 2026 02:34:28 GMT",
-    "fetched_at": "2026-08-26 12:45:19",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "국방"
-    ],
-    "keywords": [
-      "트럼프",
-      "사우디",
-      "핵 협상",
-      "확산 위험",
-      "지정학"
-    ],
-    "reason": "트럼프 행정부의 사우디 핵 협상 추진은 중동 지역의 지정학적 긴장을 고조시키고 핵 확산 우려를 키워, 국제 유가 변동성 확대 및 위험 회피 심리 강화를 야기할 수 있다.",
-    "action_point": "중동 지정학적 위험 고조에 대비하여 에너지 섹터 및 안전자산(예: 금, 달러) 비중을 점검하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Oil falls on easing concerns of renewed tensions as the U.S. pivots to economic pressure on Iran",
-    "title_ko": "미국이 이란에 대한 경제적 압박으로 전환함에 따라 긴장 고조 우려 완화로 유가 하락",
-    "link": "https://www.cnbc.com/2026/08/26/oil-falls-as-the-us-pivots-to-economic-pressure-on-iran-.html",
-    "published": "Wed, 26 Aug 2026 01:29:20 GMT",
-    "fetched_at": "2026-08-26 12:45:27",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "항공",
-      "해운",
-      "화학",
-      "제조업"
-    ],
-    "keywords": [
-      "유가",
-      "미국-이란",
-      "지정학적 리스크",
-      "경제 제재",
-      "원자재"
-    ],
-    "reason": "미국과 이란 간 군사적 충돌 우려가 완화되고 경제 제재로 전환되면서 국제 유가가 하락했다. 이는 에너지 비용 부담을 줄여 글로벌 인플레이션 압력을 완화하고 전반적인 경제 활동에 긍정적으로 작용할 수 있다.",
-    "action_point": "유가 하락에 따른 비용 절감 효과가 큰 항공, 해운, 화학 섹터의 투자 매력을 재평가하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[이슈&인사이트] 플랫폼 경제와 개인정보 보호 규제 - 에너지경제신문",
-    "title_ko": "[이슈&인사이트] 플랫폼 경제와 개인정보 보호 규제 - 에너지경제신문",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9sN0tib0k2cWVnM3A3NGMzY1h2d00yMXhuc1ViY2U3enNMMU9QYmUyZ1FEcXBzX2hhQzdkWWNPeXpnOFZwaVBxZ3Zwc24xcmNWVklIcUYtU1pyLTJzV3BvWXZrOA?oc=5",
-    "published": "Wed, 26 Aug 2026 02:00:00 GMT",
-    "fetched_at": "2026-08-26 12:45:42",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "플랫폼",
-      "IT 서비스",
-      "전자상거래",
-      "핀테크"
-    ],
-    "keywords": [
-      "플랫폼 경제",
-      "개인정보 보호",
-      "규제",
-      "데이터"
-    ],
-    "reason": "플랫폼 경제 및 개인정보 보호 규제 논의는 플랫폼 기업의 데이터 활용 및 사업 확장에 제약을 가하고 추가적인 규제 준수 비용을 발생시켜 해당 기업들의 성장 잠재력에 부정적인 영향을 미칠 수 있습니다. 이는 장기적으로 플랫폼 섹터의 밸류에이션에 부담으로 작용할 수 있는 잠재적 악재입니다.",
-    "action_point": "플랫폼 관련 종목 투자 시 강화되는 규제 환경과 잠재적 리스크 요인에 대한 분석을 강화하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "CNBC Daily Open: The U.S. is flexing its economic power — drawing retaliation",
-    "title_ko": "CNBC 데일리 오픈: 미국이 경제력을 과시하며 보복을 촉발하다",
-    "link": "https://www.cnbc.com/2026/08/26/cnbc-daily-open-canada-trade-us-iran-strait-of-hormuz.html",
-    "published": "Wed, 26 Aug 2026 01:02:32 GMT",
-    "fetched_at": "2026-08-26 11:20:01",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "소재",
-      "산업재",
-      "무역"
-    ],
-    "keywords": [
-      "미국 경제력",
-      "경제 제재",
-      "이란",
-      "캐나다",
-      "무역 긴장",
-      "지정학적 위험"
-    ],
-    "reason": "미국이 이란과 캐나다에 대한 경제 공세를 강화하면서 글로벌 무역 긴장과 지정학적 위험이 고조될 것입니다. 이는 유가를 포함한 원자재 가격 변동성 확대와 공급망 불안정을 초래할 수 있습니다.",
-    "action_point": "유가 및 주요 원자재 가격의 변동성 확대에 대비하여 관련 포트폴리오 비중을 재검토하고, 방어적 자산 비중을 유지하는 것을 고려하라."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "HP partners with U.S.-blacklisted Huawei for licensing the Chinese company's WiFi tech",
-    "title_ko": "HP, 미국 제재 화웨이와 와이파이 기술 라이선싱 파트너십 체결",
-    "link": "https://www.cnbc.com/2026/08/25/hp-partners-huawei-wifi-tech-us-entity-list.html",
-    "published": "Wed, 26 Aug 2026 02:01:01 GMT",
-    "fetched_at": "2026-08-26 11:19:47",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "IT 하드웨어",
-      "네트워킹",
-      "기술"
-    ],
-    "keywords": [
-      "HP",
-      "화웨이",
-      "와이파이 기술",
-      "라이선싱",
-      "미국 제재",
-      "미중 기술 갈등"
-    ],
-    "reason": "이 뉴스는 미국 제재에도 불구하고 화웨이의 기술이 라이선싱을 통해 글로벌 시장에 침투하고 있음을 보여주며, 미중 기술 갈등 속 기업들의 새로운 전략적 대응과 중국 기술의 지속적인 영향력을 시사합니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "“매달 원하는 혜택 고른다”…LG유플러스 ‘유독 Pick’ 확대",
-    "title_ko": "“매달 원하는 혜택 고른다”…LG유플러스 ‘유독 Pick’ 확대",
-    "link": "https://www.mk.co.kr/news/it/12136596",
-    "published": "Wed, 26 Aug 2026 11:18:13 +09:00",
-    "fetched_at": "2026-08-26 11:20:09",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "통신",
-      "구독 서비스"
-    ],
-    "keywords": [
-      "LG유플러스",
-      "유독",
-      "구독 플랫폼",
-      "AI"
-    ],
-    "reason": "LG유플러스의 구독 서비스 경쟁력 강화 및 AI 활용 확대로 기업 가치에는 긍정적일 수 있으나, 거시 경제 및 광범위한 투자 자산에 미치는 영향은 제한적이다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "From military alliance to economic partnership: How Trump is redefining U.S.-South Korea ties",
-    "title_ko": "군사 동맹에서 경제 파트너십으로: 트럼프가 재정의하는 미-한 관계",
-    "link": "https://www.cnbc.com/2026/08/26/trump-us-south-korea-alliance-military-drills-.html",
-    "published": "Wed, 26 Aug 2026 00:06:25 GMT",
-    "fetched_at": "2026-08-26 09:42:17",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "금융",
-      "방산",
-      "수출"
-    ],
-    "keywords": [
-      "트럼프",
-      "미한 관계",
-      "군사 훈련",
-      "국방비 분담",
-      "지정학적 리스크",
-      "경제 파트너십"
-    ],
-    "reason": "트럼프 행정부의 군사 훈련 축소 지시는 한미 동맹의 성격 변화를 예고하며, 한국의 국방비 분담 압력 증가 및 지정학적 불확실성을 높여 시장에 부정적 영향을 미칠 수 있습니다. 또한, '경제 파트너십' 강조는 향후 통상 압력으로 이어질 가능성이 있습니다.",
-    "action_point": "지정학적 불확실성 증가와 국방비 분담 압력에 대비하여 원화 자산 비중을 축소하고 달러 등 안전자산 보유를 강화하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Wednesday's big stock stories: What’s likely to move the market in the next trading session",
-    "title_ko": "수요일 주요 주식 뉴스: 다음 거래 세션에서 시장을 움직일 요인들",
-    "link": "https://www.cnbc.com/2026/08/25/wednesdays-big-stock-stories-whats-likely-to-move-the-market.html",
-    "published": "Tue, 25 Aug 2026 23:29:27 GMT",
-    "fetched_at": "2026-08-26 09:42:27",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "전반적인 주식 시장"
-    ],
-    "keywords": [
-      "국채 수익률",
-      "증시 상승",
-      "다우존스"
-    ],
-    "reason": "미 국채 수익률 하락은 주식의 상대적 매력을 높이고 기업의 자금 조달 비용 부담을 완화하여 전반적인 증시 상승 동력으로 작용합니다.",
-    "action_point": "미 국채 금리 하락 수혜 섹터(기술주 등)의 비중 확대 검토"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "OpenAI data center chief Chris Malone is out, the latest in a string of executive exits",
-    "title_ko": "OpenAI 데이터센터 책임자 크리스 말론 퇴임, 최근 임원진 이탈의 연속",
-    "link": "https://www.cnbc.com/2026/08/25/openais-head-of-data-centers-chris-malone-is-out-in-latest-exec-exit.html",
-    "published": "Tue, 25 Aug 2026 21:26:00 GMT",
-    "fetched_at": "2026-08-26 09:42:36",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "인공지능",
-      "기술",
-      "클라우드 컴퓨팅",
-      "반도체"
-    ],
-    "keywords": [
-      "OpenAI",
-      "크리스 말론",
-      "임원 퇴임",
-      "데이터센터",
-      "인공지능",
-      "조직 재편"
-    ],
-    "reason": "AI 핵심 기업 OpenAI의 데이터센터 책임자 퇴임은 내부 조직 재편의 일환으로 보이나, 연이은 임원 이탈은 장기적인 전략 및 운영 안정성에 대한 우려를 제기할 수 있습니다. 이는 AI 섹터 전반의 투자심리에 간접적인 영향을 미칠 수 있습니다.",
-    "action_point": "AI 관련 포트폴리오 중 OpenAI와의 협력 및 의존도가 높은 기업에 대한 리스크를 점검하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "이 대통령 지지율 첫 30%대…전 연령대서 ‘부정’ 더 높아 [조원씨앤아이]",
-    "title_ko": "이 대통령 지지율 첫 30%대…전 연령대서 ‘부정’ 더 높아 [조원씨앤아이]",
-    "link": "https://www.mk.co.kr/news/politics/12136405",
-    "published": "Wed, 26 Aug 2026 09:23:10 +09:00",
-    "fetched_at": "2026-08-26 09:42:59",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "전반적 시장 심리",
-      "정책 민감 섹터"
-    ],
-    "keywords": [
-      "대통령 지지율",
-      "국정 운영",
-      "정치 불확실성",
-      "여론조사"
-    ],
-    "reason": "대통령 지지율 하락은 정부의 국정 운영 동력 약화 및 정책 추진력 저하로 이어져 국내 시장의 전반적인 불확실성을 증대시킬 수 있습니다.",
-    "action_point": "국내 정치 불확실성 증대에 따른 정부 정책 추진력 약화에 대비하여 정책 민감 국내 섹터 비중 조정을 검토하십시오."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "이란 외무차관 \"여전히 美와 전쟁 상태…호르무즈 폐쇄 유지\" - 연합인포맥스",
-    "title_ko": "이란 외무차관 '여전히 美와 전쟁 상태…호르무즈 폐쇄 유지'",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1UVkJ3QnJyQ2M4bDlKVGNPQTdubDBGS2pnRjBrNktjMWluZGJDZUFhZ2prd0lJMWRZb2twQ3RlRTN5OE4wck9UUkp5dDR3SEh5NWZoQ1A1S0tEei1Dc013bS1MQVZIb2pGamQ4N1gtcnY?oc=5",
-    "published": "Tue, 25 Aug 2026 22:59:07 GMT",
-    "fetched_at": "2026-08-26 08:18:23",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "원자재",
-      "에너지",
-      "해운",
-      "항공",
-      "정유화학",
-      "방산"
-    ],
-    "keywords": [
-      "이란",
-      "미국",
-      "호르무즈 해협",
-      "지정학적 리스크",
-      "유가",
-      "글로벌 공급망"
-    ],
-    "reason": "이란의 호르무즈 해협 폐쇄 위협은 글로벌 원유 공급망에 심각한 불안정을 야기하며 유가 급등 압력으로 작용할 수 있습니다. 이는 전반적인 인플레이션 압력을 높이고 글로벌 경기 침체 우려를 심화시킬 수 있습니다.",
-    "action_point": "지정학적 리스크 확대로 인한 유가 급등 가능성에 대비하여 에너지 관련 자산 비중 확대를 검토하고, 운송 및 제조업 등 유가 민감 섹터 비중 축소를 고려하라."
   }
 ]
