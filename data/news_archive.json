@@ -1,5 +1,57 @@
 [
   {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Markets see Warsh endorsing a rate hike in September. Not everyone is convinced",
+    "title_ko": "시장은 워시가 9월 금리 인상을 지지한다고 보지만, 모두가 확신하는 것은 아니다",
+    "link": "https://www.cnbc.com/2026/08/31/markets-see-warsh-endorsing-a-rate-hike-in-september-not-everyone-is-convinced.html",
+    "published": "Mon, 31 Aug 2026 19:38:38 GMT",
+    "fetched_at": "2026-09-01 05:29:50",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "주식",
+      "채권",
+      "부동산",
+      "금융"
+    ],
+    "keywords": [
+      "금리 인상",
+      "연준",
+      "통화 정책",
+      "시장 전망",
+      "불확실성"
+    ],
+    "reason": "전 연준 이사의 9월 금리 인상 지지 관측은 시장에 강력한 긴축 신호로 작용하며, 주식 등 위험 자산에는 전반적으로 악재로 인식된다. 다만, 시장 내 확신 부족은 통화정책 경로의 불확실성을 가중시켜 변동성을 확대시킬 수 있다.",
+    "action_point": "금리 인상 기대감 고조에 대비하여 금리 민감도가 높은 성장주 및 장기채 비중을 축소하고, 단기 고정수익 자산 및 달러 자산 비중 확대를 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "G20 재무장관회의 개막…미국, ’이란 경제고립’ 동참 압박할 듯 - 연합뉴스TV",
+    "title_ko": "G20 재무장관회의 개막…미국, ’이란 경제고립’ 동참 압박할 듯",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lcUtXcElTRTdyR2xzbUhUQWNqUUJtUVI0VHI5T0V0bW5TV2RuMkxUU2x5ZU94blV4NFdxbHBfcEZqdEZHbDZ6UldFd0V2S3R6bFUxb2tVYndsU1drT2ExaEZyU2g4eWM?oc=5",
+    "published": "Mon, 31 Aug 2026 17:09:00 GMT",
+    "fetched_at": "2026-09-01 05:30:07",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "원자재",
+      "방산"
+    ],
+    "keywords": [
+      "G20",
+      "미국",
+      "이란",
+      "경제고립",
+      "지정학",
+      "원유"
+    ],
+    "reason": "미국의 이란 경제고립 압박은 G20 회의에서 지정학적 리스크를 고조시키고, 이란산 원유 공급 제한 가능성으로 국제유가 상승 압력으로 작용할 수 있습니다.",
+    "action_point": "지정학적 리스크 고조에 따른 국제유가 상승 가능성에 대비하여 에너지 섹터 비중 확대를 검토하십시오."
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "Russia preparing 'massive strikes' on Ukraine's energy sites after deadliest attack of the year",
@@ -2922,54 +2974,5 @@
     ],
     "reason": "엔비디아가 예상치를 상회하는 실적에도 '기대감 프리미엄'으로 주가 압박을 받는 것은 AI 및 반도체 섹터 전반의 높은 밸류에이션에 대한 시장의 경고로 해석될 수 있습니다. 투자자들은 관련 종목들의 과도한 기대감을 재평가할 필요가 있습니다.",
     "action_point": "AI 및 반도체 섹터 내 고평가 종목의 비중 축소를 검토하거나 밸류에이션 리스크를 관리하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[속보] 김윤덕 \"추가 발표 그린벨트 7.3만호는 경기도에만\" - 연합뉴스TV",
-    "title_ko": "[속보] 김윤덕 \"추가 발표 그린벨트 7.3만호는 경기도에만\" - 연합뉴스TV",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBuLVZFQnU3djlYemQ4Mk5veGJoY3ZFTzZ2MjgzaDhraHN5eV9PQXA0bEVXT2dROUJCdmFFVTNHcng5VkN3a2RJckpQR0FORG1EV3J3OXhpc0NNeFQza2JUZFNkaWktWkE?oc=5",
-    "published": "Wed, 26 Aug 2026 01:35:00 GMT",
-    "fetched_at": "2026-08-26 16:39:01",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "부동산",
-      "건설"
-    ],
-    "keywords": [
-      "그린벨트",
-      "주택공급",
-      "경기도",
-      "부동산 정책"
-    ],
-    "reason": "경기도에만 7.3만호 그린벨트 해제를 통한 추가 주택 공급은 해당 지역 주택 가격에 하방 압력을 가할 수 있으며, 전반적인 수도권 부동산 시장에 영향을 미칠 것입니다.",
-    "action_point": "경기도 내 주택 및 토지 자산 비중 축소 검토."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "‘전약후강’ 코스피 6800선 회복…개인 2조원 ‘팔자’에도 0.97% 상승",
-    "title_ko": "‘전약후강’ 코스피 6800선 회복…개인 2조원 ‘팔자’에도 0.97% 상승",
-    "link": "https://www.mk.co.kr/news/stock/12136869",
-    "published": "Wed, 26 Aug 2026 16:20:51 +09:00",
-    "fetched_at": "2026-08-26 16:39:57",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "반도체",
-      "IT하드웨어"
-    ],
-    "keywords": [
-      "코스피",
-      "반도체",
-      "자사주 매입",
-      "국채금리",
-      "국제유가",
-      "삼성전자",
-      "SK하이닉스"
-    ],
-    "reason": "미국 국채금리 및 국제유가 하락과 국내 주요 반도체 기업의 자사주 매입이 코스피 반등을 견인하며 시장 전반에 긍정적인 투자 심리를 형성했다. 특히 반도체 섹터의 강세가 뚜렷했다.",
-    "action_point": "국내 대형 반도체주에 대한 투자 비중을 유지하거나 시장 조정 시 확대 기회를 모색."
   }
 ]
