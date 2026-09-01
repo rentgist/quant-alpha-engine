@@ -1,5 +1,53 @@
 [
   {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "[속보] 반도체 8월 수출 466.5억달러…역대 최대",
+    "title_ko": "[속보] 반도체 8월 수출 466.5억달러…역대 최대",
+    "link": "https://www.mk.co.kr/news/business/12140935",
+    "published": "Tue, 01 Sep 2026 09:03:40 +09:00",
+    "fetched_at": "2026-09-01 09:13:14",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "반도체",
+      "IT하드웨어"
+    ],
+    "keywords": [
+      "반도체",
+      "수출",
+      "역대 최대",
+      "한국 경제"
+    ],
+    "reason": "사상 최대 반도체 수출은 견조한 글로벌 IT 수요와 한국 반도체 기업의 경쟁력을 입증하며, 국내 수출 및 기업 실적 개선에 긍정적으로 작용할 것입니다. 이는 한국 경제 전반의 회복 탄력을 강화하는 요인입니다.",
+    "action_point": "반도체 섹터 비중 확대를 검토하고 원화 강세에 대비하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "FTC sues Amazon, accusing the e-commerce giant of misleading advertisers",
+    "title_ko": "FTC, 아마존 고소... 전자상거래 거대 기업의 광고주 기만 혐의",
+    "link": "https://www.cnbc.com/2026/08/31/amazon-ftc-lawsuit-advertisers.html",
+    "published": "Mon, 31 Aug 2026 20:34:45 GMT",
+    "fetched_at": "2026-09-01 09:13:01",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "전자상거래",
+      "온라인 광고 플랫폼",
+      "기술주"
+    ],
+    "keywords": [
+      "아마존",
+      "FTC",
+      "소송",
+      "광고주 기만",
+      "온라인 광고"
+    ],
+    "reason": "아마존에 대한 FTC의 고소는 기업의 법적 리스크를 부각하며 전자상거래 및 온라인 광고 플랫폼 섹터에 대한 투자 심리를 위축시킬 수 있습니다. 다만, 아마존의 핵심 사업 모델 자체에 대한 근본적인 위협은 아니기에 광범위한 시장 영향은 제한적입니다.",
+    "action_point": "아마존 및 온라인 광고 수익 의존도가 높은 기술 기업에 대한 투자 비중을 점검하십시오."
+  },
+  {
     "source": "CNBC_Finance",
     "market": "US",
     "title": "Markets see Warsh endorsing a rate hike in September. Not everyone is convinced",
@@ -2925,54 +2973,5 @@
     ],
     "reason": "이 뉴스는 중동 지정학적 긴장 완화 및 글로벌 원유 공급 경로 안정화를 시사합니다. 이는 에너지 가격 하향 안정화 및 전반적인 시장 불확실성 감소에 기여할 수 있습니다.",
     "action_point": "에너지 비용 하락 및 공급망 안정화에 따른 인플레이션 압력 완화로 성장주 및 소비재 섹터 관심 증대."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Temasek-backed investor behind Unitree pitches Singapore as Chinese robots' path to U.S.",
-    "title_ko": "테마섹 지원 투자자, 유니트리 사례 들며 싱가포르를 중국 로봇의 미국 진출 경로로 제안",
-    "link": "https://www.cnbc.com/2026/08/26/temasek-unitree-humanoids-robotics-trump-ban-.html",
-    "published": "Wed, 26 Aug 2026 07:06:07 GMT",
-    "fetched_at": "2026-08-26 16:38:43",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "로봇 산업",
-      "기술 산업",
-      "벤처 캐피탈"
-    ],
-    "keywords": [
-      "로봇",
-      "미중 기술 갈등",
-      "싱가포르",
-      "시장 접근성",
-      "테마섹"
-    ],
-    "reason": "이 기사는 미국 제재 속에서 중국 로봇 기업들이 싱가포르를 통해 미국 시장에 진출하려는 우회 전략을 보여줍니다. 이는 미중 기술 경쟁 심화와 동시에 기업들의 시장 접근성 확보 노력을 반영하며, 특정 아시아 기술 기업의 성장 기회로 이어질 수 있습니다.",
-    "action_point": "미중 기술 갈등 속 아시아 기술 기업들의 우회적 시장 진출 전략을 면밀히 분석하여 관련 투자 기회를 탐색하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Nvidia's 'expectations premium' dogs the stock after earnings. Here's what analysts are watching",
-    "title_ko": "엔비디아의 '기대감 프리미엄'이 실적 발표 후 주가를 짓누른다. 애널리스트들은 무엇을 주목하는가?",
-    "link": "https://www.cnbc.com/2026/08/25/nvidias-expectations-premium-dogs-the-stock-after-earnings.html",
-    "published": "Tue, 25 Aug 2026 20:21:10 GMT",
-    "fetched_at": "2026-08-26 16:38:50",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "반도체",
-      "기술주",
-      "AI 관련주"
-    ],
-    "keywords": [
-      "Nvidia",
-      "실적",
-      "기대감 프리미엄",
-      "밸류에이션"
-    ],
-    "reason": "엔비디아가 예상치를 상회하는 실적에도 '기대감 프리미엄'으로 주가 압박을 받는 것은 AI 및 반도체 섹터 전반의 높은 밸류에이션에 대한 시장의 경고로 해석될 수 있습니다. 투자자들은 관련 종목들의 과도한 기대감을 재평가할 필요가 있습니다.",
-    "action_point": "AI 및 반도체 섹터 내 고평가 종목의 비중 축소를 검토하거나 밸류에이션 리스크를 관리하라."
   }
 ]
