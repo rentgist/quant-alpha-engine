@@ -1,5 +1,402 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Global bond yields soar to multi-decade highs as Middle East turmoil reignites inflation fears",
+    "title_ko": "중동 불안 고조로 인플레이션 우려 재점화되며 글로벌 채권 금리 수십 년래 최고치 기록",
+    "link": "https://www.cnbc.com/2026/09/01/bond-yields-iran-inflation-treasurys-japan-uk.html",
+    "published": "Tue, 01 Sep 2026 09:44:21 GMT",
+    "fetched_at": "2026-09-01 19:47:31",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "주식시장 전반",
+      "성장주",
+      "부동산",
+      "에너지",
+      "항공/운송"
+    ],
+    "keywords": [
+      "채권 금리",
+      "인플레이션",
+      "중동",
+      "지정학적 위험",
+      "유가"
+    ],
+    "reason": "중동 지정학적 리스크가 유가 상승 및 인플레이션 우려를 재점화시키며 글로벌 채권 금리 상승을 야기, 이는 자산 전반의 할인율 상승으로 이어져 위험자산에 하방 압력을 가할 것입니다.",
+    "action_point": "글로벌 채권 시장 불안정성에 대비하여 포트폴리오의 안전자산 비중을 점검하고 금리 민감 자산 비중 축소를 검토하십시오."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "A rerun of the 1997 Asian Financial Crisis? HSBC's chief economist sees significant similarities",
+    "title_ko": "1997년 아시아 금융위기의 재현인가? HSBC 수석 이코노미스트, 상당한 유사점 지적",
+    "link": "https://www.cnbc.com/2026/09/01/asian-financial-crisis-1997-parallels-ai-demand-hsbc.html",
+    "published": "Tue, 01 Sep 2026 09:58:47 GMT",
+    "fetched_at": "2026-09-01 19:48:13",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "금융",
+      "기술",
+      "신흥국"
+    ],
+    "keywords": [
+      "아시아 금융위기",
+      "1997년",
+      "HSBC",
+      "미국 채권 수익률",
+      "엔화 약세",
+      "기술 낙관론",
+      "신흥국 리스크"
+    ],
+    "reason": "HSBC 이코노미스트가 1997년 아시아 금융위기 직전과 유사한 거시경제 환경(미국 채권 금리 급등, 엔화 약세)을 지적하며 신흥국 금융 불안정성 확산 가능성을 경고, 아시아 신흥국 자산 투자 심리 위축이 예상됩니다.",
+    "action_point": "아시아 신흥국 자산 비중 축소 및 달러 등 안전자산 보유 확대 검토"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Tehran urges return to June deal, oil prices rise as Trump vows to hit Iran 'hard'",
+    "title_ko": "테헤란, 6월 협상 복귀 촉구; 트럼프의 이란 '강력 타격' 다짐에 유가 상승",
+    "link": "https://www.cnbc.com/2026/09/01/us-iran-war-trump-hormuz-tanker-attack-shipping-sanctions-.html",
+    "published": "Tue, 01 Sep 2026 09:40:28 GMT",
+    "fetched_at": "2026-09-01 19:47:45",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "방위산업",
+      "항공/운송",
+      "산업재"
+    ],
+    "keywords": [
+      "이란",
+      "미국",
+      "지정학적 리스크",
+      "유가",
+      "중동"
+    ],
+    "reason": "미국과 이란 간의 중동 지역 군사적 긴장 고조는 국제 유가를 상승시키고 지정학적 불확실성을 증폭시켜 글로벌 증시 전반에 하방 압력을 가할 수 있습니다.",
+    "action_point": "중동 지정학적 리스크 고조로 인한 유가 상승에 대비하여 에너지 섹터 비중 확대 및 달러 등 안전자산 보유를 검토하십시오."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Euro zone inflation is back above 3%. Higher interest rates are likely to follow",
+    "title_ko": "유로존 인플레이션 3% 재돌파, 추가 금리 인상 가능성 고조",
+    "link": "https://www.cnbc.com/2026/09/01/euro-zone-inflation-rate-hike.html",
+    "published": "Tue, 01 Sep 2026 09:56:12 GMT",
+    "fetched_at": "2026-09-01 19:47:56",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "금융",
+      "부동산",
+      "성장주"
+    ],
+    "keywords": [
+      "유로존 인플레이션",
+      "ECB",
+      "금리 인상",
+      "이란 전쟁",
+      "에너지 가격",
+      "유로화"
+    ],
+    "reason": "유로존 인플레이션 상승과 이란 전쟁으로 인한 에너지 비용 증가는 ECB의 금리 인상 압력을 높여 글로벌 유동성 축소와 경기 둔화 우려를 심화시킬 수 있습니다. 이는 주식 시장에 하방 압력으로 작용하며, 에너지 가격 변동성을 확대시킬 것입니다.",
+    "action_point": "유로존 금리 인상 압력 강화에 따라 금리 민감 자산 비중을 축소하고, 에너지 섹터 투자 비중 확대를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "India rejects court order to uphold decades-old water-sharing treaty with Pakistan",
+    "title_ko": "인도가 파키스탄과의 수십 년 된 물 공유 조약 준수 명령을 거부하다",
+    "link": "https://www.cnbc.com/2026/09/01/india-hague-ruling-pakistan-water-treaty.html",
+    "published": "Tue, 01 Sep 2026 09:56:26 GMT",
+    "fetched_at": "2026-09-01 19:48:05",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "방산",
+      "원자재"
+    ],
+    "keywords": [
+      "인도",
+      "파키스탄",
+      "물 분쟁",
+      "지정학적 리스크",
+      "핵보유국"
+    ],
+    "reason": "인도가 파키스탄과의 물 공유 조약 준수 명령을 거부하며 핵보유국 간의 지정학적 긴장이 고조되고 있어, 이는 국제 투자 심리에 부정적 영향을 미치고 안전자산 선호 심리를 강화할 수 있다.",
+    "action_point": "지정학적 리스크 고조에 대비하여 포트폴리오 내 안전자산(예: 금, 달러) 비중 확대를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Japanese borrowing costs hit 30-year high as Bessent says Tokyo may intervene to boost yen",
+    "title_ko": "일본 차입 비용 30년 최고치 기록, 베센트 도쿄 엔화 강세 위해 개입할 수도",
+    "link": "https://www.cnbc.com/2026/09/01/japan-bonds-yen-intervention-bessent.html",
+    "published": "Tue, 01 Sep 2026 08:41:57 GMT",
+    "fetched_at": "2026-09-01 19:48:26",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "금융",
+      "수출입"
+    ],
+    "keywords": [
+      "엔화 약세",
+      "일본 금리",
+      "BOJ 개입"
+    ],
+    "reason": "일본의 차입 비용 상승과 엔화 약세는 일본은행의 통화 정책 변화 및 외환 시장 개입 가능성을 시사하며, 이는 글로벌 자본 흐름과 아시아 통화 시장에 변동성을 야기할 수 있습니다.",
+    "action_point": "일본 당국의 엔화 강세 개입 및 금리 인상 가능성을 감안, 엔화 및 국내 채권 시장 변동성에 대비하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Bessent reportedly tells Russia no economic relief until Ukraine war ends as Europe snubs Moscow at G20",
+    "title_ko": "베센트, 러시아에 우크라이나 전쟁 종료 전까지 경제적 지원 없다고 통보... 유럽은 G20에서 모스크바 외면",
+    "link": "https://www.cnbc.com/2026/09/01/bessent-russia-ukraine-war-sanctions-war-g20-.html",
+    "published": "Tue, 01 Sep 2026 03:22:56 GMT",
+    "fetched_at": "2026-09-01 19:48:35",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "방산",
+      "원자재"
+    ],
+    "keywords": [
+      "러시아-우크라이나 전쟁",
+      "경제 제재",
+      "G20",
+      "지정학적 리스크"
+    ],
+    "reason": "미국과 유럽이 우크라이나 전쟁 종료 전까지 러시아에 대한 경제적 압박을 지속하겠다는 입장을 재확인하여 지정학적 긴장과 제재가 장기화될 것임을 시사한다. 이는 글로벌 에너지 및 원자재 시장에 지속적인 변동성과 상승 압력으로 작용할 것이다.",
+    "action_point": "에너지 및 원자재 관련 자산의 변동성 확대 및 상승 압력 지속에 대비하여 포트폴리오를 점검하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Indian Prime Minister Modi asks Putin to end Ukraine war amid U.S. tariff threat on Russian oil",
+    "title_ko": "인도 모디 총리, 미국발 러시아산 원유 관세 위협 속 푸틴에 우크라이나 전쟁 종식 촉구",
+    "link": "https://www.cnbc.com/2026/09/01/russia-india-ukraine-war-oil-modi-putin.html",
+    "published": "Tue, 01 Sep 2026 06:23:21 GMT",
+    "fetched_at": "2026-09-01 19:48:45",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "방산"
+    ],
+    "keywords": [
+      "우크라이나 전쟁",
+      "러시아",
+      "인도",
+      "미국",
+      "원유",
+      "지정학"
+    ],
+    "reason": "인도의 참전 종식 촉구는 러시아에 대한 국제적 압력이 증대되고 있음을 시사하며, 이는 향후 에너지 시장 안정화 및 지정학적 리스크 완화에 기여할 가능성이 있다.",
+    "action_point": "글로벌 지정학적 리스크 완화 가능성을 주시하며 방산 및 에너지 섹터 비중 조정 전략을 검토한다."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "김용범 청와대 정책실장 전격사퇴...경제라인 전면 교체 - YTN",
+    "title_ko": "김용범 청와대 정책실장 전격사퇴...경제라인 전면 교체",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBXUFVITXBEdVBObXAtVktlLUQ3Q2NGelp5U1h2ODMtMG9RUkZvY1lOTXBjZ29VVGppX1JNbUcwVkVDV3Fhcnc0TkwxeEdnTEp4bzdFRTNuLVVoamVHcFE?oc=5",
+    "published": "Tue, 01 Sep 2026 09:18:00 GMT",
+    "fetched_at": "2026-09-01 19:48:59",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "거시경제 전반",
+      "정책 민감 섹터"
+    ],
+    "keywords": [
+      "김용범",
+      "청와대",
+      "경제라인",
+      "정부정책",
+      "인사변동"
+    ],
+    "reason": "청와대 경제정책을 총괄하는 주요 인사의 전격 교체로 향후 국내 경제 정책 기조에 불확실성이 증대되어 시장의 단기적 변동성이 확대될 수 있습니다.",
+    "action_point": "새로운 경제팀의 정책 방향이 확정될 때까지 정부 정책 의존도가 높은 국내 자산에 대한 투자 비중 축소 검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "경제성장은 더 힘차게, 재정은 더 탄탄하게 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+    "title_ko": "경제성장은 더 힘차게, 재정은 더 탄탄하게",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZHFpWk81TGJpNVJvUVZCWm9Cck5qS3RCeTFDeng5eXAzYWhuRU15TDJaWmJDOXU0ZXVMQ0taQU9ESmhqUk1RT1JMdVE2cENOWjFnbUJHQlRvZllJWjJjWU96RjhhV1ppZWU2ZFVSN01QS1JnMjlLc3RocEZsNm1EbVJjTjBpRlE1dkV3?oc=5",
+    "published": "Tue, 01 Sep 2026 06:22:30 GMT",
+    "fetched_at": "2026-09-01 19:49:11",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "전반적 경제",
+      "경기민감주",
+      "금융"
+    ],
+    "keywords": [
+      "경제성장",
+      "재정건전성",
+      "정부정책",
+      "거시경제"
+    ],
+    "reason": "정부의 견실한 경제 성장 및 재정 건전성 확보 의지는 국내 투자 환경의 장기적 안정성과 신뢰도를 높여 전반적인 경제 심리에 긍정적으로 작용합니다.",
+    "action_point": "국내 자산에 대한 긍정적 투자 시각 유지."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "“네덜란드처럼 될라”…국내 경제 ‘반도체 쏠림’ 현상 경고 나왔다 - 농민신문",
+    "title_ko": "“네덜란드처럼 될라”…국내 경제 ‘반도체 쏠림’ 현상 경고 나왔다",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5raXdWcElxR3pPbDR0YUpyS3lOWDRyYUd1S2hFOERGTHRhSDlDT1NCVzVsc2xJSFRTeUoyelBRQ2pHS1FiWXk4bmExSVJwVG0wS3lxQ3BPbFBUZw?oc=5",
+    "published": "Tue, 01 Sep 2026 07:02:00 GMT",
+    "fetched_at": "2026-09-01 19:49:30",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "반도체",
+      "산업 전반"
+    ],
+    "keywords": [
+      "반도체 쏠림",
+      "네덜란드병",
+      "한국 경제",
+      "산업 구조"
+    ],
+    "reason": "한국 경제의 반도체 의존도 심화는 특정 산업 변동성에 대한 취약성을 높이고 다른 산업의 성장을 저해하여 장기적인 경제 불균형 위험을 초래할 수 있다.",
+    "action_point": "국내 반도체 섹터 투자 비중을 점검하고, 산업 및 지역 분산 투자를 강화하여 포트폴리오 리스크를 관리하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "靑 \"김용범 퇴진, 경제정책 동력 제공 위한 인적 개편\" - 연합인포맥스",
+    "title_ko": "靑 \"김용범 퇴진, 경제정책 동력 제공 위한 인적 개편\" - 연합인포맥스",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYdEtod1ltUlNpc2JIZF8tYjFsZTBtSTZSRjJzaEtxWWJWYVNFbHAxWjUwMEh0Q3pLOG9SbWFOVGJFamNVY2Iwcl9KeFpLWTlneHZSN3RHS2VGSFMyMm1Kc21QMWI1ZTlQZXVPRlhEcXU?oc=5",
+    "published": "Tue, 01 Sep 2026 06:23:42 GMT",
+    "fetched_at": "2026-09-01 19:49:49",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "전반적 경제",
+      "금융"
+    ],
+    "keywords": [
+      "김용범",
+      "인적 개편",
+      "경제정책",
+      "동력"
+    ],
+    "reason": "정부 경제정책 사령탑의 인적 개편은 향후 경제 정책 기조의 변화나 강화를 시사한다. 새로운 정책 방향에 따라 전반적인 시장 및 특정 섹터에 영향을 미칠 수 있다.",
+    "action_point": "정부의 경제정책 드라이브 강화에 대비하여 관련 수혜주 발굴에 착수."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "하이닉스 31억 vs 마이크론 144억 … 韓 감사 비용, 글로벌 위상 안맞아",
+    "title_ko": "하이닉스 31억 vs 마이크론 144억 … 韓 감사 비용, 글로벌 위상 안맞아",
+    "link": "https://www.mk.co.kr/news/stock/12141713",
+    "published": "Tue, 01 Sep 2026 19:41:45 +09:00",
+    "fetched_at": "2026-09-01 19:50:08",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "반도체",
+      "국내 대기업"
+    ],
+    "keywords": [
+      "감사 비용",
+      "기업 지배구조",
+      "투명성",
+      "SK하이닉스",
+      "삼성전자"
+    ],
+    "reason": "한국 대기업의 감사 비용이 글로벌 수준에 현저히 낮아 기업 투명성 및 지배구조에 대한 우려를 야기하며, 장기적으로 외국인 투자자 신뢰에 부정적인 영향을 미칠 수 있습니다.",
+    "action_point": "국내 대기업 투자 시 감사보고서의 신뢰도와 기업 지배구조 리스크에 대한 면밀한 점검을 강화하고, 관련 포트폴리오 비중을 재고하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "AI로 효율 높아졌지만…저가수주 경쟁에 감사품질 ‘경고등’",
+    "title_ko": "AI로 효율 높아졌지만…저가수주 경쟁에 감사품질 ‘경고등’",
+    "link": "https://www.mk.co.kr/news/stock/12141712",
+    "published": "Tue, 01 Sep 2026 19:41:35 +09:00",
+    "fetched_at": "2026-09-01 19:50:23",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "기업 지배구조",
+      "회계법인/전문 서비스"
+    ],
+    "keywords": [
+      "AI",
+      "감사품질",
+      "저가수주",
+      "회계법인",
+      "기업투명성",
+      "상속세"
+    ],
+    "reason": "저가수주 경쟁 심화로 인한 감사 품질 저하는 기업 재무보고의 신뢰도를 약화시키며, 이는 잠재적 투자 리스크를 증가시킬 수 있습니다. 특히 기업의 상속·증여세 부담이 감사 투자 위축의 원인으로 지목되어 중소형 기업의 지배구조 리스크를 부각합니다.",
+    "action_point": "개별 기업의 감사품질 및 재무제표 신뢰도 하락 가능성을 면밀히 검토하고, 지배구조 우수 기업 중심으로 투자 비중을 강화하라."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Stocks making the biggest moves premarket: Nvidia, Robinhood, Novartis & more",
+    "title_ko": "개장 전 가장 큰 움직임을 보이는 주식들: 엔비디아, 로빈후드, 노바티스 등",
+    "link": "https://www.cnbc.com/2026/09/01/stocks-making-the-biggest-moves-premarket-nvda-hood-nvs.html",
+    "published": "Tue, 01 Sep 2026 10:19:12 GMT",
+    "fetched_at": "2026-09-01 19:47:16",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "기술",
+      "반도체",
+      "핀테크",
+      "제약",
+      "헬스케어"
+    ],
+    "keywords": [
+      "개장 전",
+      "주가 움직임",
+      "엔비디아",
+      "로빈후드",
+      "노바티스",
+      "개별 기업"
+    ],
+    "reason": "이 기사는 개별 기업의 개장 전 주가 움직임을 나열하는 것으로, 특정 기업의 개별 이슈를 반영할 뿐 거시경제적 추세나 광범위한 시장 영향에 대한 정보는 포함하지 않습니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Hugging Face's new duck robot is selling fast. A Chinese chip powers it",
+    "title_ko": "Hugging Face의 새로운 오리 로봇, 중국 칩 탑재로 빠르게 판매",
+    "link": "https://www.cnbc.com/2026/09/01/hugging-faces-new-duck-robot-is-selling-fast-a-chinese-chip-powers-it.html",
+    "published": "Tue, 01 Sep 2026 07:30:49 GMT",
+    "fetched_at": "2026-09-01 19:47:24",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "로봇",
+      "반도체"
+    ],
+    "keywords": [
+      "Hugging Face",
+      "로봇",
+      "Microduck",
+      "중국 칩",
+      "AI"
+    ],
+    "reason": "Hugging Face의 AI 로봇 판매 호조는 AI 기반 로봇 시장의 성장 잠재력을 보여주며, 해당 로봇에 탑재된 중국 칩은 특정 중국 반도체 기업의 약진 가능성을 시사합니다.",
+    "action_point": "AI 로봇 시장에 필요한 중국산 반도체 공급 기업 분석 및 투자 기회 검토"
+  },
+  {
     "source": "CNBC_Finance",
     "market": "US",
     "title": "Stocks making the biggest moves midday: PG&E, Edison International, Apple, Howmet Aerospace, Eli Lilly & more",
@@ -2568,408 +2965,5 @@
     ],
     "reason": "스페이스X의 대규모 우주항 투자는 우주항공 산업의 장기적인 성장 잠재력을 부각시키며, 관련 기술 및 인프라 기업들의 가치를 재평가할 기회를 제공합니다.",
     "action_point": "우주항공 및 위성 통신 관련 상장 기업 투자 기회 모색"
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "“발전소에서 산지직송 합니다”…LS일렉·효성중공업 새 먹거리라는데",
-    "title_ko": "“발전소에서 산지직송 합니다”…LS일렉·효성중공업 새 먹거리라는데",
-    "link": "https://www.mk.co.kr/news/business/12137285",
-    "published": "Wed, 26 Aug 2026 23:02:18 +09:00",
-    "fetched_at": "2026-08-27 03:51:24",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "전력설비",
-      "중전기"
-    ],
-    "keywords": [
-      "HVDC",
-      "전력설비",
-      "AI 전력수요",
-      "북미 전력망",
-      "LS일렉트릭",
-      "효성중공업"
-    ],
-    "reason": "북미 전력망 현대화 및 인공지능(AI)발 전력 수요 급증으로 HVDC를 포함한 전력설비 시장이 급성장할 것이며, 이는 관련 국내 기업들에게 긍정적인 실적 모멘텀으로 작용할 것입니다.",
-    "action_point": "전력설비 및 중전기 섹터 기업들의 투자 매력도를 재평가하고, 관련 기업 비중 확대를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Nvidia earnings live updates: Q2 results, memory prices and AI outlook",
-    "title_ko": "엔비디아 실적 실시간 업데이트: 2분기 결과, 메모리 가격 및 AI 전망",
-    "link": "https://www.cnbc.com/2026/08/26/nvidia-nvda-earnings-report-q2-2027-live-updates.html",
-    "published": "Wed, 26 Aug 2026 16:05:42 GMT",
-    "fetched_at": "2026-08-27 01:10:34",
-    "sentiment": "중립",
-    "importance": 5,
-    "sectors": [
-      "반도체",
-      "기술",
-      "인공지능",
-      "데이터 센터"
-    ],
-    "keywords": [
-      "엔비디아",
-      "AI",
-      "반도체",
-      "실적",
-      "데이터 센터"
-    ],
-    "reason": "엔비디아의 실적 발표는 글로벌 AI 및 반도체 산업의 현재 수요와 미래 전망을 가늠하는 핵심 지표이며, 전반적인 기술 시장 심리에 즉각적이고 큰 영향을 미친다.",
-    "action_point": "엔비디아 실적 발표 내용에 따라 AI 및 반도체 섹터 투자 비중을 즉각 조정할지 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Fed, NASA and DOJ among victims of Chinese state-sponsored hacker group: Court documents",
-    "title_ko": "연방준비제도(Fed), NASA, 법무부(DOJ) 등 중국 국가 지원 해커 그룹의 공격 대상에 포함: 법원 문서",
-    "link": "https://www.cnbc.com/2026/08/26/china-hacker-federal-reserve-doj-nasa.html",
-    "published": "Wed, 26 Aug 2026 16:02:47 GMT",
-    "fetched_at": "2026-08-27 01:10:43",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "사이버 보안",
-      "방위 산업",
-      "IT 서비스",
-      "금융"
-    ],
-    "keywords": [
-      "사이버 공격",
-      "중국",
-      "미국 정부",
-      "해킹",
-      "지정학적 리스크",
-      "사이버 안보"
-    ],
-    "reason": "이 뉴스는 미국 핵심 기관 및 인프라에 대한 국가 지원 사이버 공격 위협을 부각하며 지정학적 긴장과 사이버 안보 리스크를 고조시킵니다. 이는 관련 기업의 투자 확대와 함께 전반적인 시장 불확실성을 증대시킬 수 있습니다.",
-    "action_point": "사이버 보안 및 방위 산업 관련주 비중 확대 검토"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Fed’s preferred inflation gauge shows core prices rose 3.3% annually in July",
-    "title_ko": "연준 선호 물가지표, 7월 근원 PCE 전년 대비 3.3% 상승",
-    "link": "https://www.cnbc.com/2026/08/26/feds-preferred-inflation-gauge-shows-core-prices-rose-3point3percent-annually-in-july.html",
-    "published": "Wed, 26 Aug 2026 13:35:50 GMT",
-    "fetched_at": "2026-08-26 23:35:21",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "기술주",
-      "성장주",
-      "부동산",
-      "금융"
-    ],
-    "keywords": [
-      "PCE",
-      "인플레이션",
-      "연준",
-      "금리",
-      "물가 지표",
-      "근원 물가"
-    ],
-    "reason": "연준의 선호 물가지표인 근원 PCE가 시장 예상치(3.6%)보다 낮은 3.3%를 기록하며 인플레이션 압력 완화 가능성을 시사합니다. 이는 연준의 추가적인 공격적 금리 인상 가능성을 낮춰 위험 자산에 긍정적으로 작용할 수 있습니다.",
-    "action_point": "금리 인상 완화 기조를 반영하여 미국 주식 시장의 성장주 및 금리 민감 섹터 투자 비중 확대를 검토하십시오."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "박현주 \"고객 디지털자산 150조 시대 열 것\"",
-    "title_ko": "박현주 \"고객 디지털자산 150조 시대 열 것\"",
-    "link": "https://www.mk.co.kr/news/stock/12137284",
-    "published": "Wed, 26 Aug 2026 23:02:15 +09:00",
-    "fetched_at": "2026-08-26 23:35:36",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "금융",
-      "핀테크",
-      "블록체인",
-      "자산운용"
-    ],
-    "keywords": [
-      "박현주",
-      "미래에셋",
-      "디지털 자산",
-      "자산운용",
-      "블록체인"
-    ],
-    "reason": "미래에셋그룹의 대규모 디지털 자산 시장 진출 선언은 국내 금융 산업의 새로운 성장 동력을 제시하며, 디지털 자산의 제도권 편입 및 시장 활성화에 긍정적 영향을 미칠 것입니다.",
-    "action_point": "디지털 자산 및 관련 금융·기술 섹터 투자 비중 확대를 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "OpenAI’s Jalapeño AI chip brings new 'threat' to Nvidia margins as custom silicon gains ground",
-    "title_ko": "OpenAI의 할라페뇨 AI 칩, 맞춤형 반도체 부상하며 엔비디아 마진에 새로운 '위협' 가시화",
-    "link": "https://www.cnbc.com/2026/08/26/openai-jalapeno-ai-chip-nvidia.html",
-    "published": "Wed, 26 Aug 2026 13:27:35 GMT",
-    "fetched_at": "2026-08-26 22:47:31",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "반도체",
-      "인공지능",
-      "클라우드 컴퓨팅"
-    ],
-    "keywords": [
-      "OpenAI",
-      "AI 칩",
-      "Nvidia",
-      "맞춤형 반도체",
-      "마진 압박",
-      "추론 효율성"
-    ],
-    "reason": "OpenAI의 맞춤형 AI 칩 개발은 엔비디아와 같은 기존 AI 반도체 공급업체의 마진 압박을 가중시키고, 장기적으로는 AI 반도체 시장의 경쟁 구도 변화를 예고합니다. 이는 고성능 범용 GPU 의존도를 낮추려는 빅테크 기업들의 전략과 맞물려 있습니다.",
-    "action_point": "엔비디아를 비롯한 범용 AI 반도체 관련 포트폴리오의 중장기적 수익성 하락 가능성을 염두에 두고 비중 조절을 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Bill Gates warns ‘there is no plan’ for the ‘upheaval’ AI will cause",
-    "title_ko": "빌 게이츠, AI가 초래할 '대변혁'에 대한 '계획이 없다' 경고",
-    "link": "https://www.cnbc.com/2026/08/26/bill-gates-ai-jobs-economic-upheaval.html",
-    "published": "Wed, 26 Aug 2026 13:46:16 GMT",
-    "fetched_at": "2026-08-26 22:47:46",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "기술",
-      "노동집약 산업",
-      "교육",
-      "정부 정책"
-    ],
-    "keywords": [
-      "AI",
-      "노동 시장",
-      "사회 시스템",
-      "규제 위험"
-    ],
-    "reason": "빌 게이츠의 경고는 AI 기술 발전이 초래할 노동 시장의 대규모 변화와 사회 시스템 부담에 대한 정부의 미흡한 준비가 장기적인 경제 및 사회적 불확실성을 증가시킬 수 있음을 시사합니다. 이는 향후 AI 관련 규제 강화 및 사회 복지 비용 증가 가능성을 내포합니다.",
-    "action_point": "AI 기술의 사회적 비용 증가 및 규제 강화 가능성을 고려하여, 관련 기술 및 노동집약적 산업 투자 비중에 대한 위험 관리를 강화하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Meta settles social media addiction case with California, other states for $16.7 billion",
-    "title_ko": "메타, 캘리포니아 등 주정부와 소셜 미디어 중독 소송 167억 달러에 합의",
-    "link": "https://www.cnbc.com/2026/08/26/meta-social-media-trial-settlement.html",
-    "published": "Wed, 26 Aug 2026 13:41:01 GMT",
-    "fetched_at": "2026-08-26 22:47:23",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "IT/기술주",
-      "미디어/엔터테인먼트"
-    ],
-    "keywords": [
-      "메타",
-      "소셜 미디어",
-      "규제 리스크",
-      "법적 합의"
-    ],
-    "reason": "메타가 거액의 합의금을 지불하면서 단기적으로 기업의 재무 건전성에 부담을 줄 수 있으나, 장기적으로는 주요 법적 리스크 불확실성이 해소된 것으로 볼 수 있습니다. 이는 다른 소셜 미디어 플랫폼에도 잠재적인 규제 강화와 유사 소송 리스크를 상기시키는 계기가 될 수 있습니다.",
-    "action_point": "소셜 미디어 및 광고 기반 기술주의 잠재적 규제 리스크를 고려하여 해당 섹터 투자 비중을 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Mortgage rates hit highest level in 3 weeks, weakening demand further",
-    "title_ko": "모기지 금리 3주 만에 최고치 기록, 수요 추가 약화",
-    "link": "https://www.cnbc.com/2026/08/26/mortgage-rates-hit-highest-level-in-3-weeks-weakening-demand-further.html",
-    "published": "Wed, 26 Aug 2026 11:33:07 GMT",
-    "fetched_at": "2026-08-26 21:31:53",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "부동산",
-      "건설",
-      "은행/금융",
-      "소비재"
-    ],
-    "keywords": [
-      "모기지 금리",
-      "주택 시장",
-      "수요 위축",
-      "금리 인상 영향"
-    ],
-    "reason": "미국 모기지 금리 상승은 주택 구매 및 재융자 수요를 위축시켜 부동산 시장 둔화를 심화시킬 것입니다. 이는 가계 소비 여력 감소로 이어져 전반적인 경제 성장에도 부정적 영향을 미칠 수 있습니다.",
-    "action_point": "미국 주택 시장 익스포저가 높은 소비재 및 금융 섹터 투자 비중 축소를 검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "러·우크라, 대규모 전쟁 포로 교환 추진…\"명단 협의 중\" - 연합뉴스TV",
-    "title_ko": "러·우크라, 대규모 전쟁 포로 교환 추진…\"명단 협의 중\"",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE82S2FSMnM5Nkk3VGR2OU5YRE9ybDR0alpWcF9ubGN6OXhzNFYwVUE3SzJKbjFNaTh3WC1TWTdnaW1DemtYdWZvYjRYdThmaGpVeVJ1cEpPVElMUFlDX2t4MkMxbXprQ28?oc=5",
-    "published": "Wed, 26 Aug 2026 10:50:00 GMT",
-    "fetched_at": "2026-08-26 21:32:01",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "지정학"
-    ],
-    "keywords": [
-      "러시아",
-      "우크라이나",
-      "전쟁 포로",
-      "지정학적 리스크"
-    ],
-    "reason": "대규모 포로 교환 추진은 러시아-우크라이나 전쟁에서 미미한 수준의 긴장 완화 신호로 해석될 수 있으나, 전반적인 전쟁 상황이나 지정학적 리스크의 본질을 변화시키는 수준은 아니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[속보]네팔 홍수로 남동발전·두산에너빌리티 직원 8명 연락두절 - 아시아경제",
-    "title_ko": "[속보]네팔 홍수로 남동발전·두산에너빌리티 직원 8명 연락두절 - 아시아경제",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9SeW5feE1rMWhaLUZCeHRxTjZLNU9RWXpMUjlmVUFkLW5Qc0xjNTNUWHZicXR5bXlWYy1wanhWcENCZ21pVi1jQ0ZpdzJTdF9YUDRVQVBUc0s1WnJleFZQYw?oc=5",
-    "published": "Wed, 26 Aug 2026 10:18:54 GMT",
-    "fetched_at": "2026-08-26 20:20:47",
-    "sentiment": "악재",
-    "importance": 2,
-    "sectors": [
-      "발전",
-      "중공업",
-      "건설"
-    ],
-    "keywords": [
-      "네팔 홍수",
-      "남동발전",
-      "두산에너빌리티",
-      "직원 실종",
-      "자연재해"
-    ],
-    "reason": "네팔 홍수로 한국 기업 직원들의 연락두절은 해당 기업(두산에너빌리티 등)에 단기적인 인명피해 및 프로젝트 지연 우려를 발생시키나, 국내외 금융시장 및 거시경제에 미치는 영향은 제한적입니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "휴온스-휴온스랩 합병 결국 중단…주주 반발·주가 하락 고려",
-    "title_ko": "휴온스-휴온스랩 합병 결국 중단…주주 반발·주가 하락 고려",
-    "link": "https://www.mk.co.kr/news/it/12137156",
-    "published": "Wed, 26 Aug 2026 19:58:37 +09:00",
-    "fetched_at": "2026-08-26 20:20:56",
-    "sentiment": "악재",
-    "importance": 2,
-    "sectors": [
-      "제약",
-      "바이오"
-    ],
-    "keywords": [
-      "휴온스",
-      "휴온스랩",
-      "합병 중단",
-      "주주 반발",
-      "주가 하락"
-    ],
-    "reason": "휴온스-휴온스랩 합병 중단은 주주 반발과 주가 하락으로 인한 기업 가치 평가 및 지배구조에 대한 시장의 우려를 반영한다. 이는 해당 기업들의 단기 주가에 부정적 영향을 미칠 수 있으나, 국내 제약/바이오 섹터 전반에 미치는 파급 효과는 제한적이다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "트럼프의 전방위 전쟁에 미국 소비 심리 '꽁꽁'...\"경기 침체 적신호\" - YTN",
-    "title_ko": "트럼프의 전방위 전쟁에 미국 소비 심리 '꽁꽁'...'경기 침체 적신호'",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBnRVM1Tm1BbE5vZkxaQmFxZTRyMDhHTVJxNFNUSEZMb1R3Rnlya0R3UEdIbWl4YmJpbVgwSDJsRjR6RTNVUW5DRGZvMnlOemlvM3NHZDlqZzZjelpIR1E?oc=5",
-    "published": "Wed, 26 Aug 2026 08:16:00 GMT",
-    "fetched_at": "2026-08-26 18:31:52",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "소비재",
-      "IT 하드웨어",
-      "자동차",
-      "화학",
-      "금융"
-    ],
-    "keywords": [
-      "트럼프",
-      "미국 소비 심리",
-      "경기 침체",
-      "무역 전쟁",
-      "글로벌 수요"
-    ],
-    "reason": "트럼프의 대외 정책이 미국 소비 심리를 위축시키며 경기 침체 가능성을 높이고 있다. 이는 글로벌 수요 둔화로 이어져 한국의 수출 의존도가 높은 산업군에 부정적인 영향을 미 미칠 것이다.",
-    "action_point": "미국 경기 침체 우려 확대로 수출 민감 업종 및 고위험 자산 비중 축소를 검토하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "美, 전세계 비자면접 일시 중단",
-    "title_ko": "美, 전세계 비자면접 일시 중단",
-    "link": "https://www.mk.co.kr/news/world/12137073",
-    "published": "Wed, 26 Aug 2026 18:01:54 +09:00",
-    "fetched_at": "2026-08-26 18:33:32",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "항공",
-      "여행",
-      "교육",
-      "국제무역"
-    ],
-    "keywords": [
-      "미국 비자",
-      "트럼프 행정부",
-      "비자 중단",
-      "여행 제한",
-      "국제 교류"
-    ],
-    "reason": "미국 비자 면접 중단은 글로벌 인적 교류와 비즈니스 활동에 제약을 가해, 관련 섹터의 매출 감소 및 불확실성 증가로 이어질 수 있습니다.",
-    "action_point": "미국과의 인적 교류 의존도가 높은 항공, 여행, 교육 관련 섹터 투자 비중 축소 검토"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "미·캐나다 관세전쟁에 '빙긋' 웃는 나라 - v.daum.net",
-    "title_ko": "미·캐나다 관세전쟁에 '빙긋' 웃는 나라",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1IMVFkLVJtR1dSZmQ1Mmd2OHhkbDBIaS1BamlvS1pCOGZFTlozWlg2enpSc0thRnJNRlY0N29zSVpGTVdnSm84NzRJLUptcjA?oc=5",
-    "published": "Wed, 26 Aug 2026 07:36:00 GMT",
-    "fetched_at": "2026-08-26 17:32:23",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "제조업",
-      "수출입 관련 산업",
-      "원자재 관련 산업"
-    ],
-    "keywords": [
-      "관세전쟁",
-      "미국",
-      "캐나다",
-      "무역분쟁",
-      "글로벌 공급망"
-    ],
-    "reason": "미국과 캐나다 간 관세 분쟁은 해당 국가 간의 무역 흐름을 왜곡시키고 글로벌 공급망에 변화를 가져올 수 있습니다. 이는 특정 품목에서 제3국에 시장 점유율 확대 기회를 제공할 수 있습니다.",
-    "action_point": "미국-캐나다 간 관세 부과 품목을 확인하고, 해당 품목의 글로벌 공급망 재편 과정에서 경쟁 우위를 확보할 수 있는 한국 기업을 면밀히 분석하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "\"평화경제특구, 국내 특구 중 가장 강력한 지원 필요\" - 연합뉴스",
-    "title_ko": "평화경제특구, 국내 특구 중 가장 강력한 지원 필요",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAyeUZ0M1BPcVY5TzVWTFB1bW9uZzduRGJVNnhqS21lLWxoX2hRX2xDRklRQTliaEhJX2hqTlhIWUd3VlpBTDZQQTBGNGNPb282SVpaMDRkeVZick40R25PTNIBYEFVX3lxTFAyeUZ0M1BPcVY5TzVWTFB1bW9uZzduRGJVNnhqS21lLWxoX2hRX2xDRklRQTliaEhJX2hqTlhIWUd3VlpBTDZQQTBGNGNPb282SVpaMDRkeVZick40R25PTA?oc=5",
-    "published": "Wed, 26 Aug 2026 01:00:01 GMT",
-    "fetched_at": "2026-08-26 17:32:44",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "건설",
-      "부동산",
-      "인프라"
-    ],
-    "keywords": [
-      "평화경제특구",
-      "정부지원",
-      "지역개발",
-      "남북경협"
-    ],
-    "reason": "이 뉴스는 평화경제특구에 대한 강력한 정부 지원 필요성을 제기하며, 향후 정책 구체화 시 특정 지역의 부동산 가치 및 인프라 개발 관련 기업에 긍정적인 영향을 미칠 수 있음을 시사합니다. 그러나 아직 구체적인 정책 발표가 아니므로 광범위한 시장 영향은 제한적입니다.",
-    "action_point": "평화경제특구로 지정될 가능성이 있는 지역과 관련 인프라/건설 섹터 기업들에 대한 선제적 분석을 시작하라."
   }
 ]
