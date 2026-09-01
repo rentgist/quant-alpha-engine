@@ -1,5 +1,54 @@
 [
   {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Fed Governor Barr says he'll support rate hike if inflation doesn't ease",
+    "title_ko": "연준 이사 바, 인플레이션 완화 안 되면 금리 인상 지지할 것",
+    "link": "https://www.cnbc.com/2026/09/01/fed-governor-barr-says-hell-support-rate-hike-if-inflation-doesnt-ease.html",
+    "published": "Tue, 01 Sep 2026 14:01:27 GMT",
+    "fetched_at": "2026-09-02 00:19:00",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "기술주",
+      "부동산",
+      "성장주"
+    ],
+    "keywords": [
+      "연준",
+      "인플레이션",
+      "금리 인상",
+      "통화 긴축"
+    ],
+    "reason": "연준 고위 관계자의 매파적 발언은 인플레이션이 목표치를 웃돌 경우 추가 금리 인상이 가능함을 시사하며, 이는 고금리 장기화 우려를 높여 자본 조달 비용 증가 및 경제 성장 둔화 압력을 가중시킵니다.",
+    "action_point": "금리 민감도가 높은 성장주 비중 축소 검토"
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "김용범 정책실장 전격 사퇴…경제·부동산 라인 전면 교체 - KBS 뉴스",
+    "title_ko": "김용범 정책실장 전격 사퇴…경제·부동산 라인 전면 교체",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Sd29DTWlVSk9OZHdJbzlEZ2RpTS1PSXJPendpTE1pU2xoVEZsdFRiVnFZYWNKWG5zb3RiRFBBVGtDZXpkZE8wbENmZ3VZTWJUcDdIUHdMeW5Ia1ZpaGN0X04tRktYZw?oc=5",
+    "published": "Tue, 01 Sep 2026 12:16:00 GMT",
+    "fetched_at": "2026-09-02 00:19:18",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "부동산",
+      "건설",
+      "금융"
+    ],
+    "keywords": [
+      "김용범 사퇴",
+      "정책실장",
+      "경제 정책",
+      "부동산 정책",
+      "정부 인선"
+    ],
+    "reason": "정부 경제·부동산 정책을 총괄하는 고위 인사의 사퇴와 라인 전면 교체는 향후 정책 기조의 변화를 예고하며 관련 시장에 불확실성을 증대시킬 수 있습니다. 특히 국내 부동산 시장에 미칠 영향이 주목됩니다.",
+    "action_point": "새롭게 구성될 경제·부동산 정책 라인의 방향성을 면밀히 파악하고, 그에 따라 부동산 및 건설 섹터 비중 조정을 검토하라."
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "Global bond yields soar to multi-decade highs as Middle East turmoil reignites inflation fears",
@@ -2913,57 +2962,5 @@
     ],
     "reason": "경제 캘린더는 향후 발표될 경제 지표와 이벤트 일정을 제공하며, 이는 투자 시장의 불확실성과 변동성에 대비하는 기초 자료로 활용됩니다.",
     "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "트럼프, CIA국장 러시아 방문에 “성과 나올 수도”…‘두 전쟁’ 종식론 주장 - v.daum.net",
-    "title_ko": "트럼프, CIA국장 러시아 방문에 “성과 나올 수도”…‘두 전쟁’ 종식론 주장",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAtQkhOSXdhVzBrazV6bXlvc18ycFpCRE9rbndCQ1RHQlpoOXRwb3R5WDZoR1Q2MWhVb0V2SE5XNlZEbkh6Vy1QaGMzZlVyekk?oc=5",
-    "published": "Wed, 26 Aug 2026 15:17:07 GMT",
-    "fetched_at": "2026-08-27 03:51:11",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "방산",
-      "에너지",
-      "항공",
-      "여행",
-      "기술"
-    ],
-    "keywords": [
-      "트럼프",
-      "러시아",
-      "전쟁 종식",
-      "지정학적 위험",
-      "평화 협상"
-    ],
-    "reason": "트럼프의 발언은 주요 전쟁의 종식 가능성을 시사하며, 이는 글로벌 지정학적 위험 완화 및 불확실성 감소로 이어져 전반적인 투자 심리에 긍정적 영향을 줄 수 있다.",
-    "action_point": "지정학적 위험 완화 기대감으로 방산 섹터 비중 축소를 검토하고, 에너지 가격 안정 및 글로벌 경기 회복 수혜주(항공, 여행 등)에 대한 투자를 고려하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "SpaceX is 'attractively valued' after $100 billion Louisiana spaceport plan, Morgan Stanley says",
-    "title_ko": "모건스탠리, 1,000억 달러 규모 루이지애나 우주항 계획 발표 후 스페이스X '매력적 가치' 평가",
-    "link": "https://www.cnbc.com/2026/08/26/spacex-is-attractively-valued-after-100-billion-louisiana-spaceport-plan-morgan-stanley-says.html",
-    "published": "Wed, 26 Aug 2026 15:33:31 GMT",
-    "fetched_at": "2026-08-27 03:51:00",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "우주항공",
-      "방위산업",
-      "통신"
-    ],
-    "keywords": [
-      "스페이스X",
-      "우주항공",
-      "투자",
-      "모건스탠리",
-      "루이지애나"
-    ],
-    "reason": "스페이스X의 대규모 우주항 투자는 우주항공 산업의 장기적인 성장 잠재력을 부각시키며, 관련 기술 및 인프라 기업들의 가치를 재평가할 기회를 제공합니다.",
-    "action_point": "우주항공 및 위성 통신 관련 상장 기업 투자 기회 모색"
   }
 ]
