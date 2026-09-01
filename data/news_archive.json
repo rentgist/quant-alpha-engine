@@ -1,5 +1,53 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "U.S. strikes Iran after new Hormuz Strait shipping attacks: Centcom",
+    "title_ko": "미국, 호르무즈 해협 선박 공격 후 이란 공격 감행: 미 중부사령부",
+    "link": "https://www.cnbc.com/2026/09/01/us-strikes-iran-after-new-hormuz-strait-shipping-attacks-centcom.html",
+    "published": "Tue, 01 Sep 2026 18:45:02 GMT",
+    "fetched_at": "2026-09-02 04:00:57",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "에너지",
+      "방위산업",
+      "해운"
+    ],
+    "keywords": [
+      "미국-이란 갈등",
+      "호르무즈 해협",
+      "유가 상승"
+    ],
+    "reason": "미국의 이란 공격은 중동의 지정학적 긴장을 고조시키며, 주요 석유 운송로인 호르무즈 해협의 공급 차질 위험을 높여 유가 상승 및 시장 전반의 위험 회피 심리를 강화할 것입니다.",
+    "action_point": "에너지 및 방위산업 관련 투자 비중 확대를 검토하고 달러 자산 보유를 유지하십시오."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Prediction market traders think job creation rebounded in August",
+    "title_ko": "예측 시장 트레이더들, 8월 일자리 증가 반등 예상",
+    "link": "https://www.cnbc.com/2026/09/01/prediction-market-traders-think-job-creation-rebounded-in-august.html",
+    "published": "Tue, 01 Sep 2026 18:57:14 GMT",
+    "fetched_at": "2026-09-02 04:00:39",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "소비재",
+      "금융",
+      "부동산"
+    ],
+    "keywords": [
+      "미국 고용",
+      "일자리",
+      "경기 반등",
+      "금리 전망",
+      "연준"
+    ],
+    "reason": "예측 시장에서 8월 고용 지표의 반등 가능성을 50%로 점치고 있어, 이는 미국 경제의 회복 탄력성을 시사하며 주식 시장 전반에 긍정적입니다. 다만, 견조한 고용은 연준의 매파적 스탠스 장기화 우려를 키워 금리 상승 압력으로 작용할 수 있습니다.",
+    "action_point": "미국 고용지표 발표 시 시장 변동성 확대 가능성에 대비하여 금리 인상에 덜 민감한 가치주/고배당주 비중을 유지하고 성장주 투자 비중을 재검토하라."
+  },
+  {
     "source": "CNBC_Finance",
     "market": "US",
     "title": "Fed Governor Barr says he'll support rate hike if inflation doesn't ease",
@@ -2918,49 +2966,6 @@
       "크라우드스트라이크"
     ],
     "reason": "이 기사는 시간 외 거래에서 엔비디아 등 주요 기술 및 소비재 기업들의 주가 변동성을 보여주나, 구체적인 원인이나 거시경제적 영향에 대한 정보는 부족하여 시장 전체 방향성 예측에 제한적입니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Okta pops 20% after topping estimates as AI threat spikes demand for identity security",
-    "title_ko": "오크타, 예상치 상회 및 AI 위협으로 신원 보안 수요 급증에 주가 20% 급등",
-    "link": "https://www.cnbc.com/2026/08/26/okta-okta-earnings-q2-2027.html",
-    "published": "Wed, 26 Aug 2026 21:27:53 GMT",
-    "fetched_at": "2026-08-27 06:29:31",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "사이버 보안",
-      "소프트웨어",
-      "인공지능(AI)"
-    ],
-    "keywords": [
-      "오크타",
-      "AI 위협",
-      "신원 보안",
-      "사이버 보안"
-    ],
-    "reason": "오크타의 실적 호조는 AI 시대에 신원 보안의 중요성이 커지고 있음을 보여주며, 사이버 보안 섹터 전반에 대한 긍정적인 투자 심리를 자극할 수 있습니다. 이는 특히 기업 소프트웨어 및 보안 솔루션 기업들의 실적 전망을 밝게 할 수 있습니다.",
-    "action_point": "사이버 보안 및 AI 관련 소프트웨어 섹터 비중 확대를 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "■8월 27일(목) 경제 캘린더 - YTN",
-    "title_ko": "8월 27일(목) 경제 캘린더",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5DdWJ0TnVVazFFVWwtQVI4R3l5VzdocDlEaFdhNlQ3RXFXdUd5SlNFUmM3UXZ4MXIyS2RLOXBEYlY3dzFra3RITGVISVBsdjZqQ2p4dTU0Sk1USWdXbGc?oc=5",
-    "published": "Wed, 26 Aug 2026 20:19:00 GMT",
-    "fetched_at": "2026-08-27 06:29:37",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [],
-    "keywords": [
-      "경제 캘린더",
-      "경제 지표",
-      "투자 일정"
-    ],
-    "reason": "경제 캘린더는 향후 발표될 경제 지표와 이벤트 일정을 제공하며, 이는 투자 시장의 불확실성과 변동성에 대비하는 기초 자료로 활용됩니다.",
     "action_point": "해당 없음"
   }
 ]
