@@ -1,5 +1,74 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Palo Alto CEO says $1 trillion of cybersecurity infrastructure isn’t ready for AI",
+    "title_ko": "팔로알토 CEO, \"1조 달러 규모 사이버 보안 인프라, AI 대비 미흡\" 경고",
+    "link": "https://www.cnbc.com/2026/09/01/palo-alto-ceo-says-1-trillion-of-cybersecurity-infrastructure-isnt-ready-for-ai.html",
+    "published": "Tue, 01 Sep 2026 23:20:44 GMT",
+    "fetched_at": "2026-09-02 08:41:22",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "사이버 보안",
+      "IT 인프라",
+      "소프트웨어"
+    ],
+    "keywords": [
+      "AI",
+      "사이버 보안",
+      "인프라",
+      "현대화",
+      "Palo Alto"
+    ],
+    "reason": "AI 기술의 급속한 발전이 기존 사이버 보안 인프라의 대규모 교체 및 현대화를 강제하며, 이는 관련 솔루션 및 서비스 제공 기업들에게 1조 달러 규모의 거대한 시장 기회를 창출할 것으로 예상된다. 기업들의 AI 도입 가속화에 따른 보안 위협 증가는 관련 투자를 필수로 만들 것이다.",
+    "action_point": "사이버 보안 소프트웨어 및 클라우드 기반 보안 솔루션 제공 기업 비중 확대를 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "“삼성맨은 대출 5억 더”…한국 경제, 네덜란드병 따라가나 [잇슈 머니] - KBS 뉴스",
+    "title_ko": "“삼성맨은 대출 5억 더”…한국 경제, 네덜란드병 따라가나 [잇슈 머니]",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5SWGNvU3VoY0xRYTlTZlNOalUxcG9HMjEzNEY4NmhmU2M5MlRPX3QwQm16RGEyWWJITXl3SkxpUXlVc3NUekphNFpvYWt5Unc4WVduTzZxZlJGSVk?oc=5",
+    "published": "Tue, 01 Sep 2026 21:52:00 GMT",
+    "fetched_at": "2026-09-02 08:41:34",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "부동산",
+      "금융"
+    ],
+    "keywords": [
+      "네덜란드병",
+      "자산 불균형",
+      "부동산 거품",
+      "가계부채",
+      "경제 불균형"
+    ],
+    "reason": "한국 경제가 특정 산업(IT/반도체)의 성장에 과도하게 의존하며 자산 불균형과 부동산 시장 과열을 겪을 수 있다는 경고로, 장기적인 경제 안정성에 대한 우려를 제기합니다.",
+    "action_point": "국내 부동산 자산의 과열 리스크를 점검하고 비중 조절을 고려하십시오."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Canada's Carney slaps Trump admin for 'doing memes ... throwing shade'",
+    "title_ko": "캐나다 카니 총리, 트럼프 행정부의 '자국 군대 모욕적 언사' 비판",
+    "link": "https://www.cnbc.com/2026/09/01/canada-carney-trump-trade-ontario.html",
+    "published": "Tue, 01 Sep 2026 18:52:11 GMT",
+    "fetched_at": "2026-09-02 08:41:14",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [],
+    "keywords": [
+      "캐나다",
+      "트럼프 행정부",
+      "외교 마찰",
+      "정치 수사"
+    ],
+    "reason": "이 기사는 과거 트럼프 행정부의 외교적 태도에 대한 캐나다 총리의 비판을 담고 있으며, 현 시점의 새로운 정책 변화나 경제적 충격을 야기하지는 않습니다. 기존에 인지된 정치적 마찰의 연장선상에 있으므로, 시장에 미칠 직접적인 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "GoogleNews_Korea",
     "market": "KR",
     "title": "국제유가 5% 안팎 급등‥뉴욕증시 1% 안팎 하락 - MBC 뉴스",
@@ -2902,76 +2971,5 @@
     ],
     "reason": "이 기사는 개장 전 특정 개별 종목들의 움직임을 나열하는 것으로, 전반적인 시장이나 거시 경제에 대한 직접적인 영향 분석은 어렵습니다. 각 종목의 움직임 원인에 대한 정보가 부재합니다.",
     "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Stocks making the biggest moves midday: Meta, Abercrombie & Fitch, Zoom, Intuit & more",
-    "title_ko": "장중 가장 큰 움직임을 보이는 주식들: 메타, 애버크롬비 & 피치, 줌, 인튜이트 등",
-    "link": "https://www.cnbc.com/2026/08/26/stocks-making-the-biggest-moves-midday-meta-anf-zm-intu.html",
-    "published": "Wed, 26 Aug 2026 16:15:33 GMT",
-    "fetched_at": "2026-08-27 22:21:39",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "기술",
-      "소비재"
-    ],
-    "keywords": [
-      "개별 주식",
-      "기술주",
-      "소매업"
-    ],
-    "reason": "이 기사는 특정 기업들의 장중 주가 변동을 단순히 나열한 것으로, 시장 전반의 매크로 흐름이나 투자 심리에 미치는 영향은 제한적입니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Why Citi thinks one of the year's best-performing sectors is finishing its bull run",
-    "title_ko": "시티, 올해 최고 성과 섹터 중 하나가 강세장 막바지에 도달했다고 보는 이유",
-    "link": "https://www.cnbc.com/2026/08/27/stocks-investment-bull-run-citi.html",
-    "published": "Thu, 27 Aug 2026 10:26:19 GMT",
-    "fetched_at": "2026-08-27 22:22:34",
-    "sentiment": "악재",
-    "importance": 2,
-    "sectors": [
-      "유럽 은행",
-      "금융"
-    ],
-    "keywords": [
-      "유럽 은행",
-      "강세장 종료",
-      "모멘텀 둔화",
-      "시티 분석"
-    ],
-    "reason": "시티의 유럽 은행 강세장 종료 경고는 유럽 경제 둔화 및 금리 인하 기대감 반영일 수 있으며, 전반적인 금융 섹터에 대한 투자 심리에 부정적 영향을 줄 수 있습니다.",
-    "action_point": "유럽 은행 섹터 투자 비중 축소 또는 신규 진입 보류를 검토하십시오."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "수원시, '경제자유구역 지정·정조능행차 국가사업화' 정부 건의 - 연합뉴스",
-    "title_ko": "수원시, '경제자유구역 지정·정조능행차 국가사업화' 정부 건의 - 연합뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oMnR1cjNpVHlPZFRHOF93TWJSaktId0V3b1NwZlRrREVVX3FiN1NzcE9mcHhzTmZmOHY4VHBOVVdub2djMnZHOWJ1eXhQdWxVR3p6NUV0UlkxWnhQWDRaVNIBYEFVX3lxTE5oMnR1cjNpVHlPZFRHOF93TWJSaktId0V3b1NwZlRrREVVX3FiN1NzcE9mcHhzTmZmOHY4VHBOVVdub2djMnZHOWJ1eXhQdWxVR3p6NUV0UlkxWnhQWDRaVA?oc=5",
-    "published": "Thu, 27 Aug 2026 10:00:56 GMT",
-    "fetched_at": "2026-08-27 22:23:30",
-    "sentiment": "호재",
-    "importance": 2,
-    "sectors": [
-      "부동산",
-      "건설",
-      "관광",
-      "유통"
-    ],
-    "keywords": [
-      "수원시",
-      "경제자유구역",
-      "정조능행차",
-      "지역개발",
-      "관광산업"
-    ],
-    "reason": "수원시의 경제자유구역 지정 건의는 지역 내 기업 유치 및 고용 증대를 통한 경제 활성화 기대를 높이며, 정조능행차 국가사업화는 관광 및 문화 콘텐츠 산업에 긍정적인 영향을 줄 수 있습니다. 이는 수원 지역 부동산 및 관련 산업의 장기적인 투자 심리에 긍정적 신호가 될 수 있으나, 아직 건의 단계임을 인지해야 합니다.",
-    "action_point": "수원 지역 개발 관련 부동산 및 인프라 섹터의 잠재적 투자 기회를 선제적으로 분석하라."
   }
 ]
