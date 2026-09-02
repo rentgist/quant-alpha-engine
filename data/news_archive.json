@@ -2,6 +2,53 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "Global bond rout gathers pace as inflation fears mount",
+    "title_ko": "인플레이션 우려 고조에 따라 글로벌 채권 폭락세 가속화",
+    "link": "https://www.cnbc.com/2026/09/02/global-bond-yields-inflation-rates.html",
+    "published": "Wed, 02 Sep 2026 11:23:24 GMT",
+    "fetched_at": "2026-09-02 21:24:13",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "채권",
+      "주식 (특히 성장주)",
+      "부동산",
+      "금융"
+    ],
+    "keywords": [
+      "인플레이션",
+      "금리 상승",
+      "채권 시장",
+      "부채 부담"
+    ],
+    "reason": "인플레이션 우려와 차입 비용 상승으로 글로벌 채권 금리가 급등하며, 이는 모든 자산의 자본 비용을 높여 주식 및 부동산 등 위험자산의 가치 하락 압력으로 작용합니다. 기업과 국가의 부채 상환 부담도 가중될 것입니다.",
+    "action_point": "고금리 환경에 취약한 장기채 및 고성장 기술주 비중 축소를 검토하고, 달러 자산 보유 비중을 늘려라."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Nepal’s mountain tourism industry faces ‘serious warning’ after Himalayan flood disaster",
+    "title_ko": "히말라야 홍수 참사 이후 네팔 산악 관광 산업, '심각한 경고' 직면",
+    "link": "https://www.cnbc.com/2026/09/02/nepal-tibet-floods-adventure-tourism-economy.html",
+    "published": "Wed, 02 Sep 2026 09:23:18 GMT",
+    "fetched_at": "2026-09-02 21:24:04",
+    "sentiment": "악재",
+    "importance": 2,
+    "sectors": [
+      "관광",
+      "레저"
+    ],
+    "keywords": [
+      "네팔",
+      "홍수",
+      "관광 산업"
+    ],
+    "reason": "네팔의 홍수 참사는 핵심 관광 산업에 심각한 타격을 주어 지역 경제에 부정적인 영향을 미칠 수 있습니다. 하지만 이는 지엽적인 이슈로, 글로벌 매크로 시장이나 한국 투자자의 포트폴리오에 미치는 직접적인 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "China's Xi keeps Iranian president at arm's length weeks ahead of Trump summit",
     "title_ko": "중국 시진핑 주석, 트럼프 정상회담 앞두고 이란 대통령과 거리 두기",
     "link": "https://www.cnbc.com/2026/09/02/china-trump-iran-summit-nuclear-trade-tariffs-sanctions-.html",
@@ -2918,53 +2965,5 @@
     ],
     "reason": "연준 의장의 잭슨홀 연설은 향후 통화정책 방향에 대한 중대한 신호를 제공하며, 이는 글로벌 금리, 주식, 환율 등 모든 자산 시장에 광범위한 영향을 미칩니다.",
     "action_point": "연설 내용에 따라 시장 변동성이 커질 수 있으므로, 연설 전후 포트폴리오의 리스크 노출도를 점검하고 현금 비중을 조정할 준비를 하십시오."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Salesforce rockets 22% for second-best day ever, leading software rally",
-    "title_ko": "세일즈포스, 2분기 실적 호조와 AI 파트너십 확대로 22% 폭등하며 소프트웨어 랠리 주도",
-    "link": "https://www.cnbc.com/2026/08/27/salesforce-stock-soars-on-track-for-second-best-day-ever.html",
-    "published": "Thu, 27 Aug 2026 20:04:01 GMT",
-    "fetched_at": "2026-08-28 08:22:44",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "소프트웨어",
-      "클라우드 컴퓨팅",
-      "인공지능(AI)",
-      "기술주"
-    ],
-    "keywords": [
-      "세일즈포스",
-      "실적",
-      "AI",
-      "소프트웨어",
-      "클라우드"
-    ],
-    "reason": "세일즈포스의 호실적과 AI 파트너십 확대는 기업용 소프트웨어 및 클라우드 서비스에 대한 견조한 수요를 보여주며, AI 기술 투자에 대한 긍정적 전망을 강화한다. 이는 관련 기술주 전반의 투자 심리를 개선할 수 있다.",
-    "action_point": "클라우드/AI 기반 소프트웨어 섹터 투자 비중 확대를 검토."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Stocks making the biggest moves after hours: Gap, Workday, Autodesk and more",
-    "title_ko": "시간 외 거래에서 가장 큰 변동을 보인 주식들: Gap, Workday, Autodesk 등",
-    "link": "https://www.cnbc.com/2026/08/27/stocks-making-the-biggest-moves-after-hours-gap-wday-adsk-and-more.html",
-    "published": "Thu, 27 Aug 2026 22:11:51 GMT",
-    "fetched_at": "2026-08-28 08:22:27",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "소프트웨어",
-      "의류/소매"
-    ],
-    "keywords": [
-      "시간 외 거래",
-      "개별 기업",
-      "주가 변동"
-    ],
-    "reason": "이 기사는 Gap, Workday, Autodesk 등 특정 기업들의 시간 외 주가 변동을 보고하며, 이는 개별 기업 실적 및 이슈에 기인한 것으로 거시 경제 또는 광범위한 섹터에 미치는 영향은 제한적입니다.",
-    "action_point": "해당 없음"
   }
 ]
