@@ -1,5 +1,130 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Trump and Xi are set to meet in DC. Why some China watchers have low expectations",
+    "title_ko": "트럼프와 시진핑, 워싱턴 회담 예정… 중국 전문가들이 기대가 낮은 이유",
+    "link": "https://www.cnbc.com/2026/09/02/trump-xi-summit-iran-china-trade-elections.html",
+    "published": "Wed, 02 Sep 2026 22:00:01 GMT",
+    "fetched_at": "2026-09-03 07:09:56",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "반도체",
+      "기술주",
+      "무역 관련 산업",
+      "제조업",
+      "해운업"
+    ],
+    "keywords": [
+      "트럼프",
+      "시진핑",
+      "미중 관계",
+      "미국 대선",
+      "무역 전쟁",
+      "지정학"
+    ],
+    "reason": "미국 대선 직전 미중 정상회담의 낮은 기대치는 양국 간 무역 및 기술 갈등이 지속되거나 심화될 가능성을 시사합니다. 이는 글로벌 공급망과 무역 의존도가 높은 산업에 불확실성을 가중시킬 것입니다.",
+    "action_point": "미중 무역분쟁에 민감한 반도체 및 기술 섹터의 비중 축소를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Energy Secretary Chris Wright tells CNBC more than 17 million barrels of oil transited Hormuz on Monday",
+    "title_ko": "에너지 장관, 월요일 호르무즈 해협 통해 1,700만 배럴 이상 원유 운송 확인",
+    "link": "https://www.cnbc.com/2026/09/02/energy-secretary-chris-wright-tells-cnbc-that-more-than-17-million-barrels-of-oil-transited-hormuz-on-monday.html",
+    "published": "Wed, 02 Sep 2026 15:57:08 GMT",
+    "fetched_at": "2026-09-03 07:10:55",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "항공",
+      "해운",
+      "화학"
+    ],
+    "keywords": [
+      "원유",
+      "호르무즈",
+      "베네수엘라",
+      "공급",
+      "지정학"
+    ],
+    "reason": "호르무즈 해협의 안정적인 원유 운송과 미국-베네수엘라 간 대규모 원유 거래 소식은 글로벌 원유 공급 안정화 및 잠재적 증대를 시사하며 유가 하방 압력을 가할 수 있습니다. 이는 전반적인 경제 활동에 긍정적이나, 에너지 섹터에는 불리하게 작용할 수 있습니다.",
+    "action_point": "원유 공급 증가 가능성에 대비하여 에너지 섹터 자산 비중을 축소하고, 유가 하락 수혜 업종(항공, 해운, 화학) 투자 기회를 모색하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Stock futures are little changed after major averages snap three-day losing streaks: Live updates",
+    "title_ko": "주요 지수가 3일 연속 하락세를 끊은 후 주식 선물은 소폭 변동: 실시간 업데이트",
+    "link": "https://www.cnbc.com/2026/09/02/stock-market-today-live-updates.html",
+    "published": "Wed, 02 Sep 2026 22:08:29 GMT",
+    "fetched_at": "2026-09-03 07:10:31",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "기술주",
+      "성장주"
+    ],
+    "keywords": [
+      "미국 증시",
+      "국채 금리",
+      "시장 반등"
+    ],
+    "reason": "미국 국채 금리 하락이 위험자산, 특히 성장주에 긍정적인 영향을 미쳐 최근의 증시 하락세에 단기적인 안도감을 제공할 수 있다.",
+    "action_point": "금리 하락에 민감한 성장주에 대한 단기적 트레이딩 기회를 탐색하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Snowflake spikes 22% on healthy results and AI coding momentum",
+    "title_ko": "스노우플레이크, 견조한 실적 및 AI 코딩 모멘텀으로 주가 22% 급등",
+    "link": "https://www.cnbc.com/2026/09/02/snowflake-snow-q2-earnings-report-2027.html",
+    "published": "Wed, 02 Sep 2026 20:28:39 GMT",
+    "fetched_at": "2026-09-03 07:11:03",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "기술",
+      "클라우드 컴퓨팅",
+      "인공지능(AI)",
+      "소프트웨어"
+    ],
+    "keywords": [
+      "스노우플레이크",
+      "AI",
+      "클라우드 컴퓨팅",
+      "실적",
+      "소프트웨어"
+    ],
+    "reason": "스노우플레이크의 견조한 실적과 AI 코딩 도구 채택 증가는 클라우드 데이터 플랫폼 및 AI 기술의 상업적 성공 가능성을 보여준다. 이는 관련 기술 섹터 전반에 대한 투자 심리 개선에 기여할 수 있다.",
+    "action_point": "AI 및 클라우드 컴퓨팅 관련 기술주에 대한 투자 기회 모색"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "USTR's Greer huddles with House Republicans amid Trump trade spats",
+    "title_ko": "트럼프 무역 갈등 속 USTR 그리어, 하원 공화당과 회동",
+    "link": "https://www.cnbc.com/2026/09/02/greer-trade-house-republicans-trump.html",
+    "published": "Wed, 02 Sep 2026 20:50:51 GMT",
+    "fetched_at": "2026-09-03 07:10:09",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "농업",
+      "식품"
+    ],
+    "keywords": [
+      "트럼프",
+      "무역정책",
+      "관세",
+      "쇠고기"
+    ],
+    "reason": "트럼프 행정부의 쇠고기 관세 인하 시도는 국내 축산업에 직접적인 영향을 미치며, 향후 무역 정책 방향에 대한 불확실성을 높일 수 있습니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "CNBC_Finance",
     "market": "US",
     "title": "Berkshire CEO Greg Abel says Japanese bond yields not a challenge for trading houses right now",
@@ -2833,133 +2958,5 @@
     ],
     "reason": "이 판결은 미국 내 예측 시장(특히 스포츠 관련 이벤트 계약)의 규제 불확실성을 증폭시키며, 관련 상품의 제공 및 확장에 제동을 걸 수 있습니다. 이는 특정 핀테크/온라인 베팅 산업의 성장에 부정적입니다.",
     "action_point": "일반적인 포트폴리오에 미치는 영향은 미미하므로 당장 취할 조치는 해당 없음."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "이란전쟁 6개월…核폐기 사라지고, 멀쩡했던 호르무즈만 닫혔다 - v.daum.net",
-    "title_ko": "이란전쟁 6개월…核폐기 사라지고, 멀쩡했던 호르무즈만 닫혔다",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ONk41Z3VGUVFHa1NrUXdrRW9XQ2U2QzczeEVxYWhqT2VURFhOS0FZMTV4SUJqRlp6NFkxclJsNDFyR2dUMXlRa0EwNGRXSVk?oc=5",
-    "published": "Fri, 28 Aug 2026 05:21:09 GMT",
-    "fetched_at": "2026-08-28 17:00:59",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "에너지",
-      "해운",
-      "항공",
-      "방산",
-      "화학"
-    ],
-    "keywords": [
-      "이란전쟁",
-      "호르무즈만",
-      "유가",
-      "지정학적 리스크",
-      "핵확산"
-    ],
-    "reason": "호르무즈만 폐쇄는 전 세계 원유 공급에 심각한 차질을 야기하여 유가를 급등시키고 인플레이션을 심화하며 글로벌 경기 침체 우려를 높인다. 이란의 핵 문제 장기화는 중동발 지정학적 리스크를 고조시킨다.",
-    "action_point": "유가 급등 및 지정학적 리스크 확대에 대비하여 에너지/방산 섹터 비중 확대와 달러/금 등 안전자산 보유를 강화하라."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Trump ratchets up rhetoric against Beijing as U.S.-China officials meet for Xi's Washington visit",
-    "title_ko": "트럼프, 시진핑 워싱턴 방문 앞두고 미·중 당국자 회동 중에도 대중국 강경 발언 수위 높여",
-    "link": "https://www.cnbc.com/2026/08/28/trump-x-meeting-us-china-iran-sanctions.html",
-    "published": "Fri, 28 Aug 2026 01:35:13 GMT",
-    "fetched_at": "2026-08-28 16:59:01",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "기술",
-      "산업재",
-      "소비재",
-      "반도체"
-    ],
-    "keywords": [
-      "트럼프",
-      "미중관계",
-      "지정학",
-      "무역갈등",
-      "공급망"
-    ],
-    "reason": "트럼프 전 대통령의 대중국 강경 발언은 향후 미중 무역 및 기술 갈등이 재점화될 가능성을 시사하며, 이는 글로벌 공급망과 지정학적 불확실성을 증폭시켜 시장의 위험 회피 심리를 자극할 수 있습니다.",
-    "action_point": "글로벌 공급망 불확실성에 대비하여 중국 의존도가 높은 기술 및 산업재 섹터 비중을 축소하고, 방어적 섹터로의 포트폴리오 재조정을 고려하십시오."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Iran says return to diplomacy 'isn't impossible' — but all Mideast wars must end to reopen Hormuz",
-    "title_ko": "이란, '외교 복귀 불가능하지 않지만' 호르무즈 해협 재개 위해 중동 분쟁 종식 조건 제시",
-    "link": "https://www.cnbc.com/2026/08/28/us-iran-war-trump-hormuz-oman-centcom.html",
-    "published": "Fri, 28 Aug 2026 07:20:34 GMT",
-    "fetched_at": "2026-08-28 16:59:22",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "국방/항공",
-      "해운/물류"
-    ],
-    "keywords": [
-      "이란",
-      "호르무즈 해협",
-      "중동 분쟁",
-      "지정학",
-      "유가"
-    ],
-    "reason": "이란이 호르무즈 해협 재개와 외교 복귀에 대한 강력한 조건을 제시하며 중동 지정학적 리스크와 유가 변동성 불확실성을 지속시킨다. 이는 글로벌 공급망 및 인플레이션 압력에 대한 우려를 장기화시킬 수 있다.",
-    "action_point": "중동 지정학적 리스크 장기화 및 유가 변동성 확대 가능성에 대비, 에너지 관련 자산 익스포저를 재검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Six months into the Iran war: Markets become accustomed to stalemate with no end in sight",
-    "title_ko": "이란 전쟁 6개월: 시장은 끝없는 교착 상태에 익숙해지다",
-    "link": "https://www.cnbc.com/2026/08/28/us-iran-war-six-months-trump.html",
-    "published": "Fri, 28 Aug 2026 05:02:16 GMT",
-    "fetched_at": "2026-08-28 16:59:49",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "방산",
-      "해운",
-      "보험"
-    ],
-    "keywords": [
-      "이란 전쟁",
-      "지정학적 리스크",
-      "유가",
-      "중동 불안정"
-    ],
-    "reason": "이란 전쟁의 장기화 및 끝없는 교착 상태는 중동 지역의 지정학적 리스크를 고착화하여 글로벌 에너지 가격에 지속적인 상방 압력을 가할 수 있습니다. 시장이 현재의 상황에 익숙해졌다고는 하나, 근본적인 불확실성은 언제든 시장 변동성으로 이어질 수 있습니다.",
-    "action_point": "에너지 및 방산 섹터에 대한 장기적 투자 관점을 유지하고, 지정학적 리스크 헤지를 위한 금 또는 달러 등 안전자산 비중을 점검하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "CNBC Daily Open: Waiting for Warsh",
-    "title_ko": "CNBC 데일리 오픈: 워시 연준 의장 연설 대기",
-    "link": "https://www.cnbc.com/2026/08/28/cnbc-daily-open-warsh.html",
-    "published": "Fri, 28 Aug 2026 06:14:12 GMT",
-    "fetched_at": "2026-08-28 17:00:02",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "금융",
-      "기술",
-      "부동산"
-    ],
-    "keywords": [
-      "미국 연준",
-      "케빈 워시",
-      "금리 변동성",
-      "통화 정책",
-      "시장 불확실성"
-    ],
-    "reason": "연준 의장의 연설은 현재 높은 변동성을 보이는 채권 수익률에 대한 시장의 기대를 형성하며 향후 통화 정책 방향에 중요한 단서를 제공할 것입니다.",
-    "action_point": "연준 의장 연설 내용에 따라 금리 방향성 변화에 대비하여 포트폴리오 내 금리 민감 자산의 비중을 점검하고 필요시 조정 고려."
   }
 ]
