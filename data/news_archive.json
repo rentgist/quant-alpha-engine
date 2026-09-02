@@ -2,6 +2,282 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "China's Xi keeps Iranian president at arm's length weeks ahead of Trump summit",
+    "title_ko": "중국 시진핑 주석, 트럼프 정상회담 앞두고 이란 대통령과 거리 두기",
+    "link": "https://www.cnbc.com/2026/09/02/china-trump-iran-summit-nuclear-trade-tariffs-sanctions-.html",
+    "published": "Wed, 02 Sep 2026 05:56:11 GMT",
+    "fetched_at": "2026-09-02 16:26:44",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "원자재",
+      "글로벌 무역",
+      "반도체"
+    ],
+    "keywords": [
+      "미중 관계",
+      "이란",
+      "지정학",
+      "외교",
+      "트럼프"
+    ],
+    "reason": "중국이 트럼프와의 정상회담을 앞두고 이란과의 거리를 두며 미국과의 관계 개선에 적극적인 자세를 보였다. 이는 미중 관계의 긍정적인 전환 가능성을 시사하며, 글로벌 지정학적 긴장 완화에 기여할 수 있는 호재성 신호이다.",
+    "action_point": "미중 관계 개선 기대감에 따라 국내 수출 중심 기업(특히 반도체, IT 등)의 투자 심리 개선 및 실적 상향 가능성을 고려하여 관련 주식 비중 확대를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Trump says U.S. is not forcing Iran to negotiate after fresh round of strikes",
+    "title_ko": "트럼프, 미군 추가 공습 후 이란에 협상 강요하지 않는다고 발언",
+    "link": "https://www.cnbc.com/2026/09/02/us-iran-war-trump-hormuz-irgc-jordan-bahrain.html",
+    "published": "Wed, 02 Sep 2026 05:47:59 GMT",
+    "fetched_at": "2026-09-02 16:26:51",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "방산",
+      "운송",
+      "금융"
+    ],
+    "keywords": [
+      "미국",
+      "이란",
+      "공습",
+      "지정학",
+      "유가"
+    ],
+    "reason": "미국의 이란 추가 공습은 중동 지역의 지정학적 긴장을 고조시켜 글로벌 시장의 불확실성을 증대시키고 유가 상승 압력을 가할 수 있습니다. 트럼프의 발언은 협상 여지를 남기지만, 군사 행동 자체는 위험 선호 심리를 위축시킬 것입니다.",
+    "action_point": "중동 지정학적 위험 고조로 인한 유가 급등 가능성에 대비, 에너지 관련 자산 또는 안전자산(금, 달러)에 대한 노출을 재검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "China dissented from G20 statement opposing 'cheap exports' flooding market, Bessent says",
+    "title_ko": "중국, '저가 수출' 반대 G20 성명에 이견 표명 – 베센트 언급",
+    "link": "https://www.cnbc.com/2026/09/01/bessent-china-g20-trade-exports-trump-xi.html",
+    "published": "Tue, 01 Sep 2026 23:52:21 GMT",
+    "fetched_at": "2026-09-02 16:27:14",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "수출주",
+      "산업재",
+      "해운/물류",
+      "IT하드웨어"
+    ],
+    "keywords": [
+      "중국",
+      "G20",
+      "무역갈등",
+      "보호무역주의",
+      "저가수출"
+    ],
+    "reason": "중국이 저가 수출 문제에 G20과 이견을 표명하면서 글로벌 무역 갈등이 심화될 조짐이며, 트럼프 행정부의 강경한 통상 정책 기조가 강화될 수 있음을 시사한다.",
+    "action_point": "수출 비중이 높은 기업에 대한 투자 비중을 축소하고, 내수 중심의 경기방어적 자산으로 포트폴리오를 재편성하는 것을 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Australia posts second-quarter growth of 2.1%, beating expectations",
+    "title_ko": "호주 2분기 경제성장률 2.1% 기록, 예상치 상회",
+    "link": "https://www.cnbc.com/2026/09/02/australia-gdp-q2-middle-east-rba.html",
+    "published": "Wed, 02 Sep 2026 03:05:14 GMT",
+    "fetched_at": "2026-09-02 16:27:44",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "금리",
+      "환율",
+      "주식",
+      "부동산"
+    ],
+    "keywords": [
+      "호주",
+      "GDP",
+      "경제성장률",
+      "금리인상",
+      "긴축",
+      "호주중앙은행"
+    ],
+    "reason": "예상치를 상회하는 호주 경제성장률은 호주중앙은행(RBA)의 추가적인 통화 긴축 여력을 확대시켜 글로벌 긴축 기조를 강화할 것입니다. 이는 호주 금리 상승과 호주 달러 강세 압력으로 이어질 수 있습니다.",
+    "action_point": "글로벌 긴축 장기화 가능성에 대비하여 금리 민감 자산 비중 축소 및 방어적 포트폴리오 구축 검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "美, 경제·군사 동시 압박…이란 얼마나 버틸까 - 연합뉴스",
+    "title_ko": "美, 경제·군사 동시 압박…이란 얼마나 버틸까",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yMTlWWm1fbHF0d1RKTEtkcGpqSU1oODM2T3BJOW1BTHpjM0lDOXRSWmRyUXNRUW9LMUhJSjlVRGVoYVJlMk0xbGRIdlVmZldrOTJMVlRLMDhFY2vSAWBBVV95cUxOS0FVMzRBdTFEYVFjZnV3aWF5Mmlod3VHZW5FVlBybjJSY0VFNlVBUW9abkd0OUhYVF9rZlZGN25pOXNIeE82NVJaZWNTYkhsRVMzYkFMVXZvVXhzU3JaOW4?oc=5",
+    "published": "Wed, 02 Sep 2026 01:01:11 GMT",
+    "fetched_at": "2026-09-02 16:28:11",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "방산",
+      "해운",
+      "정유화학",
+      "종합시장"
+    ],
+    "keywords": [
+      "미국",
+      "이란",
+      "중동",
+      "지정학적 리스크",
+      "유가",
+      "원유"
+    ],
+    "reason": "미국과 이란 간의 경제적·군사적 압박 강화는 중동 지역의 지정학적 불안정성을 고조시키고, 원유 공급 차질 우려로 유가 상승 압력을 가해 글로벌 인플레이션 및 경기 둔화 우려를 심화시킬 수 있습니다.",
+    "action_point": "유가 상승에 따른 인플레이션 헤지를 위해 에너지 섹터 비중 확대를 고려하거나 달러 자산 보유를 유지하십시오."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[속보] FT “한국 장금상선 유조선, 호르무즈서 피격”···원유 200만배럴 운송 중 당했다 - 경향신문",
+    "title_ko": "[속보] FT “한국 장금상선 유조선, 호르무즈서 피격”···원유 200만배럴 운송 중 당했다 - 경향신문",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RZ3NmaHdCZ2NqNjRpQkRDeTYtallvYVdVWGwyXzA5MFBaZm5WZkl0MGlNcDZVUUdRVDhpZWk4SnpzQ1Jaa3VaaTlHLUFlSUp3eGNBc2VWVmZhUdIBX0FVX3lxTE9kQWJZTTkzVmpMWmhzcXh3NGRKWEE0czhFT3k4ZTdhczZpSk1WaWJ4TDRod3U3OGxsMTVoaF84cVZjSGp0V0haZ2Jfa3VfUk5vZ09IOWtKSHRLb1gyN0hj?oc=5",
+    "published": "Wed, 02 Sep 2026 01:22:00 GMT",
+    "fetched_at": "2026-09-02 16:28:25",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "해운",
+      "보험",
+      "정유"
+    ],
+    "keywords": [
+      "호르무즈 해협",
+      "유조선",
+      "원유",
+      "지정학적 리스크",
+      "해상 운송"
+    ],
+    "reason": "중동 호르무즈 해협의 핵심 원유 수송로에서 발생한 유조선 피격은 국제 유가 상승 압력을 가중시키고 해상 물류 비용 증가를 유발하며 지정학적 리스크를 고조시킬 것입니다.",
+    "action_point": "국제 유가 상승에 대비하여 에너지 섹터 및 원자재 관련 자산 비중 확대를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Oil major BP completes search for chair after boardroom upheaval",
+    "title_ko": "석유 메이저 BP, 이사회 혼란 끝에 의장 선임 완료",
+    "link": "https://www.cnbc.com/2026/09/02/bp-chair-ian-tyler-appointment.html",
+    "published": "Wed, 02 Sep 2026 07:13:28 GMT",
+    "fetched_at": "2026-09-02 16:27:00",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "에너지",
+      "석유 및 가스"
+    ],
+    "keywords": [
+      "BP",
+      "의장",
+      "이사회",
+      "기업 지배구조"
+    ],
+    "reason": "BP는 전 의장 해임 이후 이사회 혼란을 겪었으나, 신임 의장 선임을 완료하며 내부 경영 안정성을 확보했습니다. 이는 BP 개별 기업에 긍정적이지만, 글로벌 에너지 시장이나 매크로 경제 전반에 미치는 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Honda tells suppliers to cut costs in $9 billion push to fend off China: Reuters",
+    "title_ko": "혼다, 중국 견제를 위해 90억 달러 규모의 비용 절감 추진하며 공급업체에 가격 인하 요구: 로이터",
+    "link": "https://www.cnbc.com/2026/09/02/honda-suppliers-cost-cuts-9-billion-push-china-reuters.html",
+    "published": "Wed, 02 Sep 2026 07:10:59 GMT",
+    "fetched_at": "2026-09-02 16:27:26",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "자동차",
+      "자동차 부품"
+    ],
+    "keywords": [
+      "혼다",
+      "비용 절감",
+      "중국 경쟁",
+      "자동차 부품",
+      "글로벌 공급망"
+    ],
+    "reason": "혼다의 대규모 비용 절감 및 공급업체 가격 인하 요구는 글로벌 자동차 산업의 경쟁 심화, 특히 중국발 가격 경쟁 압력을 방어하려는 움직임을 시사한다. 이는 자동차 부품 공급망 전반에 걸쳐 마진 압박을 가중시킬 것이다.",
+    "action_point": "글로벌 자동차 산업의 가격 경쟁 심화로 인한 국내 자동차 부품 섹터의 마진 압박 가능성을 인지하고 관련 투자 비중 축소를 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "이형일 “장바구니 물가가 경제팀 성적표…경제현안간담회 신설” - 전자신문",
+    "title_ko": "이형일 “장바구니 물가가 경제팀 성적표…경제현안간담회 신설” - 전자신문",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9UZkNlQi1WSXYycVYwazNSZ0wyUDdlbjhGU3JLdnVLTTJJQWlLVEVCUUo2dEl1ck1WeFJ4SHZ4TUtvVTFRTlBWM21oMGpyUQ?oc=5",
+    "published": "Wed, 02 Sep 2026 04:55:48 GMT",
+    "fetched_at": "2026-09-02 16:28:41",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "소비재",
+      "유통"
+    ],
+    "keywords": [
+      "물가",
+      "경제정책"
+    ],
+    "reason": "정부의 물가 안정 의지를 표명하며, 향후 인플레이션 억제를 위한 정책 개입 가능성을 시사한다. 이는 가계 소비심리 및 관련 산업에 영향을 미칠 수 있다.",
+    "action_point": "국내 물가 민감 소비재 및 유통 섹터의 정책 리스크 및 마진 변동성을 점검하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "After a sell-off, this medical device stock looks like a gift for patient investors",
+    "title_ko": "매도세 이후, 이 의료기기 주식은 인내심 있는 투자자들에게 선물처럼 보인다",
+    "link": "https://www.cnbc.com/2026/09/01/this-medical-device-stock-looks-like-a-gift-for-patient-investors.html",
+    "published": "Tue, 01 Sep 2026 17:33:53 GMT",
+    "fetched_at": "2026-09-02 16:27:54",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "의료기기",
+      "제약/바이오"
+    ],
+    "keywords": [
+      "의료기기",
+      "GLP-1",
+      "비만 치료제",
+      "주식 매도세",
+      "저평가 기회"
+    ],
+    "reason": "GLP-1 비만 치료제 관련 과도한 우려로 특정 의료기기 주식의 매도세가 발생했으며, 이는 의료기기 섹터 전반의 투자심리에 영향을 미치지만 특정 기업에게는 저평가 기회로 작용할 수 있음을 시사한다.",
+    "action_point": "GLP-1 비만 치료제 영향권에 있는 의료기기 섹터 내 과도하게 하락한 개별 기업들의 저평가 여부를 검토하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "수억원대 작품 ‘오픈런’…서도호·유영국에 몰렸다",
+    "title_ko": "수억원대 작품 ‘오픈런’…서도호·유영국에 몰렸다",
+    "link": "https://www.mk.co.kr/news/culture/12142446",
+    "published": "Wed, 02 Sep 2026 16:22:46 +09:00",
+    "fetched_at": "2026-09-02 16:29:14",
+    "sentiment": "호재",
+    "importance": 2,
+    "sectors": [
+      "미술 시장",
+      "고급 소비재",
+      "자산 관리"
+    ],
+    "keywords": [
+      "키아프",
+      "프리즈",
+      "미술 시장",
+      "컬렉터",
+      "고급 소비",
+      "대체 투자"
+    ],
+    "reason": "고가 미술품 시장의 흥행은 고액 자산가들의 견조한 구매력과 소비 심리, 그리고 대체 자산에 대한 지속적인 관심을 반영하며, 광범위한 경기 침체 우려 속에서도 특정 부문의 부유층 소비는 여전히 강함을 시사합니다.",
+    "action_point": "고급 소비재 관련 섹터에 대한 관심 유지."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "Palo Alto CEO says $1 trillion of cybersecurity infrastructure isn’t ready for AI",
     "title_ko": "팔로알토 CEO, \"1조 달러 규모 사이버 보안 인프라, AI 대비 미흡\" 경고",
     "link": "https://www.cnbc.com/2026/09/01/palo-alto-ceo-says-1-trillion-of-cybersecurity-infrastructure-isnt-ready-for-ai.html",
@@ -2689,287 +2965,6 @@
       "주가 변동"
     ],
     "reason": "이 기사는 Gap, Workday, Autodesk 등 특정 기업들의 시간 외 주가 변동을 보고하며, 이는 개별 기업 실적 및 이슈에 기인한 것으로 거시 경제 또는 광범위한 섹터에 미치는 영향은 제한적입니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "CIA chief John Ratcliffe reportedly made secretive Moscow trip to warn Russia against attacking NATO",
-    "title_ko": "CIA 국장, 러시아의 NATO 공격 경고를 위해 비밀리에 모스크바 방문 보도",
-    "link": "https://www.cnbc.com/2026/08/27/ratcliffe-moscow-russia-nato-ukraine-iran.html",
-    "published": "Thu, 27 Aug 2026 13:07:21 GMT",
-    "fetched_at": "2026-08-27 22:22:11",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "방산",
-      "에너지",
-      "원자재",
-      "항공/여행"
-    ],
-    "keywords": [
-      "CIA",
-      "러시아",
-      "NATO",
-      "지정학적 리스크",
-      "우크라이나 전쟁",
-      "안전자산"
-    ],
-    "reason": "CIA 국장의 러시아 방문 및 NATO 공격 경고는 러시아-우크라이나 전쟁의 확전 가능성과 지정학적 불확실성을 크게 증대시킨다. 이는 글로벌 자산 시장 전반의 위험 회피 심리를 강화할 것이다.",
-    "action_point": "지정학적 리스크 확산에 대비하여 방산 및 에너지 섹터 비중 확대와 안전자산(달러, 금) 보유를 검토하라."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Kansas City Fed's Schmid says inflation 'stubborn' and 'sticky,' policy rate not restrictive",
-    "title_ko": "캔자스시티 연은 슈미드 총재, 인플레이션 '고집스럽고 끈질기다'며 정책 금리가 제한적이지 않다고 언급",
-    "link": "https://www.cnbc.com/2026/08/27/kansas-city-feds-schmid-says-inflation-stubborn-and-sticky-policy-rate-not-restrictive.html",
-    "published": "Thu, 27 Aug 2026 12:20:30 GMT",
-    "fetched_at": "2026-08-27 22:21:10",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "기술주",
-      "부동산",
-      "채권",
-      "은행"
-    ],
-    "keywords": [
-      "인플레이션",
-      "연준",
-      "금리인상",
-      "매파적",
-      "미국 경제"
-    ],
-    "reason": "연준 위원의 매파적 발언은 인플레이션이 여전히 높은 수준이며 현 금리 수준이 인플레이션 억제에 충분하지 않다는 인식을 반영합니다. 이는 향후 추가 금리 인상 가능성 또는 고금리 장기화 기대를 높여 위험자산에 부정적 압력으로 작용할 수 있습니다.",
-    "action_point": "미국 고금리 장기화 및 추가 인상 가능성에 대비하여 기술주 등 성장주 비중 축소와 미국 단기채 매수를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Nvidia jumps 7% after blockbuster earnings boost AI confidence",
-    "title_ko": "엔비디아, '블록버스터' 실적 발표 후 7% 급등하며 AI 신뢰도 높여",
-    "link": "https://www.cnbc.com/2026/08/27/nvidia-nvda-q2-earnings.html",
-    "published": "Thu, 27 Aug 2026 11:26:45 GMT",
-    "fetched_at": "2026-08-27 22:21:54",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "반도체",
-      "기술주",
-      "인공지능"
-    ],
-    "keywords": [
-      "엔비디아",
-      "AI",
-      "반도체",
-      "실적",
-      "기술주"
-    ],
-    "reason": "엔비디아의 강력한 실적과 가이던스는 AI 수요의 견고함을 재확인시켜, 반도체 및 광범위한 기술 섹터에 긍정적 모멘텀을 제공하고 AI 성장 서사를 강화합니다.",
-    "action_point": "AI 관련 기술주 및 반도체 섹터에 대한 투자 비중 확대를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "U.S. considers fresh round of tariffs on semiconductors, report says",
-    "title_ko": "미국, 반도체에 대한 새로운 관세 부과 고려 보도",
-    "link": "https://www.cnbc.com/2026/08/27/trump-semiconductor-tech-tariffs.html",
-    "published": "Thu, 27 Aug 2026 11:29:19 GMT",
-    "fetched_at": "2026-08-27 22:22:04",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "반도체",
-      "IT 하드웨어",
-      "기술주",
-      "수출주"
-    ],
-    "keywords": [
-      "미국 관세",
-      "반도체",
-      "미중 기술 경쟁",
-      "AI 인프라",
-      "무역 전쟁"
-    ],
-    "reason": "미국의 반도체 관세 부과 고려는 글로벌 반도체 공급망에 불확실성을 가중시키고 관련 기업들의 생산 비용 및 마진에 부정적인 영향을 미칠 수 있습니다. 특히 미중 기술 패권 경쟁 심화로 AI 인프라 구축에도 파급효과가 예상됩니다.",
-    "action_point": "한국 등 주요 반도체 수출국 기업의 투자 비중 축소를 검토하고, 미중 기술 패권 경쟁 심화에 따른 공급망 재편 수혜 기업을 발굴하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Qatari PM heads to Iran to 'de-escalate tensions' as tanker attack tests Trump’s Hormuz claim",
-    "title_ko": "카타르 총리, '긴장 완화' 위해 이란 방문…유조선 공격으로 트럼프의 호르무즈 해협 주장 시험대 올라",
-    "link": "https://www.cnbc.com/2026/08/27/us-iran-war-trump-hormuz-attack-mine-.html",
-    "published": "Thu, 27 Aug 2026 08:22:29 GMT",
-    "fetched_at": "2026-08-27 22:22:28",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "원자재",
-      "해운"
-    ],
-    "keywords": [
-      "카타르",
-      "이란",
-      "긴장 완화",
-      "호르무즈 해협",
-      "지정학",
-      "원유"
-    ],
-    "reason": "카타르 총리의 이란 방문은 중동 지정학적 긴장 완화 노력을 시사하며, 이는 글로벌 원유 공급망 불안정성 우려를 감소시켜 유가 하방 압력으로 작용할 수 있습니다.",
-    "action_point": "중동 지정학적 리스크 완화 기대에 따른 국제 유가 하방 압력 가능성을 고려하여 에너지 섹터 비중 축소 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Treasury yields are little changed ahead of Jackson Hole",
-    "title_ko": "잭슨홀 회의를 앞두고 미 국채 수익률, 거의 변동 없어",
-    "link": "https://www.cnbc.com/2026/08/27/us-bonds-us10y-jackson-hold.html",
-    "published": "Thu, 27 Aug 2026 12:43:18 GMT",
-    "fetched_at": "2026-08-27 22:22:46",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "채권",
-      "주식 (성장주/가치주)",
-      "금융",
-      "부동산",
-      "외환"
-    ],
-    "keywords": [
-      "잭슨홀",
-      "미 국채 수익률",
-      "연준 의장",
-      "금리 정책",
-      "통화 정책"
-    ],
-    "reason": "시장은 잭슨홀 회의에서 연준 의장의 연설을 통해 향후 통화정책 방향에 대한 힌트를 얻으려 관망하는 중이며, 이는 단기적으로 주요 자산 가격에 중립적 영향을 미치나 향후 금리 변동의 중요한 분기점이 될 것이다.",
-    "action_point": "잭슨홀 연설 내용에 따른 금리 변동성 확대 가능성에 대비, 포트폴리오 내 현금 및 채권 듀레이션 점검."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Europe’s gas stores are running low — and prices could top 100 euros this winter",
-    "title_ko": "유럽 가스 재고 부족, 올겨울 가격 100유로 돌파 가능성",
-    "link": "https://www.cnbc.com/2026/08/27/europe-gas-storage-prices-winter-lng.html",
-    "published": "Thu, 27 Aug 2026 05:00:01 GMT",
-    "fetched_at": "2026-08-27 22:22:57",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "화학",
-      "산업재",
-      "유틸리티"
-    ],
-    "keywords": [
-      "유럽 가스",
-      "에너지 가격",
-      "인플레이션",
-      "중동 공급",
-      "겨울철 난방"
-    ],
-    "reason": "유럽의 가스 재고 부족과 중동발 공급 차질은 에너지 가격 급등을 야기하며, 이는 유럽 경제의 인플레이션 압력과 경기 둔화 우려를 심화시키고 글로벌 공급망에 부정적 영향을 미칠 것입니다.",
-    "action_point": "에너지 섹터 비중 확대 및 유럽 고에너지 의존 산업재 비중 축소 검토."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Z.ai shares surge 8% after releasing new AI model running only on Chinese chips",
-    "title_ko": "Z.ai, 중국산 칩으로만 구동되는 새로운 AI 모델 출시 후 주가 8% 급등",
-    "link": "https://www.cnbc.com/2026/08/27/zai-shares-surge-new-ai-model-using-chinese-chips.html",
-    "published": "Thu, 27 Aug 2026 05:34:13 GMT",
-    "fetched_at": "2026-08-27 22:21:29",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "인공지능(AI)",
-      "반도체"
-    ],
-    "keywords": [
-      "인공지능",
-      "중국 반도체",
-      "기술 자립"
-    ],
-    "reason": "중국 기업이 자체 칩만으로 구동되는 AI 모델을 출시하며 중국의 기술 자립 역량 강화 및 AI 분야 경쟁력 상승을 시사한다. 이는 중국 기술주 투자 심리에 긍정적 영향을 미칠 수 있다.",
-    "action_point": "중국 AI 및 반도체 자립 관련 기업들의 투자 기회를 모색하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Nvidia agrees to buy Hugging Face for $12.9 billion, report says",
-    "title_ko": "엔비디아, 허깅 페이스 129억 달러에 인수 합의 보도",
-    "link": "https://www.cnbc.com/2026/08/27/nvidia-hugging-face-acquisition.html",
-    "published": "Thu, 27 Aug 2026 12:26:53 GMT",
-    "fetched_at": "2026-08-27 22:22:18",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "반도체",
-      "인공지능",
-      "클라우드 컴퓨팅",
-      "소프트웨어"
-    ],
-    "keywords": [
-      "Nvidia",
-      "Hugging Face",
-      "인수합병",
-      "AI 생태계",
-      "반도체"
-    ],
-    "reason": "엔비디아의 허깅 페이스 인수는 AI 하드웨어 강점을 소프트웨어 플랫폼으로 확장하여 AI 생태계 내 지배력을 강화할 것입니다. 이는 AI 기술 발전 및 관련 산업 전반의 투자 심리 개선에 긍정적입니다.",
-    "action_point": "AI 관련 반도체 및 소프트웨어 섹터 투자 비중 유지 또는 확대 검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "구 부총리 \"지역·다자 통상협력으로 경제 네트워크 폭넓게 구축\" - 대한민국 정책브리핑",
-    "title_ko": "구 부총리 \"지역·다자 통상협력으로 경제 네트워크 폭넓게 구축\" - 대한민국 정책브리핑",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xNG1fdFRRNURVM0lkYmVwdElsNXhpSHZTV2RQR0dNSHpnNWZKWTNMN1FRZlppZktvclZBZzVJM0NnSTBpdXpBV3JNSWNYVUJyUVNRU2I4RmYyQTZ0RS1UTGUtMHRzcklPa0Nqaw?oc=5",
-    "published": "Thu, 27 Aug 2026 07:42:10 GMT",
-    "fetched_at": "2026-08-27 22:23:07",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "수출주",
-      "무역 관련주",
-      "제조업"
-    ],
-    "keywords": [
-      "통상협력",
-      "경제 네트워크",
-      "다자 협력",
-      "지역 협력"
-    ],
-    "reason": "정부의 다자/지역 통상협력 강화 기조는 글로벌 공급망 리스크 완화 및 새로운 수출 시장 확보를 통해 장기적인 경제 안정성과 성장 잠재력을 높이는 긍정적 신호로 해석됩니다.",
-    "action_point": "글로벌 시장 다변화 및 공급망 안정화에 수혜를 입을 수 있는 수출 중심 기업 비중 유지 또는 확대 검토."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Stocks making the biggest moves premarket: Nvidia, HP, Salesforce, Dollar General, Everpure & more",
-    "title_ko": "개장 전 가장 큰 움직임을 보이는 주식: 엔비디아, HP, 세일즈포스, 달러 제너럴, 에버퓨어 외 다수",
-    "link": "https://www.cnbc.com/2026/08/27/stocks-making-the-biggest-moves-premarket-nvda-hp-crm-dg-p.html",
-    "published": "Thu, 27 Aug 2026 12:31:27 GMT",
-    "fetched_at": "2026-08-27 22:21:18",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "기술",
-      "반도체",
-      "소프트웨어",
-      "유통"
-    ],
-    "keywords": [
-      "개장 전",
-      "주식 움직임",
-      "개별 종목",
-      "엔비디아",
-      "세일즈포스"
-    ],
-    "reason": "이 기사는 개장 전 특정 개별 종목들의 움직임을 나열하는 것으로, 전반적인 시장이나 거시 경제에 대한 직접적인 영향 분석은 어렵습니다. 각 종목의 움직임 원인에 대한 정보가 부재합니다.",
     "action_point": "해당 없음"
   }
 ]
