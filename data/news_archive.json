@@ -1,5 +1,81 @@
 [
   {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "New York Fed's Williams says yield surge due to strong economic prospects",
+    "title_ko": "뉴욕 연은 윌리엄스 총재, 채권 금리 급등은 강력한 경제 전망 때문",
+    "link": "https://www.cnbc.com/2026/09/02/new-york-feds-williams-says-yield-surge-due-to-strong-economic-prospects.html",
+    "published": "Wed, 02 Sep 2026 15:56:13 GMT",
+    "fetched_at": "2026-09-03 01:55:42",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "금융",
+      "경기민감주",
+      "채권"
+    ],
+    "keywords": [
+      "뉴욕 연은",
+      "윌리엄스",
+      "채권 금리",
+      "경제 전망",
+      "연준",
+      "금리 인상"
+    ],
+    "reason": "뉴욕 연은 총재의 발언은 채권 금리 상승이 강력한 경제 전망에 기반하며, 이는 향후 연준의 매파적 스탠스 유지 가능성과 금리 인상에 대한 여지를 남깁니다. 장기적으로 기업 이익에는 긍정적이나, 금리 민감 자산에는 부담 요인이 될 수 있습니다.",
+    "action_point": "채권 포트폴리오의 듀레이션을 단축하고, 금리 인상 수혜가 예상되는 금융주 및 경기민감 가치주 섹터에 대한 관심을 높여라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "G20 live updates: Alberta premier pushes back on Lutnick's Canada barb",
+    "title_ko": "G20 실시간 업데이트: 앨버타 주지사, 럿닉의 캐나다 비난 발언에 반박",
+    "link": "https://www.cnbc.com/2026/09/02/g20-innovation-ministerial-live-updates.html",
+    "published": "Wed, 02 Sep 2026 16:06:07 GMT",
+    "fetched_at": "2026-09-03 01:56:15",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "기술",
+      "반도체",
+      "소프트웨어"
+    ],
+    "keywords": [
+      "G20",
+      "AI",
+      "혁신",
+      "정책",
+      "기술"
+    ],
+    "reason": "G20 혁신 장관회의에서 AI, 정책, 무역 등 핵심 기술 의제가 논의되어, AI 및 관련 기술 섹터의 장기 성장 잠재력과 규제 환경 변화를 시사한다.",
+    "action_point": "G20에서 논의되는 AI 및 기술 정책 방향성을 면밀히 분석하고, 관련 기술 섹터의 장기 투자 전략을 재검토하여 포트폴리오 비중을 조절하라."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Stocks making the biggest moves premarket: Vertiv, Sirius, Dell, MongoDB & more",
+    "title_ko": "프리마켓에서 가장 큰 움직임을 보이는 주식: 버티브, 시리우스, 델, 몽고DB 외",
+    "link": "https://www.cnbc.com/2026/09/02/stocks-making-the-biggest-moves-premarket-vrt-siri-dell-mdb.html",
+    "published": "Wed, 02 Sep 2026 11:40:31 GMT",
+    "fetched_at": "2026-09-03 01:55:54",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "IT 서비스",
+      "소프트웨어",
+      "IT 하드웨어",
+      "미디어",
+      "통신 서비스"
+    ],
+    "keywords": [
+      "프리마켓",
+      "개별 주식",
+      "주가 변동"
+    ],
+    "reason": "본 기사는 프리마켓에서 일부 개별 기업의 주가 변동을 보고하는 것으로, 광범위한 시장 또는 거시 경제 동향에 대한 정보를 제공하지 않습니다. 따라서 특정 자산군이나 전체 포트폴리오에 미치는 거시적 영향은 제한적입니다.",
+    "action_point": "본 뉴스는 거시적 관점에서 유의미한 시장 영향이 없으므로 해당 없음."
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "Global bond rout gathers pace as inflation fears mount",
@@ -2897,73 +2973,5 @@
     ],
     "reason": "정부의 규제 합리화 노력은 기업 활동의 제약 완화 및 투자 심리 개선으로 이어져 전반적인 경제 활력 제고에 긍정적으로 작용할 수 있습니다. 이는 장기적으로 기업 실적과 고용에 긍정적인 영향을 미칠 잠재력을 가집니다.",
     "action_point": "규제 완화 수혜가 예상되는 국내 주요 산업 및 기업에 대한 투자 비중 확대를 검토하라."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Stocks making the biggest moves midday: Nvidia, Okta, Hormel, Veeva, HP, Celsius, Best Buy & more",
-    "title_ko": "장중 가장 큰 움직임을 보이는 주식들: 엔비디아, 옥타, 호멜, 비바, HP, 셀시우스, 베스트바이 외 다수",
-    "link": "https://www.cnbc.com/2026/08/27/stocks-making-the-biggest-moves-midday-nvda-okta-hrl-veev.html",
-    "published": "Thu, 27 Aug 2026 20:09:44 GMT",
-    "fetched_at": "2026-08-28 16:59:10",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "기술",
-      "소비재"
-    ],
-    "keywords": [
-      "개별 주식",
-      "장중 변동성",
-      "미국 증시"
-    ],
-    "reason": "다양한 개별 기업의 장중 주가 변동을 단순히 나열한 기사로, 전반적인 시장 심리나 거시 경제 지표, 특정 섹터의 구조적 변화를 의미하지 않는다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "기후·순환경제·산림 한자리서 논의…제주국제환경포럼주간 - 연합뉴스",
-    "title_ko": "기후·순환경제·산림 한자리서 논의…제주국제환경포럼주간",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5xY2t3eGtFRm1FOU9sYkZZYXEyaWxQX09QaWdEcE9YOWFjdmxNUmh5V3QzSHI5dmlISTlmLUE0WnRkWk1JVXRqczNBazZQRzlUWHZEcUNEVGM3endKeTNqNNIBYEFVX3lxTE5xY2t3eGtFRm1FOU9sYkZZYXEyaWxQX09QaWdEcE9YOWFjdmxNUmh5V3QzSHI5dmlISTlmLUE0WnRkWk1JVXRqczNBazZQRzlUWHZEcUNEVGM3endKeTNqNA?oc=5",
-    "published": "Fri, 28 Aug 2026 00:38:55 GMT",
-    "fetched_at": "2026-08-28 17:01:33",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "신재생에너지",
-      "친환경 산업"
-    ],
-    "keywords": [
-      "기후변화",
-      "순환경제",
-      "ESG"
-    ],
-    "reason": "제주국제환경포럼은 기후변화 및 순환경제 등 장기적인 환경 관련 의제 논의의 장으로, 단기적인 시장 영향은 제한적이나 향후 ESG 및 친환경 산업 관련 정책 방향에 대한 단서를 제공할 수 있다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Fed Chairman Kevin Warsh delivers his key Jackson Hole speech Friday. Here's what to expect",
-    "title_ko": "케빈 와시 연준 의장, 금요일 잭슨홀 연설 예정: 예상되는 내용",
-    "link": "https://www.cnbc.com/2026/08/27/fed-chairman-kevin-warsh-delivers-his-key-jackson-hole-speech-friday.html",
-    "published": "Thu, 27 Aug 2026 22:58:01 GMT",
-    "fetched_at": "2026-08-28 08:22:35",
-    "sentiment": "중립",
-    "importance": 5,
-    "sectors": [
-      "금융",
-      "기술",
-      "부동산"
-    ],
-    "keywords": [
-      "잭슨홀",
-      "연준 의장",
-      "통화정책",
-      "금리"
-    ],
-    "reason": "연준 의장의 잭슨홀 연설은 향후 통화정책 방향에 대한 중대한 신호를 제공하며, 이는 글로벌 금리, 주식, 환율 등 모든 자산 시장에 광범위한 영향을 미칩니다.",
-    "action_point": "연설 내용에 따라 시장 변동성이 커질 수 있으므로, 연설 전후 포트폴리오의 리스크 노출도를 점검하고 현금 비중을 조정할 준비를 하십시오."
   }
 ]
