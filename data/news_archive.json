@@ -2,6 +2,58 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "Iran attacks Kuwait as Trump says renewed Mideast hostilities will not last 'too long'",
+    "title_ko": "이란, 쿠웨이트 공격…트럼프, 중동 재개된 적대행위 '오래가지 않을 것' 발언",
+    "link": "https://www.cnbc.com/2026/09/03/us-iran-war-trump-hormuz-israel-middle-east-europe-kuwait.html",
+    "published": "Thu, 03 Sep 2026 03:21:50 GMT",
+    "fetched_at": "2026-09-03 14:21:43",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "에너지",
+      "방위산업",
+      "해운",
+      "항공"
+    ],
+    "keywords": [
+      "이란",
+      "쿠웨이트",
+      "중동",
+      "지정학적 리스크",
+      "유가",
+      "전쟁"
+    ],
+    "reason": "중동 핵심 산유국 간의 군사적 충돌은 글로벌 지정학적 리스크를 급격히 고조시키며, 국제유가 상승 압력과 함께 전반적인 시장의 위험 회피 심리를 강화할 것입니다.",
+    "action_point": "중동 불안정성 확대로 유가 상승 및 시장 변동성이 예상되므로, 에너지 관련 자산 비중을 늘리거나 금 등 안전자산 보유를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Google starts September with AI momentum after longest monthly losing streak in over a decade",
+    "title_ko": "구글, 10여년 만의 최장 월간 하락세 이후 AI 모멘텀으로 9월 시작",
+    "link": "https://www.cnbc.com/2026/09/02/google-starts-september-with-ai-momentum-after-long-losing-streak.html",
+    "published": "Thu, 03 Sep 2026 03:28:07 GMT",
+    "fetched_at": "2026-09-03 14:21:51",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "기술",
+      "인공지능",
+      "성장주"
+    ],
+    "keywords": [
+      "구글",
+      "AI",
+      "인공지능",
+      "기술주",
+      "모멘텀"
+    ],
+    "reason": "구글의 AI 모멘텀은 장기 하락세 이후 대형 기술주 반등의 신호탄으로 해석될 수 있으며, AI 관련 성장주에 대한 투자심리를 개선시킬 것입니다.",
+    "action_point": "대형 기술주 및 AI 관련 섹터 비중 확대를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "Inside India newsletter: India’s economic growth is smashing forecasts, but its biggest stocks aren't feeling the love",
     "title_ko": "인도 뉴스레터: 인도의 경제 성장은 예상을 뛰어넘지만, 주요 대형주는 투자자들에게 외면받고 있다",
     "link": "https://www.cnbc.com/2026/09/03/india-nifty-sensex-manufacturing-economy-gdp.html",
@@ -2910,54 +2962,5 @@
     ],
     "reason": "인천 경제의 주요 지표 부진은 국내 경기 전반의 회복세가 고르지 않고, 특히 건설 및 내수 부문의 둔화가 지속될 수 있음을 시사한다. 이는 기업 실적 및 고용 시장에 대한 우려를 증폭시킨다.",
     "action_point": "건설 및 내수 소비 관련 섹터의 비중 축소를 검토하고 수출 기업들의 실적 하향 조정 가능성을 주시하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "“어제 삼전 374원 실망하셨어요?”...석달뒤엔 ‘이만큼’받는다",
-    "title_ko": "“어제 삼전 374원 실망하셨어요?”...석달뒤엔 ‘이만큼’받는다",
-    "link": "https://www.mk.co.kr/news/stock/12139461",
-    "published": "Sat, 29 Aug 2026 17:42:32 +09:00",
-    "fetched_at": "2026-08-29 18:39:05",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "IT",
-      "반도체",
-      "대형주"
-    ],
-    "keywords": [
-      "삼성전자",
-      "배당금",
-      "주주환원",
-      "현금흐름"
-    ],
-    "reason": "삼성전자의 3분기 배당금이 주당 4570원에 달할 것이라는 전망은 강력한 현금흐름과 적극적인 주주환원 정책을 시사하며, 이는 해당 기업 및 전반적인 IT/반도체 섹터에 긍정적인 신호로 해석됩니다.",
-    "action_point": "삼성전자 및 견고한 현금흐름을 바탕으로 한 주주환원 여력이 있는 IT/반도체 대형주 비중 확대 또는 신규 편입을 검토."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "29CM, 고객 개인정보 15만9000건 유출…“결제·계정정보는 안전”",
-    "title_ko": "29CM, 고객 개인정보 15만9000건 유출…“결제·계정정보는 안전”",
-    "link": "https://www.mk.co.kr/news/business/12139471",
-    "published": "Sat, 29 Aug 2026 18:12:32 +09:00",
-    "fetched_at": "2026-08-29 18:38:49",
-    "sentiment": "악재",
-    "importance": 2,
-    "sectors": [
-      "온라인 쇼핑 플랫폼",
-      "IT 보안",
-      "유통"
-    ],
-    "keywords": [
-      "개인정보 유출",
-      "29CM",
-      "무신사",
-      "이커머스",
-      "데이터 보안"
-    ],
-    "reason": "국내 주요 온라인 플랫폼에서 발생한 개인정보 유출 사고는 해당 기업의 브랜드 이미지 및 소비자 신뢰에 부정적 영향을 미치며, 향후 규제 강화 및 보안 투자 증대 압력으로 이어질 수 있습니다. 다만, 결제 및 계정 정보가 유출되지 않아 단기 시장 충격은 제한적입니다.",
-    "action_point": "온라인 플랫폼 기업 투자 시 데이터 보안 시스템 및 리스크 관리 역량 점검을 강화하라."
   }
 ]
