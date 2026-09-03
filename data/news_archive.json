@@ -1,5 +1,98 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "The big August jobs report is due out Friday. Here's what to expect for what has been a jobless summer",
+    "title_ko": "오는 금요일 8월 고용보고서 발표, '일자리 없는 여름' 동안 기대되는 지표는?",
+    "link": "https://www.cnbc.com/2026/09/03/august-2026-jobs-report-payrolls.html",
+    "published": "Thu, 03 Sep 2026 19:38:09 GMT",
+    "fetched_at": "2026-09-04 06:31:26",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "기술주",
+      "금융주",
+      "부동산"
+    ],
+    "keywords": [
+      "미국 고용",
+      "비농업 고용",
+      "연준 정책",
+      "금리 전망"
+    ],
+    "reason": "예상되는 낮은 비농업 고용 증가는 노동 시장 둔화를 시사하며, 이는 인플레이션 압력을 완화하고 연준의 추가 금리 인상 가능성을 낮출 수 있어 위험 자산에 긍정적이다.",
+    "action_point": "금리 인상 사이클 종료 기대감에 따라 기술주 등 성장주 투자 비중 확대 검토"
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "“금리·환율까지 우주의 기운이 모이는중”…금융지주 주가 ‘불기둥’",
+    "title_ko": "“금리·환율까지 우주의 기운이 모이는중”…금융지주 주가 ‘불기둥’",
+    "link": "https://www.mk.co.kr/news/stock/12144043",
+    "published": "Fri, 04 Sep 2026 05:47:05 +09:00",
+    "fetched_at": "2026-09-04 06:31:57",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "금융"
+    ],
+    "keywords": [
+      "금융지주",
+      "주주환원",
+      "금리",
+      "환율",
+      "방어주"
+    ],
+    "reason": "금리, 환율 등 거시 환경의 우호적 흐름과 주주환원 확대 정책이 국내 금융지주의 실적과 주가 상승을 견인하며, 변동성 장세에서 방어적 역할을 하고 있다.",
+    "action_point": "변동성 장세 속 안정적 수익 확보를 위해 국내 주요 금융지주 종목에 대한 비중 확대를 검토."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Lululemon stock plunges 15% on disappointing earnings and outlook",
+    "title_ko": "룰루레몬 주가, 실망스러운 실적 및 전망에 15% 급락",
+    "link": "https://www.cnbc.com/2026/09/03/lululemon-lulu-q2-2026-earnings.html",
+    "published": "Thu, 03 Sep 2026 20:52:03 GMT",
+    "fetched_at": "2026-09-04 06:31:34",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "소비재",
+      "의류/신발",
+      "온라인 소매"
+    ],
+    "keywords": [
+      "룰루레몬",
+      "실적 부진",
+      "소비 둔화",
+      "소비재",
+      "의류"
+    ],
+    "reason": "룰루레몬의 부진한 실적과 부정적인 전망은 프리미엄 소비재 부문의 수요 둔화를 시사하며, 이는 광범위한 소비재 섹터에 대한 투자심리를 위축시킬 수 있습니다.",
+    "action_point": "프리미엄 소비재 섹터 내 기업들의 실적 하향 조정 가능성을 고려하여 해당 섹터 비중 축소를 검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[속보] 이석연 국민통합위원장 사퇴…\"정부와 철학 달라\" - 연합뉴스TV",
+    "title_ko": "이석연 국민통합위원장 사퇴…정부와 철학 달라",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9DYmpDd3NjSE9DTFY5YnpoNkZtQWhWZzdEa3hNSUh4NWJCVVRhNU1fMmZGTWI1UGpkRmllZ3ZYU3hWTXhiTDNqaTUxRHJWY3owZWtlQW85Ym8xZkJvUm1oeXFEMW9LNEE?oc=5",
+    "published": "Thu, 03 Sep 2026 05:16:00 GMT",
+    "fetched_at": "2026-09-04 06:31:43",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [],
+    "keywords": [
+      "이석연",
+      "국민통합위원장",
+      "사퇴",
+      "정부",
+      "철학"
+    ],
+    "reason": "국민통합위원장의 사퇴는 정부 내 인사이동 및 내부 의견 차이를 시사하지만, 해당 직책은 경제 정책에 직접적인 영향을 미치지 않으므로 금융 시장 전반에 미칠 실질적인 영향은 미미합니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "CNBC_Finance",
     "market": "US",
     "title": "China hits back at G20 statement on its reliance on exports, accusing them of 'promoting protectionism'",
@@ -2863,101 +2956,5 @@
     ],
     "reason": "새 경제부총리 지명은 향후 경제 정책 방향에 대한 기대를 형성하며, 초기에는 시장에 중립적인 영향을 미치나, 향후 정책 기조에 따라 금융 시장 전반에 영향을 줄 수 있음.",
     "action_point": "새 경제팀 출범에 따른 경제 정책 변화 가능성에 대비해 국내 정책 민감주 포트폴리오 점검."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "OpenAI to end model access to Cursor after acquisition by Elon Musk's SpaceX",
-    "title_ko": "OpenAI, 일론 머스크의 스페이스X에 인수된 커서에 모델 접근 중단 예정",
-    "link": "https://www.cnbc.com/2026/08/29/openai-cursor-spacex-model-access.html",
-    "published": "Sat, 29 Aug 2026 19:06:22 GMT",
-    "fetched_at": "2026-08-30 17:41:51",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "IT/기술",
-      "인공지능",
-      "소프트웨어"
-    ],
-    "keywords": [
-      "OpenAI",
-      "Cursor",
-      "SpaceX",
-      "인수",
-      "인공지능",
-      "모델 접근",
-      "경쟁"
-    ],
-    "reason": "OpenAI가 경쟁사(일론 머스크 연관)에 인수된 Cursor에 모델 접근을 중단하는 것은 AI 생태계 내 경쟁 심화를 나타내며, 특정 개발 도구 사용자들에게는 불편을 초래할 수 있습니다. 이는 AI 기술 접근성과 향후 AI 시장의 파편화 가능성에 대한 우려를 제기합니다.",
-    "action_point": "인공지능(AI) 관련 소프트웨어 및 플랫폼 투자 시, 공급망 안정성과 경쟁 환경 변화 리스크를 재평가."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Venezuela's interim president says U.S. energy deal will last 25 years",
-    "title_ko": "베네수엘라 임시 대통령, \"미국과의 에너지 협정 25년간 지속될 것\"",
-    "link": "https://www.cnbc.com/2026/08/30/venezuelas-interim-president-says-us-energy-deal-will-last-25-years.html",
-    "published": "Sun, 30 Aug 2026 07:29:04 GMT",
-    "fetched_at": "2026-08-30 17:42:05",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "에너지",
-      "원자재"
-    ],
-    "keywords": [
-      "베네수엘라",
-      "미국",
-      "에너지 협정",
-      "원유 공급",
-      "지정학"
-    ],
-    "reason": "베네수엘라와 미국의 장기 에너지 협정은 글로벌 원유 공급망의 다각화 및 미국 에너지 안보 강화에 기여할 수 있습니다. 이는 장기적인 유가 변동성 완화 요인이 되지만, 단기 시장 영향은 제한적입니다.",
-    "action_point": "장기적인 원유 공급 안정화 기대감을 반영하여 에너지 관련 자산 포트폴리오의 장기 전략을 재검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[프로필] 이형일 경제부총리 후보자…실력·인품 겸비한 거시정책통 - 연합인포맥스",
-    "title_ko": "[프로필] 이형일 경제부총리 후보자…실력·인품 겸비한 거시정책통",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1RlR0VER3dHZ6dlJXZUNmWVp0RHUtSkZBN1VWM0ZxWDg0ZFJhMksxQ3p0cGZmMzd6TnRKS29SWlhZdVN3elNoYjU4OGZha1ZpOWQwd25PSXFJb05TNkpKcHI2dVI1RG5FaE85ZzBMUG0?oc=5",
-    "published": "Sun, 30 Aug 2026 03:13:34 GMT",
-    "fetched_at": "2026-08-30 17:42:50",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "거시경제 정책"
-    ],
-    "keywords": [
-      "이형일",
-      "경제부총리 후보",
-      "거시정책"
-    ],
-    "reason": "새로운 경제부총리 후보자의 거시경제 정책 철학 및 역량을 소개하는 기사로, 향후 경제 정책 방향을 가늠해볼 수 있는 초기 단서입니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "국힘 \"李정부 개각, 공소취소 전격전·경제정책 기조 불변 선언\" - 연합뉴스",
-    "title_ko": "국힘 \"李정부 개각, 공소취소 전격전·경제정책 기조 불변 선언\"",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OTWFHM0hjUVpTdzM5enlNUjBPc285cnFSSjdLU0ttTmRLcHAxMVVQdEZRQmI5ZGJWY2F2RVROYUVnY3pVcXVSN1BMOHU4WnJzS29qNDYwTG5MU1phU2FPY9IBYEFVX3lxTE5OTWFHM0hjUVpTdzM5enlNUjBPc285cnFSSjdLU0ttTmRLcHAxMVVQdEZRQmI5ZGJWY2F2RVROYUVnY3pVcXVSN1BMOHU4WnJzS29qNDYwTG5MU1phU2FPYw?oc=5",
-    "published": "Sun, 30 Aug 2026 04:53:51 GMT",
-    "fetched_at": "2026-08-30 17:43:03",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "국내 경제 전반"
-    ],
-    "keywords": [
-      "국힘",
-      "이정부",
-      "개각",
-      "경제정책",
-      "기조 불변",
-      "정책 안정성"
-    ],
-    "reason": "이 뉴스는 정부의 경제정책 기조가 개각에도 불구하고 유지될 것임을 확인시켜, 국내 정책 관련 불확실성을 해소하고 시장에 예측 가능성을 제공합니다. 이는 급격한 변화 없이 현행 경제 정책이 지속될 것임을 시사합니다.",
-    "action_point": "국내 정책 관련 변동성이 제한적인바, 기존 국내 자산 포트폴리오 전략을 유지한다."
   }
 ]
