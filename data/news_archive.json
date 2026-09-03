@@ -1,5 +1,106 @@
 [
   {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "China hits back at G20 statement on its reliance on exports, accusing them of 'promoting protectionism'",
+    "title_ko": "중국, G20의 수출 의존도 비판에 반박하며 '보호무역주의 조장' 비난",
+    "link": "https://www.cnbc.com/2026/09/03/china-g20-exports-trade.html",
+    "published": "Thu, 03 Sep 2026 11:12:54 GMT",
+    "fetched_at": "2026-09-04 03:14:56",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "수출주",
+      "해운/물류",
+      "산업재",
+      "기술주"
+    ],
+    "keywords": [
+      "중국",
+      "G20",
+      "수출",
+      "보호무역주의",
+      "무역분쟁",
+      "통상압력"
+    ],
+    "reason": "중국이 G20의 수출 의존도 비판과 서방의 무역 조치에 강경하게 반발하면서 글로벌 무역 긴장이 고조될 가능성이 커졌다. 이는 보호무역주의 확산으로 이어져 글로벌 공급망과 성장 둔화를 야기할 수 있는 악재다.",
+    "action_point": "글로벌 수출 의존도가 높은 국내 기업 및 관련 섹터의 비중 축소를 검토하고, 미국-중국 간 무역 갈등 심화 가능성에 대비하여 포트폴리오의 방어적 자산 비중을 높여라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Carney claps back at Lutnick, says Canada will resume trade talks 'when the Americans are ready'",
+    "title_ko": "카니, 러트닉에 반박: 캐나다는 '미국이 준비되면' 무역 협상을 재개할 것",
+    "link": "https://www.cnbc.com/2026/09/03/carney-lutnick-trump-trade-canada.html",
+    "published": "Thu, 03 Sep 2026 16:06:13 GMT",
+    "fetched_at": "2026-09-04 03:15:13",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "무역",
+      "제조업",
+      "소비재",
+      "운송/물류"
+    ],
+    "keywords": [
+      "관세",
+      "무역 분쟁",
+      "캐나다",
+      "미국",
+      "보복 조치"
+    ],
+    "reason": "미국과 캐나다 간 관세 보복 조치로 무역 분쟁이 격화되고 있음을 시사한다. 이는 양국 기업 비용 증가 및 공급망 교란을 야기하여 경제 성장 둔화와 글로벌 무역 심리 위축으로 이어질 수 있다.",
+    "action_point": "무역 분쟁 심화로 인한 글로벌 경기 둔화 우려를 감안하여 수출 비중이 높은 기업의 주식 비중을 축소하고, 달러 자산 보유를 확대하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "“30년 만에 외환위기 마지막 빚 갚습니다”…이 대통령 ‘IMF 청산’ 선언 - 매일경제",
+    "title_ko": "“30년 만에 외환위기 마지막 빚 갚습니다”…이 대통령 ‘IMF 청산’ 선언 - 매일경제",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5GYUpNSHUydXBSaG1nQUNfZDBiR2ZjYTFXbzd2NVJxalBIUWhVUE4tYnEzUnMwb2dyZTN3WVNMSzFlVTR1bHJBT0w2WGNtclZkVGxHUV93?oc=5",
+    "published": "Thu, 03 Sep 2026 04:03:48 GMT",
+    "fetched_at": "2026-09-04 03:15:40",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "전반적 국내 시장",
+      "금융"
+    ],
+    "keywords": [
+      "IMF",
+      "외환위기",
+      "국가부채",
+      "경제 안정",
+      "국가 신용도"
+    ],
+    "reason": "이 뉴스는 1997년 외환위기의 상징적 종결을 의미하며, 대한민국 경제의 회복력과 장기적 안정성을 강화하여 국내 시장에 대한 투자자 신뢰를 높일 수 있습니다.",
+    "action_point": "대한민국 경제의 장기적 안정성 강화 관점에서 국내 자산 비중 유지 검토."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "One stock on Josh Brown's list is a 'double AI beneficiary' that just climbed to all-time highs",
+    "title_ko": "조쉬 브라운이 선정한 '이중 AI 수혜주', 사상 최고치 경신",
+    "link": "https://www.cnbc.com/2026/09/03/one-stock-on-josh-browns-list-is-a-double-ai-beneficiary-that-just-climbed-to-all-time-highs.html",
+    "published": "Thu, 03 Sep 2026 15:00:01 GMT",
+    "fetched_at": "2026-09-04 03:15:23",
+    "sentiment": "호재",
+    "importance": 2,
+    "sectors": [
+      "인공지능",
+      "기술주"
+    ],
+    "keywords": [
+      "AI",
+      "인공지능",
+      "수혜주",
+      "기술주",
+      "사상최고치"
+    ],
+    "reason": "이 기사는 개별 주식에 대한 특정 분석가의 추천과 해당 주식의 긍정적인 성과를 다루며, 인공지능 관련 주식에 대한 투자 심리가 여전히 강함을 보여줍니다. 하지만 매크로 시장 전반에 미치는 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "Anthropic's distillation battle turns to the dark web as China concerns swell",
@@ -2858,103 +2959,5 @@
     ],
     "reason": "이 뉴스는 정부의 경제정책 기조가 개각에도 불구하고 유지될 것임을 확인시켜, 국내 정책 관련 불확실성을 해소하고 시장에 예측 가능성을 제공합니다. 이는 급격한 변화 없이 현행 경제 정책이 지속될 것임을 시사합니다.",
     "action_point": "국내 정책 관련 변동성이 제한적인바, 기존 국내 자산 포트폴리오 전략을 유지한다."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "안양 만안 충훈동 공공재개발 … 롯데·현대건설 1.4조에 수주",
-    "title_ko": "안양 만안 충훈동 공공재개발 … 롯데·현대건설 1.4조에 수주",
-    "link": "https://www.mk.co.kr/news/realestate/12139909",
-    "published": "Sun, 30 Aug 2026 17:40:36 +09:00",
-    "fetched_at": "2026-08-30 17:46:05",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "건설",
-      "부동산"
-    ],
-    "keywords": [
-      "공공재개발",
-      "롯데건설",
-      "현대건설",
-      "수주",
-      "안양",
-      "1.4조"
-    ],
-    "reason": "롯데건설과 현대건설 컨소시엄의 대규모 공공재개발 수주는 해당 기업들의 수주잔고 및 실적에 긍정적이며, 국내 건설 경기의 일정 부분 회복세를 시사합니다.",
-    "action_point": "롯데건설, 현대건설 등 대형 건설사들의 주가 흐름 및 실적 가이던스 변화를 주시."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[속보] 울산 동구 일대에 시간당 100mm 폭우, 침수 피해 주의 - KBS 뉴스",
-    "title_ko": "[속보] 울산 동구 일대에 시간당 100mm 폭우, 침수 피해 주의 - KBS 뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hX19KaGtRVnlwa2JMd0VKZzBhWktsS0dzMy1QMG04RGdZOFdTN25Mck9lUUFhVEQ3Q25sb1NkSmFmdmJZYW40cUJtYTdXcDZXR2hjV3NwRWxvWmI0NGJwcVNfOHJiZw?oc=5",
-    "published": "Sun, 30 Aug 2026 07:06:00 GMT",
-    "fetched_at": "2026-08-30 17:43:52",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "보험",
-      "건설",
-      "유통",
-      "운송"
-    ],
-    "keywords": [
-      "울산",
-      "폭우",
-      "침수",
-      "자연재해"
-    ],
-    "reason": "울산 동구의 국지성 폭우로 인한 침수 피해는 해당 지역의 소상공인 매출 및 보험사 손실에 단기적 영향을 미칠 수 있으나, 국내 거시 경제 전반이나 주요 투자 자산에 미치는 영향은 제한적입니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "인천 시티오씨엘 9단지 등 이번주 전국 청약 2392가구",
-    "title_ko": "인천 시티오씨엘 9단지 등 이번주 전국 청약 2392가구",
-    "link": "https://www.mk.co.kr/news/realestate/12139905",
-    "published": "Sun, 30 Aug 2026 17:40:34 +09:00",
-    "fetched_at": "2026-08-30 17:47:16",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "부동산"
-    ],
-    "keywords": [
-      "부동산",
-      "청약",
-      "인천",
-      "아파트 공급"
-    ],
-    "reason": "이번주 인천 중심의 아파트 청약 물량은 지역 주택 시장의 공급 동향을 보여주지만, 전반적인 국내 부동산 시장이나 거시경제 지표에 미치는 영향은 제한적입니다. 특정 지역의 수요-공급 균형에 미미한 영향을 줄 수 있습니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Stocks making the biggest moves premarket: PayPal, Affirm Holdings, Gap, Marvell Technology & more",
-    "title_ko": "개장 전 가장 크게 움직이는 주식: 페이팔, 어펌 홀딩스, 갭, 마벨 테크놀로지 외 다수",
-    "link": "https://www.cnbc.com/2026/08/28/stocks-making-the-biggest-moves-premarket-pypl-afrm-gap-mrvl.html",
-    "published": "Fri, 28 Aug 2026 11:43:00 GMT",
-    "fetched_at": "2026-08-30 11:28:58",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "핀테크",
-      "유통",
-      "반도체"
-    ],
-    "keywords": [
-      "개장 전 거래",
-      "개별 주식",
-      "페이팔",
-      "어펌",
-      "갭",
-      "마벨 테크놀로지"
-    ],
-    "reason": "이 기사는 특정 개별 기업의 개장 전 주가 움직임을 단순 보도하는 것으로, 전반적인 시장이나 거시 경제에 미치는 실질적인 영향은 제한적입니다.",
-    "action_point": "해당 없음"
   }
 ]
