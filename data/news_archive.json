@@ -2,6 +2,78 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "Automakers urge Congress to permanently ban Chinese connected vehicles in U.S.",
+    "title_ko": "미국 자동차 제조업체들, 의회에 중국 커넥티드 차량의 미국 내 영구 금지 촉구",
+    "link": "https://www.cnbc.com/2026/09/03/chinese-vehicles-congress.html",
+    "published": "Thu, 03 Sep 2026 20:56:19 GMT",
+    "fetched_at": "2026-09-04 08:42:19",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "자동차",
+      "IT/기술",
+      "전기차",
+      "무역/물류"
+    ],
+    "keywords": [
+      "미중 기술 분쟁",
+      "자동차 산업",
+      "커넥티드 차량",
+      "무역 장벽",
+      "공급망 재편"
+    ],
+    "reason": "이번 조치는 미중 기술 경쟁의 심화를 나타내며, 글로벌 자동차 및 IT 섹터에 새로운 무역 장벽과 공급망 재편 압력을 가중시킬 것입니다. 이는 지정학적 위험을 높이고 다국적 기업의 불확실성을 증대시킵니다.",
+    "action_point": "미중 기술 분쟁 심화에 따른 글로벌 자동차 및 IT 섹터 공급망 위험 증가를 감안, 관련 기업들의 중국 관련 익스포저를 점검하고 포트폴리오 조정 여부를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Friday's big stock stories: What’s likely to move the market in the next trading session",
+    "title_ko": "금요일 주요 증시 이슈: 다음 거래일에 시장을 움직일 요인들",
+    "link": "https://www.cnbc.com/2026/09/03/fridays-big-stock-stories-whats-likely-to-move-the-market.html",
+    "published": "Thu, 03 Sep 2026 23:34:45 GMT",
+    "fetched_at": "2026-09-04 08:42:09",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [],
+    "keywords": [
+      "증시 전망",
+      "시장 움직임",
+      "다우존스",
+      "경제 정책"
+    ],
+    "reason": "다우존스의 급등 소식은 긍정적인 시장 분위기를 시사하나, 기사는 다음 거래일에 영향을 줄 수 있는 요인에 대한 일반적인 전망이므로 특정 자산군에 대한 직접적인 영향보다는 전반적인 시장 심리 파악에 중점을 둔다.",
+    "action_point": "기사 자체만으로는 당장 포트폴리오에 영향을 미칠 만한 구체적인 지침이 없으므로 해당 없음."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Stocks making the biggest moves premarket: Snowflake, Moderna, Broadcom & more",
+    "title_ko": "개장 전 가장 큰 움직임을 보이는 주식: 스노우플레이크, 모더나, 브로드컴 외",
+    "link": "https://www.cnbc.com/2026/09/03/stocks-making-the-biggest-moves-premarket-snow-mrna-avgo.html",
+    "published": "Thu, 03 Sep 2026 11:35:07 GMT",
+    "fetched_at": "2026-09-04 08:41:59",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "기술 (소프트웨어/클라우드)",
+      "제약/바이오",
+      "반도체"
+    ],
+    "keywords": [
+      "개장 전 주식",
+      "개별주",
+      "기술주",
+      "제약주",
+      "반도체주",
+      "변동성"
+    ],
+    "reason": "이 기사는 개장 전 주요 종목들의 개별적인 주가 움직임을 나열할 뿐, 그 배경이나 거시경제적 함의를 제시하지 않아 시장 전반에 대한 유의미한 시사점은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "The big August jobs report is due out Friday. Here's what to expect for what has been a jobless summer",
     "title_ko": "오는 금요일 8월 고용보고서 발표, '일자리 없는 여름' 동안 기대되는 지표는?",
     "link": "https://www.cnbc.com/2026/09/03/august-2026-jobs-report-payrolls.html",
@@ -2883,78 +2955,5 @@
     ],
     "reason": "주요 AI 관련 기업들의 예상치를 뛰어넘는 실적은 AI 성장 모멘텀이 특정 기업에 국한되지 않고 광범위하게 확산되고 있음을 확인시켜주며, 기술 섹터 전반에 대한 긍정적 투자 심리를 강화할 것입니다.",
     "action_point": "AI 관련 기술주 포트폴리오 비중 확대 또는 유지 검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "경제부총리 이형일, 법무장관 김승원, 성평등장관 용혜인 - 조선일보",
-    "title_ko": "경제부총리 이형일, 법무장관 김승원, 성평등장관 용혜인",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWHpBSVNUMHdnaEMxc1NyaHJaVnRkZl9BVWdZTjJEcDRBTVp2MFBqUGRIM1dRb0dLU3FCQnBVZVdrSnpWSllrREpQSmNLRUE4MS1yVnVvb01SQkZSZUx5V1RmS01xY3dmT0VvSWg3WTVOaFZnbzc3U2U4M0tUMW5xdC1FLXZFSjNSX1RkOHI0UUs?oc=5",
-    "published": "Sun, 30 Aug 2026 04:12:04 GMT",
-    "fetched_at": "2026-08-30 17:43:43",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "금융",
-      "부동산",
-      "건설",
-      "산업 전반"
-    ],
-    "keywords": [
-      "경제부총리",
-      "인사",
-      "정부정책"
-    ],
-    "reason": "이형일 경제부총리 등 신임 장관 인사는 향후 정부의 경제 정책 방향에 영향을 미치겠지만, 구체적인 정책 기조가 미발표되어 시장에 미치는 즉각적인 영향은 중립적입니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "‘이집트 은행 제재’ 미, 이란 경제고립 착수…이란 “굴복 않을 것” - 한겨레",
-    "title_ko": "‘이집트 은행 제재’ 미, 이란 경제고립 착수…이란 “굴복 않을 것” - 한겨레",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBOcmJxUjQ2VGsyY1R2aG1TNFZLR1VpdlBoV0JyNHhoMWszYXNpd3lTY2VMcFoxN3d2OFU4WHMzNDFLQlFvTkpDaWVUMHhJamRGdXlERmdfMzZpMnFzcjdfaFprSFRFdTRySUZkeDdHV0VIZ2M?oc=5",
-    "published": "Sun, 30 Aug 2026 06:22:00 GMT",
-    "fetched_at": "2026-08-30 17:44:01",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "원자재",
-      "금융",
-      "방산",
-      "해운"
-    ],
-    "keywords": [
-      "이란 제재",
-      "지정학적 위험",
-      "유가 상승",
-      "중동"
-    ],
-    "reason": "미국의 이란 경제 고립 강화는 중동 지정학적 긴장을 고조시켜 원유 공급 불확실성과 유가 상승 압력을 높이며, 글로벌 금융 및 무역 환경의 리스크를 증가시킨다.",
-    "action_point": "중동 지정학적 위험 고조에 따른 유가 변동성 확대에 대비하여 에너지 관련 자산 비중 확대를 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "이 대통령, 법무장관에 김승원 지명...경제부총리 이형일·국방 강신철 - YTN",
-    "title_ko": "이 대통령, 법무장관에 김승원 지명...경제부총리 이형일·국방 강신철 - YTN",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9BN1F2dUNoUE8yLXhzS1BQcGJoQmdtUy1GM1JWRlJLRFZCM2l2bDctRXZRTUZXUVQtTnpVcjJVTTZOWWZwZXV6OUhJOWxvN3Jna2Z4d3NyTFdJSjRRUnc?oc=5",
-    "published": "Sun, 30 Aug 2026 03:52:00 GMT",
-    "fetched_at": "2026-08-30 17:44:17",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "전 섹터",
-      "금융",
-      "방산"
-    ],
-    "keywords": [
-      "내각 개편",
-      "경제부총리",
-      "장관 임명",
-      "이형일"
-    ],
-    "reason": "새 경제부총리 지명은 향후 경제 정책 방향에 대한 기대를 형성하며, 초기에는 시장에 중립적인 영향을 미치나, 향후 정책 기조에 따라 금융 시장 전반에 영향을 줄 수 있음.",
-    "action_point": "새 경제팀 출범에 따른 경제 정책 변화 가능성에 대비해 국내 정책 민감주 포트폴리오 점검."
   }
 ]
