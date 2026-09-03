@@ -2,6 +2,105 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "Inside India newsletter: India’s economic growth is smashing forecasts, but its biggest stocks aren't feeling the love",
+    "title_ko": "인도 뉴스레터: 인도의 경제 성장은 예상을 뛰어넘지만, 주요 대형주는 투자자들에게 외면받고 있다",
+    "link": "https://www.cnbc.com/2026/09/03/india-nifty-sensex-manufacturing-economy-gdp.html",
+    "published": "Thu, 03 Sep 2026 00:08:50 GMT",
+    "fetched_at": "2026-09-03 09:52:36",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "신흥국 투자",
+      "주식시장"
+    ],
+    "keywords": [
+      "인도",
+      "경제성장",
+      "주식시장",
+      "대형주"
+    ],
+    "reason": "인도의 견고한 경제 성장에도 불구하고 주요 대형주 주가는 부진하여, 신흥국 대형주의 밸류에이션과 성장-주가 간 괴리에 대한 주의가 필요함을 시사합니다.",
+    "action_point": "인도 등 신흥국 대형주에 대한 과도한 밸류에이션 프리미엄 부여를 재검토하고, 성장과 주가 괴리 원인 분석 후 투자 비중 조정 여부를 판단하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "美 연준 “美 12개 지역 중 10곳 경제 성장… 고용은 소폭 증가” - 조선비즈 - Chosunbiz",
+    "title_ko": "美 연준 “美 12개 지역 중 10곳 경제 성장… 고용은 소폭 증가”",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTTIyUUptZmUyd2xYOXNmUHptMTZ2ODJZRnRpYk40cTFPU05VUXhla1hTMFZoVUtEWUs1cmpsc2h3bExPQ2JTNXZqTm5zbk5YMERYX2RHTUNpVHM2ZVVsMlFYRTZqUG1ITUdqZjZVQWp5dF9rTGtaNzVGaW5HSFZ5VFNycUZ0Q2xfX2VObjFHaXBfUXlFVmRqbFRCOWZMQdIBsgFBVV95cUxPU0p2SWItUDAxbWVoQjNFVVktUlVPRHk2dl9ZYjQ1VkgwdmFabllucU9qNzZSLWZOcFRaSTlVRkhQTkpZcHFRRUkxWDhNbVBLTmlqVXV3ODh5Y3d2M1JQMV8zVTZoQ1l2d2dwSDhiVnN3eGZQVDRRanFvNXA4dFpKbmNsalRBd1RIVl9lQy1BdjVwSHNuUGFtR3JmWGpsWENtVzJrYVlQckRkTHl1aEdLWnBn?oc=5",
+    "published": "Wed, 02 Sep 2026 22:19:00 GMT",
+    "fetched_at": "2026-09-03 09:53:12",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "글로벌 주식 시장",
+      "금융",
+      "소비재"
+    ],
+    "keywords": [
+      "미국 경제",
+      "연준",
+      "경제 성장",
+      "고용",
+      "금리 정책"
+    ],
+    "reason": "미국 경제가 완만한 성장세를 유지하며 고용 시장의 견조함을 시사, 이는 연착륙 기대감을 지지하나 금리 인하 시점은 늦출 수 있습니다.",
+    "action_point": "미국 경제의 완만한 성장이 지속됨에 따라 글로벌 위험자산 비중을 현 수준으로 유지하고 고금리 장기화 가능성에 대비하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Why Hilton calls this Asian country the fastest-growing tourism market",
+    "title_ko": "힐튼이 이 아시아 국가를 가장 빠르게 성장하는 관광 시장으로 꼽는 이유",
+    "link": "https://www.cnbc.com/2026/09/03/hilton-hotel-market-expansion-india-china-southeast-asia.html",
+    "published": "Thu, 03 Sep 2026 00:13:33 GMT",
+    "fetched_at": "2026-09-03 09:52:43",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "호텔/관광",
+      "항공/운송",
+      "유통",
+      "레저"
+    ],
+    "keywords": [
+      "힐튼",
+      "아시아",
+      "관광",
+      "성장",
+      "여행"
+    ],
+    "reason": "특정 아시아 국가의 관광 시장 급성장은 해당 지역의 경제 활성화 및 관련 산업의 투자 기회를 시사하며, 이는 글로벌 관광 및 서비스 섹터 전반에 긍정적 신호로 작용할 수 있습니다.",
+    "action_point": "이 아시아 국가의 정체 파악 후, 해당 국가의 호텔/관광 및 레저 관련 주식 투자 기회를 적극적으로 모색하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[속보] 정부, 보안특화 AI 모델 개발 사업자로 네이버 컨소시엄 선정 - 중앙일보",
+    "title_ko": "[속보] 정부, 보안특화 AI 모델 개발 사업자로 네이버 컨소시엄 선정 - 중앙일보",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XVkh4TkFyU1M5bUlEc3laTUpPX1plZDJzcnF1QTZfaFZhWk9aZ3gwd2Vpc2ZldVB4aml1YlZ5dXV4S2FPTFFsRmxmVk9CcDhpckhqQlJB?oc=5",
+    "published": "Thu, 03 Sep 2026 00:12:58 GMT",
+    "fetched_at": "2026-09-03 09:53:00",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "IT/기술",
+      "인공지능",
+      "플랫폼"
+    ],
+    "keywords": [
+      "정부",
+      "보안특화 AI",
+      "네이버",
+      "컨소시엄",
+      "인공지능"
+    ],
+    "reason": "정부의 보안 특화 AI 모델 개발 사업자 선정은 네이버의 AI 기술력과 시장 경쟁력을 강화하며, 국내 AI 산업 성장에 긍정적인 신호로 작용합니다. 이는 향후 관련 분야의 추가적인 사업 기회 확대로 이어질 수 있습니다.",
+    "action_point": "네이버 주식 비중 유지 및 국내 AI 관련 기업 투자 검토."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "Trump and Xi are set to meet in DC. Why some China watchers have low expectations",
     "title_ko": "트럼프와 시진핑, 워싱턴 회담 예정… 중국 전문가들이 기대가 낮은 이유",
     "link": "https://www.cnbc.com/2026/09/02/trump-xi-summit-iran-china-trade-elections.html",
@@ -2860,103 +2959,5 @@
     ],
     "reason": "국내 주요 온라인 플랫폼에서 발생한 개인정보 유출 사고는 해당 기업의 브랜드 이미지 및 소비자 신뢰에 부정적 영향을 미치며, 향후 규제 강화 및 보안 투자 증대 압력으로 이어질 수 있습니다. 다만, 결제 및 계정 정보가 유출되지 않아 단기 시장 충격은 제한적입니다.",
     "action_point": "온라인 플랫폼 기업 투자 시 데이터 보안 시스템 및 리스크 관리 역량 점검을 강화하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "“제발 살아있기를”…‘네팔·중국 대홍수’ 실종자 3천명 육박, 500명 늘어",
-    "title_ko": "“제발 살아있기를”…‘네팔·중국 대홍수’ 실종자 3천명 육박, 500명 늘어",
-    "link": "https://www.mk.co.kr/news/world/12139463",
-    "published": "Sat, 29 Aug 2026 17:53:22 +09:00",
-    "fetched_at": "2026-08-29 18:38:59",
-    "sentiment": "악재",
-    "importance": 2,
-    "sectors": [
-      "관광"
-    ],
-    "keywords": [
-      "네팔",
-      "중국",
-      "대홍수",
-      "인명피해",
-      "자연재해"
-    ],
-    "reason": "네팔-중국 국경의 대규모 홍수 발생은 심각한 인명피해를 초래하는 인도주의적 위기이나, 글로벌 경제 및 주요 투자 자산에 미칠 직접적인 거시경제적 영향은 제한적일 것으로 판단된다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Corn and wheat prices jump to highest prices in more than three years",
-    "title_ko": "옥수수와 밀 가격, 3년여 만에 최고치로 급등",
-    "link": "https://www.cnbc.com/2026/08/28/corn-and-wheat-prices-jump-to-highest-prices-in-more-than-three-years.html",
-    "published": "Fri, 28 Aug 2026 20:00:56 GMT",
-    "fetched_at": "2026-08-29 11:37:13",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "농업",
-      "비료",
-      "음식료",
-      "사료",
-      "소비자 필수재"
-    ],
-    "keywords": [
-      "옥수수",
-      "밀",
-      "곡물 가격",
-      "인플레이션",
-      "식량 안보"
-    ],
-    "reason": "주요 곡물 가격 급등은 전반적인 물가 상승 압력으로 작용하며 인플레이션 우려를 심화시킬 것입니다. 이는 중앙은행의 긴축 기조 유지 압박으로 이어질 수 있습니다.",
-    "action_point": "곡물 가격 상승에 따른 인플레이션 헤지 차원에서 농업 관련 자산 비중 확대를 검토하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "“추락하는 신발엔 날개가 없다” … 미국판 ABC마트의 몰락",
-    "title_ko": "“추락하는 신발엔 날개가 없다” … 미국판 ABC마트의 몰락",
-    "link": "https://www.mk.co.kr/news/business/12138911",
-    "published": "Sat, 29 Aug 2026 04:30:00 +09:00",
-    "fetched_at": "2026-08-29 04:55:30",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "유통",
-      "소비재",
-      "섬유/의류"
-    ],
-    "keywords": [
-      "미국 소비",
-      "소매 판매",
-      "소비 심리",
-      "경기 둔화"
-    ],
-    "reason": "미국 주요 신발 및 스포츠 용품 유통업체의 몰락은 미국 소비자 지출 둔화 및 재량 소비재 수요 감소 가능성을 시사하며, 이는 미국 경기 둔화의 전조가 될 수 있습니다.",
-    "action_point": "미국 소비재 섹터 비중 축소 및 경기 방어주 편입 검토."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "U.S. appeals court rules against prediction markets, sets up likely fight at Supreme Court",
-    "title_ko": "미국 항소법원, 예측 시장에 불리한 판결…대법원 상고 가능성 시사",
-    "link": "https://www.cnbc.com/2026/08/28/appeals-court-rules-against-prediction-markets-tees-up-scotus-fight.html",
-    "published": "Fri, 28 Aug 2026 19:32:48 GMT",
-    "fetched_at": "2026-08-29 04:55:18",
-    "sentiment": "악재",
-    "importance": 2,
-    "sectors": [
-      "핀테크",
-      "온라인 베팅/갬블링"
-    ],
-    "keywords": [
-      "예측 시장",
-      "규제",
-      "항소법원",
-      "대법원",
-      "스왑 계약"
-    ],
-    "reason": "이 판결은 미국 내 예측 시장(특히 스포츠 관련 이벤트 계약)의 규제 불확실성을 증폭시키며, 관련 상품의 제공 및 확장에 제동을 걸 수 있습니다. 이는 특정 핀테크/온라인 베팅 산업의 성장에 부정적입니다.",
-    "action_point": "일반적인 포트폴리오에 미치는 영향은 미미하므로 당장 취할 조치는 해당 없음."
   }
 ]
