@@ -1,5 +1,56 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Trump tells Fed to slash rates or he'll end trade with countries with U.S. surpluses",
+    "title_ko": "트럼프, 연준에 금리 인하 요구…불응 시 대미 무역흑자국과 무역 중단 위협",
+    "link": "https://www.cnbc.com/2026/09/04/trump-fed-rates-jobs-trade.html",
+    "published": "Fri, 04 Sep 2026 16:08:11 GMT",
+    "fetched_at": "2026-09-05 01:40:28",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "수출주",
+      "무역",
+      "원자재",
+      "금융"
+    ],
+    "keywords": [
+      "트럼프",
+      "연준",
+      "금리 인하",
+      "무역 전쟁",
+      "통화 정책",
+      "지정학적 리스크"
+    ],
+    "reason": "트럼프의 발언은 연준의 독립성을 침해하고 대규모 무역 분쟁 가능성을 시사하며 글로벌 경제 불확실성을 증폭시킨다. 이는 위험자산 회피 심리를 강화하고 환율 변동성을 높일 수 있다.",
+    "action_point": "미국 무역흑자국 관련 수출 기업 비중을 축소하고, 안전자산(미국 국채, 금) 비중 확대를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "U.S. payrolls rose 162,000 in August, much more than expected; unemployment rate at 4.1%",
+    "title_ko": "미국 8월 비농업 고용 16만 2천명 증가, 예상치 크게 상회; 실업률 4.1%",
+    "link": "https://www.cnbc.com/2026/09/04/jobs-report-august-2026.html",
+    "published": "Fri, 04 Sep 2026 14:19:02 GMT",
+    "fetched_at": "2026-09-05 01:40:21",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "주식 (성장주/기술주)",
+      "채권",
+      "환율 (달러)",
+      "금융"
+    ],
+    "keywords": [
+      "미국 고용",
+      "연준 통화정책",
+      "금리 인상"
+    ],
+    "reason": "예상치를 크게 상회하는 고용 지표는 미국 경제의 강한 회복력을 시사하며, 이는 연준의 금리 인상 또는 고금리 유지 압력을 높여 채권 수익률 상승 및 성장주 투자 심리 위축으로 이어질 수 있습니다.",
+    "action_point": "미국 고금리 장기화 가능성에 대비하여 성장주 비중 축소 및 달러 자산 보유 확대를 검토하라."
+  },
+  {
     "source": "CNBC_Finance",
     "market": "US",
     "title": "Bitcoin heads for third winning week in a row as macro pressures mount",
@@ -2917,54 +2968,5 @@
     ],
     "reason": "일본 정부의 엔화 시장 개입 효과가 약화되면서 엔화 약세 압력이 지속될 가능성이 있으며, 이는 고금리 통화와의 금리 차이를 이용한 캐리 트레이딩 전략의 수익성을 유지시킬 것이다.",
     "action_point": "엔화 캐리 트레이드 기회를 활용하여 고금리 통화 또는 관련 자산 비중을 확대하는 방안을 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "End of an era at Apple: Tim Cook's last day as CEO",
-    "title_ko": "애플 시대의 종말: 팀 쿡의 마지막 CEO 재임일",
-    "link": "https://www.cnbc.com/video/2026/08/31/end-of-an-era-at-apple-tim-cooks-last-day-as-ceo.html",
-    "published": "Mon, 31 Aug 2026 13:28:41 GMT",
-    "fetched_at": "2026-08-31 23:38:39",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "IT 하드웨어",
-      "소프트웨어 및 서비스",
-      "기술주 전반"
-    ],
-    "keywords": [
-      "애플",
-      "팀 쿡",
-      "CEO 교체",
-      "리더십 전환"
-    ],
-    "reason": "애플이라는 거대 기술 기업의 CEO 교체는 단기적으로 해당 기업 주가에 불확실성을 가중시키고, 장기적으로는 기업의 전략적 방향성에 대한 재평가를 요구합니다. 이는 전체 기술 섹터 투자 심리에 간접적인 영향을 미칠 수 있습니다.",
-    "action_point": "글로벌 기술주 포트폴리오 내 애플 비중 및 향후 전략 변화 가능성을 재검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[화요경제 항산항심] 그 많았던 타워크레인은 어디로 갔을까 - 국제신문",
-    "title_ko": "[화요경제 항산항심] 그 많았던 타워크레인은 어디로 갔을까",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNktNMDFfX1U3azVvODU2ellralkyMzJnbk1zdW90OE96OWtkV0Z4OEtFcUpNd2xrUU1mLVg2M1J2V3phbXFMUUpLMW50WmItR0pqSlFCZUJPcGJMcFdDSEcxS2stQlBWQTFuQ252RzhjUVNNdGxad1FfWEV3T3JfdUs0YzltWGNEckRaRDJ3?oc=5",
-    "published": "Mon, 31 Aug 2026 09:48:00 GMT",
-    "fetched_at": "2026-08-31 23:39:27",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "건설",
-      "건설자재",
-      "부동산",
-      "금융"
-    ],
-    "keywords": [
-      "타워크레인",
-      "건설경기",
-      "부동산 PF",
-      "건설투자"
-    ],
-    "reason": "타워크레인 감소는 국내 건설투자 및 신규 착공의 급격한 위축을 시사하며, 이는 건설업은 물론 건설자재, 부동산 섹터 전반에 걸친 경기 침체와 금융권의 프로젝트 파이낸싱(PF) 부실 위험을 증대시킬 수 있습니다.",
-    "action_point": "국내 건설 및 건설자재 섹터 비중 축소 검토, PF 익스포저가 높은 금융주 리스크 점검."
   }
 ]
