@@ -1,5 +1,80 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[속보] 트럼프 \"특사단, 우크라 전쟁 끝낼 제안 가져갈 것\" - 연합뉴스TV",
+    "title_ko": "트럼프 \"특사단, 우크라 전쟁 끝낼 제안 가져갈 것\"",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzbzFVYzlRcDhGYlBhNG94dEtmZ0VFWTdwQUsxU2hZVDBDSTFvSG5tMXJidmlIWVljdzBpQUFYUld0b3VVZVZFMWdqS1FFV2JPWnJwZ2UxcENOLWVJc0c1WmFnQnlIR00?oc=5",
+    "published": "Fri, 04 Sep 2026 19:13:00 GMT",
+    "fetched_at": "2026-09-05 06:58:18",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "방위산업",
+      "에너지",
+      "농업",
+      "건설"
+    ],
+    "keywords": [
+      "트럼프",
+      "우크라이나 전쟁",
+      "평화 협상",
+      "지정학적 리스크"
+    ],
+    "reason": "트럼프의 우크라이나 전쟁 종식 제안은 글로벌 지정학적 리스크 완화 기대를 높이며, 이는 유가 및 원자재 가격 하향 안정화와 함께 위험 자산 선호도를 높일 수 있다.",
+    "action_point": "방위산업 및 에너지 섹터 비중 축소 검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "트럼프 “이란 전쟁은 사소한 것”…한국 파병 검토엔 ”기다리는 중” - KBS 뉴스",
+    "title_ko": "트럼프 “이란 전쟁은 사소한 것”…한국 파병 검토엔 ”기다리는 중”",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3eHA1aW5ueFZWZGtVektYRUFSU2syMVBYVC1kQXh3bWFGc1NFUmFack1HYWRoTGxzUlB1Z2Q5UmhQa25jTlhMbHNOUHhjSUkxTkJUZ1VNUGZvTkk?oc=5",
+    "published": "Fri, 04 Sep 2026 21:05:00 GMT",
+    "fetched_at": "2026-09-05 06:58:42",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "방위산업",
+      "해운"
+    ],
+    "keywords": [
+      "트럼프",
+      "이란",
+      "한국",
+      "중동",
+      "지정학",
+      "국제유가",
+      "파병"
+    ],
+    "reason": "트럼프의 이란 관련 발언은 중동 지역의 즉각적인 군사적 긴장 완화 가능성을 시사하나, 한국의 파병 검토는 지역 안보 불확실성을 유지하며 포트폴리오에 미치는 영향은 복합적입니다.",
+    "action_point": "중동 지정학적 긴장 완화 가능성을 반영하여 국제유가 급등 헤지 포지션 축소 검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "미·국제 금융당국, 가상자산·지하금융 통한 자금세탁 경고 - VOA 한국어 홈페이지",
+    "title_ko": "미·국제 금융당국, 가상자산·지하금융 통한 자금세탁 경고",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5vdWRJMXFvWUxpSHl3Sy1UYlF5bzJOS3V4blViWXQ3NGFYY2VJZjBDa3lnREVreHQxSFNwRlZBRWRTbGVEMnJaXzZTVTlISTFvY0k2aUNxS0NBdWlFQllfSWxta2tVS2FZckxzSko0WEpybE1V0gF3QVVfeXFMTnR5WVowRkF3M2RLV1lxdnhJUmU1TVcweGdIVlh3SFFfYnFmek4tMzRBYlc2WmtxNUtjbGQwYlJzZWY3SVNCMEpteFE2azNvd2hPQ1BTQWNBWWs1M3pKczByNDFrZHc4Y3hoRHVUeEJnSkVQaUJFY0E?oc=5",
+    "published": "Fri, 04 Sep 2026 19:26:33 GMT",
+    "fetched_at": "2026-09-05 06:58:50",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "가상자산",
+      "블록체인"
+    ],
+    "keywords": [
+      "가상자산",
+      "자금세탁",
+      "규제",
+      "국제금융당국"
+    ],
+    "reason": "미·국제 금융당국의 경고는 가상자산 시장에 대한 규제 강화 가능성을 시사하며, 이는 단기적으로 투기적 자금 유입을 위축시키고 관련 시장의 불확실성을 증대시킬 수 있습니다. 장기적으로는 시장의 건전성 향상에 기여할 수 있으나, 초기에는 시장 변동성을 확대시키는 요인으로 작용합니다.",
+    "action_point": "가상자산 관련 포트폴리오의 리스크 점검 및 비중 축소 또는 규제 준수 기업 위주로 재편성 검토"
+  },
+  {
     "source": "CNBC_Finance",
     "market": "US",
     "title": "White House has vetted candidates for key CFTC vacancies, sources tell CNBC. It's unclear if they will be filled",
@@ -2893,81 +2968,5 @@
     ],
     "reason": "미국-이란 간 지정학적 긴장이 재고조되고 중국 개입 가능성까지 언급되며 중동 지역 리스크가 심화될 수 있습니다. 이는 국제 유가 상승 압력으로 작용하여 글로벌 경제 불확실성을 증대시킬 것입니다.",
     "action_point": "중동 지정학적 리스크 심화에 따른 유가 상승 가능성에 대비하여 에너지 관련주 및 인플레이션 헤지 자산 편입을 검토하고, 방산 섹터에 대한 관심을 유지한다."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "푸틴, 석달만에 시진핑 만나 …\"러·중협력 성공적\"",
-    "title_ko": "푸틴, 석달만에 시진핑 만나 …\"러·중협력 성공적\"",
-    "link": "https://www.mk.co.kr/news/world/12140820",
-    "published": "Mon, 31 Aug 2026 22:59:30 +09:00",
-    "fetched_at": "2026-08-31 23:40:11",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "방산",
-      "에너지",
-      "원자재",
-      "해운"
-    ],
-    "keywords": [
-      "푸틴",
-      "시진핑",
-      "러·중 협력",
-      "상하이협력기구",
-      "지정학",
-      "반서방"
-    ],
-    "reason": "러시아와 중국의 협력 강화는 반서방 진영의 결속을 다지며 글로벌 지정학적 불확실성을 증대시킵니다. 이는 무역 마찰 심화, 공급망 재편, 원자재 가격 변동성 확대를 야기할 수 있습니다.",
-    "action_point": "지정학적 긴장 심화에 대비해 방산 및 원자재 관련 자산 비중 확대 검토."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Crypto exchange Gemini not at fault for collapse of Earn lending program, arbitrator says",
-    "title_ko": "중재인, 암호화폐 거래소 제미니의 언 프로그램 붕괴 책임 없다고 결정",
-    "link": "https://www.cnbc.com/2026/08/31/gemini-not-at-fault-for-collapse-of-earn-lending-program-arbitrator-says.html",
-    "published": "Mon, 31 Aug 2026 12:17:54 GMT",
-    "fetched_at": "2026-08-31 23:37:22",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "암호화폐"
-    ],
-    "keywords": [
-      "제미니",
-      "언 프로그램",
-      "암호화폐 거래소",
-      "중재 판결",
-      "대출 서비스"
-    ],
-    "reason": "중재 판결로 제미니는 언 프로그램 붕괴에 대한 직접적인 법적 책임에서 벗어났으나, 암호화폐 대출 서비스의 내재된 위험성에 대한 투자자 경각심은 여전히 높다.",
-    "action_point": "암호화폐 대출(lending) 서비스 투자 비중 및 리스크 재검토"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "OpenAI's ad business shows blistering growth, hits $1 billion annualized revenue run rate",
-    "title_ko": "OpenAI의 광고 사업, 폭발적 성장세를 보이며 연간 매출 10억 달러 달성",
-    "link": "https://www.cnbc.com/2026/08/31/open-ai-chatgpt-ads-revenue.html",
-    "published": "Mon, 31 Aug 2026 14:06:23 GMT",
-    "fetched_at": "2026-08-31 23:37:49",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "인공지능",
-      "기술주",
-      "디지털 광고",
-      "클라우드 컴퓨팅"
-    ],
-    "keywords": [
-      "OpenAI",
-      "인공지능",
-      "ChatGPT",
-      "광고 매출",
-      "기술주"
-    ],
-    "reason": "OpenAI의 광고 사업 성장은 AI 기술의 강력한 상업적 성공 가능성을 입증하며, 관련 기술 기업들의 수익 모델 다각화 및 시장 성장에 긍정적 신호를 제공한다. 이는 기술 섹터 전반에 대한 투자 심리를 개선할 수 있다.",
-    "action_point": "AI 및 디지털 광고 관련 성장주에 대한 비중 확대를 검토."
   }
 ]
