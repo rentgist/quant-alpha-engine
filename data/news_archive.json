@@ -2,6 +2,190 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "The inflation genie could be out of the bottle — and bond markets are sounding the alarm",
+    "title_ko": "인플레이션 요정 통제 불능 상태로, 채권 시장 경고등 켜져",
+    "link": "https://www.cnbc.com/2026/09/04/global-bond-selloff-inflation-risk.html",
+    "published": "Fri, 04 Sep 2026 07:05:29 GMT",
+    "fetched_at": "2026-09-04 16:32:41",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "채권",
+      "성장주",
+      "기술주",
+      "부동산",
+      "에너지",
+      "국방"
+    ],
+    "keywords": [
+      "인플레이션",
+      "채권수익률",
+      "고금리",
+      "국가부채",
+      "관세",
+      "국방비",
+      "에너지 충격"
+    ],
+    "reason": "고금리가 장기화될 수 있다는 우려로 글로벌 채권 수익률이 급등하며 전반적인 자산 시장에 부담을 줄 수 있습니다. 이는 기업들의 자금 조달 비용 증가와 소비 위축으로 이어질 가능성이 큽니다.",
+    "action_point": "고금리 장기화에 대비하여 장기채권 비중을 줄이고, 금리 민감도가 높은 성장주 및 부동산 자산에 대한 투자 비중 축소를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Global bond sell-off likely not over yet, Mohamed El-Erian tells CNBC",
+    "title_ko": "모하메드 엘-에리언, 글로벌 채권 매도세 아직 끝나지 않았을 것",
+    "link": "https://www.cnbc.com/2026/09/04/el-erian-government-bond-selloff.html",
+    "published": "Fri, 04 Sep 2026 07:13:33 GMT",
+    "fetched_at": "2026-09-04 16:32:17",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "채권",
+      "주식",
+      "부동산",
+      "금융"
+    ],
+    "keywords": [
+      "글로벌 채권 매도세",
+      "금리",
+      "미국 국채",
+      "엘-에리언"
+    ],
+    "reason": "유명 경제학자의 채권 매도세 지속 경고는 글로벌 금리 상승 압력을 시사하며, 이는 채권 시장의 불안정성을 높이고 주식 및 부동산 등 자산 가치 전반에 하방 압력으로 작용할 수 있습니다.",
+    "action_point": "지속적인 글로벌 금리 상승 압력에 대비하여 채권 포트폴리오의 듀레이션을 단축하고, 고금리 환경에 취약한 성장주 및 부채 민감 자산의 비중 축소를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "World's biggest sovereign wealth fund plans to cut U.S. Treasury holdings",
+    "title_ko": "세계 최대 국부펀드, 미국 국채 보유 비중 축소 계획",
+    "link": "https://www.cnbc.com/2026/09/04/worlds-biggest-sovereign-wealth-fund-plans-to-cut-treasury-holdings.html",
+    "published": "Fri, 04 Sep 2026 06:46:35 GMT",
+    "fetched_at": "2026-09-04 16:32:24",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "채권",
+      "외환",
+      "금융",
+      "기술"
+    ],
+    "keywords": [
+      "국부펀드",
+      "미국 국채",
+      "금리",
+      "달러",
+      "자산배분"
+    ],
+    "reason": "세계 최대 국부펀드의 미국 국채 비중 축소 계획은 글로벌 채권 시장의 수요 감소로 이어져 미국 장기 금리 상승 압력을 가하고, 달러 약세 요인으로 작용할 수 있다.",
+    "action_point": "미국 장기 금리 상승에 대비하여 채권 포트폴리오의 듀레이션을 조정하고, 달러 자산 비중을 재검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "U.S. 'Economic Outcast’ operation gains momentum as EU joins sanctions; South Korea weighs military backing",
+    "title_ko": "미국 '경제적 고립' 작전, EU 제재 동참으로 탄력; 한국, 군사적 지원 검토 중",
+    "link": "https://www.cnbc.com/2026/09/04/us-iran-war-trump-hormuz-operation-economic-outcast-sanctions-campaign.html",
+    "published": "Fri, 04 Sep 2026 06:17:57 GMT",
+    "fetched_at": "2026-09-04 16:32:34",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지/유가",
+      "해운",
+      "방산"
+    ],
+    "keywords": [
+      "이란 제재",
+      "호르무즈 해협",
+      "지정학적 위험",
+      "유가 상승",
+      "에너지 안보"
+    ],
+    "reason": "EU의 이란 제재 동참과 한국의 호르무즈 해협 군사 지원 검토는 중동 지정학적 긴장을 고조시키고, 유가 및 해상 운송 비용 상승을 야기하여 글로벌 경제에 부담으로 작용할 수 있습니다.",
+    "action_point": "유가 상승 압력에 대비하여 에너지 관련 자산 비중 확대를 검토하고, 중동발 지정학적 위험 고조에 따른 방산 섹터의 단기 모멘텀을 주시하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Goldman just revised this credit-market forecast thanks to the AI sector",
+    "title_ko": "골드만삭스, AI 섹터 덕분에 신용시장 전망치 상향 조정",
+    "link": "https://www.cnbc.com/2026/09/04/goldman-usd-corporate-debt-bond-yields.html",
+    "published": "Fri, 04 Sep 2026 02:42:11 GMT",
+    "fetched_at": "2026-09-04 16:32:48",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "AI",
+      "기술 (Technology)",
+      "금융 (Financials)"
+    ],
+    "keywords": [
+      "골드만삭스",
+      "AI",
+      "신용시장",
+      "전망 상향",
+      "투자등급 채권"
+    ],
+    "reason": "AI 섹터의 강한 수요가 미 달러 투자등급 신용시장 발행을 견인하며 골드만삭스의 전망치를 상향시켰다. 이는 AI 관련 기업들의 자금 조달 여건 개선과 섹터 성장에 대한 긍정적 신호로 해석된다.",
+    "action_point": "AI 관련 기업 및 기술 섹터 투자 비중 확대를 검토"
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "순환경제 ‘논의에서 실행으로’…제주서 녹색문명 전환 해법 찾는다 - 에너지데일리",
+    "title_ko": "순환경제 ‘논의에서 실행으로’…제주서 녹색문명 전환 해법 찾는다",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5mVDJfMGQ5eDQwMlhxNUZudzJ2bHA5U19EaGdyRjBZd1YzZGphdUlwdHdJVy1EVC1wU3d3RGRnMmJBbUU0TjE5dzl0UVpSZV9fcVpWNXhzRlZsbWl1UnR4ZkJNX2VhTl9xektOdnRaZEZlZw?oc=5",
+    "published": "Fri, 04 Sep 2026 05:37:58 GMT",
+    "fetched_at": "2026-09-04 16:33:04",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "환경",
+      "폐기물처리",
+      "재생에너지",
+      "친환경기술",
+      "건설"
+    ],
+    "keywords": [
+      "순환경제",
+      "녹색문명",
+      "친환경",
+      "제주",
+      "ESG",
+      "정책"
+    ],
+    "reason": "제주를 중심으로 순환경제 및 녹색문명 전환이 논의에서 실행 단계로 접어들면서, 관련 정책 지원과 투자가 확대될 전망입니다. 이는 환경, 재생에너지, 친환경 소재 등 관련 산업 성장의 모멘텀이 될 수 있습니다.",
+    "action_point": "국내 순환경제 및 친환경 기술 관련 섹터 비중 확대 검토."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Shein has made a shaky stock market entry. Can it get its mojo back?",
+    "title_ko": "Shein의 주식시장 진입이 불안하다. 성장 동력을 되찾을 수 있을까?",
+    "link": "https://www.cnbc.com/2026/09/04/shein-ipo-fast-fashion-temu-competition.html",
+    "published": "Fri, 04 Sep 2026 04:49:36 GMT",
+    "fetched_at": "2026-09-04 16:32:56",
+    "sentiment": "악재",
+    "importance": 2,
+    "sectors": [
+      "패션/의류",
+      "전자상거래",
+      "소매"
+    ],
+    "keywords": [
+      "Shein",
+      "패스트패션",
+      "IPO",
+      "전자상거래",
+      "성장둔화"
+    ],
+    "reason": "Shein의 IPO 난항은 패스트패션 및 저가 전자상거래 섹터 내 경쟁 심화와 비용 압박 증가를 시사한다. 이는 해당 섹터 기업들의 성장성 및 수익성에 대한 우려를 높일 수 있다.",
+    "action_point": "글로벌 패스트패션 및 저가 전자상거래 관련 기업 투자 비중 축소를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "Stock futures are little changed as traders await August jobs report: Live updates",
     "title_ko": "8월 고용보고서 대기 속 주식 선물 소폭 변동: 실시간 업데이트",
     "link": "https://www.cnbc.com/2026/09/03/stock-market-today-live-updates.html",
@@ -2781,175 +2965,5 @@
     ],
     "reason": "프랑스의 차입 비용 상승은 유로존 전반의 재정 건전성 우려를 증폭시키며, 이는 유럽 금융 시장의 불안정성을 고조시키고 유로화 약세 압력을 가중시킬 수 있습니다. 특히 프랑스 재정 악화는 유럽 연합 내 안정성 메커니즘에 대한 신뢰를 약화시킬 위험이 있습니다.",
     "action_point": "유로존 자산 비중 축소를 검토하고, 달러 및 안전 자산에 대한 배분 확대를 고려하십시오."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "BYD shares slide as fierce China competition dents first-half earnings",
-    "title_ko": "BYD 주가, 중국 내 치열한 경쟁으로 상반기 실적 하락에 급락",
-    "link": "https://www.cnbc.com/2026/08/31/byd-shares-slide-as-fierce-china-competition-dents-first-half-earnings.html",
-    "published": "Mon, 31 Aug 2026 04:01:47 GMT",
-    "fetched_at": "2026-08-31 15:25:45",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "전기차",
-      "자동차",
-      "배터리"
-    ],
-    "keywords": [
-      "BYD",
-      "중국 전기차 시장",
-      "경쟁 심화",
-      "실적 부진"
-    ],
-    "reason": "BYD의 실적 부진은 중국 전기차 시장의 과열된 경쟁 심화를 시사하며, 이는 글로벌 전기차 제조사 및 배터리 공급사의 수익성 압박으로 이어질 수 있습니다.",
-    "action_point": "중국 시장 의존도가 높은 전기차 및 배터리 섹터 기업의 마진 하락 가능성에 대비하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Stock futures fall after U.S. strikes Iran; Wall Street heads for winning month: Live updates",
-    "title_ko": "미국, 이란 공습 후 주가지수 선물 하락; 월스트리트, 월간 상승세 예상: 실시간 업데이트",
-    "link": "https://www.cnbc.com/2026/08/30/stock-market-today-live-updates.html",
-    "published": "Sun, 30 Aug 2026 23:36:35 GMT",
-    "fetched_at": "2026-08-31 09:02:35",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "에너지",
-      "국방",
-      "항공우주",
-      "기술주"
-    ],
-    "keywords": [
-      "미국-이란 갈등",
-      "지정학적 리스크",
-      "주식 선물",
-      "유가",
-      "안전자산"
-    ],
-    "reason": "미국의 이란 공습은 중동 지역의 지정학적 긴장을 고조시키며, 이는 국제 유가 상승 및 전반적인 시장의 위험 회피 심리를 자극하여 주식 시장에 하방 압력을 가할 것입니다.",
-    "action_point": "미국-이란 갈등 고조로 인한 시장 변동성 확대에 대비하여 위험 자산 비중을 축소하고, 안전 자산(금, 달러) 및 에너지 관련 자산 편입을 고려하십시오."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "與 \"실용·실력 중심 인사\"…野 \"경제 정책 불변 선언\" - 연합뉴스TV",
-    "title_ko": "與 \"실용·실력 중심 인사\"…野 \"경제 정책 불변 선언\"",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBuLTk3U0VDMm1LZUtjejdKYW1EVUZjOUpGUGs3UDRuU3ZpYWhKNVpZLVZDRG5wWXJ1UmFGbUNOc04zVmJfWTVONklMOGZPM1daVTlZcjJndzdIRVpYTE9GdFkwbmtZcHM?oc=5",
-    "published": "Sun, 30 Aug 2026 20:17:00 GMT",
-    "fetched_at": "2026-08-31 09:02:55",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "국내 경기 민감주",
-      "정부 정책 관련 산업"
-    ],
-    "keywords": [
-      "인사",
-      "경제 정책",
-      "여당",
-      "야당",
-      "정치"
-    ],
-    "reason": "여당의 실용 인사 기조와 야당의 현 경제 정책 유지 비판은 정치적 불확실성을 시사하나, 즉각적인 정책 변화가 아니므로 시장에 미치는 직접적 영향은 제한적이다.",
-    "action_point": "현 경제 정책 방향의 불확실성을 고려하여 국내 경기 민감 섹터 비중 확대 유보."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Icelanders reject reopening talks to join the EU despite Trump's Greenland threats",
-    "title_ko": "아이슬란드 국민, 트럼프의 그린란드 위협에도 불구하고 EU 가입 재협상 거부",
-    "link": "https://www.cnbc.com/2026/08/30/iceland-eu-accession-referendum-result.html",
-    "published": "Sun, 30 Aug 2026 12:32:44 GMT",
-    "fetched_at": "2026-08-31 09:02:22",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "해당 없음"
-    ],
-    "keywords": [
-      "아이슬란드",
-      "EU",
-      "그린란드",
-      "트럼프"
-    ],
-    "reason": "아이슬란드의 EU 가입 재협상 거부는 해당 국가의 국내 정치적 결정으로, 글로벌 금융 시장에 미치는 직접적인 영향은 매우 제한적입니다. 트럼프의 그린란드 관련 언급은 외교적 이슈이나, 아이슬란드 투표 결과 자체는 글로벌 자산 포트폴리오에 유의미한 변화를 주지 않습니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "U.S. strikes Iranian rocket launchers near Strait of Hormuz",
-    "title_ko": "미국, 호르무즈 해협 인근 이란 로켓 발사대 공격",
-    "link": "https://www.cnbc.com/2026/08/30/us-iran-strikes-strait-hormuz.html",
-    "published": "Sun, 30 Aug 2026 21:32:59 GMT",
-    "fetched_at": "2026-08-31 06:44:37",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "국방",
-      "해운"
-    ],
-    "keywords": [
-      "미국",
-      "이란",
-      "호르무즈 해협",
-      "지정학적 리스크",
-      "유가"
-    ],
-    "reason": "미국의 호르무즈 해협 인근 이란 공격은 중동의 지정학적 긴장을 고조시키며 글로벌 원유 공급망 리스크를 증대시킨다. 이는 유가 상승 압력과 시장 변동성 확대로 이어질 수 있다.",
-    "action_point": "원유 및 관련 에너지 자산 비중 확대를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Aon nears $17 billion deal to buy insurance broker USI, WSJ reports",
-    "title_ko": "Aon, 보험 중개업체 USI를 170억 달러에 인수 합병 임박 (WSJ 보도)",
-    "link": "https://www.cnbc.com/2026/08/30/aon-usi-17-billion-deal-talks.html",
-    "published": "Sun, 30 Aug 2026 20:46:12 GMT",
-    "fetched_at": "2026-08-31 06:44:46",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "보험",
-      "금융 서비스"
-    ],
-    "keywords": [
-      "Aon",
-      "USI",
-      "인수합병",
-      "보험 중개",
-      "사모펀드"
-    ],
-    "reason": "보험 중개업계 내 대규모 M&A로, 산업 내 통합과 선두 기업의 시장 지배력 강화 추세를 보여줍니다. Aon의 사업 확장 및 효율성 증대에는 긍정적이나, 거시 경제 전반에 미치는 영향은 제한적입니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "“임원 달고 이 정도는 기본”…삼성·SK 주식 부자 400명 육박",
-    "title_ko": "“임원 달고 이 정도는 기본”…삼성·SK 주식 부자 400명 육박",
-    "link": "https://www.mk.co.kr/news/business/12140023",
-    "published": "Mon, 31 Aug 2026 06:15:15 +09:00",
-    "fetched_at": "2026-08-31 06:45:00",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "반도체",
-      "IT",
-      "전자"
-    ],
-    "keywords": [
-      "삼성전자",
-      "SK하이닉스",
-      "임원",
-      "주식 보유",
-      "내부자"
-    ],
-    "reason": "주요 반도체/IT 기업 임원들의 높은 주식 보유는 해당 기업의 장기적인 성장 및 주주가치 제고에 대한 내부자들의 자신감을 반영하는 지표로 해석될 수 있습니다.",
-    "action_point": "삼성전자 및 SK하이닉스의 주가 하방 경직성 및 장기 성장 잠재력 재평가."
   }
 ]
