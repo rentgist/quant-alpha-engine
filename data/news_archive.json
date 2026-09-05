@@ -1,5 +1,54 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Trump’s state capitalism comes to the oil industry with his unprecedented Venezuela deal",
+    "title_ko": "트럼프의 국가자본주의가 전례 없는 베네수엘라 딜로 석유 산업에 상륙하다",
+    "link": "https://www.cnbc.com/2026/09/05/trump-venezuela-oil-north-america-blue-energy-partners-nabep.html",
+    "published": "Sat, 05 Sep 2026 15:11:03 GMT",
+    "fetched_at": "2026-09-06 08:28:10",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "원유",
+      "에너지",
+      "정유",
+      "방산"
+    ],
+    "keywords": [
+      "트럼프",
+      "베네수엘라",
+      "원유",
+      "국가자본주의",
+      "지정학"
+    ],
+    "reason": "미국이 베네수엘라 석유 산업에 국가자본주의적 방식으로 개입하는 전례 없는 딜은 글로벌 원유 공급망과 가격에 중대한 불확실성을 가중시킬 것입니다. 이는 지정학적 리스크를 심화시키고 에너지 시장의 변동성을 크게 확대할 수 있습니다.",
+    "action_point": "글로벌 원유 공급 변화 및 지정학적 리스크 확대를 고려하여 에너지 관련 투자 비중을 재검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "트럼프 \"이란 전쟁은 사소한 일\"...미 \"한국 파병 기다리는 중\" - YTN",
+    "title_ko": "트럼프 \"이란 전쟁은 사소한 일\"...미 \"한국 파병 기다리는 중\"",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE04RGhyU1I2cTNWTFNWbktoTW92b1ZPVXlEM25CMzlDUVpLMjhpdGNnMjNUZnZzRExPTktqS3pVWXVqT3IwdXozX3JXMzdmSnM4VFBBMTNGTUs4cGNKVHc?oc=5",
+    "published": "Sat, 05 Sep 2026 12:28:00 GMT",
+    "fetched_at": "2026-09-06 08:28:24",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "방산",
+      "해운"
+    ],
+    "keywords": [
+      "트럼프",
+      "이란",
+      "한국 파병",
+      "지정학"
+    ],
+    "reason": "트럼프의 이란 전쟁 관련 발언은 중동 지정학적 리스크 완화 기대를 주지만, 한국의 중동 파병 가능성은 국내 방산 분야에 잠재적 영향을 미치고 지정학적 부담을 높일 수 있습니다.",
+    "action_point": "국내 방산 섹터 내 중동 지정학적 리스크 노출 및 잠재적 수혜 기업을 분석하라."
+  },
+  {
     "source": "Maeil_Business",
     "market": "KR",
     "title": "“주식 계좌만 보면 잠도 안온다”…예적금으로 다시 ‘머니무브’",
@@ -2909,59 +2958,5 @@
     ],
     "reason": "정부 경제·부동산 정책을 총괄하는 고위 인사의 사퇴와 라인 전면 교체는 향후 정책 기조의 변화를 예고하며 관련 시장에 불확실성을 증대시킬 수 있습니다. 특히 국내 부동산 시장에 미칠 영향이 주목됩니다.",
     "action_point": "새롭게 구성될 경제·부동산 정책 라인의 방향성을 면밀히 파악하고, 그에 따라 부동산 및 건설 섹터 비중 조정을 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Global bond yields soar to multi-decade highs as Middle East turmoil reignites inflation fears",
-    "title_ko": "중동 불안 고조로 인플레이션 우려 재점화되며 글로벌 채권 금리 수십 년래 최고치 기록",
-    "link": "https://www.cnbc.com/2026/09/01/bond-yields-iran-inflation-treasurys-japan-uk.html",
-    "published": "Tue, 01 Sep 2026 09:44:21 GMT",
-    "fetched_at": "2026-09-01 19:47:31",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "주식시장 전반",
-      "성장주",
-      "부동산",
-      "에너지",
-      "항공/운송"
-    ],
-    "keywords": [
-      "채권 금리",
-      "인플레이션",
-      "중동",
-      "지정학적 위험",
-      "유가"
-    ],
-    "reason": "중동 지정학적 리스크가 유가 상승 및 인플레이션 우려를 재점화시키며 글로벌 채권 금리 상승을 야기, 이는 자산 전반의 할인율 상승으로 이어져 위험자산에 하방 압력을 가할 것입니다.",
-    "action_point": "글로벌 채권 시장 불안정성에 대비하여 포트폴리오의 안전자산 비중을 점검하고 금리 민감 자산 비중 축소를 검토하십시오."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "A rerun of the 1997 Asian Financial Crisis? HSBC's chief economist sees significant similarities",
-    "title_ko": "1997년 아시아 금융위기의 재현인가? HSBC 수석 이코노미스트, 상당한 유사점 지적",
-    "link": "https://www.cnbc.com/2026/09/01/asian-financial-crisis-1997-parallels-ai-demand-hsbc.html",
-    "published": "Tue, 01 Sep 2026 09:58:47 GMT",
-    "fetched_at": "2026-09-01 19:48:13",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "금융",
-      "기술",
-      "신흥국"
-    ],
-    "keywords": [
-      "아시아 금융위기",
-      "1997년",
-      "HSBC",
-      "미국 채권 수익률",
-      "엔화 약세",
-      "기술 낙관론",
-      "신흥국 리스크"
-    ],
-    "reason": "HSBC 이코노미스트가 1997년 아시아 금융위기 직전과 유사한 거시경제 환경(미국 채권 금리 급등, 엔화 약세)을 지적하며 신흥국 금융 불안정성 확산 가능성을 경고, 아시아 신흥국 자산 투자 심리 위축이 예상됩니다.",
-    "action_point": "아시아 신흥국 자산 비중 축소 및 달러 등 안전자산 보유 확대 검토"
   }
 ]
