@@ -2,6 +2,55 @@
   {
     "source": "GoogleNews_Korea",
     "market": "KR",
+    "title": "[경제뭔데]9월 코스피는 원래 잔인했다지만, 미국 중간선거가 코스피를 살릴 수 있을까 - 경향신문",
+    "title_ko": "[경제뭔데]9월 코스피는 원래 잔인했다지만, 미국 중간선거가 코스피를 살릴 수 있을까 - 경향신문",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFd1NsX3RpVm5ER0N4b3hIOUc5UlZuU1JfbTdURzNfTzlRZy1ZWHdUT1FUSkZzaW8yeUU2MHRXMVFqd0M1OEs5WjRTVWtsU3hVZnpYclpFNmtRd9IBX0FVX3lxTE1QdHlzdXp6YjNJdlhXamlBVmdkMDNzS3R1MFZqOVBxSWZPM09ra25tYnh6eFEwWU5mUTZKUEZIaVdQQ016ZDFwZU9wbXBxQVVlS09pSkFwTVZMVG5leWpv?oc=5",
+    "published": "Fri, 04 Sep 2026 21:00:00 GMT",
+    "fetched_at": "2026-09-05 11:02:51",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "주식",
+      "금융",
+      "글로벌 경제",
+      "정치"
+    ],
+    "keywords": [
+      "KOSPI",
+      "미국 중간선거",
+      "증시 전망",
+      "9월 효과"
+    ],
+    "reason": "미국 중간선거 결과는 향후 미국 정책 방향을 결정하며 글로벌 경제 및 무역 환경에 큰 영향을 미쳐 코스피를 포함한 국내 증시의 투자심리에 직접적인 영향을 미칠 수 있습니다.",
+    "action_point": "미국 중간선거 결과에 따른 정책 변화 가능성을 주시하며 포트폴리오의 업종 및 지역별 배분 전략을 재검토해야 합니다."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Tesla's stock drops 6% as Cybercab update 'underwhelms' Wall Street",
+    "title_ko": "테슬라 주가 6% 하락, '사이버캡' 업데이트 월가 실망시켜",
+    "link": "https://www.cnbc.com/2026/09/04/teslas-stock-drops-as-cybercab-update-underwhelms-nhtsa-probe.html",
+    "published": "Fri, 04 Sep 2026 20:06:13 GMT",
+    "fetched_at": "2026-09-05 11:02:43",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "전기차",
+      "기술주"
+    ],
+    "keywords": [
+      "테슬라",
+      "사이버캡",
+      "전기차",
+      "주가 하락",
+      "성장주"
+    ],
+    "reason": "테슬라의 핵심 신사업에 대한 시장 기대치 하회는 개별 기업 리스크를 부각시키며, 성장주 및 전기차 섹터 전반의 투자 심리에 부정적 영향을 미칠 수 있습니다.",
+    "action_point": "전기차 섹터 내 개별 성장주 투자 비중을 재점검하고, 기술 혁신 실패 리스크에 대비한 포트폴리오 조정을 고려하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
     "title": "트럼프 “이란 전쟁은 사소한 것”…한국 파병 검토엔 “기다리는 중” - v.daum.net",
     "title_ko": "트럼프 “이란 전쟁은 사소한 것”…한국 파병 검토엔 “기다리는 중”",
     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5SNHVxYVFjd3pPRTRNZ1p1bjd0S2xIdkV0SU10OEgwanFGZi1yYmgwY2FXbTJmaTh2aEVMWXNGU2dUNEw1M19oR2ItdUQ2ZGM?oc=5",
@@ -2918,53 +2967,5 @@
     ],
     "reason": "중동 지역에서의 이란과 미국 간 재충돌은 지정학적 리스크를 급격히 고조시키며, 주요 산유국의 불안정 심화로 국제 유가 상승 압력을 가하고 글로벌 공급망에 불확실성을 증대시킬 것입니다. 이는 시장 전반의 위험 회피 심리를 자극할 수 있습니다.",
     "action_point": "지정학적 리스크 고조와 유가 상승에 대비하여 에너지 및 방산 섹터 비중 확대를 검토하고, 위험자산 비중 축소를 통해 포트폴리오 방어력을 강화하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "G20 meeting live updates: Bessent, Warsh kick off summit with growth-focused remarks",
-    "title_ko": "G20 회의 실시간 업데이트: 베센트, 워시가 성장 중심 발언으로 정상회의 시작",
-    "link": "https://www.cnbc.com/2026/08/31/g20-finance-meeting-live-updates.html",
-    "published": "Mon, 31 Aug 2026 14:29:56 GMT",
-    "fetched_at": "2026-08-31 23:37:34",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "글로벌 경기민감주"
-    ],
-    "keywords": [
-      "G20",
-      "성장",
-      "글로벌 경제",
-      "재무장관 회의"
-    ],
-    "reason": "G20 재무장관 회의에서 성장 중심 발언이 나왔다는 것은 글로벌 정책 입안자들이 경기 부양을 우선시하고 있음을 시사한다. 이는 향후 정책 조율에 대한 초기 신호로 해석될 수 있으나, 구체적인 정책 발표 전까지는 시장에 미치는 직접적인 영향은 제한적이다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "India’s economy expands 7.8% in fiscal first quarter, beating estimates",
-    "title_ko": "인도 경제, 회계연도 1분기 7.8% 성장하여 예상치 상회",
-    "link": "https://www.cnbc.com/2026/08/31/india-economy-gdp-energy-el-nino.html",
-    "published": "Mon, 31 Aug 2026 11:23:42 GMT",
-    "fetched_at": "2026-08-31 23:37:57",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "인도 주식 시장",
-      "금융",
-      "IT",
-      "부동산",
-      "신흥시장 펀드"
-    ],
-    "keywords": [
-      "인도",
-      "경제 성장",
-      "예상치 상회",
-      "신흥시장"
-    ],
-    "reason": "인도의 견조한 경제 성장은 내수 서비스 부문의 강세에 힘입은 것으로, 인도가 주요 글로벌 성장 동력임을 재확인하며 신흥시장 전반에 대한 긍정적 투자 심리를 형성할 것입니다.",
-    "action_point": "인도 주식 시장 및 인도 비중이 높은 신흥국 펀드에 대한 투자 확대를 검토하라."
   }
 ]
