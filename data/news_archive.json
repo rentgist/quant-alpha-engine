@@ -1,5 +1,58 @@
 [
   {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "“주식 계좌만 보면 잠도 안온다”…예적금으로 다시 ‘머니무브’",
+    "title_ko": "“주식 계좌만 보면 잠도 안온다”…예적금으로 다시 ‘머니무브’",
+    "link": "https://www.mk.co.kr/news/economy/12145181",
+    "published": "Sun, 06 Sep 2026 06:04:11 +09:00",
+    "fetched_at": "2026-09-06 06:49:31",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "주식 시장 전반",
+      "은행",
+      "증권"
+    ],
+    "keywords": [
+      "머니무브",
+      "정기예금",
+      "코스피",
+      "박스권",
+      "주식시장",
+      "빚투"
+    ],
+    "reason": "국내 증시 부진 장기화로 투자자금이 예금으로 회귀하며 주식시장 유동성이 위축되어 추가 상승을 제한하고, 빚투 자금의 증가세는 시장의 취약성을 나타냅니다.",
+    "action_point": "국내 주식시장 유동성 위축에 대비하여 주식 비중을 보수적으로 유지하고, 예금 증가의 수혜를 입을 수 있는 국내 은행주에 대한 관심을 고려합니다."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "GM vs. Ford: U.S. defense, energy sectors add to automakers' century-old rivalry",
+    "title_ko": "GM 대 포드: 미국 국방 및 에너지 부문, 자동차 업계의 오랜 경쟁에 새로운 장을 열다",
+    "link": "https://www.cnbc.com/2026/09/05/gm-ford-defense-energy.html",
+    "published": "Sat, 05 Sep 2026 12:00:01 GMT",
+    "fetched_at": "2026-09-06 06:49:12",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "자동차",
+      "국방",
+      "에너지 저장",
+      "산업재"
+    ],
+    "keywords": [
+      "GM",
+      "포드",
+      "국방",
+      "에너지 저장",
+      "사업 다각화",
+      "자동차 산업"
+    ],
+    "reason": "주요 자동차 기업들이 국방 및 에너지 저장 등 신성장 동력 확보를 위해 사업 다각화를 추진 중임을 보여준다. 이는 전통 산업의 변화와 함께 관련 기술 및 소재 기업들에게 새로운 투자 기회를 제공할 수 있다.",
+    "action_point": "미국 방산 및 에너지 저장 산업의 밸류체인 내 잠재적 성장 기업을 주시하라."
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "U.S. attacks 3 Iranian oil tankers after missiles target Navy warships",
@@ -2910,58 +2963,5 @@
     ],
     "reason": "HSBC 이코노미스트가 1997년 아시아 금융위기 직전과 유사한 거시경제 환경(미국 채권 금리 급등, 엔화 약세)을 지적하며 신흥국 금융 불안정성 확산 가능성을 경고, 아시아 신흥국 자산 투자 심리 위축이 예상됩니다.",
     "action_point": "아시아 신흥국 자산 비중 축소 및 달러 등 안전자산 보유 확대 검토"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Tehran urges return to June deal, oil prices rise as Trump vows to hit Iran 'hard'",
-    "title_ko": "테헤란, 6월 협상 복귀 촉구; 트럼프의 이란 '강력 타격' 다짐에 유가 상승",
-    "link": "https://www.cnbc.com/2026/09/01/us-iran-war-trump-hormuz-tanker-attack-shipping-sanctions-.html",
-    "published": "Tue, 01 Sep 2026 09:40:28 GMT",
-    "fetched_at": "2026-09-01 19:47:45",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "방위산업",
-      "항공/운송",
-      "산업재"
-    ],
-    "keywords": [
-      "이란",
-      "미국",
-      "지정학적 리스크",
-      "유가",
-      "중동"
-    ],
-    "reason": "미국과 이란 간의 중동 지역 군사적 긴장 고조는 국제 유가를 상승시키고 지정학적 불확실성을 증폭시켜 글로벌 증시 전반에 하방 압력을 가할 수 있습니다.",
-    "action_point": "중동 지정학적 리스크 고조로 인한 유가 상승에 대비하여 에너지 섹터 비중 확대 및 달러 등 안전자산 보유를 검토하십시오."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Euro zone inflation is back above 3%. Higher interest rates are likely to follow",
-    "title_ko": "유로존 인플레이션 3% 재돌파, 추가 금리 인상 가능성 고조",
-    "link": "https://www.cnbc.com/2026/09/01/euro-zone-inflation-rate-hike.html",
-    "published": "Tue, 01 Sep 2026 09:56:12 GMT",
-    "fetched_at": "2026-09-01 19:47:56",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "금융",
-      "부동산",
-      "성장주"
-    ],
-    "keywords": [
-      "유로존 인플레이션",
-      "ECB",
-      "금리 인상",
-      "이란 전쟁",
-      "에너지 가격",
-      "유로화"
-    ],
-    "reason": "유로존 인플레이션 상승과 이란 전쟁으로 인한 에너지 비용 증가는 ECB의 금리 인상 압력을 높여 글로벌 유동성 축소와 경기 둔화 우려를 심화시킬 수 있습니다. 이는 주식 시장에 하방 압력으로 작용하며, 에너지 가격 변동성을 확대시킬 것입니다.",
-    "action_point": "유로존 금리 인상 압력 강화에 따라 금리 민감 자산 비중을 축소하고, 에너지 섹터 투자 비중 확대를 검토하라."
   }
 ]
