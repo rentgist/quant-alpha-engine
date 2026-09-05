@@ -1,5 +1,54 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Goldman Sachs says buy the dip in these five stocks before it's too late",
+    "title_ko": "골드만삭스, 늦기 전에 이 다섯 가지 주식 저점 매수 기회라고 조언",
+    "link": "https://www.cnbc.com/2026/09/05/buy-the-dip-in-these-five-stocks-before-its-too-late-goldman-says.html",
+    "published": "Sat, 05 Sep 2026 12:10:33 GMT",
+    "fetched_at": "2026-09-05 23:15:01",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "성장주",
+      "기술주"
+    ],
+    "keywords": [
+      "골드만삭스",
+      "저점 매수",
+      "주식 투자",
+      "월스트리트"
+    ],
+    "reason": "골드만삭스의 특정 주식에 대한 저점 매수 권고는 해당 기업들의 실적 개선 또는 주가 반등 가능성을 시사합니다. 이는 투자 심리에 긍정적 영향을 미칠 수 있으나, 거시 경제 전반에 미치는 영향은 제한적입니다.",
+    "action_point": "골드만삭스가 추천한 특정 종목들을 확인하고, 본인의 투자 기준에 부합하는지 분석하여 포트폴리오 편입을 검토하라."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Stocks making the biggest moves midday: Sandisk, Tesla, Lululemon, Quanex, AMC & more",
+    "title_ko": "장중 가장 큰 움직임을 보이는 주식들: 샌디스크, 테슬라, 룰루레몬, 쿼넥스, AMC 등",
+    "link": "https://www.cnbc.com/2026/09/04/stocks-making-the-biggest-moves-midday-sndk-tsla-nx-amc.html",
+    "published": "Fri, 04 Sep 2026 19:07:16 GMT",
+    "fetched_at": "2026-09-05 23:14:54",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "기술",
+      "소비재",
+      "반도체",
+      "자동차"
+    ],
+    "keywords": [
+      "개별주식",
+      "장중 변동성",
+      "테슬라",
+      "샌디스크",
+      "룰루레몬"
+    ],
+    "reason": "이 기사는 특정 개별 주식들의 장중 주가 변동성을 보고하는 것으로, 전반적인 시장 방향이나 거시 경제에 미치는 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "GoogleNews_Korea",
     "market": "KR",
     "title": "[속보]이란 “韓, 호르무즈 관여시 전쟁 직접 참여로 간주” - donga.com",
@@ -2909,54 +2958,5 @@
     ],
     "reason": "일본의 차입 비용 상승과 엔화 약세는 일본은행의 통화 정책 변화 및 외환 시장 개입 가능성을 시사하며, 이는 글로벌 자본 흐름과 아시아 통화 시장에 변동성을 야기할 수 있습니다.",
     "action_point": "일본 당국의 엔화 강세 개입 및 금리 인상 가능성을 감안, 엔화 및 국내 채권 시장 변동성에 대비하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Bessent reportedly tells Russia no economic relief until Ukraine war ends as Europe snubs Moscow at G20",
-    "title_ko": "베센트, 러시아에 우크라이나 전쟁 종료 전까지 경제적 지원 없다고 통보... 유럽은 G20에서 모스크바 외면",
-    "link": "https://www.cnbc.com/2026/09/01/bessent-russia-ukraine-war-sanctions-war-g20-.html",
-    "published": "Tue, 01 Sep 2026 03:22:56 GMT",
-    "fetched_at": "2026-09-01 19:48:35",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "방산",
-      "원자재"
-    ],
-    "keywords": [
-      "러시아-우크라이나 전쟁",
-      "경제 제재",
-      "G20",
-      "지정학적 리스크"
-    ],
-    "reason": "미국과 유럽이 우크라이나 전쟁 종료 전까지 러시아에 대한 경제적 압박을 지속하겠다는 입장을 재확인하여 지정학적 긴장과 제재가 장기화될 것임을 시사한다. 이는 글로벌 에너지 및 원자재 시장에 지속적인 변동성과 상승 압력으로 작용할 것이다.",
-    "action_point": "에너지 및 원자재 관련 자산의 변동성 확대 및 상승 압력 지속에 대비하여 포트폴리오를 점검하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Indian Prime Minister Modi asks Putin to end Ukraine war amid U.S. tariff threat on Russian oil",
-    "title_ko": "인도 모디 총리, 미국발 러시아산 원유 관세 위협 속 푸틴에 우크라이나 전쟁 종식 촉구",
-    "link": "https://www.cnbc.com/2026/09/01/russia-india-ukraine-war-oil-modi-putin.html",
-    "published": "Tue, 01 Sep 2026 06:23:21 GMT",
-    "fetched_at": "2026-09-01 19:48:45",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "방산"
-    ],
-    "keywords": [
-      "우크라이나 전쟁",
-      "러시아",
-      "인도",
-      "미국",
-      "원유",
-      "지정학"
-    ],
-    "reason": "인도의 참전 종식 촉구는 러시아에 대한 국제적 압력이 증대되고 있음을 시사하며, 이는 향후 에너지 시장 안정화 및 지정학적 리스크 완화에 기여할 가능성이 있다.",
-    "action_point": "글로벌 지정학적 리스크 완화 가능성을 주시하며 방산 및 에너지 섹터 비중 조정 전략을 검토한다."
   }
 ]
