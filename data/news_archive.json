@@ -2,6 +2,58 @@
   {
     "source": "GoogleNews_Korea",
     "market": "KR",
+    "title": "고민 커진 호르무즈 파병, 이란 “전쟁 참여 간주” - 동아일보",
+    "title_ko": "고민 커진 호르무즈 파병, 이란 “전쟁 참여 간주”",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE10RWVxVnZLWGVLc1p2THg2V1YwMExYQkVjaHBfNG9XY0pJcHlyM0hFVzZLRC1hUmg5TTltSHBmaUl6VldJbWJhMkFVN2IyeHVRMGk4Q2NBaXBhVkg0UEpZc2QzQ05mVFJYVTJJSEVjblpmM3lhdUpZ0gFmQVVfeXFMTk1IVzNMbmlRSFlRaVd3eEV4bk5QTGZVTS1acDN0Zk1FOXBkSjh6UzVnZ0RHaUllZTQ2RlBZSS1xWVFkRHd6SExvUlhGZFZyelVTVjBfYk5xRG5yTnBGY0dFOURER25B?oc=5",
+    "published": "Sun, 06 Sep 2026 19:30:00 GMT",
+    "fetched_at": "2026-09-07 04:46:42",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "원자재",
+      "정유",
+      "해운",
+      "방산",
+      "항공"
+    ],
+    "keywords": [
+      "호르무즈 해협",
+      "이란",
+      "지정학적 리스크",
+      "유가",
+      "원유 공급망"
+    ],
+    "reason": "이란의 호르무즈 해협 파병 관련 경고는 중동 지정학적 리스크를 최고조로 끌어올리며, 글로벌 원유 공급망 불안정성 증대로 유가 급등 압력을 가할 것입니다. 이는 전반적인 인플레이션 우려를 심화시키고 위험 자산 회피 심리를 부추길 수 있습니다.",
+    "action_point": "중동 지정학적 리스크 심화에 따른 유가 급등 가능성에 대비하여 방산 및 에너지 관련 자산 비중 확대를 검토하십시오."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "이란유조선 타격, 미군함에 보복공격…미궁속 전쟁, 끝이 안보인다",
+    "title_ko": "이란유조선 타격, 미군함에 보복공격…미궁속 전쟁, 끝이 안보인다",
+    "link": "https://www.mk.co.kr/news/economy/12145635",
+    "published": "Sun, 06 Sep 2026 23:34:40 +09:00",
+    "fetched_at": "2026-09-07 04:46:51",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "에너지",
+      "방산",
+      "해운",
+      "항공"
+    ],
+    "keywords": [
+      "이란-미국 갈등",
+      "지정학적 리스크",
+      "유가",
+      "중동 불안"
+    ],
+    "reason": "미국과 이란 간 군사적 충돌 및 위협 고조는 중동 지역의 지정학적 불안정성을 심화시켜 글로벌 원유 공급 차질 및 유가 상승 압력을 가중시키고, 전반적인 시장 위험 회피 심리를 자극할 것입니다.",
+    "action_point": "고유가 및 지정학적 리스크 증가에 대비하여 에너지/방산 관련주 및 금 비중 확대를 고려하고, 위험자산 비중을 재검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
     "title": "[이철재의 시시각각] 한국에 날아온 두 전쟁의 청구서 - v.daum.net",
     "title_ko": "[이철재의 시시각각] 한국에 날아온 두 전쟁의 청구서",
     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5hS3RIckJnQmZDOVluMDFscE82SUd5Y0d1TVg4MXZuOUtoWU1GbDFINVB1MUtyVmE4TUdnZno2UHZmbll0VUZaTVdiUlU2TUE?oc=5",
@@ -2915,56 +2967,5 @@
     ],
     "reason": "비거주 1주택자에 대한 종부세 완화 기조는 정부의 부동산 세금 부담 완화 의지를 보여주며, 부동산 시장 전반의 투자 심리 개선에 긍정적으로 작용할 수 있습니다.",
     "action_point": "비거주 주택 관련 세금 정책 변화가 국내 부동산 시장 전반의 투자심리에 미칠 영향을 분석하고, 관련 부동산 자산 투자 비중 확대를 검토하십시오."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "New York Fed's Williams says yield surge due to strong economic prospects",
-    "title_ko": "뉴욕 연은 윌리엄스 총재, 채권 금리 급등은 강력한 경제 전망 때문",
-    "link": "https://www.cnbc.com/2026/09/02/new-york-feds-williams-says-yield-surge-due-to-strong-economic-prospects.html",
-    "published": "Wed, 02 Sep 2026 15:56:13 GMT",
-    "fetched_at": "2026-09-03 01:55:42",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "금융",
-      "경기민감주",
-      "채권"
-    ],
-    "keywords": [
-      "뉴욕 연은",
-      "윌리엄스",
-      "채권 금리",
-      "경제 전망",
-      "연준",
-      "금리 인상"
-    ],
-    "reason": "뉴욕 연은 총재의 발언은 채권 금리 상승이 강력한 경제 전망에 기반하며, 이는 향후 연준의 매파적 스탠스 유지 가능성과 금리 인상에 대한 여지를 남깁니다. 장기적으로 기업 이익에는 긍정적이나, 금리 민감 자산에는 부담 요인이 될 수 있습니다.",
-    "action_point": "채권 포트폴리오의 듀레이션을 단축하고, 금리 인상 수혜가 예상되는 금융주 및 경기민감 가치주 섹터에 대한 관심을 높여라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "G20 live updates: Alberta premier pushes back on Lutnick's Canada barb",
-    "title_ko": "G20 실시간 업데이트: 앨버타 주지사, 럿닉의 캐나다 비난 발언에 반박",
-    "link": "https://www.cnbc.com/2026/09/02/g20-innovation-ministerial-live-updates.html",
-    "published": "Wed, 02 Sep 2026 16:06:07 GMT",
-    "fetched_at": "2026-09-03 01:56:15",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "기술",
-      "반도체",
-      "소프트웨어"
-    ],
-    "keywords": [
-      "G20",
-      "AI",
-      "혁신",
-      "정책",
-      "기술"
-    ],
-    "reason": "G20 혁신 장관회의에서 AI, 정책, 무역 등 핵심 기술 의제가 논의되어, AI 및 관련 기술 섹터의 장기 성장 잠재력과 규제 환경 변화를 시사한다.",
-    "action_point": "G20에서 논의되는 AI 및 기술 정책 방향성을 면밀히 분석하고, 관련 기술 섹터의 장기 투자 전략을 재검토하여 포트폴리오 비중을 조절하라."
   }
 ]
