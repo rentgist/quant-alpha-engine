@@ -2,6 +2,78 @@
   {
     "source": "GoogleNews_Korea",
     "market": "KR",
+    "title": "\"전쟁 아니다\" 축소 급급...백악관 통제 벗어난 호르무즈 - YTN",
+    "title_ko": "\"전쟁 아니다\" 축소 급급...백악관 통제 벗어난 호르무즈",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nZnhnN1N6MmFpclV3aDlyaWZuX3E2MDFncFo5WXJNakpaTUxxY00wV1lQVVFqekxMN3JHRWpyQW16aVplRnpSZVpHUUJxUW5PSG9kUWNHWGV6X3cwaVE?oc=5",
+    "published": "Sun, 06 Sep 2026 15:13:00 GMT",
+    "fetched_at": "2026-09-07 06:51:47",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "해운",
+      "방산"
+    ],
+    "keywords": [
+      "호르무즈 해협",
+      "유가",
+      "지정학적 리스크",
+      "중동"
+    ],
+    "reason": "호르무즈 해협의 지정학적 긴장 고조는 원유 공급 불안정성을 높여 국제 유가 및 해상 운임 상승 압력으로 작용하며, 전반적인 시장 불확실성을 증대시킬 수 있습니다.",
+    "action_point": "유가 상승 및 시장 변동성 확대에 대비하여 에너지 관련 자산 비중 확대 또는 원유 선물 매입 검토."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Amazon cargo plane crashes after overrunning runway, closing Miami airport on busy holiday weekend",
+    "title_ko": "아마존 화물기 활주로 이탈 후 추락, 연휴 주말 마이애미 공항 폐쇄",
+    "link": "https://www.cnbc.com/2026/09/06/amazon-cargo-plane-overrunns-runway-at-miami-international-airport.html",
+    "published": "Sun, 06 Sep 2026 21:09:52 GMT",
+    "fetched_at": "2026-09-07 06:51:35",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "항공 운송",
+      "물류"
+    ],
+    "keywords": [
+      "아마존",
+      "화물기",
+      "마이애미 공항",
+      "운송 지연"
+    ],
+    "reason": "이 사건은 아마존 및 마이애미 공항의 일시적인 운영 차질과 항공 화물 운송 지연을 야기하지만, 광범위한 거시 경제나 시장 전반에 미칠 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "제주서 '순환경제 2.0’ 논의…국제환경포럼 10일 개막 - 환경포커스",
+    "title_ko": "제주서 '순환경제 2.0’ 논의…국제환경포럼 10일 개막",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5vVmhudDhJTEVJcUd2R0FkZEFNZW03MmhEbEpXd29qOVJpSWFNVEZjSkRVNDZTZXBiSWZ6RmJ5amRSdDJPZi12cXl1amNwaWFPRjJHckl3OU13S0lnbkNOd2padw?oc=5",
+    "published": "Sun, 06 Sep 2026 20:53:29 GMT",
+    "fetched_at": "2026-09-07 06:51:54",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "환경",
+      "폐기물 처리",
+      "재생 에너지",
+      "ESG 관련 산업"
+    ],
+    "keywords": [
+      "순환경제",
+      "환경포럼",
+      "지속가능성",
+      "ESG"
+    ],
+    "reason": "국제 환경 포럼에서 순환경제 2.0이 논의되는 것은 장기적으로 환경 산업의 투자 및 정책 방향에 영향을 미칠 수 있으나, 단기적인 거시경제나 시장 전반에 미치는 직접적인 영향은 제한적이다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
     "title": "고민 커진 호르무즈 파병, 이란 “전쟁 참여 간주” - 동아일보",
     "title_ko": "고민 커진 호르무즈 파병, 이란 “전쟁 참여 간주”",
     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE10RWVxVnZLWGVLc1p2THg2V1YwMExYQkVjaHBfNG9XY0pJcHlyM0hFVzZLRC1hUmg5TTltSHBmaUl6VldJbWJhMkFVN2IyeHVRMGk4Q2NBaXBhVkg0UEpZc2QzQ05mVFJYVTJJSEVjblpmM3lhdUpZ0gFmQVVfeXFMTk1IVzNMbmlRSFlRaVd3eEV4bk5QTGZVTS1acDN0Zk1FOXBkSjh6UzVnZ0RHaUllZTQ2RlBZSS1xWVFkRHd6SExvUlhGZFZyelVTVjBfYk5xRG5yTnBGY0dFOURER25B?oc=5",
@@ -2901,71 +2973,5 @@
     ],
     "reason": "버크셔의 고위 임원이 일본 채권 시장의 안정성을 언급하며, 현재 낮은 금리가 금융 시장에 큰 부담이 되지 않는다고 평가했다. 이는 일본발 금융 시장 불안정성에 대한 우려를 완화하고 투자 심리에 긍정적인 영향을 미칠 수 있다.",
     "action_point": "일본 채권 시장 불안정성에 대한 즉각적 우려 감소로, 위험 자산 비중 유지 또는 소폭 확대를 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "AI trade faces test with next week's Oracle earnings",
-    "title_ko": "다음 주 오라클 실적 발표에 AI 관련 거래 시험대 오르다",
-    "link": "https://www.cnbc.com/2026/09/02/ai-trade-faces-test-with-next-weeks-oracle-earnings.html",
-    "published": "Wed, 02 Sep 2026 17:57:04 GMT",
-    "fetched_at": "2026-09-03 04:34:02",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "기술",
-      "소프트웨어",
-      "인공지능"
-    ],
-    "keywords": [
-      "AI",
-      "오라클",
-      "실적",
-      "기술주"
-    ],
-    "reason": "오라클의 실적은 현재 시장을 주도하는 AI 관련 투자 심리에 영향을 미칠 수 있으며, 기술주 전반의 단기적인 방향성을 가늠하는 지표가 될 수 있습니다.",
-    "action_point": "AI 관련 기술주 포트폴리오 비중을 점검하고, 오라클 실적 발표 전후 시장 반응을 주시하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "States now must report undocumented immigrants to DHS or risk federal funding, DOJ says",
-    "title_ko": "미국 법무부, 주정부에 불법 이민자 보고 의무화 및 연방 지원금 박탈 가능성 경고",
-    "link": "https://www.cnbc.com/2026/09/02/doj-states-undocumented-immigrants-dhs-funds.html",
-    "published": "Wed, 02 Sep 2026 18:25:42 GMT",
-    "fetched_at": "2026-09-03 04:33:46",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [],
-    "keywords": [
-      "미국",
-      "이민 정책",
-      "연방 지원금",
-      "주정부",
-      "사회복지"
-    ],
-    "reason": "미국 주정부에 대한 불법 이민자 보고 의무화 정책은 연방 지원금과 연결되어 미국 내 정치적 및 사회적 이슈로 작용할 것이나, 국제 자산 시장에 미칠 직접적인 거시경제적 영향은 제한적이다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "이 대통령 “비거주 1주택 종부세 과하대서 원복…입장 바꾸는게 부정의냐”",
-    "title_ko": "이 대통령 “비거주 1주택 종부세 과하대서 원복…입장 바꾸는게 부정의냐”",
-    "link": "https://www.mk.co.kr/news/politics/12142831",
-    "published": "Wed, 02 Sep 2026 22:44:00 +09:00",
-    "fetched_at": "2026-09-03 04:34:13",
-    "sentiment": "호재",
-    "importance": 2,
-    "sectors": [
-      "부동산"
-    ],
-    "keywords": [
-      "종부세",
-      "부동산 정책",
-      "세금 완화"
-    ],
-    "reason": "비거주 1주택자에 대한 종부세 완화 기조는 정부의 부동산 세금 부담 완화 의지를 보여주며, 부동산 시장 전반의 투자 심리 개선에 긍정적으로 작용할 수 있습니다.",
-    "action_point": "비거주 주택 관련 세금 정책 변화가 국내 부동산 시장 전반의 투자심리에 미칠 영향을 분석하고, 관련 부동산 자산 투자 비중 확대를 검토하십시오."
   }
 ]
