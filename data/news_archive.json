@@ -2,6 +2,27 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "Trump’s first major midterm money move: A $10 million Texas Senate ad blitz",
+    "title_ko": "트럼프, 중간선거 앞두고 텍사스 상원 광고에 1천만 달러 투입하며 첫 대규모 자금 집행",
+    "link": "https://www.cnbc.com/2026/09/05/trumps-first-major-midterm-spend-is-10-million-texas-senate-ad-blitz.html",
+    "published": "Sat, 05 Sep 2026 22:30:25 GMT",
+    "fetched_at": "2026-09-06 15:49:44",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [],
+    "keywords": [
+      "트럼프",
+      "중간선거",
+      "선거 자금",
+      "공화당",
+      "텍사스 상원"
+    ],
+    "reason": "이 뉴스는 미국 중간선거를 앞둔 트럼프 전 대통령의 선거 자금 집행을 보도한다. 현재 경제 펀더멘털이나 통화 정책, 기업 실적에 직접적인 영향을 주지 않아 거시 경제적 영향은 제한적이다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "Trump turns up the heat on Warsh as Fed rate hike looms",
     "title_ko": "트럼프, 연준 금리 인상 임박 속 워시에 대한 압박 강화",
     "link": "https://www.cnbc.com/2026/09/05/trump-warsh-fed-september-rate-hike.html",
@@ -2934,29 +2955,5 @@
     ],
     "reason": "예측 시장에서 8월 고용 지표의 반등 가능성을 50%로 점치고 있어, 이는 미국 경제의 회복 탄력성을 시사하며 주식 시장 전반에 긍정적입니다. 다만, 견조한 고용은 연준의 매파적 스탠스 장기화 우려를 키워 금리 상승 압력으로 작용할 수 있습니다.",
     "action_point": "미국 고용지표 발표 시 시장 변동성 확대 가능성에 대비하여 금리 인상에 덜 민감한 가치주/고배당주 비중을 유지하고 성장주 투자 비중을 재검토하라."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Fed Governor Barr says he'll support rate hike if inflation doesn't ease",
-    "title_ko": "연준 이사 바, 인플레이션 완화 안 되면 금리 인상 지지할 것",
-    "link": "https://www.cnbc.com/2026/09/01/fed-governor-barr-says-hell-support-rate-hike-if-inflation-doesnt-ease.html",
-    "published": "Tue, 01 Sep 2026 14:01:27 GMT",
-    "fetched_at": "2026-09-02 00:19:00",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "기술주",
-      "부동산",
-      "성장주"
-    ],
-    "keywords": [
-      "연준",
-      "인플레이션",
-      "금리 인상",
-      "통화 긴축"
-    ],
-    "reason": "연준 고위 관계자의 매파적 발언은 인플레이션이 목표치를 웃돌 경우 추가 금리 인상이 가능함을 시사하며, 이는 고금리 장기화 우려를 높여 자본 조달 비용 증가 및 경제 성장 둔화 압력을 가중시킵니다.",
-    "action_point": "금리 민감도가 높은 성장주 비중 축소 검토"
   }
 ]
