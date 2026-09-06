@@ -1,5 +1,104 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[이철재의 시시각각] 한국에 날아온 두 전쟁의 청구서 - v.daum.net",
+    "title_ko": "[이철재의 시시각각] 한국에 날아온 두 전쟁의 청구서",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5hS3RIckJnQmZDOVluMDFscE82SUd5Y0d1TVg4MXZuOUtoWU1GbDFINVB1MUtyVmE4TUdnZno2UHZmbll0VUZaTVdiUlU2TUE?oc=5",
+    "published": "Sun, 06 Sep 2026 15:22:08 GMT",
+    "fetched_at": "2026-09-07 02:25:57",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "운송/물류",
+      "제조업",
+      "금융"
+    ],
+    "keywords": [
+      "지정학",
+      "인플레이션",
+      "에너지 가격",
+      "공급망",
+      "금리"
+    ],
+    "reason": "글로벌 두 전쟁(우크라이나, 중동)으로 인한 고유가 및 공급망 불안정은 한국 경제에 높은 에너지 비용, 물가 상승 압력, 그리고 잠재적인 금리 인상 요인으로 작용하여 전반적인 경제 부담을 가중시킬 것입니다.",
+    "action_point": "고유가 및 고금리 장기화에 대비하여 방어적 자산 비중을 확대하고 에너지 의존도가 높은 섹터 비중 축소를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace",
+    "title_ko": "AI 연구소들이 맹렬한 속도로 새 버전 출시 경쟁을 벌이면서 '모델 피로감'이 가중된다",
+    "link": "https://www.cnbc.com/2026/09/06/meta-google-openai-anthropic-ai-model-fatigue.html",
+    "published": "Sun, 06 Sep 2026 12:13:49 GMT",
+    "fetched_at": "2026-09-07 02:25:41",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "AI",
+      "반도체",
+      "클라우드 컴퓨팅"
+    ],
+    "keywords": [
+      "AI",
+      "반도체",
+      "엔비디아",
+      "기술 경쟁",
+      "모델 업데이트"
+    ],
+    "reason": "주요 AI 기업들의 신규 모델 출시와 엔비디아의 전략적 인수는 AI 분야의 혁신 및 경쟁 심화를 보여주며, 이는 관련 기술주 투자 심리 강화와 장기적 생산성 향상 기대감을 높인다.",
+    "action_point": "AI 인프라 및 핵심 기술 보유 기업들의 실적 개선 여부 주시 및 관련 섹터 비중 유지 검토."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "SEC sues ISS as Trump administration ramps up scrutiny of proxy advisers",
+    "title_ko": "SEC, 트럼프 행정부의 의결권 자문사에 대한 압박 강화에 따라 ISS 고소",
+    "link": "https://www.cnbc.com/2026/09/06/sec-iss-proxy-adviser-subpoena.html",
+    "published": "Sun, 06 Sep 2026 15:35:16 GMT",
+    "fetched_at": "2026-09-07 02:25:48",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "투자 자문",
+      "기업 거버넌스 솔루션"
+    ],
+    "keywords": [
+      "SEC",
+      "ISS",
+      "트럼프 행정부",
+      "의결권 자문사",
+      "기업 거버넌스"
+    ],
+    "reason": "트럼프 행정부의 의결권 자문사에 대한 규제 강화는 기업 경영의 독립성과 주주 행동주의에 영향을 미쳐 기업 지배구조 관련 리스크를 재평가할 필요가 있습니다. 이는 궁극적으로 기업의 전략적 결정과 주주 가치 창출 방식에 변화를 가져올 수 있습니다.",
+    "action_point": "기업 지배구조 관련 투자 리스크 요인 재검토"
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "마크롱 만나는 李대통령 … 원전·영화·우주 '전방위 밀착'",
+    "title_ko": "마크롱 만나는 李대통령 … 원전·영화·우주 '전방위 밀착'",
+    "link": "https://www.mk.co.kr/news/politics/12145627",
+    "published": "Mon, 07 Sep 2026 01:00:00 +09:00",
+    "fetched_at": "2026-09-07 02:26:08",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "원전",
+      "우주항공",
+      "콘텐츠"
+    ],
+    "keywords": [
+      "한프랑스 정상회담",
+      "원전",
+      "우주항공",
+      "콘텐츠"
+    ],
+    "reason": "한-프랑스 정상회담을 통해 원전, 우주항공, 콘텐츠 등 전략적 산업 분야에서 구체적인 협력 기회가 확대될 수 있으며, 이는 관련 국내 기업의 수출 및 기술 경쟁력 강화에 긍정적 영향을 미칠 수 있습니다.",
+    "action_point": "원전, 우주항공, 콘텐츠 섹터의 국내 관련주 비중 확대 검토"
+  },
+  {
     "source": "Maeil_Business",
     "market": "KR",
     "title": "이란 “더 빠르고 고통스럽게 보복” vs 美, F-35 띄우고 선박 92척 돌려세워",
@@ -2867,102 +2966,5 @@
     ],
     "reason": "G20 혁신 장관회의에서 AI, 정책, 무역 등 핵심 기술 의제가 논의되어, AI 및 관련 기술 섹터의 장기 성장 잠재력과 규제 환경 변화를 시사한다.",
     "action_point": "G20에서 논의되는 AI 및 기술 정책 방향성을 면밀히 분석하고, 관련 기술 섹터의 장기 투자 전략을 재검토하여 포트폴리오 비중을 조절하라."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Stocks making the biggest moves premarket: Vertiv, Sirius, Dell, MongoDB & more",
-    "title_ko": "프리마켓에서 가장 큰 움직임을 보이는 주식: 버티브, 시리우스, 델, 몽고DB 외",
-    "link": "https://www.cnbc.com/2026/09/02/stocks-making-the-biggest-moves-premarket-vrt-siri-dell-mdb.html",
-    "published": "Wed, 02 Sep 2026 11:40:31 GMT",
-    "fetched_at": "2026-09-03 01:55:54",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "IT 서비스",
-      "소프트웨어",
-      "IT 하드웨어",
-      "미디어",
-      "통신 서비스"
-    ],
-    "keywords": [
-      "프리마켓",
-      "개별 주식",
-      "주가 변동"
-    ],
-    "reason": "본 기사는 프리마켓에서 일부 개별 기업의 주가 변동을 보고하는 것으로, 광범위한 시장 또는 거시 경제 동향에 대한 정보를 제공하지 않습니다. 따라서 특정 자산군이나 전체 포트폴리오에 미치는 거시적 영향은 제한적입니다.",
-    "action_point": "본 뉴스는 거시적 관점에서 유의미한 시장 영향이 없으므로 해당 없음."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Global bond rout gathers pace as inflation fears mount",
-    "title_ko": "인플레이션 우려 고조에 따라 글로벌 채권 폭락세 가속화",
-    "link": "https://www.cnbc.com/2026/09/02/global-bond-yields-inflation-rates.html",
-    "published": "Wed, 02 Sep 2026 11:23:24 GMT",
-    "fetched_at": "2026-09-02 21:24:13",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "채권",
-      "주식 (특히 성장주)",
-      "부동산",
-      "금융"
-    ],
-    "keywords": [
-      "인플레이션",
-      "금리 상승",
-      "채권 시장",
-      "부채 부담"
-    ],
-    "reason": "인플레이션 우려와 차입 비용 상승으로 글로벌 채권 금리가 급등하며, 이는 모든 자산의 자본 비용을 높여 주식 및 부동산 등 위험자산의 가치 하락 압력으로 작용합니다. 기업과 국가의 부채 상환 부담도 가중될 것입니다.",
-    "action_point": "고금리 환경에 취약한 장기채 및 고성장 기술주 비중 축소를 검토하고, 달러 자산 보유 비중을 늘려라."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Nepal’s mountain tourism industry faces ‘serious warning’ after Himalayan flood disaster",
-    "title_ko": "히말라야 홍수 참사 이후 네팔 산악 관광 산업, '심각한 경고' 직면",
-    "link": "https://www.cnbc.com/2026/09/02/nepal-tibet-floods-adventure-tourism-economy.html",
-    "published": "Wed, 02 Sep 2026 09:23:18 GMT",
-    "fetched_at": "2026-09-02 21:24:04",
-    "sentiment": "악재",
-    "importance": 2,
-    "sectors": [
-      "관광",
-      "레저"
-    ],
-    "keywords": [
-      "네팔",
-      "홍수",
-      "관광 산업"
-    ],
-    "reason": "네팔의 홍수 참사는 핵심 관광 산업에 심각한 타격을 주어 지역 경제에 부정적인 영향을 미칠 수 있습니다. 하지만 이는 지엽적인 이슈로, 글로벌 매크로 시장이나 한국 투자자의 포트폴리오에 미치는 직접적인 영향은 제한적입니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "China's Xi keeps Iranian president at arm's length weeks ahead of Trump summit",
-    "title_ko": "중국 시진핑 주석, 트럼프 정상회담 앞두고 이란 대통령과 거리 두기",
-    "link": "https://www.cnbc.com/2026/09/02/china-trump-iran-summit-nuclear-trade-tariffs-sanctions-.html",
-    "published": "Wed, 02 Sep 2026 05:56:11 GMT",
-    "fetched_at": "2026-09-02 16:26:44",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "원자재",
-      "글로벌 무역",
-      "반도체"
-    ],
-    "keywords": [
-      "미중 관계",
-      "이란",
-      "지정학",
-      "외교",
-      "트럼프"
-    ],
-    "reason": "중국이 트럼프와의 정상회담을 앞두고 이란과의 거리를 두며 미국과의 관계 개선에 적극적인 자세를 보였다. 이는 미중 관계의 긍정적인 전환 가능성을 시사하며, 글로벌 지정학적 긴장 완화에 기여할 수 있는 호재성 신호이다.",
-    "action_point": "미중 관계 개선 기대감에 따라 국내 수출 중심 기업(특히 반도체, IT 등)의 투자 심리 개선 및 실적 상향 가능성을 고려하여 관련 주식 비중 확대를 검토하라."
   }
 ]
