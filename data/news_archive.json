@@ -2,6 +2,31 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "Trump turns up the heat on Warsh as Fed rate hike looms",
+    "title_ko": "트럼프, 연준 금리 인상 임박 속 워시에 대한 압박 강화",
+    "link": "https://www.cnbc.com/2026/09/05/trump-warsh-fed-september-rate-hike.html",
+    "published": "Sat, 05 Sep 2026 19:12:53 GMT",
+    "fetched_at": "2026-09-06 10:58:06",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "기술",
+      "부동산",
+      "원자재"
+    ],
+    "keywords": [
+      "트럼프",
+      "연준",
+      "금리 인상",
+      "통화 정책",
+      "정치적 압력"
+    ],
+    "reason": "트럼프 행정부의 연준 금리 인상 저지 시도는 통화정책 완화 기대를 높여 주식 등 위험자산에 긍정적으로 작용할 수 있으며, 이는 달러 약세 압력을 가할 것입니다.",
+    "action_point": "연준의 금리 인상 지연 가능성을 고려하여 성장주 및 부동산 관련 자산 보유 비중을 유지하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "Trump’s state capitalism comes to the oil industry with his unprecedented Venezuela deal",
     "title_ko": "트럼프의 국가자본주의가 전례 없는 베네수엘라 딜로 석유 산업에 상륙하다",
     "link": "https://www.cnbc.com/2026/09/05/trump-venezuela-oil-north-america-blue-energy-partners-nabep.html",
@@ -2933,30 +2958,5 @@
     ],
     "reason": "연준 고위 관계자의 매파적 발언은 인플레이션이 목표치를 웃돌 경우 추가 금리 인상이 가능함을 시사하며, 이는 고금리 장기화 우려를 높여 자본 조달 비용 증가 및 경제 성장 둔화 압력을 가중시킵니다.",
     "action_point": "금리 민감도가 높은 성장주 비중 축소 검토"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "김용범 정책실장 전격 사퇴…경제·부동산 라인 전면 교체 - KBS 뉴스",
-    "title_ko": "김용범 정책실장 전격 사퇴…경제·부동산 라인 전면 교체",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Sd29DTWlVSk9OZHdJbzlEZ2RpTS1PSXJPendpTE1pU2xoVEZsdFRiVnFZYWNKWG5zb3RiRFBBVGtDZXpkZE8wbENmZ3VZTWJUcDdIUHdMeW5Ia1ZpaGN0X04tRktYZw?oc=5",
-    "published": "Tue, 01 Sep 2026 12:16:00 GMT",
-    "fetched_at": "2026-09-02 00:19:18",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "부동산",
-      "건설",
-      "금융"
-    ],
-    "keywords": [
-      "김용범 사퇴",
-      "정책실장",
-      "경제 정책",
-      "부동산 정책",
-      "정부 인선"
-    ],
-    "reason": "정부 경제·부동산 정책을 총괄하는 고위 인사의 사퇴와 라인 전면 교체는 향후 정책 기조의 변화를 예고하며 관련 시장에 불확실성을 증대시킬 수 있습니다. 특히 국내 부동산 시장에 미칠 영향이 주목됩니다.",
-    "action_point": "새롭게 구성될 경제·부동산 정책 라인의 방향성을 면밀히 파악하고, 그에 따라 부동산 및 건설 섹터 비중 조정을 검토하라."
   }
 ]
