@@ -1,5 +1,80 @@
 [
   {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "China pulls in Big Tobacco to help with smaller-than-expected finance-industry capital injections",
+    "title_ko": "중국, 예상보다 적은 금융 산업 자본 확충에 대형 담배회사 동원",
+    "link": "https://www.cnbc.com/2026/09/07/china-state-banks-lenders-insurers-capital-solvency-bankrupt-nim-.html",
+    "published": "Mon, 07 Sep 2026 06:27:53 GMT",
+    "fetched_at": "2026-09-07 15:48:35",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "금융",
+      "중국 경제",
+      "이머징 마켓"
+    ],
+    "keywords": [
+      "중국",
+      "금융 안정성",
+      "자본 확충",
+      "경기 부양"
+    ],
+    "reason": "중국 금융기관의 자본 확충이 예상보다 적고 비전통적인 방식으로 진행되어, 중국 금융 시스템의 내재적 취약성과 경기 회복 동력 부족을 시사한다.",
+    "action_point": "중국 금융 섹터 및 대중국 익스포저가 높은 자산 비중 축소 검토"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Treasury yields face 4.8% test as fiscal risks threaten to spill into other assets",
+    "title_ko": "재무부 채권 수익률 4.8% 시험대, 재정 위험이 다른 자산으로 확산 우려",
+    "link": "https://www.cnbc.com/2026/09/07/us-treasury-yields-markets-scott-bessent.html",
+    "published": "Mon, 07 Sep 2026 02:01:52 GMT",
+    "fetched_at": "2026-09-07 15:48:43",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "기술주",
+      "부동산",
+      "성장주 전반"
+    ],
+    "keywords": [
+      "미국 국채 금리",
+      "재정 위험",
+      "고금리",
+      "위험 자산"
+    ],
+    "reason": "미국 재무부 채권 금리가 4.8%를 넘어설 경우, 전반적인 차입 비용 상승과 위험 자산 할인율 증가로 주식 등 위험 자산의 가치가 하락하고 시장 변동성이 확대될 수 있습니다.",
+    "action_point": "장기 국채 및 금리에 민감한 성장주 등 위험 자산 비중 축소를 검토하고, 포트폴리오의 방어적 재편을 고려하십시오."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Treasurys are losing foreign appeal in a historic capital flow reversal — and here's one trade investors favor instead",
+    "title_ko": "미국 국채, 해외 투자 매력 상실하며 역사적 자본 흐름 역전... 투자자들이 대신 선호하는 전략은?",
+    "link": "https://www.cnbc.com/2026/09/07/treasurys-bonds-investors-deficit-debt.html",
+    "published": "Mon, 07 Sep 2026 05:00:01 GMT",
+    "fetched_at": "2026-09-07 15:48:53",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "채권",
+      "외환",
+      "금융",
+      "성장주",
+      "원자재"
+    ],
+    "keywords": [
+      "미국 국채",
+      "자본 흐름 역전",
+      "해외 투자",
+      "금리",
+      "달러"
+    ],
+    "reason": "미국 국채의 해외 수요 감소는 장기 금리 상승 압력으로 작용하며, 이는 미국 달러 약세 및 글로벌 자산 시장의 위험 회피 심리를 자극할 수 있습니다.",
+    "action_point": "미국 국채 금리 상승 압력과 달러 약세 가능성에 대비하여 포트폴리오 내 달러 자산 비중을 점검하고 다각화를 고려하라."
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "Asia-Pacific markets open higher as investors assess renewed Middle East  hostilities",
@@ -2899,84 +2974,5 @@
     ],
     "reason": "특정 아시아 국가의 관광 시장 급성장은 해당 지역의 경제 활성화 및 관련 산업의 투자 기회를 시사하며, 이는 글로벌 관광 및 서비스 섹터 전반에 긍정적 신호로 작용할 수 있습니다.",
     "action_point": "이 아시아 국가의 정체 파악 후, 해당 국가의 호텔/관광 및 레저 관련 주식 투자 기회를 적극적으로 모색하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[속보] 정부, 보안특화 AI 모델 개발 사업자로 네이버 컨소시엄 선정 - 중앙일보",
-    "title_ko": "[속보] 정부, 보안특화 AI 모델 개발 사업자로 네이버 컨소시엄 선정 - 중앙일보",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XVkh4TkFyU1M5bUlEc3laTUpPX1plZDJzcnF1QTZfaFZhWk9aZ3gwd2Vpc2ZldVB4aml1YlZ5dXV4S2FPTFFsRmxmVk9CcDhpckhqQlJB?oc=5",
-    "published": "Thu, 03 Sep 2026 00:12:58 GMT",
-    "fetched_at": "2026-09-03 09:53:00",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "IT/기술",
-      "인공지능",
-      "플랫폼"
-    ],
-    "keywords": [
-      "정부",
-      "보안특화 AI",
-      "네이버",
-      "컨소시엄",
-      "인공지능"
-    ],
-    "reason": "정부의 보안 특화 AI 모델 개발 사업자 선정은 네이버의 AI 기술력과 시장 경쟁력을 강화하며, 국내 AI 산업 성장에 긍정적인 신호로 작용합니다. 이는 향후 관련 분야의 추가적인 사업 기회 확대로 이어질 수 있습니다.",
-    "action_point": "네이버 주식 비중 유지 및 국내 AI 관련 기업 투자 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Trump and Xi are set to meet in DC. Why some China watchers have low expectations",
-    "title_ko": "트럼프와 시진핑, 워싱턴 회담 예정… 중국 전문가들이 기대가 낮은 이유",
-    "link": "https://www.cnbc.com/2026/09/02/trump-xi-summit-iran-china-trade-elections.html",
-    "published": "Wed, 02 Sep 2026 22:00:01 GMT",
-    "fetched_at": "2026-09-03 07:09:56",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "반도체",
-      "기술주",
-      "무역 관련 산업",
-      "제조업",
-      "해운업"
-    ],
-    "keywords": [
-      "트럼프",
-      "시진핑",
-      "미중 관계",
-      "미국 대선",
-      "무역 전쟁",
-      "지정학"
-    ],
-    "reason": "미국 대선 직전 미중 정상회담의 낮은 기대치는 양국 간 무역 및 기술 갈등이 지속되거나 심화될 가능성을 시사합니다. 이는 글로벌 공급망과 무역 의존도가 높은 산업에 불확실성을 가중시킬 것입니다.",
-    "action_point": "미중 무역분쟁에 민감한 반도체 및 기술 섹터의 비중 축소를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Energy Secretary Chris Wright tells CNBC more than 17 million barrels of oil transited Hormuz on Monday",
-    "title_ko": "에너지 장관, 월요일 호르무즈 해협 통해 1,700만 배럴 이상 원유 운송 확인",
-    "link": "https://www.cnbc.com/2026/09/02/energy-secretary-chris-wright-tells-cnbc-that-more-than-17-million-barrels-of-oil-transited-hormuz-on-monday.html",
-    "published": "Wed, 02 Sep 2026 15:57:08 GMT",
-    "fetched_at": "2026-09-03 07:10:55",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "항공",
-      "해운",
-      "화학"
-    ],
-    "keywords": [
-      "원유",
-      "호르무즈",
-      "베네수엘라",
-      "공급",
-      "지정학"
-    ],
-    "reason": "호르무즈 해협의 안정적인 원유 운송과 미국-베네수엘라 간 대규모 원유 거래 소식은 글로벌 원유 공급 안정화 및 잠재적 증대를 시사하며 유가 하방 압력을 가할 수 있습니다. 이는 전반적인 경제 활동에 긍정적이나, 에너지 섹터에는 불리하게 작용할 수 있습니다.",
-    "action_point": "원유 공급 증가 가능성에 대비하여 에너지 섹터 자산 비중을 축소하고, 유가 하락 수혜 업종(항공, 해운, 화학) 투자 기회를 모색하라."
   }
 ]
