@@ -1,5 +1,201 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Israel-Hezbollah clashes kill 11 as Mideast conflict escalation gathers pace after U.S.-Iran strikes",
+    "title_ko": "미국-이란 공습 후 이스라엘-헤즈볼라 충돌로 11명 사망, 중동 분쟁 격화 속도",
+    "link": "https://www.cnbc.com/2026/09/07/us-iran-war-trump-hormuz-israel-hezbollah-fighting-strikes-.html",
+    "published": "Mon, 07 Sep 2026 09:26:27 GMT",
+    "fetched_at": "2026-09-07 22:09:42",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "에너지",
+      "방산",
+      "해운",
+      "보험"
+    ],
+    "keywords": [
+      "중동 분쟁",
+      "지정학적 위험",
+      "이스라엘",
+      "헤즈볼라",
+      "유가"
+    ],
+    "reason": "미국-이란 공습 이후 이스라엘-헤즈볼라 충돌이 격화되며 중동의 지정학적 위험이 고조되고 있습니다. 이는 국제 유가 상승 압력 및 전반적인 시장의 위험 회피 심리 강화로 이어질 수 있습니다.",
+    "action_point": "중동 지정학적 위험 고조에 대비하여 원유 등 원자재 비중을 늘리고, 위험 자산(주식)에 대한 비중 축소를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "A Fed rate hike is coming into view. Here’s what UBS says to own — and avoid",
+    "title_ko": "연준 금리 인상 가능성 부상, UBS가 제시하는 투자 유망 및 회피 자산은?",
+    "link": "https://www.cnbc.com/2026/09/07/ubs-federal-reserve-interest-rate-hike-investing.html",
+    "published": "Mon, 07 Sep 2026 12:00:08 GMT",
+    "fetched_at": "2026-09-07 22:09:22",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "기술주",
+      "부동산",
+      "금융주"
+    ],
+    "keywords": [
+      "연준",
+      "금리 인상",
+      "고용시장",
+      "UBS"
+    ],
+    "reason": "강력한 고용 지표로 연준의 추가 금리 인상 가능성이 높아져, 이는 시장 유동성 축소와 고PER 성장주 등 위험 자산의 가치 하락 압력으로 작용할 수 있다.",
+    "action_point": "연준의 추가 금리 인상에 대비하여 고금리 민감 섹터(예: 성장주, 기술주) 비중을 축소하고, 방어적 자산 및 가치주 비중 확대를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Far-right AfD landslide in German state piles pressure on federal government",
+    "title_ko": "극우 독일 대안당(AfD), 주 선거 압승으로 연방정부 압박 가중",
+    "link": "https://www.cnbc.com/2026/09/07/afd-germany-economy-merz.html",
+    "published": "Mon, 07 Sep 2026 13:07:50 GMT",
+    "fetched_at": "2026-09-07 22:09:32",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "유럽 투자자산",
+      "금융",
+      "에너지"
+    ],
+    "keywords": [
+      "독일 정치",
+      "극우",
+      "유럽연합",
+      "정치적 불안정",
+      "정책 불확실성"
+    ],
+    "reason": "독일 극우당의 약진은 연방정부의 정책 추진력을 약화시키고 유럽연합 통합에 대한 불확실성을 증폭시켜 유럽 전반의 정치적 불안정을 야기할 수 있습니다.",
+    "action_point": "독일 및 유럽연합 관련 자산의 변동성 확대에 대비하여 관련 포트폴리오 비중 조절을 검토하십시오."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "불났는데 “전산망 손실되니 물 쓰지 말아달라”…3시간 뒤 진화 시작한 국정자원 화재",
+    "title_ko": "불났는데 “전산망 손실되니 물 쓰지 말아달라”…3시간 뒤 진화 시작한 국정자원 화재",
+    "link": "https://www.mk.co.kr/news/society/12146545",
+    "published": "Mon, 07 Sep 2026 20:54:17 +09:00",
+    "fetched_at": "2026-09-07 22:10:31",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "IT 서비스",
+      "데이터센터",
+      "건설",
+      "전기공사"
+    ],
+    "keywords": [
+      "데이터센터",
+      "화재",
+      "인프라",
+      "안전",
+      "비상대응",
+      "하청업체"
+    ],
+    "reason": "이 사건은 국내 중요 전산 인프라의 관리 부실과 비상 대응 시스템의 심각한 결함을 드러내며, 향후 데이터센터 및 공공 IT 서비스 관련 산업 전반에 대한 규제 강화 및 투자 증가 압력으로 작용할 수 있습니다. 이는 관련 기업들의 운영 비용 상승 및 안전 투자 확대로 이어질 가능성이 있습니다.",
+    "action_point": "국내 데이터센터 및 공공 IT 인프라 관련 기업들의 안전 투자 계획 및 비용 증가 리스크를 점검하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Jaguar Land Rover to cut 4,000 jobs over two years in major cost-saving drive",
+    "title_ko": "재규어 랜드로버, 대규모 비용 절감 노력으로 2년간 4,000명 감원 예정",
+    "link": "https://www.cnbc.com/2026/09/07/jaguar-land-rover-jlr-job-cuts-autos.html",
+    "published": "Mon, 07 Sep 2026 11:50:43 GMT",
+    "fetched_at": "2026-09-07 22:09:49",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "자동차",
+      "명품"
+    ],
+    "keywords": [
+      "재규어 랜드로버",
+      "감원",
+      "자동차 산업",
+      "무역분쟁",
+      "중국 경쟁"
+    ],
+    "reason": "글로벌 명품 자동차 시장의 경쟁 심화와 무역 장벽이 기존 제조업체에 상당한 압박을 가하고 있음을 보여줍니다. 이는 전반적인 자동차 산업의 마진 하락 및 구조조정 가능성을 시사합니다.",
+    "action_point": "글로벌 자동차 섹터, 특히 명품 및 프리미엄 브랜드의 투자 비중 축소를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "SpaceX rival launches rocket in historic first, says industry is 'desperate' for more",
+    "title_ko": "스페이스X의 경쟁사, 역사적 첫 로켓 발사에 성공하며 업계는 더 많은 발사를 '간절히 원한다'고 밝혀",
+    "link": "https://www.cnbc.com/2026/09/07/isar-aerospace-spacex-rival-rocket-launch.html",
+    "published": "Mon, 07 Sep 2026 12:26:40 GMT",
+    "fetched_at": "2026-09-07 22:09:14",
+    "sentiment": "호재",
+    "importance": 2,
+    "sectors": [
+      "우주항공",
+      "위성통신"
+    ],
+    "keywords": [
+      "스페이스X 경쟁사",
+      "로켓 발사",
+      "우주 산업",
+      "위성 발사 수요",
+      "Isar Aerospace"
+    ],
+    "reason": "독일의 신생 기업이 로켓 발사에 성공하며 우주 발사 시장의 경쟁 심화와 공급 능력 확대를 시사합니다. 이는 위성 발사 수요 증가에 따른 산업 성장을 가속화할 잠재력이 있습니다.",
+    "action_point": "우주항공 및 위성통신 섹터 관련 투자 기회 모색을 고려하십시오."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "“11월의 햇와인 ‘보졸레 누보’ 귀해지나”…폭염에 생산량 3분의 1 급감",
+    "title_ko": "“11월의 햇와인 ‘보졸레 누보’ 귀해지나”…폭염에 생산량 3분의 1 급감",
+    "link": "https://www.mk.co.kr/news/world/12146557",
+    "published": "Mon, 07 Sep 2026 21:22:58 +09:00",
+    "fetched_at": "2026-09-07 22:10:06",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "주류/식음료",
+      "유통"
+    ],
+    "keywords": [
+      "보졸레 누보",
+      "와인",
+      "생산량 급감",
+      "폭염",
+      "농산물"
+    ],
+    "reason": "프랑스 와인, 특히 보졸레 누보의 생산량 급감은 해당 제품의 가격 상승 및 공급 부족을 초래할 수 있으나, 글로벌 매크로 경제나 주요 투자 자산에는 미치는 영향이 매우 제한적입니다.",
+    "action_point": "일반적인 거시 투자 포트폴리오에 미치는 영향은 미미하므로 해당 없음."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "“안팔리는 재규어랜드로버, 대량해고 불가피”…정부, 혈세 투입 거절했다",
+    "title_ko": "“안팔리는 재규어랜드로버, 대량해고 불가피”…정부, 혈세 투입 거절했다",
+    "link": "https://www.mk.co.kr/news/business/12146551",
+    "published": "Mon, 07 Sep 2026 21:10:05 +09:00",
+    "fetched_at": "2026-09-07 22:10:18",
+    "sentiment": "악재",
+    "importance": 2,
+    "sectors": [
+      "자동차"
+    ],
+    "keywords": [
+      "재규어랜드로버",
+      "대량해고",
+      "영국 경제",
+      "자동차 산업 침체"
+    ],
+    "reason": "재규어랜드로버의 대규모 감원은 글로벌 럭셔리 자동차 시장의 수요 둔화와 영국 경제의 취약성을 시사하며, 관련 산업의 불확실성을 높입니다.",
+    "action_point": "글로벌 경기 둔화 가능성에 대비하여 고가 소비재 및 자동차 섹터에 대한 투자 비중 축소를 검토하라."
+  },
+  {
     "source": "CNBC_Finance",
     "market": "US",
     "title": "China pulls in Big Tobacco to help with smaller-than-expected finance-industry capital injections",
@@ -2774,205 +2970,5 @@
     ],
     "reason": "이 포럼은 세포·유전자치료 및 첨단재생바이오 산업의 미래 전략을 논의하며 해당 분야의 지속적인 성장과 혁신 모멘텀을 강화, 관련 섹터에 대한 장기적 투자심리를 개선할 수 있습니다.",
     "action_point": "세포·유전자치료 및 첨단재생바이오 관련 기술 보유 기업의 투자 기회를 탐색하십시오."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "“과천을 아주 비우겠단 말인가”...세종 가는 법무부에 뿔난 주민들",
-    "title_ko": "“과천을 아주 비우겠단 말인가”...세종 가는 법무부에 뿔난 주민들",
-    "link": "https://www.mk.co.kr/news/politics/12143851",
-    "published": "Thu, 03 Sep 2026 19:13:01 +09:00",
-    "fetched_at": "2026-09-03 19:26:40",
-    "sentiment": "악재",
-    "importance": 2,
-    "sectors": [
-      "부동산",
-      "건설"
-    ],
-    "keywords": [
-      "과천",
-      "세종",
-      "법무부",
-      "이전",
-      "부동산"
-    ],
-    "reason": "법무부 과천 이전은 과천 지역 부동산 시장의 수요 감소와 공급 과잉 우려를 심화시켜 지역 자산 가치에 하방 압력을 가하지만, 전국적인 거시경제 영향은 제한적이다.",
-    "action_point": "과천 지역 부동산 자산 비중 축소를 검토하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "인천공항 세계 신기록 … 5년째 '5성급' 공항",
-    "title_ko": "인천공항 세계 신기록 … 5년째 '5성급' 공항",
-    "link": "https://www.mk.co.kr/news/society/12143843",
-    "published": "Thu, 03 Sep 2026 19:08:58 +09:00",
-    "fetched_at": "2026-09-03 19:26:52",
-    "sentiment": "호재",
-    "importance": 2,
-    "sectors": [
-      "항공",
-      "관광",
-      "면세",
-      "공항 인프라"
-    ],
-    "keywords": [
-      "인천공항",
-      "국제여객",
-      "항공산업",
-      "관광산업",
-      "5성급"
-    ],
-    "reason": "인천공항의 국제여객 세계 1위 및 5년 연속 5성급 공항 달성은 한국의 항공 및 관광 산업의 견조한 회복과 국제적 경쟁력 강화를 시사한다. 이는 관련 소비 및 서비스업에 긍정적 영향을 미칠 것이다.",
-    "action_point": "항공, 여행, 면세 등 관광 관련 섹터 비중 확대 검토"
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "연천, 정주도시 조성에 600억 투입",
-    "title_ko": "연천, 정주도시 조성에 600억 투입",
-    "link": "https://www.mk.co.kr/news/society/12143844",
-    "published": "Thu, 03 Sep 2026 19:08:58 +09:00",
-    "fetched_at": "2026-09-03 19:26:59",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "건설",
-      "지방 인프라"
-    ],
-    "keywords": [
-      "연천",
-      "지방소멸대응기금",
-      "정주도시",
-      "인구감소",
-      "지방투자"
-    ],
-    "reason": "연천군의 지방소멸 대응을 위한 지역 투자 소식으로, 전국 단위의 거시경제나 금융시장에 미치는 영향은 극히 미미합니다. 해당 지역의 소규모 건설 및 서비스 산업에 부분적인 지원이 될 수 있습니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Iran attacks Kuwait as Trump says renewed Mideast hostilities will not last 'too long'",
-    "title_ko": "이란, 쿠웨이트 공격…트럼프, 중동 재개된 적대행위 '오래가지 않을 것' 발언",
-    "link": "https://www.cnbc.com/2026/09/03/us-iran-war-trump-hormuz-israel-middle-east-europe-kuwait.html",
-    "published": "Thu, 03 Sep 2026 03:21:50 GMT",
-    "fetched_at": "2026-09-03 14:21:43",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "에너지",
-      "방위산업",
-      "해운",
-      "항공"
-    ],
-    "keywords": [
-      "이란",
-      "쿠웨이트",
-      "중동",
-      "지정학적 리스크",
-      "유가",
-      "전쟁"
-    ],
-    "reason": "중동 핵심 산유국 간의 군사적 충돌은 글로벌 지정학적 리스크를 급격히 고조시키며, 국제유가 상승 압력과 함께 전반적인 시장의 위험 회피 심리를 강화할 것입니다.",
-    "action_point": "중동 불안정성 확대로 유가 상승 및 시장 변동성이 예상되므로, 에너지 관련 자산 비중을 늘리거나 금 등 안전자산 보유를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Google starts September with AI momentum after longest monthly losing streak in over a decade",
-    "title_ko": "구글, 10여년 만의 최장 월간 하락세 이후 AI 모멘텀으로 9월 시작",
-    "link": "https://www.cnbc.com/2026/09/02/google-starts-september-with-ai-momentum-after-long-losing-streak.html",
-    "published": "Thu, 03 Sep 2026 03:28:07 GMT",
-    "fetched_at": "2026-09-03 14:21:51",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "기술",
-      "인공지능",
-      "성장주"
-    ],
-    "keywords": [
-      "구글",
-      "AI",
-      "인공지능",
-      "기술주",
-      "모멘텀"
-    ],
-    "reason": "구글의 AI 모멘텀은 장기 하락세 이후 대형 기술주 반등의 신호탄으로 해석될 수 있으며, AI 관련 성장주에 대한 투자심리를 개선시킬 것입니다.",
-    "action_point": "대형 기술주 및 AI 관련 섹터 비중 확대를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Inside India newsletter: India’s economic growth is smashing forecasts, but its biggest stocks aren't feeling the love",
-    "title_ko": "인도 뉴스레터: 인도의 경제 성장은 예상을 뛰어넘지만, 주요 대형주는 투자자들에게 외면받고 있다",
-    "link": "https://www.cnbc.com/2026/09/03/india-nifty-sensex-manufacturing-economy-gdp.html",
-    "published": "Thu, 03 Sep 2026 00:08:50 GMT",
-    "fetched_at": "2026-09-03 09:52:36",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "신흥국 투자",
-      "주식시장"
-    ],
-    "keywords": [
-      "인도",
-      "경제성장",
-      "주식시장",
-      "대형주"
-    ],
-    "reason": "인도의 견고한 경제 성장에도 불구하고 주요 대형주 주가는 부진하여, 신흥국 대형주의 밸류에이션과 성장-주가 간 괴리에 대한 주의가 필요함을 시사합니다.",
-    "action_point": "인도 등 신흥국 대형주에 대한 과도한 밸류에이션 프리미엄 부여를 재검토하고, 성장과 주가 괴리 원인 분석 후 투자 비중 조정 여부를 판단하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "美 연준 “美 12개 지역 중 10곳 경제 성장… 고용은 소폭 증가” - 조선비즈 - Chosunbiz",
-    "title_ko": "美 연준 “美 12개 지역 중 10곳 경제 성장… 고용은 소폭 증가”",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTTIyUUptZmUyd2xYOXNmUHptMTZ2ODJZRnRpYk40cTFPU05VUXhla1hTMFZoVUtEWUs1cmpsc2h3bExPQ2JTNXZqTm5zbk5YMERYX2RHTUNpVHM2ZVVsMlFYRTZqUG1ITUdqZjZVQWp5dF9rTGtaNzVGaW5HSFZ5VFNycUZ0Q2xfX2VObjFHaXBfUXlFVmRqbFRCOWZMQdIBsgFBVV95cUxPU0p2SWItUDAxbWVoQjNFVVktUlVPRHk2dl9ZYjQ1VkgwdmFabllucU9qNzZSLWZOcFRaSTlVRkhQTkpZcHFRRUkxWDhNbVBLTmlqVXV3ODh5Y3d2M1JQMV8zVTZoQ1l2d2dwSDhiVnN3eGZQVDRRanFvNXA4dFpKbmNsalRBd1RIVl9lQy1BdjVwSHNuUGFtR3JmWGpsWENtVzJrYVlQckRkTHl1aEdLWnBn?oc=5",
-    "published": "Wed, 02 Sep 2026 22:19:00 GMT",
-    "fetched_at": "2026-09-03 09:53:12",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "글로벌 주식 시장",
-      "금융",
-      "소비재"
-    ],
-    "keywords": [
-      "미국 경제",
-      "연준",
-      "경제 성장",
-      "고용",
-      "금리 정책"
-    ],
-    "reason": "미국 경제가 완만한 성장세를 유지하며 고용 시장의 견조함을 시사, 이는 연착륙 기대감을 지지하나 금리 인하 시점은 늦출 수 있습니다.",
-    "action_point": "미국 경제의 완만한 성장이 지속됨에 따라 글로벌 위험자산 비중을 현 수준으로 유지하고 고금리 장기화 가능성에 대비하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Why Hilton calls this Asian country the fastest-growing tourism market",
-    "title_ko": "힐튼이 이 아시아 국가를 가장 빠르게 성장하는 관광 시장으로 꼽는 이유",
-    "link": "https://www.cnbc.com/2026/09/03/hilton-hotel-market-expansion-india-china-southeast-asia.html",
-    "published": "Thu, 03 Sep 2026 00:13:33 GMT",
-    "fetched_at": "2026-09-03 09:52:43",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "호텔/관광",
-      "항공/운송",
-      "유통",
-      "레저"
-    ],
-    "keywords": [
-      "힐튼",
-      "아시아",
-      "관광",
-      "성장",
-      "여행"
-    ],
-    "reason": "특정 아시아 국가의 관광 시장 급성장은 해당 지역의 경제 활성화 및 관련 산업의 투자 기회를 시사하며, 이는 글로벌 관광 및 서비스 섹터 전반에 긍정적 신호로 작용할 수 있습니다.",
-    "action_point": "이 아시아 국가의 정체 파악 후, 해당 국가의 호텔/관광 및 레저 관련 주식 투자 기회를 적극적으로 모색하라."
   }
 ]
