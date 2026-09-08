@@ -1,5 +1,55 @@
 [
   {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Visa tells CNBC it is expanding data offering for blockchain lenders as demand for stablecoin-linked cards surges",
+    "title_ko": "비자, 스테이블코인 연동 카드 수요 급증에 따라 블록체인 대출기관 대상 데이터 제공 확대 발표",
+    "link": "https://www.cnbc.com/2026/09/08/visa-blockchain-lender-stablecoin-cards.html",
+    "published": "Tue, 08 Sep 2026 11:30:01 GMT",
+    "fetched_at": "2026-09-08 21:24:33",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "핀테크",
+      "블록체인/가상자산",
+      "결제 서비스"
+    ],
+    "keywords": [
+      "비자",
+      "블록체인",
+      "스테이블코인",
+      "핀테크"
+    ],
+    "reason": "비자의 블록체인 기반 금융 서비스 확대는 가상자산이 주류 금융 시스템으로 편입되는 신호이며, 스테이블코인의 실물 경제 활용 가능성을 높여 관련 기술 및 서비스에 대한 투자 심리를 개선합니다.",
+    "action_point": "비자 등 전통 금융사의 디지털 자산 연계 비즈니스 확장에 따른 핀테크 및 블록체인 인프라 관련 기업 투자를 고려."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "이 대통령, 한·프랑스 비즈니스라운드 테이블…이재용·구자은 등 재계 집결",
+    "title_ko": "이 대통령, 한·프랑스 비즈니스라운드 테이블…이재용·구자은 등 재계 집결",
+    "link": "https://www.mk.co.kr/news/politics/12147579",
+    "published": "Tue, 08 Sep 2026 21:24:12 +09:00",
+    "fetched_at": "2026-09-08 21:25:01",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "전자",
+      "산업재",
+      "에너지"
+    ],
+    "keywords": [
+      "한-프랑스",
+      "비즈니스 협력",
+      "대통령 방문",
+      "재계",
+      "투자",
+      "유럽 시장"
+    ],
+    "reason": "한-프랑스 양국간 경제 협력 강화를 모색하는 행사로, 국내 대기업들의 유럽 시장 진출 및 신규 사업 기회 창출에 긍정적인 영향을 미칠 수 있습니다.",
+    "action_point": "한-프랑스 경제 협력 강화로 인한 IT, 산업재 등 주요 대기업의 유럽 시장 성장 잠재력을 고려하여 관련 주식 비중 확대를 검토하라."
+  },
+  {
     "source": "GoogleNews_Korea",
     "market": "KR",
     "title": "트럼프의 '경제 질식' 작전, 이란 군사 확전 내모나 - 연합뉴스",
@@ -2937,51 +2987,5 @@
     ],
     "reason": "금리, 환율 등 거시 환경의 우호적 흐름과 주주환원 확대 정책이 국내 금융지주의 실적과 주가 상승을 견인하며, 변동성 장세에서 방어적 역할을 하고 있다.",
     "action_point": "변동성 장세 속 안정적 수익 확보를 위해 국내 주요 금융지주 종목에 대한 비중 확대를 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Lululemon stock plunges 15% on disappointing earnings and outlook",
-    "title_ko": "룰루레몬 주가, 실망스러운 실적 및 전망에 15% 급락",
-    "link": "https://www.cnbc.com/2026/09/03/lululemon-lulu-q2-2026-earnings.html",
-    "published": "Thu, 03 Sep 2026 20:52:03 GMT",
-    "fetched_at": "2026-09-04 06:31:34",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "소비재",
-      "의류/신발",
-      "온라인 소매"
-    ],
-    "keywords": [
-      "룰루레몬",
-      "실적 부진",
-      "소비 둔화",
-      "소비재",
-      "의류"
-    ],
-    "reason": "룰루레몬의 부진한 실적과 부정적인 전망은 프리미엄 소비재 부문의 수요 둔화를 시사하며, 이는 광범위한 소비재 섹터에 대한 투자심리를 위축시킬 수 있습니다.",
-    "action_point": "프리미엄 소비재 섹터 내 기업들의 실적 하향 조정 가능성을 고려하여 해당 섹터 비중 축소를 검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[속보] 이석연 국민통합위원장 사퇴…\"정부와 철학 달라\" - 연합뉴스TV",
-    "title_ko": "이석연 국민통합위원장 사퇴…정부와 철학 달라",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9DYmpDd3NjSE9DTFY5YnpoNkZtQWhWZzdEa3hNSUh4NWJCVVRhNU1fMmZGTWI1UGpkRmllZ3ZYU3hWTXhiTDNqaTUxRHJWY3owZWtlQW85Ym8xZkJvUm1oeXFEMW9LNEE?oc=5",
-    "published": "Thu, 03 Sep 2026 05:16:00 GMT",
-    "fetched_at": "2026-09-04 06:31:43",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [],
-    "keywords": [
-      "이석연",
-      "국민통합위원장",
-      "사퇴",
-      "정부",
-      "철학"
-    ],
-    "reason": "국민통합위원장의 사퇴는 정부 내 인사이동 및 내부 의견 차이를 시사하지만, 해당 직책은 경제 정책에 직접적인 영향을 미치지 않으므로 금융 시장 전반에 미칠 실질적인 영향은 미미합니다.",
-    "action_point": "해당 없음"
   }
 ]
