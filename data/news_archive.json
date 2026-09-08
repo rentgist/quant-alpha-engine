@@ -1,5 +1,263 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "트럼프의 '경제 질식' 작전, 이란 군사 확전 내모나 - 연합뉴스",
+    "title_ko": "트럼프의 '경제 질식' 작전, 이란 군사 확전 내모나",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1fUkhtc29HbTZmMlZwZnUzTHNOSDY2X2VFY0dXcFBfVzZCX3pjbG5DWWlPVW42R2RRWi1yWlZaa2ZSZHlmUU45bS04cEZWdzk1TDFSNG40X2NkbXpZdGJYX9IBYEFVX3lxTE1fUkhtc29HbTZmMlZwZnUzTHNOSDY2X2VFY0dXcFBfVzZCX3pjbG5DWWlPVW42R2RRWi1yWlZaa2ZSZHlmUU45bS04cEZWdzk1TDFSNG40X2NkbXpZdGJYXw?oc=5",
+    "published": "Tue, 08 Sep 2026 00:23:20 GMT",
+    "fetched_at": "2026-09-08 16:39:36",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "에너지",
+      "방산",
+      "해운",
+      "글로벌 증시"
+    ],
+    "keywords": [
+      "이란",
+      "트럼프",
+      "경제 제재",
+      "군사 확전",
+      "중동 정세",
+      "유가",
+      "지정학적 리스크"
+    ],
+    "reason": "트럼프의 대이란 '경제 질식' 전략이 이란의 군사적 대응을 촉발할 수 있다는 우려가 커지며 중동 지역의 지정학적 긴장이 고조되고 있습니다. 이는 유가 급등 및 글로벌 증시 변동성 확대로 이어질 수 있는 심각한 악재입니다.",
+    "action_point": "방어적 포트폴리오로 전환하고 유가 상승에 대비해 원유 관련 ETF 또는 에너지 섹터 비중 확대를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Canada's retaliatory tariffs worth $27.6 billion take effect as trade rift with U.S. deepens",
+    "title_ko": "캐나다의 276억 달러 규모 보복 관세 발효, 미국과의 무역 갈등 심화",
+    "link": "https://www.cnbc.com/2026/09/08/canada-retaliatory-tariffs.html",
+    "published": "Tue, 08 Sep 2026 07:00:25 GMT",
+    "fetched_at": "2026-09-08 16:35:47",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "철강",
+      "알루미늄",
+      "제조업",
+      "수출입 관련 산업"
+    ],
+    "keywords": [
+      "캐나다",
+      "미국",
+      "관세",
+      "무역 갈등",
+      "철강",
+      "알루미늄"
+    ],
+    "reason": "캐나다와 미국 간의 무역 갈등 심화로 양국 철강 및 알루미늄 산업의 비용 증가와 공급망 교란이 예상된다. 이는 보호무역주의 확산 조짐으로 글로벌 무역 환경에 부정적 영향을 미치고 경제 성장 둔화 우려를 키운다.",
+    "action_point": "철강 및 알루미늄을 주요 원자재로 사용하는 국내 제조업체들의 비용 상승 압력과 미국 시장 수출 경쟁력 변화 가능성을 점검하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "China's imports in August miss estimates as calls for rebalancing trade grow",
+    "title_ko": "8월 중국 수입 예상치 하회, 무역 재균형 요구 증대",
+    "link": "https://www.cnbc.com/2026/09/08/china-exports-imports-august-trade-rebalance-demand-surplus-.html",
+    "published": "Tue, 08 Sep 2026 04:45:07 GMT",
+    "fetched_at": "2026-09-08 16:39:23",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "원자재",
+      "해운",
+      "산업재",
+      "신흥국"
+    ],
+    "keywords": [
+      "중국 무역",
+      "수출입",
+      "경기 둔화",
+      "글로벌 공급망"
+    ],
+    "reason": "8월 중국 수입이 예상치를 하회하여 중국 내수 및 글로벌 경제 회복세 둔화 우려를 심화시키며, 이는 원자재 수요 및 글로벌 교역량에 부정적인 영향을 미칠 수 있습니다.",
+    "action_point": "중국향 수출 비중이 높은 국내 기업 및 원자재 관련 투자 비중 축소 검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "\"미국인들, 이란 전쟁 탓 에너지 비용 133조 원 더 부담\" - MBC 뉴스",
+    "title_ko": "미국인들, 이란 전쟁 탓 에너지 비용 133조 원 더 부담",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0xQy1RaWhhbm5zclBRNEYzTER4Qi1pX294aTBFVGR0a3F2eDZXMF9KUFM2QzYzTG1TMWhEV1dYMFlIeC1XdFNtRlNOT3lBaUNkNFpVNWJYS0h2TFg4aHRYMFJOSndDZjdlRmI5Q3l1TGJsOHJl0gF0QVVfeXFMT2EteVNzU0lrSjBLUmd4M2dwZDQzbzl4OFN0eC01Y25xTGJrVmR4dWhXc095QlNuMTVkNDRMWXpUaV80RFB2ZnVaSjdnMWFfNkxtS1JreTBJM3E0UkNvX0NTOWpiZnE1U3otUGJmRThMZ2NXbjg?oc=5",
+    "published": "Tue, 08 Sep 2026 02:51:51 GMT",
+    "fetched_at": "2026-09-08 16:39:30",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "항공",
+      "운송",
+      "소비재",
+      "방산"
+    ],
+    "keywords": [
+      "이란",
+      "지정학적 리스크",
+      "에너지 가격",
+      "인플레이션",
+      "미국 소비"
+    ],
+    "reason": "이란 전쟁 가능성 언급은 중동 지정학적 긴장을 고조시켜 글로벌 유가 급등 및 인플레이션 압력을 가중시키고, 미국 가계의 에너지 비용 부담 증가는 소비 위축 및 경기 둔화 우려를 심화시킵니다.",
+    "action_point": "중동 지정학적 리스크에 따른 유가 변동성 확대에 대비하여 에너지 관련 섹터 투자 비중 및 인플레이션 헤지 전략을 재검토하십시오."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "해수부, IMO 자율운항선박 국제기준 선점 나선다…산·학·연 20개 기관 ‘공동전선’ - 해사신문",
+    "title_ko": "해수부, IMO 자율운항선박 국제기준 선점 나선다…산·학·연 20개 기관 ‘공동전선’",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA0VWFVR3BCa2lBR3BrMmI0WlVZVWR0R1lUeHBPbktUc1pJSjFCcU5oSzJxS1NiNDJFOUthZ1FtVUFTTU1ZWUwwS3gzcUxqR2o2VzlCV29XZDluOHFfT3dRdnhRdHVfcmxxTF9J?oc=5",
+    "published": "Tue, 08 Sep 2026 05:11:06 GMT",
+    "fetched_at": "2026-09-08 16:40:52",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "조선",
+      "해운",
+      "자동화",
+      "소프트웨어"
+    ],
+    "keywords": [
+      "자율운항선박",
+      "IMO",
+      "국제기준",
+      "해양수산부",
+      "미래산업"
+    ],
+    "reason": "대한민국이 IMO 자율운항선박 국제기준 선점에 나서는 것은 미래 해상운송 산업의 주도권 확보를 위한 중요한 장기 전략이다. 이는 국내 조선, 해운 및 관련 기술 산업의 경쟁력 강화와 성장 동력 확보에 긍정적인 영향을 미칠 것이다.",
+    "action_point": "조선, 해운, 자동화 관련 국내 선도 기업들의 장기 성장 가능성 재평가."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[속보] 어렵게 7천 찍었다 했더니···코스피, 다시 7천 아래에서 마감 - 대구MBC",
+    "title_ko": "[속보] 어렵게 7천 찍었다 했더니···코스피, 다시 7천 아래에서 마감 - 대구MBC",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9BYkt3dTlCZnUzYUswM0lTT0RlNlF2T0pWZm8zYzAzVER6U09GY2ljdGNNOUlack81ZTA5Zi1TN0d0dWY1bG1qamtoV0g?oc=5",
+    "published": "Tue, 08 Sep 2026 06:53:39 GMT",
+    "fetched_at": "2026-09-08 16:41:53",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "전반적 시장",
+      "IT",
+      "반도체",
+      "경기민감주"
+    ],
+    "keywords": [
+      "코스피",
+      "주가지수",
+      "시장심리",
+      "조정"
+    ],
+    "reason": "코스피가 심리적 지지선인 2,700선을 다시 하회하며 투자 심리가 위축되고 시장 전반의 조정 압력이 강화될 수 있습니다. 이는 국내 주식 시장에 대한 보수적인 관점 유지를 시사합니다.",
+    "action_point": "국내 주식 시장의 조정 가능성을 고려하여 현금 비중 확대 또는 방어주 비중 확대를 검토하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "9·7 공급대책 1년 성적표는…“서울 집값은 오르고 착공은 멈췄다”",
+    "title_ko": "9·7 공급대책 1년 성적표는…“서울 집값은 오르고 착공은 멈췄다”",
+    "link": "https://www.mk.co.kr/news/realestate/12147203",
+    "published": "Tue, 08 Sep 2026 16:38:59 +09:00",
+    "fetched_at": "2026-09-08 16:42:14",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "부동산",
+      "건설",
+      "건축자재",
+      "금융"
+    ],
+    "keywords": [
+      "주택공급",
+      "서울 집값",
+      "착공 중단",
+      "부동산 정책",
+      "공급 부족"
+    ],
+    "reason": "이재명 정부의 주택공급 대책이 서울 집값 안정화에 실패하고 신규 착공까지 위축시켜 국내 부동산 시장의 공급 부족 심화 및 가격 상승 압력 지속 가능성을 높입니다. 이는 건설 및 건축자재 업종에 직접적인 악영향을 미칩니다.",
+    "action_point": "국내 건설 및 건축자재 섹터에 대한 투자 비중 축소를 검토하고, 서울 주택 시장의 공급 불안정성에 대비."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "“1~2년 만에 입주 가능”…이성훈 LH 사장, 서울 도심 신축매입 공급 속도전",
+    "title_ko": "“1~2년 만에 입주 가능”…이성훈 LH 사장, 서울 도심 신축매입 공급 속도전",
+    "link": "https://www.mk.co.kr/news/realestate/12147201",
+    "published": "Tue, 08 Sep 2026 16:38:32 +09:00",
+    "fetched_at": "2026-09-08 16:43:52",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "부동산",
+      "건설"
+    ],
+    "keywords": [
+      "LH",
+      "주택 공급",
+      "매입임대주택",
+      "서울 도심",
+      "부동산 정책",
+      "건설 경기"
+    ],
+    "reason": "LH의 서울 도심 매입임대주택 2만 호 공급 계획은 주택 시장의 공급 확대 기조를 강화하여 가격 상승 압력을 완화하고, 건설 섹터에는 신규 매입 수요를 창출할 것입니다.",
+    "action_point": "서울 도심 주택 공급 확대에 따른 장기적 부동산 가격 안정화 추세를 고려하여 주거용 부동산 포트폴리오 비중 조정을 검토하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "“합병때 조종사 서열, 노사합의로 정하라”…대한항공 조종사노조, 파업하나",
+    "title_ko": "“합병때 조종사 서열, 노사합의로 정하라”…대한항공 조종사노조, 파업하나",
+    "link": "https://www.mk.co.kr/news/business/12147200",
+    "published": "Tue, 08 Sep 2026 16:35:14 +09:00",
+    "fetched_at": "2026-09-08 16:44:17",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "항공운수",
+      "여행/관광"
+    ],
+    "keywords": [
+      "대한항공",
+      "아시아나항공",
+      "합병",
+      "조종사 노조",
+      "파업",
+      "노사갈등"
+    ],
+    "reason": "대한항공과 아시아나항공 합병 과정에서 조종사 서열을 둘러싼 노사 갈등이 파업으로 이어질 수 있어 대한항공의 실적 및 합병 일정에 불확실성을 가중시키고 항공운수 섹터 전반에 부정적인 영향을 미칠 수 있다.",
+    "action_point": "대한항공 주식 비중 축소를 고려하거나 신규 매수를 보류한다."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "[단독] “우리 아이도 털렸나”…개인정보 310만건 유출에도 과징금 ‘0원’",
+    "title_ko": "[단독] “우리 아이도 털렸나”…개인정보 310만건 유출에도 과징금 ‘0원’",
+    "link": "https://www.mk.co.kr/news/politics/12147202",
+    "published": "Tue, 08 Sep 2026 16:38:49 +09:00",
+    "fetched_at": "2026-09-08 16:42:32",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "사이버 보안",
+      "IT 서비스"
+    ],
+    "keywords": [
+      "개인정보 유출",
+      "사이버 보안",
+      "교육기관",
+      "데이터 관리",
+      "규제 미비"
+    ],
+    "reason": "교육기관의 대규모 개인정보 유출과 과징금 미부과는 사회적 논란을 야기하나, 주요 투자 자산 시장에 미치는 거시적 영향은 제한적입니다. 다만, 향후 공공 부문 사이버 보안 강화 요구로 이어질 가능성은 있습니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "Iran foreign ministry takes aim at Canada for support of U.S. actions in Strait of Hormuz",
@@ -2725,261 +2983,5 @@
     ],
     "reason": "국민통합위원장의 사퇴는 정부 내 인사이동 및 내부 의견 차이를 시사하지만, 해당 직책은 경제 정책에 직접적인 영향을 미치지 않으므로 금융 시장 전반에 미칠 실질적인 영향은 미미합니다.",
     "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "China hits back at G20 statement on its reliance on exports, accusing them of 'promoting protectionism'",
-    "title_ko": "중국, G20의 수출 의존도 비판에 반박하며 '보호무역주의 조장' 비난",
-    "link": "https://www.cnbc.com/2026/09/03/china-g20-exports-trade.html",
-    "published": "Thu, 03 Sep 2026 11:12:54 GMT",
-    "fetched_at": "2026-09-04 03:14:56",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "수출주",
-      "해운/물류",
-      "산업재",
-      "기술주"
-    ],
-    "keywords": [
-      "중국",
-      "G20",
-      "수출",
-      "보호무역주의",
-      "무역분쟁",
-      "통상압력"
-    ],
-    "reason": "중국이 G20의 수출 의존도 비판과 서방의 무역 조치에 강경하게 반발하면서 글로벌 무역 긴장이 고조될 가능성이 커졌다. 이는 보호무역주의 확산으로 이어져 글로벌 공급망과 성장 둔화를 야기할 수 있는 악재다.",
-    "action_point": "글로벌 수출 의존도가 높은 국내 기업 및 관련 섹터의 비중 축소를 검토하고, 미국-중국 간 무역 갈등 심화 가능성에 대비하여 포트폴리오의 방어적 자산 비중을 높여라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Carney claps back at Lutnick, says Canada will resume trade talks 'when the Americans are ready'",
-    "title_ko": "카니, 러트닉에 반박: 캐나다는 '미국이 준비되면' 무역 협상을 재개할 것",
-    "link": "https://www.cnbc.com/2026/09/03/carney-lutnick-trump-trade-canada.html",
-    "published": "Thu, 03 Sep 2026 16:06:13 GMT",
-    "fetched_at": "2026-09-04 03:15:13",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "무역",
-      "제조업",
-      "소비재",
-      "운송/물류"
-    ],
-    "keywords": [
-      "관세",
-      "무역 분쟁",
-      "캐나다",
-      "미국",
-      "보복 조치"
-    ],
-    "reason": "미국과 캐나다 간 관세 보복 조치로 무역 분쟁이 격화되고 있음을 시사한다. 이는 양국 기업 비용 증가 및 공급망 교란을 야기하여 경제 성장 둔화와 글로벌 무역 심리 위축으로 이어질 수 있다.",
-    "action_point": "무역 분쟁 심화로 인한 글로벌 경기 둔화 우려를 감안하여 수출 비중이 높은 기업의 주식 비중을 축소하고, 달러 자산 보유를 확대하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "“30년 만에 외환위기 마지막 빚 갚습니다”…이 대통령 ‘IMF 청산’ 선언 - 매일경제",
-    "title_ko": "“30년 만에 외환위기 마지막 빚 갚습니다”…이 대통령 ‘IMF 청산’ 선언 - 매일경제",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5GYUpNSHUydXBSaG1nQUNfZDBiR2ZjYTFXbzd2NVJxalBIUWhVUE4tYnEzUnMwb2dyZTN3WVNMSzFlVTR1bHJBT0w2WGNtclZkVGxHUV93?oc=5",
-    "published": "Thu, 03 Sep 2026 04:03:48 GMT",
-    "fetched_at": "2026-09-04 03:15:40",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "전반적 국내 시장",
-      "금융"
-    ],
-    "keywords": [
-      "IMF",
-      "외환위기",
-      "국가부채",
-      "경제 안정",
-      "국가 신용도"
-    ],
-    "reason": "이 뉴스는 1997년 외환위기의 상징적 종결을 의미하며, 대한민국 경제의 회복력과 장기적 안정성을 강화하여 국내 시장에 대한 투자자 신뢰를 높일 수 있습니다.",
-    "action_point": "대한민국 경제의 장기적 안정성 강화 관점에서 국내 자산 비중 유지 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "One stock on Josh Brown's list is a 'double AI beneficiary' that just climbed to all-time highs",
-    "title_ko": "조쉬 브라운이 선정한 '이중 AI 수혜주', 사상 최고치 경신",
-    "link": "https://www.cnbc.com/2026/09/03/one-stock-on-josh-browns-list-is-a-double-ai-beneficiary-that-just-climbed-to-all-time-highs.html",
-    "published": "Thu, 03 Sep 2026 15:00:01 GMT",
-    "fetched_at": "2026-09-04 03:15:23",
-    "sentiment": "호재",
-    "importance": 2,
-    "sectors": [
-      "인공지능",
-      "기술주"
-    ],
-    "keywords": [
-      "AI",
-      "인공지능",
-      "수혜주",
-      "기술주",
-      "사상최고치"
-    ],
-    "reason": "이 기사는 개별 주식에 대한 특정 분석가의 추천과 해당 주식의 긍정적인 성과를 다루며, 인공지능 관련 주식에 대한 투자 심리가 여전히 강함을 보여줍니다. 하지만 매크로 시장 전반에 미치는 영향은 제한적입니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Anthropic's distillation battle turns to the dark web as China concerns swell",
-    "title_ko": "Anthropic의 기술 유출 전쟁, 중국 우려 증폭 속에 다크웹으로 확산",
-    "link": "https://www.cnbc.com/2026/09/03/anthropic-distillation-battle-turns-to-dark-web-china-concerns-swell.html",
-    "published": "Thu, 03 Sep 2026 11:45:01 GMT",
-    "fetched_at": "2026-09-03 23:49:40",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "인공지능",
-      "소프트웨어",
-      "반도체",
-      "사이버보안"
-    ],
-    "keywords": [
-      "인공지능 유출",
-      "기술 안보",
-      "다크웹",
-      "중국",
-      "지정학적 갈등",
-      "지적재산권"
-    ],
-    "reason": "미국 AI 기술의 불법 유출 및 복제는 미국 기술 기업의 경쟁력 약화를 초래하고, 미중 기술 갈등을 심화시켜 관련 섹터에 장기적인 불확실성을 가중시킬 수 있습니다.",
-    "action_point": "미국 인공지능 및 기술 섹터 투자 시, 기술 유출 및 미중 기술 갈등 심화 리스크를 반영하여 포트폴리오 내 관련 비중을 재검토하고 사이버보안 관련주 비중 확대를 고려하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "트럼프 리스크?…네덜란드, '금 86톤' 영국으로 빼냈다 - 전자신문",
-    "title_ko": "트럼프 리스크?…네덜란드, '금 86톤' 영국으로 빼냈다",
-    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ZX3NmWGRiT0ZURzRqcC1wVDRJMUUzblNKQ291Z1d2ZFAxdFQzS0RhaE5XVjdrOEhURUdLbUZFb1B5TnRNb2hiNUg0Z0pBdw?oc=5",
-    "published": "Thu, 03 Sep 2026 08:55:00 GMT",
-    "fetched_at": "2026-09-03 23:49:51",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "원자재(금)",
-      "금융"
-    ],
-    "keywords": [
-      "트럼프",
-      "네덜란드",
-      "금",
-      "지정학적 리스크",
-      "안전자산"
-    ],
-    "reason": "네덜란드의 금 이동은 트럼프 재집권 가능성에 따른 지정학적 불확실성 고조를 시사하며, 이는 글로벌 시장의 안전자산 선호 심리를 자극하여 금 가격에 상승 압력을 가할 수 있습니다.",
-    "action_point": "금 자산 비중 확대를 검토하십시오."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "The world appears to be entering a higher-rate era. Here’s who will pay the price",
-    "title_ko": "세계는 고금리 시대로 진입하는 듯하다. 누가 대가를 치를 것인가?",
-    "link": "https://www.cnbc.com/2026/09/03/global-bond-yields-rising-treasuries-jgb-bunds.html",
-    "published": "Thu, 03 Sep 2026 04:20:20 GMT",
-    "fetched_at": "2026-09-03 19:24:04",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "부동산",
-      "성장주",
-      "기술주",
-      "금융",
-      "정부채",
-      "에너지"
-    ],
-    "keywords": [
-      "고금리 시대",
-      "채권 매도",
-      "국채 발행",
-      "유가 충격",
-      "인플레이션",
-      "금리 인상"
-    ],
-    "reason": "글로벌 고금리 시대 진입이 가속화되며, 높은 국채 발행량과 유가 상승발 인플레이션 우려가 채권 매도를 촉발하고 전반적인 자산 가치 재평가 압력을 높일 것입니다.",
-    "action_point": "고금리 시대 장기화를 대비하여 부채 비중이 높은 자산 및 장기 성장주 비중 축소를 검토하고, 인플레이션 헤지 자산 및 고배당주에 대한 관심을 높여야 합니다."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Putin floats 'chance' at peace with Ukraine as NATO chief warns Russia is becoming 'increasingly reckless'",
-    "title_ko": "푸틴, 우크라이나와 '평화 가능성' 언급... 나토 사무총장은 러시아의 '점점 더 무모해지는' 행동 경고",
-    "link": "https://www.cnbc.com/2026/09/03/putin-peace-russia-ukraine-nato-defense.html",
-    "published": "Thu, 03 Sep 2026 09:48:45 GMT",
-    "fetched_at": "2026-09-03 19:24:12",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "방산"
-    ],
-    "keywords": [
-      "러시아-우크라이나 전쟁",
-      "지정학적 리스크",
-      "에너지 안보"
-    ],
-    "reason": "푸틴의 평화 가능성 언급에도 불구하고 나토의 경고는 러시아-우크라이나 전쟁의 장기화 및 지정학적 불확실성 지속을 시사하며, 이는 글로벌 에너지 가격과 위험 선호 심리에 부정적 영향을 미칠 수 있습니다.",
-    "action_point": "지정학적 불확실성 장기화에 대비하여 안전자산 비중을 유지하고, 에너지 관련주에 대한 신중한 접근을 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Yen jumps to one-month high as traders weigh chance of further intervention",
-    "title_ko": "엔화, 추가 개입 가능성 저울질하며 한 달 만에 최고치로 급등",
-    "link": "https://www.cnbc.com/2026/09/03/yen-japan-intervention-boj.html",
-    "published": "Thu, 03 Sep 2026 09:59:21 GMT",
-    "fetched_at": "2026-09-03 19:24:36",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "외환 시장",
-      "자동차",
-      "기계",
-      "화학"
-    ],
-    "keywords": [
-      "엔화",
-      "통화 개입",
-      "미국 재무장관",
-      "환율 변동성",
-      "일본 경제"
-    ],
-    "reason": "미국 재무장관의 발언은 일본 정부의 엔화 강세 유도 개입 가능성을 크게 높이며, 이는 글로벌 외환 시장의 변동성을 키우고 주요 통화쌍에 직접적인 영향을 줄 것이다.",
-    "action_point": "포트폴리오 내 엔화 노출도를 재점검하고, 달러/엔 환율의 하락 압력에 대비하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "WSJ “미 국방부, 파병 조용히 연장…이란 전쟁 내년까지 장기화” - 한겨레",
-    "title_ko": "WSJ “미 국방부, 파병 조용히 연장…이란 전쟁 내년까지 장기화”",
-    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMzlTZWhtSTN2NlNzcENhNzFLZ2Z0UHZyQ3dDbmh0TjNCd2xDOGpZYXZJR25JZ1dLQ2lnZjNERTRLSExEY0Q5dW5rSkdWdnVLOHBaX3RXaElpUS1mUVVkSDk1RjJVRTVnejVYeVBUcmt0UzZIbENQbEJhdlhFeWRpYmRR?oc=5",
-    "published": "Thu, 03 Sep 2026 07:10:00 GMT",
-    "fetched_at": "2026-09-03 19:25:50",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "방산",
-      "해운",
-      "항공",
-      "주식시장 전반"
-    ],
-    "keywords": [
-      "이란",
-      "중동",
-      "지정학적 리스크",
-      "유가",
-      "파병"
-    ],
-    "reason": "중동 지역의 지정학적 리스크 장기화는 국제 유가 상승 압력을 높이고, 글로벌 공급망 불안정을 심화시켜 전반적인 시장의 불확실성을 증대시킬 것입니다.",
-    "action_point": "국제 유가 상승 및 지정학적 리스크 심화에 대비하여 달러 자산 비중을 확대하고 방산 및 에너지 관련주 편입을 검토하라."
   }
 ]
