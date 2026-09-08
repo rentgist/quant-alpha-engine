@@ -2,6 +2,87 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "Iran foreign ministry takes aim at Canada for support of U.S. actions in Strait of Hormuz",
+    "title_ko": "이란 외무부, 호르무즈 해협 내 미국의 조치 지지한 캐나다 비난",
+    "link": "https://www.cnbc.com/2026/09/08/us-iran-war-trump-hormuz-canada-trade-talks-greenland.html",
+    "published": "Tue, 08 Sep 2026 01:50:07 GMT",
+    "fetched_at": "2026-09-08 11:06:41",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "해운",
+      "방위산업"
+    ],
+    "keywords": [
+      "이란",
+      "캐나다",
+      "미국",
+      "호르무즈 해협",
+      "지정학",
+      "중동",
+      "원유"
+    ],
+    "reason": "호르무즈 해협은 세계 원유 수송의 핵심 통로로, 이 지역 내 이란과 서방 국가 간의 긴장 고조는 국제 유가 변동성 확대 및 지정학적 리스크 상승으로 이어질 수 있습니다.",
+    "action_point": "원유 관련 자산 익스포저를 점검하고 지정학적 리스크 헤지 전략을 고려."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Oil extends gains as renewed Mideast hostilities raise worries of prolonged conflict",
+    "title_ko": "중동 적대행위 재개로 장기 분쟁 우려 고조, 유가 추가 상승",
+    "link": "https://www.cnbc.com/2026/09/08/oil-prices-today-brent-wti-hormuz-iran-war.html",
+    "published": "Tue, 08 Sep 2026 01:42:34 GMT",
+    "fetched_at": "2026-09-08 11:06:49",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "운송",
+      "항공",
+      "해운",
+      "방산",
+      "제조업"
+    ],
+    "keywords": [
+      "유가 상승",
+      "중동 긴장",
+      "지정학적 리스크",
+      "미국-이란",
+      "인플레이션"
+    ],
+    "reason": "중동 긴장 고조로 유가가 추가 상승하며 글로벌 인플레이션 압력을 가중시키고 경제 성장 둔화 우려를 키울 수 있습니다. 에너지 비용 증가는 기업 마진 압박 및 소비 위축으로 이어질 가능성이 있습니다.",
+    "action_point": "고유가 지속 가능성에 대비하여 에너지 섹터 비중을 유지하고, 운송 및 항공 섹터 비중 축소를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "CNBC Daily Open: Rising tensions — from North America to the Middle East",
+    "title_ko": "CNBC 데일리 오픈: 북미에서 중동까지 고조되는 긴장",
+    "link": "https://www.cnbc.com/2026/09/08/cnbc-daily-open-trump-oil-canada-greenland-eu-spacex-iran-mideast-.html",
+    "published": "Tue, 08 Sep 2026 01:08:11 GMT",
+    "fetched_at": "2026-09-08 11:06:58",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "항공우주 및 방위산업",
+      "수출 제조업",
+      "운송 및 물류"
+    ],
+    "keywords": [
+      "트럼프",
+      "미국 우선주의",
+      "무역 갈등",
+      "보호무역주의",
+      "캐나다",
+      "봄바디어"
+    ],
+    "reason": "트럼프의 발언은 미국 우선주의 무역 정책의 재개를 시사하며, 이는 캐나다를 포함한 북미 지역의 무역 관계에 불확실성을 가중시키고 글로벌 공급망에 영향을 줄 수 있습니다.",
+    "action_point": "미국 우선주의 정책 재개 가능성에 대비, 대미 수출 의존도가 높거나 북미 지역 내 제조 및 공급망 의존도가 높은 기업 비중을 재검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "Dow futures fall 300 points to start shortened week as oil prices climb: Live updates",
     "title_ko": "다우 선물 300포인트 하락, 유가 상승 속 단축 주 시작: 실시간 업데이트",
     "link": "https://www.cnbc.com/2026/09/07/stock-market-tuesday-live-updates.html",
@@ -2900,81 +2981,5 @@
     ],
     "reason": "중동 지역의 지정학적 리스크 장기화는 국제 유가 상승 압력을 높이고, 글로벌 공급망 불안정을 심화시켜 전반적인 시장의 불확실성을 증대시킬 것입니다.",
     "action_point": "국제 유가 상승 및 지정학적 리스크 심화에 대비하여 달러 자산 비중을 확대하고 방산 및 에너지 관련주 편입을 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Dutch central bank moves gold bars out of U.S. and Canada, citing ‘crisis preparedness’",
-    "title_ko": "네덜란드 중앙은행, '위기 대비' 명목으로 미국과 캐나다 보관 금괴 회수",
-    "link": "https://www.cnbc.com/2026/09/03/netherlands-gold-transfer-us-canada-uk.html",
-    "published": "Thu, 03 Sep 2026 09:38:05 GMT",
-    "fetched_at": "2026-09-03 19:24:20",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "금",
-      "안전자산"
-    ],
-    "keywords": [
-      "네덜란드 중앙은행",
-      "금괴",
-      "위기 대비",
-      "중앙은행 준비금"
-    ],
-    "reason": "네덜란드 중앙은행의 금괴 회수 및 이동은 지정학적 불확실성 증대와 금융 시스템 리스크에 대한 인식이 높아지고 있음을 시사한다. 이는 안전자산으로서 금의 위상을 강화하는 요인으로 작용할 수 있다.",
-    "action_point": "포트폴리오 내 금과 같은 안전자산 비중 유지 또는 소폭 확대 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "China's slowdown pushes New Zealand exporters to diversify away from their top buyer, RBNZ official tells CNBC",
-    "title_ko": "중국 경기 둔화로 뉴질랜드 수출업체들, 최대 바이어에서 벗어나 다변화 모색 중",
-    "link": "https://www.cnbc.com/2026/09/03/china-new-zealand-dairy-agriculture-exports-slowdown-rbnz.html",
-    "published": "Thu, 03 Sep 2026 04:44:31 GMT",
-    "fetched_at": "2026-09-03 19:24:45",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "수출",
-      "농업",
-      "원자재",
-      "해운"
-    ],
-    "keywords": [
-      "중국 경기 둔화",
-      "뉴질랜드 수출",
-      "무역 다변화",
-      "RBNZ"
-    ],
-    "reason": "중국의 경기 둔화가 현실화되며 주요 수출국인 뉴질랜드가 무역 다변화를 모색하는 것은 중국 경제 둔화의 파급 효과를 보여주며, 글로벌 공급망 변화 가능성을 시사합니다.",
-    "action_point": "중국 의존도가 높은 원자재 및 산업재 섹터의 투자 비중 축소를 검토하고, 신흥 시장 다변화 수혜 기업을 발굴하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[속보]발전5사 1개로 통합···석유·가스 공사, 4개 항만공사도 1개사로 합쳐 - 경향신문",
-    "title_ko": "[속보]발전5사 1개로 통합···석유·가스 공사, 4개 항만공사도 1개사로 합쳐 - 경향신문",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GRkltbGloLVU4T3NfQTQ4eGczZmM5STFBNHZWN0NIWkJ5OXpWbklZTWVrRTFTT09aWlRpb2xsSFJxZ3o0UFpSTGI0MU1FVUU4WlB1Y2FNaEpEUdIBX0FVX3lxTFA1RHladHdfZUJFTFBsNEdGSlVEa0ItMVVZVmJVbVVuZXN1YWlaaFJkcEpWV3dhYVYtbkV3SWZJUTduV0t6SzNmRENJVEE4Qll4QUdpS2lnNzlVYjZsUUNZ?oc=5",
-    "published": "Thu, 03 Sep 2026 02:15:00 GMT",
-    "fetched_at": "2026-09-03 19:25:18",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "에너지",
-      "운수",
-      "물류",
-      "건설"
-    ],
-    "keywords": [
-      "공공기관 통합",
-      "정부정책",
-      "발전사",
-      "석유공사",
-      "가스공사",
-      "항만공사",
-      "효율화"
-    ],
-    "reason": "정부 주도의 주요 공공기관(에너지, 항만) 통합은 장기적인 운영 효율성 증대와 국가 경쟁력 강화를 목표로 합니다. 이는 국가 재정 건전성에 긍정적이나, 단기적인 민간 시장이나 자산 가격에 직접적인 영향은 제한적입니다.",
-    "action_point": "해당 없음"
   }
 ]
