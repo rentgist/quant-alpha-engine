@@ -2,6 +2,32 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "UK announces new Israeli settlement sanctions, despite U.S. warning of economic consequences",
+    "title_ko": "영국, 미국의 경제적 경고에도 불구하고 이스라엘 정착촌에 대한 새로운 제재 발표",
+    "link": "https://www.cnbc.com/2026/09/08/uk-israel-sanctions-miliband-florida-trump.html",
+    "published": "Tue, 08 Sep 2026 15:47:26 GMT",
+    "fetched_at": "2026-09-09 04:40:48",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "방산",
+      "금융"
+    ],
+    "keywords": [
+      "영국",
+      "이스라엘",
+      "제재",
+      "미국",
+      "경제적 경고",
+      "지정학"
+    ],
+    "reason": "영국의 이스라엘 정착촌 제재 발표와 이에 대한 미국의 경제적 경고는 주요 서방 동맹 간의 마찰을 심화시키고 중동 지역의 지정학적 불안정성을 키울 수 있습니다. 이는 국제 유가 변동성 확대 및 글로벌 투자 심리에 부정적 영향을 미칠 가능성이 큽니다.",
+    "action_point": "중동 지역 불안정성 확대 가능성에 대비하여 에너지 관련 자산 비중과 방산주 투자에 대한 재검토 필요."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "U.S. sanctions Iranian airlines in aim to tighten economic squeeze as war spreads, oil rises",
     "title_ko": "미국, 전쟁 확산 및 유가 상승 속 이란 항공사에 제재 부과로 경제적 압박 강화",
     "link": "https://www.cnbc.com/2026/09/08/us-sanctions-iran-airlines-oil-economy-war.html",
@@ -2967,27 +2993,5 @@
     ],
     "reason": "Shein의 IPO 난항은 패스트패션 및 저가 전자상거래 섹터 내 경쟁 심화와 비용 압박 증가를 시사한다. 이는 해당 섹터 기업들의 성장성 및 수익성에 대한 우려를 높일 수 있다.",
     "action_point": "글로벌 패스트패션 및 저가 전자상거래 관련 기업 투자 비중 축소를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Stock futures are little changed as traders await August jobs report: Live updates",
-    "title_ko": "8월 고용보고서 대기 속 주식 선물 소폭 변동: 실시간 업데이트",
-    "link": "https://www.cnbc.com/2026/09/03/stock-market-today-live-updates.html",
-    "published": "Fri, 04 Sep 2026 01:44:12 GMT",
-    "fetched_at": "2026-09-04 11:02:19",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "시장 전반"
-    ],
-    "keywords": [
-      "주식 선물",
-      "8월 고용보고서",
-      "고용지표",
-      "금리 전망"
-    ],
-    "reason": "시장은 8월 고용보고서 발표를 앞두고 관망세를 보이고 있으며, 해당 보고서는 연준의 향후 통화정책 방향과 단기 시장 흐름을 결정하는 중요한 변수가 될 것입니다.",
-    "action_point": "예정된 8월 고용보고서 결과 발표에 따른 금리 및 주식 시장 변동성 확대에 대비한 포트폴리오 점검."
   }
 ]
