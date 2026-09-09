@@ -2,6 +2,58 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "Apple event 2026: Folding iPhone Duo, iPhone 18 Pro, added AI features and more",
+    "title_ko": "2026년 애플 이벤트: 폴더블 아이폰 듀오, 아이폰 18 프로, AI 기능 추가 등",
+    "link": "https://www.cnbc.com/2026/09/09/apple-event-today-live-updates.html",
+    "published": "Wed, 09 Sep 2026 21:08:55 GMT",
+    "fetched_at": "2026-09-10 08:42:00",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "IT 하드웨어",
+      "반도체",
+      "소프트웨어/AI",
+      "소비재"
+    ],
+    "keywords": [
+      "애플",
+      "아이폰",
+      "폴더블",
+      "AI 기능",
+      "신제품 출시",
+      "2026"
+    ],
+    "reason": "애플의 신제품 출시 계획은 미래 기술 트렌드인 폴더블 기기와 AI 기능 강화를 확인시켜주며, 이는 관련 기술 및 부품 공급망 전반에 긍정적인 영향을 미칠 수 있습니다.",
+    "action_point": "애플 공급망 내 국내 반도체 및 부품 기업들의 장기 성장성을 재평가하고, AI 및 폴더블 기술 관련 투자 비중을 검토하라."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Stocks making the biggest moves premarket: Peloton Interactive, Roivant Sciences, Boston Scientific & more",
+    "title_ko": "프리마켓에서 가장 큰 움직임을 보이는 주식: 펠로톤 인터랙티브, 로이반트 사이언스, 보스턴 사이언티픽 외 다수",
+    "link": "https://www.cnbc.com/2026/09/08/stocks-making-the-biggest-moves-premarket-pton-roiv-bsx.html",
+    "published": "Tue, 08 Sep 2026 13:12:54 GMT",
+    "fetched_at": "2026-09-10 08:41:47",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "헬스케어",
+      "소비재",
+      "기술"
+    ],
+    "keywords": [
+      "프리마켓",
+      "개별 주식",
+      "펠로톤",
+      "로이반트 사이언스",
+      "보스턴 사이언티픽"
+    ],
+    "reason": "이 기사는 프리마켓에서 개별 기업들의 주가 변동이 크다는 사실을 전달하며, 특정 섹터 전반에 대한 시사점보다는 해당 기업의 개별 재료에 따른 움직임을 반영합니다. 거시경제적 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "Treasury Department to buy back up to $6 billion in longer-term debt, triple the normal level",
     "title_ko": "미국 재무부, 장기 국채 60억 달러 매입 예정: 통상 수준의 세 배",
     "link": "https://www.cnbc.com/2026/09/09/treasury-department-to-buy-back-6-billion-in-longer-term-debt-triple-the-normal-level.html",
@@ -2946,50 +2998,5 @@
     ],
     "reason": "경기 동탄 신축 아파트가 역대 최고가로 거래되며 수도권 핵심 입지 부동산 시장의 견조한 수요와 유동성을 재확인시켰습니다. 이는 국내 자산가들의 특정 부동산 자산에 대한 선호를 반영하며, 해당 지역의 자산 가치 상승 기대감을 높입니다.",
     "action_point": "동탄 등 수도권 핵심 입지 부동산 자산의 현재 포트폴리오 비중 유지 또는 추가 편입 검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "실종·납치…'괴소문' 흔들리는 제주 경제, 10년째 되풀이 - 이코노미스트",
-    "title_ko": "실종·납치…'괴소문' 흔들리는 제주 경제, 10년째 되풀이",
-    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE91VnFTLWRRRU1FZXNNRVJyUUMwYm9VYUxuWk44SmM1anZ4M1ZVcDNrOFJONXRwM2h2aDJSeDdLWl9JeVVjdlFqdTJ3c3REREpYek92eDVrdkNkbnJ1QTB5b1d3?oc=5",
-    "published": "Sat, 05 Sep 2026 04:17:00 GMT",
-    "fetched_at": "2026-09-05 16:14:45",
-    "sentiment": "악재",
-    "importance": 2,
-    "sectors": [
-      "관광",
-      "레저",
-      "부동산"
-    ],
-    "keywords": [
-      "제주 경제",
-      "괴소문",
-      "관광산업",
-      "지역경제"
-    ],
-    "reason": "제주 지역에서 반복되는 괴소문은 관광객 유입 감소 및 소비 위축을 초래하여, 제주도 경제 전반, 특히 관광 및 서비스 산업에 부정적인 영향을 미칠 수 있습니다. 이는 지역 부동산 시장에도 간접적인 악영향을 줄 수 있습니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "“단 네 마디면 되는데”…국힘, 李대통령 ‘연임’ 정조준",
-    "title_ko": "“단 네 마디면 되는데”…국힘, 李대통령 ‘연임’ 정조준",
-    "link": "https://www.mk.co.kr/news/politics/12145067",
-    "published": "Sat, 05 Sep 2026 15:36:54 +09:00",
-    "fetched_at": "2026-09-05 16:15:11",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [],
-    "keywords": [
-      "국민의힘",
-      "이재명",
-      "대통령 연임",
-      "개헌",
-      "정치"
-    ],
-    "reason": "여야 간 대통령 연임 개헌 문제를 둘러싼 정치적 공방으로, 당장의 경제적 영향은 미미하나 장기적 정치 불확실성 증폭 가능성을 시사합니다.",
-    "action_point": "해당 없음"
   }
 ]
