@@ -2,6 +2,57 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "Treasury Department to buy back up to $6 billion in longer-term debt, triple the normal level",
+    "title_ko": "미국 재무부, 장기 국채 60억 달러 매입 예정: 통상 수준의 세 배",
+    "link": "https://www.cnbc.com/2026/09/09/treasury-department-to-buy-back-6-billion-in-longer-term-debt-triple-the-normal-level.html",
+    "published": "Wed, 09 Sep 2026 18:09:21 GMT",
+    "fetched_at": "2026-09-10 03:11:35",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "채권 시장",
+      "주식 시장 (성장주 중심)",
+      "부동산",
+      "기술"
+    ],
+    "keywords": [
+      "미국 재무부",
+      "국채 매입",
+      "장기 금리",
+      "유동성"
+    ],
+    "reason": "미 재무부의 장기 국채 매입 확대는 시장의 장기 금리 하락 압력을 가중시켜 성장주, 부동산 등 자산 가격에 긍정적인 영향을 미칠 수 있습니다.",
+    "action_point": "장기 금리 하락 압력에 대응하여 성장주 및 부동산 관련 자산의 비중 유지 또는 확대 검토."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "메일 읽고 앱까지 실행…애플, ‘시리 AI’ 품은 아이폰18 공개",
+    "title_ko": "메일 읽고 앱까지 실행…애플, ‘시리 AI’ 품은 아이폰18 공개",
+    "link": "https://www.mk.co.kr/news/it/12148864",
+    "published": "Thu, 10 Sep 2026 03:02:52 +09:00",
+    "fetched_at": "2026-09-10 03:11:48",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "기술",
+      "반도체",
+      "소비재"
+    ],
+    "keywords": [
+      "애플",
+      "아이폰18",
+      "시리 AI",
+      "2나노",
+      "반도체",
+      "스마트폰"
+    ],
+    "reason": "애플의 차세대 아이폰에 AI 기술과 2나노 공정 기반의 고성능 반도체가 탑재되면서 글로벌 스마트폰 시장의 AI 전환 가속화 및 관련 기술/부품 산업의 성장을 촉진할 것으로 예상됩니다. 이는 전반적인 기술 섹터와 고성능 반도체 수요에 긍정적인 영향을 미칠 것입니다.",
+    "action_point": "AI 기술 및 고성능 반도체 생산 관련 기업들의 포트폴리오 비중 확대를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "Trump's oil investments have gained millions during Iran war as his accounts keep trading",
     "title_ko": "트럼프의 석유 투자, 이란 전쟁 중 수백만 달러 수익 기록, 계좌는 계속 거래 중",
     "link": "https://www.cnbc.com/2026/09/09/trump-oil-gas-holdings-iran-war.html",
@@ -2940,56 +2991,5 @@
     ],
     "reason": "여야 간 대통령 연임 개헌 문제를 둘러싼 정치적 공방으로, 당장의 경제적 영향은 미미하나 장기적 정치 불확실성 증폭 가능성을 시사합니다.",
     "action_point": "해당 없음"
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "유난히 짧은 올 추석, 다들 누구와 어디 가나 알아보니",
-    "title_ko": "유난히 짧은 올 추석, 다들 누구와 어디 가나 알아보니",
-    "link": "https://www.mk.co.kr/news/culture/12145060",
-    "published": "Sat, 05 Sep 2026 14:33:24 +09:00",
-    "fetched_at": "2026-09-05 16:15:45",
-    "sentiment": "호재",
-    "importance": 2,
-    "sectors": [
-      "항공",
-      "여행",
-      "숙박",
-      "면세"
-    ],
-    "keywords": [
-      "추석",
-      "해외여행",
-      "일본여행",
-      "항공",
-      "여행사"
-    ],
-    "reason": "짧은 추석 연휴에도 불구하고 해외, 특히 일본 여행 수요가 강하게 나타나며 항공 및 여행 업계의 매출 증대가 기대됩니다. 이는 소비 심리의 한 단면을 보여줍니다.",
-    "action_point": "항공 및 여행 섹터 내 일본 노선 비중이 높은 기업에 대한 투자 비중 확대를 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[경제뭔데]9월 코스피는 원래 잔인했다지만, 미국 중간선거가 코스피를 살릴 수 있을까 - 경향신문",
-    "title_ko": "[경제뭔데]9월 코스피는 원래 잔인했다지만, 미국 중간선거가 코스피를 살릴 수 있을까 - 경향신문",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFd1NsX3RpVm5ER0N4b3hIOUc5UlZuU1JfbTdURzNfTzlRZy1ZWHdUT1FUSkZzaW8yeUU2MHRXMVFqd0M1OEs5WjRTVWtsU3hVZnpYclpFNmtRd9IBX0FVX3lxTE1QdHlzdXp6YjNJdlhXamlBVmdkMDNzS3R1MFZqOVBxSWZPM09ra25tYnh6eFEwWU5mUTZKUEZIaVdQQ016ZDFwZU9wbXBxQVVlS09pSkFwTVZMVG5leWpv?oc=5",
-    "published": "Fri, 04 Sep 2026 21:00:00 GMT",
-    "fetched_at": "2026-09-05 11:02:51",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "주식",
-      "금융",
-      "글로벌 경제",
-      "정치"
-    ],
-    "keywords": [
-      "KOSPI",
-      "미국 중간선거",
-      "증시 전망",
-      "9월 효과"
-    ],
-    "reason": "미국 중간선거 결과는 향후 미국 정책 방향을 결정하며 글로벌 경제 및 무역 환경에 큰 영향을 미쳐 코스피를 포함한 국내 증시의 투자심리에 직접적인 영향을 미칠 수 있습니다.",
-    "action_point": "미국 중간선거 결과에 따른 정책 변화 가능성을 주시하며 포트폴리오의 업종 및 지역별 배분 전략을 재검토해야 합니다."
   }
 ]
