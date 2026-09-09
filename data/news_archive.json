@@ -2,6 +2,58 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "Trump's oil investments have gained millions during Iran war as his accounts keep trading",
+    "title_ko": "트럼프의 석유 투자, 이란 전쟁 중 수백만 달러 수익 기록, 계좌는 계속 거래 중",
+    "link": "https://www.cnbc.com/2026/09/09/trump-oil-gas-holdings-iran-war.html",
+    "published": "Wed, 09 Sep 2026 10:30:01 GMT",
+    "fetched_at": "2026-09-09 23:55:39",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "운송",
+      "화학"
+    ],
+    "keywords": [
+      "트럼프",
+      "석유",
+      "이란 전쟁",
+      "에너지 시장",
+      "지정학적 리스크",
+      "인플레이션"
+    ],
+    "reason": "이란 전쟁으로 인한 지정학적 리스크가 국제 유가를 상승시켜 에너지 시장에 긍정적 영향을 미치지만, 이는 전반적인 인플레이션 압력과 글로벌 경제 성장 둔화 우려를 가중시킬 수 있습니다.",
+    "action_point": "고유가 장기화에 대비하여 에너지 관련 자산 비중 확대를 검토하거나 인플레이션 헤지 전략을 강구하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "2026 국제환경에너지 산업전 - 국제신문",
+    "title_ko": "2026 국제환경에너지 산업전",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeEpXeWczSWZFN2wxVWprakY1N2ZxaV9maXZIODBjT2k4a1pwcXF3cWZqQ29TSGRqZkRVM0dweHlyZlNQSHFKYVRHNG9zRFJzZUhEYkVEQXlOZ1BHYTVNMmJpaGVLdnNHTGJFSDEtcTdEYUhwNDd5UDA4OWRid2VoLXNTcnBKVmFzT1ppcXVYRHBUblE?oc=5",
+    "published": "Wed, 09 Sep 2026 10:25:00 GMT",
+    "fetched_at": "2026-09-09 23:55:49",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "환경",
+      "에너지",
+      "신재생에너지",
+      "친환경"
+    ],
+    "keywords": [
+      "환경",
+      "에너지",
+      "산업전",
+      "전시회",
+      "친환경"
+    ],
+    "reason": "2026년에 개최될 국제 환경에너지 산업전 개최 소식은 해당 산업의 지속적인 성장과 기술 혁신 기대감을 보여주나, 당장의 시장이나 매크로 경제에 직접적인 영향을 미치지 않는다. 이는 장기적인 산업 동향의 일환으로 해석된다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "Brent crude tops $100 as U.S.-Iran tit-for-tat strikes stoke oil supply worries",
     "title_ko": "브렌트유 100달러 돌파, 미국-이란 보복성 공격에 원유 공급 우려 고조",
     "link": "https://www.cnbc.com/2026/09/09/oil-prices-today-wti-brent-us-iran-hormuz-attacks.html",
@@ -2939,53 +2991,5 @@
     ],
     "reason": "미국 중간선거 결과는 향후 미국 정책 방향을 결정하며 글로벌 경제 및 무역 환경에 큰 영향을 미쳐 코스피를 포함한 국내 증시의 투자심리에 직접적인 영향을 미칠 수 있습니다.",
     "action_point": "미국 중간선거 결과에 따른 정책 변화 가능성을 주시하며 포트폴리오의 업종 및 지역별 배분 전략을 재검토해야 합니다."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Tesla's stock drops 6% as Cybercab update 'underwhelms' Wall Street",
-    "title_ko": "테슬라 주가 6% 하락, '사이버캡' 업데이트 월가 실망시켜",
-    "link": "https://www.cnbc.com/2026/09/04/teslas-stock-drops-as-cybercab-update-underwhelms-nhtsa-probe.html",
-    "published": "Fri, 04 Sep 2026 20:06:13 GMT",
-    "fetched_at": "2026-09-05 11:02:43",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "전기차",
-      "기술주"
-    ],
-    "keywords": [
-      "테슬라",
-      "사이버캡",
-      "전기차",
-      "주가 하락",
-      "성장주"
-    ],
-    "reason": "테슬라의 핵심 신사업에 대한 시장 기대치 하회는 개별 기업 리스크를 부각시키며, 성장주 및 전기차 섹터 전반의 투자 심리에 부정적 영향을 미칠 수 있습니다.",
-    "action_point": "전기차 섹터 내 개별 성장주 투자 비중을 재점검하고, 기술 혁신 실패 리스크에 대비한 포트폴리오 조정을 고려하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "트럼프 “이란 전쟁은 사소한 것”…한국 파병 검토엔 “기다리는 중” - v.daum.net",
-    "title_ko": "트럼프 “이란 전쟁은 사소한 것”…한국 파병 검토엔 “기다리는 중”",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5SNHVxYVFjd3pPRTRNZ1p1bjd0S2xIdkV0SU10OEgwanFGZi1yYmgwY2FXbTJmaTh2aEVMWXNGU2dUNEw1M19oR2ItdUQ2ZGM?oc=5",
-    "published": "Fri, 04 Sep 2026 21:56:00 GMT",
-    "fetched_at": "2026-09-05 08:40:57",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "방위산업",
-      "에너지"
-    ],
-    "keywords": [
-      "트럼프",
-      "이란",
-      "한국 파병",
-      "지정학",
-      "한미 동맹"
-    ],
-    "reason": "트럼프 대통령의 이란 관련 발언은 중동 지정학적 긴장 완화 가능성을 시사하나, 한국 파병 검토 언급은 한미 동맹 관계의 불확실성을 높이고 국내 투자 환경에 잠재적 불안 요인으로 작용합니다.",
-    "action_point": "한미 동맹 관련 불확실성 증대에 따른 국내 방산 섹터 및 외교 리스크 민감주의 변동성 확대 가능성을 주시."
   }
 ]
