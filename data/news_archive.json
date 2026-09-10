@@ -1,5 +1,79 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "The likelihood of a Fed interest rate hike next week just got a lot higher",
+    "title_ko": "다음 주 연준 금리 인상 가능성이 상당히 높아졌다",
+    "link": "https://www.cnbc.com/2026/09/10/the-likelihood-of-a-fed-interest-rate-hike-next-week-just-got-a-lot-higher.html",
+    "published": "Thu, 10 Sep 2026 16:55:17 GMT",
+    "fetched_at": "2026-09-11 04:21:44",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "기술주",
+      "부동산",
+      "금융"
+    ],
+    "keywords": [
+      "Fed",
+      "금리 인상",
+      "매파적",
+      "긴축"
+    ],
+    "reason": "연준 금리 인상 가능성 증가는 위험자산 회피 심리를 강화하고, 주식 시장 전반에 하방 압력을 가하며, 달러 강세 요인으로 작용할 것이다.",
+    "action_point": "고금리에 취약한 성장주와 부동산 관련 자산 비중을 축소하고, 안전자산으로서 달러 비중을 유지하라."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services",
+    "title_ko": "OpenAI, 금융 서비스용 챗GPT로 월스트리트 주니어 뱅커 업무 공략",
+    "link": "https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html",
+    "published": "Thu, 10 Sep 2026 19:02:58 GMT",
+    "fetched_at": "2026-09-11 04:21:35",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "금융",
+      "기술",
+      "소프트웨어"
+    ],
+    "keywords": [
+      "OpenAI",
+      "ChatGPT",
+      "인공지능",
+      "금융 서비스",
+      "자동화",
+      "생산성"
+    ],
+    "reason": "이 기술은 금융 산업 내 리서치 및 모델링 등 노동집약적 업무의 자동화를 가속화하여 금융 기관의 운영 효율성 증대와 비용 절감을 이끌며, 장기적으로 해당 섹터의 생산성 및 수익성 개선에 기여할 것입니다.",
+    "action_point": "AI 기술 도입을 통해 생산성 향상이 기대되는 금융 및 기술 섹터 기업에 대한 투자 기회를 모색하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "K폐암신약 '렉라자 신화'… 유한양행·오스코텍 베스트 제약상",
+    "title_ko": "K폐암신약 '렉라자 신화'… 유한양행·오스코텍 베스트 제약상",
+    "link": "https://www.mk.co.kr/news/it/12149938",
+    "published": "Thu, 10 Sep 2026 23:28:03 +09:00",
+    "fetched_at": "2026-09-11 04:21:55",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "제약/바이오"
+    ],
+    "keywords": [
+      "유한양행",
+      "오스코텍",
+      "렉라자",
+      "폐암 신약",
+      "K-바이오",
+      "프리갈리앵"
+    ],
+    "reason": "국산 신약의 국제적 수상은 국내 제약/바이오 섹터 전반에 대한 신뢰도를 높이고, 유한양행과 오스코텍의 기업 가치 재평가 기회를 제공합니다.",
+    "action_point": "유한양행과 오스코텍의 주가 흐름을 면밀히 분석하고 국내 바이오 섹터 비중 확대를 검토."
+  },
+  {
     "source": "CNBC_Finance",
     "market": "US",
     "title": "Kalshi launches ‘perps’ for gold and silver following CFTC approval, expanding futures offerings",
@@ -2927,81 +3001,5 @@
     ],
     "reason": "미국이 베네수엘라 석유 산업에 국가자본주의적 방식으로 개입하는 전례 없는 딜은 글로벌 원유 공급망과 가격에 중대한 불확실성을 가중시킬 것입니다. 이는 지정학적 리스크를 심화시키고 에너지 시장의 변동성을 크게 확대할 수 있습니다.",
     "action_point": "글로벌 원유 공급 변화 및 지정학적 리스크 확대를 고려하여 에너지 관련 투자 비중을 재검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "트럼프 \"이란 전쟁은 사소한 일\"...미 \"한국 파병 기다리는 중\" - YTN",
-    "title_ko": "트럼프 \"이란 전쟁은 사소한 일\"...미 \"한국 파병 기다리는 중\"",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE04RGhyU1I2cTNWTFNWbktoTW92b1ZPVXlEM25CMzlDUVpLMjhpdGNnMjNUZnZzRExPTktqS3pVWXVqT3IwdXozX3JXMzdmSnM4VFBBMTNGTUs4cGNKVHc?oc=5",
-    "published": "Sat, 05 Sep 2026 12:28:00 GMT",
-    "fetched_at": "2026-09-06 08:28:24",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "방산",
-      "해운"
-    ],
-    "keywords": [
-      "트럼프",
-      "이란",
-      "한국 파병",
-      "지정학"
-    ],
-    "reason": "트럼프의 이란 전쟁 관련 발언은 중동 지정학적 리스크 완화 기대를 주지만, 한국의 중동 파병 가능성은 국내 방산 분야에 잠재적 영향을 미치고 지정학적 부담을 높일 수 있습니다.",
-    "action_point": "국내 방산 섹터 내 중동 지정학적 리스크 노출 및 잠재적 수혜 기업을 분석하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "“주식 계좌만 보면 잠도 안온다”…예적금으로 다시 ‘머니무브’",
-    "title_ko": "“주식 계좌만 보면 잠도 안온다”…예적금으로 다시 ‘머니무브’",
-    "link": "https://www.mk.co.kr/news/economy/12145181",
-    "published": "Sun, 06 Sep 2026 06:04:11 +09:00",
-    "fetched_at": "2026-09-06 06:49:31",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "주식 시장 전반",
-      "은행",
-      "증권"
-    ],
-    "keywords": [
-      "머니무브",
-      "정기예금",
-      "코스피",
-      "박스권",
-      "주식시장",
-      "빚투"
-    ],
-    "reason": "국내 증시 부진 장기화로 투자자금이 예금으로 회귀하며 주식시장 유동성이 위축되어 추가 상승을 제한하고, 빚투 자금의 증가세는 시장의 취약성을 나타냅니다.",
-    "action_point": "국내 주식시장 유동성 위축에 대비하여 주식 비중을 보수적으로 유지하고, 예금 증가의 수혜를 입을 수 있는 국내 은행주에 대한 관심을 고려합니다."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "GM vs. Ford: U.S. defense, energy sectors add to automakers' century-old rivalry",
-    "title_ko": "GM 대 포드: 미국 국방 및 에너지 부문, 자동차 업계의 오랜 경쟁에 새로운 장을 열다",
-    "link": "https://www.cnbc.com/2026/09/05/gm-ford-defense-energy.html",
-    "published": "Sat, 05 Sep 2026 12:00:01 GMT",
-    "fetched_at": "2026-09-06 06:49:12",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "자동차",
-      "국방",
-      "에너지 저장",
-      "산업재"
-    ],
-    "keywords": [
-      "GM",
-      "포드",
-      "국방",
-      "에너지 저장",
-      "사업 다각화",
-      "자동차 산업"
-    ],
-    "reason": "주요 자동차 기업들이 국방 및 에너지 저장 등 신성장 동력 확보를 위해 사업 다각화를 추진 중임을 보여준다. 이는 전통 산업의 변화와 함께 관련 기술 및 소재 기업들에게 새로운 투자 기회를 제공할 수 있다.",
-    "action_point": "미국 방산 및 에너지 저장 산업의 밸류체인 내 잠재적 성장 기업을 주시하라."
   }
 ]
