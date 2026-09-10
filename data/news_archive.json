@@ -1,5 +1,52 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Investors seek hedges as midterms and geopolitical risks threaten market calm",
+    "title_ko": "투자자들, 중간선거 및 지정학적 리스크 고조에 시장 안정성 위협받자 헤지 수단 모색",
+    "link": "https://www.cnbc.com/2026/09/10/fear-gauge-vix-hedges-volatility-stocks.html",
+    "published": "Thu, 10 Sep 2026 11:10:20 GMT",
+    "fetched_at": "2026-09-10 21:30:47",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "시장 전반",
+      "방어주"
+    ],
+    "keywords": [
+      "중간선거",
+      "지정학적 리스크",
+      "시장 변동성",
+      "헤지"
+    ],
+    "reason": "다가오는 중간선거와 지정학적 리스크 고조로 투자자들의 위험 회피 심리가 강해지면서 시장 변동성이 확대될 가능성이 높다. 이는 위험 자산에 대한 투자 심리를 위축시키고 안전 자산 선호를 증대시킬 것이다.",
+    "action_point": "포트폴리오 내 위험 자산 비중을 축소하고 방어적 자산 또는 안전 자산 비중 확대를 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "삼성전자 '월세 꼼수' 논란...줄해고 위기? [앵커리포트] - YTN",
+    "title_ko": "삼성전자 '월세 꼼수' 논란...줄해고 위기? [앵커리포트]",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE56aHp6Rzk0ZURMZm82TUhJZXpZSTE3djlWczBhdUdFUWk5VlFrTnlNUmp6Qm5kRF9PQXpFTkYwcEhFMzNka2otSVJPcVdDSjY5YkplcnRQei1FNGgwaVE?oc=5",
+    "published": "Thu, 10 Sep 2026 09:10:00 GMT",
+    "fetched_at": "2026-09-10 21:31:03",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "전기전자",
+      "노동시장",
+      "기업지배구조"
+    ],
+    "keywords": [
+      "삼성전자",
+      "월세 꼼수",
+      "해고",
+      "노동 리스크"
+    ],
+    "reason": "삼성전자의 내부 노동 관련 논란 및 대규모 해고 가능성은 기업 이미지와 실적에 부정적 영향을 미치며, 투자 심리를 위축시킬 수 있습니다.",
+    "action_point": "삼성전자 주식 보유 비중 조정 검토"
+  },
+  {
     "source": "GoogleNews_Korea",
     "market": "KR",
     "title": "2008년 금융위기 직전 닮았다…美은행에 쌓인 ‘수상한 돈’ - 중앙일보",
@@ -2958,52 +3005,5 @@
     ],
     "reason": "중동 지역의 지정학적 긴장이 급격히 고조되어 국제 유가 상승 압력이 커지고 글로벌 금융시장의 위험 회피 심리가 확산될 수 있습니다.",
     "action_point": "에너지 섹터 비중 확대를 검토하고 지정학적 리스크 심화에 따른 안전자산 비중을 유지하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Meet the CISO: A new front line star in the AI cybersecurity war",
-    "title_ko": "CISO를 주목하라: AI 사이버보안 전쟁의 새로운 최전선 스타",
-    "link": "https://www.cnbc.com/2026/09/05/ai-cybersecurity-ciso-executive.html",
-    "published": "Sat, 05 Sep 2026 12:00:01 GMT",
-    "fetched_at": "2026-09-06 02:02:04",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "사이버보안",
-      "IT서비스",
-      "소프트웨어"
-    ],
-    "keywords": [
-      "AI 보안",
-      "사이버보안",
-      "CISO",
-      "데이터 침해"
-    ],
-    "reason": "AI 기반 사이버 공격의 심각성이 부각되며 기업들의 보안 강화 필요성이 커지고 있다. 이는 기업 운영 리스크 증가와 동시에 사이버보안 산업의 성장 동력이 될 것이다.",
-    "action_point": "사이버보안 솔루션 및 IT 서비스 섹터에 대한 비중 확대를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Goldman Sachs says buy the dip in these five stocks before it's too late",
-    "title_ko": "골드만삭스, 늦기 전에 이 다섯 가지 주식 저점 매수 기회라고 조언",
-    "link": "https://www.cnbc.com/2026/09/05/buy-the-dip-in-these-five-stocks-before-its-too-late-goldman-says.html",
-    "published": "Sat, 05 Sep 2026 12:10:33 GMT",
-    "fetched_at": "2026-09-05 23:15:01",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "성장주",
-      "기술주"
-    ],
-    "keywords": [
-      "골드만삭스",
-      "저점 매수",
-      "주식 투자",
-      "월스트리트"
-    ],
-    "reason": "골드만삭스의 특정 주식에 대한 저점 매수 권고는 해당 기업들의 실적 개선 또는 주가 반등 가능성을 시사합니다. 이는 투자 심리에 긍정적 영향을 미칠 수 있으나, 거시 경제 전반에 미치는 영향은 제한적입니다.",
-    "action_point": "골드만삭스가 추천한 특정 종목들을 확인하고, 본인의 투자 기준에 부합하는지 분석하여 포트폴리오 편입을 검토하라."
   }
 ]
