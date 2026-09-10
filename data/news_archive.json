@@ -1,5 +1,30 @@
 [
   {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Kalshi launches ‘perps’ for gold and silver following CFTC approval, expanding futures offerings",
+    "title_ko": "칼시(Kalshi), CFTC 승인 받아 금과 은 무기한 선물(perps) 출시하며 선물 상품군 확장",
+    "link": "https://www.cnbc.com/2026/09/10/kalshi-launches-perps-for-gold-and-silver-following-cftc-approval-expanding-futures-offerings.html",
+    "published": "Thu, 10 Sep 2026 14:00:11 GMT",
+    "fetched_at": "2026-09-11 01:46:15",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "금융",
+      "원자재"
+    ],
+    "keywords": [
+      "칼시",
+      "CFTC",
+      "금",
+      "은",
+      "선물",
+      "파생상품"
+    ],
+    "reason": "예측 시장 기업 칼시가 CFTC 승인 하에 금과 은의 무기한 선물 상품을 출시하여, 해당 원자재에 대한 투자 및 헤징 기회가 소폭 확대된다. 이는 원자재 시장의 유동성 및 거래 활동에 미미한 영향을 줄 수 있으나, 거시 경제 전반에 미치는 영향은 제한적이다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "Investors seek hedges as midterms and geopolitical risks threaten market calm",
@@ -2978,32 +3003,5 @@
     ],
     "reason": "주요 자동차 기업들이 국방 및 에너지 저장 등 신성장 동력 확보를 위해 사업 다각화를 추진 중임을 보여준다. 이는 전통 산업의 변화와 함께 관련 기술 및 소재 기업들에게 새로운 투자 기회를 제공할 수 있다.",
     "action_point": "미국 방산 및 에너지 저장 산업의 밸류체인 내 잠재적 성장 기업을 주시하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "U.S. attacks 3 Iranian oil tankers after missiles target Navy warships",
-    "title_ko": "미국, 해군 군함 미사일 공격 후 이란 유조선 3척 공격",
-    "link": "https://www.cnbc.com/2026/09/05/us-iran-oil-tankers-navy-missile-attack.html",
-    "published": "Sat, 05 Sep 2026 15:43:08 GMT",
-    "fetched_at": "2026-09-06 02:01:50",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "에너지",
-      "해운",
-      "항공",
-      "정유/화학"
-    ],
-    "keywords": [
-      "미국",
-      "이란",
-      "유조선",
-      "지정학적 리스크",
-      "원유 가격",
-      "중동"
-    ],
-    "reason": "중동 지역의 지정학적 긴장이 급격히 고조되어 국제 유가 상승 압력이 커지고 글로벌 금융시장의 위험 회피 심리가 확산될 수 있습니다.",
-    "action_point": "에너지 섹터 비중 확대를 검토하고 지정학적 리스크 심화에 따른 안전자산 비중을 유지하라."
   }
 ]
