@@ -1,5 +1,30 @@
 [
   {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Stocks making the biggest moves midday: Dell, Skyworks Solutions, GameStop & more",
+    "title_ko": "장중 가장 큰 움직임을 보이는 주식들: Dell, Skyworks Solutions, GameStop 외 다수",
+    "link": "https://www.cnbc.com/2026/09/11/stocks-making-the-biggest-moves-midday-dell-swks-gme.html",
+    "published": "Fri, 11 Sep 2026 17:56:57 GMT",
+    "fetched_at": "2026-09-12 03:00:48",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "기술",
+      "반도체",
+      "소매"
+    ],
+    "keywords": [
+      "개별주식",
+      "장중변동",
+      "델",
+      "스카이웍스솔루션즈",
+      "게임스톱"
+    ],
+    "reason": "이 기사는 특정 개별 기업들의 장중 주가 움직임을 보고하는 것으로, 전반적인 거시경제나 시장 전체의 방향성에 대한 직접적인 신호를 제공하지 않습니다. 각 기업의 개별적인 뉴스나 이슈에 반응하는 것입니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "Oil prices fall after double-digit weekly gains above $100",
@@ -2984,32 +3009,5 @@
     ],
     "reason": "국제 환경 포럼에서 순환경제 2.0이 논의되는 것은 장기적으로 환경 산업의 투자 및 정책 방향에 영향을 미칠 수 있으나, 단기적인 거시경제나 시장 전반에 미치는 직접적인 영향은 제한적이다.",
     "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "고민 커진 호르무즈 파병, 이란 “전쟁 참여 간주” - 동아일보",
-    "title_ko": "고민 커진 호르무즈 파병, 이란 “전쟁 참여 간주”",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE10RWVxVnZLWGVLc1p2THg2V1YwMExYQkVjaHBfNG9XY0pJcHlyM0hFVzZLRC1hUmg5TTltSHBmaUl6VldJbWJhMkFVN2IyeHVRMGk4Q2NBaXBhVkg0UEpZc2QzQ05mVFJYVTJJSEVjblpmM3lhdUpZ0gFmQVVfeXFMTk1IVzNMbmlRSFlRaVd3eEV4bk5QTGZVTS1acDN0Zk1FOXBkSjh6UzVnZ0RHaUllZTQ2RlBZSS1xWVFkRHd6SExvUlhGZFZyelVTVjBfYk5xRG5yTnBGY0dFOURER25B?oc=5",
-    "published": "Sun, 06 Sep 2026 19:30:00 GMT",
-    "fetched_at": "2026-09-07 04:46:42",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "원자재",
-      "정유",
-      "해운",
-      "방산",
-      "항공"
-    ],
-    "keywords": [
-      "호르무즈 해협",
-      "이란",
-      "지정학적 리스크",
-      "유가",
-      "원유 공급망"
-    ],
-    "reason": "이란의 호르무즈 해협 파병 관련 경고는 중동 지정학적 리스크를 최고조로 끌어올리며, 글로벌 원유 공급망 불안정성 증대로 유가 급등 압력을 가할 것입니다. 이는 전반적인 인플레이션 우려를 심화시키고 위험 자산 회피 심리를 부추길 수 있습니다.",
-    "action_point": "중동 지정학적 리스크 심화에 따른 유가 급등 가능성에 대비하여 방산 및 에너지 관련 자산 비중 확대를 검토하십시오."
   }
 ]
