@@ -2,6 +2,82 @@
   {
     "source": "CNBC_Finance",
     "market": "US",
+    "title": "The iPhone Duo enters China’s crowded foldable market — and faces a price test",
+    "title_ko": "아이폰 듀오, 중국의 혼잡한 폴더블 시장 진출 – 가격 시험대에 오르다",
+    "link": "https://www.cnbc.com/2026/09/11/the-iphone-duo-enters-chinas-crowded-foldable-market.html",
+    "published": "Fri, 11 Sep 2026 00:19:54 GMT",
+    "fetched_at": "2026-09-11 09:41:09",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "IT 하드웨어",
+      "반도체",
+      "디스플레이"
+    ],
+    "keywords": [
+      "애플",
+      "아이폰 듀오",
+      "폴더블 스마트폰",
+      "중국 시장",
+      "가격 경쟁",
+      "샤오미",
+      "화웨이"
+    ],
+    "reason": "애플의 신제품 아이폰 듀오가 중국 폴더블 시장에서 샤오미, 화웨이 등 현지 경쟁사들의 저렴한 제품으로 인해 가격 저항에 직면했으며, 이는 애플의 프리미엄 전략과 중국 내 시장 점유율에 대한 우려를 제기합니다.",
+    "action_point": "중국 프리미엄 스마트폰 시장의 경쟁 심화에 따른 국내 IT 부품주(반도체, 디스플레이 등) 투자 매력도를 재평가하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Oracle's stock edges up on earnings beat as cloud infrastructure revenue more than doubles",
+    "title_ko": "오라클 주가, 실적 호조 및 클라우드 인프라 매출 2배 이상 성장에 소폭 상승",
+    "link": "https://www.cnbc.com/2026/09/10/oracle-orcl-q1-earnings-report-2027.html",
+    "published": "Thu, 10 Sep 2026 21:42:47 GMT",
+    "fetched_at": "2026-09-11 09:41:24",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "기술주",
+      "클라우드 컴퓨팅",
+      "소프트웨어"
+    ],
+    "keywords": [
+      "오라클",
+      "실적 호조",
+      "클라우드",
+      "기술주"
+    ],
+    "reason": "오라클의 클라우드 인프라 매출 급증은 기업 클라우드 수요가 견조함을 보여주며, 이는 전반적인 기술주 및 클라우드 섹터에 긍정적인 신호로 작용할 수 있습니다.",
+    "action_point": "클라우드 서비스 및 엔터프라이즈 소프트웨어 관련 기술주 투자 비중 확대 검토"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Inside India newsletter: India’s green push aims to boost energy security but exposes China dependency",
+    "title_ko": "인도 뉴스레터: 인도의 친환경 추진, 에너지 안보 강화 목표하지만 중국 의존성 노출",
+    "link": "https://www.cnbc.com/2026/09/10/india-green-energy-china-reliance-battery.html",
+    "published": "Thu, 10 Sep 2026 00:09:06 GMT",
+    "fetched_at": "2026-09-11 09:41:30",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "신재생에너지",
+      "원자재",
+      "전력 인프라"
+    ],
+    "keywords": [
+      "인도",
+      "신재생에너지",
+      "에너지 안보",
+      "중국 의존성",
+      "공급망"
+    ],
+    "reason": "인도의 신재생에너지 확대는 관련 산업 성장을 촉진하나, 중국에 대한 핵심 부품 의존성 심화는 지정학적 리스크와 공급망 불안정성을 키울 수 있습니다. 이는 글로벌 에너지 전환 과정의 복잡한 현실을 보여줍니다.",
+    "action_point": "글로벌 신재생에너지 관련 투자 시 중국 공급망 의존도가 높은 기업에 대한 리스크를 재평가하고 분산 투자를 고려하십시오."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
     "title": "Stocks making the biggest moves premarket: Macy's, Meta, Apple, Novartis and more",
     "title_ko": "프리마켓 주요 움직임을 보이는 주식들: 메이시스, 메타, 애플, 노바티스 외 다수",
     "link": "https://www.cnbc.com/2026/09/10/stocks-making-the-biggest-moves-premarket-.html",
@@ -2932,74 +3008,5 @@
     ],
     "reason": "우크라이나의 전비 조달을 위한 내부 정책 변화 소식으로, 글로벌 금융 시장이나 주요 투자 자산에 미치는 직접적인 매크로 영향은 제한적입니다. 다만, 우크라이나 전쟁 상황을 지속적으로 주시할 필요는 있습니다.",
     "action_point": "해당 없음"
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "[단독] 30년 거래없던 빌라 샀다가 취득세 8배 ‘날벼락’…사각지대 개선할까",
-    "title_ko": "[단독] 30년 거래없던 빌라 샀다가 취득세 8배 ‘날벼락’…사각지대 개선할까",
-    "link": "https://www.mk.co.kr/news/realestate/12145608",
-    "published": "Sun, 06 Sep 2026 20:12:51 +09:00",
-    "fetched_at": "2026-09-06 20:28:23",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "부동산"
-    ],
-    "keywords": [
-      "취득세",
-      "임대사업",
-      "부동산",
-      "정책 개선",
-      "빌라"
-    ],
-    "reason": "이 기사는 임대사업 등록 시 취득세 중과 배제 특례 적용의 사각지대를 조명하며, 특정 유형의 주택 매입 시 예상치 못한 세금 부담이 발생할 수 있음을 시사한다. 정부의 제도 개선 검토는 향후 관련 부동산 정책의 변화 가능성을 내포한다.",
-    "action_point": "임대사업 목적으로 노후 주택 매입을 고려한다면 취득세 감면 요건을 면밀히 재확인하고 정책 변화를 주시하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Trump’s first major midterm money move: A $10 million Texas Senate ad blitz",
-    "title_ko": "트럼프, 중간선거 앞두고 텍사스 상원 광고에 1천만 달러 투입하며 첫 대규모 자금 집행",
-    "link": "https://www.cnbc.com/2026/09/05/trumps-first-major-midterm-spend-is-10-million-texas-senate-ad-blitz.html",
-    "published": "Sat, 05 Sep 2026 22:30:25 GMT",
-    "fetched_at": "2026-09-06 15:49:44",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [],
-    "keywords": [
-      "트럼프",
-      "중간선거",
-      "선거 자금",
-      "공화당",
-      "텍사스 상원"
-    ],
-    "reason": "이 뉴스는 미국 중간선거를 앞둔 트럼프 전 대통령의 선거 자금 집행을 보도한다. 현재 경제 펀더멘털이나 통화 정책, 기업 실적에 직접적인 영향을 주지 않아 거시 경제적 영향은 제한적이다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Trump turns up the heat on Warsh as Fed rate hike looms",
-    "title_ko": "트럼프, 연준 금리 인상 임박 속 워시에 대한 압박 강화",
-    "link": "https://www.cnbc.com/2026/09/05/trump-warsh-fed-september-rate-hike.html",
-    "published": "Sat, 05 Sep 2026 19:12:53 GMT",
-    "fetched_at": "2026-09-06 10:58:06",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "기술",
-      "부동산",
-      "원자재"
-    ],
-    "keywords": [
-      "트럼프",
-      "연준",
-      "금리 인상",
-      "통화 정책",
-      "정치적 압력"
-    ],
-    "reason": "트럼프 행정부의 연준 금리 인상 저지 시도는 통화정책 완화 기대를 높여 주식 등 위험자산에 긍정적으로 작용할 수 있으며, 이는 달러 약세 압력을 가할 것입니다.",
-    "action_point": "연준의 금리 인상 지연 가능성을 고려하여 성장주 및 부동산 관련 자산 보유 비중을 유지하라."
   }
 ]
