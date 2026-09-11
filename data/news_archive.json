@@ -1,5 +1,75 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "트럼프 “9·11, 오늘 우리가 싸우는 이유”...이란전쟁과 직접 연결 - YTN",
+    "title_ko": "트럼프 “9·11, 오늘 우리가 싸우는 이유”...이란전쟁과 직접 연결",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5UTjZvSmROVDVTRnlpUEdCLTFoUERzYWhhbFF0ekdIRG85Qm96MVVnR08zN245YlhvXzc4d0pNNjBwSXlSTGFZMW85eWNic2k1bjJSRHlPZHhtekc1Q1E?oc=5",
+    "published": "Fri, 11 Sep 2026 21:07:00 GMT",
+    "fetched_at": "2026-09-12 07:54:32",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지 (정유/가스)",
+      "방산",
+      "해운"
+    ],
+    "keywords": [
+      "트럼프",
+      "이란",
+      "지정학적 리스크",
+      "유가"
+    ],
+    "reason": "트럼프의 발언은 이란과의 잠재적 군사적 충돌 가능성을 높여 중동 지정학적 리스크를 부각시킨다. 이는 글로벌 유가 상승 압력으로 작용하며 안전자산 선호 심리를 강화하고 시장 불확실성을 증대시킬 수 있다.",
+    "action_point": "중동 지정학적 리스크 심화에 따른 유가 변동성 확대 및 증시 하방 압력에 대비하여 에너지 섹터 비중 확대 또는 달러/금 등 안전자산 보유 검토."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Stocks making the biggest moves premarket: GameStop, Oracle, Adobe, RH & more",
+    "title_ko": "개장 전 가장 큰 움직임을 보이는 주식들: 게임스탑, 오라클, 어도비, RH 및 기타",
+    "link": "https://www.cnbc.com/2026/09/11/stocks-making-the-biggest-moves-premarket-gme-orcl-adbe-rh.html",
+    "published": "Fri, 11 Sep 2026 11:25:04 GMT",
+    "fetched_at": "2026-09-12 07:54:06",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [],
+    "keywords": [
+      "개장 전",
+      "주식 변동",
+      "게임스탑",
+      "오라클",
+      "어도비",
+      "RH"
+    ],
+    "reason": "이 기사는 특정 개별 기업들의 개장 전 주가 변동을 단순히 나열한 것으로, 전반적인 시장이나 거시 경제에 미치는 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Europe is still waiting for a trillion-dollar company. Here’s PitchBook’s frontrunner",
+    "title_ko": "유럽은 여전히 1조 달러 기업을 기다리고 있다: 피치북의 유력 후보",
+    "link": "https://www.cnbc.com/2026/09/11/europe-first-trillion-dollar-company.html",
+    "published": "Fri, 11 Sep 2026 14:03:44 GMT",
+    "fetched_at": "2026-09-12 07:54:24",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "유럽 증시",
+      "기술 섹터",
+      "성장주"
+    ],
+    "keywords": [
+      "유럽",
+      "1조 달러 기업",
+      "성장 기업",
+      "장기 전망"
+    ],
+    "reason": "이 기사는 유럽 시장의 장기적인 성장 잠재력과 미래의 주요 산업 리더십에 대한 기대감을 반영한다. 단기적인 시장 영향은 제한적이나, 유럽 내 혁신 기업 발굴 및 투자 동향에 대한 장기적 힌트를 제공한다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "Iran, Russia condemn Western economic sanctions and urge BRICS bloc to deepen economic ties",
@@ -2939,78 +3009,6 @@
       "스페이스X"
     ],
     "reason": "이 뉴스는 우주 기술과 데이터 센터 산업의 장기적인 발전 가능성을 제시하나, 현재로서는 초기 단계의 미래 기술 논의로, 단기적인 시장이나 거시 경제에 미칠 직접적인 영향은 제한적입니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "U.S. envoys make first Kyiv visit amid Ukraine war peace push",
-    "title_ko": "미국 특사단, 우크라이나 전쟁 평화 추진 속 첫 키이우 방문",
-    "link": "https://www.cnbc.com/2026/09/06/us-envoys-make-first-kyiv-visit-amid-ukraine-war-peace-push.html",
-    "published": "Sun, 06 Sep 2026 14:11:58 GMT",
-    "fetched_at": "2026-09-07 08:21:30",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "방산",
-      "에너지",
-      "원자재",
-      "글로벌 증시"
-    ],
-    "keywords": [
-      "미국",
-      "우크라이나 전쟁",
-      "평화 협상",
-      "지정학"
-    ],
-    "reason": "미국 고위급 대표단의 키이우 방문은 우크라이나 전쟁의 평화 협상 노력 가속화를 시사하며, 이는 지정학적 불확실성 완화 및 글로벌 증시의 긍정적 요인으로 작용할 수 있다.",
-    "action_point": "우크라이나 전쟁 관련 지정학적 위험 완화 가능성에 대비, 에너지/원자재 포트폴리오를 재점검하고 위험자산 비중 확대를 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "\"전쟁 아니다\" 축소 급급...백악관 통제 벗어난 호르무즈 - YTN",
-    "title_ko": "\"전쟁 아니다\" 축소 급급...백악관 통제 벗어난 호르무즈",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nZnhnN1N6MmFpclV3aDlyaWZuX3E2MDFncFo5WXJNakpaTUxxY00wV1lQVVFqekxMN3JHRWpyQW16aVplRnpSZVpHUUJxUW5PSG9kUWNHWGV6X3cwaVE?oc=5",
-    "published": "Sun, 06 Sep 2026 15:13:00 GMT",
-    "fetched_at": "2026-09-07 06:51:47",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "해운",
-      "방산"
-    ],
-    "keywords": [
-      "호르무즈 해협",
-      "유가",
-      "지정학적 리스크",
-      "중동"
-    ],
-    "reason": "호르무즈 해협의 지정학적 긴장 고조는 원유 공급 불안정성을 높여 국제 유가 및 해상 운임 상승 압력으로 작용하며, 전반적인 시장 불확실성을 증대시킬 수 있습니다.",
-    "action_point": "유가 상승 및 시장 변동성 확대에 대비하여 에너지 관련 자산 비중 확대 또는 원유 선물 매입 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Amazon cargo plane crashes after overrunning runway, closing Miami airport on busy holiday weekend",
-    "title_ko": "아마존 화물기 활주로 이탈 후 추락, 연휴 주말 마이애미 공항 폐쇄",
-    "link": "https://www.cnbc.com/2026/09/06/amazon-cargo-plane-overrunns-runway-at-miami-international-airport.html",
-    "published": "Sun, 06 Sep 2026 21:09:52 GMT",
-    "fetched_at": "2026-09-07 06:51:35",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "항공 운송",
-      "물류"
-    ],
-    "keywords": [
-      "아마존",
-      "화물기",
-      "마이애미 공항",
-      "운송 지연"
-    ],
-    "reason": "이 사건은 아마존 및 마이애미 공항의 일시적인 운영 차질과 항공 화물 운송 지연을 야기하지만, 광범위한 거시 경제나 시장 전반에 미칠 영향은 제한적입니다.",
     "action_point": "해당 없음"
   }
 ]
