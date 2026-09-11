@@ -2,6 +2,463 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "Iran-backed Houthis seize key port in Yemen, advance on another vital oil choke point",
+    "title_ko": "이란 지원 후티 반군, 예멘 주요 항구 장악 및 핵심 석유 통로 위협 강화",
+    "link": "https://www.cnbc.com/2026/09/11/iran-houthis-mokha-red-sea-yemen.html",
+    "published": "Fri, 11 Sep 2026 08:44:52 GMT",
+    "fetched_at": "2026-09-11 19:15:37",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "에너지",
+      "해운",
+      "물류",
+      "방산",
+      "보험"
+    ],
+    "keywords": [
+      "이란",
+      "후티 반군",
+      "예멘",
+      "바브엘만데브 해협",
+      "홍해",
+      "석유",
+      "해상 운송",
+      "지정학적 위험"
+    ],
+    "reason": "글로벌 해상 운송의 핵심 통로인 바브엘만데브 해협의 안보 불안정성이 최고조에 달하여 원유 공급 차질 및 해상 운임 상승으로 이어질 수 있으며, 이는 글로벌 인플레이션 압력을 가중시키고 경기 둔화 우려를 심화시킵니다.",
+    "action_point": "바브엘만데브 해협발 원유 공급 리스크 증가에 대비, 에너지 섹터 투자 비중 확대를 검토하고 해상 운송 기업의 위험 노출도를 면밀히 분석하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "U.S. diesel price tops $6 per gallon, a record high as Ukraine and Iran wars ripple through economy",
+    "title_ko": "미국 디젤 가격 갤런당 6달러 돌파, 우크라이나 및 이란 전쟁 여파로 사상 최고치 기록",
+    "link": "https://www.cnbc.com/2026/09/11/diesel-price-iran-strait-hormuz-ukraine-russia.html",
+    "published": "Fri, 11 Sep 2026 07:43:24 GMT",
+    "fetched_at": "2026-09-11 19:14:54",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "운송/물류",
+      "제조업",
+      "소비재"
+    ],
+    "keywords": [
+      "디젤 가격",
+      "인플레이션",
+      "운송 비용",
+      "지정학적 리스크"
+    ],
+    "reason": "사상 최고 디젤 가격은 고유가 및 운송 비용 증가로 인한 인플레이션 압력 지속을 시사하며, 기업 마진 압박 및 전반적인 경제 성장 둔화를 야기할 수 있습니다.",
+    "action_point": "높은 운송 비용에 민감한 운송, 물류, 소비재 섹터의 투자 비중 축소를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Trump says he has no regrets about starting the Iran war as U.S. dials up economic pressure",
+    "title_ko": "트럼프, 이란과의 전쟁 시작 후회하지 않는다고 밝혀…미국은 경제적 압박 강화",
+    "link": "https://www.cnbc.com/2026/09/11/us-iran-war-trump-hormuz-banks-oil-sanctions.html",
+    "published": "Fri, 11 Sep 2026 08:13:05 GMT",
+    "fetched_at": "2026-09-11 19:15:04",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "방산",
+      "해운"
+    ],
+    "keywords": [
+      "트럼프",
+      "이란",
+      "전쟁",
+      "경제 압박",
+      "지정학적 리스크"
+    ],
+    "reason": "트럼프의 발언은 중동 지역의 지정학적 불안감을 고조시키며, 미국이 이란에 대한 경제적 압박을 강화하고 있음을 시사한다. 이는 유가 상승 및 시장 불확실성 증대로 이어질 수 있다.",
+    "action_point": "유가 상승 가능성에 대비하여 에너지 관련 자산 비중을 확대하고, 지정학적 위험 회피를 위한 방산주 투자 검토."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Bessent says 'a large bank' will be sanctioned on Monday as part of Iran strategy",
+    "title_ko": "베센트 장관, 이란 전략의 일환으로 월요일 대형 은행 제재 예정 언급",
+    "link": "https://www.cnbc.com/2026/09/11/bessent-large-bank-sanctioned.html",
+    "published": "Fri, 11 Sep 2026 10:03:44 GMT",
+    "fetched_at": "2026-09-11 19:15:16",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "금융",
+      "에너지"
+    ],
+    "keywords": [
+      "이란 제재",
+      "대형 은행",
+      "지정학적 리스크",
+      "금융 불안정"
+    ],
+    "reason": "미국이 이란 전략의 일환으로 대형 은행을 제재하면 지정학적 긴장이 고조되고 글로벌 금융 시스템 및 원자재 시장에 교란을 초래할 수 있어 투자자들의 위험 회피 심리를 자극할 것입니다.",
+    "action_point": "안전자산인 달러와 금 비중을 확대하고 고위험 자산 노출을 축소하십시오."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Modi and Xi are set to meet at BRICS with trade and border issues in spotlight",
+    "title_ko": "모디와 시진핑, 브릭스 회담 예정… 무역 및 국경 문제 주목",
+    "link": "https://www.cnbc.com/2026/09/11/china-india-modi-xi-brics-meeting-agenda.html",
+    "published": "Fri, 11 Sep 2026 04:29:20 GMT",
+    "fetched_at": "2026-09-11 19:15:28",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "제조업",
+      "무역",
+      "IT",
+      "방위산업",
+      "신흥국"
+    ],
+    "keywords": [
+      "모디",
+      "시진핑",
+      "BRICS",
+      "인도",
+      "중국",
+      "무역",
+      "국경",
+      "지정학"
+    ],
+    "reason": "인도와 중국 간의 무역 및 국경 문제가 논의될 이번 회담은 아시아 역내 지정학적 안정성과 공급망에 중대한 영향을 미 미칠 수 있습니다. 회담 결과에 따라 양국 관계 개선 또는 악화가 결정될 것입니다.",
+    "action_point": "인도-중국 관계 개선 여부에 따라 아시아 역내 공급망 재편 및 신흥국 자산 가치 변동에 대한 포트폴리오 대응 전략을 수립하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Jamie Dimon joins bankers lobbying the UK ahead of its critical budget — here’s why they’re worried",
+    "title_ko": "제이미 다이먼, 영국 중요 예산안 발표 앞두고 은행가들의 로비 합류 — 우려하는 이유",
+    "link": "https://www.cnbc.com/2026/09/11/jamie-dimon-uk-autumn-budget.html",
+    "published": "Fri, 11 Sep 2026 07:03:18 GMT",
+    "fetched_at": "2026-09-11 19:15:44",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "금융",
+      "부동산",
+      "영국 경제 전반"
+    ],
+    "keywords": [
+      "영국 예산안",
+      "재정 정책",
+      "은행 로비",
+      "제이미 다이먼"
+    ],
+    "reason": "영국 새 정부의 가을 예산안 발표를 앞두고 은행가들이 로비에 나선 것은 잠재적으로 금융 부문에 부정적인 영향을 미칠 재정 정책 변경에 대한 우려를 시사하며, 이는 영국 경제 전반의 불확실성을 높일 수 있습니다.",
+    "action_point": "영국 금융 및 기업 관련 자산에 대한 투자 비중 축소 검토."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Further European rate hikes 'very much dependent' on energy costs, Bundesbank chief tells CNBC",
+    "title_ko": "추가 유럽 금리 인상 '에너지 비용에 크게 좌우될 것'이라고 분데스방크 총재가 CNBC에 밝혀",
+    "link": "https://www.cnbc.com/2026/09/11/ecb-nagel-energy-prices-further-interest-rate-hikes.html",
+    "published": "Fri, 11 Sep 2026 09:21:51 GMT",
+    "fetched_at": "2026-09-11 19:15:55",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "금융",
+      "부동산",
+      "수출"
+    ],
+    "keywords": [
+      "유럽 금리 인상",
+      "에너지 비용",
+      "ECB",
+      "분데스방크",
+      "인플레이션"
+    ],
+    "reason": "분데스방크 총재의 발언은 유럽중앙은행(ECB)의 향후 금리 인상이 에너지 가격 움직임에 따라 결정될 것임을 시사하며, 에너지 가격 불안정 시 지속적인 긴축 가능성과 유로존 경기 둔화 우려를 높인다.",
+    "action_point": "유럽 에너지 가격 동향을 면밀히 주시하며, 에너지 비용 상승 시 유로존 긴축 심화에 따른 글로벌 유동성 축소에 대비하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Chinese AI labs secretly used millions of Claude exchanges to train their models, Anthropic says",
+    "title_ko": "앤스로픽, 중국 AI 연구소들이 클로드 모델을 무단으로 이용해 자체 모델 훈련했다고 밝혀",
+    "link": "https://www.cnbc.com/2026/09/11/chinese-ai-labs-moonshot-deepseek-alibaba-anthropic.html",
+    "published": "Fri, 11 Sep 2026 00:59:45 GMT",
+    "fetched_at": "2026-09-11 19:16:02",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "기술",
+      "소프트웨어",
+      "반도체"
+    ],
+    "keywords": [
+      "AI",
+      "지식재산권",
+      "기술경쟁",
+      "미중관계",
+      "앤스로픽",
+      "알리바바"
+    ],
+    "reason": "이번 사건은 글로벌 AI 기술 경쟁에서 지식재산권 침해 리스크가 고조되고 있음을 시사하며, 이는 AI 기술 기업들의 법적 분쟁 증가 및 기술 보호주의 강화로 이어질 수 있습니다.",
+    "action_point": "글로벌 AI 관련 투자 시 지식재산권 리스크 및 각국 기술 규제 동향을 면밀히 재검토하고, 관련 기업들의 법적 대응 역량을 주시하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "국가 경제 재도약, 공적기금 청산 완료 - 대한민국 정책브리핑",
+    "title_ko": "국가 경제 재도약, 공적기금 청산 완료",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9sTkdZeU9teVRMQVJuMVpDd19lUkxVVHE3ZGZGQjVWWnU2Z2hmOElyZ1VNamVHMUtwbV92NVFxNVN5UGkxaFEzMWNDTm1aVWlEV2c5RzA5VDRGeWRBcVJObEhvRlV0OTJfa0xpUHJn?oc=5",
+    "published": "Fri, 11 Sep 2026 06:55:52 GMT",
+    "fetched_at": "2026-09-11 19:16:18",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "금융",
+      "국내 채권시장",
+      "국가 경제 전반"
+    ],
+    "keywords": [
+      "공적기금",
+      "재정 건전성",
+      "금융 안정",
+      "국가 경제 재도약"
+    ],
+    "reason": "공적기금 청산 완료는 국가 재정의 오랜 부담을 해소하고 재정 건전성을 강화하여, 국내 경제 전반의 구조적 안정성을 높이는 긍정적 신호이다.",
+    "action_point": "국가 재정 건전성 강화에 따른 국내 금융 시장 및 경제의 구조적 안정성 증대를 고려하여 국내 채권 및 우량 주식 비중을 유지하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "호르무즈 파병 논란 속…외교장관, 이란에 “재외국민 안전” 당부 - 중앙일보",
+    "title_ko": "호르무즈 파병 논란 속…외교장관, 이란에 “재외국민 안전” 당부",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52cFRwcllvSkNJWjh1eTFiRFR2bEpNN1hCRXp5d3ZnV2RaSFhIR1hSYlB3dnVUTWxVVFRMN1NGdXp5QU84aVZOSmh4TTgwTVpNTDNnaWJB?oc=5",
+    "published": "Fri, 11 Sep 2026 05:09:37 GMT",
+    "fetched_at": "2026-09-11 19:16:42",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "해운",
+      "건설",
+      "석유화학"
+    ],
+    "keywords": [
+      "호르무즈 해협",
+      "이란",
+      "중동 지정학",
+      "원유 가격",
+      "해운 물류"
+    ],
+    "reason": "호르무즈 해협 파병 논의는 중동 지역의 지정학적 긴장감을 고조시키고 원유 공급망 불안정 및 유가 변동성 확대로 이어질 가능성이 있습니다. 외교적 노력은 잠재적 위험 관리의 필요성을 시사합니다.",
+    "action_point": "중동 발 지정학적 리스크 심화 시 원유 및 해상 운송 관련 자산의 변동성에 대비하여 관련 포트폴리오를 점검하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "트럼프 \"돌아가더라도 이란 공격했을 것…전쟁 시작 후회 없어\" | - 연합인포맥스",
+    "title_ko": "트럼프 \"돌아가더라도 이란 공격했을 것…전쟁 시작 후회 없어\"",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qMHB4a0hBbjFBdjRVdFo4c19wVktkM0hKMktSYnVhUFp6TElNZzZqT21yMkMtbTh4N2hBOGRuRTFaVkU2OTFRTjJlc2VPUS16OFRBQzJuVkkyMTUzWWhnR1F1UjBPQ1JPOW8yYW1EMnY0MEg1?oc=5",
+    "published": "Fri, 11 Sep 2026 08:19:08 GMT",
+    "fetched_at": "2026-09-11 19:16:51",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "방산"
+    ],
+    "keywords": [
+      "트럼프",
+      "이란",
+      "지정학",
+      "중동",
+      "유가"
+    ],
+    "reason": "트럼프의 이란 공격 관련 발언은 중동 지정학적 리스크가 잠재적으로 지속되거나 확대될 수 있음을 시사하며, 이는 국제유가 상승 압력과 전반적인 시장의 불확실성을 가중시킬 수 있습니다.",
+    "action_point": "유가 상승 압력 및 지정학적 리스크 헤지를 위해 에너지 섹터 비중 확대를 검토하십시오."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "트럼프 “이란 전쟁 후회 안 해…다시 한다 해도 똑같이 할 것” - 한겨레",
+    "title_ko": "트럼프 “이란 전쟁 후회 안 해…다시 한다 해도 똑같이 할 것” - 한겨레",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQM0FmaHA3bjhDTjd3ekRYbllrOWF5ZWZaaURvUFBxQ2lIR3FLbU1KUU1XV1pxb241NGNTSGRkRHcyRjBYUVhxTmpEZjd6QThhZUQ4N3R2Q2g3VldPQlNfdTJyTmw3a0ZlQ0lxclIxUWx0N2FhU2F3SGxmQTdUUlQ1YmFn?oc=5",
+    "published": "Fri, 11 Sep 2026 06:04:00 GMT",
+    "fetched_at": "2026-09-11 19:17:14",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "방위산업",
+      "해운/물류"
+    ],
+    "keywords": [
+      "트럼프",
+      "이란",
+      "중동",
+      "지정학적 리스크",
+      "유가"
+    ],
+    "reason": "트럼프 전 대통령의 이란에 대한 강경한 입장은 재집권 시 중동 지역의 지정학적 긴장을 고조시키고, 이는 글로벌 유가 상승 및 해운 물류 불안정으로 이어질 수 있는 중요한 신호입니다.",
+    "action_point": "트럼프 재집권 시 중동 지정학적 리스크 확대를 고려하여 에너지 및 방위산업 섹터 투자 비중 확대를 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "유럽 천연가스, 5주 연속 주간 상승 마감…중동 리스크 지속 - Investing.com 한국어",
+    "title_ko": "유럽 천연가스, 5주 연속 주간 상승 마감…중동 리스크 지속",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAwY1ZDbzgxVWZyaVU2emY2dHpNaDNheEtGY0xtbkM3Skl5LVlSRnU2UjlkdExGRXRlU2pmcVN2Y1N4NTk0Z0NTdkJGQmNuTWVfa0xSMThiV1pST1hseU8tb21HMFVoUWhGcWZvOTI0OA?oc=5",
+    "published": "Fri, 11 Sep 2026 08:27:00 GMT",
+    "fetched_at": "2026-09-11 19:17:30",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "화학",
+      "유틸리티",
+      "산업재"
+    ],
+    "keywords": [
+      "유럽 천연가스",
+      "중동 리스크",
+      "에너지 가격",
+      "인플레이션"
+    ],
+    "reason": "중동 지정학적 리스크 지속으로 유럽 천연가스 가격이 5주 연속 상승하며 글로벌 인플레이션 압력을 가중시키고, 에너지 다소비 산업의 원가 부담을 심화시켜 경기 둔화 우려를 높입니다.",
+    "action_point": "중동 리스크 장기화로 인한 에너지 가격 상승 압력에 대비하여 에너지 섹터 및 원자재 관련 자산 비중 확대를 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "\"한일, 닮았지만 中공급망 충격 달라…경제안보협력 제도화해야\" - 연합뉴스",
+    "title_ko": "한일, 닮았지만 中공급망 충격 달라…경제안보협력 제도화해야",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UWW9Qc1p0M2R2ejZZLWI2RVAzenhvazdBVnhwRTdmZDZRblB6MkF6RHU4alMtcS1uSXJYaWg0VWxTTTFjWmtwV0gzWmpIRkxrNmxLVENJOE1TX2liVFN0NtIBYEFVX3lxTE9UWW9Qc1p0M2R2ejZZLWI2RVAzenhvazdBVnhwRTdmZDZRblB6MkF6RHU4alMtcS1uSXJYaWg0VWxTTTFjWmtwV0gzWmpIRkxrNmxLVENJOE1TX2liVFN0Ng?oc=5",
+    "published": "Fri, 11 Sep 2026 08:18:25 GMT",
+    "fetched_at": "2026-09-11 19:16:29",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "반도체",
+      "IT 하드웨어",
+      "산업재",
+      "화학"
+    ],
+    "keywords": [
+      "한일 협력",
+      "경제 안보",
+      "중국 공급망",
+      "공급망 재편",
+      "산업 정책"
+    ],
+    "reason": "한국과 일본의 경제안보협력 제도화 추진은 중국발 공급망 충격에 대한 양국의 대응력을 강화하고 장기적인 산업 안정성을 제고할 수 있다. 이는 핵심 산업의 공급망 리스크를 줄여 기업들의 예측 가능성을 높이는 긍정적 요인으로 작용할 것이다.",
+    "action_point": "한일 경제안보협력 강화에 따른 공급망 안정화 수혜가 예상되는 반도체, IT 하드웨어, 산업재 섹터 핵심 기업에 대한 투자 기회를 모색하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[속보] KB금융 차기 회장 후보에 이재근…양종희 연임 실패 - 연합뉴스TV",
+    "title_ko": "[속보] KB금융 차기 회장 후보에 이재근…양종희 연임 실패",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBxTWVpTnhLU012QUdPaXlpU2RETFE2VDlXSjR2WTg2cGpITGpmbEZIUFdSaW9GSmhEbVB4U1VCeXZUTi1nNXB5QzNCSzJrNHlpdEZIRDdjNVdjc0Z0TFFiTVMxYllJaDg?oc=5",
+    "published": "Fri, 11 Sep 2026 08:14:00 GMT",
+    "fetched_at": "2026-09-11 19:17:03",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "금융",
+      "은행"
+    ],
+    "keywords": [
+      "KB금융",
+      "회장 후보",
+      "이재근",
+      "양종희",
+      "지배구조"
+    ],
+    "reason": "KB금융지주의 최고 경영진 교체 소식으로, 단기적으로 해당 기업의 주가에 영향을 줄 수 있으나, 금융 섹터 전반이나 거시 경제에는 미치는 영향은 제한적입니다. 이는 개별 기업의 지배구조 변화에 해당합니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[카드뉴스] 경기도 살림살이, 어떻게 지킬까? ‘경기도 재정위기의 실태와 해법’ - 경기도뉴스포털",
+    "title_ko": "경기도 살림살이, 어떻게 지킬까? ‘경기도 재정위기의 실태와 해법’",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbTJpcm1Wa19zamJ1RWpOUXNTSlFqaE1tSTg5R2tqNEdabjZjaUVvZWhRb2NLdXBNYkVkYk1Sa0Fyb0h0TGFRMkZKSTZXcWh3ZlVOQ25KNjIweU9jUlduUmQwdlcwcHJlUmxHTUxTOWxLbHpOT014R3BUVnBzRl9kQjNpanR2VWFNdkxfYnRLZkJfWmd4S2pLLVdvNHlBZ3ltUGtUZlFfdFVRb3dUcHRV?oc=5",
+    "published": "Fri, 11 Sep 2026 08:45:00 GMT",
+    "fetched_at": "2026-09-11 19:17:23",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "건설",
+      "부동산",
+      "지방정부 조달"
+    ],
+    "keywords": [
+      "경기도",
+      "재정위기",
+      "지방재정",
+      "예산삭감"
+    ],
+    "reason": "경기도 재정위기는 지방정부의 예산 감축 및 신규 프로젝트 지연으로 이어져, 지역 내 공공 부문 발주 감소 및 관련 산업의 실적 악화 가능성을 내포합니다. 이는 특히 건설 및 부동산 개발 섹터에 부정적인 영향을 미칠 수 있습니다.",
+    "action_point": "경기도 내 공공 프로젝트 관련 건설 및 부동산 섹터 투자 비중 조정 검토."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "[속보] 서울 시내버스 노조, 16일 쟁의행위 예고…찬성률 88%",
+    "title_ko": "[속보] 서울 시내버스 노조, 16일 쟁의행위 예고…찬성률 88%",
+    "link": "https://www.mk.co.kr/news/society/12150750",
+    "published": "Fri, 11 Sep 2026 18:26:30 +09:00",
+    "fetched_at": "2026-09-11 19:17:50",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "운수",
+      "유통",
+      "서비스"
+    ],
+    "keywords": [
+      "서울 시내버스",
+      "노조 파업",
+      "교통 대란"
+    ],
+    "reason": "서울 시내버스 파업은 수도권 시민들의 출퇴근 및 이동에 심각한 차질을 야기하여, 대중교통 관련 기업 및 소매/서비스업종의 단기적 매출 감소와 경제 활동 위축으로 이어질 수 있습니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "A Chinese humanoid startup flips 'distillation' claim on OpenAI as it releases a new robotics model",
+    "title_ko": "중국 휴머노이드 스타트업, 신규 로봇 모델 출시하며 OpenAI 모델과의 '유사성' 논란에 입장 표명",
+    "link": "https://www.cnbc.com/2026/09/11/chinese-humanoid-robot-startup-distillation-claim-openai.html",
+    "published": "Fri, 11 Sep 2026 06:02:40 GMT",
+    "fetched_at": "2026-09-11 19:14:28",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "인공지능",
+      "로봇 공학",
+      "중국 기술주",
+      "소프트웨어"
+    ],
+    "keywords": [
+      "JoyIn",
+      "OpenAI",
+      "휴머노이드",
+      "로봇",
+      "인공지능",
+      "지적재산권",
+      "기술 경쟁"
+    ],
+    "reason": "이 기사는 중국 AI/로봇 산업의 치열한 경쟁과 지적재산권 관련 잠재적 이슈를 부각합니다. 특정 기업의 기술 논쟁으로, 거시 경제나 광범위한 시장에 미치는 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "Stock futures edge higher as key consumer inflation report looms ahead: Live updates",
     "title_ko": "핵심 소비자 인플레이션 보고서 발표를 앞두고 주식 선물 소폭 상승: 실시간 업데이트",
     "link": "https://www.cnbc.com/2026/09/10/stock-market-today-live-updates.html",
@@ -2554,461 +3011,5 @@
     ],
     "reason": "글로벌 두 전쟁(우크라이나, 중동)으로 인한 고유가 및 공급망 불안정은 한국 경제에 높은 에너지 비용, 물가 상승 압력, 그리고 잠재적인 금리 인상 요인으로 작용하여 전반적인 경제 부담을 가중시킬 것입니다.",
     "action_point": "고유가 및 고금리 장기화에 대비하여 방어적 자산 비중을 확대하고 에너지 의존도가 높은 섹터 비중 축소를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace",
-    "title_ko": "AI 연구소들이 맹렬한 속도로 새 버전 출시 경쟁을 벌이면서 '모델 피로감'이 가중된다",
-    "link": "https://www.cnbc.com/2026/09/06/meta-google-openai-anthropic-ai-model-fatigue.html",
-    "published": "Sun, 06 Sep 2026 12:13:49 GMT",
-    "fetched_at": "2026-09-07 02:25:41",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "AI",
-      "반도체",
-      "클라우드 컴퓨팅"
-    ],
-    "keywords": [
-      "AI",
-      "반도체",
-      "엔비디아",
-      "기술 경쟁",
-      "모델 업데이트"
-    ],
-    "reason": "주요 AI 기업들의 신규 모델 출시와 엔비디아의 전략적 인수는 AI 분야의 혁신 및 경쟁 심화를 보여주며, 이는 관련 기술주 투자 심리 강화와 장기적 생산성 향상 기대감을 높인다.",
-    "action_point": "AI 인프라 및 핵심 기술 보유 기업들의 실적 개선 여부 주시 및 관련 섹터 비중 유지 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "SEC sues ISS as Trump administration ramps up scrutiny of proxy advisers",
-    "title_ko": "SEC, 트럼프 행정부의 의결권 자문사에 대한 압박 강화에 따라 ISS 고소",
-    "link": "https://www.cnbc.com/2026/09/06/sec-iss-proxy-adviser-subpoena.html",
-    "published": "Sun, 06 Sep 2026 15:35:16 GMT",
-    "fetched_at": "2026-09-07 02:25:48",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "투자 자문",
-      "기업 거버넌스 솔루션"
-    ],
-    "keywords": [
-      "SEC",
-      "ISS",
-      "트럼프 행정부",
-      "의결권 자문사",
-      "기업 거버넌스"
-    ],
-    "reason": "트럼프 행정부의 의결권 자문사에 대한 규제 강화는 기업 경영의 독립성과 주주 행동주의에 영향을 미쳐 기업 지배구조 관련 리스크를 재평가할 필요가 있습니다. 이는 궁극적으로 기업의 전략적 결정과 주주 가치 창출 방식에 변화를 가져올 수 있습니다.",
-    "action_point": "기업 지배구조 관련 투자 리스크 요인 재검토"
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "마크롱 만나는 李대통령 … 원전·영화·우주 '전방위 밀착'",
-    "title_ko": "마크롱 만나는 李대통령 … 원전·영화·우주 '전방위 밀착'",
-    "link": "https://www.mk.co.kr/news/politics/12145627",
-    "published": "Mon, 07 Sep 2026 01:00:00 +09:00",
-    "fetched_at": "2026-09-07 02:26:08",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "원전",
-      "우주항공",
-      "콘텐츠"
-    ],
-    "keywords": [
-      "한프랑스 정상회담",
-      "원전",
-      "우주항공",
-      "콘텐츠"
-    ],
-    "reason": "한-프랑스 정상회담을 통해 원전, 우주항공, 콘텐츠 등 전략적 산업 분야에서 구체적인 협력 기회가 확대될 수 있으며, 이는 관련 국내 기업의 수출 및 기술 경쟁력 강화에 긍정적 영향을 미칠 수 있습니다.",
-    "action_point": "원전, 우주항공, 콘텐츠 섹터의 국내 관련주 비중 확대 검토"
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "이란 “더 빠르고 고통스럽게 보복” vs 美, F-35 띄우고 선박 92척 돌려세워",
-    "title_ko": "이란 “더 빠르고 고통스럽게 보복” vs 美, F-35 띄우고 선박 92척 돌려세워",
-    "link": "https://www.mk.co.kr/news/world/12145624",
-    "published": "Sun, 06 Sep 2026 22:12:22 +09:00",
-    "fetched_at": "2026-09-06 23:41:15",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "원자재",
-      "방산",
-      "해운"
-    ],
-    "keywords": [
-      "이란",
-      "미국",
-      "군사적 긴장",
-      "원유",
-      "중동"
-    ],
-    "reason": "미국과 이란의 군사적 긴장 고조는 중동 지역 불안정성을 심화시켜 글로벌 원유 공급 차질 우려를 증폭시키고 지정학적 리스크 프리미엄을 상승시킬 수 있습니다.",
-    "action_point": "중동 정세 불안 심화에 따른 유가 급등 가능성에 대비하여 에너지 섹터 비중 확대를 검토하고, 달러/금 등 안전자산 보유를 유지하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Iran warns of ‘more painful’ response to U.S. attacks as economic pressure mounts",
-    "title_ko": "이란, 미국 공격에 '더 고통스러운' 보복 경고...경제 압박 가중 속",
-    "link": "https://www.cnbc.com/2026/09/06/iran-us-response-oil-tanker-strikes.html",
-    "published": "Sun, 06 Sep 2026 12:02:47 GMT",
-    "fetched_at": "2026-09-06 23:38:43",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "방산",
-      "해운",
-      "글로벌 증시"
-    ],
-    "keywords": [
-      "이란",
-      "미국",
-      "지정학적 리스크",
-      "원유 가격",
-      "경제 제재"
-    ],
-    "reason": "이란의 보복 경고는 중동 지정학적 리스크를 고조시키며, 글로벌 원유 공급 불확실성과 에너지 가격 상승 압력을 높이고 전반적인 시장의 위험 회피 심리를 자극할 수 있습니다.",
-    "action_point": "에너지 섹터 비중 확대 또는 달러/금 등 안전자산 보유를 검토하십시오."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "OPEC+ keeps oil output policy unchanged for October",
-    "title_ko": "OPEC+ 10월 원유 생산 정책 동결",
-    "link": "https://www.cnbc.com/2026/09/06/opec-oil-output-october.html",
-    "published": "Sun, 06 Sep 2026 13:04:02 GMT",
-    "fetched_at": "2026-09-06 23:39:51",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "정유/화학",
-      "항공",
-      "해운",
-      "운송"
-    ],
-    "keywords": [
-      "OPEC+",
-      "원유 생산",
-      "이란 전쟁",
-      "호르무즈 해협",
-      "유가",
-      "인플레이션"
-    ],
-    "reason": "OPEC+의 생산 정책 동결은 이란 전쟁으로 인한 호르무즈 해협의 원유 수출 차질과 맞물려 글로벌 원유 공급 부족 우려를 심화시키고 유가 상승 압력을 가중할 것이다. 이는 전반적인 인플레이션 압력과 경기 둔화 위험을 높일 수 있다.",
-    "action_point": "고유가 지속에 대비하여 에너지/원자재 관련 자산 비중을 유지하고, 원가 부담이 커지는 항공, 해운, 정유 섹터는 비중 축소를 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "\"파병은 전쟁 참여\" 이란 즉각 반발…고심 깊어지는 이 대통령 - JTBC뉴스",
-    "title_ko": "\"파병은 전쟁 참여\" 이란 즉각 반발…고심 깊어지는 이 대통령",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB1dW9WcGtBcExMYVdOLTdtWDFKTDJmZklnRjhiRFRPak1iNlBjS2M4eDdWcEE0cjlRajNZOFJtWUVpem1SUHdXRjlCTVRuSXJxVUR4RA?oc=5",
-    "published": "Sun, 06 Sep 2026 09:43:00 GMT",
-    "fetched_at": "2026-09-06 23:40:54",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "원자재",
-      "방산",
-      "해운",
-      "금융"
-    ],
-    "keywords": [
-      "이란",
-      "중동",
-      "지정학",
-      "파병",
-      "유가"
-    ],
-    "reason": "이란의 파병 반발은 중동 지역 긴장을 고조시키며, 이는 국제 유가 상승 압력과 글로벌 공급망 불안정으로 이어질 수 있습니다. 한국의 잠재적 군사 개입 가능성은 지정학적 불확실성을 더욱 증폭시킵니다.",
-    "action_point": "중동 지정학적 리스크 심화에 대비해 에너지 섹터 및 안전자산(달러, 금)에 대한 비중 확대를 검토하십시오."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Sugar is outperforming the stock market this year. Here's what's driving it, and where it can go from here",
-    "title_ko": "설탕 가격, 올해 주식 시장 수익률 상회: 원인과 향후 전망",
-    "link": "https://www.cnbc.com/2026/09/06/sugar-is-outperforming-the-stock-market-this-year-whats-driving-it.html",
-    "published": "Sun, 06 Sep 2026 13:19:01 GMT",
-    "fetched_at": "2026-09-06 23:38:36",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "식음료",
-      "유통"
-    ],
-    "keywords": [
-      "설탕 가격",
-      "상품 가격",
-      "공급 부족",
-      "인플레이션",
-      "식량 안보"
-    ],
-    "reason": "전 세계적인 설탕 공급 전망 악화로 가격이 급등하며 식량 인플레이션 압력이 가중될 수 있습니다. 이는 식음료 기업의 원가 부담을 높이고 소비자 구매력을 저하시켜 거시 경제 전반에 부정적인 영향을 미칠 수 있습니다.",
-    "action_point": "글로벌 식량 인플레이션 압박 심화에 대비하여 식음료 섹터 투자 비중을 축소하고 원자재 관련 자산의 투자 매력도를 재평가하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "“치솟는 초콜릿값, 아프리카 날씨만 바라본다”…30년 원자재 전문가도 당황한 ‘롤러코코아’",
-    "title_ko": "“치솟는 초콜릿값, 아프리카 날씨만 바라본다”…30년 원자재 전문가도 당황한 ‘롤러코코아’",
-    "link": "https://www.mk.co.kr/news/stock/12145626",
-    "published": "Sun, 06 Sep 2026 22:17:26 +09:00",
-    "fetched_at": "2026-09-06 23:41:05",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "식품 및 음료",
-      "유통",
-      "원자재",
-      "농업"
-    ],
-    "keywords": [
-      "코코아",
-      "초콜릿",
-      "원자재 가격 급등",
-      "인플레이션",
-      "기후 변화"
-    ],
-    "reason": "코코아 가격의 3배 급등은 식품 및 음료 기업에 심각한 원가 압박으로 작용하여 수익성 악화를 초래할 수 있습니다. 이는 소비자 물가 상승을 야기하며, 기후 변화가 농산물 시장에 미치는 영향을 극명하게 보여줍니다.",
-    "action_point": "식품 및 음료 섹터 내 원자재 의존도가 높은 기업 비중을 재검토하고, 원자재 펀드의 변동성 위험을 점검하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "미·이란 호르무즈 보복 악순환…“한국 개입시 ’전쟁 참여’ 간주“ - 연합뉴스TV",
-    "title_ko": "미·이란 호르무즈 보복 악순환…“한국 개입시 ’전쟁 참여’ 간주“",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oWDdLckR5N1E2X01GZkxjY2g5NUZlR1pEenIyN3liSmlsUTlBU0t2LXVSb1NJZmxhSDluMWxvaU80c1hUcUVQRUxaS2R5bVRNZzkxZ2gwZUtiUkJxM3V2b1VrNmxGM0U?oc=5",
-    "published": "Sun, 06 Sep 2026 04:10:00 GMT",
-    "fetched_at": "2026-09-06 20:27:22",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "에너지",
-      "해운",
-      "국방",
-      "정유화학"
-    ],
-    "keywords": [
-      "미국-이란 갈등",
-      "호르무즈 해협",
-      "지정학적 리스크",
-      "유가",
-      "해상 운송",
-      "한국 안보"
-    ],
-    "reason": "호르무즈 해협에서의 미·이란 갈등 심화는 국제 유가 및 해상 운송 비용 급등을 초래하여 글로벌 인플레이션 압력과 공급망 불안을 가중시킬 것입니다. 한국의 잠재적 개입 가능성은 국내 지정학적 리스크를 더욱 고조시킵니다.",
-    "action_point": "고유가 및 해상 운송 차질에 대비하여 에너지 수입 의존도가 높은 산업 비중을 축소하고, 방산 또는 에너지 생산 관련 자산 비중 확대를 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "\"전쟁 아니다\" 축소 급급...백악관 통제 벗어난 호르무즈 - YTN",
-    "title_ko": "\"전쟁 아니다\" 축소 급급...백악관 통제 벗어난 호르무즈",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1vMDFYSXhCY3ZweHpOZjI5cksyS3JMRUx2UkJKYWhPOEJJRWZqMWJDTmxQSG9CcFBSNkI0b3FFT2JBRnkteEdFMGNzZ0lMWFo1ejBFbE5ZNlhKanEzUnc?oc=5",
-    "published": "Sun, 06 Sep 2026 08:05:00 GMT",
-    "fetched_at": "2026-09-06 20:27:43",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "에너지",
-      "해운",
-      "방산",
-      "원자재"
-    ],
-    "keywords": [
-      "호르무즈",
-      "중동",
-      "지정학",
-      "유가",
-      "안보"
-    ],
-    "reason": "호르무즈 해협의 불안정성 증가는 원유 공급 차질 우려를 키워 국제 유가 상승 압력을 높이고, 지정학적 위험 프리미엄을 확산시켜 전반적인 투자 심리를 위축시킬 수 있습니다.",
-    "action_point": "유가 급등 가능성에 대비해 원유 관련 ETF 또는 에너지 기업 투자를 검토하고, 지정학적 리스크 헤지를 위한 금 및 달러 등 안전자산 비중 확대를 고려하십시오."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Germany's far-right AfD seeks landmark state victory as Saxony-Anhalt votes",
-    "title_ko": "독일 극우 AfD당, 작센-안할트주 선거에서 중요한 승리 모색",
-    "link": "https://www.cnbc.com/2026/09/06/germanys-far-right-afd-seeks-landmark-state-victory.html",
-    "published": "Sun, 06 Sep 2026 09:08:31 GMT",
-    "fetched_at": "2026-09-06 20:27:14",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "유럽 금융",
-      "독일 관련 수출입",
-      "방산/에너지"
-    ],
-    "keywords": [
-      "독일 정치",
-      "극우 정당",
-      "AfD",
-      "유럽 불확실성",
-      "선거"
-    ],
-    "reason": "독일 극우 정당의 약진은 독일 및 EU의 정치적 불안정성을 높여 시장 전반의 불확실성과 리스크 프리미엄 상승 요인으로 작용할 수 있습니다.",
-    "action_point": "유럽 정치 리스크 증가 가능성에 대비하여 유로존 투자 비중을 재점검하고, 포트폴리오의 안정성을 위한 헤지 전략을 고려하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "\"한국 파병하면 전쟁 참여 간주\" 엄포…정부, 여론 '촉각' - v.daum.net",
-    "title_ko": "한국 파병하면 전쟁 참여 간주\" 엄포…정부, 여론 '촉각'",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBIZHpTVWozSVVLbGUtSXF3S3ZXZHlrYzNaU1N4aWRxM3J1bmxJbk1kN0VZTWhVRXNMYWhwNUJaWDdaejNtV01kWkE3SUVmU0E?oc=5",
-    "published": "Sun, 06 Sep 2026 11:06:05 GMT",
-    "fetched_at": "2026-09-06 20:27:31",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "증시 전반",
-      "외환",
-      "국방"
-    ],
-    "keywords": [
-      "한국 파병",
-      "전쟁 참여",
-      "지정학적 리스크",
-      "외교",
-      "안보"
-    ],
-    "reason": "이 뉴스는 한국이 특정 분쟁에 직간접적으로 연루될 수 있다는 지정학적 리스크를 부각시키며, 이는 원화 약세 압력과 국내 증시 전반의 투자심리 위축을 야기할 수 있습니다.",
-    "action_point": "원화 약세 대비 달러 등 안전자산 비중 확대를 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[도청도설] 호르무즈 파병 - 국제신문",
-    "title_ko": "[도청도설] 호르무즈 파병",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRVNCRTJLVDBRMzRtejI4eUF2M1BZUjY5REppelRUVzJDSzZNVWlWcWV4emZDY2dMSk0zSUM0bThMQjV3aE5Ya0EzRGxSWldvZUR3RVdWY3FGV01QZ1I4V1FTVlRtUWMzMGMwMjE1ZzU5Z3NIV0JGOThfUWhQcThqUnZvU3VjSDlzMjRBRzlR?oc=5",
-    "published": "Sun, 06 Sep 2026 10:28:00 GMT",
-    "fetched_at": "2026-09-06 20:27:52",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "정유",
-      "해운",
-      "보험"
-    ],
-    "keywords": [
-      "호르무즈 해협",
-      "파병",
-      "지정학적 리스크",
-      "유가",
-      "해운 물류"
-    ],
-    "reason": "호르무즈 해협 파병은 글로벌 원유 공급의 핵심 통로인 해당 지역의 지정학적 긴장을 고조시키며, 유가 변동성 확대 및 해상 운송 비용 증가로 이어질 수 있습니다.",
-    "action_point": "에너지 가격 민감도가 높은 국내 기업의 투자 비중을 축소하고, 관련 리스크 헤지 방안을 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "美·이란, 호르무즈 충돌 악순환…장기전 국면 - 한국경제",
-    "title_ko": "美·이란, 호르무즈 충돌 악순환…장기전 국면",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PdkxlWEJxV1hrVnowclMxM3VVZFdQbzFmNThOSEQ4MjVyMGg1MzJkc1VLUnhVaXprZ1FyaXlCQUc5MkMyQmJJRVViMi01U0t3UWx4bTg5NmtMZw?oc=5",
-    "published": "Sun, 06 Sep 2026 09:21:46 GMT",
-    "fetched_at": "2026-09-06 20:28:04",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "해운",
-      "방산",
-      "화학"
-    ],
-    "keywords": [
-      "미국",
-      "이란",
-      "호르무즈 해협",
-      "지정학적 리스크",
-      "유가",
-      "해상운임"
-    ],
-    "reason": "미국과 이란 간 호르무즈 해협에서의 충돌 장기화는 글로벌 에너지 공급망에 지속적인 불안정을 야기하며 유가 상승 압력과 해운 운임 증가로 이어질 수 있습니다. 이는 전반적인 원가 상승 요인으로 작용합니다.",
-    "action_point": "유가 상승 및 지정학적 리스크 심화에 대비하여 에너지 및 방산 섹터 비중 확대를 검토하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "[단독] 전월세난 다급해진 정부…기업형 임대사업자 종부세부담 줄인다",
-    "title_ko": "[단독] 전월세난 다급해진 정부…기업형 임대사업자 종부세부담 줄인다",
-    "link": "https://www.mk.co.kr/news/realestate/12145604",
-    "published": "Sun, 06 Sep 2026 19:53:37 +09:00",
-    "fetched_at": "2026-09-06 20:28:39",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "부동산",
-      "건설"
-    ],
-    "keywords": [
-      "기업형 임대사업자",
-      "종부세",
-      "전월세난",
-      "부동산 세제",
-      "주택 공급"
-    ],
-    "reason": "정부가 전월세난 해소를 위해 기업형 임대사업자의 종부세 부담을 완화하는 정책은 민간 임대 주택 공급을 촉진할 것입니다. 이는 임대 수익률 개선을 통해 부동산 시장 내 임대 사업 투자 유인을 높여 주택 공급 부족 문제 해소 및 임대료 안정에 기여할 수 있습니다.",
-    "action_point": "법인 형태의 임대사업 관련 부동산 자산 비중 확대 여부 검토"
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "“월요일에 삼전닉스의 시간 옵니까”…GPT-6에 불붙은 美반도체",
-    "title_ko": "“월요일에 삼전닉스의 시간 옵니까”…GPT-6에 불붙은 美반도체",
-    "link": "https://www.mk.co.kr/news/stock/12145603",
-    "published": "Sun, 06 Sep 2026 19:52:56 +09:00",
-    "fetched_at": "2026-09-06 20:28:47",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "반도체",
-      "IT/기술"
-    ],
-    "keywords": [
-      "GPT-6",
-      "AI",
-      "반도체",
-      "하이닉스",
-      "OpenAI",
-      "CPI"
-    ],
-    "reason": "미국 금리 인상 충격에도 불구하고 오픈AI의 차세대 AI 모델(GPT-6) 출현 기대감으로 AI 반도체 수요가 강력하게 부각되며 관련 기업들의 주가가 견고한 상승세를 보이고 있다. 이는 AI 섹터가 거시 경제 압력 속에서도 독립적인 성장 동력을 가질 수 있음을 시사한다.",
-    "action_point": "AI 반도체 섹터 비중 확대를 적극적으로 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Kremlin says Ukraine talks with U.S. envoys were useful; no sign of breakthrough",
-    "title_ko": "크렘린, 미국 특사와의 우크라이나 회담 유용했지만 돌파구는 없었다고 밝혀",
-    "link": "https://www.cnbc.com/2026/09/06/kremlin-says-ukraine-talks-with-us-envoys-were-useful.html",
-    "published": "Sun, 06 Sep 2026 09:56:04 GMT",
-    "fetched_at": "2026-09-06 20:27:06",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "에너지",
-      "방산",
-      "원자재"
-    ],
-    "keywords": [
-      "우크라이나",
-      "러시아",
-      "외교",
-      "지정학",
-      "협상"
-    ],
-    "reason": "러시아-우크라이나 회담에서 실질적 돌파구가 없었음은 분쟁의 장기화 가능성을 시사하며, 이는 지정학적 불확실성을 유지시키고 관련 자산 시장에 영향을 미칠 것입니다.",
-    "action_point": "지정학적 리스크 장기화에 대비하여 방산 및 에너지 섹터에 대한 투자 관점을 유지하십시오."
   }
 ]
