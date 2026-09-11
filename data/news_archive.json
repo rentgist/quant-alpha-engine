@@ -1,5 +1,33 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Iran, Russia condemn Western economic sanctions and urge BRICS bloc to deepen economic ties",
+    "title_ko": "이란과 러시아, 서방 경제 제재 비난하며 BRICS 블록에 경제 관계 심화 촉구",
+    "link": "https://www.cnbc.com/2026/09/11/iran-russia-brics-sanctions-energy.html",
+    "published": "Fri, 11 Sep 2026 15:10:45 GMT",
+    "fetched_at": "2026-09-12 05:43:20",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "원자재",
+      "해운",
+      "방산",
+      "금융"
+    ],
+    "keywords": [
+      "이란",
+      "러시아",
+      "BRICS",
+      "경제 제재",
+      "탈달러화",
+      "지정학적 리스크"
+    ],
+    "reason": "이 뉴스는 BRICS 블록의 서방 주도 경제 질서에 대한 대안으로서의 입지 강화를 시사하며, 지정학적 긴장 심화, 탈달러화 가속화, 글로벌 원자재 무역 역학 변화를 야기할 수 있습니다.",
+    "action_point": "지정학적 리스크 고조에 대비하여 원자재 및 방산 관련 포트폴리오 비중을 점검하고, 안전자산으로서 금 보유를 고려하라."
+  },
+  {
     "source": "CNBC_Finance",
     "market": "US",
     "title": "Stocks making the biggest moves midday: Dell, Skyworks Solutions, GameStop & more",
@@ -2983,31 +3011,6 @@
       "운송 지연"
     ],
     "reason": "이 사건은 아마존 및 마이애미 공항의 일시적인 운영 차질과 항공 화물 운송 지연을 야기하지만, 광범위한 거시 경제나 시장 전반에 미칠 영향은 제한적입니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "제주서 '순환경제 2.0’ 논의…국제환경포럼 10일 개막 - 환경포커스",
-    "title_ko": "제주서 '순환경제 2.0’ 논의…국제환경포럼 10일 개막",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5vVmhudDhJTEVJcUd2R0FkZEFNZW03MmhEbEpXd29qOVJpSWFNVEZjSkRVNDZTZXBiSWZ6RmJ5amRSdDJPZi12cXl1amNwaWFPRjJHckl3OU13S0lnbkNOd2padw?oc=5",
-    "published": "Sun, 06 Sep 2026 20:53:29 GMT",
-    "fetched_at": "2026-09-07 06:51:54",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "환경",
-      "폐기물 처리",
-      "재생 에너지",
-      "ESG 관련 산업"
-    ],
-    "keywords": [
-      "순환경제",
-      "환경포럼",
-      "지속가능성",
-      "ESG"
-    ],
-    "reason": "국제 환경 포럼에서 순환경제 2.0이 논의되는 것은 장기적으로 환경 산업의 투자 및 정책 방향에 영향을 미칠 수 있으나, 단기적인 거시경제나 시장 전반에 미치는 직접적인 영향은 제한적이다.",
     "action_point": "해당 없음"
   }
 ]
