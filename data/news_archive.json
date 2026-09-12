@@ -1,5 +1,81 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Inflation persisted in August, potentially locking in a Fed interest rate hike",
+    "title_ko": "8월 인플레이션 지속, 연준 금리 인상 확정 가능성",
+    "link": "https://www.cnbc.com/2026/09/11/cpi-inflation-report-august-2026.html",
+    "published": "Fri, 11 Sep 2026 13:46:36 GMT",
+    "fetched_at": "2026-09-12 09:48:32",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "기술",
+      "부동산",
+      "은행",
+      "성장주",
+      "경기소비재"
+    ],
+    "keywords": [
+      "인플레이션",
+      "연준",
+      "금리 인상",
+      "CPI",
+      "통화 정책"
+    ],
+    "reason": "8월 인플레이션이 지속적인 압력을 보임에 따라 연방준비제도(Fed)의 추가 금리 인상 가능성이 높아졌습니다. 이는 고금리 기조의 장기화와 유동성 축소를 시사하며, 위험 자산 전반에 부정적인 영향을 미칠 수 있습니다.",
+    "action_point": "고금리 환경에 취약한 성장주 및 부동산 관련 자산 비중 축소와 함께 달러 자산 비중 유지를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Saudi Arabia shut down East-West crude oil pipeline after multiple attacks by drones from Iraq",
+    "title_ko": "사우디아라비아, 이라크발 드론 공격으로 동서 원유 파이프라인 가동 중단",
+    "link": "https://www.cnbc.com/2026/09/11/saudi-arabia-shut-down-east-west-crude-oil-pipeline.html",
+    "published": "Fri, 11 Sep 2026 21:35:14 GMT",
+    "fetched_at": "2026-09-12 09:48:25",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "항공",
+      "해운",
+      "화학"
+    ],
+    "keywords": [
+      "유가",
+      "중동",
+      "지정학",
+      "원유 공급",
+      "이란"
+    ],
+    "reason": "사우디 핵심 원유 수송로 폐쇄는 글로벌 원유 공급 불확실성을 증대시켜 유가 상승 압력을 가하고, 중동 지역의 지정학적 긴장을 고조시킬 것입니다. 이는 전 세계 인플레이션 압력을 가중시키고 경제 성장을 둔화시킬 수 있습니다.",
+    "action_point": "국제 유가 상승 압력에 대비하여 에너지 섹터 비중 확대를 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[속보] 軍 \"北, 새벽 원산 일대서 동해상으로 탄도미사일 수발 발사\" - 연합뉴스TV",
+    "title_ko": "[속보] 軍 \"北, 새벽 원산 일대서 동해상으로 탄도미사일 수발 발사\" - 연합뉴스TV",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GUHJ2dkJEVEhIN205cHc0LXVDUWNpOWFId0NPNWRyeHV2MFh0UDYwS19wcEtlRUNweWVYTXBCQ2Y4Szc5clpfcFJEdHEyNlBJVXVjWHA4X0JiY05uUUstTWJISW1rNkk?oc=5",
+    "published": "Fri, 11 Sep 2026 23:10:00 GMT",
+    "fetched_at": "2026-09-12 09:48:41",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "방위산업",
+      "국내증시",
+      "환율"
+    ],
+    "keywords": [
+      "북한",
+      "미사일",
+      "지정학적 리스크"
+    ],
+    "reason": "북한의 탄도미사일 발사는 한반도 지정학적 긴장을 고조시켜 투자자들의 위험 회피 심리를 자극할 수 있습니다. 이는 국내 증시의 단기 변동성 확대 및 원화 약세 압력으로 이어질 가능성이 있습니다.",
+    "action_point": "지정학적 리스크 확대로 인한 원화 약세 가능성에 대비하여 달러 자산 비중을 점검하십시오."
+  },
+  {
     "source": "GoogleNews_Korea",
     "market": "KR",
     "title": "트럼프 “9·11, 오늘 우리가 싸우는 이유”...이란전쟁과 직접 연결 - YTN",
@@ -2937,78 +3013,5 @@
     ],
     "reason": "미국 국채의 해외 수요 감소는 장기 금리 상승 압력으로 작용하며, 이는 미국 달러 약세 및 글로벌 자산 시장의 위험 회피 심리를 자극할 수 있습니다.",
     "action_point": "미국 국채 금리 상승 압력과 달러 약세 가능성에 대비하여 포트폴리오 내 달러 자산 비중을 점검하고 다각화를 고려하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Asia-Pacific markets open higher as investors assess renewed Middle East  hostilities",
-    "title_ko": "투자자들이 중동 지역의 재개된 적대행위를 평가하는 가운데 아시아-태평양 시장 상승 출발",
-    "link": "https://www.cnbc.com/2026/09/07/stock-market-today-live-updates.html",
-    "published": "Mon, 07 Sep 2026 01:54:55 GMT",
-    "fetched_at": "2026-09-07 10:55:35",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "주식 시장",
-      "에너지"
-    ],
-    "keywords": [
-      "아시아-태평양 시장",
-      "중동",
-      "지정학적 리스크",
-      "시장 심리",
-      "유가"
-    ],
-    "reason": "중동 지정학적 긴장에도 불구하고 아시아 증시가 상승 출발한 것은 투자자들이 해당 리스크를 이미 반영했거나 다른 긍정적 요인이 우세하다고 판단한 것으로 보인다.",
-    "action_point": "중동 지정학적 리스크에도 시장이 상승 출발했으므로, 현 주식 포트폴리오 비중을 유지하고 유가 변동성 확대에 따른 에너지 관련 자산 편입을 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "CNBC Daily Open: Trump's ‘little excursion’ becomes an uphill battle as Iran war continues",
-    "title_ko": "CNBC 데일리 오픈: 트럼프의 '작은 모험'이 이란 전쟁 지속으로 난관에 부딪히다",
-    "link": "https://www.cnbc.com/2026/09/07/cnbc-daily-open-trump-iran-war-oil-prices-nuclear-deal.html",
-    "published": "Mon, 07 Sep 2026 01:29:19 GMT",
-    "fetched_at": "2026-09-07 10:55:45",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "국방/방산",
-      "항공/운수",
-      "석유화학"
-    ],
-    "keywords": [
-      "이란",
-      "전쟁",
-      "유가",
-      "지정학적 리스크",
-      "에너지"
-    ],
-    "reason": "이란 전쟁의 지속은 중동 지역의 지정학적 불안정을 심화시키며, 이는 글로벌 에너지 공급망에 불확실성을 가중시켜 유가 상승 압력으로 작용할 것입니다. 특정 인사의 언급은 트럼프 행정부의 중동 정책 관련 약속 이행이 현실적인 어려움에 직면했음을 시사합니다.",
-    "action_point": "국제유가 상승 가능성에 대비하여 에너지 관련 자산의 비중을 점검하고, 지정학적 긴장 심화에 따른 방산 섹터에 대한 관심을 유지하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Data centers in space: Four big obstacles and Elon Musk's ambitious timeline",
-    "title_ko": "우주 데이터 센터: 4가지 주요 장애물과 일론 머스크의 야심 찬 일정",
-    "link": "https://www.cnbc.com/2026/09/07/data-centers-space-elon-musk-obstacles.html",
-    "published": "Mon, 07 Sep 2026 00:06:18 GMT",
-    "fetched_at": "2026-09-07 10:55:53",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "우주 항공",
-      "IT 인프라"
-    ],
-    "keywords": [
-      "우주 데이터 센터",
-      "일론 머스크",
-      "미래 기술",
-      "스페이스X"
-    ],
-    "reason": "이 뉴스는 우주 기술과 데이터 센터 산업의 장기적인 발전 가능성을 제시하나, 현재로서는 초기 단계의 미래 기술 논의로, 단기적인 시장이나 거시 경제에 미칠 직접적인 영향은 제한적입니다.",
-    "action_point": "해당 없음"
   }
 ]
