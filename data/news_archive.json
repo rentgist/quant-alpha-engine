@@ -2,6 +2,53 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "Indian Prime Minister Modi says border peace is key to India-China ties",
+    "title_ko": "인도 모디 총리, 국경 평화가 인도-중국 관계의 핵심이라고 강조",
+    "link": "https://www.cnbc.com/2026/09/12/india-china-modi-xi-brics-border.html",
+    "published": "Sat, 12 Sep 2026 15:12:56 GMT",
+    "fetched_at": "2026-09-13 03:53:04",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "신흥국",
+      "지정학"
+    ],
+    "keywords": [
+      "인도",
+      "중국",
+      "국경 분쟁",
+      "지정학"
+    ],
+    "reason": "인도와 중국 간 국경 분쟁 및 무역 불균형 논의는 양국 관계의 안정화를 모색하는 긍정적 신호로, 아시아 신흥국 전반의 지정학적 리스크 완화에 기여할 수 있다.",
+    "action_point": "인도-중국 지정학적 리스크 완화 가능성을 반영하여 아시아 신흥국 자산의 비중 조정 및 포트폴리오 재편 검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "\"9·11 잊지 않겠다\"던 트럼프…추모식서 ‘전쟁 명분’ 강조 - JTBC",
+    "title_ko": "9·11 잊지 않겠다던 트럼프…추모식서 ‘전쟁 명분’ 강조",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBEMkpjWTBnTW5uNjV6V1V1RFlXajV3Vm1mMjhoUFNKbEp6Ulh1VWR1Y3Fud3c0SnM4dWZJYmJJUi1OakJWdVQzNHZpNHFpYUpkbkRqdA?oc=5",
+    "published": "Sat, 12 Sep 2026 11:35:00 GMT",
+    "fetched_at": "2026-09-13 03:53:13",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "방산",
+      "에너지",
+      "금"
+    ],
+    "keywords": [
+      "트럼프",
+      "지정학",
+      "안보",
+      "전쟁"
+    ],
+    "reason": "트럼프 전 대통령의 '전쟁 명분' 강조 발언은 재집권 시 지정학적 갈등을 유발할 수 있는 외교 정책 기조를 암시하며, 이는 글로벌 안보 불확실성을 증대시켜 시장에 악재로 작용할 수 있습니다.",
+    "action_point": "지정학적 위험 고조에 대비하여 안전자산 비중을 확대하고 방산 섹터의 추이를 주시하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "Trump sees Iran war ending soon after mid-term elections, predicts oil prices will then fall sharply",
     "title_ko": "트럼프, 중간선거 직후 이란 전쟁 조기 종식 및 유가 급락 예상",
     "link": "https://www.cnbc.com/2026/09/12/trump-sees-iran-war-ending-very-soon-oil-prices-then-falling.html",
@@ -2972,56 +3019,5 @@
     ],
     "reason": "코스피가 심리적 지지선인 2,700선을 다시 하회하며 투자 심리가 위축되고 시장 전반의 조정 압력이 강화될 수 있습니다. 이는 국내 주식 시장에 대한 보수적인 관점 유지를 시사합니다.",
     "action_point": "국내 주식 시장의 조정 가능성을 고려하여 현금 비중 확대 또는 방어주 비중 확대를 검토하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "9·7 공급대책 1년 성적표는…“서울 집값은 오르고 착공은 멈췄다”",
-    "title_ko": "9·7 공급대책 1년 성적표는…“서울 집값은 오르고 착공은 멈췄다”",
-    "link": "https://www.mk.co.kr/news/realestate/12147203",
-    "published": "Tue, 08 Sep 2026 16:38:59 +09:00",
-    "fetched_at": "2026-09-08 16:42:14",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "부동산",
-      "건설",
-      "건축자재",
-      "금융"
-    ],
-    "keywords": [
-      "주택공급",
-      "서울 집값",
-      "착공 중단",
-      "부동산 정책",
-      "공급 부족"
-    ],
-    "reason": "이재명 정부의 주택공급 대책이 서울 집값 안정화에 실패하고 신규 착공까지 위축시켜 국내 부동산 시장의 공급 부족 심화 및 가격 상승 압력 지속 가능성을 높입니다. 이는 건설 및 건축자재 업종에 직접적인 악영향을 미칩니다.",
-    "action_point": "국내 건설 및 건축자재 섹터에 대한 투자 비중 축소를 검토하고, 서울 주택 시장의 공급 불안정성에 대비."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "“1~2년 만에 입주 가능”…이성훈 LH 사장, 서울 도심 신축매입 공급 속도전",
-    "title_ko": "“1~2년 만에 입주 가능”…이성훈 LH 사장, 서울 도심 신축매입 공급 속도전",
-    "link": "https://www.mk.co.kr/news/realestate/12147201",
-    "published": "Tue, 08 Sep 2026 16:38:32 +09:00",
-    "fetched_at": "2026-09-08 16:43:52",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "부동산",
-      "건설"
-    ],
-    "keywords": [
-      "LH",
-      "주택 공급",
-      "매입임대주택",
-      "서울 도심",
-      "부동산 정책",
-      "건설 경기"
-    ],
-    "reason": "LH의 서울 도심 매입임대주택 2만 호 공급 계획은 주택 시장의 공급 확대 기조를 강화하여 가격 상승 압력을 완화하고, 건설 섹터에는 신규 매입 수요를 창출할 것입니다.",
-    "action_point": "서울 도심 주택 공급 확대에 따른 장기적 부동산 가격 안정화 추세를 고려하여 주거용 부동산 포트폴리오 비중 조정을 검토하라."
   }
 ]
