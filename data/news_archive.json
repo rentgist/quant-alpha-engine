@@ -1,5 +1,106 @@
 [
   {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Inflation is outpacing wage growth again, squeezing Americans’ paychecks",
+    "title_ko": "인플레이션이 임금 상승률을 다시 앞질러 미국인들의 실질 임금 압박",
+    "link": "https://www.cnbc.com/2026/09/12/inflation-is-outpacing-wage-growth-again-squeezing-americans-paychecks.html",
+    "published": "Sat, 12 Sep 2026 12:49:15 GMT",
+    "fetched_at": "2026-09-12 22:15:28",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "소비재",
+      "유통"
+    ],
+    "keywords": [
+      "인플레이션",
+      "임금 상승률",
+      "소비 심리",
+      "미국 경제"
+    ],
+    "reason": "미국 실질 임금의 하락은 소비 심리 위축 및 소비 지출 감소로 이어져 경제 성장에 부정적이며, 고금리 장기화 가능성을 높여 주식 시장 전반에 압박으로 작용할 수 있습니다.",
+    "action_point": "미국 실질 임금 하락으로 인한 소비 위축에 대비하여 소비재 관련 투자 비중 축소 검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "트럼프 \"이란 전쟁, 중간선거 직후 끝나고 유가도 급락\" - MBC 뉴스",
+    "title_ko": "트럼프 \"이란 전쟁, 중간선거 직후 끝나고 유가도 급락\"",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1zY1M3aUxsN0VhN0N6T3RpZGdpQ1RjVjZYSVAyU0ZsaU5Nc0VZNzhHczJXa21mU25iMzlydjdJN0FBaTQ4aFlKTVZ1aUlmS0pIRHc2NTAzY3luNEZ6NU5oU1hIdjZNNDItVUY0dW5KLVEtemY20gF0QVVfeXFMT1lmWE9mN3JGLTktNGVzcXFHcmhseHQtSXVfS3dtQ3dWU2RBelk2ODc4TDJrcmVzQmVKcEpTdUJTTnNVLVM5aE56VU5KYzRtQkhIRlJXX2JBa0g3Tmw1NEVOWU9rWDFSUThFc3M1SzctbUl1UUs?oc=5",
+    "published": "Sat, 12 Sep 2026 10:58:27 GMT",
+    "fetched_at": "2026-09-12 22:15:36",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "항공",
+      "해운",
+      "화학",
+      "제조업",
+      "에너지"
+    ],
+    "keywords": [
+      "트럼프",
+      "이란 전쟁",
+      "유가",
+      "중간선거",
+      "지정학"
+    ],
+    "reason": "트럼프의 발언은 중동 지정학적 리스크 완화와 유가 급락 가능성을 시사하며, 이는 글로벌 인플레이션 압력 완화 및 한국과 같은 원유 수입국 기업들의 비용 절감으로 이어질 수 있습니다.",
+    "action_point": "국내 원유 수입 의존도가 높은 산업(항공, 해운, 화학 등)의 투자 비중 확대를 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "트럼프 \"이란 전쟁, 11월 중간선거 직후 끝나고 유가도 급락\"(종합) - v.daum.net",
+    "title_ko": "트럼프 \"이란 전쟁, 11월 중간선거 직후 끝나고 유가도 급락\"(종합)",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YM3ZEUHAtakpadldWOUFNdlBEeDVBNjdPUXYtWnZQdHVWTTNEc0YwNHRlNThlazhsaUIxRmtzN0VaMlY5XzB2bkQ4YXQ3c2s?oc=5",
+    "published": "Sat, 12 Sep 2026 12:57:00 GMT",
+    "fetched_at": "2026-09-12 22:15:53",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "운송",
+      "항공",
+      "소비재"
+    ],
+    "keywords": [
+      "트럼프",
+      "이란",
+      "지정학",
+      "유가",
+      "중간선거"
+    ],
+    "reason": "트럼프의 이란 전쟁 종료 및 유가 급락 발언은 지정학적 긴장 완화와 에너지 비용 하락 가능성을 제시하여 글로벌 인플레이션 압력 완화 및 경기 회복 기대감을 높일 수 있다. 다만, 발언의 실현 가능성은 매우 낮아 추세적 영향보다는 단기 변동성 요인으로 작용할 가능성이 크다.",
+    "action_point": "유가 하락 수혜 업종(항공, 해운, 소비재 등) 투자 포트폴리오 편입 가능성 검토."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "“세금 폭탄은 피하고 보자”…‘2주택자’ 비율 3년 전 수준으로",
+    "title_ko": "“세금 폭탄은 피하고 보자”…‘2주택자’ 비율 3년 전 수준으로",
+    "link": "https://www.mk.co.kr/news/realestate/12151165",
+    "published": "Sat, 12 Sep 2026 21:05:16 +09:00",
+    "fetched_at": "2026-09-12 22:16:08",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "부동산",
+      "건설",
+      "금융"
+    ],
+    "keywords": [
+      "부동산",
+      "세금",
+      "양도소득세",
+      "대출규제",
+      "다주택자"
+    ],
+    "reason": "세제 강화 및 대출 규제로 인해 다주택자 매물이 증가하며 국내 부동산 시장에 단기적인 하방 압력으로 작용할 수 있으며, 관련 소비 심리에도 영향을 미칠 것입니다.",
+    "action_point": "국내 부동산 익스포저를 재평가하고, 필요시 관련 자산 비중 축소를 검토하며 건설 및 금융 섹터 투자에 주의하라."
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "Tehran won’t surrender to the U.S., Iranian President Pezeshkian says, as India's Modi urges dialogue and peace",
@@ -2928,103 +3029,5 @@
     ],
     "reason": "중동 긴장 고조로 유가가 추가 상승하며 글로벌 인플레이션 압력을 가중시키고 경제 성장 둔화 우려를 키울 수 있습니다. 에너지 비용 증가는 기업 마진 압박 및 소비 위축으로 이어질 가능성이 있습니다.",
     "action_point": "고유가 지속 가능성에 대비하여 에너지 섹터 비중을 유지하고, 운송 및 항공 섹터 비중 축소를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "CNBC Daily Open: Rising tensions — from North America to the Middle East",
-    "title_ko": "CNBC 데일리 오픈: 북미에서 중동까지 고조되는 긴장",
-    "link": "https://www.cnbc.com/2026/09/08/cnbc-daily-open-trump-oil-canada-greenland-eu-spacex-iran-mideast-.html",
-    "published": "Tue, 08 Sep 2026 01:08:11 GMT",
-    "fetched_at": "2026-09-08 11:06:58",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "항공우주 및 방위산업",
-      "수출 제조업",
-      "운송 및 물류"
-    ],
-    "keywords": [
-      "트럼프",
-      "미국 우선주의",
-      "무역 갈등",
-      "보호무역주의",
-      "캐나다",
-      "봄바디어"
-    ],
-    "reason": "트럼프의 발언은 미국 우선주의 무역 정책의 재개를 시사하며, 이는 캐나다를 포함한 북미 지역의 무역 관계에 불확실성을 가중시키고 글로벌 공급망에 영향을 줄 수 있습니다.",
-    "action_point": "미국 우선주의 정책 재개 가능성에 대비, 대미 수출 의존도가 높거나 북미 지역 내 제조 및 공급망 의존도가 높은 기업 비중을 재검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Dow futures fall 300 points to start shortened week as oil prices climb: Live updates",
-    "title_ko": "다우 선물 300포인트 하락, 유가 상승 속 단축 주 시작: 실시간 업데이트",
-    "link": "https://www.cnbc.com/2026/09/07/stock-market-tuesday-live-updates.html",
-    "published": "Mon, 07 Sep 2026 23:37:32 GMT",
-    "fetched_at": "2026-09-08 08:53:25",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "운송",
-      "산업재",
-      "방산"
-    ],
-    "keywords": [
-      "다우 선물",
-      "유가 상승",
-      "중동 전쟁",
-      "무역 갈등"
-    ],
-    "reason": "유가 상승과 지정학적 리스크 확대로 인해 글로벌 인플레이션 압력이 가중되고 경기 둔화 우려가 커지며, 주식시장 전반의 투자 심리가 위축될 것입니다.",
-    "action_point": "유가 상승에 따른 인플레이션 압력과 지정학적 리스크 확대를 감안하여 위험자산 비중 축소 및 에너지/방산 섹터에 대한 선별적 접근을 고려하십시오."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Trump says he's made 'Hundreds of Billions of Dollars on Stocks' for the U.S., in stream of AI posts",
-    "title_ko": "트럼프, AI 게시물 통해 '수천억 달러의 주식 수익을 미국에 안겼다' 주장",
-    "link": "https://www.cnbc.com/2026/09/07/trump-truth-social-ai-images-posting-spree.html",
-    "published": "Mon, 07 Sep 2026 12:09:41 GMT",
-    "fetched_at": "2026-09-08 08:52:03",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [],
-    "keywords": [
-      "트럼프",
-      "미국 대선",
-      "AI 게시물",
-      "정치적 주장"
-    ],
-    "reason": "도널드 트럼프 전 대통령의 주장은 검증되지 않은 정치적 발언으로, 즉각적인 시장 영향보다는 향후 대선 캠페인 과정에서 정치적 노이즈를 증가시킬 수 있다. 직접적인 경제 정책 변화나 실물 지표 변화를 의미하지 않는다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Trump says Bombardier can't sell in U.S. unless Canada aerospace giant builds there",
-    "title_ko": "트럼프, 캐나다 항공우주 기업이 미국 내 건설해야만 봄바디어 판매 가능하다고 밝혀",
-    "link": "https://www.cnbc.com/2026/09/07/trump-bombardier-cant-sell-in-us-unless-canada-aerospace-giant-builds-there.html",
-    "published": "Mon, 07 Sep 2026 18:52:24 GMT",
-    "fetched_at": "2026-09-08 06:51:09",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "항공우주",
-      "제조업",
-      "수출 관련 산업"
-    ],
-    "keywords": [
-      "트럼프",
-      "봄바디어",
-      "캐나다",
-      "미국",
-      "무역분쟁",
-      "관세",
-      "보호무역"
-    ],
-    "reason": "트럼프의 발언은 미국과 캐나다 간 무역 갈등 심화를 시사하며, 이는 글로벌 공급망 불안정성을 높이고 관련 기업들의 비용 증가를 야기할 수 있습니다.",
-    "action_point": "미국-캐나다 무역 갈등에 노출된 항공우주 및 관련 수출 기업에 대한 투자 비중 축소를 검토하라."
   }
 ]
