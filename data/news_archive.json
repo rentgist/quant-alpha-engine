@@ -1,5 +1,60 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "“호르무즈·홍해도 벅찬데 중국까지”…국제유가 상방 ‘활짝’ [이슈+] - 에너지경제신문",
+    "title_ko": "“호르무즈·홍해도 벅찬데 중국까지”…국제유가 상방 ‘활짝’",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8zWTZQQUVYbTZWLXlXTUFuYjJVQ0VYMU41WHBLckdMLVl5LXRIbzJhZDF4U3c5LTY2Zk5US3JIbzkyemlWMkhpRFMwTkZIUm5tcDRGUFhjaGlqZDdPSnc?oc=5",
+    "published": "Sat, 12 Sep 2026 04:06:32 GMT",
+    "fetched_at": "2026-09-12 14:16:33",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "정유",
+      "항공",
+      "해운",
+      "화학",
+      "운송",
+      "소비재"
+    ],
+    "keywords": [
+      "국제유가",
+      "호르무즈 해협",
+      "홍해",
+      "중국 경제",
+      "지정학적 위험",
+      "인플레이션"
+    ],
+    "reason": "호르무즈 해협 및 홍해의 지정학적 위험과 중국 경제 회복에 따른 수요 증가 기대감으로 국제유가 상방 압력이 커지며, 이는 국내 물가 상승과 기업 비용 증가로 이어져 경제 전반에 부담을 줄 수 있습니다.",
+    "action_point": "항공, 해운, 화학 등 유가 민감 섹터 비중 축소를 검토하고, 원유 생산/정제 관련 에너지 섹터 포트폴리오 편입을 고려하십시오."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "노을, 한·아프리카 경제협력회의서 AI 현장진단 협력 비전 제시 - MEDI:GATE NEWS",
+    "title_ko": "노을, 한·아프리카 경제협력회의서 AI 현장진단 협력 비전 제시",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9TenlzclRJZnpkOGExZ2hNX29idW4tQlU1NXlNTnp6WW95TVgwTFZLb3M1VWRreFVhekpkNV9Vd0ZBNzROd3p2QmVkWTg3bm9qdnF5Q3g0RQ?oc=5",
+    "published": "Fri, 11 Sep 2026 21:26:00 GMT",
+    "fetched_at": "2026-09-12 14:16:22",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "바이오/헬스케어",
+      "AI",
+      "의료기기"
+    ],
+    "keywords": [
+      "노을",
+      "한-아프리카",
+      "경제협력",
+      "AI 현장진단",
+      "헬스케어"
+    ],
+    "reason": "노을의 아프리카 시장 진출 협력 비전 제시는 국내 AI 기반 현장진단 기술의 해외 시장 확장 가능성을 보여주며, K-바이오/헬스케어 및 AI 의료기기 섹터 전반에 긍정적인 투자 심리를 형성할 수 있습니다. 이는 특정 기업의 성장을 넘어 국내 기술의 글로벌 경쟁력 강화 신호로 해석됩니다.",
+    "action_point": "노을(263770)의 아프리카 시장 진출 성과 및 AI 헬스케어 섹터 전반의 해외 확장 가능성을 주시하며 관련 기업 비중 확대를 검토."
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "Inflation persisted in August, potentially locking in a Fed interest rate hike",
@@ -2962,56 +3017,5 @@
     ],
     "reason": "중국 금융기관의 자본 확충이 예상보다 적고 비전통적인 방식으로 진행되어, 중국 금융 시스템의 내재적 취약성과 경기 회복 동력 부족을 시사한다.",
     "action_point": "중국 금융 섹터 및 대중국 익스포저가 높은 자산 비중 축소 검토"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Treasury yields face 4.8% test as fiscal risks threaten to spill into other assets",
-    "title_ko": "재무부 채권 수익률 4.8% 시험대, 재정 위험이 다른 자산으로 확산 우려",
-    "link": "https://www.cnbc.com/2026/09/07/us-treasury-yields-markets-scott-bessent.html",
-    "published": "Mon, 07 Sep 2026 02:01:52 GMT",
-    "fetched_at": "2026-09-07 15:48:43",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "기술주",
-      "부동산",
-      "성장주 전반"
-    ],
-    "keywords": [
-      "미국 국채 금리",
-      "재정 위험",
-      "고금리",
-      "위험 자산"
-    ],
-    "reason": "미국 재무부 채권 금리가 4.8%를 넘어설 경우, 전반적인 차입 비용 상승과 위험 자산 할인율 증가로 주식 등 위험 자산의 가치가 하락하고 시장 변동성이 확대될 수 있습니다.",
-    "action_point": "장기 국채 및 금리에 민감한 성장주 등 위험 자산 비중 축소를 검토하고, 포트폴리오의 방어적 재편을 고려하십시오."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Treasurys are losing foreign appeal in a historic capital flow reversal — and here's one trade investors favor instead",
-    "title_ko": "미국 국채, 해외 투자 매력 상실하며 역사적 자본 흐름 역전... 투자자들이 대신 선호하는 전략은?",
-    "link": "https://www.cnbc.com/2026/09/07/treasurys-bonds-investors-deficit-debt.html",
-    "published": "Mon, 07 Sep 2026 05:00:01 GMT",
-    "fetched_at": "2026-09-07 15:48:53",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "채권",
-      "외환",
-      "금융",
-      "성장주",
-      "원자재"
-    ],
-    "keywords": [
-      "미국 국채",
-      "자본 흐름 역전",
-      "해외 투자",
-      "금리",
-      "달러"
-    ],
-    "reason": "미국 국채의 해외 수요 감소는 장기 금리 상승 압력으로 작용하며, 이는 미국 달러 약세 및 글로벌 자산 시장의 위험 회피 심리를 자극할 수 있습니다.",
-    "action_point": "미국 국채 금리 상승 압력과 달러 약세 가능성에 대비하여 포트폴리오 내 달러 자산 비중을 점검하고 다각화를 고려하라."
   }
 ]
