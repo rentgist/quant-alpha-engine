@@ -1,5 +1,131 @@
 [
   {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Goldman picks China healthcare stocks for a post-AI trade",
+    "title_ko": "골드만삭스, 'AI 이후' 투자 테마로 중국 헬스케어 주식 지목",
+    "link": "https://www.cnbc.com/2026/09/13/goldman-picks-china-healthcare-stocks-for-a-post-ai-trade.html",
+    "published": "Sun, 13 Sep 2026 11:54:40 GMT",
+    "fetched_at": "2026-09-13 21:57:00",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "헬스케어",
+      "중국 주식"
+    ],
+    "keywords": [
+      "골드만삭스",
+      "중국",
+      "헬스케어",
+      "AI",
+      "실적 성장"
+    ],
+    "reason": "골드만삭스가 중국 기업들의 5년래 최고 실적 성장을 언급하며 중국 경제 회복 기대감을 높였고, AI 이후 테마로 헬스케어 섹터를 지목해 해당 섹터로의 자금 유입을 촉진할 수 있습니다.",
+    "action_point": "중국 헬스케어 섹터의 포트폴리오 편입 및 비중 확대를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "China's Xi urges BRICS nations to work towards peace in the Middle East",
+    "title_ko": "시진핑 주석, 브릭스 국가들에 중동 평화 위해 노력 촉구",
+    "link": "https://www.cnbc.com/2026/09/13/chinas-xi-urges-brics-peace-middle-east.html",
+    "published": "Sun, 13 Sep 2026 09:41:53 GMT",
+    "fetched_at": "2026-09-13 21:57:20",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "원자재",
+      "지정학"
+    ],
+    "keywords": [
+      "중동",
+      "평화",
+      "시진핑",
+      "BRICS",
+      "지정학",
+      "유가"
+    ],
+    "reason": "중국 시진핑 주석의 중동 평화 촉구는 역내 지정학적 긴장 완화 가능성을 시사하며, 이는 원자재 시장 특히 유가에 대한 지정학적 리스크 프리미엄을 낮출 수 있습니다. 이란의 주요 교역국인 중국의 발언은 사안의 무게를 더합니다.",
+    "action_point": "중동 지정학적 리스크 완화 가능성에 따른 원유 관련 자산의 지정학적 프리미엄 축소 여부 주시."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Xi says China will take lead to foster AI, tech cooperation among BRICS countries",
+    "title_ko": "시진핑, 브릭스 국가 간 AI 및 기술 협력 주도할 것 발표",
+    "link": "https://www.cnbc.com/2026/09/13/china-xi-ai-tech-brics.html",
+    "published": "Sun, 13 Sep 2026 11:17:12 GMT",
+    "fetched_at": "2026-09-13 21:57:29",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "인공지능",
+      "기술",
+      "반도체",
+      "소프트웨어",
+      "신흥국 시장"
+    ],
+    "keywords": [
+      "시진핑",
+      "중국",
+      "브릭스",
+      "인공지능",
+      "기술 협력",
+      "신흥국"
+    ],
+    "reason": "중국의 브릭스 국가 AI 및 기술 협력 주도 선언은 신흥국 내 AI 산업 성장을 촉진하고, 관련 기술 및 인프라 기업에 새로운 기회를 제공할 수 있습니다.",
+    "action_point": "신흥국 시장의 AI 및 기술 인프라 구축 관련 국내외 수혜 기업을 선별하여 투자 검토."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Iran and UAE back joint BRICS statement urging restraint in war",
+    "title_ko": "이란과 UAE, 전쟁 자제 촉구하는 BRICS 공동 성명 지지",
+    "link": "https://www.cnbc.com/2026/09/13/iran-and-uae-back-joint-brics-statement-urging-restraint-in-war.html",
+    "published": "Sun, 13 Sep 2026 10:38:08 GMT",
+    "fetched_at": "2026-09-13 21:57:38",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "에너지"
+    ],
+    "keywords": [
+      "이란",
+      "UAE",
+      "BRICS",
+      "전쟁 자제",
+      "지정학"
+    ],
+    "reason": "이란과 UAE를 포함한 BRICS 국가들의 전쟁 자제 촉구는 중동 지역 지정학적 긴장 완화에 대한 기대감을 일부 높여 국제 유가 안정에 긍정적으로 작용할 수 있습니다.",
+    "action_point": "국제유가 추가 하락 가능성에 대비하여 에너지 섹터 익스포저 재검토"
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[속보] 당정 \"추석 전 역대 최대 수준 성수품 공급…할인 한도 없앨것\" - 연합뉴스TV",
+    "title_ko": "당정 \"추석 전 역대 최대 수준 성수품 공급…할인 한도 없앨것\"",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBBT3ZaQVRFX294bXo3eTc0ZEhGU2ROU0hHV3ZsM1E1aGRKUGVHUWNibF9OU0w4U0dqbkNyN3lGMWhpWFBsQkt1NDJFVzVsT2lHTG5pV25zc3I2X0J3YU9fN1BJUXpCRHc?oc=5",
+    "published": "Sun, 13 Sep 2026 09:29:00 GMT",
+    "fetched_at": "2026-09-13 21:57:46",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "유통",
+      "소비재",
+      "식품"
+    ],
+    "keywords": [
+      "당정",
+      "추석",
+      "성수품",
+      "물가안정",
+      "할인"
+    ],
+    "reason": "정부의 추석 성수품 물가 안정 대책은 단기적으로 특정 소비재/유통 섹터의 판매를 촉진하고 명절 기간 소비자 물가 상승 압력을 완화할 것이다. 그러나 거시 경제 전반의 방향성을 바꿀 정도의 영향은 제한적이다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "GoogleNews_Korea",
     "market": "KR",
     "title": "\"이란전쟁, 2029년까지는 간다\"...미국, 장기 소모전 돌입 - YTN",
@@ -2880,127 +3006,5 @@
     ],
     "reason": "한국의 주요 야당 내에서 미국과의 잠재적 군사 공조에 대한 신중론이 제기되며, 외교 및 안보 정책 방향에 대한 논의가 있음을 보여준다. 당장 시장에 미칠 직접적인 영향은 제한적이다.",
     "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "China's EV makers shift gears to focus on humanoids as car market slows",
-    "title_ko": "중국 전기차 제조업체, 시장 둔화에 휴머노이드 로봇으로 초점 전환",
-    "link": "https://www.cnbc.com/2026/09/09/chinas-ev-makers-shift-gears-to-focus-on-humanoids-as-car-market-slows.html",
-    "published": "Wed, 09 Sep 2026 04:12:51 GMT",
-    "fetched_at": "2026-09-09 14:33:53",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "전기차",
-      "로봇",
-      "기술",
-      "반도체"
-    ],
-    "keywords": [
-      "중국",
-      "전기차",
-      "휴머노이드 로봇",
-      "시장 둔화",
-      "기술 전환"
-    ],
-    "reason": "중국 전기차 시장의 둔화는 글로벌 소비 수요 위축의 신호로 해석될 수 있으며, 이는 AI 및 로봇 산업으로의 자본 및 기술 투자를 가속화할 것입니다.",
-    "action_point": "중국 전기차 관련 자산 비중 축소를 검토하고, 로봇 및 AI 섹터 비중 확대를 고려하라."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "How one hedge-fund manager built his firm to be powered entirely by AI agents",
-    "title_ko": "한 헤지펀드 매니저가 AI 에이전트만으로 운영되는 회사를 설립한 방법",
-    "link": "https://www.cnbc.com/2026/09/08/brian-kelly-bracket22-ai-agents.html",
-    "published": "Tue, 08 Sep 2026 21:59:13 GMT",
-    "fetched_at": "2026-09-09 09:52:39",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "금융 서비스",
-      "인공지능(AI)",
-      "소프트웨어/기술"
-    ],
-    "keywords": [
-      "AI 에이전트",
-      "헤지펀드",
-      "월스트리트",
-      "핀테크"
-    ],
-    "reason": "이 기사는 금융 산업 내 AI 기술 도입이 가속화되고 있음을 보여주며, 향후 투자 전략 및 운영 방식에 구조적인 변화를 가져올 가능성을 시사합니다. 이는 효율성 증대와 함께 새로운 금융 서비스 모델의 등장을 촉진할 것입니다.",
-    "action_point": "AI 기술 도입으로 효율성과 경쟁력을 높이는 금융 기술(FinTech) 기업 및 관련 인공지능 인프라/소프트웨어 기업에 대한 투자 기회를 모색하라."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Crypto platforms have lost over $3.63 billion to cyberattacks — even though most of them did security checks",
-    "title_ko": "암호화폐 플랫폼들이 보안 점검에도 불구하고 사이버 공격으로 36억 3천만 달러 이상 손실",
-    "link": "https://www.cnbc.com/2026/09/08/crypto-platforms-lost-billions-to-cyberattacks-many-even-after-audits.html",
-    "published": "Tue, 08 Sep 2026 08:16:11 GMT",
-    "fetched_at": "2026-09-09 09:52:56",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "암호화폐"
-    ],
-    "keywords": [
-      "암호화폐",
-      "사이버 공격",
-      "보안 취약점",
-      "자산 손실"
-    ],
-    "reason": "암호화폐 플랫폼의 지속적인 해킹 및 대규모 자산 손실은 해당 시장의 신뢰도를 저해하고, 보안 감사에도 불구하고 존재하는 취약점을 드러내 투자자들의 신중한 접근을 유도할 것입니다.",
-    "action_point": "암호화폐 포트폴리오의 보안 취약성을 재평가하고, 필요시 관련 자산 비중 축소를 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "대한항공 조종사노조, 10년 만에 파업 위기 - 연합뉴스TV",
-    "title_ko": "대한항공 조종사노조, 10년 만에 파업 위기 - 연합뉴스TV",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBMSHhqV3lBSHJlaHluQWJ6OTNtR2tPdTlSdFN6bEpBWmhvbFY0ZnJoLWFyMlFFeEZ4TEk5aU9VOEF2c0V6dHU0dUFxZ1VaWFItZlN3SzNOR0F5cThOSTZMQ1NDZUY3WW8?oc=5",
-    "published": "Tue, 08 Sep 2026 20:30:00 GMT",
-    "fetched_at": "2026-09-09 09:53:04",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "항공",
-      "운수/물류",
-      "여행/관광"
-    ],
-    "keywords": [
-      "대한항공",
-      "조종사노조",
-      "파업",
-      "항공산업"
-    ],
-    "reason": "대한항공 조종사노조의 파업은 항공 운항 차질과 비용 증가를 야기하여 대한항공의 수익성에 부정적인 영향을 미치고, 국내 항공 및 여행 섹터에 단기적인 불확실성을 가중시킬 수 있습니다.",
-    "action_point": "대한항공 주식 보유 비중 축소 검토"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[속보] 트럼프, 캐나다 관세에 보복‥\"정부조달 계약서 캐나다산 제외\" - MBC 뉴스",
-    "title_ko": "[속보] 트럼프, 캐나다 관세에 보복‥\"정부조달 계약서 캐나다산 제외\" - MBC 뉴스",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE52MC0wUGpqRDRHSk1IamZURkFfYjRxbGdYOE1DRXFPNG9GOG40b1pxN1hPNDBXbnJwXzBObjFzdEZyeTkyaVVQRmhvWmtLMXFiSTFranpTNUFQYkdqOGVXaC11a194SDdzWDkzV1Z3dXRFZE5O0gF0QVVfeXFMUDJkZHNkMG1WUS1mdkRuVERtVFdnSEZ2MGFiRnhhM0dETFk1MkVKcGVSR1dNSzVoWkh5akpMalg0UmZPQmFfLXFqUWRvSlFwMlZHbE5CVU9CWV9KTWU0R25Ha1FGYmxkUWlMejRkdHlWR010SmQ?oc=5",
-    "published": "Tue, 08 Sep 2026 21:30:40 GMT",
-    "fetched_at": "2026-09-09 07:11:15",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "무역",
-      "제조업",
-      "정부 조달 관련 산업"
-    ],
-    "keywords": [
-      "트럼프",
-      "캐나다",
-      "관세",
-      "보복",
-      "정부 조달",
-      "무역 갈등"
-    ],
-    "reason": "미국과 캐나다 간 무역 갈등이 고조되고 있음을 나타내며, 이는 글로벌 공급망 교란 및 기업 비용 증가를 야기하여 세계 경제 성장과 투자 심리에 부정적인 영향을 미칠 수 있습니다.",
-    "action_point": "미국 및 캐나다 수출 비중이 높은 국내 기업 또는 글로벌 공급망에 편입된 한국 기업들의 투자 비중을 재검토하십시오."
   }
 ]
