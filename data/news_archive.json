@@ -1,5 +1,79 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "트럼프 \"중간 선거 전후로 이란 전쟁 끝날 것\" - YTN",
+    "title_ko": "트럼프 \"중간 선거 전후로 이란 전쟁 끝날 것\" - YTN",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5rX0VzVUhjQlpyTGwyUEg2RXAyMFJVa3RnSjhZWTBZbXRQRXVSSFhNaDdDcDhIZjEyYWotdkZHdGcyR3Y5eTZPNjh1X190b2pBOWxKcWpJTHNfM3RlbUE?oc=5",
+    "published": "Sun, 13 Sep 2026 16:02:00 GMT",
+    "fetched_at": "2026-09-14 04:07:08",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "방산",
+      "글로벌 증시"
+    ],
+    "keywords": [
+      "트럼프",
+      "이란",
+      "지정학적 위험",
+      "유가",
+      "선거"
+    ],
+    "reason": "트럼프의 이란 전쟁 종식 발언은 중동 지역의 지정학적 긴장 완화 가능성을 시사하며, 이는 국제 유가 안정화 및 글로벌 증시의 리스크 프리미엄 하락에 긍정적으로 작용할 수 있습니다.",
+    "action_point": "국제유가 안정화 가능성에 따라 에너지 관련 투자 전략을 점검하고, 방산주에 대한 신중한 접근을 유지하십시오."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "트럼프 “11월 중간선거 직후 이란 전쟁 끝날 것…어쩌면 그 전에” - 중앙일보",
+    "title_ko": "트럼프 “11월 중간선거 직후 이란 전쟁 끝날 것…어쩌면 그 전에” - 중앙일보",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52SkE2MHdYRFRBWU1QWXpsU3EyaEF2NTBKTjBYQ202WmdwZ0FpSmpIRWhDeHlJbEJWWGdaR2N0Q3RMaHNsLV95RlRnQkhkX3JFZUN2Y05R?oc=5",
+    "published": "Sun, 13 Sep 2026 16:06:01 GMT",
+    "fetched_at": "2026-09-14 04:07:27",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "방산",
+      "외환"
+    ],
+    "keywords": [
+      "트럼프",
+      "이란",
+      "전쟁",
+      "지정학",
+      "유가"
+    ],
+    "reason": "트럼프 전 대통령의 이란 전쟁 종료 언급은 중동 지역의 지정학적 불확실성을 야기하거나 해소할 수 있으며, 글로벌 유가 및 금융 시장의 위험 선호도에 영향을 미칠 잠재력을 가집니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Larry Ellison nixes plan to offload up to $7.5 billion worth of Oracle stock",
+    "title_ko": "래리 앨리슨, 75억 달러 상당 오라클 주식 매각 계획 취소",
+    "link": "https://www.cnbc.com/2026/09/12/larry-ellison-nixes-plan-to-offload-up-to-7point5-billion-worth-of-oracle-stock-.html",
+    "published": "Sat, 12 Sep 2026 17:14:56 GMT",
+    "fetched_at": "2026-09-14 04:06:56",
+    "sentiment": "호재",
+    "importance": 2,
+    "sectors": [
+      "기술",
+      "소프트웨어"
+    ],
+    "keywords": [
+      "래리 앨리슨",
+      "오라클",
+      "주식 매각",
+      "지분",
+      "취소"
+    ],
+    "reason": "오라클 창업주의 대규모 지분 매각 계획 취소는 해당 주식에 대한 잠재적 매도 압력을 제거하고 투자 심리를 개선할 것입니다. 이는 오라클 주가에 긍정적인 영향을 미칠 수 있습니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "Vessel struck in Strait of Hormuz, UKMTO says, as prospects for U.S.-Iran diplomacy appear elusive",
@@ -2930,78 +3004,5 @@
     ],
     "reason": "호르무즈 해협은 세계 원유 수송의 핵심 통로이며, 한국의 국제 공조 참여는 에너지 안보 강화 및 공급망 안정에 기여할 수 있으나, 중동 지정학적 리스크 노출 가능성 또한 내포한다.",
     "action_point": "중동 지정학적 리스크 확대 가능성에 대비하여 원유 및 해운 관련 자산 비중 조절 검토."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "[단독]‘미래대응기금’ 10일 국회 토론회…김우철 “빚으로 여유자금…국회 심의서 더 투명해져야”",
-    "title_ko": "[단독]‘미래대응기금’ 10일 국회 토론회…김우철 “빚으로 여유자금…국회 심의서 더 투명해져야”",
-    "link": "https://www.mk.co.kr/news/economy/12148658",
-    "published": "Wed, 09 Sep 2026 18:37:17 +09:00",
-    "fetched_at": "2026-09-09 19:27:42",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "국채",
-      "금융"
-    ],
-    "keywords": [
-      "미래대응기금",
-      "국가채무",
-      "재정건전성",
-      "예산안",
-      "국회"
-    ],
-    "reason": "이 기사는 사상 최대 규모의 내년도 예산안 중 미래대응기금이 빚으로 조성된다는 비판을 제기하며 국가 재정 건전성 악화 및 국채 발행 증가에 대한 우려를 심화시킨다. 이는 장기적으로 국내 금리 상승 압력으로 작용할 수 있다.",
-    "action_point": "국가 부채 증가 우려로 인한 국내 장기 금리 상승 가능성에 대비하여 장기 채권 비중 축소 검토."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Adani Enterprises shares jump as airport unit enters into $1 billion fundraising deal",
-    "title_ko": "아다니 엔터프라이즈, 공항 사업부 10억 달러 자금 조달 계약 체결 소식에 주가 급등",
-    "link": "https://www.cnbc.com/2026/09/09/adani-enterprises-airport-fundraise-shares.html",
-    "published": "Wed, 09 Sep 2026 06:26:59 GMT",
-    "fetched_at": "2026-09-09 19:24:40",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "인프라",
-      "운송"
-    ],
-    "keywords": [
-      "아다니",
-      "인도",
-      "공항",
-      "자금조달",
-      "주가상승"
-    ],
-    "reason": "인도 대기업 아다니 그룹의 공항 사업부 자금 조달 성공은 해당 기업의 성장 모멘텀을 강화하고 부채 우려를 완화하며, 인도 및 신흥국 인프라 투자에 대한 긍정적 신호를 보낼 수 있습니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "행안장관 \"경기도 재정위기, 부동산 거래감소·코로나 등 원인\" - 연합뉴스",
-    "title_ko": "행안장관 \"경기도 재정위기, 부동산 거래감소·코로나 등 원인\"",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE56VnFVSkdtRWpMTHczcmhTNHVrbzkwS2Ftb1JZdnY2THp0VkdxVl9ta1Utb2UxR3dBemNuQ2JJN09pVjJvX3Z2emQ5TDJLUVB4U1AxRkhjVU51WVHSAWBBVV95cUxNVjNfcTB4cm1IMTh5VkJiTElwaTRyN0l3VTZXUnBrTXl2aDhOTUM1ZGhaSjMzdWoxbzZYX0JzektmOUViRG9UdEE2SWxRV3BLYzhTc254d3J6ampSNC1lSlQ?oc=5",
-    "published": "Wed, 09 Sep 2026 09:13:25 GMT",
-    "fetched_at": "2026-09-09 19:26:19",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "부동산",
-      "건설",
-      "지방정부 채권",
-      "금융"
-    ],
-    "keywords": [
-      "경기도 재정위기",
-      "부동산 거래 감소",
-      "지방정부 재정",
-      "부동산 시장"
-    ],
-    "reason": "경기도의 재정위기는 부동산 거래 감소가 주된 원인으로 지목되어 국내 부동산 시장의 침체 지속 가능성을 시사합니다. 이는 지방 정부의 재정 건전성 악화로 이어져 지역 경제 활동 및 인프라 투자에 부정적 영향을 미칠 수 있습니다.",
-    "action_point": "국내 부동산 관련 자산 비중 축소 또는 신중한 접근 유지."
   }
 ]
