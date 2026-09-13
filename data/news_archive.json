@@ -2,6 +2,58 @@
   {
     "source": "GoogleNews_Korea",
     "market": "KR",
+    "title": "트럼프 \"이란 전쟁, 중간선거 직후 끝날 것\" - 연합뉴스TV",
+    "title_ko": "트럼프 \"이란 전쟁, 중간선거 직후 끝날 것\"",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4bVA0ZmkxQkJlWmlDWlZNN29lZHVVU09CN0taOTJ2azZZZDl1QkFLV1IycEdvNEg2RHpucDZ6UVJfeXZMQTFHUVJKUTFYQm5BbHF2Q3ZkVVRhZHlyczljZm9ZS1ZRRVk?oc=5",
+    "published": "Sun, 13 Sep 2026 20:45:00 GMT",
+    "fetched_at": "2026-09-14 06:56:27",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "방산",
+      "해운"
+    ],
+    "keywords": [
+      "트럼프",
+      "이란",
+      "전쟁",
+      "지정학",
+      "유가"
+    ],
+    "reason": "트럼프 전 대통령의 이란 전쟁 관련 발언은 중동 지역의 지정학적 불확실성을 고조시키며, 향후 유가 변동성 확대 및 글로벌 투자 심리 위축을 야기할 수 있습니다.",
+    "action_point": "중동 지정학적 리스크 심화 가능성에 대비, 에너지 및 방산 섹터 비중을 재검토하고 유가 변동성 확대에 유의하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "이란 대통령, 전쟁발발후 처음으로 UAE 아부다비 왕세자와 회담 - 연합뉴스",
+    "title_ko": "이란 대통령, 전쟁발발후 처음으로 UAE 아부다비 왕세자와 회담",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZaXZWTFlTMWRhV3hkZEk3QmZpbDRQNUpyenRTYkxYcUN2TG9vNHVNUEhIVDVjSkFiVEktd3ZjNnNISnB6NEpNSjc2c2NNRVVIV2RyNE16MWpVMmPSAWBBVV95cUxPTGFURk82TlJxajFtamhFVjcybmhKbGpZbDNqRVZ5Sl9rQk84T3p6MHFiTjJWREU5QzJkWmtEaFkzaFgteXo4X2tpdDVVRzJMNS0yR0FKRTktSmk1X1A0TUg?oc=5",
+    "published": "Sun, 13 Sep 2026 15:17:32 GMT",
+    "fetched_at": "2026-09-14 06:57:58",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "원자재",
+      "에너지",
+      "해운",
+      "항공"
+    ],
+    "keywords": [
+      "이란",
+      "UAE",
+      "중동",
+      "외교",
+      "지정학",
+      "유가"
+    ],
+    "reason": "이란과 UAE 간의 고위급 회담은 중동 지역의 지정학적 긴장 완화 및 외교적 해결 노력의 신호로 해석될 수 있습니다. 이는 글로벌 원유 공급망의 불확실성을 일부 해소하고 리스크 프리미엄을 낮출 가능성이 있습니다.",
+    "action_point": "중동 리스크 완화 기조에 따른 유가 변동성을 고려하여 원유 관련 자산 보유 비중을 재검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
     "title": "트럼프 \"중간 선거 전후로 이란 전쟁 끝날 것\" - YTN",
     "title_ko": "트럼프 \"중간 선거 전후로 이란 전쟁 끝날 것\" - YTN",
     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5rX0VzVUhjQlpyTGwyUEg2RXAyMFJVa3RnSjhZWTBZbXRQRXVSSFhNaDdDcDhIZjEyYWotdkZHdGcyR3Y5eTZPNjh1X190b2pBOWxKcWpJTHNfM3RlbUE?oc=5",
@@ -2953,56 +3005,5 @@
     ],
     "reason": "트럼프의 재집권 시 우크라이나 전쟁 종결 가능성을 시사하며 지정학적 리스크 완화와 에너지, 원자재 시장 안정화에 대한 기대감을 자극하지만, 현재는 크렘린궁의 추측성 발언으로 해석해야 한다.",
     "action_point": "트럼프 당선 가능성 및 우크라이나 전쟁 종결 시나리오에 따른 방산 및 에너지 섹터 포트폴리오 영향 점검"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "\"정부, '침략전쟁 동참' 호르무즈 파병 美요구 거부하라\" - imnews.imbc.com",
-    "title_ko": "정부, '침략전쟁 동참' 호르무즈 파병 美요구 거부하라",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5GOEd3Qmk3djhWZzhLalE3MmlXLWNUS0FybVNWX3ZfMUJlWWtrSXlQd0RvckVxMnRoNTFQRUVfZmozSE91bUZvTk84Um9VbE4zWHFOa1pMd2tpd3drMndVM1R1MklmVHdqYlFtU3d0cDFGa0t4TWJ30gF3QVVfeXFMT2FHWXU4SFktUWFhTjJxazVpenY2YjN1UnJLeUdoZk9LY3pWMGM1c09CeEF1cjNnRGdvMmNDdlhua2dxZzJIcGRnMzZkSk1ITXUwMXo2NUZnU2FEeml3MUlyMndKNlRCSkd4ME4taUNzZXoxSVRza28?oc=5",
-    "published": "Wed, 09 Sep 2026 07:47:18 GMT",
-    "fetched_at": "2026-09-09 19:26:30",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "해운",
-      "방산",
-      "금융"
-    ],
-    "keywords": [
-      "호르무즈",
-      "지정학",
-      "원유",
-      "미국",
-      "파병"
-    ],
-    "reason": "미국의 호르무즈 파병 요구는 중동 지역의 지정학적 긴장을 고조시키며, 세계 원유 공급의 핵심 통로인 호르무즈 해협의 안정성을 위협하여 국제 유가 상승 압력과 전반적인 시장의 위험 회피 심리를 강화할 수 있습니다.",
-    "action_point": "유가 상승 가능성에 대비, 에너지 및 원자재 관련 자산 비중 확대 검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "李대통령, 호르무즈 국제공조 참여 가닥…靑 “세부 사항은 검토 중” - 전자신문",
-    "title_ko": "李대통령, 호르무즈 국제공조 참여 가닥…靑 “세부 사항은 검토 중”",
-    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0yYnhHUmJxUzVaWC11d1gxcDdyeS1adS1qbDQ4NHFrZ0M0ck1PRU9YQXBvbE1XSktQdXMtZUFYRjd3aDliSnlYZF9VRE54Zw?oc=5",
-    "published": "Wed, 09 Sep 2026 01:48:26 GMT",
-    "fetched_at": "2026-09-09 19:27:14",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "정유/에너지",
-      "해운",
-      "방산"
-    ],
-    "keywords": [
-      "호르무즈 해협",
-      "에너지 안보",
-      "지정학",
-      "국제공조",
-      "유가"
-    ],
-    "reason": "호르무즈 해협은 세계 원유 수송의 핵심 통로이며, 한국의 국제 공조 참여는 에너지 안보 강화 및 공급망 안정에 기여할 수 있으나, 중동 지정학적 리스크 노출 가능성 또한 내포한다.",
-    "action_point": "중동 지정학적 리스크 확대 가능성에 대비하여 원유 및 해운 관련 자산 비중 조절 검토."
   }
 ]
