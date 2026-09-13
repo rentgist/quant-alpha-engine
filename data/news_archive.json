@@ -1,5 +1,73 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Vessel struck in Strait of Hormuz, UKMTO says, as prospects for U.S.-Iran diplomacy appear elusive",
+    "title_ko": "호르무즈 해협서 선박 피격, UKMTO 발표…美-이란 외교 난항 예고",
+    "link": "https://www.cnbc.com/2026/09/13/vessel-struck-strait-of-hormuz-ukmto.html",
+    "published": "Sun, 13 Sep 2026 13:38:23 GMT",
+    "fetched_at": "2026-09-14 01:47:37",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "해운"
+    ],
+    "keywords": [
+      "호르무즈 해협",
+      "유가",
+      "지정학적 리스크",
+      "미국-이란 관계",
+      "해운 보험료"
+    ],
+    "reason": "호르무즈 해협 피격은 중동 지역의 지정학적 불안정을 심화시키며, 원유 공급 차질 우려를 증대시켜 국제 유가 상승 압력을 가할 것입니다. 이는 전반적인 인플레이션 압력과 글로벌 경기 둔화 가능성을 높이는 요인입니다.",
+    "action_point": "원유 가격 상승 압력에 대비하여 에너지 및 원자재 관련 자산의 비중 확대를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Anthropic's Amodei says China presents 'toughest dilemma' for his proposed AI slowdown",
+    "title_ko": "Anthropic의 Amodei, 제안된 AI 개발 속도 둔화에 대해 중국이 '가장 어려운 딜레마' 제시",
+    "link": "https://www.cnbc.com/2026/09/13/china-dilemma-ai-slowdown-anthropic.html",
+    "published": "Sun, 13 Sep 2026 16:39:24 GMT",
+    "fetched_at": "2026-09-14 01:47:46",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "인공지능(AI)",
+      "반도체"
+    ],
+    "keywords": [
+      "인공지능",
+      "AI",
+      "중국",
+      "지정학"
+    ],
+    "reason": "Anthropic CEO의 AI 개발 속도 둔화 제안은 AI 산업의 안전 및 규제 필요성을 강조하지만, 중국과의 지정학적 딜레마는 글로벌 AI 기술 경쟁이 지속될 것임을 시사한다. 이는 기술 디커플링 우려를 증폭시킨다.",
+    "action_point": "AI 및 반도체 섹터 투자 시 지정학적 리스크와 기술 디커플링 가능성에 대한 포트폴리오 노출도를 점검하라."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "NFL and midterm elections set up prediction markets for a critical fall season",
+    "title_ko": "NFL과 중간선거, 중요한 가을 시즌을 위한 예측 시장을 부각시키다",
+    "link": "https://www.cnbc.com/2026/09/13/nfl-and-midterms-mark-key-fall-season-for-prediction-markets.html",
+    "published": "Sun, 13 Sep 2026 11:52:33 GMT",
+    "fetched_at": "2026-09-14 01:47:27",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "금융"
+    ],
+    "keywords": [
+      "예측 시장",
+      "미국 선거",
+      "정보 집약"
+    ],
+    "reason": "이 기사는 NFL 시즌과 미국 대통령 선거 등 주요 이벤트를 예측하는 시장의 부상을 다루며, 이는 정보 분석의 중요성을 시사하나, 투자 포트폴리오에 미치는 직접적인 거시 경제적 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "CNBC_Finance",
     "market": "US",
     "title": "Goldman picks China healthcare stocks for a post-AI trade",
@@ -2935,76 +3003,5 @@
     ],
     "reason": "경기도의 재정위기는 부동산 거래 감소가 주된 원인으로 지목되어 국내 부동산 시장의 침체 지속 가능성을 시사합니다. 이는 지방 정부의 재정 건전성 악화로 이어져 지역 경제 활동 및 인프라 투자에 부정적 영향을 미칠 수 있습니다.",
     "action_point": "국내 부동산 관련 자산 비중 축소 또는 신중한 접근 유지."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "“고점에 물린 개미들만 피눈물”…김승원 의혹에 드러난 주식시장 민낯",
-    "title_ko": "“고점에 물린 개미들만 피눈물”…김승원 의혹에 드러난 주식시장 민낯",
-    "link": "https://www.mk.co.kr/news/economy/12148668",
-    "published": "Wed, 09 Sep 2026 19:06:44 +09:00",
-    "fetched_at": "2026-09-09 19:27:30",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "제약/바이오",
-      "테마주"
-    ],
-    "keywords": [
-      "주가조작",
-      "불공정거래",
-      "테마주",
-      "제약바이오",
-      "개미투자자"
-    ],
-    "reason": "김승원 의혹은 코로나19 치료제 테마주 내 주가조작 및 불공정거래 가능성을 시사하며, 이는 시장의 투명성과 투자자 신뢰에 악영향을 미칩니다. 특히 펀더멘털과 무관한 테마주 투자 위험을 재확인시키는 사례입니다.",
-    "action_point": "펀더멘털이 불확실하고 투기성이 강한 테마주에 대한 비중을 즉시 축소하고, 검증된 정보 기반의 투자 원칙을 고수하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "갑자기 창업주 지분이 100%→65%로…스마게 지배구조 지각변동",
-    "title_ko": "갑자기 창업주 지분이 100%→65%로…스마게 지배구조 지각변동",
-    "link": "https://www.mk.co.kr/news/it/12148648",
-    "published": "Wed, 09 Sep 2026 18:08:00 +09:00",
-    "fetched_at": "2026-09-09 19:27:51",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "게임",
-      "IT",
-      "벤처캐피탈"
-    ],
-    "keywords": [
-      "스마일게이트",
-      "지배구조",
-      "이혼소송",
-      "지분분할"
-    ],
-    "reason": "주요 비상장 게임사의 창업주 지분 감소와 지배구조 변화는 향후 IPO, M&A 전략 및 경영 안정성에 불확실성을 가중시킨다.",
-    "action_point": "스마일게이트의 향후 사업 방향 및 IPO 추진 여부 변화를 주시하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "민주당서도 파병 신중론…김병주 “미국 침략전쟁, 휘말려선 안 돼” - 한겨레",
-    "title_ko": "민주당서도 파병 신중론…김병주 “미국 침략전쟁, 휘말려선 안 돼”",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBKUDNjYkw4TlhUdERWNndYVDZkNDU2Z2xaVUtkdUZwZVVGcy1PZUczYUJPWFZnNXlkRkNLb0dqdHJ4bUJDNkRHS0toWWFFQnQ0c0hWV1phSkIxNnFBWmxnUnZtR1lGd1Nkb0drbW5SenZCZWl4?oc=5",
-    "published": "Wed, 09 Sep 2026 06:43:00 GMT",
-    "fetched_at": "2026-09-09 19:26:40",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "해당 없음"
-    ],
-    "keywords": [
-      "민주당",
-      "파병",
-      "미국",
-      "지정학",
-      "외교"
-    ],
-    "reason": "한국의 주요 야당 내에서 미국과의 잠재적 군사 공조에 대한 신중론이 제기되며, 외교 및 안보 정책 방향에 대한 논의가 있음을 보여준다. 당장 시장에 미칠 직접적인 영향은 제한적이다.",
-    "action_point": "해당 없음"
   }
 ]
