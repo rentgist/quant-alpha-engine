@@ -1,5 +1,31 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[스타트 경제] 국제유가 100달러가 깨운 긴축...연준 9월 금리 인상 확률 80%대로 - YTN",
+    "title_ko": "[스타트 경제] 국제유가 100달러가 깨운 긴축...연준 9월 금리 인상 확률 80%대로",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1tYkc0ZVc4eU9MOXFoV3NER1N5VmJ1alY3QUM3cVpLMHZQdjAwQXM0MVhqcXZ4YlNwbmxZTGhWTGlfV0gtcmVWSUV6TnZBSmh5VUp6bzNZYVQ1ckZKekE?oc=5",
+    "published": "Sun, 13 Sep 2026 22:23:00 GMT",
+    "fetched_at": "2026-09-14 11:29:11",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "전체 증시",
+      "금리 민감 산업",
+      "에너지",
+      "부동산"
+    ],
+    "keywords": [
+      "국제유가",
+      "금리 인상",
+      "연준",
+      "긴축",
+      "인플레이션"
+    ],
+    "reason": "국제유가 상승은 인플레이션 압력을 가중시키고 연준의 9월 금리 인상 가능성을 높여 글로벌 긴축 기조를 강화할 것입니다. 이는 위험자산 가치 하락과 성장 둔화 우려를 심화시킬 수 있습니다.",
+    "action_point": "고금리 장기화에 대비하여 금리 민감 자산 비중을 축소하고, 인플레이션 헤지 자산에 대한 배분을 고려하라."
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "Stock futures fall as investors weigh AI safety concerns, oil gains: Live updates",
@@ -2975,34 +3001,5 @@
     ],
     "reason": "미국과 캐나다 간 무역 갈등 심화는 글로벌 무역 불확실성을 증대시키고 해당 품목의 공급망 교란 및 가격 상승을 야기할 수 있습니다. 이는 양국 경제에 부정적 영향을 미치며 보호무역주의 확산 우려를 높입니다.",
     "action_point": "글로벌 보호무역주의 확산 추세에 대비하여 수출 의존도가 높은 국내 기업 관련 투자 비중을 점검하고, 방어적 자산 비중 확대를 고려."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "호르무즈·홍해 동시봉쇄 위기 … 세계경제 '유가 150弗' 공포 - v.daum.net",
-    "title_ko": "호르무즈·홍해 동시봉쇄 위기 … 세계경제 '유가 150弗' 공포",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GaXk0aUhPU3c4anktR000LTg1MFRFWG5SQnduTGFtN2RnekI3SklEVzRnbkRyc3p0cUs2cFU0VEVUaVQ4SDhNbUUyaER5MmM?oc=5",
-    "published": "Wed, 09 Sep 2026 08:51:07 GMT",
-    "fetched_at": "2026-09-09 19:26:47",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "에너지",
-      "해운",
-      "항공",
-      "화학",
-      "소비재",
-      "건설"
-    ],
-    "keywords": [
-      "호르무즈 해협",
-      "홍해",
-      "유가",
-      "물류",
-      "인플레이션",
-      "지정학"
-    ],
-    "reason": "호르무즈 해협과 홍해 동시 봉쇄는 글로벌 원유 공급망에 치명적인 타격을 주어 유가를 급등시키고, 이는 전 세계적인 인플레이션 심화 및 경제 성장 둔화를 야기할 것입니다.",
-    "action_point": "원유 관련 ETF 및 에너지 섹터 비중 확대를 검토하고 인플레이션 헤지 전략을 강화하라."
   }
 ]
