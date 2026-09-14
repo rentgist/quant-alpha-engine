@@ -1,5 +1,105 @@
 [
   {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Prediction market traders think gas prices will hit new highs for the year",
+    "title_ko": "예측 시장 트레이더들, 유가가 올해 최고치를 경신할 것으로 예상",
+    "link": "https://www.cnbc.com/2026/09/14/prediction-markets-traders-think-gas-prices-will-hit-new-highs-in-2026.html",
+    "published": "Mon, 14 Sep 2026 15:01:19 GMT",
+    "fetched_at": "2026-09-15 00:26:52",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "항공",
+      "운수",
+      "화학",
+      "제조업",
+      "소비재"
+    ],
+    "keywords": [
+      "유가",
+      "인플레이션",
+      "미국-이란 갈등",
+      "지정학적 리스크",
+      "에너지 가격"
+    ],
+    "reason": "미국-이란 갈등 고조로 유가가 배럴당 100달러를 상회하며 인플레이션 압력이 증대되고, 이는 전반적인 소비 및 생산 비용 상승으로 이어져 경제 성장 둔화 우려를 키울 수 있습니다.",
+    "action_point": "에너지 섹터 비중 확대 및 유가 상승에 취약한 운송/항공/제조업 섹터 비중 축소 검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[속보] 트럼프 “AI에 대한 역겨운 음모…中만 기뻐할 것” - 조선비즈 - Chosunbiz",
+    "title_ko": "[속보] 트럼프 “AI에 대한 역겨운 음모…中만 기뻐할 것”",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUk1LZmZRNGNvYlN4Y0pMZkl3UFpmUGRDSV9uVGZqbkROYWJIbVdzeXdCXzdXTm0zTV9pUDJrUk9oajZwbW1fMlFNN0IyWTRkNWZLTUxBRVp0cFUyU2d5RHptR1JhN2IzSWZLWi1BVDZxRlR1ZnBsMG9XWDAzZWcxSUtKWldCaXUyM2RPTmhQNW82MjhWczR6Wlc4d0ZkUdIBsgFBVV95cUxNVWJFMFBiWlppSW9KVHNHRHRTVzYtZlQ0NVNjdlVDRDFVMEE4eHdQTlQyWDlHX25NckhyQVlPeE9JU2Z5UVBTLVFheFRmRFlremFWcXNRdVNwNFVMeWU4VzJud3BVWE5wQnhLVFc0YWlRSEFZaC13QWt2NnQybHd3NnNiVDVERlhuRUtxb2VHdG8zcHU2YVlxSzNIVmN3YTV1TFY3bWxybHNYV3pHdGxTN0d3?oc=5",
+    "published": "Mon, 14 Sep 2026 14:34:00 GMT",
+    "fetched_at": "2026-09-15 00:27:20",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "기술/IT",
+      "반도체",
+      "중국 관련 투자"
+    ],
+    "keywords": [
+      "트럼프",
+      "AI",
+      "미중 갈등",
+      "기술 규제",
+      "반도체"
+    ],
+    "reason": "트럼프의 발언은 향후 AI 기술 및 관련 산업에 대한 미국의 보호주의적 정책 강화와 중국과의 기술 패권 경쟁 심화를 예고합니다. 이는 글로벌 AI 공급망 및 반도체 산업에 불확실성을 가중시키는 요인입니다.",
+    "action_point": "미중 기술 갈등 고조 가능성에 대비하여 AI 및 반도체 관련 미국과 중국 시장 노출도를 재점검하고 포트폴리오 조정을 고려하십시오."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "China says AI CEOs' call for a slowdown is 'fear mongering'",
+    "title_ko": "중국, AI CEO들의 '속도 조절' 요구는 '공포 조장'이라 비난",
+    "link": "https://www.cnbc.com/2026/09/14/china-ai-slowdown-us-tech-ceos.html",
+    "published": "Mon, 14 Sep 2026 13:18:23 GMT",
+    "fetched_at": "2026-09-15 00:27:00",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "인공지능(AI)",
+      "반도체",
+      "IT 소프트웨어"
+    ],
+    "keywords": [
+      "중국",
+      "AI 개발",
+      "기술 경쟁",
+      "오픈소스"
+    ],
+    "reason": "중국이 AI 속도 조절론을 일축하고 개방적 개발을 강조하며, 글로벌 AI 기술 경쟁 심화 및 관련 섹터의 투자 활성화를 시사한다.",
+    "action_point": "AI 관련 기술주 및 반도체 섹터에 대한 포트폴리오 비중 유지 또는 확대 검토."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Microsoft sets limits for future AI models as industry throttles frontier development",
+    "title_ko": "마이크로소프트, 업계의 선도적 AI 개발 속도 조절에 발맞춰 미래 AI 모델에 제한 설정",
+    "link": "https://www.cnbc.com/2026/09/14/microsoft-ai-model-limits-anthropic-openai.html",
+    "published": "Mon, 14 Sep 2026 13:38:03 GMT",
+    "fetched_at": "2026-09-15 00:27:10",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "기술",
+      "반도체",
+      "클라우드 컴퓨팅"
+    ],
+    "keywords": [
+      "AI",
+      "마이크로소프트",
+      "책임 있는 AI"
+    ],
+    "reason": "주요 기술 기업들이 AI 개발에 대한 책임감 있는 접근을 강조하며, 이는 AI 관련 기술주의 과도한 상승을 완화하고 장기적인 산업 안정성에는 긍정적일 수 있습니다.",
+    "action_point": "AI 관련 기술주 중 책임 있는 개발 및 명확한 수익 모델을 가진 기업 위주로 포트폴리오를 재편하십시오."
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "Iran says it destroys U.S. advanced drone over Hormuz as Middle East conflict intensifies",
@@ -2887,105 +2987,5 @@
     ],
     "reason": "UBS CEO의 경고는 지정학적 및 경제적 위험 증대에도 불구하고 시장의 안일함이 커지고 있음을 시사하며, 이는 향후 시장 불확실성 및 변동성 확대를 예고합니다.",
     "action_point": "전반적인 리스크 관리 강화를 위해 포트폴리오 내 방어 자산 비중 확대를 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "백악관, 이란전쟁 엇갈린 시선...트럼프 '11월 종전' vs 참모진 '장기화' - 머니투데이 - 머니투데이",
-    "title_ko": "백악관, 이란전쟁 엇갈린 시선...트럼프 '11월 종전' vs 참모진 '장기화'",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aVnMxMGJpdFVGZVQ1bk5HeFRRN0hVTFVyVDVNRERtSFMtT1hnMEZXTUJLTlJKNUFJd3hZRlJ4aDQ1bFYzSmo1MmpBNUpaTXJ5Y2d1NGc1Z3ZISmI2d0pfdmdEUFZxUWUx0gFuQVVfeXFMT2N6RmV2cVlEaVU2dXAtcElnUmRGTFpmSkZEeDVDZ01EYlR4MGVsaEs0ZUl5VlA0Sm5faUV4NmNVS0gtNVJ4R3JaeVBfSG9QdkRKQ0N6SGtUY1VaYlZKYm9UbEF4eGdUak9tdzd0aWc?oc=5",
-    "published": "Thu, 10 Sep 2026 04:57:43 GMT",
-    "fetched_at": "2026-09-10 16:40:09",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "원자재(유가)",
-      "방산",
-      "글로벌 증시"
-    ],
-    "keywords": [
-      "이란",
-      "전쟁",
-      "지정학",
-      "유가",
-      "불확실성"
-    ],
-    "reason": "백악관 내 이란전쟁 지속 기간에 대한 엇갈린 시선은 중동 지역의 지정학적 불확실성을 가중시키며, 이는 국제 유가 변동성 확대 및 글로벌 증시 투자 심리 위축으로 이어질 수 있습니다.",
-    "action_point": "중동 지정학적 리스크 노출 자산의 비중을 점검하고, 유가 상승 가능성에 대비해 에너지 및 방산 관련 자산 편입을 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "\"트럼프 최측근들, '이란전쟁 임기 말까지 계속' 언급\" - MBC 뉴스",
-    "title_ko": "트럼프 최측근들, '이란전쟁 임기 말까지 계속' 언급",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9zbmZlQ2lZb0JUMnJyMzJSS0tUZUQ3aFBFb09yTzZvbHFIQXBqYlppQ1luQ3dHT3pONjdsQWtZRUJJNFdOSmd3Q0VRTURMc09UU1A1bmV5QkRRUTdxaWRIbnZkOThGYmQ5U1k5VDdpYmtkdE5a0gF0QVVfeXFMTlFNdTB0OGdadW5YQUItYjdBb2E3dzhCTXQ2ZkV2SnZXMEZwel9hT3pEcFRVdWZIZnVHOVczd1FVNjVHQ045R1Y0YmdoWFlEWnZvR0FIRnNsQ2VsX2prLTdvQ3lEaExTNm53X1NLSUVQY0puemg?oc=5",
-    "published": "Thu, 10 Sep 2026 01:41:34 GMT",
-    "fetched_at": "2026-09-10 16:40:20",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "방산",
-      "해운"
-    ],
-    "keywords": [
-      "트럼프",
-      "이란",
-      "중동",
-      "지정학적 리스크",
-      "유가"
-    ],
-    "reason": "트럼프 측근의 이란 전쟁 지속 언급은 중동 지역의 지정학적 리스크 장기화 가능성을 시사하며, 이는 유가 상승 압력 및 글로벌 투자 심리 위축으로 이어질 수 있습니다.",
-    "action_point": "유가 상승 및 지정학적 리스크 확대에 대비하여 에너지/방산 섹터 비중 확대를 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "경제에는 활력을, 재정에는 안정을 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
-    "title_ko": "경제에는 활력을, 재정에는 안정을",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9uX1RPWFdWT2tYanNWM1BqWXJUV05JZXk5TlBOWDZxS25MS3FHM3d3d081N3lUU21ocHhxdnExOUlXQlZOVmp1ZGtMZi1PZDJQMVpqOHhGMDJFV2pOOUtBV1Y1V2NSMTlTd0xsLTFB?oc=5",
-    "published": "Thu, 10 Sep 2026 03:29:57 GMT",
-    "fetched_at": "2026-09-10 16:39:51",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "전반적 경제",
-      "금융",
-      "건설",
-      "내수"
-    ],
-    "keywords": [
-      "경제 활력",
-      "재정 안정",
-      "정부 정책",
-      "거시 경제"
-    ],
-    "reason": "정부의 경제 성장 및 재정 건전성 유지 목표는 투자 환경의 안정성을 높이고 국내외 투자자의 신뢰를 확보하는 데 기여할 수 있습니다.",
-    "action_point": "정부의 균형 잡힌 정책 기조에 따라 국내 경기민감 섹터에 대한 관심 유지."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "트럼프 \"기름값, 11월 선거 뒤 이란전쟁 끝나면 내려갈 것\" - YTN",
-    "title_ko": "트럼프 \"기름값, 11월 선거 뒤 이란전쟁 끝나면 내려갈 것\"",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE10Qnh5dzdYOVRIb3liQTFNZ1pQaGtHSXNvUGdLUFFMT2hkWXVfZVhTaFo5ZXg5ZlRiLXFRTDJOLVVtbG1ESzNXYTRBTUZaa3VJcTNOQUNTZnBnUXFTaVE?oc=5",
-    "published": "Wed, 09 Sep 2026 22:53:00 GMT",
-    "fetched_at": "2026-09-10 16:40:43",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "에너지",
-      "운송",
-      "석유화학"
-    ],
-    "keywords": [
-      "트럼프",
-      "유가",
-      "이란",
-      "지정학",
-      "미국 대선"
-    ],
-    "reason": "트럼프의 발언은 11월 미국 대선 이후 이란과의 잠재적 갈등 해소 시 유가 하락 가능성을 시사하나, 이는 현재로서는 불확실성이 높은 정치적 수사에 가깝다. 유가 안정화는 인플레이션 압력 완화 및 소비재/운송 섹터에 긍정적일 수 있으나, 전제 조건인 '이란 전쟁 종식'은 새로운 지정학적 리스크를 내포한다.",
-    "action_point": "에너지 관련 자산 보유 투자자는 11월 미국 대선 결과에 따른 유가 하방 압력 가능성에 대비해 비중 축소 검토."
   }
 ]
