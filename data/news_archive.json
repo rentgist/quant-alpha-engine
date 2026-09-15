@@ -2,6 +2,82 @@
   {
     "source": "CNBC_Finance",
     "market": "US",
+    "title": "China's August retail sales miss forecast while investment slump deepens, piling pressure on Beijing",
+    "title_ko": "중국 8월 소매 판매 예상치 하회, 투자 부진 심화로 베이징 압박 가중",
+    "link": "https://www.cnbc.com/2026/09/15/china-august-retail-sales-industrial-output-investment-exports-.html",
+    "published": "Tue, 15 Sep 2026 02:12:26 GMT",
+    "fetched_at": "2026-09-15 11:30:38",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "소비재",
+      "산업재",
+      "건설",
+      "화학",
+      "IT 하드웨어",
+      "반도체"
+    ],
+    "keywords": [
+      "중국 경제",
+      "소매 판매",
+      "산업 생산",
+      "투자",
+      "경기 둔화",
+      "디플레이션"
+    ],
+    "reason": "중국의 소비와 투자가 부진하여 경기 둔화 우려가 심화되었으며, 산업 생산은 견조했으나 수급 불균형 경고는 구조적 문제와 디플레이션 압력을 시사합니다. 이는 중국 경제의 회복 동력이 약해지고 있음을 나타냅니다.",
+    "action_point": "중국 내수 부진과 경기 둔화 우려에 따라 대중국 수출 비중이 높은 국내 기업 및 원자재 관련 자산 비중 축소 검토"
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Stocks making the biggest moves midday: Zscaler, CrowdStrike, Marvell Technology, Rum Group & more",
+    "title_ko": "오전장 가장 큰 변동을 보이는 주식들: Zscaler, CrowdStrike, Marvell Technology, Rum Group 외",
+    "link": "https://www.cnbc.com/2026/09/14/stocks-making-the-biggest-moves-midday-zs-crwd-mrvl-rum.html",
+    "published": "Mon, 14 Sep 2026 18:32:05 GMT",
+    "fetched_at": "2026-09-15 11:30:51",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "기술",
+      "사이버보안",
+      "반도체"
+    ],
+    "keywords": [
+      "주식 변동",
+      "기술주",
+      "사이버보안",
+      "반도체"
+    ],
+    "reason": "이 기사는 주요 기술 및 반도체 관련 기업들의 오전장 주가 변동을 단순히 나열한 것으로, 특정 이슈나 거시경제적 맥락을 제공하지 않아 시장 전반에 미칠 직접적인 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Stocks making the biggest moves premarket: Intel, Marvell, CrowdStrike & more",
+    "title_ko": "개장 전 가장 큰 움직임을 보이는 주식들: 인텔, 마벨, 크라우드스트라이크 외",
+    "link": "https://www.cnbc.com/2026/09/14/stocks-making-the-biggest-moves-premarket-intc-mrvl-crwd.html",
+    "published": "Mon, 14 Sep 2026 12:36:15 GMT",
+    "fetched_at": "2026-09-15 11:31:01",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "반도체",
+      "소프트웨어",
+      "기술주"
+    ],
+    "keywords": [
+      "개장전 움직임",
+      "기술주",
+      "개별 주식"
+    ],
+    "reason": "이 기사는 개장 전 특정 기술 기업 주식의 움직임을 나열할 뿐, 그 원인이나 거시경제적 맥락을 제공하지 않아 시장 전체나 매크로 트렌드에 미치는 직접적인 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
     "title": "Warsh's credibility is on the line this week as Trump policies put pressure on Fed to hike",
     "title_ko": "트럼프 정책으로 연준의 금리 인상 압박이 가중되는 가운데, 워시의 신뢰성이 이번 주 시험대에 오르다",
     "link": "https://www.cnbc.com/2026/09/14/warshs-credibility-is-on-the-line-this-week-as-trump-policies-put-pressure-on-fed-to-hike.html",
@@ -2916,76 +2992,5 @@
     ],
     "reason": "예측 시장 기업 칼시가 CFTC 승인 하에 금과 은의 무기한 선물 상품을 출시하여, 해당 원자재에 대한 투자 및 헤징 기회가 소폭 확대된다. 이는 원자재 시장의 유동성 및 거래 활동에 미미한 영향을 줄 수 있으나, 거시 경제 전반에 미치는 영향은 제한적이다.",
     "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Investors seek hedges as midterms and geopolitical risks threaten market calm",
-    "title_ko": "투자자들, 중간선거 및 지정학적 리스크 고조에 시장 안정성 위협받자 헤지 수단 모색",
-    "link": "https://www.cnbc.com/2026/09/10/fear-gauge-vix-hedges-volatility-stocks.html",
-    "published": "Thu, 10 Sep 2026 11:10:20 GMT",
-    "fetched_at": "2026-09-10 21:30:47",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "시장 전반",
-      "방어주"
-    ],
-    "keywords": [
-      "중간선거",
-      "지정학적 리스크",
-      "시장 변동성",
-      "헤지"
-    ],
-    "reason": "다가오는 중간선거와 지정학적 리스크 고조로 투자자들의 위험 회피 심리가 강해지면서 시장 변동성이 확대될 가능성이 높다. 이는 위험 자산에 대한 투자 심리를 위축시키고 안전 자산 선호를 증대시킬 것이다.",
-    "action_point": "포트폴리오 내 위험 자산 비중을 축소하고 방어적 자산 또는 안전 자산 비중 확대를 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "삼성전자 '월세 꼼수' 논란...줄해고 위기? [앵커리포트] - YTN",
-    "title_ko": "삼성전자 '월세 꼼수' 논란...줄해고 위기? [앵커리포트]",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE56aHp6Rzk0ZURMZm82TUhJZXpZSTE3djlWczBhdUdFUWk5VlFrTnlNUmp6Qm5kRF9PQXpFTkYwcEhFMzNka2otSVJPcVdDSjY5YkplcnRQei1FNGgwaVE?oc=5",
-    "published": "Thu, 10 Sep 2026 09:10:00 GMT",
-    "fetched_at": "2026-09-10 21:31:03",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "전기전자",
-      "노동시장",
-      "기업지배구조"
-    ],
-    "keywords": [
-      "삼성전자",
-      "월세 꼼수",
-      "해고",
-      "노동 리스크"
-    ],
-    "reason": "삼성전자의 내부 노동 관련 논란 및 대규모 해고 가능성은 기업 이미지와 실적에 부정적 영향을 미치며, 투자 심리를 위축시킬 수 있습니다.",
-    "action_point": "삼성전자 주식 보유 비중 조정 검토"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "2008년 금융위기 직전 닮았다…美은행에 쌓인 ‘수상한 돈’ - 중앙일보",
-    "title_ko": "2008년 금융위기 직전 닮았다…美은행에 쌓인 ‘수상한 돈’",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5EQ29tZDhzUjA1YmhjZFFKcnlZNE5VckhBV1hrbHNSZDU4bWVvRlgwR21zQTloWnZUUk1ZWUlWRm5Ndi1XSjNIMVFueXo0OEpWQUxHT0lB?oc=5",
-    "published": "Thu, 10 Sep 2026 02:22:38 GMT",
-    "fetched_at": "2026-09-10 16:39:33",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "금융",
-      "증권",
-      "부동산"
-    ],
-    "keywords": [
-      "미국 은행",
-      "금융위기",
-      "금융 불안정",
-      "시스템 리스크"
-    ],
-    "reason": "미국 은행 시스템 내 잠재적 불안정성 증가는 2008년 금융위기와 같은 시스템 리스크로 확대될 수 있어 전반적인 금융 시장에 대한 투자 심리를 급격히 위축시키고 실물 경제에도 악영향을 미칠 가능성이 크다.",
-    "action_point": "금융 시장의 잠재적 불안정성 확대를 대비하여 현금 비중을 늘리고 안전 자산으로의 포트폴리오 재조정을 적극적으로 검토하라."
   }
 ]
