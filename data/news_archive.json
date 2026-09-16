@@ -1,5 +1,104 @@
 [
   {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Here is what changed in the new Fed statement under Warsh",
+    "title_ko": "워시 관점에서 본 새 연준 성명서의 변화 내용",
+    "link": "https://www.cnbc.com/2026/09/16/september-fed-statement-redline.html",
+    "published": "Wed, 16 Sep 2026 18:18:54 GMT",
+    "fetched_at": "2026-09-17 05:39:26",
+    "sentiment": "중립",
+    "importance": 5,
+    "sectors": [
+      "금융",
+      "기술",
+      "부동산"
+    ],
+    "keywords": [
+      "연준",
+      "FOMC",
+      "금리",
+      "통화정책",
+      "성명서"
+    ],
+    "reason": "연준의 FOMC 성명서 변화는 향후 통화정책 방향을 가늠하는 핵심 지표이며, 이는 글로벌 금리, 환율, 주식 시장에 광범위한 영향을 미칩니다.",
+    "action_point": "연준 성명서의 핵심 변화 내용을 즉시 파악하고, 이에 따른 자산 배분 및 투자 전략 조정 방안을 수립."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Fed approves interest rate hike, signals one more to come this year",
+    "title_ko": "연준, 기준금리 인상 승인 및 올해 추가 인상 시사",
+    "link": "https://www.cnbc.com/2026/09/16/fed-rate-decision-september-2026.html",
+    "published": "Wed, 16 Sep 2026 19:02:17 GMT",
+    "fetched_at": "2026-09-17 05:39:36",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "성장주",
+      "기술주",
+      "부동산",
+      "금융주"
+    ],
+    "keywords": [
+      "금리인상",
+      "연준",
+      "통화긴축",
+      "달러강세",
+      "고금리"
+    ],
+    "reason": "연준의 금리 인상과 추가 인상 시사는 유동성 축소와 자금 조달 비용 증가로 이어져 주식 및 부동산 등 위험 자산에는 전반적으로 부정적인 영향을 미칩니다. 이는 시장 금리 상승 압력을 가중시키고 달러 강세를 유발할 수 있습니다.",
+    "action_point": "고금리 환경에 취약한 성장주 및 부동산 관련 자산 비중 축소, 달러 자산 비중 유지를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Boeing CEO: 737 Max production taking 'a little bit longer' to stabilize than expected",
+    "title_ko": "보잉 CEO: 737 Max 생산 안정화 예상보다 '조금 더 시간 걸릴 것'",
+    "link": "https://www.cnbc.com/2026/09/16/boeing-ceo-737-max-production.html",
+    "published": "Wed, 16 Sep 2026 19:36:24 GMT",
+    "fetched_at": "2026-09-17 05:39:45",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "항공우주",
+      "항공운송",
+      "산업재"
+    ],
+    "keywords": [
+      "보잉",
+      "737 Max",
+      "생산 지연",
+      "항공우주"
+    ],
+    "reason": "보잉 737 Max 생산 지연은 보잉의 수익성에 부정적이며, 글로벌 항공운송사들의 항공기 도입 일정에도 차질을 빚게 할 수 있습니다. 이는 항공우주 섹터 전반에 미미하나마 부정적 심리를 유발할 수 있습니다.",
+    "action_point": "글로벌 항공우주 섹터 내 보잉 관련 기업의 투자 비중 조정 검토."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "“4조 계약 공시 전에 운 좋게?”…에이비엘바이오, 가족계좌 조사 착수",
+    "title_ko": "“4조 계약 공시 전에 운 좋게?”…에이비엘바이오, 가족계좌 조사 착수",
+    "link": "https://www.mk.co.kr/news/it/12154898",
+    "published": "Thu, 17 Sep 2026 04:51:53 +09:00",
+    "fetched_at": "2026-09-17 05:40:01",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "바이오",
+      "제약"
+    ],
+    "keywords": [
+      "에이비엘바이오",
+      "미공개정보 이용",
+      "기술수출",
+      "기업 지배구조",
+      "조사"
+    ],
+    "reason": "에이비엘바이오의 대규모 기술수출 관련 미공개정보 이용 의혹 조사는 회사의 법적 및 평판 리스크를 증가시키며, 기업 지배구조에 대한 우려를 키웁니다. 이는 해당 기업의 투자 심리에 부정적인 영향을 미칠 수 있습니다.",
+    "action_point": "에이비엘바이오 주식 보유 비중 축소 검토"
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "Fed meeting live updates: Rate hike expected for the first time in three years",
@@ -2861,109 +2960,5 @@
     ],
     "reason": "미국의 일방주의 정책이 주요국 간 갈등을 심화시키고 새로운 블록 형성을 촉진하여 글로벌 무역 질서와 공급망에 불안정성을 가중시킬 수 있습니다.",
     "action_point": "지정학적 리스크 심화 및 글로벌 무역 분절화에 대비하여 자산 포트폴리오의 지역 및 통화 분산 강화 검토"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Russia, Trump and a battle over welfare loom over Sweden’s election",
-    "title_ko": "러시아, 트럼프, 복지 논쟁이 스웨덴 총선에 그림자를 드리우다",
-    "link": "https://www.cnbc.com/2026/09/12/sweden-election-russia-trump-welfare-defense.html",
-    "published": "Sat, 12 Sep 2026 05:00:01 GMT",
-    "fetched_at": "2026-09-12 18:49:08",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "방위산업",
-      "지정학적 리스크 관련 섹터"
-    ],
-    "keywords": [
-      "스웨덴 총선",
-      "러시아-우크라이나 전쟁",
-      "국방비 증액",
-      "지정학적 리스크",
-      "NATO"
-    ],
-    "reason": "스웨덴 총선 결과는 러시아 전쟁과 미국 안보 공약 불확실성 속에서 유럽의 국방비 지출 증가 및 전반적인 지정학적 리스크 상승으로 이어질 가능성이 크다.",
-    "action_point": "유럽 국방비 지출 증가 기조에 따라 방위산업 관련주 투자 기회를 탐색하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "이 대통령 “국제유가 폭등에도 국내 휘발유·경유 가격 안정···걱정 안 해도 돼” - 경향신문",
-    "title_ko": "이 대통령 “국제유가 폭등에도 국내 휘발유·경유 가격 안정···걱정 안 해도 돼” - 경향신문",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1hWFNZUUFmR2hGSGN3U29YRnJKZVBjTjNDMXB3UDBRSk9fZDIxQ1U4UjdHUWt5bF9FX0U0aHowMThhT3F6WmlwYkphTDMycjVYUnRPNXV4WG9pd9IBX0FVX3lxTE1hYTlDMWpzbXRJNUlaX2ZWQW95Z1ZaX0FPd05lVUo0ZTdKZEsxaUFIREIwREdwdWtnUUtDTDU0SG9seHZ1a0pwNlE1RVh0anVFNjY0aDVqZVBodUVFVHdR?oc=5",
-    "published": "Sat, 12 Sep 2026 07:38:00 GMT",
-    "fetched_at": "2026-09-12 18:49:16",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "소비재",
-      "유통",
-      "운송",
-      "에너지"
-    ],
-    "keywords": [
-      "국제유가",
-      "국내유가",
-      "물가안정",
-      "인플레이션",
-      "소비심리"
-    ],
-    "reason": "국제유가 폭등에도 불구하고 국내 유가가 안정적으로 유지된다는 대통령의 발언은 정부의 물가안정 의지를 보여주며, 인플레이션 압력 완화 및 소비 심리 위축 방지에 긍정적 영향을 미칠 수 있습니다.",
-    "action_point": "국제유가 변동에도 국내 물가 안정 기조가 유지될 경우, 내수 소비 관련 주식의 비중 확대를 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "李대통령, 국제유가 급등에 \"걱정 안해도 돼…국내는 계속 안정\" - 연합뉴스",
-    "title_ko": "李대통령, 국제유가 급등에 \"걱정 안해도 돼…국내는 계속 안정\"",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wNG1wMVdOdzdOejdYZzh1cXJ4bEk0MnZrSk1JeUlweWlVMjBiSzlnNFBxS0lrM3oxWkJIR3VaMnlYM2RGZmVMYXQ3bFZRWmRzWWlsUmhmb2hSNXfSAWBBVV95cUxNQnRFR1JFZDJLVkpLczQ5LUF0a3YtVEtFTlFvUmZTbFhlQzd1ZlNsWk02YzRmQ18wdXZ4Slp6OFZ2YmRndmdhUk5fcDhER0JSSURidjhGLTZJdTN3cGNXa0E?oc=5",
-    "published": "Sat, 12 Sep 2026 08:11:18 GMT",
-    "fetched_at": "2026-09-12 18:49:29",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "소비재",
-      "유통",
-      "항공",
-      "운송",
-      "화학"
-    ],
-    "keywords": [
-      "국제유가",
-      "물가안정",
-      "정부정책",
-      "에너지비용",
-      "인플레이션"
-    ],
-    "reason": "대통령의 발언은 국제 유가 급등에도 불구하고 국내 물가 및 에너지 비용을 안정화하겠다는 정부의 강력한 의지를 표명한다. 이는 국내 인플레이션 압력 완화와 가계 및 기업의 비용 부담 경감에 대한 기대감을 높여 국내 경기 및 소비 심리에 긍정적 영향을 미칠 수 있다.",
-    "action_point": "정부의 국내 물가 안정 의지에 따라 내수 소비재 및 운송 섹터 투자 비중을 유지하거나 확대할지 검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "폭염·고금리까지 \"극심한 위기\"…성장률 전망 또 내린 佛 - v.daum.net",
-    "title_ko": "폭염·고금리까지 \"극심한 위기\"…성장률 전망 또 내린 佛",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMVzVLWDFyWEhRSmhTVUVmQW5KcG9KVHJoNWw0RVZaM2M0UXRqZEdkM0Y5RHprX1JmcDM1SGpnZmtnbjBaSjR0a1lQVk1BUzQ?oc=5",
-    "published": "Sat, 12 Sep 2026 09:03:50 GMT",
-    "fetched_at": "2026-09-12 18:49:55",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "유럽시장",
-      "수출주",
-      "소비재",
-      "금융",
-      "부동산"
-    ],
-    "keywords": [
-      "프랑스 경제",
-      "성장률 하향",
-      "고금리",
-      "유럽 경기둔화",
-      "기후 위기"
-    ],
-    "reason": "프랑스의 성장률 하향 조정은 고금리와 기후 위기가 복합적으로 작용하여 유럽 경제 전반의 둔화 가능성을 시사합니다. 이는 글로벌 경기 침체 우려를 증폭시키고, 유로존의 통화정책 방향에도 영향을 줄 수 있습니다.",
-    "action_point": "유럽 시장 익스포저가 높은 자산의 비중 축소를 검토하고, 글로벌 경기 둔화에 대비한 안전자산 비중을 유지하라."
   }
 ]
