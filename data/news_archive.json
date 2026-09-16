@@ -2,6 +2,79 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "Consumers hit by one-two punch of oil and rates from Iran war. The estimated bill is $1,700 per household",
+    "title_ko": "이란 전쟁발 유가 및 금리 동시 상승으로 가계 부담 가중, 가구당 추정 추가 비용 $1,700",
+    "link": "https://www.cnbc.com/2026/09/16/oil-prices-treasury-yields-consumers-iran.html",
+    "published": "Wed, 16 Sep 2026 12:02:18 GMT",
+    "fetched_at": "2026-09-16 22:53:41",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "에너지",
+      "금융",
+      "경기소비재",
+      "부동산"
+    ],
+    "keywords": [
+      "이란 전쟁",
+      "유가",
+      "금리",
+      "가계 소비",
+      "인플레이션"
+    ],
+    "reason": "지정학적 리스크로 인한 유가 및 금리 동반 상승은 미국 가계의 실질 소득을 감소시켜 소비 위축과 전반적인 경제 성장 둔화를 야기할 수 있으며, 이는 글로벌 시장에도 부정적 영향을 미칩니다.",
+    "action_point": "글로벌 지정학적 리스크 심화에 대비하여 에너지 섹터 비중 확대를 검토하고, 금리 및 유가 상승에 취약한 경기소비재 섹터 비중을 축소하십시오."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Intel, SK Hynix shares jump on report they're discussing U.S. memory chip manufacturing",
+    "title_ko": "인텔, SK하이닉스 주가, 美 메모리 반도체 생산 논의 보도에 급등",
+    "link": "https://www.cnbc.com/2026/09/16/intel-sk-hynix-us-memory-chips.html",
+    "published": "Wed, 16 Sep 2026 13:42:23 GMT",
+    "fetched_at": "2026-09-16 22:53:34",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "반도체",
+      "기술"
+    ],
+    "keywords": [
+      "인텔",
+      "SK하이닉스",
+      "반도체",
+      "메모리",
+      "미국 생산"
+    ],
+    "reason": "인텔과 SK하이닉스의 미국 내 메모리 반도체 생산 논의는 양사의 전략적 협력과 인텔 파운드리 사업의 확장을 시사하며, 이는 글로벌 반도체 산업에 긍정적인 투자 심리를 형성할 것입니다.",
+    "action_point": "SK하이닉스 등 주요 메모리 반도체 기업의 주가 상승 여력을 주시하고 관련 섹터 비중 확대를 고려."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Stocks making the biggest moves premarket: SK Hynix, J.B. Hunt, Expedia & more",
+    "title_ko": "개장 전 가장 큰 움직임을 보이는 주식: SK하이닉스, J.B. 헌트, 익스피디아 외",
+    "link": "https://www.cnbc.com/2026/09/16/stocks-making-the-biggest-moves-premarket-skhy-jbht-expe-more.html",
+    "published": "Wed, 16 Sep 2026 11:44:23 GMT",
+    "fetched_at": "2026-09-16 22:53:18",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "반도체",
+      "운송",
+      "여행"
+    ],
+    "keywords": [
+      "개장전 움직임",
+      "개별 주식",
+      "SK하이닉스"
+    ],
+    "reason": "이 뉴스는 특정 개별 주식들의 개장 전 움직임을 단순히 나열하는 것으로, 시장 전반의 방향성이나 매크로 경제에 직접적인 영향을 미 미치지 않습니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "Saudi says Houthis targeted Mecca with a drone, Iran-backed group rejects claim",
     "title_ko": "사우디, 후티 반군이 드론으로 메카 공격 주장…이란 지원 후티 반군 부인",
     "link": "https://www.cnbc.com/2026/09/16/us-iran-war-trump-hormuz.html",
@@ -2894,84 +2967,5 @@
     ],
     "reason": "중국과 일본 간 비자 수수료 인상은 양국 간 외교적 긴장을 심화시키는 조치로, 직접적으로는 양국 간 관광 및 비즈니스 교류에 부정적 영향을 미칠 수 있습니다.",
     "action_point": "해당 없음"
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "“역사적 첫길”…李대통령, 북극항로 시범운항 선박 英도착 축하",
-    "title_ko": "“역사적 첫길”…李대통령, 북극항로 시범운항 선박 英도착 축하",
-    "link": "https://www.mk.co.kr/news/politics/12151099",
-    "published": "Sat, 12 Sep 2026 17:41:08 +09:00",
-    "fetched_at": "2026-09-12 18:51:07",
-    "sentiment": "호재",
-    "importance": 2,
-    "sectors": [
-      "해운",
-      "물류",
-      "조선"
-    ],
-    "keywords": [
-      "북극항로",
-      "해운",
-      "물류",
-      "무역"
-    ],
-    "reason": "한국 선박의 성공적인 북극항로 시범 운항은 해상 운송 시간 및 비용 절감 가능성을 제시하며, 장기적으로 국내 해운 및 물류 산업의 경쟁력 강화와 무역 루트 다변화에 기여할 수 있습니다.",
-    "action_point": "해운 및 물류 섹터의 장기 성장 잠재력 분석 및 관련 기업 투자 검토"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "“호르무즈·홍해도 벅찬데 중국까지”…국제유가 상방 ‘활짝’ [이슈+] - 에너지경제신문",
-    "title_ko": "“호르무즈·홍해도 벅찬데 중국까지”…국제유가 상방 ‘활짝’",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8zWTZQQUVYbTZWLXlXTUFuYjJVQ0VYMU41WHBLckdMLVl5LXRIbzJhZDF4U3c5LTY2Zk5US3JIbzkyemlWMkhpRFMwTkZIUm5tcDRGUFhjaGlqZDdPSnc?oc=5",
-    "published": "Sat, 12 Sep 2026 04:06:32 GMT",
-    "fetched_at": "2026-09-12 14:16:33",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "정유",
-      "항공",
-      "해운",
-      "화학",
-      "운송",
-      "소비재"
-    ],
-    "keywords": [
-      "국제유가",
-      "호르무즈 해협",
-      "홍해",
-      "중국 경제",
-      "지정학적 위험",
-      "인플레이션"
-    ],
-    "reason": "호르무즈 해협 및 홍해의 지정학적 위험과 중국 경제 회복에 따른 수요 증가 기대감으로 국제유가 상방 압력이 커지며, 이는 국내 물가 상승과 기업 비용 증가로 이어져 경제 전반에 부담을 줄 수 있습니다.",
-    "action_point": "항공, 해운, 화학 등 유가 민감 섹터 비중 축소를 검토하고, 원유 생산/정제 관련 에너지 섹터 포트폴리오 편입을 고려하십시오."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "노을, 한·아프리카 경제협력회의서 AI 현장진단 협력 비전 제시 - MEDI:GATE NEWS",
-    "title_ko": "노을, 한·아프리카 경제협력회의서 AI 현장진단 협력 비전 제시",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9TenlzclRJZnpkOGExZ2hNX29idW4tQlU1NXlNTnp6WW95TVgwTFZLb3M1VWRreFVhekpkNV9Vd0ZBNzROd3p2QmVkWTg3bm9qdnF5Q3g0RQ?oc=5",
-    "published": "Fri, 11 Sep 2026 21:26:00 GMT",
-    "fetched_at": "2026-09-12 14:16:22",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "바이오/헬스케어",
-      "AI",
-      "의료기기"
-    ],
-    "keywords": [
-      "노을",
-      "한-아프리카",
-      "경제협력",
-      "AI 현장진단",
-      "헬스케어"
-    ],
-    "reason": "노을의 아프리카 시장 진출 협력 비전 제시는 국내 AI 기반 현장진단 기술의 해외 시장 확장 가능성을 보여주며, K-바이오/헬스케어 및 AI 의료기기 섹터 전반에 긍정적인 투자 심리를 형성할 수 있습니다. 이는 특정 기업의 성장을 넘어 국내 기술의 글로벌 경쟁력 강화 신호로 해석됩니다.",
-    "action_point": "노을(263770)의 아프리카 시장 진출 성과 및 AI 헬스케어 섹터 전반의 해외 확장 가능성을 주시하며 관련 기업 비중 확대를 검토."
   }
 ]
