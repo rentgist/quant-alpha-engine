@@ -2,6 +2,83 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "Iran war has cost on average $246 million per day in its first five months, CBO finds",
+    "title_ko": "CBO, 이란 전쟁 첫 5개월간 하루 평균 2억 4,600만 달러 비용 소요 발표",
+    "link": "https://www.cnbc.com/2026/09/15/cbo-iran-war-cost-pentagon-weapons.html",
+    "published": "Tue, 15 Sep 2026 22:33:45 GMT",
+    "fetched_at": "2026-09-16 11:24:28",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "국방/방위산업",
+      "정부채권",
+      "에너지",
+      "국가 재정"
+    ],
+    "keywords": [
+      "이란 전쟁",
+      "국방비 지출",
+      "재정적자",
+      "국채",
+      "인플레이션"
+    ],
+    "reason": "이란 전쟁의 막대한 비용은 미국 정부의 재정 부담을 가중시키고 국채 발행 증가로 이어질 수 있습니다. 이는 장기적으로 인플레이션 압력을 높이고 금리 상승 요인으로 작용할 수 있습니다.",
+    "action_point": "미국 정부 재정 부담과 인플레이션 압력 증가에 대비하여 국채 포지션 조절 및 인플레이션 헤지 자산 편입을 고려하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "美, 대이란 전쟁 청구서 \"하루 3천300억 원…요격미사일 재고 복구 최소 5년\" - 연합인포맥스",
+    "title_ko": "美, 대이란 전쟁 청구서 \"하루 3천300억 원…요격미사일 재고 복구 최소 5년\"",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9oNlV6djlyWk5yWjVQdV9ESjhDTzhOVFA5c0FCVl9lNlVRNHhLTDFFb0M0cWwzRG1iS18wbFY3SnowaHBBd1lOZDNHcG53QVpkZXNRMG1hX2VxSGZENGtKbkpGOG9JdFFPYnVfV2N1Znk?oc=5",
+    "published": "Wed, 16 Sep 2026 01:55:45 GMT",
+    "fetched_at": "2026-09-16 11:24:41",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "방위산업",
+      "금융",
+      "해운/항공"
+    ],
+    "keywords": [
+      "미국",
+      "이란",
+      "지정학",
+      "국방비",
+      "원자재",
+      "유가"
+    ],
+    "reason": "미국과 이란 간 잠재적 갈등 시 막대한 재정 부담과 장기적인 군사력 재건 필요성을 강조, 이는 지정학적 불확실성 및 에너지 시장 변동성 확대를 야기하며 글로벌 증시에 부정적 영향을 미칠 수 있다.",
+    "action_point": "에너지 및 방위산업 섹터 투자 기회를 모색하고, 지정학적 위험 헤지를 위한 안전자산(금, 달러) 비중을 점검하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Inside South Korea’s university programs offering a direct route to Samsung and SK Hynix",
+    "title_ko": "삼성 및 SK하이닉스 직행 코스를 제공하는 한국 대학 프로그램 심층 분석",
+    "link": "https://www.cnbc.com/2026/09/16/samsung-sk-hynix-ai-boom-students-university-programs.html",
+    "published": "Tue, 15 Sep 2026 23:52:04 GMT",
+    "fetched_at": "2026-09-16 11:24:16",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "반도체",
+      "전자"
+    ],
+    "keywords": [
+      "반도체",
+      "인재 양성",
+      "산학협력",
+      "삼성",
+      "SK하이닉스"
+    ],
+    "reason": "국내 주요 반도체 기업들이 핵심 인재 확보를 위해 대학과 협력하여 장기적인 경쟁력 강화 및 기술 리더십 유지 전략을 실행하고 있음을 보여준다. 이는 미래 산업 성장을 위한 긍정적 신호다.",
+    "action_point": "한국 반도체 섹터의 장기적인 성장 잠재력을 긍정적으로 평가하고 관련 기업에 대한 투자 비중을 유지하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "Saudi pipeline closure is a brief interruption that will last days, U.S. Energy secretary tells CNBC",
     "title_ko": "미국 에너지부 장관, 사우디 파이프라인 폐쇄는 며칠간 지속될 짧은 중단이라고 CNBC에 밝혀",
     "link": "https://www.cnbc.com/2026/09/15/saud-arabia-east-west-pipeline-iran-war-chris-wright.html",
@@ -2898,83 +2975,5 @@
     ],
     "reason": "사상 최고 디젤 가격은 고유가 및 운송 비용 증가로 인한 인플레이션 압력 지속을 시사하며, 기업 마진 압박 및 전반적인 경제 성장 둔화를 야기할 수 있습니다.",
     "action_point": "높은 운송 비용에 민감한 운송, 물류, 소비재 섹터의 투자 비중 축소를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Trump says he has no regrets about starting the Iran war as U.S. dials up economic pressure",
-    "title_ko": "트럼프, 이란과의 전쟁 시작 후회하지 않는다고 밝혀…미국은 경제적 압박 강화",
-    "link": "https://www.cnbc.com/2026/09/11/us-iran-war-trump-hormuz-banks-oil-sanctions.html",
-    "published": "Fri, 11 Sep 2026 08:13:05 GMT",
-    "fetched_at": "2026-09-11 19:15:04",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "방산",
-      "해운"
-    ],
-    "keywords": [
-      "트럼프",
-      "이란",
-      "전쟁",
-      "경제 압박",
-      "지정학적 리스크"
-    ],
-    "reason": "트럼프의 발언은 중동 지역의 지정학적 불안감을 고조시키며, 미국이 이란에 대한 경제적 압박을 강화하고 있음을 시사한다. 이는 유가 상승 및 시장 불확실성 증대로 이어질 수 있다.",
-    "action_point": "유가 상승 가능성에 대비하여 에너지 관련 자산 비중을 확대하고, 지정학적 위험 회피를 위한 방산주 투자 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Bessent says 'a large bank' will be sanctioned on Monday as part of Iran strategy",
-    "title_ko": "베센트 장관, 이란 전략의 일환으로 월요일 대형 은행 제재 예정 언급",
-    "link": "https://www.cnbc.com/2026/09/11/bessent-large-bank-sanctioned.html",
-    "published": "Fri, 11 Sep 2026 10:03:44 GMT",
-    "fetched_at": "2026-09-11 19:15:16",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "금융",
-      "에너지"
-    ],
-    "keywords": [
-      "이란 제재",
-      "대형 은행",
-      "지정학적 리스크",
-      "금융 불안정"
-    ],
-    "reason": "미국이 이란 전략의 일환으로 대형 은행을 제재하면 지정학적 긴장이 고조되고 글로벌 금융 시스템 및 원자재 시장에 교란을 초래할 수 있어 투자자들의 위험 회피 심리를 자극할 것입니다.",
-    "action_point": "안전자산인 달러와 금 비중을 확대하고 고위험 자산 노출을 축소하십시오."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Modi and Xi are set to meet at BRICS with trade and border issues in spotlight",
-    "title_ko": "모디와 시진핑, 브릭스 회담 예정… 무역 및 국경 문제 주목",
-    "link": "https://www.cnbc.com/2026/09/11/china-india-modi-xi-brics-meeting-agenda.html",
-    "published": "Fri, 11 Sep 2026 04:29:20 GMT",
-    "fetched_at": "2026-09-11 19:15:28",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "제조업",
-      "무역",
-      "IT",
-      "방위산업",
-      "신흥국"
-    ],
-    "keywords": [
-      "모디",
-      "시진핑",
-      "BRICS",
-      "인도",
-      "중국",
-      "무역",
-      "국경",
-      "지정학"
-    ],
-    "reason": "인도와 중국 간의 무역 및 국경 문제가 논의될 이번 회담은 아시아 역내 지정학적 안정성과 공급망에 중대한 영향을 미 미칠 수 있습니다. 회담 결과에 따라 양국 관계 개선 또는 악화가 결정될 것입니다.",
-    "action_point": "인도-중국 관계 개선 여부에 따라 아시아 역내 공급망 재편 및 신흥국 자산 가치 변동에 대한 포트폴리오 대응 전략을 수립하라."
   }
 ]
