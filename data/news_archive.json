@@ -1,5 +1,29 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "美 세계경제 지배력 '흔들'...달러는 줄이고 금은 '사수' - v.daum.net",
+    "title_ko": "美 세계경제 지배력 '흔들'...달러는 줄이고 금은 '사수'",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBoMldJQmxvdlFITDltZHFXRFBIWXIwdGVaMGJ4bmM2RC1KRHNHcEdTOHpvaXpxMm1LeWNkVXpPMFpiSllnVlVKM0FMb0lWbUk?oc=5",
+    "published": "Wed, 16 Sep 2026 22:06:41 GMT",
+    "fetched_at": "2026-09-17 08:25:40",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "외환",
+      "원자재 (금)",
+      "글로벌 자산배분"
+    ],
+    "keywords": [
+      "미국 경제 지배력",
+      "달러 약세",
+      "금 가격 상승",
+      "탈달러화"
+    ],
+    "reason": "미국의 세계 경제 지배력 약화와 달러의 기축통화 지위 변화 가능성을 시사하며, 이는 글로벌 외환 시장 및 자산 배분 전략에 중대한 영향을 미칠 수 있습니다. 안전자산으로서 금의 중요성이 부각될 것입니다.",
+    "action_point": "달러 자산 비중 축소 및 금 자산 편입/확대 검토."
+  },
+  {
     "source": "CNBC_Finance",
     "market": "US",
     "title": "Here is what changed in the new Fed statement under Warsh",
@@ -2931,34 +2955,5 @@
     ],
     "reason": "이란의 대미/대이스라엘 강경 입장은 중동 지역의 지정학적 불안감을 지속시키며, 이는 국제 유가 및 에너지 시장에 불확실성을 가중시킬 것입니다.",
     "action_point": "중동 지정학적 긴장감 지속에 따른 유가 상승 압력 및 에너지 섹터 변동성에 대비하고, 방산 관련주에 대한 관심을 유지하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Trump's America-first world is pushing other powers to hedge their bets",
-    "title_ko": "트럼프의 '미국 우선주의' 세계관, 다른 강대국들의 헤징 전략 부추겨",
-    "link": "https://www.cnbc.com/2026/09/12/brics-summit-xi-putin-modi-trump.html",
-    "published": "Sat, 12 Sep 2026 06:25:50 GMT",
-    "fetched_at": "2026-09-12 18:48:35",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "지정학",
-      "무역",
-      "원자재",
-      "신흥국",
-      "방위산업"
-    ],
-    "keywords": [
-      "트럼프",
-      "미국 우선주의",
-      "BRICS",
-      "지정학적 리스크",
-      "관세",
-      "이란",
-      "탈세계화"
-    ],
-    "reason": "미국의 일방주의 정책이 주요국 간 갈등을 심화시키고 새로운 블록 형성을 촉진하여 글로벌 무역 질서와 공급망에 불안정성을 가중시킬 수 있습니다.",
-    "action_point": "지정학적 리스크 심화 및 글로벌 무역 분절화에 대비하여 자산 포트폴리오의 지역 및 통화 분산 강화 검토"
   }
 ]
