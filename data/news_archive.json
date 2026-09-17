@@ -1,5 +1,310 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "A stronger dollar and rising yields: How the Fed’s rate hike could hit global markets",
+    "title_ko": "더 강해진 달러와 상승하는 금리: 연준의 금리 인상이 글로벌 시장에 미칠 영향",
+    "link": "https://www.cnbc.com/2026/09/17/fed-rate-hike-impact-globally-currency-yields.html",
+    "published": "Thu, 17 Sep 2026 05:03:07 GMT",
+    "fetched_at": "2026-09-17 17:11:43",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "기술주",
+      "성장주",
+      "신흥시장",
+      "부동산",
+      "금융"
+    ],
+    "keywords": [
+      "연준 금리 인상",
+      "강달러",
+      "글로벌 채권 금리 상승",
+      "주식 가치 평가",
+      "경제 성장 둔화"
+    ],
+    "reason": "연준의 지속적인 금리 인상은 글로벌 채권 금리를 상승시키고 달러 강세를 유발하여, 주식 밸류에이션 하락 압력과 전반적인 경제 성장 둔화로 이어질 수 있습니다. 특히 고금리에 취약한 성장주 및 신흥시장에 부정적입니다.",
+    "action_point": "고금리 환경에 취약한 성장주 및 고부채 기업 비중을 축소하고, 달러 자산 보유를 유지하십시오."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Investors react to Fed hike and market sell-off: Brace for 'higher for longer' rates",
+    "title_ko": "투자자들, 연준 금리 인상 및 시장 매도세에 반응: '더 높고 오래가는' 금리에 대비하라",
+    "link": "https://www.cnbc.com/2026/09/16/investors-react-to-fed-hike-market-sell-off-brace-for-higher-rates-for-longer.html",
+    "published": "Wed, 16 Sep 2026 21:22:49 GMT",
+    "fetched_at": "2026-09-17 17:12:31",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "성장주",
+      "부동산",
+      "고부채 기업"
+    ],
+    "keywords": [
+      "연준",
+      "금리 인상",
+      "고금리 장기화",
+      "인플레이션",
+      "시장 매도"
+    ],
+    "reason": "연준의 만장일치 금리 인상 결정은 고금리 장기화 기조를 재확인시켜, 주식 등 위험자산에 대한 투자심리를 위축시키고 시장 전반의 조정 압력을 가중시킬 것입니다. 이는 기업의 자금조달 비용 증가 및 성장률 둔화로 이어질 수 있습니다.",
+    "action_point": "금리 민감주 및 고성장 기술주 비중 축소를 검토하고 현금 비중을 확대하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Treasury yields move lower after Fed kicks off hiking cycle",
+    "title_ko": "연준 금리 인상 사이클 시작 후 국채 수익률 하락",
+    "link": "https://www.cnbc.com/2026/09/17/treasury-yields-move-lower-after-fed-kicks-off-hiking-cycle.html",
+    "published": "Thu, 17 Sep 2026 06:38:56 GMT",
+    "fetched_at": "2026-09-17 17:12:42",
+    "sentiment": "호재",
+    "importance": 5,
+    "sectors": [
+      "기술주",
+      "성장주",
+      "부동산"
+    ],
+    "keywords": [
+      "연준",
+      "금리 인상",
+      "국채 수익률",
+      "통화정책"
+    ],
+    "reason": "연준이 금리 인상 사이클을 시작했음에도 불구하고 국채 수익률이 하락한 것은 시장이 연준의 긴축 속도를 예상보다 덜 공격적으로 해석했음을 시사한다. 이는 단기적으로 주식 등 위험자산, 특히 금리에 민감한 성장주에 긍정적인 영향을 미칠 수 있다.",
+    "action_point": "연준의 긴축에도 불구하고 국채 수익률이 하락한 점을 고려, 금리 민감 성장주 및 기술주 비중 유지를 검토."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "'Hostile act': Trump threatens EU with tariffs over Canada associate-membership proposal",
+    "title_ko": "트럼프, 캐나다 EU 준회원국 제안에 '적대적 행위' 규정하며 EU에 관세 위협",
+    "link": "https://www.cnbc.com/2026/09/17/trump-canada-european-union-tariffs-associate-member-ukraine-.html",
+    "published": "Thu, 17 Sep 2026 05:42:46 GMT",
+    "fetched_at": "2026-09-17 17:11:23",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "수출주",
+      "제조업",
+      "운송/물류"
+    ],
+    "keywords": [
+      "트럼프",
+      "관세",
+      "EU",
+      "캐나다",
+      "무역분쟁",
+      "지정학"
+    ],
+    "reason": "트럼프의 EU에 대한 관세 위협은 미국과 유럽연합 간 무역 긴장을 고조시키며, 이는 글로벌 교역량 감소와 기업 실적 악화로 이어질 수 있다. 특히 유럽과 북미 시장에 의존하는 수출 기업들에게 부정적인 영향을 미칠 것이다.",
+    "action_point": "글로벌 무역 분쟁 심화 가능성에 대비하여 수출 의존도가 높은 산업 섹터 비중 축소를 검토한다."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Putin braces for election stress test as Russians ‘feel the pain’ of struggling economy",
+    "title_ko": "푸틴, 경제난으로 러시아 국민 고통받는 가운데 선거 압박 직면",
+    "link": "https://www.cnbc.com/2026/09/17/russia-putin-state-duma-election-ukraine-war.html",
+    "published": "Thu, 17 Sep 2026 05:00:01 GMT",
+    "fetched_at": "2026-09-17 17:11:36",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "원자재",
+      "방산",
+      "글로벌 위험자산"
+    ],
+    "keywords": [
+      "러시아",
+      "푸틴",
+      "선거",
+      "경제",
+      "지정학"
+    ],
+    "reason": "러시아의 경제난과 잠재적 국민 불만이 지속될 가능성을 시사하며, 이는 지정학적 위험과 에너지 시장 변동성으로 이어질 수 있습니다.",
+    "action_point": "러시아의 지속적인 경제 불안정 및 지정학적 리스크에 대비하여 에너지/원자재 관련 포지션 및 안전자산 보유 비중을 재점검하십시오."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Bank of England set to defy Fed’s rate-hike lead, despite rising inflation",
+    "title_ko": "영란은행, 인플레이션 상승에도 불구하고 연준의 금리 인상 기조에 불응할 전망",
+    "link": "https://www.cnbc.com/2026/09/17/bank-of-england-interest-rate-decision-fed-rate-hike-uk-inflation.html",
+    "published": "Thu, 17 Sep 2026 05:20:23 GMT",
+    "fetched_at": "2026-09-17 17:11:58",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "글로벌 금융시장"
+    ],
+    "keywords": [
+      "영란은행",
+      "금리",
+      "인플레이션",
+      "통화정책",
+      "연준",
+      "파운드화"
+    ],
+    "reason": "영란은행의 금리 동결은 높은 인플레이션에도 불구하고 연준과 다른 통화정책 기조를 보여, 글로벌 통화정책의 이질성을 심화시키고 파운드화 약세 압력을 가중시킬 수 있습니다.",
+    "action_point": "글로벌 통화정책 이질성 확대에 따른 환율 변동성 관찰 및 달러 자산 비중 유지 검토"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Oil extends losses as Saudi Arabia reportedly offers ship-to-ship crude transfers after pipeline hit",
+    "title_ko": "사우디아라비아, 파이프라인 피격 후 선박 간 원유 환적 제공 소식에 유가 하락세 지속",
+    "link": "https://www.cnbc.com/2026/09/17/oil-prices-today-wti-brent-hormuz-iran-war.html",
+    "published": "Thu, 17 Sep 2026 02:08:02 GMT",
+    "fetched_at": "2026-09-17 17:12:06",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "항공",
+      "해운",
+      "화학",
+      "소비재"
+    ],
+    "keywords": [
+      "유가",
+      "원유 공급",
+      "사우디아라비아",
+      "에너지 비용"
+    ],
+    "reason": "사우디아라비아가 파이프라인 피격에도 원유 공급 안정화 조치를 취하며 유가 상승 압력을 완화, 전반적인 인플레이션 우려를 경감하고 시장 안정에 기여할 것입니다.",
+    "action_point": "유가 하락 수혜가 예상되는 항공, 해운, 화학 등 다운스트림 섹터의 비중 확대를 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "선거에 마음 급한 트럼프? “전쟁 곧 끝난다…관세로 트럼프 배당금” [이런뉴스] - v.daum.net",
+    "title_ko": "선거에 마음 급한 트럼프? “전쟁 곧 끝난다…관세로 트럼프 배당금” [이런뉴스]",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9qN0lqdWpLR0RtX2UzR2h0ZnA0Zl9CRUlOWmtqTk5GS25tRnBEcmRaNm1WRzFhREVneEd2WmVNbE10d3FjTzNwd2hGa19IcVk?oc=5",
+    "published": "Thu, 17 Sep 2026 05:27:10 GMT",
+    "fetched_at": "2026-09-17 17:15:20",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "수출주",
+      "제조업",
+      "해운/물류"
+    ],
+    "keywords": [
+      "트럼프",
+      "미국 대선",
+      "관세",
+      "보호무역주의",
+      "지정학적 위험"
+    ],
+    "reason": "트럼프의 대선 승리 시 관세 강화 등 보호무역주의 정책이 재현될 가능성을 시사하며, 이는 글로벌 교역 둔화 및 공급망 재편 압력으로 작용할 수 있습니다.",
+    "action_point": "미국 대선 결과에 따른 보호무역주의 강화 가능성에 대비하여 수출 의존도가 높은 국내 주식의 비중 조정을 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[그래픽] 미 연준 2026년 미국 경제 전망 - 연합뉴스",
+    "title_ko": "[그래픽] 미 연준 2026년 미국 경제 전망",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1oWnZBc1BSU1pXeGtRYUV3R1dJMGFvUzFTaVVpWEF1Y2cyb0gwTk00aF80MEFYb2dIU0VUSzhFRDdnRGotanR3dV8yMDVpakJmVGlzZ1IzeHo1OGZNMnVSLdIBYEFVX3lxTE1oWnZBc1BSU1pXeGtRYUV3R1dJMGFvUzFTaVVpWEF1Y2cyb0gwTk00aF80MEFYb2dIU0VUSzhFRDdnRGotanR3dV8yMDVpakJmVGlzZ1IzeHo1OGZNMnVSLQ?oc=5",
+    "published": "Thu, 17 Sep 2026 00:20:18 GMT",
+    "fetched_at": "2026-09-17 17:15:32",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "금융",
+      "기술주",
+      "부동산",
+      "환율",
+      "채권"
+    ],
+    "keywords": [
+      "미국 경제",
+      "연준",
+      "금리 전망",
+      "인플레이션",
+      "성장률",
+      "통화정책"
+    ],
+    "reason": "미 연준의 장기 경제 전망은 향후 통화정책 방향과 글로벌 유동성 환경을 예측하는 핵심 지표이며, 이는 주식, 채권, 환율 등 주요 자산 가격에 중장기적인 영향을 미칠 수 있습니다.",
+    "action_point": "연준의 2026년 경제 전망 세부 내용을 즉시 확인하고, 이에 따른 금리 및 환율 변동성 확대 가능성에 대비하여 포트폴리오 리밸런싱을 검토하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "“당장 10% 빠질 수 있는데, 던질까 담을까?”…금리 인상 1년 뒤 웃었던 美 증시",
+    "title_ko": "“당장 10% 빠질 수 있는데, 던질까 담을까?”…금리 인상 1년 뒤 웃었던 美 증시",
+    "link": "https://www.mk.co.kr/news/stock/12155552",
+    "published": "Thu, 17 Sep 2026 17:02:37 +09:00",
+    "fetched_at": "2026-09-17 17:18:19",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "미국 주식 시장",
+      "성장주",
+      "기술주"
+    ],
+    "keywords": [
+      "금리 인상",
+      "미국 증시",
+      "S&P500",
+      "시장 조정",
+      "장기 투자"
+    ],
+    "reason": "미국 금리 인상 초기에는 증시 조정이 나타날 수 있으나, 과거 데이터를 보면 1년 뒤에는 반등하여 수익을 기록한 패턴이 있음을 시사합니다. 이는 단기 조정이 장기 투자자에게 매수 기회가 될 수 있음을 암시합니다.",
+    "action_point": "미국 주식 시장의 단기 조정 발생 시 우량 자산에 대한 분할 매수 전략을 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "CNBC Daily Open: Trump bemoans hostile acts",
+    "title_ko": "CNBC 데일리 오픈: 트럼프, 적대적 행위에 불평",
+    "link": "https://www.cnbc.com/2026/09/17/daily-open-trump-hostile-fed-eu-canada-boe-boj-oil.html",
+    "published": "Thu, 17 Sep 2026 06:23:31 GMT",
+    "fetched_at": "2026-09-17 17:13:28",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "금융",
+      "수출 관련주"
+    ],
+    "keywords": [
+      "트럼프",
+      "연준",
+      "금리 인상",
+      "무역 분쟁",
+      "정치적 불확실성"
+    ],
+    "reason": "트럼프의 연준 금리 인상 불만은 통화 정책 독립성에 대한 우려를 높여 시장 불확실성을 야기할 수 있습니다. EU 및 캐나다 관련 발언은 향후 무역 정책 갈등을 시사하여 지정학적 긴장감을 고조시킬 가능성이 있습니다.",
+    "action_point": "미국 정치적 불확실성 증가와 통화 정책 독립성 훼손 가능성에 대비하여 포트폴리오 내 방어적 자산 비중을 점검하고 달러 자산 보유를 고려."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "한-IEA, 아시아 에너지 안보·기후위기 대응 본격화…'RISE ASIA' 추진 - 대한민국 정책브리핑",
+    "title_ko": "한-IEA, 아시아 에너지 안보·기후위기 대응 본격화…'RISE ASIA' 추진",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWa2diT01GUFhaSk9VdHEtek1JV005R0xqcFR4ejltUmtCMllzeUMtWS1qTDE5MWlfQ2hsclhZVHlBZ2UwdUNUcV9ScTZOTy1BRDhHdHBoOTBwVGlNdVBRdWROSDVLd2p1amJ5Tw?oc=5",
+    "published": "Thu, 17 Sep 2026 07:31:25 GMT",
+    "fetched_at": "2026-09-17 17:13:45",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "친환경 에너지",
+      "원자력",
+      "에너지 효율",
+      "인프라"
+    ],
+    "keywords": [
+      "한-IEA",
+      "에너지 안보",
+      "기후위기",
+      "RISE ASIA",
+      "아시아"
+    ],
+    "reason": "한국과 IEA의 아시아 에너지 안보 및 기후 위기 대응 협력은 장기적으로 역내 친환경 에너지 전환 및 관련 인프라 투자를 촉진하며, 한국 기업의 수출 기회를 확대할 수 있습니다.",
+    "action_point": "아시아 에너지 전환 및 기후 대응 관련 국내 친환경 에너지, 원자력, 인프라 섹터 장기 투자 비중 확대를 검토하라."
+  },
+  {
     "source": "CNBC_Finance",
     "market": "US",
     "title": "Here are five key takeaways from Wednesday's Fed rate hike",
@@ -2655,299 +2960,5 @@
     ],
     "reason": "트럼프 전 대통령의 발언은 11월 중간선거 이후 이란과의 갈등 종식 가능성을 시사하나, 구체적인 근거와 시기가 불분명하여 즉각적인 시장 영향보다는 중장기적인 지정학적 리스크 완화 기대로 해석될 수 있습니다.",
     "action_point": "중동 지정학적 리스크 완화 가능성을 고려하여 에너지 및 방산 관련 포트폴리오의 비중 및 리스크 헤지 전략을 재점검하십시오."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[글로벌 경제지표] '시선집중' 美연준 기준금리 결정…BOJ 금리인상 여부도 주목 - v.daum.net",
-    "title_ko": "[글로벌 경제지표] '시선집중' 美연준 기준금리 결정…BOJ 금리인상 여부도 주목",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9DcU9ORzAxMlpUcmd2dFRrLWphbTVZZDdjTDltbW5iQTJBdlBxaU1vR0wtb2M2QmlBalJPaTFIZFg4dHV6YVRhbEh0R0l4clk?oc=5",
-    "published": "Sat, 12 Sep 2026 22:03:00 GMT",
-    "fetched_at": "2026-09-13 08:35:06",
-    "sentiment": "중립",
-    "importance": 5,
-    "sectors": [
-      "금융",
-      "부동산",
-      "기술",
-      "수출입",
-      "채권"
-    ],
-    "keywords": [
-      "미 연준",
-      "BOJ",
-      "기준금리",
-      "금리인상",
-      "통화정책"
-    ],
-    "reason": "미국 연준과 일본 BOJ의 금리 결정은 글로벌 유동성 및 자산 배분 방향을 좌우하는 핵심 변수로, 향후 시장 변동성을 확대시킬 주요 이벤트이다.",
-    "action_point": "금리 결정 발표 전후 시장 변동성 확대에 대비하여 현금 비중을 일정 수준 유지하고, 포트폴리오의 금리 민감도를 점검하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "OpenAI rules out IPO this year as Altman, Musk & Amodei warn AI is moving too fast",
-    "title_ko": "OpenAI, 올해 IPO 불가 입장 표명... 알트만, 머스크, 아모데이 등 AI 속도 조절 경고",
-    "link": "https://www.cnbc.com/2026/09/12/anthropics-amodei-proposes-plan-to-slow-the-pace-of-advancing-ai-capabilities.html",
-    "published": "Sat, 12 Sep 2026 23:20:43 GMT",
-    "fetched_at": "2026-09-13 08:34:53",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "기술",
-      "반도체",
-      "벤처캐피탈/사모펀드"
-    ],
-    "keywords": [
-      "OpenAI",
-      "AI",
-      "IPO",
-      "기술 거인",
-      "규제 리스크"
-    ],
-    "reason": "OpenAI의 IPO 연기는 AI 섹터에 대한 단기 투자 기회 감소를 의미하며, 주요 기술 거물들의 AI 개발 속도 경고는 향후 규제 강화 또는 성장 둔화 가능성을 시사하여 AI 관련 기업들의 밸류에이션에 부담을 줄 수 있습니다.",
-    "action_point": "AI 관련 기술주의 단기 과열 여부를 재점검하고 잠재적 규제 리스크를 투자 판단에 반영하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "“한 달 붓고 평생 연금?”…외국인 수급 논란에 사회보장제도 ‘긴급 점검’",
-    "title_ko": "“한 달 붓고 평생 연금?”…외국인 수급 논란에 사회보장제도 ‘긴급 점검’",
-    "link": "https://www.mk.co.kr/news/society/12151233",
-    "published": "Sun, 13 Sep 2026 08:34:00 +09:00",
-    "fetched_at": "2026-09-13 08:35:22",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [],
-    "keywords": [
-      "사회보장제도",
-      "외국인 연금",
-      "기초연금",
-      "긴급복지",
-      "제도개선"
-    ],
-    "reason": "외국인의 사회보장제도 수급 요건에 대한 논란으로 정부가 제도 전반을 점검하고 보완할 예정이다. 이는 국내 사회 정책 조정으로, 거시 경제 및 투자 자산 시장에 미치는 직접적인 영향은 제한적이다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Indian Prime Minister Modi says border peace is key to India-China ties",
-    "title_ko": "인도 모디 총리, 국경 평화가 인도-중국 관계의 핵심이라고 강조",
-    "link": "https://www.cnbc.com/2026/09/12/india-china-modi-xi-brics-border.html",
-    "published": "Sat, 12 Sep 2026 15:12:56 GMT",
-    "fetched_at": "2026-09-13 03:53:04",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "신흥국",
-      "지정학"
-    ],
-    "keywords": [
-      "인도",
-      "중국",
-      "국경 분쟁",
-      "지정학"
-    ],
-    "reason": "인도와 중국 간 국경 분쟁 및 무역 불균형 논의는 양국 관계의 안정화를 모색하는 긍정적 신호로, 아시아 신흥국 전반의 지정학적 리스크 완화에 기여할 수 있다.",
-    "action_point": "인도-중국 지정학적 리스크 완화 가능성을 반영하여 아시아 신흥국 자산의 비중 조정 및 포트폴리오 재편 검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "\"9·11 잊지 않겠다\"던 트럼프…추모식서 ‘전쟁 명분’ 강조 - JTBC",
-    "title_ko": "9·11 잊지 않겠다던 트럼프…추모식서 ‘전쟁 명분’ 강조",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBEMkpjWTBnTW5uNjV6V1V1RFlXajV3Vm1mMjhoUFNKbEp6Ulh1VWR1Y3Fud3c0SnM4dWZJYmJJUi1OakJWdVQzNHZpNHFpYUpkbkRqdA?oc=5",
-    "published": "Sat, 12 Sep 2026 11:35:00 GMT",
-    "fetched_at": "2026-09-13 03:53:13",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "방산",
-      "에너지",
-      "금"
-    ],
-    "keywords": [
-      "트럼프",
-      "지정학",
-      "안보",
-      "전쟁"
-    ],
-    "reason": "트럼프 전 대통령의 '전쟁 명분' 강조 발언은 재집권 시 지정학적 갈등을 유발할 수 있는 외교 정책 기조를 암시하며, 이는 글로벌 안보 불확실성을 증대시켜 시장에 악재로 작용할 수 있습니다.",
-    "action_point": "지정학적 위험 고조에 대비하여 안전자산 비중을 확대하고 방산 섹터의 추이를 주시하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Trump sees Iran war ending soon after mid-term elections, predicts oil prices will then fall sharply",
-    "title_ko": "트럼프, 중간선거 직후 이란 전쟁 조기 종식 및 유가 급락 예상",
-    "link": "https://www.cnbc.com/2026/09/12/trump-sees-iran-war-ending-very-soon-oil-prices-then-falling.html",
-    "published": "Sat, 12 Sep 2026 13:02:15 GMT",
-    "fetched_at": "2026-09-13 01:39:03",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "항공",
-      "운송",
-      "화학",
-      "소비재"
-    ],
-    "keywords": [
-      "트럼프",
-      "이란",
-      "유가",
-      "지정학",
-      "에너지"
-    ],
-    "reason": "트럼프의 이란 갈등 조기 종식 및 유가 급락 전망은 글로벌 지정학적 불확실성을 완화하고 에너지 비용 부담을 줄여 세계 경제 성장 및 물가 안정에 긍정적으로 작용할 수 있습니다. 이는 특히 고유가로 인한 경기 침체 우려를 경감시킵니다.",
-    "action_point": "유가 하락 가능성에 대비하여 에너지 생산 및 정유 섹터 비중 축소를 검토하고, 항공/운송 등 유가 하락 수혜 섹터 비중을 확대."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Oil's roundtrip back to $100. Why China could determine what happens next",
-    "title_ko": "유가 100달러 회귀. 향후 중국이 결정할 관건은?",
-    "link": "https://www.cnbc.com/2026/09/12/oils-roundtrip-back-to-100-why-china-could-determine-what-happens-next.html",
-    "published": "Sat, 12 Sep 2026 12:40:05 GMT",
-    "fetched_at": "2026-09-13 01:39:15",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "항공",
-      "운송",
-      "화학",
-      "소비재"
-    ],
-    "keywords": [
-      "유가",
-      "인플레이션",
-      "중국",
-      "에너지"
-    ],
-    "reason": "유가 100달러 돌파는 글로벌 인플레이션 압력을 가중시켜 각국 중앙은행의 긴축 기조 장기화 우려를 높이며, 향후 중국의 수요 회복 여부가 유가 흐름의 핵심 변수가 될 것입니다.",
-    "action_point": "운송 및 화학 등 유가 민감 섹터의 비중 축소를 검토하고, 에너지 섹터의 투자 기회를 주시하십시오."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "트럼프 \"이란 전쟁, 11월 중간선거 직후 끝나고 유가도 급락\"(종합) - 연합뉴스",
-    "title_ko": "트럼프 '이란 전쟁' 11월 중간선거 직후 종료, 유가 급락 시사",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10NTU5OEtoZjlnNWtURW9GaUNuWm5hTGY1Q1BpcnRRQWRacklyMVFpWGRfdmVidVltdzZJTnpiN20xUk5fXzlLNWdYWnFjUWVFeGdOQ0pEcDBYZ2fSAWBBVV95cUxPbGs4dnB0dXp2YXN3NFA3M3RXUHlDZThjTE9ZY1Etd0pqaE9WeTRhQXRNbU9sZHlLdXdURkZibFFTZy1TWFVPeTlsUDRnVEZSdEhqWGZlSE1tUVlqTUZKeTY?oc=5",
-    "published": "Sat, 12 Sep 2026 12:56:40 GMT",
-    "fetched_at": "2026-09-13 01:39:36",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "에너지/정유",
-      "항공/해운",
-      "석유화학",
-      "소비재"
-    ],
-    "keywords": [
-      "트럼프",
-      "이란",
-      "유가",
-      "지정학"
-    ],
-    "reason": "트럼프의 발언은 이란발 지정학적 리스크 완화와 유가 하락 가능성을 제시하나, 이는 중간선거와 연관된 정치적 수사로 실제 실현 여부 및 시기에 대한 불확실성이 매우 크다.",
-    "action_point": "유가 급락 가능성에 대비하여 에너지 수입 의존도가 높은 국내 섹터(항공, 해운, 석유화학)에 대한 투자 비중 확대를 선별적으로 검토하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "“한국인 평균 재산 규모가?”…연령대별 자산 수준 보니",
-    "title_ko": "“한국인 평균 재산 규모가?”…연령대별 자산 수준 보니",
-    "link": "https://www.mk.co.kr/news/society/12151175",
-    "published": "Sat, 12 Sep 2026 22:25:05 +09:00",
-    "fetched_at": "2026-09-13 01:39:54",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [],
-    "keywords": [
-      "가계 자산",
-      "가계 부채",
-      "순자산",
-      "자산 통계"
-    ],
-    "reason": "이 기사는 한국 가구의 평균 자산 및 부채 현황에 대한 통계적 정보를 제공하며, 장기적인 소비력 및 경제 건전성 분석에 활용될 수 있으나 단기 시장 변동을 유발하지는 않습니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Inflation is outpacing wage growth again, squeezing Americans’ paychecks",
-    "title_ko": "인플레이션이 임금 상승률을 다시 앞질러 미국인들의 실질 임금 압박",
-    "link": "https://www.cnbc.com/2026/09/12/inflation-is-outpacing-wage-growth-again-squeezing-americans-paychecks.html",
-    "published": "Sat, 12 Sep 2026 12:49:15 GMT",
-    "fetched_at": "2026-09-12 22:15:28",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "소비재",
-      "유통"
-    ],
-    "keywords": [
-      "인플레이션",
-      "임금 상승률",
-      "소비 심리",
-      "미국 경제"
-    ],
-    "reason": "미국 실질 임금의 하락은 소비 심리 위축 및 소비 지출 감소로 이어져 경제 성장에 부정적이며, 고금리 장기화 가능성을 높여 주식 시장 전반에 압박으로 작용할 수 있습니다.",
-    "action_point": "미국 실질 임금 하락으로 인한 소비 위축에 대비하여 소비재 관련 투자 비중 축소 검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "트럼프 \"이란 전쟁, 중간선거 직후 끝나고 유가도 급락\" - MBC 뉴스",
-    "title_ko": "트럼프 \"이란 전쟁, 중간선거 직후 끝나고 유가도 급락\"",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1zY1M3aUxsN0VhN0N6T3RpZGdpQ1RjVjZYSVAyU0ZsaU5Nc0VZNzhHczJXa21mU25iMzlydjdJN0FBaTQ4aFlKTVZ1aUlmS0pIRHc2NTAzY3luNEZ6NU5oU1hIdjZNNDItVUY0dW5KLVEtemY20gF0QVVfeXFMT1lmWE9mN3JGLTktNGVzcXFHcmhseHQtSXVfS3dtQ3dWU2RBelk2ODc4TDJrcmVzQmVKcEpTdUJTTnNVLVM5aE56VU5KYzRtQkhIRlJXX2JBa0g3Tmw1NEVOWU9rWDFSUThFc3M1SzctbUl1UUs?oc=5",
-    "published": "Sat, 12 Sep 2026 10:58:27 GMT",
-    "fetched_at": "2026-09-12 22:15:36",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "항공",
-      "해운",
-      "화학",
-      "제조업",
-      "에너지"
-    ],
-    "keywords": [
-      "트럼프",
-      "이란 전쟁",
-      "유가",
-      "중간선거",
-      "지정학"
-    ],
-    "reason": "트럼프의 발언은 중동 지정학적 리스크 완화와 유가 급락 가능성을 시사하며, 이는 글로벌 인플레이션 압력 완화 및 한국과 같은 원유 수입국 기업들의 비용 절감으로 이어질 수 있습니다.",
-    "action_point": "국내 원유 수입 의존도가 높은 산업(항공, 해운, 화학 등)의 투자 비중 확대를 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "트럼프 \"이란 전쟁, 11월 중간선거 직후 끝나고 유가도 급락\"(종합) - v.daum.net",
-    "title_ko": "트럼프 \"이란 전쟁, 11월 중간선거 직후 끝나고 유가도 급락\"(종합)",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YM3ZEUHAtakpadldWOUFNdlBEeDVBNjdPUXYtWnZQdHVWTTNEc0YwNHRlNThlazhsaUIxRmtzN0VaMlY5XzB2bkQ4YXQ3c2s?oc=5",
-    "published": "Sat, 12 Sep 2026 12:57:00 GMT",
-    "fetched_at": "2026-09-12 22:15:53",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "운송",
-      "항공",
-      "소비재"
-    ],
-    "keywords": [
-      "트럼프",
-      "이란",
-      "지정학",
-      "유가",
-      "중간선거"
-    ],
-    "reason": "트럼프의 이란 전쟁 종료 및 유가 급락 발언은 지정학적 긴장 완화와 에너지 비용 하락 가능성을 제시하여 글로벌 인플레이션 압력 완화 및 경기 회복 기대감을 높일 수 있다. 다만, 발언의 실현 가능성은 매우 낮아 추세적 영향보다는 단기 변동성 요인으로 작용할 가능성이 크다.",
-    "action_point": "유가 하락 수혜 업종(항공, 해운, 소비재 등) 투자 포트폴리오 편입 가능성 검토."
   }
 ]
