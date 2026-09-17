@@ -1,5 +1,81 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "트럼프 \"이란과 직접 대화, 전쟁 곧 끝\"...중동 6개국과 회동 추진 - YTN",
+    "title_ko": "트럼프 \"이란과 직접 대화, 전쟁 곧 끝\"...중동 6개국과 회동 추진 - YTN",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE04bFZUMmdIbDNSaEpERDRpRTBkbjVMNlowTTVPX2hjazJIVkQ3amcxTDVKYi1uRjJFdFc3WlM3dFNyQ0hnUm1aVVR6eGhTbWc1OHBXcFU2R1ZnaHNFMk1tOE5rUGVrTl92MG5NOEdmYw?oc=5",
+    "published": "Thu, 17 Sep 2026 11:15:00 GMT",
+    "fetched_at": "2026-09-17 22:57:26",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "원자재",
+      "항공",
+      "여행",
+      "증권"
+    ],
+    "keywords": [
+      "트럼프",
+      "이란",
+      "중동",
+      "대화",
+      "전쟁 종식",
+      "지정학",
+      "유가"
+    ],
+    "reason": "트럼프의 이란과의 직접 대화 및 전쟁 종식 발언은 중동 지역 지정학적 리스크 완화 기대를 높인다. 이는 글로벌 유가 안정 및 투자심리 개선에 긍정적으로 작용할 수 있다.",
+    "action_point": "중동발 지정학적 리스크 완화에 따른 유가 하방 압력에 대비하여 원유 관련 자산 비중 축소를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Carney says Canada will decide its own partnerships after Trump calls EU proposal ‘laughable’",
+    "title_ko": "트럼프, 캐나다의 EU 준회원국 제안 '우스꽝스럽다' 평하자, 카니 '캐나다는 자체 파트너십 결정할 것'",
+    "link": "https://www.cnbc.com/2026/09/17/carney-canada-eu-associate-member.html",
+    "published": "Thu, 17 Sep 2026 12:36:54 GMT",
+    "fetched_at": "2026-09-17 22:57:13",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "무역/수출입 관련 산업",
+      "항공/해운"
+    ],
+    "keywords": [
+      "지정학적 리스크",
+      "무역 갈등",
+      "국제 관계",
+      "캐나다-EU"
+    ],
+    "reason": "미국과 주요 동맹국(캐나다, EU) 간의 외교적 마찰을 보여주며, 이는 글로벌 무역 정책의 불확실성을 높이고 잠재적인 무역 갈등 심화로 이어질 수 있다. 동맹 관계 변화 가능성도 시사한다.",
+    "action_point": "글로벌 무역 마찰 심화 가능성에 대비하여 수출 의존도가 높은 자산의 비중을 축소하는 것을 검토하라."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Stocks making the biggest moves premarket: Generac, Lennar, Nike & more",
+    "title_ko": "개장 전 가장 큰 움직임을 보이는 주식: 제너락, 레나, 나이키 외",
+    "link": "https://www.cnbc.com/2026/09/17/stocks-making-the-biggest-moves-premarket-gnrc-len-nke.html",
+    "published": "Thu, 17 Sep 2026 11:54:18 GMT",
+    "fetched_at": "2026-09-17 22:57:00",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "소비재",
+      "부동산",
+      "산업재",
+      "개별 주식"
+    ],
+    "keywords": [
+      "개장 전 주가",
+      "프리마켓",
+      "개별 주식",
+      "미국 증시"
+    ],
+    "reason": "이 뉴스는 특정 개별 주식들의 개장 전 움직임을 단순 보고하는 것으로, 거시 경제나 시장 전반에 미치는 직접적인 영향은 제한적입니다. 개별 기업의 미시적 이슈에 대한 업데이트입니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "A stronger dollar and rising yields: How the Fed’s rate hike could hit global markets",
@@ -2885,80 +2961,5 @@
     ],
     "reason": "국내 디벨로퍼 및 건설사의 해외 개발사업 진출 확대를 위한 협력으로, 관련 기업들의 신규 시장 확보 및 성장 동력 기대감을 높이는 요인이다.",
     "action_point": "해외 개발사업 확대 수혜가 예상되는 국내 건설 및 디벨로퍼 관련주에 대한 포트폴리오 비중 확대를 검토하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "송파에 주거용 오피스텔 … 전국 1만가구 가을 분양",
-    "title_ko": "송파에 주거용 오피스텔 … 전국 1만가구 가을 분양",
-    "link": "https://www.mk.co.kr/news/realestate/12151398",
-    "published": "Sun, 13 Sep 2026 16:30:31 +09:00",
-    "fetched_at": "2026-09-13 16:49:43",
-    "sentiment": "악재",
-    "importance": 2,
-    "sectors": [
-      "부동산",
-      "건설"
-    ],
-    "keywords": [
-      "주거용 오피스텔",
-      "신규 분양",
-      "부동산 공급",
-      "가을 분양"
-    ],
-    "reason": "전국적으로 대규모 주거용 오피스텔 신규 공급은 국내 부동산 시장의 잠재적 공급 과잉 우려를 높이며, 특히 송파 등 주요 지역의 기존 오피스텔 자산 가치에 하방 압력으로 작용할 수 있습니다.",
-    "action_point": "국내 오피스텔 시장의 공급 확대에 따른 가격 하방 압력 가능성을 고려하여 관련 자산 포트폴리오 재평가 및 매수 전략을 신중하게 검토하십시오."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[박상기 협상칼럼]⑥11월 4일 새벽, 이스라엘이 다시 전쟁을 열 수 있다 - g-enews.com",
-    "title_ko": "[박상기 협상칼럼]⑥11월 4일 새벽, 이스라엘이 다시 전쟁을 열 수 있다",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeUpwQ19Udjc2N1lnNVAtTGVtYlRZUjRGZUNRYmxzUUtacEx3MVdKSE9IVV9xR25vbFBab1hTbHBEcmIwemEwel9BV183Smt6azMwM2dYMkJKM0FkdnFTS1BqODRnWThHaUNURXg1a1FFejlWZFhsMGRVQW1nWWtLQ1ZDdC1uNjdV?oc=5",
-    "published": "Sat, 12 Sep 2026 23:58:35 GMT",
-    "fetched_at": "2026-09-13 11:07:37",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "에너지",
-      "방산",
-      "항공",
-      "해운",
-      "원자재"
-    ],
-    "keywords": [
-      "이스라엘",
-      "전쟁",
-      "지정학",
-      "유가",
-      "중동"
-    ],
-    "reason": "중동 지역의 지정학적 위험 고조는 국제 유가 급등 및 전반적인 시장 불확실성을 증폭시켜 글로벌 증시 하방 압력으로 작용할 수 있습니다.",
-    "action_point": "에너지 및 방산 섹터에 대한 투자 비중을 점검하고, 안전자산(금, 달러) 보유 확대를 고려하십시오."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "트럼프 \"이란 전쟁, 11월 중간선거 직후 끝나\" - 연합뉴스TV",
-    "title_ko": "트럼프 \"이란 전쟁, 11월 중간선거 직후 끝나\" - 연합뉴스TV",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xc1pZcGtKVjVwS0RWb1ZVTkpkUW5JWGRxYkR1OVBNbjRobFowUTNQNUNwRjFyaFZ1WXlweWtVMjJOZlNraFdWanJUVzJqQllLYkdaYUZfWTVwZnhha1FFQUJkR2pWTzg?oc=5",
-    "published": "Sat, 12 Sep 2026 23:35:00 GMT",
-    "fetched_at": "2026-09-13 11:07:27",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "원자재(에너지)",
-      "방산"
-    ],
-    "keywords": [
-      "트럼프",
-      "이란",
-      "중동",
-      "지정학",
-      "선거",
-      "유가"
-    ],
-    "reason": "트럼프 전 대통령의 발언은 11월 중간선거 이후 이란과의 갈등 종식 가능성을 시사하나, 구체적인 근거와 시기가 불분명하여 즉각적인 시장 영향보다는 중장기적인 지정학적 리스크 완화 기대로 해석될 수 있습니다.",
-    "action_point": "중동 지정학적 리스크 완화 가능성을 고려하여 에너지 및 방산 관련 포트폴리오의 비중 및 리스크 헤지 전략을 재점검하십시오."
   }
 ]
