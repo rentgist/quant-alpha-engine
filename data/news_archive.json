@@ -1,5 +1,106 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "트럼프 반대에도 금리 인상‥'인플레 전쟁' 선언한 미국 연준 - MBC 뉴스",
+    "title_ko": "트럼프 반대에도 금리 인상‥'인플레 전쟁' 선언한 미국 연준 - MBC 뉴스",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBkZHRoR0NXUUFiN250YjB1ek1oOHNXV3BmTjZ1dmI1SW4yQVRpckVrSWtZNV9icDdDLUpjTURzQ1d6bllFXzFzb1BuRk5sZjRxMExhVzRYTGVYZzBWV1ZLUlR2UF9hOG5SNFp3ZzZWcVM1bjlOQnQ4aNIBeEFVX3lxTFBuV3VVbFcxQ0Z3VXRRaTVZUkwzcmJnd0pyeTJBcl9pUFNCR2NSTzZfZkFERFJZcTBEZUlTMDVjbkM4RlEya3AzZHZ5ZkpMLXhQWlNUT0VhNWxRc1pERzhQZzVCc3BNQ1F0cWZlckktalUzNnNSMXJxSA?oc=5",
+    "published": "Thu, 17 Sep 2026 10:46:12 GMT",
+    "fetched_at": "2026-09-18 05:45:57",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "주식시장 전반",
+      "성장주",
+      "부동산",
+      "금융"
+    ],
+    "keywords": [
+      "미국 연준",
+      "금리 인상",
+      "인플레이션",
+      "긴축",
+      "달러 강세"
+    ],
+    "reason": "미국 연준의 강력한 금리 인상 의지는 고금리 환경의 장기화를 예고하며, 이는 글로벌 유동성 축소와 달러 강세를 유발해 위험 자산 전반에 하방 압력을 가할 것입니다.",
+    "action_point": "고금리 환경 지속에 대비하여 성장주 및 고부채 기업 비중을 축소하고 달러 자산 보유를 유지하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "이 대통령 \"중동 위기, 에너지 전환 큰 장애\" - 연합뉴스TV",
+    "title_ko": "이 대통령 \"중동 위기, 에너지 전환 큰 장애\"",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wdEU4RWp3VUY1RGVienJTcDNhcmFKYW0wanY5T2ViRmZyTzkwMk4zNnNMS1dxOVJIR29DWV9HV0VrSXlsSWxiT3FlZ2hXQlBoSGZJcXBXLTFMcEhCcmZKS0UwZS16QlU?oc=5",
+    "published": "Thu, 17 Sep 2026 12:10:00 GMT",
+    "fetched_at": "2026-09-18 05:46:08",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "신재생에너지",
+      "방위산업",
+      "원자재",
+      "산업재"
+    ],
+    "keywords": [
+      "중동 위기",
+      "에너지 전환",
+      "에너지 가격",
+      "지정학",
+      "인플레이션"
+    ],
+    "reason": "중동 위기 장기화 시 국제 유가 및 천연가스 등 에너지 가격 상승 압력이 지속되어 국내 기업의 생산 비용 증가와 전반적인 인플레이션 우려를 심화시킬 수 있습니다. 이는 에너지 전환 속도를 늦추고 관련 산업의 투자 불확실성을 높입니다.",
+    "action_point": "중동 위기로 인한 에너지 비용 상승 및 지정학적 불확실성에 대비하여 방위산업과 원자재 섹터 비중 확대 검토."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Securitize jumps after regulators greenlight some tokenized U.S. stock trading",
+    "title_ko": "규제 당국이 일부 토큰화된 미국 주식 거래를 승인한 후 Securitize 급등",
+    "link": "https://www.cnbc.com/2026/09/17/securitize-jumps-after-regulators-greenlight-tokenized-us-stocks.html",
+    "published": "Thu, 17 Sep 2026 17:59:51 GMT",
+    "fetched_at": "2026-09-18 05:45:43",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "핀테크",
+      "블록체인",
+      "자본시장"
+    ],
+    "keywords": [
+      "토큰증권",
+      "블록체인",
+      "규제완화",
+      "핀테크"
+    ],
+    "reason": "미국 규제 당국의 토큰화된 주식 거래 승인은 디지털 자산 시장의 제도권 편입과 성장을 가속화하며, 장기적으로 자본시장의 효율성을 증대시킬 잠재력을 시사합니다.",
+    "action_point": "디지털 자산(토큰증권) 관련 핀테크 기업 및 블록체인 인프라 투자 기회 모색"
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "수천 개였던 자폐 원인, 2가지로 좁혔다...자폐 치료제 개발 기대 커져",
+    "title_ko": "수천 개였던 자폐 원인, 2가지로 좁혔다...자폐 치료제 개발 기대 커져",
+    "link": "https://www.mk.co.kr/news/it/12155823",
+    "published": "Fri, 18 Sep 2026 03:00:00 +09:00",
+    "fetched_at": "2026-09-18 05:46:21",
+    "sentiment": "호재",
+    "importance": 2,
+    "sectors": [
+      "제약",
+      "바이오",
+      "헬스케어"
+    ],
+    "keywords": [
+      "자폐",
+      "치료제 개발",
+      "뇌질환",
+      "바이오 연구"
+    ],
+    "reason": "이 연구는 자폐 스펙트럼의 복잡성을 단순화하여 맞춤형 치료제 개발 가능성을 높여, 관련 제약 및 바이오 기업에 장기적인 성장 잠재력을 제공합니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "CNBC_Finance",
     "market": "US",
     "title": "A Chinese AI company just connected its model to Wall Street's leading data providers",
@@ -2865,105 +2966,5 @@
     ],
     "reason": "한국이 중국 투자자 상대 2,600억 원대 국제투자분쟁에서 완전 승소하여 재정적 부담을 회피하고, 향후 유사 분쟁에서 유리한 선례를 확보했다.",
     "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "호르무즈 파병할 때 하더라도 전쟁 끝난 이후에, 다른 나라와 같이 해야 - 프레시안",
-    "title_ko": "호르무즈 파병, '전쟁 종결 후 타국과 연대' 신중론 제기",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qdENkS1M0SXk2dHVVTFg5aUZNMXBvUlNHem9NLUZWQVllLVJEd3NtQmVvamhVUXJmaFJLQ3BxM2ZKaGRrZGVyRDZqQTZaUHh4N2JYbmVFcGtBV3BBeU8tajd0S2NQZFpnYldr?oc=5",
-    "published": "Sun, 13 Sep 2026 00:51:01 GMT",
-    "fetched_at": "2026-09-13 16:48:30",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "중동 지정학",
-      "에너지",
-      "해운",
-      "국방"
-    ],
-    "keywords": [
-      "호르무즈 해협",
-      "파병",
-      "지정학적 리스크",
-      "유가",
-      "안보"
-    ],
-    "reason": "이 기사는 한국의 호르무즈 해협 파병에 대한 신중론을 제시하며, 전쟁 종결 후 타국과의 연대라는 조건을 달아 즉각적인 군사 개입 리스크를 완화한다. 이는 단기적으로 중동발 지정학적 불확실성 증대를 억제하는 요인으로 작용한다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Obama voices caution on AI, urges Democrats to tackle it, NYT says",
-    "title_ko": "오바마 전 대통령, AI에 대한 신중론 표명 및 민주당에 대응 촉구 (NYT 보도)",
-    "link": "https://www.cnbc.com/2026/09/13/obama-voices-caution-on-ai-urges-democrats-to-tackle-it-nyt-says.html",
-    "published": "Sun, 13 Sep 2026 07:01:42 GMT",
-    "fetched_at": "2026-09-13 16:47:40",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "기술주",
-      "인공지능",
-      "반도체"
-    ],
-    "keywords": [
-      "오바마",
-      "AI",
-      "규제",
-      "기술주",
-      "정책"
-    ],
-    "reason": "오바마 전 대통령의 AI에 대한 신중론 표명은 AI 기술에 대한 정치적 및 사회적 관심이 커지고 있음을 시사합니다. 이는 향후 AI 관련 정책 및 규제 논의를 촉발할 수 있으며, 장기적으로 관련 기술 기업에 영향을 미칠 잠재적 요인입니다.",
-    "action_point": "AI 기술 관련 기업 투자 시, 향후 예상되는 규제 강화 움직임이 기업 가치에 미칠 영향을 면밀히 분석하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "물·에너지·AI 경계 허문 국제물주간…대구 물산업 ‘수출·유치’ 성과 - v.daum.net",
-    "title_ko": "물·에너지·AI 경계 허문 국제물주간…대구 물산업 ‘수출·유치’ 성과 - v.daum.net",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE81QVJuWDB3ZXJ4Ul9LeE9sZjBkN0puV3FPdmdHSGRhUDR3ejc5SVNESl9jRU1CNWNpVDBtTFR1SldONFVBOE5Pc3JjYUJJWkE?oc=5",
-    "published": "Sun, 13 Sep 2026 05:32:00 GMT",
-    "fetched_at": "2026-09-13 16:48:17",
-    "sentiment": "호재",
-    "importance": 2,
-    "sectors": [
-      "물산업",
-      "스마트시티",
-      "친환경 에너지"
-    ],
-    "keywords": [
-      "물산업",
-      "대구",
-      "수출",
-      "AI",
-      "에너지"
-    ],
-    "reason": "대구 국제물주간의 수출 및 유치 성과는 국내 물산업, 스마트시티, 친환경 에너지 관련 기업의 성장 모멘텀을 강화하며, 관련 기술 융합의 긍정적 추세를 시사한다.",
-    "action_point": "국내 물산업 및 스마트시티 관련 기술 기업의 투자 매력도 검토."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "[부동산 손품노트] \"부동산 입지 판도를 바꾼다\" 교통망 100가지 사실 대해부",
-    "title_ko": "[부동산 손품노트] \"부동산 입지 판도를 바꾼다\" 교통망 100가지 사실 대해부",
-    "link": "https://www.mk.co.kr/news/realestate/12151406",
-    "published": "Sun, 13 Sep 2026 16:32:10 +09:00",
-    "fetched_at": "2026-09-13 16:49:10",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "부동산",
-      "건설"
-    ],
-    "keywords": [
-      "부동산",
-      "입지",
-      "교통망",
-      "대출 규제",
-      "세금"
-    ],
-    "reason": "이 기사는 부동산 시장의 장기적인 입지 변화 요인(교통망)과 단기적인 정책 변동성(대출, 세금)을 분석하여 부동산 투자 의사결정의 핵심 축을 제시합니다.",
-    "action_point": "교통망 개선이 확정된 지역의 장기 투자 가능성을 검토하고, 향후 부동산 대출 및 세금 정책 변화에 대비한 포트폴리오 조정 시나리오를 수립하라."
   }
 ]
