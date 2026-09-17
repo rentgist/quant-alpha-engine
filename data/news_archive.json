@@ -1,5 +1,50 @@
 [
   {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Here are five key takeaways from Wednesday's Fed rate hike",
+    "title_ko": "수요일 연준 금리 인상 발표의 핵심 시사점",
+    "link": "https://www.cnbc.com/2026/09/16/here-are-five-key-takeaways-from-wednesdays-fed-rate-hike.html",
+    "published": "Wed, 16 Sep 2026 21:23:51 GMT",
+    "fetched_at": "2026-09-17 11:28:15",
+    "sentiment": "중립",
+    "importance": 5,
+    "sectors": [
+      "기술주",
+      "부동산",
+      "금융주"
+    ],
+    "keywords": [
+      "연준",
+      "금리 인상",
+      "통화 정책",
+      "긴축"
+    ],
+    "reason": "예상된 연준의 금리 인상은 시장에 이미 선반영되었을 가능성이 높지만, 지속적인 긴축 기조를 확인시켜 차입 비용 증가 및 경제 성장 둔화 압력을 유지할 것입니다.",
+    "action_point": "지속적인 고금리 환경에 대비하여 성장주 비중 축소 및 현금/단기 채권 비중 확대를 검토하십시오."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[속보] 재경위, 이형일 경제부총리 후보자 청문보고서 가결 - 연합뉴스TV",
+    "title_ko": "재경위, 이형일 경제부총리 후보자 청문보고서 가결",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBfNXNJOGRBMXFvMFEyLVQ5dzM1WkFzRGlESFRlamdsaUtMV0ZaWVRHeVFnbE5Zc29EOE00eWVHMUJKZFphaktrMUNJWVJWOENyYTZJdjVCcnBxQjh5N0N5b1RYemtJZTQ?oc=5",
+    "published": "Thu, 17 Sep 2026 00:45:00 GMT",
+    "fetched_at": "2026-09-17 11:28:34",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "거시경제 전반"
+    ],
+    "keywords": [
+      "경제부총리",
+      "정부 인선",
+      "경제 정책"
+    ],
+    "reason": "이형일 경제부총리 후보자의 청문보고서 가결은 정부 경제팀 구성의 순조로운 진행을 의미하며, 정책 불확실성 해소에 기여하나 시장에 미치는 직접적 영향은 제한적이다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "GoogleNews_Korea",
     "market": "KR",
     "title": "美 세계경제 지배력 '흔들'...달러는 줄이고 금은 '사수' - v.daum.net",
@@ -2904,56 +2949,5 @@
     ],
     "reason": "트럼프의 이란 전쟁 종료 및 유가 급락 발언은 지정학적 긴장 완화와 에너지 비용 하락 가능성을 제시하여 글로벌 인플레이션 압력 완화 및 경기 회복 기대감을 높일 수 있다. 다만, 발언의 실현 가능성은 매우 낮아 추세적 영향보다는 단기 변동성 요인으로 작용할 가능성이 크다.",
     "action_point": "유가 하락 수혜 업종(항공, 해운, 소비재 등) 투자 포트폴리오 편입 가능성 검토."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "“세금 폭탄은 피하고 보자”…‘2주택자’ 비율 3년 전 수준으로",
-    "title_ko": "“세금 폭탄은 피하고 보자”…‘2주택자’ 비율 3년 전 수준으로",
-    "link": "https://www.mk.co.kr/news/realestate/12151165",
-    "published": "Sat, 12 Sep 2026 21:05:16 +09:00",
-    "fetched_at": "2026-09-12 22:16:08",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "부동산",
-      "건설",
-      "금융"
-    ],
-    "keywords": [
-      "부동산",
-      "세금",
-      "양도소득세",
-      "대출규제",
-      "다주택자"
-    ],
-    "reason": "세제 강화 및 대출 규제로 인해 다주택자 매물이 증가하며 국내 부동산 시장에 단기적인 하방 압력으로 작용할 수 있으며, 관련 소비 심리에도 영향을 미칠 것입니다.",
-    "action_point": "국내 부동산 익스포저를 재평가하고, 필요시 관련 자산 비중 축소를 검토하며 건설 및 금융 섹터 투자에 주의하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Tehran won’t surrender to the U.S., Iranian President Pezeshkian says, as India's Modi urges dialogue and peace",
-    "title_ko": "이란 페제시키안 대통령, '미국에 굴복하지 않을 것' 표명...인도 모디 총리는 대화와 평화 촉구",
-    "link": "https://www.cnbc.com/2026/09/12/iran-us-israel-war-india-brics.html",
-    "published": "Sat, 12 Sep 2026 08:44:39 GMT",
-    "fetched_at": "2026-09-12 18:48:29",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "방산",
-      "해운"
-    ],
-    "keywords": [
-      "이란",
-      "미국",
-      "이스라엘",
-      "지정학적 리스크",
-      "중동",
-      "원유"
-    ],
-    "reason": "이란의 대미/대이스라엘 강경 입장은 중동 지역의 지정학적 불안감을 지속시키며, 이는 국제 유가 및 에너지 시장에 불확실성을 가중시킬 것입니다.",
-    "action_point": "중동 지정학적 긴장감 지속에 따른 유가 상승 압력 및 에너지 섹터 변동성에 대비하고, 방산 관련주에 대한 관심을 유지하라."
   }
 ]
