@@ -2,6 +2,31 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "CNBC Daily Open: Trump's tariff leverage, EU warning and Iran hopes",
+    "title_ko": "CNBC 데일리 오픈: 트럼프의 관세 지렛대, EU 경고, 이란 희망",
+    "link": "https://www.cnbc.com/2026/09/18/trump-iran-canada-europe-tariffs-hormuz-ai-palatir-.html",
+    "published": "Fri, 18 Sep 2026 01:40:15 GMT",
+    "fetched_at": "2026-09-18 11:14:03",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "무역 관련 섹터",
+      "기술 섹터",
+      "산업재 섹터"
+    ],
+    "keywords": [
+      "트럼프",
+      "관세",
+      "미중 무역분쟁",
+      "인도",
+      "통상 압력"
+    ],
+    "reason": "미국 의회가 트럼프에게 중국과 인도를 겨냥한 새로운 관세 카드를 부여하면서, 향후 글로벌 무역 분쟁 심화 가능성이 커졌다. 이는 공급망 교란 및 기업 실적 악화 우려를 증폭시키며 세계 경제 불확실성을 높일 것이다.",
+    "action_point": "트럼프 재집권 및 통상 마찰 심화에 대비하여 중국 및 인도 의존도가 높은 아시아 수출 기업과 기술/제조업 섹터 비중 축소를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "Anthropic shares 3 metrics to help AI companies monitor pace of development",
     "title_ko": "앤트로픽, AI 기업의 개발 속도 모니터링을 위한 3가지 지표 공유",
     "link": "https://www.cnbc.com/2026/09/17/anthropic-shares-3-metrics-to-help-ai-companies-monitor-development.html",
@@ -2946,25 +2971,5 @@
     ],
     "reason": "미국이 이란과의 장기 소모전에 돌입할 것이라는 전망은 중동 지정학적 리스크를 장기화하고, 국제유가 상승 압력 및 글로벌 공급망 불안정을 심화시켜 전반적인 투자심리 위축을 야기합니다. 이는 안전자산 선호 심리를 강화하고 위험자산에 부정적으로 작용할 수 있습니다.",
     "action_point": "에너지 및 국방 섹터 투자 비중 확대를 검토하고, 달러 등 안전자산 보유를 유지하십시오."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "정부, 중국인 투자자와 국제투자분쟁 최종 승소…모두 방어 - 연합뉴스TV",
-    "title_ko": "정부, 중국인 투자자와 국제투자분쟁 최종 승소…모두 방어 - 연합뉴스TV",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9jTGc0NzFMc24xUmR2RTZEcEcxS081ZVdHUkw2dHZfMkdxaXZ3YV9qeG85NG9qQW5nZHBucmtrZEdBMlNxRE9XWG9qS1dvYUEtbnVXRE0yUlRCaEE4R0JkcmlFNXlsUDQ?oc=5",
-    "published": "Sun, 13 Sep 2026 06:30:00 GMT",
-    "fetched_at": "2026-09-13 16:47:56",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [],
-    "keywords": [
-      "국제투자분쟁",
-      "ISD",
-      "정부",
-      "법적 안정성"
-    ],
-    "reason": "한국 정부가 중국인 투자자와의 국제투자분쟁(ISD)에서 최종 승소하여 잠재적 재정 부담을 방어하고 국가의 법적 안정성을 입증했다. 이는 한국 투자 환경에 대한 외국인 투자자 신뢰 유지에 긍정적으로 작용할 수 있다.",
-    "action_point": "해당 없음"
   }
 ]
