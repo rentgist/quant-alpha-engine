@@ -2,6 +2,366 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "Trump administration advances $24.3 billion fighter jet deal to Saudi Arabia as Houthis escalate attacks",
+    "title_ko": "트럼프 행정부, 후티 반군 공격 고조 속 사우디에 243억 달러 전투기 판매 추진",
+    "link": "https://www.cnbc.com/2026/09/18/trump-saudi-arabia-f-35-houthis-iran-war.html",
+    "published": "Fri, 18 Sep 2026 07:37:42 GMT",
+    "fetched_at": "2026-09-18 16:45:41",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "방산",
+      "해운"
+    ],
+    "keywords": [
+      "중동 지정학",
+      "사우디아라비아",
+      "후티 반군",
+      "바벨만뎁 해협",
+      "국제 유가",
+      "방산 산업"
+    ],
+    "reason": "중동 지역의 지정학적 긴장이 고조되며 핵심 해상 운송로인 바벨만뎁 해협의 안보 위협이 커져 국제 유가 상승 압력과 해운 물류 불안정을 야기할 수 있습니다.",
+    "action_point": "중동 지정학적 리스크 심화에 따른 국제 유가 상승 및 방산 섹터 수혜 가능성을 고려하여 관련 자산 비중 확대를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Bank of Japan raises interest rates to 31-year high, flags concerns over inflation",
+    "title_ko": "일본 중앙은행, 31년 만에 금리 인상 단행, 인플레이션 우려 표명",
+    "link": "https://www.cnbc.com/2026/09/18/japan-raises-rates-30-year-high-yen-jgb.html",
+    "published": "Fri, 18 Sep 2026 03:31:45 GMT",
+    "fetched_at": "2026-09-18 16:45:51",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "금융",
+      "수출주",
+      "채권",
+      "부동산"
+    ],
+    "keywords": [
+      "일본 중앙은행",
+      "금리 인상",
+      "인플레이션",
+      "엔화",
+      "통화 정책"
+    ],
+    "reason": "일본 중앙은행의 31년 만의 금리 인상은 글로벌 유동성 축소와 엔화 강세를 촉발하며, 이는 일본을 넘어 아시아 전체의 통화 및 자산 시장에 변동성을 확대시킬 수 있습니다.",
+    "action_point": "엔화 변동성 확대에 대비하여 일본 관련 투자 자산 비중을 점검하고, 글로벌 유동성 축소에 따른 금리 민감 자산에 대한 보수적 접근을 유지하십시오."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Oil prices fall as Saudi supply hopes outweigh fresh Houthi strikes",
+    "title_ko": "사우디 공급 확대 기대감에 유가가 하락, 후티 반군의 추가 공격 영향 상쇄",
+    "link": "https://www.cnbc.com/2026/09/18/oil-prices-today-brent-wti-saudi-arabia-houthi.html",
+    "published": "Fri, 18 Sep 2026 01:35:38 GMT",
+    "fetched_at": "2026-09-18 16:45:59",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "항공/해운",
+      "화학",
+      "소비재"
+    ],
+    "keywords": [
+      "유가",
+      "사우디 공급",
+      "지정학적 위험 완화",
+      "인플레이션"
+    ],
+    "reason": "이 뉴스는 글로벌 원유 공급 차질 우려 완화와 인플레이션 압력 감소 가능성을 시사하여 전반적인 경제 활동과 에너지 다소비 기업들의 마진에 긍정적인 영향을 미칠 수 있습니다.",
+    "action_point": "항공, 해운, 화학 등 에너지 다소비 섹터의 투자 비중 확대를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Stock futures are little changed after Thursday's post-Fed bounce: Live updates",
+    "title_ko": "연준 반등 이후 목요일 주식 선물 소폭 변동: 실시간 업데이트",
+    "link": "https://www.cnbc.com/2026/09/17/stock-market-today-live-updates.html",
+    "published": "Fri, 18 Sep 2026 05:30:15 GMT",
+    "fetched_at": "2026-09-18 16:46:09",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "주식 시장 전반",
+      "금리 민감 섹터"
+    ],
+    "keywords": [
+      "연준 금리 인상",
+      "주식 선물",
+      "시장 반응",
+      "통화 정책"
+    ],
+    "reason": "연준의 3년 만의 첫 금리 인상 이후 시장이 초기 반등세를 보인 뒤 숨고르기에 들어간 상황. 이는 인상분이 선반영되었거나 정책 불확실성 해소로 해석될 수 있으나, 향후 긴축 속도에 대한 경계심도 내포.",
+    "action_point": "금리 인상 기조에 맞춰 성장주 비중을 점진적으로 축소하고 가치주 및 방어적 섹터로의 포트폴리오 재편을 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Why Japan’s markets flipped the usual script after central bank rate hike",
+    "title_ko": "일본 중앙은행 금리 인상 후 시장이 통념과 반대로 움직인 이유",
+    "link": "https://www.cnbc.com/2026/09/18/japan-rate-hike-stocks-rise-bond-yields-yen-fall.html",
+    "published": "Fri, 18 Sep 2026 07:40:29 GMT",
+    "fetched_at": "2026-09-18 16:46:23",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "일본 수출",
+      "글로벌 주식",
+      "외환"
+    ],
+    "keywords": [
+      "일본은행",
+      "금리 인상",
+      "엔화 약세",
+      "닛케이",
+      "도비쉬 하이킹",
+      "수출 기업"
+    ],
+    "reason": "일본은행의 금리 인상에도 불구하고 시장은 엔화 약세와 국채 금리 하락으로 반응했으며, 이는 시장이 이번 인상을 '도비쉬'하게 해석하거나 추가 긴축이 제한적일 것으로 예상하고 있음을 보여준다. 이는 일본 수출 기업에 호재이며, 글로벌 유동성에도 긍정적인 영향을 미칠 수 있다.",
+    "action_point": "엔화 약세 기조 유지 가능성이 높아 일본 수출주 투자 매력을 재평가하고, 엔 캐리 트레이드 확산에 따른 글로벌 위험 자산 투자 심리 변화를 활용하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Bitcoin is set to hit a key level by next year as fiscal worries prop up the cryptocurrency: VanEck",
+    "title_ko": "VanEck: 재정 우려 속 기관 투자 유입으로 비트코인 내년 핵심 수준 도달 예상",
+    "link": "https://www.cnbc.com/2026/09/18/bitcoin-cryptocurrency-forecast-vaneck.html",
+    "published": "Fri, 18 Sep 2026 06:59:20 GMT",
+    "fetched_at": "2026-09-18 16:46:32",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "암호화폐",
+      "금융"
+    ],
+    "keywords": [
+      "비트코인",
+      "기관 투자",
+      "재정 우려",
+      "대체 자산"
+    ],
+    "reason": "기관 투자자들의 비트코인 매수 증가는 전통 금융 시스템의 재정적 불안감을 반영하며, 이는 암호화폐에 대한 장기적인 자금 유입과 글로벌 자산 배분 변화를 가속화할 수 있다.",
+    "action_point": "포트폴리오 내 비트코인 등 주요 암호화폐 자산 편입 비중 확대를 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[속보] 이 대통령 “전쟁 파병 없다…불관여·불개입 원칙 지킬 것” [이 대통령 기자회견] - 경향신문",
+    "title_ko": "[속보] 이 대통령 “전쟁 파병 없다…불관여·불개입 원칙 지킬 것” [이 대통령 기자회견] - 경향신문",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9EdmJlcU9yelNxRHU4XzRLSEFzdHVtSmNmalExOGRvd05jUF9KVlgyVWtKUlRadjJzdFpkS3pKeDdqaE1DY1JNejBveVl5YlZIN1Y1Y1AwMWdwZw?oc=5",
+    "published": "Fri, 18 Sep 2026 02:19:00 GMT",
+    "fetched_at": "2026-09-18 16:47:04",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "전반적 시장",
+      "국방",
+      "에너지"
+    ],
+    "keywords": [
+      "이 대통령",
+      "전쟁",
+      "파병",
+      "불개입",
+      "지정학적 리스크",
+      "외교 정책"
+    ],
+    "reason": "이 대통령의 전쟁 불개입 및 파병 불가 원칙 천명은 대한민국의 지정학적 리스크를 완화하고, 불확실성 감소로 인해 국내 경제 및 금융 시장의 안정성을 높이는 데 긍정적인 영향을 미친다.",
+    "action_point": "대한민국 자산의 지정학적 리스크 프리미엄 완화 효과를 고려하여 국내 증시 투자 비중을 유지하거나 소폭 확대 검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "이 대통령 “전쟁 파병은 없어…북미 대화 ‘패싱’ 우려 안 해도 돼” - v.daum.net",
+    "title_ko": "이 대통령 “전쟁 파병은 없어…북미 대화 ‘패싱’ 우려 안 해도 돼”",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1FRHRCZVZmazVLVFZDNmVyUnFKSWUwNGVlOC14QTAyRnE5Mk45SUNTOXk1azdzVW5RUlhPYUNCTlRka1RjOFhRYzJwX1VsWDA?oc=5",
+    "published": "Fri, 18 Sep 2026 02:15:14 GMT",
+    "fetched_at": "2026-09-18 16:47:33",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "국내 증시 전반"
+    ],
+    "keywords": [
+      "지정학적 리스크",
+      "한반도 안정",
+      "북미 관계",
+      "국방"
+    ],
+    "reason": "이 대통령의 발언은 대한민국의 직접적인 전쟁 개입 가능성을 부인하고 북미 관계에서 한국이 소외되지 않을 것이라는 점을 시사하여 지정학적 불안감을 완화한다. 이는 국내 증시의 지정학적 리스크 프리미엄을 낮추고 투자심리 개선에 긍정적으로 작용할 수 있다.",
+    "action_point": "지정학적 리스크 완화에 따른 국내 주식 비중 유지 또는 확대 검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[속보] 李 “전쟁개입 파병은 없다…청해부대 활동 강화는 검토” - joongang.co.kr",
+    "title_ko": "[속보] 李 “전쟁개입 파병은 없다…청해부대 활동 강화는 검토” - joongang.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5GSmc3TnpaR3ZiSnJaODd5OEV6Q1JHSFdHQWNFbGFfV0VVZlBZeURtek5kNWdiVG5IWFItMFdOODZ5ZDdERElpMDRpMDFXQ2ZzY1RvSnF3?oc=5",
+    "published": "Fri, 18 Sep 2026 02:16:30 GMT",
+    "fetched_at": "2026-09-18 16:46:46",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "해운",
+      "방산"
+    ],
+    "keywords": [
+      "전쟁개입",
+      "파병",
+      "청해부대",
+      "해상안보"
+    ],
+    "reason": "한국 정부가 직접적인 전쟁 개입을 지양함으로써 국내 경제의 지정학적 리스크를 완화한다. 청해부대 활동 강화 검토는 해상 무역로 안정에 긍정적이나, 즉각적인 시장 영향은 제한적이다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "이 대통령 “전쟁 관여·개입 파병은 없다…청해부대 강화는 고심” - 한겨레",
+    "title_ko": "이 대통령 “전쟁 관여·개입 파병은 없다…청해부대 강화는 고심”",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5DX3NoTVVJX2tsM3dwTlVnZVRtVjNYX1BSUDlpWGhJXzc2VFB1ZWdVNTBYelEyTnl2SmZkN2J2RmM5V2hsQ21Ia0J3aE1ud0pZSXR6WFUxQjg5UmFWVEM4NXBKdndIRHpZQkJzVjZZbjNwY2Zh?oc=5",
+    "published": "Fri, 18 Sep 2026 06:37:00 GMT",
+    "fetched_at": "2026-09-18 16:46:55",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "국방/방산"
+    ],
+    "keywords": [
+      "이 대통령",
+      "전쟁",
+      "파병",
+      "청해부대",
+      "국방",
+      "지정학"
+    ],
+    "reason": "대통령의 발언은 한국이 현재 진행 중인 분쟁에 직접적으로 관여하거나 파병하지 않을 것임을 재확인하며, 이는 한국 자산에 대한 지정학적 리스크 프리미엄을 완화하는 요인으로 작용합니다. 청해부대 강화 검토는 국방력 강화에 대한 의지를 시사하나, 특정 안보 위협이나 경제적 기회로 해석되기에는 이릅니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "이 대통령 \"연임 생각 전혀...전쟁 파병은 없을 것\" - YTN",
+    "title_ko": "이 대통령 \"연임 생각 전혀...전쟁 파병은 없을 것\"",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ieGpFUnNyMHIzNjdZb0JhdjZRV1pEUkRNREVMVFo1SDZCYm1qOGRHSTV3R0FLVkl4Wms3eGRYb2dUdkVJNTZVWkxKQnZveUVodEZLZXNjamRJX1piTkE?oc=5",
+    "published": "Fri, 18 Sep 2026 03:51:00 GMT",
+    "fetched_at": "2026-09-18 16:47:14",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "시장 전반"
+    ],
+    "keywords": [
+      "대통령",
+      "외교",
+      "국방",
+      "지정학적 리스크",
+      "안보"
+    ],
+    "reason": "이 대통령의 전쟁 파병 불가 발언은 국내 시장의 잠재적 지정학적 리스크를 완화하여 전반적인 투자 심리 안정에 기여할 수 있습니다. 연임 관련 발언은 정치적 이슈로 직접적인 시장 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "李대통령 \"전쟁 개입 파병은 없다…국민안전 강화 부분은 검토\" - 연합뉴스",
+    "title_ko": "李대통령 \"전쟁 개입 파병은 없다…국민안전 강화 부분은 검토\"",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ROHRQMFFiMTI1RGtZYVpFREk5aDlmWTNMazJFRGRPN0wtNGZSWGFnQ1N2ZWxGdUN2YWlYbnNvUDB0aFNRaHlPeU9uWGgtcThwRTdveHNNbnhaNEnSAWBBVV95cUxQT1NDSzA0al90UFA2eFBHLVBkczFYMmtXQndUQWhOdTFaMGNsQnJVV0tqOEdRVDljUzVSeEpJNDBVbXR1RnJvZjBCTDhURzI1ZG95THc4TWpRX0NXN25FYXc?oc=5",
+    "published": "Fri, 18 Sep 2026 02:29:33 GMT",
+    "fetched_at": "2026-09-18 16:47:22",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [],
+    "keywords": [
+      "이대통령",
+      "전쟁 개입",
+      "파병",
+      "국민안전",
+      "대외정책"
+    ],
+    "reason": "대통령이 해외 전쟁에 대한 군사 개입 및 파병 계획이 없음을 명확히 밝힘으로써 대외 불확실성을 완화하는 한편, 국내 국민 안전 강화에 집중하겠다는 의지를 표명했다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "자원 위기로부터 국민 일상 보호! - 전체 | 카드/한컷 | 멀티미디어 - korea.kr",
+    "title_ko": "자원 위기로부터 국민 일상 보호!",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNTg3OHZPa1Y5N3RHanh2WHhGNXNZTWlmNmNRTTJZWHdZWlJNdnNhTlJyRVZQMTFLZy1FMU1BQ0VhNlVtMHdJdFZqdUlvakJUd1cwVFU2eXE5NURyOW5iMDN4QTBxVzZtMng1Z0JqeHI3bGxpNjdfSXRKUkswMlM2cW5udUpLSmJ5aHZF?oc=5",
+    "published": "Fri, 18 Sep 2026 03:44:40 GMT",
+    "fetched_at": "2026-09-18 16:47:42",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "에너지",
+      "산업재",
+      "유틸리티",
+      "소비재"
+    ],
+    "keywords": [
+      "자원 위기",
+      "에너지 안보",
+      "물가 안정",
+      "정부 정책"
+    ],
+    "reason": "이 기사는 정부가 잠재적 자원 위기에 대비하여 국민 생활 안정을 위한 정책적 노력을 기울일 것임을 시사한다. 이는 향후 에너지 수급 안정화 및 물가 관리를 위한 정책 방향에 영향을 줄 수 있다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "민희진, 웃었다…‘아일릿 뉴진스 표절’ 손배소 승소",
+    "title_ko": "민희진, 웃었다…‘아일릿 뉴진스 표절’ 손배소 승소",
+    "link": "https://www.mk.co.kr/news/society/12156592",
+    "published": "Fri, 18 Sep 2026 16:31:39 +09:00",
+    "fetched_at": "2026-09-18 16:48:04",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "엔터테인먼트"
+    ],
+    "keywords": [
+      "민희진",
+      "뉴진스",
+      "아일릿",
+      "표절",
+      "지적재산권",
+      "엔터테인먼트 소송"
+    ],
+    "reason": "본 소송 결과는 엔터테인먼트 업계 내 지적재산권 분쟁의 한 단락을 마무리 지었으나, 거시경제나 주요 투자 자산(주식, 금리, 환율 등)에는 직접적인 영향이 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "추석 차례상 비용 30만원 육박…어디서 사야 제일 쌀까",
+    "title_ko": "추석 차례상 비용 30만원 육박…어디서 사야 제일 쌀까",
+    "link": "https://www.mk.co.kr/news/society/12156587",
+    "published": "Fri, 18 Sep 2026 16:22:43 +09:00",
+    "fetched_at": "2026-09-18 16:48:22",
+    "sentiment": "악재",
+    "importance": 2,
+    "sectors": [
+      "농수산물",
+      "유통",
+      "소비재"
+    ],
+    "keywords": [
+      "추석",
+      "물가",
+      "농산물",
+      "소비자물가"
+    ],
+    "reason": "악천후로 인한 농산물 가격 급등은 추석 차례상 비용 상승으로 이어져 가계 소비 여력에 부담을 주고, 전반적인 소비자 물가 상승 압력으로 작용할 수 있습니다.",
+    "action_point": "농산물 및 식료품 관련 소비재 섹터 기업들의 원가 부담과 가격 전가 능력을 주시하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "CNBC Daily Open: Trump's tariff leverage, EU warning and Iran hopes",
     "title_ko": "CNBC 데일리 오픈: 트럼프의 관세 지렛대, EU 경고, 이란 희망",
     "link": "https://www.cnbc.com/2026/09/18/trump-iran-canada-europe-tariffs-hormuz-ai-palatir-.html",
@@ -2601,375 +2961,5 @@
     ],
     "reason": "트럼프의 발언은 이란과 관련된 중동 지정학적 긴장 완화 가능성을 시사하며, 이는 유가 하방 압력으로 작용하여 글로벌 경제에 긍정적 영향을 미칠 수 있습니다.",
     "action_point": "원유 관련 포트폴리오를 점검하고 유가 하락 수혜 업종 비중 확대를 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[에너지경제 여론조사] 李지지율 33.8%, 최저치 경신… 민주 36.1% 국힘 42.1% - 에너지경제신문",
-    "title_ko": "[에너지경제 여론조사] 李지지율 33.8%, 최저치 경신… 민주 36.1% 국힘 42.1%",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9fZnVkUjdtOFZia0VZOW82UTRTWGtGVTZSY19KTG9Eb2szZmZ4YVNhYWhvOExqR0dEV2JkY3N0MTNGcVk4SHQ2OGc4WmRPd3lkUUE2Um0xMGpUWUE?oc=5",
-    "published": "Sun, 13 Sep 2026 21:00:00 GMT",
-    "fetched_at": "2026-09-14 08:50:53",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "국내 주식 시장"
-    ],
-    "keywords": [
-      "여론조사",
-      "지지율",
-      "국내 정치"
-    ],
-    "reason": "이 뉴스는 국내 주요 정치인 및 정당의 지지율 변화를 보여주는 여론조사 결과로, 즉각적인 시장 정책 변화를 야기하지 않으므로 투자 자산에 미칠 실질적인 영향은 제한적이다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "트럼프 \"이란 전쟁, 중간선거 직후 끝날 것\" - 연합뉴스TV",
-    "title_ko": "트럼프 \"이란 전쟁, 중간선거 직후 끝날 것\"",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4bVA0ZmkxQkJlWmlDWlZNN29lZHVVU09CN0taOTJ2azZZZDl1QkFLV1IycEdvNEg2RHpucDZ6UVJfeXZMQTFHUVJKUTFYQm5BbHF2Q3ZkVVRhZHlyczljZm9ZS1ZRRVk?oc=5",
-    "published": "Sun, 13 Sep 2026 20:45:00 GMT",
-    "fetched_at": "2026-09-14 06:56:27",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "방산",
-      "해운"
-    ],
-    "keywords": [
-      "트럼프",
-      "이란",
-      "전쟁",
-      "지정학",
-      "유가"
-    ],
-    "reason": "트럼프 전 대통령의 이란 전쟁 관련 발언은 중동 지역의 지정학적 불확실성을 고조시키며, 향후 유가 변동성 확대 및 글로벌 투자 심리 위축을 야기할 수 있습니다.",
-    "action_point": "중동 지정학적 리스크 심화 가능성에 대비, 에너지 및 방산 섹터 비중을 재검토하고 유가 변동성 확대에 유의하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "이란 대통령, 전쟁발발후 처음으로 UAE 아부다비 왕세자와 회담 - 연합뉴스",
-    "title_ko": "이란 대통령, 전쟁발발후 처음으로 UAE 아부다비 왕세자와 회담",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZaXZWTFlTMWRhV3hkZEk3QmZpbDRQNUpyenRTYkxYcUN2TG9vNHVNUEhIVDVjSkFiVEktd3ZjNnNISnB6NEpNSjc2c2NNRVVIV2RyNE16MWpVMmPSAWBBVV95cUxPTGFURk82TlJxajFtamhFVjcybmhKbGpZbDNqRVZ5Sl9rQk84T3p6MHFiTjJWREU5QzJkWmtEaFkzaFgteXo4X2tpdDVVRzJMNS0yR0FKRTktSmk1X1A0TUg?oc=5",
-    "published": "Sun, 13 Sep 2026 15:17:32 GMT",
-    "fetched_at": "2026-09-14 06:57:58",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "원자재",
-      "에너지",
-      "해운",
-      "항공"
-    ],
-    "keywords": [
-      "이란",
-      "UAE",
-      "중동",
-      "외교",
-      "지정학",
-      "유가"
-    ],
-    "reason": "이란과 UAE 간의 고위급 회담은 중동 지역의 지정학적 긴장 완화 및 외교적 해결 노력의 신호로 해석될 수 있습니다. 이는 글로벌 원유 공급망의 불확실성을 일부 해소하고 리스크 프리미엄을 낮출 가능성이 있습니다.",
-    "action_point": "중동 리스크 완화 기조에 따른 유가 변동성을 고려하여 원유 관련 자산 보유 비중을 재검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "트럼프 \"중간 선거 전후로 이란 전쟁 끝날 것\" - YTN",
-    "title_ko": "트럼프 \"중간 선거 전후로 이란 전쟁 끝날 것\" - YTN",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5rX0VzVUhjQlpyTGwyUEg2RXAyMFJVa3RnSjhZWTBZbXRQRXVSSFhNaDdDcDhIZjEyYWotdkZHdGcyR3Y5eTZPNjh1X190b2pBOWxKcWpJTHNfM3RlbUE?oc=5",
-    "published": "Sun, 13 Sep 2026 16:02:00 GMT",
-    "fetched_at": "2026-09-14 04:07:08",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "방산",
-      "글로벌 증시"
-    ],
-    "keywords": [
-      "트럼프",
-      "이란",
-      "지정학적 위험",
-      "유가",
-      "선거"
-    ],
-    "reason": "트럼프의 이란 전쟁 종식 발언은 중동 지역의 지정학적 긴장 완화 가능성을 시사하며, 이는 국제 유가 안정화 및 글로벌 증시의 리스크 프리미엄 하락에 긍정적으로 작용할 수 있습니다.",
-    "action_point": "국제유가 안정화 가능성에 따라 에너지 관련 투자 전략을 점검하고, 방산주에 대한 신중한 접근을 유지하십시오."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "트럼프 “11월 중간선거 직후 이란 전쟁 끝날 것…어쩌면 그 전에” - 중앙일보",
-    "title_ko": "트럼프 “11월 중간선거 직후 이란 전쟁 끝날 것…어쩌면 그 전에” - 중앙일보",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52SkE2MHdYRFRBWU1QWXpsU3EyaEF2NTBKTjBYQ202WmdwZ0FpSmpIRWhDeHlJbEJWWGdaR2N0Q3RMaHNsLV95RlRnQkhkX3JFZUN2Y05R?oc=5",
-    "published": "Sun, 13 Sep 2026 16:06:01 GMT",
-    "fetched_at": "2026-09-14 04:07:27",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "방산",
-      "외환"
-    ],
-    "keywords": [
-      "트럼프",
-      "이란",
-      "전쟁",
-      "지정학",
-      "유가"
-    ],
-    "reason": "트럼프 전 대통령의 이란 전쟁 종료 언급은 중동 지역의 지정학적 불확실성을 야기하거나 해소할 수 있으며, 글로벌 유가 및 금융 시장의 위험 선호도에 영향을 미칠 잠재력을 가집니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Larry Ellison nixes plan to offload up to $7.5 billion worth of Oracle stock",
-    "title_ko": "래리 앨리슨, 75억 달러 상당 오라클 주식 매각 계획 취소",
-    "link": "https://www.cnbc.com/2026/09/12/larry-ellison-nixes-plan-to-offload-up-to-7point5-billion-worth-of-oracle-stock-.html",
-    "published": "Sat, 12 Sep 2026 17:14:56 GMT",
-    "fetched_at": "2026-09-14 04:06:56",
-    "sentiment": "호재",
-    "importance": 2,
-    "sectors": [
-      "기술",
-      "소프트웨어"
-    ],
-    "keywords": [
-      "래리 앨리슨",
-      "오라클",
-      "주식 매각",
-      "지분",
-      "취소"
-    ],
-    "reason": "오라클 창업주의 대규모 지분 매각 계획 취소는 해당 주식에 대한 잠재적 매도 압력을 제거하고 투자 심리를 개선할 것입니다. 이는 오라클 주가에 긍정적인 영향을 미칠 수 있습니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Vessel struck in Strait of Hormuz, UKMTO says, as prospects for U.S.-Iran diplomacy appear elusive",
-    "title_ko": "호르무즈 해협서 선박 피격, UKMTO 발표…美-이란 외교 난항 예고",
-    "link": "https://www.cnbc.com/2026/09/13/vessel-struck-strait-of-hormuz-ukmto.html",
-    "published": "Sun, 13 Sep 2026 13:38:23 GMT",
-    "fetched_at": "2026-09-14 01:47:37",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "해운"
-    ],
-    "keywords": [
-      "호르무즈 해협",
-      "유가",
-      "지정학적 리스크",
-      "미국-이란 관계",
-      "해운 보험료"
-    ],
-    "reason": "호르무즈 해협 피격은 중동 지역의 지정학적 불안정을 심화시키며, 원유 공급 차질 우려를 증대시켜 국제 유가 상승 압력을 가할 것입니다. 이는 전반적인 인플레이션 압력과 글로벌 경기 둔화 가능성을 높이는 요인입니다.",
-    "action_point": "원유 가격 상승 압력에 대비하여 에너지 및 원자재 관련 자산의 비중 확대를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Anthropic's Amodei says China presents 'toughest dilemma' for his proposed AI slowdown",
-    "title_ko": "Anthropic의 Amodei, 제안된 AI 개발 속도 둔화에 대해 중국이 '가장 어려운 딜레마' 제시",
-    "link": "https://www.cnbc.com/2026/09/13/china-dilemma-ai-slowdown-anthropic.html",
-    "published": "Sun, 13 Sep 2026 16:39:24 GMT",
-    "fetched_at": "2026-09-14 01:47:46",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "인공지능(AI)",
-      "반도체"
-    ],
-    "keywords": [
-      "인공지능",
-      "AI",
-      "중국",
-      "지정학"
-    ],
-    "reason": "Anthropic CEO의 AI 개발 속도 둔화 제안은 AI 산업의 안전 및 규제 필요성을 강조하지만, 중국과의 지정학적 딜레마는 글로벌 AI 기술 경쟁이 지속될 것임을 시사한다. 이는 기술 디커플링 우려를 증폭시킨다.",
-    "action_point": "AI 및 반도체 섹터 투자 시 지정학적 리스크와 기술 디커플링 가능성에 대한 포트폴리오 노출도를 점검하라."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "NFL and midterm elections set up prediction markets for a critical fall season",
-    "title_ko": "NFL과 중간선거, 중요한 가을 시즌을 위한 예측 시장을 부각시키다",
-    "link": "https://www.cnbc.com/2026/09/13/nfl-and-midterms-mark-key-fall-season-for-prediction-markets.html",
-    "published": "Sun, 13 Sep 2026 11:52:33 GMT",
-    "fetched_at": "2026-09-14 01:47:27",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "금융"
-    ],
-    "keywords": [
-      "예측 시장",
-      "미국 선거",
-      "정보 집약"
-    ],
-    "reason": "이 기사는 NFL 시즌과 미국 대통령 선거 등 주요 이벤트를 예측하는 시장의 부상을 다루며, 이는 정보 분석의 중요성을 시사하나, 투자 포트폴리오에 미치는 직접적인 거시 경제적 영향은 제한적입니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Goldman picks China healthcare stocks for a post-AI trade",
-    "title_ko": "골드만삭스, 'AI 이후' 투자 테마로 중국 헬스케어 주식 지목",
-    "link": "https://www.cnbc.com/2026/09/13/goldman-picks-china-healthcare-stocks-for-a-post-ai-trade.html",
-    "published": "Sun, 13 Sep 2026 11:54:40 GMT",
-    "fetched_at": "2026-09-13 21:57:00",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "헬스케어",
-      "중국 주식"
-    ],
-    "keywords": [
-      "골드만삭스",
-      "중국",
-      "헬스케어",
-      "AI",
-      "실적 성장"
-    ],
-    "reason": "골드만삭스가 중국 기업들의 5년래 최고 실적 성장을 언급하며 중국 경제 회복 기대감을 높였고, AI 이후 테마로 헬스케어 섹터를 지목해 해당 섹터로의 자금 유입을 촉진할 수 있습니다.",
-    "action_point": "중국 헬스케어 섹터의 포트폴리오 편입 및 비중 확대를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "China's Xi urges BRICS nations to work towards peace in the Middle East",
-    "title_ko": "시진핑 주석, 브릭스 국가들에 중동 평화 위해 노력 촉구",
-    "link": "https://www.cnbc.com/2026/09/13/chinas-xi-urges-brics-peace-middle-east.html",
-    "published": "Sun, 13 Sep 2026 09:41:53 GMT",
-    "fetched_at": "2026-09-13 21:57:20",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "원자재",
-      "지정학"
-    ],
-    "keywords": [
-      "중동",
-      "평화",
-      "시진핑",
-      "BRICS",
-      "지정학",
-      "유가"
-    ],
-    "reason": "중국 시진핑 주석의 중동 평화 촉구는 역내 지정학적 긴장 완화 가능성을 시사하며, 이는 원자재 시장 특히 유가에 대한 지정학적 리스크 프리미엄을 낮출 수 있습니다. 이란의 주요 교역국인 중국의 발언은 사안의 무게를 더합니다.",
-    "action_point": "중동 지정학적 리스크 완화 가능성에 따른 원유 관련 자산의 지정학적 프리미엄 축소 여부 주시."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Xi says China will take lead to foster AI, tech cooperation among BRICS countries",
-    "title_ko": "시진핑, 브릭스 국가 간 AI 및 기술 협력 주도할 것 발표",
-    "link": "https://www.cnbc.com/2026/09/13/china-xi-ai-tech-brics.html",
-    "published": "Sun, 13 Sep 2026 11:17:12 GMT",
-    "fetched_at": "2026-09-13 21:57:29",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "인공지능",
-      "기술",
-      "반도체",
-      "소프트웨어",
-      "신흥국 시장"
-    ],
-    "keywords": [
-      "시진핑",
-      "중국",
-      "브릭스",
-      "인공지능",
-      "기술 협력",
-      "신흥국"
-    ],
-    "reason": "중국의 브릭스 국가 AI 및 기술 협력 주도 선언은 신흥국 내 AI 산업 성장을 촉진하고, 관련 기술 및 인프라 기업에 새로운 기회를 제공할 수 있습니다.",
-    "action_point": "신흥국 시장의 AI 및 기술 인프라 구축 관련 국내외 수혜 기업을 선별하여 투자 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Iran and UAE back joint BRICS statement urging restraint in war",
-    "title_ko": "이란과 UAE, 전쟁 자제 촉구하는 BRICS 공동 성명 지지",
-    "link": "https://www.cnbc.com/2026/09/13/iran-and-uae-back-joint-brics-statement-urging-restraint-in-war.html",
-    "published": "Sun, 13 Sep 2026 10:38:08 GMT",
-    "fetched_at": "2026-09-13 21:57:38",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "에너지"
-    ],
-    "keywords": [
-      "이란",
-      "UAE",
-      "BRICS",
-      "전쟁 자제",
-      "지정학"
-    ],
-    "reason": "이란과 UAE를 포함한 BRICS 국가들의 전쟁 자제 촉구는 중동 지역 지정학적 긴장 완화에 대한 기대감을 일부 높여 국제 유가 안정에 긍정적으로 작용할 수 있습니다.",
-    "action_point": "국제유가 추가 하락 가능성에 대비하여 에너지 섹터 익스포저 재검토"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[속보] 당정 \"추석 전 역대 최대 수준 성수품 공급…할인 한도 없앨것\" - 연합뉴스TV",
-    "title_ko": "당정 \"추석 전 역대 최대 수준 성수품 공급…할인 한도 없앨것\"",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBBT3ZaQVRFX294bXo3eTc0ZEhGU2ROU0hHV3ZsM1E1aGRKUGVHUWNibF9OU0w4U0dqbkNyN3lGMWhpWFBsQkt1NDJFVzVsT2lHTG5pV25zc3I2X0J3YU9fN1BJUXpCRHc?oc=5",
-    "published": "Sun, 13 Sep 2026 09:29:00 GMT",
-    "fetched_at": "2026-09-13 21:57:46",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "유통",
-      "소비재",
-      "식품"
-    ],
-    "keywords": [
-      "당정",
-      "추석",
-      "성수품",
-      "물가안정",
-      "할인"
-    ],
-    "reason": "정부의 추석 성수품 물가 안정 대책은 단기적으로 특정 소비재/유통 섹터의 판매를 촉진하고 명절 기간 소비자 물가 상승 압력을 완화할 것이다. 그러나 거시 경제 전반의 방향성을 바꿀 정도의 영향은 제한적이다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "\"이란전쟁, 2029년까지는 간다\"...미국, 장기 소모전 돌입 - YTN",
-    "title_ko": "이란전쟁, 2029년까지는 간다\"...미국, 장기 소모전 돌입",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1mNHR3bTFEMHh3RFhncHI4aGx3V1RrNzEtQndxNkdJaUF2WnMwZHVzekpjOHpSVVpTV1NrRUNsdEtvR3BtSDBMQmFuYnZ3U2VaeW1rRXRwNm9Mblc2V1E?oc=5",
-    "published": "Sun, 13 Sep 2026 05:08:00 GMT",
-    "fetched_at": "2026-09-13 16:47:47",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "에너지",
-      "국방",
-      "해운",
-      "보험",
-      "글로벌 증시"
-    ],
-    "keywords": [
-      "이란",
-      "미국",
-      "전쟁",
-      "지정학",
-      "유가",
-      "소모전",
-      "안전자산"
-    ],
-    "reason": "미국이 이란과의 장기 소모전에 돌입할 것이라는 전망은 중동 지정학적 리스크를 장기화하고, 국제유가 상승 압력 및 글로벌 공급망 불안정을 심화시켜 전반적인 투자심리 위축을 야기합니다. 이는 안전자산 선호 심리를 강화하고 위험자산에 부정적으로 작용할 수 있습니다.",
-    "action_point": "에너지 및 국방 섹터 투자 비중 확대를 검토하고, 달러 등 안전자산 보유를 유지하십시오."
   }
 ]
