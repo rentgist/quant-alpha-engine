@@ -1,5 +1,55 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Flames, smoke seen near Riyadh airport; Houthis claim attacks on Saudi capital",
+    "title_ko": "리야드 공항 인근 화염과 연기 목격, 후티 반군 사우디 수도 공격 주장",
+    "link": "https://www.cnbc.com/2026/09/19/flames-smoke-seen-near-riyadh-airport-houthis-claim-attacks.html",
+    "published": "Sat, 19 Sep 2026 22:13:28 GMT",
+    "fetched_at": "2026-09-20 08:49:51",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "방산",
+      "항공",
+      "원자재"
+    ],
+    "keywords": [
+      "사우디",
+      "후티 반군",
+      "지정학적 리스크",
+      "유가",
+      "중동"
+    ],
+    "reason": "중동 지역의 지정학적 긴장이 고조되고 있으며, 주요 산유국인 사우디 수도에 대한 공격은 유가 변동성 확대 및 지역 리스크 프리미엄 상승으로 이어질 수 있다.",
+    "action_point": "원유, 천연가스 등 에너지 관련 자산 비중 확대를 검토하고, 방산 관련주에 대한 투자 기회를 모색하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "유엔총회 이어 미중 정상회담…이란전쟁 출구·AI 안전장치 주목 - v.daum.net",
+    "title_ko": "유엔총회 이어 미중 정상회담…이란전쟁 출구·AI 안전장치 주목",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE02ZlZoZ3RxV1Z5NzZwUF9iTHkwckFZZ2tIWDk0N2h6MGhnYk5aMXZhcmx4Qjhzb1pwdjE3NldkSzRqNFlvMTNOcmhzN3ZDaUU?oc=5",
+    "published": "Sat, 19 Sep 2026 23:07:10 GMT",
+    "fetched_at": "2026-09-20 08:51:46",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "기술"
+    ],
+    "keywords": [
+      "미중 정상회담",
+      "지정학",
+      "이란",
+      "AI 규제",
+      "국제안보"
+    ],
+    "reason": "미중 정상회담은 이란 전쟁 관련 지정학적 리스크 관리 및 AI 기술 안전장치 마련을 논의하며 글로벌 불확실성을 줄이는 데 기여할 수 있으나, 구체적인 합의 여부는 미지수입니다.",
+    "action_point": "미중 정상회담에서 이란전쟁 출구 논의 진전으로 유가 안정화 가능성 부각 시, 에너지 섹터 관련 포지션 축소를 검토하라."
+  },
+  {
     "source": "GoogleNews_Korea",
     "market": "KR",
     "title": "\"AI 오판 탓에 전쟁 날 뻔\"...미중 정상 '속도조절' 논의 - YTN",
@@ -2891,53 +2941,5 @@
     ],
     "reason": "삼성SDS가 앤트로픽의 AI 모델 공급 파트너가 되며 국내 기업의 AI 도입 가속화에 기여하고, IT 서비스 시장 내 삼성SDS의 AI 역량 및 경쟁 우위를 강화할 것으로 예상됩니다.",
     "action_point": "삼성SDS 및 국내 AI 솔루션/서비스 관련 기업의 중장기 성장성을 재평가하고 포트폴리오 비중 확대를 검토."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "8000선도 힘들어 보이는데…박스권 갇힌 코스피, 증권가는 “그래도 더 오른다”",
-    "title_ko": "8000선도 힘들어 보이는데…박스권 갇힌 코스피, 증권가는 “그래도 더 오른다”",
-    "link": "https://www.mk.co.kr/news/stock/12153332",
-    "published": "Tue, 15 Sep 2026 17:07:27 +09:00",
-    "fetched_at": "2026-09-15 17:14:05",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "반도체",
-      "AI 인프라",
-      "은행",
-      "보험"
-    ],
-    "keywords": [
-      "코스피",
-      "박스권",
-      "AI 인프라",
-      "반도체",
-      "분산투자",
-      "은행",
-      "보험"
-    ],
-    "reason": "국내 증시가 박스권에 갇힌 흐름을 보이나 증권가는 추가 상승 여력을 기대하며, 반도체 쏠림 현상 완화와 함께 은행 및 보험 등 가치주로의 분산 투자를 권고하는 시장 분위기다.",
-    "action_point": "반도체 쏠림 완화에 대비하여 은행 및 보험 섹터 등 가치주 비중 확대를 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "시민사회 원로들 \"침략전쟁에 파병이 웬 말‥미국 압력 거부해야\" - MBC 뉴스",
-    "title_ko": "시민사회 원로들 \"침략전쟁에 파병이 웬 말‥미국 압력 거부해야\" - MBC 뉴스",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5KMGpSUkFXWjVydmMyaDBpMTRVc3NkZGQ1N3VpRlhWVHQwcjI1bnMtTDFoemZLbXpvWXNZRmpYOUVIbG1JWkh2eUZFQU1NUzRBWWNBVTQ3XzNHUk84ZDJtYWlUX0tpaWt1b3dXNDRLY3ZnVld1UDRJ0gF3QVVfeXFMTk1fbnB6M3hLY0xta0pQX05ycWdpZmI1akg0b082SXZIdHNUODlLM3VtU244TUVjZDVXOExYSU1tdDBpVmZCLURDT0RMNjFheWFzT0NJY2ZqZFctYWNCcVZaa2UzYTFnN08ya3ZuRlp3MTFIeEZBRTA?oc=5",
-    "published": "Tue, 15 Sep 2026 04:44:59 GMT",
-    "fetched_at": "2026-09-15 17:12:37",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [],
-    "keywords": [
-      "파병",
-      "미국 압력",
-      "지정학",
-      "대외 관계"
-    ],
-    "reason": "시민사회 단체의 파병 반대 입장은 미국과의 잠재적 외교 마찰 가능성을 시사하나, 실제 정책 변화로 이어질지는 미지수이며 즉각적인 시장 영향은 제한적이다.",
-    "action_point": "해당 없음"
   }
 ]
