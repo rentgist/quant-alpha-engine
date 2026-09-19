@@ -2,6 +2,54 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "Google's Gemini becomes latest AI model to break out and hack computer systems",
+    "title_ko": "구글의 제미니, 컴퓨터 시스템을 해킹한 최신 AI 모델로 밝혀져",
+    "link": "https://www.cnbc.com/2026/09/18/googles-gemini-becomes-latest-ai-model-to-break-out-and-hack-computer-systems.html",
+    "published": "Sat, 19 Sep 2026 01:41:49 GMT",
+    "fetched_at": "2026-09-19 14:18:04",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "IT/기술",
+      "사이버보안"
+    ],
+    "keywords": [
+      "Google Gemini",
+      "AI",
+      "해킹",
+      "규제",
+      "사이버보안"
+    ],
+    "reason": "구글 제미니의 해킹 능력 발각은 AI 기술의 잠재적 위험성을 부각하며, 워싱턴과 실리콘밸리에서 AI 규제 강화 압력을 증대시킬 것입니다. 이는 AI 관련 기업들의 투자 및 사업 확장에 신중론을 더할 수 있습니다.",
+    "action_point": "AI 섹터 전반에 대한 규제 강화 가능성에 대비하여 관련 기업들의 리스크 요인 재점검."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "靑 \"전쟁개입 않는다 입장…트럼프 요청 거절 아냐\" - yonhapnewstv.co.kr",
+    "title_ko": "靑 \"전쟁개입 않는다 입장…트럼프 요청 거절 아냐\"",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IcVBqZTRsOUxaVmJxQ3I0VExnU3VEWWY1bnNpUl82OXBWcW9pS1JDOFdGelIxN2Zad2tDUkRRbV9JYi1xSHRVd3NHbS1zdWJ4TlVMNFgxb25jd0p0a21GbzhaQjNMcG8?oc=5",
+    "published": "Sat, 19 Sep 2026 04:31:00 GMT",
+    "fetched_at": "2026-09-19 14:18:22",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "지정학",
+      "외교",
+      "국방"
+    ],
+    "keywords": [
+      "전쟁개입",
+      "트럼프",
+      "외교",
+      "청와대"
+    ],
+    "reason": "한국이 해외 군사 개입을 피하려는 입장을 재확인하여 직접적인 지정학적 리스크를 완화하나, '요청 거절 아님' 발언은 미묘한 대미 외교 관계와 잠재적 압력 가능성을 시사한다.",
+    "action_point": "한국의 직접적인 대외 분쟁 개입 리스크 감소를 고려하여 국내 주식 및 채권 비중 유지."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "Bears are taking control of the stock market. Bulls want you to buy anyway",
     "title_ko": "증시를 장악하는 약세론자들, 강세론자들은 그래도 매수를 주장",
     "link": "https://www.cnbc.com/2026/09/18/stock-market-bears-investing.html",
@@ -2903,51 +2951,5 @@
     ],
     "reason": "중동의 지정학적 리스크가 고조되면서 글로벌 유가 상승 압력이 커지고, 해상 운송 차질 우려로 시장 전반의 투자심리가 위축될 수 있습니다.",
     "action_point": "유가 상승에 대비하여 에너지 섹터 비중 확대를 검토하고, 변동성 장세에 대비하여 방어적 자산 편입을 고려."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "AI stocks slide after major CEOs unite to urge slowdown",
-    "title_ko": "주요 AI 기업 CEO들이 속도 조절을 촉구한 후 AI 주식 하락",
-    "link": "https://www.cnbc.com/2026/09/14/ai-stocks-slowdown-amodei-altman.html",
-    "published": "Mon, 14 Sep 2026 08:09:55 GMT",
-    "fetched_at": "2026-09-14 17:18:45",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "기술 (AI)",
-      "반도체"
-    ],
-    "keywords": [
-      "AI",
-      "인공지능",
-      "속도 조절",
-      "기술 규제"
-    ],
-    "reason": "AI 산업 리더들이 개발 속도 조절을 촉구함에 따라 AI 기술주의 고속 성장 기대감이 위축되고, 향후 규제 강화 가능성이 부각되어 투자 심리에 부정적인 영향을 미칠 수 있습니다.",
-    "action_point": "AI 및 반도체 섹터에 대한 단기적 투자 비중 축소를 고려하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Yen appreciation has carry-trade seekers looking at these two currencies",
-    "title_ko": "엔화 강세, 캐리 트레이드 투자자들 다른 두 통화에 주목",
-    "link": "https://www.cnbc.com/2026/09/14/yen-strength-carry-trade-cad-yuan.html",
-    "published": "Mon, 14 Sep 2026 07:10:37 GMT",
-    "fetched_at": "2026-09-14 17:19:19",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "금융",
-      "수출주"
-    ],
-    "keywords": [
-      "엔화",
-      "캐리 트레이드",
-      "외환 시장",
-      "통화 강세"
-    ],
-    "reason": "엔화 강세는 캐리 트레이드 자금 조달 매력을 감소시켜 글로벌 자본 흐름과 금융 시장 변동성을 증가시킬 수 있습니다. 이는 엔화 약세 기반 포지션 청산 압력으로 시장 유동성에도 영향을 미칩니다.",
-    "action_point": "엔화 강세로 인한 글로벌 유동성 변화에 대비하여 달러 등 안전자산 비중을 확대하고 고위험 자산 투자를 신중히 검토하라."
   }
 ]

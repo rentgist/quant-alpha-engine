@@ -1,43 +1,43 @@
 {
-  "generated_at_kst": "2026-09-19 09:49:57",
+  "generated_at_kst": "2026-09-19 14:19:51",
   "market_as_of": "2026-09-18",
   "method": "daily_return_pct_x_volume_ratio_20d",
   "is_actual_fund_flow": false,
   "records": [
     {
-      "ticker": "SPY",
-      "name": "S&P 500",
-      "pct": NaN,
-      "vol_ratio": 1.5940542050923405,
-      "flow_proxy": NaN
+      "ticker": "SOXX",
+      "name": "Semiconductor",
+      "pct": 2.691202541959761,
+      "vol_ratio": 0.8706555326076948,
+      "flow_proxy": 2.3431103825251576
     },
     {
       "ticker": "QQQ",
       "name": "Nasdaq 100",
-      "pct": NaN,
-      "vol_ratio": 1.5266683691158511,
-      "flow_proxy": NaN
+      "pct": 0.6318737662307147,
+      "vol_ratio": 1.5388148565115574,
+      "flow_proxy": 0.9723367389157345
     },
     {
-      "ticker": "IWM",
-      "name": "Russell 2000",
-      "pct": NaN,
-      "vol_ratio": 1.50236178172567,
-      "flow_proxy": NaN
+      "ticker": "SPY",
+      "name": "S&P 500",
+      "pct": 0.12869590529586056,
+      "vol_ratio": 1.5999797148714492,
+      "flow_proxy": 0.20591083786039396
     },
     {
       "ticker": "RSP",
       "name": "S&P 500 Equal Weight",
-      "pct": NaN,
-      "vol_ratio": 1.0056891019459053,
-      "flow_proxy": NaN
+      "pct": -0.47817930905031975,
+      "vol_ratio": 1.0058756094160044,
+      "flow_proxy": -0.48098890390111426
     },
     {
-      "ticker": "SOXX",
-      "name": "Semiconductor",
-      "pct": NaN,
-      "vol_ratio": 0.858049974245972,
-      "flow_proxy": NaN
+      "ticker": "IWM",
+      "name": "Russell 2000",
+      "pct": -0.4659589413843945,
+      "vol_ratio": 1.508239087481969,
+      "flow_proxy": -0.7027774885576634
     }
   ]
 }
