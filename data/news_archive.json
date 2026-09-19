@@ -1,5 +1,55 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "美, 204일만에 아이슬란드 1년 GDP 태웠다…이란전쟁, 격화 땐 더 불어날 듯 - 문화일보",
+    "title_ko": "美, 204일만에 아이슬란드 1년 GDP 태웠다…이란전쟁, 격화 땐 더 불어날 듯",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE40Ujd6Nk03N2s3SWxPeXIyaWJvY1AtRzlab3M1bTc0LThhbWxTUmJLU1otanJGTTdFaXhIMkY5R2c1alh1V1RmMUdlbHI2RDho?oc=5",
+    "published": "Sat, 19 Sep 2026 18:49:36 GMT",
+    "fetched_at": "2026-09-20 04:05:27",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "방산",
+      "에너지/원자재"
+    ],
+    "keywords": [
+      "미국 국방비",
+      "이란 전쟁",
+      "중동 지정학",
+      "원자재 가격"
+    ],
+    "reason": "중동 내 지정학적 리스크 심화 가능성을 시사하며, 이는 유가 상승 압력 및 글로벌 공급망 불안정을 야기할 수 있습니다. 또한 미국 국방비 지출 증가는 재정 부담 및 인플레이션 우려를 키웁니다.",
+    "action_point": "원자재(유가) 관련 자산 및 방산 섹터 비중 확대 검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "이란 안보수장 \"美에 전쟁 종식 조건 전달…트럼프 답 기다리는중\" - 연합뉴스",
+    "title_ko": "이란 안보수장 \"美에 전쟁 종식 조건 전달…트럼프 답 기다리는중\"",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94akpYY01Cal8zczY4c3VIYWtTRFRnQnRQN2tFcW5JYWgtLUlEdmRkMERXM2QzNDhpSXRCd1JVZGhZS2V3VFJPQXpRNTlYM3AybmhqaHZROUR3QlnSAWBBVV95cUxQdnA4bzY5SERuT0hDYXdyY0tUTzVVMXowMWoxS3Jlb1NubW9OdlBxRVNLOG9oamw2R0ZvNGFFdFl1SFpWVElsMDk1a241NE8xRy0tMF9RZXRPS3NWMHJSUFg?oc=5",
+    "published": "Sat, 19 Sep 2026 16:21:29 GMT",
+    "fetched_at": "2026-09-20 04:05:18",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "방산",
+      "해운",
+      "항공"
+    ],
+    "keywords": [
+      "이란",
+      "미국",
+      "중동",
+      "지정학",
+      "원유",
+      "트럼프"
+    ],
+    "reason": "중동 지정학적 긴장 완화 가능성을 시사하며 국제유가 안정 및 시장 전반의 위험 선호 심리 개선에 기여할 수 있으나, 협상 결과는 아직 불확실하다.",
+    "action_point": "중동 긴장 완화 추이에 따라 유가 하방 압력 및 방산주 변동성 확대에 대비하여 관련 포트폴리오 비중을 조정."
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "Flames reported near Saudi capital airport as Pakistan presses Iran over energy supplies",
@@ -2891,60 +2941,5 @@
     ],
     "reason": "이 기사는 AI 기술의 공공 부문 확산과 정부 행정 혁신의 추세를 보여주며, 이는 장기적으로 관련 IT 서비스 및 AI 솔루션 시장의 성장을 지지합니다. 다만, 개별 스타트업의 사례로 거시경제에 미칠 즉각적인 영향은 제한적입니다.",
     "action_point": "해당 없음"
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "“건물이 건강을 돌본다고?”…삼성물산, AI 헬스케어 솔루션 ‘웰피’ 론칭",
-    "title_ko": "“건물이 건강을 돌본다고?”…삼성물산, AI 헬스케어 솔루션 ‘웰피’ 론칭",
-    "link": "https://www.mk.co.kr/news/realestate/12153333",
-    "published": "Tue, 15 Sep 2026 17:08:19 +09:00",
-    "fetched_at": "2026-09-15 17:13:51",
-    "sentiment": "호재",
-    "importance": 2,
-    "sectors": [
-      "건설",
-      "IT 서비스",
-      "헬스케어",
-      "부동산"
-    ],
-    "keywords": [
-      "삼성물산",
-      "AI 헬스케어",
-      "웰니스 솔루션",
-      "스마트 빌딩",
-      "디지털 헬스"
-    ],
-    "reason": "삼성물산의 AI 웰니스 솔루션 출시는 건설 및 부동산 섹터에 스마트 기술 접목 가속화를 시사하며, AI 및 헬스케어 기술 융합 시장의 성장을 촉진할 수 있습니다. 이는 장기적으로 관련 기업들의 신사업 기회 확대에 긍정적입니다.",
-    "action_point": "스마트 빌딩 및 AI 헬스케어 관련 기술주 신규 투자 기회 모색"
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "China's August retail sales miss forecast while investment slump deepens, piling pressure on Beijing",
-    "title_ko": "중국 8월 소매 판매 예상치 하회, 투자 부진 심화로 베이징 압박 가중",
-    "link": "https://www.cnbc.com/2026/09/15/china-august-retail-sales-industrial-output-investment-exports-.html",
-    "published": "Tue, 15 Sep 2026 02:12:26 GMT",
-    "fetched_at": "2026-09-15 11:30:38",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "소비재",
-      "산업재",
-      "건설",
-      "화학",
-      "IT 하드웨어",
-      "반도체"
-    ],
-    "keywords": [
-      "중국 경제",
-      "소매 판매",
-      "산업 생산",
-      "투자",
-      "경기 둔화",
-      "디플레이션"
-    ],
-    "reason": "중국의 소비와 투자가 부진하여 경기 둔화 우려가 심화되었으며, 산업 생산은 견조했으나 수급 불균형 경고는 구조적 문제와 디플레이션 압력을 시사합니다. 이는 중국 경제의 회복 동력이 약해지고 있음을 나타냅니다.",
-    "action_point": "중국 내수 부진과 경기 둔화 우려에 따라 대중국 수출 비중이 높은 국내 기업 및 원자재 관련 자산 비중 축소 검토"
   }
 ]
