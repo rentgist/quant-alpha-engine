@@ -1,5 +1,127 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "AI 가짜 보고에…\"미·중 전쟁 시작될 뻔\" - 연합뉴스TV",
+    "title_ko": "AI 가짜 보고에…\"미·중 전쟁 시작될 뻔\"",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5OMWdOZnM1Z21BUldRcTRLVjNwbFNNVTlRczFLRExZUURIVVZKMUZrYmo1OUhwcERxUEV1NmM2bXZaMDdDSnBCUi0tUkFKUU1PY2dhaDN2QUlLQm95U09STDF4MEhwYzA?oc=5",
+    "published": "Sat, 19 Sep 2026 05:40:00 GMT",
+    "fetched_at": "2026-09-19 19:00:35",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "방산",
+      "AI",
+      "글로벌 경제",
+      "원자재"
+    ],
+    "keywords": [
+      "AI",
+      "미중 갈등",
+      "가짜 정보",
+      "지정학적 리스크",
+      "안전자산"
+    ],
+    "reason": "AI로 인한 허위 정보가 미중 간 군사적 충돌 직전까지 이어질 수 있음을 보여주며, 글로벌 지정학적 불확실성과 AI 기술의 오용 위험을 크게 부각한다.",
+    "action_point": "미중 지정학적 리스크 헤지를 위해 달러 및 금 등 안전자산 비중을 확대하고, 방산 및 사이버 보안 섹터 투자를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "A new arms race is unfolding on the ocean floor",
+    "title_ko": "해저에서 새로운 군비 경쟁이 펼쳐지고 있다",
+    "link": "https://www.cnbc.com/2026/09/19/underwater-war-sea-drones-defense-tech.html",
+    "published": "Sat, 19 Sep 2026 05:00:01 GMT",
+    "fetched_at": "2026-09-19 18:58:08",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "방산",
+      "해양 기술",
+      "사이버 보안"
+    ],
+    "keywords": [
+      "해저 군비 경쟁",
+      "핵심 인프라",
+      "지정학적 위험",
+      "방산 기술"
+    ],
+    "reason": "해저 핵심 인프라의 취약성에 대한 우려가 커지면서 국가 간 해저 기술 경쟁이 심화되고 있으며, 이는 지정학적 리스크와 방산 및 해양 보안 기술 투자를 증가시킬 것입니다.",
+    "action_point": "지정학적 긴장 고조에 대비하여 방산 및 해저 보안 기술 관련 기업들의 투자 기회를 모색하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Defense firm Anduril says U.S. delay on Taiwan arms sales affecting its business",
+    "title_ko": "방산업체 앤두릴, 미국 대만 무기 판매 지연이 사업에 영향 미친다고 밝혀",
+    "link": "https://www.cnbc.com/2026/09/19/anduril-says-us-delay-on-taiwan-arms-sales-affecting-its-business.html",
+    "published": "Sat, 19 Sep 2026 09:05:24 GMT",
+    "fetched_at": "2026-09-19 18:59:44",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "방위 산업",
+      "반도체"
+    ],
+    "keywords": [
+      "대만",
+      "미국",
+      "방위 산업",
+      "무기 판매",
+      "지정학"
+    ],
+    "reason": "미국의 대만 무기 판매 지연은 방위산업에 부정적 영향을 미치며, 이는 대만을 둘러싼 미-중 지정학적 관계의 미묘한 변화 가능성 또는 공급망 문제를 시사합니다.",
+    "action_point": "대만 관련 지정학적 리스크에 노출된 반도체 등 자산의 변동성 확대에 대비하여 비중 축소 또는 헤지 전략 검토."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "JPMorgan, Citigroup CEOs attending Trump's state dinner for China's Xi: Sources",
+    "title_ko": "JP모건, 씨티그룹 CEO들, 트럼프-시진핑 국빈 만찬 참석 예정: 소식통",
+    "link": "https://www.cnbc.com/2026/09/18/trump-xi-state-dinner-jpmorgan-jamie-dimon.html",
+    "published": "Fri, 18 Sep 2026 17:34:49 GMT",
+    "fetched_at": "2026-09-19 18:59:59",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "금융",
+      "기술",
+      "반도체"
+    ],
+    "keywords": [
+      "미중 관계",
+      "국빈 만찬",
+      "트럼프",
+      "시진핑",
+      "금융",
+      "기술"
+    ],
+    "reason": "미중 최고위층과 핵심 기업 CEO들의 만남은 양국 간 긴장 완화 및 사업 기회 모색의 신호로 해석될 수 있습니다. 이는 특히 금융 및 기술 섹터에 긍정적인 투자 심리를 형성할 여지가 있습니다.",
+    "action_point": "미중 관계 개선 기대감에 따라 금융 및 기술 섹터의 투자 비중 확대를 고려하십시오."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "“푹푹 찌는 여름에 뜨거운 샤브샤브?”…매출 46% 뛴 뜻밖의 이유",
+    "title_ko": "“푹푹 찌는 여름에 뜨거운 샤브샤브?”…매출 46% 뛴 뜻밖의 이유",
+    "link": "https://www.mk.co.kr/news/business/12157160",
+    "published": "Sat, 19 Sep 2026 18:34:37 +09:00",
+    "fetched_at": "2026-09-19 19:02:32",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "외식 산업",
+      "소비재"
+    ],
+    "keywords": [
+      "샤브샤브",
+      "외식 소비 트렌드",
+      "여름철 매출"
+    ],
+    "reason": "특정 외식 브랜드의 여름철 매출 증가는 국내 외식 산업 내 특정 메뉴의 계절성 약화 및 소비 트렌드 변화를 시사합니다. 이는 외식 업계 개별 기업의 실적에 영향을 줄 수 있으나, 거시 경제 전반에 미치는 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "Google's Gemini becomes latest AI model to break out and hack computer systems",
@@ -2824,132 +2946,5 @@
     ],
     "reason": "미국 주요 은행의 투자은행 수수료 대폭 하락 전망은 인수합병, 기업공개 등 자본시장 활동 위축을 시사하며, 이는 금융 섹터 및 성장에 필요한 자금 조달이 어려워지는 고성장 산업 전반에 부정적 영향을 미칠 수 있습니다.",
     "action_point": "글로벌 자본시장 활동 둔화 가능성에 대비하여 국내외 투자은행 및 고성장 기술주 섹터 비중 축소 검토."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Prediction market traders think gas prices will hit new highs for the year",
-    "title_ko": "예측 시장 트레이더들, 유가가 올해 최고치를 경신할 것으로 예상",
-    "link": "https://www.cnbc.com/2026/09/14/prediction-markets-traders-think-gas-prices-will-hit-new-highs-in-2026.html",
-    "published": "Mon, 14 Sep 2026 15:01:19 GMT",
-    "fetched_at": "2026-09-15 00:26:52",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "항공",
-      "운수",
-      "화학",
-      "제조업",
-      "소비재"
-    ],
-    "keywords": [
-      "유가",
-      "인플레이션",
-      "미국-이란 갈등",
-      "지정학적 리스크",
-      "에너지 가격"
-    ],
-    "reason": "미국-이란 갈등 고조로 유가가 배럴당 100달러를 상회하며 인플레이션 압력이 증대되고, 이는 전반적인 소비 및 생산 비용 상승으로 이어져 경제 성장 둔화 우려를 키울 수 있습니다.",
-    "action_point": "에너지 섹터 비중 확대 및 유가 상승에 취약한 운송/항공/제조업 섹터 비중 축소 검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[속보] 트럼프 “AI에 대한 역겨운 음모…中만 기뻐할 것” - 조선비즈 - Chosunbiz",
-    "title_ko": "[속보] 트럼프 “AI에 대한 역겨운 음모…中만 기뻐할 것”",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUk1LZmZRNGNvYlN4Y0pMZkl3UFpmUGRDSV9uVGZqbkROYWJIbVdzeXdCXzdXTm0zTV9pUDJrUk9oajZwbW1fMlFNN0IyWTRkNWZLTUxBRVp0cFUyU2d5RHptR1JhN2IzSWZLWi1BVDZxRlR1ZnBsMG9XWDAzZWcxSUtKWldCaXUyM2RPTmhQNW82MjhWczR6Wlc4d0ZkUdIBsgFBVV95cUxNVWJFMFBiWlppSW9KVHNHRHRTVzYtZlQ0NVNjdlVDRDFVMEE4eHdQTlQyWDlHX25NckhyQVlPeE9JU2Z5UVBTLVFheFRmRFlremFWcXNRdVNwNFVMeWU4VzJud3BVWE5wQnhLVFc0YWlRSEFZaC13QWt2NnQybHd3NnNiVDVERlhuRUtxb2VHdG8zcHU2YVlxSzNIVmN3YTV1TFY3bWxybHNYV3pHdGxTN0d3?oc=5",
-    "published": "Mon, 14 Sep 2026 14:34:00 GMT",
-    "fetched_at": "2026-09-15 00:27:20",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "기술/IT",
-      "반도체",
-      "중국 관련 투자"
-    ],
-    "keywords": [
-      "트럼프",
-      "AI",
-      "미중 갈등",
-      "기술 규제",
-      "반도체"
-    ],
-    "reason": "트럼프의 발언은 향후 AI 기술 및 관련 산업에 대한 미국의 보호주의적 정책 강화와 중국과의 기술 패권 경쟁 심화를 예고합니다. 이는 글로벌 AI 공급망 및 반도체 산업에 불확실성을 가중시키는 요인입니다.",
-    "action_point": "미중 기술 갈등 고조 가능성에 대비하여 AI 및 반도체 관련 미국과 중국 시장 노출도를 재점검하고 포트폴리오 조정을 고려하십시오."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "China says AI CEOs' call for a slowdown is 'fear mongering'",
-    "title_ko": "중국, AI CEO들의 '속도 조절' 요구는 '공포 조장'이라 비난",
-    "link": "https://www.cnbc.com/2026/09/14/china-ai-slowdown-us-tech-ceos.html",
-    "published": "Mon, 14 Sep 2026 13:18:23 GMT",
-    "fetched_at": "2026-09-15 00:27:00",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "인공지능(AI)",
-      "반도체",
-      "IT 소프트웨어"
-    ],
-    "keywords": [
-      "중국",
-      "AI 개발",
-      "기술 경쟁",
-      "오픈소스"
-    ],
-    "reason": "중국이 AI 속도 조절론을 일축하고 개방적 개발을 강조하며, 글로벌 AI 기술 경쟁 심화 및 관련 섹터의 투자 활성화를 시사한다.",
-    "action_point": "AI 관련 기술주 및 반도체 섹터에 대한 포트폴리오 비중 유지 또는 확대 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Microsoft sets limits for future AI models as industry throttles frontier development",
-    "title_ko": "마이크로소프트, 업계의 선도적 AI 개발 속도 조절에 발맞춰 미래 AI 모델에 제한 설정",
-    "link": "https://www.cnbc.com/2026/09/14/microsoft-ai-model-limits-anthropic-openai.html",
-    "published": "Mon, 14 Sep 2026 13:38:03 GMT",
-    "fetched_at": "2026-09-15 00:27:10",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "기술",
-      "반도체",
-      "클라우드 컴퓨팅"
-    ],
-    "keywords": [
-      "AI",
-      "마이크로소프트",
-      "책임 있는 AI"
-    ],
-    "reason": "주요 기술 기업들이 AI 개발에 대한 책임감 있는 접근을 강조하며, 이는 AI 관련 기술주의 과도한 상승을 완화하고 장기적인 산업 안정성에는 긍정적일 수 있습니다.",
-    "action_point": "AI 관련 기술주 중 책임 있는 개발 및 명확한 수익 모델을 가진 기업 위주로 포트폴리오를 재편하십시오."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Iran says it destroys U.S. advanced drone over Hormuz as Middle East conflict intensifies",
-    "title_ko": "이란, 호르무즈 해협 상공에서 미국 첨단 드론 격추 주장... 중동 갈등 격화",
-    "link": "https://www.cnbc.com/2026/09/14/us-iran-trump-hormuz-gulf-oil-crude-talks-.html",
-    "published": "Mon, 14 Sep 2026 07:24:21 GMT",
-    "fetched_at": "2026-09-14 17:18:54",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "에너지",
-      "항공/해운",
-      "방산"
-    ],
-    "keywords": [
-      "이란",
-      "미국",
-      "드론",
-      "호르무즈 해협",
-      "중동",
-      "지정학적 리스크",
-      "유가"
-    ],
-    "reason": "중동의 지정학적 리스크가 고조되면서 글로벌 유가 상승 압력이 커지고, 해상 운송 차질 우려로 시장 전반의 투자심리가 위축될 수 있습니다.",
-    "action_point": "유가 상승에 대비하여 에너지 섹터 비중 확대를 검토하고, 변동성 장세에 대비하여 방어적 자산 편입을 고려."
   }
 ]
