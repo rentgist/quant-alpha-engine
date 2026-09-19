@@ -2,6 +2,102 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "Bears are taking control of the stock market. Bulls want you to buy anyway",
+    "title_ko": "증시를 장악하는 약세론자들, 강세론자들은 그래도 매수를 주장",
+    "link": "https://www.cnbc.com/2026/09/18/stock-market-bears-investing.html",
+    "published": "Fri, 18 Sep 2026 15:47:24 GMT",
+    "fetched_at": "2026-09-19 09:48:12",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "주식시장 전반"
+    ],
+    "keywords": [
+      "투자심리",
+      "약세장",
+      "개인투자자",
+      "시장 변동성"
+    ],
+    "reason": "개인투자자들의 약세 심리가 2025년 5월 이후 최고 수준으로 심화되어 주식 시장 전반에 하방 압력이 커지고 있으며, 이는 단기적인 변동성 확대로 이어질 수 있습니다.",
+    "action_point": "주식 포트폴리오 내 위험 노출을 줄이고 방어적 자산 비중을 확대하는 것을 검토하십시오."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "AI 가짜 보고에 미·중 전쟁 날뻔 - munhwa.com",
+    "title_ko": "AI 가짜 보고에 미·중 전쟁 날뻔",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBhaFVKd0UtYmhKVFBrdkpLaTJoSHZTTVg2MFZkUEJZUXdVNlA4VWVJX0NwbFJ6OGd3d3ZSZ29STUhFQWFHcTVLZFQ5SFF1dWIz?oc=5",
+    "published": "Fri, 18 Sep 2026 22:21:07 GMT",
+    "fetched_at": "2026-09-19 09:48:36",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "기술 섹터",
+      "방위산업",
+      "글로벌 공급망 관련 섹터"
+    ],
+    "keywords": [
+      "인공지능",
+      "미중 관계",
+      "지정학적 리스크",
+      "가짜 정보"
+    ],
+    "reason": "이 뉴스는 인공지능(AI) 기반 가짜 정보가 미중 간 심각한 지정학적 갈등을 유발할 수 있음을 경고한다. 직접적인 충돌은 피했지만, AI의 오용 위험과 국가 안보에 미치는 영향이 커지면서 향후 기술 규제 및 지정학적 불확실성이 증대될 수 있다.",
+    "action_point": "인공지능(AI) 기술 관련 섹터 투자 시 규제 강화 및 지정학적 리스크 노출 여부를 면밀히 분석하여 포트폴리오를 조정하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Elon Musk talks up AI safety while fighting regulation in wild week of strange alliances",
+    "title_ko": "일론 머스크, AI 안전성 강조하며 규제 반대... 기묘한 동맹으로 얼룩진 한 주",
+    "link": "https://www.cnbc.com/2026/09/18/after-decade-of-clashes-in-ai-elon-musk-forging-strange-alliances.html",
+    "published": "Fri, 18 Sep 2026 19:15:24 GMT",
+    "fetched_at": "2026-09-19 09:48:04",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "기술",
+      "반도체",
+      "소프트웨어",
+      "빅테크"
+    ],
+    "keywords": [
+      "AI 규제",
+      "일론 머스크",
+      "인공지능",
+      "기술 거버넌스"
+    ],
+    "reason": "일론 머스크의 AI 규제에 대한 발언은 AI 산업의 향후 발전 방향과 잠재적 규제 리스크를 부각시킨다. 이는 AI 관련 기업들의 장기적 사업 환경과 투자 매력도에 영향을 줄 수 있다.",
+    "action_point": "AI 관련 기술주 투자 시, 강화될 수 있는 AI 규제 리스크를 포트폴리오에 반영하고 관련 기업들의 로비 및 대응 전략을 주시하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Anthropic selects Accenture as first embedded evaluator to help implement Amodei's slowdown proposal",
+    "title_ko": "Anthropic, Amodei의 AI 개발 속도 둔화 제안 이행을 위해 액센츄어를 첫 번째 외부 평가자로 선정",
+    "link": "https://www.cnbc.com/2026/09/18/anthropic-accenture-ai-safety.html",
+    "published": "Fri, 18 Sep 2026 21:37:38 GMT",
+    "fetched_at": "2026-09-19 09:48:21",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "인공지능",
+      "소프트웨어",
+      "기술"
+    ],
+    "keywords": [
+      "Anthropic",
+      "AI 안전",
+      "개발 속도 둔화",
+      "규제 리스크",
+      "인공지능 윤리"
+    ],
+    "reason": "주요 AI 개발사가 자체적으로 AI 개발 속도를 조절하고 안전성을 강화하려는 움직임은 AI 산업의 단기적인 폭발적 성장에 대한 기대감에 제동을 걸 수 있습니다. 이는 향후 정부 규제 도입의 전조가 될 가능성도 내포하고 있습니다.",
+    "action_point": "AI 관련 투자 포트폴리오 내 고성장 AI 기업 비중에 대한 단기적 기대치를 재조정하고 잠재적 규제 리스크를 점검하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "Trump says U.S. to build a 'large Military presence' in Greenland as part of a security deal with it and Denmark",
     "title_ko": "트럼프, 그린란드 및 덴마크와 안보 협정 일환으로 '대규모 군사 주둔' 건설 예정 언급",
     "link": "https://www.cnbc.com/2026/09/18/trump-greenland-denmark-military-deal.html",
@@ -2853,107 +2949,5 @@
     ],
     "reason": "엔화 강세는 캐리 트레이드 자금 조달 매력을 감소시켜 글로벌 자본 흐름과 금융 시장 변동성을 증가시킬 수 있습니다. 이는 엔화 약세 기반 포지션 청산 압력으로 시장 유동성에도 영향을 미칩니다.",
     "action_point": "엔화 강세로 인한 글로벌 유동성 변화에 대비하여 달러 등 안전자산 비중을 확대하고 고위험 자산 투자를 신중히 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "베선트 \"3% 성장시 위기 극복\"…현실서 가능할까? - 연합뉴스",
-    "title_ko": "베선트 \"3% 성장시 위기 극복\"…현실서 가능할까?",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lV0JjeUpqbm45UkdPeFBZYjAxYjR5SElrT01hNVU1VmVRcEFXYTlUczJJSG1qRWRaajJpY3Y5NFFYTldaNlhCSTdhdzRncEFkT29ZbHVZUk9fNFhNdkxQX9IBYEFVX3lxTE1lV0JjeUpqbm45UkdPeFBZYjAxYjR5SElrT01hNVU1VmVRcEFXYTlUczJJSG1qRWRaajJpY3Y5NFFYTldaNlhCSTdhdzRncEFkT29ZbHVZUk9fNFhNdkxQXw?oc=5",
-    "published": "Mon, 14 Sep 2026 00:21:41 GMT",
-    "fetched_at": "2026-09-14 17:19:38",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "경기민감주",
-      "내수 관련주",
-      "금융주"
-    ],
-    "keywords": [
-      "경제 성장률",
-      "경제 위기",
-      "거시 경제",
-      "한국 경제"
-    ],
-    "reason": "국내 경제 성장률 3% 달성의 불확실성을 제기하며 경기 회복 기대감을 약화시키고, 국내 증시 전반의 투자심리에 부정적 영향을 미칠 수 있습니다.",
-    "action_point": "국내 경기민감주 비중 축소 및 방어적 섹터 또는 해외 자산으로의 분산 투자 검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[속보] 코스피, 3.26% 내린 6,684.37 마감 - 연합뉴스TV",
-    "title_ko": "코스피, 3.26% 내린 6,684.37 마감",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2bVIxSlBaVmV6cEw4c04zQVZrQ29JRkpiYXZ4SHpwNlZkNWxtWS1oeUE4RTVHNUZoX3lGUkdlOXJRWFRYaEJkRDl4WDdBODhEVlI0cENsRzhfdDRfeExLYjRfb0psT2c?oc=5",
-    "published": "Mon, 14 Sep 2026 06:58:00 GMT",
-    "fetched_at": "2026-09-14 17:19:58",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "주식 시장 전반"
-    ],
-    "keywords": [
-      "코스피",
-      "주식시장",
-      "하락",
-      "급락",
-      "투자심리"
-    ],
-    "reason": "코스피의 급락은 거시경제 불확실성 증대 및 투자심리 위축을 반영하며, 전반적인 위험회피 심리가 시장에 확산되었음을 의미합니다.",
-    "action_point": "주식 포트폴리오 내 위험 자산 비중 축소 검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[속보] 코스피 6,600대로 하락 마감···\"국제유가 불안·AI 속도조절론\" - 대구MBC",
-    "title_ko": "코스피 6,600대로 하락 마감···\"국제유가 불안·AI 속도조절론\"",
-    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBxQzZOendSOF9yTU52dG9TTnBrVVFlWFYxNFhXTk92cVVuVm1mYnd2bGhJWk9rTjNCemtGNGNhekN5cGs1Q1ByN1NKQTY?oc=5",
-    "published": "Mon, 14 Sep 2026 07:02:45 GMT",
-    "fetched_at": "2026-09-14 17:20:28",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "반도체",
-      "IT",
-      "에너지",
-      "항공",
-      "운송",
-      "화학"
-    ],
-    "keywords": [
-      "코스피",
-      "국제유가",
-      "AI",
-      "기술주",
-      "인플레이션",
-      "시장하락"
-    ],
-    "reason": "코스피 하락은 국제유가 불안으로 인한 인플레이션 압력 및 기업 비용 증가 우려와, AI 산업의 성장 둔화 가능성으로 인한 기술주 전반의 투자 심리 위축이 복합적으로 작용한 결과다.",
-    "action_point": "AI 성장 둔화 가능성에 따라 반도체 및 기술주 비중을 재검토하고, 유가 변동성에 민감한 섹터에 대한 익스포저를 점검하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Anthropic walks tightrope to Nasdaq, pushing for a slowdown while pursuing $2 trillion valuation",
-    "title_ko": "앤트로픽, 2조 달러 기업가치 추구와 동시에 AI 개발 속도 둔화를 추진하며 나스닥 상장 외줄타기",
-    "link": "https://www.cnbc.com/2026/09/14/anthropic-walks-tightrope-to-nasdaq-pushing-slowdown-and-pursuing-ipo.html",
-    "published": "Mon, 14 Sep 2026 04:01:01 GMT",
-    "fetched_at": "2026-09-14 17:19:06",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "기술",
-      "반도체",
-      "벤처 캐피탈/사모펀드"
-    ],
-    "keywords": [
-      "앤트로픽",
-      "AI",
-      "나스닥",
-      "기업가치",
-      "IPO",
-      "기술규제"
-    ],
-    "reason": "Anthropic의 IPO 추진은 AI 산업에 대한 지속적인 투자 열기를 보여주지만, CEO의 AI 개발 속도 둔화 주장은 기술 성장 속도와 규제에 대한 논의를 촉발할 수 있습니다. 이는 AI 관련 기업들의 장기적인 사업 방향성과 투자 심리에 복합적인 영향을 미칠 수 있습니다.",
-    "action_point": "AI 관련 기술주의 단기 고평가 리스크를 점검하고, 장기적인 AI 성장 속도 조절 가능성에 대비한 포트폴리오 조정을 고려하라."
   }
 ]
