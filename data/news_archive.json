@@ -1,5 +1,78 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Flames reported near Saudi capital airport as Pakistan presses Iran over energy supplies",
+    "title_ko": "파키스탄이 이란에 에너지 공급 압박하는 가운데 사우디 수도 공항 인근에서 화염 발생 보고",
+    "link": "https://www.cnbc.com/2026/09/19/riyadh-airport-smoke-saudi-arabia.html",
+    "published": "Sat, 19 Sep 2026 13:48:04 GMT",
+    "fetched_at": "2026-09-20 01:55:27",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "운송",
+      "방산"
+    ],
+    "keywords": [
+      "사우디",
+      "이란",
+      "지정학적 리스크",
+      "유가",
+      "에너지 안보"
+    ],
+    "reason": "사우디 수도 인근 화염 발생 및 파키스탄의 이란 압박은 중동 지역의 지정학적 불안정을 고조시키며, 글로벌 에너지 공급망과 유가에 상승 압력을 가할 수 있습니다.",
+    "action_point": "유가 상승 가능성에 대비하여 에너지 섹터 비중 확대를 검토하고, 안전자산(금, 달러) 보유 여부를 점검하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "눈덩이처럼 불어난 이란전쟁 비용… 美 국방부 “기지 수리비 빼고도 62조원” - 조선비즈 - Chosunbiz",
+    "title_ko": "눈덩이처럼 불어난 이란전쟁 비용… 美 국방부 “기지 수리비 빼고도 62조원”",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQblFSTU51SVFQTkFtYUExQnNIeU01NGpkUE9TR3VER000aVdLZGctZGowMEEwV08tSlEyNUpGY3BCSmZNMldvWnNDV1Vwa294VUJlcHcybHF2LUF0YnU2ek5OV2FCZ1liM0xiS3ZsY2tpbHBzdUdab0c2Wjh2RTBFMmZ4bER0My1zbmRhMDRmNFV0U2tLMlhWNTB5Rlk3Z9IBsgFBVV95cUxNRWdNVHI5bGkxb09IMERsZEVfRGxfeXVmQ2RqSE9EZ2N3eUZGcmN2WUZucUgyNk1oN3lidGxaQnBKb1BpaTJlSVU0c2Q5dmQ0N05RMzh2VFR0ZXU2Y1Z4LXpGUGVjdFZ5Mi1iS0t4ZVQyaUprc3pRaWdzV2F0X09Ja0lpR2ozdXFvMHJtWktGNE9GRlI5a0JJZGFTdTBfMm1XbTVzVEZBOHA0c0RMT3FqNVZn?oc=5",
+    "published": "Sat, 19 Sep 2026 10:40:00 GMT",
+    "fetched_at": "2026-09-20 01:55:50",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "국방/방산",
+      "원자재",
+      "건설",
+      "국채 시장"
+    ],
+    "keywords": [
+      "이란 전쟁 비용",
+      "미국 국방부",
+      "재정 적자",
+      "중동 지정학",
+      "유가"
+    ],
+    "reason": "미국의 중동 관련 군사 비용이 막대하여 미 재정 적자 확대 우려를 키우고, 중동 지역의 지정학적 리스크 지속 가능성을 재확인시켜 유가 등 원자재 시장 변동성을 높일 수 있습니다.",
+    "action_point": "중동 지정학적 리스크 관련 원자재(유가) 포트폴리오 비중 점검 및 미국 국채 수익률 동향을 주시하십시오."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "MS NOW, CNN and Politico journalists blocked from White House after Trump ban",
+    "title_ko": "트럼프 언론 금지령 후 MS NOW, CNN, Politico 기자들 백악관 출입 금지",
+    "link": "https://www.cnbc.com/2026/09/19/trump-media-ban-ms-now.html",
+    "published": "Sat, 19 Sep 2026 16:39:21 GMT",
+    "fetched_at": "2026-09-20 01:55:41",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "미디어"
+    ],
+    "keywords": [
+      "트럼프",
+      "언론 자유",
+      "백악관",
+      "정치적 불확실성"
+    ],
+    "reason": "트럼프 행정부의 언론 통제는 정치적 불확실성을 높이고 민주주의 제도에 대한 우려를 제기하여, 전반적인 시장 심리에 부정적인 영향을 미칠 수 있습니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "GoogleNews_Korea",
     "market": "KR",
     "title": "이란과 전쟁에 62조 원 넘게 쓴 미국…계속 늘어날 듯 - KBS 뉴스",
@@ -2873,77 +2946,5 @@
     ],
     "reason": "중국의 소비와 투자가 부진하여 경기 둔화 우려가 심화되었으며, 산업 생산은 견조했으나 수급 불균형 경고는 구조적 문제와 디플레이션 압력을 시사합니다. 이는 중국 경제의 회복 동력이 약해지고 있음을 나타냅니다.",
     "action_point": "중국 내수 부진과 경기 둔화 우려에 따라 대중국 수출 비중이 높은 국내 기업 및 원자재 관련 자산 비중 축소 검토"
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Stocks making the biggest moves midday: Zscaler, CrowdStrike, Marvell Technology, Rum Group & more",
-    "title_ko": "오전장 가장 큰 변동을 보이는 주식들: Zscaler, CrowdStrike, Marvell Technology, Rum Group 외",
-    "link": "https://www.cnbc.com/2026/09/14/stocks-making-the-biggest-moves-midday-zs-crwd-mrvl-rum.html",
-    "published": "Mon, 14 Sep 2026 18:32:05 GMT",
-    "fetched_at": "2026-09-15 11:30:51",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "기술",
-      "사이버보안",
-      "반도체"
-    ],
-    "keywords": [
-      "주식 변동",
-      "기술주",
-      "사이버보안",
-      "반도체"
-    ],
-    "reason": "이 기사는 주요 기술 및 반도체 관련 기업들의 오전장 주가 변동을 단순히 나열한 것으로, 특정 이슈나 거시경제적 맥락을 제공하지 않아 시장 전반에 미칠 직접적인 영향은 제한적입니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Stocks making the biggest moves premarket: Intel, Marvell, CrowdStrike & more",
-    "title_ko": "개장 전 가장 큰 움직임을 보이는 주식들: 인텔, 마벨, 크라우드스트라이크 외",
-    "link": "https://www.cnbc.com/2026/09/14/stocks-making-the-biggest-moves-premarket-intc-mrvl-crwd.html",
-    "published": "Mon, 14 Sep 2026 12:36:15 GMT",
-    "fetched_at": "2026-09-15 11:31:01",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "반도체",
-      "소프트웨어",
-      "기술주"
-    ],
-    "keywords": [
-      "개장전 움직임",
-      "기술주",
-      "개별 주식"
-    ],
-    "reason": "이 기사는 개장 전 특정 기술 기업 주식의 움직임을 나열할 뿐, 그 원인이나 거시경제적 맥락을 제공하지 않아 시장 전체나 매크로 트렌드에 미치는 직접적인 영향은 제한적입니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Warsh's credibility is on the line this week as Trump policies put pressure on Fed to hike",
-    "title_ko": "트럼프 정책으로 연준의 금리 인상 압박이 가중되는 가운데, 워시의 신뢰성이 이번 주 시험대에 오르다",
-    "link": "https://www.cnbc.com/2026/09/14/warshs-credibility-is-on-the-line-this-week-as-trump-policies-put-pressure-on-fed-to-hike.html",
-    "published": "Mon, 14 Sep 2026 17:26:21 GMT",
-    "fetched_at": "2026-09-15 05:03:29",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "주식",
-      "채권",
-      "외환",
-      "부동산"
-    ],
-    "keywords": [
-      "연준",
-      "금리 인상",
-      "인플레이션",
-      "트럼프 정책"
-    ],
-    "reason": "트럼프 정책발 인플레이션(유가, 관세) 압박으로 연준의 금리 인상 가능성이 높아져, 시장 금리 상승과 달러 강세, 위험자산 전반에 하방 압력을 가할 것입니다.",
-    "action_point": "금리 인상 및 달러 강세에 대비하여 주식 포트폴리오 내 금리 민감 자산 비중을 축소하고 달러 자산 비중 확대를 검토합니다."
   }
 ]
