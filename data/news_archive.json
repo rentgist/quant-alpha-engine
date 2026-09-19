@@ -2,6 +2,77 @@
   {
     "source": "GoogleNews_Korea",
     "market": "KR",
+    "title": "\"AI 오판 탓에 전쟁 날 뻔\"...미중 정상 '속도조절' 논의 - YTN",
+    "title_ko": "AI 오판 탓에 전쟁 날 뻔\"...미중 정상 '속도조절' 논의 - YTN",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAxdmkwQWhkWU5MQkkyczNaTWJHNGhLbzg2d3IyWDNfM3BGYm92RkJ2Z09VMFY0LXJsZlNuNmtPYzN2cEU1ZDVUVzdqREJFTlZVeWZoUUk5WHNDdjJVanc?oc=5",
+    "published": "Sat, 19 Sep 2026 14:09:00 GMT",
+    "fetched_at": "2026-09-20 06:56:50",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "기술",
+      "방산",
+      "글로벌 무역"
+    ],
+    "keywords": [
+      "미중 관계",
+      "AI",
+      "지정학적 리스크",
+      "속도조절"
+    ],
+    "reason": "미중 양국이 AI로 인한 잠재적 갈등 위험을 인지하고 '속도 조절'을 논의하는 것은 지정학적 리스크 관리에 긍정적 신호로 해석될 수 있으며, 극단적인 사태 발생 가능성을 낮춘다.",
+    "action_point": "지정학적 긴장 완화 기조에 주목하며, 방산 섹터의 비중 조정을 고려하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "German general Breuer elected to head top NATO military body",
+    "title_ko": "독일 브로이어 장군, NATO 최고 군사 기구 의장으로 선출",
+    "link": "https://www.cnbc.com/2026/09/19/german-general-breuer-elected-to-head-top-nato-military-body.html",
+    "published": "Sat, 19 Sep 2026 17:44:38 GMT",
+    "fetched_at": "2026-09-20 06:56:41",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "방위산업"
+    ],
+    "keywords": [
+      "NATO",
+      "군사",
+      "리더십",
+      "독일"
+    ],
+    "reason": "NATO 내 최고 군사 기구의 의장 선출은 조직 내부의 리더십 교체이며, 이는 NATO의 기본 전략이나 지정학적 리스크에 즉각적인 변화를 가져오지 않으므로 거시 경제나 시장에 미치는 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "“이제 우럭회 비싸지나요?”…폭염에 아열대어종 갈아타는 양식장",
+    "title_ko": "“이제 우럭회 비싸지나요?”…폭염에 아열대어종 갈아타는 양식장",
+    "link": "https://www.mk.co.kr/news/society/12157249",
+    "published": "Sun, 20 Sep 2026 06:03:05 +09:00",
+    "fetched_at": "2026-09-20 06:57:08",
+    "sentiment": "악재",
+    "importance": 2,
+    "sectors": [
+      "식품",
+      "농업/수산업",
+      "유통"
+    ],
+    "keywords": [
+      "양식업",
+      "기후변화",
+      "수산물 가격",
+      "폭염",
+      "아열대어종"
+    ],
+    "reason": "고수온으로 인한 양식업 피해는 우럭 등 주요 수산물의 가격 상승 압력을 가중시키고, 식료품 물가에 미미하지만 장기적인 영향을 미칠 수 있습니다. 이는 특정 식자재 관련 기업의 비용 증가 요인으로 작용합니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
     "title": "美, 204일만에 아이슬란드 1년 GDP 태웠다…이란전쟁, 격화 땐 더 불어날 듯 - 문화일보",
     "title_ko": "美, 204일만에 아이슬란드 1년 GDP 태웠다…이란전쟁, 격화 땐 더 불어날 듯",
     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE40Ujd6Nk03N2s3SWxPeXIyaWJvY1AtRzlab3M1bTc0LThhbWxTUmJLU1otanJGTTdFaXhIMkY5R2c1alh1V1RmMUdlbHI2RDho?oc=5",
@@ -2867,79 +2938,6 @@
       "대외 관계"
     ],
     "reason": "시민사회 단체의 파병 반대 입장은 미국과의 잠재적 외교 마찰 가능성을 시사하나, 실제 정책 변화로 이어질지는 미지수이며 즉각적인 시장 영향은 제한적이다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "이형일 \"부총리 취임하면 경제팀 수장으로서 조율하고 책임\"(종합) - 연합뉴스",
-    "title_ko": "이형일 \"부총리 취임하면 경제팀 수장으로서 조율하고 책임\"(종합)",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFcWdWT2FtNVF3RjJjRWQ4N1MtUnpyVlRCNmVmMzBiT3Q5UklBdFk1aE1kTVY5LUNuV0pNZGlOV25QVUIwdUdLUEJ6Q0ROeXp4dTl5N3VlNEdJeUFPNkFZZdIBYEFVX3lxTFBFcWdWT2FtNVF3RjJjRWQ4N1MtUnpyVlRCNmVmMzBiT3Q5UklBdFk1aE1kTVY5LUNuV0pNZGlOV25QVUIwdUdLUEJ6Q0ROeXp4dTl5N3VlNEdJeUFPNkFZZQ?oc=5",
-    "published": "Tue, 15 Sep 2026 03:08:02 GMT",
-    "fetched_at": "2026-09-15 17:13:00",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "전반적 경제",
-      "정책 관련주"
-    ],
-    "keywords": [
-      "경제팀",
-      "부총리",
-      "경제정책",
-      "인선"
-    ],
-    "reason": "이형일 차기 부총리 후보자의 언급은 향후 경제팀 운영에 대한 원칙과 방향성을 제시하며, 정책의 연속성 및 안정성에 대한 기대감을 형성할 수 있습니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "주문은 AI가, 결제는 사람이 문자메시지로",
-    "title_ko": "주문은 AI가, 결제는 사람이 문자메시지로",
-    "link": "https://www.mk.co.kr/news/business/12153335",
-    "published": "Tue, 15 Sep 2026 17:10:23 +09:00",
-    "fetched_at": "2026-09-15 17:13:24",
-    "sentiment": "호재",
-    "importance": 2,
-    "sectors": [
-      "인공지능",
-      "IT서비스",
-      "이커머스",
-      "소비재"
-    ],
-    "keywords": [
-      "AI",
-      "쇼핑",
-      "개인화",
-      "자동화",
-      "소비패턴"
-    ],
-    "reason": "이 기사는 AI 기술이 소비자의 구매 행위에 직접적으로 침투하며, AI 기반 서비스의 성장 잠재력을 보여줍니다. 바쁜 현대인의 시간 절약 니즈를 충족시키며 관련 시장 확대를 시사합니다.",
-    "action_point": "AI 기술 및 AI 기반 개인화 서비스 제공 기업에 대한 장기적 투자 관점 유지."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "구글이 픽한 스타트업 자일로 … 영국 정부의 AX 혁신 이끈다",
-    "title_ko": "구글이 픽한 스타트업 자일로 … 영국 정부의 AX 혁신 이끈다",
-    "link": "https://www.mk.co.kr/news/it/12153336",
-    "published": "Tue, 15 Sep 2026 17:10:23 +09:00",
-    "fetched_at": "2026-09-15 17:13:37",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "인공지능",
-      "IT 서비스"
-    ],
-    "keywords": [
-      "구글",
-      "스타트업",
-      "인공지능",
-      "영국 정부",
-      "행정 혁신"
-    ],
-    "reason": "이 기사는 AI 기술의 공공 부문 확산과 정부 행정 혁신의 추세를 보여주며, 이는 장기적으로 관련 IT 서비스 및 AI 솔루션 시장의 성장을 지지합니다. 다만, 개별 스타트업의 사례로 거시경제에 미칠 즉각적인 영향은 제한적입니다.",
     "action_point": "해당 없음"
   }
 ]
