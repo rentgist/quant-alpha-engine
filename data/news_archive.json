@@ -2,6 +2,207 @@
   {
     "source": "GoogleNews_Korea",
     "market": "KR",
+    "title": "트럼프-시진핑 세기의 회담...AI·관세·중동전쟁 놓고 치열한 수싸움 예고 - 서울신문",
+    "title_ko": "트럼프-시진핑 세기의 회담...AI·관세·중동전쟁 놓고 치열한 수싸움 예고",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9nR1k0dmctZzVNbHZYNEpCM3V5alN5OXhsWTZWWkZpQ0xTdGwxa2UzTXpXREdkVFhRS1JxbTI2RndvOFBlZTdkREZfbUtlOVVLc2FUS3ZhUHk1Vnl4R2RJX041dXlJM3c4TTJGSS1qUkFnOWRhWVVV?oc=5",
+    "published": "Sun, 20 Sep 2026 06:22:04 GMT",
+    "fetched_at": "2026-09-20 17:05:01",
+    "sentiment": "중립",
+    "importance": 5,
+    "sectors": [
+      "기술",
+      "반도체",
+      "에너지",
+      "무역"
+    ],
+    "keywords": [
+      "트럼프",
+      "시진핑",
+      "미중 갈등",
+      "관세",
+      "AI",
+      "중동 전쟁",
+      "지정학"
+    ],
+    "reason": "이 회담은 AI 기술 주도권, 무역 관세 갈등, 중동 지역 안정성 등 글로벌 경제와 지정학적 리스크를 결정할 중요한 변곡점이 될 수 있으며, 그 결과에 따라 주요 투자 자산의 변동성이 커질 것이다.",
+    "action_point": "미중 무역 및 기술 갈등 관련 민감 섹터(반도체, IT 하드웨어)의 비중을 조정하고 지정학적 위험 헤지를 위한 방안을 마련하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "AI 가짜 보고에 전쟁날 뻔 했다…미군, 中 선박 폭격 직전 중단 - 중앙일보",
+    "title_ko": "AI 가짜 보고에 전쟁날 뻔 했다…미군, 中 선박 폭격 직전 중단",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2X2w0RDNIWUY0Zm92TkFvY2VQc3BoUlpCVmJMblFPMTI4aDBvQXlBc3IxdmdQOElnNXEwQVNBRTFFQldKQ3A0Nmc1SW5zX0o1VHoyTjhR?oc=5",
+    "published": "Sun, 20 Sep 2026 06:48:21 GMT",
+    "fetched_at": "2026-09-20 17:05:24",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "방산",
+      "기술/AI",
+      "에너지/원자재",
+      "해운/물류"
+    ],
+    "keywords": [
+      "AI",
+      "미중 관계",
+      "지정학적 리스크",
+      "군사",
+      "오류"
+    ],
+    "reason": "AI 오작동으로 인한 미중 군사 충돌 위기 발생은 지정학적 불확실성을 가중시키고, AI 기술의 신뢰성 및 규제 필요성에 대한 논의를 촉발하며 국제 정세 불안정 요소로 작용할 것입니다.",
+    "action_point": "변동성 높은 에너지/원자재 자산 및 AI 관련 규제 리스크 노출 기업에 대한 포트폴리오 비중 조정을 고려하고, 지정학적 헤지 자산 편입을 검토."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "U.S. Treasury's Bessent, China's He to hold talks on AI, trade, critical minerals: Reuters",
+    "title_ko": "미국 재무부 베센트, 중국 허 부총리 AI, 무역, 핵심광물 관련 회담 개최 예정: 로이터",
+    "link": "https://www.cnbc.com/2026/09/20/bessent-chinas-he-to-hold-talks-on-ai-trade-minerals-reuters.html",
+    "published": "Sun, 20 Sep 2026 06:17:46 GMT",
+    "fetched_at": "2026-09-20 17:04:20",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "기술",
+      "반도체",
+      "광업",
+      "배터리",
+      "재생에너지",
+      "제조업",
+      "물류"
+    ],
+    "keywords": [
+      "미국-중국 관계",
+      "AI",
+      "무역",
+      "핵심광물",
+      "지정학",
+      "기술패권"
+    ],
+    "reason": "미국과 중국 고위급 인사의 회담은 양국 간 갈등 완화 또는 심화 여부를 가늠하는 중요한 지표이다. 특히 AI, 무역, 핵심광물은 첨단 산업의 핵심이자 지정학적 경쟁의 주요 전선이므로, 이번 논의 결과가 관련 산업의 공급망 및 투자 환경에 중대한 영향을 미칠 수 있다.",
+    "action_point": "미·중 기술 패권 경쟁에 민감한 AI, 반도체, 핵심광물 관련 섹터의 포트폴리오 비중을 점검하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "'전쟁 파병' 놓고 한·미 엇박자…미 중간선거까지 '수싸움' - 뉴스토마토",
+    "title_ko": "'전쟁 파병' 놓고 한·미 엇박자…미 중간선거까지 '수싸움'",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zWWtVbkNMQU0yTjlmdVdhR0V5ZUNrdUpFMEkxV0hxSF84WldYSVIxbmFEd1JNQWc2M0txY0JLbFlLcGlCbk1OQXd5R1UxX0xoMGR1T05jQUNocDB1WXdJSw?oc=5",
+    "published": "Sun, 20 Sep 2026 07:20:09 GMT",
+    "fetched_at": "2026-09-20 17:05:36",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "방산",
+      "외교안보"
+    ],
+    "keywords": [
+      "한미 관계",
+      "파병",
+      "지정학",
+      "미 중간선거"
+    ],
+    "reason": "한미 간 파병 관련 이견은 동맹 공조의 불확실성을 높여 지정학적 리스크를 키우고, 미 중간선거까지 '수싸움'이 예고되어 국내외 투자 심리에 부정적 영향을 미칠 수 있습니다.",
+    "action_point": "한미 동맹 관련 지정학적 리스크 고조에 대비하여 국내 위험자산 비중 축소 검토 및 방산 섹터의 변동성을 주시."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[속보] 합참 \"북한, 동해상으로 미상 발사체 발사\"…8일 만에 도발 - 연합뉴스TV",
+    "title_ko": "[속보] 합참 \"북한, 동해상으로 미상 발사체 발사\"…8일 만에 도발 - 연합뉴스TV",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9FUHFFQkRTcVBnSDJRa1VUTHZhUkpJYWh1ODFkOU0yZTBVQzNnWmdwRWF5VXJQcXBYTEpDTEM3SVA5ZndseXFTcjA5VUFoaDVfMTQ2cFdkSWVxaFQwTEtEV1M2Y2ZqNGs?oc=5",
+    "published": "Sun, 20 Sep 2026 06:12:00 GMT",
+    "fetched_at": "2026-09-20 17:04:51",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "방산",
+      "관광/레저"
+    ],
+    "keywords": [
+      "북한",
+      "미사일",
+      "지정학적 위험"
+    ],
+    "reason": "북한의 미상 발사체 발사는 한국 증시 및 원화 환율에 단기적인 불확실성과 변동성을 높이는 지정학적 악재입니다. 과거 사례상 영향은 제한적일 수 있으나 투자심리 위축을 야기할 수 있습니다.",
+    "action_point": "달러 자산 비중을 유지하거나 확대하여 지정학적 위험에 대비하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "정비사업 휩쓴 현대건설… 2년 연속 수주 10조 돌파",
+    "title_ko": "정비사업 휩쓴 현대건설… 2년 연속 수주 10조 돌파",
+    "link": "https://www.mk.co.kr/news/realestate/12157498",
+    "published": "Sun, 20 Sep 2026 17:01:35 +09:00",
+    "fetched_at": "2026-09-20 17:05:56",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "건설",
+      "부동산",
+      "건축자재"
+    ],
+    "keywords": [
+      "현대건설",
+      "도시정비사업",
+      "수주",
+      "건설"
+    ],
+    "reason": "현대건설의 2년 연속 도시정비사업 10조원 수주는 해당 기업의 안정적인 실적 가시성을 확보하고, 국내 건설 시장, 특히 정비사업 부문의 견조한 수요를 시사합니다.",
+    "action_point": "건설 대형주 중 도시정비사업 역량이 검증된 기업의 투자 매력을 재검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "France’s wine production nears a 70-year low, leaving winemakers with tough choices",
+    "title_ko": "프랑스 와인 생산량 70년 만에 최저치 근접, 와인 생산자들 어려운 선택에 직면",
+    "link": "https://www.cnbc.com/2026/09/20/france-wine-production-70-year-low-heatwaves-drought.html",
+    "published": "Sun, 20 Sep 2026 05:00:01 GMT",
+    "fetched_at": "2026-09-20 17:04:36",
+    "sentiment": "악재",
+    "importance": 2,
+    "sectors": [
+      "식음료",
+      "농업",
+      "명품"
+    ],
+    "keywords": [
+      "프랑스 와인",
+      "생산량 감소",
+      "기후 변화",
+      "주류 산업"
+    ],
+    "reason": "프랑스 와인 생산량 급감은 전 세계 와인 공급 부족과 가격 상승을 야기할 수 있으며, 이는 관련 주류 및 명품 섹터에 영향을 미칩니다. 장기적으로 기후 변화로 인한 농업 생산의 취약성을 시사합니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "“기후위기 키우는 개발 폭주 멈춰라” - 환경일보",
+    "title_ko": "기후위기 키우는 개발 폭주 멈춰라",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9UWjJnM2hBLVRoMFotN1ZWNTlfcjNfV1V6WFpOcmZvdElwbHEzdklMcnBoM0V4N2I0NjVtRDhPZFB2M3ppTURQLWFkR29IbWNFT0IyQkVDQmNWZDJKYnl2NkplZlNZeDBE?oc=5",
+    "published": "Sun, 20 Sep 2026 06:52:02 GMT",
+    "fetched_at": "2026-09-20 17:05:12",
+    "sentiment": "악재",
+    "importance": 2,
+    "sectors": [
+      "건설",
+      "중공업",
+      "석유화학"
+    ],
+    "keywords": [
+      "기후위기",
+      "개발",
+      "환경규제",
+      "ESG"
+    ],
+    "reason": "이 기사는 기후위기 대응을 위한 개발 정책 변화의 필요성을 강조하며, 향후 환경 규제 강화 및 탄소 비용 증가가 전통적인 개발 및 고탄소 배출 산업에 잠재적 부담으로 작용할 수 있음을 시사합니다.",
+    "action_point": "고탄소 배출 및 환경 의존도가 높은 산업 섹터 비중 축소 검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
     "title": "WP “‘이란전쟁 가치있다’던 트럼프, 마침내 ‘악재였다’ 인정” - weekly.khan.co.kr",
     "title_ko": "WP “‘이란전쟁 가치있다’던 트럼프, 마침내 ‘악재였다’ 인정”",
     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9lWDE4czBkQ0xHRm5jSWJkWE1tb1NVaE1oTUhDekRCNTFqaXpNemFldlhoQl9DWGhRYlVLNy0wdnZSMUh3dTBCV2dOdkZnbFdFdEdMclh6Q05OQUFVcWc?oc=5",
@@ -2752,195 +2953,5 @@
     ],
     "reason": "중동 지정학적 리스크 고조로 유가 상승 압력이 커지며 글로벌 인플레이션 우려를 심화시키고 경기 둔화 가능성을 높입니다. 에너지 수입국에는 특히 경제적 부담이 가중될 것입니다.",
     "action_point": "에너지 관련 자산 비중 확대를 고려하고, 유가 상승에 취약한 운송/제조업 섹터 투자는 신중히 접근하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Oil and Treasury yields haven’t moved this closely in seven years. That’s bad news for markets",
-    "title_ko": "유가와 국채 금리의 동조화 7년 만에 최고, 시장에 악재로 작용",
-    "link": "https://www.cnbc.com/2026/09/15/oil-us-treasurys-stocks-pressure.html",
-    "published": "Tue, 15 Sep 2026 05:22:57 GMT",
-    "fetched_at": "2026-09-15 17:11:47",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "기술주",
-      "부동산",
-      "소비재"
-    ],
-    "keywords": [
-      "유가",
-      "국채금리",
-      "인플레이션",
-      "시장하방압력"
-    ],
-    "reason": "유가와 국채 금리의 강한 동조화는 인플레이션 압력이 지속되고 있음을 시사하며, 이는 긴축적인 금융 환경과 함께 기업 이익 및 자산 가치에 하방 압력으로 작용할 것입니다.",
-    "action_point": "고금리 및 인플레이션 압력에 취약한 성장주 비중을 축소하고, 방어적 자산 및 단기 고금리 상품으로의 조정을 고려하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[속보] 이 대통령, 18일 오전 10시 靑서 기자회견…90분간 진행 - 연합뉴스TV",
-    "title_ko": "[속보] 이 대통령, 18일 오전 10시 靑서 기자회견…90분간 진행",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5FVWZ2WjgzbWFlX3lNazMzYnF6ejg2Z3dGV19BU1E1UmJPN19oY1oxaEJFdjVEQ1ZoUC1xYnNlbk54dHJEYlhMX1Nwb21xa0RBd0VYOWJ4VnR0QXZ1MEZpQ1BVbTV4QXc?oc=5",
-    "published": "Tue, 15 Sep 2026 06:51:00 GMT",
-    "fetched_at": "2026-09-15 17:11:56",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "전 산업",
-      "정부 정책 관련주"
-    ],
-    "keywords": [
-      "대통령",
-      "기자회견",
-      "정책"
-    ],
-    "reason": "대통령의 기자회견 예고는 향후 국정 운영 방향 및 주요 경제 정책 발표에 대한 시장의 기대와 불확실성을 증폭시켜 전반적인 투자 심리에 영향을 미칠 수 있습니다.",
-    "action_point": "기자회견 내용 발표 후 관련 정책 방향에 따라 포트폴리오 조정 준비."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[속보] 이 대통령, 18일 청와대서 기자회견…“국정 현안 진솔하게 소통” - news.kbs.co.kr",
-    "title_ko": "[속보] 이 대통령, 18일 청와대서 기자회견…“국정 현안 진솔하게 소통” - news.kbs.co.kr",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBsUmFNekZ2R1lLZ2VDVVREN0I4LXUwSk5uSGpRbEI3WEZmQmN1UGVueFVhdGJ6Z3lteDVpN001aHJMY09WZjExdVRZTWJXeGJ6ZDFCNTAzcXVrMFhkQnRycWZXOEh6UQ?oc=5",
-    "published": "Tue, 15 Sep 2026 06:51:00 GMT",
-    "fetched_at": "2026-09-15 17:12:17",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "전반적 시장",
-      "정책 관련주"
-    ],
-    "keywords": [
-      "대통령 기자회견",
-      "국정 현안",
-      "정책 불확실성"
-    ],
-    "reason": "대통령의 기자회견은 국정 현안에 대한 정부의 향후 정책 방향이나 입장을 제시할 기회이며, 이는 시장의 정책 불확실성 해소 또는 새로운 방향성 제시로 이어질 수 있다. 구체적인 발표 내용에 따라 시장 전반에 큰 영향을 미칠 잠재력이 있다.",
-    "action_point": "기자회견에서 발표될 주요 정책 방향과 시장 영향을 예측하여, 정책 민감 섹터의 포트폴리오 비중을 미리 점검하고 시장 변동성에 대비하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[속보] 이 대통령, 18일 오전 10시 기자회견…개헌·파병 입장 밝힐 듯 - 한겨레",
-    "title_ko": "[속보] 이 대통령, 18일 오전 10시 기자회견…개헌·파병 입장 밝힐 듯",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1GajAwNlJ6T3hUVUdXTGR6UzlwMm82MmJ1Z0dIbDg5b2h3emxhOWJHS0hrZXFMNnB5cW9wdTh0TENlakdQV0JBOHdOd2pfTnEtckxKTE5ISnh2VE9ENk41bm56MVlhOWtIdlpJ?oc=5",
-    "published": "Tue, 15 Sep 2026 06:56:00 GMT",
-    "fetched_at": "2026-09-15 17:12:51",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "국내 정치",
-      "방위산업"
-    ],
-    "keywords": [
-      "이 대통령",
-      "기자회견",
-      "개헌",
-      "파병"
-    ],
-    "reason": "대통령의 기자회견은 향후 국내 정치 방향과 대외 관계(파병)에 대한 중요한 신호를 제공할 예정이며, 특히 개헌 논의는 장기적 관점에서 국내 제도 변화의 가능성을 시사한다.",
-    "action_point": "대통령 기자회견 발표 내용에 따라 국내 정치 관련 불확실성 및 방위산업 섹터 영향 변화에 대비하여 포트폴리오 점검."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[남재철 칼럼] 기후위기와 슈퍼엘니뇨, 식량안보의 골든타임 - 농민신문",
-    "title_ko": "[남재철 칼럼] 기후위기와 슈퍼엘니뇨, 식량안보의 골든타임 - 농민신문",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aNXk4UDBGSkp3ZDc5YmRDMUZlQUZNUXZVdEJLeVFmbExSVGVRUEt2eG11blpROEtfcXZVb183YWIyLXhUcVpTeXBGM1AyWWF4OTBKaEtMMjk4dw?oc=5",
-    "published": "Tue, 15 Sep 2026 07:13:00 GMT",
-    "fetched_at": "2026-09-15 17:13:08",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "농업",
-      "식품 및 음료",
-      "유통",
-      "원자재"
-    ],
-    "keywords": [
-      "기후위기",
-      "슈퍼엘니뇨",
-      "식량안보",
-      "농작물",
-      "인플레이션"
-    ],
-    "reason": "슈퍼엘니뇨로 인한 기후변화는 농작물 생산량 감소를 야기하여 글로벌 식량 가격 상승 및 인플레이션 압력을 가중시킬 수 있습니다.",
-    "action_point": "곡물 등 필수 원자재 관련 투자 비중 확대를 검토하십시오."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Pentagon reveals $33.4 billion Iran war bill and ‘strategic’ weapons shortfalls",
-    "title_ko": "미 국방부, 이란 전쟁 비용 334억 달러와 '전략적' 무기 부족 공개",
-    "link": "https://www.cnbc.com/2026/09/15/us-iran-war-trump-hormuz-munitions-dod-costs-aircraft.html",
-    "published": "Tue, 15 Sep 2026 06:31:10 GMT",
-    "fetched_at": "2026-09-15 17:10:59",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "방위산업",
-      "국채"
-    ],
-    "keywords": [
-      "국방비",
-      "이란",
-      "군사",
-      "무기 부족",
-      "미국"
-    ],
-    "reason": "과거 이란 전쟁 비용 공개와 '전략적' 무기 부족 언급은 잠재적 안보 취약성과 향후 국방 예산 증액 가능성을 시사합니다. 이는 방위산업 섹터에 장기적인 영향을 미칠 수 있습니다.",
-    "action_point": "방산 섹터 기업들의 중장기 투자 가치를 재평가하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "U.S. seeks to seize $61 million of crypto it claims are proceeds from Iranian petroleum sales to Chinese buyers",
-    "title_ko": "미국, 이란의 대중국 석유 판매 대금 6,100만 달러 규모 암호화폐 압수 추진",
-    "link": "https://www.cnbc.com/2026/09/15/us-attorney-crypto-tether-iran-china-.html",
-    "published": "Tue, 15 Sep 2026 07:05:14 GMT",
-    "fetched_at": "2026-09-15 17:11:11",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "암호화폐",
-      "금융 서비스",
-      "정유/석유화학 (간접적)"
-    ],
-    "keywords": [
-      "미국 제재",
-      "이란 석유",
-      "중국 기업",
-      "암호화폐",
-      "자금 세탁",
-      "지정학적 리스크",
-      "규제 강화"
-    ],
-    "reason": "미국이 이란의 불법 석유 판매 대금을 암호화폐로 추적하여 압수하려는 시도는 암호화폐 시장 내 규제 및 자금 세탁 방지 감시 강화 압력으로 작용하며, 미국-이란-중국 간 지정학적 긴장을 고조시킨다.",
-    "action_point": "암호화폐 투자 포트폴리오 내 규제 리스크 노출 정도를 점검하고 변동성 확대에 대비하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "비거주 논란 속 정책질의 집중된 이형일 청문회…\"경제사령탑은 부총리\" - 연합인포맥스",
-    "title_ko": "비거주 논란 속 정책질의 집중된 이형일 청문회…\"경제사령탑은 부총리\" - 연합인포맥스",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1EVGo1bncxNTZLdW9ndDRXTmhiSWlFWmYzS2VRbGdHQTB1S1hYSVp1a0VFMjJpTko4RlBzdmNzVDFFOExTV0dvUFhrTWsxLTFLOFVrQXA1RVBqb1ZPYzBkUmJGRWh2VEl1M2dVYm5nQWY?oc=5",
-    "published": "Tue, 15 Sep 2026 04:21:21 GMT",
-    "fetched_at": "2026-09-15 17:12:07",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "거시경제"
-    ],
-    "keywords": [
-      "이형일",
-      "청문회",
-      "경제 정책",
-      "부총리"
-    ],
-    "reason": "경제 정책 총괄 인사의 청문회 진행은 정부의 경제 정책 방향과 리더십 안정성을 확인하는 과정으로, 거시경제 정책의 불확실성을 일부 해소하는 데 기여한다.",
-    "action_point": "해당 없음"
   }
 ]
