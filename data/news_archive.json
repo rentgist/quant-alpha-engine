@@ -1,5 +1,85 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "AI부터 관세· 중동전쟁까지…세기의 수싸움 - seoul.co.kr",
+    "title_ko": "AI부터 관세· 중동전쟁까지…세기의 수싸움",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE93YndSUUhHZ2xGdHFJOV94czFWX1djOEE3NWNOMTV3RXRzODFKdVFoQWEzRWxEQ3ppRzBNV1hGSWwxbzR2OWdQOVpVd2ZGVWhKSXI5T0VMSW1VenN2MlRTbUJJX1I4Nkw3LUgtN2dmNVI5a0w5Tmcw?oc=5",
+    "published": "Sun, 20 Sep 2026 14:47:10 GMT",
+    "fetched_at": "2026-09-21 04:59:26",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "IT/반도체",
+      "에너지",
+      "방산",
+      "무역",
+      "제조업"
+    ],
+    "keywords": [
+      "AI",
+      "관세",
+      "중동전쟁",
+      "지정학적 리스크",
+      "기술 패권",
+      "무역 분쟁"
+    ],
+    "reason": "AI 패권 경쟁, 보호무역주의 확산, 중동 정세 불안정 등 복합적인 글로벌 불확실성이 증대되며 시장 변동성 확대 및 위험 회피 심리를 자극할 수 있습니다.",
+    "action_point": "글로벌 불확실성 확대에 대비하여 방어적 자산 비중을 확대하고 현금 비중을 유지하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "“중국 반도체 증설이 삼전닉스 마진 압박 … 전력기기·로봇·조방원 주목”",
+    "title_ko": "중국 반도체 증설이 삼전닉스 마진 압박 … 전력기기·로봇·조방원 주목",
+    "link": "https://www.mk.co.kr/news/stock/12157437",
+    "published": "Mon, 21 Sep 2026 04:00:00 +09:00",
+    "fetched_at": "2026-09-21 04:59:38",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "반도체",
+      "IT 하드웨어",
+      "전력기기",
+      "로봇"
+    ],
+    "keywords": [
+      "중국 반도체",
+      "마진 압박",
+      "K-반도체",
+      "전력기기",
+      "로봇"
+    ],
+    "reason": "중국의 반도체 생산 능력 증가는 국내 주요 반도체 기업들의 마진 압박으로 이어져, 투자자들의 관심이 전력기기 및 로봇 등 대체 성장 섹터로 이동할 가능성이 높다.",
+    "action_point": "국내 주요 반도체 기업에 대한 비중을 재평가하고, 전력기기 및 로봇 관련 종목의 포트폴리오 편입을 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "The 'robot relations' department may become reality in workplace of the future",
+    "title_ko": "미래의 직장에 '로봇 관계' 부서가 현실이 될 수 있다",
+    "link": "https://www.cnbc.com/2026/09/20/ai-jobs-worker-fears.html",
+    "published": "Sun, 20 Sep 2026 14:37:34 GMT",
+    "fetched_at": "2026-09-21 04:59:16",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "기술",
+      "소프트웨어",
+      "산업 자동화",
+      "서비스 로봇"
+    ],
+    "keywords": [
+      "AI",
+      "로봇",
+      "자동화",
+      "미래 일자리",
+      "생산성"
+    ],
+    "reason": "AI와 로봇 기술의 광범위한 도입은 기업의 생산성 향상과 비용 절감에 기여하지만, 노동 시장의 구조적 변화와 임금 하향 압력을 야기할 수 있습니다. 이는 장기적으로 산업별 경쟁 구도와 기업 가치 평가에 영향을 미칩니다.",
+    "action_point": "AI 및 자동화 기술 관련 기업의 성장 가능성을 평가하고 포트폴리오에 반영을 검토하라."
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "Bessent meets China Vice Premier He Lifeng ahead of Trump-Xi summit",
@@ -2888,79 +2968,5 @@
     ],
     "reason": "SK하이닉스의 미국 메모리 생산 논의는 글로벌 반도체 공급망 재편 및 미국 정부의 지원책 활용 가능성을 시사하며, 중장기적으로 SK하이닉스의 경쟁력 강화 및 국내 반도체 섹터 전반에 긍정적인 투자 심리를 형성할 수 있습니다.",
     "action_point": "반도체 섹터 내 SK하이닉스 및 관련 소부장 기업들의 미국 투자 확대 가능성을 주시하며 비중 확대를 검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "중동전쟁 격화·美 중간선거·AI 투자조정…한국경제 3대 해외 변수 - 조선일보",
-    "title_ko": "중동전쟁 격화·美 중간선거·AI 투자조정…한국경제 3대 해외 변수",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZVdFa3YzQmRLalQxT0FDN1VRbFFLMWlQVlhSUXlSdUt3WHJpUXRfY1ZVU0xvSElFcnozUjdYQy1RLXlEUG1IRnM3T3FiUkpzUDFpTEZZRjZ3dUlzMmlfT3A4MDZQNFA4eWl4bHBhVGFPc3RzYTJIUVdmbGdYR0RBTklfX2ZyZXd3VzVpTjF3?oc=5",
-    "published": "Wed, 16 Sep 2026 04:06:28 GMT",
-    "fetched_at": "2026-09-16 17:06:14",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "기술 (반도체)",
-      "방산",
-      "해운"
-    ],
-    "keywords": [
-      "중동전쟁",
-      "미국 정치",
-      "AI 투자 조정",
-      "글로벌 불확실성",
-      "한국 경제"
-    ],
-    "reason": "중동 지정학적 리스크 격화로 유가 변동성 증대 및 공급망 불안이 커지고, 미국 정치 불확실성은 무역 및 통화 정책에 영향을 줄 수 있습니다. 또한 AI 투자 조정은 기술 섹터 전반의 밸류에이션 리스크를 높여 한국 경제 전반의 변동성을 키울 것입니다.",
-    "action_point": "글로벌 불확실성 확대를 감안, 방어적 자산(달러, 금 등) 비중을 확대하고 고변동성 섹터(에너지, 기술주)의 포트폴리오 리스크를 점검하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "“요샌 ‘덜 똘똘한 한 채’가 대세죠”…대출 규제에 중저가 향하는 실수요자들",
-    "title_ko": "“요샌 ‘덜 똘똘한 한 채’가 대세죠”…대출 규제에 중저가 향하는 실수요자들",
-    "link": "https://www.mk.co.kr/news/realestate/12154449",
-    "published": "Wed, 16 Sep 2026 17:03:59 +09:00",
-    "fetched_at": "2026-09-16 17:06:57",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "부동산",
-      "금융",
-      "건설"
-    ],
-    "keywords": [
-      "대출 규제",
-      "주택 시장",
-      "실수요",
-      "중저가 주택",
-      "부동산 트렌드"
-    ],
-    "reason": "강화된 대출 규제가 고가 주택 시장 수요를 위축시키고, 실수요자들을 중심으로 중저가 주택 시장으로의 수요 이동을 가속화하며 국내 주택 시장의 양극화 해소 및 가격 재편을 유도할 것입니다.",
-    "action_point": "국내 고가 주택 관련 자산 투자 비중을 재검토하고, 실수요 기반 중저가 주택 시장의 잠재적 투자 기회를 분석하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "\"지방소멸 위기 특화산업으로 극복해야\" - 국제신문",
-    "title_ko": "지방소멸 위기 특화산업으로 극복해야",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNc1VKeTdsOGNMemN6MG5oZVl1V3VLLWJ2N1FDbUZfallwZlBtVHpMN0ZINk1oalpadFp4UlM4WEQ1a2VMbTF0SXA3T3QxTHNSME1DVnNQRWwyOVhNaTg2WkRUZVJUOG43WGR5MWctcDliU0FWNGMxOU9jeEd0Q2Q1bDVUTFNsVm5GbDZuZ1RB?oc=5",
-    "published": "Wed, 16 Sep 2026 06:28:00 GMT",
-    "fetched_at": "2026-09-16 17:06:34",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "지역 산업",
-      "부동산",
-      "건설"
-    ],
-    "keywords": [
-      "지방소멸 위기",
-      "특화산업",
-      "지역균형발전"
-    ],
-    "reason": "지방소멸 위기 극복을 위한 특화산업 육성 논의로, 장기적인 관점에서 특정 지역의 산업 및 인프라 투자에 대한 정책 기대감을 형성할 수 있으나, 단기적인 시장 영향은 제한적이다.",
-    "action_point": "해당 없음"
   }
 ]
