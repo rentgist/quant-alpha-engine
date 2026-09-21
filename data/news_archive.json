@@ -1,5 +1,76 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "OpenAI proposes development of global AI standards to guide alignment, RSI",
+    "title_ko": "OpenAI, AI 정렬 및 RSI 지침 마련을 위한 글로벌 AI 표준 개발 제안",
+    "link": "https://www.cnbc.com/2026/09/21/open-ai-alignment-rsi.html",
+    "published": "Mon, 21 Sep 2026 20:51:11 GMT",
+    "fetched_at": "2026-09-22 06:25:11",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "인공지능(AI)",
+      "기술(Technology)"
+    ],
+    "keywords": [
+      "AI 표준",
+      "AI 안전",
+      "규제",
+      "OpenAI"
+    ],
+    "reason": "이 제안은 AI 기술의 장기적인 발전 방향과 규제 환경에 대한 논의를 촉발하여, 향후 AI 산업 전반의 투자 심리와 경쟁 구도에 영향을 미칠 수 있습니다.",
+    "action_point": "AI 관련 기업 투자 시 장기적인 규제 리스크와 준수 비용을 고려하십시오."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "“NCT·에스파로 쇼핑몰 도배” … K팝 품고 디즈니 넘어선 中 콘텐츠 공룡",
+    "title_ko": "“NCT·에스파로 쇼핑몰 도배” … K팝 품고 디즈니 넘어선 中 콘텐츠 공룡",
+    "link": "https://www.mk.co.kr/news/world/12158437",
+    "published": "Tue, 22 Sep 2026 05:00:00 +09:00",
+    "fetched_at": "2026-09-22 06:25:30",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "엔터테인먼트",
+      "콘텐츠",
+      "IT/기술"
+    ],
+    "keywords": [
+      "K팝",
+      "텐센트",
+      "IP",
+      "콘텐츠 산업",
+      "중국 시장"
+    ],
+    "reason": "중국 대형 콘텐츠 기업이 K-pop IP를 활용하여 글로벌 시장에서 영향력을 확대하고 있으며, 이는 한국 엔터테인먼트 산업의 IP 가치 상승과 중국 시장 내 비즈니스 기회 확대를 시사합니다.",
+    "action_point": "국내 엔터테인먼트 및 콘텐츠 기업의 IP 가치 상승 여력을 면밀히 검토."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Cybersecurity stocks are back with a bang. These four are on Josh Brown's list",
+    "title_ko": "사이버보안 주식들이 화려하게 부활했다. 조쉬 브라운이 선정한 4개 종목",
+    "link": "https://www.cnbc.com/2026/09/21/cybersecurity-stocks-are-back-with-a-bang-these-four-are-on-josh-browns-list.html",
+    "published": "Mon, 21 Sep 2026 15:43:44 GMT",
+    "fetched_at": "2026-09-22 06:25:17",
+    "sentiment": "호재",
+    "importance": 2,
+    "sectors": [
+      "사이버보안",
+      "기술주"
+    ],
+    "keywords": [
+      "사이버보안",
+      "기술주",
+      "투자",
+      "주식"
+    ],
+    "reason": "이 기사는 전문가의 추천을 통해 사이버보안 섹터에 대한 투자자들의 관심이 다시 증가하고 있음을 시사하며, 해당 섹터의 긍정적인 전망을 강화합니다.",
+    "action_point": "사이버보안 섹터 비중 확대 및 관련 유망 종목 편입을 검토하라."
+  },
+  {
     "source": "CNBC_Finance",
     "market": "US",
     "title": "Stocks making the biggest moves premarket: Paramount, Warner Bros., Accenture, Novo & more",
@@ -2899,83 +2970,5 @@
     ],
     "reason": "영란은행의 금리 동결은 높은 인플레이션에도 불구하고 연준과 다른 통화정책 기조를 보여, 글로벌 통화정책의 이질성을 심화시키고 파운드화 약세 압력을 가중시킬 수 있습니다.",
     "action_point": "글로벌 통화정책 이질성 확대에 따른 환율 변동성 관찰 및 달러 자산 비중 유지 검토"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Oil extends losses as Saudi Arabia reportedly offers ship-to-ship crude transfers after pipeline hit",
-    "title_ko": "사우디아라비아, 파이프라인 피격 후 선박 간 원유 환적 제공 소식에 유가 하락세 지속",
-    "link": "https://www.cnbc.com/2026/09/17/oil-prices-today-wti-brent-hormuz-iran-war.html",
-    "published": "Thu, 17 Sep 2026 02:08:02 GMT",
-    "fetched_at": "2026-09-17 17:12:06",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "항공",
-      "해운",
-      "화학",
-      "소비재"
-    ],
-    "keywords": [
-      "유가",
-      "원유 공급",
-      "사우디아라비아",
-      "에너지 비용"
-    ],
-    "reason": "사우디아라비아가 파이프라인 피격에도 원유 공급 안정화 조치를 취하며 유가 상승 압력을 완화, 전반적인 인플레이션 우려를 경감하고 시장 안정에 기여할 것입니다.",
-    "action_point": "유가 하락 수혜가 예상되는 항공, 해운, 화학 등 다운스트림 섹터의 비중 확대를 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "선거에 마음 급한 트럼프? “전쟁 곧 끝난다…관세로 트럼프 배당금” [이런뉴스] - v.daum.net",
-    "title_ko": "선거에 마음 급한 트럼프? “전쟁 곧 끝난다…관세로 트럼프 배당금” [이런뉴스]",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9qN0lqdWpLR0RtX2UzR2h0ZnA0Zl9CRUlOWmtqTk5GS25tRnBEcmRaNm1WRzFhREVneEd2WmVNbE10d3FjTzNwd2hGa19IcVk?oc=5",
-    "published": "Thu, 17 Sep 2026 05:27:10 GMT",
-    "fetched_at": "2026-09-17 17:15:20",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "수출주",
-      "제조업",
-      "해운/물류"
-    ],
-    "keywords": [
-      "트럼프",
-      "미국 대선",
-      "관세",
-      "보호무역주의",
-      "지정학적 위험"
-    ],
-    "reason": "트럼프의 대선 승리 시 관세 강화 등 보호무역주의 정책이 재현될 가능성을 시사하며, 이는 글로벌 교역 둔화 및 공급망 재편 압력으로 작용할 수 있습니다.",
-    "action_point": "미국 대선 결과에 따른 보호무역주의 강화 가능성에 대비하여 수출 의존도가 높은 국내 주식의 비중 조정을 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[그래픽] 미 연준 2026년 미국 경제 전망 - 연합뉴스",
-    "title_ko": "[그래픽] 미 연준 2026년 미국 경제 전망",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1oWnZBc1BSU1pXeGtRYUV3R1dJMGFvUzFTaVVpWEF1Y2cyb0gwTk00aF80MEFYb2dIU0VUSzhFRDdnRGotanR3dV8yMDVpakJmVGlzZ1IzeHo1OGZNMnVSLdIBYEFVX3lxTE1oWnZBc1BSU1pXeGtRYUV3R1dJMGFvUzFTaVVpWEF1Y2cyb0gwTk00aF80MEFYb2dIU0VUSzhFRDdnRGotanR3dV8yMDVpakJmVGlzZ1IzeHo1OGZNMnVSLQ?oc=5",
-    "published": "Thu, 17 Sep 2026 00:20:18 GMT",
-    "fetched_at": "2026-09-17 17:15:32",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "금융",
-      "기술주",
-      "부동산",
-      "환율",
-      "채권"
-    ],
-    "keywords": [
-      "미국 경제",
-      "연준",
-      "금리 전망",
-      "인플레이션",
-      "성장률",
-      "통화정책"
-    ],
-    "reason": "미 연준의 장기 경제 전망은 향후 통화정책 방향과 글로벌 유동성 환경을 예측하는 핵심 지표이며, 이는 주식, 채권, 환율 등 주요 자산 가격에 중장기적인 영향을 미칠 수 있습니다.",
-    "action_point": "연준의 2026년 경제 전망 세부 내용을 즉시 확인하고, 이에 따른 금리 및 환율 변동성 확대 가능성에 대비하여 포트폴리오 리밸런싱을 검토하라."
   }
 ]
