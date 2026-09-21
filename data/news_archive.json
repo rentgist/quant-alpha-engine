@@ -1,5 +1,56 @@
 [
   {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Stocks making the biggest moves premarket: Paramount, Warner Bros., Accenture, Novo & more",
+    "title_ko": "개장 전 가장 큰 움직임을 보이는 주식들: 파라마운트, 워너 브로스, 액센츄어, 노보 등",
+    "link": "https://www.cnbc.com/2026/09/21/stocks-making-the-biggest-moves-premarket-psky-wbd-acn-nvo.html",
+    "published": "Mon, 21 Sep 2026 11:40:33 GMT",
+    "fetched_at": "2026-09-22 02:26:53",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "미디어/엔터테인먼트",
+      "IT 서비스",
+      "제약/헬스케어"
+    ],
+    "keywords": [
+      "개장 전 움직임",
+      "개별 주식",
+      "파라마운트",
+      "워너 브로스",
+      "액센츄어",
+      "노보"
+    ],
+    "reason": "이 뉴스는 특정 기업들의 개장 전 주가 변동을 단순히 나열한 것으로, 움직임의 배경에 대한 정보가 없어 거시 경제나 광범위한 시장 추세에 미치는 실질적인 영향은 미미합니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Nissan eyes increasing U.S. production as new Rogue hybrid launches",
+    "title_ko": "닛산, 신형 로그 하이브리드 출시 맞춰 미국 생산 증대 검토",
+    "link": "https://www.cnbc.com/2026/09/21/nissan-2027-rogue-production.html",
+    "published": "Mon, 21 Sep 2026 16:53:00 GMT",
+    "fetched_at": "2026-09-22 02:27:03",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "자동차",
+      "제조업",
+      "친환경차"
+    ],
+    "keywords": [
+      "닛산",
+      "미국 생산",
+      "하이브리드",
+      "자동차",
+      "고용"
+    ],
+    "reason": "닛산의 미국 생산 증대는 특정 모델의 판매 호조와 미국 자동차 시장 내 하이브리드 차량 수요 증가를 반영합니다. 이는 해당 기업 및 미국 제조업에 긍정적이나, 거시 경제 전반에 미치는 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "Here's what the Saudi East-West pipeline shutdown means for Asia's biggest crude importers",
@@ -2926,54 +2977,5 @@
     ],
     "reason": "미 연준의 장기 경제 전망은 향후 통화정책 방향과 글로벌 유동성 환경을 예측하는 핵심 지표이며, 이는 주식, 채권, 환율 등 주요 자산 가격에 중장기적인 영향을 미칠 수 있습니다.",
     "action_point": "연준의 2026년 경제 전망 세부 내용을 즉시 확인하고, 이에 따른 금리 및 환율 변동성 확대 가능성에 대비하여 포트폴리오 리밸런싱을 검토하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "“당장 10% 빠질 수 있는데, 던질까 담을까?”…금리 인상 1년 뒤 웃었던 美 증시",
-    "title_ko": "“당장 10% 빠질 수 있는데, 던질까 담을까?”…금리 인상 1년 뒤 웃었던 美 증시",
-    "link": "https://www.mk.co.kr/news/stock/12155552",
-    "published": "Thu, 17 Sep 2026 17:02:37 +09:00",
-    "fetched_at": "2026-09-17 17:18:19",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "미국 주식 시장",
-      "성장주",
-      "기술주"
-    ],
-    "keywords": [
-      "금리 인상",
-      "미국 증시",
-      "S&P500",
-      "시장 조정",
-      "장기 투자"
-    ],
-    "reason": "미국 금리 인상 초기에는 증시 조정이 나타날 수 있으나, 과거 데이터를 보면 1년 뒤에는 반등하여 수익을 기록한 패턴이 있음을 시사합니다. 이는 단기 조정이 장기 투자자에게 매수 기회가 될 수 있음을 암시합니다.",
-    "action_point": "미국 주식 시장의 단기 조정 발생 시 우량 자산에 대한 분할 매수 전략을 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "CNBC Daily Open: Trump bemoans hostile acts",
-    "title_ko": "CNBC 데일리 오픈: 트럼프, 적대적 행위에 불평",
-    "link": "https://www.cnbc.com/2026/09/17/daily-open-trump-hostile-fed-eu-canada-boe-boj-oil.html",
-    "published": "Thu, 17 Sep 2026 06:23:31 GMT",
-    "fetched_at": "2026-09-17 17:13:28",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "금융",
-      "수출 관련주"
-    ],
-    "keywords": [
-      "트럼프",
-      "연준",
-      "금리 인상",
-      "무역 분쟁",
-      "정치적 불확실성"
-    ],
-    "reason": "트럼프의 연준 금리 인상 불만은 통화 정책 독립성에 대한 우려를 높여 시장 불확실성을 야기할 수 있습니다. EU 및 캐나다 관련 발언은 향후 무역 정책 갈등을 시사하여 지정학적 긴장감을 고조시킬 가능성이 있습니다.",
-    "action_point": "미국 정치적 불확실성 증가와 통화 정책 독립성 훼손 가능성에 대비하여 포트폴리오 내 방어적 자산 비중을 점검하고 달러 자산 보유를 고려."
   }
 ]
