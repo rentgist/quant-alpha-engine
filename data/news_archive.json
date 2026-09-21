@@ -1,5 +1,124 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Iran vows 'painful' retaliation as Trump piles on pressure ahead of UN General Assembly meeting",
+    "title_ko": "이란, UN 총회 앞두고 트럼프 압박 강화에 '고통스러운 보복' 다짐",
+    "link": "https://www.cnbc.com/2026/09/21/us-iran-war-trump-hormuz.html",
+    "published": "Mon, 21 Sep 2026 04:04:18 GMT",
+    "fetched_at": "2026-09-21 14:40:37",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "방산",
+      "금융"
+    ],
+    "keywords": [
+      "이란",
+      "트럼프",
+      "지정학적 리스크",
+      "원유",
+      "중동"
+    ],
+    "reason": "미국의 이란 경제 및 지도부 파괴 위협과 이란의 보복 다짐은 중동 지정학적 리스크를 고조시키며, 국제 유가 변동성 확대 및 안전자산 선호 심리를 자극할 것입니다.",
+    "action_point": "중동 지정학적 리스크 고조에 따라 원유 관련 자산의 변동성 확대에 대비하고, 안전자산(금, 달러) 보유를 강화하십시오."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "’전쟁 직격탄’ 맞은 이란 경제…GDP 10.1% 감소 - 연합뉴스TV",
+    "title_ko": "’전쟁 직격탄’ 맞은 이란 경제…GDP 10.1% 감소",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9rZnM1NWc2bXNoNTFpWEFFQzI2SmdaWm82eG9PSlROOURNbkZOZ1FuZGNTTjlncTUyMURSTV9jUXRNb1YtaTk2a285VkVNNzhSeUp5bkN1ZTNBV2d1azcycmhBRWVSaHM?oc=5",
+    "published": "Mon, 21 Sep 2026 00:10:00 GMT",
+    "fetched_at": "2026-09-21 14:40:56",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "원자재",
+      "지정학",
+      "에너지"
+    ],
+    "keywords": [
+      "이란",
+      "GDP 감소",
+      "지정학적 리스크",
+      "유가"
+    ],
+    "reason": "이란 경제가 전쟁으로 인해 GDP 10.1% 감소를 겪으며 중동 지역의 지정학적 불안정이 심화되고 있음을 보여준다. 이는 글로벌 에너지 시장의 불확실성을 가중시키고 유가 변동성 확대 요인으로 작용할 수 있다.",
+    "action_point": "중동발 지정학적 리스크 심화로 인한 유가 상승 가능성에 대비해 에너지 섹터 비중을 점검하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "한국 경제, 위험 지역 접어들고 있다[이철호의 시론] - 문화일보",
+    "title_ko": "한국 경제, 위험 지역 접어들고 있다[이철호의 시론] - 문화일보",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1JUVdwM055TjNJM2FtUXNIYmxraUpwTmw2NHZZWC1KblUzUVdWWkdNQ0hPcWpWWWFYUXdhaTFJWjVTYTM4LWs1ZG5WcnV5Vm9Q?oc=5",
+    "published": "Mon, 21 Sep 2026 02:55:06 GMT",
+    "fetched_at": "2026-09-21 14:41:08",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "전 산업",
+      "금융",
+      "부동산",
+      "소비재"
+    ],
+    "keywords": [
+      "한국 경제",
+      "경기 둔화",
+      "경제 위험",
+      "매크로 리스크"
+    ],
+    "reason": "한국 경제가 위험 지역에 진입한다는 평가는 전반적인 경기 둔화 및 금융 불안정성 확대를 시사하며, 이는 국내 주식 시장과 부동산 시장에 하방 압력으로 작용할 수 있습니다.",
+    "action_point": "국내 경기 민감 주식 및 부동산 자산 비중 축소를 검토하고, 안정적인 현금 흐름을 가진 방어주 및 해외 자산으로의 분산 투자를 확대하십시오."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Chinese biopharma stocks jump as U.S. weighs keeping door open to drug deals",
+    "title_ko": "미국, 중국 제약 거래 개방 유지 검토 소식에 중국 바이오 제약 주식 급등",
+    "link": "https://www.cnbc.com/2026/09/21/chinese-biopharma-stocks-jump-as-us-plans-to-continue-drug-licensing-deals-.html",
+    "published": "Mon, 21 Sep 2026 04:20:33 GMT",
+    "fetched_at": "2026-09-21 14:40:42",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "바이오 제약",
+      "헬스케어"
+    ],
+    "keywords": [
+      "중국 바이오 제약",
+      "미국-중국 관계",
+      "의약품 거래"
+    ],
+    "reason": "미국이 중국 바이오 제약 기업과의 의약품 라이선스 거래를 허용할 가능성이 제기되며 해당 섹터의 지정학적 리스크 완화 및 투자 심리 개선에 긍정적인 영향을 미칠 것으로 예상됩니다.",
+    "action_point": "미중 기술 갈등 완화 조짐에 따른 중국 바이오 제약 섹터 투자 기회 모색"
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "필리핀 공시시스템 10년 만에 고도화…코오롱베니트 다시 맡는다",
+    "title_ko": "필리핀 공시시스템 10년 만에 고도화…코오롱베니트 다시 맡는다",
+    "link": "https://www.mk.co.kr/news/stock/12158190",
+    "published": "Mon, 21 Sep 2026 14:24:03 +09:00",
+    "fetched_at": "2026-09-21 14:41:20",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "IT 서비스",
+      "소프트웨어"
+    ],
+    "keywords": [
+      "코오롱베니트",
+      "필리핀 증권거래소",
+      "해외 IT 사업",
+      "공시시스템"
+    ],
+    "reason": "코오롱베니트의 필리핀 및 베트남 해외 증권거래소 IT 시스템 수주 확대는 국내 IT 서비스 기업의 해외 경쟁력과 신흥국 시장 진출 잠재력을 보여줍니다. 다만, 거시 경제나 주요 자산군에 미치는 직접적인 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "GoogleNews_Korea",
     "market": "KR",
     "title": "트럼프 심판론 역대 최고…경제·이란전쟁·5000달러 공약 모두 역풍 - 조선일보",
@@ -2845,122 +2964,5 @@
     ],
     "reason": "콘티넨탈 리소스의 베네수엘라 유전 개발 착수는 장기적으로 글로벌 석유 공급 증가 가능성을 시사하나, 실제 생산 확대까지는 상당한 시간과 정치적 안정성이 요구됩니다.",
     "action_point": "장기적인 유가 하방 압력 가능성에 대비하여 에너지 관련 투자 포트폴리오의 리밸런싱 여부를 점검하라."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Stocks making the biggest moves premarket: Dave & Buster's, Enova, Etsy & more",
-    "title_ko": "프리마켓에서 가장 큰 움직임을 보이는 주식들: 데이브 & 버스터스, 에노바, 에tsy 외",
-    "link": "https://www.cnbc.com/2026/09/15/stocks-making-the-biggest-moves-premarket-play-enva-etsy.html",
-    "published": "Tue, 15 Sep 2026 11:36:31 GMT",
-    "fetched_at": "2026-09-17 02:52:15",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "소비재_재량소비재",
-      "기술_핀테크",
-      "산업"
-    ],
-    "keywords": [
-      "프리마켓",
-      "개별 주식",
-      "주가 변동"
-    ],
-    "reason": "이 기사는 특정 기업들의 프리마켓 주가 변동을 나열한 것으로, 시장 전반의 거시적 흐름이나 주요 자산군에 미칠 유의미한 영향은 없습니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "김승원 '청탁 영장 기각' 판사 재판 수임 … 허위답변 논란",
-    "title_ko": "김승원 '청탁 영장 기각' 판사 재판 수임 … 허위답변 논란",
-    "link": "https://www.mk.co.kr/news/realestate/12154850",
-    "published": "Wed, 16 Sep 2026 23:02:01 +09:00",
-    "fetched_at": "2026-09-17 02:52:53",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [],
-    "keywords": [
-      "김승원",
-      "법무부 장관 후보자",
-      "청탁 의혹",
-      "허위 답변",
-      "정치 논란"
-    ],
-    "reason": "법무부 장관 후보자의 과거 행적과 관련된 정치적 논란이 불거졌으나, 해당 이슈가 국내 경제 펀더멘털이나 거시 정책 방향에 미칠 직접적인 영향은 제한적입니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Consumers hit by one-two punch of oil and rates from Iran war. The estimated bill is $1,700 per household",
-    "title_ko": "이란 전쟁발 유가 및 금리 동시 상승으로 가계 부담 가중, 가구당 추정 추가 비용 $1,700",
-    "link": "https://www.cnbc.com/2026/09/16/oil-prices-treasury-yields-consumers-iran.html",
-    "published": "Wed, 16 Sep 2026 12:02:18 GMT",
-    "fetched_at": "2026-09-16 22:53:41",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "에너지",
-      "금융",
-      "경기소비재",
-      "부동산"
-    ],
-    "keywords": [
-      "이란 전쟁",
-      "유가",
-      "금리",
-      "가계 소비",
-      "인플레이션"
-    ],
-    "reason": "지정학적 리스크로 인한 유가 및 금리 동반 상승은 미국 가계의 실질 소득을 감소시켜 소비 위축과 전반적인 경제 성장 둔화를 야기할 수 있으며, 이는 글로벌 시장에도 부정적 영향을 미칩니다.",
-    "action_point": "글로벌 지정학적 리스크 심화에 대비하여 에너지 섹터 비중 확대를 검토하고, 금리 및 유가 상승에 취약한 경기소비재 섹터 비중을 축소하십시오."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Intel, SK Hynix shares jump on report they're discussing U.S. memory chip manufacturing",
-    "title_ko": "인텔, SK하이닉스 주가, 美 메모리 반도체 생산 논의 보도에 급등",
-    "link": "https://www.cnbc.com/2026/09/16/intel-sk-hynix-us-memory-chips.html",
-    "published": "Wed, 16 Sep 2026 13:42:23 GMT",
-    "fetched_at": "2026-09-16 22:53:34",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "반도체",
-      "기술"
-    ],
-    "keywords": [
-      "인텔",
-      "SK하이닉스",
-      "반도체",
-      "메모리",
-      "미국 생산"
-    ],
-    "reason": "인텔과 SK하이닉스의 미국 내 메모리 반도체 생산 논의는 양사의 전략적 협력과 인텔 파운드리 사업의 확장을 시사하며, 이는 글로벌 반도체 산업에 긍정적인 투자 심리를 형성할 것입니다.",
-    "action_point": "SK하이닉스 등 주요 메모리 반도체 기업의 주가 상승 여력을 주시하고 관련 섹터 비중 확대를 고려."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Stocks making the biggest moves premarket: SK Hynix, J.B. Hunt, Expedia & more",
-    "title_ko": "개장 전 가장 큰 움직임을 보이는 주식: SK하이닉스, J.B. 헌트, 익스피디아 외",
-    "link": "https://www.cnbc.com/2026/09/16/stocks-making-the-biggest-moves-premarket-skhy-jbht-expe-more.html",
-    "published": "Wed, 16 Sep 2026 11:44:23 GMT",
-    "fetched_at": "2026-09-16 22:53:18",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "반도체",
-      "운송",
-      "여행"
-    ],
-    "keywords": [
-      "개장전 움직임",
-      "개별 주식",
-      "SK하이닉스"
-    ],
-    "reason": "이 뉴스는 특정 개별 주식들의 개장 전 움직임을 단순히 나열하는 것으로, 시장 전반의 방향성이나 매크로 경제에 직접적인 영향을 미 미치지 않습니다.",
-    "action_point": "해당 없음"
   }
 ]
