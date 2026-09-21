@@ -2,6 +2,105 @@
   {
     "source": "GoogleNews_Korea",
     "market": "KR",
+    "title": "트럼프 심판론 역대 최고…경제·이란전쟁·5000달러 공약 모두 역풍 - 조선일보",
+    "title_ko": "트럼프 심판론 역대 최고…경제·이란전쟁·5000달러 공약 모두 역풍",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN1hKNDRjTnlpeFJiTERCSGFwcEFnMXVEQTYyZmd6ak1McVk1Y3J3OUpmbDRWcFZMNDJjU3RBNlZhanJjZXdSR3JwVE5wTVhuRkNPMmlraVhFcTRvZElfYVlEaWFFVGJSMHRUN3E3Yi1lRFd5aHd4T19vRm9MalI2WktrTFdLRDFGU1NMbmU5eU1tWC02ZV9NZXliR2dTZw?oc=5",
+    "published": "Mon, 21 Sep 2026 00:01:00 GMT",
+    "fetched_at": "2026-09-21 09:40:20",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "에너지",
+      "방산",
+      "국제무역",
+      "기술",
+      "원자재"
+    ],
+    "keywords": [
+      "트럼프",
+      "미국 정치",
+      "지정학",
+      "이란",
+      "선거",
+      "정책 불확실성"
+    ],
+    "reason": "트럼프 대통령에 대한 부정적 여론 확산은 미국 대선 및 정책 불확실성을 증대시키고, 이란전쟁 언급은 중동 지정학적 리스크를 고조시켜 글로벌 시장에 변동성을 키울 수 있습니다.",
+    "action_point": "미국 대선 관련 정치적 불확실성과 중동 지정학적 리스크에 대비, 방어적 자산(금, 달러) 비중을 확대하고 에너지 관련 자산 변동성에 유의하십시오."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[속보] 코스피, 장중 '7천피' 회복 - 한국경제",
+    "title_ko": "[속보] 코스피, 장중 '7천피' 회복",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYN1h4bk5zODFsX0F5WnBGZm43SUg1TkZnYWVyOW5GQWFJOXotVVVwWHIwbjBwWTJEeDBQenBWM0M3WERTRmtZbkNGUmZraDdXdTlVVHcxOUxndw?oc=5",
+    "published": "Mon, 21 Sep 2026 00:13:42 GMT",
+    "fetched_at": "2026-09-21 09:40:37",
+    "sentiment": "호재",
+    "importance": 5,
+    "sectors": [
+      "전 섹터",
+      "증권",
+      "금융"
+    ],
+    "keywords": [
+      "KOSPI",
+      "주식 시장",
+      "시장 회복",
+      "투자 심리",
+      "역사적 고점"
+    ],
+    "reason": "코스피 지수가 역사적 신고점인 7천 포인트를 회복했다는 소식은 한국 증시 전반에 걸친 극심한 낙관론과 투자 심리 개선을 반영하며, 전 세계 자본 흐름에 영향을 줄 수 있는 중대한 사건입니다.",
+    "action_point": "국내 주식 시장의 강력한 상승 모멘텀을 활용하기 위해 성장주 중심의 포트폴리오 비중 확대를 검토하십시오."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "이란 경제 '전쟁 직격탄'…석달간 10% 역성장 - v.daum.net",
+    "title_ko": "이란 경제 '전쟁 직격탄'…석달간 10% 역성장",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBiZHZKRko2SDVaWkg1NVRWdHRYZjhKQVNQYVh1RHhUbVJQOUE5MGJPY0JtU2JpalEzXzg2WFJkMDhOUUdVUDFxMm9sS004Mmc?oc=5",
+    "published": "Sun, 20 Sep 2026 23:51:48 GMT",
+    "fetched_at": "2026-09-21 09:40:45",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "에너지",
+      "국방",
+      "해운"
+    ],
+    "keywords": [
+      "이란",
+      "전쟁",
+      "역성장",
+      "유가",
+      "지정학적 리스크"
+    ],
+    "reason": "이란 경제의 급격한 위축은 중동 지역의 지정학적 불안정을 심화시키고, 이는 글로벌 유가 상승 압력 및 에너지 공급망 교란으로 이어질 수 있다.",
+    "action_point": "중동 지정학적 리스크 확대에 따른 유가 변동성 증가에 대비하여 원자재 및 방산 섹터 비중 확대를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Merz vows to press ahead with reforms after historic German state election defeat",
+    "title_ko": "메르츠, 독일 주 의회 선거 역사적 패배 후 개혁 추진 다짐",
+    "link": "https://www.cnbc.com/2026/09/20/merz-germany-state-election-defeat.html",
+    "published": "Sun, 20 Sep 2026 23:15:54 GMT",
+    "fetched_at": "2026-09-21 09:40:09",
+    "sentiment": "악재",
+    "importance": 2,
+    "sectors": [],
+    "keywords": [
+      "메르츠",
+      "독일",
+      "주 선거",
+      "CDU",
+      "정치적 불확실성"
+    ],
+    "reason": "기민당(CDU)의 독일 주 의회 선거 참패는 독일 국내 정치의 불안정성을 시사하며, 향후 연방 선거 및 정책 추진에 불확실성을 가중시킬 수 있습니다. 하지만 즉각적인 글로벌 시장 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
     "title": "[주간경제일정] 美·中 정상회담…무역·중동 정세·AI 등 의제 주목 - v.daum.net",
     "title_ko": "[주간경제일정] 美·中 정상회담…무역·중동 정세·AI 등 의제 주목",
     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5XZWt1U1ZVV29uallhdkNKNWtSRDF2aWl6WEFsOElyVGdtajA0VTl0QlNXY3NKR3hQd0RaeG5jTjN6YTB4d0xTTmY1eVprZlE?oc=5",
@@ -2863,107 +2962,5 @@
     ],
     "reason": "이 뉴스는 특정 개별 주식들의 개장 전 움직임을 단순히 나열하는 것으로, 시장 전반의 방향성이나 매크로 경제에 직접적인 영향을 미 미치지 않습니다.",
     "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Saudi says Houthis targeted Mecca with a drone, Iran-backed group rejects claim",
-    "title_ko": "사우디, 후티 반군이 드론으로 메카 공격 주장…이란 지원 후티 반군 부인",
-    "link": "https://www.cnbc.com/2026/09/16/us-iran-war-trump-hormuz.html",
-    "published": "Wed, 16 Sep 2026 06:38:40 GMT",
-    "fetched_at": "2026-09-16 17:05:12",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "에너지",
-      "방산",
-      "항공운송"
-    ],
-    "keywords": [
-      "사우디",
-      "후티 반군",
-      "메카",
-      "지정학적 리스크",
-      "중동"
-    ],
-    "reason": "이란 지원 후티 반군의 메카 공격 주장은 중동 지정학적 긴장을 심화시키며 광범위한 지역 분쟁 가능성을 높입니다. 이는 글로벌 유가 상승 압력과 전반적인 시장의 위험 회피 심리를 자극할 수 있습니다.",
-    "action_point": "국제 유가 변동성 확대 및 안전자산 선호 심리 강화에 대비하여 에너지 관련 자산 또는 달러/금 비중 확대 고려."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "BOJ expected to hike rates by 25 basis points to fresh three-decade high: CNBC survey",
-    "title_ko": "일본은행, 25bp 금리 인상으로 30년래 최고치 경신 전망: CNBC 설문",
-    "link": "https://www.cnbc.com/2026/09/16/boj-hike-rates-cnbc-survey.html",
-    "published": "Wed, 16 Sep 2026 06:53:09 GMT",
-    "fetched_at": "2026-09-16 17:05:37",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "외환",
-      "채권",
-      "수출",
-      "금융"
-    ],
-    "keywords": [
-      "일본은행 (BOJ)",
-      "금리 인상",
-      "엔화",
-      "통화정책",
-      "글로벌 유동성"
-    ],
-    "reason": "일본은행의 금리 인상은 초완화 통화정책의 종료를 시사하며 글로벌 유동성 축소 및 엔화 강세를 유발하여 한국 수출 기업의 경쟁 환경 및 글로벌 자산 배분에 영향을 미칠 수 있다.",
-    "action_point": "엔화 강세에 따른 원/엔 환율 변화를 주시하며, 관련 한국 수출주의 경쟁력 개선 여부를 점검하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "이란전쟁에 미국인 연료비 추가부담 1천억달러 돌파 - v.daum.net",
-    "title_ko": "이란전쟁에 미국인 연료비 추가부담 1천억달러 돌파",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBzdlNKLUdVRy11b3o3ZjVmbVh3TFlMRlV1NEV0SXdGa2lBbFJQVzVlQ1E5ODVVRjIyVDZiZFJja2ZJNzd1bjBCR21FbXF6aWM?oc=5",
-    "published": "Wed, 16 Sep 2026 07:12:31 GMT",
-    "fetched_at": "2026-09-16 17:06:27",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "에너지",
-      "운송",
-      "항공",
-      "소비재"
-    ],
-    "keywords": [
-      "이란",
-      "원유",
-      "연료비",
-      "인플레이션",
-      "지정학"
-    ],
-    "reason": "이란발 지정학적 리스크가 국제유가를 끌어올려 미국 내 연료비 부담을 가중시키고 있으며, 이는 인플레이션 압력 및 미 소비 위축으로 이어져 연준의 통화정책 부담을 높이는 악재로 작용한다.",
-    "action_point": "고유가 지속 가능성에 대비하여 에너지 관련 자산 비중을 확대하고, 운송 및 소비재 섹터는 비중 축소를 검토하라."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "China's AI leaders keep quiet despite U.S. 'publicity' on tech risks",
-    "title_ko": "미국 기술 위험 경고에도 중국 AI 선두 기업들 침묵",
-    "link": "https://www.cnbc.com/2026/09/16/chinas-ai-leaders-keep-quiet-despite-us-publicity-on-tech-risks.html",
-    "published": "Wed, 16 Sep 2026 04:01:59 GMT",
-    "fetched_at": "2026-09-16 17:04:55",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "기술",
-      "AI",
-      "반도체",
-      "클라우드"
-    ],
-    "keywords": [
-      "미중 기술 경쟁",
-      "AI 규제",
-      "지정학",
-      "빅테크"
-    ],
-    "reason": "중국 AI 기업들의 침묵은 미중 기술 경쟁의 지속과 AI 개발 및 규제 접근 방식의 차이를 보여줍니다. 이는 기술 공급망 및 시장 접근성에 대한 장기적인 불확실성을 높일 수 있습니다.",
-    "action_point": "AI 및 반도체 섹터 투자 시 미중 기술 갈등으로 인한 중국 시장 접근성 및 공급망 리스크를 재평가하고 투자 비중 조정 검토."
   }
 ]
