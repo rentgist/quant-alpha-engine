@@ -2,6 +2,288 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "Here's what the Saudi East-West pipeline shutdown means for Asia's biggest crude importers",
+    "title_ko": "사우디 동서 파이프라인 폐쇄가 아시아 주요 원유 수입국에 미칠 영향",
+    "link": "https://www.cnbc.com/2026/09/21/saudi-pipeline-closure-asia-oil-import-korea.html",
+    "published": "Mon, 21 Sep 2026 08:29:13 GMT",
+    "fetched_at": "2026-09-21 20:28:23",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "석유화학",
+      "해운",
+      "항공",
+      "제조업"
+    ],
+    "keywords": [
+      "사우디",
+      "원유",
+      "파이프라인",
+      "공급",
+      "아시아",
+      "대한민국",
+      "유가"
+    ],
+    "reason": "사우디 주요 파이프라인 폐쇄는 아시아, 특히 한국으로의 원유 공급을 위축시켜 국제 유가 상승 압력을 높이고 에너지 관련 산업의 비용 부담을 가중시킬 것입니다. 이는 국내 경제 전반에 부정적인 영향을 미칠 수 있습니다.",
+    "action_point": "국제 유가 상승에 대비하여 에너지 효율 관련주 및 대체 에너지 관련 투자 기회를 모색하거나, 원유 수입 의존도가 높은 기업의 비중을 재검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Why Goldman says the yen may not have much room to strengthen",
+    "title_ko": "골드만삭스가 엔화 강세 여력이 제한적이라고 말하는 이유",
+    "link": "https://www.cnbc.com/2026/09/21/why-goldman-says-the-yen-may-not-have-much-room-to-strengthen.html",
+    "published": "Mon, 21 Sep 2026 06:36:05 GMT",
+    "fetched_at": "2026-09-21 20:28:31",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "외환",
+      "글로벌 매크로",
+      "수출"
+    ],
+    "keywords": [
+      "엔화",
+      "골드만삭스",
+      "환율",
+      "약세"
+    ],
+    "reason": "골드만삭스가 엔화 약세 가능성을 제시함에 따라, 이는 글로벌 캐리 트레이드 및 아시아 통화 전반에 걸친 투심에 영향을 미칠 수 있다. 특히 국내 수출 기업의 경쟁 환경에 변화를 가져올 수 있다.",
+    "action_point": "엔화 약세가 지속될 경우 일본과 경쟁하는 국내 수출 업종의 투자 비중을 재검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "미국이 조여버린 이란 '경제 숨통'…중동 안보 요동칠 조짐 [지금이뉴스] - YTN",
+    "title_ko": "미국이 조여버린 이란 '경제 숨통'…중동 안보 요동칠 조짐",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE02S1FFbjQ2YWEydGZETDdKc1BYcXotZDNib1NFbzkwOVVQSjlSd2lOR3VWNVQ0YXRrWk1GcEN0UkRiUHozQ28tREF4UkRjYWlhYjdwNjhZWlVKUHhFb1d3dy1hTGFjTXN5N1JUQzdQN2JHUGc0bmc?oc=5",
+    "published": "Mon, 21 Sep 2026 06:20:00 GMT",
+    "fetched_at": "2026-09-21 20:28:44",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "원자재",
+      "방산",
+      "해운",
+      "보험"
+    ],
+    "keywords": [
+      "미국-이란",
+      "중동 지정학",
+      "유가",
+      "이란 제재",
+      "지정학적 리스크"
+    ],
+    "reason": "미국의 이란 경제 제재 강화는 중동 지역의 지정학적 불안정성을 고조시키고, 이는 글로벌 에너지 공급망에 대한 불확실성을 증폭시켜 국제 유가 상승 압력으로 작용할 수 있습니다. 전반적인 시장 위험 회피 심리를 자극할 가능성이 있습니다.",
+    "action_point": "중동 지정학적 리스크 심화로 인한 유가 상승 가능성에 대비, 에너지/원자재 관련 자산 비중 확대를 검토."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Bitcoin hits highest level since January at $85,000, as the market debates whether the 'crypto winter' is over",
+    "title_ko": "비트코인, 85,000달러 돌파하며 1월 이후 최고치 기록…'크립토 겨울' 종료 논쟁 가열",
+    "link": "https://www.cnbc.com/2026/09/21/bitcoin-price-crypto-rally.html",
+    "published": "Mon, 21 Sep 2026 11:10:55 GMT",
+    "fetched_at": "2026-09-21 20:27:49",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "블록체인/암호화폐",
+      "핀테크",
+      "기술주"
+    ],
+    "keywords": [
+      "비트코인",
+      "암호화폐",
+      "가상자산",
+      "크립토 겨울"
+    ],
+    "reason": "비트코인의 급등은 가상자산 시장의 투자심리를 개선시키고, 위험자산 전반에 대한 선호도를 높일 수 있습니다. 이는 과거 침체기 이후 회복 기대감을 반영하며 시장에 긍정적인 신호로 작용합니다.",
+    "action_point": "가상자산 투자 익스포저(exposure) 확대를 검토하거나, 위험선호 심리 확산에 따른 고위험 자산군을 주시하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Novo shares slide as drugmaker lays out post-Wegovy growth strategy",
+    "title_ko": "노보 노디스크, 위고비 이후 성장 전략 발표에도 주가 하락",
+    "link": "https://www.cnbc.com/2026/09/21/novo-nordisk-stock-sales-target-obesity-drugs.html",
+    "published": "Mon, 21 Sep 2026 10:40:51 GMT",
+    "fetched_at": "2026-09-21 20:28:03",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "제약",
+      "바이오테크",
+      "헬스케어"
+    ],
+    "keywords": [
+      "노보 노디스크",
+      "위고비",
+      "비만 치료제",
+      "제약 경쟁"
+    ],
+    "reason": "노보 노디스크의 위고비 이후 성장 전략 발표에도 주가 하락은 비만 치료제 시장의 경쟁 심화와 선두 기업의 성장성에 대한 시장 우려를 반영합니다. 이는 관련 제약/바이오 섹터 전반의 투자심리에 부정적 영향을 줄 수 있습니다.",
+    "action_point": "비만 치료제 관련 제약/바이오 섹터 투자 비중을 축소하고, 경쟁 심화에 따른 이익률 하락 가능성을 염두에 두어라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "U.S.-listed Greenland stocks surge after Trump announces security deal with Denmark",
+    "title_ko": "트럼프, 덴마크와 안보 협정 발표 후 미국 상장 그린란드 주식 급등",
+    "link": "https://www.cnbc.com/2026/09/21/greenland-trump-denmark-deal-stocks-mining.html",
+    "published": "Mon, 21 Sep 2026 10:50:45 GMT",
+    "fetched_at": "2026-09-21 20:28:15",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "방위산업",
+      "건설",
+      "에너지/원자재"
+    ],
+    "keywords": [
+      "지정학",
+      "북극",
+      "안보",
+      "군사",
+      "자원경쟁"
+    ],
+    "reason": "미국의 북극 지역 안보 및 군사력 강화는 러시아, 중국 등과의 지정학적 경쟁 심화를 의미하며, 장기적으로 북극 자원 및 항로 통제권을 둘러싼 긴장 고조 가능성을 시사한다.",
+    "action_point": "미국 방위산업 관련 투자 기회 모색"
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "자원 위기로부터 국민 일상 보호! - 전체 | 카드/한컷 - korea.kr",
+    "title_ko": "자원 위기로부터 국민 일상 보호!",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5lQjFrRWg2RDExZTJFb1lvRmMxTTg2ZTVoSi1hMEU2bEROVWFrc0hVUkJYdGRQUnkzNzdfZ1d5OS1VSzY3ajdIenp1MTg4aFQxRmkwX1RuS1g5VV95aGg4YnZZbVRhNU5KQjdzWGhB?oc=5",
+    "published": "Mon, 21 Sep 2026 06:18:33 GMT",
+    "fetched_at": "2026-09-21 20:29:02",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "에너지",
+      "원자재",
+      "산업재",
+      "유틸리티",
+      "필수소비재"
+    ],
+    "keywords": [
+      "자원 위기",
+      "에너지 가격",
+      "원자재 가격",
+      "물가 상승",
+      "정부 정책",
+      "공급망"
+    ],
+    "reason": "정부가 '자원 위기'를 공식적으로 인지하고 국민 일상 보호를 위한 정책 추진을 시사하는 바, 이는 에너지 및 원자재 가격 상승 압력과 전반적인 물가 상승 우려를 반영하며, 관련 산업의 원가 부담이 심화될 수 있음을 의미한다.",
+    "action_point": "원자재 및 에너지 의존도가 높은 국내 기업의 원가 부담 증가에 대비하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "ETRI, 피지컬 AI 국제표준화 주도한다 - 로봇신문",
+    "title_ko": "ETRI, 피지컬 AI 국제표준화 주도한다",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE04c2lDVHVlRXloM0NkTjZUMDRPYUxpZE44MHd0T3czbzdvbEZweUJwRVRXVmJWcmxIdDJxR2g5NjdIU3djcHVhYkhOUnpJSl8wRVRLLVMtakp0VHRIYm5ETDNpQkt6bzVJeXhFbw?oc=5",
+    "published": "Mon, 21 Sep 2026 08:20:01 GMT",
+    "fetched_at": "2026-09-21 20:29:10",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "AI",
+      "로봇",
+      "자동화",
+      "반도체"
+    ],
+    "keywords": [
+      "ETRI",
+      "피지컬 AI",
+      "국제표준화",
+      "로봇",
+      "인공지능"
+    ],
+    "reason": "ETRI의 피지컬 AI 국제표준화 주도는 국내 AI 및 로봇 산업이 글로벌 기술 리더십을 확보하고 미래 성장 동력을 강화할 기회입니다. 이는 관련 기술 기업들의 장기적인 경쟁력 향상에 긍정적인 영향을 미칠 수 있습니다.",
+    "action_point": "로봇 및 AI 관련 기술주 포트폴리오 편입을 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "소비.관광은 약세, 물가.생산은 제자리...\"제주경제 회복 제한적\" - 헤드라인제주",
+    "title_ko": "소비.관광은 약세, 물가.생산은 제자리...\"제주경제 회복 제한적\"",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE85SzhUd0lCRWM3dGRSYjRkX3VMVnF1NHlzM1FmdWp5cjZpRTlzdTQ4THJidndGR2o3ZnFJam1YM3ByQ0h2MTNWRURnVzJ1RTVsWDN6QXVHUDZNZ0o0U0diNTdqQlJnQ21zQlhiakd0MENHSzQ?oc=5",
+    "published": "Mon, 21 Sep 2026 08:35:17 GMT",
+    "fetched_at": "2026-09-21 20:29:23",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "관광",
+      "유통",
+      "항공",
+      "레저"
+    ],
+    "keywords": [
+      "제주 경제",
+      "소비 둔화",
+      "관광산업",
+      "경기 부진"
+    ],
+    "reason": "제주 경제의 소비 및 관광 부진은 국내 전반의 내수 둔화 가능성을 시사하며, 이는 국내 소비재, 여행, 항공 등 관련 산업의 실적에 부정적인 영향을 미칠 수 있습니다.",
+    "action_point": "국내 소비재 및 여행/레저 섹터의 투자 비중을 재검토하고 보수적인 접근을 유지하십시오."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "‘목표’에서 ‘시장’으로…수소경제 2.0, AI·산업수요에서 돌파구 찾는다 - 에너지데일리",
+    "title_ko": "‘목표’에서 ‘시장’으로…수소경제 2.0, AI·산업수요에서 돌파구 찾는다",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBfcHZITWszV0hwaUFwa1k5RjJuLTU3QjFkZ29ma1JuOVZFalRSczc4cWtPSVRfdTNQTlVHeVFEUVJGblZGb3AyTnVyUGpRdlpNb0E2R0pXMElCQVRrQlpXR1J2ZElJYWw1SXloLXRrV0ZXZw?oc=5",
+    "published": "Mon, 21 Sep 2026 09:19:25 GMT",
+    "fetched_at": "2026-09-21 20:29:31",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "수소",
+      "AI",
+      "신재생에너지",
+      "산업재"
+    ],
+    "keywords": [
+      "수소경제",
+      "AI",
+      "산업수요",
+      "친환경에너지"
+    ],
+    "reason": "수소경제 정책이 목표 중심에서 AI 및 산업수요 기반의 시장 확대로 전환됨을 시사하며, 관련 기술 개발 및 인프라 투자 확대를 촉진할 수 있다.",
+    "action_point": "수소 생산/활용 및 AI 융합 솔루션 관련 국내 기업 투자 비중 확대 검토."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "글로벌세아·OK금융… 중앙일보 인수전 참전",
+    "title_ko": "글로벌세아·OK금융… 중앙일보 인수전 참전",
+    "link": "https://www.mk.co.kr/news/stock/12158641",
+    "published": "Mon, 21 Sep 2026 19:57:51 +09:00",
+    "fetched_at": "2026-09-21 20:29:48",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "미디어",
+      "금융",
+      "의류/유통"
+    ],
+    "keywords": [
+      "중앙일보",
+      "인수전",
+      "M&A",
+      "글로벌세아",
+      "OK금융"
+    ],
+    "reason": "이 뉴스는 중앙일보 매각 관련 M&A 흥행 소식으로, 미디어 섹터 내 개별 기업 이슈이다. 거시경제나 주요 투자 자산 전반에 미치는 직접적인 영향은 제한적이다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "Iran vows 'painful' retaliation as Trump piles on pressure ahead of UN General Assembly meeting",
     "title_ko": "이란, UN 총회 앞두고 트럼프 압박 강화에 '고통스러운 보복' 다짐",
     "link": "https://www.cnbc.com/2026/09/21/us-iran-war-trump-hormuz.html",
@@ -2693,276 +2975,5 @@
     ],
     "reason": "트럼프의 연준 금리 인상 불만은 통화 정책 독립성에 대한 우려를 높여 시장 불확실성을 야기할 수 있습니다. EU 및 캐나다 관련 발언은 향후 무역 정책 갈등을 시사하여 지정학적 긴장감을 고조시킬 가능성이 있습니다.",
     "action_point": "미국 정치적 불확실성 증가와 통화 정책 독립성 훼손 가능성에 대비하여 포트폴리오 내 방어적 자산 비중을 점검하고 달러 자산 보유를 고려."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "한-IEA, 아시아 에너지 안보·기후위기 대응 본격화…'RISE ASIA' 추진 - 대한민국 정책브리핑",
-    "title_ko": "한-IEA, 아시아 에너지 안보·기후위기 대응 본격화…'RISE ASIA' 추진",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWa2diT01GUFhaSk9VdHEtek1JV005R0xqcFR4ejltUmtCMllzeUMtWS1qTDE5MWlfQ2hsclhZVHlBZ2UwdUNUcV9ScTZOTy1BRDhHdHBoOTBwVGlNdVBRdWROSDVLd2p1amJ5Tw?oc=5",
-    "published": "Thu, 17 Sep 2026 07:31:25 GMT",
-    "fetched_at": "2026-09-17 17:13:45",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "친환경 에너지",
-      "원자력",
-      "에너지 효율",
-      "인프라"
-    ],
-    "keywords": [
-      "한-IEA",
-      "에너지 안보",
-      "기후위기",
-      "RISE ASIA",
-      "아시아"
-    ],
-    "reason": "한국과 IEA의 아시아 에너지 안보 및 기후 위기 대응 협력은 장기적으로 역내 친환경 에너지 전환 및 관련 인프라 투자를 촉진하며, 한국 기업의 수출 기회를 확대할 수 있습니다.",
-    "action_point": "아시아 에너지 전환 및 기후 대응 관련 국내 친환경 에너지, 원자력, 인프라 섹터 장기 투자 비중 확대를 검토하라."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Here are five key takeaways from Wednesday's Fed rate hike",
-    "title_ko": "수요일 연준 금리 인상 발표의 핵심 시사점",
-    "link": "https://www.cnbc.com/2026/09/16/here-are-five-key-takeaways-from-wednesdays-fed-rate-hike.html",
-    "published": "Wed, 16 Sep 2026 21:23:51 GMT",
-    "fetched_at": "2026-09-17 11:28:15",
-    "sentiment": "중립",
-    "importance": 5,
-    "sectors": [
-      "기술주",
-      "부동산",
-      "금융주"
-    ],
-    "keywords": [
-      "연준",
-      "금리 인상",
-      "통화 정책",
-      "긴축"
-    ],
-    "reason": "예상된 연준의 금리 인상은 시장에 이미 선반영되었을 가능성이 높지만, 지속적인 긴축 기조를 확인시켜 차입 비용 증가 및 경제 성장 둔화 압력을 유지할 것입니다.",
-    "action_point": "지속적인 고금리 환경에 대비하여 성장주 비중 축소 및 현금/단기 채권 비중 확대를 검토하십시오."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[속보] 재경위, 이형일 경제부총리 후보자 청문보고서 가결 - 연합뉴스TV",
-    "title_ko": "재경위, 이형일 경제부총리 후보자 청문보고서 가결",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBfNXNJOGRBMXFvMFEyLVQ5dzM1WkFzRGlESFRlamdsaUtMV0ZaWVRHeVFnbE5Zc29EOE00eWVHMUJKZFphaktrMUNJWVJWOENyYTZJdjVCcnBxQjh5N0N5b1RYemtJZTQ?oc=5",
-    "published": "Thu, 17 Sep 2026 00:45:00 GMT",
-    "fetched_at": "2026-09-17 11:28:34",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "거시경제 전반"
-    ],
-    "keywords": [
-      "경제부총리",
-      "정부 인선",
-      "경제 정책"
-    ],
-    "reason": "이형일 경제부총리 후보자의 청문보고서 가결은 정부 경제팀 구성의 순조로운 진행을 의미하며, 정책 불확실성 해소에 기여하나 시장에 미치는 직접적 영향은 제한적이다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "美 세계경제 지배력 '흔들'...달러는 줄이고 금은 '사수' - v.daum.net",
-    "title_ko": "美 세계경제 지배력 '흔들'...달러는 줄이고 금은 '사수'",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBoMldJQmxvdlFITDltZHFXRFBIWXIwdGVaMGJ4bmM2RC1KRHNHcEdTOHpvaXpxMm1LeWNkVXpPMFpiSllnVlVKM0FMb0lWbUk?oc=5",
-    "published": "Wed, 16 Sep 2026 22:06:41 GMT",
-    "fetched_at": "2026-09-17 08:25:40",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "외환",
-      "원자재 (금)",
-      "글로벌 자산배분"
-    ],
-    "keywords": [
-      "미국 경제 지배력",
-      "달러 약세",
-      "금 가격 상승",
-      "탈달러화"
-    ],
-    "reason": "미국의 세계 경제 지배력 약화와 달러의 기축통화 지위 변화 가능성을 시사하며, 이는 글로벌 외환 시장 및 자산 배분 전략에 중대한 영향을 미칠 수 있습니다. 안전자산으로서 금의 중요성이 부각될 것입니다.",
-    "action_point": "달러 자산 비중 축소 및 금 자산 편입/확대 검토."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Here is what changed in the new Fed statement under Warsh",
-    "title_ko": "워시 관점에서 본 새 연준 성명서의 변화 내용",
-    "link": "https://www.cnbc.com/2026/09/16/september-fed-statement-redline.html",
-    "published": "Wed, 16 Sep 2026 18:18:54 GMT",
-    "fetched_at": "2026-09-17 05:39:26",
-    "sentiment": "중립",
-    "importance": 5,
-    "sectors": [
-      "금융",
-      "기술",
-      "부동산"
-    ],
-    "keywords": [
-      "연준",
-      "FOMC",
-      "금리",
-      "통화정책",
-      "성명서"
-    ],
-    "reason": "연준의 FOMC 성명서 변화는 향후 통화정책 방향을 가늠하는 핵심 지표이며, 이는 글로벌 금리, 환율, 주식 시장에 광범위한 영향을 미칩니다.",
-    "action_point": "연준 성명서의 핵심 변화 내용을 즉시 파악하고, 이에 따른 자산 배분 및 투자 전략 조정 방안을 수립."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Fed approves interest rate hike, signals one more to come this year",
-    "title_ko": "연준, 기준금리 인상 승인 및 올해 추가 인상 시사",
-    "link": "https://www.cnbc.com/2026/09/16/fed-rate-decision-september-2026.html",
-    "published": "Wed, 16 Sep 2026 19:02:17 GMT",
-    "fetched_at": "2026-09-17 05:39:36",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "성장주",
-      "기술주",
-      "부동산",
-      "금융주"
-    ],
-    "keywords": [
-      "금리인상",
-      "연준",
-      "통화긴축",
-      "달러강세",
-      "고금리"
-    ],
-    "reason": "연준의 금리 인상과 추가 인상 시사는 유동성 축소와 자금 조달 비용 증가로 이어져 주식 및 부동산 등 위험 자산에는 전반적으로 부정적인 영향을 미칩니다. 이는 시장 금리 상승 압력을 가중시키고 달러 강세를 유발할 수 있습니다.",
-    "action_point": "고금리 환경에 취약한 성장주 및 부동산 관련 자산 비중 축소, 달러 자산 비중 유지를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Boeing CEO: 737 Max production taking 'a little bit longer' to stabilize than expected",
-    "title_ko": "보잉 CEO: 737 Max 생산 안정화 예상보다 '조금 더 시간 걸릴 것'",
-    "link": "https://www.cnbc.com/2026/09/16/boeing-ceo-737-max-production.html",
-    "published": "Wed, 16 Sep 2026 19:36:24 GMT",
-    "fetched_at": "2026-09-17 05:39:45",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "항공우주",
-      "항공운송",
-      "산업재"
-    ],
-    "keywords": [
-      "보잉",
-      "737 Max",
-      "생산 지연",
-      "항공우주"
-    ],
-    "reason": "보잉 737 Max 생산 지연은 보잉의 수익성에 부정적이며, 글로벌 항공운송사들의 항공기 도입 일정에도 차질을 빚게 할 수 있습니다. 이는 항공우주 섹터 전반에 미미하나마 부정적 심리를 유발할 수 있습니다.",
-    "action_point": "글로벌 항공우주 섹터 내 보잉 관련 기업의 투자 비중 조정 검토."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "“4조 계약 공시 전에 운 좋게?”…에이비엘바이오, 가족계좌 조사 착수",
-    "title_ko": "“4조 계약 공시 전에 운 좋게?”…에이비엘바이오, 가족계좌 조사 착수",
-    "link": "https://www.mk.co.kr/news/it/12154898",
-    "published": "Thu, 17 Sep 2026 04:51:53 +09:00",
-    "fetched_at": "2026-09-17 05:40:01",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "바이오",
-      "제약"
-    ],
-    "keywords": [
-      "에이비엘바이오",
-      "미공개정보 이용",
-      "기술수출",
-      "기업 지배구조",
-      "조사"
-    ],
-    "reason": "에이비엘바이오의 대규모 기술수출 관련 미공개정보 이용 의혹 조사는 회사의 법적 및 평판 리스크를 증가시키며, 기업 지배구조에 대한 우려를 키웁니다. 이는 해당 기업의 투자 심리에 부정적인 영향을 미칠 수 있습니다.",
-    "action_point": "에이비엘바이오 주식 보유 비중 축소 검토"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Fed meeting live updates: Rate hike expected for the first time in three years",
-    "title_ko": "Fed 회의 실시간 업데이트: 3년 만에 처음으로 금리 인상 예상",
-    "link": "https://www.cnbc.com/2026/09/16/fed-meeting-today-live-updates.html",
-    "published": "Wed, 16 Sep 2026 17:33:43 GMT",
-    "fetched_at": "2026-09-17 02:52:24",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "기술",
-      "부동산",
-      "금융",
-      "채권",
-      "외환"
-    ],
-    "keywords": [
-      "Fed",
-      "금리 인상",
-      "FOMC",
-      "통화 정책",
-      "긴축"
-    ],
-    "reason": "미국 연준의 3년 만의 금리 인상은 글로벌 유동성 축소와 자금 조달 비용 상승을 의미하며, 이는 위험 자산 투자 심리를 위축시키고 달러 강세를 유발할 수 있습니다.",
-    "action_point": "글로벌 금리 인상 기조에 맞춰 고금리 민감 자산 비중을 축소하고 달러 자산 보유를 유지하십시오."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Senate is still a toss-up, but Democrats now have slight edge, prediction market traders think",
-    "title_ko": "상원은 여전히 경합이지만, 예측 시장 트레이더들은 민주당이 약간 우세하다고 본다",
-    "link": "https://www.cnbc.com/2026/09/16/prediction-markets-say-democrats-are-slightly-favored-to-win-senate.html",
-    "published": "Wed, 16 Sep 2026 16:26:41 GMT",
-    "fetched_at": "2026-09-17 02:52:00",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "신재생에너지",
-      "기술",
-      "헬스케어",
-      "금융"
-    ],
-    "keywords": [
-      "미국 상원",
-      "민주당",
-      "선거",
-      "정책 불확실성",
-      "예측시장"
-    ],
-    "reason": "미국 상원 내 민주당 우세 가능성 증가는 향후 재정 지출, 세금, 규제 등 정책 방향 변화를 예고하며, 특정 산업에 기회 또는 리스크로 작용할 수 있어 전반적인 시장 불확실성을 높일 수 있습니다.",
-    "action_point": "미국 상원 선거 최종 결과에 따른 정책 변화 가능성을 염두에 두고, 포트폴리오 내 미국 정책 민감 섹터(예: 신재생에너지, 기술, 금융)의 비중을 점검하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Continental Resources to develop massive oil patch in Venezuela",
-    "title_ko": "콘티넨탈 리소스, 베네수엘라 대규모 유전 개발 착수",
-    "link": "https://www.cnbc.com/2026/09/16/continental-resources-to-develop-massive-oil-patch-in-venezuela-.html",
-    "published": "Wed, 16 Sep 2026 17:50:56 GMT",
-    "fetched_at": "2026-09-17 02:52:35",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "에너지",
-      "정유화학",
-      "산업재"
-    ],
-    "keywords": [
-      "베네수엘라",
-      "유가",
-      "석유 생산",
-      "에너지 투자"
-    ],
-    "reason": "콘티넨탈 리소스의 베네수엘라 유전 개발 착수는 장기적으로 글로벌 석유 공급 증가 가능성을 시사하나, 실제 생산 확대까지는 상당한 시간과 정치적 안정성이 요구됩니다.",
-    "action_point": "장기적인 유가 하방 압력 가능성에 대비하여 에너지 관련 투자 포트폴리오의 리밸런싱 여부를 점검하라."
   }
 ]
