@@ -1,5 +1,107 @@
 [
   {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Here's who we know is going to the Trump-Xi dinner so far",
+    "title_ko": "트럼프-시진핑 만찬에 누가 참석하는지 현재까지 알려진 내용",
+    "link": "https://www.cnbc.com/2026/09/22/heres-who-we-know-is-going-to-the-trump-xi-dinner-so-far.html",
+    "published": "Tue, 22 Sep 2026 02:41:10 GMT",
+    "fetched_at": "2026-09-22 14:37:51",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "기술",
+      "산업재",
+      "소비재"
+    ],
+    "keywords": [
+      "트럼프",
+      "시진핑",
+      "미중 관계",
+      "만찬",
+      "정상회담"
+    ],
+    "reason": "트럼프-시진핑 만찬의 주요 경제 협력 성과에 대한 기대감이 높은 상황에서 비즈니스 관계자 참석 여부가 불확실하다는 점은 시장에 추가적인 불확실성을 더하며 관망세를 유발할 수 있습니다.",
+    "action_point": "미중 무역 갈등 관련 불확실성 지속에 대비하여 대중국 수출 의존도가 높은 국내 산업재 및 기술주 비중 축소 검토."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Jamie Dimon says hyperscaler AI spending could hit $1 trillion next year",
+    "title_ko": "제이미 다이먼, 내년 하이퍼스케일러 AI 지출 1조 달러 도달 가능성 언급",
+    "link": "https://www.cnbc.com/2026/09/21/jamie-dimon-jpm-jpmorgan-indiaconference.html",
+    "published": "Tue, 22 Sep 2026 01:30:01 GMT",
+    "fetched_at": "2026-09-22 14:37:57",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "반도체",
+      "클라우드 컴퓨팅",
+      "소프트웨어",
+      "데이터센터"
+    ],
+    "keywords": [
+      "AI",
+      "인공지능",
+      "하이퍼스케일러",
+      "클라우드",
+      "반도체"
+    ],
+    "reason": "하이퍼스케일러의 막대한 AI 투자 전망은 반도체, 클라우드 컴퓨팅 등 AI 관련 산업의 폭발적 성장을 시사하며, 기술 섹터 전반에 강력한 상승 모멘텀을 제공할 것입니다.",
+    "action_point": "AI 및 반도체 섹터 비중 확대 검토"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "All Iranian airlines to be 'shut down' from Wednesday, Bessent tells CNBC",
+    "title_ko": "미 재무장관, '수요일부터 모든 이란 항공사 폐쇄' CNBC서 밝혀",
+    "link": "https://www.cnbc.com/2026/09/22/us-iran-war-trump-hormuz.html",
+    "published": "Tue, 22 Sep 2026 01:51:44 GMT",
+    "fetched_at": "2026-09-22 14:38:07",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "항공",
+      "운송",
+      "방산"
+    ],
+    "keywords": [
+      "이란 제재",
+      "지정학적 리스크",
+      "원유",
+      "미국 재무부"
+    ],
+    "reason": "미국의 이란 제재 강화는 중동 지역의 지정학적 리스크를 고조시키며, 이는 원유 공급 차질 우려를 키워 유가 상승 압력으로 작용할 수 있다. 또한 글로벌 무역 및 운송 부문에 불확실성을 가중시킨다.",
+    "action_point": "원유 관련 투자 자산 비중 확대를 검토하고 지정학적 위험 회피를 위해 안전자산에 대한 관심을 높여라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Investors rush into India’s National Stock Exchange IPO at valuation multiple above Nasdaq",
+    "title_ko": "투자자들이 나스닥을 상회하는 밸류에이션으로 인도 국립증권거래소(NSE) IPO에 몰리고 있다",
+    "link": "https://www.cnbc.com/2026/09/22/india-nse-ipo-billion-nasdaq.html",
+    "published": "Tue, 22 Sep 2026 04:00:28 GMT",
+    "fetched_at": "2026-09-22 14:38:16",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "금융",
+      "증권",
+      "이머징 마켓 투자"
+    ],
+    "keywords": [
+      "인도",
+      "IPO",
+      "증권거래소",
+      "이머징 마켓",
+      "밸류에이션",
+      "자본유입"
+    ],
+    "reason": "인도 최대 IPO의 성공적인 흥행은 이머징 마켓, 특히 인도 시장에 대한 글로벌 투자자들의 강한 신뢰와 자본 유입을 시사합니다. 이는 해당 시장의 금융 섹터 성장에 긍정적이며, 전반적인 위험 선호 심리 강화로 이어질 수 있습니다.",
+    "action_point": "인도 증시를 포함한 이머징 마켓 자산, 특히 금융 섹터에 대한 투자 확대를 고려하라."
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "Trump, Xi seek trade stability and deals, but AI, tariffs and Iran loom large. What to watch",
@@ -2874,107 +2976,5 @@
     ],
     "reason": "이 뉴스는 특정 개별 주식들의 개장 전 움직임을 단순 보고하는 것으로, 거시 경제나 시장 전반에 미치는 직접적인 영향은 제한적입니다. 개별 기업의 미시적 이슈에 대한 업데이트입니다.",
     "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "A stronger dollar and rising yields: How the Fed’s rate hike could hit global markets",
-    "title_ko": "더 강해진 달러와 상승하는 금리: 연준의 금리 인상이 글로벌 시장에 미칠 영향",
-    "link": "https://www.cnbc.com/2026/09/17/fed-rate-hike-impact-globally-currency-yields.html",
-    "published": "Thu, 17 Sep 2026 05:03:07 GMT",
-    "fetched_at": "2026-09-17 17:11:43",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "기술주",
-      "성장주",
-      "신흥시장",
-      "부동산",
-      "금융"
-    ],
-    "keywords": [
-      "연준 금리 인상",
-      "강달러",
-      "글로벌 채권 금리 상승",
-      "주식 가치 평가",
-      "경제 성장 둔화"
-    ],
-    "reason": "연준의 지속적인 금리 인상은 글로벌 채권 금리를 상승시키고 달러 강세를 유발하여, 주식 밸류에이션 하락 압력과 전반적인 경제 성장 둔화로 이어질 수 있습니다. 특히 고금리에 취약한 성장주 및 신흥시장에 부정적입니다.",
-    "action_point": "고금리 환경에 취약한 성장주 및 고부채 기업 비중을 축소하고, 달러 자산 보유를 유지하십시오."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Investors react to Fed hike and market sell-off: Brace for 'higher for longer' rates",
-    "title_ko": "투자자들, 연준 금리 인상 및 시장 매도세에 반응: '더 높고 오래가는' 금리에 대비하라",
-    "link": "https://www.cnbc.com/2026/09/16/investors-react-to-fed-hike-market-sell-off-brace-for-higher-rates-for-longer.html",
-    "published": "Wed, 16 Sep 2026 21:22:49 GMT",
-    "fetched_at": "2026-09-17 17:12:31",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "성장주",
-      "부동산",
-      "고부채 기업"
-    ],
-    "keywords": [
-      "연준",
-      "금리 인상",
-      "고금리 장기화",
-      "인플레이션",
-      "시장 매도"
-    ],
-    "reason": "연준의 만장일치 금리 인상 결정은 고금리 장기화 기조를 재확인시켜, 주식 등 위험자산에 대한 투자심리를 위축시키고 시장 전반의 조정 압력을 가중시킬 것입니다. 이는 기업의 자금조달 비용 증가 및 성장률 둔화로 이어질 수 있습니다.",
-    "action_point": "금리 민감주 및 고성장 기술주 비중 축소를 검토하고 현금 비중을 확대하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Treasury yields move lower after Fed kicks off hiking cycle",
-    "title_ko": "연준 금리 인상 사이클 시작 후 국채 수익률 하락",
-    "link": "https://www.cnbc.com/2026/09/17/treasury-yields-move-lower-after-fed-kicks-off-hiking-cycle.html",
-    "published": "Thu, 17 Sep 2026 06:38:56 GMT",
-    "fetched_at": "2026-09-17 17:12:42",
-    "sentiment": "호재",
-    "importance": 5,
-    "sectors": [
-      "기술주",
-      "성장주",
-      "부동산"
-    ],
-    "keywords": [
-      "연준",
-      "금리 인상",
-      "국채 수익률",
-      "통화정책"
-    ],
-    "reason": "연준이 금리 인상 사이클을 시작했음에도 불구하고 국채 수익률이 하락한 것은 시장이 연준의 긴축 속도를 예상보다 덜 공격적으로 해석했음을 시사한다. 이는 단기적으로 주식 등 위험자산, 특히 금리에 민감한 성장주에 긍정적인 영향을 미칠 수 있다.",
-    "action_point": "연준의 긴축에도 불구하고 국채 수익률이 하락한 점을 고려, 금리 민감 성장주 및 기술주 비중 유지를 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "'Hostile act': Trump threatens EU with tariffs over Canada associate-membership proposal",
-    "title_ko": "트럼프, 캐나다 EU 준회원국 제안에 '적대적 행위' 규정하며 EU에 관세 위협",
-    "link": "https://www.cnbc.com/2026/09/17/trump-canada-european-union-tariffs-associate-member-ukraine-.html",
-    "published": "Thu, 17 Sep 2026 05:42:46 GMT",
-    "fetched_at": "2026-09-17 17:11:23",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "수출주",
-      "제조업",
-      "운송/물류"
-    ],
-    "keywords": [
-      "트럼프",
-      "관세",
-      "EU",
-      "캐나다",
-      "무역분쟁",
-      "지정학"
-    ],
-    "reason": "트럼프의 EU에 대한 관세 위협은 미국과 유럽연합 간 무역 긴장을 고조시키며, 이는 글로벌 교역량 감소와 기업 실적 악화로 이어질 수 있다. 특히 유럽과 북미 시장에 의존하는 수출 기업들에게 부정적인 영향을 미칠 것이다.",
-    "action_point": "글로벌 무역 분쟁 심화 가능성에 대비하여 수출 의존도가 높은 산업 섹터 비중 축소를 검토한다."
   }
 ]
