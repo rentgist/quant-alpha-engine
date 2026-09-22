@@ -1,5 +1,105 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "후티- 사우디 간 전쟁 격화에 홍해 건너 탈출하는 예멘인들 - bbc.com",
+    "title_ko": "후티- 사우디 간 전쟁 격화에 홍해 건너 탈출하는 예멘인들",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9KZU1zbm1lTmtkNmZjelVCT0F5LXE0bHlGZzl3TEVKTV9YNmpNcUZ1T1Q3NFRKZmZ4N0stdkl5alBjaXlBZHRPeE9XenQwS25MWEVGbVAtRTg2ckhWMlHSAWNBVV95cUxQVmdWRy1ldk1MUEZYVy0xRzlMN0tOMmxwaDl4NzY3UTBZZVdWRWlWTmltQkZzbjhCWTJqd3o1b3dXR1RVQU5RR2E1dllKVWhydzloQlc5aFBMX0J3UlpuUXlYcTQ?oc=5",
+    "published": "Tue, 22 Sep 2026 08:35:47 GMT",
+    "fetched_at": "2026-09-23 00:16:40",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "해운",
+      "방산",
+      "보험"
+    ],
+    "keywords": [
+      "후티",
+      "사우디",
+      "예멘",
+      "홍해",
+      "지정학",
+      "유가",
+      "해운",
+      "물류"
+    ],
+    "reason": "중동 지역의 후티-사우디 분쟁 격화는 홍해 해상 운송 경로의 불안정성을 심화시켜 유가 상승 및 글로벌 물류 비용 증가 압박을 가중시키며 지정학적 리스크를 고조시킨다.",
+    "action_point": "원유 및 해운 섹터에 대한 포트폴리오 비중 확대를 검토하고, 지정학적 리스크 노출이 큰 자산의 변동성에 대비하라."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Kalshi asks CFTC to allow margin trading on its platform, letting users buy with borrowed funds",
+    "title_ko": "칼쉬, CFTC에 플랫폼 내 마진 거래 허용 요청... 차입 자금으로 매수 가능해질 것",
+    "link": "https://www.cnbc.com/2026/09/22/kalshi-asks-cftc-to-allow-margin-trading-on-its-platform-letting-users-buy-with-borrowed-funds.html",
+    "published": "Tue, 22 Sep 2026 12:28:51 GMT",
+    "fetched_at": "2026-09-23 00:16:22",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "금융 기술",
+      "대체 투자"
+    ],
+    "keywords": [
+      "Kalshi",
+      "CFTC",
+      "마진 거래",
+      "이벤트 계약",
+      "규제",
+      "기관 투자자"
+    ],
+    "reason": "이 규제 승인 요청은 이벤트 계약 시장의 유동성과 기관 투자자 참여를 늘릴 잠재력이 있습니다. 그러나 이벤트 계약 시장은 여전히 니치 분야로, 주식, 채권, 환율 등 주요 자산군에 미칠 직접적인 거시적 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Stocks making the biggest moves premarket: Alibaba, Quest Diagnostics, On Holding, GameStop & more",
+    "title_ko": "프리마켓에서 가장 큰 변동을 보이는 종목들: 알리바바, 퀘스트 다이어그노스틱스, 온 홀딩, 게임스탑 외",
+    "link": "https://www.cnbc.com/2026/09/22/stocks-making-the-biggest-moves-premarket-baba-dgx-onon-gme.html",
+    "published": "Tue, 22 Sep 2026 11:49:33 GMT",
+    "fetched_at": "2026-09-23 00:16:32",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "전자상거래",
+      "헬스케어",
+      "소비재",
+      "소매"
+    ],
+    "keywords": [
+      "프리마켓",
+      "개별주식 변동",
+      "알리바바",
+      "퀘스트다이어그노스틱스",
+      "온홀딩",
+      "게임스탑"
+    ],
+    "reason": "이 기사는 프리마켓에서 큰 변동을 보이는 특정 개별 주식들을 나열할 뿐, 시장 전반이나 거시 경제에 영향을 미칠 만한 구체적인 배경 정보나 트렌드를 제시하지 않습니다.",
+    "action_point": "본 기사는 거시 경제 분석 관점에서 특정 포트폴리오 조정이 필요한 직접적인 근거를 제공하지 않으므로, 해당 없음."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "'뇌물 혐의' 기소 문재인… 내년 1월 국민참여재판",
+    "title_ko": "'뇌물 혐의' 기소 문재인… 내년 1월 국민참여재판",
+    "link": "https://www.mk.co.kr/news/society/12159866",
+    "published": "Tue, 22 Sep 2026 23:01:29 +09:00",
+    "fetched_at": "2026-09-23 00:16:53",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [],
+    "keywords": [
+      "문재인 전 대통령",
+      "사법 리스크",
+      "국내 정치"
+    ],
+    "reason": "전직 대통령에 대한 사법 절차는 국내 정치적 논란을 야기할 수 있으나, 현재 거시 경제 및 주요 자산 시장에 미치는 직접적인 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "Trump to press Zelenskyy for energy truce, says Russia has ‘lost control’ of oil due to Ukraine war",
@@ -2889,96 +2989,5 @@
     ],
     "reason": "이 대통령의 발언은 대한민국의 직접적인 전쟁 개입 가능성을 부인하고 북미 관계에서 한국이 소외되지 않을 것이라는 점을 시사하여 지정학적 불안감을 완화한다. 이는 국내 증시의 지정학적 리스크 프리미엄을 낮추고 투자심리 개선에 긍정적으로 작용할 수 있다.",
     "action_point": "지정학적 리스크 완화에 따른 국내 주식 비중 유지 또는 확대 검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[속보] 李 “전쟁개입 파병은 없다…청해부대 활동 강화는 검토” - joongang.co.kr",
-    "title_ko": "[속보] 李 “전쟁개입 파병은 없다…청해부대 활동 강화는 검토” - joongang.co.kr",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5GSmc3TnpaR3ZiSnJaODd5OEV6Q1JHSFdHQWNFbGFfV0VVZlBZeURtek5kNWdiVG5IWFItMFdOODZ5ZDdERElpMDRpMDFXQ2ZzY1RvSnF3?oc=5",
-    "published": "Fri, 18 Sep 2026 02:16:30 GMT",
-    "fetched_at": "2026-09-18 16:46:46",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "해운",
-      "방산"
-    ],
-    "keywords": [
-      "전쟁개입",
-      "파병",
-      "청해부대",
-      "해상안보"
-    ],
-    "reason": "한국 정부가 직접적인 전쟁 개입을 지양함으로써 국내 경제의 지정학적 리스크를 완화한다. 청해부대 활동 강화 검토는 해상 무역로 안정에 긍정적이나, 즉각적인 시장 영향은 제한적이다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "이 대통령 “전쟁 관여·개입 파병은 없다…청해부대 강화는 고심” - 한겨레",
-    "title_ko": "이 대통령 “전쟁 관여·개입 파병은 없다…청해부대 강화는 고심”",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5DX3NoTVVJX2tsM3dwTlVnZVRtVjNYX1BSUDlpWGhJXzc2VFB1ZWdVNTBYelEyTnl2SmZkN2J2RmM5V2hsQ21Ia0J3aE1ud0pZSXR6WFUxQjg5UmFWVEM4NXBKdndIRHpZQkJzVjZZbjNwY2Zh?oc=5",
-    "published": "Fri, 18 Sep 2026 06:37:00 GMT",
-    "fetched_at": "2026-09-18 16:46:55",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "국방/방산"
-    ],
-    "keywords": [
-      "이 대통령",
-      "전쟁",
-      "파병",
-      "청해부대",
-      "국방",
-      "지정학"
-    ],
-    "reason": "대통령의 발언은 한국이 현재 진행 중인 분쟁에 직접적으로 관여하거나 파병하지 않을 것임을 재확인하며, 이는 한국 자산에 대한 지정학적 리스크 프리미엄을 완화하는 요인으로 작용합니다. 청해부대 강화 검토는 국방력 강화에 대한 의지를 시사하나, 특정 안보 위협이나 경제적 기회로 해석되기에는 이릅니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "이 대통령 \"연임 생각 전혀...전쟁 파병은 없을 것\" - YTN",
-    "title_ko": "이 대통령 \"연임 생각 전혀...전쟁 파병은 없을 것\"",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ieGpFUnNyMHIzNjdZb0JhdjZRV1pEUkRNREVMVFo1SDZCYm1qOGRHSTV3R0FLVkl4Wms3eGRYb2dUdkVJNTZVWkxKQnZveUVodEZLZXNjamRJX1piTkE?oc=5",
-    "published": "Fri, 18 Sep 2026 03:51:00 GMT",
-    "fetched_at": "2026-09-18 16:47:14",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "시장 전반"
-    ],
-    "keywords": [
-      "대통령",
-      "외교",
-      "국방",
-      "지정학적 리스크",
-      "안보"
-    ],
-    "reason": "이 대통령의 전쟁 파병 불가 발언은 국내 시장의 잠재적 지정학적 리스크를 완화하여 전반적인 투자 심리 안정에 기여할 수 있습니다. 연임 관련 발언은 정치적 이슈로 직접적인 시장 영향은 제한적입니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "李대통령 \"전쟁 개입 파병은 없다…국민안전 강화 부분은 검토\" - 연합뉴스",
-    "title_ko": "李대통령 \"전쟁 개입 파병은 없다…국민안전 강화 부분은 검토\"",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ROHRQMFFiMTI1RGtZYVpFREk5aDlmWTNMazJFRGRPN0wtNGZSWGFnQ1N2ZWxGdUN2YWlYbnNvUDB0aFNRaHlPeU9uWGgtcThwRTdveHNNbnhaNEnSAWBBVV95cUxQT1NDSzA0al90UFA2eFBHLVBkczFYMmtXQndUQWhOdTFaMGNsQnJVV0tqOEdRVDljUzVSeEpJNDBVbXR1RnJvZjBCTDhURzI1ZG95THc4TWpRX0NXN25FYXc?oc=5",
-    "published": "Fri, 18 Sep 2026 02:29:33 GMT",
-    "fetched_at": "2026-09-18 16:47:22",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [],
-    "keywords": [
-      "이대통령",
-      "전쟁 개입",
-      "파병",
-      "국민안전",
-      "대외정책"
-    ],
-    "reason": "대통령이 해외 전쟁에 대한 군사 개입 및 파병 계획이 없음을 명확히 밝힘으로써 대외 불확실성을 완화하는 한편, 국내 국민 안전 강화에 집중하겠다는 의지를 표명했다.",
-    "action_point": "해당 없음"
   }
 ]
