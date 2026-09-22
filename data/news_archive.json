@@ -1,5 +1,60 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Trump slams Iran and Cuba, defends AI growth in boastful UN speech",
+    "title_ko": "트럼프, 과장된 UN 연설에서 이란과 쿠바 맹비난하며 AI 성장 옹호",
+    "link": "https://www.cnbc.com/2026/09/22/trump-un-speech-today.html",
+    "published": "Tue, 22 Sep 2026 19:00:39 GMT",
+    "fetched_at": "2026-09-23 04:23:58",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "에너지",
+      "방산",
+      "원자재",
+      "기술"
+    ],
+    "keywords": [
+      "트럼프",
+      "UN",
+      "이란",
+      "쿠바",
+      "지정학",
+      "미국 대외 정책",
+      "서반구"
+    ],
+    "reason": "트럼프의 이란 및 쿠바에 대한 강경 발언은 향후 미국의 대외 정책 변화 가능성과 지정학적 긴장 고조를 시사하며, 이는 에너지 및 원자재 시장의 불확실성을 높일 수 있다.",
+    "action_point": "지정학적 불확실성 증가에 대비하여 포트폴리오의 안전자산(금, 달러) 비중 확대를 검토하라."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Stocks making the biggest moves midday: Lennar, Capri, Vicor, Amgen & more",
+    "title_ko": "장중 큰 폭으로 변동하는 주식들: 레나, 카프리, 비코, 암젠 외",
+    "link": "https://www.cnbc.com/2026/09/22/stocks-making-the-biggest-moves-midday-len-cpri-vicr-amg.html",
+    "published": "Tue, 22 Sep 2026 17:45:31 GMT",
+    "fetched_at": "2026-09-23 04:23:49",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "건설",
+      "명품/패션",
+      "반도체/전력 부품",
+      "바이오/제약"
+    ],
+    "keywords": [
+      "개별 주식 변동",
+      "장중 시장",
+      "Lennar",
+      "Capri",
+      "Vicor",
+      "Amgen"
+    ],
+    "reason": "이 기사는 특정 개별 기업들의 장중 주가 변동을 단순히 나열한 것으로, 거시 경제나 광범위한 투자 자산에 미칠 실질적인 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "GoogleNews_Korea",
     "market": "KR",
     "title": "후티- 사우디 간 전쟁 격화에 홍해 건너 탈출하는 예멘인들 - bbc.com",
@@ -2941,53 +2996,5 @@
     ],
     "reason": "기관 투자자들의 비트코인 매수 증가는 전통 금융 시스템의 재정적 불안감을 반영하며, 이는 암호화폐에 대한 장기적인 자금 유입과 글로벌 자산 배분 변화를 가속화할 수 있다.",
     "action_point": "포트폴리오 내 비트코인 등 주요 암호화폐 자산 편입 비중 확대를 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[속보] 이 대통령 “전쟁 파병 없다…불관여·불개입 원칙 지킬 것” [이 대통령 기자회견] - 경향신문",
-    "title_ko": "[속보] 이 대통령 “전쟁 파병 없다…불관여·불개입 원칙 지킬 것” [이 대통령 기자회견] - 경향신문",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9EdmJlcU9yelNxRHU4XzRLSEFzdHVtSmNmalExOGRvd05jUF9KVlgyVWtKUlRadjJzdFpkS3pKeDdqaE1DY1JNejBveVl5YlZIN1Y1Y1AwMWdwZw?oc=5",
-    "published": "Fri, 18 Sep 2026 02:19:00 GMT",
-    "fetched_at": "2026-09-18 16:47:04",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "전반적 시장",
-      "국방",
-      "에너지"
-    ],
-    "keywords": [
-      "이 대통령",
-      "전쟁",
-      "파병",
-      "불개입",
-      "지정학적 리스크",
-      "외교 정책"
-    ],
-    "reason": "이 대통령의 전쟁 불개입 및 파병 불가 원칙 천명은 대한민국의 지정학적 리스크를 완화하고, 불확실성 감소로 인해 국내 경제 및 금융 시장의 안정성을 높이는 데 긍정적인 영향을 미친다.",
-    "action_point": "대한민국 자산의 지정학적 리스크 프리미엄 완화 효과를 고려하여 국내 증시 투자 비중을 유지하거나 소폭 확대 검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "이 대통령 “전쟁 파병은 없어…북미 대화 ‘패싱’ 우려 안 해도 돼” - v.daum.net",
-    "title_ko": "이 대통령 “전쟁 파병은 없어…북미 대화 ‘패싱’ 우려 안 해도 돼”",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1FRHRCZVZmazVLVFZDNmVyUnFKSWUwNGVlOC14QTAyRnE5Mk45SUNTOXk1azdzVW5RUlhPYUNCTlRka1RjOFhRYzJwX1VsWDA?oc=5",
-    "published": "Fri, 18 Sep 2026 02:15:14 GMT",
-    "fetched_at": "2026-09-18 16:47:33",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "국내 증시 전반"
-    ],
-    "keywords": [
-      "지정학적 리스크",
-      "한반도 안정",
-      "북미 관계",
-      "국방"
-    ],
-    "reason": "이 대통령의 발언은 대한민국의 직접적인 전쟁 개입 가능성을 부인하고 북미 관계에서 한국이 소외되지 않을 것이라는 점을 시사하여 지정학적 불안감을 완화한다. 이는 국내 증시의 지정학적 리스크 프리미엄을 낮추고 투자심리 개선에 긍정적으로 작용할 수 있다.",
-    "action_point": "지정학적 리스크 완화에 따른 국내 주식 비중 유지 또는 확대 검토."
   }
 ]
