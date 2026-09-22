@@ -2,6 +2,76 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "Anthropic and OpenAI roll out cheaper models in first release since call for slowdown",
+    "title_ko": "Anthropic과 OpenAI, 감속 요청 이후 첫 출시에서 더 저렴한 모델 공개",
+    "link": "https://www.cnbc.com/2026/09/22/anthropic-openai-cheaper-ai-models.html",
+    "published": "Tue, 22 Sep 2026 19:43:21 GMT",
+    "fetched_at": "2026-09-23 07:32:30",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "기술",
+      "반도체",
+      "소프트웨어"
+    ],
+    "keywords": [
+      "AI",
+      "거대언어모델",
+      "OpenAI",
+      "Anthropic",
+      "저가 모델"
+    ],
+    "reason": "주요 AI 기업들의 저가 모델 출시는 AI 기술의 상업적 확산과 접근성을 가속화하여 기업들의 생산성 향상 및 AI 인프라 수요 증가로 이어질 수 있습니다.",
+    "action_point": "AI 반도체 및 AI 솔루션 제공 기업 비중 확대를 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "■9월 23일 (수) 경제 캘린더 - YTN",
+    "title_ko": "9월 23일 (수) 경제 캘린더",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBON3RyX25pdUIxcklTNWVSekFqMTV4STUyWk5ub2lPdXpmOEZXajdYRnBsc2xRc3MxZXpDd1dERFNWelh4QjJkblJ3dEJocWIwdTQ5YlRJTkYzZlI5Snc?oc=5",
+    "published": "Tue, 22 Sep 2026 20:31:00 GMT",
+    "fetched_at": "2026-09-23 07:32:40",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "전 섹터"
+    ],
+    "keywords": [
+      "경제 캘린더",
+      "경제 지표",
+      "시장 전망"
+    ],
+    "reason": "경제 캘린더는 향후 발표될 주요 경제 지표, 이벤트 일정을 제공하여 시장의 잠재적 변동성에 대비하고 투자 전략을 수립하는 데 필수적인 정보입니다.",
+    "action_point": "향후 발표될 경제지표 및 주요 이벤트 일정 확인 후 포트폴리오 전략을 점검하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[속보]李 “북핵 축소-중단 거쳐 비핵화…북-미 대화 발판 마련” - 동아일보",
+    "title_ko": "[속보]李 “북핵 축소-중단 거쳐 비핵화…북-미 대화 발판 마련”",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5wTWQ4TXFIdzFlZzlENi1Jb0ZvWXNWU3lEZjdyQ0NKTGd3RC0yQVVrVjVFOERfLV9yaU1WbTRRaXZWOEhNX2Z6c01ZZVlkSFJSdlQtMzNQSmYzMl9rNDJ0b2FxajdMU0QyRDhfZllrUVZ4eHVUYUFv?oc=5",
+    "published": "Tue, 22 Sep 2026 20:13:26 GMT",
+    "fetched_at": "2026-09-23 07:32:54",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "방산",
+      "내수",
+      "관광"
+    ],
+    "keywords": [
+      "북핵",
+      "비핵화",
+      "북미대화",
+      "지정학적 리스크"
+    ],
+    "reason": "국내 정치 지도자의 북미 대화 촉구 및 비핵화 제안은 한반도 지정학적 리스크 완화에 대한 기대감을 높여, 국내 증시의 코리아 디스카운트 해소에 긍정적 영향을 줄 수 있습니다.",
+    "action_point": "지정학적 리스크 완화 가능성을 고려하여 방산 관련 자산에 대한 투자 비중을 재고하십시오."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "Trump slams Iran and Cuba, defends AI growth in boastful UN speech",
     "title_ko": "트럼프, 과장된 UN 연설에서 이란과 쿠바 맹비난하며 AI 성장 옹호",
     "link": "https://www.cnbc.com/2026/09/22/trump-un-speech-today.html",
@@ -2924,77 +2994,5 @@
     ],
     "reason": "이 뉴스는 글로벌 원유 공급 차질 우려 완화와 인플레이션 압력 감소 가능성을 시사하여 전반적인 경제 활동과 에너지 다소비 기업들의 마진에 긍정적인 영향을 미칠 수 있습니다.",
     "action_point": "항공, 해운, 화학 등 에너지 다소비 섹터의 투자 비중 확대를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Stock futures are little changed after Thursday's post-Fed bounce: Live updates",
-    "title_ko": "연준 반등 이후 목요일 주식 선물 소폭 변동: 실시간 업데이트",
-    "link": "https://www.cnbc.com/2026/09/17/stock-market-today-live-updates.html",
-    "published": "Fri, 18 Sep 2026 05:30:15 GMT",
-    "fetched_at": "2026-09-18 16:46:09",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "주식 시장 전반",
-      "금리 민감 섹터"
-    ],
-    "keywords": [
-      "연준 금리 인상",
-      "주식 선물",
-      "시장 반응",
-      "통화 정책"
-    ],
-    "reason": "연준의 3년 만의 첫 금리 인상 이후 시장이 초기 반등세를 보인 뒤 숨고르기에 들어간 상황. 이는 인상분이 선반영되었거나 정책 불확실성 해소로 해석될 수 있으나, 향후 긴축 속도에 대한 경계심도 내포.",
-    "action_point": "금리 인상 기조에 맞춰 성장주 비중을 점진적으로 축소하고 가치주 및 방어적 섹터로의 포트폴리오 재편을 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Why Japan’s markets flipped the usual script after central bank rate hike",
-    "title_ko": "일본 중앙은행 금리 인상 후 시장이 통념과 반대로 움직인 이유",
-    "link": "https://www.cnbc.com/2026/09/18/japan-rate-hike-stocks-rise-bond-yields-yen-fall.html",
-    "published": "Fri, 18 Sep 2026 07:40:29 GMT",
-    "fetched_at": "2026-09-18 16:46:23",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "일본 수출",
-      "글로벌 주식",
-      "외환"
-    ],
-    "keywords": [
-      "일본은행",
-      "금리 인상",
-      "엔화 약세",
-      "닛케이",
-      "도비쉬 하이킹",
-      "수출 기업"
-    ],
-    "reason": "일본은행의 금리 인상에도 불구하고 시장은 엔화 약세와 국채 금리 하락으로 반응했으며, 이는 시장이 이번 인상을 '도비쉬'하게 해석하거나 추가 긴축이 제한적일 것으로 예상하고 있음을 보여준다. 이는 일본 수출 기업에 호재이며, 글로벌 유동성에도 긍정적인 영향을 미칠 수 있다.",
-    "action_point": "엔화 약세 기조 유지 가능성이 높아 일본 수출주 투자 매력을 재평가하고, 엔 캐리 트레이드 확산에 따른 글로벌 위험 자산 투자 심리 변화를 활용하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Bitcoin is set to hit a key level by next year as fiscal worries prop up the cryptocurrency: VanEck",
-    "title_ko": "VanEck: 재정 우려 속 기관 투자 유입으로 비트코인 내년 핵심 수준 도달 예상",
-    "link": "https://www.cnbc.com/2026/09/18/bitcoin-cryptocurrency-forecast-vaneck.html",
-    "published": "Fri, 18 Sep 2026 06:59:20 GMT",
-    "fetched_at": "2026-09-18 16:46:32",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "암호화폐",
-      "금융"
-    ],
-    "keywords": [
-      "비트코인",
-      "기관 투자",
-      "재정 우려",
-      "대체 자산"
-    ],
-    "reason": "기관 투자자들의 비트코인 매수 증가는 전통 금융 시스템의 재정적 불안감을 반영하며, 이는 암호화폐에 대한 장기적인 자금 유입과 글로벌 자산 배분 변화를 가속화할 수 있다.",
-    "action_point": "포트폴리오 내 비트코인 등 주요 암호화폐 자산 편입 비중 확대를 검토하라."
   }
 ]
