@@ -2,6 +2,62 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "Trump, Xi seek trade stability and deals, but AI, tariffs and Iran loom large. What to watch",
+    "title_ko": "트럼프와 시진핑, 무역 안정과 거래를 모색하지만, AI, 관세, 이란 문제가 크게 부각된다. 주목할 점",
+    "link": "https://www.cnbc.com/2026/09/21/trump-xi-china-summit-trade-tariffs.html",
+    "published": "Mon, 21 Sep 2026 22:25:33 GMT",
+    "fetched_at": "2026-09-22 09:24:40",
+    "sentiment": "중립",
+    "importance": 5,
+    "sectors": [
+      "기술",
+      "반도체",
+      "산업재",
+      "에너지",
+      "해운"
+    ],
+    "keywords": [
+      "미중 무역",
+      "AI",
+      "관세",
+      "이란",
+      "지정학적 위험",
+      "정상회담"
+    ],
+    "reason": "미중 정상회담은 무역 안정 기대를 주지만, AI 경쟁, 관세, 이란 문제 등 주요 갈등 요인이 여전히 해결되지 않아 글로벌 경제 및 특정 산업의 불확실성을 가중시킨다.",
+    "action_point": "미중 무역 및 기술 갈등 노출도가 높은 섹터의 비중 축소를 검토하고, 지정학적 리스크 심화에 대비한 포트폴리오 방어 전략을 강화하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "CNBC's The China Connection newsletter: Five things to watch for the Trump-Xi summit",
+    "title_ko": "CNBC 차이나 커넥션 뉴스레터: 트럼프-시진핑 정상회담에서 주목할 5가지",
+    "link": "https://www.cnbc.com/2026/09/22/cnbcs-the-china-connection-newsletter-watch-this-at-trump-xi-summit.html",
+    "published": "Mon, 21 Sep 2026 23:18:30 GMT",
+    "fetched_at": "2026-09-22 09:24:47",
+    "sentiment": "중립",
+    "importance": 5,
+    "sectors": [
+      "기술주",
+      "수출주",
+      "제조업",
+      "반도체",
+      "원자재"
+    ],
+    "keywords": [
+      "트럼프",
+      "시진핑",
+      "미중 관계",
+      "정상회담",
+      "지정학",
+      "무역분쟁"
+    ],
+    "reason": "예정된 미중 정상회담은 글로벌 무역 정책, 지정학적 안정성, 그리고 공급망에 중대한 영향을 미칠 수 있습니다. 양측의 낙관론 온도차가 향후 협상 난이도와 잠재적 갈등의 재점화 가능성을 시사합니다.",
+    "action_point": "미중 관계 변화에 민감한 수출주 및 기술주 변동성 확대에 대비하여 포트폴리오 비중을 재점검하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "OpenAI proposes development of global AI standards to guide alignment, RSI",
     "title_ko": "OpenAI, AI 정렬 및 RSI 지침 마련을 위한 글로벌 AI 표준 개발 제안",
     "link": "https://www.cnbc.com/2026/09/21/open-ai-alignment-rsi.html",
@@ -2920,55 +2976,5 @@
     ],
     "reason": "트럼프의 EU에 대한 관세 위협은 미국과 유럽연합 간 무역 긴장을 고조시키며, 이는 글로벌 교역량 감소와 기업 실적 악화로 이어질 수 있다. 특히 유럽과 북미 시장에 의존하는 수출 기업들에게 부정적인 영향을 미칠 것이다.",
     "action_point": "글로벌 무역 분쟁 심화 가능성에 대비하여 수출 의존도가 높은 산업 섹터 비중 축소를 검토한다."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Putin braces for election stress test as Russians ‘feel the pain’ of struggling economy",
-    "title_ko": "푸틴, 경제난으로 러시아 국민 고통받는 가운데 선거 압박 직면",
-    "link": "https://www.cnbc.com/2026/09/17/russia-putin-state-duma-election-ukraine-war.html",
-    "published": "Thu, 17 Sep 2026 05:00:01 GMT",
-    "fetched_at": "2026-09-17 17:11:36",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "원자재",
-      "방산",
-      "글로벌 위험자산"
-    ],
-    "keywords": [
-      "러시아",
-      "푸틴",
-      "선거",
-      "경제",
-      "지정학"
-    ],
-    "reason": "러시아의 경제난과 잠재적 국민 불만이 지속될 가능성을 시사하며, 이는 지정학적 위험과 에너지 시장 변동성으로 이어질 수 있습니다.",
-    "action_point": "러시아의 지속적인 경제 불안정 및 지정학적 리스크에 대비하여 에너지/원자재 관련 포지션 및 안전자산 보유 비중을 재점검하십시오."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Bank of England set to defy Fed’s rate-hike lead, despite rising inflation",
-    "title_ko": "영란은행, 인플레이션 상승에도 불구하고 연준의 금리 인상 기조에 불응할 전망",
-    "link": "https://www.cnbc.com/2026/09/17/bank-of-england-interest-rate-decision-fed-rate-hike-uk-inflation.html",
-    "published": "Thu, 17 Sep 2026 05:20:23 GMT",
-    "fetched_at": "2026-09-17 17:11:58",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "글로벌 금융시장"
-    ],
-    "keywords": [
-      "영란은행",
-      "금리",
-      "인플레이션",
-      "통화정책",
-      "연준",
-      "파운드화"
-    ],
-    "reason": "영란은행의 금리 동결은 높은 인플레이션에도 불구하고 연준과 다른 통화정책 기조를 보여, 글로벌 통화정책의 이질성을 심화시키고 파운드화 약세 압력을 가중시킬 수 있습니다.",
-    "action_point": "글로벌 통화정책 이질성 확대에 따른 환율 변동성 관찰 및 달러 자산 비중 유지 검토"
   }
 ]
