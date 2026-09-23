@@ -1,5 +1,54 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Trump faces Xi as strains with allies complicate U.S. pressure on China",
+    "title_ko": "트럼프-시진핑 회담 앞두고 동맹국과의 갈등이 대중국 압박을 복잡하게 만들고 있다",
+    "link": "https://www.cnbc.com/2026/09/23/trump-xi-china-summit-allies.html",
+    "published": "Wed, 23 Sep 2026 16:47:21 GMT",
+    "fetched_at": "2026-09-24 02:35:47",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "기술",
+      "산업재"
+    ],
+    "keywords": [
+      "미중 갈등",
+      "동맹 관계",
+      "지정학",
+      "무역 압박"
+    ],
+    "reason": "미국이 동맹국과의 갈등으로 중국에 대한 압박 수위를 높이기 어려워지면서 미중 관계의 불확실성이 지속될 수 있다. 이는 글로벌 무역 및 공급망에 대한 장기적 전망에 부정적 영향을 미칠 수 있다.",
+    "action_point": "미중 갈등의 장기화 및 지정학적 불확실성 증대에 대비하여 기술 및 글로벌 공급망 관련 섹터 비중 축소를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Market sees next Fed hike in October, following Barr comments and hot inflation reading",
+    "title_ko": "시장은 배리 연준 부의장 발언과 뜨거운 인플레이션 지표 이후 10월 연준 추가 금리 인상을 예상",
+    "link": "https://www.cnbc.com/2026/09/23/market-sees-next-fed-hike-in-october-following-barr-comments-hot-inflation.html",
+    "published": "Wed, 23 Sep 2026 17:14:13 GMT",
+    "fetched_at": "2026-09-24 02:35:59",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "고성장 기술주",
+      "부동산",
+      "채권시장",
+      "외환시장"
+    ],
+    "keywords": [
+      "연준 금리 인상",
+      "인플레이션",
+      "긴축",
+      "고금리",
+      "달러 강세"
+    ],
+    "reason": "예상보다 높은 인플레이션 지표로 인해 시장이 연준의 추가 금리 인상을 가격에 반영하면서, 이는 자본 비용 상승과 유동성 축소로 이어져 주식 등 위험 자산에 부정적이며 채권 수익률 상승 및 달러 강세 요인으로 작용합니다.",
+    "action_point": "금리 인상에 취약한 고성장 기술주 및 부동산 관련 자산 비중 축소를 검토하고, 달러 자산 보유를 통한 환 헤지를 고려하라."
+  },
+  {
     "source": "CNBC_Finance",
     "market": "US",
     "title": "Trump-Xi meeting: Why China's self-sufficiency changes the calculus",
@@ -2963,55 +3012,5 @@
     ],
     "reason": "해저 핵심 인프라의 취약성에 대한 우려가 커지면서 국가 간 해저 기술 경쟁이 심화되고 있으며, 이는 지정학적 리스크와 방산 및 해양 보안 기술 투자를 증가시킬 것입니다.",
     "action_point": "지정학적 긴장 고조에 대비하여 방산 및 해저 보안 기술 관련 기업들의 투자 기회를 모색하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Defense firm Anduril says U.S. delay on Taiwan arms sales affecting its business",
-    "title_ko": "방산업체 앤두릴, 미국 대만 무기 판매 지연이 사업에 영향 미친다고 밝혀",
-    "link": "https://www.cnbc.com/2026/09/19/anduril-says-us-delay-on-taiwan-arms-sales-affecting-its-business.html",
-    "published": "Sat, 19 Sep 2026 09:05:24 GMT",
-    "fetched_at": "2026-09-19 18:59:44",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "방위 산업",
-      "반도체"
-    ],
-    "keywords": [
-      "대만",
-      "미국",
-      "방위 산업",
-      "무기 판매",
-      "지정학"
-    ],
-    "reason": "미국의 대만 무기 판매 지연은 방위산업에 부정적 영향을 미치며, 이는 대만을 둘러싼 미-중 지정학적 관계의 미묘한 변화 가능성 또는 공급망 문제를 시사합니다.",
-    "action_point": "대만 관련 지정학적 리스크에 노출된 반도체 등 자산의 변동성 확대에 대비하여 비중 축소 또는 헤지 전략 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "JPMorgan, Citigroup CEOs attending Trump's state dinner for China's Xi: Sources",
-    "title_ko": "JP모건, 씨티그룹 CEO들, 트럼프-시진핑 국빈 만찬 참석 예정: 소식통",
-    "link": "https://www.cnbc.com/2026/09/18/trump-xi-state-dinner-jpmorgan-jamie-dimon.html",
-    "published": "Fri, 18 Sep 2026 17:34:49 GMT",
-    "fetched_at": "2026-09-19 18:59:59",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "금융",
-      "기술",
-      "반도체"
-    ],
-    "keywords": [
-      "미중 관계",
-      "국빈 만찬",
-      "트럼프",
-      "시진핑",
-      "금융",
-      "기술"
-    ],
-    "reason": "미중 최고위층과 핵심 기업 CEO들의 만남은 양국 간 긴장 완화 및 사업 기회 모색의 신호로 해석될 수 있습니다. 이는 특히 금융 및 기술 섹터에 긍정적인 투자 심리를 형성할 여지가 있습니다.",
-    "action_point": "미중 관계 개선 기대감에 따라 금융 및 기술 섹터의 투자 비중 확대를 고려하십시오."
   }
 ]
