@@ -2,6 +2,56 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "OpenAI and Anthropic CEOs push for AI cooperation at UN after Trump rebuffs 'globalist scheme' to control it",
+    "title_ko": "OpenAI와 Anthropic CEO들, 트럼프의 '세계주의적 AI 통제 계획' 거부에도 불구하고 UN에서 AI 협력 촉구",
+    "link": "https://www.cnbc.com/2026/09/23/altman-amodei-un-ai-safety.html",
+    "published": "Wed, 23 Sep 2026 20:29:20 GMT",
+    "fetched_at": "2026-09-24 05:52:09",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "기술",
+      "반도체",
+      "클라우드 컴퓨팅"
+    ],
+    "keywords": [
+      "AI 협력",
+      "UN",
+      "규제",
+      "트럼프",
+      "OpenAI",
+      "Anthropic"
+    ],
+    "reason": "AI 리스크 관리와 개발 속도 조절에 대한 논의는 AI 산업의 장기적 안정성에 긍정적이나, 트럼프의 '세계주의적 통제' 거부는 향후 AI 규제 환경의 불확실성을 높일 수 있습니다.",
+    "action_point": "AI 기술 기업에 대한 투자는 각국의 AI 규제 환경 변화를 면밀히 관찰하며, 장기적 성장 전략에 미칠 영향을 재평가하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Iran's president blames U.S., Israel for global instability in defiant UN speech",
+    "title_ko": "이란 대통령, 유엔 연설에서 미국과 이스라엘을 전 세계적 불안정의 원인으로 지목하며 반발",
+    "link": "https://www.cnbc.com/2026/09/23/iran-united-nations-trump-israel.html",
+    "published": "Wed, 23 Sep 2026 17:38:47 GMT",
+    "fetched_at": "2026-09-24 05:52:18",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "에너지",
+      "방산"
+    ],
+    "keywords": [
+      "이란",
+      "미국",
+      "이스라엘",
+      "지정학적 리스크",
+      "유엔"
+    ],
+    "reason": "이란 대통령의 유엔 연설은 중동 지역의 지정학적 긴장이 지속되고 있음을 재확인합니다. 이는 국제 유가에 대한 상방 압력으로 작용하며, 글로벌 시장의 위험 회피 심리를 자극할 수 있습니다.",
+    "action_point": "중동 지정학적 위험 고조에 따른 국제 유가 변동성에 대비하여 에너지 관련 자산 익스포저를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "Trump faces Xi as strains with allies complicate U.S. pressure on China",
     "title_ko": "트럼프-시진핑 회담 앞두고 동맹국과의 갈등이 대중국 압박을 복잡하게 만들고 있다",
     "link": "https://www.cnbc.com/2026/09/23/trump-xi-china-summit-allies.html",
@@ -2962,55 +3012,5 @@
     ],
     "reason": "견고한 경제 지표에도 불구하고 낮은 소비자 심리는 미래 소비 지출의 둔화 가능성을 시사하며, 기업 실적과 전반적인 경제 성장에 대한 불확실성을 높입니다.",
     "action_point": "경기소비재 및 유통 섹터 비중 축소 검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "AI 가짜 보고에…\"미·중 전쟁 시작될 뻔\" - 연합뉴스TV",
-    "title_ko": "AI 가짜 보고에…\"미·중 전쟁 시작될 뻔\"",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5OMWdOZnM1Z21BUldRcTRLVjNwbFNNVTlRczFLRExZUURIVVZKMUZrYmo1OUhwcERxUEV1NmM2bXZaMDdDSnBCUi0tUkFKUU1PY2dhaDN2QUlLQm95U09STDF4MEhwYzA?oc=5",
-    "published": "Sat, 19 Sep 2026 05:40:00 GMT",
-    "fetched_at": "2026-09-19 19:00:35",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "방산",
-      "AI",
-      "글로벌 경제",
-      "원자재"
-    ],
-    "keywords": [
-      "AI",
-      "미중 갈등",
-      "가짜 정보",
-      "지정학적 리스크",
-      "안전자산"
-    ],
-    "reason": "AI로 인한 허위 정보가 미중 간 군사적 충돌 직전까지 이어질 수 있음을 보여주며, 글로벌 지정학적 불확실성과 AI 기술의 오용 위험을 크게 부각한다.",
-    "action_point": "미중 지정학적 리스크 헤지를 위해 달러 및 금 등 안전자산 비중을 확대하고, 방산 및 사이버 보안 섹터 투자를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "A new arms race is unfolding on the ocean floor",
-    "title_ko": "해저에서 새로운 군비 경쟁이 펼쳐지고 있다",
-    "link": "https://www.cnbc.com/2026/09/19/underwater-war-sea-drones-defense-tech.html",
-    "published": "Sat, 19 Sep 2026 05:00:01 GMT",
-    "fetched_at": "2026-09-19 18:58:08",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "방산",
-      "해양 기술",
-      "사이버 보안"
-    ],
-    "keywords": [
-      "해저 군비 경쟁",
-      "핵심 인프라",
-      "지정학적 위험",
-      "방산 기술"
-    ],
-    "reason": "해저 핵심 인프라의 취약성에 대한 우려가 커지면서 국가 간 해저 기술 경쟁이 심화되고 있으며, 이는 지정학적 리스크와 방산 및 해양 보안 기술 투자를 증가시킬 것입니다.",
-    "action_point": "지정학적 긴장 고조에 대비하여 방산 및 해저 보안 기술 관련 기업들의 투자 기회를 모색하라."
   }
 ]
