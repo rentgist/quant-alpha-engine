@@ -1,5 +1,105 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[속보] 李대통령 “호르무즈 봉쇄 큰 충격”…‘건설적 기여국 연대’ 제안 - 중앙일보",
+    "title_ko": "李대통령 “호르무즈 봉쇄 큰 충격”…‘건설적 기여국 연대’ 제안",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KcmhzaGU1WFhzc2xQZUZhbHJCdXhYTkN1YlI3Z1Iyc1Mzd2twX2ZxakFDU3R2OHBWTHZONTZvSThWbUdHNjF2S21nR2xCOVNBQWxPd1Z3?oc=5",
+    "published": "Tue, 22 Sep 2026 23:18:18 GMT",
+    "fetched_at": "2026-09-23 10:04:49",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "에너지",
+      "해운",
+      "항공",
+      "석유화학",
+      "방산"
+    ],
+    "keywords": [
+      "호르무즈 해협",
+      "유가",
+      "지정학적 리스크",
+      "에너지 안보",
+      "공급망"
+    ],
+    "reason": "호르무즈 해협 봉쇄 가능성 언급은 중동 지정학적 리스크를 고조시키며, 글로벌 유가 급등과 에너지 수급 불안정, 전반적인 공급망 교란을 야기할 수 있다.",
+    "action_point": "유가 급등 리스크에 대비하여 에너지/원자재 관련 자산의 비중 확대를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Qualcomm releases Android chip built for AI as memory shortage weighs on smartphone market",
+    "title_ko": "퀄컴, AI용 안드로이드 칩 출시, 메모리 부족이 스마트폰 시장 압박",
+    "link": "https://www.cnbc.com/2026/09/22/qualcomm-releases-android-chip-built-for-ai-amid-memory-shortage.html",
+    "published": "Tue, 22 Sep 2026 21:09:17 GMT",
+    "fetched_at": "2026-09-23 10:04:32",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "반도체",
+      "IT 하드웨어",
+      "스마트폰 제조업체"
+    ],
+    "keywords": [
+      "퀄컴",
+      "AI 칩",
+      "스마트폰 시장",
+      "메모리 부족",
+      "시장 수축"
+    ],
+    "reason": "스마트폰 시장의 유닛 출하량 14% 감소 전망은 관련 제조사 및 메모리 반도체 산업에 큰 압박으로 작용할 것이며, 퀄컴의 AI 칩 출시는 장기적 관점에서 기술 발전 가능성을 시사하나 단기 시장 위축이 더 지배적입니다.",
+    "action_point": "메모리 반도체 및 스마트폰 제조사 관련 주식의 단기 투자 비중 축소를 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "아시아개발은행(ADB), 올해 韓 경제성장률 3.2% 전망...7월 전망 대비 0.6%포인트 상향 - 조선일보",
+    "title_ko": "아시아개발은행(ADB), 올해 韓 경제성장률 3.2% 전망...7월 전망 대비 0.6%포인트 상향",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONXVYVV93TnNta0VPYlRNd1ctWnZocjVGX3E4ZU1SZEozajB5VFhjUlNLTUxodHo2a2NLOEhNb3ljUlF3UGYydGNCNGZRU0k4MDFXaW9UQ3BFTF9heVFzSzhwVmJ3dnppRXBUaXRqZ2RlWnl6b3pGNkx0WG9SRm5faEQwcnZNYUZ4cF9JWkZB?oc=5",
+    "published": "Wed, 23 Sep 2026 00:05:35 GMT",
+    "fetched_at": "2026-09-23 10:04:39",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "전반",
+      "경기민감주",
+      "수출주",
+      "내수주"
+    ],
+    "keywords": [
+      "ADB",
+      "경제성장률",
+      "한국",
+      "전망 상향"
+    ],
+    "reason": "아시아개발은행(ADB)의 한국 경제성장률 전망 상향은 국내 기업 실적 개선 기대를 높이며 전반적인 경기 회복 신호로 작용합니다. 이는 국내 주식시장 전반에 긍정적인 영향을 미칠 수 있습니다.",
+    "action_point": "경기 민감 및 내수 관련 국내 주식 섹터 비중 확대 고려"
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "CFTC says prediction markets' 'mentions' contracts present a higher risk of manipulation",
+    "title_ko": "CFTC, 예측 시장의 '언급' 계약은 조작 위험이 더 높다고 밝혀",
+    "link": "https://www.cnbc.com/2026/09/22/cftc-prediction-markets-mentions-contracts-have-manipulation-risk.html",
+    "published": "Wed, 23 Sep 2026 00:58:16 GMT",
+    "fetched_at": "2026-09-23 10:04:25",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "예측 시장",
+      "핀테크"
+    ],
+    "keywords": [
+      "CFTC",
+      "예측 시장",
+      "조작 위험",
+      "규제"
+    ],
+    "reason": "미국 상품선물거래위원회(CFTC)가 예측 시장 내 '언급' 계약의 높은 조작 위험을 지적하며 규제 당국의 신기술 기반 비정형 금융 상품에 대한 신중한 접근을 시사합니다. 이는 특정 소수 투자 상품에 국한된 이슈로, 광범위한 거시경제나 주요 투자 자산에 미치는 직접적인 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "Anthropic and OpenAI roll out cheaper models in first release since call for slowdown",
@@ -2893,106 +2993,5 @@
     ],
     "reason": "인도 최대 기업인 타타그룹의 경영권 분쟁은 그룹 전반의 불확실성을 높여 인도 주식 시장 내 타타 관련 자산의 투자 심리에 부정적인 영향을 미칠 수 있습니다.",
     "action_point": "인도 주식 시장 내 타타그룹 관련 자산의 보유 여부를 확인하고, 해당 자산의 단기 변동성에 유의하십시오."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Stocks making the biggest moves premarket: Netflix, Nucor, Xenon Pharmaceuticals & more",
-    "title_ko": "장전 가장 큰 움직임을 보이는 주식: 넷플릭스, 뉴코어, 제논 파마슈티컬스 등",
-    "link": "https://www.cnbc.com/2026/09/18/stocks-making-the-biggest-moves-premarket-nflx-nue-xene.html",
-    "published": "Fri, 18 Sep 2026 11:48:19 GMT",
-    "fetched_at": "2026-09-18 21:29:57",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "미디어",
-      "철강",
-      "제약"
-    ],
-    "keywords": [
-      "개별 주식",
-      "장전 움직임",
-      "넷플릭스",
-      "뉴코어",
-      "제논 파마슈티컬스"
-    ],
-    "reason": "이 기사는 장전 특정 개별 주식들의 가격 변동을 전달할 뿐, 전반적인 시장 심리나 거시 경제 지표에 대한 새로운 통찰을 제공하지 않습니다. 특정 종목 보유자에게는 관련 뉴스 확인이 필요할 수 있습니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Trump administration advances $24.3 billion fighter jet deal to Saudi Arabia as Houthis escalate attacks",
-    "title_ko": "트럼프 행정부, 후티 반군 공격 고조 속 사우디에 243억 달러 전투기 판매 추진",
-    "link": "https://www.cnbc.com/2026/09/18/trump-saudi-arabia-f-35-houthis-iran-war.html",
-    "published": "Fri, 18 Sep 2026 07:37:42 GMT",
-    "fetched_at": "2026-09-18 16:45:41",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "방산",
-      "해운"
-    ],
-    "keywords": [
-      "중동 지정학",
-      "사우디아라비아",
-      "후티 반군",
-      "바벨만뎁 해협",
-      "국제 유가",
-      "방산 산업"
-    ],
-    "reason": "중동 지역의 지정학적 긴장이 고조되며 핵심 해상 운송로인 바벨만뎁 해협의 안보 위협이 커져 국제 유가 상승 압력과 해운 물류 불안정을 야기할 수 있습니다.",
-    "action_point": "중동 지정학적 리스크 심화에 따른 국제 유가 상승 및 방산 섹터 수혜 가능성을 고려하여 관련 자산 비중 확대를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Bank of Japan raises interest rates to 31-year high, flags concerns over inflation",
-    "title_ko": "일본 중앙은행, 31년 만에 금리 인상 단행, 인플레이션 우려 표명",
-    "link": "https://www.cnbc.com/2026/09/18/japan-raises-rates-30-year-high-yen-jgb.html",
-    "published": "Fri, 18 Sep 2026 03:31:45 GMT",
-    "fetched_at": "2026-09-18 16:45:51",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "금융",
-      "수출주",
-      "채권",
-      "부동산"
-    ],
-    "keywords": [
-      "일본 중앙은행",
-      "금리 인상",
-      "인플레이션",
-      "엔화",
-      "통화 정책"
-    ],
-    "reason": "일본 중앙은행의 31년 만의 금리 인상은 글로벌 유동성 축소와 엔화 강세를 촉발하며, 이는 일본을 넘어 아시아 전체의 통화 및 자산 시장에 변동성을 확대시킬 수 있습니다.",
-    "action_point": "엔화 변동성 확대에 대비하여 일본 관련 투자 자산 비중을 점검하고, 글로벌 유동성 축소에 따른 금리 민감 자산에 대한 보수적 접근을 유지하십시오."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Oil prices fall as Saudi supply hopes outweigh fresh Houthi strikes",
-    "title_ko": "사우디 공급 확대 기대감에 유가가 하락, 후티 반군의 추가 공격 영향 상쇄",
-    "link": "https://www.cnbc.com/2026/09/18/oil-prices-today-brent-wti-saudi-arabia-houthi.html",
-    "published": "Fri, 18 Sep 2026 01:35:38 GMT",
-    "fetched_at": "2026-09-18 16:45:59",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "항공/해운",
-      "화학",
-      "소비재"
-    ],
-    "keywords": [
-      "유가",
-      "사우디 공급",
-      "지정학적 위험 완화",
-      "인플레이션"
-    ],
-    "reason": "이 뉴스는 글로벌 원유 공급 차질 우려 완화와 인플레이션 압력 감소 가능성을 시사하여 전반적인 경제 활동과 에너지 다소비 기업들의 마진에 긍정적인 영향을 미칠 수 있습니다.",
-    "action_point": "항공, 해운, 화학 등 에너지 다소비 섹터의 투자 비중 확대를 검토하라."
   }
 ]
