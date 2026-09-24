@@ -2,6 +2,115 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "Trump, Xi expected to talk Taiwan, AI, trade and Iran as DC summit kicks off",
+    "title_ko": "트럼프, 시진핑 워싱턴 D.C. 정상회담서 대만, AI, 무역, 이란 문제 논의 예상",
+    "link": "https://www.cnbc.com/2026/09/24/trump-xi-meeting-china-washington.html",
+    "published": "Thu, 24 Sep 2026 12:10:07 GMT",
+    "fetched_at": "2026-09-24 22:10:57",
+    "sentiment": "중립",
+    "importance": 5,
+    "sectors": [
+      "반도체",
+      "기술주",
+      "제조업",
+      "에너지",
+      "방위산업",
+      "글로벌 금융"
+    ],
+    "keywords": [
+      "미중 관계",
+      "정상회담",
+      "대만",
+      "인공지능",
+      "무역",
+      "이란",
+      "지정학적 리스크"
+    ],
+    "reason": "미중 양국 정상이 대만, AI, 무역, 이란 등 주요 의제를 논의함에 따라 글로벌 경제 및 지정학적 안정성에 큰 영향을 미칠 수 있으며, 회담 결과에 따라 주요 산업 및 자산 시장의 변동성이 확대될 것으로 예상됩니다.",
+    "action_point": "미중 정상회담 결과에 따라 대만 및 AI 관련 핵심 기술주, 제조업, 에너지 섹터 비중 조정을 고려하고 달러화 자산 보유 여부를 재검토하라."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "China confirms first AI talks with U.S. have taken place, hints at trade truce extension",
+    "title_ko": "중국, 미국과의 첫 AI 회담 개최 확인 및 무역 휴전 연장 시사",
+    "link": "https://www.cnbc.com/2026/09/24/china-confirms-first-ai-talks-with-us-have-taken-place-hints-at-trade-truce-extension.html",
+    "published": "Thu, 24 Sep 2026 13:00:30 GMT",
+    "fetched_at": "2026-09-24 22:10:39",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "기술",
+      "반도체",
+      "산업재",
+      "글로벌 증시"
+    ],
+    "keywords": [
+      "중국",
+      "미국",
+      "AI",
+      "무역",
+      "지정학적 완화"
+    ],
+    "reason": "미중간 AI 및 무역 관련 대화는 양국간 긴장 완화를 시사하며, 글로벌 지정학적 불확실성을 낮추고 시장 전반에 긍정적으로 작용할 것입니다.",
+    "action_point": "무역 분쟁 완화 가능성에 대비하여 미중 의존도가 높은 성장주 및 기술주 비중 확대 검토"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Russia ‘truly’ appreciates U.S. invite to G20 summit — but hasn't decided if Putin will go",
+    "title_ko": "러시아, G20 정상회담에 대한 미국의 초청 '진심으로' 감사하지만, 푸틴 참석 여부는 미정",
+    "link": "https://www.cnbc.com/2026/09/24/russia-putin-trump-ukraine-war-zelenskyy.html",
+    "published": "Thu, 24 Sep 2026 12:36:08 GMT",
+    "fetched_at": "2026-09-24 22:11:10",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "방산",
+      "에너지",
+      "원자재"
+    ],
+    "keywords": [
+      "러시아",
+      "G20",
+      "푸틴",
+      "미국",
+      "유럽",
+      "지정학",
+      "외교"
+    ],
+    "reason": "G20 정상회담에 러시아를 초청한 미국의 움직임은 서방 동맹국들 사이의 분열을 심화시킬 수 있으며, 러시아-우크라이나 전쟁 관련 지정학적 긴장 완화 또는 심화 여부가 불확실함을 시사합니다. 푸틴의 참석 여부가 미정이므로, 현재로서는 글로벌 시장의 불확실성을 가중시키는 요인입니다.",
+    "action_point": "G20 관련 지정학적 불확실성이 지속되므로 안전자산 비중을 유지하고 원자재 시장 변동성 관리에 집중하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Palo Alto CEO says slowing down AI is ‘unrealistic’, extinction threat ‘extremely small’",
+    "title_ko": "팔로알토 CEO, AI 둔화는 '비현실적', 인류 멸종 위협 '극히 작다'고 언급",
+    "link": "https://www.cnbc.com/2026/09/24/palo-alto-networks-nikesh-arora-ai-slowdown.html",
+    "published": "Thu, 24 Sep 2026 12:24:37 GMT",
+    "fetched_at": "2026-09-24 22:11:17",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "기술",
+      "반도체",
+      "클라우드 컴퓨팅",
+      "소프트웨어"
+    ],
+    "keywords": [
+      "AI",
+      "인공지능",
+      "팔로알토",
+      "엔비디아",
+      "기술 발전"
+    ],
+    "reason": "주요 기술 기업 CEO들의 AI 발전에 대한 긍정적이고 현실적인 시각은 AI 산업의 지속적인 성장과 투자 매력을 강조합니다. 이는 AI 관련 기술 및 반도체 섹터에 대한 장기적인 투자 심리를 강화할 수 있습니다.",
+    "action_point": "AI 관련 기술주 및 반도체 섹터에 대한 포트폴리오 비중을 유지하며, 단기 조정 시 매수 기회를 모색."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "Switzerland keeps interest rates at 0% — but markets are betting it can’t avoid the global hiking cycle much longer",
     "title_ko": "스위스, 금리 0% 유지 – 시장은 글로벌 금리 인상 사이클 회피 어려울 것으로 전망",
     "link": "https://www.cnbc.com/2026/09/24/swiss-national-bank-interest-rates-inflation.html",
@@ -2908,104 +3017,5 @@
     ],
     "reason": "AI 오작동으로 인한 미중 군사 충돌 위기 발생은 지정학적 불확실성을 가중시키고, AI 기술의 신뢰성 및 규제 필요성에 대한 논의를 촉발하며 국제 정세 불안정 요소로 작용할 것입니다.",
     "action_point": "변동성 높은 에너지/원자재 자산 및 AI 관련 규제 리스크 노출 기업에 대한 포트폴리오 비중 조정을 고려하고, 지정학적 헤지 자산 편입을 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "U.S. Treasury's Bessent, China's He to hold talks on AI, trade, critical minerals: Reuters",
-    "title_ko": "미국 재무부 베센트, 중국 허 부총리 AI, 무역, 핵심광물 관련 회담 개최 예정: 로이터",
-    "link": "https://www.cnbc.com/2026/09/20/bessent-chinas-he-to-hold-talks-on-ai-trade-minerals-reuters.html",
-    "published": "Sun, 20 Sep 2026 06:17:46 GMT",
-    "fetched_at": "2026-09-20 17:04:20",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "기술",
-      "반도체",
-      "광업",
-      "배터리",
-      "재생에너지",
-      "제조업",
-      "물류"
-    ],
-    "keywords": [
-      "미국-중국 관계",
-      "AI",
-      "무역",
-      "핵심광물",
-      "지정학",
-      "기술패권"
-    ],
-    "reason": "미국과 중국 고위급 인사의 회담은 양국 간 갈등 완화 또는 심화 여부를 가늠하는 중요한 지표이다. 특히 AI, 무역, 핵심광물은 첨단 산업의 핵심이자 지정학적 경쟁의 주요 전선이므로, 이번 논의 결과가 관련 산업의 공급망 및 투자 환경에 중대한 영향을 미칠 수 있다.",
-    "action_point": "미·중 기술 패권 경쟁에 민감한 AI, 반도체, 핵심광물 관련 섹터의 포트폴리오 비중을 점검하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "'전쟁 파병' 놓고 한·미 엇박자…미 중간선거까지 '수싸움' - 뉴스토마토",
-    "title_ko": "'전쟁 파병' 놓고 한·미 엇박자…미 중간선거까지 '수싸움'",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zWWtVbkNMQU0yTjlmdVdhR0V5ZUNrdUpFMEkxV0hxSF84WldYSVIxbmFEd1JNQWc2M0txY0JLbFlLcGlCbk1OQXd5R1UxX0xoMGR1T05jQUNocDB1WXdJSw?oc=5",
-    "published": "Sun, 20 Sep 2026 07:20:09 GMT",
-    "fetched_at": "2026-09-20 17:05:36",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "방산",
-      "외교안보"
-    ],
-    "keywords": [
-      "한미 관계",
-      "파병",
-      "지정학",
-      "미 중간선거"
-    ],
-    "reason": "한미 간 파병 관련 이견은 동맹 공조의 불확실성을 높여 지정학적 리스크를 키우고, 미 중간선거까지 '수싸움'이 예고되어 국내외 투자 심리에 부정적 영향을 미칠 수 있습니다.",
-    "action_point": "한미 동맹 관련 지정학적 리스크 고조에 대비하여 국내 위험자산 비중 축소 검토 및 방산 섹터의 변동성을 주시."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[속보] 합참 \"북한, 동해상으로 미상 발사체 발사\"…8일 만에 도발 - 연합뉴스TV",
-    "title_ko": "[속보] 합참 \"북한, 동해상으로 미상 발사체 발사\"…8일 만에 도발 - 연합뉴스TV",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9FUHFFQkRTcVBnSDJRa1VUTHZhUkpJYWh1ODFkOU0yZTBVQzNnWmdwRWF5VXJQcXBYTEpDTEM3SVA5ZndseXFTcjA5VUFoaDVfMTQ2cFdkSWVxaFQwTEtEV1M2Y2ZqNGs?oc=5",
-    "published": "Sun, 20 Sep 2026 06:12:00 GMT",
-    "fetched_at": "2026-09-20 17:04:51",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "방산",
-      "관광/레저"
-    ],
-    "keywords": [
-      "북한",
-      "미사일",
-      "지정학적 위험"
-    ],
-    "reason": "북한의 미상 발사체 발사는 한국 증시 및 원화 환율에 단기적인 불확실성과 변동성을 높이는 지정학적 악재입니다. 과거 사례상 영향은 제한적일 수 있으나 투자심리 위축을 야기할 수 있습니다.",
-    "action_point": "달러 자산 비중을 유지하거나 확대하여 지정학적 위험에 대비하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "정비사업 휩쓴 현대건설… 2년 연속 수주 10조 돌파",
-    "title_ko": "정비사업 휩쓴 현대건설… 2년 연속 수주 10조 돌파",
-    "link": "https://www.mk.co.kr/news/realestate/12157498",
-    "published": "Sun, 20 Sep 2026 17:01:35 +09:00",
-    "fetched_at": "2026-09-20 17:05:56",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "건설",
-      "부동산",
-      "건축자재"
-    ],
-    "keywords": [
-      "현대건설",
-      "도시정비사업",
-      "수주",
-      "건설"
-    ],
-    "reason": "현대건설의 2년 연속 도시정비사업 10조원 수주는 해당 기업의 안정적인 실적 가시성을 확보하고, 국내 건설 시장, 특히 정비사업 부문의 견조한 수요를 시사합니다.",
-    "action_point": "건설 대형주 중 도시정비사업 역량이 검증된 기업의 투자 매력을 재검토하라."
   }
 ]
