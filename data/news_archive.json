@@ -1,5 +1,99 @@
 [
   {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "China's Xi urges U.S. to cooperate on AI",
+    "title_ko": "중국 시진핑 주석, 미국에 AI 협력 촉구",
+    "link": "https://www.cnbc.com/2026/09/25/chinas-xi-urges-us-to-cooperate-on-ai.html",
+    "published": "Fri, 25 Sep 2026 01:22:17 GMT",
+    "fetched_at": "2026-09-25 14:37:08",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "인공지능",
+      "반도체",
+      "소프트웨어",
+      "클라우드 컴퓨팅"
+    ],
+    "keywords": [
+      "시진핑",
+      "AI 협력",
+      "미중 관계",
+      "기술 경쟁"
+    ],
+    "reason": "시진핑 주석이 미국에 AI 협력을 촉구한 것은 미중 간 첨단 기술 경쟁의 복잡한 역학을 보여주며, 양국 최고위층 간 AI 분야 논의가 시작될 수 있다는 점에서 긍정적 대화 가능성을 시사합니다. 하지만 실제 협력으로 이어질지는 미지수입니다.",
+    "action_point": "미중 기술 갈등의 잠재적 완화 가능성에 대비하여, 장기적 관점에서 AI 및 반도체 섹터의 포트폴리오 비중을 점검하고 전략을 재검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "An absence of significant economic slowdown doesn't mean no signs of stagflation risks. Here's why",
+    "title_ko": "상당한 경제 둔화가 없어도 스태그플레이션 위험 징후는 존재한다",
+    "link": "https://www.cnbc.com/2026/09/25/an-absence-of-significant-economic-slowdown-doesnt-mean-no-signs-of-stagflation-risks-heres-why-.html",
+    "published": "Fri, 25 Sep 2026 05:12:01 GMT",
+    "fetched_at": "2026-09-25 14:37:36",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "성장주",
+      "금리민감주",
+      "원자재"
+    ],
+    "keywords": [
+      "스태그플레이션",
+      "경제 둔화",
+      "인플레이션",
+      "J.P. Morgan"
+    ],
+    "reason": "J.P. Morgan의 경고는 경제 둔화와 고인플레이션이 공존하는 스태그플레이션 리스크가 여전히 유효하며, 이는 기업 이익 감소와 금리 인상 압력으로 이어져 주식 시장에 하방 압력을 가할 수 있음을 시사한다.",
+    "action_point": "성장주 비중을 축소하고 원자재, 필수소비재 등 방어적 자산 비중 확대를 고려하라."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Here's who is attending the Trump-Xi state dinner",
+    "title_ko": "트럼프-시진핑 국빈 만찬 참석자 명단",
+    "link": "https://www.cnbc.com/2026/09/25/heres-who-is-attending-the-trump-xi-state-dinner.html",
+    "published": "Fri, 25 Sep 2026 01:02:40 GMT",
+    "fetched_at": "2026-09-25 14:37:18",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [],
+    "keywords": [
+      "트럼프",
+      "시진핑",
+      "미중 관계",
+      "국빈 만찬",
+      "외교"
+    ],
+    "reason": "이 기사는 미국과 중국 간 고위급 외교 채널이 가동되고 있음을 보여주나, 구체적인 정책 변화나 합의 내용은 포함하고 있지 않아 당장의 시장 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Stocks making the biggest moves premarket: MGM, Darden Restaurants, Meta, BlackBerry & more",
+    "title_ko": "장전 가장 큰 움직임을 보이는 주식들: MGM, 다든 레스토랑, 메타, 블랙베리 외",
+    "link": "https://www.cnbc.com/2026/09/24/stocks-making-the-biggest-moves-premarket-mgm-dri-meta-bb.html",
+    "published": "Thu, 24 Sep 2026 11:53:04 GMT",
+    "fetched_at": "2026-09-25 14:37:26",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "카지노/호텔",
+      "레스토랑",
+      "기술/소셜 미디어",
+      "소프트웨어/자동차"
+    ],
+    "keywords": [
+      "장전 주가",
+      "개별 종목",
+      "시장 움직임"
+    ],
+    "reason": "이 헤드라인은 장전 거래에서 유의미한 가격 변동을 보이는 개별 종목들을 나열할 뿐, 거시경제적 맥락이나 변동의 원인을 제시하지 않아 시장 활동의 단순 관찰에 가깝습니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "Here's why South Korea wants more control over future regional wars",
@@ -2900,110 +2994,5 @@
     ],
     "reason": "트럼프-시진핑 정상회담을 앞둔 미중 고위급 회담으로, 무역, AI, 핵심광물 등 핵심 쟁점 조율 가능성을 시사한다. 향후 미중 관계 및 글로벌 공급망의 방향성에 중요한 영향을 미칠 수 있다.",
     "action_point": "미중 무역 및 기술 갈등 심화 가능성에 대비하여 관련 섹터(반도체, AI, 핵심광물) 비중 조정을 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "U.S. urges Americans to reconsider Middle East travel as Iran tensions rise",
-    "title_ko": "미국, 이란 긴장 고조에 중동 여행 재고 촉구",
-    "link": "https://www.cnbc.com/2026/09/20/us-middle-east-travel-warning-iran-war-hormuz.html",
-    "published": "Sun, 20 Sep 2026 14:23:53 GMT",
-    "fetched_at": "2026-09-21 02:09:09",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "해운",
-      "항공",
-      "방산"
-    ],
-    "keywords": [
-      "중동",
-      "이란",
-      "호르무즈 해협",
-      "지정학적 리스크",
-      "유가",
-      "해운 물류"
-    ],
-    "reason": "중동 지정학적 긴장 고조는 호르무즈 해협 봉쇄 리스크를 높여 글로벌 원유 공급망과 해운 물류에 심각한 차질을 야기하고 유가 상승 압력을 가중시킬 수 있습니다.",
-    "action_point": "중동 불안정 심화로 인한 유가 급등 가능성에 대비해 에너지 섹터 비중 확대 또는 안전자산(달러, 금) 보유 검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "피지컬 AI '세계 공통규칙' 만든다···ETRI, 국제표준화 주도 - 헬로디디",
-    "title_ko": "피지컬 AI '세계 공통규칙' 만든다···ETRI, 국제표준화 주도",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5yRE9PaWlxSGE5dTRxMlhBVlVGS1ZHWll1aVJ5YTVSa0Zua3RnUVhVVHM5UG81ZnVzNHJZMFoxSnRXd1c5bVRzTk42NEt0VVBsc0ZVb0xtNFlYcXp4Um1tSXBHaXQ4cDdDRFE?oc=5",
-    "published": "Sun, 20 Sep 2026 07:50:00 GMT",
-    "fetched_at": "2026-09-21 02:09:21",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "인공지능",
-      "로봇",
-      "자동화",
-      "소프트웨어"
-    ],
-    "keywords": [
-      "피지컬 AI",
-      "국제표준화",
-      "ETRI"
-    ],
-    "reason": "ETRI의 피지컬 AI 국제표준화 주도는 해당 기술의 글로벌 확산과 시장 성장에 기여하며, 장기적으로 한국 기업의 기술 경쟁력 강화 및 관련 산업 육성에 긍정적 영향을 미칠 것입니다.",
-    "action_point": "AI 및 로봇 관련 섹터에 대한 장기적 투자 기회를 모색하십시오."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "후티, 사우디 수도 첫 공습…튀르키예·파키스탄 ‘개입 시사’ 요동 - 한겨레",
-    "title_ko": "후티, 사우디 수도 첫 공습…튀르키예·파키스탄 ‘개입 시사’ 요동 - 한겨레",
-    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdkdHalhQMDl3MVlXcVMyUW1OSl91cVhxMEtkZnlhX055Y1RVWjYzbDdhREc4MVZaUWVtRVFQMEdPV1RUMURsQnlRb19YT3ZYU1JkQlEtRlMyUW1RRUdZUXFIYzZKSG02UHVxTW5WUkN3QmdrM1pUaDJXZVFOemNtdlN3?oc=5",
-    "published": "Sun, 20 Sep 2026 11:48:00 GMT",
-    "fetched_at": "2026-09-20 22:21:56",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "에너지",
-      "해운",
-      "방산"
-    ],
-    "keywords": [
-      "후티",
-      "사우디",
-      "중동",
-      "지정학적 리스크",
-      "유가"
-    ],
-    "reason": "사우디 수도에 대한 직접 공격은 중동의 지정학적 리스크를 크게 높여 유가 상승 압력을 가중시키고 글로벌 시장의 위험 회피 심리를 자극할 수 있습니다.",
-    "action_point": "지정학적 리스크 확산에 대비하여 에너지 섹터 및 달러 등 안전자산 편입을 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "후티, 사우디 수도까지 사정권…홍해에서 리야드로 전쟁 번져 - 경향신문",
-    "title_ko": "후티, 사우디 수도까지 사정권…홍해에서 리야드로 전쟁 번져",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpdVYtTTR0YXhRd1hSU19kTTNZLUR3RkhaZzNJTUx4cjVnOTJQYVpFbi1UX2QzSTN3NC1jSXdqLUt0OXlnbTgwVGRhNTZqR3F5RzU2aU5DUlVOd9IBX0FVX3lxTE9FbWI1MGI3eFl5VG9pVUVObTktckFudENZSzVJalZnakNYMWNMUFBGempPdEVOM2pQeEJ5NkpNdjAzbVUzV3FINVFYSnQyajFISFFhWnc4bkhtVW80d3I0?oc=5",
-    "published": "Sun, 20 Sep 2026 07:56:00 GMT",
-    "fetched_at": "2026-09-20 22:22:50",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "에너지",
-      "해운",
-      "방산",
-      "보험",
-      "항공"
-    ],
-    "keywords": [
-      "중동 지정학",
-      "홍해",
-      "사우디",
-      "후티",
-      "유가",
-      "해상 운송",
-      "물류 대란"
-    ],
-    "reason": "후티 공격 범위가 사우디 수도까지 확장되면서 중동 지정학적 리스크가 급격히 고조되고 있습니다. 이는 국제 유가 급등 압력과 함께 글로벌 공급망 교란을 심화시킬 가능성이 큽니다.",
-    "action_point": "국제 유가 급등 가능성에 대비하여 에너지 관련 자산 비중 확대 및 원자재 인플레이션 헤지 검토."
   }
 ]
