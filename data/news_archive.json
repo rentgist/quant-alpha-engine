@@ -2,6 +2,85 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "Trump and Xi dined with AI's biggest names. Here's what we know about tech talks so far",
+    "title_ko": "트럼프와 시진핑, AI 주요 인사들과 만찬…현재까지 기술 회담 소식",
+    "link": "https://www.cnbc.com/2026/09/25/the-tech-download-trump-xi-ai-talks.html",
+    "published": "Fri, 25 Sep 2026 14:43:23 GMT",
+    "fetched_at": "2026-09-26 00:41:06",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "AI 기술",
+      "반도체",
+      "클라우드 컴퓨팅",
+      "빅테크"
+    ],
+    "keywords": [
+      "AI",
+      "인공지능",
+      "트럼프",
+      "시진핑",
+      "기술 회담",
+      "지정학",
+      "AI 규제"
+    ],
+    "reason": "미국과 중국 정상의 AI 관련 논의는 향후 글로벌 AI 규제 및 기술 표준화 논의의 시작점으로, 관련 기술 기업들의 사업 환경에 중장기적인 영향을 미칠 수 있습니다.",
+    "action_point": "AI 기술 기업들의 규제 리스크 노출 정도를 점검하고, 포트폴리오 내 비중 조절 가능성을 염두에 둘 것."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "푸틴, 전쟁비용 부담되자…러 자국 기업에 횡재세 뜯는다 - v.daum.net",
+    "title_ko": "푸틴, 전쟁비용 부담되자…러 자국 기업에 횡재세 뜯는다",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAweWFTenlwNEcwUlFGT2JodjdWeFFxdm92STB3eWtsV1FHeTl2c1NfeDRncUV5RkFxTXh5WkdUTEZNdDdvTzFoWF9iczNoLW8?oc=5",
+    "published": "Fri, 25 Sep 2026 11:10:07 GMT",
+    "fetched_at": "2026-09-26 00:41:37",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "원자재",
+      "산업재"
+    ],
+    "keywords": [
+      "러시아",
+      "횡재세",
+      "우크라이나 전쟁",
+      "원자재",
+      "지정학"
+    ],
+    "reason": "러시아의 횡재세 부과는 전쟁 비용 부담을 시사하며, 이는 러시아 기업 수익성 악화 및 주요 원자재 공급망 불확실성을 높여 글로벌 지정학적 리스크를 가중시킬 수 있습니다.",
+    "action_point": "러시아의 재정 압박으로 인한 원자재 시장 불확실성과 지정학적 리스크 고조에 대비하여 관련 원자재 및 안전자산 비중을 조정하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "李 대통령, 멕시코 국빈방문 ‘경제 성과’…투자·공급망·첨단산업 협력 확대 - 에너지경제신문",
+    "title_ko": "李 대통령, 멕시코 국빈방문 ‘경제 성과’…투자·공급망·첨단산업 협력 확대 - 에너지경제신문",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9adUpTZWZGbzR1aDF6aGQyRkMwRGluaHpYYUhqVS1PQkFEVFNpU2hJUHkxRkpNcWNXb1VVb1VTSlI1WkxmUGVvdnFnY0taYmZHRXkwMVhSTEtjQVY4QXN4b2JDcw?oc=5",
+    "published": "Fri, 25 Sep 2026 10:54:52 GMT",
+    "fetched_at": "2026-09-26 00:41:23",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "자동차",
+      "배터리",
+      "첨단산업",
+      "무역/물류"
+    ],
+    "keywords": [
+      "멕시코",
+      "투자 확대",
+      "공급망 재편",
+      "첨단산업",
+      "북미 시장"
+    ],
+    "reason": "멕시코는 북미 시장 진출의 핵심 거점으로, 이번 협력 확대로 한국 기업의 북미 공급망 안정화 및 첨단산업 투자 기회가 증가할 수 있다. 이는 관련 기업의 해외 실적 개선과 장기 성장 동력 확보에 긍정적이다.",
+    "action_point": "멕시코 진출 및 북미 공급망 관련 국내 첨단산업(자동차, 배터리 등) 기업 투자 기회 모색."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "Russia could attack a NATO country within months, Danish intelligence warns",
     "title_ko": "러시아, 수개월 내 나토 국가 공격 가능성, 덴마크 정보기관 경고",
     "link": "https://www.cnbc.com/2026/09/25/russia-ukraine-war-nato-denmark-putin.html",
@@ -2909,79 +2988,5 @@
     ],
     "reason": "수소경제 정책이 목표 중심에서 AI 및 산업수요 기반의 시장 확대로 전환됨을 시사하며, 관련 기술 개발 및 인프라 투자 확대를 촉진할 수 있다.",
     "action_point": "수소 생산/활용 및 AI 융합 솔루션 관련 국내 기업 투자 비중 확대 검토."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "글로벌세아·OK금융… 중앙일보 인수전 참전",
-    "title_ko": "글로벌세아·OK금융… 중앙일보 인수전 참전",
-    "link": "https://www.mk.co.kr/news/stock/12158641",
-    "published": "Mon, 21 Sep 2026 19:57:51 +09:00",
-    "fetched_at": "2026-09-21 20:29:48",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "미디어",
-      "금융",
-      "의류/유통"
-    ],
-    "keywords": [
-      "중앙일보",
-      "인수전",
-      "M&A",
-      "글로벌세아",
-      "OK금융"
-    ],
-    "reason": "이 뉴스는 중앙일보 매각 관련 M&A 흥행 소식으로, 미디어 섹터 내 개별 기업 이슈이다. 거시경제나 주요 투자 자산 전반에 미치는 직접적인 영향은 제한적이다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Iran vows 'painful' retaliation as Trump piles on pressure ahead of UN General Assembly meeting",
-    "title_ko": "이란, UN 총회 앞두고 트럼프 압박 강화에 '고통스러운 보복' 다짐",
-    "link": "https://www.cnbc.com/2026/09/21/us-iran-war-trump-hormuz.html",
-    "published": "Mon, 21 Sep 2026 04:04:18 GMT",
-    "fetched_at": "2026-09-21 14:40:37",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "방산",
-      "금융"
-    ],
-    "keywords": [
-      "이란",
-      "트럼프",
-      "지정학적 리스크",
-      "원유",
-      "중동"
-    ],
-    "reason": "미국의 이란 경제 및 지도부 파괴 위협과 이란의 보복 다짐은 중동 지정학적 리스크를 고조시키며, 국제 유가 변동성 확대 및 안전자산 선호 심리를 자극할 것입니다.",
-    "action_point": "중동 지정학적 리스크 고조에 따라 원유 관련 자산의 변동성 확대에 대비하고, 안전자산(금, 달러) 보유를 강화하십시오."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "’전쟁 직격탄’ 맞은 이란 경제…GDP 10.1% 감소 - 연합뉴스TV",
-    "title_ko": "’전쟁 직격탄’ 맞은 이란 경제…GDP 10.1% 감소",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9rZnM1NWc2bXNoNTFpWEFFQzI2SmdaWm82eG9PSlROOURNbkZOZ1FuZGNTTjlncTUyMURSTV9jUXRNb1YtaTk2a285VkVNNzhSeUp5bkN1ZTNBV2d1azcycmhBRWVSaHM?oc=5",
-    "published": "Mon, 21 Sep 2026 00:10:00 GMT",
-    "fetched_at": "2026-09-21 14:40:56",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "원자재",
-      "지정학",
-      "에너지"
-    ],
-    "keywords": [
-      "이란",
-      "GDP 감소",
-      "지정학적 리스크",
-      "유가"
-    ],
-    "reason": "이란 경제가 전쟁으로 인해 GDP 10.1% 감소를 겪으며 중동 지역의 지정학적 불안정이 심화되고 있음을 보여준다. 이는 글로벌 에너지 시장의 불확실성을 가중시키고 유가 변동성 확대 요인으로 작용할 수 있다.",
-    "action_point": "중동발 지정학적 리스크 심화로 인한 유가 상승 가능성에 대비해 에너지 섹터 비중을 점검하라."
   }
 ]
