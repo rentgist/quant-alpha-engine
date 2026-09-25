@@ -1,5 +1,55 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Saudi Arabia crude oil exports hit highest level since Iran war began despite pipeline outage",
+    "title_ko": "사우디아라비아 원유 수출, 이란 전쟁 발발 이후 최고치 기록 (파이프라인 장애에도 불구하고)",
+    "link": "https://www.cnbc.com/2026/09/25/saudi-arabia-oil-iran-war-pipeline-strait-hormuz-red-sea-houthis.html",
+    "published": "Fri, 25 Sep 2026 18:46:23 GMT",
+    "fetched_at": "2026-09-26 07:58:01",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "항공",
+      "해운",
+      "화학",
+      "소비재"
+    ],
+    "keywords": [
+      "사우디아라비아",
+      "원유 수출",
+      "유가",
+      "공급",
+      "지정학"
+    ],
+    "reason": "사우디의 견조한 원유 수출량은 국제 유가에 하방 압력으로 작용할 수 있으며, 이는 전반적인 인플레이션 압력을 완화할 가능성이 있다. 동시에 중동 지정학적 리스크는 상존한다.",
+    "action_point": "원유 시장의 견고한 공급 가능성을 고려하여 에너지 관련 자산 비중을 점검하고, 유가 하락 수혜 업종(항공, 해운, 화학 등)에 대한 투자 기회를 모색하라."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Appeals court rules that states can regulate Kalshi’s sports prediction markets, dealing another legal blow to platforms",
+    "title_ko": "항소법원, 주(州) 정부의 Kalshi 스포츠 예측 시장 규제 가능 판결…플랫폼에 또 다른 법적 타격",
+    "link": "https://www.cnbc.com/2026/09/25/appeals-court-rules-states-can-regulate-sports-prediction-markets.html",
+    "published": "Fri, 25 Sep 2026 21:41:18 GMT",
+    "fetched_at": "2026-09-26 07:57:53",
+    "sentiment": "악재",
+    "importance": 2,
+    "sectors": [
+      "예측 시장",
+      "온라인 베팅"
+    ],
+    "keywords": [
+      "예측 시장",
+      "규제",
+      "미국 법원",
+      "온라인 베팅"
+    ],
+    "reason": "미국 항소법원의 판결로 스포츠 예측 시장 플랫폼에 대한 주 정부의 규제 권한이 강화되어 관련 기업들의 사업 확장 및 수익성에 부정적 영향을 미칠 수 있습니다. 이는 특정 온라인 베팅/핀테크 섹터의 성장 잠재력에 대한 불확실성을 높입니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "Maeil_Business",
     "market": "KR",
     "title": "“엄청난 일 벌어질 것”이라던 트럼프…美언론은 “돌파구 없다”",
@@ -2939,56 +2989,5 @@
     ],
     "reason": "정부가 '자원 위기'를 공식적으로 인지하고 국민 일상 보호를 위한 정책 추진을 시사하는 바, 이는 에너지 및 원자재 가격 상승 압력과 전반적인 물가 상승 우려를 반영하며, 관련 산업의 원가 부담이 심화될 수 있음을 의미한다.",
     "action_point": "원자재 및 에너지 의존도가 높은 국내 기업의 원가 부담 증가에 대비하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "ETRI, 피지컬 AI 국제표준화 주도한다 - 로봇신문",
-    "title_ko": "ETRI, 피지컬 AI 국제표준화 주도한다",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE04c2lDVHVlRXloM0NkTjZUMDRPYUxpZE44MHd0T3czbzdvbEZweUJwRVRXVmJWcmxIdDJxR2g5NjdIU3djcHVhYkhOUnpJSl8wRVRLLVMtakp0VHRIYm5ETDNpQkt6bzVJeXhFbw?oc=5",
-    "published": "Mon, 21 Sep 2026 08:20:01 GMT",
-    "fetched_at": "2026-09-21 20:29:10",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "AI",
-      "로봇",
-      "자동화",
-      "반도체"
-    ],
-    "keywords": [
-      "ETRI",
-      "피지컬 AI",
-      "국제표준화",
-      "로봇",
-      "인공지능"
-    ],
-    "reason": "ETRI의 피지컬 AI 국제표준화 주도는 국내 AI 및 로봇 산업이 글로벌 기술 리더십을 확보하고 미래 성장 동력을 강화할 기회입니다. 이는 관련 기술 기업들의 장기적인 경쟁력 향상에 긍정적인 영향을 미칠 수 있습니다.",
-    "action_point": "로봇 및 AI 관련 기술주 포트폴리오 편입을 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "소비.관광은 약세, 물가.생산은 제자리...\"제주경제 회복 제한적\" - 헤드라인제주",
-    "title_ko": "소비.관광은 약세, 물가.생산은 제자리...\"제주경제 회복 제한적\"",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE85SzhUd0lCRWM3dGRSYjRkX3VMVnF1NHlzM1FmdWp5cjZpRTlzdTQ4THJidndGR2o3ZnFJam1YM3ByQ0h2MTNWRURnVzJ1RTVsWDN6QXVHUDZNZ0o0U0diNTdqQlJnQ21zQlhiakd0MENHSzQ?oc=5",
-    "published": "Mon, 21 Sep 2026 08:35:17 GMT",
-    "fetched_at": "2026-09-21 20:29:23",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "관광",
-      "유통",
-      "항공",
-      "레저"
-    ],
-    "keywords": [
-      "제주 경제",
-      "소비 둔화",
-      "관광산업",
-      "경기 부진"
-    ],
-    "reason": "제주 경제의 소비 및 관광 부진은 국내 전반의 내수 둔화 가능성을 시사하며, 이는 국내 소비재, 여행, 항공 등 관련 산업의 실적에 부정적인 영향을 미칠 수 있습니다.",
-    "action_point": "국내 소비재 및 여행/레저 섹터의 투자 비중을 재검토하고 보수적인 접근을 유지하십시오."
   }
 ]
