@@ -1,5 +1,51 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "China, U.S. agree to $30 billion tariff cut, AI dialogue during Xi visit, Beijing says",
+    "title_ko": "중국, 시진핑 방미 중 300억 달러 관세 인하 및 AI 대화 합의 발표",
+    "link": "https://www.cnbc.com/2026/09/26/china-us-tariff-cut-ai-dialogue.html",
+    "published": "Sat, 26 Sep 2026 10:58:02 GMT",
+    "fetched_at": "2026-09-27 06:43:22",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "수출주",
+      "기술주",
+      "해운/물류"
+    ],
+    "keywords": [
+      "미중 무역",
+      "관세 인하",
+      "AI 협력",
+      "지정학적 리스크 완화"
+    ],
+    "reason": "미중 간 관세 인하 합의는 무역 긴장 완화 및 글로벌 교역 환경 개선 기대를 높이며, AI 대화는 기술 협력의 가능성을 시사합니다. 다만 요약에 따르면 아직 대대적인 돌파구보다는 외교적 성과에 가깝습니다.",
+    "action_point": "미중 무역 긴장 완화 기대감으로 수출 지향적 산업과 AI 관련 기술주의 단기적 관심 확대."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Apple faces $5.7 billion patent infringement verdict over iPhone and Apple Watch haptics",
+    "title_ko": "애플, 아이폰 및 애플 워치 햅틱 관련 특허 침해로 57억 달러 배상 평결에 직면",
+    "link": "https://www.cnbc.com/2026/09/26/apple-taction-technology-patent-infringement-verdict.html",
+    "published": "Sat, 26 Sep 2026 16:57:57 GMT",
+    "fetched_at": "2026-09-27 06:43:32",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "기술주"
+    ],
+    "keywords": [
+      "애플",
+      "특허 침해",
+      "햅틱 기술",
+      "배상 평결"
+    ],
+    "reason": "이번 평결은 애플에 57억 달러 규모의 재정적 부담을 안기며, 장기적으로는 애플의 햅틱 기술 전략 및 수익성에 영향을 줄 수 있습니다. 그러나 거시 경제 전반이나 광범위한 시장에 미치는 직접적인 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "CNBC_Finance",
     "market": "US",
     "title": "This may be the ‘missing piece’ for investors looking to boost AI exposure",
@@ -2929,55 +2975,5 @@
     ],
     "reason": "알리바바의 AI 칩 개발 및 데이터센터 확장은 장기적인 성장 동력을 제시하며, 이는 중국 기술주의 투자 심리 개선과 클라우드 및 AI 관련 산업 전반에 긍정적인 영향을 미칠 것입니다.",
     "action_point": "AI 및 클라우드 컴퓨팅 관련 기술 섹터에 대한 투자 비중 확대 검토"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "\"민생 안정 총력·주택공급 확대\"...이형일 경제팀 과제는 - YTN",
-    "title_ko": "민생 안정 총력·주택공급 확대\"...이형일 경제팀 과제는",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5BLVFyY2VsYm1zUXJtNl91TWJfWVZLaERsdEdiZC02T1lJcFo1MklpX2hzSkFGQUlsUEhub2ZHaWlkYVI2Tkx6VzMxT1dlYUE2WlAtcjBSdGdZVDNVVlE?oc=5",
-    "published": "Tue, 22 Sep 2026 08:13:00 GMT",
-    "fetched_at": "2026-09-22 19:36:59",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "건설",
-      "부동산",
-      "건축자재"
-    ],
-    "keywords": [
-      "민생 안정",
-      "주택공급 확대",
-      "경제팀",
-      "부동산 정책"
-    ],
-    "reason": "새 경제팀의 주택공급 확대 방침은 건설 및 부동산 시장에 중장기적으로 공급 증가 압력을 가해 관련 섹터의 사업 기회와 시장 안정화에 기여할 수 있다.",
-    "action_point": "건설 및 건축자재 섹터 비중 확대를 검토하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "공개하자마자 하루에 11% 폭등했다…美 현지가 열광한 메타의 ‘진짜 비서’",
-    "title_ko": "공개하자마자 하루에 11% 폭등했다…美 현지가 열광한 메타의 ‘진짜 비서’",
-    "link": "https://www.mk.co.kr/news/it/12159747",
-    "published": "Tue, 22 Sep 2026 19:20:29 +09:00",
-    "fetched_at": "2026-09-22 19:38:11",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "기술",
-      "인공지능",
-      "소셜 미디어",
-      "전자상거래"
-    ],
-    "keywords": [
-      "메타",
-      "인공지능",
-      "개인 비서",
-      "소셜 미디어",
-      "주가 상승"
-    ],
-    "reason": "메타의 AI 기반 개인 비서 출시는 소셜 미디어 플랫폼의 활용도를 높이고 AI 경쟁 심화를 예고하며, 이는 장기적으로 기술 섹터의 성장을 견인할 잠재력이 있다. 다만, 개인정보 보호 이슈는 잠재적 리스크로 작용할 수 있다.",
-    "action_point": "인공지능(AI) 및 소셜 미디어 플랫폼 관련 기술주 비중 확대를 검토하고, 개인정보 보호 관련 규제 동향을 함께 주시하라."
   }
 ]
