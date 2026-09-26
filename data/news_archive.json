@@ -1,5 +1,271 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Arming Taiwan is an important U.S. interest, Taipei official says after Trump-Xi summit",
+    "title_ko": "대만 무장은 미국의 중요한 이익, 트럼프-시진핑 회담 후 타이베이 당국자 언급",
+    "link": "https://www.cnbc.com/2026/09/26/arming-taiwan-is-an-important-us-interest-taipei-official-says.html",
+    "published": "Sat, 26 Sep 2026 08:41:13 GMT",
+    "fetched_at": "2026-09-26 20:58:09",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "국방",
+      "반도체",
+      "글로벌 무역"
+    ],
+    "keywords": [
+      "미중 관계",
+      "대만",
+      "지정학적 리스크",
+      "안보"
+    ],
+    "reason": "트럼프-시진핑 회담 후 대만 당국자의 발언은 미중 간 대만을 둘러싼 지정학적 긴장이 지속됨을 시사하며, 글로벌 공급망, 특히 반도체 산업에 대한 불확실성을 가중시킨다.",
+    "action_point": "미중 지정학적 긴장 심화에 대비하여 방어적 자산 비중 확대 및 공급망 리스크 노출 자산의 비중 조절을 검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "日언론 “中, 이란에 ‘美경제제재 동참 안해’ 입장 전달” - KBS 뉴스",
+    "title_ko": "日언론 “中, 이란에 ‘美경제제재 동참 안해’ 입장 전달”",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE50VnA3RTlJbWQ3cmIwY083Mk5qNVNJU2VPNkF2U3JPbWVtQmhndll4RnVrNGpSOWhhQjU5WnFyLWNrYUlleHR2WnBRMlBTSG9ZTHVmSjB6WHlLOEk?oc=5",
+    "published": "Sat, 26 Sep 2026 09:59:00 GMT",
+    "fetched_at": "2026-09-26 20:58:34",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "원자재",
+      "방산",
+      "정유/화학"
+    ],
+    "keywords": [
+      "중국",
+      "이란",
+      "미국 경제제재",
+      "원유",
+      "지정학적 리스크"
+    ],
+    "reason": "중국이 미국의 이란 경제제재에 불참 의사를 밝히면서 이란산 원유 공급이 유지되어 유가 상방 압력은 일부 완화될 수 있으나, 미중 지정학적 갈등 심화로 글로벌 불확실성과 시장 변동성이 확대될 수 있습니다.",
+    "action_point": "미중 지정학적 갈등 심화와 유가 변동성 확대에 대비하여 에너지 및 방어 섹터 포트폴리오 비중을 재점검하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[속보] \"중국, 미국 대이란 경제제재 따르지 않겠다…이란에 입장 전달\" - v.daum.net",
+    "title_ko": "중국, 미국 대이란 경제제재 따르지 않겠다…이란에 입장 전달",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9qeVQwUXNidE42LVd5dU9qT0ZILTgwZkM3ZjBPTFJ6V3I4RjQ4UVgzVGNxOU9SNTdJU2swRkozMkV4LWZjRWdhaksxOFprV3c?oc=5",
+    "published": "Sat, 26 Sep 2026 10:10:52 GMT",
+    "fetched_at": "2026-09-26 20:58:49",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "원유/에너지",
+      "해운/정유",
+      "국방/방산"
+    ],
+    "keywords": [
+      "중국",
+      "미국",
+      "이란",
+      "경제제재",
+      "지정학",
+      "원유"
+    ],
+    "reason": "중국이 미국의 대이란 제재 불이행을 선언하며 미-중 간 지정학적 갈등이 심화되고 중동 정세 불안정성이 증대될 수 있습니다. 이는 국제 유가 변동성을 확대시키는 주요 요인으로 작용할 것입니다.",
+    "action_point": "에너지 섹터 및 원유 관련 자산의 변동성 확대에 대비하여 비중 축소를 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "미·중 정상, AI '소통채널' 개설…\"국제 수로 통행료 부과 불허\" - 연합인포맥스",
+    "title_ko": "미·중 정상, AI '소통채널' 개설…'국제 수로 통행료 부과 불허'",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBsMG9xZ3B5bEZnYTYwVFZDZWZ5S0VuUVpnSXBjM2Z6Z1dXZS1TM1dzbl92ZFJfMnpDRFJVLWxKd2ljNU04Z2RpZXAyWVdsY1NGTmJUNVhwV2M1djhSRnA2S1RSdkdhMjdBN2pKYUdRdVE?oc=5",
+    "published": "Sat, 26 Sep 2026 06:45:17 GMT",
+    "fetched_at": "2026-09-26 20:58:57",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "반도체",
+      "IT",
+      "해운",
+      "물류"
+    ],
+    "keywords": [
+      "미중 관계",
+      "AI",
+      "기술 패권",
+      "지정학",
+      "글로벌 무역"
+    ],
+    "reason": "미국과 중국 간 AI 소통 채널 개설은 핵심 기술 분야의 불확실성을 완화하고, 국제 수로 관련 언급은 글로벌 무역 및 해상 안보의 위험을 줄여 전반적인 시장 안정에 긍정적 영향을 미칠 수 있습니다.",
+    "action_point": "미중 지정학적 리스크 완화 기대감에 따른 반도체 및 AI 관련 기술주 포트폴리오 비중 유지 검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "트럼프·시진핑 \"국제수로 통행료 반대\"…호르무즈 쥔 이란 부담 - 한국경제",
+    "title_ko": "트럼프·시진핑 \"국제수로 통행료 반대\"…호르무즈 쥔 이란 부담",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1td0hOR00xMWtPTWxNcXVyOFJkZTBQZnFQNVJ2V0ZLZS1KSllkcUlqakF3dXc2Xzl3bktqMmowTS1FbVFoekYyeGlkU3Q4OFlzYU9aelV6SnA4QQ?oc=5",
+    "published": "Sat, 26 Sep 2026 06:25:55 GMT",
+    "fetched_at": "2026-09-26 20:59:16",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "해운",
+      "물류",
+      "화학"
+    ],
+    "keywords": [
+      "트럼프",
+      "시진핑",
+      "국제수로",
+      "호르무즈",
+      "이란",
+      "유가",
+      "지정학"
+    ],
+    "reason": "미국과 중국이 국제수로 통행료 부과에 반대 입장을 표명하여 호르무즈 해협을 둘러싼 지정학적 리스크가 완화되며, 이는 글로벌 원유 공급망의 안정성에 긍정적인 영향을 미쳐 유가 급등 가능성을 억제한다.",
+    "action_point": "원유 공급망 리스크 완화로 인한 항공, 해운, 화학 등 에너지 다소비 산업의 비용 절감 효과를 주시하고 관련 투자 비중 확대를 검토하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "“목돈 생겼는데 어떻게 하지”…추석 여윳돈 굴릴 고금리 예적금 살펴보니",
+    "title_ko": "“목돈 생겼는데 어떻게 하지”…추석 여윳돈 굴릴 고금리 예적금 살펴보니",
+    "link": "https://www.mk.co.kr/news/economy/12161691",
+    "published": "Sat, 26 Sep 2026 19:21:21 +09:00",
+    "fetched_at": "2026-09-26 20:59:59",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "금융",
+      "증권"
+    ],
+    "keywords": [
+      "고금리 예적금",
+      "추석 상여금",
+      "자금 이동",
+      "저축은행",
+      "시중은행"
+    ],
+    "reason": "추석 상여금 등 목돈 유입 시기에 국내 고금리 예적금 상품의 매력이 부각되며, 주식 시장에서 안전자산인 예금으로 개인 자금 이동이 가속화될 가능성이 높습니다. 이는 국내 증시의 단기 유동성을 위축시킬 수 있습니다.",
+    "action_point": "국내 주식 포트폴리오 내 현금 비중을 확대하거나 단기 고금리 예적금 상품으로의 자금 이동을 검토하십시오."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "TikTok reaches first state settlement over teen safety claims, agrees to user limits",
+    "title_ko": "틱톡, 청소년 안전 문제 관련 첫 주 정부 합의 도출 및 사용자 제한 동의",
+    "link": "https://www.cnbc.com/2026/09/26/tiktok-reaches-first-state-settlement-over-teen-safety-claims.html",
+    "published": "Sat, 26 Sep 2026 08:16:19 GMT",
+    "fetched_at": "2026-09-26 20:58:02",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "소셜 미디어",
+      "인터넷 플랫폼"
+    ],
+    "keywords": [
+      "틱톡",
+      "청소년 안전",
+      "규제",
+      "사용자 제한"
+    ],
+    "reason": "틱톡의 청소년 대상 사용자 제한 합의는 플랫폼의 성장 전략에 영향을 미칠 수 있으나, 전반적인 시장이나 매크로 경제에 미치는 직접적인 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "경제협력에 ‘문화의 힘’ 더했다…이 대통령, 멕시코 순방 마무리 - JTBC",
+    "title_ko": "경제협력에 ‘문화의 힘’ 더했다…이 대통령, 멕시코 순방 마무리",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5hY24wQWlIN0ZWNE1LY0lJR0ZGWWx6cXRmclNINTJiWm1WdDMya3p3aWxaTWdIQkpnTVBTSW9STF9aSmN4eUpOSXdqUXhWNmdQcVZQLQ?oc=5",
+    "published": "Sat, 26 Sep 2026 10:05:00 GMT",
+    "fetched_at": "2026-09-26 20:58:19",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [],
+    "keywords": [
+      "대통령 순방",
+      "멕시코",
+      "경제협력",
+      "문화교류"
+    ],
+    "reason": "이 대통령의 멕시코 순방은 양국 간 경제 및 문화 협력 증진에 대한 의지를 확인하는 자리였으나, 구체적인 투자나 무역 계약 발표는 없어 단기적인 시장 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "일본, 국제우주정거장(ISS)에서 'AI 로봇 경진대회' 연다 - 로봇신문",
+    "title_ko": "일본, 국제우주정거장(ISS)에서 'AI 로봇 경진대회' 연다 - 로봇신문",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9WczdxLTFNTUFQTWVoMVNxVUdMUU1BNHI3R2pRNUw1ZU1WRzJNZlYyQ0pOS1B2Q2hlSzE5bTQxSzNsRDd0dGNScDJ5VXFmQVRFa2htU0picWhBMDY2YzRTUmY1blZKM21maFl1eg?oc=5",
+    "published": "Sat, 26 Sep 2026 10:39:37 GMT",
+    "fetched_at": "2026-09-26 20:59:04",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "AI",
+      "로봇",
+      "우주항공"
+    ],
+    "keywords": [
+      "AI",
+      "로봇",
+      "우주",
+      "일본",
+      "ISS"
+    ],
+    "reason": "이 뉴스는 일본의 우주 및 AI 기술 개발 노력을 보여주며, 장기적으로 해당 산업의 혁신과 성장에 긍정적이나, 단기적인 거시경제나 투자 자산 시장에 직접적인 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "“달러 환전만 하던 시대는 끝”…인뱅 외환 서비스 경쟁 불붙었다",
+    "title_ko": "“달러 환전만 하던 시대는 끝”…인뱅 외환 서비스 경쟁 불붙었다",
+    "link": "https://www.mk.co.kr/news/economy/12161701",
+    "published": "Sat, 26 Sep 2026 20:27:17 +09:00",
+    "fetched_at": "2026-09-26 20:59:36",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "금융",
+      "핀테크"
+    ],
+    "keywords": [
+      "외환 서비스",
+      "인터넷은행",
+      "환테크",
+      "다변화된 통화"
+    ],
+    "reason": "인터넷은행의 외환 서비스 경쟁 심화는 개인 투자자들의 다양한 통화 자산 접근성을 높여 환율 변동성 활용 기회를 확대합니다. 이는 금융 시장 내 외환 거래 편의성 증진에 기여할 것입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "“손끝 한번 찌르면 됐는데”…병원이 멈춘 ‘이 검사’, 60대 여성 삶이 바뀌었다 [어쩌다 세상이]",
+    "title_ko": "“손끝 한번 찌르면 됐는데”…병원이 멈춘 ‘이 검사’, 60대 여성 삶이 바뀌었다 [어쩌다 세상이]",
+    "link": "https://www.mk.co.kr/news/society/12161699",
+    "published": "Sat, 26 Sep 2026 20:21:16 +09:00",
+    "fetched_at": "2026-09-26 20:59:42",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "의료서비스"
+    ],
+    "keywords": [
+      "의료과실",
+      "병원",
+      "환자안전"
+    ],
+    "reason": "이 뉴스는 특정 병원의 의료과실로 인한 환자 피해 사례를 다루는 것으로, 거시 경제나 금융 시장 전반에 미치는 직접적인 영향은 극히 제한적입니다. 특정 병원 및 의료 서비스 품질 이슈에 국한됩니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "CNBC_Finance",
     "market": "US",
     "title": "Why Xi believes the U.S. and China can overcome the 'Thucydides Trap'",
@@ -2703,289 +2969,5 @@
     ],
     "reason": "트럼프-시진핑 만찬의 주요 경제 협력 성과에 대한 기대감이 높은 상황에서 비즈니스 관계자 참석 여부가 불확실하다는 점은 시장에 추가적인 불확실성을 더하며 관망세를 유발할 수 있습니다.",
     "action_point": "미중 무역 갈등 관련 불확실성 지속에 대비하여 대중국 수출 의존도가 높은 국내 산업재 및 기술주 비중 축소 검토."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Jamie Dimon says hyperscaler AI spending could hit $1 trillion next year",
-    "title_ko": "제이미 다이먼, 내년 하이퍼스케일러 AI 지출 1조 달러 도달 가능성 언급",
-    "link": "https://www.cnbc.com/2026/09/21/jamie-dimon-jpm-jpmorgan-indiaconference.html",
-    "published": "Tue, 22 Sep 2026 01:30:01 GMT",
-    "fetched_at": "2026-09-22 14:37:57",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "반도체",
-      "클라우드 컴퓨팅",
-      "소프트웨어",
-      "데이터센터"
-    ],
-    "keywords": [
-      "AI",
-      "인공지능",
-      "하이퍼스케일러",
-      "클라우드",
-      "반도체"
-    ],
-    "reason": "하이퍼스케일러의 막대한 AI 투자 전망은 반도체, 클라우드 컴퓨팅 등 AI 관련 산업의 폭발적 성장을 시사하며, 기술 섹터 전반에 강력한 상승 모멘텀을 제공할 것입니다.",
-    "action_point": "AI 및 반도체 섹터 비중 확대 검토"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "All Iranian airlines to be 'shut down' from Wednesday, Bessent tells CNBC",
-    "title_ko": "미 재무장관, '수요일부터 모든 이란 항공사 폐쇄' CNBC서 밝혀",
-    "link": "https://www.cnbc.com/2026/09/22/us-iran-war-trump-hormuz.html",
-    "published": "Tue, 22 Sep 2026 01:51:44 GMT",
-    "fetched_at": "2026-09-22 14:38:07",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "항공",
-      "운송",
-      "방산"
-    ],
-    "keywords": [
-      "이란 제재",
-      "지정학적 리스크",
-      "원유",
-      "미국 재무부"
-    ],
-    "reason": "미국의 이란 제재 강화는 중동 지역의 지정학적 리스크를 고조시키며, 이는 원유 공급 차질 우려를 키워 유가 상승 압력으로 작용할 수 있다. 또한 글로벌 무역 및 운송 부문에 불확실성을 가중시킨다.",
-    "action_point": "원유 관련 투자 자산 비중 확대를 검토하고 지정학적 위험 회피를 위해 안전자산에 대한 관심을 높여라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Investors rush into India’s National Stock Exchange IPO at valuation multiple above Nasdaq",
-    "title_ko": "투자자들이 나스닥을 상회하는 밸류에이션으로 인도 국립증권거래소(NSE) IPO에 몰리고 있다",
-    "link": "https://www.cnbc.com/2026/09/22/india-nse-ipo-billion-nasdaq.html",
-    "published": "Tue, 22 Sep 2026 04:00:28 GMT",
-    "fetched_at": "2026-09-22 14:38:16",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "금융",
-      "증권",
-      "이머징 마켓 투자"
-    ],
-    "keywords": [
-      "인도",
-      "IPO",
-      "증권거래소",
-      "이머징 마켓",
-      "밸류에이션",
-      "자본유입"
-    ],
-    "reason": "인도 최대 IPO의 성공적인 흥행은 이머징 마켓, 특히 인도 시장에 대한 글로벌 투자자들의 강한 신뢰와 자본 유입을 시사합니다. 이는 해당 시장의 금융 섹터 성장에 긍정적이며, 전반적인 위험 선호 심리 강화로 이어질 수 있습니다.",
-    "action_point": "인도 증시를 포함한 이머징 마켓 자산, 특히 금융 섹터에 대한 투자 확대를 고려하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Trump, Xi seek trade stability and deals, but AI, tariffs and Iran loom large. What to watch",
-    "title_ko": "트럼프와 시진핑, 무역 안정과 거래를 모색하지만, AI, 관세, 이란 문제가 크게 부각된다. 주목할 점",
-    "link": "https://www.cnbc.com/2026/09/21/trump-xi-china-summit-trade-tariffs.html",
-    "published": "Mon, 21 Sep 2026 22:25:33 GMT",
-    "fetched_at": "2026-09-22 09:24:40",
-    "sentiment": "중립",
-    "importance": 5,
-    "sectors": [
-      "기술",
-      "반도체",
-      "산업재",
-      "에너지",
-      "해운"
-    ],
-    "keywords": [
-      "미중 무역",
-      "AI",
-      "관세",
-      "이란",
-      "지정학적 위험",
-      "정상회담"
-    ],
-    "reason": "미중 정상회담은 무역 안정 기대를 주지만, AI 경쟁, 관세, 이란 문제 등 주요 갈등 요인이 여전히 해결되지 않아 글로벌 경제 및 특정 산업의 불확실성을 가중시킨다.",
-    "action_point": "미중 무역 및 기술 갈등 노출도가 높은 섹터의 비중 축소를 검토하고, 지정학적 리스크 심화에 대비한 포트폴리오 방어 전략을 강화하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "CNBC's The China Connection newsletter: Five things to watch for the Trump-Xi summit",
-    "title_ko": "CNBC 차이나 커넥션 뉴스레터: 트럼프-시진핑 정상회담에서 주목할 5가지",
-    "link": "https://www.cnbc.com/2026/09/22/cnbcs-the-china-connection-newsletter-watch-this-at-trump-xi-summit.html",
-    "published": "Mon, 21 Sep 2026 23:18:30 GMT",
-    "fetched_at": "2026-09-22 09:24:47",
-    "sentiment": "중립",
-    "importance": 5,
-    "sectors": [
-      "기술주",
-      "수출주",
-      "제조업",
-      "반도체",
-      "원자재"
-    ],
-    "keywords": [
-      "트럼프",
-      "시진핑",
-      "미중 관계",
-      "정상회담",
-      "지정학",
-      "무역분쟁"
-    ],
-    "reason": "예정된 미중 정상회담은 글로벌 무역 정책, 지정학적 안정성, 그리고 공급망에 중대한 영향을 미칠 수 있습니다. 양측의 낙관론 온도차가 향후 협상 난이도와 잠재적 갈등의 재점화 가능성을 시사합니다.",
-    "action_point": "미중 관계 변화에 민감한 수출주 및 기술주 변동성 확대에 대비하여 포트폴리오 비중을 재점검하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "OpenAI proposes development of global AI standards to guide alignment, RSI",
-    "title_ko": "OpenAI, AI 정렬 및 RSI 지침 마련을 위한 글로벌 AI 표준 개발 제안",
-    "link": "https://www.cnbc.com/2026/09/21/open-ai-alignment-rsi.html",
-    "published": "Mon, 21 Sep 2026 20:51:11 GMT",
-    "fetched_at": "2026-09-22 06:25:11",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "인공지능(AI)",
-      "기술(Technology)"
-    ],
-    "keywords": [
-      "AI 표준",
-      "AI 안전",
-      "규제",
-      "OpenAI"
-    ],
-    "reason": "이 제안은 AI 기술의 장기적인 발전 방향과 규제 환경에 대한 논의를 촉발하여, 향후 AI 산업 전반의 투자 심리와 경쟁 구도에 영향을 미칠 수 있습니다.",
-    "action_point": "AI 관련 기업 투자 시 장기적인 규제 리스크와 준수 비용을 고려하십시오."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "“NCT·에스파로 쇼핑몰 도배” … K팝 품고 디즈니 넘어선 中 콘텐츠 공룡",
-    "title_ko": "“NCT·에스파로 쇼핑몰 도배” … K팝 품고 디즈니 넘어선 中 콘텐츠 공룡",
-    "link": "https://www.mk.co.kr/news/world/12158437",
-    "published": "Tue, 22 Sep 2026 05:00:00 +09:00",
-    "fetched_at": "2026-09-22 06:25:30",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "엔터테인먼트",
-      "콘텐츠",
-      "IT/기술"
-    ],
-    "keywords": [
-      "K팝",
-      "텐센트",
-      "IP",
-      "콘텐츠 산업",
-      "중국 시장"
-    ],
-    "reason": "중국 대형 콘텐츠 기업이 K-pop IP를 활용하여 글로벌 시장에서 영향력을 확대하고 있으며, 이는 한국 엔터테인먼트 산업의 IP 가치 상승과 중국 시장 내 비즈니스 기회 확대를 시사합니다.",
-    "action_point": "국내 엔터테인먼트 및 콘텐츠 기업의 IP 가치 상승 여력을 면밀히 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Cybersecurity stocks are back with a bang. These four are on Josh Brown's list",
-    "title_ko": "사이버보안 주식들이 화려하게 부활했다. 조쉬 브라운이 선정한 4개 종목",
-    "link": "https://www.cnbc.com/2026/09/21/cybersecurity-stocks-are-back-with-a-bang-these-four-are-on-josh-browns-list.html",
-    "published": "Mon, 21 Sep 2026 15:43:44 GMT",
-    "fetched_at": "2026-09-22 06:25:17",
-    "sentiment": "호재",
-    "importance": 2,
-    "sectors": [
-      "사이버보안",
-      "기술주"
-    ],
-    "keywords": [
-      "사이버보안",
-      "기술주",
-      "투자",
-      "주식"
-    ],
-    "reason": "이 기사는 전문가의 추천을 통해 사이버보안 섹터에 대한 투자자들의 관심이 다시 증가하고 있음을 시사하며, 해당 섹터의 긍정적인 전망을 강화합니다.",
-    "action_point": "사이버보안 섹터 비중 확대 및 관련 유망 종목 편입을 검토하라."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Stocks making the biggest moves premarket: Paramount, Warner Bros., Accenture, Novo & more",
-    "title_ko": "개장 전 가장 큰 움직임을 보이는 주식들: 파라마운트, 워너 브로스, 액센츄어, 노보 등",
-    "link": "https://www.cnbc.com/2026/09/21/stocks-making-the-biggest-moves-premarket-psky-wbd-acn-nvo.html",
-    "published": "Mon, 21 Sep 2026 11:40:33 GMT",
-    "fetched_at": "2026-09-22 02:26:53",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "미디어/엔터테인먼트",
-      "IT 서비스",
-      "제약/헬스케어"
-    ],
-    "keywords": [
-      "개장 전 움직임",
-      "개별 주식",
-      "파라마운트",
-      "워너 브로스",
-      "액센츄어",
-      "노보"
-    ],
-    "reason": "이 뉴스는 특정 기업들의 개장 전 주가 변동을 단순히 나열한 것으로, 움직임의 배경에 대한 정보가 없어 거시 경제나 광범위한 시장 추세에 미치는 실질적인 영향은 미미합니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Nissan eyes increasing U.S. production as new Rogue hybrid launches",
-    "title_ko": "닛산, 신형 로그 하이브리드 출시 맞춰 미국 생산 증대 검토",
-    "link": "https://www.cnbc.com/2026/09/21/nissan-2027-rogue-production.html",
-    "published": "Mon, 21 Sep 2026 16:53:00 GMT",
-    "fetched_at": "2026-09-22 02:27:03",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "자동차",
-      "제조업",
-      "친환경차"
-    ],
-    "keywords": [
-      "닛산",
-      "미국 생산",
-      "하이브리드",
-      "자동차",
-      "고용"
-    ],
-    "reason": "닛산의 미국 생산 증대는 특정 모델의 판매 호조와 미국 자동차 시장 내 하이브리드 차량 수요 증가를 반영합니다. 이는 해당 기업 및 미국 제조업에 긍정적이나, 거시 경제 전반에 미치는 영향은 제한적입니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Here's what the Saudi East-West pipeline shutdown means for Asia's biggest crude importers",
-    "title_ko": "사우디 동서 파이프라인 폐쇄가 아시아 주요 원유 수입국에 미칠 영향",
-    "link": "https://www.cnbc.com/2026/09/21/saudi-pipeline-closure-asia-oil-import-korea.html",
-    "published": "Mon, 21 Sep 2026 08:29:13 GMT",
-    "fetched_at": "2026-09-21 20:28:23",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "석유화학",
-      "해운",
-      "항공",
-      "제조업"
-    ],
-    "keywords": [
-      "사우디",
-      "원유",
-      "파이프라인",
-      "공급",
-      "아시아",
-      "대한민국",
-      "유가"
-    ],
-    "reason": "사우디 주요 파이프라인 폐쇄는 아시아, 특히 한국으로의 원유 공급을 위축시켜 국제 유가 상승 압력을 높이고 에너지 관련 산업의 비용 부담을 가중시킬 것입니다. 이는 국내 경제 전반에 부정적인 영향을 미칠 수 있습니다.",
-    "action_point": "국제 유가 상승에 대비하여 에너지 효율 관련주 및 대체 에너지 관련 투자 기회를 모색하거나, 원유 수입 의존도가 높은 기업의 비중을 재검토하라."
   }
 ]
