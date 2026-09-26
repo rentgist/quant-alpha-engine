@@ -2,6 +2,83 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "Trump, Xi wrap state visit centered on spectacle over substance. Here are the top takeaways",
+    "title_ko": "트럼프-시진핑 국빈 방문, 실속보다 의전에 집중. 주요 내용은?",
+    "link": "https://www.cnbc.com/2026/09/25/trump-xi-summit-takeaways.html",
+    "published": "Fri, 25 Sep 2026 21:38:38 GMT",
+    "fetched_at": "2026-09-26 10:10:14",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "글로벌 무역",
+      "기술",
+      "방위산업"
+    ],
+    "keywords": [
+      "미중 관계",
+      "트럼프",
+      "시진핑",
+      "지정학적 리스크",
+      "무역 불확실성",
+      "대만",
+      "이란"
+    ],
+    "reason": "트럼프와 시진핑의 국빈 방문은 대만, 이란 등 핵심 현안에 대한 구체적인 합의 없이 마무리되어 미중 간 지정학적 긴장과 무역 불확실성이 지속될 것임을 시사한다.",
+    "action_point": "미중 간 지정학적 긴장과 무역 불확실성이 지속될 것에 대비해 방어적 자산 비중을 유지하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "李대통령 “한·멕시코 무역협정으로 양국 경제 협력 강화해야” - 조선비즈 - Chosunbiz",
+    "title_ko": "李대통령 “한·멕시코 무역협정으로 양국 경제 협력 강화해야”",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVFdrMU1nYUZvNkdCYzdHV2dyMkRHLWRGZjdsWmZFRDJHam54YWFGWE9tdjF5aW04NzVLeUdoYkR4azNPcXF2bkRfOGZKN09FQXR5R1BrQVVzSGtnQW1OZnF6TUYzNGF3MUhWa0J4MXNaWGpuS3pFY2VaZEFWeDBNbDkxdkkySURlVFd2clhDb2JFMm96MzUzc0JOUjJuUdIBsgFBVV95cUxNOWhFR2pLM2FDVkxZbkxtSzZBMGt6MzREcTRzdE9ORkxuZmY0bzV5SlBxYklZeEpfV3lvbEdnb3R2ekZ2SW15U2FLTE9CLU1XcHRYM043T2xVMlNBWHExdTR3dk0yV2l3eWM1MG9OaVA0Wk02ZTF0bU41S2FOallDVU5vLTZ1R292dlZub205MkFhUmFGR3dhUlhpYUM0aEtqVXMyNlJaZlgycFRjR19yOXRR?oc=5",
+    "published": "Fri, 25 Sep 2026 23:18:00 GMT",
+    "fetched_at": "2026-09-26 10:10:23",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "자동차",
+      "IT/전자",
+      "무역",
+      "물류"
+    ],
+    "keywords": [
+      "한-멕시코 무역협정",
+      "경제협력",
+      "수출",
+      "통상정책"
+    ],
+    "reason": "한국과 멕시코 간의 무역협정 추진 의지는 양국 간 교역을 확대하고 한국 기업의 멕시코 및 북미 시장 접근성을 개선하여 수출 증대와 투자 기회를 창출할 수 있습니다.",
+    "action_point": "멕시코 시장 노출도가 높은 국내 자동차 및 IT/전자 관련 수출 기업의 중장기 투자 매력도를 검토."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Stocks making the biggest moves premarket: Akamai, Synopsys, Nike & more",
+    "title_ko": "프리마켓에서 가장 큰 움직임을 보이는 주식: Akamai, Synopsys, Nike 외",
+    "link": "https://www.cnbc.com/2026/09/25/stocks-making-the-biggest-moves-premarket-akam-snps-nke.html",
+    "published": "Fri, 25 Sep 2026 11:40:42 GMT",
+    "fetched_at": "2026-09-26 10:09:59",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "기술",
+      "소비재"
+    ],
+    "keywords": [
+      "프리마켓",
+      "개별 주식",
+      "변동성",
+      "Akamai",
+      "Synopsys",
+      "Nike"
+    ],
+    "reason": "이 기사는 특정 개별 주식들의 프리마켓 움직임을 전달할 뿐, 전반적인 시장 방향성이나 거시 경제에 대한 명확한 신호를 제공하지 않습니다. 각 기업의 개별적인 이벤트에 주목해야 합니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "Saudi Arabia crude oil exports hit highest level since Iran war began despite pipeline outage",
     "title_ko": "사우디아라비아 원유 수출, 이란 전쟁 발발 이후 최고치 기록 (파이프라인 장애에도 불구하고)",
     "link": "https://www.cnbc.com/2026/09/25/saudi-arabia-oil-iran-war-pipeline-strait-hormuz-red-sea-houthis.html",
@@ -2912,82 +2989,5 @@
     ],
     "reason": "비트코인의 급등은 가상자산 시장의 투자심리를 개선시키고, 위험자산 전반에 대한 선호도를 높일 수 있습니다. 이는 과거 침체기 이후 회복 기대감을 반영하며 시장에 긍정적인 신호로 작용합니다.",
     "action_point": "가상자산 투자 익스포저(exposure) 확대를 검토하거나, 위험선호 심리 확산에 따른 고위험 자산군을 주시하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Novo shares slide as drugmaker lays out post-Wegovy growth strategy",
-    "title_ko": "노보 노디스크, 위고비 이후 성장 전략 발표에도 주가 하락",
-    "link": "https://www.cnbc.com/2026/09/21/novo-nordisk-stock-sales-target-obesity-drugs.html",
-    "published": "Mon, 21 Sep 2026 10:40:51 GMT",
-    "fetched_at": "2026-09-21 20:28:03",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "제약",
-      "바이오테크",
-      "헬스케어"
-    ],
-    "keywords": [
-      "노보 노디스크",
-      "위고비",
-      "비만 치료제",
-      "제약 경쟁"
-    ],
-    "reason": "노보 노디스크의 위고비 이후 성장 전략 발표에도 주가 하락은 비만 치료제 시장의 경쟁 심화와 선두 기업의 성장성에 대한 시장 우려를 반영합니다. 이는 관련 제약/바이오 섹터 전반의 투자심리에 부정적 영향을 줄 수 있습니다.",
-    "action_point": "비만 치료제 관련 제약/바이오 섹터 투자 비중을 축소하고, 경쟁 심화에 따른 이익률 하락 가능성을 염두에 두어라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "U.S.-listed Greenland stocks surge after Trump announces security deal with Denmark",
-    "title_ko": "트럼프, 덴마크와 안보 협정 발표 후 미국 상장 그린란드 주식 급등",
-    "link": "https://www.cnbc.com/2026/09/21/greenland-trump-denmark-deal-stocks-mining.html",
-    "published": "Mon, 21 Sep 2026 10:50:45 GMT",
-    "fetched_at": "2026-09-21 20:28:15",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "방위산업",
-      "건설",
-      "에너지/원자재"
-    ],
-    "keywords": [
-      "지정학",
-      "북극",
-      "안보",
-      "군사",
-      "자원경쟁"
-    ],
-    "reason": "미국의 북극 지역 안보 및 군사력 강화는 러시아, 중국 등과의 지정학적 경쟁 심화를 의미하며, 장기적으로 북극 자원 및 항로 통제권을 둘러싼 긴장 고조 가능성을 시사한다.",
-    "action_point": "미국 방위산업 관련 투자 기회 모색"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "자원 위기로부터 국민 일상 보호! - 전체 | 카드/한컷 - korea.kr",
-    "title_ko": "자원 위기로부터 국민 일상 보호!",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5lQjFrRWg2RDExZTJFb1lvRmMxTTg2ZTVoSi1hMEU2bEROVWFrc0hVUkJYdGRQUnkzNzdfZ1d5OS1VSzY3ajdIenp1MTg4aFQxRmkwX1RuS1g5VV95aGg4YnZZbVRhNU5KQjdzWGhB?oc=5",
-    "published": "Mon, 21 Sep 2026 06:18:33 GMT",
-    "fetched_at": "2026-09-21 20:29:02",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "에너지",
-      "원자재",
-      "산업재",
-      "유틸리티",
-      "필수소비재"
-    ],
-    "keywords": [
-      "자원 위기",
-      "에너지 가격",
-      "원자재 가격",
-      "물가 상승",
-      "정부 정책",
-      "공급망"
-    ],
-    "reason": "정부가 '자원 위기'를 공식적으로 인지하고 국민 일상 보호를 위한 정책 추진을 시사하는 바, 이는 에너지 및 원자재 가격 상승 압력과 전반적인 물가 상승 우려를 반영하며, 관련 산업의 원가 부담이 심화될 수 있음을 의미한다.",
-    "action_point": "원자재 및 에너지 의존도가 높은 국내 기업의 원가 부담 증가에 대비하라."
   }
 ]
