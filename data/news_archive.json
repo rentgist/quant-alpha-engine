@@ -1,5 +1,86 @@
 [
   {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "The 10-year Treasury yield is at its highest in nearly two decades. How we got here",
+    "title_ko": "10년물 국채 수익률이 거의 20년 만에 최고치를 기록했습니다. 어떻게 이런 상황이 되었을까요?",
+    "link": "https://www.cnbc.com/2026/09/26/10-year-treasury-yield-is-at-its-highest-in-19-years-how-we-got-here.html",
+    "published": "Sat, 26 Sep 2026 13:30:06 GMT",
+    "fetched_at": "2026-09-27 00:42:44",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "기술주",
+      "부동산",
+      "고부채 기업",
+      "성장주"
+    ],
+    "keywords": [
+      "10년물 국채 수익률",
+      "고인플레이션",
+      "AI 투자 붐",
+      "채권 발행 증가",
+      "고금리"
+    ],
+    "reason": "10년물 국채 금리 급등은 고인플레이션, 정부의 대규모 채권 발행, 그리고 AI 투자 붐으로 인한 견고한 경제 활동이 복합적으로 작용하여 고금리 환경이 장기화될 가능성을 시사합니다. 이는 전반적인 자금 조달 비용을 상승시켜 특히 성장주와 부동산 시장에 하방 압력을 가할 것입니다.",
+    "action_point": "고금리 환경 장기화에 대비하여 성장주 비중 축소 및 단기 달러 채권 편입을 고려하십시오."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Trump rejects Iran's conditional ceasefire proposal, WSJ reports, as Saudi coalition intercepts projectiles",
+    "title_ko": "트럼프, 이란의 조건부 휴전 제안 거부…사우디 연합군, 발사체 요격 (WSJ 보도)",
+    "link": "https://www.cnbc.com/2026/09/26/trump-rejects-irans-conditional-ceasefire-proposal-wsj-reports.html",
+    "published": "Sat, 26 Sep 2026 15:05:38 GMT",
+    "fetched_at": "2026-09-27 00:42:57",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "에너지",
+      "방산",
+      "항공",
+      "해운",
+      "금융"
+    ],
+    "keywords": [
+      "트럼프",
+      "이란",
+      "중동",
+      "지정학적 리스크",
+      "유가",
+      "안전자산",
+      "군사행동"
+    ],
+    "reason": "트럼프의 이란 조건부 휴전 제안 거부와 미국 폭격 재개 가능성은 중동 지역의 지정학적 긴장을 최고조로 끌어올려 국제 유가 급등과 글로벌 금융 시장의 불확실성을 키울 수 있습니다.",
+    "action_point": "중동 지정학적 리스크 심화에 대비하여 안전자산(금, 달러) 비중을 확대하고, 유가 상승 압력에 노출되는 에너지 및 방산 섹터 투자를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Chinese AI models surge in global popularity — and Washington is worried",
+    "title_ko": "중국 AI 모델, 전 세계적으로 인기 급증 – 미국은 우려",
+    "link": "https://www.cnbc.com/2026/09/26/china-ai-global-adoption.html",
+    "published": "Sat, 26 Sep 2026 05:00:01 GMT",
+    "fetched_at": "2026-09-27 00:43:03",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "기술",
+      "반도체",
+      "소프트웨어",
+      "IT하드웨어"
+    ],
+    "keywords": [
+      "AI",
+      "중국 기술",
+      "미중 기술 경쟁",
+      "기술 규제",
+      "반도체"
+    ],
+    "reason": "중국 AI 모델의 글로벌 확산은 미중 기술 패권 경쟁을 더욱 심화시키고, 미국의 추가적인 기술 규제 및 제재 가능성을 높여 글로벌 IT 공급망에 불확실성을 가중시킬 수 있습니다.",
+    "action_point": "미중 기술 경쟁 심화에 따른 AI 및 반도체 관련 포트폴리오의 지정학적 리스크를 점검하고, 중국 의존도가 높은 기술 기업 비중 축소를 검토하라."
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "Arming Taiwan is an important U.S. interest, Taipei official says after Trump-Xi summit",
@@ -2895,79 +2976,5 @@
     ],
     "reason": "경남 서부권 경제자유구역 신규 지정 추진은 해당 지역의 투자 유치 및 개발 기대감을 높일 수 있으나, 전국 단위의 거시경제 및 자산 포트폴리오에 미치는 직접적인 영향은 미미합니다.",
     "action_point": "해당 없음"
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "“농지조사, 평당 9만원 땅 6만원에도 안 팔려”…농민들, 장관 만나 불만 폭발",
-    "title_ko": "“농지조사, 평당 9만원 땅 6만원에도 안 팔려”…농민들, 장관 만나 불만 폭발",
-    "link": "https://www.mk.co.kr/news/realestate/12159749",
-    "published": "Tue, 22 Sep 2026 19:27:23 +09:00",
-    "fetched_at": "2026-09-22 19:37:48",
-    "sentiment": "악재",
-    "importance": 2,
-    "sectors": [
-      "부동산",
-      "농업",
-      "금융"
-    ],
-    "keywords": [
-      "농지조사",
-      "농지 가격 하락",
-      "농지 거래 급감",
-      "농민 불만"
-    ],
-    "reason": "농지 전수조사로 인한 농지 거래 급감과 가격 하락은 농촌 경제에 직접적인 타격을 주고, 지방 부동산 시장의 침체를 심화시킬 수 있습니다. 이는 농지를 담보로 한 금융권의 건전성에도 부정적 영향을 미칠 수 있습니다.",
-    "action_point": "농지 비중이 높은 지방 부동산 관련 자산에 대한 리스크를 점검하고, 농지 담보 대출 익스포저가 큰 지방 금융기관의 건전성을 면밀히 평가하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "“NCT·에스파로 쇼핑몰 도배”…K팝 품고 디즈니 넘어선 中 콘텐츠 공룡 [특파원 인사이트]",
-    "title_ko": "“NCT·에스파로 쇼핑몰 도배”…K팝 품고 디즈니 넘어선 中 콘텐츠 공룡 [특파원 인사이트]",
-    "link": "https://www.mk.co.kr/news/world/12159729",
-    "published": "Tue, 22 Sep 2026 18:48:35 +09:00",
-    "fetched_at": "2026-09-22 19:38:28",
-    "sentiment": "호재",
-    "importance": 2,
-    "sectors": [
-      "엔터테인먼트",
-      "미디어",
-      "게임"
-    ],
-    "keywords": [
-      "K팝",
-      "텐센트",
-      "콘텐츠 IP",
-      "중국 시장",
-      "한류"
-    ],
-    "reason": "중국 거대 콘텐츠 기업 텐센트가 K팝 IP를 활용하여 글로벌 엔터테인먼트 생태계를 확장하고 있으며, 이는 K팝 콘텐츠의 상업적 가치와 시장 파급력이 지속적으로 증대되고 있음을 시사합니다.",
-    "action_point": "K팝 IP를 보유한 국내 엔터테인먼트 및 콘텐츠 관련 기업의 투자 매력도를 재평가하고 비중 확대를 검토하라."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Here's who we know is going to the Trump-Xi dinner so far",
-    "title_ko": "트럼프-시진핑 만찬에 누가 참석하는지 현재까지 알려진 내용",
-    "link": "https://www.cnbc.com/2026/09/22/heres-who-we-know-is-going-to-the-trump-xi-dinner-so-far.html",
-    "published": "Tue, 22 Sep 2026 02:41:10 GMT",
-    "fetched_at": "2026-09-22 14:37:51",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "기술",
-      "산업재",
-      "소비재"
-    ],
-    "keywords": [
-      "트럼프",
-      "시진핑",
-      "미중 관계",
-      "만찬",
-      "정상회담"
-    ],
-    "reason": "트럼프-시진핑 만찬의 주요 경제 협력 성과에 대한 기대감이 높은 상황에서 비즈니스 관계자 참석 여부가 불확실하다는 점은 시장에 추가적인 불확실성을 더하며 관망세를 유발할 수 있습니다.",
-    "action_point": "미중 무역 갈등 관련 불확실성 지속에 대비하여 대중국 수출 의존도가 높은 국내 산업재 및 기술주 비중 축소 검토."
   }
 ]
