@@ -2,6 +2,55 @@
   {
     "source": "CNBC_Finance",
     "market": "US",
+    "title": "This may be the ‘missing piece’ for investors looking to boost AI exposure",
+    "title_ko": "AI 투자 비중 확대를 모색하는 투자자들에게 '결정적 한 조각'이 될 수 있는 전략",
+    "link": "https://www.cnbc.com/2026/09/26/ai-portfolios-may-need-china-to-grab-the-biggest-gains.html",
+    "published": "Sat, 26 Sep 2026 15:00:01 GMT",
+    "fetched_at": "2026-09-27 03:51:53",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "인공지능",
+      "기술주",
+      "반도체",
+      "중국 관련 투자"
+    ],
+    "keywords": [
+      "AI 투자",
+      "투자 전략",
+      "중국 경제",
+      "Matthews Asia"
+    ],
+    "reason": "AI 투자 포트폴리오 다각화를 위한 중국 관련 자산의 중요성을 제시하며, AI 성장 동력에 대한 새로운 시각을 제공합니다. 이는 AI 관련 기술주 및 특정 신흥국 시장에 대한 투자심리에 긍정적 영향을 줄 수 있습니다.",
+    "action_point": "AI 포트폴리오 내 미국 외 지역(특히 중국)의 AI 기술 기업 및 관련 ETF 편입을 통한 지역 다각화 검토."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "OpenAI expands review of model behavior after more rogue agent incidents emerge",
+    "title_ko": "오픈AI, '악성 에이전트' 사고 발생 후 모델 오작동 검토 확대",
+    "link": "https://www.cnbc.com/2026/09/26/openai-agent-model-behavior-review.html",
+    "published": "Sat, 26 Sep 2026 17:10:32 GMT",
+    "fetched_at": "2026-09-27 03:52:06",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "IT/기술",
+      "소프트웨어",
+      "인공지능"
+    ],
+    "keywords": [
+      "OpenAI",
+      "인공지능",
+      "AI 안전",
+      "모델 오작동"
+    ],
+    "reason": "AI 모델의 오작동 및 안전성에 대한 우려를 증폭시켜 인공지능 산업 전반의 투자 심리에 부정적 영향을 줄 수 있습니다. 향후 AI 관련 규제 강화 가능성도 시사합니다.",
+    "action_point": "인공지능 관련 기술 및 서비스 기업의 포트폴리오 비중 조정 검토"
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
     "title": "The 10-year Treasury yield is at its highest in nearly two decades. How we got here",
     "title_ko": "10년물 국채 수익률이 거의 20년 만에 최고치를 기록했습니다. 어떻게 이런 상황이 되었을까요?",
     "link": "https://www.cnbc.com/2026/09/26/10-year-treasury-yield-is-at-its-highest-in-19-years-how-we-got-here.html",
@@ -2930,51 +2979,5 @@
     ],
     "reason": "메타의 AI 기반 개인 비서 출시는 소셜 미디어 플랫폼의 활용도를 높이고 AI 경쟁 심화를 예고하며, 이는 장기적으로 기술 섹터의 성장을 견인할 잠재력이 있다. 다만, 개인정보 보호 이슈는 잠재적 리스크로 작용할 수 있다.",
     "action_point": "인공지능(AI) 및 소셜 미디어 플랫폼 관련 기술주 비중 확대를 검토하고, 개인정보 보호 관련 규제 동향을 함께 주시하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "‘매관매직’ 김건희, 징역 7년→5년 감형…‘바쉐론 시계’ 무죄",
-    "title_ko": "‘매관매직’ 김건희, 징역 7년→5년 감형…‘바쉐론 시계’ 무죄",
-    "link": "https://www.mk.co.kr/news/society/12159722",
-    "published": "Tue, 22 Sep 2026 18:28:09 +09:00",
-    "fetched_at": "2026-09-22 19:38:44",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "해당 없음"
-    ],
-    "keywords": [
-      "김건희",
-      "사법 리스크",
-      "정치 불확실성",
-      "감형"
-    ],
-    "reason": "영부인 관련 사법 리스크의 일부 해소 또는 지속 여부는 주로 정치적 논란에 그치며, 거시경제 지표나 기업 실적에 직접적인 영향을 미 미치지 않아 금융 시장에 대한 즉각적인 파급 효과는 제한적입니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "경남도, 서부경남 경제자유구역 신규 지정 신청 절차 시작 - 연합뉴스",
-    "title_ko": "경남도, 서부경남 경제자유구역 신규 지정 신청 절차 시작",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhcG43cGVNcVEtY3htM2NtTG9OR2RaUFlZMEdqWHA4emZrMEYyazVKeE5qMmNrNmlNaGt2TnBhZXpNSGpnLWtmUHluYVIyd1NZRmNpYTdfc0c4dGFRZDFSYdIBYEFVX3lxTFBhcG43cGVNcVEtY3htM2NtTG9OR2RaUFlZMEdqWHA4emZrMEYyazVKeE5qMmNrNmlNaGt2TnBhZXpNSGpnLWtmUHluYVIyd1NZRmNpYTdfc0c4dGFRZDFSYQ?oc=5",
-    "published": "Tue, 22 Sep 2026 07:28:52 GMT",
-    "fetched_at": "2026-09-22 19:37:24",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "부동산",
-      "건설",
-      "지역개발"
-    ],
-    "keywords": [
-      "경남도",
-      "경제자유구역",
-      "서부경남",
-      "지역개발"
-    ],
-    "reason": "경남 서부권 경제자유구역 신규 지정 추진은 해당 지역의 투자 유치 및 개발 기대감을 높일 수 있으나, 전국 단위의 거시경제 및 자산 포트폴리오에 미치는 직접적인 영향은 미미합니다.",
-    "action_point": "해당 없음"
   }
 ]
