@@ -1,5 +1,78 @@
 [
   {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Why Xi believes the U.S. and China can overcome the 'Thucydides Trap'",
+    "title_ko": "시진핑 주석이 미국과 중국이 '투키디데스 함정'을 극복할 수 있다고 믿는 이유",
+    "link": "https://www.cnbc.com/2026/09/26/xi-trump-thucydides-trap-us-china.html",
+    "published": "Sat, 26 Sep 2026 05:00:01 GMT",
+    "fetched_at": "2026-09-26 15:52:10",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "기술",
+      "반도체",
+      "제조업"
+    ],
+    "keywords": [
+      "미중 관계",
+      "시진핑",
+      "지정학",
+      "투키디데스 함정"
+    ],
+    "reason": "시진핑 주석이 미중 간 '파괴적인 경쟁'을 피할 수 있다고 믿는다는 것은 양국 관계의 긴장 완화 가능성을 시사하며, 이는 글로벌 무역 및 공급망 안정화에 긍정적인 영향을 미칠 수 있습니다.",
+    "action_point": "미중 관계 개선 가능성을 염두에 두고 기술 및 수출 중심 산업의 비중 확대를 검토하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "“추석 끝나면 환율 또 출렁?”…미중회담·대미투자 곳곳 변수",
+    "title_ko": "“추석 끝나면 환율 또 출렁?”…미중회담·대미투자 곳곳 변수",
+    "link": "https://www.mk.co.kr/news/economy/12161632",
+    "published": "Sat, 26 Sep 2026 15:36:11 +09:00",
+    "fetched_at": "2026-09-26 15:52:46",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "외환시장",
+      "금융",
+      "IT/반도체"
+    ],
+    "keywords": [
+      "환율",
+      "미중회담",
+      "대미투자",
+      "한미금리차",
+      "AI투자"
+    ],
+    "reason": "미중 관계, AI 투자 방향, 한미 금리차 등 다양한 외부 요인이 복합적으로 작용하여 추석 이후 원/달러 환율의 변동성 확대 및 원화 약세 압력을 가중시킬 가능성이 높습니다. 이는 외국인 자금 유출과 시장 불안정성 확대로 이어질 수 있습니다.",
+    "action_point": "원/달러 환율 변동성 확대 및 원화 약세에 대비하여 달러 자산 비중 확대를 검토하십시오."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Here's exactly what Paramount promised Hollywood to land WBD — and why some are still skeptical",
+    "title_ko": "파라마운트가 WBD 인수를 위해 할리우드에 약속한 내용 및 여전히 회의적인 시각",
+    "link": "https://www.cnbc.com/2026/09/25/paramount-hollywood-promises.html",
+    "published": "Fri, 25 Sep 2026 22:53:52 GMT",
+    "fetched_at": "2026-09-26 15:52:24",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "미디어/엔터테인먼트"
+    ],
+    "keywords": [
+      "파라마운트",
+      "WBD",
+      "합병",
+      "인수",
+      "반독점",
+      "엔터테인먼트"
+    ],
+    "reason": "이번 뉴스는 파라마운트와 WBD 간의 미디어 합병에 대한 반독점 규제 문제를 다루며, 특정 기업의 합병 진행 상황 및 시장 경쟁 환경 변화를 시사합니다. 거시 경제 지표나 광범위한 시장에는 직접적인 영향이 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "Trump, Xi wrap state visit centered on spectacle over substance. Here are the top takeaways",
@@ -2914,80 +2987,5 @@
     ],
     "reason": "사우디 주요 파이프라인 폐쇄는 아시아, 특히 한국으로의 원유 공급을 위축시켜 국제 유가 상승 압력을 높이고 에너지 관련 산업의 비용 부담을 가중시킬 것입니다. 이는 국내 경제 전반에 부정적인 영향을 미칠 수 있습니다.",
     "action_point": "국제 유가 상승에 대비하여 에너지 효율 관련주 및 대체 에너지 관련 투자 기회를 모색하거나, 원유 수입 의존도가 높은 기업의 비중을 재검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Why Goldman says the yen may not have much room to strengthen",
-    "title_ko": "골드만삭스가 엔화 강세 여력이 제한적이라고 말하는 이유",
-    "link": "https://www.cnbc.com/2026/09/21/why-goldman-says-the-yen-may-not-have-much-room-to-strengthen.html",
-    "published": "Mon, 21 Sep 2026 06:36:05 GMT",
-    "fetched_at": "2026-09-21 20:28:31",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "외환",
-      "글로벌 매크로",
-      "수출"
-    ],
-    "keywords": [
-      "엔화",
-      "골드만삭스",
-      "환율",
-      "약세"
-    ],
-    "reason": "골드만삭스가 엔화 약세 가능성을 제시함에 따라, 이는 글로벌 캐리 트레이드 및 아시아 통화 전반에 걸친 투심에 영향을 미칠 수 있다. 특히 국내 수출 기업의 경쟁 환경에 변화를 가져올 수 있다.",
-    "action_point": "엔화 약세가 지속될 경우 일본과 경쟁하는 국내 수출 업종의 투자 비중을 재검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "미국이 조여버린 이란 '경제 숨통'…중동 안보 요동칠 조짐 [지금이뉴스] - YTN",
-    "title_ko": "미국이 조여버린 이란 '경제 숨통'…중동 안보 요동칠 조짐",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE02S1FFbjQ2YWEydGZETDdKc1BYcXotZDNib1NFbzkwOVVQSjlSd2lOR3VWNVQ0YXRrWk1GcEN0UkRiUHozQ28tREF4UkRjYWlhYjdwNjhZWlVKUHhFb1d3dy1hTGFjTXN5N1JUQzdQN2JHUGc0bmc?oc=5",
-    "published": "Mon, 21 Sep 2026 06:20:00 GMT",
-    "fetched_at": "2026-09-21 20:28:44",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "원자재",
-      "방산",
-      "해운",
-      "보험"
-    ],
-    "keywords": [
-      "미국-이란",
-      "중동 지정학",
-      "유가",
-      "이란 제재",
-      "지정학적 리스크"
-    ],
-    "reason": "미국의 이란 경제 제재 강화는 중동 지역의 지정학적 불안정성을 고조시키고, 이는 글로벌 에너지 공급망에 대한 불확실성을 증폭시켜 국제 유가 상승 압력으로 작용할 수 있습니다. 전반적인 시장 위험 회피 심리를 자극할 가능성이 있습니다.",
-    "action_point": "중동 지정학적 리스크 심화로 인한 유가 상승 가능성에 대비, 에너지/원자재 관련 자산 비중 확대를 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Bitcoin hits highest level since January at $85,000, as the market debates whether the 'crypto winter' is over",
-    "title_ko": "비트코인, 85,000달러 돌파하며 1월 이후 최고치 기록…'크립토 겨울' 종료 논쟁 가열",
-    "link": "https://www.cnbc.com/2026/09/21/bitcoin-price-crypto-rally.html",
-    "published": "Mon, 21 Sep 2026 11:10:55 GMT",
-    "fetched_at": "2026-09-21 20:27:49",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "블록체인/암호화폐",
-      "핀테크",
-      "기술주"
-    ],
-    "keywords": [
-      "비트코인",
-      "암호화폐",
-      "가상자산",
-      "크립토 겨울"
-    ],
-    "reason": "비트코인의 급등은 가상자산 시장의 투자심리를 개선시키고, 위험자산 전반에 대한 선호도를 높일 수 있습니다. 이는 과거 침체기 이후 회복 기대감을 반영하며 시장에 긍정적인 신호로 작용합니다.",
-    "action_point": "가상자산 투자 익스포저(exposure) 확대를 검토하거나, 위험선호 심리 확산에 따른 고위험 자산군을 주시하라."
   }
 ]
