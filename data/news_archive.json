@@ -2,6 +2,58 @@
   {
     "source": "GoogleNews_Korea",
     "market": "KR",
+    "title": "세계경제포럼, AI 지속가능성 논의…“컴퓨트·에너지·인재 투자 필요” - 인공지능신문",
+    "title_ko": "세계경제포럼, AI 지속가능성 논의…“컴퓨트·에너지·인재 투자 필요”",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Ma09BUXFqOUxzaDl4RlhMb1gxUElFZnVnMWNEZm81dkVjaUQzVHNZcHpaOWdLSUZqeGVPdUJnZXphejBvY1RVdnozbkpCTXJpdDVaSFEwSG9aZkdLc09Ib3FMb0lZZjQ?oc=5",
+    "published": "Sun, 27 Sep 2026 22:22:59 GMT",
+    "fetched_at": "2026-09-28 10:19:17",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "반도체",
+      "클라우드 컴퓨팅",
+      "에너지",
+      "AI 소프트웨어/서비스"
+    ],
+    "keywords": [
+      "AI",
+      "지속가능성",
+      "컴퓨트",
+      "에너지",
+      "인재",
+      "세계경제포럼"
+    ],
+    "reason": "세계경제포럼에서 AI의 지속 가능한 발전을 위한 핵심 요소로 컴퓨팅 자원, 에너지, 인재에 대한 투자를 강조하며 관련 산업의 장기적인 성장 동력을 확인시켜 주지만, 동시에 잠재적 병목 현상을 시사합니다.",
+    "action_point": "AI 컴퓨트 및 에너지 인프라 관련 섹터(반도체, 클라우드, 전력) 내 선도 기업에 대한 비중 확대를 고려하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "\"잊고 있던 자동결제 잡아낸다\"…'구독 경제' 위협하는 AI - v.daum.net",
+    "title_ko": "잊고 있던 자동결제 잡아낸다\"…'구독 경제' 위협하는 AI",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE51UGRreGF3NXg3bDRqU0R4U2NUbllQQV9QbVR1TWVFcWNlNUszSkFZREpSdnl4Wi1LQUdHbFd6SXJuNmx4MUJTZDY0Yjdvdlk?oc=5",
+    "published": "Mon, 28 Sep 2026 00:21:50 GMT",
+    "fetched_at": "2026-09-28 10:19:24",
+    "sentiment": "악재",
+    "importance": 2,
+    "sectors": [
+      "IT 서비스",
+      "콘텐츠",
+      "플랫폼",
+      "소프트웨어"
+    ],
+    "keywords": [
+      "AI",
+      "구독 경제",
+      "자동결제",
+      "소비자 행동"
+    ],
+    "reason": "AI 기술의 발전으로 소비자들이 잊고 있던 자동결제를 쉽게 파악하고 해지할 수 있게 되면서, 구독 경제 모델을 가진 기업들의 매출과 수익성에 부정적인 영향을 미칠 수 있습니다. 특히 만성적인 소액 결제에 의존하는 플랫폼 및 콘텐츠 기업에 잠재적 위협이 될 수 있습니다.",
+    "action_point": "구독 서비스 매출 비중이 높은 기업의 포트폴리오 비중을 재검토하고, AI 기반 비용 관리 서비스의 확산 속도를 주시하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
     "title": "OECD “AI 투자 열풍에 세계 경제 선방…중동발 충격에 내년 둔화 우려” - v.daum.net",
     "title_ko": "OECD “AI 투자 열풍에 세계 경제 선방…중동발 충격에 내년 둔화 우려”",
     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1JR0Z5MlIzcnliWjlPNzdOd3ZOZTBjRDQzd2dzVk5ndG1ReTA3NURDWldlZGNZZkxiTEdHdEt4aklraW1LbjE3OUtaUjdnems?oc=5",
@@ -2909,53 +2961,5 @@
     ],
     "reason": "스마트폰 시장의 유닛 출하량 14% 감소 전망은 관련 제조사 및 메모리 반도체 산업에 큰 압박으로 작용할 것이며, 퀄컴의 AI 칩 출시는 장기적 관점에서 기술 발전 가능성을 시사하나 단기 시장 위축이 더 지배적입니다.",
     "action_point": "메모리 반도체 및 스마트폰 제조사 관련 주식의 단기 투자 비중 축소를 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "아시아개발은행(ADB), 올해 韓 경제성장률 3.2% 전망...7월 전망 대비 0.6%포인트 상향 - 조선일보",
-    "title_ko": "아시아개발은행(ADB), 올해 韓 경제성장률 3.2% 전망...7월 전망 대비 0.6%포인트 상향",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONXVYVV93TnNta0VPYlRNd1ctWnZocjVGX3E4ZU1SZEozajB5VFhjUlNLTUxodHo2a2NLOEhNb3ljUlF3UGYydGNCNGZRU0k4MDFXaW9UQ3BFTF9heVFzSzhwVmJ3dnppRXBUaXRqZ2RlWnl6b3pGNkx0WG9SRm5faEQwcnZNYUZ4cF9JWkZB?oc=5",
-    "published": "Wed, 23 Sep 2026 00:05:35 GMT",
-    "fetched_at": "2026-09-23 10:04:39",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "전반",
-      "경기민감주",
-      "수출주",
-      "내수주"
-    ],
-    "keywords": [
-      "ADB",
-      "경제성장률",
-      "한국",
-      "전망 상향"
-    ],
-    "reason": "아시아개발은행(ADB)의 한국 경제성장률 전망 상향은 국내 기업 실적 개선 기대를 높이며 전반적인 경기 회복 신호로 작용합니다. 이는 국내 주식시장 전반에 긍정적인 영향을 미칠 수 있습니다.",
-    "action_point": "경기 민감 및 내수 관련 국내 주식 섹터 비중 확대 고려"
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "CFTC says prediction markets' 'mentions' contracts present a higher risk of manipulation",
-    "title_ko": "CFTC, 예측 시장의 '언급' 계약은 조작 위험이 더 높다고 밝혀",
-    "link": "https://www.cnbc.com/2026/09/22/cftc-prediction-markets-mentions-contracts-have-manipulation-risk.html",
-    "published": "Wed, 23 Sep 2026 00:58:16 GMT",
-    "fetched_at": "2026-09-23 10:04:25",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "예측 시장",
-      "핀테크"
-    ],
-    "keywords": [
-      "CFTC",
-      "예측 시장",
-      "조작 위험",
-      "규제"
-    ],
-    "reason": "미국 상품선물거래위원회(CFTC)가 예측 시장 내 '언급' 계약의 높은 조작 위험을 지적하며 규제 당국의 신기술 기반 비정형 금융 상품에 대한 신중한 접근을 시사합니다. 이는 특정 소수 투자 상품에 국한된 이슈로, 광범위한 거시경제나 주요 투자 자산에 미치는 직접적인 영향은 제한적입니다.",
-    "action_point": "해당 없음"
   }
 ]
