@@ -2,6 +2,106 @@
   {
     "source": "CNBC_Finance",
     "market": "US",
+    "title": "Nearly half the stocks in the S&P 500 are at cross purposes with the rest of the market",
+    "title_ko": "S&P 500 종목 절반가량이 시장 전체 흐름과 엇갈린 움직임을 보임",
+    "link": "https://www.cnbc.com/2026/09/28/nearly-half-of-the-stocks-in-the-sp-500-are-working-against-it.html",
+    "published": "Mon, 28 Sep 2026 17:53:31 GMT",
+    "fetched_at": "2026-09-29 07:21:24",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "광범위한 시장",
+      "기술주",
+      "가치주"
+    ],
+    "keywords": [
+      "S&P 500",
+      "베타",
+      "시장 불균형",
+      "종목 분산",
+      "시장 내부 역학"
+    ],
+    "reason": "S&P 500 종목의 절반 가까이가 음의 베타를 보이는 것은 소수 대형주가 지수 상승을 견인하는 반면, 다수 종목은 하락하거나 방어적으로 움직이는 시장 불균형 심화를 나타냅니다. 이는 시장 전반의 참여 부족과 잠재적 불안정성을 시사합니다.",
+    "action_point": "S&P 500의 종목별 불균형 심화에 따라 시장 지수 비중을 축소하고 개별 종목 및 섹터별 차별화 전략을 강화하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "AMD acquiring Fei-Fei Li's World Labs AI firm in deal worth $8.2 billion",
+    "title_ko": "AMD, 페이페이 리의 월드 랩스 AI 기업을 82억 달러에 인수",
+    "link": "https://www.cnbc.com/2026/09/28/amd-fei-fei-li-world-labs.html",
+    "published": "Mon, 28 Sep 2026 22:21:22 GMT",
+    "fetched_at": "2026-09-29 07:21:37",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "반도체",
+      "인공지능",
+      "기술주"
+    ],
+    "keywords": [
+      "AMD",
+      "AI",
+      "인수합병",
+      "반도체",
+      "World Labs"
+    ],
+    "reason": "AMD의 대규모 AI 기업 인수는 인공지능 분야의 투자 확대와 기술 경쟁 심화를 보여줍니다. 이는 반도체 산업의 지속적인 성장을 견인할 것으로 예상됩니다.",
+    "action_point": "인공지능 및 반도체 섹터의 성장성을 고려하여 관련 자산 비중 유지 또는 확대 검토"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Trump announces plan for $15 billion steel plant, would be largest in U.S. history",
+    "title_ko": "트럼프, 150억 달러 규모의 미국 역사상 최대 철강 공장 건설 계획 발표",
+    "link": "https://www.cnbc.com/2026/09/28/trump-steel-plant-iowa.html",
+    "published": "Mon, 28 Sep 2026 21:20:00 GMT",
+    "fetched_at": "2026-09-29 07:21:49",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "철강",
+      "산업재",
+      "건설"
+    ],
+    "keywords": [
+      "트럼프",
+      "철강",
+      "보호무역",
+      "산업정책"
+    ],
+    "reason": "트럼프의 대규모 철강 공장 건설 계획은 향후 미국의 산업 및 무역 정책이 보호주의적 기조로 전환될 가능성을 시사하며, 이는 글로벌 철강 시장과 무역 관계에 부정적인 영향을 미칠 수 있습니다.",
+    "action_point": "미국 보호무역주의 강화 가능성에 대비하여 국내 철강 및 산업재 수출 기업 투자 비중 축소를 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "‘잡초 먹으며 버텨’···장기화한 전쟁의 민낯, 올레시키의 비극 - 경향신문",
+    "title_ko": "‘잡초 먹으며 버텨’···장기화한 전쟁의 민낯, 올레시키의 비극",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00M3EwN0FQRVdObDF6dXFaa1R0X05mNnJHSF9ZRVFRZGs4Y3BqLTFlR1N3eVpWaEV0R25yYURfTnJQa3VLN1BjYkMxOGZkdzRBQk9NNHlfM1NKd9IBX0FVX3lxTFB0SVFJXzJpY3JwYnE2NGdtTlNKSHpBT1Vpak9pX0I0RnhwTWpNV3NERXVjSFRORi1uTGU2dlN4d1VGSzUzWVFscVpQdnROZ0htSUtpWVZpeDJxanlwVEVv?oc=5",
+    "published": "Mon, 28 Sep 2026 21:00:00 GMT",
+    "fetched_at": "2026-09-29 07:21:58",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "식량/농업",
+      "에너지",
+      "원자재",
+      "방산"
+    ],
+    "keywords": [
+      "전쟁",
+      "지정학",
+      "인도적 위기",
+      "식량 안보",
+      "장기화"
+    ],
+    "reason": "이 기사는 장기화된 전쟁의 심각한 인도적 위기와 그로 인한 식량 안보 우려를 부각하며, 글로벌 지정학적 불확실성이 지속되고 에너지 및 농산물 가격에 상방 압력을 가할 수 있음을 시사합니다.",
+    "action_point": "장기화된 지정학적 리스크와 식량 안보 악화에 대비하여 방어적 자산 비중 유지 및 농산물 관련 원자재 시장 변동성을 주시하십시오."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
     "title": "U.S., China to lower tariffs on $60 billion of goods. Here's what qualifies",
     "title_ko": "미국, 중국 600억 달러 규모 제품 관세 인하 합의. 품목 상세 내역",
     "link": "https://www.cnbc.com/2026/09/28/us-china-lower-tariffs-trump-xi-meeting.html",
@@ -2859,106 +2959,5 @@
     ],
     "reason": "미국이 동맹국과의 갈등으로 중국에 대한 압박 수위를 높이기 어려워지면서 미중 관계의 불확실성이 지속될 수 있다. 이는 글로벌 무역 및 공급망에 대한 장기적 전망에 부정적 영향을 미칠 수 있다.",
     "action_point": "미중 갈등의 장기화 및 지정학적 불확실성 증대에 대비하여 기술 및 글로벌 공급망 관련 섹터 비중 축소를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Market sees next Fed hike in October, following Barr comments and hot inflation reading",
-    "title_ko": "시장은 배리 연준 부의장 발언과 뜨거운 인플레이션 지표 이후 10월 연준 추가 금리 인상을 예상",
-    "link": "https://www.cnbc.com/2026/09/23/market-sees-next-fed-hike-in-october-following-barr-comments-hot-inflation.html",
-    "published": "Wed, 23 Sep 2026 17:14:13 GMT",
-    "fetched_at": "2026-09-24 02:35:59",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "고성장 기술주",
-      "부동산",
-      "채권시장",
-      "외환시장"
-    ],
-    "keywords": [
-      "연준 금리 인상",
-      "인플레이션",
-      "긴축",
-      "고금리",
-      "달러 강세"
-    ],
-    "reason": "예상보다 높은 인플레이션 지표로 인해 시장이 연준의 추가 금리 인상을 가격에 반영하면서, 이는 자본 비용 상승과 유동성 축소로 이어져 주식 등 위험 자산에 부정적이며 채권 수익률 상승 및 달러 강세 요인으로 작용합니다.",
-    "action_point": "금리 인상에 취약한 고성장 기술주 및 부동산 관련 자산 비중 축소를 검토하고, 달러 자산 보유를 통한 환 헤지를 고려하라."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Trump-Xi meeting: Why China's self-sufficiency changes the calculus",
-    "title_ko": "트럼프-시진핑 회동: 중국의 자급자족이 대미 무역 역학을 변화시키는 이유",
-    "link": "https://www.cnbc.com/2026/09/23/trump-xi-meeting-why-chinas-self-sufficiency-changes-the-calculus.html",
-    "published": "Wed, 23 Sep 2026 09:13:39 GMT",
-    "fetched_at": "2026-09-23 21:36:18",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "글로벌 무역",
-      "수출 관련 산업",
-      "기술주"
-    ],
-    "keywords": [
-      "미중 무역",
-      "중국 경제",
-      "글로벌 공급망",
-      "자급자족"
-    ],
-    "reason": "중국의 견조한 대미 수출이 경제적 회복력을 뒷받침하지만, 자급자족 확대는 향후 미중 무역 협상을 복잡하게 만들어 지정학적 긴장을 유발할 수 있습니다.",
-    "action_point": "미중 무역 갈등 재점화 가능성에 대비하여 무역 민감 섹터 비중을 점검하고, 글로벌 공급망 다변화 기업에 대한 투자 기회를 모색하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Trump-Xi summit puts AI safety talks on the table but neither side wants to slow down",
-    "title_ko": "트럼프-시진핑 회담에서 AI 안전성 논의 예정, 하지만 양측 모두 개발 속도 늦출 의사 없어",
-    "link": "https://www.cnbc.com/2026/09/23/trump-xi-meeting-ai-safety-chips-us-china-dialogue.html",
-    "published": "Wed, 23 Sep 2026 12:28:00 GMT",
-    "fetched_at": "2026-09-23 21:36:27",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "인공지능(AI)",
-      "반도체",
-      "기술(IT)"
-    ],
-    "keywords": [
-      "AI 안전",
-      "미중 관계",
-      "기술 패권",
-      "트럼프",
-      "시진핑"
-    ],
-    "reason": "미중 양국 정상이 AI 안전 문제를 논의할 예정이지만, 양측 모두 AI 개발 속도를 늦출 의사가 없음을 시사하며 AI 관련 섹터의 지속적인 성장 동력을 확인시켜준다. 다만, 향후 잠재적 규제 리스크는 상존한다.",
-    "action_point": "AI 및 반도체 섹터의 장기 성장 잠재력에 대한 긍정적 관점을 유지하고, 관련 투자 비중을 유지하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Oil prices mixed after U.S. and Iran talk for hours at UN meeting",
-    "title_ko": "유엔 회담에서 미국과 이란이 수 시간 동안 대화한 후 유가 혼조세",
-    "link": "https://www.cnbc.com/2026/09/23/iran-us-talks-crude-oil-un-wti.html",
-    "published": "Wed, 23 Sep 2026 09:50:27 GMT",
-    "fetched_at": "2026-09-23 21:36:46",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "정유/화학",
-      "항공/해운",
-      "운수"
-    ],
-    "keywords": [
-      "유가",
-      "이란",
-      "미국",
-      "중동 분쟁",
-      "외교"
-    ],
-    "reason": "미국과 이란 간의 외교적 대화는 중동 지역의 지정학적 긴장 완화 가능성을 시사하며, 이는 유가 안정화 또는 하락 압력으로 작용하여 글로벌 인플레이션 압력을 완화하고 에너지 의존 산업의 비용 부담을 줄일 수 있습니다.",
-    "action_point": "항공, 해운, 소비재 등 유가 하락 시 이익을 보는 섹터에 대한 관심 확대"
   }
 ]
