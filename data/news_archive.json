@@ -2,6 +2,183 @@
   {
     "source": "CNBC_Finance",
     "market": "US",
+    "title": "U.S., China to lower tariffs on $60 billion of goods. Here's what qualifies",
+    "title_ko": "미국, 중국 600억 달러 규모 제품 관세 인하 합의. 품목 상세 내역",
+    "link": "https://www.cnbc.com/2026/09/28/us-china-lower-tariffs-trump-xi-meeting.html",
+    "published": "Mon, 28 Sep 2026 08:31:33 GMT",
+    "fetched_at": "2026-09-29 01:28:19",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "소비재",
+      "농업",
+      "제조업",
+      "유통"
+    ],
+    "keywords": [
+      "미국",
+      "중국",
+      "관세 인하",
+      "무역",
+      "공급망"
+    ],
+    "reason": "미국과 중국의 관세 인하는 양국 간 무역 긴장을 완화하고 글로벌 공급망 안정화에 기여하며, 관련 품목의 기업 이익 개선 및 소비자 가격 안정화로 이어질 수 있습니다.",
+    "action_point": "글로벌 공급망 관련 제조 및 소비재 섹터 비중 확대 검토"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Trump ‘very seriously’ considering diesel export ban as global supply crunch worsens",
+    "title_ko": "트럼프, 글로벌 공급 부족 심화에 따라 디젤 수출 금지 '매우 진지하게' 고려",
+    "link": "https://www.cnbc.com/2026/09/28/diesel-oil-trump-export-ban-fuel-prices.html",
+    "published": "Mon, 28 Sep 2026 13:09:26 GMT",
+    "fetched_at": "2026-09-29 01:28:36",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "운송",
+      "산업재",
+      "화학",
+      "농업"
+    ],
+    "keywords": [
+      "트럼프",
+      "디젤 수출 금지",
+      "에너지 가격",
+      "인플레이션",
+      "공급망"
+    ],
+    "reason": "미국의 디젤 수출 금지는 글로벌 에너지 공급을 위축시켜 디젤 및 휘발유 가격 상승을 유발하고, 이는 전반적인 인플레이션 압력을 높여 경제 불확실성을 키울 것입니다.",
+    "action_point": "에너지 가격 상승 및 인플레이션 심화에 대비하여 에너지 소비가 많은 산업재, 운송 섹터의 비중 축소를 고려."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Dow drops more than 300 points, weighed down by rising oil prices and Treasury yields: Live updates",
+    "title_ko": "다우지수 300포인트 이상 하락, 유가 및 국채 금리 상승에 부담",
+    "link": "https://www.cnbc.com/2026/09/27/stock-market-today-live-updates.html",
+    "published": "Mon, 28 Sep 2026 16:26:56 GMT",
+    "fetched_at": "2026-09-29 01:28:45",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "전반적인 증시",
+      "항공운송",
+      "해운",
+      "성장주",
+      "기술주"
+    ],
+    "keywords": [
+      "다우지수",
+      "유가",
+      "국채금리",
+      "인플레이션",
+      "금리인상",
+      "주식시장"
+    ],
+    "reason": "유가 상승은 인플레이션 압력을 가중시키고, 국채 금리 상승은 기업들의 차입 비용을 높이며 미래 현금흐름의 할인율을 올려 주식 시장에 전반적인 하방 압력으로 작용합니다.",
+    "action_point": "고유가와 고금리 압력에 취약한 성장주 및 항공/운수 섹터 비중 축소를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Nvidia releases software platform to stop AI agents from misbehaving",
+    "title_ko": "엔비디아, AI 에이전트 오작동 방지 소프트웨어 플랫폼 출시",
+    "link": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
+    "published": "Mon, 28 Sep 2026 15:55:50 GMT",
+    "fetched_at": "2026-09-29 01:28:26",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "반도체",
+      "인공지능",
+      "소프트웨어",
+      "기술주"
+    ],
+    "keywords": [
+      "엔비디아",
+      "AI 에이전트",
+      "AI 안전",
+      "소프트웨어 플랫폼",
+      "오작동 방지"
+    ],
+    "reason": "엔비디아가 AI 오작동 방지 소프트웨어를 출시하며 AI 안전 및 신뢰성을 강화하고 있다. 이는 AI 기술의 광범위한 상업적 및 산업적 채택을 가속화하며 관련 기업의 성장 모멘텀을 유지하는 긍정적인 요인이다.",
+    "action_point": "인공지능 및 반도체 섹터의 장기 성장 전망 유지."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Treasury Secretary Scott Bessent hires Wall Street economist David Zervos",
+    "title_ko": "스콧 베센트 재무장관, 월스트리트 이코노미스트 데이비드 저보스 영입",
+    "link": "https://www.cnbc.com/2026/09/28/david-zervos-treasury-department-scott-bessent.html",
+    "published": "Mon, 28 Sep 2026 14:14:45 GMT",
+    "fetched_at": "2026-09-29 01:28:54",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "글로벌 매크로 정책"
+    ],
+    "keywords": [
+      "미국 재무부",
+      "인사",
+      "월스트리트",
+      "경제 정책",
+      "시장 소통"
+    ],
+    "reason": "월스트리트 전문가 영입은 재무부의 시장 이해도와 정책 소통 능력을 강화할 것으로 기대된다. 이는 향후 재무부의 거시경제 정책 수립 및 발표 방식에 미묘한 변화를 가져올 수 있다.",
+    "action_point": "향후 미국 재무부의 발표 및 시장 소통에 더욱 주목하여 정책 방향성을 해석하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "한국, 북미 공급망 핵심축 멕시코와 손잡고 경제협력 '가속' - 정책브리핑",
+    "title_ko": "한국, 북미 공급망 핵심축 멕시코와 손잡고 경제협력 '가속'",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObmwtRVEyZVVQWmxldFRQOFF3d2tfRkFzQ3ZyLUZqYi1DaUtHaVJ3V19FUkhDd29MU0Z1WVh4cUdQX3o3alp4cTBZZEwzWW40UDhmUVdXTjUxNERGM19zWEcwaHNEZUNZc2Uxbk5PcXotREFuOFdmdllXLVhPYlplb1IxajF0eHI3dHc?oc=5",
+    "published": "Mon, 28 Sep 2026 06:00:37 GMT",
+    "fetched_at": "2026-09-29 01:29:02",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "자동차",
+      "이차전지",
+      "부품소재",
+      "물류"
+    ],
+    "keywords": [
+      "한국",
+      "멕시코",
+      "북미 공급망",
+      "경제협력",
+      "IRA"
+    ],
+    "reason": "한국이 멕시코와의 경제협력을 가속화함으로써 북미 공급망 재편과 IRA(인플레이션 감축법)에 대응하여 국내 기업의 북미 시장 진출 및 생산 거점 확보 기회가 확대될 것이다. 특히 자동차, 이차전지 등 핵심 산업의 경쟁력 강화에 기여할 수 있다.",
+    "action_point": "멕시코에 생산기반을 둔 또는 멕시코 진출을 계획하는 국내 자동차, 이차전지 및 부품 기업에 대한 비중 확대를 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "이 대통령 ‘사법 리스크’가 가라앉지 않는 이유 - 한겨레",
+    "title_ko": "이 대통령 ‘사법 리스크’가 가라앉지 않는 이유",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBoU3pkMXBTMjhON3lNRzN0bmFxQjZyYkRvZnVuR1VUaDg0bEU3aVNkNkVqd1c3VzVReDFjcW4yZ28yczFxdzZrREJpZlFYZmhwYU9icUNKQU50SWY0bzl6emNvQk0wNlpicXlET25IMHloTHRj?oc=5",
+    "published": "Mon, 28 Sep 2026 10:16:00 GMT",
+    "fetched_at": "2026-09-29 01:29:18",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "국내 증시 전반"
+    ],
+    "keywords": [
+      "대통령",
+      "사법 리스크",
+      "정치 불확실성"
+    ],
+    "reason": "이 대통령의 사법 리스크가 지속되고 있다는 내용으로, 국내 정치 불확실성을 가중시켜 전반적인 투자심리에 부정적인 영향을 줄 수 있습니다.",
+    "action_point": "국내 정치 불확실성 지속에 따른 코스피 변동성 확대 및 원화 약세 가능성에 대비하여 국내 주식 비중 축소 검토."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
     "title": "Trump-Xi summit analysis: 'Tangible outcomes' needed for U.S.-China truce to hold",
     "title_ko": "트럼프-시진핑 정상회담 분석: 미중 휴전 유지 위해 '실질적 성과' 필요",
     "link": "https://www.cnbc.com/2026/09/28/trump-xi-summit-tangible-outcomes-us-china-truce.html",
@@ -2783,184 +2960,5 @@
     ],
     "reason": "미국과 이란 간의 외교적 대화는 중동 지역의 지정학적 긴장 완화 가능성을 시사하며, 이는 유가 안정화 또는 하락 압력으로 작용하여 글로벌 인플레이션 압력을 완화하고 에너지 의존 산업의 비용 부담을 줄일 수 있습니다.",
     "action_point": "항공, 해운, 소비재 등 유가 하락 시 이익을 보는 섹터에 대한 관심 확대"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Zelenskyy says Ukraine ready for ‘energy ceasefire,’ calls for trilateral meeting with Putin, Trump",
-    "title_ko": "젤렌스키, 우크라이나 '에너지 휴전' 준비 완료…푸틴, 트럼프와의 3자 회담 요청",
-    "link": "https://www.cnbc.com/2026/09/23/ukraine-war-zelenskyy-putin-trump-russia.html",
-    "published": "Wed, 23 Sep 2026 11:48:04 GMT",
-    "fetched_at": "2026-09-23 21:37:04",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "방산",
-      "금융"
-    ],
-    "keywords": [
-      "우크라이나",
-      "러시아",
-      "휴전",
-      "에너지",
-      "지정학"
-    ],
-    "reason": "우크라이나의 에너지 휴전 제안은 러시아-우크라이나 분쟁의 잠재적 완화 신호로, 글로벌 에너지 시장의 공급 불안을 해소하고 지정학적 리스크 프리미엄을 낮출 수 있다.",
-    "action_point": "에너지 가격 하방 압력 발생 시 에너지 섹터 비중 축소를 고려하고, 지정학적 위험 완화에 따른 위험 자산 비중 확대를 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "OECD, 올해 세계경제 성장률 2.9% 전망…\"AI가 분쟁 리스크 상쇄\" - 연합뉴스TV",
-    "title_ko": "OECD, 올해 세계경제 성장률 2.9% 전망…\"AI가 분쟁 리스크 상쇄\"",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11ZDBVdWp3TkdHQ1B1MTVCS0cySXMyRHRnYjZKZDRHcFFUNUtIRkcwZi15blhXWndXNEpuajRBZUlrMjVpTkN0NFNJNU1rU1lmOXhqM1NTMXZYNmhpUXFDRV9qZUtXTUU?oc=5",
-    "published": "Wed, 23 Sep 2026 08:12:00 GMT",
-    "fetched_at": "2026-09-23 21:37:11",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "기술주",
-      "AI 관련주",
-      "수출주",
-      "반도체"
-    ],
-    "keywords": [
-      "OECD",
-      "세계경제 성장률",
-      "AI",
-      "지정학적 리스크",
-      "기술혁신"
-    ],
-    "reason": "OECD의 세계경제 성장률 전망치는 글로벌 경제의 완만한 성장세를 시사하며, AI 기술이 지정학적 리스크를 상쇄하는 긍정적 요인으로 작용할 것임을 강조한다. 이는 기술주 중심의 성장주에 대한 투자심리를 개선할 수 있다.",
-    "action_point": "글로벌 AI 및 기술 섹터 비중 확대 검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "OECD, 올해 세계경제 2.9％ 성장 전망…\"AI가 분쟁 리스크 상쇄\" - 연합뉴스",
-    "title_ko": "OECD, 올해 세계경제 2.9％ 성장 전망…'AI가 분쟁 리스크 상쇄'",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2Wmx0UXBvMUh2WUZSTlZ3WDl1cVhfTnRxUEUxdFUyWTlfWXpWN3J6bHZ2Z2x4T0lfc1JXUjM1cnhOcUtiT3BaWUhEZC1BM3pfcnJndkFldjNnZjjSAWBBVV95cUxPTi1KakRlek45bjdFdkZaczU0eG4xWHRYbE9McnE2MnZGSi1abGF5c3pOVnEtV1lEVWJJdHZaWktUbXdYZGxrcHJKeG1uSzFwbmlSbUU2bEttclBUM1JXNFA?oc=5",
-    "published": "Wed, 23 Sep 2026 08:00:02 GMT",
-    "fetched_at": "2026-09-23 21:37:18",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "기술주",
-      "반도체",
-      "수출주",
-      "전반적 경기민감주"
-    ],
-    "keywords": [
-      "OECD",
-      "세계경제 성장",
-      "AI",
-      "분쟁 리스크",
-      "경제 전망"
-    ],
-    "reason": "OECD의 올해 세계경제 2.9% 성장 전망은 글로벌 경기 연착륙 기대감을 높이며, AI가 지정학적 분쟁 리스크를 상쇄할 것이라는 분석은 위험 선호 심리 회복에 긍정적인 영향을 미칠 수 있습니다.",
-    "action_point": "AI 관련 기술주 및 글로벌 경기 회복에 민감한 한국의 주요 수출 섹터 비중 확대를 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "고유가에도 세계 경제 견조…OECD, 하방 리스크 경고 - Investing.com 한국어",
-    "title_ko": "고유가에도 세계 경제 견조…OECD, 하방 리스크 경고",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE93Qm9TeVh6WWdpM3BDOHVEcUxDVkI1VU9qazcxWkl6THI3RlZ4cm1fQVFRVEJiYkM2YXREX3lyeGFYbkFuOTY2RHpwanhxQi02SXFNVC1DanZ2eDNyMlE3NURmZjA5WXpFNXc?oc=5",
-    "published": "Wed, 23 Sep 2026 08:58:00 GMT",
-    "fetched_at": "2026-09-23 21:37:28",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "글로벌 경기 민감주",
-      "원자재 (에너지)",
-      "수출주",
-      "금융"
-    ],
-    "keywords": [
-      "OECD",
-      "글로벌 경제",
-      "고유가",
-      "하방 리스크",
-      "경기 둔화"
-    ],
-    "reason": "OECD는 현재 글로벌 경제의 견조함을 인정하면서도 고유가 지속과 함께 잠재적인 하방 리스크가 커지고 있다고 경고하여, 향후 경기 둔화 및 인플레이션 압력 지속 가능성을 시사한다.",
-    "action_point": "글로벌 경기 둔화 가능성을 염두에 두고 위험 자산 비중 축소 검토 및 안전자산 배분 확대 고려."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "AI 호황 이면에 ‘레버리지’ 리스크…미 투자사 손실에 금융주 ‘흔들’ - 한겨레",
-    "title_ko": "AI 호황 이면에 ‘레버리지’ 리스크…미 투자사 손실에 금융주 ‘흔들’",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4UmZoenRMbWc3dHJxTHpaanRuR3duSEZQVmpNWmE3YUtsQThwanNtVDVxckVtMWhZMV9ISkY4bGFLQkdmaE9VWXd0VENZUHJqTVJRNTRaWENKR0NCTmV6VTc2ZTQ0c3M?oc=5",
-    "published": "Wed, 23 Sep 2026 11:58:00 GMT",
-    "fetched_at": "2026-09-23 21:37:42",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "금융",
-      "기술 (AI)"
-    ],
-    "keywords": [
-      "AI",
-      "레버리지",
-      "금융주",
-      "투자사 손실",
-      "시장 리스크"
-    ],
-    "reason": "AI 호황 이면의 과도한 레버리지 사용이 미국 투자사의 손실로 이어져 금융 시스템 전반의 불안정성을 야기할 수 있으며, 이는 시장 전반의 위험 회피 심리를 자극할 수 있습니다.",
-    "action_point": "AI 관련 고평가 기술주와 금융 섹터 포트폴리오의 레버리지 위험 노출도를 즉시 점검하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "젤렌스키, 트럼프에 “시진핑도 종전 논의 관여시키자” 제안",
-    "title_ko": "젤렌스키, 트럼프에 “시진핑도 종전 논의 관여시키자” 제안",
-    "link": "https://www.mk.co.kr/news/world/12160650",
-    "published": "Wed, 23 Sep 2026 21:10:49 +09:00",
-    "fetched_at": "2026-09-23 21:38:29",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "방산",
-      "에너지",
-      "항공/관광"
-    ],
-    "keywords": [
-      "젤렌스키",
-      "트럼프",
-      "시진핑",
-      "종전 논의",
-      "지정학적 위험",
-      "우크라이나 전쟁"
-    ],
-    "reason": "우크라이나 종전 논의에 중국의 시진핑 주석을 관여시키자는 제안은 지정학적 긴장 완화 가능성을 시사하지만, 실제 협상 진전 여부는 불확실성이 크다. 글로벌 시장의 지정학적 리스크 프리미엄에 영향을 줄 수 있는 초기 단계의 신호로 해석된다.",
-    "action_point": "지정학적 리스크 완화 가능성에 대비하여 방산 및 에너지 섹터의 포트폴리오 비중을 재점검하기 시작할 것."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "AI drone maker hits $6.4 billion valuation as Ukraine war spurs defense tech",
-    "title_ko": "AI 드론 제조사, 우크라이나 전쟁으로 방위 기술 촉진되며 64억 달러 가치 달성",
-    "link": "https://www.cnbc.com/2026/09/23/ai-drone-maker-ukraine-war-defense-tech.html",
-    "published": "Wed, 23 Sep 2026 09:47:31 GMT",
-    "fetched_at": "2026-09-23 21:36:41",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "방위산업",
-      "인공지능",
-      "항공우주",
-      "기술"
-    ],
-    "keywords": [
-      "AI 드론",
-      "방위 기술",
-      "우크라이나 전쟁",
-      "재무장",
-      "스타트업 가치"
-    ],
-    "reason": "우크라이나 전쟁 장기화로 방위 기술, 특히 AI 드론 분야에 대한 투자 및 수요가 급증하고 있음을 보여준다. 이는 지정학적 불안정 속에서 방위산업 및 관련 기술 섹터의 성장을 지속적으로 견인할 것이다.",
-    "action_point": "방위산업 및 AI 관련 기술 섹터의 투자 매력을 재평가하고 포트폴리오 비중 확대를 검토하라."
   }
 ]
