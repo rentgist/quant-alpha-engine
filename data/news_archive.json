@@ -1,5 +1,104 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "CNBC Daily Open: From need for speed to seatbelts — AI majors focus on risk aversion",
+    "title_ko": "CNBC Daily Open: 속도 경쟁에서 안전벨트로 - AI 주요 기업들, 위험 회피에 집중",
+    "link": "https://www.cnbc.com/2026/09/29/cnbc-daily-open-from-need-for-speed-to-seatbelts-ai-majors-focus-on-risk-aversion.html",
+    "published": "Tue, 29 Sep 2026 01:21:12 GMT",
+    "fetched_at": "2026-09-29 11:25:15",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "IT/기술 (AI)",
+      "반도체",
+      "소프트웨어",
+      "클라우드 서비스"
+    ],
+    "keywords": [
+      "AI",
+      "인공지능",
+      "위험 회피",
+      "규제",
+      "기술 기업"
+    ],
+    "reason": "AI 기업들의 성장 전략이 속도 중심에서 리스크 관리 및 안정성으로 전환됨에 따라, 단기적인 기술 개발 속도 둔화 가능성과 함께 장기적인 산업의 건전성이 모색될 것으로 예상됩니다.",
+    "action_point": "AI 관련 기술주 및 반도체 종목의 과도한 성장 프리미엄에 대한 재평가 여부를 주시하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "마크 잔디 \"고금리, 미국 경제에 타격 주고 있어\" - 연합인포맥스",
+    "title_ko": "마크 잔디 \"고금리, 미국 경제에 타격 주고 있어\"",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TN0ljVEVEX3pNZk12bXZKaU5vZzA5X21XN0JGdkJCTzRpQmRERlF4Q2hSMnpFX2dDYzg4cjNMdklFYTJEVlJnamVfVGh0akRfOUdMMVEtcmRnd3dfdi1EbU9PbmZBMnp1TTR2UWVzRkk?oc=5",
+    "published": "Tue, 29 Sep 2026 01:45:11 GMT",
+    "fetched_at": "2026-09-29 11:25:24",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "주식",
+      "부동산",
+      "금융",
+      "원자재",
+      "기술주"
+    ],
+    "keywords": [
+      "미국 경제",
+      "고금리",
+      "경기 둔화",
+      "금리 인하 기대",
+      "연준"
+    ],
+    "reason": "마크 잔디의 발언은 미국 고금리가 실물 경제에 미치는 부정적 영향을 강조하며, 이는 연준의 향후 통화 정책 기조 변화(금리 인하)에 대한 시장의 기대를 높일 수 있다. 동시에 미국 경기 둔화 우려를 심화시켜 위험 자산 전반에 대한 투자 심리를 위축시킬 가능성이 있다.",
+    "action_point": "미국 경기 둔화에 대비하여 방어적 섹터 및 장기 국채 비중 확대를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Luckin Coffee, flush with investor cash, weighs entry into Middle East markets",
+    "title_ko": "루이싱커피, 풍부한 투자자금 바탕으로 중동 시장 진출 검토",
+    "link": "https://www.cnbc.com/2026/09/29/luckin-coffee-mubadala-middle-east-temasek-centurium-capital.html",
+    "published": "Tue, 29 Sep 2026 01:10:41 GMT",
+    "fetched_at": "2026-09-29 11:25:09",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "식음료",
+      "소비재",
+      "프랜차이즈",
+      "사모펀드/투자"
+    ],
+    "keywords": [
+      "루이싱커피",
+      "중동 시장",
+      "동남아시아",
+      "국부펀드",
+      "소비 시장 확장"
+    ],
+    "reason": "루이싱커피의 중동 및 동남아 확장과 국부펀드 투자는 신흥국 소비 시장 성장 및 글로벌 식음료 섹터 경쟁 심화를 시사합니다. 이는 주요 투자 자금의 신흥국 소비재 분야 관심 증대를 보여줍니다.",
+    "action_point": "신흥국 소비재 및 프랜차이즈 섹터 내 성장 기회를 발굴하고 투자 비중 확대를 검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[속보] 이 대통령 \"DMZ 지뢰사고 철저히 조사‥음모론으로 안보 위태롭게 말아야\" - MBC 뉴스",
+    "title_ko": "[속보] 이 대통령 \"DMZ 지뢰사고 철저히 조사‥음모론으로 안보 위태롭게 말아야\"",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1GVmFBT1FWZm5LZXVKM0tNazJ5QjFvamxuUDFhQ25ORUk3Y0YxaXFWRDFLWEVXcXozY3FwN1FkUVJsTWd5V01pXy1BcVIxdGxOZGNNWHFYNURYWkxjdXpNYk9pUnlxT1hub0NlSmFyWHVxTzNUYmRnY9IBeEFVX3lxTE1ZQUlSVThlMTRFeml0ZU9HWXRIbXl4cy1PTHFUNWpnN1JtYTFHemQ0aWV2SFlkRFRGNmxqZ2NaU2t5bnoyY0I3b1RwZ0Q0SUFzMHhyZE4wQ1dTelVBQlZqclFNVWpmbGRxUlJIMm16ZmVsRFlkbGp6TA?oc=5",
+    "published": "Tue, 29 Sep 2026 01:51:38 GMT",
+    "fetched_at": "2026-09-29 11:25:34",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [],
+    "keywords": [
+      "DMZ",
+      "지뢰사고",
+      "안보",
+      "대통령"
+    ],
+    "reason": "DMZ 지뢰사고 관련 대통령의 입장 표명으로, 안보 상황의 불필요한 과열을 경계하고 철저한 조사를 지시하는 내용이다. 직접적인 남북 관계 악화나 경제적 충격 신호로 해석하기는 어려워 시장 전반에 미치는 영향은 제한적이다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "CNBC_Finance",
     "market": "US",
     "title": "Nearly half the stocks in the S&P 500 are at cross purposes with the rest of the market",
@@ -2862,102 +2961,5 @@
     ],
     "reason": "HLB 담관암 신약의 미국 FDA 허가는 해당 기업의 기업가치를 크게 상승시키고, 국내 제약/바이오 섹터 전반에 긍정적인 투자 심리를 제공할 것입니다. 이는 신약 개발에 대한 기대감을 높이는 요인입니다.",
     "action_point": "국내 제약/바이오 섹터 투자 비중 확대를 검토하라."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Stocks making the biggest moves midday: McDonald's, Cracker Barrel, Alibaba, Worthington & more",
-    "title_ko": "장중 가장 큰 변동을 보이는 주식들: 맥도날드, 크래커 배럴, 알리바바, 워딩턴 외",
-    "link": "https://www.cnbc.com/2026/09/23/stocks-making-the-biggest-moves-midday-mcd-cbrl-baba-wor-.html",
-    "published": "Wed, 23 Sep 2026 17:15:36 GMT",
-    "fetched_at": "2026-09-24 08:20:54",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "소비재",
-      "기술",
-      "산업재"
-    ],
-    "keywords": [
-      "개별 주식 변동",
-      "미국 증시",
-      "맥도날드",
-      "알리바바"
-    ],
-    "reason": "개별 기업들의 장중 주가 변동을 단순히 보도하는 내용으로, 해당 기업에 대한 특별한 재료나 거시 경제 변화를 반영하는 것은 아닙니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "OpenAI and Anthropic CEOs push for AI cooperation at UN after Trump rebuffs 'globalist scheme' to control it",
-    "title_ko": "OpenAI와 Anthropic CEO들, 트럼프의 '세계주의적 AI 통제 계획' 거부에도 불구하고 UN에서 AI 협력 촉구",
-    "link": "https://www.cnbc.com/2026/09/23/altman-amodei-un-ai-safety.html",
-    "published": "Wed, 23 Sep 2026 20:29:20 GMT",
-    "fetched_at": "2026-09-24 05:52:09",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "기술",
-      "반도체",
-      "클라우드 컴퓨팅"
-    ],
-    "keywords": [
-      "AI 협력",
-      "UN",
-      "규제",
-      "트럼프",
-      "OpenAI",
-      "Anthropic"
-    ],
-    "reason": "AI 리스크 관리와 개발 속도 조절에 대한 논의는 AI 산업의 장기적 안정성에 긍정적이나, 트럼프의 '세계주의적 통제' 거부는 향후 AI 규제 환경의 불확실성을 높일 수 있습니다.",
-    "action_point": "AI 기술 기업에 대한 투자는 각국의 AI 규제 환경 변화를 면밀히 관찰하며, 장기적 성장 전략에 미칠 영향을 재평가하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Iran's president blames U.S., Israel for global instability in defiant UN speech",
-    "title_ko": "이란 대통령, 유엔 연설에서 미국과 이스라엘을 전 세계적 불안정의 원인으로 지목하며 반발",
-    "link": "https://www.cnbc.com/2026/09/23/iran-united-nations-trump-israel.html",
-    "published": "Wed, 23 Sep 2026 17:38:47 GMT",
-    "fetched_at": "2026-09-24 05:52:18",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "에너지",
-      "방산"
-    ],
-    "keywords": [
-      "이란",
-      "미국",
-      "이스라엘",
-      "지정학적 리스크",
-      "유엔"
-    ],
-    "reason": "이란 대통령의 유엔 연설은 중동 지역의 지정학적 긴장이 지속되고 있음을 재확인합니다. 이는 국제 유가에 대한 상방 압력으로 작용하며, 글로벌 시장의 위험 회피 심리를 자극할 수 있습니다.",
-    "action_point": "중동 지정학적 위험 고조에 따른 국제 유가 변동성에 대비하여 에너지 관련 자산 익스포저를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Trump faces Xi as strains with allies complicate U.S. pressure on China",
-    "title_ko": "트럼프-시진핑 회담 앞두고 동맹국과의 갈등이 대중국 압박을 복잡하게 만들고 있다",
-    "link": "https://www.cnbc.com/2026/09/23/trump-xi-china-summit-allies.html",
-    "published": "Wed, 23 Sep 2026 16:47:21 GMT",
-    "fetched_at": "2026-09-24 02:35:47",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "기술",
-      "산업재"
-    ],
-    "keywords": [
-      "미중 갈등",
-      "동맹 관계",
-      "지정학",
-      "무역 압박"
-    ],
-    "reason": "미국이 동맹국과의 갈등으로 중국에 대한 압박 수위를 높이기 어려워지면서 미중 관계의 불확실성이 지속될 수 있다. 이는 글로벌 무역 및 공급망에 대한 장기적 전망에 부정적 영향을 미칠 수 있다.",
-    "action_point": "미중 갈등의 장기화 및 지정학적 불확실성 증대에 대비하여 기술 및 글로벌 공급망 관련 섹터 비중 축소를 검토하라."
   }
 ]
