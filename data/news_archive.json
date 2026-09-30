@@ -1,5 +1,28 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "(설명) 한국경제, \"임원 출신도 월 200만원?···파견법에 갇힌 고숙련 은퇴자들\" 기사 관련 - 대한민국 정책브리핑",
+    "title_ko": "(설명) 한국경제, \"임원 출신도 월 200만원?···파견법에 갇힌 고숙련 은퇴자들\" 기사 관련 - 대한민국 정책브리핑",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE83aVZYRlZiTHQ2djNmdE5FSVRGVHBnRWlWSVo5VnpTUWNxb2V3S3JkdC1hOHhkNmxzaEpjd1c5N2RqOTVDOWZTLUVLSXM0YkszLTRuWVp6OWFyY1FtS3JRUkpfSVN4WmFLR2hCbWV5RQ?oc=5",
+    "published": "Wed, 30 Sep 2026 05:16:57 GMT",
+    "fetched_at": "2026-09-30 15:10:49",
+    "sentiment": "악재",
+    "importance": 2,
+    "sectors": [
+      "노동 시장",
+      "인력 서비스"
+    ],
+    "keywords": [
+      "파견법",
+      "고숙련 은퇴자",
+      "노동 시장 경직성",
+      "인적 자본"
+    ],
+    "reason": "한국 노동 시장의 파견법 규제로 인해 고숙련 은퇴 인력의 재활용이 비효율적으로 이루어지고 있음을 시사한다. 이는 장기적으로 인적 자본 활용 저하와 잠재 성장률 둔화로 이어질 수 있는 구조적 문제점을 드러낸다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "Hedge funds hold a record share of the $30 trillion Treasury market. What could go wrong?",
@@ -2934,29 +2957,6 @@
       "시장 움직임"
     ],
     "reason": "이 헤드라인은 장전 거래에서 유의미한 가격 변동을 보이는 개별 종목들을 나열할 뿐, 거시경제적 맥락이나 변동의 원인을 제시하지 않아 시장 활동의 단순 관찰에 가깝습니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Here's why South Korea wants more control over future regional wars",
-    "title_ko": "한국이 향후 역내 전쟁에 대한 통제력 강화를 원하는 이유",
-    "link": "https://www.cnbc.com/2026/09/24/heres-why-south-korea-wants-more-control-over-future-regional-wars.html",
-    "published": "Thu, 24 Sep 2026 23:30:01 GMT",
-    "fetched_at": "2026-09-25 09:09:44",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "국방",
-      "전반적 시장"
-    ],
-    "keywords": [
-      "한미동맹",
-      "작전통제권",
-      "안보",
-      "지정학"
-    ],
-    "reason": "한국의 전시 작전통제권 전환 논의는 한미동맹의 장기적인 역학 변화를 시사하며, 이는 한반도 안보 환경 및 지정학적 리스크 인식에 미묘한 영향을 미칠 수 있다.",
     "action_point": "해당 없음"
   }
 ]
