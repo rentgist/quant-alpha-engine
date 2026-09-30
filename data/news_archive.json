@@ -1,5 +1,31 @@
 [
   {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Fed's Kashkari says inflation is 'still too high' even after softer-than-expected PCE data",
+    "title_ko": "연준 카슈카리 총재, 예상보다 완화된 PCE 데이터에도 인플레이션은 '여전히 너무 높다'고 언급",
+    "link": "https://www.cnbc.com/2026/09/30/watch-minneapolis-fed-president-neel-kashkari.html",
+    "published": "Wed, 30 Sep 2026 22:21:27 GMT",
+    "fetched_at": "2026-10-01 07:44:37",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "기술",
+      "성장주",
+      "부동산",
+      "금융"
+    ],
+    "keywords": [
+      "연준",
+      "카슈카리",
+      "인플레이션",
+      "PCE",
+      "금리"
+    ],
+    "reason": "카슈카리 총재의 매파적 발언은 최근 완화된 PCE 데이터에도 불구하고 연준의 신중한 인플레이션 대응 기조를 재확인하며, 조기 금리 인하 기대를 약화시킨다. 이는 고금리 장기화 가능성을 높여 위험자산에 부정적 영향을 미칠 수 있다.",
+    "action_point": "고금리 장기화 가능성에 대비하여 금리 민감 자산 비중 축소 검토"
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "Crude oil exports through the Strait of Hormuz hit prewar levels, but fuel shipments remain constrained",
@@ -2951,31 +2977,5 @@
     ],
     "reason": "대규모 암호화폐 해킹 사건에 북한이 배후로 지목되면서 암호화폐 시장의 신뢰도 하락 및 규제 강화 압력이 예상되며, 이는 전반적인 사이버 보안 강화 요구와 지정학적 리스크 인식으로 이어질 수 있습니다.",
     "action_point": "암호화폐 자산에 대한 리스크 관리 강화 및 관련 규제 동향을 면밀히 주시."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Iran offers to reopen Strait of Hormuz within 7 days and restart nuclear talks",
-    "title_ko": "이란, 7일 내 호르무즈 해협 재개방 및 핵 협상 재개 제안",
-    "link": "https://www.cnbc.com/2026/09/25/us-iran-trump-hormuz-.html",
-    "published": "Fri, 25 Sep 2026 09:03:01 GMT",
-    "fetched_at": "2026-09-25 19:50:11",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "항공",
-      "해운",
-      "글로벌 증시"
-    ],
-    "keywords": [
-      "이란",
-      "호르무즈 해협",
-      "핵 협상",
-      "유가",
-      "지정학적 리스크"
-    ],
-    "reason": "이란의 제안은 중동 지역의 지정학적 긴장을 완화하고 글로벌 원유 공급 확대를 통해 유가 하락 압력을 가할 수 있다. 이는 인플레이션 완화 및 글로벌 경제 성장에 긍정적인 영향을 미칠 잠재력이 있다.",
-    "action_point": "국제 유가 하락 압력에 대비하여 에너지 관련 익스포저를 점검하고 유가 하락 수혜 업종을 주시하라."
   }
 ]
