@@ -1,5 +1,80 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Crude oil exports through the Strait of Hormuz hit prewar levels, but fuel shipments remain constrained",
+    "title_ko": "호르무즈 해협 원유 수출량 전전(戰前) 수준 회복, 그러나 연료 선적은 여전히 제약",
+    "link": "https://www.cnbc.com/2026/09/30/iran-war-strait-hormuz-gulf-oil-fuel.html",
+    "published": "Wed, 30 Sep 2026 18:17:24 GMT",
+    "fetched_at": "2026-10-01 03:43:32",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "해운",
+      "정유"
+    ],
+    "keywords": [
+      "호르무즈 해협",
+      "원유 수출",
+      "미군 보호",
+      "지정학적 리스크",
+      "에너지 안보"
+    ],
+    "reason": "호르무즈 해협의 원유 수출 회복은 긍정적이나 미군 보호에 의존하여 지속 가능성이 불확실하며, 연료 선적 제약은 정유 제품 공급의 불안정성을 시사합니다.",
+    "action_point": "에너지 섹터 투자 시 지정학적 리스크에 따른 유가 변동성 및 해운 비용 증가 가능성을 고려하고, 관련 리스크 헤지 전략을 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "사상 최대 흑자와 텅 빈 지갑… 중국 ‘K자형 경제 구조’의 한계 - 조선일보",
+    "title_ko": "사상 최대 흑자와 텅 빈 지갑… 중국 ‘K자형 경제 구조’의 한계",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcUJsRHkwczM2bTE4c1RZaTN6MXRMSUtvNFo4TkxyN1JOMmhRNmlrWkNIcEFjSWxhWEVNNTA5RU9VaXhqNUdjM3BDYzBQS2FabS14SmlVTno1OVBwZUxsMG5jWWJnUUlfajhGeWVsR2g3aGhFbXU4SkFBaDVuSnExWl84OXE0NFh1cVRvcmNB?oc=5",
+    "published": "Wed, 30 Sep 2026 18:00:00 GMT",
+    "fetched_at": "2026-10-01 03:43:45",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "수출주",
+      "원자재",
+      "중국 관련 소비재",
+      "해운/물류"
+    ],
+    "keywords": [
+      "중국 경제",
+      "K자형 양극화",
+      "내수 부진",
+      "글로벌 무역"
+    ],
+    "reason": "중국의 사상 최대 무역 흑자에도 불구하고 'K자형 경제 구조'로 인한 내수 부진은 장기적인 경제 불안정 요인으로 작용하며, 글로벌 수요 및 원자재 시장에 부정적 영향을 미칠 수 있습니다.",
+    "action_point": "중국 내수 회복에 대한 기대가 큰 섹터 및 원자재 관련 자산 비중 조정 검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "순환경제 생태계 조성 ‘말뿐’…수리·수선 서비스 환경 ‘미흡’ - 농민신문",
+    "title_ko": "순환경제 생태계 조성 ‘말뿐’…수리·수선 서비스 환경 ‘미흡’",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aSTNVV1h2bUFKdld2Mnd4eW1qUUtLbjItMS1IUXFpN1dBOUhmb2tXcEZ3WWhkeng1N3RmOVZYODdBRmlFMnRkSWRIMEpsRU5haWI0anpQWC0tQQ?oc=5",
+    "published": "Wed, 30 Sep 2026 10:01:00 GMT",
+    "fetched_at": "2026-10-01 03:43:55",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "제조업",
+      "소비재",
+      "환경/재활용",
+      "서비스업"
+    ],
+    "keywords": [
+      "순환경제",
+      "수리·수선",
+      "지속가능성",
+      "환경정책"
+    ],
+    "reason": "한국의 순환경제 생태계 구축, 특히 수리·수선 서비스 환경이 미흡함을 지적하는 기사로, 장기적인 환경 정책 및 자원 효율성 측면에서 개선 필요성을 제기하지만, 단기적인 거시경제나 시장 변동성에 미치는 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "CNBC_Finance",
     "market": "US",
     "title": "Beijing warns of retaliation if Europe imposes curbs on Chinese businesses",
@@ -2902,81 +2977,5 @@
     ],
     "reason": "이란의 제안은 중동 지역의 지정학적 긴장을 완화하고 글로벌 원유 공급 확대를 통해 유가 하락 압력을 가할 수 있다. 이는 인플레이션 완화 및 글로벌 경제 성장에 긍정적인 영향을 미칠 잠재력이 있다.",
     "action_point": "국제 유가 하락 압력에 대비하여 에너지 관련 익스포저를 점검하고 유가 하락 수혜 업종을 주시하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "China saw 'surprise' jump in U.S. orders ahead of Trump-Xi summit, private survey shows",
-    "title_ko": "트럼프-시진핑 정상회담 앞두고 중국의 대미 수출 주문 '깜짝 증가' 사설 조사 결과",
-    "link": "https://www.cnbc.com/2026/09/25/china-exports-surplus-trade-tariffs-.html",
-    "published": "Fri, 25 Sep 2026 10:25:01 GMT",
-    "fetched_at": "2026-09-25 19:51:07",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "수출 관련주",
-      "해운/물류",
-      "글로벌 제조업"
-    ],
-    "keywords": [
-      "미중 무역",
-      "수출 증가",
-      "경제 안정",
-      "정상회담",
-      "중국 경제"
-    ],
-    "reason": "미중 정상회담을 앞두고 중국의 대미 수출 회복은 양국 간 무역 관계 안정화 기대를 높여 글로벌 경제 회복 및 기업 실적 개선에 긍정적 시그널로 작용합니다.",
-    "action_point": "글로벌 교역량 회복 기대에 따라 수출 중심 기업 및 관련 섹터 비중 확대를 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "항일 전쟁까지 언급한 미·중…“현안은 놔두고 갈등은 봉합” - 중앙일보",
-    "title_ko": "항일 전쟁까지 언급한 미·중…“현안은 놔두고 갈등은 봉합” - 중앙일보",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rTzJOR0NjR3E4d0JPdXFlOFBoaFVtVTY3enRXVUxyQ0h2eERSeXAtSjRfRHpTSGJfeE5ORnhaYXhaN3htdFRuYlFCa29INW9iMUNzbVNB?oc=5",
-    "published": "Fri, 25 Sep 2026 04:50:06 GMT",
-    "fetched_at": "2026-09-25 19:52:14",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "반도체",
-      "IT",
-      "수출주",
-      "산업재"
-    ],
-    "keywords": [
-      "미중 관계",
-      "지정학",
-      "갈등 봉합",
-      "무역 분쟁",
-      "기술 패권"
-    ],
-    "reason": "미중이 현안은 미해결로 남겨둔 채 갈등 봉합을 시도하여 단기적 지정학적 리스크는 완화되나, 구조적 대립은 지속될 전망입니다. 이는 장기적인 불확실성을 완전히 해소하지 못합니다.",
-    "action_point": "미중 갈등의 일시적 완화에 따른 반도체, IT 등 수출 관련 섹터의 단기적 투자 심리 개선 기회 탐색."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Stock futures tick higher, but Dow heads for fourth straight losing week: Live updates",
-    "title_ko": "주식 선물 소폭 상승, 그러나 다우 지수 4주 연속 하락세 전망: 실시간 업데이트",
-    "link": "https://www.cnbc.com/2026/09/24/stock-market-today-live-updates.html",
-    "published": "Fri, 25 Sep 2026 10:40:04 GMT",
-    "fetched_at": "2026-09-25 19:50:38",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "기술주",
-      "성장주",
-      "대형주"
-    ],
-    "keywords": [
-      "채권수익률",
-      "주식시장",
-      "다우지수",
-      "금리인상",
-      "성장주"
-    ],
-    "reason": "지속적인 채권 수익률 상승은 성장주를 포함한 주식 시장 전반에 하방 압력으로 작용하며, 다우 지수의 장기 하락세는 광범위한 투자 심리 악화를 시사합니다.",
-    "action_point": "성장주 비중을 축소하고 금리 상승기에 상대적으로 유리한 가치주/배당주 등 방어적 자산으로의 전환을 검토하라."
   }
 ]
