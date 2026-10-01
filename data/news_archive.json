@@ -2,6 +2,30 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "AI race heats up as OpenAI flags alleged model-copying campaign",
+    "title_ko": "AI 경쟁 심화, OpenAI가 모델 불법 복제 의혹 제기",
+    "link": "https://www.cnbc.com/2026/10/01/openai-chinas-moonshot-ai-kimi.html",
+    "published": "Thu, 01 Oct 2026 02:14:43 GMT",
+    "fetched_at": "2026-10-01 17:02:17",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "AI",
+      "반도체",
+      "소프트웨어"
+    ],
+    "keywords": [
+      "AI 경쟁",
+      "지적재산권",
+      "OpenAI",
+      "기술 안보"
+    ],
+    "reason": "이 뉴스는 글로벌 AI 경쟁 심화와 지적재산권 침해 리스크를 부각시키며, 향후 AI 기술 개발 및 상용화 과정에서 법적 분쟁과 기술 안보 관련 지정학적 긴장이 고조될 수 있음을 시사한다.",
+    "action_point": "AI 관련 기업 투자 시 지적재산권 보호 역량과 경쟁 우위 재평가"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "Stock futures rise as traders eye elevated Treasury yields, brace for jobs report due this week: Live updates",
     "title_ko": "주식 선물 상승, 투자자들은 높은 국채 수익률을 주시하며 이번 주 고용 보고서 대비",
     "link": "https://www.cnbc.com/2026/09/30/stock-market-today-live-updates.html",
@@ -2947,30 +2971,5 @@
     ],
     "reason": "미국과 중국 정상의 AI 관련 논의는 향후 글로벌 AI 규제 및 기술 표준화 논의의 시작점으로, 관련 기술 기업들의 사업 환경에 중장기적인 영향을 미칠 수 있습니다.",
     "action_point": "AI 기술 기업들의 규제 리스크 노출 정도를 점검하고, 포트폴리오 내 비중 조절 가능성을 염두에 둘 것."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "푸틴, 전쟁비용 부담되자…러 자국 기업에 횡재세 뜯는다 - v.daum.net",
-    "title_ko": "푸틴, 전쟁비용 부담되자…러 자국 기업에 횡재세 뜯는다",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAweWFTenlwNEcwUlFGT2JodjdWeFFxdm92STB3eWtsV1FHeTl2c1NfeDRncUV5RkFxTXh5WkdUTEZNdDdvTzFoWF9iczNoLW8?oc=5",
-    "published": "Fri, 25 Sep 2026 11:10:07 GMT",
-    "fetched_at": "2026-09-26 00:41:37",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "원자재",
-      "산업재"
-    ],
-    "keywords": [
-      "러시아",
-      "횡재세",
-      "우크라이나 전쟁",
-      "원자재",
-      "지정학"
-    ],
-    "reason": "러시아의 횡재세 부과는 전쟁 비용 부담을 시사하며, 이는 러시아 기업 수익성 악화 및 주요 원자재 공급망 불확실성을 높여 글로벌 지정학적 리스크를 가중시킬 수 있습니다.",
-    "action_point": "러시아의 재정 압박으로 인한 원자재 시장 불확실성과 지정학적 리스크 고조에 대비하여 관련 원자재 및 안전자산 비중을 조정하라."
   }
 ]
