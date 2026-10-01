@@ -2,6 +2,301 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "10-year Treasury yield climbs to a 24-year high amid relentless global bond sell-off",
+    "title_ko": "미 국채 10년물 금리, 글로벌 채권 매도세 지속으로 24년 만의 최고치 경신",
+    "link": "https://www.cnbc.com/2026/10/01/us-treasury-bond-yield.html",
+    "published": "Thu, 01 Oct 2026 14:58:40 GMT",
+    "fetched_at": "2026-10-02 00:51:06",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "성장주",
+      "기술주",
+      "부동산",
+      "채권 시장",
+      "금융주"
+    ],
+    "keywords": [
+      "미국채 금리",
+      "채권 매도",
+      "금리 인상",
+      "고금리",
+      "글로벌 유동성"
+    ],
+    "reason": "미 국채 금리 급등은 주식 등 위험자산의 할인율을 높여 기업 가치를 하락시키고, 전반적인 투자 심리를 위축시킨다. 이는 자금 조달 비용 상승으로 실물 경제 전반에 부담을 가중시킨다.",
+    "action_point": "금리 민감도가 높은 성장주 비중 축소를 검토하고, 단기 고금리 자산 및 가치주로의 자산 재배치를 고려하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Trump Accounts have auto-enrolled more than 60 million children, Treasury says",
+    "title_ko": "트럼프 계좌에 6천만 명 이상의 아동이 자동 등록되었다고 재무부가 발표",
+    "link": "https://www.cnbc.com/2026/10/01/treasury-trump-accounts-auto-enroll-more-than-60-million-children.html",
+    "published": "Thu, 01 Oct 2026 14:39:56 GMT",
+    "fetched_at": "2026-10-02 00:51:55",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "소비재",
+      "금융"
+    ],
+    "keywords": [
+      "미국 재정 정책",
+      "아동 복지",
+      "인플레이션",
+      "정부 지출",
+      "장기 소비"
+    ],
+    "reason": "대규모 아동 대상 계좌 자동 등록은 막대한 정부 지출 또는 미래 재정 부담을 암시하며, 이는 국가 부채 증가와 장기적인 인플레이션 압력을 유발할 가능성이 크다. 동시에 미래 소비 기반을 강화할 수 있다.",
+    "action_point": "미국 장기 국채 비중 축소를 고려하고, 인플레이션 헤지 자산(원자재, 리츠 등) 및 장기 소비재 관련 주식에 대한 투자 기회를 모색하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Oil prices rise as Chinese refiners reportedly ban October fuel exports; Brent crude above $100",
+    "title_ko": "중국 정유사, 10월 연료 수출 중단 보도에 유가 상승; 브렌트유 100달러 돌파",
+    "link": "https://www.cnbc.com/2026/10/01/oil-prices-today-wti-brent.html",
+    "published": "Thu, 01 Oct 2026 15:40:15 GMT",
+    "fetched_at": "2026-10-02 00:51:14",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "항공",
+      "해운",
+      "화학",
+      "소비재",
+      "에너지"
+    ],
+    "keywords": [
+      "유가",
+      "브렌트유",
+      "중국",
+      "연료 수출",
+      "공급 차질",
+      "인플레이션"
+    ],
+    "reason": "중국의 연료 수출 중단은 글로벌 석유 제품 공급을 위축시키고 유가를 상승시켜 전반적인 인플레이션 압력을 가중시킬 것입니다. 이는 각국 중앙은행의 긴축 기조 장기화 우려를 키울 수 있습니다.",
+    "action_point": "에너지 비용 민감 섹터 비중 축소 및 유가 상승 수혜 섹터(일부 에너지 기업) 비중 확대 검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "靑 정책실장에 하준경, 경제수석엔 문신학 - 조선일보",
+    "title_ko": "靑 정책실장에 하준경, 경제수석엔 문신학",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORkZ2eEYxNTZ3VTQydlJkbFpkcTNraVlpbE4xV1hJbEpzWG5kLW5qT0wwb1dFbUptSkpjcUVJa3JmNUwzaFJrQ200NmNIZ0YzaENhekZGUTI1MjV0bUdNNzBvWndQUHZIVFZUTWR5SDN3RTNla29oX21YWmh4UEt2S2RBUzUwMjRF?oc=5",
+    "published": "Thu, 01 Oct 2026 07:56:00 GMT",
+    "fetched_at": "2026-10-02 00:52:07",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "전 산업"
+    ],
+    "keywords": [
+      "정부 인사",
+      "경제 정책",
+      "청와대",
+      "하준경",
+      "문신학"
+    ],
+    "reason": "새로운 경제 정책 기조의 방향성을 제시할 수 있는 정부 주요 인사의 교체로, 향후 국내 거시경제 및 산업 정책 운영에 영향을 미칠 수 있습니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "청와대 신임 정책실장에 하준경, 경제성장수석 문신학 - 한겨레",
+    "title_ko": "청와대 신임 정책실장에 하준경, 경제성장수석 문신학 - 한겨레",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9uUG9LemFZNUVGTGV0NkZVRDRzZFdJLVRWSVVJc094dUs5dk5JUVNEbHB3dTFISE1sdGl5XzhGTGFEb0I3bzBjclozYW5YaU9LbFMxd2oxR2lIUHBnVHdtSEJIUVB0UGJDaGNr?oc=5",
+    "published": "Thu, 01 Oct 2026 07:27:00 GMT",
+    "fetched_at": "2026-10-02 00:52:33",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "금융",
+      "부동산",
+      "성장주"
+    ],
+    "keywords": [
+      "청와대 인사",
+      "경제 정책",
+      "정책실장",
+      "경제성장수석"
+    ],
+    "reason": "청와대 핵심 경제 정책 라인 인사는 향후 정부의 거시경제 운영 방향과 정책 우선순위에 중대한 영향을 미치며, 특히 신임 인사들의 과거 발언이나 전문성에 따라 금융 시장 안정, 부동산 정책, 산업 성장 동력 확보 등 특정 분야에 대한 기조 변화가 예상된다.",
+    "action_point": "신임 정책실장 및 경제성장수석의 과거 정책 기조와 발언을 분석하여 금융, 부동산, 성장주 섹터의 포트폴리오 비중 조정을 고려하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[프로필] 하준경 신임 정책실장…경제전략 기틀다진 '대통령 책사' - 연합뉴스",
+    "title_ko": "[프로필] 하준경 신임 정책실장…경제전략 기틀다진 '대통령 책사'",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9kN2ZTaF8ySkc5bnJmeU5FbkdBV2tZSnB3eE5xc3hULW9nQnFGLWxnTXZRMm5YMGpkdjVXN1B3bjhjdXVmLW1abFpqaEE2dm1LeXJwbjRqbGdGN05Gc3p3dNIBYEFVX3lxTE9kN2ZTaF8ySkc5bnJmeU5FbkdBV2tZSnB3eE5xc3hULW9nQnFGLWxnTXZRMm5YMGpkdjVXN1B3bjhjdXVmLW1abFpqaEE2dm1LeXJwbjRqbGdGN05Gc3p3dA?oc=5",
+    "published": "Thu, 01 Oct 2026 05:36:44 GMT",
+    "fetched_at": "2026-10-02 00:52:53",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "금융",
+      "건설",
+      "에너지",
+      "산업 전반"
+    ],
+    "keywords": [
+      "하준경",
+      "정책실장",
+      "경제전략",
+      "정부인사",
+      "거시경제"
+    ],
+    "reason": "신임 정책실장 임명은 향후 정부의 거시경제 전략 및 정책 방향 설정에 중대한 영향을 미칠 수 있습니다. 이는 국내 투자 환경 전반에 대한 기조 변화 가능성을 시사합니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Bargain Britain lures foreign buyers as hostile takeovers surge",
+    "title_ko": "바겐세일 영국, 적대적 인수합병 급증하며 외국인 투자자 유인",
+    "link": "https://www.cnbc.com/2026/10/01/hostile-takeovers-mergers-acquisitions-uk.html",
+    "published": "Thu, 01 Oct 2026 10:53:11 GMT",
+    "fetched_at": "2026-10-02 00:51:23",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "영국 주식 시장",
+      "금융"
+    ],
+    "keywords": [
+      "영국",
+      "인수합병",
+      "외국인 투자",
+      "저평가",
+      "자본 유입"
+    ],
+    "reason": "영국 자산의 저평가 인식이 확산되며 외국인 자본 유입이 가속화되고 있음을 시사한다. 이는 영국 주식 시장의 재평가와 M&A 관련 서비스 시장 활성화로 이어질 수 있다.",
+    "action_point": "영국 주식 시장 내 저평가 기업에 대한 투자 기회 모색"
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "靑 정책실장에 하준경…경제 안정·사회정책 강화 - 연합뉴스TV",
+    "title_ko": "靑 정책실장에 하준경…경제 안정·사회정책 강화",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBEc3Z3SzUzcTVwNWVHb0ktNFBoei1sOE1JVFhQeFhEUVNWTGFBZFNzcU8xQzdvV3pFRkZ5bHM2a0pWc0ZDYUEtQWdybGZWcTdzaTEtTGFWQktMeGNkdV9zNXZJc2NOYUU?oc=5",
+    "published": "Thu, 01 Oct 2026 10:31:00 GMT",
+    "fetched_at": "2026-10-02 00:52:22",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "부동산",
+      "사회복지"
+    ],
+    "keywords": [
+      "하준경",
+      "정책실장",
+      "경제 안정",
+      "사회정책"
+    ],
+    "reason": "신임 청와대 정책실장 임명은 향후 정부의 경제 및 사회 정책 방향을 제시하며, 특히 부동산, 사회복지 등 특정 분야에 대한 정부 개입 및 정책 변화 가능성을 시사합니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "靑 정책실장에 하준경 경제성장수석, 후임 경제수석엔 문신학 - 중앙일보",
+    "title_ko": "靑 정책실장에 하준경 경제성장수석, 후임 경제수석엔 문신학",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB6WV9FOWhTWk9IUFZ5RHZ3ZjlVS2xuc3Jsb0t6OElxTzUxSWcyMUF6ZGY3RXVNb21yNjMxc2RXSEwyVmxMNEdtYXpmT2M3bzlPcWtxTmpn?oc=5",
+    "published": "Thu, 01 Oct 2026 05:04:37 GMT",
+    "fetched_at": "2026-10-02 00:52:40",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "전 섹터"
+    ],
+    "keywords": [
+      "정부 인사",
+      "경제 정책",
+      "청와대"
+    ],
+    "reason": "이번 인사는 정부 경제 정책의 주요 책임자 교체로 향후 정책 방향에 영향을 줄 수 있으나, 당장의 구체적인 정책 변화가 동반되지 않아 시장에 미치는 직접적인 영향은 제한적이다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "KMI-무역안보관리원 손잡았다…해상 수송로·공급망 리스크 공동 대응 - 해사신문",
+    "title_ko": "KMI-무역안보관리원 손잡았다…해상 수송로·공급망 리스크 공동 대응",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9kTTVlVUJDQkdiVGhmZUV3ZG1NaEZfdWZHWnA1Vm1KTkRldVZhbWhTUFJ2SGh5blFXMy1Ob2tkVHRwWFhMY242NHJyaEctbXNMdU53WjFkcmJrNzhLT3E2ZEdnWnhuVUNEQ1ZJ?oc=5",
+    "published": "Thu, 01 Oct 2026 09:22:00 GMT",
+    "fetched_at": "2026-10-02 00:53:06",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "물류/해운",
+      "제조업",
+      "무역"
+    ],
+    "keywords": [
+      "공급망",
+      "해상 수송",
+      "리스크 관리",
+      "무역 안보",
+      "KMI",
+      "무역안보관리원"
+    ],
+    "reason": "해당 협력은 한국 경제의 핵심인 해상 수송로와 글로벌 공급망의 안정성을 강화하는 조치로, 무역 의존도가 높은 국내 기업들의 사업 불확실성을 감소시키는 긍정적 요인입니다.",
+    "action_point": "글로벌 공급망 리스크에 민감한 국내 수출 기업 비중을 안정적으로 유지하거나 확대 검토."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Stocks making the biggest moves premarket: Robinhood, Boeing, Moderna & more",
+    "title_ko": "프리마켓에서 가장 큰 움직임을 보이는 주식: 로빈후드, 보잉, 모더나 외 다수",
+    "link": "https://www.cnbc.com/2026/09/30/stocks-making-the-biggest-moves-premarket-hood-ba-mrna-.html",
+    "published": "Wed, 30 Sep 2026 11:38:54 GMT",
+    "fetched_at": "2026-10-02 00:50:54",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "금융",
+      "항공우주",
+      "헬스케어",
+      "바이오테크"
+    ],
+    "keywords": [
+      "프리마켓",
+      "개별주",
+      "로빈후드",
+      "보잉",
+      "모더나"
+    ],
+    "reason": "이 기사는 특정 개별 주식들의 프리마켓 움직임을 보여주지만, 광범위한 시장 트렌드나 거시 경제적 요인에 대한 정보를 제공하지 않습니다. 투자 포트폴리오 전반에 영향을 미칠 만한 구체적인 배경이나 전망이 부재합니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Walmart is using light-up digital shelf labels to help shoppers and employees find items",
+    "title_ko": "월마트, 쇼핑객과 직원의 상품 찾기 돕기 위해 불빛 들어오는 디지털 선반 라벨 사용",
+    "link": "https://www.cnbc.com/2026/10/01/walmart-digital-shelf-label-tools.html",
+    "published": "Thu, 01 Oct 2026 13:18:47 GMT",
+    "fetched_at": "2026-10-02 00:51:39",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "유통/소매",
+      "소매 테크놀로지"
+    ],
+    "keywords": [
+      "월마트",
+      "디지털 선반 라벨",
+      "소매 기술",
+      "운영 효율성"
+    ],
+    "reason": "이 뉴스는 주요 소매업체들이 운영 효율성 및 고객 경험 향상을 위해 기술 투자를 지속하고 있음을 보여줍니다. 거시 경제 전반에 미치는 영향은 제한적이나, 소매 섹터 내 디지털 전환 트렌드를 강화합니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "AI race heats up as OpenAI flags alleged model-copying campaign",
     "title_ko": "AI 경쟁 심화, OpenAI가 모델 불법 복제 의혹 제기",
     "link": "https://www.cnbc.com/2026/10/01/openai-chinas-moonshot-ai-kimi.html",
@@ -2672,304 +2967,5 @@
     ],
     "reason": "이 뉴스는 일본의 우주 및 AI 기술 개발 노력을 보여주며, 장기적으로 해당 산업의 혁신과 성장에 긍정적이나, 단기적인 거시경제나 투자 자산 시장에 직접적인 영향은 제한적입니다.",
     "action_point": "해당 없음"
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "“달러 환전만 하던 시대는 끝”…인뱅 외환 서비스 경쟁 불붙었다",
-    "title_ko": "“달러 환전만 하던 시대는 끝”…인뱅 외환 서비스 경쟁 불붙었다",
-    "link": "https://www.mk.co.kr/news/economy/12161701",
-    "published": "Sat, 26 Sep 2026 20:27:17 +09:00",
-    "fetched_at": "2026-09-26 20:59:36",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "금융",
-      "핀테크"
-    ],
-    "keywords": [
-      "외환 서비스",
-      "인터넷은행",
-      "환테크",
-      "다변화된 통화"
-    ],
-    "reason": "인터넷은행의 외환 서비스 경쟁 심화는 개인 투자자들의 다양한 통화 자산 접근성을 높여 환율 변동성 활용 기회를 확대합니다. 이는 금융 시장 내 외환 거래 편의성 증진에 기여할 것입니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "“손끝 한번 찌르면 됐는데”…병원이 멈춘 ‘이 검사’, 60대 여성 삶이 바뀌었다 [어쩌다 세상이]",
-    "title_ko": "“손끝 한번 찌르면 됐는데”…병원이 멈춘 ‘이 검사’, 60대 여성 삶이 바뀌었다 [어쩌다 세상이]",
-    "link": "https://www.mk.co.kr/news/society/12161699",
-    "published": "Sat, 26 Sep 2026 20:21:16 +09:00",
-    "fetched_at": "2026-09-26 20:59:42",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "의료서비스"
-    ],
-    "keywords": [
-      "의료과실",
-      "병원",
-      "환자안전"
-    ],
-    "reason": "이 뉴스는 특정 병원의 의료과실로 인한 환자 피해 사례를 다루는 것으로, 거시 경제나 금융 시장 전반에 미치는 직접적인 영향은 극히 제한적입니다. 특정 병원 및 의료 서비스 품질 이슈에 국한됩니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Why Xi believes the U.S. and China can overcome the 'Thucydides Trap'",
-    "title_ko": "시진핑 주석이 미국과 중국이 '투키디데스 함정'을 극복할 수 있다고 믿는 이유",
-    "link": "https://www.cnbc.com/2026/09/26/xi-trump-thucydides-trap-us-china.html",
-    "published": "Sat, 26 Sep 2026 05:00:01 GMT",
-    "fetched_at": "2026-09-26 15:52:10",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "기술",
-      "반도체",
-      "제조업"
-    ],
-    "keywords": [
-      "미중 관계",
-      "시진핑",
-      "지정학",
-      "투키디데스 함정"
-    ],
-    "reason": "시진핑 주석이 미중 간 '파괴적인 경쟁'을 피할 수 있다고 믿는다는 것은 양국 관계의 긴장 완화 가능성을 시사하며, 이는 글로벌 무역 및 공급망 안정화에 긍정적인 영향을 미칠 수 있습니다.",
-    "action_point": "미중 관계 개선 가능성을 염두에 두고 기술 및 수출 중심 산업의 비중 확대를 검토하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "“추석 끝나면 환율 또 출렁?”…미중회담·대미투자 곳곳 변수",
-    "title_ko": "“추석 끝나면 환율 또 출렁?”…미중회담·대미투자 곳곳 변수",
-    "link": "https://www.mk.co.kr/news/economy/12161632",
-    "published": "Sat, 26 Sep 2026 15:36:11 +09:00",
-    "fetched_at": "2026-09-26 15:52:46",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "외환시장",
-      "금융",
-      "IT/반도체"
-    ],
-    "keywords": [
-      "환율",
-      "미중회담",
-      "대미투자",
-      "한미금리차",
-      "AI투자"
-    ],
-    "reason": "미중 관계, AI 투자 방향, 한미 금리차 등 다양한 외부 요인이 복합적으로 작용하여 추석 이후 원/달러 환율의 변동성 확대 및 원화 약세 압력을 가중시킬 가능성이 높습니다. 이는 외국인 자금 유출과 시장 불안정성 확대로 이어질 수 있습니다.",
-    "action_point": "원/달러 환율 변동성 확대 및 원화 약세에 대비하여 달러 자산 비중 확대를 검토하십시오."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Here's exactly what Paramount promised Hollywood to land WBD — and why some are still skeptical",
-    "title_ko": "파라마운트가 WBD 인수를 위해 할리우드에 약속한 내용 및 여전히 회의적인 시각",
-    "link": "https://www.cnbc.com/2026/09/25/paramount-hollywood-promises.html",
-    "published": "Fri, 25 Sep 2026 22:53:52 GMT",
-    "fetched_at": "2026-09-26 15:52:24",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "미디어/엔터테인먼트"
-    ],
-    "keywords": [
-      "파라마운트",
-      "WBD",
-      "합병",
-      "인수",
-      "반독점",
-      "엔터테인먼트"
-    ],
-    "reason": "이번 뉴스는 파라마운트와 WBD 간의 미디어 합병에 대한 반독점 규제 문제를 다루며, 특정 기업의 합병 진행 상황 및 시장 경쟁 환경 변화를 시사합니다. 거시 경제 지표나 광범위한 시장에는 직접적인 영향이 제한적입니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Trump, Xi wrap state visit centered on spectacle over substance. Here are the top takeaways",
-    "title_ko": "트럼프-시진핑 국빈 방문, 실속보다 의전에 집중. 주요 내용은?",
-    "link": "https://www.cnbc.com/2026/09/25/trump-xi-summit-takeaways.html",
-    "published": "Fri, 25 Sep 2026 21:38:38 GMT",
-    "fetched_at": "2026-09-26 10:10:14",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "글로벌 무역",
-      "기술",
-      "방위산업"
-    ],
-    "keywords": [
-      "미중 관계",
-      "트럼프",
-      "시진핑",
-      "지정학적 리스크",
-      "무역 불확실성",
-      "대만",
-      "이란"
-    ],
-    "reason": "트럼프와 시진핑의 국빈 방문은 대만, 이란 등 핵심 현안에 대한 구체적인 합의 없이 마무리되어 미중 간 지정학적 긴장과 무역 불확실성이 지속될 것임을 시사한다.",
-    "action_point": "미중 간 지정학적 긴장과 무역 불확실성이 지속될 것에 대비해 방어적 자산 비중을 유지하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "李대통령 “한·멕시코 무역협정으로 양국 경제 협력 강화해야” - 조선비즈 - Chosunbiz",
-    "title_ko": "李대통령 “한·멕시코 무역협정으로 양국 경제 협력 강화해야”",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVFdrMU1nYUZvNkdCYzdHV2dyMkRHLWRGZjdsWmZFRDJHam54YWFGWE9tdjF5aW04NzVLeUdoYkR4azNPcXF2bkRfOGZKN09FQXR5R1BrQVVzSGtnQW1OZnF6TUYzNGF3MUhWa0J4MXNaWGpuS3pFY2VaZEFWeDBNbDkxdkkySURlVFd2clhDb2JFMm96MzUzc0JOUjJuUdIBsgFBVV95cUxNOWhFR2pLM2FDVkxZbkxtSzZBMGt6MzREcTRzdE9ORkxuZmY0bzV5SlBxYklZeEpfV3lvbEdnb3R2ekZ2SW15U2FLTE9CLU1XcHRYM043T2xVMlNBWHExdTR3dk0yV2l3eWM1MG9OaVA0Wk02ZTF0bU41S2FOallDVU5vLTZ1R292dlZub205MkFhUmFGR3dhUlhpYUM0aEtqVXMyNlJaZlgycFRjR19yOXRR?oc=5",
-    "published": "Fri, 25 Sep 2026 23:18:00 GMT",
-    "fetched_at": "2026-09-26 10:10:23",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "자동차",
-      "IT/전자",
-      "무역",
-      "물류"
-    ],
-    "keywords": [
-      "한-멕시코 무역협정",
-      "경제협력",
-      "수출",
-      "통상정책"
-    ],
-    "reason": "한국과 멕시코 간의 무역협정 추진 의지는 양국 간 교역을 확대하고 한국 기업의 멕시코 및 북미 시장 접근성을 개선하여 수출 증대와 투자 기회를 창출할 수 있습니다.",
-    "action_point": "멕시코 시장 노출도가 높은 국내 자동차 및 IT/전자 관련 수출 기업의 중장기 투자 매력도를 검토."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Stocks making the biggest moves premarket: Akamai, Synopsys, Nike & more",
-    "title_ko": "프리마켓에서 가장 큰 움직임을 보이는 주식: Akamai, Synopsys, Nike 외",
-    "link": "https://www.cnbc.com/2026/09/25/stocks-making-the-biggest-moves-premarket-akam-snps-nke.html",
-    "published": "Fri, 25 Sep 2026 11:40:42 GMT",
-    "fetched_at": "2026-09-26 10:09:59",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "기술",
-      "소비재"
-    ],
-    "keywords": [
-      "프리마켓",
-      "개별 주식",
-      "변동성",
-      "Akamai",
-      "Synopsys",
-      "Nike"
-    ],
-    "reason": "이 기사는 특정 개별 주식들의 프리마켓 움직임을 전달할 뿐, 전반적인 시장 방향성이나 거시 경제에 대한 명확한 신호를 제공하지 않습니다. 각 기업의 개별적인 이벤트에 주목해야 합니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Saudi Arabia crude oil exports hit highest level since Iran war began despite pipeline outage",
-    "title_ko": "사우디아라비아 원유 수출, 이란 전쟁 발발 이후 최고치 기록 (파이프라인 장애에도 불구하고)",
-    "link": "https://www.cnbc.com/2026/09/25/saudi-arabia-oil-iran-war-pipeline-strait-hormuz-red-sea-houthis.html",
-    "published": "Fri, 25 Sep 2026 18:46:23 GMT",
-    "fetched_at": "2026-09-26 07:58:01",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "항공",
-      "해운",
-      "화학",
-      "소비재"
-    ],
-    "keywords": [
-      "사우디아라비아",
-      "원유 수출",
-      "유가",
-      "공급",
-      "지정학"
-    ],
-    "reason": "사우디의 견조한 원유 수출량은 국제 유가에 하방 압력으로 작용할 수 있으며, 이는 전반적인 인플레이션 압력을 완화할 가능성이 있다. 동시에 중동 지정학적 리스크는 상존한다.",
-    "action_point": "원유 시장의 견고한 공급 가능성을 고려하여 에너지 관련 자산 비중을 점검하고, 유가 하락 수혜 업종(항공, 해운, 화학 등)에 대한 투자 기회를 모색하라."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Appeals court rules that states can regulate Kalshi’s sports prediction markets, dealing another legal blow to platforms",
-    "title_ko": "항소법원, 주(州) 정부의 Kalshi 스포츠 예측 시장 규제 가능 판결…플랫폼에 또 다른 법적 타격",
-    "link": "https://www.cnbc.com/2026/09/25/appeals-court-rules-states-can-regulate-sports-prediction-markets.html",
-    "published": "Fri, 25 Sep 2026 21:41:18 GMT",
-    "fetched_at": "2026-09-26 07:57:53",
-    "sentiment": "악재",
-    "importance": 2,
-    "sectors": [
-      "예측 시장",
-      "온라인 베팅"
-    ],
-    "keywords": [
-      "예측 시장",
-      "규제",
-      "미국 법원",
-      "온라인 베팅"
-    ],
-    "reason": "미국 항소법원의 판결로 스포츠 예측 시장 플랫폼에 대한 주 정부의 규제 권한이 강화되어 관련 기업들의 사업 확장 및 수익성에 부정적 영향을 미칠 수 있습니다. 이는 특정 온라인 베팅/핀테크 섹터의 성장 잠재력에 대한 불확실성을 높입니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "“엄청난 일 벌어질 것”이라던 트럼프…美언론은 “돌파구 없다”",
-    "title_ko": "“엄청난 일 벌어질 것”이라던 트럼프…美언론은 “돌파구 없다”",
-    "link": "https://www.mk.co.kr/news/world/12161497",
-    "published": "Fri, 25 Sep 2026 22:27:59 +09:00",
-    "fetched_at": "2026-09-26 04:42:58",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "수출주",
-      "반도체",
-      "기술주",
-      "산업재",
-      "해운/물류"
-    ],
-    "keywords": [
-      "트럼프",
-      "시진핑",
-      "미중 무역협상",
-      "무역분쟁",
-      "글로벌 불확실성"
-    ],
-    "reason": "미중 정상회담에서 무역 분쟁의 실질적인 돌파구가 마련되지 않아, 글로벌 무역 불확실성이 지속되고 기업 투자 심리가 위축될 수 있습니다.",
-    "action_point": "미중 무역 분쟁 장기화에 대비하여 수출 의존도가 높은 섹터 및 기술주의 비중 축소를 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Trump and Xi dined with AI's biggest names. Here's what we know about tech talks so far",
-    "title_ko": "트럼프와 시진핑, AI 주요 인사들과 만찬…현재까지 기술 회담 소식",
-    "link": "https://www.cnbc.com/2026/09/25/the-tech-download-trump-xi-ai-talks.html",
-    "published": "Fri, 25 Sep 2026 14:43:23 GMT",
-    "fetched_at": "2026-09-26 00:41:06",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "AI 기술",
-      "반도체",
-      "클라우드 컴퓨팅",
-      "빅테크"
-    ],
-    "keywords": [
-      "AI",
-      "인공지능",
-      "트럼프",
-      "시진핑",
-      "기술 회담",
-      "지정학",
-      "AI 규제"
-    ],
-    "reason": "미국과 중국 정상의 AI 관련 논의는 향후 글로벌 AI 규제 및 기술 표준화 논의의 시작점으로, 관련 기술 기업들의 사업 환경에 중장기적인 영향을 미칠 수 있습니다.",
-    "action_point": "AI 기술 기업들의 규제 리스크 노출 정도를 점검하고, 포트폴리오 내 비중 조절 가능성을 염두에 둘 것."
   }
 ]
