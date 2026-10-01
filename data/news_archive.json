@@ -1,5 +1,77 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Stock futures rise as traders eye elevated Treasury yields, brace for jobs report due this week: Live updates",
+    "title_ko": "주식 선물 상승, 투자자들은 높은 국채 수익률을 주시하며 이번 주 고용 보고서 대비",
+    "link": "https://www.cnbc.com/2026/09/30/stock-market-today-live-updates.html",
+    "published": "Thu, 01 Oct 2026 00:21:15 GMT",
+    "fetched_at": "2026-10-01 10:42:47",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "기술",
+      "금융",
+      "부동산",
+      "채권"
+    ],
+    "keywords": [
+      "국채 수익률",
+      "연준",
+      "금리 인상",
+      "인플레이션",
+      "고용 보고서"
+    ],
+    "reason": "소폭 완화된 인플레이션 신호에도 불구하고 높은 국채 수익률과 다가올 고용 보고서 및 연준의 금리 결정 불확실성이 시장의 주요 변수로 작용하며 단기적인 주식 선물 상승에도 불구하고 전반적인 경계심이 유지되고 있습니다.",
+    "action_point": "높은 국채 수익률 지속과 연준의 통화 정책 불확실성에 대비하여 포트폴리오 내 금리 민감 자산 비중을 조정하라."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Kalshi, Polymarket trading volumes on some products raise questions amid massive growth",
+    "title_ko": "Kalshi와 Polymarket의 일부 상품 거래량, 폭발적인 성장 속 의문 제기",
+    "link": "https://www.cnbc.com/2026/09/30/kalshi-polymarket-trading-volume-scrutiny.html",
+    "published": "Wed, 30 Sep 2026 21:09:42 GMT",
+    "fetched_at": "2026-10-01 10:42:36",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "대체 투자 플랫폼",
+      "핀테크"
+    ],
+    "keywords": [
+      "Kalshi",
+      "Polymarket",
+      "거래량",
+      "예측 시장",
+      "시장 투명성"
+    ],
+    "reason": "이 기사는 일부 예측 시장에서 나타나는 비정상적인 거래량과 시장 활동의 유기성에 대한 의문을 제기하며, 규제 불확실성이 높은 대체 투자 플랫폼의 잠재적 리스크와 투명성 문제를 시사합니다.",
+    "action_point": "규제 불확실성이 높은 비주류 대체 투자 플랫폼에 대한 신규 투자를 보류하고, 잠재적 리스크를 재평가하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[속보] 코스피 0.34% 내린 6,814.49 개장 - 연합뉴스TV",
+    "title_ko": "[속보] 코스피 0.34% 내린 6,814.49 개장",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXQkFTYnl2R0RYX3M0ZWxwdDJnRFVLdnF4b083WFg4TDBpbUo5WnN6NGVPYWhhRzBPemZHdHZvVHhfc25Tbmk3ZV9NdGJYQzJxQjFNWE81QXp5QnJGaXlEMkQ1bmQzN0U?oc=5",
+    "published": "Thu, 01 Oct 2026 00:09:00 GMT",
+    "fetched_at": "2026-10-01 10:42:56",
+    "sentiment": "악재",
+    "importance": 2,
+    "sectors": [
+      "전반적인 주식 시장"
+    ],
+    "keywords": [
+      "코스피",
+      "개장",
+      "하락",
+      "한국 증시"
+    ],
+    "reason": "한국 증시 코스피 지수가 개장 초 소폭 하락 출발했음을 알리는 속보로, 전반적인 투자 심리가 다소 위축되었음을 시사합니다. 하지만 0.34% 하락은 일상적인 변동성 범위 내이며, 추세적 변화를 나타내기에는 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "CNBC_Finance",
     "market": "US",
     "title": "Fed's Kashkari says inflation is 'still too high' even after softer-than-expected PCE data",
@@ -2900,82 +2972,5 @@
     ],
     "reason": "러시아의 횡재세 부과는 전쟁 비용 부담을 시사하며, 이는 러시아 기업 수익성 악화 및 주요 원자재 공급망 불확실성을 높여 글로벌 지정학적 리스크를 가중시킬 수 있습니다.",
     "action_point": "러시아의 재정 압박으로 인한 원자재 시장 불확실성과 지정학적 리스크 고조에 대비하여 관련 원자재 및 안전자산 비중을 조정하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "李 대통령, 멕시코 국빈방문 ‘경제 성과’…투자·공급망·첨단산업 협력 확대 - 에너지경제신문",
-    "title_ko": "李 대통령, 멕시코 국빈방문 ‘경제 성과’…투자·공급망·첨단산업 협력 확대 - 에너지경제신문",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9adUpTZWZGbzR1aDF6aGQyRkMwRGluaHpYYUhqVS1PQkFEVFNpU2hJUHkxRkpNcWNXb1VVb1VTSlI1WkxmUGVvdnFnY0taYmZHRXkwMVhSTEtjQVY4QXN4b2JDcw?oc=5",
-    "published": "Fri, 25 Sep 2026 10:54:52 GMT",
-    "fetched_at": "2026-09-26 00:41:23",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "자동차",
-      "배터리",
-      "첨단산업",
-      "무역/물류"
-    ],
-    "keywords": [
-      "멕시코",
-      "투자 확대",
-      "공급망 재편",
-      "첨단산업",
-      "북미 시장"
-    ],
-    "reason": "멕시코는 북미 시장 진출의 핵심 거점으로, 이번 협력 확대로 한국 기업의 북미 공급망 안정화 및 첨단산업 투자 기회가 증가할 수 있다. 이는 관련 기업의 해외 실적 개선과 장기 성장 동력 확보에 긍정적이다.",
-    "action_point": "멕시코 진출 및 북미 공급망 관련 국내 첨단산업(자동차, 배터리 등) 기업 투자 기회 모색."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Russia could attack a NATO country within months, Danish intelligence warns",
-    "title_ko": "러시아, 수개월 내 나토 국가 공격 가능성, 덴마크 정보기관 경고",
-    "link": "https://www.cnbc.com/2026/09/25/russia-ukraine-war-nato-denmark-putin.html",
-    "published": "Fri, 25 Sep 2026 08:26:07 GMT",
-    "fetched_at": "2026-09-25 19:50:20",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "방산",
-      "에너지",
-      "금융",
-      "원자재",
-      "항공"
-    ],
-    "keywords": [
-      "러시아",
-      "나토",
-      "지정학적 리스크",
-      "유럽 안보",
-      "방산",
-      "에너지"
-    ],
-    "reason": "러시아의 나토 공격은 지정학적 리스크를 최고조로 끌어올려 에너지 가격 급등 및 글로벌 증시 전반의 변동성을 키우고, 안전자산 선호 심리를 강화할 것이다.",
-    "action_point": "글로벌 지정학적 위험 고조에 대비하여 방산 섹터 비중 확대를 검토하고, 달러 및 금 등 안전자산 보유를 유지하라."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Crypto platform Bitget suspects North Korea is responsible for $352 million hack",
-    "title_ko": "암호화폐 플랫폼 비트겟, 3억 5천 2백만 달러 해킹 배후로 북한 의심",
-    "link": "https://www.cnbc.com/2026/09/25/crypto-platform-bitget-suspects-north-korea-in-352-million-hack.html",
-    "published": "Fri, 25 Sep 2026 06:13:35 GMT",
-    "fetched_at": "2026-09-25 19:50:01",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "암호화폐",
-      "사이버 보안"
-    ],
-    "keywords": [
-      "암호화폐 해킹",
-      "북한",
-      "사이버 안보",
-      "규제 리스크"
-    ],
-    "reason": "대규모 암호화폐 해킹 사건에 북한이 배후로 지목되면서 암호화폐 시장의 신뢰도 하락 및 규제 강화 압력이 예상되며, 이는 전반적인 사이버 보안 강화 요구와 지정학적 리스크 인식으로 이어질 수 있습니다.",
-    "action_point": "암호화폐 자산에 대한 리스크 관리 강화 및 관련 규제 동향을 면밀히 주시."
   }
 ]
