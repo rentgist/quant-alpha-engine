@@ -1,5 +1,80 @@
 [
   {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "[단독] 삼성, 내년 HBM4 가격 3배 높인다",
+    "title_ko": "삼성, 내년 HBM4 가격 3배 높인다",
+    "link": "https://www.mk.co.kr/news/business/12167164",
+    "published": "Fri, 02 Oct 2026 15:20:29 +09:00",
+    "fetched_at": "2026-10-02 15:28:31",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "반도체",
+      "IT하드웨어",
+      "인공지능"
+    ],
+    "keywords": [
+      "삼성전자",
+      "HBM4",
+      "고대역폭메모리",
+      "AI 반도체",
+      "메모리 가격"
+    ],
+    "reason": "삼성전자의 HBM4 가격 인상은 AI 반도체 시장의 강력한 수요와 기술적 우위를 방증하며, 이는 메모리 반도체 업황 전반의 개선과 수익성 향상 기대를 높인다.",
+    "action_point": "삼성전자 및 HBM 관련 국내 반도체 기업 비중 확대를 검토하라."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Bitget 'not expecting to recover a lot' from $388 million hack, CEO tells CNBC",
+    "title_ko": "비트겟 CEO, 3억 8,800만 달러 해킹 피해액 '대부분 회복 어려울 것' CNBC에 밝혀",
+    "link": "https://www.cnbc.com/2026/10/02/bitget-crypto-stolen-hack-recovery.html",
+    "published": "Fri, 02 Oct 2026 06:03:23 GMT",
+    "fetched_at": "2026-10-02 15:28:00",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "가상자산",
+      "블록체인"
+    ],
+    "keywords": [
+      "비트겟",
+      "해킹",
+      "가상자산",
+      "암호화폐",
+      "보안"
+    ],
+    "reason": "대규모 가상자산 거래소 해킹 피해액의 대부분이 회복 불가능하다는 소식은 가상자산 시장 전반의 투자 심리를 위축시키고, 중앙화된 거래소의 보안 리스크를 다시 부각시킬 것입니다. 이는 가상자산 전반에 대한 신뢰 하락으로 이어질 수 있습니다.",
+    "action_point": "가상자산 투자 비중 재검토 및 중앙화 거래소의 보안 위험 점검"
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Stocks making the biggest moves premarket: Alphabet, Accenture, Rocket Lab, Micron and more",
+    "title_ko": "프리마켓에서 가장 큰 움직임을 보이는 주식: 알파벳, 액센츄어, 로켓 랩, 마이크론 외",
+    "link": "https://www.cnbc.com/2026/10/01/stocks-making-the-biggest-moves-premarket-googl-acn-rklb-mu.html",
+    "published": "Thu, 01 Oct 2026 15:14:36 GMT",
+    "fetched_at": "2026-10-02 15:28:15",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "기술",
+      "반도체",
+      "IT 서비스",
+      "우주항공"
+    ],
+    "keywords": [
+      "프리마켓",
+      "주식 움직임",
+      "개별주",
+      "알파벳",
+      "마이크론"
+    ],
+    "reason": "이 기사는 프리마켓에서 개별 기업들의 주가 움직임을 단순 보고하는 것으로, 전반적인 시장 방향이나 거시 경제에 대한 직접적인 영향은 미미합니다. 각 기업의 움직임은 개별적인 이슈에 기인할 가능성이 높습니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "Nike shares drop as retailer posts disappointing sales, announces layoffs as part of restructuring",
@@ -2897,80 +2972,5 @@
     ],
     "reason": "미국과 중국 간 AI 소통 채널 개설은 핵심 기술 분야의 불확실성을 완화하고, 국제 수로 관련 언급은 글로벌 무역 및 해상 안보의 위험을 줄여 전반적인 시장 안정에 긍정적 영향을 미칠 수 있습니다.",
     "action_point": "미중 지정학적 리스크 완화 기대감에 따른 반도체 및 AI 관련 기술주 포트폴리오 비중 유지 검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "트럼프·시진핑 \"국제수로 통행료 반대\"…호르무즈 쥔 이란 부담 - 한국경제",
-    "title_ko": "트럼프·시진핑 \"국제수로 통행료 반대\"…호르무즈 쥔 이란 부담",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1td0hOR00xMWtPTWxNcXVyOFJkZTBQZnFQNVJ2V0ZLZS1KSllkcUlqakF3dXc2Xzl3bktqMmowTS1FbVFoekYyeGlkU3Q4OFlzYU9aelV6SnA4QQ?oc=5",
-    "published": "Sat, 26 Sep 2026 06:25:55 GMT",
-    "fetched_at": "2026-09-26 20:59:16",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "해운",
-      "물류",
-      "화학"
-    ],
-    "keywords": [
-      "트럼프",
-      "시진핑",
-      "국제수로",
-      "호르무즈",
-      "이란",
-      "유가",
-      "지정학"
-    ],
-    "reason": "미국과 중국이 국제수로 통행료 부과에 반대 입장을 표명하여 호르무즈 해협을 둘러싼 지정학적 리스크가 완화되며, 이는 글로벌 원유 공급망의 안정성에 긍정적인 영향을 미쳐 유가 급등 가능성을 억제한다.",
-    "action_point": "원유 공급망 리스크 완화로 인한 항공, 해운, 화학 등 에너지 다소비 산업의 비용 절감 효과를 주시하고 관련 투자 비중 확대를 검토하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "“목돈 생겼는데 어떻게 하지”…추석 여윳돈 굴릴 고금리 예적금 살펴보니",
-    "title_ko": "“목돈 생겼는데 어떻게 하지”…추석 여윳돈 굴릴 고금리 예적금 살펴보니",
-    "link": "https://www.mk.co.kr/news/economy/12161691",
-    "published": "Sat, 26 Sep 2026 19:21:21 +09:00",
-    "fetched_at": "2026-09-26 20:59:59",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "금융",
-      "증권"
-    ],
-    "keywords": [
-      "고금리 예적금",
-      "추석 상여금",
-      "자금 이동",
-      "저축은행",
-      "시중은행"
-    ],
-    "reason": "추석 상여금 등 목돈 유입 시기에 국내 고금리 예적금 상품의 매력이 부각되며, 주식 시장에서 안전자산인 예금으로 개인 자금 이동이 가속화될 가능성이 높습니다. 이는 국내 증시의 단기 유동성을 위축시킬 수 있습니다.",
-    "action_point": "국내 주식 포트폴리오 내 현금 비중을 확대하거나 단기 고금리 예적금 상품으로의 자금 이동을 검토하십시오."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "TikTok reaches first state settlement over teen safety claims, agrees to user limits",
-    "title_ko": "틱톡, 청소년 안전 문제 관련 첫 주 정부 합의 도출 및 사용자 제한 동의",
-    "link": "https://www.cnbc.com/2026/09/26/tiktok-reaches-first-state-settlement-over-teen-safety-claims.html",
-    "published": "Sat, 26 Sep 2026 08:16:19 GMT",
-    "fetched_at": "2026-09-26 20:58:02",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "소셜 미디어",
-      "인터넷 플랫폼"
-    ],
-    "keywords": [
-      "틱톡",
-      "청소년 안전",
-      "규제",
-      "사용자 제한"
-    ],
-    "reason": "틱톡의 청소년 대상 사용자 제한 합의는 플랫폼의 성장 전략에 영향을 미칠 수 있으나, 전반적인 시장이나 매크로 경제에 미치는 직접적인 영향은 제한적입니다.",
-    "action_point": "해당 없음"
   }
 ]
