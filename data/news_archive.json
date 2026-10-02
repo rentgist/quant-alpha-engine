@@ -2,6 +2,56 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "Nike shares drop as retailer posts disappointing sales, announces layoffs as part of restructuring",
+    "title_ko": "나이키 주가, 실망스러운 매출과 구조조정의 일환으로 해고 발표에 하락",
+    "link": "https://www.cnbc.com/2026/10/01/nike-nke-q1-2027-earnings.html",
+    "published": "Thu, 01 Oct 2026 21:34:44 GMT",
+    "fetched_at": "2026-10-02 09:21:19",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "경기소비재",
+      "소매",
+      "의류/신발"
+    ],
+    "keywords": [
+      "나이키",
+      "매출 부진",
+      "구조조정",
+      "해고",
+      "중국 시장",
+      "소비 위축"
+    ],
+    "reason": "나이키의 실적 부진과 구조조정은 글로벌 경기 둔화에 따른 소비 위축 가능성을 시사하며, 특히 중국 시장에서의 경쟁 심화와 성장 둔화 압력을 반영합니다. 이는 관련 소매 및 경기소비재 섹터 전반에 대한 투자 심리 악화로 이어질 수 있습니다.",
+    "action_point": "글로벌 경기소비재 및 중국 소비 관련 투자 비중 축소 검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "하준경, 2022년 대선부터 ‘李의 핵심 경제 책사’… 정책기조 유지될듯 - 동아일보",
+    "title_ko": "하준경, 2022년 대선부터 ‘李의 핵심 경제 책사’… 정책기조 유지될듯",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9Gd0RRZV9YWGNJeE42RHRZTV9vV0Q3a05NLXlOVE05bjhzZU50enpia1dlNFo5VWlibFdKbFI4UEZVZVJSLWFoQTRRRF9QTTBiTDZVN1N1Q0w0cGFITjNwRGNzR0M2THM3WllfSF9ZMEd2SXBLWFlZ0gFmQVVfeXFMT3JUUVNrWmU3V21fMmd2TEJLQk9aLVB0RGo1MzdBTkNTa1pwVGFObFZZVXlKWVZ0R2Y4aG9qajhCVmVDZlltU25XSk9vLUt5TllmcmY4SXNhQ01PUXkxMmxhYUtYRURn?oc=5",
+    "published": "Thu, 01 Oct 2026 19:30:00 GMT",
+    "fetched_at": "2026-10-02 09:22:49",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "금융",
+      "건설/부동산",
+      "사회서비스"
+    ],
+    "keywords": [
+      "정치/정책",
+      "경제 정책",
+      "대선",
+      "정책 연속성"
+    ],
+    "reason": "이 뉴스는 李(이재명) 핵심 경제 책사의 정책 기조 유지를 시사하며, 향후 국내 거시 경제 및 주요 산업 정책 방향의 연속성을 예측할 수 있는 단서를 제공합니다.",
+    "action_point": "향후 국내 정책 방향에 영향을 받을 수 있는 사회간접자본(SOC) 및 복지 관련 섹터의 투자 비중을 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "10-year Treasury yield climbs to a 24-year high amid relentless global bond sell-off",
     "title_ko": "미 국채 10년물 금리, 글로벌 채권 매도세 지속으로 24년 만의 최고치 경신",
     "link": "https://www.cnbc.com/2026/10/01/us-treasury-bond-yield.html",
@@ -2921,51 +2971,6 @@
       "사용자 제한"
     ],
     "reason": "틱톡의 청소년 대상 사용자 제한 합의는 플랫폼의 성장 전략에 영향을 미칠 수 있으나, 전반적인 시장이나 매크로 경제에 미치는 직접적인 영향은 제한적입니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "경제협력에 ‘문화의 힘’ 더했다…이 대통령, 멕시코 순방 마무리 - JTBC",
-    "title_ko": "경제협력에 ‘문화의 힘’ 더했다…이 대통령, 멕시코 순방 마무리",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5hY24wQWlIN0ZWNE1LY0lJR0ZGWWx6cXRmclNINTJiWm1WdDMya3p3aWxaTWdIQkpnTVBTSW9STF9aSmN4eUpOSXdqUXhWNmdQcVZQLQ?oc=5",
-    "published": "Sat, 26 Sep 2026 10:05:00 GMT",
-    "fetched_at": "2026-09-26 20:58:19",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [],
-    "keywords": [
-      "대통령 순방",
-      "멕시코",
-      "경제협력",
-      "문화교류"
-    ],
-    "reason": "이 대통령의 멕시코 순방은 양국 간 경제 및 문화 협력 증진에 대한 의지를 확인하는 자리였으나, 구체적인 투자나 무역 계약 발표는 없어 단기적인 시장 영향은 제한적입니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "일본, 국제우주정거장(ISS)에서 'AI 로봇 경진대회' 연다 - 로봇신문",
-    "title_ko": "일본, 국제우주정거장(ISS)에서 'AI 로봇 경진대회' 연다 - 로봇신문",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9WczdxLTFNTUFQTWVoMVNxVUdMUU1BNHI3R2pRNUw1ZU1WRzJNZlYyQ0pOS1B2Q2hlSzE5bTQxSzNsRDd0dGNScDJ5VXFmQVRFa2htU0picWhBMDY2YzRTUmY1blZKM21maFl1eg?oc=5",
-    "published": "Sat, 26 Sep 2026 10:39:37 GMT",
-    "fetched_at": "2026-09-26 20:59:04",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "AI",
-      "로봇",
-      "우주항공"
-    ],
-    "keywords": [
-      "AI",
-      "로봇",
-      "우주",
-      "일본",
-      "ISS"
-    ],
-    "reason": "이 뉴스는 일본의 우주 및 AI 기술 개발 노력을 보여주며, 장기적으로 해당 산업의 혁신과 성장에 긍정적이나, 단기적인 거시경제나 투자 자산 시장에 직접적인 영향은 제한적입니다.",
     "action_point": "해당 없음"
   }
 ]
