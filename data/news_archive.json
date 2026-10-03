@@ -1,5 +1,29 @@
 [
   {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Lula or Bolsonaro: Wall Street braces for two wildly different results in Brazil election",
+    "title_ko": "룰라 또는 보우소나루: 월스트리트, 브라질 대선 결과에 따른 극명한 시장 변화 대비",
+    "link": "https://www.cnbc.com/2026/10/03/lula-or-bolsonaro-wall-street-braces-for-two-wildly-different-results-in-brazil-election.html",
+    "published": "Sat, 03 Oct 2026 13:12:27 GMT",
+    "fetched_at": "2026-10-04 01:53:00",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "이머징 마켓",
+      "원자재",
+      "금융"
+    ],
+    "keywords": [
+      "브라질 대선",
+      "정치 불확실성",
+      "이머징 마켓",
+      "원자재 시장"
+    ],
+    "reason": "브라질 대선 결과에 따라 시장 방향이 극명하게 갈릴 수 있어, 이머징 마켓 전반의 투자 심리와 주요 원자재 시장에 변동성을 야기할 수 있습니다.",
+    "action_point": "브라질 및 이머징 마켓 자산의 포트폴리오 비중을 점검하고, 선거 결과에 따른 변동성 확대에 대비하여 위험 관리 전략을 수립해야 합니다."
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "'Handful' of G20 countries reject U.S. stance on excess industrial capacity",
@@ -2965,32 +2989,5 @@
     ],
     "reason": "호주 최대 금광업체의 인수 제안 거부 소식은 해당 기업의 주가에는 긍정적이나, 글로벌 금 가격이나 광범위한 거시 경제 지표에는 제한적인 영향을 미칩니다. 다만, 금 채굴 섹터 내 M&A 활동의 잠재력을 시사할 수 있습니다.",
     "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "세계경제포럼, AI 지속가능성 논의…“컴퓨트·에너지·인재 투자 필요” - 인공지능신문",
-    "title_ko": "세계경제포럼, AI 지속가능성 논의…“컴퓨트·에너지·인재 투자 필요”",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Ma09BUXFqOUxzaDl4RlhMb1gxUElFZnVnMWNEZm81dkVjaUQzVHNZcHpaOWdLSUZqeGVPdUJnZXphejBvY1RVdnozbkpCTXJpdDVaSFEwSG9aZkdLc09Ib3FMb0lZZjQ?oc=5",
-    "published": "Sun, 27 Sep 2026 22:22:59 GMT",
-    "fetched_at": "2026-09-28 10:19:17",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "반도체",
-      "클라우드 컴퓨팅",
-      "에너지",
-      "AI 소프트웨어/서비스"
-    ],
-    "keywords": [
-      "AI",
-      "지속가능성",
-      "컴퓨트",
-      "에너지",
-      "인재",
-      "세계경제포럼"
-    ],
-    "reason": "세계경제포럼에서 AI의 지속 가능한 발전을 위한 핵심 요소로 컴퓨팅 자원, 에너지, 인재에 대한 투자를 강조하며 관련 산업의 장기적인 성장 동력을 확인시켜 주지만, 동시에 잠재적 병목 현상을 시사합니다.",
-    "action_point": "AI 컴퓨트 및 에너지 인프라 관련 섹터(반도체, 클라우드, 전력) 내 선도 기업에 대한 비중 확대를 고려하라."
   }
 ]
