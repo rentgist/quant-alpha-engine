@@ -1,5 +1,57 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "'Handful' of G20 countries reject U.S. stance on excess industrial capacity",
+    "title_ko": "G20 국가 중 '소수'만이 미국의 과잉 산업 생산능력 입장을 거부하다",
+    "link": "https://www.cnbc.com/2026/10/03/handful-of-g20-countries-reject-us-stance-on-industrial-capacity-.html",
+    "published": "Sat, 03 Oct 2026 08:53:44 GMT",
+    "fetched_at": "2026-10-03 21:52:56",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "수출주",
+      "산업재",
+      "원자재",
+      "IT"
+    ],
+    "keywords": [
+      "G20",
+      "무역 갈등",
+      "관세",
+      "과잉 생산능력",
+      "보호무역"
+    ],
+    "reason": "미국의 과잉 산업 생산능력 관련 관세 부과 이후 G20 대다수 국가들의 거부 입장이 나타나고 있어, 글로벌 무역 갈등이 지속되거나 심화될 가능성이 높습니다. 이는 세계 경제 및 기업 실적에 부정적 요인으로 작용할 것입니다.",
+    "action_point": "수출 의존도가 높은 섹터의 비중 축소를 고려하고, 무역 분쟁 장기화에 대비한 포트폴리오 방어 전략을 강화할 것."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "FlyDubai plane attack by co-pilot was an attempted 'terrorist' act, UAE says",
+    "title_ko": "FlyDubai 부기장의 비행기 공격은 '테러' 시도였다고 UAE가 발표",
+    "link": "https://www.cnbc.com/2026/10/03/flydubai-co-pilot-attacked-pilot-with-axe-uae-says.html",
+    "published": "Sat, 03 Oct 2026 12:34:59 GMT",
+    "fetched_at": "2026-10-03 21:52:36",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "항공",
+      "여행",
+      "보험",
+      "방위산업/보안"
+    ],
+    "keywords": [
+      "FlyDubai",
+      "항공 테러",
+      "항공 보안",
+      "UAE",
+      "항공 산업"
+    ],
+    "reason": "이 사건은 항공 안전에 대한 우려를 증폭시키고, 항공사들의 보안 비용 증가와 단기적인 항공권 수요 감소를 야기할 수 있습니다. 특히 중동 지역 항공사에 대한 투자 심리에 부정적인 영향을 미칠 수 있습니다.",
+    "action_point": "항공 및 여행 관련 주식의 단기적 변동성 확대에 대비하여 해당 섹터 비중 축소를 검토하거나 관망 자세 유지."
+  },
+  {
     "source": "Maeil_Business",
     "market": "KR",
     "title": "트럼프, 이란 군사작전 재개 임박했나…안보수뇌부 극비 회동",
@@ -2940,57 +2992,5 @@
     ],
     "reason": "세계경제포럼에서 AI의 지속 가능한 발전을 위한 핵심 요소로 컴퓨팅 자원, 에너지, 인재에 대한 투자를 강조하며 관련 산업의 장기적인 성장 동력을 확인시켜 주지만, 동시에 잠재적 병목 현상을 시사합니다.",
     "action_point": "AI 컴퓨트 및 에너지 인프라 관련 섹터(반도체, 클라우드, 전력) 내 선도 기업에 대한 비중 확대를 고려하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "\"잊고 있던 자동결제 잡아낸다\"…'구독 경제' 위협하는 AI - v.daum.net",
-    "title_ko": "잊고 있던 자동결제 잡아낸다\"…'구독 경제' 위협하는 AI",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE51UGRreGF3NXg3bDRqU0R4U2NUbllQQV9QbVR1TWVFcWNlNUszSkFZREpSdnl4Wi1LQUdHbFd6SXJuNmx4MUJTZDY0Yjdvdlk?oc=5",
-    "published": "Mon, 28 Sep 2026 00:21:50 GMT",
-    "fetched_at": "2026-09-28 10:19:24",
-    "sentiment": "악재",
-    "importance": 2,
-    "sectors": [
-      "IT 서비스",
-      "콘텐츠",
-      "플랫폼",
-      "소프트웨어"
-    ],
-    "keywords": [
-      "AI",
-      "구독 경제",
-      "자동결제",
-      "소비자 행동"
-    ],
-    "reason": "AI 기술의 발전으로 소비자들이 잊고 있던 자동결제를 쉽게 파악하고 해지할 수 있게 되면서, 구독 경제 모델을 가진 기업들의 매출과 수익성에 부정적인 영향을 미칠 수 있습니다. 특히 만성적인 소액 결제에 의존하는 플랫폼 및 콘텐츠 기업에 잠재적 위협이 될 수 있습니다.",
-    "action_point": "구독 서비스 매출 비중이 높은 기업의 포트폴리오 비중을 재검토하고, AI 기반 비용 관리 서비스의 확산 속도를 주시하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "OECD “AI 투자 열풍에 세계 경제 선방…중동발 충격에 내년 둔화 우려” - v.daum.net",
-    "title_ko": "OECD “AI 투자 열풍에 세계 경제 선방…중동발 충격에 내년 둔화 우려”",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1JR0Z5MlIzcnliWjlPNzdOd3ZOZTBjRDQzd2dzVk5ndG1ReTA3NURDWldlZGNZZkxiTEdHdEt4aklraW1LbjE3OUtaUjdnems?oc=5",
-    "published": "Sun, 27 Sep 2026 21:02:09 GMT",
-    "fetched_at": "2026-09-28 07:44:02",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "기술 (AI)",
-      "에너지",
-      "수출주",
-      "경기민감주"
-    ],
-    "keywords": [
-      "OECD",
-      "AI 투자",
-      "세계 경제",
-      "중동 리스크",
-      "경제 둔화",
-      "경기 전망"
-    ],
-    "reason": "AI 투자가 현재 글로벌 경제를 지지하고 있으나, 중동발 지정학적 리스크가 내년 경제 둔화를 초래할 수 있다는 OECD의 경고로 인해 장기적 전망은 불확실성이 증가했다.",
-    "action_point": "내년 경기 둔화 우려와 중동발 지정학적 리스크에 대비하여 방어적 자산 비중을 확대하고 에너지 및 원자재 시장 변동성에 대한 헤지 전략을 모색하라."
   }
 ]
