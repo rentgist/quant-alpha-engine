@@ -1,5 +1,74 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Ukraine will hit Russian refineries in response to Moscow's 'new doctrine' of airstrikes, Zelenskyy says",
+    "title_ko": "우크라이나, 러시아의 '새로운 공습 교리'에 대응해 러시아 정유시설 공격할 것이라고 젤렌스키 대통령 밝혀",
+    "link": "https://www.cnbc.com/2026/10/03/ukraine-to-hit-refineries-in-response-to-russian-airstrikes-zelenskyy.html",
+    "published": "Sat, 03 Oct 2026 22:44:55 GMT",
+    "fetched_at": "2026-10-04 11:15:56",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "에너지",
+      "방산",
+      "항공",
+      "화학"
+    ],
+    "keywords": [
+      "우크라이나",
+      "러시아",
+      "정유시설",
+      "공격",
+      "지정학적 리스크",
+      "유가"
+    ],
+    "reason": "우크라이나가 러시아 정유시설 공격을 예고함에 따라 러-우 전쟁의 지정학적 리스크가 고조되고 국제 유가 상승 압력이 더욱 커질 것으로 예상됩니다. 이는 글로벌 인플레이션 우려를 자극하고 에너지 관련 시장의 변동성을 확대시킬 것입니다.",
+    "action_point": "러시아 정유시설 공격 가능성으로 인한 국제 유가 추가 상승 압력에 대비하여 에너지 관련 자산 비중 확대를 검토하십시오."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Goldman Sachs says buy these stocks now, ahead of their earnings",
+    "title_ko": "골드만삭스, 실적 발표 앞두고 지금 이 주식들 매수하라 조언",
+    "link": "https://www.cnbc.com/2026/10/03/stocks-to-buy-now-ahead-of-their-earnings-according-to-goldman-sachs.html",
+    "published": "Sat, 03 Oct 2026 13:21:59 GMT",
+    "fetched_at": "2026-10-04 11:15:48",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "개별 종목",
+      "실적 기대 섹터"
+    ],
+    "keywords": [
+      "골드만삭스",
+      "실적 발표",
+      "주식 매수",
+      "우량주"
+    ],
+    "reason": "골드만삭스의 실적 발표 전 매수 추천은 특정 기업들의 실적 호조에 대한 자신감을 반영하며, 이는 전반적인 주식 시장 심리를 개선하고 우량주에 대한 선택적 자금 유입을 유도할 수 있습니다.",
+    "action_point": "골드만삭스가 추천하는 구체적인 주식 목록을 확인하고, 실적 기대가 높은 우량주에 대한 비중 확대를 검토하라."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Stocks making the biggest moves midday: Accenture, Synopsys, United Therapeutics, Vicor and more",
+    "title_ko": "정오 기준 가장 큰 움직임을 보인 주식들: 액센츄어, 시놉시스, 유나이티드 테라퓨틱스, 비코어 등",
+    "link": "https://www.cnbc.com/2026/10/01/stocks-making-the-biggest-moves-midday-acn-snps-uthr-vicr-.html",
+    "published": "Thu, 01 Oct 2026 18:50:03 GMT",
+    "fetched_at": "2026-10-04 11:15:38",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [],
+    "keywords": [
+      "개별 주식",
+      "주가 변동",
+      "미국 증시"
+    ],
+    "reason": "이 뉴스는 특정 기업들의 개별적인 주가 변동을 나열할 뿐, 전반적인 시장 심리나 거시 경제 동향을 반영하는 정보가 아닙니다. 광범위한 투자 자산이나 특정 섹터 전반에 미치는 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "GoogleNews_Korea",
     "market": "KR",
     "title": "'외화내빈' 한국 경제...실질임금·소비 동반 감소 - YTN",
@@ -2914,81 +2983,5 @@
     ],
     "reason": "글로벌 기관 투자자들이 4년간의 중국 주식 비중 축소 기조를 중단하고 중립으로 전환하는 것은 중국 자산, 특히 AI 관련 기술주에 대한 매크로 환경 변화 및 투자 심리 개선을 시사합니다.",
     "action_point": "중국 본토 및 홍콩 시장의 AI 관련 성장주 투자 비중 확대 또는 신규 편입을 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "SpaceX prepares to send Starship rocket to orbit for first time",
-    "title_ko": "스페이스X, 스타십 로켓 최초 궤도 발사 준비",
-    "link": "https://www.cnbc.com/2026/09/28/spacex-prepares-to-send-starship-rocket-to-orbit-for-first-time.html",
-    "published": "Mon, 28 Sep 2026 04:12:20 GMT",
-    "fetched_at": "2026-09-28 16:59:10",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "우주항공",
-      "기술"
-    ],
-    "keywords": [
-      "SpaceX",
-      "Starship",
-      "우주",
-      "로켓",
-      "기술혁신"
-    ],
-    "reason": "스페이스X의 스타십 로켓 첫 궤도 발사는 우주항공 기술 발전의 중요한 이정표이며, 성공 시 장기적으로 상업 우주여행 및 위성 산업 성장을 가속화할 수 있습니다. 단기적인 거시 경제 영향은 제한적입니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "[단독] 7000억대 ‘정부 유니콘 펀드’…실제 기업투자는 10.5% 그쳐",
-    "title_ko": "[단독] 7000억대 ‘정부 유니콘 펀드’…실제 기업투자는 10.5% 그쳐",
-    "link": "https://www.mk.co.kr/news/politics/12162828",
-    "published": "Mon, 28 Sep 2026 16:55:36 +09:00",
-    "fetched_at": "2026-09-28 16:59:56",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "벤처 캐피탈",
-      "스타트업",
-      "기술주"
-    ],
-    "keywords": [
-      "정부 펀드",
-      "유니콘 펀드",
-      "스타트업 투자",
-      "AI",
-      "딥테크",
-      "벤처 캐피탈"
-    ],
-    "reason": "정부 주도의 유니콘 펀드가 본래 목적과 달리 실제 기업 투자율이 저조하여 AI/딥테크 스타트업 생태계 성장 동력 약화 우려가 제기됩니다. 이는 국내 벤처 투자 시장의 자금 경색을 심화시킬 수 있습니다.",
-    "action_point": "국내 벤처/스타트업 투자 비중 중 AI/딥테크 섹터의 자금 조달 여건 악화를 고려하여 보수적 접근을 유지하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "한국투자증권, ‘데이터센터 PF·GPU 파이낸싱 금융구조 설명회’ 개최",
-    "title_ko": "한국투자증권, ‘데이터센터 PF·GPU 파이낸싱 금융구조 설명회’ 개최",
-    "link": "https://www.mk.co.kr/news/stock/12162825",
-    "published": "Mon, 28 Sep 2026 16:52:14 +09:00",
-    "fetched_at": "2026-09-28 17:00:03",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "증권",
-      "IT하드웨어",
-      "데이터센터",
-      "AI"
-    ],
-    "keywords": [
-      "데이터센터",
-      "GPU",
-      "AI 인프라",
-      "PF",
-      "한국투자증권"
-    ],
-    "reason": "국내 주요 증권사가 AI 인프라 확장에 필요한 데이터센터 및 GPU 파이낸싱 시장 선점을 위해 설명회를 개최하는 것으로, AI 관련 산업 성장에 대한 강한 시장의 기대와 자본 투입 확대를 시사한다.",
-    "action_point": "AI 인프라 및 데이터센터 관련 기업 투자 비중 확대를 검토하라."
   }
 ]
