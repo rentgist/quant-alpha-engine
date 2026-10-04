@@ -2,6 +2,202 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "In crude Ohio rally speech, Trump says he may not help if Democrats win",
+    "title_ko": "트럼프, 오하이오 유세에서 '민주당 승리 시 지원 않겠다' 발언",
+    "link": "https://www.cnbc.com/2026/10/04/in-ohio-rally-speech-trump-says-he-may-not-help-if-democrats-win.html",
+    "published": "Sun, 04 Oct 2026 07:37:13 GMT",
+    "fetched_at": "2026-10-04 17:59:50",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "기술 인프라",
+      "금융"
+    ],
+    "keywords": [
+      "트럼프",
+      "미국 선거",
+      "정치적 불확실성",
+      "당파적 대립",
+      "데이터 센터"
+    ],
+    "reason": "미국 선거를 앞두고 트럼프의 발언은 정치적 불확실성과 당파적 대립을 심화시키며, 향후 정책 협력에 대한 우려를 높여 시장의 정치적 위험 프리미엄을 상승시킬 수 있습니다.",
+    "action_point": "미국 정치 불확실성 확대에 대비, 포트폴리오 내 달러 및 방어적 자산 비중 유지."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Brazil votes in high-stakes election as U.S.-China rivalry and debt loom large",
+    "title_ko": "브라질, 미중 경쟁과 부채 그림자 속 초접전 대선 투표",
+    "link": "https://www.cnbc.com/2026/10/02/brazil-election-bolsonaro-lula-china-trump.html",
+    "published": "Fri, 02 Oct 2026 09:24:33 GMT",
+    "fetched_at": "2026-10-04 18:00:12",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "신흥국 주식",
+      "신흥국 채권",
+      "원자재",
+      "외환"
+    ],
+    "keywords": [
+      "브라질",
+      "대선",
+      "미중 경쟁",
+      "부채",
+      "신흥국"
+    ],
+    "reason": "브라질 대선 결과는 주요 신흥국의 경제 정책 방향을 좌우하며, 미중 경쟁 구도와 함께 글로벌 원자재 시장 및 신흥국 투자 심리에 불확실성을 가중시킬 수 있다.",
+    "action_point": "브라질 및 신흥국 자산 비중과 원자재 포트폴리오의 위험 노출도를 점검."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Ukraine’s surprise robot offensive exposes a vulnerability in Putin’s war machine",
+    "title_ko": "우크라이나의 예상치 못한 로봇 공세, 푸틴의 전쟁 기계 취약점 노출",
+    "link": "https://www.cnbc.com/2026/10/04/russia-ukraine-war-putin-zelenskyy-donbas-lyman.html",
+    "published": "Sun, 04 Oct 2026 05:00:01 GMT",
+    "fetched_at": "2026-10-04 17:59:23",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "방위산업",
+      "기술주 (로봇/AI)"
+    ],
+    "keywords": [
+      "우크라이나",
+      "러시아",
+      "로봇",
+      "전쟁",
+      "방위산업"
+    ],
+    "reason": "이 뉴스는 로봇 시스템을 활용한 현대전의 진화를 보여주며, 글로벌 방위산업 및 관련 기술 분야의 투자 수요를 자극할 수 있습니다. 전쟁의 결정적 전환점은 아니지만, 지정학적 위험의 지속과 국방 기술 혁신 가속화를 시사합니다.",
+    "action_point": "글로벌 방위산업 및 국방 기술 관련 ETF 또는 주식의 비중 확대를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Trump taps Director of National Intelligence Jay Clayton as AI czar: WSJ reports",
+    "title_ko": "트럼프, 국가정보국장 제이 클레이턴을 AI 총괄 책임자로 지명: WSJ 보도",
+    "link": "https://www.cnbc.com/2026/10/03/trump-jay-clayton-ai-czar.html",
+    "published": "Sat, 03 Oct 2026 23:37:23 GMT",
+    "fetched_at": "2026-10-04 17:59:34",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "기술 (AI)",
+      "반도체",
+      "소프트웨어",
+      "국방"
+    ],
+    "keywords": [
+      "트럼프",
+      "AI 정책",
+      "인공지능",
+      "기술 거버넌스",
+      "미국 대선"
+    ],
+    "reason": "트럼프 행정부의 AI 총괄 책임자 지명은 향후 AI 기술 개발 및 규제 정책의 방향성을 제시하며, 관련 산업에 대한 정부의 전략적 개입 가능성을 시사한다.",
+    "action_point": "미국 AI 정책 변화 및 정부 투자 방향성을 면밀히 주시하며 AI 관련 기술주 포트폴리오 비중 유지 또는 확대 기회를 모색."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Germany's Merz arrives in Kyiv to finalize drone deal, release aid",
+    "title_ko": "독일 메르츠, 드론 거래 및 지원금 확정을 위해 키이우 도착",
+    "link": "https://www.cnbc.com/2026/10/04/germanys-merz-arrives-in-kyiv-to-finalize-drone-deal-release-aid.html",
+    "published": "Sun, 04 Oct 2026 08:40:29 GMT",
+    "fetched_at": "2026-10-04 18:00:00",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "방산",
+      "에너지",
+      "건설"
+    ],
+    "keywords": [
+      "독일",
+      "우크라이나",
+      "군사 지원",
+      "드론",
+      "에너지 복구",
+      "지정학"
+    ],
+    "reason": "독일의 우크라이나 군사 및 에너지 복구 지원은 전쟁 지속 가능성을 시사하며, 관련 산업(방산, 에너지 재건)에는 긍정적이나 전반적인 지정학적 불확실성은 유지될 것입니다.",
+    "action_point": "지정학적 긴장 지속에 따른 방산 섹터 투자 비중 유지 및 우크라이나 재건 관련 기업 탐색."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[속보] 이억원 \"금융권 전체 침해사고 최고수준 경각심 필요\" - yonhapnewstv.co.kr",
+    "title_ko": "[속보] 이억원 \"금융권 전체 침해사고 최고수준 경각심 필요\"",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0TkdhZFp6U2xkR3FVQ1Y0cHRySUV0b1B6MkNEQXR1R2tSOWpLcXRLUlRhaXA3MVYyYWlMeVJOX3A5SE9JQ2FGV24wdlNUZVdSa3piU2YtNkVxeVdGbkp5aXdDdmx4RGM?oc=5",
+    "published": "Sun, 04 Oct 2026 05:19:00 GMT",
+    "fetched_at": "2026-10-04 18:00:26",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "금융",
+      "IT 보안"
+    ],
+    "keywords": [
+      "금융권",
+      "사이버 보안",
+      "침해사고",
+      "이억원"
+    ],
+    "reason": "이억원 금융위 부위원장의 발언은 국내 금융권 전반에 걸친 사이버 침해 리스크가 심화되고 있음을 시사하며, 이는 금융기관의 보안 투자 확대 및 잠재적 운영 비용 증가로 이어져 수익성 악화 요인이 될 수 있다.",
+    "action_point": "국내 금융주 포트폴리오의 사이버 보안 리스크 점검 및 비중 조절 검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[속보] 이억원 \"AI 활용 해킹 가능성‥최고 수준 경각심 가져야\" - MBC 뉴스",
+    "title_ko": "이억원 \"AI 활용 해킹 가능성‥최고 수준 경각심 가져야\"",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5FTmJiMWRrN1ZvMnAzQmluMWVlQlQ0NEFRVlpnelhXekpnVWc3cC1VUUw3U0ZGUUdRbDgxcjRVdzVsTlctdjlZZ1BEVmdQT3Q2eFBmaWZ4cE54Vk5CQ1BiaDNYOGZtVElVTGV1TGloWVNGM1dY0gF0QVVfeXFMTm9nU0liQzFZUmlLTEFlM0VSTVBtX3NEcmRvYVQ2LXkwOG9heEw5R29YbWZ0QS1vWE00enBaMmtuaDNnaFR3VlVUeHRsNkdVeWtYWTdzR1dMbDEyaTdUNlBTQjZnTzFvT3dRdTlBc3J0dGtKOWY?oc=5",
+    "published": "Sun, 04 Oct 2026 05:57:30 GMT",
+    "fetched_at": "2026-10-04 18:00:47",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "사이버 보안",
+      "IT",
+      "금융"
+    ],
+    "keywords": [
+      "AI",
+      "해킹",
+      "사이버 보안",
+      "디지털 위협"
+    ],
+    "reason": "AI를 활용한 사이버 공격 위협이 고조됨에 따라, 기업 및 정부 차원의 사이버 보안 강화 수요가 증가하고 관련 시장 성장이 기대된다. 이는 동시에 디지털 의존도가 높은 산업군의 잠재적 리스크로 작용할 수 있다.",
+    "action_point": "사이버 보안 관련주 비중 확대 검토"
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[속보]이억원 금융위원장 \"'AI 해킹' 최고 경각심…대처 소홀 또 털리면 엄정 문책\" - KBC광주방송",
+    "title_ko": "이억원 금융위원장 \"'AI 해킹' 최고 경각심…대처 소홀 또 털리면 엄정 문책\" - KBC광주방송",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JX1o0Sl9helVfMVZqMUxLOEVWRUVHQTFHbkZqc1ZxU1RaVy1YcHByVS1sNHA3SHNuVXowNHQtRTk4cUYyaDlzcHB4VXd3Uk53VlZ6b3M3ejVXWUVxY01rVA?oc=5",
+    "published": "Sun, 04 Oct 2026 06:06:24 GMT",
+    "fetched_at": "2026-10-04 18:01:03",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "금융",
+      "정보보안"
+    ],
+    "keywords": [
+      "AI 해킹",
+      "금융위원장",
+      "정보보안",
+      "규제"
+    ],
+    "reason": "금융권의 AI 해킹 대비 태세 강화 요구 및 소홀 시 엄정 문책 경고로, 금융기관의 사이버 보안 투자 확대와 규제 준수 부담 증가가 예상됩니다.",
+    "action_point": "금융 섹터의 사이버 보안 관련 투자 확대와 정보보안 기업의 수혜 가능성을 분석하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "Ukraine will hit Russian refineries in response to Moscow's 'new doctrine' of airstrikes, Zelenskyy says",
     "title_ko": "우크라이나, 러시아의 '새로운 공습 교리'에 대응해 러시아 정유시설 공격할 것이라고 젤렌스키 대통령 밝혀",
     "link": "https://www.cnbc.com/2026/10/03/ukraine-to-hit-refineries-in-response-to-russian-airstrikes-zelenskyy.html",
@@ -2786,202 +2982,5 @@
     ],
     "reason": "엔비디아가 AI 오작동 방지 소프트웨어를 출시하며 AI 안전 및 신뢰성을 강화하고 있다. 이는 AI 기술의 광범위한 상업적 및 산업적 채택을 가속화하며 관련 기업의 성장 모멘텀을 유지하는 긍정적인 요인이다.",
     "action_point": "인공지능 및 반도체 섹터의 장기 성장 전망 유지."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Treasury Secretary Scott Bessent hires Wall Street economist David Zervos",
-    "title_ko": "스콧 베센트 재무장관, 월스트리트 이코노미스트 데이비드 저보스 영입",
-    "link": "https://www.cnbc.com/2026/09/28/david-zervos-treasury-department-scott-bessent.html",
-    "published": "Mon, 28 Sep 2026 14:14:45 GMT",
-    "fetched_at": "2026-09-29 01:28:54",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "글로벌 매크로 정책"
-    ],
-    "keywords": [
-      "미국 재무부",
-      "인사",
-      "월스트리트",
-      "경제 정책",
-      "시장 소통"
-    ],
-    "reason": "월스트리트 전문가 영입은 재무부의 시장 이해도와 정책 소통 능력을 강화할 것으로 기대된다. 이는 향후 재무부의 거시경제 정책 수립 및 발표 방식에 미묘한 변화를 가져올 수 있다.",
-    "action_point": "향후 미국 재무부의 발표 및 시장 소통에 더욱 주목하여 정책 방향성을 해석하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "한국, 북미 공급망 핵심축 멕시코와 손잡고 경제협력 '가속' - 정책브리핑",
-    "title_ko": "한국, 북미 공급망 핵심축 멕시코와 손잡고 경제협력 '가속'",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObmwtRVEyZVVQWmxldFRQOFF3d2tfRkFzQ3ZyLUZqYi1DaUtHaVJ3V19FUkhDd29MU0Z1WVh4cUdQX3o3alp4cTBZZEwzWW40UDhmUVdXTjUxNERGM19zWEcwaHNEZUNZc2Uxbk5PcXotREFuOFdmdllXLVhPYlplb1IxajF0eHI3dHc?oc=5",
-    "published": "Mon, 28 Sep 2026 06:00:37 GMT",
-    "fetched_at": "2026-09-29 01:29:02",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "자동차",
-      "이차전지",
-      "부품소재",
-      "물류"
-    ],
-    "keywords": [
-      "한국",
-      "멕시코",
-      "북미 공급망",
-      "경제협력",
-      "IRA"
-    ],
-    "reason": "한국이 멕시코와의 경제협력을 가속화함으로써 북미 공급망 재편과 IRA(인플레이션 감축법)에 대응하여 국내 기업의 북미 시장 진출 및 생산 거점 확보 기회가 확대될 것이다. 특히 자동차, 이차전지 등 핵심 산업의 경쟁력 강화에 기여할 수 있다.",
-    "action_point": "멕시코에 생산기반을 둔 또는 멕시코 진출을 계획하는 국내 자동차, 이차전지 및 부품 기업에 대한 비중 확대를 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "이 대통령 ‘사법 리스크’가 가라앉지 않는 이유 - 한겨레",
-    "title_ko": "이 대통령 ‘사법 리스크’가 가라앉지 않는 이유",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBoU3pkMXBTMjhON3lNRzN0bmFxQjZyYkRvZnVuR1VUaDg0bEU3aVNkNkVqd1c3VzVReDFjcW4yZ28yczFxdzZrREJpZlFYZmhwYU9icUNKQU50SWY0bzl6emNvQk0wNlpicXlET25IMHloTHRj?oc=5",
-    "published": "Mon, 28 Sep 2026 10:16:00 GMT",
-    "fetched_at": "2026-09-29 01:29:18",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "국내 증시 전반"
-    ],
-    "keywords": [
-      "대통령",
-      "사법 리스크",
-      "정치 불확실성"
-    ],
-    "reason": "이 대통령의 사법 리스크가 지속되고 있다는 내용으로, 국내 정치 불확실성을 가중시켜 전반적인 투자심리에 부정적인 영향을 줄 수 있습니다.",
-    "action_point": "국내 정치 불확실성 지속에 따른 코스피 변동성 확대 및 원화 약세 가능성에 대비하여 국내 주식 비중 축소 검토."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Trump-Xi summit analysis: 'Tangible outcomes' needed for U.S.-China truce to hold",
-    "title_ko": "트럼프-시진핑 정상회담 분석: 미중 휴전 유지 위해 '실질적 성과' 필요",
-    "link": "https://www.cnbc.com/2026/09/28/trump-xi-summit-tangible-outcomes-us-china-truce.html",
-    "published": "Mon, 28 Sep 2026 07:22:06 GMT",
-    "fetched_at": "2026-09-28 16:58:39",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "글로벌 무역 관련주",
-      "기술주 (반도체 포함)",
-      "산업재"
-    ],
-    "keywords": [
-      "미중 관계",
-      "무역 분쟁",
-      "정상회담",
-      "지정학적 리스크"
-    ],
-    "reason": "미중 정상회담의 휴전은 잠정적이며, 실질적 성과 없이는 불확실성이 지속될 것임을 시사한다. 이는 글로벌 무역 및 공급망 관련 기업들의 불확실성을 가중시키고 시장의 변동성을 유지시키는 요인으로 작용한다.",
-    "action_point": "미중 무역 분쟁에 민감한 수출주 및 기술주에 대한 신중한 접근 또는 비중 조절을 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "UK police 'investigate Iran link' to alleged bomb threat against base hosting U.S. Air Force",
-    "title_ko": "영국 경찰, 미 공군 주둔 기지 폭탄 테러 위협에 '이란 연관성' 수사",
-    "link": "https://www.cnbc.com/2026/09/28/iran-war-trump-hormuz.html",
-    "published": "Mon, 28 Sep 2026 07:30:14 GMT",
-    "fetched_at": "2026-09-28 16:58:53",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "방산",
-      "에너지",
-      "항공",
-      "보험"
-    ],
-    "keywords": [
-      "영국",
-      "이란",
-      "미국",
-      "폭탄 위협",
-      "지정학적 리스크",
-      "중동"
-    ],
-    "reason": "영국 내 미군 기지에 대한 폭탄 위협에 이란 연루 가능성이 제기되면서 서방과 이란 간의 지정학적 긴장이 고조될 수 있다. 이는 국제 유가 변동성 확대 및 전반적인 시장 불확실성 증가로 이어질 수 있다.",
-    "action_point": "지정학적 리스크 확대에 대비하여 에너지 섹터 비중을 유지하고 달러 및 금 등 안전자산 보유를 고려하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Brent crude tops $107 as Trump rejects Iranian proposal to reopen Hormuz Strait",
-    "title_ko": "트럼프, 이란의 호르무즈 해협 재개방 제안 거부하며 브렌트유 107달러 돌파",
-    "link": "https://www.cnbc.com/2026/09/28/oil-price-today-wti-brent-trump-iran.html",
-    "published": "Mon, 28 Sep 2026 06:34:26 GMT",
-    "fetched_at": "2026-09-28 16:59:01",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "항공/운송",
-      "화학/정유",
-      "방위산업"
-    ],
-    "keywords": [
-      "유가",
-      "호르무즈 해협",
-      "이란",
-      "지정학적 리스크",
-      "트럼프"
-    ],
-    "reason": "이란의 호르무즈 해협 재개방 제안 거부는 미국-이란 간 지정학적 긴장을 심화시켜 유가 상승 압력을 가중시키고 글로벌 인플레이션 및 경기 둔화 우려를 키울 것입니다.",
-    "action_point": "고유가에 민감한 항공, 해운, 정유/화학 등 에너지 다소비 산업군에 대한 비중 축소를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "CNBC Daily Open: A tale of two truces",
-    "title_ko": "CNBC 데일리 오픈: 두 가지 휴전 이야기",
-    "link": "https://www.cnbc.com/2026/09/28/daily-open-iran-war-trump-xi-summit.html",
-    "published": "Mon, 28 Sep 2026 07:39:36 GMT",
-    "fetched_at": "2026-09-28 16:59:21",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "기술",
-      "반도체",
-      "수출주"
-    ],
-    "keywords": [
-      "미중 관계",
-      "지정학",
-      "기술 경쟁",
-      "무역 갈등"
-    ],
-    "reason": "미중 정상회담이 실질적인 돌파구 없이 개인적인 외교에 그쳐, 양국 간 핵심 현안에 대한 불확실성과 긴장 구도가 유지될 것임을 시사한다. 이는 글로벌 무역 및 기술 경쟁 구도에 변화 없이 현상 유지를 의미한다.",
-    "action_point": "미중 기술 갈등 지속 가능성에 대비하여 반도체 및 기술 관련 투자 비중과 노출 리스크를 점검."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "“중국 AI 심상치 않다는데, 이제 여기가 뛸 차례?”…中주식 다시 담는 글로벌 큰손",
-    "title_ko": "“중국 AI 심상치 않다는데, 이제 여기가 뛸 차례?”…中주식 다시 담는 글로벌 큰손",
-    "link": "https://www.mk.co.kr/news/stock/12162829",
-    "published": "Mon, 28 Sep 2026 16:55:58 +09:00",
-    "fetched_at": "2026-09-28 16:59:47",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "중국 주식",
-      "인공지능(AI)",
-      "기술주",
-      "신흥국"
-    ],
-    "keywords": [
-      "중국 투자",
-      "AI 주식",
-      "글로벌 자금",
-      "신흥국 시장",
-      "비중 확대"
-    ],
-    "reason": "글로벌 기관 투자자들이 4년간의 중국 주식 비중 축소 기조를 중단하고 중립으로 전환하는 것은 중국 자산, 특히 AI 관련 기술주에 대한 매크로 환경 변화 및 투자 심리 개선을 시사합니다.",
-    "action_point": "중국 본토 및 홍콩 시장의 AI 관련 성장주 투자 비중 확대 또는 신규 편입을 검토하라."
   }
 ]
