@@ -1,5 +1,107 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "이 대통령 \"예의 갖췄더니…전쟁 기도?\" 최후통첩 날렸다 - JTBC",
+    "title_ko": "이 대통령 \"예의 갖췄더니…전쟁 기도?\" 최후통첩 날렸다",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WZF9hejlYUGoxb3M5NXF2UWhVU3RKZDljS213cXhlbWlTV1RLNklmb05EWXhiWW44bmlqdmFrSEU2NXRPVlhITVp2ajVyeTBpS3RjZw?oc=5",
+    "published": "Fri, 02 Oct 2026 10:00:00 GMT",
+    "fetched_at": "2026-10-05 03:28:40",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "전반적 시장",
+      "금융",
+      "방산",
+      "내수"
+    ],
+    "keywords": [
+      "지정학적 리스크",
+      "남북 관계",
+      "안보",
+      "대통령 발언"
+    ],
+    "reason": "대통령의 강경한 '최후통첩' 발언은 남북한 간의 지정학적 긴장을 고조시키며 시장의 불확실성을 증대시킨다. 이는 국내 증시 전반에 하방 압력으로 작용하며 원화 가치에도 부정적 영향을 미칠 수 있다.",
+    "action_point": "국내 주식 비중을 축소하고 달러 등 안전자산으로의 포트폴리오 조정을 검토하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "트럼프가 쥐어짜면 쥐어짜지는 세계…G7, 비축원유 1억배럴 방출",
+    "title_ko": "트럼프가 쥐어짜면 쥐어짜지는 세계…G7, 비축원유 1억배럴 방출",
+    "link": "https://www.mk.co.kr/news/world/12168220",
+    "published": "Sun, 04 Oct 2026 21:56:46 +09:00",
+    "fetched_at": "2026-10-05 03:29:01",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "화학",
+      "항공",
+      "운송",
+      "소비재"
+    ],
+    "keywords": [
+      "G7",
+      "비축유 방출",
+      "유가 하락",
+      "인플레이션 완화",
+      "원유"
+    ],
+    "reason": "G7의 비축유 방출 결정은 국제 유가를 하락시켜 글로벌 인플레이션 압력을 완화하고 에너지 수입국의 경제적 부담을 경감시킬 것입니다. 이는 전반적인 생산 비용 감소와 소비 심리 개선에 긍정적인 영향을 미칠 수 있습니다.",
+    "action_point": "에너지 섹터 비중 축소 및 화학, 항공, 운송 등 유가 하락 수혜 섹터의 비중 확대를 고려하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "정부 162조 쌈짓돈 만들어줄 판…재경위 ‘국회 패싱 특례’ 반발",
+    "title_ko": "정부 162조 쌈짓돈 만들어줄 판…재경위 ‘국회 패싱 특례’ 반발",
+    "link": "https://www.mk.co.kr/news/economy/12168209",
+    "published": "Sun, 04 Oct 2026 20:06:26 +09:00",
+    "fetched_at": "2026-10-05 03:29:18",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "채권 시장",
+      "외환 시장",
+      "전반적인 시장"
+    ],
+    "keywords": [
+      "미래대응기금",
+      "재정 건전성",
+      "국회 통제",
+      "정부 지출",
+      "재정 정책 불확실성"
+    ],
+    "reason": "정부의 대규모 기금(162조 원) 운용에 대한 국회 통제 배제 논란은 재정 투명성 및 건전성 우려를 높여 시장에 불확실성을 가중시키고 투자 심리를 위축시킬 수 있습니다.",
+    "action_point": "정부 재정 건전성 및 투명성 관련 불확실성 증가에 대비하여 국내 장기 채권 비중 축소 및 달러 자산 보유 유지를 고려하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[리셋 코리아] 기술 경쟁력 넘어 국제 규칙 만드는 힘 키워야 - 중앙일보",
+    "title_ko": "[리셋 코리아] 기술 경쟁력 넘어 국제 규칙 만드는 힘 키워야",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpUFFGcEZIVy1kN2w4aUNGdWNJNGUxNVdhOWRLcndINU9ydTNJTEJ4THkzZk95Z3BlN0FJQjVJTkhEdTdkd28tWHhMU25BVzZTSVdzZ2NR?oc=5",
+    "published": "Sun, 04 Oct 2026 15:18:00 GMT",
+    "fetched_at": "2026-10-05 03:28:46",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "첨단 기술",
+      "수출 관련 산업",
+      "외교/안보"
+    ],
+    "keywords": [
+      "기술 경쟁력",
+      "국제 규칙",
+      "국가 전략",
+      "외교",
+      "통상"
+    ],
+    "reason": "이 기사는 한국의 장기적인 국가 전략 방향을 제시하며, 기술 경쟁력 강화를 넘어 국제 질서 형성에서의 주도적 역할을 강조합니다. 단기적인 시장 영향은 제한적이나, 향후 산업 정책 및 기업 환경에 영향을 미칠 수 있습니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "More tankers struck in the Middle East as Iran reiterates conditions for reopening the Strait of Hormuz",
@@ -2880,101 +2982,5 @@
     ],
     "reason": "마크 잔디의 발언은 미국 고금리가 실물 경제에 미치는 부정적 영향을 강조하며, 이는 연준의 향후 통화 정책 기조 변화(금리 인하)에 대한 시장의 기대를 높일 수 있다. 동시에 미국 경기 둔화 우려를 심화시켜 위험 자산 전반에 대한 투자 심리를 위축시킬 가능성이 있다.",
     "action_point": "미국 경기 둔화에 대비하여 방어적 섹터 및 장기 국채 비중 확대를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Luckin Coffee, flush with investor cash, weighs entry into Middle East markets",
-    "title_ko": "루이싱커피, 풍부한 투자자금 바탕으로 중동 시장 진출 검토",
-    "link": "https://www.cnbc.com/2026/09/29/luckin-coffee-mubadala-middle-east-temasek-centurium-capital.html",
-    "published": "Tue, 29 Sep 2026 01:10:41 GMT",
-    "fetched_at": "2026-09-29 11:25:09",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "식음료",
-      "소비재",
-      "프랜차이즈",
-      "사모펀드/투자"
-    ],
-    "keywords": [
-      "루이싱커피",
-      "중동 시장",
-      "동남아시아",
-      "국부펀드",
-      "소비 시장 확장"
-    ],
-    "reason": "루이싱커피의 중동 및 동남아 확장과 국부펀드 투자는 신흥국 소비 시장 성장 및 글로벌 식음료 섹터 경쟁 심화를 시사합니다. 이는 주요 투자 자금의 신흥국 소비재 분야 관심 증대를 보여줍니다.",
-    "action_point": "신흥국 소비재 및 프랜차이즈 섹터 내 성장 기회를 발굴하고 투자 비중 확대를 검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[속보] 이 대통령 \"DMZ 지뢰사고 철저히 조사‥음모론으로 안보 위태롭게 말아야\" - MBC 뉴스",
-    "title_ko": "[속보] 이 대통령 \"DMZ 지뢰사고 철저히 조사‥음모론으로 안보 위태롭게 말아야\"",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1GVmFBT1FWZm5LZXVKM0tNazJ5QjFvamxuUDFhQ25ORUk3Y0YxaXFWRDFLWEVXcXozY3FwN1FkUVJsTWd5V01pXy1BcVIxdGxOZGNNWHFYNURYWkxjdXpNYk9pUnlxT1hub0NlSmFyWHVxTzNUYmRnY9IBeEFVX3lxTE1ZQUlSVThlMTRFeml0ZU9HWXRIbXl4cy1PTHFUNWpnN1JtYTFHemQ0aWV2SFlkRFRGNmxqZ2NaU2t5bnoyY0I3b1RwZ0Q0SUFzMHhyZE4wQ1dTelVBQlZqclFNVWpmbGRxUlJIMm16ZmVsRFlkbGp6TA?oc=5",
-    "published": "Tue, 29 Sep 2026 01:51:38 GMT",
-    "fetched_at": "2026-09-29 11:25:34",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [],
-    "keywords": [
-      "DMZ",
-      "지뢰사고",
-      "안보",
-      "대통령"
-    ],
-    "reason": "DMZ 지뢰사고 관련 대통령의 입장 표명으로, 안보 상황의 불필요한 과열을 경계하고 철저한 조사를 지시하는 내용이다. 직접적인 남북 관계 악화나 경제적 충격 신호로 해석하기는 어려워 시장 전반에 미치는 영향은 제한적이다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Nearly half the stocks in the S&P 500 are at cross purposes with the rest of the market",
-    "title_ko": "S&P 500 종목 절반가량이 시장 전체 흐름과 엇갈린 움직임을 보임",
-    "link": "https://www.cnbc.com/2026/09/28/nearly-half-of-the-stocks-in-the-sp-500-are-working-against-it.html",
-    "published": "Mon, 28 Sep 2026 17:53:31 GMT",
-    "fetched_at": "2026-09-29 07:21:24",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "광범위한 시장",
-      "기술주",
-      "가치주"
-    ],
-    "keywords": [
-      "S&P 500",
-      "베타",
-      "시장 불균형",
-      "종목 분산",
-      "시장 내부 역학"
-    ],
-    "reason": "S&P 500 종목의 절반 가까이가 음의 베타를 보이는 것은 소수 대형주가 지수 상승을 견인하는 반면, 다수 종목은 하락하거나 방어적으로 움직이는 시장 불균형 심화를 나타냅니다. 이는 시장 전반의 참여 부족과 잠재적 불안정성을 시사합니다.",
-    "action_point": "S&P 500의 종목별 불균형 심화에 따라 시장 지수 비중을 축소하고 개별 종목 및 섹터별 차별화 전략을 강화하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "AMD acquiring Fei-Fei Li's World Labs AI firm in deal worth $8.2 billion",
-    "title_ko": "AMD, 페이페이 리의 월드 랩스 AI 기업을 82억 달러에 인수",
-    "link": "https://www.cnbc.com/2026/09/28/amd-fei-fei-li-world-labs.html",
-    "published": "Mon, 28 Sep 2026 22:21:22 GMT",
-    "fetched_at": "2026-09-29 07:21:37",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "반도체",
-      "인공지능",
-      "기술주"
-    ],
-    "keywords": [
-      "AMD",
-      "AI",
-      "인수합병",
-      "반도체",
-      "World Labs"
-    ],
-    "reason": "AMD의 대규모 AI 기업 인수는 인공지능 분야의 투자 확대와 기술 경쟁 심화를 보여줍니다. 이는 반도체 산업의 지속적인 성장을 견인할 것으로 예상됩니다.",
-    "action_point": "인공지능 및 반도체 섹터의 성장성을 고려하여 관련 자산 비중 유지 또는 확대 검토"
   }
 ]
