@@ -2,6 +2,396 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "Spain's PM Sanchez calls snap election after housing crisis protests",
+    "title_ko": "스페인 산체스 총리, 주택 위기 시위 후 조기 총선 소집",
+    "link": "https://www.cnbc.com/2026/10/05/spain-sanchez-snap-election-housing-protests.html",
+    "published": "Mon, 05 Oct 2026 07:44:56 GMT",
+    "fetched_at": "2026-10-05 16:56:47",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "부동산",
+      "금융",
+      "유럽 경제"
+    ],
+    "keywords": [
+      "스페인",
+      "조기 총선",
+      "주택 위기",
+      "정치 불안",
+      "유로존"
+    ],
+    "reason": "스페인의 조기 총선은 주택 위기 심화와 맞물려 국내 정치 및 경제 정책의 불확실성을 증폭시키며, 유로존 전체의 투자 심리에도 부정적 영향을 미칠 수 있습니다. 특히 스페인의 부동산 및 금융 시장에 직접적인 하방 압력으로 작용할 가능성이 있습니다.",
+    "action_point": "스페인 관련 자산, 특히 부동산 및 금융 섹터에 대한 포트폴리오 비중을 신중히 검토하고 유로존 전반의 정치적 변동성 확대에 대비하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "The 2029 tipping point: Western populations are about to start shrinking, piling pressure on public finances",
+    "title_ko": "2029년 변곡점: 서구권 인구 감소 시작, 공공 재정에 압력 가중",
+    "link": "https://www.cnbc.com/2026/10/05/aging-population-moodys-public-finances.html",
+    "published": "Mon, 05 Oct 2026 05:00:01 GMT",
+    "fetched_at": "2026-10-05 16:57:06",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "헬스케어",
+      "로봇/자동화",
+      "연금/보험"
+    ],
+    "keywords": [
+      "인구 감소",
+      "고령화",
+      "재정 압박",
+      "저성장"
+    ],
+    "reason": "서구권 인구 감소는 장기적으로 노동력 부족과 소비 위축을 야기하여 경제 성장 둔화 및 공공 재정 압박을 심화시킬 것입니다. 이는 글로벌 저성장 기조를 고착화하는 요인으로 작용합니다.",
+    "action_point": "장기적 관점에서 인구 고령화 및 재정 압박에 강한 헬스케어, 로봇/자동화 등 특정 섹터 비중 확대를 검토하십시오."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "CNBC Daily Open: America sneezes, Europe starts to catch the cold",
+    "title_ko": "CNBC 데일리 오픈: 미국 재채기에 유럽도 감기 몸살 우려",
+    "link": "https://www.cnbc.com/2026/10/05/daily-open-euro-spain-election-france-budget.html",
+    "published": "Mon, 05 Oct 2026 06:14:16 GMT",
+    "fetched_at": "2026-10-05 16:57:17",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "글로벌 증시",
+      "경기민감주",
+      "금융"
+    ],
+    "keywords": [
+      "미국 고용",
+      "경기 둔화",
+      "유럽 경제",
+      "정치적 불확실성",
+      "시장 불안"
+    ],
+    "reason": "미국 고용 지표 둔화는 경기 침체 우려를 증폭시키고 글로벌 경제에 하방 압력을 가하며, 주요국의 정치적 불확실성 증대로 시장 전반의 위험 회피 심리가 강화될 것입니다.",
+    "action_point": "글로벌 경기 둔화 우려에 따라 주식 등 위험 자산 비중을 축소하고 안전 자산(달러, 금 등) 비중 확대를 검토."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Surging Treasury yields don’t signal a U.S. 'fiscal apocalypse' — yet",
+    "title_ko": "미 국채 금리 급등, 아직 '재정적 파국'의 신호는 아니다",
+    "link": "https://www.cnbc.com/2026/10/05/treasury-yields-fiscal-concerns-not-crisis-yet.html",
+    "published": "Mon, 05 Oct 2026 02:24:07 GMT",
+    "fetched_at": "2026-10-05 16:57:26",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "성장주",
+      "부동산",
+      "신흥국 시장",
+      "정부 채권"
+    ],
+    "keywords": [
+      "미국 국채",
+      "금리 급등",
+      "재정 적자",
+      "부채 위기",
+      "차입 비용"
+    ],
+    "reason": "미국 국채 금리 5% 돌파 및 추가 상승 가능성은 전 세계 자산의 할인율을 높여 성장주와 부동산 등 금리 민감 자산에 부정적인 영향을 미치며, 글로벌 유동성 축소 우려를 확대시킨다.",
+    "action_point": "장기 금리 민감 성장주 및 레버리지 높은 자산 비중 축소 검토"
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "이란 \"역사상 가장 어려운 시기\"…경제위기 악화 이례적 시인 - 연합뉴스",
+    "title_ko": "이란 \"역사상 가장 어려운 시기\"…경제위기 악화 이례적 시인",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54aC0zZVZWUTRvSFFoc3c4TXhQS1ZLZjdaWHU3b1RRakxBT2E3M19XcF9vQXNWWkZvejhuNXhIZDlHcjBiSVFhZ1dmb1M2b1VWblJENXlUQ0FJWEHSAWBBVV95cUxOUVVOZ1hVZEUwUF9TRW43Q3h1TzdLM3piZEJRNUltZ0F1Ql8xYU9uLTYxOVd1SWJ2clQ0aHRpajZJZXFKbEdZZGlTZXNGR1JZeXRtOWNDNnoxbkRTLUw4d28?oc=5",
+    "published": "Mon, 05 Oct 2026 03:57:18 GMT",
+    "fetched_at": "2026-10-05 16:57:41",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "방산",
+      "운송"
+    ],
+    "keywords": [
+      "이란",
+      "경제위기",
+      "중동",
+      "지정학적 리스크",
+      "유가"
+    ],
+    "reason": "이란의 이례적인 경제 위기 시인은 내부 불안정 심화 및 대외 정책의 불확실성을 증폭시켜, 주요 산유국으로서 글로벌 유가 변동성 확대와 중동 지정학적 리스크를 가중시킬 수 있다.",
+    "action_point": "중동 지정학적 리스크 대비 에너지 관련 자산 비중 조정 또는 헤지 전략 검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "이란, 경제위기 악화 이례적 시인 - 연합뉴스TV",
+    "title_ko": "이란, 경제위기 악화 이례적 시인 - 연합뉴스TV",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9CZENfVGtDRWtPQXVqRllRelBPRDlwN0YtbmM0ZWNxZWZZTjFFazhuQXFVQ0ZDMjNmZmlRY1JabTJ6dTNKNVd4MG01dEhOUWI5NDBYUno1amNOVk5la19mTkoyeGxvOEU?oc=5",
+    "published": "Mon, 05 Oct 2026 06:55:00 GMT",
+    "fetched_at": "2026-10-05 16:57:48",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "원자재",
+      "에너지",
+      "방산",
+      "해운"
+    ],
+    "keywords": [
+      "이란",
+      "경제위기",
+      "지정학",
+      "원유",
+      "중동"
+    ],
+    "reason": "이란의 경제위기 악화는 내부 불안정성을 높여 중동 지역의 지정학적 긴장을 고조시킬 수 있으며, 이는 글로벌 원유 공급망과 유가 변동성에 직접적인 영향을 미칠 수 있습니다.",
+    "action_point": "중동 지정학적 리스크 심화 가능성에 대비하여 원유 관련 자산 변동성 주시 및 방산 관련 포트폴리오 비중 검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[속보] 합참 \"北 매설 지뢰지대로 최종 판단, 사과와 제거 촉구\" - 조선일보",
+    "title_ko": "[속보] 합참 \"北 매설 지뢰지대로 최종 판단, 사과와 제거 촉구\"",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeXBxajJoc0xySTAySHBZc3dpVEc2NVRJTmMxUjF1NHdZalcxWFBleFBFVTIxV1FDalgtOTZTSXplM3lHdzlRcENIelJENkhrYi1kOGo0YmJrOE1lSnN3QzNVQ0FudVJ4LThERVFEU21MdEVIWkx1Qm01Q1Z1eE4xMndXZW95SnM5UnhQWkpsckdpUQ?oc=5",
+    "published": "Mon, 05 Oct 2026 07:41:15 GMT",
+    "fetched_at": "2026-10-05 16:58:18",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "방산",
+      "관광/레저"
+    ],
+    "keywords": [
+      "북한",
+      "지뢰",
+      "남북관계",
+      "지정학적 리스크"
+    ],
+    "reason": "북한의 지뢰 매설은 남북 군사적 긴장을 고조시켜 한반도 지정학적 리스크를 심화시키고, 한국 증시 및 원화 등 국내 자산에 대한 투자심리를 위축시킬 수 있습니다.",
+    "action_point": "한반도 지정학적 리스크 심화에 대비, 방산주 동향을 주시하고 달러 자산 비중 유지를 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "AMRO, 올해 韓경제성장률 3.3% 전망…반년만에 1.4%P 높여 - v.daum.net",
+    "title_ko": "AMRO, 올해 韓경제성장률 3.3% 전망…반년만에 1.4%P 높여",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5mOVZKTUhNY2hyTm80bUtxNlEwWlZSYVJzR1I1aGlUQUVfZHZQMld1bVQ4SUJtakVCQzRqUXhXWGxRRGtPTlF2M2tPYzM5bTQ?oc=5",
+    "published": "Mon, 05 Oct 2026 06:57:43 GMT",
+    "fetched_at": "2026-10-05 16:58:27",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "경기민감주",
+      "금융",
+      "내수 관련주"
+    ],
+    "keywords": [
+      "AMRO",
+      "한국 경제성장률",
+      "전망 상향",
+      "경제 회복"
+    ],
+    "reason": "AMRO의 한국 경제성장률 대폭 상향 조정은 국내외 기관의 긍정적인 평가가 확산되고 있음을 시사하며, 이는 기업 실적 개선과 투자 심리 회복에 긍정적인 영향을 미칠 수 있습니다.",
+    "action_point": "경기 회복 기대감 반영하여 국내 주식 비중 확대 및 경기민감 섹터 투자 비중 확대 검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "이란, 이례적으로 경제 위기 시인…\"역사상 가장 어려운 시기\" - 신아일보",
+    "title_ko": "이란, 이례적으로 경제 위기 시인…\"역사상 가장 어려운 시기\"",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBqQ05hcDJnRWRJSUlRUmRSVXBkbVBGSzhoX3F1ZkoxZGhHWi1LdkdQZTByVlo3RFVNLU5uTVBDdDl5a2dpek9OUzJKZXZ4dGQ2NXFvYUdsSWVTaUtHRTVRSE5YYl9odjYwRkNSN0VNOUM?oc=5",
+    "published": "Mon, 05 Oct 2026 05:56:31 GMT",
+    "fetched_at": "2026-10-05 16:58:42",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "방산",
+      "원자재"
+    ],
+    "keywords": [
+      "이란",
+      "경제 위기",
+      "지정학적 리스크",
+      "유가",
+      "중동"
+    ],
+    "reason": "이란의 심각한 경제 위기 시인은 중동 지역의 지정학적 불안정성을 높여 글로벌 유가 상승 압력과 전반적인 시장의 위험 회피 심리를 강화할 수 있습니다.",
+    "action_point": "중동발 지정학적 리스크 심화에 따른 유가 상승 가능성에 대비하여 에너지 섹터 비중 확대를 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[속보] 군 \"북한, 진심 어린 사과해야‥정전협정 위반 지뢰 제거 촉구\" - MBC 뉴스",
+    "title_ko": "[속보] 군 \"북한, 진심 어린 사과해야‥정전협정 위반 지뢰 제거 촉구\" - MBC 뉴스",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB4dXpKM3RUV1ViT1ZxVkJrUW81emNYblJTa1NWM0pyTFdUeVpuMU5kUi1pbmxjV2dsZHJzSUdlVjlGNTl4QXpjTG1EQngzLXBLd0VJd1BaWXYzRDFNdE5IT0xLbGNRUFZ4YlNpcWRHU2staWQta2lENNIBeEFVX3lxTFBzX3NXOWNLQklKR19hbzRnTUdCVmxrU1RkbDFfWG10TlFIakQ4RWpiaDJTNVJGQ2xxdTFqdndBaWVRRjBCQ1I1aWJPVWRfaVVBN0JZQXZTbVdUT201a1ZpR2lMVTVUc0NGMkxiUmM3aEgyMnVER0JEbg?oc=5",
+    "published": "Mon, 05 Oct 2026 07:08:15 GMT",
+    "fetched_at": "2026-10-05 16:57:54",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "국내 주식 시장",
+      "방산"
+    ],
+    "keywords": [
+      "북한",
+      "정전협정",
+      "지뢰",
+      "남북 관계",
+      "지정학"
+    ],
+    "reason": "북한의 정전협정 위반 및 이에 대한 군의 사과 촉구는 남북 간 긴장 완화에 대한 기대감을 낮추고 지정학적 리스크가 상존함을 다시 한번 확인시켜, 국내 증시의 변동성 확대 요인으로 작용할 수 있습니다.",
+    "action_point": "국내 증시의 지정학적 리스크 노출 비중을 재평가하고 방어적 자산 편입을 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[속보] 군 \"북 MDL 이남 지뢰로 우리장병 부상 최종 판단...북한군 지뢰 오늘 제거\" - JTBC",
+    "title_ko": "군 \"북 MDL 이남 지뢰로 우리장병 부상 최종 판단...북한군 지뢰 오늘 제거\"",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5TS0did1labExHSDBBbUNJS3pZUWdGczlud2lyeVFrTmdjZ2FOQ2xHVlFVdC1XYjdqdl9WTDhFZDBQY0VFU1luRXNIRWw2NEQ5WTkwUQ?oc=5",
+    "published": "Mon, 05 Oct 2026 07:07:00 GMT",
+    "fetched_at": "2026-10-05 16:58:07",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "방산",
+      "전반적인 시장"
+    ],
+    "keywords": [
+      "북한",
+      "MDL",
+      "지뢰",
+      "남북관계",
+      "지정학적 리스크"
+    ],
+    "reason": "북한군 지뢰로 인한 국군 장병 부상은 남북 간의 군사적 긴장을 미세하게 높이는 악재로 작용합니다. 이는 지정학적 리스크를 부각하며 투자심리에 단기적인 영향을 줄 수 있으나, 지뢰 제거 조치로 추가적인 확전 가능성은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "[포토] 소상공인 금융지원 나선 금융권",
+    "title_ko": "[포토] 소상공인 금융지원 나선 금융권",
+    "link": "https://www.mk.co.kr/news/economy/12168519",
+    "published": "Mon, 05 Oct 2026 16:57:44 +09:00",
+    "fetched_at": "2026-10-05 16:59:09",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "금융",
+      "소비재",
+      "서비스"
+    ],
+    "keywords": [
+      "소상공인",
+      "금융지원",
+      "내수",
+      "고용",
+      "금리"
+    ],
+    "reason": "금융권의 소상공인 지원은 국내 내수 경기 하방 압력을 완화하고 고용 안정에 기여할 수 있으나, 전반적인 경제 성장 동력에는 제한적인 영향을 미치며, 금융권의 잠재적 리스크도 고려해야 함.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "\"15조 목표\"… 지역활성화펀드 투자실적 1800억뿐",
+    "title_ko": "\"15조 목표\"… 지역활성화펀드 투자실적 1800억뿐",
+    "link": "https://www.mk.co.kr/news/economy/12168517",
+    "published": "Mon, 05 Oct 2026 16:57:43 +09:00",
+    "fetched_at": "2026-10-05 16:59:23",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "건설",
+      "부동산",
+      "금융"
+    ],
+    "keywords": [
+      "지역활성화펀드",
+      "지방개발",
+      "정부정책",
+      "건설경기"
+    ],
+    "reason": "정부의 지방 개발 핵심 펀드 집행 부진은 지역 경기 활성화 및 건설 수요 진작 효과 미미로 이어져, 국내 내수 및 건설/부동산 섹터에 부정적 심리를 가중시킬 수 있습니다.",
+    "action_point": "국내 건설 및 지방 부동산 관련 투자 비중 축소 검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "스마트홈 클라우드 연동 규격 HCA 국제표준화 추진 - 전자신문",
+    "title_ko": "스마트홈 클라우드 연동 규격 HCA 국제표준화 추진 - 전자신문",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBoVHFkZXl2WHEycHNXWXl2T1BCRklyWTFhQnBxa3ZpZG45aVpnQ3VPaUtUQVNpalRxQmlNclo2TEItcERQWDhBZlNaSGRrUQ?oc=5",
+    "published": "Mon, 05 Oct 2026 07:00:00 GMT",
+    "fetched_at": "2026-10-05 16:58:48",
+    "sentiment": "호재",
+    "importance": 2,
+    "sectors": [
+      "가전",
+      "사물인터넷",
+      "클라우드"
+    ],
+    "keywords": [
+      "스마트홈",
+      "HCA",
+      "국제표준",
+      "사물인터넷"
+    ],
+    "reason": "스마트홈 클라우드 연동 규격의 국제표준화는 기기 간 호환성을 높여 스마트홈 시장 성장을 가속화하고, 관련 가전 및 IoT 기업들의 기술 개발 및 시장 확대를 촉진할 것입니다. 이는 해당 섹터 기업들의 매출 증대로 이어질 수 있습니다.",
+    "action_point": "스마트홈 및 IoT 관련 기술 선도 기업들의 투자 매력도 재평가."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "한방 세트진료 10년새 25배 쑥 … 車보험 활용해 과잉 진료 논란",
+    "title_ko": "한방 세트진료 10년새 25배 쑥 … 車보험 활용해 과잉 진료 논란",
+    "link": "https://www.mk.co.kr/news/economy/12168518",
+    "published": "Mon, 05 Oct 2026 16:57:43 +09:00",
+    "fetched_at": "2026-10-05 16:59:17",
+    "sentiment": "악재",
+    "importance": 2,
+    "sectors": [
+      "보험",
+      "의료/헬스케어"
+    ],
+    "keywords": [
+      "한방진료",
+      "자동차보험",
+      "과잉진료",
+      "보험료"
+    ],
+    "reason": "자동차보험을 활용한 한방 과잉 진료 논란은 손해보험사의 손해율 악화와 수익성 저하로 이어질 수 있으며, 이는 향후 보험료 인상 압력이나 규제 강화로 이어질 가능성이 있습니다.",
+    "action_point": "손해보험 섹터 비중 축소 검토."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "산업은행 해외점포 대대적 재편 나선다",
+    "title_ko": "산업은행 해외점포 대대적 재편 나선다",
+    "link": "https://www.mk.co.kr/news/economy/12168515",
+    "published": "Mon, 05 Oct 2026 16:57:42 +09:00",
+    "fetched_at": "2026-10-05 16:59:30",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "금융"
+    ],
+    "keywords": [
+      "산업은행",
+      "해외점포",
+      "재편",
+      "공공기관 효율화",
+      "금융기관"
+    ],
+    "reason": "산업은행 해외점포 재편은 정부의 공공기관 효율화 기조에 따른 내부 경영 전략으로, 단기적으로 거시경제 지표나 특정 투자 자산에 직접적인 영향을 미치지 않습니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "Trump tells South Korea to sign on to Alaska LNG deal or 'I'll just charge them more'",
     "title_ko": "트럼프, 한국에 알래스카 LNG 계약 체결 압박하며 '안 하면 더 비싸게 받을 것'",
     "link": "https://www.cnbc.com/2026/10/05/trump-alaska-lng-south-korea-pay.html",
@@ -2587,398 +2977,5 @@
     ],
     "reason": "북한의 러시아 추가 파병은 우크라이나 전쟁 장기화 및 지정학적 긴장을 심화시켜 글로벌 불확실성을 증대시킨다. 이는 위험 회피 심리를 자극하며 금융 시장에 전반적인 압력을 가할 수 있다.",
     "action_point": "지정학적 위험 고조에 대비하여 위험자산 비중을 축소하고 방산 및 원자재 섹터에 대한 관심 확대."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Trump’s municipal bond portfolio reaches as much as $1 billion as policy overlaps mount",
-    "title_ko": "트럼프의 지방채 포트폴리오가 10억 달러에 달하며 정책 중첩 우려 증폭",
-    "link": "https://www.cnbc.com/2026/09/29/trump-municipal-bond-portfolio.html",
-    "published": "Tue, 29 Sep 2026 14:37:07 GMT",
-    "fetched_at": "2026-09-30 01:15:29",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "지방채 시장",
-      "공공 인프라",
-      "금융 서비스"
-    ],
-    "keywords": [
-      "트럼프",
-      "지방채",
-      "이해충돌",
-      "정책 리스크",
-      "미국 정치"
-    ],
-    "reason": "트럼프의 방대한 지방채 보유는 정책과의 이해충돌 가능성을 제기하며, 이는 향후 미국 정치의 불확실성을 높이고 관련 금융 시장에 대한 신뢰 저하로 이어질 수 있습니다.",
-    "action_point": "미국 대선 국면에서 예상되는 정책 불확실성 증가에 대비하여 미국 지방채 및 공공 인프라 관련 자산의 리스크 노출도를 검토하십시오."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Jamie Dimon has a plan to revive the West: A 'big, beautiful' deal with Europe",
-    "title_ko": "제이미 다이먼, 서방 부활을 위한 계획: 유럽과의 '크고 아름다운' 협상 제안",
-    "link": "https://www.cnbc.com/2026/09/29/jamie-dimon-europe-trade.html",
-    "published": "Tue, 29 Sep 2026 12:39:14 GMT",
-    "fetched_at": "2026-09-30 01:15:50",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "금융",
-      "수출입 관련주"
-    ],
-    "keywords": [
-      "제이미 다이먼",
-      "미국-유럽 협력",
-      "경제 통합",
-      "지정학적 안정"
-    ],
-    "reason": "제이미 다이먼의 미-유럽 협력 강화 제안은 서방 동맹의 결속과 경제 통합 심화를 통해 장기적인 지정학적 안정 및 글로벌 무역 활성화를 목표로 합니다. 이는 잠재적으로 세계 경제의 성장 동력을 확보하는 데 긍정적인 영향을 미칠 수 있습니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Polymarket taps Goldman Sachs veteran Lisa Mantil to attract Wall Street liquidity",
-    "title_ko": "Polymarket, 월스트리트 유동성 유치를 위해 골드만삭스 베테랑 리사 맨틸 영입",
-    "link": "https://www.cnbc.com/2026/09/29/polymarket-lisa-mantil-institutional-growth.html",
-    "published": "Tue, 29 Sep 2026 12:00:33 GMT",
-    "fetched_at": "2026-09-30 01:15:08",
-    "sentiment": "호재",
-    "importance": 2,
-    "sectors": [
-      "핀테크",
-      "블록체인",
-      "예측 시장",
-      "대체 투자"
-    ],
-    "keywords": [
-      "Polymarket",
-      "골드만삭스",
-      "리사 맨틸",
-      "예측 시장",
-      "월스트리트",
-      "기관 유동성",
-      "핀테크"
-    ],
-    "reason": "골드만삭스 베테랑의 Polymarket 합류는 예측 시장 및 핀테크/블록체인 분야에 대한 월스트리트의 관심 증가를 시사하며, 기관 유동성 유입 및 시장 합법성 강화에 긍정적입니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Treasury yields ease as inflation concerns persist",
-    "title_ko": "인플레이션 우려 지속되는 가운데 미국 국채 금리 하락",
-    "link": "https://www.cnbc.com/2026/09/29/treasury-yields-bonds.html",
-    "published": "Tue, 29 Sep 2026 08:17:15 GMT",
-    "fetched_at": "2026-09-29 18:18:22",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "채권 시장",
-      "기술주",
-      "성장주",
-      "금융주"
-    ],
-    "keywords": [
-      "국채 금리",
-      "인플레이션",
-      "통화 정책",
-      "금리"
-    ],
-    "reason": "인플레이션 우려가 지속됨에도 국채 금리가 하락하는 것은 경기 둔화 또는 안전자산 선호 심리가 반영된 것으로, 연준의 긴축 기조 유지 가능성을 높여 시장에 부담을 줄 수 있습니다.",
-    "action_point": "지속되는 인플레이션 우려와 경기 둔화 위험에 대비하여 방어적 섹터 비중 확대 및 현금성 자산 보유를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "U.S., Iran hold separate mediator talks as Mideast oil exports hit war-time high",
-    "title_ko": "미국과 이란, 중재자들과 개별 회담 진행; 중동 원유 수출은 전시 수준으로 급증",
-    "link": "https://www.cnbc.com/2026/09/29/us-iran-war-trump-hormuz-.html",
-    "published": "Tue, 29 Sep 2026 04:02:47 GMT",
-    "fetched_at": "2026-09-29 18:18:02",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "방산"
-    ],
-    "keywords": [
-      "중동",
-      "원유",
-      "지정학",
-      "휴전"
-    ],
-    "reason": "미국과 이란의 중재 회담은 중동 정세 완화 기대감을 높여 지정학적 리스크를 완화할 수 있으나, 여전히 높은 원유 수출량은 공급 측면의 불확실성을 시사하며 유가 변동성을 높일 수 있습니다.",
-    "action_point": "중동 정세 완화 기대감에 따른 유가 변동성 확대에 대비하여 에너지 관련 자산의 비중을 점검하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Putin orders army expansion as Zelenskyy warns Russia preparing to deploy 10,000 North Korean troops",
-    "title_ko": "푸틴, 군 병력 확대 명령… 젤렌스키, 러시아의 북한군 1만 명 배치 준비 경고",
-    "link": "https://www.cnbc.com/2026/09/29/putin-russia-army-ukraine-zelenskyy-north-korea.html",
-    "published": "Tue, 29 Sep 2026 08:44:42 GMT",
-    "fetched_at": "2026-09-29 18:18:11",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "국방",
-      "에너지",
-      "금융",
-      "원자재"
-    ],
-    "keywords": [
-      "러시아-우크라이나 전쟁",
-      "푸틴",
-      "북한",
-      "군 병력 증강",
-      "지정학적 리스크"
-    ],
-    "reason": "러시아의 군 병력 증강 및 북한군 투입 가능성은 러시아-우크라이나 전쟁의 장기화와 지정학적 긴장 고조를 의미한다. 이는 글로벌 투자 심리를 위축시키고 에너지 가격 상승 압력을 가할 수 있다.",
-    "action_point": "지정학적 긴장 고조에 대비하여 달러 및 방산, 에너지 섹터 자산 비중을 유지 및 확대하는 방안을 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Australia says more hikes not off the table after raising rates to 15-year high",
-    "title_ko": "호주, 금리 15년 만에 최고치로 인상 후 추가 인상 가능성 배제 안 해",
-    "link": "https://www.cnbc.com/2026/09/29/australia-rates-inflation-monetary-policy.html",
-    "published": "Tue, 29 Sep 2026 05:00:58 GMT",
-    "fetched_at": "2026-09-29 18:18:34",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "부동산",
-      "성장주",
-      "금융"
-    ],
-    "keywords": [
-      "호주",
-      "금리 인상",
-      "통화 긴축",
-      "인플레이션",
-      "RBA"
-    ],
-    "reason": "호주 중앙은행의 추가 금리 인상 시사로 글로벌 통화 긴축 기조가 장기화될 수 있다는 우려가 커지며, 이는 전 세계적인 자산 가치 재평가 압력을 가중시킬 것입니다. 특히 고금리 환경에 취약한 자산군에 부정적 영향을 미칠 수 있습니다.",
-    "action_point": "글로벌 금리 상승 기조 장기화에 대비하여 부채 비중이 높거나 현금 흐름에 민감한 자산의 비중을 축소하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "CNBC Daily Open: AI’s creators sound the alarm — while others keep building the infrastructure",
-    "title_ko": "CNBC 데일리 오픈: AI 창시자들은 경고음을 울리지만, 다른 기업들은 인프라 구축을 지속한다",
-    "link": "https://www.cnbc.com/2026/09/29/daily-open-ai-nvidia-anthropic-openai-samsung.html",
-    "published": "Tue, 29 Sep 2026 07:27:18 GMT",
-    "fetched_at": "2026-09-29 18:18:55",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "반도체",
-      "클라우드 컴퓨팅",
-      "소프트웨어"
-    ],
-    "keywords": [
-      "AI",
-      "인프라",
-      "반도체",
-      "경고",
-      "기술주"
-    ],
-    "reason": "AI 개발사들이 모델의 한계에 대해 언급하며 투자 심리가 단순한 기대감에서 현실적인 인프라 구축 및 실제 효용성으로 전환되고 있음을 시사한다. 이는 AI 인프라 관련 투자의 지속성을 보여주면서도 AI 모델 자체의 과도한 기대를 경계하는 신호다.",
-    "action_point": "AI 인프라 관련 핵심 섹터에 대한 투자 비중은 유지하되, AI 소프트웨어 기업 투자 시에는 사업 모델과 수익성을 면밀히 재평가하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[속보] 강신철 \"매설지뢰…北국경선 요새화 관련 추정\" - 연합뉴스TV",
-    "title_ko": "[속보] 강신철 \"매설지뢰…北국경선 요새화 관련 추정\" - 연합뉴스TV",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51R0l2dGFaS3JteElaUXNGMlowdDE5VDVtaF9hTFducUJWZ2EwbElXdWNMaThydUJGRHIwX01PTTM4OE1vYUNQVjJPMHk5WXRqX2hia202T3pUNnpfWTZORmoxU0VJRFU?oc=5",
-    "published": "Tue, 29 Sep 2026 07:39:00 GMT",
-    "fetched_at": "2026-09-29 18:19:10",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "지정학",
-      "방산",
-      "외환"
-    ],
-    "keywords": [
-      "북한",
-      "국경",
-      "지뢰",
-      "지정학적 위험",
-      "한반도 정세"
-    ],
-    "reason": "북한의 국경선 요새화 및 지뢰 매설 추정은 한반도 내 지정학적 긴장을 고조시키는 요인입니다. 이는 국내 증시의 위험 프리미엄을 상승시켜 외국인 투자자금 유출 및 원화 약세 압력으로 작용할 수 있습니다.",
-    "action_point": "한반도 지정학적 위험 고조에 대비하여 달러 등 안전자산 비중 확대를 검토하고, 방산 섹터에 대한 관심을 유지하십시오."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[속보] 강신철 “북한, 명백한 정전협정 위반”…사고 현장서 수지 반보병지뢰 1발 추가 발견 - 경향신문",
-    "title_ko": "[속보] 강신철 “북한, 명백한 정전협정 위반”…사고 현장서 수지 반보병지뢰 1발 추가 발견 - 경향신문",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51bkFtR0VXTUc1YWZOaHFjNVVBaUFMZExKR2JPUlV0UF9HZFRpc3dHa3d2WTJ5d0JvcE1uRlBQQ0taV2tyaVRmMi10TlZoNWFxZWpSeTRHazlNUdIBX0FVX3lxTE02dWd5UTVCV1JLR1NFTlY0SWZTRjBzTHpycHBzcmU1X2RBcVZxX2NzZHJENXNFSFpod3BUZzhYNEhpQTY1MVg5dWZXNUZwVml4RS1xSzByeXRmT3Q5VVhr?oc=5",
-    "published": "Tue, 29 Sep 2026 06:39:00 GMT",
-    "fetched_at": "2026-09-29 18:20:08",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "방산",
-      "국내증시전반"
-    ],
-    "keywords": [
-      "북한",
-      "정전협정 위반",
-      "지뢰",
-      "지정학적 리스크"
-    ],
-    "reason": "북한의 정전협정 위반 및 지뢰 발견은 한반도 지정학적 리스크를 고조시켜 한국 증시 전반의 외국인 투자심리 위축을 야기하고, 원/달러 환율에 상승 압력을 가할 수 있습니다.",
-    "action_point": "지정학적 리스크 확대에 대비하여 방산 섹터 투자 비중 확대 또는 달러 자산 일부 편입을 검토하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "[속보] 국민연금 국내주식 수익률…7월 폭락장에 47%P 반납했다",
-    "title_ko": "[속보] 국민연금 국내주식 수익률…7월 폭락장에 47%P 반납했다",
-    "link": "https://www.mk.co.kr/news/stock/12164080",
-    "published": "Tue, 29 Sep 2026 18:08:48 +09:00",
-    "fetched_at": "2026-09-29 18:21:37",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "전반적인 국내 주식 시장"
-    ],
-    "keywords": [
-      "국민연금",
-      "국내주식",
-      "수익률",
-      "시장 변동성"
-    ],
-    "reason": "국민연금의 국내주식 대규모 손실은 국내 주식 시장의 높은 변동성을 재확인하며, 향후 국민연금의 투자 전략 및 국내 주식 비중 조절에 대한 시장의 우려를 높일 수 있습니다.",
-    "action_point": "국민연금의 국내 주식 시장 투자 기조 변화 가능성에 대비하여 국내 주식 비중 축소 검토"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Mistral CEO says U.S. AI safety debate masks competitors’ 'negligence'",
-    "title_ko": "미스트랄 CEO, 美 AI 안전성 논쟁이 경쟁사 '과실'을 가린다고 비판",
-    "link": "https://www.cnbc.com/2026/09/29/mistral-ai-safety-openai-anthropic.html",
-    "published": "Tue, 29 Sep 2026 08:20:04 GMT",
-    "fetched_at": "2026-09-29 18:17:43",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "인공지능",
-      "기술",
-      "반도체"
-    ],
-    "keywords": [
-      "미스트랄",
-      "AI 안전성",
-      "인공지능",
-      "규제",
-      "경쟁"
-    ],
-    "reason": "AI 안전성 및 윤리 문제에 대한 업계의 감시와 규제 리스크가 부각되며, AI 개발 및 상용화 과정에서 비용 증가나 속도 조절이 필요할 수 있음을 시사한다. 이는 AI 관련 기업들의 투자 심리에 영향을 미칠 수 있다.",
-    "action_point": "AI 관련 기업 투자 시 규제 준수 및 안전성 확보 역량을 면밀히 평가하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Anthropic warns investors of AI’s 'existential risk to humanity' in IPO prospectus, reports say",
-    "title_ko": "앤트로픽, IPO 투자설명서에서 AI의 '인류에 대한 실존적 위험' 경고 보도",
-    "link": "https://www.cnbc.com/2026/09/29/anthropic-warns-ai-existential-risks-ipo-filing-reuters.html",
-    "published": "Tue, 29 Sep 2026 08:43:59 GMT",
-    "fetched_at": "2026-09-29 18:17:54",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "인공지능",
-      "기술",
-      "소프트웨어"
-    ],
-    "keywords": [
-      "Anthropic",
-      "AI",
-      "실존적 위험",
-      "IPO",
-      "규제 리스크"
-    ],
-    "reason": "앤트로픽이 IPO 서류에서 AI의 실존적 위험을 사업 계획보다 더 상세히 언급한 것은 AI 산업의 장기적 규제 리스크 및 윤리적 문제 부각 가능성을 시사합니다. 이는 향후 AI 기업들의 사업 환경에 영향을 미칠 수 있습니다.",
-    "action_point": "AI 섹터 내 신규 투자 시 잠재적 규제 및 윤리적 리스크를 선제적으로 관리하는 기업을 우선 고려하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Forget relying on long-dated Treasurys for protection, strategist says. 4 alternatives he likes",
-    "title_ko": "장기 국채에 의존한 방어 전략은 잊어라, 전략가가 제시하는 4가지 대안",
-    "link": "https://www.cnbc.com/2026/09/29/portfolio-diversification-treasurys-bonds.html",
-    "published": "Tue, 29 Sep 2026 06:34:02 GMT",
-    "fetched_at": "2026-09-29 18:18:44",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "자산운용",
-      "금융 서비스",
-      "대체 투자"
-    ],
-    "keywords": [
-      "장기 국채",
-      "포트폴리오 방어",
-      "60/40 전략",
-      "대체 투자",
-      "인플레이션 헤지"
-    ],
-    "reason": "전통적인 60/40 포트폴리오에서 장기 국채가 제공하던 방어적 역할에 대한 의문이 제기되며, 투자자들은 새로운 포트폴리오 다각화 및 위험 헤지 전략을 모색해야 할 필요성이 커졌다. 이는 채권 시장의 변동성 증가와 인플레이션 압력 등 거시경제 변화에 대응하는 전략적 변화를 시사한다.",
-    "action_point": "전통적인 채권 중심의 방어 전략에서 벗어나 새로운 대체 투자 및 인플레이션 헤지 자산 발굴에 집중."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "’통제 벗어난 AI’ 리스크…미증시 하락 속 보안주만 웃었다 By 인포스탁데일리 - Investing.com 한국어",
-    "title_ko": "’통제 벗어난 AI’ 리스크…미증시 하락 속 보안주만 웃었다 By 인포스탁데일리 - Investing.com 한국어",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5qUndNQWhVeDVkRklVdjFIUUtmdEE2YkdTdXE0b2ZRcW1QcEkzd2RjdDY5ajRZRm9HU1BZUzZhcmVqVjA5bkVhUGZxT2lESFFjdmMtckVsQXNkWDlocV91a2xDdEM1Rk9fOTYwV3JpOFo?oc=5",
-    "published": "Tue, 29 Sep 2026 07:32:00 GMT",
-    "fetched_at": "2026-09-29 18:19:56",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "사이버 보안",
-      "인공지능(AI)",
-      "기술주"
-    ],
-    "keywords": [
-      "AI 리스크",
-      "사이버 보안",
-      "미증시",
-      "기술주"
-    ],
-    "reason": "AI 통제 불능 리스크 부각으로 기술주 전반에 대한 우려가 커지며 미 증시 하락에 일조했으나, 역설적으로 AI 시대의 필수적인 방어 산업인 사이버 보안 섹터는 강세를 보였다. 이는 기술 발전의 양면성과 새로운 투자 기회를 제시한다.",
-    "action_point": "사이버 보안 섹터 비중 확대를 검토하고, AI 관련주 투자 시 잠재적 리스크 요인을 면밀히 분석하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[속보] 비무장지대 지뢰폭발 현장서 북한 반보병지뢰 1발 추가 발견 - MBC 뉴스",
-    "title_ko": "[속보] 비무장지대 지뢰폭발 현장서 북한 반보병지뢰 1발 추가 발견 - MBC 뉴스",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1fMDV5QS1BaGJSVS1lekUyd2xuQWZyMGJTaXBkdHpBbm4yUk9HQ1NacW5TLVZPb205cDlHaERNaHVmQktMX3VRT3kwNllwYWYyekpPZjNWRkZfYkl2ZnJielVKSmZrU3hlNk5KUkJvQ0JheUpmaVpZcdIBeEFVX3lxTE9pejJLWWE3R3Z2WnQtUkwyR3RnWWhfTmxJOVlkYVVPVEdBcUpMN2xfbk41eGJRa1JPR2toRWZsZnNZNVV5dy1WV1NGNjVfRUZUbmVOVUNBNlFIdC03Z3hHa1dvYzh3enRFU211M0dXYl9CS0dLMExQaw?oc=5",
-    "published": "Tue, 29 Sep 2026 06:26:48 GMT",
-    "fetched_at": "2026-09-29 18:20:56",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "방산",
-      "관광"
-    ],
-    "keywords": [
-      "DMZ",
-      "지뢰",
-      "북한",
-      "지정학적 리스크",
-      "남북관계"
-    ],
-    "reason": "비무장지대 내 지뢰 추가 발견은 남북 간 군사적 긴장감을 높이는 요인으로 작용하며, 한국 시장의 지정학적 리스크 프리미엄에 영향을 줄 수 있습니다.",
-    "action_point": "국내 자산의 지정학적 리스크 프리미엄 재평가 및 방산 섹터 단기 비중 확대 검토."
   }
 ]
