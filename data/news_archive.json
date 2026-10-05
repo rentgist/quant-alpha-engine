@@ -1,5 +1,54 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[속보]美기술주 강세에 나스닥 최고치 경신…연휴 보낸 코스피는? - 문화일보",
+    "title_ko": "[속보]美기술주 강세에 나스닥 최고치 경신…연휴 보낸 코스피는?",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9qSVFMUmxla20yMzZldXVMNm5EVjRVSEpvYnBYRnFFQ3B2RUtSTHVpYk05UldtZXFiajJPLXJrN0k3TWlDR2tJaC00c3FDNGpM?oc=5",
+    "published": "Mon, 05 Oct 2026 21:40:14 GMT",
+    "fetched_at": "2026-10-06 08:02:10",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "기술주",
+      "반도체",
+      "성장주"
+    ],
+    "keywords": [
+      "미국 기술주",
+      "나스닥 최고치",
+      "코스피",
+      "증시 강세"
+    ],
+    "reason": "미국 기술주의 강세와 나스닥 최고치 경신은 글로벌 위험선호 심리를 강화하며, 한국 증시 특히 기술주 및 성장주에 긍정적인 투자 심리 회복을 유도할 것입니다. 국내 증시는 연휴 이후 미국 시장의 훈풍을 반영하며 상승 출발할 가능성이 높습니다.",
+    "action_point": "국내 기술주 및 성장주 비중 확대를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "SpaceX stock climbs to highest since June, returning Musk to trillionaire status",
+    "title_ko": "스페이스X 주가 6월 이후 최고치, 머스크 다시 '조만장자' 지위 회복",
+    "link": "https://www.cnbc.com/2026/10/05/spacex-stock-climbs-highest-since-june-returning-musk-to-trillionaire.html",
+    "published": "Mon, 05 Oct 2026 20:10:13 GMT",
+    "fetched_at": "2026-10-06 08:01:58",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "우주 항공",
+      "인공지능",
+      "기술"
+    ],
+    "keywords": [
+      "SpaceX",
+      "Elon Musk",
+      "AI",
+      "Starship",
+      "우주 산업"
+    ],
+    "reason": "스페이스X의 AI 사업과 스타십 진전이 회사 가치를 끌어올리며 혁신 기술 분야의 성장 모멘텀을 보여줍니다. 이는 비상장 기업 투자 심리 및 관련 상장 섹터에 긍정적인 영향을 줄 수 있습니다.",
+    "action_point": "우주 항공 및 인공지능 관련 상장 기업 및 ETF 투자 기회 탐색을 권고합니다."
+  },
+  {
     "source": "Maeil_Business",
     "market": "KR",
     "title": "원유 나르는 데 한 번에 500억씩 썼는데…이란, 호르무즈 선박 공격 재개",
@@ -2929,56 +2978,5 @@
     ],
     "reason": "한국 노동 시장의 파견법 규제로 인해 고숙련 은퇴 인력의 재활용이 비효율적으로 이루어지고 있음을 시사한다. 이는 장기적으로 인적 자본 활용 저하와 잠재 성장률 둔화로 이어질 수 있는 구조적 문제점을 드러낸다.",
     "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Hedge funds hold a record share of the $30 trillion Treasury market. What could go wrong?",
-    "title_ko": "헤지펀드, 30조 달러 규모 국채 시장 역대급 비중 차지. 무엇이 문제될 수 있나?",
-    "link": "https://www.cnbc.com/2026/09/30/us-treasury-market-is-relying-more-on-hedge-funds.html",
-    "published": "Wed, 30 Sep 2026 00:19:09 GMT",
-    "fetched_at": "2026-09-30 09:54:21",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "글로벌 금융시장",
-      "채권"
-    ],
-    "keywords": [
-      "헤지펀드",
-      "미국 국채",
-      "금융 불안정성",
-      "시스템 리스크"
-    ],
-    "reason": "헤지펀드의 미국 국채 시장 내 역대급 비중은 단기적 유동성 개선과 함께 잠재적인 금융 시스템 불안정성 위험을 내포하고 있습니다. 이는 향후 금리 변동성 확대 및 시장 충격 시 시스템 리스크로 전이될 가능성을 시사합니다.",
-    "action_point": "포트폴리오 내 채권 비중 및 금리 민감 자산의 리스크 노출도를 재점검하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "트럼프 “이란 전쟁 곧 끝나...김정은은 괜찮을 것\" - YTN",
-    "title_ko": "트럼프 “이란 전쟁 곧 끝나...김정은은 괜찮을 것\"",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGcEk1QXB2VmlreG9rTnVzM1VvdGhkbGhZOXF6eGVRNXJBdWZlWHlyQndQT29WX2xGblFBWHAtcTQ3b3R1NXdVcXpvMlU3TEtRSEROdFpCbnhtbmNEYkE?oc=5",
-    "published": "Tue, 29 Sep 2026 21:04:00 GMT",
-    "fetched_at": "2026-09-30 09:54:29",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "국방",
-      "에너지",
-      "항공",
-      "운송",
-      "관광",
-      "전반적 증시"
-    ],
-    "keywords": [
-      "트럼프",
-      "이란",
-      "북한",
-      "지정학적 리스크",
-      "평화"
-    ],
-    "reason": "전 미국 대통령의 발언은 이란 및 북한 관련 지정학적 긴장 완화 가능성을 시사하며, 이는 글로벌 불확실성을 낮추고 투자심리 개선에 긍정적으로 작용할 수 있습니다. 특히 유가 안정에 영향을 미칠 수 있습니다.",
-    "action_point": "방산주 비중 축소 검토 및 시장 위험선호도 개선에 대비."
   }
 ]
