@@ -2,6 +2,83 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "Trump tells South Korea to sign on to Alaska LNG deal or 'I'll just charge them more'",
+    "title_ko": "트럼프, 한국에 알래스카 LNG 계약 체결 압박하며 '안 하면 더 비싸게 받을 것'",
+    "link": "https://www.cnbc.com/2026/10/05/trump-alaska-lng-south-korea-pay.html",
+    "published": "Mon, 05 Oct 2026 00:47:47 GMT",
+    "fetched_at": "2026-10-05 10:25:06",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "유틸리티",
+      "건설",
+      "조선",
+      "화학"
+    ],
+    "keywords": [
+      "트럼프",
+      "알래스카 LNG",
+      "한국 에너지 정책",
+      "무역 압박",
+      "에너지 안보"
+    ],
+    "reason": "트럼프의 압박은 한국의 에너지 수입 비용 증가 및 미국과의 통상 마찰 가능성을 높이며, 이는 한국 기업의 비용 부담과 거시 경제 불확실성을 가중시킬 수 있다.",
+    "action_point": "국내 에너지 수입 의존도가 높은 산업 섹터 비중 조정을 고려."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "They survived World War II and lost decades, but not 2026. Japan's century-old businesses are disappearing at a record pace",
+    "title_ko": "2차 세계대전과 잃어버린 10년을 견뎠지만, 2026년은 아니었다. 일본의 100년 기업들이 기록적인 속도로 사라지고 있다",
+    "link": "https://www.cnbc.com/2026/10/05/japan-old-business-kadoya-subeshoten-.html",
+    "published": "Mon, 05 Oct 2026 01:08:10 GMT",
+    "fetched_at": "2026-10-05 10:25:14",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "일본 내수 서비스업",
+      "일본 전통 제조업"
+    ],
+    "keywords": [
+      "일본 경제",
+      "고령화",
+      "내수 침체",
+      "인력난"
+    ],
+    "reason": "일본의 고령화, 인력난, 내수 침체 등 구조적 문제가 심화되고 있음을 보여주며, 이는 장기적으로 일본 경제 성장률 둔화와 기업 투자 위축으로 이어질 수 있습니다.",
+    "action_point": "일본 내수 및 전통 산업 관련 직접 투자 비중 축소를 검토하십시오."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Yemeni government launches offensive to seize all areas from Iran-backed Houthis",
+    "title_ko": "예멘 정부, 이란 지원 후티 반군으로부터 모든 지역 탈환을 위한 공세 개시",
+    "link": "https://www.cnbc.com/2026/10/04/yemen-launches-offensive-to-seize-all-areas-from-iran-backed-houthis.html",
+    "published": "Sun, 04 Oct 2026 22:47:20 GMT",
+    "fetched_at": "2026-10-05 10:25:22",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "해운",
+      "방산"
+    ],
+    "keywords": [
+      "예멘",
+      "후티",
+      "이란",
+      "중동",
+      "지정학",
+      "원유",
+      "해운"
+    ],
+    "reason": "예멘 정부의 대규모 군사 공세는 중동 지역의 지정학적 불안정을 심화시키며, 홍해 및 바벨만뎁 해협 인근의 원유 운송 경로와 해상 물류에 잠재적 위험을 가중시킬 수 있다. 이는 국제 유가 상승 압력과 해운 운임 변동성 확대로 이어질 가능성이 있다.",
+    "action_point": "국제 유가 상승 압력 증가에 대비하여 에너지 관련 자산 비중 확대를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "Results trickle in as Brazil awaits results of high-stakes presidential election",
     "title_ko": "브라질 대선 결과 속속 발표, 고위험 선거 결과 대기",
     "link": "https://www.cnbc.com/2026/10/04/brazil-presidential-election-lula-bolsonaro.html",
@@ -2903,79 +2980,5 @@
     ],
     "reason": "비무장지대 내 지뢰 추가 발견은 남북 간 군사적 긴장감을 높이는 요인으로 작용하며, 한국 시장의 지정학적 리스크 프리미엄에 영향을 줄 수 있습니다.",
     "action_point": "국내 자산의 지정학적 리스크 프리미엄 재평가 및 방산 섹터 단기 비중 확대 검토."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "공매도 적발 늘었는데 조사 못 따라가…올해 통보 37건 중 36건 ‘미착수’",
-    "title_ko": "공매도 적발 늘었는데 조사 못 따라가…올해 통보 37건 중 36건 ‘미착수’",
-    "link": "https://www.mk.co.kr/news/stock/12164087",
-    "published": "Tue, 29 Sep 2026 18:11:34 +09:00",
-    "fetched_at": "2026-09-29 18:21:22",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "국내 주식 시장",
-      "금융"
-    ],
-    "keywords": [
-      "공매도",
-      "금감원",
-      "거래소",
-      "규제",
-      "시장 공정성"
-    ],
-    "reason": "이 뉴스는 불법 공매도 적발에도 불구하고 미흡한 조사로 시장 공정성에 대한 투자자 신뢰를 저해하며, 국내 증시의 불안정성을 심화시킬 수 있습니다.",
-    "action_point": "국내 증시의 시장 공정성 우려가 지속되는 만큼, 단기 투기성 종목 비중을 축소하고 펀더멘털이 견고한 우량주 중심으로 포트폴리오 안정성을 강화한다."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "China has three new criteria for humanoid robot IPOs. Few, if any, meet them",
-    "title_ko": "중국, 휴머노이드 로봇 IPO에 새로운 3가지 기준 도입…현재 이를 충족하는 기업은 거의 없어",
-    "link": "https://www.cnbc.com/2026/09/29/china-criteria-humanoid-robot-ipos.html",
-    "published": "Tue, 29 Sep 2026 07:19:38 GMT",
-    "fetched_at": "2026-09-29 18:17:28",
-    "sentiment": "악재",
-    "importance": 2,
-    "sectors": [
-      "휴머노이드 로봇",
-      "로봇 산업",
-      "인공지능",
-      "중국 기술주"
-    ],
-    "keywords": [
-      "중국",
-      "휴머노이드 로봇",
-      "IPO",
-      "규제",
-      "기술주"
-    ],
-    "reason": "중국 당국의 휴머노이드 로봇 IPO 기준 강화는 해당 섹터의 자금 조달을 어렵게 하여 단기적인 성장을 둔화시킬 수 있으며, 중국 기술주 전반에 대한 규제 리스크 인식을 높입니다.",
-    "action_point": "중국 로봇 및 AI 관련 기술주에 대한 신규 투자를 보류하고, 기존 포트폴리오 비중을 재검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[게시판] 재경부 전략경제자문단, 방산 AI기업 찾아가 정책지원 논의 - 연합뉴스",
-    "title_ko": "[게시판] 재경부 전략경제자문단, 방산 AI기업 찾아가 정책지원 논의",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBZzh1S1FteEQ5UU5jaEV1ME5HNl9JSTJ2RHVOaWpjNGJXbk1hdEt0MVowbGhSVlU3ZHByWWZFZWM1TzZMYUJKWjE2ZGRMOHd4MVFWRC1Xd0JkR1drNkxkY9IBYEFVX3lxTFBBZzh1S1FteEQ5UU5jaEV1ME5HNl9JSTJ2RHVOaWpjNGJXbk1hdEt0MVowbGhSVlU3ZHByWWZFZWM1TzZMYUJKWjE2ZGRMOHd4MVFWRC1Xd0JkR1drNkxkYw?oc=5",
-    "published": "Tue, 29 Sep 2026 06:15:08 GMT",
-    "fetched_at": "2026-09-29 18:19:33",
-    "sentiment": "호재",
-    "importance": 2,
-    "sectors": [
-      "방산",
-      "AI",
-      "기술주"
-    ],
-    "keywords": [
-      "재경부",
-      "정책지원",
-      "방산",
-      "AI"
-    ],
-    "reason": "재경부 자문단이 방산 및 AI 기업에 대한 정책 지원을 논의하는 것은 해당 섹터에 대한 정부의 관심과 육성 의지를 보여주며, 향후 투자 심리 개선 및 성장 동력 확대로 이어질 수 있습니다.",
-    "action_point": "국내 방산 및 AI 섹터 내 정책 수혜가 예상되는 기업들의 투자 가치를 재평가하고 비중 확대를 검토하라."
   }
 ]
