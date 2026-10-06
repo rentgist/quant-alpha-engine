@@ -2,6 +2,77 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "Rebounding oil exports through Strait of Hormuz are vulnerable to stepped-up Iranian tanker attacks",
+    "title_ko": "호르무즈 해협을 통한 석유 수출 회복세, 이란 유조선 공격 증가로 취약",
+    "link": "https://www.cnbc.com/2026/10/06/crude-oil-tanker-strait-hormuz-iran-attack.html",
+    "published": "Tue, 06 Oct 2026 16:19:10 GMT",
+    "fetched_at": "2026-10-07 02:00:47",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "에너지",
+      "해운",
+      "방산",
+      "항공"
+    ],
+    "keywords": [
+      "호르무즈 해협",
+      "석유 수출",
+      "유조선 공격",
+      "지정학적 위험",
+      "유가 상승"
+    ],
+    "reason": "호르무즈 해협에서의 유조선 공격 증가는 글로벌 원유 공급망을 위협하며 유가 상승 압력을 높이고 지정학적 불안정을 심화시켜 전반적인 투자 심리에 부정적인 영향을 미칠 것입니다.",
+    "action_point": "에너지 관련 자산 비중 확대 또는 방산 섹터 관심 검토."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Anthropic expands Claude Startups program in bid to snag founders and fast-growing companies",
+    "title_ko": "앤트로픽, 클로드 스타트업 프로그램 확장으로 창업가 및 고성장 기업 유치 박차",
+    "link": "https://www.cnbc.com/2026/10/06/anthropic-claude-startups-program.html",
+    "published": "Tue, 06 Oct 2026 16:19:16 GMT",
+    "fetched_at": "2026-10-07 02:00:55",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "인공지능",
+      "기술",
+      "소프트웨어"
+    ],
+    "keywords": [
+      "앤트로픽",
+      "인공지능",
+      "스타트업",
+      "클로드"
+    ],
+    "reason": "앤트로픽의 스타트업 프로그램 확장은 AI 분야의 경쟁 심화와 지속적인 성장 모멘텀을 보여주며, 기술 섹터 내 AI 관련 기업 투자 심리에 긍정적인 영향을 미친다.",
+    "action_point": "AI 기술 혁신을 선도하는 기업 및 관련 ETF 편입을 통한 포트폴리오 다각화를 고려하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "국제약품 승계 속도…남영우 회장 지분 전량 3세 증여 - 팜이데일리",
+    "title_ko": "국제약품 승계 속도…남영우 회장 지분 전량 3세 증여 - 팜이데일리",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE80cHNjNjdudU9TREkxYWRwbkNUbTBsMURZNGc3TERrc2VPNlJ3elFrN3BIcjdCeE5leVAyY3J5TUVFWU9IU2lRY1k4QjltWjJFSE9MWUJyOWd3Skl6LTFUYXVLQjk1WlZGendjOVFn?oc=5",
+    "published": "Tue, 06 Oct 2026 10:07:13 GMT",
+    "fetched_at": "2026-10-07 02:02:00",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "제약"
+    ],
+    "keywords": [
+      "국제약품",
+      "승계",
+      "지분 증여"
+    ],
+    "reason": "개별 제약기업의 경영권 승계 이슈로, 해당 기업의 지배구조 안정성에는 긍정적일 수 있으나 거시경제나 전체 증시 흐름에 미치는 영향은 극히 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "Yemen forces reclaim key Red Sea port city from Iran-backed Houthis in major counteroffensive",
     "title_ko": "예멘군, 주요 홍해 항구 도시 이란 지원 후티 반군으로부터 탈환하며 대규모 역공 성공",
     "link": "https://www.cnbc.com/2026/10/06/iran-war-yemen-saudi-arabia-mokha-oil.html",
@@ -2905,77 +2976,5 @@
     ],
     "reason": "소폭 완화된 인플레이션 신호에도 불구하고 높은 국채 수익률과 다가올 고용 보고서 및 연준의 금리 결정 불확실성이 시장의 주요 변수로 작용하며 단기적인 주식 선물 상승에도 불구하고 전반적인 경계심이 유지되고 있습니다.",
     "action_point": "높은 국채 수익률 지속과 연준의 통화 정책 불확실성에 대비하여 포트폴리오 내 금리 민감 자산 비중을 조정하라."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Kalshi, Polymarket trading volumes on some products raise questions amid massive growth",
-    "title_ko": "Kalshi와 Polymarket의 일부 상품 거래량, 폭발적인 성장 속 의문 제기",
-    "link": "https://www.cnbc.com/2026/09/30/kalshi-polymarket-trading-volume-scrutiny.html",
-    "published": "Wed, 30 Sep 2026 21:09:42 GMT",
-    "fetched_at": "2026-10-01 10:42:36",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "대체 투자 플랫폼",
-      "핀테크"
-    ],
-    "keywords": [
-      "Kalshi",
-      "Polymarket",
-      "거래량",
-      "예측 시장",
-      "시장 투명성"
-    ],
-    "reason": "이 기사는 일부 예측 시장에서 나타나는 비정상적인 거래량과 시장 활동의 유기성에 대한 의문을 제기하며, 규제 불확실성이 높은 대체 투자 플랫폼의 잠재적 리스크와 투명성 문제를 시사합니다.",
-    "action_point": "규제 불확실성이 높은 비주류 대체 투자 플랫폼에 대한 신규 투자를 보류하고, 잠재적 리스크를 재평가하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[속보] 코스피 0.34% 내린 6,814.49 개장 - 연합뉴스TV",
-    "title_ko": "[속보] 코스피 0.34% 내린 6,814.49 개장",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXQkFTYnl2R0RYX3M0ZWxwdDJnRFVLdnF4b083WFg4TDBpbUo5WnN6NGVPYWhhRzBPemZHdHZvVHhfc25Tbmk3ZV9NdGJYQzJxQjFNWE81QXp5QnJGaXlEMkQ1bmQzN0U?oc=5",
-    "published": "Thu, 01 Oct 2026 00:09:00 GMT",
-    "fetched_at": "2026-10-01 10:42:56",
-    "sentiment": "악재",
-    "importance": 2,
-    "sectors": [
-      "전반적인 주식 시장"
-    ],
-    "keywords": [
-      "코스피",
-      "개장",
-      "하락",
-      "한국 증시"
-    ],
-    "reason": "한국 증시 코스피 지수가 개장 초 소폭 하락 출발했음을 알리는 속보로, 전반적인 투자 심리가 다소 위축되었음을 시사합니다. 하지만 0.34% 하락은 일상적인 변동성 범위 내이며, 추세적 변화를 나타내기에는 제한적입니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Fed's Kashkari says inflation is 'still too high' even after softer-than-expected PCE data",
-    "title_ko": "연준 카슈카리 총재, 예상보다 완화된 PCE 데이터에도 인플레이션은 '여전히 너무 높다'고 언급",
-    "link": "https://www.cnbc.com/2026/09/30/watch-minneapolis-fed-president-neel-kashkari.html",
-    "published": "Wed, 30 Sep 2026 22:21:27 GMT",
-    "fetched_at": "2026-10-01 07:44:37",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "기술",
-      "성장주",
-      "부동산",
-      "금융"
-    ],
-    "keywords": [
-      "연준",
-      "카슈카리",
-      "인플레이션",
-      "PCE",
-      "금리"
-    ],
-    "reason": "카슈카리 총재의 매파적 발언은 최근 완화된 PCE 데이터에도 불구하고 연준의 신중한 인플레이션 대응 기조를 재확인하며, 조기 금리 인하 기대를 약화시킨다. 이는 고금리 장기화 가능성을 높여 위험자산에 부정적 영향을 미칠 수 있다.",
-    "action_point": "고금리 장기화 가능성에 대비하여 금리 민감 자산 비중 축소 검토"
   }
 ]
