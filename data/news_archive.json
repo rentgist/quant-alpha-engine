@@ -1,5 +1,29 @@
 [
   {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Chart: A look at the S&P 500's remarkable and defiant trip to a new record",
+    "title_ko": "차트: S&P 500, 놀랍고도 견고하게 신고점 경신",
+    "link": "https://www.cnbc.com/2026/10/06/chart-a-look-at-the-sp-500s-remarkable-and-defiant-trip-a-new-record.html",
+    "published": "Tue, 06 Oct 2026 20:50:54 GMT",
+    "fetched_at": "2026-10-07 06:28:25",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "기술주",
+      "성장주"
+    ],
+    "keywords": [
+      "S&P 500",
+      "신고점",
+      "기술주",
+      "유가 하락",
+      "국채금리 하락"
+    ],
+    "reason": "S&P 500의 신고점 경신은 시장의 위험 선호 심리 회복과 견조한 기업 실적 기대감을 반영하며, 특히 기술주 중심의 상승세가 두드러집니다. 유가 및 국채금리 하락은 기업 비용 부담 완화 및 할인율 하락으로 이어져 증시 추가 상승 동력을 제공합니다.",
+    "action_point": "미국 시장 내 기술주 및 성장주 비중 확대를 검토하라."
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "Rebounding oil exports through Strait of Hormuz are vulnerable to stepped-up Iranian tanker attacks",
@@ -2950,31 +2974,5 @@
     ],
     "reason": "이 뉴스는 글로벌 AI 경쟁 심화와 지적재산권 침해 리스크를 부각시키며, 향후 AI 기술 개발 및 상용화 과정에서 법적 분쟁과 기술 안보 관련 지정학적 긴장이 고조될 수 있음을 시사한다.",
     "action_point": "AI 관련 기업 투자 시 지적재산권 보호 역량과 경쟁 우위 재평가"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Stock futures rise as traders eye elevated Treasury yields, brace for jobs report due this week: Live updates",
-    "title_ko": "주식 선물 상승, 투자자들은 높은 국채 수익률을 주시하며 이번 주 고용 보고서 대비",
-    "link": "https://www.cnbc.com/2026/09/30/stock-market-today-live-updates.html",
-    "published": "Thu, 01 Oct 2026 00:21:15 GMT",
-    "fetched_at": "2026-10-01 10:42:47",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "기술",
-      "금융",
-      "부동산",
-      "채권"
-    ],
-    "keywords": [
-      "국채 수익률",
-      "연준",
-      "금리 인상",
-      "인플레이션",
-      "고용 보고서"
-    ],
-    "reason": "소폭 완화된 인플레이션 신호에도 불구하고 높은 국채 수익률과 다가올 고용 보고서 및 연준의 금리 결정 불확실성이 시장의 주요 변수로 작용하며 단기적인 주식 선물 상승에도 불구하고 전반적인 경계심이 유지되고 있습니다.",
-    "action_point": "높은 국채 수익률 지속과 연준의 통화 정책 불확실성에 대비하여 포트폴리오 내 금리 민감 자산 비중을 조정하라."
   }
 ]
