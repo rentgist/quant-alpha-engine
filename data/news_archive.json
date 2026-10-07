@@ -1,5 +1,152 @@
 [
   {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Why AI is both the hope and the hazard for world leaders, according to IMF chief Georgieva",
+    "title_ko": "IMF 총재 게오르기에바, AI가 세계 정상들에게 희망이자 위험인 이유를 설명",
+    "link": "https://www.cnbc.com/2026/10/07/economy-inflation-ai-trade-imf-iran-hormuz-trump-.html",
+    "published": "Wed, 07 Oct 2026 06:16:39 GMT",
+    "fetched_at": "2026-10-07 23:57:20",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "IT",
+      "금융"
+    ],
+    "keywords": [
+      "AI",
+      "인플레이션",
+      "금리",
+      "공공부채",
+      "IMF"
+    ],
+    "reason": "IMF 총재의 발언은 AI가 장기적 성장 동력이 될 수 있지만, 단기적으로 인플레이션 및 금리 상승 압력을 가중시켜 글로벌 부채 문제와 맞물려 경제 안정성을 위협할 수 있다는 경고로 통화 긴축 장기화 우려를 키울 수 있습니다.",
+    "action_point": "고금리 환경 지속 가능성을 염두에 두고, AI 관련 고밸류에이션 기술주의 비중을 조정하고 금융 및 실적 안정성이 높은 기업에 집중하십시오."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "France is caught between angry students and unforgiving bond markets",
+    "title_ko": "프랑스, 성난 학생들과 가차 없는 채권시장 사이에서 곤경에 처하다",
+    "link": "https://www.cnbc.com/2026/10/07/french-student-protests-budget-deadlock.html",
+    "published": "Wed, 07 Oct 2026 13:23:31 GMT",
+    "fetched_at": "2026-10-07 23:57:51",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "금융",
+      "유럽 채권 시장",
+      "유럽 주식 시장"
+    ],
+    "keywords": [
+      "프랑스",
+      "재정 압박",
+      "채권 시장",
+      "유로존 리스크",
+      "정치적 불안정"
+    ],
+    "reason": "프랑스 정부의 재정 건전성 악화 우려와 정치적 불안정성이 채권시장 압력으로 이어져 프랑스 및 유로존 전반의 재정 리스크를 높일 수 있습니다.",
+    "action_point": "유럽 국채 및 유로화 자산에 대한 리스크 노출을 점검하고 필요시 헤지 전략을 고려하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Google ordered to halt work on two data centers in ‘Texas of Europe’",
+    "title_ko": "구글, '유럽의 텍사스' 핀란드 데이터센터 2곳 건설 중단 명령",
+    "link": "https://www.cnbc.com/2026/10/07/google-finland-data-center-halt.html",
+    "published": "Wed, 07 Oct 2026 09:26:02 GMT",
+    "fetched_at": "2026-10-07 23:57:41",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "IT/기술",
+      "클라우드 컴퓨팅",
+      "데이터센터",
+      "건설/인프라"
+    ],
+    "keywords": [
+      "구글",
+      "데이터센터",
+      "핀란드",
+      "AI 인프라",
+      "규제",
+      "건설 중단"
+    ],
+    "reason": "AI 인프라의 핵심인 데이터센터 건설이 규제 및 환경 문제로 중단된 사례로, 향후 유럽 내 기술 인프라 확장에 차질을 빚고 관련 기업의 비용 증가를 유발할 수 있습니다.",
+    "action_point": "유럽 내 AI 인프라 구축 지연 가능성을 고려하여 관련 기술 기업 및 데이터센터 관련주 비중을 점검하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Trading platform Webull's China ties create national security risk, congressional panel finds; stock drops 18%",
+    "title_ko": "거래 플랫폼 Webull의 중국 연계가 국가 안보 위험을 초래, 의회 패널 발견; 주식 18% 하락",
+    "link": "https://www.cnbc.com/2026/10/07/webull-china-national-security-risk-congress.html",
+    "published": "Wed, 07 Oct 2026 13:46:28 GMT",
+    "fetched_at": "2026-10-07 23:58:00",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "금융",
+      "핀테크",
+      "기술",
+      "데이터 보안"
+    ],
+    "keywords": [
+      "Webull",
+      "중국 연계",
+      "국가 안보",
+      "데이터 보안",
+      "미중 갈등",
+      "거래 플랫폼"
+    ],
+    "reason": "미국 의회가 Webull의 중국 연계를 국가 안보 및 고객 데이터 유출 위험으로 지목하면서, 미국 시장 내 중국 관련 기술 기업에 대한 규제 강화 및 데이터 보안 우려가 커질 것임을 시사한다.",
+    "action_point": "미국 내 운영되는 외국계 연관 데이터 민감 기술 기업에 대한 투자 비중을 재점검하고 관련 규제 강화 가능성을 주시하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Rubio says Tehran missed 'multiple' chances for nuclear deal amid Iran stalemate",
+    "title_ko": "루비오, 이란 핵협상 교착 상태 속 '수차례 기회' 놓쳤다고 언급",
+    "link": "https://www.cnbc.com/2026/10/07/us-iran-war-trump-hormuz.html",
+    "published": "Wed, 07 Oct 2026 14:17:49 GMT",
+    "fetched_at": "2026-10-07 23:58:12",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "에너지",
+      "방산"
+    ],
+    "keywords": [
+      "이란",
+      "핵협상",
+      "지정학적 리스크",
+      "중동"
+    ],
+    "reason": "이란 핵협상 교착 상태의 지속은 중동 지역의 지정학적 불확실성을 장기화시키고, 국제 유가에 대한 리스크 프리미엄을 유지하며 시장 전반의 투자 심리에 부담으로 작용할 수 있습니다.",
+    "action_point": "중동 지정학적 리스크 지속에 대비하여 에너지 및 방산 섹터 비중을 유지하거나 확대하는 전략을 검토하라."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Stocks making the biggest moves premarket: Constellation Brands, Flutter Entertainment, Neogen & more",
+    "title_ko": "프리마켓에서 가장 큰 움직임을 보이는 주식들: Constellation Brands, Flutter Entertainment, Neogen 등",
+    "link": "https://www.cnbc.com/2026/10/07/stocks-making-the-biggest-moves-premarket-stz-flut-neog.html",
+    "published": "Wed, 07 Oct 2026 12:53:39 GMT",
+    "fetched_at": "2026-10-07 23:57:08",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "해당 없음"
+    ],
+    "keywords": [
+      "프리마켓",
+      "개별주식",
+      "시장 동향"
+    ],
+    "reason": "이 기사는 특정 개별 기업들의 프리마켓 주가 움직임을 보고하는 것으로, 거시경제나 광범위한 시장 추세에 대한 직접적인 시사점은 매우 제한적입니다. 특정 섹터 전반에 미치는 영향으로 해석하기 어렵습니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "Oil rises as concerns over Houthi attacks on Saudi Arabia eclipse supply recovery",
@@ -2831,146 +2978,5 @@
     ],
     "reason": "중국의 연료 수출 중단은 글로벌 석유 제품 공급을 위축시키고 유가를 상승시켜 전반적인 인플레이션 압력을 가중시킬 것입니다. 이는 각국 중앙은행의 긴축 기조 장기화 우려를 키울 수 있습니다.",
     "action_point": "에너지 비용 민감 섹터 비중 축소 및 유가 상승 수혜 섹터(일부 에너지 기업) 비중 확대 검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "靑 정책실장에 하준경, 경제수석엔 문신학 - 조선일보",
-    "title_ko": "靑 정책실장에 하준경, 경제수석엔 문신학",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORkZ2eEYxNTZ3VTQydlJkbFpkcTNraVlpbE4xV1hJbEpzWG5kLW5qT0wwb1dFbUptSkpjcUVJa3JmNUwzaFJrQ200NmNIZ0YzaENhekZGUTI1MjV0bUdNNzBvWndQUHZIVFZUTWR5SDN3RTNla29oX21YWmh4UEt2S2RBUzUwMjRF?oc=5",
-    "published": "Thu, 01 Oct 2026 07:56:00 GMT",
-    "fetched_at": "2026-10-02 00:52:07",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "전 산업"
-    ],
-    "keywords": [
-      "정부 인사",
-      "경제 정책",
-      "청와대",
-      "하준경",
-      "문신학"
-    ],
-    "reason": "새로운 경제 정책 기조의 방향성을 제시할 수 있는 정부 주요 인사의 교체로, 향후 국내 거시경제 및 산업 정책 운영에 영향을 미칠 수 있습니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "청와대 신임 정책실장에 하준경, 경제성장수석 문신학 - 한겨레",
-    "title_ko": "청와대 신임 정책실장에 하준경, 경제성장수석 문신학 - 한겨레",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9uUG9LemFZNUVGTGV0NkZVRDRzZFdJLVRWSVVJc094dUs5dk5JUVNEbHB3dTFISE1sdGl5XzhGTGFEb0I3bzBjclozYW5YaU9LbFMxd2oxR2lIUHBnVHdtSEJIUVB0UGJDaGNr?oc=5",
-    "published": "Thu, 01 Oct 2026 07:27:00 GMT",
-    "fetched_at": "2026-10-02 00:52:33",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "금융",
-      "부동산",
-      "성장주"
-    ],
-    "keywords": [
-      "청와대 인사",
-      "경제 정책",
-      "정책실장",
-      "경제성장수석"
-    ],
-    "reason": "청와대 핵심 경제 정책 라인 인사는 향후 정부의 거시경제 운영 방향과 정책 우선순위에 중대한 영향을 미치며, 특히 신임 인사들의 과거 발언이나 전문성에 따라 금융 시장 안정, 부동산 정책, 산업 성장 동력 확보 등 특정 분야에 대한 기조 변화가 예상된다.",
-    "action_point": "신임 정책실장 및 경제성장수석의 과거 정책 기조와 발언을 분석하여 금융, 부동산, 성장주 섹터의 포트폴리오 비중 조정을 고려하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[프로필] 하준경 신임 정책실장…경제전략 기틀다진 '대통령 책사' - 연합뉴스",
-    "title_ko": "[프로필] 하준경 신임 정책실장…경제전략 기틀다진 '대통령 책사'",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9kN2ZTaF8ySkc5bnJmeU5FbkdBV2tZSnB3eE5xc3hULW9nQnFGLWxnTXZRMm5YMGpkdjVXN1B3bjhjdXVmLW1abFpqaEE2dm1LeXJwbjRqbGdGN05Gc3p3dNIBYEFVX3lxTE9kN2ZTaF8ySkc5bnJmeU5FbkdBV2tZSnB3eE5xc3hULW9nQnFGLWxnTXZRMm5YMGpkdjVXN1B3bjhjdXVmLW1abFpqaEE2dm1LeXJwbjRqbGdGN05Gc3p3dA?oc=5",
-    "published": "Thu, 01 Oct 2026 05:36:44 GMT",
-    "fetched_at": "2026-10-02 00:52:53",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "금융",
-      "건설",
-      "에너지",
-      "산업 전반"
-    ],
-    "keywords": [
-      "하준경",
-      "정책실장",
-      "경제전략",
-      "정부인사",
-      "거시경제"
-    ],
-    "reason": "신임 정책실장 임명은 향후 정부의 거시경제 전략 및 정책 방향 설정에 중대한 영향을 미칠 수 있습니다. 이는 국내 투자 환경 전반에 대한 기조 변화 가능성을 시사합니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Bargain Britain lures foreign buyers as hostile takeovers surge",
-    "title_ko": "바겐세일 영국, 적대적 인수합병 급증하며 외국인 투자자 유인",
-    "link": "https://www.cnbc.com/2026/10/01/hostile-takeovers-mergers-acquisitions-uk.html",
-    "published": "Thu, 01 Oct 2026 10:53:11 GMT",
-    "fetched_at": "2026-10-02 00:51:23",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "영국 주식 시장",
-      "금융"
-    ],
-    "keywords": [
-      "영국",
-      "인수합병",
-      "외국인 투자",
-      "저평가",
-      "자본 유입"
-    ],
-    "reason": "영국 자산의 저평가 인식이 확산되며 외국인 자본 유입이 가속화되고 있음을 시사한다. 이는 영국 주식 시장의 재평가와 M&A 관련 서비스 시장 활성화로 이어질 수 있다.",
-    "action_point": "영국 주식 시장 내 저평가 기업에 대한 투자 기회 모색"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "靑 정책실장에 하준경…경제 안정·사회정책 강화 - 연합뉴스TV",
-    "title_ko": "靑 정책실장에 하준경…경제 안정·사회정책 강화",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBEc3Z3SzUzcTVwNWVHb0ktNFBoei1sOE1JVFhQeFhEUVNWTGFBZFNzcU8xQzdvV3pFRkZ5bHM2a0pWc0ZDYUEtQWdybGZWcTdzaTEtTGFWQktMeGNkdV9zNXZJc2NOYUU?oc=5",
-    "published": "Thu, 01 Oct 2026 10:31:00 GMT",
-    "fetched_at": "2026-10-02 00:52:22",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "부동산",
-      "사회복지"
-    ],
-    "keywords": [
-      "하준경",
-      "정책실장",
-      "경제 안정",
-      "사회정책"
-    ],
-    "reason": "신임 청와대 정책실장 임명은 향후 정부의 경제 및 사회 정책 방향을 제시하며, 특히 부동산, 사회복지 등 특정 분야에 대한 정부 개입 및 정책 변화 가능성을 시사합니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "靑 정책실장에 하준경 경제성장수석, 후임 경제수석엔 문신학 - 중앙일보",
-    "title_ko": "靑 정책실장에 하준경 경제성장수석, 후임 경제수석엔 문신학",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB6WV9FOWhTWk9IUFZ5RHZ3ZjlVS2xuc3Jsb0t6OElxTzUxSWcyMUF6ZGY3RXVNb21yNjMxc2RXSEwyVmxMNEdtYXpmT2M3bzlPcWtxTmpn?oc=5",
-    "published": "Thu, 01 Oct 2026 05:04:37 GMT",
-    "fetched_at": "2026-10-02 00:52:40",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "전 섹터"
-    ],
-    "keywords": [
-      "정부 인사",
-      "경제 정책",
-      "청와대"
-    ],
-    "reason": "이번 인사는 정부 경제 정책의 주요 책임자 교체로 향후 정책 방향에 영향을 줄 수 있으나, 당장의 구체적인 정책 변화가 동반되지 않아 시장에 미치는 직접적인 영향은 제한적이다.",
-    "action_point": "해당 없음"
   }
 ]
