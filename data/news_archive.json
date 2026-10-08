@@ -2,6 +2,134 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "Trump says he is not keen on a deal with Iran as U.S. reportedly prepares for 'massive bombing'",
+    "title_ko": "트럼프, 이란과의 합의에 관심 없다…미국 '대규모 폭격' 준비 보도",
+    "link": "https://www.cnbc.com/2026/10/08/us-iran-war-trump-hormuz.html",
+    "published": "Thu, 08 Oct 2026 03:29:29 GMT",
+    "fetched_at": "2026-10-08 15:50:05",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "에너지",
+      "방산",
+      "항공운송",
+      "해운",
+      "보험",
+      "금융"
+    ],
+    "keywords": [
+      "트럼프",
+      "이란",
+      "지정학적 리스크",
+      "군사 작전",
+      "유가"
+    ],
+    "reason": "미국과 이란 간의 군사적 충돌 가능성이 고조되면서 중동발 지정학적 리스크가 급증할 수 있으며, 이는 국제 유가 급등과 전반적인 금융시장 불안정으로 이어질 위험이 있습니다.",
+    "action_point": "유가 상승에 대비해 에너지 관련 자산 비중 확대 및 안전자산(금, 달러) 보유를 강화하고, 지정학적 리스크에 민감한 위험자산 비중을 축소하는 것을 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Samsung forecasts record third-quarter profit of $80 billion as AI boom fuels chip demand",
+    "title_ko": "삼성전자, AI 붐에 힘입어 3분기 사상 최대 실적 전망",
+    "link": "https://www.cnbc.com/2026/10/08/samsung-q3-earnings.html",
+    "published": "Thu, 08 Oct 2026 00:51:23 GMT",
+    "fetched_at": "2026-10-08 15:50:30",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "반도체",
+      "IT 하드웨어",
+      "기술주"
+    ],
+    "keywords": [
+      "삼성전자",
+      "반도체",
+      "AI",
+      "실적",
+      "기술주"
+    ],
+    "reason": "글로벌 AI 수요 강세와 반도체 업황 개선의 신호탄으로, 관련 IT 섹터 전반의 투자 심리를 크게 개선시키며 코스피 상승에 긍정적으로 작용할 것입니다.",
+    "action_point": "AI 및 반도체 관련 기술주 비중 확대 검토"
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[경제읽기] 삼성전자 3분기 역대급 호실적에도…코스피 하락 - 연합뉴스TV",
+    "title_ko": "[경제읽기] 삼성전자 3분기 역대급 호실적에도…코스피 하락 - 연합뉴스TV",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkc0VUOHpkcEswVGM0OUc4eG81V0JCd0lnOFNjbk9CdWlhcW4tNmVQNHR2Q3dTemplTlFyQXdNTDRtLXN3RXo2OEdKVlF4N3pkdG5rLTlZT2Q5bVNxOFViNXR5bUNZYTA?oc=5",
+    "published": "Thu, 08 Oct 2026 04:12:00 GMT",
+    "fetched_at": "2026-10-08 15:50:41",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "반도체",
+      "IT/기술",
+      "전자제품"
+    ],
+    "keywords": [
+      "삼성전자",
+      "3분기 실적",
+      "코스피",
+      "반도체"
+    ],
+    "reason": "삼성전자의 역대급 호실적에도 불구하고 코스피가 하락한 것은 시장 전반에 내재된 약세 심리 및 거시경제적 우려가 강하다는 신호다. 개별 기업 호재가 지수 상승을 견인하지 못하는 상황은 투자 심리 위축을 시사한다.",
+    "action_point": "국내 증시의 추가 하락 가능성에 대비하여 KOSPI 비중 축소 및 현금 보유 비중 확대를 고려하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Elon Musk blames Indian 'oligarchs' for stalling Starlink launch",
+    "title_ko": "일론 머스크, 스타링크 출시 지연에 인도 '과두정치 세력' 비난",
+    "link": "https://www.cnbc.com/2026/10/08/elon-musk-starlink-spacex-jio-airtel-india.html",
+    "published": "Thu, 08 Oct 2026 05:28:40 GMT",
+    "fetched_at": "2026-10-08 15:50:14",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "통신",
+      "IT 서비스",
+      "인도 시장 투자"
+    ],
+    "keywords": [
+      "일론 머스크",
+      "스타링크",
+      "인도",
+      "과두정치",
+      "시장 진입",
+      "독점"
+    ],
+    "reason": "이 소식은 인도 시장의 외국 기업 진입에 대한 규제 및 독점적 장벽 존재 가능성을 시사하며, 이는 향후 인도 내 글로벌 기술 기업의 사업 확장에 도전이 될 수 있음을 보여줍니다.",
+    "action_point": "포트폴리오에 직접적인 영향이 없으므로 해당 없음."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "AI startup Manus raises $500 million in first funding round since Meta breakup",
+    "title_ko": "AI 스타트업 마누스, 메타와의 결별 후 첫 펀딩 라운드에서 5억 달러 유치",
+    "link": "https://www.cnbc.com/2026/10/08/manus-fund-raise-meta-muse-tencent.html",
+    "published": "Thu, 08 Oct 2026 06:32:57 GMT",
+    "fetched_at": "2026-10-08 15:50:22",
+    "sentiment": "호재",
+    "importance": 2,
+    "sectors": [
+      "인공지능",
+      "기술",
+      "벤처 캐피탈"
+    ],
+    "keywords": [
+      "AI",
+      "마누스",
+      "투자 유치",
+      "메타",
+      "중국 규제"
+    ],
+    "reason": "중국 규제로 인한 인수 무산에도 불구하고 AI 에이전트 개발 스타트업이 대규모 자금을 유치하여 AI 기술 투자 열기가 지속됨을 시사합니다. 이는 AI 섹터의 견조한 성장세와 자금 유입 가능성을 뒷받침합니다.",
+    "action_point": "선별된 AI 에이전트 개발 기업 또는 AI 관련 펀드 비중 확대를 검토하십시오."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "10-year Treasury yield backs off from 24-year high after solid bond auction eases demand fears",
     "title_ko": "미국 10년물 국채금리, 견조한 채권 입찰로 수요 우려 완화되며 24년래 최고치에서 하락",
     "link": "https://www.cnbc.com/2026/10/07/treasury-yields-auction-fomc-minutes.html",
@@ -2850,130 +2978,5 @@
     ],
     "reason": "주요 은행들의 전방위 해킹 피해는 금융 시스템의 안정성에 대한 우려를 높이고, 은행권의 사이버 보안 관련 비용 증가 및 신뢰도 하락으로 단기 주가에 부정적 영향을 미칠 수 있습니다.",
     "action_point": "국내 은행 섹터 투자 비중 점검 및 관련 리스크 노출 여부 확인."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Goldman adds 4 new names to its favorite stocks list — including a 143% upside defense call",
-    "title_ko": "골드만삭스, 선호주 목록에 4개 종목 신규 편입…방산주 143% 상승 여력 포함",
-    "link": "https://www.cnbc.com/2026/10/02/goldman-sachs-conviction-list.html",
-    "published": "Fri, 02 Oct 2026 11:58:41 GMT",
-    "fetched_at": "2026-10-02 22:27:10",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "방위산업",
-      "유럽 증시"
-    ],
-    "keywords": [
-      "골드만삭스",
-      "선호주",
-      "유럽 증시",
-      "방위산업",
-      "주식 추천"
-    ],
-    "reason": "골드만삭스의 유럽 선호주 목록 업데이트는 특정 유럽 섹터 및 종목에 대한 긍정적인 투자 심리를 유발할 수 있다. 특히 방위산업에 대한 높은 상승 여력 언급은 해당 섹터에 대한 투자자의 관심을 높일 수 있다.",
-    "action_point": "유럽 방위산업 ETF 또는 관련 펀드 투자 가능성 검토"
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "[단독] 삼성, 내년 HBM4 가격 3배 높인다",
-    "title_ko": "삼성, 내년 HBM4 가격 3배 높인다",
-    "link": "https://www.mk.co.kr/news/business/12167164",
-    "published": "Fri, 02 Oct 2026 15:20:29 +09:00",
-    "fetched_at": "2026-10-02 15:28:31",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "반도체",
-      "IT하드웨어",
-      "인공지능"
-    ],
-    "keywords": [
-      "삼성전자",
-      "HBM4",
-      "고대역폭메모리",
-      "AI 반도체",
-      "메모리 가격"
-    ],
-    "reason": "삼성전자의 HBM4 가격 인상은 AI 반도체 시장의 강력한 수요와 기술적 우위를 방증하며, 이는 메모리 반도체 업황 전반의 개선과 수익성 향상 기대를 높인다.",
-    "action_point": "삼성전자 및 HBM 관련 국내 반도체 기업 비중 확대를 검토하라."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Bitget 'not expecting to recover a lot' from $388 million hack, CEO tells CNBC",
-    "title_ko": "비트겟 CEO, 3억 8,800만 달러 해킹 피해액 '대부분 회복 어려울 것' CNBC에 밝혀",
-    "link": "https://www.cnbc.com/2026/10/02/bitget-crypto-stolen-hack-recovery.html",
-    "published": "Fri, 02 Oct 2026 06:03:23 GMT",
-    "fetched_at": "2026-10-02 15:28:00",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "가상자산",
-      "블록체인"
-    ],
-    "keywords": [
-      "비트겟",
-      "해킹",
-      "가상자산",
-      "암호화폐",
-      "보안"
-    ],
-    "reason": "대규모 가상자산 거래소 해킹 피해액의 대부분이 회복 불가능하다는 소식은 가상자산 시장 전반의 투자 심리를 위축시키고, 중앙화된 거래소의 보안 리스크를 다시 부각시킬 것입니다. 이는 가상자산 전반에 대한 신뢰 하락으로 이어질 수 있습니다.",
-    "action_point": "가상자산 투자 비중 재검토 및 중앙화 거래소의 보안 위험 점검"
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Stocks making the biggest moves premarket: Alphabet, Accenture, Rocket Lab, Micron and more",
-    "title_ko": "프리마켓에서 가장 큰 움직임을 보이는 주식: 알파벳, 액센츄어, 로켓 랩, 마이크론 외",
-    "link": "https://www.cnbc.com/2026/10/01/stocks-making-the-biggest-moves-premarket-googl-acn-rklb-mu.html",
-    "published": "Thu, 01 Oct 2026 15:14:36 GMT",
-    "fetched_at": "2026-10-02 15:28:15",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "기술",
-      "반도체",
-      "IT 서비스",
-      "우주항공"
-    ],
-    "keywords": [
-      "프리마켓",
-      "주식 움직임",
-      "개별주",
-      "알파벳",
-      "마이크론"
-    ],
-    "reason": "이 기사는 프리마켓에서 개별 기업들의 주가 움직임을 단순 보고하는 것으로, 전반적인 시장 방향이나 거시 경제에 대한 직접적인 영향은 미미합니다. 각 기업의 움직임은 개별적인 이슈에 기인할 가능성이 높습니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Nike shares drop as retailer posts disappointing sales, announces layoffs as part of restructuring",
-    "title_ko": "나이키 주가, 실망스러운 매출과 구조조정의 일환으로 해고 발표에 하락",
-    "link": "https://www.cnbc.com/2026/10/01/nike-nke-q1-2027-earnings.html",
-    "published": "Thu, 01 Oct 2026 21:34:44 GMT",
-    "fetched_at": "2026-10-02 09:21:19",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "경기소비재",
-      "소매",
-      "의류/신발"
-    ],
-    "keywords": [
-      "나이키",
-      "매출 부진",
-      "구조조정",
-      "해고",
-      "중국 시장",
-      "소비 위축"
-    ],
-    "reason": "나이키의 실적 부진과 구조조정은 글로벌 경기 둔화에 따른 소비 위축 가능성을 시사하며, 특히 중국 시장에서의 경쟁 심화와 성장 둔화 압력을 반영합니다. 이는 관련 소매 및 경기소비재 섹터 전반에 대한 투자 심리 악화로 이어질 수 있습니다.",
-    "action_point": "글로벌 경기소비재 및 중국 소비 관련 투자 비중 축소 검토."
   }
 ]
