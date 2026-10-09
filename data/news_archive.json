@@ -2,6 +2,81 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "Trump's diesel agreement with Putin accused of contradicting Russia sanctions law",
+    "title_ko": "트럼프의 푸틴과의 디젤 합의, 러시아 제재법 위반 비난에 직면",
+    "link": "https://www.cnbc.com/2026/10/09/trump-putin-diesel-russia-sanctions-ukraine.html",
+    "published": "Fri, 09 Oct 2026 23:16:50 GMT",
+    "fetched_at": "2026-10-10 08:42:51",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지/원자재",
+      "방산",
+      "해운/물류"
+    ],
+    "keywords": [
+      "러시아 제재",
+      "디젤",
+      "트럼프",
+      "지정학적 리스크",
+      "우크라이나"
+    ],
+    "reason": "트럼프 전 대통령의 러시아 제재 완화 의혹은 미국의 대러 정책 불확실성을 증폭시켜 지정학적 리스크를 키우고, 글로벌 에너지 시장 및 투자 심리에 부정적인 영향을 줄 수 있습니다.",
+    "action_point": "지정학적 불안정성 증대에 대비하여 방산 섹터 및 금/달러 등 안전자산 비중 유지를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "SpaceX makes big move into wireless. These once 'obsolete' tech stocks could benefit",
+    "title_ko": "SpaceX가 무선 통신 시장에 진출하며 한때 '구식'이었던 기술주들이 수혜를 볼 수 있다.",
+    "link": "https://www.cnbc.com/2026/10/09/spacex-wireless-plans-lifts-tower-stocks.html",
+    "published": "Fri, 09 Oct 2026 15:59:48 GMT",
+    "fetched_at": "2026-10-10 08:42:59",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "위성 통신",
+      "무선 통신 장비",
+      "통신 서비스"
+    ],
+    "keywords": [
+      "SpaceX",
+      "무선 통신",
+      "위성 통신",
+      "기술주",
+      "통신사"
+    ],
+    "reason": "SpaceX의 무선 통신 진출은 위성 통신 기술을 활용하는 기존 통신 관련 기술 기업들에게 새로운 사업 기회 또는 경쟁 구도를 형성하며 섹터 재편 가능성이 있습니다.",
+    "action_point": "위성 통신 및 관련 무선 기술 섹터 내 특정 기업들의 중장기 성장 잠재력을 재평가하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "매경이 전하는 세상의 지식 (매-세-지, 10월 10일)",
+    "title_ko": "최태원 SK그룹 회장, 호남권 반도체 클러스터 부지 현장 방문",
+    "link": "https://www.mk.co.kr/news/economy/12172424",
+    "published": "Sat, 10 Oct 2026 07:00:00 +09:00",
+    "fetched_at": "2026-10-10 08:43:18",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "반도체",
+      "건설",
+      "지역 개발"
+    ],
+    "keywords": [
+      "SK그룹",
+      "최태원",
+      "SK하이닉스",
+      "반도체 클러스터",
+      "투자"
+    ],
+    "reason": "SK그룹 최태원 회장이 직접 반도체 클러스터 부지를 방문한 것은 SK하이닉스의 국내 투자 및 생산 능력 확장 의지를 강하게 시사하며, 이는 장기적인 관점에서 반도체 섹터에 긍정적입니다.",
+    "action_point": "SK하이닉스 및 국내 반도체 인프라/장비 관련 기업에 대한 포트폴리오 비중 확대 검토."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "Tanker attacks in Strait of Hormuz surge to wartime high as Iran tries to choke off oil exports",
     "title_ko": "호르무즈 해협 유조선 공격, 이란의 석유 수출 봉쇄 시도로 전시 수준으로 급증",
     "link": "https://www.cnbc.com/2026/10/09/iran-war-strait-hormuz-tanker-attack-oil.html",
@@ -2885,82 +2960,5 @@
     ],
     "reason": "호르무즈 해협의 봉쇄 위협과 중동 내 유조선 피격은 국제유가 상승 압력을 높이며, 지정학적 불확실성을 증대시켜 글로벌 경제에 악영향을 미칠 수 있습니다.",
     "action_point": "국제유가 상승 위험에 대비하여 원유 관련 자산 보유를 검토하고, 고유가 민감 섹터(항공, 해운 등)에 대한 투자 비중 축소를 고려."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "OPEC+ agrees to keep November oil output targets steady",
-    "title_ko": "OPEC+가 11월 원유 생산 목표를 현행 유지하기로 합의",
-    "link": "https://www.cnbc.com/2026/10/04/opec-agrees-to-keep-november-oil-output-targets-steady.html",
-    "published": "Sun, 04 Oct 2026 13:49:31 GMT",
-    "fetched_at": "2026-10-04 23:40:02",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "정유",
-      "항공",
-      "운송",
-      "석유화학"
-    ],
-    "keywords": [
-      "OPEC+",
-      "원유",
-      "유가",
-      "중동",
-      "지정학적 리스크",
-      "인플레이션"
-    ],
-    "reason": "OPEC+의 생산량 목표 동결은 중동 지정학적 리스크로 인한 실제 공급 부족 상황을 반영하며, 이는 유가 상승 압력을 높여 글로벌 인플레이션 우려와 기업 원가 부담을 심화시킬 것입니다.",
-    "action_point": "인플레이션 헤지 관점에서 에너지 및 원자재 관련 자산 비중 확대를 검토하고, 유가 상승에 민감한 섹터는 보수적으로 접근하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[속보]금융권 AI 무차별 자동해킹…정부 비상대응 \"기업 2만 8,000곳 보안점검 권고\" - KBC광주방송",
-    "title_ko": "금융권 AI 무차별 자동해킹…정부 비상대응 '기업 2만 8,000곳 보안점검 권고'",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9MbHNlZFo5ekFCbG45amMzLXRWY2FTcUlWN2RtbDJyeDhiV0pvY2VjbUViMzRVbDdyX0lnb25FVV9aaHdwTTJFaV9MMms2b1hzM0d6VUNtOFRpLXNfaVNrbA?oc=5",
-    "published": "Sun, 04 Oct 2026 10:07:13 GMT",
-    "fetched_at": "2026-10-04 23:40:25",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "금융",
-      "IT보안",
-      "소프트웨어"
-    ],
-    "keywords": [
-      "AI 해킹",
-      "사이버 보안",
-      "금융권",
-      "정부 비상대응"
-    ],
-    "reason": "AI를 활용한 대규모 해킹 시도는 금융권 및 전 산업의 사이버 보안 리스크를 급증시키고 있습니다. 이는 기업들의 보안 투자 확대를 촉발하고 관련 산업의 성장을 가속화할 수 있습니다.",
-    "action_point": "사이버 보안 관련 기술주 비중 확대를 검토하고, 금융 섹터의 보안 투자 및 리스크 관리 현황을 주시."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "중수청 시험대 될 ‘1호 수사’…법조계, 중대경제범죄에 무게 - 한겨레",
-    "title_ko": "중수청 시험대 될 ‘1호 수사’…법조계, 중대경제범죄에 무게 - 한겨레",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE96Wk1CaFpEQTllX1I5WkJTUWxhN3hlS1ppdTB6YnlMVWdaMVhLOHlzSnMtekJ3bDl1V0R1bXRoVzhGUE9RNHhoRUYyNTc4bEtyYVY1bUNoRGdfWUo2M2RGTHZvaFY1enJrTVpOWGl3MTZ2UQ?oc=5",
-    "published": "Sun, 04 Oct 2026 13:13:00 GMT",
-    "fetched_at": "2026-10-04 23:40:17",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "대기업",
-      "건설",
-      "금융",
-      "제약바이오"
-    ],
-    "keywords": [
-      "중수청",
-      "중대경제범죄",
-      "기업 지배구조",
-      "규제 강화"
-    ],
-    "reason": "중수청의 출범과 중대경제범죄에 대한 첫 수사 집중은 국내 기업들의 법적 리스크를 높이고, 특히 지배구조가 복잡하거나 불투명한 대기업 및 관련 섹터에 대한 투자 심리를 위축시킬 수 있습니다. 이는 기업의 ESG 평가에도 부정적인 영향을 미칠 것입니다.",
-    "action_point": "기업 지배구조 리스크가 높거나 과거 관련 법적 이슈가 있었던 기업의 비중을 재검토하고, ESG 평가 우수 기업으로의 포트폴리오 재편을 고려하십시오."
   }
 ]
