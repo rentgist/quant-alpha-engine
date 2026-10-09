@@ -2,6 +2,113 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "Tanker attacks in Strait of Hormuz surge to wartime high as Iran tries to choke off oil exports",
+    "title_ko": "호르무즈 해협 유조선 공격, 이란의 석유 수출 봉쇄 시도로 전시 수준으로 급증",
+    "link": "https://www.cnbc.com/2026/10/09/iran-war-strait-hormuz-tanker-attack-oil.html",
+    "published": "Fri, 09 Oct 2026 18:52:49 GMT",
+    "fetched_at": "2026-10-10 04:55:08",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "에너지",
+      "해운",
+      "항공",
+      "화학",
+      "방산"
+    ],
+    "keywords": [
+      "호르무즈 해협",
+      "유조선 공격",
+      "이란",
+      "석유 수출",
+      "지정학적 리스크",
+      "유가 변동성"
+    ],
+    "reason": "호르무즈 해협의 유조선 공격은 중동발 원유 공급 차질 우려를 증폭시켜 국제 유가 상승 압력을 높이고 글로벌 인플레이션 및 경기 둔화 위험을 가중시킵니다.",
+    "action_point": "에너지 섹터 비중 확대를 검토하고, 고유가에 취약한 산업군(항공, 해운 등)의 투자 비중 축소를 고려하십시오."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Trump strikes deal with Putin to supply Russian diesel to U.S. and global markets",
+    "title_ko": "트럼프, 푸틴과 러시아 디젤유 미국 및 글로벌 시장 공급 합의",
+    "link": "https://www.cnbc.com/2026/10/09/trump-putin-russian-diesel-us-global-markets.html",
+    "published": "Fri, 09 Oct 2026 19:50:41 GMT",
+    "fetched_at": "2026-10-10 04:55:24",
+    "sentiment": "중립",
+    "importance": 5,
+    "sectors": [
+      "에너지",
+      "운송",
+      "제조업",
+      "방위산업"
+    ],
+    "keywords": [
+      "트럼프",
+      "푸틴",
+      "러시아",
+      "디젤유",
+      "에너지 공급",
+      "지정학"
+    ],
+    "reason": "트럼프와 푸틴 간 디젤유 공급 합의는 러시아에 대한 기존 제재 기조를 뒤집고 글로벌 에너지 시장의 공급망과 가격에 중대한 변화를 가져올 것이다. 이는 유가 및 물가 안정에 기여할 수 있으나, 지정학적 불확실성을 극대화하여 시장 변동성을 키울 수 있다.",
+    "action_point": "러시아산 에너지 공급 확대 가능성에 대비하여 에너지 관련 자산 포지션을 재검토하고, 지정학적 리스크 확대로 인한 시장 변동성에 대비하여 안전 자산 비중을 고려하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Americans' debt problems are flashing a warning not seen since the Great Recession",
+    "title_ko": "미국 가계 부채 문제, 대공황 이후 볼 수 없었던 경고등",
+    "link": "https://www.cnbc.com/2026/10/09/american-debt-delinquency.html",
+    "published": "Fri, 09 Oct 2026 19:18:24 GMT",
+    "fetched_at": "2026-10-10 04:55:34",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "금융",
+      "소비재",
+      "부동산",
+      "기술"
+    ],
+    "keywords": [
+      "미국 가계 부채",
+      "채무 불이행",
+      "경기 침체",
+      "소비 둔화",
+      "금융 시스템 불안"
+    ],
+    "reason": "미국 가계의 채무 상환 능력 악화는 소비 둔화로 이어져 경기 침체 우려를 키우고, 금융권 부실 가능성을 높여 전반적인 시장 투자 심리에 부정적 영향을 미칠 것입니다.",
+    "action_point": "미국 경기 둔화 및 금융 시스템 불안정성 확대 가능성에 대비하여 위험 자산 비중 축소를 검토하십시오."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "\"프랑스 국채위기 알아서 해결하라\"…ECB 개입 차단 - 연합뉴스",
+    "title_ko": "프랑스 국채위기 알아서 해결하라\"…ECB 개입 차단",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VSGwwMFUzRkFqd0NJNDN0UlU1X0FmNWRQYUN0dGFEcF9HMERVX184ZkJzbk1GYWw3TGNzZUxsc3lMR2d0M3c5X2R5STFROHlTTWs1dEhXYkF2QzgtcU5TZNIBYEFVX3lxTE5VSGwwMFUzRkFqd0NJNDN0UlU1X0FmNWRQYUN0dGFEcF9HMERVX184ZkJzbk1GYWw3TGNzZUxsc3lMR2d0M3c5X2R5STFROHlTTWs1dEhXYkF2QzgtcU5TZA?oc=5",
+    "published": "Fri, 09 Oct 2026 09:58:59 GMT",
+    "fetched_at": "2026-10-10 04:55:44",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "유럽 금융",
+      "유럽 주식",
+      "채권",
+      "외환"
+    ],
+    "keywords": [
+      "프랑스 국채",
+      "ECB",
+      "유럽 정치 리스크",
+      "유로화",
+      "변동성"
+    ],
+    "reason": "프랑스 정치 불안 심화로 국채 금리가 급등하는 가운데 ECB가 개입하지 않겠다는 입장을 밝히면서 유럽 금융시장의 불안감이 커지고 유로화 약세 및 변동성 확대가 예상된다. 이는 글로벌 투자심리 위축으로 이어질 수 있다.",
+    "action_point": "유로화 자산 비중 축소 및 달러 자산 비중 확대를 검토하고, 유럽 시장 익스포저를 재조정하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "Nobel winner Krugman says France may have become 'too big to save'",
     "title_ko": "노벨상 수상자 크루그먼, 프랑스가 '구제하기엔 너무 커졌다'고 경고",
     "link": "https://www.cnbc.com/2026/10/09/nobel-krugman-france-debt.html",
@@ -2855,103 +2962,5 @@
     ],
     "reason": "중수청의 출범과 중대경제범죄에 대한 첫 수사 집중은 국내 기업들의 법적 리스크를 높이고, 특히 지배구조가 복잡하거나 불투명한 대기업 및 관련 섹터에 대한 투자 심리를 위축시킬 수 있습니다. 이는 기업의 ESG 평가에도 부정적인 영향을 미칠 것입니다.",
     "action_point": "기업 지배구조 리스크가 높거나 과거 관련 법적 이슈가 있었던 기업의 비중을 재검토하고, ESG 평가 우수 기업으로의 포트폴리오 재편을 고려하십시오."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Sports betting is increasingly the norm for Gen Z.  Here’s why some financial and mental health experts are worried",
-    "title_ko": "스포츠 베팅, Z세대에게 점점 더 보편화되다: 금융 및 정신 건강 전문가들이 우려하는 이유",
-    "link": "https://www.cnbc.com/2026/10/04/gen-z-sports-betting-financial-and-mental-health-risks.html",
-    "published": "Sun, 04 Oct 2026 12:57:45 GMT",
-    "fetched_at": "2026-10-04 23:39:41",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "레저/도박",
-      "금융 서비스",
-      "소비재"
-    ],
-    "keywords": [
-      "스포츠 베팅",
-      "Z세대",
-      "도박 중독",
-      "재정 건전성"
-    ],
-    "reason": "Z세대의 스포츠 베팅 확산은 레저/도박 산업에 영향을 미칠 수 있으나, '투자로 오인'하는 경향은 장기적으로 해당 세대의 재정 건전성 및 소비 패턴에 부정적 영향을 줄 수 있습니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "17억→56억, 하석진 찜한 ‘청담 한강뷰’…10년 만에 39억 뛰었다",
-    "title_ko": "17억→56억, 하석진 찜한 ‘청담 한강뷰’…10년 만에 39억 뛰었다",
-    "link": "https://www.mk.co.kr/news/realestate/12168221",
-    "published": "Sun, 04 Oct 2026 22:04:07 +09:00",
-    "fetched_at": "2026-10-04 23:40:46",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "부동산",
-      "고급 주택 시장"
-    ],
-    "keywords": [
-      "부동산",
-      "강남",
-      "청담동",
-      "고급 주택",
-      "자산 가치 상승"
-    ],
-    "reason": "이 뉴스는 강남 핵심 입지에 위치한 고급 주택이 장기적으로 상당한 자산 가치 상승을 보이며 인플레이션 헤지 및 부의 축적 수단으로서의 견고함을 입증함을 보여줍니다. 이는 일반 주택 시장의 동향이라기보다는 특정 고가 자산군에 국한된 사례입니다.",
-    "action_point": "국내 핵심 입지 고급 부동산 자산의 장기 보유 가치를 재평가하고 포트폴리오 내 비중을 재검토한다."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "In crude Ohio rally speech, Trump says he may not help if Democrats win",
-    "title_ko": "트럼프, 오하이오 유세에서 '민주당 승리 시 지원 않겠다' 발언",
-    "link": "https://www.cnbc.com/2026/10/04/in-ohio-rally-speech-trump-says-he-may-not-help-if-democrats-win.html",
-    "published": "Sun, 04 Oct 2026 07:37:13 GMT",
-    "fetched_at": "2026-10-04 17:59:50",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "기술 인프라",
-      "금융"
-    ],
-    "keywords": [
-      "트럼프",
-      "미국 선거",
-      "정치적 불확실성",
-      "당파적 대립",
-      "데이터 센터"
-    ],
-    "reason": "미국 선거를 앞두고 트럼프의 발언은 정치적 불확실성과 당파적 대립을 심화시키며, 향후 정책 협력에 대한 우려를 높여 시장의 정치적 위험 프리미엄을 상승시킬 수 있습니다.",
-    "action_point": "미국 정치 불확실성 확대에 대비, 포트폴리오 내 달러 및 방어적 자산 비중 유지."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Brazil votes in high-stakes election as U.S.-China rivalry and debt loom large",
-    "title_ko": "브라질, 미중 경쟁과 부채 그림자 속 초접전 대선 투표",
-    "link": "https://www.cnbc.com/2026/10/02/brazil-election-bolsonaro-lula-china-trump.html",
-    "published": "Fri, 02 Oct 2026 09:24:33 GMT",
-    "fetched_at": "2026-10-04 18:00:12",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "신흥국 주식",
-      "신흥국 채권",
-      "원자재",
-      "외환"
-    ],
-    "keywords": [
-      "브라질",
-      "대선",
-      "미중 경쟁",
-      "부채",
-      "신흥국"
-    ],
-    "reason": "브라질 대선 결과는 주요 신흥국의 경제 정책 방향을 좌우하며, 미중 경쟁 구도와 함께 글로벌 원자재 시장 및 신흥국 투자 심리에 불확실성을 가중시킬 수 있다.",
-    "action_point": "브라질 및 신흥국 자산 비중과 원자재 포트폴리오의 위험 노출도를 점검."
   }
 ]
