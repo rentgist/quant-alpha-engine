@@ -1,5 +1,106 @@
 [
   {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "JPMorgan makes bullish call in fixed income space, suggests it's a once in a generation opportunity",
+    "title_ko": "JP모건, 채권 시장에 낙관적 전망 제시: '세대마다 한 번 오는 기회' 주장",
+    "link": "https://www.cnbc.com/2026/10/10/jpmorgan-sees-once-in-a-generation-opportunity-in-fixed-income-space.html",
+    "published": "Sat, 10 Oct 2026 15:00:01 GMT",
+    "fetched_at": "2026-10-11 05:22:49",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "채권",
+      "금융"
+    ],
+    "keywords": [
+      "JP모건",
+      "채권",
+      "신용",
+      "낙관론"
+    ],
+    "reason": "JP모건의 채권 시장 강세 전망은 높은 신뢰도와 함께 글로벌 자금 흐름에 영향을 미칠 수 있습니다. 특히 '고품질 기업의 신용 위험을 감수하라'는 조언은 안정적 수익을 추구하는 투자자들에게 새로운 기회를 시사합니다.",
+    "action_point": "채권 포트폴리오 내 고품질 회사채 비중 확대 검토"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Putin relayed Iran war proposal to Trump, Kremlin says",
+    "title_ko": "푸틴, 트럼프에 이란 전쟁 제안 전달했다고 크렘린궁 밝혀",
+    "link": "https://www.cnbc.com/2026/10/10/putin-trump-iran-war-russia-diesel.html",
+    "published": "Sat, 10 Oct 2026 13:42:36 GMT",
+    "fetched_at": "2026-10-11 05:23:02",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "방산",
+      "해운"
+    ],
+    "keywords": [
+      "푸틴",
+      "트럼프",
+      "이란",
+      "전쟁",
+      "지정학적 리스크",
+      "원유"
+    ],
+    "reason": "이 기사는 이란을 둘러싼 주요국 간의 지정학적 긴장 심화를 시사하며, 중동 지역 원유 공급 안정성에 대한 우려와 잠재적 분쟁 위험을 높입니다.",
+    "action_point": "지정학적 리스크 심화에 따른 원유 및 방산 관련 자산 비중 확대를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Trump says Ukraine should get a new president as he blames Zelenskyy for U.S. diesel prices",
+    "title_ko": "트럼프, 젤렌스키를 미국 디젤 가격의 원인으로 지목하며 우크라이나가 새 대통령을 뽑아야 한다고 주장",
+    "link": "https://www.cnbc.com/2026/10/10/trump-says-ukraine-should-get-a-new-president.html",
+    "published": "Sat, 10 Oct 2026 19:19:07 GMT",
+    "fetched_at": "2026-10-11 05:23:11",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "방위산업",
+      "운송",
+      "금융"
+    ],
+    "keywords": [
+      "트럼프",
+      "우크라이나",
+      "젤렌스키",
+      "디젤 가격",
+      "러시아",
+      "지정학적 위험",
+      "에너지 정책"
+    ],
+    "reason": "트럼프의 발언은 향후 미국 외교 정책 변화 가능성을 시사하며, 우크라이나 전쟁에 대한 서방의 단합을 약화시키고 지정학적 불확실성을 증대시킬 수 있습니다. 이는 에너지 시장 불안정성 및 원자재 가격 변동으로 이어질 수 있습니다.",
+    "action_point": "글로벌 지정학적 리스크 심화 및 에너지 시장 변동성 확대에 대비하여 관련 포트폴리오 비중을 재점검하십시오."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "주북 러대사 \"북한, 중요 파트너…경제·과학기술 협력 강화\" - 연합뉴스TV",
+    "title_ko": "주북 러대사 \"북한, 중요 파트너…경제·과학기술 협력 강화\"",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xbWRFZlhPM3FxR3NfTjY5bW8wR2pab2c1OHROMXd3VXFQaVVnbENvWlJuc21VcEZtTjJNa19BRHhwN2pQamhtd0lFSkMtTkZMeDQ0dWR6WHhHUmtja3J1eWxIbEVUXzA?oc=5",
+    "published": "Sat, 10 Oct 2026 12:53:00 GMT",
+    "fetched_at": "2026-10-11 05:23:24",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "방산",
+      "지정학"
+    ],
+    "keywords": [
+      "북한",
+      "러시아",
+      "협력",
+      "지정학",
+      "안보"
+    ],
+    "reason": "러시아와 북한의 경제·과학기술 협력 강화는 동북아 지정학적 불안정성을 심화시키고, 북한의 군사적 역량 증대 가능성을 높여 한국 시장에 지정학적 리스크 프리미엄을 가중시킬 수 있습니다.",
+    "action_point": "북러 협력 강화에 따른 지정학적 리스크 증가에 대비하여 방산 섹터 투자 비중을 검토하고 달러 등 안전자산 보유를 강화하라."
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "The world needs Ukraine’s grain. Its farmers are running out of reasons to plant",
@@ -2855,101 +2956,5 @@
     ],
     "reason": "스마트홈 클라우드 연동 규격의 국제표준화는 기기 간 호환성을 높여 스마트홈 시장 성장을 가속화하고, 관련 가전 및 IoT 기업들의 기술 개발 및 시장 확대를 촉진할 것입니다. 이는 해당 섹터 기업들의 매출 증대로 이어질 수 있습니다.",
     "action_point": "스마트홈 및 IoT 관련 기술 선도 기업들의 투자 매력도 재평가."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "한방 세트진료 10년새 25배 쑥 … 車보험 활용해 과잉 진료 논란",
-    "title_ko": "한방 세트진료 10년새 25배 쑥 … 車보험 활용해 과잉 진료 논란",
-    "link": "https://www.mk.co.kr/news/economy/12168518",
-    "published": "Mon, 05 Oct 2026 16:57:43 +09:00",
-    "fetched_at": "2026-10-05 16:59:17",
-    "sentiment": "악재",
-    "importance": 2,
-    "sectors": [
-      "보험",
-      "의료/헬스케어"
-    ],
-    "keywords": [
-      "한방진료",
-      "자동차보험",
-      "과잉진료",
-      "보험료"
-    ],
-    "reason": "자동차보험을 활용한 한방 과잉 진료 논란은 손해보험사의 손해율 악화와 수익성 저하로 이어질 수 있으며, 이는 향후 보험료 인상 압력이나 규제 강화로 이어질 가능성이 있습니다.",
-    "action_point": "손해보험 섹터 비중 축소 검토."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "산업은행 해외점포 대대적 재편 나선다",
-    "title_ko": "산업은행 해외점포 대대적 재편 나선다",
-    "link": "https://www.mk.co.kr/news/economy/12168515",
-    "published": "Mon, 05 Oct 2026 16:57:42 +09:00",
-    "fetched_at": "2026-10-05 16:59:30",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "금융"
-    ],
-    "keywords": [
-      "산업은행",
-      "해외점포",
-      "재편",
-      "공공기관 효율화",
-      "금융기관"
-    ],
-    "reason": "산업은행 해외점포 재편은 정부의 공공기관 효율화 기조에 따른 내부 경영 전략으로, 단기적으로 거시경제 지표나 특정 투자 자산에 직접적인 영향을 미치지 않습니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Trump tells South Korea to sign on to Alaska LNG deal or 'I'll just charge them more'",
-    "title_ko": "트럼프, 한국에 알래스카 LNG 계약 체결 압박하며 '안 하면 더 비싸게 받을 것'",
-    "link": "https://www.cnbc.com/2026/10/05/trump-alaska-lng-south-korea-pay.html",
-    "published": "Mon, 05 Oct 2026 00:47:47 GMT",
-    "fetched_at": "2026-10-05 10:25:06",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "유틸리티",
-      "건설",
-      "조선",
-      "화학"
-    ],
-    "keywords": [
-      "트럼프",
-      "알래스카 LNG",
-      "한국 에너지 정책",
-      "무역 압박",
-      "에너지 안보"
-    ],
-    "reason": "트럼프의 압박은 한국의 에너지 수입 비용 증가 및 미국과의 통상 마찰 가능성을 높이며, 이는 한국 기업의 비용 부담과 거시 경제 불확실성을 가중시킬 수 있다.",
-    "action_point": "국내 에너지 수입 의존도가 높은 산업 섹터 비중 조정을 고려."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "They survived World War II and lost decades, but not 2026. Japan's century-old businesses are disappearing at a record pace",
-    "title_ko": "2차 세계대전과 잃어버린 10년을 견뎠지만, 2026년은 아니었다. 일본의 100년 기업들이 기록적인 속도로 사라지고 있다",
-    "link": "https://www.cnbc.com/2026/10/05/japan-old-business-kadoya-subeshoten-.html",
-    "published": "Mon, 05 Oct 2026 01:08:10 GMT",
-    "fetched_at": "2026-10-05 10:25:14",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "일본 내수 서비스업",
-      "일본 전통 제조업"
-    ],
-    "keywords": [
-      "일본 경제",
-      "고령화",
-      "내수 침체",
-      "인력난"
-    ],
-    "reason": "일본의 고령화, 인력난, 내수 침체 등 구조적 문제가 심화되고 있음을 보여주며, 이는 장기적으로 일본 경제 성장률 둔화와 기업 투자 위축으로 이어질 수 있습니다.",
-    "action_point": "일본 내수 및 전통 산업 관련 직접 투자 비중 축소를 검토하십시오."
   }
 ]
