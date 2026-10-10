@@ -2,6 +2,79 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "Trump appoints committee to investigate statements by the Fed's Lisa Cook",
+    "title_ko": "트럼프, 연준 리사 쿡 이사 발언 조사 위원회 임명",
+    "link": "https://www.cnbc.com/2026/10/09/fed-lisa-cook-trump.html",
+    "published": "Fri, 09 Oct 2026 17:56:24 GMT",
+    "fetched_at": "2026-10-10 12:24:08",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "금융",
+      "기술"
+    ],
+    "keywords": [
+      "트럼프",
+      "연준",
+      "리사 쿡",
+      "중앙은행 독립성",
+      "통화정책"
+    ],
+    "reason": "트럼프의 연준 이사 조사 시도는 중앙은행 독립성에 대한 잠재적 위협으로 해석되어 금융 시장의 불확실성을 증폭시키고 향후 통화 정책 방향에 대한 우려를 키울 수 있습니다.",
+    "action_point": "미국 중앙은행의 정치적 간섭 가능성 증대에 따라 장기 국채 및 성장주 등 금리 민감 자산의 비중 축소를 검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[다음주 경제] 취업자 얼마나 늘었나…IMF, 韓성장률 전망 수정치 발표 - 연합뉴스",
+    "title_ko": "[다음주 경제] 취업자 얼마나 늘었나…IMF, 韓성장률 전망 수정치 발표",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9lS0hjTHRibGxTR0VYU25iTE9qS0xpclRTMW5EZ3o3NlM3dV9DZVF6YnZxYWpwWHRNSUxoTko4Tll1Ukktc1Bic1hBdmJLczNCTklVMzFBdV9aRHV1SVUwadIBYEFVX3lxTE9lS0hjTHRibGxTR0VYU25iTE9qS0xpclRTMW5EZ3o3NlM3dV9DZVF6YnZxYWpwWHRNSUxoTko4Tll1Ukktc1Bic1hBdmJLczNCTklVMzFBdV9aRHV1SVUwaQ?oc=5",
+    "published": "Sat, 10 Oct 2026 00:03:29 GMT",
+    "fetched_at": "2026-10-10 12:24:22",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "전반적 시장",
+      "소비재",
+      "서비스",
+      "금융"
+    ],
+    "keywords": [
+      "취업자 수",
+      "IMF 성장률 전망",
+      "한국 경제",
+      "거시경제 지표"
+    ],
+    "reason": "다음 주 발표될 취업자 수 및 IMF의 한국 성장률 전망치는 국내 경기 상황과 정책 방향을 가늠하는 핵심 지표로, 시장 전반의 투자 심리에 직접적인 영향을 미칠 것입니다.",
+    "action_point": "IMF 한국 성장률 전망 및 국내 고용 지표 발표 후 경기 민감주 포트폴리오 비중 조정 검토"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Verizon posts worst day since 2002 as SpaceX U.S. network plans whack cell provider stocks",
+    "title_ko": "SpaceX의 미국 네트워크 진출 계획, 버라이즌 주가 2002년 이후 최악의 하락 기록하며 통신사 주식 전반에 타격",
+    "link": "https://www.cnbc.com/2026/10/09/verizon-att-tmobile-stocks-spacex-network.html",
+    "published": "Fri, 09 Oct 2026 20:16:58 GMT",
+    "fetched_at": "2026-10-10 12:23:52",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "통신",
+      "위성 통신"
+    ],
+    "keywords": [
+      "버라이즌",
+      "SpaceX",
+      "스타링크",
+      "통신",
+      "경쟁"
+    ],
+    "reason": "SpaceX의 Starlink 서비스가 기존 통신 시장에 본격적으로 진출하면서, Verizon 등 주요 통신사들의 시장 점유율 및 수익성 압박이 현실화되고 있습니다. 이는 글로벌 통신 섹터 전반의 경쟁 심화와 밸류에이션 재평가를 야기할 수 있습니다.",
+    "action_point": "미국 및 글로벌 통신 섹터의 기존 사업자 비중 축소를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "Trump's diesel agreement with Putin accused of contradicting Russia sanctions law",
     "title_ko": "트럼프의 푸틴과의 디젤 합의, 러시아 제재법 위반 비난에 직면",
     "link": "https://www.cnbc.com/2026/10/09/trump-putin-diesel-russia-sanctions-ukraine.html",
@@ -2884,81 +2957,5 @@
     ],
     "reason": "G7의 비축유 방출 결정은 국제 유가를 하락시켜 글로벌 인플레이션 압력을 완화하고 에너지 수입국의 경제적 부담을 경감시킬 것입니다. 이는 전반적인 생산 비용 감소와 소비 심리 개선에 긍정적인 영향을 미칠 수 있습니다.",
     "action_point": "에너지 섹터 비중 축소 및 화학, 항공, 운송 등 유가 하락 수혜 섹터의 비중 확대를 고려하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "정부 162조 쌈짓돈 만들어줄 판…재경위 ‘국회 패싱 특례’ 반발",
-    "title_ko": "정부 162조 쌈짓돈 만들어줄 판…재경위 ‘국회 패싱 특례’ 반발",
-    "link": "https://www.mk.co.kr/news/economy/12168209",
-    "published": "Sun, 04 Oct 2026 20:06:26 +09:00",
-    "fetched_at": "2026-10-05 03:29:18",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "채권 시장",
-      "외환 시장",
-      "전반적인 시장"
-    ],
-    "keywords": [
-      "미래대응기금",
-      "재정 건전성",
-      "국회 통제",
-      "정부 지출",
-      "재정 정책 불확실성"
-    ],
-    "reason": "정부의 대규모 기금(162조 원) 운용에 대한 국회 통제 배제 논란은 재정 투명성 및 건전성 우려를 높여 시장에 불확실성을 가중시키고 투자 심리를 위축시킬 수 있습니다.",
-    "action_point": "정부 재정 건전성 및 투명성 관련 불확실성 증가에 대비하여 국내 장기 채권 비중 축소 및 달러 자산 보유 유지를 고려하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[리셋 코리아] 기술 경쟁력 넘어 국제 규칙 만드는 힘 키워야 - 중앙일보",
-    "title_ko": "[리셋 코리아] 기술 경쟁력 넘어 국제 규칙 만드는 힘 키워야",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpUFFGcEZIVy1kN2w4aUNGdWNJNGUxNVdhOWRLcndINU9ydTNJTEJ4THkzZk95Z3BlN0FJQjVJTkhEdTdkd28tWHhMU25BVzZTSVdzZ2NR?oc=5",
-    "published": "Sun, 04 Oct 2026 15:18:00 GMT",
-    "fetched_at": "2026-10-05 03:28:46",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "첨단 기술",
-      "수출 관련 산업",
-      "외교/안보"
-    ],
-    "keywords": [
-      "기술 경쟁력",
-      "국제 규칙",
-      "국가 전략",
-      "외교",
-      "통상"
-    ],
-    "reason": "이 기사는 한국의 장기적인 국가 전략 방향을 제시하며, 기술 경쟁력 강화를 넘어 국제 질서 형성에서의 주도적 역할을 강조합니다. 단기적인 시장 영향은 제한적이나, 향후 산업 정책 및 기업 환경에 영향을 미칠 수 있습니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "More tankers struck in the Middle East as Iran reiterates conditions for reopening the Strait of Hormuz",
-    "title_ko": "이란, 호르무즈 해협 재개방 조건 재차 강조...중동서 추가 유조선 피격",
-    "link": "https://www.cnbc.com/2026/10/04/more-tankers-struck-in-gulf-waters-as-iran-reiterates-conditions.html",
-    "published": "Sun, 04 Oct 2026 12:35:35 GMT",
-    "fetched_at": "2026-10-04 23:39:52",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "에너지/정유",
-      "해운/물류",
-      "항공",
-      "화학"
-    ],
-    "keywords": [
-      "이란",
-      "호르무즈 해협",
-      "유조선",
-      "원유",
-      "지정학적 리스크"
-    ],
-    "reason": "호르무즈 해협의 봉쇄 위협과 중동 내 유조선 피격은 국제유가 상승 압력을 높이며, 지정학적 불확실성을 증대시켜 글로벌 경제에 악영향을 미칠 수 있습니다.",
-    "action_point": "국제유가 상승 위험에 대비하여 원유 관련 자산 보유를 검토하고, 고유가 민감 섹터(항공, 해운 등)에 대한 투자 비중 축소를 고려."
   }
 ]
