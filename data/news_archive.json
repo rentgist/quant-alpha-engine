@@ -1,5 +1,31 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Microsoft's Nadella says AI needs an ‘emergency brake’ that humans control",
+    "title_ko": "마이크로소프트 나델라, AI에 인간이 통제하는 '비상 브레이크' 필요성 언급",
+    "link": "https://www.cnbc.com/2026/10/10/microsoft-satya-nadella-ai-emergency-brake-safety.html",
+    "published": "Sat, 10 Oct 2026 20:59:28 GMT",
+    "fetched_at": "2026-10-11 08:59:13",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "기술 (IT)",
+      "반도체",
+      "클라우드 컴퓨팅"
+    ],
+    "keywords": [
+      "AI",
+      "인공지능",
+      "나델라",
+      "마이크로소프트",
+      "규제",
+      "안전장치"
+    ],
+    "reason": "AI 개발 속도 및 방향에 대한 주요 테크 리더의 신중론을 반영하며, 향후 AI 관련 규제 강화 가능성을 시사한다. 이는 단기적으로 AI 섹터의 무한 성장 기대감에 제동을 걸 수 있으나, 장기적으로는 리스크 관리 측면에서 긍정적일 수 있다.",
+    "action_point": "AI 성장주의 단기적 과열 여부를 점검하고, 규제 리스크에 대비해 포트폴리오 재조정을 고려하라."
+  },
+  {
     "source": "CNBC_Finance",
     "market": "US",
     "title": "JPMorgan makes bullish call in fixed income space, suggests it's a once in a generation opportunity",
@@ -2932,29 +2958,5 @@
     ],
     "reason": "정부의 지방 개발 핵심 펀드 집행 부진은 지역 경기 활성화 및 건설 수요 진작 효과 미미로 이어져, 국내 내수 및 건설/부동산 섹터에 부정적 심리를 가중시킬 수 있습니다.",
     "action_point": "국내 건설 및 지방 부동산 관련 투자 비중 축소 검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "스마트홈 클라우드 연동 규격 HCA 국제표준화 추진 - 전자신문",
-    "title_ko": "스마트홈 클라우드 연동 규격 HCA 국제표준화 추진 - 전자신문",
-    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBoVHFkZXl2WHEycHNXWXl2T1BCRklyWTFhQnBxa3ZpZG45aVpnQ3VPaUtUQVNpalRxQmlNclo2TEItcERQWDhBZlNaSGRrUQ?oc=5",
-    "published": "Mon, 05 Oct 2026 07:00:00 GMT",
-    "fetched_at": "2026-10-05 16:58:48",
-    "sentiment": "호재",
-    "importance": 2,
-    "sectors": [
-      "가전",
-      "사물인터넷",
-      "클라우드"
-    ],
-    "keywords": [
-      "스마트홈",
-      "HCA",
-      "국제표준",
-      "사물인터넷"
-    ],
-    "reason": "스마트홈 클라우드 연동 규격의 국제표준화는 기기 간 호환성을 높여 스마트홈 시장 성장을 가속화하고, 관련 가전 및 IoT 기업들의 기술 개발 및 시장 확대를 촉진할 것입니다. 이는 해당 섹터 기업들의 매출 증대로 이어질 수 있습니다.",
-    "action_point": "스마트홈 및 IoT 관련 기술 선도 기업들의 투자 매력도 재평가."
   }
 ]
