@@ -1,5 +1,58 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "미러 ’경유딜’에 EU “전쟁자금 대는 것“…영국 “우크라와 연대“ - 연합뉴스TV",
+    "title_ko": "미러 ’경유딜’에 EU “전쟁자금 대는 것“…영국 “우크라와 연대“ - 연합뉴스TV",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ldjVtMmhCUVlkZnBseFg3OHFlTHZGNXpidUJhM19uY3N4UUFwS3VwalNFYjF0NjB0eURxQThxTFg4dnFaZDU1NVJxeTBEWGpQOXM5eXZKZGlxVmpMQ1U0NEtfLUdFQWs?oc=5",
+    "published": "Sat, 10 Oct 2026 20:23:00 GMT",
+    "fetched_at": "2026-10-11 13:23:26",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "석유및가스",
+      "방산",
+      "운송"
+    ],
+    "keywords": [
+      "미러관계",
+      "경유",
+      "에너지안보",
+      "지정학적리스크",
+      "우크라이나전쟁"
+    ],
+    "reason": "미국과 러시아 간의 '경유딜'이 유럽연합의 반발을 사며 지정학적 긴장이 지속되고 있음을 보여준다. 이는 글로벌 에너지 시장의 불확실성을 가중시키고 국제 유가 변동성을 높이는 요인이 될 수 있다.",
+    "action_point": "에너지 관련 자산의 변동성 확대에 대비하고, 방산주 등 지정학적 리스크 헤지 자산의 비중을 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "지방공항의 기분 좋은 반격…사통팔달 청주국제공항에서 시작된 '여행의 이유' - 정책브리핑",
+    "title_ko": "지방공항의 기분 좋은 반격…사통팔달 청주국제공항에서 시작된 '여행의 이유' - 정책브리핑",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSW5LYTFxODZIMEcyVGRpcWFXMEdXZnhDZU1iUGN5ZXpyNlViQUxrQjdRUUpyZjFqczZrVmNDODNpeVNBLTdOcUNuUFZpZ0FsVE4zU0pmZGFvOEI1eWRPT2Y4QXJDenZSVkwxeWVocTlZX3g5M2ZmSF8xbENuaUFxMjR2VWhlZFk?oc=5",
+    "published": "Sun, 11 Oct 2026 00:42:58 GMT",
+    "fetched_at": "2026-10-11 13:23:17",
+    "sentiment": "호재",
+    "importance": 2,
+    "sectors": [
+      "항공",
+      "여행/관광",
+      "유통",
+      "지역경제"
+    ],
+    "keywords": [
+      "지방공항",
+      "청주국제공항",
+      "여행",
+      "관광",
+      "항공",
+      "지역경제 활성화"
+    ],
+    "reason": "청주국제공항의 활성화는 지방 거점 공항들의 반등 가능성을 시사하며, 국내외 여행 수요 회복에 따른 항공 및 관광 산업 전반의 긍정적인 신호로 해석될 수 있습니다. 이는 지역 경제 활성화에도 기여할 전망입니다.",
+    "action_point": "국내 항공 및 여행 섹터 내 지방 거점 공항 활성화 수혜주 관심 유지."
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "Microsoft's Nadella says AI needs an ‘emergency brake’ that humans control",
@@ -2909,54 +2962,5 @@
     ],
     "reason": "북한군 지뢰로 인한 국군 장병 부상은 남북 간의 군사적 긴장을 미세하게 높이는 악재로 작용합니다. 이는 지정학적 리스크를 부각하며 투자심리에 단기적인 영향을 줄 수 있으나, 지뢰 제거 조치로 추가적인 확전 가능성은 제한적입니다.",
     "action_point": "해당 없음"
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "[포토] 소상공인 금융지원 나선 금융권",
-    "title_ko": "[포토] 소상공인 금융지원 나선 금융권",
-    "link": "https://www.mk.co.kr/news/economy/12168519",
-    "published": "Mon, 05 Oct 2026 16:57:44 +09:00",
-    "fetched_at": "2026-10-05 16:59:09",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "금융",
-      "소비재",
-      "서비스"
-    ],
-    "keywords": [
-      "소상공인",
-      "금융지원",
-      "내수",
-      "고용",
-      "금리"
-    ],
-    "reason": "금융권의 소상공인 지원은 국내 내수 경기 하방 압력을 완화하고 고용 안정에 기여할 수 있으나, 전반적인 경제 성장 동력에는 제한적인 영향을 미치며, 금융권의 잠재적 리스크도 고려해야 함.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "\"15조 목표\"… 지역활성화펀드 투자실적 1800억뿐",
-    "title_ko": "\"15조 목표\"… 지역활성화펀드 투자실적 1800억뿐",
-    "link": "https://www.mk.co.kr/news/economy/12168517",
-    "published": "Mon, 05 Oct 2026 16:57:43 +09:00",
-    "fetched_at": "2026-10-05 16:59:23",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "건설",
-      "부동산",
-      "금융"
-    ],
-    "keywords": [
-      "지역활성화펀드",
-      "지방개발",
-      "정부정책",
-      "건설경기"
-    ],
-    "reason": "정부의 지방 개발 핵심 펀드 집행 부진은 지역 경기 활성화 및 건설 수요 진작 효과 미미로 이어져, 국내 내수 및 건설/부동산 섹터에 부정적 심리를 가중시킬 수 있습니다.",
-    "action_point": "국내 건설 및 지방 부동산 관련 투자 비중 축소 검토."
   }
 ]
