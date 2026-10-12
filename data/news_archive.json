@@ -2,6 +2,53 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "Trump says he is 'going to look at' joining Saudi Arabia in the fight against Iran-backed Houthis after deadly airport strike",
+    "title_ko": "트럼프, 치명적 공항 공격 후 사우디와 이란 지원 후티 반군에 맞서 싸우는 방안 '검토할 것' 시사",
+    "link": "https://www.cnbc.com/2026/10/11/trump-saudi-arabia-iran-houthis.html",
+    "published": "Sun, 11 Oct 2026 21:30:45 GMT",
+    "fetched_at": "2026-10-12 09:50:23",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "방산",
+      "해운"
+    ],
+    "keywords": [
+      "트럼프",
+      "중동",
+      "지정학적 리스크",
+      "유가",
+      "후티 반군"
+    ],
+    "reason": "트럼프의 중동 개입 시사 발언은 이란-사우디 대립 구도를 심화시키고 역내 지정학적 긴장을 고조시킬 수 있습니다. 이는 글로벌 유가 상승 압력과 함께 안전자산 선호 심리를 자극할 가능성이 있습니다.",
+    "action_point": "중동 불안에 따른 유가 상승 가능성에 대비해 에너지 관련 자산 비중 확대 및 방산 섹터 관심 유지."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Plenty is working against this market. Here's why I'm staying invested anyway",
+    "title_ko": "현재 시장에 불리한 요소가 많지만, 그럼에도 불구하고 투자를 유지하는 이유",
+    "link": "https://www.cnbc.com/investingclub/2026/10/11/plenty-is-working-against-this-market-why-im-staying-invested-anyway.html",
+    "published": "Mon, 12 Oct 2026 00:23:07 GMT",
+    "fetched_at": "2026-10-12 09:50:34",
+    "sentiment": "악재",
+    "importance": 2,
+    "sectors": [
+      "주식시장 전반"
+    ],
+    "keywords": [
+      "시장 상황",
+      "투자 전략",
+      "위험 요소",
+      "주식 투자"
+    ],
+    "reason": "기사는 현재 주식 시장에 불리한 요소가 많아 주식 보유에 대한 강력한 근거가 부족하다고 지적하며, 시장 전반에 대한 신중한 접근이 필요함을 시사합니다.",
+    "action_point": "주식 포트폴리오의 위험 자산 비중을 점검하고 방어적 포지션을 강화할 것을 검토."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "AI’s quiet safety gatekeepers are stepping into the spotlight",
     "title_ko": "AI의 조용한 안전 관리자들이 주목받고 있다",
     "link": "https://www.cnbc.com/2026/10/11/ais-quiet-safety-gatekeepers-are-stepping-into-the-spotlight.html",
@@ -2928,54 +2975,5 @@
     ],
     "reason": "엘니뇨로 인한 서아프리카 코코아 공급 차질은 초콜릿 제조사의 비용 부담을 가중시켜 제품 가격 인상으로 이어질 것이며, 이는 전반적인 식품 인플레이션 압력을 높일 수 있습니다.",
     "action_point": "식품/음료 섹터 중 코코아 원가 비중이 높은 기업의 투자 비중 축소를 검토하십시오."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[속보]美기술주 강세에 나스닥 최고치 경신…연휴 보낸 코스피는? - 문화일보",
-    "title_ko": "[속보]美기술주 강세에 나스닥 최고치 경신…연휴 보낸 코스피는?",
-    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9qSVFMUmxla20yMzZldXVMNm5EVjRVSEpvYnBYRnFFQ3B2RUtSTHVpYk05UldtZXFiajJPLXJrN0k3TWlDR2tJaC00c3FDNGpM?oc=5",
-    "published": "Mon, 05 Oct 2026 21:40:14 GMT",
-    "fetched_at": "2026-10-06 08:02:10",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "기술주",
-      "반도체",
-      "성장주"
-    ],
-    "keywords": [
-      "미국 기술주",
-      "나스닥 최고치",
-      "코스피",
-      "증시 강세"
-    ],
-    "reason": "미국 기술주의 강세와 나스닥 최고치 경신은 글로벌 위험선호 심리를 강화하며, 한국 증시 특히 기술주 및 성장주에 긍정적인 투자 심리 회복을 유도할 것입니다. 국내 증시는 연휴 이후 미국 시장의 훈풍을 반영하며 상승 출발할 가능성이 높습니다.",
-    "action_point": "국내 기술주 및 성장주 비중 확대를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "SpaceX stock climbs to highest since June, returning Musk to trillionaire status",
-    "title_ko": "스페이스X 주가 6월 이후 최고치, 머스크 다시 '조만장자' 지위 회복",
-    "link": "https://www.cnbc.com/2026/10/05/spacex-stock-climbs-highest-since-june-returning-musk-to-trillionaire.html",
-    "published": "Mon, 05 Oct 2026 20:10:13 GMT",
-    "fetched_at": "2026-10-06 08:01:58",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "우주 항공",
-      "인공지능",
-      "기술"
-    ],
-    "keywords": [
-      "SpaceX",
-      "Elon Musk",
-      "AI",
-      "Starship",
-      "우주 산업"
-    ],
-    "reason": "스페이스X의 AI 사업과 스타십 진전이 회사 가치를 끌어올리며 혁신 기술 분야의 성장 모멘텀을 보여줍니다. 이는 비상장 기업 투자 심리 및 관련 상장 섹터에 긍정적인 영향을 줄 수 있습니다.",
-    "action_point": "우주 항공 및 인공지능 관련 상장 기업 및 ETF 투자 기회 탐색을 권고합니다."
   }
 ]
