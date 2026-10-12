@@ -2,6 +2,29 @@
   {
     "source": "CNBC_Finance",
     "market": "US",
+    "title": "The bull market turned 4 years old on Monday. Investors say reaching a fifth birthday could be challenging",
+    "title_ko": "강세장이 4주년을 맞았지만, 투자자들은 5년차는 어려울 수 있다고 말한다",
+    "link": "https://www.cnbc.com/2026/10/12/the-bull-market-just-turned-four-after-climbing-a-wall-of-worry.html",
+    "published": "Mon, 12 Oct 2026 18:18:39 GMT",
+    "fetched_at": "2026-10-13 08:22:19",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "전반적인 시장"
+    ],
+    "keywords": [
+      "강세장",
+      "S&P 500",
+      "시장 전망",
+      "투자 심리",
+      "위험 관리"
+    ],
+    "reason": "S&P 500이 지난 몇 년간 120% 가까이 상승하며 강세장이 상당 기간 지속되었음을 나타내며, 투자자들은 향후 추가 상승에 대한 기대치를 낮추고 시장 조정 가능성에 대비할 필요가 있음을 시사합니다.",
+    "action_point": "포트폴리오 내 위험 노출도를 재점검하고 방어적 자산 비중 확대를 고려하라."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
     "title": "Inflation likely peaked for 2026 but will remain sticky, according to prediction markets",
     "title_ko": "예측 시장: 인플레이션, 2026년 고점 이후에도 고착화될 전망",
     "link": "https://www.cnbc.com/2026/10/12/inflation-will-remain-sticky-in-2026-according-to-prediction-markets.html",
@@ -2952,33 +2975,5 @@
     ],
     "reason": "예멘 내전 격화로 인한 홍해 지역 지정학적 불안정성 증가는 원유 공급 차질 우려를 고조시켜 유가 상승 압력으로 작용하며 글로벌 인플레이션 및 운송 비용 부담을 가중시킬 것입니다.",
     "action_point": "고유가 및 지정학적 리스크 심화에 대비하여 에너지 의존도가 높은 산업재 및 운송 섹터 비중 축소를 검토하라."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Goldman: Diesel prices set to stay high through 2027 as refineries struggle to meet demand",
-    "title_ko": "골드만삭스: 정유사 공급난으로 2027년까지 디젤 가격 고공행진 예상",
-    "link": "https://www.cnbc.com/2026/10/06/diesel-oil-refinery-price-capacity-demand.html",
-    "published": "Tue, 06 Oct 2026 08:47:30 GMT",
-    "fetched_at": "2026-10-06 19:54:44",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "운송",
-      "물류",
-      "건설",
-      "제조업",
-      "농업",
-      "정유"
-    ],
-    "keywords": [
-      "디젤 가격",
-      "정유 생산",
-      "인플레이션",
-      "에너지 비용",
-      "골드만삭스"
-    ],
-    "reason": "디젤 가격의 장기적 고공행진은 글로벌 인플레이션 압력을 지속시키고, 운송 및 산업 전반의 비용 부담을 가중시켜 기업 수익성 악화와 소비 위축으로 이어질 수 있습니다. 이는 전반적인 경제 성장 둔화 요인으로 작용할 것입니다.",
-    "action_point": "운송, 물류, 중공업 등 디젤 의존도가 높은 섹터의 비중 축소 및 효율성 개선 기업 주시를 검토."
   }
 ]
