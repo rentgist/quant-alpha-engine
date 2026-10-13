@@ -1,5 +1,31 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "IMF warns bond yields could see a 'disorderly' spike as debt, inflation risks worsen",
+    "title_ko": "IMF, 부채 및 인플레이션 위험 악화로 채권 수익률 '무질서한' 급등 경고",
+    "link": "https://www.cnbc.com/2026/10/13/treasury-yields-imf-debt-inflation-.html",
+    "published": "Tue, 13 Oct 2026 03:19:43 GMT",
+    "fetched_at": "2026-10-13 13:34:52",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "채권",
+      "금융",
+      "부동산",
+      "성장주"
+    ],
+    "keywords": [
+      "IMF",
+      "채권 수익률",
+      "인플레이션",
+      "부채",
+      "시장 변동성"
+    ],
+    "reason": "IMF의 경고는 글로벌 채권 시장의 불안정성 심화와 잠재적인 금리 급등 위험을 시사하며, 이는 전반적인 금융 시장의 변동성을 키우고 경제 성장에 부담을 줄 수 있다.",
+    "action_point": "고금리 장기화에 대비하여 포트폴리오의 채권 비중과 금리 민감 자산 노출도를 재점검하고, 유동성을 확보하라."
+  },
+  {
     "source": "CNBC_Finance",
     "market": "US",
     "title": "The bull market turned 4 years old on Monday. Investors say reaching a fifth birthday could be challenging",
@@ -2949,31 +2975,5 @@
     ],
     "reason": "개별 제약기업의 경영권 승계 이슈로, 해당 기업의 지배구조 안정성에는 긍정적일 수 있으나 거시경제나 전체 증시 흐름에 미치는 영향은 극히 제한적입니다.",
     "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Yemen forces reclaim key Red Sea port city from Iran-backed Houthis in major counteroffensive",
-    "title_ko": "예멘군, 주요 홍해 항구 도시 이란 지원 후티 반군으로부터 탈환하며 대규모 역공 성공",
-    "link": "https://www.cnbc.com/2026/10/06/iran-war-yemen-saudi-arabia-mokha-oil.html",
-    "published": "Tue, 06 Oct 2026 08:53:50 GMT",
-    "fetched_at": "2026-10-06 19:55:14",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "에너지",
-      "해운",
-      "항공",
-      "산업재"
-    ],
-    "keywords": [
-      "예멘",
-      "후티 반군",
-      "홍해",
-      "유가",
-      "중동 지정학"
-    ],
-    "reason": "예멘 내전 격화로 인한 홍해 지역 지정학적 불안정성 증가는 원유 공급 차질 우려를 고조시켜 유가 상승 압력으로 작용하며 글로벌 인플레이션 및 운송 비용 부담을 가중시킬 것입니다.",
-    "action_point": "고유가 및 지정학적 리스크 심화에 대비하여 에너지 의존도가 높은 산업재 및 운송 섹터 비중 축소를 검토하라."
   }
 ]
