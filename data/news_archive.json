@@ -1,5 +1,29 @@
 [
   {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts",
+    "title_ko": "JP모건 체이스, 외부 AI 에이전트의 계좌 직접 접근 차단",
+    "link": "https://www.cnbc.com/2026/10/13/jpmorgan-ai-agents-account-access.html",
+    "published": "Tue, 13 Oct 2026 18:46:27 GMT",
+    "fetched_at": "2026-10-14 04:39:45",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "금융 서비스",
+      "기술",
+      "사이버 보안"
+    ],
+    "keywords": [
+      "JPMorgan Chase",
+      "AI 에이전트",
+      "사이버 보안",
+      "금융 리스크"
+    ],
+    "reason": "이 뉴스는 금융 기관들이 AI 기술 도입 시 보안과 리스크 관리를 최우선으로 고려하게 될 것임을 시사하며, 장기적으로 금융 시스템의 안정성 강화에 기여할 수 있습니다.",
+    "action_point": "금융 섹터 투자 시 기업의 AI 리스크 관리 및 사이버 보안 투자 현황을 면밀히 검토하십시오."
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "Iran reportedly fortifies nuclear sites as it prepares for possible U.S. strikes after midterms",
@@ -2954,30 +2978,5 @@
     ],
     "reason": "이 소식은 인도 시장의 외국 기업 진입에 대한 규제 및 독점적 장벽 존재 가능성을 시사하며, 이는 향후 인도 내 글로벌 기술 기업의 사업 확장에 도전이 될 수 있음을 보여줍니다.",
     "action_point": "포트폴리오에 직접적인 영향이 없으므로 해당 없음."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "AI startup Manus raises $500 million in first funding round since Meta breakup",
-    "title_ko": "AI 스타트업 마누스, 메타와의 결별 후 첫 펀딩 라운드에서 5억 달러 유치",
-    "link": "https://www.cnbc.com/2026/10/08/manus-fund-raise-meta-muse-tencent.html",
-    "published": "Thu, 08 Oct 2026 06:32:57 GMT",
-    "fetched_at": "2026-10-08 15:50:22",
-    "sentiment": "호재",
-    "importance": 2,
-    "sectors": [
-      "인공지능",
-      "기술",
-      "벤처 캐피탈"
-    ],
-    "keywords": [
-      "AI",
-      "마누스",
-      "투자 유치",
-      "메타",
-      "중국 규제"
-    ],
-    "reason": "중국 규제로 인한 인수 무산에도 불구하고 AI 에이전트 개발 스타트업이 대규모 자금을 유치하여 AI 기술 투자 열기가 지속됨을 시사합니다. 이는 AI 섹터의 견조한 성장세와 자금 유입 가능성을 뒷받침합니다.",
-    "action_point": "선별된 AI 에이전트 개발 기업 또는 AI 관련 펀드 비중 확대를 검토하십시오."
   }
 ]
