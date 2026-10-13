@@ -2,6 +2,100 @@
   {
     "source": "CNBC_Finance",
     "market": "US",
+    "title": "Goldman says investors are looking for 'profitable' Chinese business growth overseas",
+    "title_ko": "골드만삭스, 투자자들은 '수익성 있는' 중국 기업의 해외 성장을 모색 중이라고 밝혀",
+    "link": "https://www.cnbc.com/2026/10/14/goldman-says-investors-seek-profitable-chinese-business-growth-abroad.html",
+    "published": "Tue, 13 Oct 2026 23:05:12 GMT",
+    "fetched_at": "2026-10-14 08:31:43",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "전기차",
+      "제조업",
+      "기술주"
+    ],
+    "keywords": [
+      "중국 경제",
+      "해외 확장",
+      "경쟁 심화",
+      "전기차"
+    ],
+    "reason": "중국 내수 부진으로 기업들이 해외 시장에서 성장 동력을 찾으면서 글로벌 시장의 경쟁이 심화되고, 이는 기존 해외 진출 기업들의 수익성에 영향을 미칠 수 있습니다.",
+    "action_point": "중국 기업의 해외 진출로 경쟁 심화가 예상되는 전기차, 제조업 등 국내외 섹터 비중을 재검토하라."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Williams says Fed may not have to hike rates in 2027, at odds with traders",
+    "title_ko": "윌리엄스 뉴욕 연은 총재, 2027년 금리 인상 불필요 가능성 언급, 시장 예상과 상충",
+    "link": "https://www.cnbc.com/2026/10/13/john-williams-fed-rate-hikes-2027.html",
+    "published": "Tue, 13 Oct 2026 19:46:12 GMT",
+    "fetched_at": "2026-10-14 08:31:51",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "기술",
+      "성장주",
+      "부동산",
+      "채권"
+    ],
+    "keywords": [
+      "Fed",
+      "금리 인상",
+      "통화정책",
+      "인플레이션"
+    ],
+    "reason": "뉴욕 연은 총재의 예상보다 완화적인 금리 인상 경로 언급은 인플레이션 완화와 통화정책의 정점 도달 가능성을 시사하며, 이는 위험 자산에 긍정적으로 작용할 수 있습니다.",
+    "action_point": "미국 금리 인상 사이클 조기 종료 가능성에 대비하여 장기 채권 및 성장주 비중 확대를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Bank of America fined $1.2 billion over money-laundering violations",
+    "title_ko": "뱅크 오브 아메리카, 자금세탁 위반으로 12억 달러 벌금 부과",
+    "link": "https://www.cnbc.com/2026/10/13/bank-of-america-treasury-money-laundering.html",
+    "published": "Tue, 13 Oct 2026 20:45:01 GMT",
+    "fetched_at": "2026-10-14 08:32:06",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "금융"
+    ],
+    "keywords": [
+      "뱅크 오브 아메리카",
+      "자금세탁",
+      "벌금",
+      "규제"
+    ],
+    "reason": "뱅크 오브 아메리카의 대규모 벌금은 해당 은행의 실적과 주가에 직접적인 악영향을 미치며, 금융권 전반의 규제 리스크와 준법 비용 증가 우려를 키울 수 있습니다.",
+    "action_point": "미국 금융 섹터 내 은행주 포트폴리오 비중 및 규제 리스크를 점검하십시오."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Trump's diesel deal with Russia equals less than two weeks of U.S. demand",
+    "title_ko": "트럼프의 러시아 디젤 거래, 미국 수요의 2주 미만 분량",
+    "link": "https://www.cnbc.com/2026/10/13/trump-putin-zelenskyy-russia-ukraine-diesel-oil-price.html",
+    "published": "Tue, 13 Oct 2026 16:53:43 GMT",
+    "fetched_at": "2026-10-14 08:32:00",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "에너지"
+    ],
+    "keywords": [
+      "트럼프",
+      "러시아",
+      "디젤",
+      "유가",
+      "중간선거"
+    ],
+    "reason": "트럼프 전 대통령의 러시아산 디젤 거래는 정치적 목적(유가 안정화)을 띠지만, 미국 전체 수요의 2주 미만 분량으로 실제 유가나 에너지 시장에 미칠 영향은 극히 제한적입니다. 거시경제적 파급 효과는 미미합니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
     "title": "JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts",
     "title_ko": "JP모건 체이스, 외부 AI 에이전트의 계좌 직접 접근 차단",
     "link": "https://www.cnbc.com/2026/10/13/jpmorgan-ai-agents-account-access.html",
@@ -2875,108 +2969,5 @@
     ],
     "reason": "국내 금융권 해킹 배후에 대한 추정 보고서가 나왔으나, 확정되지 않은 정보로 금융권 전반에 미칠 즉각적인 시스템 리스크는 제한적입니다. 다만, 금융권의 사이버보안 중요성을 상기시키는 요인입니다.",
     "action_point": "국내 금융 섹터 내 투자 비중이 높은 경우, 해당 기업들의 사이버보안 시스템 및 대응 역량을 점검하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Trump says he is not keen on a deal with Iran as U.S. reportedly prepares for 'massive bombing'",
-    "title_ko": "트럼프, 이란과의 합의에 관심 없다…미국 '대규모 폭격' 준비 보도",
-    "link": "https://www.cnbc.com/2026/10/08/us-iran-war-trump-hormuz.html",
-    "published": "Thu, 08 Oct 2026 03:29:29 GMT",
-    "fetched_at": "2026-10-08 15:50:05",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "에너지",
-      "방산",
-      "항공운송",
-      "해운",
-      "보험",
-      "금융"
-    ],
-    "keywords": [
-      "트럼프",
-      "이란",
-      "지정학적 리스크",
-      "군사 작전",
-      "유가"
-    ],
-    "reason": "미국과 이란 간의 군사적 충돌 가능성이 고조되면서 중동발 지정학적 리스크가 급증할 수 있으며, 이는 국제 유가 급등과 전반적인 금융시장 불안정으로 이어질 위험이 있습니다.",
-    "action_point": "유가 상승에 대비해 에너지 관련 자산 비중 확대 및 안전자산(금, 달러) 보유를 강화하고, 지정학적 리스크에 민감한 위험자산 비중을 축소하는 것을 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Samsung forecasts record third-quarter profit of $80 billion as AI boom fuels chip demand",
-    "title_ko": "삼성전자, AI 붐에 힘입어 3분기 사상 최대 실적 전망",
-    "link": "https://www.cnbc.com/2026/10/08/samsung-q3-earnings.html",
-    "published": "Thu, 08 Oct 2026 00:51:23 GMT",
-    "fetched_at": "2026-10-08 15:50:30",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "반도체",
-      "IT 하드웨어",
-      "기술주"
-    ],
-    "keywords": [
-      "삼성전자",
-      "반도체",
-      "AI",
-      "실적",
-      "기술주"
-    ],
-    "reason": "글로벌 AI 수요 강세와 반도체 업황 개선의 신호탄으로, 관련 IT 섹터 전반의 투자 심리를 크게 개선시키며 코스피 상승에 긍정적으로 작용할 것입니다.",
-    "action_point": "AI 및 반도체 관련 기술주 비중 확대 검토"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[경제읽기] 삼성전자 3분기 역대급 호실적에도…코스피 하락 - 연합뉴스TV",
-    "title_ko": "[경제읽기] 삼성전자 3분기 역대급 호실적에도…코스피 하락 - 연합뉴스TV",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkc0VUOHpkcEswVGM0OUc4eG81V0JCd0lnOFNjbk9CdWlhcW4tNmVQNHR2Q3dTemplTlFyQXdNTDRtLXN3RXo2OEdKVlF4N3pkdG5rLTlZT2Q5bVNxOFViNXR5bUNZYTA?oc=5",
-    "published": "Thu, 08 Oct 2026 04:12:00 GMT",
-    "fetched_at": "2026-10-08 15:50:41",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "반도체",
-      "IT/기술",
-      "전자제품"
-    ],
-    "keywords": [
-      "삼성전자",
-      "3분기 실적",
-      "코스피",
-      "반도체"
-    ],
-    "reason": "삼성전자의 역대급 호실적에도 불구하고 코스피가 하락한 것은 시장 전반에 내재된 약세 심리 및 거시경제적 우려가 강하다는 신호다. 개별 기업 호재가 지수 상승을 견인하지 못하는 상황은 투자 심리 위축을 시사한다.",
-    "action_point": "국내 증시의 추가 하락 가능성에 대비하여 KOSPI 비중 축소 및 현금 보유 비중 확대를 고려하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Elon Musk blames Indian 'oligarchs' for stalling Starlink launch",
-    "title_ko": "일론 머스크, 스타링크 출시 지연에 인도 '과두정치 세력' 비난",
-    "link": "https://www.cnbc.com/2026/10/08/elon-musk-starlink-spacex-jio-airtel-india.html",
-    "published": "Thu, 08 Oct 2026 05:28:40 GMT",
-    "fetched_at": "2026-10-08 15:50:14",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "통신",
-      "IT 서비스",
-      "인도 시장 투자"
-    ],
-    "keywords": [
-      "일론 머스크",
-      "스타링크",
-      "인도",
-      "과두정치",
-      "시장 진입",
-      "독점"
-    ],
-    "reason": "이 소식은 인도 시장의 외국 기업 진입에 대한 규제 및 독점적 장벽 존재 가능성을 시사하며, 이는 향후 인도 내 글로벌 기술 기업의 사업 확장에 도전이 될 수 있음을 보여줍니다.",
-    "action_point": "포트폴리오에 직접적인 영향이 없으므로 해당 없음."
   }
 ]
