@@ -1,5 +1,29 @@
 [
   {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million",
+    "title_ko": "모건스탠리, 주식 트레이딩 매출 9.09억 달러 상회하며 예상치 뛰어넘어",
+    "link": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html",
+    "published": "Wed, 14 Oct 2026 13:11:07 GMT",
+    "fetched_at": "2026-10-14 23:11:52",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "금융",
+      "증권"
+    ],
+    "keywords": [
+      "모건스탠리",
+      "실적",
+      "주식 트레이딩",
+      "투자은행",
+      "금융 섹터"
+    ],
+    "reason": "주요 투자은행인 모건스탠리의 호실적은 자본시장의 활발한 움직임과 투자자 신뢰 회복을 시사하며, 이는 금융 섹터 전반에 긍정적인 신호로 해석될 수 있습니다.",
+    "action_point": "미국 금융 섹터 투자 비중 확대 또는 관련 ETF 매수 검토"
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "Diesel squeeze set to last well into 2027 as Iran war disrupts supply, IEA says",
@@ -2951,29 +2975,5 @@
     ],
     "reason": "고유가 지속은 인플레이션 압력을 가중시켜 연준의 금리 인하 기대감을 약화하고, 소비 심리 위축 및 기업 비용 증가로 이어질 수 있습니다.",
     "action_point": "고유가 지속에 따른 인플레이션 압력에 대비하여 원자재 관련 자산 비중 확대를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Trump says U.S. will not attack Iran before midterm election",
-    "title_ko": "트럼프, 중간선거 전 이란 공격 없을 것이라고 밝혀",
-    "link": "https://www.cnbc.com/2026/10/08/iran-war-trump-midterm-election.html",
-    "published": "Thu, 08 Oct 2026 17:41:20 GMT",
-    "fetched_at": "2026-10-09 05:22:13",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "운송/항공"
-    ],
-    "keywords": [
-      "트럼프",
-      "이란",
-      "중간선거",
-      "유가",
-      "지정학적 리스크 완화"
-    ],
-    "reason": "트럼프의 발언은 중간선거 전 이란과의 군사적 충돌 가능성을 일시적으로 낮춰 지정학적 리스크 완화에 기여하며, 이는 국제 유가 안정화에 긍정적으로 작용할 수 있다.",
-    "action_point": "유가 상방 압력 완화에 따른 에너지 섹터 투자 비중 조절 검토."
   }
 ]
