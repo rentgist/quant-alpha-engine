@@ -2,6 +2,56 @@
   {
     "source": "CNBC_Finance",
     "market": "US",
+    "title": "China's exports likely grew by double-digits in September",
+    "title_ko": "9월 중국 수출, 두 자릿수 성장 예상",
+    "link": "https://www.cnbc.com/2026/10/14/chinas-exports-likely-grew-by-double-digits-in-september.html",
+    "published": "Wed, 14 Oct 2026 01:16:02 GMT",
+    "fetched_at": "2026-10-14 11:44:29",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "글로벌 무역",
+      "산업재",
+      "원자재",
+      "해운"
+    ],
+    "keywords": [
+      "중국 경제",
+      "수출 성장",
+      "글로벌 경기"
+    ],
+    "reason": "중국 수출의 두 자릿수 성장은 글로벌 수요 회복과 중국 경제의 견조한 흐름을 시사하며, 이는 세계 경기 및 공급망 전반에 긍정적인 신호로 작용할 것입니다.",
+    "action_point": "글로벌 경기 회복에 대한 기대감을 반영하여 경기 민감 섹터 및 원자재 관련 자산 비중 확대를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Producer prices in China rise at fastest pace since June 2022, beating expectations",
+    "title_ko": "중국 생산자물가, 2022년 6월 이후 최고치 기록하며 예상치 상회",
+    "link": "https://www.cnbc.com/2026/10/14/producer-prices-in-china-rise-fastest-since-june-2022-on-fuel-costs.html",
+    "published": "Wed, 14 Oct 2026 02:43:01 GMT",
+    "fetched_at": "2026-10-14 11:44:37",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "제조업",
+      "원자재",
+      "유통",
+      "수출입 관련주"
+    ],
+    "keywords": [
+      "중국",
+      "생산자물가",
+      "인플레이션",
+      "글로벌 공급망",
+      "물가상승"
+    ],
+    "reason": "중국 생산자물가 급등은 글로벌 공급망 전반에 걸쳐 원가 압력을 가중시키며, 전 세계적인 인플레이션 우려를 다시 키울 수 있다. 이는 각국 중앙은행의 긴축 기조 유지 가능성을 높여 금리 인상 압박으로 작용할 수 있다.",
+    "action_point": "글로벌 인플레이션 압력 가중 가능성에 대비하여 원자재 관련 자산 비중을 점검하고, 고금리 환경에 취약한 성장주 및 부채 과다 기업 투자를 재고하라."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
     "title": "Goldman says investors are looking for 'profitable' Chinese business growth overseas",
     "title_ko": "골드만삭스, 투자자들은 '수익성 있는' 중국 기업의 해외 성장을 모색 중이라고 밝혀",
     "link": "https://www.cnbc.com/2026/10/14/goldman-says-investors-seek-profitable-chinese-business-growth-abroad.html",
@@ -2924,50 +2974,5 @@
     ],
     "reason": "이 비극적 사건은 국내의 심각한 주거 불안정과 사회 복지 시스템의 간극을 부각하며, 향후 주택 임대시장 및 복지 정책 변화에 대한 대중과 정치권의 압력을 증대시킬 수 있습니다.",
     "action_point": "국내 주택 임대시장 및 부동산 복지 정책 변화 가능성을 주시하십시오."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "고양특례시의회 환경경제위원회 의원들, 캠퍼스 찾아 항공우주 협력 방안 논의 - 한국항공대학교",
-    "title_ko": "고양특례시의회 환경경제위원회 의원들, 캠퍼스 찾아 항공우주 협력 방안 논의 - 한국항공대학교",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5EYXdLR1dJRnZVdkYzcmYwRDRHUkRJdkduYm5zTDRpaUdBQm1yQkNvNzRzS2FrdzF4RTBPWGktN0pVaWhfMTRFTndoYVpUYjdQUzJMWFJlUEJNaGZlSGFNXzdrRDgtQmI1M3NB?oc=5",
-    "published": "Thu, 08 Oct 2026 10:51:35 GMT",
-    "fetched_at": "2026-10-08 23:16:55",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "항공우주",
-      "방위산업"
-    ],
-    "keywords": [
-      "고양특례시",
-      "한국항공대학교",
-      "항공우주 협력"
-    ],
-    "reason": "고양시의회와 한국항공대학교의 협력 논의는 지역 차원의 항공우주 산업 육성 의지를 보여주나, 구체적인 투자나 프로젝트 발표가 아니므로 단기적인 시장 영향은 제한적입니다. 장기적으로는 해당 지역 및 관련 섹터에 긍정적 신호가 될 수 있습니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "국내 금융권 해킹 배후는 ‘26세 중국인’?…지목된 남성은 “휴대전화 도용당했다”",
-    "title_ko": "국내 금융권 해킹 배후는 ‘26세 중국인’?…지목된 남성은 “휴대전화 도용당했다”",
-    "link": "https://www.mk.co.kr/news/economy/12172047",
-    "published": "Thu, 08 Oct 2026 23:14:06 +09:00",
-    "fetched_at": "2026-10-08 23:17:04",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "금융",
-      "사이버보안"
-    ],
-    "keywords": [
-      "해킹",
-      "금융권",
-      "사이버보안",
-      "중국"
-    ],
-    "reason": "국내 금융권 해킹 배후에 대한 추정 보고서가 나왔으나, 확정되지 않은 정보로 금융권 전반에 미칠 즉각적인 시스템 리스크는 제한적입니다. 다만, 금융권의 사이버보안 중요성을 상기시키는 요인입니다.",
-    "action_point": "국내 금융 섹터 내 투자 비중이 높은 경우, 해당 기업들의 사이버보안 시스템 및 대응 역량을 점검하라."
   }
 ]
