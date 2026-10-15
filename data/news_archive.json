@@ -1,5 +1,78 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "SK Hynix shares plunge 10% amid Asia tech rout as Fed rate hike fears, AI funding worries mount",
+    "title_ko": "SK하이닉스 주가, 연준 금리 인상 우려와 AI 투자 불안감 고조 속 아시아 기술주 폭락에 10% 급락",
+    "link": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
+    "published": "Thu, 15 Oct 2026 01:02:54 GMT",
+    "fetched_at": "2026-10-15 10:06:31",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "기술주",
+      "반도체",
+      "AI 관련주"
+    ],
+    "keywords": [
+      "SK하이닉스",
+      "반도체",
+      "금리 인상",
+      "AI 투자",
+      "기술주"
+    ],
+    "reason": "연준의 금리 인상 우려와 AI 섹터의 투자 불확실성이 글로벌 기술주 전반의 매도세를 심화시키며, 특히 고금리에 민감하고 미래 성장 기대감이 큰 반도체 기업들에 하방 압력을 가하고 있습니다. 이는 한국 증시의 핵심인 반도체 섹터의 추가 조정 가능성을 시사합니다.",
+    "action_point": "반도체 및 성장 기술주 비중 축소를 검토하고, 금리 인상 위험에 덜 민감한 섹터로의 포트폴리오 조정을 고려하십시오."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Earnings season is heating up. UBS thinks these stocks could beat expectations",
+    "title_ko": "어닝 시즌이 고조되는 가운데, UBS는 이 주식들이 예상치를 뛰어넘을 것으로 전망한다",
+    "link": "https://www.cnbc.com/2026/10/14/ubs-thinks-these-stocks-could-beat-expectations-this-earnings-season.html",
+    "published": "Wed, 14 Oct 2026 16:14:27 GMT",
+    "fetched_at": "2026-10-15 10:06:50",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "주식 시장 전반"
+    ],
+    "keywords": [
+      "어닝 시즌",
+      "실적 전망",
+      "주식",
+      "UBS"
+    ],
+    "reason": "UBS가 특정 기업들의 실적 호조를 전망하며 어닝 시즌에 대한 긍정적 기대를 높이고 있다. 이는 개별 기업의 주가 상승뿐만 아니라 전반적인 시장 심리 개선에 기여할 수 있다.",
+    "action_point": "발표 예정인 기업 실적 및 컨센서스 상향 가능성이 있는 종목을 선별적으로 탐색하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "(보도설명) 대외경제협력기금은 질적 내실화와 AI, 문화 등 분야의 협력사업을 적극 추진하고 있습니다. - 정책브리핑",
+    "title_ko": "(보도설명) 대외경제협력기금은 질적 내실화와 AI, 문화 등 분야의 협력사업을 적극 추진하고 있습니다.",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CRTZUX3VlU1NTQ3JzcHA1ZHBsOHJhM2dBOGJ6VDNOa0w5UDh6Y0tZU2lqdUYxN0h0bTVMdUVqR2c1dHpJZXVsOU9WemNyMHBtMVhrVkpENS1RQ01QRTU0RlNLWlpaU1owUU1hUzZrRQ?oc=5",
+    "published": "Wed, 14 Oct 2026 22:18:45 GMT",
+    "fetched_at": "2026-10-15 10:07:11",
+    "sentiment": "호재",
+    "importance": 2,
+    "sectors": [
+      "IT 서비스",
+      "미디어/콘텐츠",
+      "소프트웨어"
+    ],
+    "keywords": [
+      "대외경제협력기금",
+      "EDCF",
+      "AI",
+      "문화",
+      "협력사업",
+      "정책지원"
+    ],
+    "reason": "대외경제협력기금(EDCF)이 AI 및 문화 분야 협력사업을 강화하는 것은 관련 산업의 장기적인 성장 잠재력을 높이고 해외 진출 기회를 확대하는 긍정적 신호입니다. 다만, 단기적인 시장 영향은 제한적입니다.",
+    "action_point": "AI 및 문화 콘텐츠 관련 기업 중 해외 협력 잠재력이 큰 종목에 대한 투자 기회 모색."
+  },
+  {
     "source": "CNBC_Finance",
     "market": "US",
     "title": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos",
@@ -2894,82 +2967,5 @@
     ],
     "reason": "미국 정부의 조치는 마이크로소프트, 어도비 등 주요 기술 기업의 해외 인력 확보에 제약을 가해 인건비 상승 또는 혁신 속도 둔화를 야기할 수 있다. 이는 미국 기술 섹터 전반의 인력 수급 및 성장 전략에 영향을 미칠 잠재적 리스크로 작용한다.",
     "action_point": "미국 기술 대기업의 인력 수급 리스크를 점검하고, 외국인 근로자 의존도가 높은 기업들에 대한 투자 비중을 재검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "美 이란 공격 우려·유조선 피격 확대에 국제유가 급등 - 연합뉴스TV",
-    "title_ko": "美 이란 공격 우려·유조선 피격 확대에 국제유가 급등",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE82R3oyLWpPTGVvOWRQTU1XcjhuekxsVWEzUExzdEd1UkEzT1c5RTlMQm5GV3EwVVFCVGRRdU1OdGtINU1JM1daYmNXcUdiLURwVjd5Zi1vbVlXeXY1dTlObDZCVnlRNVE?oc=5",
-    "published": "Fri, 09 Oct 2026 00:10:00 GMT",
-    "fetched_at": "2026-10-09 09:51:03",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "항공/운수",
-      "화학/정유",
-      "소비재"
-    ],
-    "keywords": [
-      "국제유가",
-      "중동",
-      "지정학적 리스크",
-      "인플레이션"
-    ],
-    "reason": "미국-이란 간 지정학적 긴장 고조와 유조선 피격 확대는 중동 리스크를 키워 국제유가를 급등시킵니다. 이는 글로벌 인플레이션 압력을 높이고 원유 수입국인 한국의 물가와 기업 비용 부담을 가중시킬 것입니다.",
-    "action_point": "유가 상승에 취약한 항공, 운수 등 경기민감 섹터 비중 축소 및 에너지 관련 자산 편입 고려."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Tokenization could unleash tens of billions of dollars in trapped capital, Nasdaq CEO says",
-    "title_ko": "나스닥 CEO, 토큰화로 수십억 달러 규모의 유동성 부족 자본 해방 가능성 언급",
-    "link": "https://www.cnbc.com/2026/10/09/nasdaq-ceo-tokenization-could-unleash-billions-in-trapped-capital-.html",
-    "published": "Thu, 08 Oct 2026 23:57:23 GMT",
-    "fetched_at": "2026-10-09 09:50:28",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "금융 서비스",
-      "블록체인/디지털 자산",
-      "부동산",
-      "핀테크"
-    ],
-    "keywords": [
-      "토큰화",
-      "나스닥",
-      "자본",
-      "유동성",
-      "블록체인",
-      "디지털 자산"
-    ],
-    "reason": "토큰화는 부동산 등 비유동성 자산의 거래 효율성을 높이고 새로운 자본을 시장으로 유입시켜 금융 시장의 전반적인 유동성을 확대할 잠재력을 가집니다.",
-    "action_point": "토큰화 관련 금융 인프라 및 기술 기업에 대한 장기적 투자 기회 탐색 시작."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Nvidia, Oracle, CoreWeave and other AI stocks sink on OpenAI revenue report",
-    "title_ko": "OpenAI 매출 보고서에 엔비디아, 오라클 등 AI 관련주 하락",
-    "link": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
-    "published": "Thu, 08 Oct 2026 21:19:14 GMT",
-    "fetched_at": "2026-10-09 09:50:51",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "인공지능(AI)",
-      "반도체",
-      "클라우드 컴퓨팅"
-    ],
-    "keywords": [
-      "OpenAI",
-      "AI 주식",
-      "매출",
-      "엔비디아",
-      "오라클"
-    ],
-    "reason": "OpenAI의 높은 연간 매출은 AI 산업의 폭발적인 성장을 보여주지만, 시장은 이미 높은 기대치를 반영했거나 일부 차익 실현에 나서 AI 관련주가 하락했습니다. 이는 AI 섹터의 과열 우려와 단기적인 조정 가능성을 시사합니다.",
-    "action_point": "AI 관련주의 단기적인 조정 가능성에 대비하여 과도한 비중 축소를 고려하고 신규 진입을 유보하라."
   }
 ]
