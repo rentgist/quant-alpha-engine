@@ -2,6 +2,79 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "UK economy grew 0.1% in August, beating expectations",
+    "title_ko": "영국 8월 경제 성장률 0.1%, 예상치 상회",
+    "link": "https://www.cnbc.com/2026/10/15/uk-gdp-august-2026-economy.html",
+    "published": "Thu, 15 Oct 2026 06:37:10 GMT",
+    "fetched_at": "2026-10-15 15:43:31",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "글로벌 거시경제"
+    ],
+    "keywords": [
+      "영국 경제",
+      "GDP",
+      "성장률",
+      "인플레이션",
+      "생활비 위기"
+    ],
+    "reason": "영국 경제 성장률이 예상치를 소폭 상회하며 경기 침체 우려를 다소 완화할 수 있으나, 만성적인 인플레이션과 생활비 위기라는 근본적인 구조적 문제는 여전히 해결되지 않았다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "TSMC posts record profit for a sixth straight quarter, beating estimates on AI boom",
+    "title_ko": "TSMC, AI 붐에 힘입어 6분기 연속 사상 최고 실적 달성, 예상치 상회",
+    "link": "https://www.cnbc.com/2026/10/15/tsmc-third-quarter-profit-global-ai-.html",
+    "published": "Thu, 15 Oct 2026 05:59:57 GMT",
+    "fetched_at": "2026-10-15 15:43:22",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "반도체",
+      "인공지능(AI)",
+      "IT하드웨어"
+    ],
+    "keywords": [
+      "TSMC",
+      "실적",
+      "AI",
+      "반도체",
+      "대만"
+    ],
+    "reason": "TSMC의 호실적은 글로벌 반도체 및 AI 산업의 강력한 수요를 방증하며, 이는 관련 기술주 투자 심리에 긍정적으로 작용할 것입니다. 특히 AI 관련 투자 확대 기조를 강화할 수 있습니다.",
+    "action_point": "AI 관련 반도체 및 IT 하드웨어 섹터 비중 확대를 검토"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Anthropic's third-quarter revenue is said to hit $16.8 billion ahead of IPO",
+    "title_ko": "Anthropic, IPO 앞두고 3분기 매출 168억 달러 기록 전망",
+    "link": "https://www.cnbc.com/2026/10/15/anthropics-third-quarter-revenue-hits-16point8-billion-ipo.html",
+    "published": "Thu, 15 Oct 2026 03:48:58 GMT",
+    "fetched_at": "2026-10-15 15:43:39",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "기술",
+      "인공지능",
+      "벤처캐피탈"
+    ],
+    "keywords": [
+      "Anthropic",
+      "IPO",
+      "매출",
+      "인공지능",
+      "기술주"
+    ],
+    "reason": "Anthropic의 높은 3분기 매출은 AI 산업의 견고한 성장세와 투자 수요를 시사하며, 이는 기술주 전반에 긍정적인 투자 심리를 형성할 수 있습니다. 성공적인 IPO 가능성은 향후 유사 기술 기업들의 상장에도 영향을 미칠 수 있습니다.",
+    "action_point": "생성형 AI 섹터의 투자 기회 및 관련 기업을 면밀히 검토."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "SK Hynix shares plunge 10% amid Asia tech rout as Fed rate hike fears, AI funding worries mount",
     "title_ko": "SK하이닉스 주가, 연준 금리 인상 우려와 AI 투자 불안감 고조 속 아시아 기술주 폭락에 10% 급락",
     "link": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
@@ -2892,80 +2965,5 @@
     ],
     "reason": "OpenAI 매출 보고서가 기술 섹터 전반에 대한 투자 심리를 악화시키며 나스닥 급락을 야기, 고성장 기술 기업의 밸류에이션 및 성장세에 대한 우려를 부각시켰다.",
     "action_point": "기술 섹터 내 고평가된 종목 및 AI 관련주 비중 축소 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "'Real boss of India?': Elon Musk takes aim at Indian billionaire Ambani as Starlink launch stalls",
-    "title_ko": "인도의 '진짜 보스'?: 일론 머스크, 스타링크 인도 출시 지연에 인도 억만장자 암바니 저격",
-    "link": "https://www.cnbc.com/2026/10/09/musk-starlink-ambani-india-us.html",
-    "published": "Fri, 09 Oct 2026 04:11:59 GMT",
-    "fetched_at": "2026-10-09 15:59:00",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "통신",
-      "위성 산업",
-      "IT"
-    ],
-    "keywords": [
-      "일론 머스크",
-      "스타링크",
-      "인도",
-      "암바니",
-      "규제",
-      "경쟁"
-    ],
-    "reason": "이 뉴스는 거대 기술 기업의 신흥 시장 진출 시 현지 규제 및 기득권과의 경쟁이 얼마나 어려운지를 보여줍니다. 스타링크의 인도 시장 진출 지연은 글로벌 위성 통신 산업의 확장 속도에 영향을 미칠 수 있습니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "'AI 딸깍' 판치는 시대 … 고생하는 인간이 살아남는다",
-    "title_ko": "'AI 딸깍' 판치는 시대 … 고생하는 인간이 살아남는다",
-    "link": "https://www.mk.co.kr/news/culture/12172323",
-    "published": "Fri, 09 Oct 2026 15:48:45 +09:00",
-    "fetched_at": "2026-10-09 15:59:23",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "기술",
-      "소프트웨어",
-      "서비스"
-    ],
-    "keywords": [
-      "AI",
-      "인공지능",
-      "노동 시장",
-      "기술 변화",
-      "미래 고용"
-    ],
-    "reason": "이 기사는 AI 기술이 가져올 장기적인 노동 시장 및 가치 창출 방식의 변화에 대한 논평으로, 단기적인 시장 방향성보다는 AI 시대의 인간 역할에 대한 철학적 고찰을 제시합니다. 특정 자산에 대한 즉각적인 영향보다는 장기적인 산업 및 기업의 생존 전략에 대한 시사점을 제공합니다.",
-    "action_point": "AI 기술을 활용하여 본원적 경쟁력을 강화하거나 새로운 비즈니스 가치를 창출하는 기업에 대한 장기 투자 포트폴리오 비중을 점검하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "U.S. suspends Microsoft, Adobe from green card labor program in foreign worker crackdown",
-    "title_ko": "미국, 외국인 근로자 단속 강화로 마이크로소프트와 어도비의 영주권 노동 프로그램 중단",
-    "link": "https://www.cnbc.com/2026/10/08/microsoft-adobe-green-card-labor-suspension.html",
-    "published": "Thu, 08 Oct 2026 18:52:59 GMT",
-    "fetched_at": "2026-10-09 09:50:40",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "기술 섹터 (IT/소프트웨어)"
-    ],
-    "keywords": [
-      "미국 이민 정책",
-      "영주권 프로그램",
-      "기술 인력",
-      "외국인 근로자",
-      "마이크로소프트",
-      "어도비"
-    ],
-    "reason": "미국 정부의 조치는 마이크로소프트, 어도비 등 주요 기술 기업의 해외 인력 확보에 제약을 가해 인건비 상승 또는 혁신 속도 둔화를 야기할 수 있다. 이는 미국 기술 섹터 전반의 인력 수급 및 성장 전략에 영향을 미칠 잠재적 리스크로 작용한다.",
-    "action_point": "미국 기술 대기업의 인력 수급 리스크를 점검하고, 외국인 근로자 의존도가 높은 기업들에 대한 투자 비중을 재검토하라."
   }
 ]
