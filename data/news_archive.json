@@ -2,6 +2,55 @@
   {
     "source": "CNBC_Finance",
     "market": "US",
+    "title": "People in China are spending nearly as much of their income as Americans on healthcare",
+    "title_ko": "중국인들, 소득 대비 의료비 지출 미국인과 거의 비슷한 수준",
+    "link": "https://www.cnbc.com/2026/10/15/chinese-spending-nearly-as-much-of-income-as-americans-on-healthcare.html",
+    "published": "Thu, 15 Oct 2026 23:00:01 GMT",
+    "fetched_at": "2026-10-16 08:26:10",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "중국 소비재",
+      "헬스케어",
+      "중국 경기민감주"
+    ],
+    "keywords": [
+      "중국 소비",
+      "의료비 지출",
+      "IMF",
+      "정부 지출",
+      "소비 진작"
+    ],
+    "reason": "중국 가계의 높은 의료비 부담은 소비를 위축시키지만, IMF는 정부의 의료 지출 확대를 통해 소비를 활성화하여 경제 성장을 촉진할 수 있다고 제안했다.",
+    "action_point": "중국 정부의 의료비 지출 확대 정책 추진 여부를 주시하며, 정책 실행 시 수혜가 예상되는 중국 소비재 및 헬스케어 섹터 투자를 검토."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Tesla plans next-generation Roadster reveal after almost a decade of delays",
+    "title_ko": "테슬라, 약 10년간 지연된 차세대 로드스터 공개 계획",
+    "link": "https://www.cnbc.com/2026/10/15/tesla-roadster-reveal-what-to-know-about-the-delayed-ev.html",
+    "published": "Thu, 15 Oct 2026 21:26:05 GMT",
+    "fetched_at": "2026-10-16 08:26:29",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "전기차",
+      "자동차"
+    ],
+    "keywords": [
+      "테슬라",
+      "로드스터",
+      "전기차",
+      "신제품",
+      "일론 머스크"
+    ],
+    "reason": "테슬라의 차세대 로드스터 공개 계획은 브랜드에 대한 관심은 높일 수 있으나, 고급 니치 제품으로 전체 매출이나 글로벌 전기차 시장에 미칠 실질적인 매크로 영향은 미미할 것입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
     "title": "Harvard’s endowment jumps 27% in fiscal 2026, lifted by SpaceX as top holding",
     "title_ko": "하버드 대학 기금, 2026 회계연도에 27% 급등... 스페이스X가 최대 보유 종목으로 부상",
     "link": "https://www.cnbc.com/2026/10/15/harvards-endowment-jumps-27percent-with-spacex-as-top-holding.html",
@@ -2920,54 +2969,5 @@
     ],
     "reason": "트럼프의 연준 이사 조사 시도는 중앙은행 독립성에 대한 잠재적 위협으로 해석되어 금융 시장의 불확실성을 증폭시키고 향후 통화 정책 방향에 대한 우려를 키울 수 있습니다.",
     "action_point": "미국 중앙은행의 정치적 간섭 가능성 증대에 따라 장기 국채 및 성장주 등 금리 민감 자산의 비중 축소를 검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[다음주 경제] 취업자 얼마나 늘었나…IMF, 韓성장률 전망 수정치 발표 - 연합뉴스",
-    "title_ko": "[다음주 경제] 취업자 얼마나 늘었나…IMF, 韓성장률 전망 수정치 발표",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9lS0hjTHRibGxTR0VYU25iTE9qS0xpclRTMW5EZ3o3NlM3dV9DZVF6YnZxYWpwWHRNSUxoTko4Tll1Ukktc1Bic1hBdmJLczNCTklVMzFBdV9aRHV1SVUwadIBYEFVX3lxTE9lS0hjTHRibGxTR0VYU25iTE9qS0xpclRTMW5EZ3o3NlM3dV9DZVF6YnZxYWpwWHRNSUxoTko4Tll1Ukktc1Bic1hBdmJLczNCTklVMzFBdV9aRHV1SVUwaQ?oc=5",
-    "published": "Sat, 10 Oct 2026 00:03:29 GMT",
-    "fetched_at": "2026-10-10 12:24:22",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "전반적 시장",
-      "소비재",
-      "서비스",
-      "금융"
-    ],
-    "keywords": [
-      "취업자 수",
-      "IMF 성장률 전망",
-      "한국 경제",
-      "거시경제 지표"
-    ],
-    "reason": "다음 주 발표될 취업자 수 및 IMF의 한국 성장률 전망치는 국내 경기 상황과 정책 방향을 가늠하는 핵심 지표로, 시장 전반의 투자 심리에 직접적인 영향을 미칠 것입니다.",
-    "action_point": "IMF 한국 성장률 전망 및 국내 고용 지표 발표 후 경기 민감주 포트폴리오 비중 조정 검토"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Verizon posts worst day since 2002 as SpaceX U.S. network plans whack cell provider stocks",
-    "title_ko": "SpaceX의 미국 네트워크 진출 계획, 버라이즌 주가 2002년 이후 최악의 하락 기록하며 통신사 주식 전반에 타격",
-    "link": "https://www.cnbc.com/2026/10/09/verizon-att-tmobile-stocks-spacex-network.html",
-    "published": "Fri, 09 Oct 2026 20:16:58 GMT",
-    "fetched_at": "2026-10-10 12:23:52",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "통신",
-      "위성 통신"
-    ],
-    "keywords": [
-      "버라이즌",
-      "SpaceX",
-      "스타링크",
-      "통신",
-      "경쟁"
-    ],
-    "reason": "SpaceX의 Starlink 서비스가 기존 통신 시장에 본격적으로 진출하면서, Verizon 등 주요 통신사들의 시장 점유율 및 수익성 압박이 현실화되고 있습니다. 이는 글로벌 통신 섹터 전반의 경쟁 심화와 밸류에이션 재평가를 야기할 수 있습니다.",
-    "action_point": "미국 및 글로벌 통신 섹터의 기존 사업자 비중 축소를 검토하라."
   }
 ]
