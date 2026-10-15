@@ -1,5 +1,56 @@
 [
   {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Harvard’s endowment jumps 27% in fiscal 2026, lifted by SpaceX as top holding",
+    "title_ko": "하버드 대학 기금, 2026 회계연도에 27% 급등... 스페이스X가 최대 보유 종목으로 부상",
+    "link": "https://www.cnbc.com/2026/10/15/harvards-endowment-jumps-27percent-with-spacex-as-top-holding.html",
+    "published": "Thu, 15 Oct 2026 19:53:49 GMT",
+    "fetched_at": "2026-10-16 05:43:34",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "기술",
+      "우주항공",
+      "벤처캐피탈",
+      "성장주"
+    ],
+    "keywords": [
+      "하버드 기금",
+      "스페이스X",
+      "기관투자",
+      "고성장 기업",
+      "대체 투자"
+    ],
+    "reason": "하버드 대학 기금의 높은 수익률은 사모시장 및 고성장 기술 기업(스페이스X 등)에 대한 기관 투자자들의 강한 신뢰와 높은 평가를 반영합니다. 이는 광범위한 리스크 자산 시장, 특히 혁신 기술 섹터에 대한 긍정적인 전망을 시사합니다.",
+    "action_point": "고성장 기술주 및 사모 시장 투자 비중 확대를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "CoreWeave credit default swaps hit distress levels as investors sour on AI debt",
+    "title_ko": "투자자들의 AI 부채 우려에 CoreWeave 신용부도스왑(CDS) 위험 수준 도달",
+    "link": "https://www.cnbc.com/2026/10/15/coreweave-credit-default-swaps-hit-distress-levels-as-investors-sour-on-ai-debt.html",
+    "published": "Thu, 15 Oct 2026 20:18:02 GMT",
+    "fetched_at": "2026-10-16 05:43:45",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "인공지능(AI)",
+      "클라우드 컴퓨팅",
+      "벤처캐피탈/사모펀드"
+    ],
+    "keywords": [
+      "AI 부채",
+      "신용부도스왑(CDS)",
+      "CoreWeave",
+      "투자심리",
+      "기술주"
+    ],
+    "reason": "CoreWeave의 CDS 위험 증가는 AI 섹터 전반의 자금 조달 환경 악화를 시사하며, 고평가 논란을 심화시킬 수 있습니다. 이는 AI 관련 기술주 및 벤처캐피탈 투자 심리에 부정적인 영향을 미칠 가능성이 있습니다.",
+    "action_point": "AI 관련 기술주 및 고부채 성장 기업의 투자 리스크를 점검하고, 비중 축소를 고려하라."
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "Wholesale prices jumped 6.3% annually in September, biggest gain since 2022",
@@ -2918,55 +2969,5 @@
     ],
     "reason": "SpaceX의 Starlink 서비스가 기존 통신 시장에 본격적으로 진출하면서, Verizon 등 주요 통신사들의 시장 점유율 및 수익성 압박이 현실화되고 있습니다. 이는 글로벌 통신 섹터 전반의 경쟁 심화와 밸류에이션 재평가를 야기할 수 있습니다.",
     "action_point": "미국 및 글로벌 통신 섹터의 기존 사업자 비중 축소를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Trump's diesel agreement with Putin accused of contradicting Russia sanctions law",
-    "title_ko": "트럼프의 푸틴과의 디젤 합의, 러시아 제재법 위반 비난에 직면",
-    "link": "https://www.cnbc.com/2026/10/09/trump-putin-diesel-russia-sanctions-ukraine.html",
-    "published": "Fri, 09 Oct 2026 23:16:50 GMT",
-    "fetched_at": "2026-10-10 08:42:51",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지/원자재",
-      "방산",
-      "해운/물류"
-    ],
-    "keywords": [
-      "러시아 제재",
-      "디젤",
-      "트럼프",
-      "지정학적 리스크",
-      "우크라이나"
-    ],
-    "reason": "트럼프 전 대통령의 러시아 제재 완화 의혹은 미국의 대러 정책 불확실성을 증폭시켜 지정학적 리스크를 키우고, 글로벌 에너지 시장 및 투자 심리에 부정적인 영향을 줄 수 있습니다.",
-    "action_point": "지정학적 불안정성 증대에 대비하여 방산 섹터 및 금/달러 등 안전자산 비중 유지를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "SpaceX makes big move into wireless. These once 'obsolete' tech stocks could benefit",
-    "title_ko": "SpaceX가 무선 통신 시장에 진출하며 한때 '구식'이었던 기술주들이 수혜를 볼 수 있다.",
-    "link": "https://www.cnbc.com/2026/10/09/spacex-wireless-plans-lifts-tower-stocks.html",
-    "published": "Fri, 09 Oct 2026 15:59:48 GMT",
-    "fetched_at": "2026-10-10 08:42:59",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "위성 통신",
-      "무선 통신 장비",
-      "통신 서비스"
-    ],
-    "keywords": [
-      "SpaceX",
-      "무선 통신",
-      "위성 통신",
-      "기술주",
-      "통신사"
-    ],
-    "reason": "SpaceX의 무선 통신 진출은 위성 통신 기술을 활용하는 기존 통신 관련 기술 기업들에게 새로운 사업 기회 또는 경쟁 구도를 형성하며 섹터 재편 가능성이 있습니다.",
-    "action_point": "위성 통신 및 관련 무선 기술 섹터 내 특정 기업들의 중장기 성장 잠재력을 재평가하라."
   }
 ]
