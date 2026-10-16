@@ -1,5 +1,29 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "India's rupee forecast to weaken toward 100-per-dollar level even as RBI pushes back",
+    "title_ko": "인도 루피화, RBI의 방어 노력에도 불구하고 달러당 100루피 수준으로 약세 전망",
+    "link": "https://www.cnbc.com/2026/10/16/india-rupee-rbi-dollar-iran-war.html",
+    "published": "Fri, 16 Oct 2026 00:54:25 GMT",
+    "fetched_at": "2026-10-16 11:17:07",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "환율",
+      "신흥국 자산"
+    ],
+    "keywords": [
+      "인도 루피화",
+      "환율 약세",
+      "RBI",
+      "신흥국 통화",
+      "달러 강세"
+    ],
+    "reason": "인도 루피화의 지속적인 약세 전망은 신흥국 통화 전반에 대한 불안감을 가중시키며, 달러 강세 기조가 쉽게 꺾이지 않을 가능성을 시사합니다. 이는 인도에 투자된 자산의 환차손 위험을 높일 수 있습니다.",
+    "action_point": "신흥국 통화 약세 가능성에 대비하여 달러 자산 비중 유지를 검토."
+  },
+  {
     "source": "CNBC_Finance",
     "market": "US",
     "title": "People in China are spending nearly as much of their income as Americans on healthcare",
@@ -2945,29 +2969,5 @@
     ],
     "reason": "트럼프 전 대통령의 개인적 발언으로 현재 정책 변화를 의미하지 않으며, 한반도 지정학적 리스크에 대한 인식을 상기시키는 수준이다.",
     "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Trump appoints committee to investigate statements by the Fed's Lisa Cook",
-    "title_ko": "트럼프, 연준 리사 쿡 이사 발언 조사 위원회 임명",
-    "link": "https://www.cnbc.com/2026/10/09/fed-lisa-cook-trump.html",
-    "published": "Fri, 09 Oct 2026 17:56:24 GMT",
-    "fetched_at": "2026-10-10 12:24:08",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "금융",
-      "기술"
-    ],
-    "keywords": [
-      "트럼프",
-      "연준",
-      "리사 쿡",
-      "중앙은행 독립성",
-      "통화정책"
-    ],
-    "reason": "트럼프의 연준 이사 조사 시도는 중앙은행 독립성에 대한 잠재적 위협으로 해석되어 금융 시장의 불확실성을 증폭시키고 향후 통화 정책 방향에 대한 우려를 키울 수 있습니다.",
-    "action_point": "미국 중앙은행의 정치적 간섭 가능성 증대에 따라 장기 국채 및 성장주 등 금리 민감 자산의 비중 축소를 검토."
   }
 ]
