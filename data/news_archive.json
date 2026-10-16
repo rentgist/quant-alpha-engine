@@ -2,6 +2,30 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "LVMH's Antoine Arnault: No \"catastrophe\" for luxury",
+    "title_ko": "LVMH 앙투안 아르노: 럭셔리 시장에 '재앙'은 없다",
+    "link": "https://www.cnbc.com/video/2026/10/16/lvmhs-antoine-arnault-no-catastrophe-for-luxury.html",
+    "published": "Fri, 16 Oct 2026 10:31:28 GMT",
+    "fetched_at": "2026-10-17 02:05:18",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "럭셔리 소비재",
+      "명품"
+    ],
+    "keywords": [
+      "LVMH",
+      "럭셔리",
+      "명품",
+      "소비재",
+      "시장 전망"
+    ],
+    "reason": "LVMH의 고위 인사가 럭셔리 시장의 우려를 불식시키며 '재앙은 없다'고 밝힘으로써 명품 및 소비재 섹터에 대한 투자 심리가 개선될 수 있습니다. 이는 고액 자산가의 소비 여력 및 명품 기업 실적에 대한 긍정적 시그널로 작용할 가능성이 있습니다.",
+    "action_point": "럭셔리 소비재 섹터 관련 투자 비중 유지."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "Norway's $2 trillion wealth fund was frozen out of major defense companies. That may be about to change",
     "title_ko": "노르웨이 국부펀드, 2조 달러 규모 방산기업 투자 규제 완화 가능성",
     "link": "https://www.cnbc.com/2026/10/16/norway-sovereign-wealth-fund-defense-investment.html",
@@ -2932,31 +2956,5 @@
     ],
     "reason": "SK그룹 회장의 발언은 글로벌 반도체 경쟁 심화 속 국내 투자 가속화를 시사하며, 이는 장기적으로 한국 반도체 산업의 경쟁력 강화에 긍정적입니다. 국내 반도체 관련 밸류체인에 활력을 불어넣을 수 있습니다.",
     "action_point": "국내 반도체 장비 및 소재 관련주 비중 확대 검토"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "AI may change the price of your Big Mac and groceries — what this means for shoppers",
-    "title_ko": "AI가 빅맥과 식료품 가격을 바꿀 수 있다 — 소비자에게 의미하는 것",
-    "link": "https://www.cnbc.com/2026/10/11/ai-dynamic-pricing-shoppers-groceries.html",
-    "published": "Sun, 11 Oct 2026 05:00:01 GMT",
-    "fetched_at": "2026-10-11 20:06:24",
-    "sentiment": "호재",
-    "importance": 2,
-    "sectors": [
-      "유통",
-      "기술(AI)",
-      "필수 소비재",
-      "경기 소비재"
-    ],
-    "keywords": [
-      "AI",
-      "개인화 가격",
-      "소매",
-      "소비자 데이터",
-      "수익성"
-    ],
-    "reason": "AI 기반 개인화 가격 책정은 소매업체의 수익성을 개선하고 운영 효율성을 높일 잠재력이 있습니다. 이는 장기적으로 관련 기업의 실적에 긍정적인 영향을 줄 수 있습니다.",
-    "action_point": "AI 기반 솔루션 도입으로 수익성 개선이 기대되는 유통 및 AI 관련 기업을 관심 종목에 추가 검토."
   }
 ]
