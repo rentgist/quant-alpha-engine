@@ -2,6 +2,270 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "One Singapore ship was sunk, but here's why others are still transiting the Strait of Hormuz",
+    "title_ko": "싱가포르 선박 한 척 침몰에도 불구하고, 다른 선박들이 호르무즈 해협을 계속 통과하는 이유",
+    "link": "https://www.cnbc.com/2026/10/16/strait-hormuz-singapore-ships-attacked.html",
+    "published": "Fri, 16 Oct 2026 05:56:28 GMT",
+    "fetched_at": "2026-10-16 16:41:46",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "해운",
+      "보험",
+      "물류"
+    ],
+    "keywords": [
+      "호르무즈 해협",
+      "지정학적 리스크",
+      "해상 운송",
+      "국제 유가",
+      "운임 상승"
+    ],
+    "reason": "호르무즈 해협에서의 선박 공격은 핵심 원유 수송로의 지정학적 리스크를 높여 해상 운송 비용 및 보험료 상승, 나아가 국제 유가 변동성 확대로 이어질 수 있습니다.",
+    "action_point": "에너지 원자재 및 해운 섹터의 지정학적 리스크 노출도를 재점검."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "한때 세계 2위 ‘경제대국’였는데…영국에도 밀려 60년만 탑5 밀려나는 일본 - 문화일보",
+    "title_ko": "한때 세계 2위 ‘경제대국’였는데…영국에도 밀려 60년만 탑5 밀려나는 일본 - 문화일보",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBFZTA5R2N6UjlIWHlHYkZLWlRuRG8zY0l3bnhmSVJobmF4WXBUeldBUVh0dmR0bHNYQnlWVldqNlVCcFp0SUhIQmxrb0hxeDh2?oc=5",
+    "published": "Thu, 15 Oct 2026 20:37:00 GMT",
+    "fetched_at": "2026-10-16 16:42:52",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "외환시장",
+      "수출 경쟁 산업"
+    ],
+    "keywords": [
+      "일본 경제",
+      "엔화 약세",
+      "GDP 순위",
+      "수출 경쟁력"
+    ],
+    "reason": "일본의 GDP 순위 하락은 고질적인 엔화 약세와 저성장 장기화의 결과로, 일본 경제의 구조적 약점을 드러내며 한국 수출 기업에 대한 경쟁 심화를 시사한다.",
+    "action_point": "엔화 약세 장기화에 대비하여 일본과 경쟁하는 국내 수출 산업 섹터의 비중을 재검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Fed's Warsh withholds rate signal, praises recent global tightening with 'no free riders'",
+    "title_ko": "연준 워시, 금리 인상 신호 보류, '무임승차 없는' 최근 글로벌 긴축 조치 칭찬",
+    "link": "https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html",
+    "published": "Fri, 16 Oct 2026 07:11:22 GMT",
+    "fetched_at": "2026-10-16 16:41:38",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [],
+    "keywords": [
+      "연준",
+      "금리",
+      "글로벌 긴축",
+      "인플레이션"
+    ],
+    "reason": "전 연준 이사의 발언은 글로벌 중앙은행들의 동시다발적인 인플레이션 대응 노력을 인정하며, 당장 추가 금리 인상 신호를 보내지는 않아 시장에 즉각적인 방향성을 제시하기보다 현 정책 기조 유지 가능성을 시사합니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Marco Rubio to visit Indian billionaire Ambani's refinery in Gujarat as U.S. diesel prices surge",
+    "title_ko": "마르코 루비오가 미국 디젤 가격 급등세 속 인도 억만장자 암바니의 구자라트 정유시설 방문 예정",
+    "link": "https://www.cnbc.com/2026/10/16/marco-rubio-reliance-jamnagar-refinery.html",
+    "published": "Fri, 16 Oct 2026 06:45:02 GMT",
+    "fetched_at": "2026-10-16 16:41:58",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "에너지",
+      "화학",
+      "운송"
+    ],
+    "keywords": [
+      "마르코 루비오",
+      "암바니",
+      "릴라이언스",
+      "디젤",
+      "에너지 안보",
+      "정유"
+    ],
+    "reason": "미국 디젤 가격 급등 상황에서 인도 릴라이언스 정유시설 방문은 글로벌 에너지 공급망의 중요성과 특정 국가 및 기업의 역할 증대를 시사한다. 이는 에너지 가격 변동성 지속 가능성을 보여준다.",
+    "action_point": "국제 유가 및 정제 마진 강세에 수혜를 입는 정유 관련 기업의 투자 매력 점검."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "The IPO drought is driving private equity-owned companies to the debt market to pay investors",
+    "title_ko": "IPO 가뭄이 심화되면서 사모펀드 소유 기업들이 투자자 배당을 위해 부채 시장에 의존하고 있다",
+    "link": "https://www.cnbc.com/2026/10/16/private-equity-portfolios-ipo-debt.html",
+    "published": "Fri, 16 Oct 2026 05:00:01 GMT",
+    "fetched_at": "2026-10-16 16:42:09",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "사모펀드",
+      "금융 (대출/IB)",
+      "고부채 기업"
+    ],
+    "keywords": [
+      "IPO 가뭄",
+      "사모펀드",
+      "부채 시장",
+      "레버리지",
+      "자본 시장"
+    ],
+    "reason": "이 뉴스는 IPO 및 M&A 시장의 경색으로 사모펀드가 투자금 회수를 위해 포트폴리오 기업의 부채를 늘리는 '배당 리캡'에 의존하고 있음을 보여줍니다. 이는 해당 기업들의 재무 건전성을 악화시키고, 광범위한 자본 시장의 유동성 제약 가능성을 시사합니다.",
+    "action_point": "고부채 기업 및 사모펀드 관련 자산에 대한 리스크 재평가 및 비중 축소를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Russia returns to G20 table in Bangkok on U.S. invitation that angers Europe",
+    "title_ko": "미국의 초대로 러시아가 G20 회의에 복귀, 유럽은 반발",
+    "link": "https://www.cnbc.com/2026/10/16/g20-russia-ukraine-trump-diesel-europe-.html",
+    "published": "Fri, 16 Oct 2026 06:11:35 GMT",
+    "fetched_at": "2026-10-16 16:42:20",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "에너지",
+      "국방"
+    ],
+    "keywords": [
+      "러시아",
+      "G20",
+      "미국",
+      "유럽",
+      "외교",
+      "지정학 갈등"
+    ],
+    "reason": "미국과 유럽 간 대러시아 전략의 균열 가능성을 보여주며, 향후 대러 제재 및 우크라이나 전쟁 관련 국제 공조에 복잡성을 더할 수 있습니다. 이는 장기적으로 에너지 시장 및 방산 분야에 미묘한 영향을 줄 수 있습니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Order to limit Starshield for Ukraine came from inside White House, Reuters reports",
+    "title_ko": "우크라이나 스타실드 제한 명령, 백악관 내부에서 나왔다고 로이터 보도",
+    "link": "https://www.cnbc.com/2026/10/16/order-to-limit-starshield-for-ukraine-came-from-inside-white-house-reuters-reports.html",
+    "published": "Fri, 16 Oct 2026 07:21:24 GMT",
+    "fetched_at": "2026-10-16 16:42:29",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "방산",
+      "항공우주",
+      "기술"
+    ],
+    "keywords": [
+      "우크라이나",
+      "스타실드",
+      "백악관",
+      "미국-우크라이나 관계",
+      "지정학"
+    ],
+    "reason": "미 백악관의 우크라이나 스타실드 제한 명령은 미-우크라이나 관계 악화 신호이자 지정학적 불확실성을 증대시킨다. 이는 방산 및 위성 통신 관련 기업의 투자 심리에 부정적 영향을 줄 수 있다.",
+    "action_point": "방산 및 위성 통신 관련 기업의 지정학적 리스크 노출 정도를 재평가하고 포트폴리오 조정을 고려."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "한경협, 미국 싱크탱크와 경제성장 전략 모색…이창용 대담 - 연합뉴스TV",
+    "title_ko": "한경협, 미국 싱크탱크와 경제성장 전략 모색…이창용 대담",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBsWDdHbFlldVV4ZUprZGowTUVLRzBpaW91Yy1JaEN6NGFUdjlEb3pVOXhWQ2ZhUzJPbWJwLV9PMGdEY1pPX1JNNEMwYzZJcXl6VnZNaEZWQm0zdjZxZk5XMGotUU1ER1k?oc=5",
+    "published": "Fri, 16 Oct 2026 05:28:00 GMT",
+    "fetched_at": "2026-10-16 16:43:03",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "전반적 경제"
+    ],
+    "keywords": [
+      "한경협",
+      "미국 싱크탱크",
+      "경제성장 전략",
+      "이창용",
+      "한국은행"
+    ],
+    "reason": "한경협이 미국 싱크탱크와 경제성장 전략을 논의하고 한국은행 총재의 대담이 이뤄진 것은 향후 국내 경제 및 통화 정책 방향 설정에 중요한 맥락을 제공하며, 장기적인 경제 로드맵에 대한 신호를 보낸다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Hybe shares jump 10% as K-pop sensation BTS' tour lifts earnings hopes",
+    "title_ko": "하이브 주가 10% 급등, K-POP 센세이션 BTS 투어가 실적 기대감 높여",
+    "link": "https://www.cnbc.com/2026/10/16/bts-concerts-hybe-katseye-cortis.html",
+    "published": "Fri, 16 Oct 2026 03:53:48 GMT",
+    "fetched_at": "2026-10-16 16:42:36",
+    "sentiment": "호재",
+    "importance": 2,
+    "sectors": [
+      "엔터테인먼트",
+      "미디어"
+    ],
+    "keywords": [
+      "하이브",
+      "BTS",
+      "K-POP",
+      "실적",
+      "엔터테인먼트"
+    ],
+    "reason": "BTS의 성공적인 글로벌 투어는 하이브를 포함한 K-POP 엔터테인먼트 기업들의 실적 개선 기대를 높이며, 관련 섹터 전반에 대한 긍정적인 투자 심리 개선으로 이어질 수 있습니다.",
+    "action_point": "K-POP 관련 엔터테인먼트 섹터 비중 확대 또는 관련 기업 투자 기회 모색"
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[속보] 특검, '관저 이전 예산 전용' 김대기 징역 4년 구형 - YTN",
+    "title_ko": "[속보] 특검, '관저 이전 예산 전용' 김대기 징역 4년 구형 - YTN",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBmZUlWcFZfbld1V1BIY19aU0JUTXY5V3V1bEF0aFp6YTB0SmJRSXlZZXkwbWZGcU5zMGd5YV80a0w1UzBlT1JEbDFXTUtPS0VLMXVFOU4tbG5ud3kwQ21hYzJhTGo3UmdaRzNieUFwTQ?oc=5",
+    "published": "Fri, 16 Oct 2026 02:28:00 GMT",
+    "fetched_at": "2026-10-16 16:43:17",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [],
+    "keywords": [
+      "특검",
+      "김대기",
+      "관저 이전",
+      "예산 전용",
+      "징역 구형",
+      "정치",
+      "사법"
+    ],
+    "reason": "전직 대통령 비서실장에 대한 검찰의 징역 구형 소식으로, 국내 정치 및 사법 관련 뉴스이나 금융시장 및 거시경제 지표에 미칠 직접적인 영향은 미미합니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "금호타이어 상무 4명·연구위원 2명 등 6명 임원 승진 인사",
+    "title_ko": "금호타이어 상무 4명·연구위원 2명 등 6명 임원 승진 인사",
+    "link": "https://www.mk.co.kr/news/business/12177951",
+    "published": "Fri, 16 Oct 2026 16:40:35 +09:00",
+    "fetched_at": "2026-10-16 16:43:50",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "타이어",
+      "자동차 부품"
+    ],
+    "keywords": [
+      "금호타이어",
+      "인사",
+      "승진",
+      "경영진",
+      "글로벌 경쟁력"
+    ],
+    "reason": "금호타이어의 내부 임원 승진 인사는 특정 기업의 경영 전략 및 조직 강화에 초점을 맞춘 것으로, 거시경제나 시장 전반에 미치는 영향은 미미합니다. 다만, 유럽 시장 강화 및 기술력 제고 의지를 엿볼 수 있습니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "India's rupee forecast to weaken toward 100-per-dollar level even as RBI pushes back",
     "title_ko": "인도 루피화, RBI의 방어 노력에도 불구하고 달러당 100루피 수준으로 약세 전망",
     "link": "https://www.cnbc.com/2026/10/16/india-rupee-rbi-dollar-iran-war.html",
@@ -2696,278 +2960,5 @@
     ],
     "reason": "청주국제공항의 활성화는 지방 거점 공항들의 반등 가능성을 시사하며, 국내외 여행 수요 회복에 따른 항공 및 관광 산업 전반의 긍정적인 신호로 해석될 수 있습니다. 이는 지역 경제 활성화에도 기여할 전망입니다.",
     "action_point": "국내 항공 및 여행 섹터 내 지방 거점 공항 활성화 수혜주 관심 유지."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Microsoft's Nadella says AI needs an ‘emergency brake’ that humans control",
-    "title_ko": "마이크로소프트 나델라, AI에 인간이 통제하는 '비상 브레이크' 필요성 언급",
-    "link": "https://www.cnbc.com/2026/10/10/microsoft-satya-nadella-ai-emergency-brake-safety.html",
-    "published": "Sat, 10 Oct 2026 20:59:28 GMT",
-    "fetched_at": "2026-10-11 08:59:13",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "기술 (IT)",
-      "반도체",
-      "클라우드 컴퓨팅"
-    ],
-    "keywords": [
-      "AI",
-      "인공지능",
-      "나델라",
-      "마이크로소프트",
-      "규제",
-      "안전장치"
-    ],
-    "reason": "AI 개발 속도 및 방향에 대한 주요 테크 리더의 신중론을 반영하며, 향후 AI 관련 규제 강화 가능성을 시사한다. 이는 단기적으로 AI 섹터의 무한 성장 기대감에 제동을 걸 수 있으나, 장기적으로는 리스크 관리 측면에서 긍정적일 수 있다.",
-    "action_point": "AI 성장주의 단기적 과열 여부를 점검하고, 규제 리스크에 대비해 포트폴리오 재조정을 고려하라."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "JPMorgan makes bullish call in fixed income space, suggests it's a once in a generation opportunity",
-    "title_ko": "JP모건, 채권 시장에 낙관적 전망 제시: '세대마다 한 번 오는 기회' 주장",
-    "link": "https://www.cnbc.com/2026/10/10/jpmorgan-sees-once-in-a-generation-opportunity-in-fixed-income-space.html",
-    "published": "Sat, 10 Oct 2026 15:00:01 GMT",
-    "fetched_at": "2026-10-11 05:22:49",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "채권",
-      "금융"
-    ],
-    "keywords": [
-      "JP모건",
-      "채권",
-      "신용",
-      "낙관론"
-    ],
-    "reason": "JP모건의 채권 시장 강세 전망은 높은 신뢰도와 함께 글로벌 자금 흐름에 영향을 미칠 수 있습니다. 특히 '고품질 기업의 신용 위험을 감수하라'는 조언은 안정적 수익을 추구하는 투자자들에게 새로운 기회를 시사합니다.",
-    "action_point": "채권 포트폴리오 내 고품질 회사채 비중 확대 검토"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Putin relayed Iran war proposal to Trump, Kremlin says",
-    "title_ko": "푸틴, 트럼프에 이란 전쟁 제안 전달했다고 크렘린궁 밝혀",
-    "link": "https://www.cnbc.com/2026/10/10/putin-trump-iran-war-russia-diesel.html",
-    "published": "Sat, 10 Oct 2026 13:42:36 GMT",
-    "fetched_at": "2026-10-11 05:23:02",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "방산",
-      "해운"
-    ],
-    "keywords": [
-      "푸틴",
-      "트럼프",
-      "이란",
-      "전쟁",
-      "지정학적 리스크",
-      "원유"
-    ],
-    "reason": "이 기사는 이란을 둘러싼 주요국 간의 지정학적 긴장 심화를 시사하며, 중동 지역 원유 공급 안정성에 대한 우려와 잠재적 분쟁 위험을 높입니다.",
-    "action_point": "지정학적 리스크 심화에 따른 원유 및 방산 관련 자산 비중 확대를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Trump says Ukraine should get a new president as he blames Zelenskyy for U.S. diesel prices",
-    "title_ko": "트럼프, 젤렌스키를 미국 디젤 가격의 원인으로 지목하며 우크라이나가 새 대통령을 뽑아야 한다고 주장",
-    "link": "https://www.cnbc.com/2026/10/10/trump-says-ukraine-should-get-a-new-president.html",
-    "published": "Sat, 10 Oct 2026 19:19:07 GMT",
-    "fetched_at": "2026-10-11 05:23:11",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "방위산업",
-      "운송",
-      "금융"
-    ],
-    "keywords": [
-      "트럼프",
-      "우크라이나",
-      "젤렌스키",
-      "디젤 가격",
-      "러시아",
-      "지정학적 위험",
-      "에너지 정책"
-    ],
-    "reason": "트럼프의 발언은 향후 미국 외교 정책 변화 가능성을 시사하며, 우크라이나 전쟁에 대한 서방의 단합을 약화시키고 지정학적 불확실성을 증대시킬 수 있습니다. 이는 에너지 시장 불안정성 및 원자재 가격 변동으로 이어질 수 있습니다.",
-    "action_point": "글로벌 지정학적 리스크 심화 및 에너지 시장 변동성 확대에 대비하여 관련 포트폴리오 비중을 재점검하십시오."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "주북 러대사 \"북한, 중요 파트너…경제·과학기술 협력 강화\" - 연합뉴스TV",
-    "title_ko": "주북 러대사 \"북한, 중요 파트너…경제·과학기술 협력 강화\"",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xbWRFZlhPM3FxR3NfTjY5bW8wR2pab2c1OHROMXd3VXFQaVVnbENvWlJuc21VcEZtTjJNa19BRHhwN2pQamhtd0lFSkMtTkZMeDQ0dWR6WHhHUmtja3J1eWxIbEVUXzA?oc=5",
-    "published": "Sat, 10 Oct 2026 12:53:00 GMT",
-    "fetched_at": "2026-10-11 05:23:24",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "방산",
-      "지정학"
-    ],
-    "keywords": [
-      "북한",
-      "러시아",
-      "협력",
-      "지정학",
-      "안보"
-    ],
-    "reason": "러시아와 북한의 경제·과학기술 협력 강화는 동북아 지정학적 불안정성을 심화시키고, 북한의 군사적 역량 증대 가능성을 높여 한국 시장에 지정학적 리스크 프리미엄을 가중시킬 수 있습니다.",
-    "action_point": "북러 협력 강화에 따른 지정학적 리스크 증가에 대비하여 방산 섹터 투자 비중을 검토하고 달러 등 안전자산 보유를 강화하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "The world needs Ukraine’s grain. Its farmers are running out of reasons to plant",
-    "title_ko": "세계는 우크라이나 곡물이 필요하지만, 농부들은 더 이상 파종할 이유를 찾지 못하고 있습니다.",
-    "link": "https://www.cnbc.com/2026/10/10/ukraine-grain-exports-russia-harvest.html",
-    "published": "Sat, 10 Oct 2026 05:00:01 GMT",
-    "fetched_at": "2026-10-10 19:15:58",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "식품",
-      "농업",
-      "필수소비재",
-      "원자재"
-    ],
-    "keywords": [
-      "우크라이나",
-      "곡물",
-      "농업",
-      "식량 안보",
-      "인플레이션",
-      "원자재"
-    ],
-    "reason": "우크라이나 곡물 공급 차질이 장기화될 경우 글로벌 식량 가격 상승 압력과 인플레이션을 심화시키고, 주요 소비국들의 식량 안보에 심각한 영향을 미칠 수 있습니다.",
-    "action_point": "곡물 공급 불안정 심화로 인한 인플레이션 압력에 대비하여 농산물 원자재 관련 자산 비중 확대를 검토하십시오."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "트럼프, 노벨상 불발 비판하며 \"내가 남북한 전쟁도 막고있어\" - 연합뉴스",
-    "title_ko": "트럼프, 노벨상 불발 비판하며 \"내가 남북한 전쟁도 막고있어\"",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TZkhyRW1xQmtLYlRxc3ZnSlBqZHlYb0JTTkpVTHlkUk1aa3BjVEg0LXAxeE5PNTJwOV9lTXg1N0NDQ3pIQ1ZEbUJCbHNNeW50ZHpBWE5rckN3TGfSAWBBVV95cUxNUjlBZFUzYmpNY285bGtkVHhvX195TG12VmROTmpWa0pFTWhCQU9MTmU2VkppMVlEUFlKLXlOWTl1VldTU1VmSTA0NTlVYm8ycF93MHJmMVFycU92UE52d3Y?oc=5",
-    "published": "Sat, 10 Oct 2026 02:27:59 GMT",
-    "fetched_at": "2026-10-10 19:16:35",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "지정학",
-      "국방"
-    ],
-    "keywords": [
-      "트럼프",
-      "한반도",
-      "남북관계",
-      "미국대선"
-    ],
-    "reason": "트럼프 전 대통령이 자신의 대북 정책을 회고하며 한반도 전쟁 억지 노력을 주장하는 발언으로, 새로운 정책 방향이나 즉각적인 지정학적 변화를 의미하지 않습니다. 향후 미국 대선 과정에서 트럼프의 외교 정책 기조를 가늠할 수 있는 발언이지만, 당장의 시장 영향은 제한적입니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Stocks making the biggest moves midday: T-Mobile, Verizon, AT&T, Crown Castle, Teva & more",
-    "title_ko": "오후장 중 큰 움직임을 보이는 주식들: T-Mobile, Verizon, AT&T, Crown Castle, Teva 외",
-    "link": "https://www.cnbc.com/2026/10/09/stocks-making-the-biggest-moves-midday-tmus-vz-t-cci-teva.html",
-    "published": "Fri, 09 Oct 2026 18:57:23 GMT",
-    "fetched_at": "2026-10-10 19:15:46",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "통신",
-      "부동산 (REIT)",
-      "제약"
-    ],
-    "keywords": [
-      "개별주",
-      "시장 움직임",
-      "미국 증시",
-      "통신주",
-      "제약주"
-    ],
-    "reason": "본 기사는 특정 종목들의 개별적인 주가 움직임을 단순 나열할 뿐, 시장 전반의 방향성이나 거시 경제적 함의를 제공하지 않아 투자 포트폴리오에 미칠 직접적인 영향은 제한적입니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "AI is changing how lawyers work — and putting the billable hour under pressure",
-    "title_ko": "AI가 변호사의 업무 방식을 변화시키고 있으며, 시간당 청구 방식에 압력을 가하고 있다",
-    "link": "https://www.cnbc.com/2026/10/10/ai-lawyers-billable-hour-legal-careers.html",
-    "published": "Sat, 10 Oct 2026 05:00:01 GMT",
-    "fetched_at": "2026-10-10 19:16:07",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "법률 서비스",
-      "인공지능(AI)",
-      "소프트웨어",
-      "전문 서비스"
-    ],
-    "keywords": [
-      "AI",
-      "법률",
-      "시간당 청구",
-      "생산성",
-      "디지털 전환"
-    ],
-    "reason": "이 뉴스는 AI 기술이 전문직 서비스 분야, 특히 법률 시장의 비용 구조와 생산성에 혁신을 가져올 것임을 시사합니다. 이는 장기적으로 기업 비용 절감 및 생산성 향상에 기여할 수 있으나, 단기적으로는 해당 산업 내 경쟁 심화와 비즈니스 모델 변화를 야기할 수 있습니다.",
-    "action_point": "AI 기술 도입에 따른 생산성 향상 및 비용 효율화가 예상되는 전문 서비스 섹터와 AI 솔루션 제공 기업에 대한 투자 기회를 모색하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Isaias weakens to Category 1 hurricane after Florida landfall, NHC says",
-    "title_ko": "이사야스, 플로리다 상륙 후 1등급 허리케인으로 약화. NHC 발표",
-    "link": "https://www.cnbc.com/2026/10/10/isaias-weakens-to-category-1-hurricane-after-florida-landfall.html",
-    "published": "Sat, 10 Oct 2026 06:46:27 GMT",
-    "fetched_at": "2026-10-10 19:16:16",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "보험",
-      "건설",
-      "관광"
-    ],
-    "keywords": [
-      "허리케인",
-      "플로리다",
-      "자연재해",
-      "미국 날씨"
-    ],
-    "reason": "이사야스 허리케인의 강도 약화는 예상보다 심각한 피해를 제한할 것으로 보이며, 영향은 미국 플로리다 지역에 국한될 가능성이 높아 글로벌 금융시장에 미치는 직접적인 거시경제적 영향은 미미할 것이다.",
-    "action_point": "한국 자산가 포트폴리오의 직접적인 영향은 제한적이므로 해당 없음."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "트럼프, '노벨상 불발' 불만 폭발 \"남북한 전쟁 내가 막고 있다\" - MBC 뉴스",
-    "title_ko": "트럼프, '노벨상 불발' 불만 폭발 \"남북한 전쟁 내가 막고 있다\"",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5OZHNhYjhNdkJmN3paQW1UamkwMkZjSXdSTS1jdmRYS3lTd05UNDlGOTBBYkxMN19fUDN3OU9pTDBud0QycUpWS1RyY1Z2RU1sSmNCdnJGbl9pR2FONmdMYkh5bEtaZmlQa01ONzJObkd6Rkx10gF0QVVfeXFMTkRzdVNNYnFISGN5c3ZjNlRzNWs4NHplMHJkb21HbVlzQ1J1aVVhSmVkUllmNEdGVzR6VHFVblktbGhyaFZhWG12LU8xdzhlTmNpUlpMZ2F6d2tTT01CdDk4R1NyNXhsM0l6bkFYMnptQ2hVMVc?oc=5",
-    "published": "Sat, 10 Oct 2026 06:44:25 GMT",
-    "fetched_at": "2026-10-10 19:16:27",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [],
-    "keywords": [
-      "트럼프",
-      "노벨상",
-      "남북한 전쟁",
-      "지정학",
-      "한반도"
-    ],
-    "reason": "트럼프 전 대통령의 개인적 발언으로 현재 정책 변화를 의미하지 않으며, 한반도 지정학적 리스크에 대한 인식을 상기시키는 수준이다.",
-    "action_point": "해당 없음"
   }
 ]
