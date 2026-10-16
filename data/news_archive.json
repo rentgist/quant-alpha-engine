@@ -2,6 +2,107 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "Norway's $2 trillion wealth fund was frozen out of major defense companies. That may be about to change",
+    "title_ko": "노르웨이 국부펀드, 2조 달러 규모 방산기업 투자 규제 완화 가능성",
+    "link": "https://www.cnbc.com/2026/10/16/norway-sovereign-wealth-fund-defense-investment.html",
+    "published": "Fri, 16 Oct 2026 10:56:47 GMT",
+    "fetched_at": "2026-10-16 21:51:58",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "방위산업",
+      "항공우주 및 방산"
+    ],
+    "keywords": [
+      "노르웨이 국부펀드",
+      "방위산업",
+      "투자 규제 완화",
+      "록히드마틴",
+      "보잉"
+    ],
+    "reason": "세계 최대 규모 국부펀드 중 하나인 노르웨이 국부펀드가 방위산업 투자 규제를 완화하면 해당 섹터에 대한 대규모 자금 유입이 예상되며, 이는 관련 기업들의 주가에 긍정적인 영향을 미칠 수 있습니다.",
+    "action_point": "글로벌 방위산업 섹터 투자 비중 확대를 검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "국제유가 상승세에도 11차 석유 최고가격 동결 - MBC 뉴스",
+    "title_ko": "국제유가 상승세에도 11차 석유 최고가격 동결",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1rY1B3ckxKdGg3Z2t0OHRTSUVjWUxCeGsxZXdVaTVkdzBCVloyTW5fTUxQbFQ3SjJrZkVuNUJjOFlZcVVtY2tBRG0xclBhVm5zTTQ4Z2t5NXJJZ2lIbzhlWlE4SGRKbEdjdFNLMU5PLTZneHhY0gF0QVVfeXFMUC1zNkViYVRfX0RxVWphOGRsZ2N2R0xNSjlMRW1MellRU2dmSHA0bDV1UjY2RmFDLUF6dV9RRmhxTG1DY21UTzhLQ0xVU2VMWVRSalgzMGVTWHo4TGhWajNXRW1CeDFkelhEU2NlM3YwZ0VLRTE?oc=5",
+    "published": "Fri, 16 Oct 2026 09:00:07 GMT",
+    "fetched_at": "2026-10-16 21:52:27",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "소비재",
+      "유통",
+      "운송",
+      "항공",
+      "정유",
+      "화학"
+    ],
+    "keywords": [
+      "국제유가",
+      "물가안정",
+      "석유가격 동결",
+      "소비자물가",
+      "인플레이션"
+    ],
+    "reason": "국제유가 상승에도 불구하고 국내 석유 최고가격이 동결되어 국내 물가 상승 압력이 완화되고 소비자 구매력이 유지될 수 있습니다. 이는 전반적인 경제의 인플레이션 부담을 줄이는 긍정적 효과를 가져옵니다.",
+    "action_point": "유류비 부담 감소로 국내 소비 및 운송 관련 섹터의 투자심리 개선 여부를 주시하고, 정유/화학 섹터의 단기 실적 영향은 추가 확인하라."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Stocks making the biggest moves premarket: Tesla, SpaceX, Alcoa, CoreWeave, Travelers & more",
+    "title_ko": "프리마켓에서 가장 큰 움직임을 보이는 주식: 테슬라, 스페이스X, 알코아, 코어위브, 트래블러스 등",
+    "link": "https://www.cnbc.com/2026/10/16/stocks-making-the-biggest-moves-premarket-tsla-spcx-aa-crwv.html",
+    "published": "Fri, 16 Oct 2026 11:43:42 GMT",
+    "fetched_at": "2026-10-16 21:51:40",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "자동차",
+      "기술",
+      "소재",
+      "금융",
+      "항공우주"
+    ],
+    "keywords": [
+      "프리마켓",
+      "주식 움직임",
+      "개별 종목",
+      "테슬라"
+    ],
+    "reason": "본 기사는 주요 기업들의 프리마켓 주가 변동을 보여주며, 시장의 개별 종목 관심과 특정 섹터의 단기 모멘텀 변화 가능성을 시사합니다. 거시경제적 영향보다는 개별 기업 및 섹터에 대한 투자자 심리를 반영합니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Europe's answer to SpaceX pops 19% as Ukraine's Starshield limits raise concerns",
+    "title_ko": "유럽의 스페이스X 경쟁사, 우크라이나 스타쉴드 한계 논란 속 19% 급등",
+    "link": "https://www.cnbc.com/2026/10/16/eutelsat-starshield-ukraine-spacex.html",
+    "published": "Fri, 16 Oct 2026 12:16:24 GMT",
+    "fetched_at": "2026-10-16 21:52:15",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "위성 통신",
+      "방위산업"
+    ],
+    "keywords": [
+      "위성 통신",
+      "Eutelsat",
+      "Starshield",
+      "우크라이나 전쟁"
+    ],
+    "reason": "Eutelsat 주가 급등은 경쟁사 Starshield의 우크라이나 내 성능 한계 노출에 기인하며, 이는 위성 통신 시장 내 경쟁 구도 변화 및 방위 산업에서의 위성 기술 중요성 부각을 시사합니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "One Singapore ship was sunk, but here's why others are still transiting the Strait of Hormuz",
     "title_ko": "싱가포르 선박 한 척 침몰에도 불구하고, 다른 선박들이 호르무즈 해협을 계속 통과하는 이유",
     "link": "https://www.cnbc.com/2026/10/16/strait-hormuz-singapore-ships-attacked.html",
@@ -2857,108 +2958,5 @@
     ],
     "reason": "AI 기반 개인화 가격 책정은 소매업체의 수익성을 개선하고 운영 효율성을 높일 잠재력이 있습니다. 이는 장기적으로 관련 기업의 실적에 긍정적인 영향을 줄 수 있습니다.",
     "action_point": "AI 기반 솔루션 도입으로 수익성 개선이 기대되는 유통 및 AI 관련 기업을 관심 종목에 추가 검토."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "총 1억3500만 원 납입한 일반 계좌 vs IRP 계좌…15년 후 자산 차이는? [금융 리터러시2.0]",
-    "title_ko": "총 1억3500만 원 납입한 일반 계좌 vs IRP 계좌…15년 후 자산 차이는? [금융 리터러시2.0]",
-    "link": "https://www.mk.co.kr/news/economy/12173180",
-    "published": "Sun, 11 Oct 2026 18:51:53 +09:00",
-    "fetched_at": "2026-10-11 20:08:40",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "금융",
-      "자산운용",
-      "연금"
-    ],
-    "keywords": [
-      "IRP",
-      "연금",
-      "세금",
-      "은퇴",
-      "금융상품"
-    ],
-    "reason": "이 기사는 IRP 계좌의 장기적인 자산 증식 효과와 세금 혜택을 강조하며, 개인 투자자의 노후 대비 및 절세 전략 수립에 중요한 정보를 제공합니다. 시장 전반의 방향성에는 직접적인 영향을 미치지 않으나, 개인의 포트폴리오 관리에 대한 인식을 높일 수 있습니다.",
-    "action_point": "개인형 퇴직연금(IRP) 계좌 개설 또는 기존 계좌의 추가 납입 및 운용 전략을 재점검하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "전세계 ‘감튀’ 3분의 1을 만드는 이곳…‘깜짝 실적’ 달성한 비결 [매일 뉴욕]",
-    "title_ko": "전세계 ‘감튀’ 3분의 1을 만드는 이곳…‘깜짝 실적’ 달성한 비결 [매일 뉴욕]",
-    "link": "https://www.mk.co.kr/news/world/12173171",
-    "published": "Sun, 11 Oct 2026 18:10:52 +09:00",
-    "fetched_at": "2026-10-11 20:08:59",
-    "sentiment": "호재",
-    "importance": 2,
-    "sectors": [
-      "식품 가공",
-      "필수 소비재",
-      "농업"
-    ],
-    "keywords": [
-      "램 웨스턴",
-      "감자튀김",
-      "실적",
-      "식품 산업",
-      "소비자 지출"
-    ],
-    "reason": "램 웨스턴의 깜짝 실적은 글로벌 패스트푸드 및 냉동식품 부문에서 견조한 소비자 수요가 지속되고 있음을 시사합니다. 이는 인플레이션 압력 속에서도 특정 소비재 시장의 회복력을 보여주는 긍정적 신호입니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "미러 ’경유딜’에 EU “전쟁자금 대는 것“…영국 “우크라와 연대“ - 연합뉴스TV",
-    "title_ko": "미러 ’경유딜’에 EU “전쟁자금 대는 것“…영국 “우크라와 연대“ - 연합뉴스TV",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ldjVtMmhCUVlkZnBseFg3OHFlTHZGNXpidUJhM19uY3N4UUFwS3VwalNFYjF0NjB0eURxQThxTFg4dnFaZDU1NVJxeTBEWGpQOXM5eXZKZGlxVmpMQ1U0NEtfLUdFQWs?oc=5",
-    "published": "Sat, 10 Oct 2026 20:23:00 GMT",
-    "fetched_at": "2026-10-11 13:23:26",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "석유및가스",
-      "방산",
-      "운송"
-    ],
-    "keywords": [
-      "미러관계",
-      "경유",
-      "에너지안보",
-      "지정학적리스크",
-      "우크라이나전쟁"
-    ],
-    "reason": "미국과 러시아 간의 '경유딜'이 유럽연합의 반발을 사며 지정학적 긴장이 지속되고 있음을 보여준다. 이는 글로벌 에너지 시장의 불확실성을 가중시키고 국제 유가 변동성을 높이는 요인이 될 수 있다.",
-    "action_point": "에너지 관련 자산의 변동성 확대에 대비하고, 방산주 등 지정학적 리스크 헤지 자산의 비중을 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "지방공항의 기분 좋은 반격…사통팔달 청주국제공항에서 시작된 '여행의 이유' - 정책브리핑",
-    "title_ko": "지방공항의 기분 좋은 반격…사통팔달 청주국제공항에서 시작된 '여행의 이유' - 정책브리핑",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSW5LYTFxODZIMEcyVGRpcWFXMEdXZnhDZU1iUGN5ZXpyNlViQUxrQjdRUUpyZjFqczZrVmNDODNpeVNBLTdOcUNuUFZpZ0FsVE4zU0pmZGFvOEI1eWRPT2Y4QXJDenZSVkwxeWVocTlZX3g5M2ZmSF8xbENuaUFxMjR2VWhlZFk?oc=5",
-    "published": "Sun, 11 Oct 2026 00:42:58 GMT",
-    "fetched_at": "2026-10-11 13:23:17",
-    "sentiment": "호재",
-    "importance": 2,
-    "sectors": [
-      "항공",
-      "여행/관광",
-      "유통",
-      "지역경제"
-    ],
-    "keywords": [
-      "지방공항",
-      "청주국제공항",
-      "여행",
-      "관광",
-      "항공",
-      "지역경제 활성화"
-    ],
-    "reason": "청주국제공항의 활성화는 지방 거점 공항들의 반등 가능성을 시사하며, 국내외 여행 수요 회복에 따른 항공 및 관광 산업 전반의 긍정적인 신호로 해석될 수 있습니다. 이는 지역 경제 활성화에도 기여할 전망입니다.",
-    "action_point": "국내 항공 및 여행 섹터 내 지방 거점 공항 활성화 수혜주 관심 유지."
   }
 ]
