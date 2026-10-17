@@ -2,6 +2,76 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "Semiconductor market to remain solid ‘at least through next year,’ South Korea finance minister says",
+    "title_ko": "한국 재정장관, 반도체 시장 최소 내년까지 견고할 것",
+    "link": "https://www.cnbc.com/2026/10/17/south-korea-semiconductor-outlook-lee-hyoung-il.html",
+    "published": "Sat, 17 Oct 2026 16:45:15 GMT",
+    "fetched_at": "2026-10-18 02:38:39",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "반도체",
+      "IT 하드웨어"
+    ],
+    "keywords": [
+      "반도체",
+      "한국 경제",
+      "성장 전망",
+      "수출"
+    ],
+    "reason": "한국 재정장관의 발언은 최근 반도체 섹터의 조정을 겪는 와중에도 장기적인 성장 동력에 대한 정부의 확신을 보여주며, 관련 기업의 투자 심리에 긍정적 영향을 미칠 수 있다.",
+    "action_point": "반도체 섹터 비중을 유지하거나 저점 매수 기회를 모색."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "'Dead money’ for a decade: Why this hedge fund approach may deliver an advantage over bonds",
+    "title_ko": "'10년간 죽은 돈': 왜 헤지펀드 전략이 채권보다 유리할 수 있는가",
+    "link": "https://www.cnbc.com/2026/10/17/dead-money-for-a-decade-hedge-fund-approach-that-may-trump-bonds.html",
+    "published": "Sat, 17 Oct 2026 15:00:01 GMT",
+    "fetched_at": "2026-10-18 02:38:18",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "금융",
+      "대체투자",
+      "채권"
+    ],
+    "keywords": [
+      "채권",
+      "대체투자",
+      "헤지펀드",
+      "자산배분",
+      "수익률"
+    ],
+    "reason": "이 기사는 향후 10년간 채권 수익률이 부진할 수 있음을 경고하며, 헤지펀드 스타일의 관리형 선물 투자가 채권 대비 유리할 수 있다는 관점을 제시합니다. 이는 전통적인 자산배분 전략에 대한 재고를 촉구합니다.",
+    "action_point": "채권 포트폴리오 비중 및 투자 기간을 재검토하고, 관리형 선물 등 대체투자 상품 편입을 통한 분산 효과를 모색하라."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Software’s new consolidator gets big vote of confidence from Berkshire",
+    "title_ko": "소프트웨어 신규 통합 기업, 버크셔 해서웨이로부터 강력한 신뢰를 얻다",
+    "link": "https://www.cnbc.com/2026/10/17/bending-spoons-wants-to-revive-software-castoffs-berkshire-investing.html",
+    "published": "Sat, 17 Oct 2026 15:11:30 GMT",
+    "fetched_at": "2026-10-18 02:38:25",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "소프트웨어",
+      "기술"
+    ],
+    "keywords": [
+      "소프트웨어 통합",
+      "버크셔 해서웨이",
+      "Bending Spoons"
+    ],
+    "reason": "버크셔 해서웨이의 투자는 대상 기업(Bending Spoons)에 대한 강력한 신뢰 신호이며, 이는 소프트웨어 통합 비즈니스 모델의 잠재력을 시장에 확인시켜 줍니다. 기술 섹터 내 유사 비즈니스 모델을 가진 기업들에 대한 투자 심리 개선에 기여할 수 있습니다.",
+    "action_point": "소프트웨어 통합 비즈니스 모델을 가진 기업 및 관련 기술 섹터 내 성장주 투자 기회 모색."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "Trump waives broad new Russia sanctions and tariffs under Graham Act, citing national interest",
     "title_ko": "트럼프, 국가 안보를 이유로 그레이엄 법에 따른 러시아 제재 및 관세 면제",
     "link": "https://www.cnbc.com/2026/10/17/trump-waives-russia-related-sanctions-tariffs-before-they-take-effect-.html",
@@ -2877,77 +2947,5 @@
     ],
     "reason": "트럼프의 러시아 디젤 거래 옹호는 향후 미국 대선 결과에 따라 대러 제재 완화 가능성을 시사하며, 이는 에너지 시장과 지정학적 불안정성에 영향을 미칠 수 있습니다. 우크라이나 전쟁의 장기화 및 국제 정세 변화 가능성을 높입니다.",
     "action_point": "향후 미국 대선 결과에 따른 러시아 제재 완화 가능성에 대비하여 에너지 섹터 투자 비중을 조정하는 방안을 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "FAA warns U.S. airlines of safety risks over Saudi Arabia after attacks",
-    "title_ko": "FAA, 사우디아라비아 공격 후 미국 항공사에 안전 위험 경고",
-    "link": "https://www.cnbc.com/2026/10/12/faa-saudi-arabia-flight-risks.html",
-    "published": "Mon, 12 Oct 2026 14:31:32 GMT",
-    "fetched_at": "2026-10-13 01:20:24",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "항공",
-      "여행"
-    ],
-    "keywords": [
-      "FAA",
-      "사우디아라비아",
-      "항공 안전",
-      "지정학적 리스크",
-      "여행 차질"
-    ],
-    "reason": "이번 FAA 경고는 중동 내 지정학적 긴장 고조를 시사하며, 해당 지역 운항 항공사들의 운영 차질 및 비용 증가로 이어져 항공 및 여행 섹터에 부정적 영향을 미칠 수 있습니다.",
-    "action_point": "항공 섹터 또는 중동 관련 자산에 대한 투자 비중을 재검토하고, 유가 변동성 확대 가능성에 대비하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Delta delays debut of Saudi Arabia service until March after Riyadh airport attacks",
-    "title_ko": "델타항공, 리야드 공항 공격 여파로 사우디아라비아 노선 취항 내년 3월로 연기",
-    "link": "https://www.cnbc.com/2026/10/12/delta-riyadh-nonstop-service-delay.html",
-    "published": "Mon, 12 Oct 2026 15:48:28 GMT",
-    "fetched_at": "2026-10-13 01:20:34",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "항공",
-      "여행"
-    ],
-    "keywords": [
-      "델타항공",
-      "사우디아라비아",
-      "공항 공격",
-      "항공 노선",
-      "지정학적 위험"
-    ],
-    "reason": "델타항공의 사우디 노선 연기는 리야드 공항 공격으로 인한 중동 지역의 지정학적 불안정성을 시사하며, 해당 지역의 항공 및 여행 산업 투자 심리에 부정적인 영향을 줄 수 있습니다.",
-    "action_point": "중동 노선 의존도가 높은 항공/여행 관련 주식의 단기적인 리스크 노출도를 점검하십시오."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "S&P 500 is little changed to start the week; Micron leads tech lower: Live updates",
-    "title_ko": "S&P 500, 주 초반 소폭 변동; 마이크론, 기술주 하락 주도: 실시간 업데이트",
-    "link": "https://www.cnbc.com/2026/10/11/stock-market-today-live-updates.html",
-    "published": "Mon, 12 Oct 2026 15:57:18 GMT",
-    "fetched_at": "2026-10-13 01:20:47",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "기술주",
-      "금융주"
-    ],
-    "keywords": [
-      "S&P 500",
-      "마이크론",
-      "기술주",
-      "은행 실적",
-      "인플레이션 데이터"
-    ],
-    "reason": "주 초반 S&P 500은 소폭 변동하고 기술주는 마이크론을 중심으로 약세를 보이며 관망세가 짙다. 투자자들은 이번 주 예정된 주요 은행 실적 발표와 인플레이션 데이터에 주목하고 있으며, 이 결과에 따라 시장 방향성이 결정될 것이다.",
-    "action_point": "반도체 및 기술주 섹터의 변동성에 대비하여 비중 축소를 검토하라."
   }
 ]
