@@ -1,5 +1,124 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "시티, 금리가 주가 밸류에이션보다 경제에 더 큰 영향 미칠 수 있어 - Investing.com 한국어",
+    "title_ko": "시티, 금리가 주가 밸류에이션보다 경제에 더 큰 영향 미칠 수 있어 - Investing.com 한국어",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE42MlhEOXlGU25UZEdETlNUWWpuaVpNR1R5b09kZTd2NXUtNTdMY0hHMkhOeE4wUDBOZFhQX29kNFNpTGpPZXlJZGpuQlJDMjNlRnVDanBLUVZzNk96SlVKNXNEZk0zRmo5X1E?oc=5",
+    "published": "Sat, 17 Oct 2026 19:54:00 GMT",
+    "fetched_at": "2026-10-18 06:53:19",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "금융",
+      "부동산",
+      "경기민감주"
+    ],
+    "keywords": [
+      "금리",
+      "경제",
+      "주식시장",
+      "매크로"
+    ],
+    "reason": "시티의 분석은 고금리가 주식 밸류에이션을 넘어 실물 경제 전반에 광범위한 하방 압력으로 작용할 수 있음을 경고하며, 경기 침체 우려를 가중시킬 수 있다. 이는 기업 이익 감소로 이어져 주식시장 전반에 부정적인 영향을 미칠 전망이다.",
+    "action_point": "경기 하방 위험을 고려하여 방어적 자산 비중 확대 및 현금 보유를 강화."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "5 midterm money takeaways: Democrats have candidate cash. Republicans have Elon Musk",
+    "title_ko": "미국 중간선거 자금 조달 5가지 관전 포인트: 민주당은 후보 자금, 공화당은 일론 머스크",
+    "link": "https://www.cnbc.com/2026/10/16/midterm-election-fundraising-elon-musk.html",
+    "published": "Fri, 16 Oct 2026 21:49:13 GMT",
+    "fetched_at": "2026-10-18 06:52:54",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "정치/정책 관련주"
+    ],
+    "keywords": [
+      "미국 중간선거",
+      "정치 자금",
+      "민주당",
+      "공화당",
+      "일론 머스크"
+    ],
+    "reason": "이 기사는 미국 중간선거의 정치 자금 조달 현황을 보여주며, 민주당의 우세한 후보 자금과 공화당에 대한 일론 머스크의 지원을 조명합니다. 이는 향후 미국 정책 방향에 미칠 잠재적 영향을 간접적으로 시사하지만, 당장의 시장 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "“돈 벌 생각 말라는 명령, 7개월째네요”…석유 최고가격 4번째 동결",
+    "title_ko": "“돈 벌 생각 말라는 명령, 7개월째네요”…석유 최고가격 4번째 동결",
+    "link": "https://www.mk.co.kr/news/economy/12178611",
+    "published": "Sun, 18 Oct 2026 05:59:40 +09:00",
+    "fetched_at": "2026-10-18 06:53:38",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "정유",
+      "석유화학",
+      "유통"
+    ],
+    "keywords": [
+      "유가 동결",
+      "정부 개입",
+      "정유사",
+      "물가 정책",
+      "수익성 압박"
+    ],
+    "reason": "정부의 석유 가격 동결 정책 장기화는 국내 정유 및 유통 기업의 수익성 악화와 투자 불확실성을 가중시켜 해당 섹터에 대한 투자 심리를 위축시킵니다.",
+    "action_point": "국내 정유 및 에너지 관련 기업의 장기 수익성 저하 가능성을 고려하여 해당 섹터 비중 축소를 검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "안전 지켜줘야 할 CCTV·웹캠이 '전쟁 도구'로 전락 - YTN",
+    "title_ko": "안전 지켜줘야 할 CCTV·웹캠이 '전쟁 도구'로 전락 - YTN",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4NW1YTTVfZngzdDNlczg4NTRlaDNudDRpYUNGTG5BQWdUNkp4Q1Q4WEl0Vl9kX0hPRXJOdjVyZ2s3Y3dXWEVaRmJqd0ZLS3BWNUhKa3JQeXdFeUtkcmc?oc=5",
+    "published": "Sat, 17 Oct 2026 19:34:00 GMT",
+    "fetched_at": "2026-10-18 06:53:01",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "사이버 보안",
+      "IT 서비스",
+      "보안 장비 제조"
+    ],
+    "keywords": [
+      "CCTV",
+      "웹캠",
+      "사이버 안보",
+      "기술 오용",
+      "지정학적 리스크"
+    ],
+    "reason": "일상 기기의 안보 위협 전락은 지정학적 긴장 속에서 사이버 보안의 중요성을 부각시키며, 관련 기술 및 서비스 시장의 성장 잠재력을 시사합니다. 동시에 감시 장비 제조 기업의 보안 취약성 리스크를 노출합니다.",
+    "action_point": "사이버 보안 관련 ETF 또는 견고한 보안 솔루션을 제공하는 기업의 투자 비중 확대를 검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[담화] 교황, 유엔식량농업기구(FAO)에 “빵을 결코 전쟁의 무기로 사용해서는 안 됩니다” - Vatican News",
+    "title_ko": "[담화] 교황, 유엔식량농업기구(FAO)에 “빵을 결코 전쟁의 무기로 사용해서는 안 됩니다” - Vatican News",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5zWlRaeVRjLUk3dXNmejZjUnNoYzM4VFNpb013dWgzUHpyaXdCWEVxM2hMVE55S3ZwajB4bFllRTM5VDJDOHBoZ2x4OEFTc1hxSVV3bjNVYjdibF93emQ1MlI1SjA3MHZfZWx1TjJSZmY3N0huMmxWUFF3?oc=5",
+    "published": "Sat, 17 Oct 2026 20:18:46 GMT",
+    "fetched_at": "2026-10-18 06:53:09",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "농업",
+      "식품"
+    ],
+    "keywords": [
+      "식량 안보",
+      "지정학",
+      "인도주의"
+    ],
+    "reason": "교황의 식량 무기화 반대 메시지는 인도주의적 호소로, 식량 안보에 대한 국제적 우려를 상기시키나 당장 시장의 공급/수요나 가격 변동을 유발하지 않아 즉각적인 금융시장 영향은 제한적이다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "French police clash with protesters as tens of thousands rally over cost of living",
@@ -2823,128 +2942,5 @@
     ],
     "reason": "IMF의 경고는 글로벌 채권 시장의 불안정성 심화와 잠재적인 금리 급등 위험을 시사하며, 이는 전반적인 금융 시장의 변동성을 키우고 경제 성장에 부담을 줄 수 있다.",
     "action_point": "고금리 장기화에 대비하여 포트폴리오의 채권 비중과 금리 민감 자산 노출도를 재점검하고, 유동성을 확보하라."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "The bull market turned 4 years old on Monday. Investors say reaching a fifth birthday could be challenging",
-    "title_ko": "강세장이 4주년을 맞았지만, 투자자들은 5년차는 어려울 수 있다고 말한다",
-    "link": "https://www.cnbc.com/2026/10/12/the-bull-market-just-turned-four-after-climbing-a-wall-of-worry.html",
-    "published": "Mon, 12 Oct 2026 18:18:39 GMT",
-    "fetched_at": "2026-10-13 08:22:19",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "전반적인 시장"
-    ],
-    "keywords": [
-      "강세장",
-      "S&P 500",
-      "시장 전망",
-      "투자 심리",
-      "위험 관리"
-    ],
-    "reason": "S&P 500이 지난 몇 년간 120% 가까이 상승하며 강세장이 상당 기간 지속되었음을 나타내며, 투자자들은 향후 추가 상승에 대한 기대치를 낮추고 시장 조정 가능성에 대비할 필요가 있음을 시사합니다.",
-    "action_point": "포트폴리오 내 위험 노출도를 재점검하고 방어적 자산 비중 확대를 고려하라."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Inflation likely peaked for 2026 but will remain sticky, according to prediction markets",
-    "title_ko": "예측 시장: 인플레이션, 2026년 고점 이후에도 고착화될 전망",
-    "link": "https://www.cnbc.com/2026/10/12/inflation-will-remain-sticky-in-2026-according-to-prediction-markets.html",
-    "published": "Mon, 12 Oct 2026 15:37:26 GMT",
-    "fetched_at": "2026-10-13 01:19:52",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "주식",
-      "부동산",
-      "채권",
-      "환율"
-    ],
-    "keywords": [
-      "인플레이션",
-      "고착화",
-      "금리",
-      "연준",
-      "예측 시장"
-    ],
-    "reason": "예측 시장의 인플레이션 고착화 전망은 연준의 고금리 정책 장기화 가능성을 높여 주식, 부동산 등 위험자산에 하방 압력을 가하고, 달러 강세를 지지할 수 있습니다.",
-    "action_point": "달러 자산 비중 유지 및 금리 민감 자산 비중 축소 검토"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Microsoft to rely more on homegrown AI chips, reducing dependence on Nvidia",
-    "title_ko": "마이크로소프트, 자체 AI 칩 의존도 높여 엔비디아 의존도 감소",
-    "link": "https://www.cnbc.com/2026/10/12/microsoft-will-mainly-use-its-maia-chips-for-ai-inference.html",
-    "published": "Mon, 12 Oct 2026 14:04:16 GMT",
-    "fetched_at": "2026-10-13 01:21:08",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "반도체",
-      "클라우드 컴퓨팅",
-      "소프트웨어"
-    ],
-    "keywords": [
-      "마이크로소프트",
-      "엔비디아",
-      "AI 칩",
-      "자체 개발",
-      "반도체"
-    ],
-    "reason": "마이크로소프트의 자체 AI 칩 개발 및 사용 확대는 클라우드 기업들의 수직 계열화 경향을 보여주며, 이는 장기적으로 엔비디아와 같은 외부 AI 칩 공급업체의 시장 지배력에 도전이 될 수 있습니다.",
-    "action_point": "엔비디아 등 AI 칩 선도 기업의 시장 점유율 하락 가능성을 대비하여 관련 섹터 투자 비중을 점검하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "\"반도체 제외하면 이미 정체\"…한국경제 저성장 해법은 - 연합뉴스",
-    "title_ko": "반도체 제외하면 이미 정체\"…한국경제 저성장 해법은",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9lZVlXYVFTc0ZvcnhSR0NqYnFEaW5BOUNveUN4WmVweW9TYU9CQ01BVkE2UWRIcm5hdHQwSVE5MVBHcnB5TVl6Wm9wbFNQLWhUc3VJSFZaakVzcllaRDBCeNIBYEFVX3lxTE9lZVlXYVFTc0ZvcnhSR0NqYnFEaW5BOUNveUN4WmVweW9TYU9CQ01BVkE2UWRIcm5hdHQwSVE5MVBHcnB5TVl6Wm9wbFNQLWhUc3VJSFZaakVzcllaRDBCeA?oc=5",
-    "published": "Mon, 12 Oct 2026 08:00:01 GMT",
-    "fetched_at": "2026-10-13 01:21:33",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "경제 전반",
-      "반도체",
-      "내수 관련 산업",
-      "수출"
-    ],
-    "keywords": [
-      "한국 경제",
-      "저성장",
-      "반도체 의존",
-      "구조적 문제",
-      "경제 활성화"
-    ],
-    "reason": "이 기사는 한국 경제의 반도체 산업에 대한 높은 의존성과 그 외 부문의 저성장 심화를 시사하며, 이는 장기적인 경제 활력 둔화와 국내 비반도체 산업의 투자 매력도 하락으로 이어질 수 있습니다.",
-    "action_point": "반도체 외 국내 성장 동력 부재에 대비하여 해외 자산 비중 확대 및 포트폴리오 다각화 검토."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "\"대한민국 착취의 주역은 재벌\" … 생각 변함없다는 공정위원장",
-    "title_ko": "\"대한민국 착취의 주역은 재벌\" … 생각 변함없다는 공정위원장",
-    "link": "https://www.mk.co.kr/news/economy/12174033",
-    "published": "Mon, 12 Oct 2026 22:38:50 +09:00",
-    "fetched_at": "2026-10-13 01:22:14",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "대기업/재벌 관련 섹터",
-      "지주회사"
-    ],
-    "keywords": [
-      "공정거래위원회",
-      "재벌",
-      "기업 규제",
-      "지배구조"
-    ],
-    "reason": "공정거래위원장의 재벌에 대한 강경한 인식은 향후 대기업 규제 강화 및 지배구조 개편 압력으로 이어질 가능성이 높아, 관련 기업들의 수익성과 투자 심리에 부정적인 영향을 미칠 수 있습니다.",
-    "action_point": "재벌 계열사 중심의 투자 비중을 검토하고, 향후 지배구조 및 규제 강화 정책에 대한 대비책을 마련하라."
   }
 ]
