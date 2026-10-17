@@ -2,6 +2,31 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "French police clash with protesters as tens of thousands rally over cost of living",
+    "title_ko": "프랑스 경찰, 생활비 시위 참가자 수만 명과 충돌",
+    "link": "https://www.cnbc.com/2026/10/17/french-protesters-take-to-streets-over-rising-prices-and-social-strain.html",
+    "published": "Sat, 17 Oct 2026 17:15:33 GMT",
+    "fetched_at": "2026-10-18 04:51:47",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "유럽 증시",
+      "소비재",
+      "관광/레저"
+    ],
+    "keywords": [
+      "프랑스",
+      "생활비 시위",
+      "불평등",
+      "사회 불안",
+      "인플레이션"
+    ],
+    "reason": "프랑스의 생활비 시위는 높은 인플레이션과 불평등에 대한 사회적 불만을 반영하며, 이는 유럽 경제의 소비 심리 위축과 잠재적 정치 불안정성 확대로 이어질 수 있습니다.",
+    "action_point": "유럽 자산에 대한 익스포저가 있는 포트폴리오의 경우, 관련 자산 비중 축소 검토"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "Semiconductor market to remain solid ‘at least through next year,’ South Korea finance minister says",
     "title_ko": "한국 재정장관, 반도체 시장 최소 내년까지 견고할 것",
     "link": "https://www.cnbc.com/2026/10/17/south-korea-semiconductor-outlook-lee-hyoung-il.html",
@@ -2921,31 +2946,5 @@
     ],
     "reason": "공정거래위원장의 재벌에 대한 강경한 인식은 향후 대기업 규제 강화 및 지배구조 개편 압력으로 이어질 가능성이 높아, 관련 기업들의 수익성과 투자 심리에 부정적인 영향을 미칠 수 있습니다.",
     "action_point": "재벌 계열사 중심의 투자 비중을 검토하고, 향후 지배구조 및 규제 강화 정책에 대한 대비책을 마련하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Trump defends Russia diesel deal after bipartisan pushback: 'I made the right choice'",
-    "title_ko": "트럼프, 초당적 반발에도 러시아 디젤 거래 옹호: '나는 올바른 선택을 했다'",
-    "link": "https://www.cnbc.com/2026/10/12/trump-russia-diesel-putin.html",
-    "published": "Mon, 12 Oct 2026 15:55:38 GMT",
-    "fetched_at": "2026-10-13 01:20:09",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "에너지",
-      "해운",
-      "방산"
-    ],
-    "keywords": [
-      "트럼프",
-      "러시아",
-      "제재",
-      "디젤",
-      "우크라이나",
-      "지정학"
-    ],
-    "reason": "트럼프의 러시아 디젤 거래 옹호는 향후 미국 대선 결과에 따라 대러 제재 완화 가능성을 시사하며, 이는 에너지 시장과 지정학적 불안정성에 영향을 미칠 수 있습니다. 우크라이나 전쟁의 장기화 및 국제 정세 변화 가능성을 높입니다.",
-    "action_point": "향후 미국 대선 결과에 따른 러시아 제재 완화 가능성에 대비하여 에너지 섹터 투자 비중을 조정하는 방안을 검토하라."
   }
 ]
