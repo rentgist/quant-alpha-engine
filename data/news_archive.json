@@ -2,6 +2,222 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "Trump waives broad new Russia sanctions and tariffs under Graham Act, citing national interest",
+    "title_ko": "트럼프, 국가 안보를 이유로 그레이엄 법에 따른 러시아 제재 및 관세 면제",
+    "link": "https://www.cnbc.com/2026/10/17/trump-waives-russia-related-sanctions-tariffs-before-they-take-effect-.html",
+    "published": "Sat, 17 Oct 2026 10:20:44 GMT",
+    "fetched_at": "2026-10-17 20:51:54",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "원자재",
+      "방산"
+    ],
+    "keywords": [
+      "트럼프",
+      "러시아",
+      "제재",
+      "그레이엄법",
+      "지정학적 리스크"
+    ],
+    "reason": "트럼프가 러시아에 대한 광범위한 신규 제재를 면제함으로써 지정학적 긴장 완화 및 에너지/원자재 시장의 불확실성이 감소할 수 있습니다. 이는 글로벌 경제의 하방 압력을 일부 완화하는 요인으로 작용할 수 있습니다.",
+    "action_point": "러시아 관련 지정학적 리스크 완화에 따른 원자재 시장의 추가적인 가격 상승 압력 약화 가능성에 대비하여, 에너지 및 원자재 관련 포지션 조정 검토."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "ECB's Lagarde says bond selloff will slow inflation",
+    "title_ko": "ECB 라가르드 총재, 채권 매도세가 인플레이션을 둔화시킬 것이라고 언급",
+    "link": "https://www.cnbc.com/2026/10/17/ecbs-lagarde-says-bond-selloff-will-slow-inflation.html",
+    "published": "Sat, 17 Oct 2026 10:52:54 GMT",
+    "fetched_at": "2026-10-17 20:52:09",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "부동산",
+      "기술주",
+      "금융"
+    ],
+    "keywords": [
+      "라가르드",
+      "ECB",
+      "채권 금리",
+      "인플레이션",
+      "통화정책"
+    ],
+    "reason": "ECB 라가르드 총재의 발언은 현재의 채권 금리 상승세가 인플레이션 둔화에 기여하여 ECB의 추가 긴축 압력을 줄일 수 있음을 시사한다. 이는 단기적으로는 금리 상승 부담이 있으나 장기적으로는 통화정책 완화 기대를 높일 수 있다.",
+    "action_point": "채권 금리 상승세가 지속될 가능성에 대비하여 고금리 부담이 큰 성장주 및 레버리지 높은 자산의 비중 축소를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "IMFC chair says global economy resilient; delegates walk out on Russian official",
+    "title_ko": "IMFC 의장, 세계 경제 회복력 언급; 러시아 대표 발언 중 각국 대표단 퇴장",
+    "link": "https://www.cnbc.com/2026/10/17/imf-members-call-for-more-support-amid-war-shocks-advanced-intelligence-risks.html",
+    "published": "Sat, 17 Oct 2026 11:41:06 GMT",
+    "fetched_at": "2026-10-17 20:52:28",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "해운",
+      "물류",
+      "제조",
+      "기술",
+      "원자재"
+    ],
+    "keywords": [
+      "세계 경제",
+      "지정학적 위험",
+      "무역 갈등",
+      "공급망"
+    ],
+    "reason": "IMFC 의장의 글로벌 경제 회복력 언급에도 불구하고, 지정학적 갈등과 무역 긴장으로 인한 핵심 무역 경로 방해 가능성 경고는 공급망 불안정성을 높이고 시장 불확실성을 증폭시킵니다. 러시아 대표에 대한 각국 대표단 퇴장은 국제사회 분열을 시사하며 투자심리를 위축시킬 수 있습니다.",
+    "action_point": "지정학적 리스크 심화 및 무역 경로 교란 가능성에 대비하여 글로벌 공급망 의존도가 높은 섹터 비중 축소 및 방어 자산 비중 확대를 고려하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "EU, 중국 의식해 무역전쟁 발발시 시장접근 신속제한 추진(종합) - 연합뉴스",
+    "title_ko": "EU, 중국 의식해 무역전쟁 발발시 시장접근 신속제한 추진(종합)",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SdkJDall6NEpQNEhua2ZrVnlIZmRGWGtLRDRCVC1MM0lUNDBqc3RKZDRYdXAxa2FYbFlZZjBsLWNBWVBXa1BwRDlZanpPUTlSQnNTVWZWQVYxYTDSAWBBVV95cUxNUWJWSTBSeVBadlVoNkEySjMzS0puUlJSVm1mQk1jOGw3TXc1dkJiSzZNMlpLUnR0ZFVReDBTY3IxME52Y1c2Y2pyVVdvYXlBRm5oblNKVzUyakxvaWk5VTY?oc=5",
+    "published": "Sat, 17 Oct 2026 06:30:25 GMT",
+    "fetched_at": "2026-10-17 20:53:20",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "글로벌 무역",
+      "수출 제조업",
+      "해운/물류",
+      "반도체",
+      "배터리",
+      "자동차"
+    ],
+    "keywords": [
+      "EU",
+      "중국",
+      "무역전쟁",
+      "보호무역",
+      "지정학",
+      "공급망"
+    ],
+    "reason": "EU의 대중국 무역규제 강화 움직임은 글로벌 교역량 위축 및 공급망 재편을 가속화하며, 이는 글로벌 경기 둔화 압력을 높이고 한국의 수출 기업들에게 불확실성을 증대시키는 요인이다.",
+    "action_point": "EU-중국 무역 긴장 심화에 대비, 양대 시장 노출도가 높은 국내 수출 기업의 리스크 점검 및 비중 축소를 고려하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "전쟁은 얼마나 오래 주식시장을 지배하는가 [조윤남의 사이클투자] - 한국경제",
+    "title_ko": "전쟁은 얼마나 오래 주식시장을 지배하는가 [조윤남의 사이클투자]",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wMVRXdXRQWHNuLUZwTGNhY2tBcl9Rc3JTdHRTNnFiVnkzcGUyalhOZ21qSXBVcWJ2VnMyN1VQdkxiSnR2b0c2WmVJZlQzNEM5VWY1aGpGb0duQQ?oc=5",
+    "published": "Sat, 17 Oct 2026 10:44:16 GMT",
+    "fetched_at": "2026-10-17 20:52:37",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "전반적 시장"
+    ],
+    "keywords": [
+      "전쟁",
+      "주식시장",
+      "사이클투자"
+    ],
+    "reason": "이 기사는 전쟁이 주식시장에 미치는 영향의 기간과 패턴을 역사적 관점에서 분석하여, 지정학적 리스크 상황에서의 투자 사이클 이해를 돕는다.",
+    "action_point": "지정학적 리스크로 인한 시장 변동성 장기화에 대비하여 방어적 자산 비중을 유지하고, 장기적 관점의 분할 매수 전략을 고려하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Some companies give AI to everyone. This CEO is doing the opposite",
+    "title_ko": "일부 기업은 전 직원에 AI를 도입하지만, 이 CEO는 정반대의 전략을 택한다",
+    "link": "https://www.cnbc.com/2026/10/17/ai-workplace-tokenmaxxing-paysend.html",
+    "published": "Sat, 17 Oct 2026 05:00:01 GMT",
+    "fetched_at": "2026-10-17 20:52:18",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "핀테크",
+      "IT/소프트웨어",
+      "인적자원/HR"
+    ],
+    "keywords": [
+      "AI 도입 전략",
+      "생산성",
+      "핀테크",
+      "기업 문화"
+    ],
+    "reason": "이 기사는 기업들의 AI 도입 전략이 다양화되고 있음을 보여줍니다. 전면적 도입보다는 특정 성과자에게 AI를 제한하는 방식이 생산성과 ROI 측면에서 다른 논의를 불러올 수 있습니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "'논란 제조기' 백악관 대변인 경질‥선거 위기 트럼프 '손절' - MBC 뉴스",
+    "title_ko": "'논란 제조기' 백악관 대변인 경질‥선거 위기 트럼프 '손절'",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBrN3hMdXAtQkJHS2JEMFM4UXp1ZjB1bUZ1WVIwSld4VHlsU3RieU1IanNkckxTaHJBMlBtVEFRUWVzZy1yc0lta0xLa1Zlc1Y1WkhmN0t4aTdJamI5MngzYzg0WGNVcFdhSWh0RjVwb01jY3g0a1RaMNIBeEFVX3lxTE83bVdEekdaRFdDM0xza1BFc0g3b0tnQ2VBeGFiWGYyWWRSb3ZTZjQyUjhpT2d4bms1OXdsM09nS3RhbGxzS1hOX0NJZjVxNDRzWEZ2aVRnaXdGcWJIaEozZUFsNHVTQXRlOTlKNFoteGZUbTZBaFcwZw?oc=5",
+    "published": "Sat, 17 Oct 2026 11:10:33 GMT",
+    "fetched_at": "2026-10-17 20:52:49",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [],
+    "keywords": [
+      "백악관",
+      "대변인",
+      "경질",
+      "트럼프",
+      "미국 대선"
+    ],
+    "reason": "미국 대선 국면에서 트럼프 캠페인의 이미지 관리를 위한 백악관 내부 인사 조치로, 거시 경제 지표나 주요 정책 변화를 암시하지 않아 금융 시장에 미치는 직접적인 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "“주식계좌 보고 흐뭇하면 1번”…‘상전벽해 경제’에 與 ‘노심초사’ - 시사저널",
+    "title_ko": "“주식계좌 보고 흐뭇하면 1번”…‘상전벽해 경제’에 與 ‘노심초사’ - 시사저널",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9CVlBHNUFxTlZvZTBLYjR5UmhnUEFFLTZOUVRpc1pMVW9zcXl3MTNTaEV3TkhMOWNOU0ppYkpGellmNEJBeEUySmtJWS1MT1lpc05JRVdwb2UtWGxQMV9GY0o0ZzlQdjdOQmlpdXhhONIBc0FVX3lxTE9ycGxtM1J2a2tGVElvUGdXNGJ0OHN6MVV0NlNMb1p3a09BemQ2SVJ0TFBnM1dOVE9yM21nZVVHeWctdi1LM3dwS09HUWdlUjZOWkVNdzVpN19yOWRBaDdEVXh1TjFQSENGaXVlckwwY29pQzQ?oc=5",
+    "published": "Sat, 17 Oct 2026 06:12:03 GMT",
+    "fetched_at": "2026-10-17 20:52:59",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "전반적 경제",
+      "정책 관련주"
+    ],
+    "keywords": [
+      "정치",
+      "경제 심리",
+      "주식 시장",
+      "여당"
+    ],
+    "reason": "여당의 경제 상황에 대한 노심초사는 현 경제 상황에 대한 정치권의 인식을 보여주며, 향후 정책 변화 또는 시장 개입 가능성에 대한 신호로 해석될 수 있다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "“대구 경제 최악” “무리한 과세 왜 하나”…국감장 질타 잇따라 - 경북일보",
+    "title_ko": "“대구 경제 최악” “무리한 과세 왜 하나”…국감장 질타 잇따라 - 경북일보",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1iMVJmbWFkMl9DTEpON0stM3pJOUMyY3loY3VFZHVNNUkwalBMZ1VEY2RiOTdxYjd0Ym83WXRnTGVlQ3RvVFFOYU44VV9kTGpmVkt6TGpYSTRTcU43V1g3Um1VNjBUQkRLZlFBVFhpWQ?oc=5",
+    "published": "Sat, 17 Oct 2026 10:24:48 GMT",
+    "fetched_at": "2026-10-17 20:53:09",
+    "sentiment": "악재",
+    "importance": 2,
+    "sectors": [
+      "부동산",
+      "내수 소비재"
+    ],
+    "keywords": [
+      "대구 경제",
+      "과세",
+      "지역 경기"
+    ],
+    "reason": "대구 지역 경기 침체 심화와 과도한 과세 정책에 대한 질타는 해당 지역 부동산 시장 및 지역 기반 소비재 기업에 부정적 압력으로 작용할 수 있습니다.",
+    "action_point": "대구 지역 부동산 및 해당 지역 매출 비중이 높은 기업에 대한 투자 비중을 점검하고 재조정 여부를 고려하십시오."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "Trump's Russia diesel deal may offer Putin more than money — and spell trouble for Ukraine",
     "title_ko": "트럼프의 러시아 디젤 거래 제안, 푸틴에게 돈 이상의 것 제공 가능성 – 우크라이나에 문제 야기",
     "link": "https://www.cnbc.com/2026/10/17/trump-diesel-russia-ukraine-war.html",
@@ -2733,226 +2949,5 @@
     ],
     "reason": "주 초반 S&P 500은 소폭 변동하고 기술주는 마이크론을 중심으로 약세를 보이며 관망세가 짙다. 투자자들은 이번 주 예정된 주요 은행 실적 발표와 인플레이션 데이터에 주목하고 있으며, 이 결과에 따라 시장 방향성이 결정될 것이다.",
     "action_point": "반도체 및 기술주 섹터의 변동성에 대비하여 비중 축소를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Investors can now see how Meta's big AI spending will pay off with Muse. Why I am buying now",
-    "title_ko": "메타, 막대한 AI 투자가 Muse를 통해 성과내는 방식 공개 임박. 왜 지금 매수해야 하는가?",
-    "link": "https://www.cnbc.com/2026/10/12/investors-can-now-see-how-metas-big-ai-spending-will-pay-off-with-muse-why-i-am-buying-now.html",
-    "published": "Mon, 12 Oct 2026 15:54:41 GMT",
-    "fetched_at": "2026-10-13 01:21:00",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "IT",
-      "인공지능",
-      "소프트웨어"
-    ],
-    "keywords": [
-      "메타",
-      "AI 투자",
-      "성장 동력",
-      "기술주"
-    ],
-    "reason": "메타의 AI 전략 구체화 및 성장 동력 확보 가능성은 기술주 전반의 투자 심리를 개선하고, AI 관련 기업들의 벨류에이션 상승 요인으로 작용할 수 있습니다.",
-    "action_point": "메타를 포함한 대형 기술주 중 AI 성장 동력이 확보된 기업들의 비중 확대를 고려하십시오."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "우드퍼드, 이코노미스트의 표본 … 홀 \"최저임금 속도조절\" 매경 인터뷰",
-    "title_ko": "우드퍼드, 이코노미스트의 표본 … 홀 \"최저임금 속도조절\" 매경 인터뷰",
-    "link": "https://www.mk.co.kr/news/economy/12174035",
-    "published": "Mon, 12 Oct 2026 22:39:01 +09:00",
-    "fetched_at": "2026-10-13 01:22:00",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "금융",
-      "서비스",
-      "소매",
-      "외식",
-      "제조업"
-    ],
-    "keywords": [
-      "통화정책",
-      "최저임금",
-      "노동시장",
-      "인플레이션",
-      "거시경제"
-    ],
-    "reason": "학계 권위자의 통화정책 관점은 중앙은행 정책 기조에 간접적 영향을 미치며, 최저임금 속도 조절 논의는 국내 기업들의 노동비용과 물가에 중요한 단서가 되어 향후 경제 및 기업 실적에 영향을 줄 수 있습니다.",
-    "action_point": "국내 노동집약적 서비스 및 소매 섹터 기업들의 수익성 개선 가능성을 주시하고, 관련 종목 투자 비중 확대 여부를 검토하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "\"한국서 만드는 르노 전기차…2028년 출시\"",
-    "title_ko": "한국서 만드는 르노 전기차…2028년 출시",
-    "link": "https://www.mk.co.kr/news/business/12174030",
-    "published": "Mon, 12 Oct 2026 22:37:59 +09:00",
-    "fetched_at": "2026-10-13 01:22:25",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "자동차",
-      "자동차 부품",
-      "제조업"
-    ],
-    "keywords": [
-      "르노",
-      "전기차",
-      "하이브리드",
-      "한국 생산",
-      "자동차 산업"
-    ],
-    "reason": "르노의 한국 전기차 및 하이브리드 생산 확대는 국내 자동차 산업의 활력을 높이고 관련 부품 공급망에 긍정적인 영향을 미칠 것입니다.",
-    "action_point": "국내 전기차 및 하이브리드 관련 부품 공급망 기업 투자 기회 모색"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Starbucks says it is not buying Chipotle after takeover speculation",
-    "title_ko": "스타벅스, 치폴레 인수설 부인",
-    "link": "https://www.cnbc.com/2026/10/12/starbucks-denies-chipotle-takeover.html",
-    "published": "Mon, 12 Oct 2026 14:22:48 GMT",
-    "fetched_at": "2026-10-13 01:20:53",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "식음료",
-      "외식업"
-    ],
-    "keywords": [
-      "스타벅스",
-      "치폴레",
-      "인수합병",
-      "루머부인"
-    ],
-    "reason": "스타벅스와 치폴레 간 대형 인수합병 루머가 부인됨으로써 해당 기업 및 외식업 섹터의 M&A 관련 투자심리가 일시적으로 소멸되었으나, 거시경제 전반에 미치는 영향은 제한적이다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "McDonald's is leaning into chicken and drinks to grow. New data shows it could be a tough task",
-    "title_ko": "맥도날드, 치킨 및 음료 부문 성장 전략 추진 난항 예상",
-    "link": "https://www.cnbc.com/2026/10/12/mcdonalds-chicken-beverage-growth.html",
-    "published": "Mon, 12 Oct 2026 14:56:42 GMT",
-    "fetched_at": "2026-10-13 01:21:14",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "외식업 (QSR)",
-      "소비재"
-    ],
-    "keywords": [
-      "맥도날드",
-      "외식업",
-      "경쟁",
-      "소비 지출"
-    ],
-    "reason": "맥도날드의 핵심 성장 전략인 치킨 및 음료 부문이 경쟁 심화로 인해 어려움을 겪을 수 있음을 시사하며, 이는 외식업계 내 경쟁 구도 변화와 소비자 지출 트렌드를 반영한다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Oil falls after Trump declares 'energy ceasefire' between Russia and Ukraine",
-    "title_ko": "트럼프, 러시아-우크라이나 '에너지 휴전' 선언 후 유가 하락",
-    "link": "https://www.cnbc.com/2026/10/12/oil-prics-today-iran-us-saudi-arabia-crude-.html",
-    "published": "Mon, 12 Oct 2026 05:57:29 GMT",
-    "fetched_at": "2026-10-12 15:47:05",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "운송",
-      "화학",
-      "제조업",
-      "소비재"
-    ],
-    "keywords": [
-      "유가",
-      "휴전",
-      "러시아",
-      "우크라이나",
-      "에너지"
-    ],
-    "reason": "러시아-우크라이나 간 에너지 휴전 선언은 지정학적 위험을 완화하고, 국제 유가 하락을 유발하여 글로벌 인플레이션 압력을 완화하고 경제 활동에 긍정적인 영향을 미칠 수 있습니다. 이는 에너지 수입국과 관련 산업에 특히 긍정적입니다.",
-    "action_point": "원자재 관련 익스포저 축소 및 에너지 소비 의존도가 높은 섹터(운송, 화학, 소비재) 투자 비중 확대 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "TikTok CEO sees major scientific breakthroughs from AI within three years",
-    "title_ko": "틱톡 CEO, AI가 3년 내 주요 과학적 돌파구 마련할 것",
-    "link": "https://www.cnbc.com/2026/10/12/tiktok-ceo-bytedance-ai-scientific-breakthroughs.html",
-    "published": "Mon, 12 Oct 2026 04:24:33 GMT",
-    "fetched_at": "2026-10-12 15:47:13",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "IT/기술",
-      "반도체",
-      "소프트웨어",
-      "보안"
-    ],
-    "keywords": [
-      "AI",
-      "과학 기술",
-      "자율 시스템",
-      "보안"
-    ],
-    "reason": "틱톡 CEO의 AI 과학적 돌파구 발언은 AI 기술 발전의 가속화를 시사하며, 관련 기술 및 산업 전반의 성장 기대감을 높인다. 동시에 자율 시스템 도입 확대로 인한 보안 및 규제 강화 필요성도 부각된다.",
-    "action_point": "AI 기술 발전에 따른 장기 성장 동력을 확보하기 위해 관련 기술주 및 반도체 섹터 비중 확대를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Trump says he is 'going to look at' joining Saudi Arabia in the fight against Iran-backed Houthis after deadly airport strike",
-    "title_ko": "트럼프, 치명적 공항 공격 후 사우디와 이란 지원 후티 반군에 맞서 싸우는 방안 '검토할 것' 시사",
-    "link": "https://www.cnbc.com/2026/10/11/trump-saudi-arabia-iran-houthis.html",
-    "published": "Sun, 11 Oct 2026 21:30:45 GMT",
-    "fetched_at": "2026-10-12 09:50:23",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "방산",
-      "해운"
-    ],
-    "keywords": [
-      "트럼프",
-      "중동",
-      "지정학적 리스크",
-      "유가",
-      "후티 반군"
-    ],
-    "reason": "트럼프의 중동 개입 시사 발언은 이란-사우디 대립 구도를 심화시키고 역내 지정학적 긴장을 고조시킬 수 있습니다. 이는 글로벌 유가 상승 압력과 함께 안전자산 선호 심리를 자극할 가능성이 있습니다.",
-    "action_point": "중동 불안에 따른 유가 상승 가능성에 대비해 에너지 관련 자산 비중 확대 및 방산 섹터 관심 유지."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Plenty is working against this market. Here's why I'm staying invested anyway",
-    "title_ko": "현재 시장에 불리한 요소가 많지만, 그럼에도 불구하고 투자를 유지하는 이유",
-    "link": "https://www.cnbc.com/investingclub/2026/10/11/plenty-is-working-against-this-market-why-im-staying-invested-anyway.html",
-    "published": "Mon, 12 Oct 2026 00:23:07 GMT",
-    "fetched_at": "2026-10-12 09:50:34",
-    "sentiment": "악재",
-    "importance": 2,
-    "sectors": [
-      "주식시장 전반"
-    ],
-    "keywords": [
-      "시장 상황",
-      "투자 전략",
-      "위험 요소",
-      "주식 투자"
-    ],
-    "reason": "기사는 현재 주식 시장에 불리한 요소가 많아 주식 보유에 대한 강력한 근거가 부족하다고 지적하며, 시장 전반에 대한 신중한 접근이 필요함을 시사합니다.",
-    "action_point": "주식 포트폴리오의 위험 자산 비중을 점검하고 방어적 포지션을 강화할 것을 검토."
   }
 ]
