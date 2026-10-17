@@ -1,5 +1,30 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "AI rapidly improving, could vastly boost U.S. GDP, Anthropic's Clark tells policymakers",
+    "title_ko": "AI 급속 발전, 미국 GDP 크게 부양 가능성 - 앤스로픽 클라크 정책 입안자들에게 언급",
+    "link": "https://www.cnbc.com/2026/10/17/ai-us-gdp-anthropics-clark.html",
+    "published": "Sat, 17 Oct 2026 23:04:00 GMT",
+    "fetched_at": "2026-10-18 08:38:51",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "기술",
+      "반도체",
+      "소프트웨어",
+      "클라우드 컴퓨팅"
+    ],
+    "keywords": [
+      "AI",
+      "미국 GDP",
+      "기술 발전",
+      "규제 논의"
+    ],
+    "reason": "AI의 급속한 발전이 미국 GDP를 크게 부양할 가능성을 시사하며, 이는 장기적인 경제 성장과 기술 섹터의 긍정적인 전망을 강화합니다. 다만, 새로운 기술에 대한 규제 논의도 함께 진행될 수 있음을 보여줍니다.",
+    "action_point": "인공지능(AI) 및 반도체 등 핵심 기술 섹터 비중을 유지하거나 확대하는 방안을 검토하라."
+  },
+  {
     "source": "GoogleNews_Korea",
     "market": "KR",
     "title": "시티, 금리가 주가 밸류에이션보다 경제에 더 큰 영향 미칠 수 있어 - Investing.com 한국어",
@@ -2916,31 +2941,5 @@
     ],
     "reason": "GC녹십자의 특정 제품 관련 기술 개발 소식으로, 해당 기업의 R&D 역량을 보여주지만 거시경제나 전체 주식 시장에 미치는 영향은 제한적입니다.",
     "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "IMF warns bond yields could see a 'disorderly' spike as debt, inflation risks worsen",
-    "title_ko": "IMF, 부채 및 인플레이션 위험 악화로 채권 수익률 '무질서한' 급등 경고",
-    "link": "https://www.cnbc.com/2026/10/13/treasury-yields-imf-debt-inflation-.html",
-    "published": "Tue, 13 Oct 2026 03:19:43 GMT",
-    "fetched_at": "2026-10-13 13:34:52",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "채권",
-      "금융",
-      "부동산",
-      "성장주"
-    ],
-    "keywords": [
-      "IMF",
-      "채권 수익률",
-      "인플레이션",
-      "부채",
-      "시장 변동성"
-    ],
-    "reason": "IMF의 경고는 글로벌 채권 시장의 불안정성 심화와 잠재적인 금리 급등 위험을 시사하며, 이는 전반적인 금융 시장의 변동성을 키우고 경제 성장에 부담을 줄 수 있다.",
-    "action_point": "고금리 장기화에 대비하여 포트폴리오의 채권 비중과 금리 민감 자산 노출도를 재점검하고, 유동성을 확보하라."
   }
 ]
