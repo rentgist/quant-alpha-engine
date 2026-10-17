@@ -2,6 +2,105 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "Trump's Russia diesel deal may offer Putin more than money — and spell trouble for Ukraine",
+    "title_ko": "트럼프의 러시아 디젤 거래 제안, 푸틴에게 돈 이상의 것 제공 가능성 – 우크라이나에 문제 야기",
+    "link": "https://www.cnbc.com/2026/10/17/trump-diesel-russia-ukraine-war.html",
+    "published": "Sat, 17 Oct 2026 05:46:20 GMT",
+    "fetched_at": "2026-10-17 16:19:51",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "방산",
+      "에너지",
+      "금융"
+    ],
+    "keywords": [
+      "트럼프",
+      "러시아",
+      "우크라이나",
+      "지정학적 리스크"
+    ],
+    "reason": "트럼프의 러시아 디젤 거래 제안은 향후 미국 대외 정책의 불확실성을 높이고, 우크라이나 전쟁의 양상 및 지정학적 리스크를 증대시킬 수 있습니다. 이는 글로벌 투자 심리에 부정적인 영향을 미칠 가능성이 있습니다.",
+    "action_point": "지정학적 리스크 헤지를 위해 달러 및 금 등 안전자산 비중 유지 또는 확대 검토."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Nasdaq slides 2% Friday to post worst week since June, pressured by AI sell-off and oil prices: Live updates",
+    "title_ko": "나스닥, AI 매도세와 유가 상승 압력에 금요일 2% 하락하며 6월 이후 최악의 주간 기록: 실시간 업데이트",
+    "link": "https://www.cnbc.com/2026/10/15/stock-market-today-live-updates.html",
+    "published": "Fri, 16 Oct 2026 20:27:46 GMT",
+    "fetched_at": "2026-10-17 16:20:05",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "기술주",
+      "성장주",
+      "에너지"
+    ],
+    "keywords": [
+      "나스닥",
+      "AI",
+      "인공지능",
+      "유가",
+      "기술주 매도"
+    ],
+    "reason": "AI 관련 기술주 매도세와 유가 상승이 겹쳐 기술주 중심의 시장 하락을 야기했으며, 이는 성장주 전반에 대한 투자 심리 위축과 인플레이션 우려를 반영합니다.",
+    "action_point": "인공지능 관련 기술주 비중 축소를 검토하고, 고유가 환경에 대비한 포트폴리오 조정을 고려하십시오."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "전쟁이 부른 공급 가뭄...전 세계 '경유 쟁탈전' - YTN",
+    "title_ko": "전쟁이 부른 공급 가뭄...전 세계 '경유 쟁탈전' - YTN",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBPY0pqWHBDVjJOQU01UXVzb2FQemRZczRVbjVXNnlRQWlQRC1kM1ZOWDh0Nkx5VzlWMVZoQjV3ZXFIUGlMWlZPNXdyalhHbDI4eWtOQ3VpWGZEZG9PbkE?oc=5",
+    "published": "Sat, 17 Oct 2026 05:29:00 GMT",
+    "fetched_at": "2026-10-17 16:20:14",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "운송",
+      "물류",
+      "제조업",
+      "농업",
+      "화학"
+    ],
+    "keywords": [
+      "전쟁",
+      "경유",
+      "공급난",
+      "에너지 가격",
+      "인플레이션"
+    ],
+    "reason": "전쟁으로 인한 경유 공급 부족은 전 세계 에너지 가격 상승을 심화시키고 물류, 제조업, 농업 등 전반적인 산업의 비용 부담을 가중시켜 인플레이션 압력과 경기 둔화 우려를 높인다.",
+    "action_point": "경유 가격 상승에 취약한 운송, 물류, 제조업 섹터 비중 축소 또는 헤징 전략 검토."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Stocks making the biggest moves after hours: Interactive Brokers, J.B. Hunt, Alcoa and more",
+    "title_ko": "장 마감 후 가장 큰 변동을 보인 주식들: 인터랙티브 브로커스, J.B. 헌트, 알코아 외",
+    "link": "https://www.cnbc.com/2026/10/15/stocks-making-the-biggest-moves-after-hours-ibkr-jbht-aa.html",
+    "published": "Thu, 15 Oct 2026 20:48:50 GMT",
+    "fetched_at": "2026-10-17 16:19:42",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "금융",
+      "운송/물류",
+      "소재"
+    ],
+    "keywords": [
+      "장외거래",
+      "개별주식",
+      "변동성"
+    ],
+    "reason": "이 기사는 몇몇 개별 기업의 장외거래 주가 변동을 다루며, 특정 기업의 실적이나 뉴스에 따른 움직임일 가능성이 크다. 거시 경제나 시장 전체에 미치는 직접적인 영향은 제한적이다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "Brent oil touches $110 as Iran escalates Hormuz attacks, Ukraine vows to hit Russian refineries",
     "title_ko": "브렌트유 110달러 근접, 이란 호르무즈 해협 공격 강화, 우크라이나 러시아 정유시설 타격 공언",
     "link": "https://www.cnbc.com/2026/10/16/oil-price-today-iran-strait-hormuz-ukraine-russia.html",
@@ -2855,110 +2954,5 @@
     ],
     "reason": "기사는 현재 주식 시장에 불리한 요소가 많아 주식 보유에 대한 강력한 근거가 부족하다고 지적하며, 시장 전반에 대한 신중한 접근이 필요함을 시사합니다.",
     "action_point": "주식 포트폴리오의 위험 자산 비중을 점검하고 방어적 포지션을 강화할 것을 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "AI’s quiet safety gatekeepers are stepping into the spotlight",
-    "title_ko": "AI의 조용한 안전 관리자들이 주목받고 있다",
-    "link": "https://www.cnbc.com/2026/10/11/ais-quiet-safety-gatekeepers-are-stepping-into-the-spotlight.html",
-    "published": "Sun, 11 Oct 2026 14:08:44 GMT",
-    "fetched_at": "2026-10-12 06:14:37",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "기술 (소프트웨어, AI 개발)",
-      "반도체 (AI칩)",
-      "컨설팅/전문 서비스"
-    ],
-    "keywords": [
-      "AI",
-      "안전",
-      "평가",
-      "규제",
-      "거버넌스",
-      "기술 산업"
-    ],
-    "reason": "AI 산업의 성숙과 함께 안전 및 윤리적 고려사항이 중요해지면서 제3자 평가기관의 역할이 부각되고 있습니다. 이는 AI 기업의 장기적인 신뢰도와 지속 가능성을 높일 수 있지만, 단기적으로는 규제 및 준수 비용 증가로 이어질 수 있습니다.",
-    "action_point": "AI 관련 기업 투자 시, 기업의 AI 안전 및 규제 대응 역량을 심사숙고하여 포트폴리오를 조정하라."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "This Chinese memory chip maker has global potential and is poised to outperform",
-    "title_ko": "이 중국 메모리 반도체 제조업체는 글로벌 잠재력을 보유하고 있으며 뛰어난 성과를 낼 준비가 되어 있습니다.",
-    "link": "https://www.cnbc.com/2026/10/11/this-chinese-memory-chip-maker-has-global-potential.html",
-    "published": "Sun, 11 Oct 2026 11:39:38 GMT",
-    "fetched_at": "2026-10-12 06:14:27",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "반도체",
-      "IT하드웨어",
-      "기술주"
-    ],
-    "keywords": [
-      "메모리 반도체",
-      "중국 기술",
-      "CXMT",
-      "실적 발표",
-      "기술 경쟁"
-    ],
-    "reason": "중국 메모리 반도체 기업의 약진 가능성을 시사하며, 글로벌 반도체 시장 내 경쟁 심화 및 특정 기술 분야에서의 중국 기술력 성장을 재평가하게 할 수 있습니다.",
-    "action_point": "국내 메모리 반도체 기업 비중 재검토 및 경쟁 우위 분석 강화."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "After France, is Italy next? Goldman Sachs flags bond risks as Rome's deficit widens",
-    "title_ko": "프랑스 다음은 이탈리아인가? 골드만삭스, 로마의 적자 확대에 따른 채권 위험 경고",
-    "link": "https://www.cnbc.com/2026/10/11/italy-government-bonds-sovereign-debt-giorgia-meloni.html",
-    "published": "Sun, 11 Oct 2026 05:00:01 GMT",
-    "fetched_at": "2026-10-11 20:06:15",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "채권",
-      "금융",
-      "외환",
-      "주식"
-    ],
-    "keywords": [
-      "이탈리아",
-      "국채 위험",
-      "재정 적자",
-      "유로존",
-      "골드만삭스"
-    ],
-    "reason": "이탈리아의 재정 적자 확대와 채권 수익률 상승은 유로존 전반의 금융 불안정성을 고조시키고, 이는 유럽 채권 시장과 은행권에 부정적인 영향을 미칠 수 있습니다. 글로벌 투자 심리 위축으로 이어질 가능성도 있습니다.",
-    "action_point": "유럽 국채 및 금융 섹터에 대한 익스포저를 재검토하고 축소 방안을 고려하십시오."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Kyiv pushes back on Trump’s call for a new Ukrainian president as drones hit Russian data hub",
-    "title_ko": "키이우, 트럼프의 새 우크라이나 대통령 요구에 반발... 드론, 러시아 데이터 허브 공격",
-    "link": "https://www.cnbc.com/2026/10/11/kyiv-pushes-back-on-trumps-call-for-a-new-ukrainian-president.html",
-    "published": "Sun, 11 Oct 2026 10:37:13 GMT",
-    "fetched_at": "2026-10-11 20:06:34",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "방위산업",
-      "사이버 보안",
-      "원자재"
-    ],
-    "keywords": [
-      "우크라이나 전쟁",
-      "러시아",
-      "에너지 안보",
-      "지정학적 위험",
-      "유가",
-      "드론 공격",
-      "정치 불확실성"
-    ],
-    "reason": "젤렌스키의 제안은 전쟁의 에너지 기반 시설 공격이 지속될 가능성을 시사하며, 트럼프 발언은 우크라이나 정세의 정치적 불확실성을 가중시킨다. 이는 에너지 시장 불안정 및 지정학적 리스크 심화를 야기한다.",
-    "action_point": "지정학적 리스크 심화에 따른 에너지 가격 변동성 확대에 대비하여 관련 포트폴리오 비중을 조정하고 방위산업 섹터의 성장 가능성을 재점검하라."
   }
 ]
