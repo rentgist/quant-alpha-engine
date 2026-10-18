@@ -1,5 +1,78 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "France's Macron vows to hold accountable those who 'sought to bring down the Republic'",
+    "title_ko": "프랑스 마크롱 대통령, '공화국 전복 시도자들'에게 책임 묻겠다고 맹세",
+    "link": "https://www.cnbc.com/2026/10/18/macron-tv-speech-protests-riots.html",
+    "published": "Sun, 18 Oct 2026 19:16:12 GMT",
+    "fetched_at": "2026-10-19 07:03:56",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "유럽 증시 전반",
+      "관광",
+      "명품",
+      "부동산"
+    ],
+    "keywords": [
+      "프랑스",
+      "사회 불안",
+      "정치적 리스크",
+      "유럽 경제"
+    ],
+    "reason": "프랑스 내 사회 불안과 정치적 대립 심화는 유럽 경제 전반의 불확실성을 가중시키고, 투자 심리를 위축시킬 수 있습니다. 특히 프랑스 관련 자산의 위험 프리미엄을 높일 수 있습니다.",
+    "action_point": "유럽 노출도가 높은 자산 비중 재검토"
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "트럼프 지지율 33% ‘최저’…경제 신뢰도, 12년 만에 민주당에 역전 - 경향신문",
+    "title_ko": "트럼프 지지율 33% ‘최저’…경제 신뢰도, 12년 만에 민주당에 역전",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwbFJTVDlCOWdpUHlIYWJqZjFZSFZ3bzZOUjNjaHZIQmU0dU9pWXNmTERxM2NHUm1zS3lwYy1WMzVEUU5EbFByMGl1YlBBcUVHX1lnSzc0ejEwZ9IBX0FVX3lxTE14XzNubU9uRWxNYnUtVUFZcjY3em4xenY0d0NDbVItaGhEUFhoQ2VWZ0VtZnBFNDBkTmhqb3pVRFIwY0pZOVlQd0pmNmNNeGdvQzlRN00yS3JuOEhqdjhB?oc=5",
+    "published": "Sun, 18 Oct 2026 21:50:00 GMT",
+    "fetched_at": "2026-10-19 07:04:11",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "글로벌 경제",
+      "정책 관련주",
+      "환율"
+    ],
+    "keywords": [
+      "트럼프",
+      "미국 정치",
+      "지지율",
+      "경제 신뢰도",
+      "미국 대선"
+    ],
+    "reason": "트럼프의 지지율 하락 및 경제 신뢰도 역전은 다가올 미국 대선에서 민주당의 경쟁력 강화를 시사하며, 이는 향후 미국 경제 및 통상 정책의 변화 가능성을 높여 글로벌 시장의 불확실성을 키울 수 있습니다.",
+    "action_point": "미국 대선 결과 및 정책 변화 가능성에 대비하여 포트폴리오 내 방어적 자산 및 달러 비중을 재점검하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "대한내과의사회 \"행정 과부하에 일차의료 고사 위기\" - 의약뉴스",
+    "title_ko": "대한내과의사회 \"행정 과부하에 일차의료 고사 위기\" - 의약뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56ZzNUdUdDaTM4cjRydk1kRE4welVRRnVKQmRrRkZYcUVwNGlMcUdKdTZQYXVMYk9wNGVXWkljUUFNVVpGWHZfRHdGS1lWRGJLSHVtUWxmVWc0c0o5OEx1ZlI1blRKZTA?oc=5",
+    "published": "Sun, 18 Oct 2026 20:58:00 GMT",
+    "fetched_at": "2026-10-19 07:04:22",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "의료 서비스",
+      "헬스케어"
+    ],
+    "keywords": [
+      "일차의료",
+      "행정 과부하",
+      "의료 정책",
+      "내과의사회"
+    ],
+    "reason": "국내 일차의료 시스템의 구조적 문제점을 부각하며, 행정 과부하로 인한 서비스 질 저하 및 공급 위축 가능성을 시사합니다. 이는 향후 의료 정책 변화 및 의료 서비스 공급 구조 재편으로 이어질 수 있습니다.",
+    "action_point": "국내 일차의료 관련 기업들의 투자 리스크를 재평가하고, 의료 시스템 변화에 따른 정책 수혜 업종 및 기업을 주시하라."
+  },
+  {
     "source": "GoogleNews_Korea",
     "market": "KR",
     "title": "[중국증시 주간 포인트] 中 3Q GDP∙9월 실물경제 지표, 금융가포럼, APEC 재무장관회의, 엔비디아 GTC, 자율주행∙AI칩 관련 행사, 미국&중국증시 어닝시즌 - 뉴스핌",
@@ -2873,80 +2946,5 @@
     ],
     "reason": "트럼프 전 대통령의 러시아산 디젤 거래는 정치적 목적(유가 안정화)을 띠지만, 미국 전체 수요의 2주 미만 분량으로 실제 유가나 에너지 시장에 미칠 영향은 극히 제한적입니다. 거시경제적 파급 효과는 미미합니다.",
     "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts",
-    "title_ko": "JP모건 체이스, 외부 AI 에이전트의 계좌 직접 접근 차단",
-    "link": "https://www.cnbc.com/2026/10/13/jpmorgan-ai-agents-account-access.html",
-    "published": "Tue, 13 Oct 2026 18:46:27 GMT",
-    "fetched_at": "2026-10-14 04:39:45",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "금융 서비스",
-      "기술",
-      "사이버 보안"
-    ],
-    "keywords": [
-      "JPMorgan Chase",
-      "AI 에이전트",
-      "사이버 보안",
-      "금융 리스크"
-    ],
-    "reason": "이 뉴스는 금융 기관들이 AI 기술 도입 시 보안과 리스크 관리를 최우선으로 고려하게 될 것임을 시사하며, 장기적으로 금융 시스템의 안정성 강화에 기여할 수 있습니다.",
-    "action_point": "금융 섹터 투자 시 기업의 AI 리스크 관리 및 사이버 보안 투자 현황을 면밀히 검토하십시오."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Iran reportedly fortifies nuclear sites as it prepares for possible U.S. strikes after midterms",
-    "title_ko": "이란, 중간선거 후 미국 타격 가능성에 대비해 핵 시설 강화 보도",
-    "link": "https://www.cnbc.com/2026/10/13/iran-us-war-houthis-saudi-arabia-airport.html",
-    "published": "Tue, 13 Oct 2026 11:53:45 GMT",
-    "fetched_at": "2026-10-13 21:21:35",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "에너지",
-      "방산",
-      "해운",
-      "금융"
-    ],
-    "keywords": [
-      "이란",
-      "핵 시설",
-      "미국",
-      "중동",
-      "지정학적 위험",
-      "유가"
-    ],
-    "reason": "미국과 이란 간 잠재적 군사 충돌 가능성이 중동 지역 불안정성을 심화시키고, 이는 국제 유가 급등과 더불어 글로벌 금융 시장 전반의 위험 회피 심리를 자극할 것으로 예상된다.",
-    "action_point": "중동 지정학적 위험 고조에 따른 유가 급등과 안전자산 선호 심리 강화에 대비하여 에너지 및 방산 섹터 비중 확대를 검토하고 달러 자산 보유를 유지하라."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack",
-    "title_ko": "인플레이션 심리 고착 방지를 위해 추가 금리 인상이 필요할 수 있다",
-    "link": "https://www.cnbc.com/2026/10/12/beth-hammack-fed-inflation-policy.html",
-    "published": "Tue, 13 Oct 2026 02:58:11 GMT",
-    "fetched_at": "2026-10-13 21:21:02",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "기술주",
-      "부동산",
-      "채권"
-    ],
-    "keywords": [
-      "미국 연준",
-      "금리 인상",
-      "인플레이션",
-      "긴축 통화 정책"
-    ],
-    "reason": "클리블랜드 연은 총재의 매파적 발언은 미국 연준의 긴축 통화 정책 지속 가능성을 시사하며, 이는 추가적인 금리 인상 압력으로 작용하여 주식 및 채권 시장에 하방 압력을 가할 수 있습니다. 특히 성장주와 부동산 시장에 부정적 영향이 예상됩니다.",
-    "action_point": "미국 금리 고점 장기화에 대비하여 성장주 및 장기 채권 비중 축소 검토."
   }
 ]
