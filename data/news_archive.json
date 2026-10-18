@@ -1,5 +1,135 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[중국증시 주간 포인트] 中 3Q GDP∙9월 실물경제 지표, 금융가포럼, APEC 재무장관회의, 엔비디아 GTC, 자율주행∙AI칩 관련 행사, 미국&중국증시 어닝시즌 - 뉴스핌",
+    "title_ko": "[중국증시 주간 포인트] 中 3Q GDP∙9월 실물경제 지표, 금융가포럼, APEC 재무장관회의, 엔비디아 GTC, 자율주행∙AI칩 관련 행사, 미국&중국증시 어닝시즌 - 뉴스핌",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE93VmVZNGxjVkdwRmxoMkdSYW5oaEF5UlZTOG1RZWw2U0NSY2lKZXZaLTV5RFczVmZ1UWwtWWQ3VkNaeXVrcWhzTnk4WVV2dmZyb3lnVy0tUkdkc3Ax?oc=5",
+    "published": "Sun, 18 Oct 2026 10:16:00 GMT",
+    "fetched_at": "2026-10-19 04:06:19",
+    "sentiment": "중립",
+    "importance": 5,
+    "sectors": [
+      "반도체",
+      "AI",
+      "자율주행",
+      "기술주",
+      "중국",
+      "이머징 마켓",
+      "글로벌 경제"
+    ],
+    "keywords": [
+      "중국 GDP",
+      "실물경제 지표",
+      "APEC",
+      "엔비디아 GTC",
+      "AI칩",
+      "어닝시즌",
+      "거시경제"
+    ],
+    "reason": "이번 주에는 중국의 핵심 경제 지표와 미국 및 중국 기업들의 실적 발표가 글로벌 거시 경제 방향과 기업 펀더멘털을 결정하며, 엔비디아 GTC를 통해 AI 및 반도체 섹터의 미래 성장 동력이 제시될 예정이다. 이는 전반적인 시장 변동성을 높일 핵심 촉매제가 될 것이다.",
+    "action_point": "미중 경제 지표 및 기업 실적 발표에 따른 시장 변동성 확대에 대비하여, 반도체·AI 관련 기술주 포트폴리오 비중을 점검하고 중국 관련 자산의 리스크 관리를 강화하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Bessent warns Zelenskyy to 'be very careful' about claims U.S. is throttling Starlink",
+    "title_ko": "Bessent는 젤렌스키에게 미국이 스타링크를 억제한다는 주장에 대해 '매우 신중하라'고 경고",
+    "link": "https://www.cnbc.com/2026/10/18/bessent-zelenskyy-starlink-ukarine-war.html",
+    "published": "Sun, 18 Oct 2026 16:44:10 GMT",
+    "fetched_at": "2026-10-19 04:05:49",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "방위산업",
+      "위성 통신"
+    ],
+    "keywords": [
+      "스타링크",
+      "우크라이나",
+      "스페이스X",
+      "지정학",
+      "국방"
+    ],
+    "reason": "이 기사는 우크라이나 방어에 필수적인 스타링크 서비스에 대한 불확실성과 동맹국 간의 잠재적 마찰을 시사한다. 이는 우크라이나 전쟁의 지정학적 리스크를 증대시킬 수 있다.",
+    "action_point": "우크라이나 전쟁의 지정학적 불확실성 증대에 대비하여 안전자산 보유 여부를 점검하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Iran says it has a 'new operational plan' if the U.S. resumes attacks, as shipping vessels report strikes",
+    "title_ko": "이란, 미국 공격 재개 시 '새로운 작전 계획' 경고... 선박 피격 보고도",
+    "link": "https://www.cnbc.com/2026/10/18/iran-us-war-rezaei-operational-plan-shipping-attacks.html",
+    "published": "Sun, 18 Oct 2026 13:52:24 GMT",
+    "fetched_at": "2026-10-19 04:05:58",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "해운/물류",
+      "방산"
+    ],
+    "keywords": [
+      "이란",
+      "미국",
+      "지정학적 리스크",
+      "중동",
+      "유가",
+      "해운"
+    ],
+    "reason": "이란의 미국 공격 재개 시 '새로운 작전 계획' 경고와 선박 피격 보고는 중동 지역의 지정학적 긴장을 고조시키며, 이는 국제 유가 상승 압력과 글로벌 공급망 교란 가능성을 높입니다. 시장의 불확실성이 증가하고 안전자산 선호 심리가 강화될 수 있습니다.",
+    "action_point": "지정학적 리스크 고조로 유가 및 해상 운임 상승 가능성에 대비, 에너지 및 해운 섹터 비중 검토."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Boomers are buying into the promise of monthly income from options ETFs, but there's a tax catch",
+    "title_ko": "베이비부머, 월 배당 옵션 ETF의 매력에 빠졌지만 세금 문제가 복병",
+    "link": "https://www.cnbc.com/2026/10/18/retirement-income-funds-taxes.html",
+    "published": "Sun, 18 Oct 2026 13:10:33 GMT",
+    "fetched_at": "2026-10-19 04:06:06",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "자산운용",
+      "금융 서비스",
+      "세금 컨설팅"
+    ],
+    "keywords": [
+      "옵션 ETF",
+      "커버드콜",
+      "월 배당",
+      "베이비부머",
+      "세금"
+    ],
+    "reason": "월 배당 옵션 ETF가 은퇴 자금 마련을 위한 주요 수단으로 각광받고 있으나, 예상치 못한 세금 부담으로 인해 실질 소득이 줄어들 수 있다는 경고이다. 이는 해당 상품의 인기에 제동을 걸 수 있으며, 투자자들의 자산 배분 전략 재검토를 유도할 수 있다.",
+    "action_point": "월 배당 옵션 ETF 투자자 및 투자 고려자는 해당 상품의 세금 구조를 면밀히 분석하여 순소득 감소 가능성을 점검하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "대구 중견건설사, 강남 한복판 데이터센터 짓는다…뭐가 특별하길래",
+    "title_ko": "대구 중견건설사, 강남 한복판 데이터센터 짓는다…뭐가 특별하길래",
+    "link": "https://www.mk.co.kr/news/realestate/12179129",
+    "published": "Sun, 18 Oct 2026 23:28:18 +09:00",
+    "fetched_at": "2026-10-19 04:06:29",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "건설",
+      "IT 인프라"
+    ],
+    "keywords": [
+      "데이터센터",
+      "건설",
+      "서한",
+      "첨단 인프라",
+      "디지털 전환"
+    ],
+    "reason": "대구 중견건설사 서한의 데이터센터 수주 소식은 건설업체가 주택·토목 중심에서 AI 및 디지털 전환 시대의 핵심 인프라 분야로 사업 영역을 확장하는 추세를 보여줍니다. 이는 개별 기업의 성장 동력 확보는 물론 건설 섹터 전반의 새로운 활로를 제시할 수 있습니다.",
+    "action_point": "건설 섹터 내 디지털 전환 관련 첨단 인프라 사업 확장 기업의 투자 매력도를 재평가하고, 포트폴리오 편입을 검토하라."
+  },
+  {
     "source": "Maeil_Business",
     "market": "KR",
     "title": "거리 뛰쳐나온 55만명, 다 불태우고 약탈…분노로 들끓는 유럽 왜",
@@ -2818,128 +2948,5 @@
     ],
     "reason": "클리블랜드 연은 총재의 매파적 발언은 미국 연준의 긴축 통화 정책 지속 가능성을 시사하며, 이는 추가적인 금리 인상 압력으로 작용하여 주식 및 채권 시장에 하방 압력을 가할 수 있습니다. 특히 성장주와 부동산 시장에 부정적 영향이 예상됩니다.",
     "action_point": "미국 금리 고점 장기화에 대비하여 성장주 및 장기 채권 비중 축소 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Bank earnings live updates: JPMorgan, Wells Fargo, Goldman and Citigroup are all out. Here are the results",
-    "title_ko": "은행 실적 실시간 업데이트: JP모건, 웰스파고, 골드만삭스, 씨티그룹 모두 발표. 결과는 다음과 같다.",
-    "link": "https://www.cnbc.com/2026/10/13/bank-earnings-live-updates.html",
-    "published": "Tue, 13 Oct 2026 12:17:28 GMT",
-    "fetched_at": "2026-10-13 21:21:25",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "금융"
-    ],
-    "keywords": [
-      "은행 실적",
-      "JP모건",
-      "골드만삭스",
-      "웰스파고",
-      "씨티그룹",
-      "금융주"
-    ],
-    "reason": "주요 은행들의 실적 발표는 광범위한 경제 건전성, 소비자 및 기업 활동에 대한 핵심적인 통찰력을 제공하며, 시장 전반의 심리와 금리 전망에 영향을 미칠 수 있다.",
-    "action_point": "주요 은행 실적 상세 내용을 즉시 분석하여 금융 섹터 비중 조절 및 포트폴리오 내 금리 민감 자산 포지션을 재평가하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "In charts: How one of the world's biggest economies got trapped by debt",
-    "title_ko": "차트로 보는 프랑스의 부채 함정: 세계 주요 경제국 중 하나가 어떻게 부채에 갇혔나",
-    "link": "https://www.cnbc.com/2026/10/13/france-2027-budget-debt.html",
-    "published": "Tue, 13 Oct 2026 09:49:15 GMT",
-    "fetched_at": "2026-10-13 21:21:42",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "유럽 국채",
-      "유럽 은행",
-      "유로화"
-    ],
-    "keywords": [
-      "프랑스",
-      "국가 부채",
-      "재정 적자",
-      "유로존",
-      "사회 불안"
-    ],
-    "reason": "프랑스의 높은 재정 적자와 증가하는 부채는 유로존의 재정 건전성 우려를 키우고 잠재적 국가 신용 등급 하락 위험을 높여 유럽 경제 전반에 부정적인 심리를 확산시킬 수 있습니다.",
-    "action_point": "유럽 국채 관련 투자 포트폴리오의 리스크 점검 및 유로화 변동성 확대에 대비하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "BlackRock takes profits on stocks as it turns to Treasurys after six years",
-    "title_ko": "블랙록, 6년 만에 주식에서 차익 실현 후 국채로 전환",
-    "link": "https://www.cnbc.com/2026/10/13/blackrock-treasurys-bonds-us-equities.html",
-    "published": "Tue, 13 Oct 2026 11:56:29 GMT",
-    "fetched_at": "2026-10-13 21:21:56",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "주식",
-      "채권",
-      "자산운용"
-    ],
-    "keywords": [
-      "블랙록",
-      "자산배분",
-      "주식",
-      "국채",
-      "위험회피"
-    ],
-    "reason": "세계 최대 자산운용사 블랙록의 주식 이익 실현 및 국채 전환은 글로벌 기관 투자자들의 주식 시장에 대한 보수적 시각 전환을 시사하며, 향후 시장 불확실성 증가에 대비하는 위험 회피 움직임으로 해석된다.",
-    "action_point": "주식 포트폴리오의 위험 자산 비중 축소를 검토하고, 안정적인 선진국 국채 또는 고품질 채권 비중 확대를 고려하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "CNBC's The China Connection newsletter: How a gold-buying spree helps the yuan go global",
-    "title_ko": "CNBC 차이나 커넥션 뉴스레터: 중국의 금 매입 급증이 위안화의 글로벌화에 어떻게 기여하는가",
-    "link": "https://www.cnbc.com/2026/10/12/cnbc-china-connection-newsletter-gold-purchases-yuan-globalization.html",
-    "published": "Mon, 12 Oct 2026 23:00:01 GMT",
-    "fetched_at": "2026-10-13 21:22:18",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "원자재(금)",
-      "금융(환율)"
-    ],
-    "keywords": [
-      "중국",
-      "금",
-      "위안화",
-      "기축통화",
-      "탈달러화"
-    ],
-    "reason": "중국의 금 보유량 증대와 홍콩 금 거래 허브 구축은 위안화의 국제화 및 기축통화 지위 강화를 위한 장기적 전략으로, 달러 중심의 국제 금융 시스템에 점진적 변화 압력을 가할 수 있습니다. 이는 장기적으로 금 가격 지지 요인이지만, 국제 금융 시장의 불확실성을 높일 수 있습니다.",
-    "action_point": "장기적인 포트폴리오 안정성 및 통화 분산을 위해 금 관련 자산 비중 확대를 검토하고, 달러 중심의 자산 비중을 점진적으로 재조정하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "IMF, 올해 한국 경제성장률 3.3%로 상향 - 연합뉴스TV",
-    "title_ko": "IMF, 올해 한국 경제성장률 3.3%로 상향",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9mbTlVU0d0UHFCMzdub0hDcnhkUnhvT1pIaGtJM0tjRjFPRFpGVVVSa3hXSTZmUHBRSkNXOWR3NFVkYzNpOEF0Z1pWT0pxVkIwNDFfQnZqd3FVR0MtRmZlek9ERTVIeG8?oc=5",
-    "published": "Tue, 13 Oct 2026 12:07:00 GMT",
-    "fetched_at": "2026-10-13 21:22:42",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "전반",
-      "금융",
-      "소비재",
-      "산업재"
-    ],
-    "keywords": [
-      "IMF",
-      "한국 경제성장률",
-      "성장률 상향",
-      "경제 전망"
-    ],
-    "reason": "IMF의 한국 경제성장률 상향 조정은 국내 경제 회복에 대한 긍정적 신호를 제공하며, 투자 심리 개선과 기업 실적 기대감을 높일 수 있습니다. 이는 국내 주식 시장에 전반적인 상승 압력으로 작용할 가능성이 있습니다.",
-    "action_point": "국내 경기 민감주 및 내수 소비 관련주 비중 확대를 검토하라."
   }
 ]
