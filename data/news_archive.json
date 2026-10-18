@@ -1,5 +1,125 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "“살림은 엉망인데, 한국 경제 체력 살아난다?”…잠재성장률 40년만에 반전 - 매일경제",
+    "title_ko": "“살림은 엉망인데, 한국 경제 체력 살아난다?”…잠재성장률 40년만에 반전",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Kdzk5a1o1TkpHUzY3aDk5WXpsMjJTN3pYR0o5Xzd0OXVuVFFOaEd2NXlXdWRBTWVqbFhTdkJzazA2NV9IdmV0c3F0NHFmc2dmNTVpMw?oc=5",
+    "published": "Sun, 18 Oct 2026 01:31:24 GMT",
+    "fetched_at": "2026-10-18 21:17:33",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "IT/기술",
+      "제조업",
+      "금융",
+      "내수/소비"
+    ],
+    "keywords": [
+      "잠재성장률",
+      "한국 경제",
+      "경제 체력",
+      "성장률 반전"
+    ],
+    "reason": "한국의 잠재성장률 반전은 단기적인 경제 어려움에도 불구하고 중장기적인 경제 체력 개선을 시사하며, 이는 국내 자산에 대한 투자 매력을 높이는 긍정적인 신호로 해석될 수 있습니다. 장기적 관점에서 한국 경제의 펀더멘털 개선 기대를 높여 국내 주식 시장의 밸류에이션 상승 요인으로 작용할 수 있습니다.",
+    "action_point": "국내 주식 시장에 대한 중장기 투자 비중 확대를 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[기고]트럼프는 왜 클라우제비츠의 ‘전쟁의 마찰과 안개’를 통제 못하는가?…김태준의 美·이란戰 중계 - 문화일보",
+    "title_ko": "[기고]트럼프는 왜 클라우제비츠의 ‘전쟁의 마찰과 안개’를 통제 못하는가?…김태준의 美·이란戰 중계 - 문화일보",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBmNGdMNFVsdlNtYjlqd1Y1Vk5uUmk0NmpEWERCcGE4aEN4VkNvZ2F3Q1dORTlGZ210cTdLQmowMlhDQ2QzcXFDNzFENU1BRVBD?oc=5",
+    "published": "Sun, 18 Oct 2026 12:07:32 GMT",
+    "fetched_at": "2026-10-18 21:17:41",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "방산",
+      "안전자산",
+      "전체 증시"
+    ],
+    "keywords": [
+      "트럼프",
+      "이란",
+      "지정학적 리스크",
+      "전쟁",
+      "유가"
+    ],
+    "reason": "미국-이란 간 지정학적 리스크가 트럼프 행정부의 통제력 부족으로 심화될 수 있음을 시사하며, 이는 국제유가 상승 압력과 전반적인 시장의 불확실성을 높일 수 있습니다.",
+    "action_point": "중동 지정학적 리스크 증가에 대비하여 유가 상승 헤지 및 안전자산 비중 확대를 검토하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "머스크, 2030년 50% 경제성장 예언…“AI가 재정적자 다 해결”",
+    "title_ko": "머스크, 2030년 50% 경제성장 예언…“AI가 재정적자 다 해결”",
+    "link": "https://www.mk.co.kr/news/it/12179096",
+    "published": "Sun, 18 Oct 2026 19:13:06 +09:00",
+    "fetched_at": "2026-10-18 21:18:12",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "기술",
+      "소프트웨어",
+      "반도체"
+    ],
+    "keywords": [
+      "일론 머스크",
+      "AI",
+      "경제성장",
+      "생산성 향상",
+      "기술혁신"
+    ],
+    "reason": "일론 머스크의 AI에 대한 낙관적 전망은 장기적으로 AI 기술이 생산성을 극대화하고 국가 재정 문제를 해결하며 경제 성장을 견인할 잠재력을 다시금 부각시킵니다. 이는 AI 관련 기술 섹터에 대한 지속적인 투자심리 강화를 시사합니다.",
+    "action_point": "AI 기술 리더십을 가진 기업에 대한 포트폴리오 비중을 유지하거나 확대하는 방안을 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "충북 경제 대전환, 역사에서 미래를 찾는다 - 굿모닝충청",
+    "title_ko": "충북 경제 대전환, 역사에서 미래를 찾는다",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1VQnh4cjhvVnZnZlNISVh3UGlzSzJIaTZYODJlSWVkZDkyWXNkT2ZHYVl5NWZQcVcxY212c2xqMGpDcUdYZUk4TVFydmRWQXV3Rktpd0tDUlRaMnJiam9CcXpjeGp2QnA4LWtsM0k5YW90UQ?oc=5",
+    "published": "Sun, 18 Oct 2026 07:14:01 GMT",
+    "fetched_at": "2026-10-18 21:17:59",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [],
+    "keywords": [
+      "충북 경제",
+      "지역 발전",
+      "미래 전략"
+    ],
+    "reason": "충북 지역의 장기적인 경제 전환 및 미래 전략에 대한 기사로, 국가 전체 금융 시장이나 거시 경제 지표에 미치는 즉각적인 영향은 제한적이다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "포켓몬카드만 사는 줄 알았더니…Z세대 컬렉터, 미술시장 ‘큰 손’으로 [김슬기의 아트&머니]",
+    "title_ko": "포켓몬카드만 사는 줄 알았더니…Z세대 컬렉터, 미술시장 ‘큰 손’으로 [김슬기의 아트&머니]",
+    "link": "https://www.mk.co.kr/news/world/12179086",
+    "published": "Sun, 18 Oct 2026 18:30:51 +09:00",
+    "fetched_at": "2026-10-18 21:18:27",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "미술시장",
+      "럭셔리 소비재",
+      "자산관리 서비스"
+    ],
+    "keywords": [
+      "Z세대",
+      "컬렉터",
+      "미술시장",
+      "아트 바젤",
+      "UBS"
+    ],
+    "reason": "Z세대의 미술시장 진입과 구매력 증가는 전통적 자산군 외 대안 투자 자산으로서 미술품의 가치 상승 가능성을 시사하며, 럭셔리 소비 트렌드 변화를 나타냅니다.",
+    "action_point": "고액 자산가의 대안 투자 포트폴리오 내 미술품 비중 확대를 검토."
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "Why hedge funds could be making a bond market shock more likely",
@@ -2824,130 +2944,5 @@
     ],
     "reason": "이란과 우크라이나 전쟁의 유가 영향 분석은 글로벌 에너지 공급망과 인플레이션 압력에 대한 불확실성을 가중시킨다. 유가 상승은 기업 비용 증가와 소비 위축으로 이어져 경제 성장 둔화를 야기할 수 있다.",
     "action_point": "유가 관련 인플레이션 헤지 상품 및 에너지 섹터 비중 확대를 검토하고, 유가 민감 섹터(항공, 운송, 화학)는 비중 축소를 고려하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "“정년연장, 오늘 논의해도 늦다”…김영훈 노동장관, 연내 처리 ‘승부수’",
-    "title_ko": "“정년연장, 오늘 논의해도 늦다”…김영훈 노동장관, 연내 처리 ‘승부수’",
-    "link": "https://www.mk.co.kr/news/society/12174876",
-    "published": "Tue, 13 Oct 2026 19:57:22 +09:00",
-    "fetched_at": "2026-10-13 21:23:38",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "노동집약 산업",
-      "금융",
-      "소비재",
-      "인구 고령화 관련 산업"
-    ],
-    "keywords": [
-      "정년연장",
-      "노동시장 개혁",
-      "고령화",
-      "인구구조 변화",
-      "연금 개혁"
-    ],
-    "reason": "정년연장 논의는 국내 노동 공급 구조, 기업의 인건비 부담, 그리고 국민연금 지속가능성에 중장기적 영향을 미치며 사회경제 전반에 광범위한 파급 효과를 가져올 수 있습니다.",
-    "action_point": "노동집약적 산업의 비용 구조 변화 가능성에 대비하고, 고령화 수혜 섹터(헬스케어, 자산관리) 비중 확대를 장기적으로 고려하라."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Visa gets Beijing's green light for bank card business after 40 years of working with China",
-    "title_ko": "비자, 중국과 40년간 협력 끝에 은행 카드 사업 승인 획득",
-    "link": "https://www.cnbc.com/2026/10/13/visa-china-green-light-bank-card-business-.html",
-    "published": "Tue, 13 Oct 2026 06:20:55 GMT",
-    "fetched_at": "2026-10-13 21:20:43",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "금융",
-      "결제 서비스"
-    ],
-    "keywords": [
-      "비자",
-      "중국 시장",
-      "결제 서비스",
-      "미중 관계"
-    ],
-    "reason": "비자에게 거대한 중국 시장 접근 기회를 제공하며 장기 성장 잠재력을 높이고, 미중 경제 관계 개선의 작은 신호로 해석될 수 있어 시장 불확실성 완화에 기여할 수 있습니다.",
-    "action_point": "글로벌 결제 서비스 섹터 내 비자(Visa) 주식의 장기적 성장 잠재력을 재평가하고 매수 기회를 모색."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "'Boring is not bad': CEO of Southeast Asia's largest bank pitches Singapore as a haven amid global turmoil",
-    "title_ko": "'지루함은 나쁜 것이 아니다': 동남아 최대 은행 CEO, 글로벌 혼란 속 싱가포르를 피난처로 제시",
-    "link": "https://www.cnbc.com/2026/10/13/singapore-war-geopolitics-dbs-bank-ceo.html",
-    "published": "Tue, 13 Oct 2026 01:26:41 GMT",
-    "fetched_at": "2026-10-13 21:20:55",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "금융",
-      "부동산(싱가포르)",
-      "자산관리"
-    ],
-    "keywords": [
-      "싱가포르",
-      "안전투자처",
-      "글로벌 혼란",
-      "자본피난처",
-      "DBS"
-    ],
-    "reason": "글로벌 혼란이 가중될수록 싱가포르와 같은 안정적 경제 및 금융 시스템을 갖춘 지역으로 자본이 유입될 가능성이 크다는 신호로, 이는 위험 자산에서 안전 자산으로의 자본 이동을 시사합니다.",
-    "action_point": "글로벌 불확실성 증대에 대비하여 싱가포르 등 선진국 안정 자산 투자 비중 확대 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "French supermarket fridges get hacked, heating to 122°F and sparking fires",
-    "title_ko": "프랑스 슈퍼마켓 냉장고 해킹당해 섭씨 50도로 과열, 화재 발생",
-    "link": "https://www.cnbc.com/2026/10/13/france-supermarket-hack-cyberattack-fridges-fires.html",
-    "published": "Tue, 13 Oct 2026 11:58:56 GMT",
-    "fetched_at": "2026-10-13 21:21:49",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "유통",
-      "사이버보안",
-      "식품",
-      "보험"
-    ],
-    "keywords": [
-      "사이버 공격",
-      "슈퍼마켓",
-      "프랑스",
-      "식품 안전",
-      "냉장 시스템",
-      "공급망"
-    ],
-    "reason": "이 사이버 공격은 주요 인프라의 디지털 취약성을 부각시키며, 광범위한 사이버 보안 투자 확대로 이어질 수 있습니다. 단기적으로는 프랑스 소매 및 식품 공급망에 일부 차질을 초래합니다.",
-    "action_point": "사이버 보안 관련 ETF 또는 종목의 투자 비중 확대를 검토하십시오."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "UnitedHealth Group tops estimates, hikes profit outlook as insurer manages high medical costs",
-    "title_ko": "유나이티드헬스 그룹, 예상치 상회 및 이익 전망 상향 조정 (의료비용 관리 성공)",
-    "link": "https://www.cnbc.com/2026/10/13/unitedhealth-group-unh-earnings-q3-2026.html",
-    "published": "Tue, 13 Oct 2026 10:01:37 GMT",
-    "fetched_at": "2026-10-13 21:22:05",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "헬스케어",
-      "의료보험"
-    ],
-    "keywords": [
-      "유나이티드헬스 그룹",
-      "실적",
-      "이익 전망",
-      "의료비용",
-      "의료보험사"
-    ],
-    "reason": "미국 최대 의료보험사의 견조한 실적과 낙관적인 전망은 헬스케어 섹터 전반에 긍정적인 투자 심리를 제공하며, 의료비용 관리 능력에 대한 시장의 신뢰를 높일 수 있습니다.",
-    "action_point": "미국 헬스케어/의료보험 섹터 대형주들의 투자 매력도 재평가."
   }
 ]
