@@ -1,5 +1,54 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "실적은 역대급인데 주가는 금융위기 수준…\"코스피의 역설\" - 연합인포맥스",
+    "title_ko": "실적은 역대급인데 주가는 금융위기 수준…\"코스피의 역설\"",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9SRS1nQWNfLVI5X0V4S3dWY2NoS2xfakhYeDliNGJPS25IaW1BTWhiV1JpcEstRXYtMTlrN05wTG1ISE5mR19VaWF0U0lBU0lMazNZUGhvVDd2Ym9PMjBGWXJrWUVEeEh6bWwxd09mOUQ?oc=5",
+    "published": "Sun, 18 Oct 2026 00:30:08 GMT",
+    "fetched_at": "2026-10-18 11:09:55",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "전반적 시장",
+      "가치주"
+    ],
+    "keywords": [
+      "코스피",
+      "기업 실적",
+      "주가 저평가",
+      "밸류업"
+    ],
+    "reason": "코스피 전체의 심각한 저평가와 기업 실적 간 괴리가 심화되고 있음을 시사하며, 이는 국내 증시의 구조적 문제 및 투자 심리 위축을 반영합니다.",
+    "action_point": "명확한 밸류업 계획을 가진 저PBR/저PER 기업군에 대한 심층 분석 및 선별적 투자 기회 모색."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "제주 국제 카지노 정책포럼, 지역 상생·관광 연계 방안 찾는다 - 헤드라인제주",
+    "title_ko": "제주 국제 카지노 정책포럼, 지역 상생·관광 연계 방안 찾는다",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE41ZGJBalBQSWpubm1tcl9HdEtWd3JUalZsZjhhSEhKOXZ6OGRZYlZJdlhDNHBOWWhXSW5zNWRpMGRlSTFDZWJSMzk0SlQ5S05vcFhKaXJ0bEFCam5OYTF2NElkLUthSXBHYi11aEhFUjNIMEU?oc=5",
+    "published": "Sun, 18 Oct 2026 00:20:12 GMT",
+    "fetched_at": "2026-10-18 11:10:02",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "카지노",
+      "관광",
+      "레저",
+      "호텔"
+    ],
+    "keywords": [
+      "제주",
+      "카지노",
+      "정책포럼",
+      "관광",
+      "지역상생"
+    ],
+    "reason": "제주 국제 카지노 정책포럼은 지역 상생 및 관광 연계 방안을 모색하는 자리로, 제주 지역 카지노 및 관광 산업의 장기적인 방향성을 논의하는 수준이다. 당장 시장에 직접적인 영향을 미 미치는 정책 변화나 투자 촉진 요인은 아니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "AI rapidly improving, could vastly boost U.S. GDP, Anthropic's Clark tells policymakers",
@@ -2894,52 +2943,5 @@
     ],
     "reason": "이 포럼은 국제 온실가스 감축사업에 대한 정책적 관심과 산업적 기회 모색을 시사하며, 중장기적으로 탄소배출권 시장 활성화 및 신재생에너지, 환경설비 등 관련 산업 성장에 긍정적 영향을 미칠 수 있습니다.",
     "action_point": "탄소배출권 관련 자산 및 친환경 에너지 섹터에 대한 장기 투자 비중 유지 또는 확대 검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "바이오솔루션 '솔루오랄', 첫 해외 공급으로 ISO 국제표준화 시동 - 약사공론",
-    "title_ko": "바이오솔루션 '솔루오랄', 첫 해외 공급으로 ISO 국제표준화 시동 - 약사공론",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4MW1FRWpwcWV0QmZnUHJFOElMd0tnU0RQNnJfWnQtazRyeTViUHM1cHhKRm1Db1JMTHFQWUpvTk9yVllibWNOTkM0V1I0Vm9oREU1dl8xQUdoZmhQVnNOU2NacjR1X1RTWTVfMA?oc=5",
-    "published": "Tue, 13 Oct 2026 07:41:03 GMT",
-    "fetched_at": "2026-10-13 21:23:06",
-    "sentiment": "호재",
-    "importance": 2,
-    "sectors": [
-      "바이오",
-      "제약"
-    ],
-    "keywords": [
-      "바이오솔루션",
-      "솔루오랄",
-      "해외 공급",
-      "ISO",
-      "국제표준화",
-      "K-바이오"
-    ],
-    "reason": "바이오솔루션의 첫 해외 공급 및 ISO 국제표준화 착수는 기업의 성장 동력 확보와 K-바이오 섹터의 국제 시장 경쟁력 강화에 긍정적인 신호로 작용합니다.",
-    "action_point": "K-바이오 섹터 내 글로벌 시장 진출 및 기술 표준화 역량 강화를 보이는 기업에 대한 투자 비중 확대를 검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "GC녹십자, 헌터라제 투여 환자 ‘IgE 정밀 분석법’ 개발…국제학술지 게재 - 의협신문",
-    "title_ko": "GC녹십자, 헌터라제 투여 환자 ‘IgE 정밀 분석법’ 개발…국제학술지 게재",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1oamFZbVFEcVBUS1N1Ry13dTFjc2lTOVo5bzF0U3AtcEJNWUgzak52Wm01M3JaTHFuR3FtNnlUN0htd0VVYlR5TWpRU0xFZ1pKQUdGN3BaYUNaN01IUS1mX180THFXYV9rckIwUVpCXzc5QQ?oc=5",
-    "published": "Tue, 13 Oct 2026 06:37:28 GMT",
-    "fetched_at": "2026-10-13 21:23:14",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "제약",
-      "바이오"
-    ],
-    "keywords": [
-      "GC녹십자",
-      "헌터라제",
-      "IgE 분석법"
-    ],
-    "reason": "GC녹십자의 특정 제품 관련 기술 개발 소식으로, 해당 기업의 R&D 역량을 보여주지만 거시경제나 전체 주식 시장에 미치는 영향은 제한적입니다.",
-    "action_point": "해당 없음"
   }
 ]
