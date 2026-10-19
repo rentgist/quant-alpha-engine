@@ -2,6 +2,57 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "Putin reportedly suggests summit with Trump and Xi to decide fate of Ukraine",
+    "title_ko": "푸틴, 트럼프, 시진핑과 우크라이나 운명 결정할 정상회담 제안 보도",
+    "link": "https://www.cnbc.com/2026/10/19/putin-trump-xi-ukraine-war-energy.html",
+    "published": "Mon, 19 Oct 2026 03:56:03 GMT",
+    "fetched_at": "2026-10-19 14:29:53",
+    "sentiment": "중립",
+    "importance": 5,
+    "sectors": [
+      "방산",
+      "에너지",
+      "원자재",
+      "금융"
+    ],
+    "keywords": [
+      "푸틴",
+      "트럼프",
+      "시진핑",
+      "우크라이나",
+      "정상회담",
+      "지정학",
+      "전쟁"
+    ],
+    "reason": "이 제안은 우크라이나 전쟁의 향방을 결정할 수 있는 고위급 외교의 가능성을 시사하며, 성사 여부에 따라 글로벌 지정학적 긴장 완화 및 에너지, 원자재 시장 안정에 중대한 영향을 미칠 수 있다.",
+    "action_point": "향후 지정학적 리스크 완화 가능성을 주시하며 방산 섹터 비중 축소를 검토하고, 유가 등 원자재 시장 변동성에 대비하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "“대형 카고 타이어 선택지 확대”…한국타이어, DH51 신규 규격 출시",
+    "title_ko": "“대형 카고 타이어 선택지 확대”…한국타이어, DH51 신규 규격 출시",
+    "link": "https://www.mk.co.kr/news/business/12179541",
+    "published": "Mon, 19 Oct 2026 14:20:15 +09:00",
+    "fetched_at": "2026-10-19 14:30:08",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "타이어",
+      "자동차 부품"
+    ],
+    "keywords": [
+      "한국타이어",
+      "카고 타이어",
+      "신제품",
+      "트럭 타이어"
+    ],
+    "reason": "한국타이어의 신제품 출시는 특정 시장 수요에 대응하는 기업 개별 경쟁력 강화 이슈로, 국내 거시 경제나 광범위한 투자 자산에 미치는 영향은 제한적입니다. 이는 기업의 매출 증대에는 기여할 수 있습니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "India’s Finance Minister blames easy exits and excess liquidity for equity market's underperformance",
     "title_ko": "인도 재무장관, 주식시장 부진 및 2027년 자본 유출 위험 경고",
     "link": "https://www.cnbc.com/2026/10/18/india-ai-nifty50-sensex-investors.html",
@@ -2899,54 +2950,5 @@
     ],
     "reason": "중국 생산자물가 급등은 글로벌 공급망 전반에 걸쳐 원가 압력을 가중시키며, 전 세계적인 인플레이션 우려를 다시 키울 수 있다. 이는 각국 중앙은행의 긴축 기조 유지 가능성을 높여 금리 인상 압박으로 작용할 수 있다.",
     "action_point": "글로벌 인플레이션 압력 가중 가능성에 대비하여 원자재 관련 자산 비중을 점검하고, 고금리 환경에 취약한 성장주 및 부채 과다 기업 투자를 재고하라."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Goldman says investors are looking for 'profitable' Chinese business growth overseas",
-    "title_ko": "골드만삭스, 투자자들은 '수익성 있는' 중국 기업의 해외 성장을 모색 중이라고 밝혀",
-    "link": "https://www.cnbc.com/2026/10/14/goldman-says-investors-seek-profitable-chinese-business-growth-abroad.html",
-    "published": "Tue, 13 Oct 2026 23:05:12 GMT",
-    "fetched_at": "2026-10-14 08:31:43",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "전기차",
-      "제조업",
-      "기술주"
-    ],
-    "keywords": [
-      "중국 경제",
-      "해외 확장",
-      "경쟁 심화",
-      "전기차"
-    ],
-    "reason": "중국 내수 부진으로 기업들이 해외 시장에서 성장 동력을 찾으면서 글로벌 시장의 경쟁이 심화되고, 이는 기존 해외 진출 기업들의 수익성에 영향을 미칠 수 있습니다.",
-    "action_point": "중국 기업의 해외 진출로 경쟁 심화가 예상되는 전기차, 제조업 등 국내외 섹터 비중을 재검토하라."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Williams says Fed may not have to hike rates in 2027, at odds with traders",
-    "title_ko": "윌리엄스 뉴욕 연은 총재, 2027년 금리 인상 불필요 가능성 언급, 시장 예상과 상충",
-    "link": "https://www.cnbc.com/2026/10/13/john-williams-fed-rate-hikes-2027.html",
-    "published": "Tue, 13 Oct 2026 19:46:12 GMT",
-    "fetched_at": "2026-10-14 08:31:51",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "기술",
-      "성장주",
-      "부동산",
-      "채권"
-    ],
-    "keywords": [
-      "Fed",
-      "금리 인상",
-      "통화정책",
-      "인플레이션"
-    ],
-    "reason": "뉴욕 연은 총재의 예상보다 완화적인 금리 인상 경로 언급은 인플레이션 완화와 통화정책의 정점 도달 가능성을 시사하며, 이는 위험 자산에 긍정적으로 작용할 수 있습니다.",
-    "action_point": "미국 금리 인상 사이클 조기 종료 가능성에 대비하여 장기 채권 및 성장주 비중 확대를 검토하라."
   }
 ]
