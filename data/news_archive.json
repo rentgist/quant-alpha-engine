@@ -2,6 +2,53 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "India’s Finance Minister blames easy exits and excess liquidity for equity market's underperformance",
+    "title_ko": "인도 재무장관, 주식시장 부진 및 2027년 자본 유출 위험 경고",
+    "link": "https://www.cnbc.com/2026/10/18/india-ai-nifty50-sensex-investors.html",
+    "published": "Sun, 18 Oct 2026 23:00:01 GMT",
+    "fetched_at": "2026-10-19 09:37:00",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "신흥국 주식",
+      "금융"
+    ],
+    "keywords": [
+      "인도",
+      "자본 유출",
+      "주식 시장",
+      "유동성 위험"
+    ],
+    "reason": "인도 재무장관의 발언은 인도 주식 시장의 잠재적 불안정성과 외국인 투자 심리 위축 가능성을 시사합니다. 이는 인도에 대한 외국인 자금 유입 감소와 통화 약세 압력으로 이어질 수 있습니다.",
+    "action_point": "인도 자산 비중 축소 검토 및 신흥국 투자 전반에 걸친 리스크 점검."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Stocks making the biggest moves midday: CoreWeave, Moog, J.B. Hunt, Alcoa & more",
+    "title_ko": "한낮에 가장 크게 움직이는 주식: 코어위브, 무그, J.B. 헌트, 알코아 외",
+    "link": "https://www.cnbc.com/2026/10/16/stocks-making-the-biggest-moves-midday-crwv-moga-jbht-aa.html",
+    "published": "Fri, 16 Oct 2026 16:29:16 GMT",
+    "fetched_at": "2026-10-19 09:36:51",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "기술",
+      "방산",
+      "운송",
+      "소재"
+    ],
+    "keywords": [
+      "개별주식",
+      "시장움직임",
+      "기업이슈"
+    ],
+    "reason": "이 기사는 특정 개별 기업들의 주가 변동을 단순히 보고하는 것으로, 광범위한 거시경제 동향이나 주요 투자 자산 전반에 미칠 직접적인 영향은 제한적입니다. 개별 기업 이슈에 집중하고 있습니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "France's Macron vows to hold accountable those who 'sought to bring down the Republic'",
     "title_ko": "프랑스 마크롱 대통령, '공화국 전복 시도자들'에게 책임 묻겠다고 맹세",
     "link": "https://www.cnbc.com/2026/10/18/macron-tv-speech-protests-riots.html",
@@ -2901,50 +2948,5 @@
     ],
     "reason": "뉴욕 연은 총재의 예상보다 완화적인 금리 인상 경로 언급은 인플레이션 완화와 통화정책의 정점 도달 가능성을 시사하며, 이는 위험 자산에 긍정적으로 작용할 수 있습니다.",
     "action_point": "미국 금리 인상 사이클 조기 종료 가능성에 대비하여 장기 채권 및 성장주 비중 확대를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Bank of America fined $1.2 billion over money-laundering violations",
-    "title_ko": "뱅크 오브 아메리카, 자금세탁 위반으로 12억 달러 벌금 부과",
-    "link": "https://www.cnbc.com/2026/10/13/bank-of-america-treasury-money-laundering.html",
-    "published": "Tue, 13 Oct 2026 20:45:01 GMT",
-    "fetched_at": "2026-10-14 08:32:06",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "금융"
-    ],
-    "keywords": [
-      "뱅크 오브 아메리카",
-      "자금세탁",
-      "벌금",
-      "규제"
-    ],
-    "reason": "뱅크 오브 아메리카의 대규모 벌금은 해당 은행의 실적과 주가에 직접적인 악영향을 미치며, 금융권 전반의 규제 리스크와 준법 비용 증가 우려를 키울 수 있습니다.",
-    "action_point": "미국 금융 섹터 내 은행주 포트폴리오 비중 및 규제 리스크를 점검하십시오."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Trump's diesel deal with Russia equals less than two weeks of U.S. demand",
-    "title_ko": "트럼프의 러시아 디젤 거래, 미국 수요의 2주 미만 분량",
-    "link": "https://www.cnbc.com/2026/10/13/trump-putin-zelenskyy-russia-ukraine-diesel-oil-price.html",
-    "published": "Tue, 13 Oct 2026 16:53:43 GMT",
-    "fetched_at": "2026-10-14 08:32:00",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "에너지"
-    ],
-    "keywords": [
-      "트럼프",
-      "러시아",
-      "디젤",
-      "유가",
-      "중간선거"
-    ],
-    "reason": "트럼프 전 대통령의 러시아산 디젤 거래는 정치적 목적(유가 안정화)을 띠지만, 미국 전체 수요의 2주 미만 분량으로 실제 유가나 에너지 시장에 미칠 영향은 극히 제한적입니다. 거시경제적 파급 효과는 미미합니다.",
-    "action_point": "해당 없음"
   }
 ]
