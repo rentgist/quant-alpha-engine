@@ -1,5 +1,33 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Saudi Arabia postpones big investor conference to 2027 as Iran-backed Houthis escalate attacks on kingdom",
+    "title_ko": "사우디아라비아, 이란 지원 후티 반군 공격 격화로 대규모 투자 컨퍼런스 2027년으로 연기",
+    "link": "https://www.cnbc.com/2026/10/19/saudi-arabia-postpones-fii-investor-conference-to-2027.html",
+    "published": "Mon, 19 Oct 2026 19:37:51 GMT",
+    "fetched_at": "2026-10-20 06:59:16",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "방산",
+      "건설",
+      "금융"
+    ],
+    "keywords": [
+      "사우디",
+      "후티",
+      "이란",
+      "지정학",
+      "국제유가",
+      "중동",
+      "투자심리"
+    ],
+    "reason": "이란 지원 후티 반군의 사우디 공격 격화는 중동 지역 지정학적 리스크를 고조시키고, 원유 공급 불안정성 및 유가 상승 압력을 높이며, 사우디 투자심리 위축으로 이어질 수 있습니다.",
+    "action_point": "중동 지정학적 리스크 및 국제 유가 상승 가능성에 대비하여 에너지 관련 자산 비중 확대를 검토하고 방산주 동향을 주시하십시오."
+  },
+  {
     "source": "CNBC_Finance",
     "market": "US",
     "title": "Anthropic is AI trade's last big hope for a major IPO this year",
@@ -2923,29 +2951,5 @@
     ],
     "reason": "미국 대형 은행의 실적 부진과 대규모 벌금 부과는 금융 섹터 전반에 대한 투자 심리를 위축시키고, 여타 은행들의 실적 및 규제 리스크에 대한 우려를 증폭시킬 수 있습니다.",
     "action_point": "미국 대형 은행주에 대한 투자 비중 축소를 검토하라."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Stocks making the biggest moves premarket: Bank of America, BlackRock, HPE & more",
-    "title_ko": "개장 전 가장 큰 움직임을 보이는 주식: 뱅크오브아메리카, 블랙록, HPE 등",
-    "link": "https://www.cnbc.com/2026/10/14/stocks-moving-premarket-bank-of-america-blackrock-asml.html",
-    "published": "Wed, 14 Oct 2026 11:36:25 GMT",
-    "fetched_at": "2026-10-15 04:04:18",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "금융",
-      "기술"
-    ],
-    "keywords": [
-      "개장 전 거래",
-      "주식 변동",
-      "뱅크오브아메리카",
-      "블랙록",
-      "HPE"
-    ],
-    "reason": "이 기사는 개별 기업의 개장 전 주가 움직임을 다루는 속보로, 광범위한 시장이나 거시 경제 전반에 미치는 직접적인 영향은 제한적이며, 각 기업의 개별 이슈에 국한될 가능성이 높습니다.",
-    "action_point": "해당 없음"
   }
 ]
