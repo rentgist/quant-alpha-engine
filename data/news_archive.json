@@ -2,6 +2,158 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "UK to deploy fighter jets to defend Saudi cities from Houthi attacks",
+    "title_ko": "영국, 후티 공격으로부터 사우디 도시 방어 위해 전투기 배치",
+    "link": "https://www.cnbc.com/2026/10/20/uk-fighter-jets-saudi-houthi-attacks-iran.html",
+    "published": "Tue, 20 Oct 2026 12:58:24 GMT",
+    "fetched_at": "2026-10-21 00:29:30",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "해운/물류",
+      "방산",
+      "보험"
+    ],
+    "keywords": [
+      "영국",
+      "사우디아라비아",
+      "후티",
+      "홍해",
+      "지정학",
+      "유가",
+      "해운"
+    ],
+    "reason": "영국의 사우디 방어 전투기 배치는 홍해 및 중동 지역의 지정학적 불안정성 확산을 억제하고 에너지 공급망 안정에 기여할 수 있습니다. 이는 유가 급등 위험을 일부 완화하며 해운 비용에 미치는 추가 악영향을 제한하는 효과를 가져올 수 있습니다.",
+    "action_point": "중동 지역 지정학적 리스크의 장기화 가능성에 대비하여 에너지 및 해운 섹터 투자 비중을 보수적으로 유지."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "HSBC CEO warns the AI boom won’t make every data center a good bet",
+    "title_ko": "HSBC CEO, AI 붐이 모든 데이터 센터를 좋은 투자처로 만들지는 않을 것이라고 경고",
+    "link": "https://www.cnbc.com/2026/10/20/data-center-financing-ai-debt-hsbc.html",
+    "published": "Tue, 20 Oct 2026 10:39:17 GMT",
+    "fetched_at": "2026-10-21 00:29:06",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "데이터 센터",
+      "클라우드 컴퓨팅",
+      "IT 인프라"
+    ],
+    "keywords": [
+      "AI",
+      "데이터 센터",
+      "IT 인프라 투자",
+      "과열 경고"
+    ],
+    "reason": "HSBC CEO의 발언은 AI 붐으로 인한 데이터 센터 투자 과열에 대한 경고로, 해당 섹터 내 옥석 가리기가 심화될 것을 시사하며 무분별한 투자는 지양해야 함을 강조합니다. 이는 데이터 센터 관련 기업들의 실적과 성장성에 대한 투자자들의 신중한 접근을 유도할 것입니다.",
+    "action_point": "AI 관련 데이터 센터 투자 시, 개별 기업의 실질적 경쟁력 및 수익성을 면밀히 분석하여 선별 투자하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Novo's next-generation obesity drug shows 25% weight loss in women in late-stage analysis",
+    "title_ko": "노보의 차세대 비만 치료제, 후기 임상 분석에서 여성 25% 체중 감량 효과 입증",
+    "link": "https://www.cnbc.com/2026/10/20/novo-cagrisema-women-weight-loss-analysis.html",
+    "published": "Tue, 20 Oct 2026 12:50:24 GMT",
+    "fetched_at": "2026-10-21 00:29:37",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "제약",
+      "바이오",
+      "헬스케어"
+    ],
+    "keywords": [
+      "노보 노디스크",
+      "비만 치료제",
+      "CagriSema",
+      "GLP-1",
+      "체중 감량"
+    ],
+    "reason": "이 뉴스는 차세대 비만 치료제 개발의 성공 가능성을 높여 노보 노디스크의 시장 지배력을 강화하고 GLP-1 계열 비만 치료제 시장의 폭발적 성장을 가속화할 것입니다. 관련 제약/바이오 섹터에 대한 투자 심리가 개선될 것으로 예상됩니다.",
+    "action_point": "비만 치료제 시장의 성장 가속화에 따라 관련 제약/바이오 섹터 비중 확대를 검토하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "“여기도 ‘경력있는 신입’ 원하네”…R&D장비시장 국산 힘못쓰는 이유",
+    "title_ko": "“여기도 ‘경력있는 신입’ 원하네”…R&D장비시장 국산 힘못쓰는 이유",
+    "link": "https://www.mk.co.kr/news/business/12181176",
+    "published": "Tue, 20 Oct 2026 23:41:49 +09:00",
+    "fetched_at": "2026-10-21 00:29:57",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "국내 R&D 장비 제조",
+      "산업 장비",
+      "정밀 기계"
+    ],
+    "keywords": [
+      "R&D 장비",
+      "국산화",
+      "현장 검증",
+      "연구개발 예산",
+      "산업 경쟁력"
+    ],
+    "reason": "내년도 역대 최대 R&D 예산에도 불구하고 국내 R&D 장비 시장은 외국산이 80%를 차지하며, 국산 장비는 현장 검증 실적 부족으로 시장 진입에 어려움을 겪어 관련 국내 기업들의 성장이 제한적이다.",
+    "action_point": "국내 R&D 장비 관련 기업 투자 시, 현장 실증 실적 확보 여부를 핵심 지표로 분석하고 신중한 접근을 유지."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Stocks making the biggest moves premarket: RTX, General Motors, Northrop Grumman, Steel Dynamics & more",
+    "title_ko": "프리마켓에서 가장 큰 움직임을 보이는 주식들: RTX, 제너럴 모터스, 노스롭 그러먼, 스틸 다이내믹스 외",
+    "link": "https://www.cnbc.com/2026/10/20/stocks-making-the-biggest-moves-premarket-rtx-gm-noc-stld.html",
+    "published": "Tue, 20 Oct 2026 11:57:52 GMT",
+    "fetched_at": "2026-10-21 00:28:59",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "항공우주 및 방위산업",
+      "자동차",
+      "철강"
+    ],
+    "keywords": [
+      "RTX",
+      "General Motors",
+      "Northrop Grumman",
+      "Steel Dynamics",
+      "프리마켓"
+    ],
+    "reason": "이 기사는 프리마켓에서 개별 기업들의 주가 변동을 단순 나열한 것으로, 특정 거시경제 지표나 전반적인 시장의 방향성을 시사하기보다는 개별 기업 요인에 더 가깝습니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "SpaceX earnings live updates: Starlink growth, AI revenue and merger speculation",
+    "title_ko": "SpaceX 실적 라이브 업데이트: 스타링크 성장, AI 매출 및 합병 추측",
+    "link": "https://www.cnbc.com/2026/10/20/spacex-spcx-earnings-live-updates-q3-2026html.html",
+    "published": "Tue, 20 Oct 2026 15:10:48 GMT",
+    "fetched_at": "2026-10-21 00:29:17",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "우주 항공",
+      "위성 통신",
+      "인공지능"
+    ],
+    "keywords": [
+      "SpaceX",
+      "스타링크",
+      "AI",
+      "실적",
+      "우주 기술"
+    ],
+    "reason": "비상장 기업인 SpaceX의 실적은 거시 경제나 광범위한 시장에 직접적인 영향은 제한적이나, 스타링크의 성장과 AI 매출 추이는 우주 항공, 위성 통신, AI 기술 관련 산업의 장기적인 트렌드와 투자 심리에 간접적 영향을 미칠 수 있다.",
+    "action_point": "우주 항공 및 AI 관련 기술 섹터의 장기 성장 잠재력을 고려하여 관련 상장 기업 또는 ETF 투자 비중 확대 검토"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "What’s making Europe so angry? The frustration behind the protests",
     "title_ko": "무엇이 유럽을 그토록 분노하게 하는가? 시위 이면의 좌절감",
     "link": "https://www.cnbc.com/2026/10/20/france-protests-europe-cost-living-violence.html",
@@ -2815,156 +2967,5 @@
     ],
     "reason": "하버드 대학 기금의 높은 수익률은 사모시장 및 고성장 기술 기업(스페이스X 등)에 대한 기관 투자자들의 강한 신뢰와 높은 평가를 반영합니다. 이는 광범위한 리스크 자산 시장, 특히 혁신 기술 섹터에 대한 긍정적인 전망을 시사합니다.",
     "action_point": "고성장 기술주 및 사모 시장 투자 비중 확대를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "CoreWeave credit default swaps hit distress levels as investors sour on AI debt",
-    "title_ko": "투자자들의 AI 부채 우려에 CoreWeave 신용부도스왑(CDS) 위험 수준 도달",
-    "link": "https://www.cnbc.com/2026/10/15/coreweave-credit-default-swaps-hit-distress-levels-as-investors-sour-on-ai-debt.html",
-    "published": "Thu, 15 Oct 2026 20:18:02 GMT",
-    "fetched_at": "2026-10-16 05:43:45",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "인공지능(AI)",
-      "클라우드 컴퓨팅",
-      "벤처캐피탈/사모펀드"
-    ],
-    "keywords": [
-      "AI 부채",
-      "신용부도스왑(CDS)",
-      "CoreWeave",
-      "투자심리",
-      "기술주"
-    ],
-    "reason": "CoreWeave의 CDS 위험 증가는 AI 섹터 전반의 자금 조달 환경 악화를 시사하며, 고평가 논란을 심화시킬 수 있습니다. 이는 AI 관련 기술주 및 벤처캐피탈 투자 심리에 부정적인 영향을 미칠 가능성이 있습니다.",
-    "action_point": "AI 관련 기술주 및 고부채 성장 기업의 투자 리스크를 점검하고, 비중 축소를 고려하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Wholesale prices jumped 6.3% annually in September, biggest gain since 2022",
-    "title_ko": "9월 도매 물가 전년 대비 6.3% 급등, 2022년 이후 최대 상승폭",
-    "link": "https://www.cnbc.com/2026/10/15/september-producer-price-index-retail-sales-data.html",
-    "published": "Thu, 15 Oct 2026 16:15:44 GMT",
-    "fetched_at": "2026-10-16 02:30:16",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "기술주",
-      "부동산",
-      "금리 민감 섹터"
-    ],
-    "keywords": [
-      "도매 물가",
-      "인플레이션",
-      "금리 인상 압력"
-    ],
-    "reason": "9월 도매 물가 급등은 인플레이션 압력이 지속되고 있음을 보여주며, 연준의 고금리 장기화 기조 또는 추가 금리 인상 가능성을 높여 주식 및 채권 시장에 부정적 영향을 미칠 것입니다.",
-    "action_point": "금리 인상에 민감한 성장주 및 부동산 관련 자산 비중 축소 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Apple and Meta team up to make Muse AI model run on Mac computers",
-    "title_ko": "Apple과 Meta, Muse AI 모델을 Mac 컴퓨터에서 실행하기 위해 협력",
-    "link": "https://www.cnbc.com/2026/10/15/apple-meta-partner-ai.html",
-    "published": "Thu, 15 Oct 2026 17:29:40 GMT",
-    "fetched_at": "2026-10-16 02:30:24",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "기술",
-      "반도체",
-      "소프트웨어"
-    ],
-    "keywords": [
-      "Apple",
-      "Meta",
-      "AI",
-      "Mac",
-      "온디바이스 AI"
-    ],
-    "reason": "두 거대 기술 기업의 협력은 온디바이스 AI 기술 확산을 가속화하고, Mac 하드웨어의 AI 처리 능력을 강화하여 관련 소프트웨어 및 반도체 수요 증가에 긍정적으로 작용할 것입니다.",
-    "action_point": "AI 관련 기술주 및 고성능 컴퓨팅 반도체 관련주에 대한 투자 기회를 모색하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "What's behind the sell-off in AI neocloud stocks like CoreWeave and Nebius",
-    "title_ko": "CoreWeave 및 Nebius와 같은 AI 네오클라우드 주식 매도세의 원인은 무엇인가?",
-    "link": "https://www.cnbc.com/2026/10/15/whats-behind-the-sell-off-in-ai-neocloud-stocks-like-coreweave-and-nebius-.html",
-    "published": "Thu, 15 Oct 2026 17:04:17 GMT",
-    "fetched_at": "2026-10-16 02:30:32",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "기술",
-      "클라우드 컴퓨팅",
-      "인공지능"
-    ],
-    "keywords": [
-      "AI",
-      "네오클라우드",
-      "매도세",
-      "CoreWeave",
-      "Nebius"
-    ],
-    "reason": "AI 네오클라우드 주식의 매도세는 동일한 사업 모델과 고객 기반으로 인한 경쟁 심화 또는 밸류에이션 부담을 시사하며, AI 인프라 섹터 전반에 대한 재평가 압력을 가할 수 있다.",
-    "action_point": "AI 인프라 및 고성장 클라우드 섹터 내 종목의 밸류에이션 리스크를 점검."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "U.S. reportedly considers use of 'mother of all bombs' as Iran vows to fight on",
-    "title_ko": "미국, 이란의 항전 선언 속 '모든 폭탄의 어머니' 사용 검토 보도",
-    "link": "https://www.cnbc.com/2026/10/15/us-iran-war-trump-hormuz.html",
-    "published": "Thu, 15 Oct 2026 10:44:57 GMT",
-    "fetched_at": "2026-10-15 21:18:50",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "에너지/원유",
-      "방산",
-      "해운"
-    ],
-    "keywords": [
-      "미국",
-      "이란",
-      "지정학적 리스크",
-      "중동",
-      "원유",
-      "전쟁"
-    ],
-    "reason": "미국과 이란 간 군사적 긴장 고조는 중동 지역 불안정 심화로 이어져 글로벌 원유 공급 차질 및 가격 급등 가능성을 높이며, 투자 심리를 위축시키고 위험 자산 회피를 가속화할 것이다.",
-    "action_point": "중동 지정학적 리스크 확대로 인한 원유 및 방산 섹터 투자 비중 확대를 검토하고, 달러 및 금 등 안전 자산 비중 강화를 통한 포트폴리오 방어에 나서라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Ukraine to resume strikes on Russian refineries, shattering hopes of an 'energy ceasefire'",
-    "title_ko": "우크라이나, 러시아 정유시설 공격 재개... '에너지 휴전' 기대 무산",
-    "link": "https://www.cnbc.com/2026/10/15/ukraine-russia-energy-ceasefire-zelenskyy.html",
-    "published": "Thu, 15 Oct 2026 10:13:25 GMT",
-    "fetched_at": "2026-10-15 21:19:36",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "에너지",
-      "방산",
-      "운송",
-      "화학"
-    ],
-    "keywords": [
-      "우크라이나",
-      "러시아",
-      "정유시설",
-      "에너지",
-      "지정학적 리스크",
-      "유가"
-    ],
-    "reason": "우크라이나의 러시아 정유시설 공격 재개는 글로벌 에너지 공급망에 대한 불안감을 증폭시키며 유가 상승 압력으로 작용할 수 있습니다. 이는 지정학적 리스크 심화와 인플레이션 우려를 야기할 수 있습니다.",
-    "action_point": "유가 상승 및 지정학적 리스크 고조에 대비하여 에너지/원자재 관련 자산 비중 확대를 검토하십시오."
   }
 ]
