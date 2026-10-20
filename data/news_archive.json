@@ -1,5 +1,80 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "BlackRock, GIC among investors chasing Indian telecom major Jio's IPO as anchor bids top $26 billion",
+    "title_ko": "블랙록, GIC 등 투자자들, 인도 통신 대기업 지오(Jio) IPO에 260억 달러 이상의 앵커 투자 참여",
+    "link": "https://www.cnbc.com/2026/10/20/jio-ipo-gic-blackrock-.html",
+    "published": "Tue, 20 Oct 2026 02:44:35 GMT",
+    "fetched_at": "2026-10-20 14:34:13",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "통신",
+      "신흥국 시장",
+      "자산운용"
+    ],
+    "keywords": [
+      "Jio Platforms",
+      "인도 IPO",
+      "신흥국 투자",
+      "통신 섹터",
+      "앵커 투자"
+    ],
+    "reason": "인도 최대 규모 IPO에 대한 글로벌 기관투자자들의 대규모 앵커 투자 참여는 인도 경제 및 통신 섹터의 성장 잠재력에 대한 강한 신뢰를 보여줍니다. 이는 전반적인 신흥국 시장에 대한 투자 심리 개선으로 이어질 수 있습니다.",
+    "action_point": "신흥국 포트폴리오 내 인도 시장 비중 확대를 검토하고, 인도 및 기타 신흥국 통신 섹터의 투자 기회를 모색하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "‘Open your doors for AI’: German chancellor urges businesses to embrace AI as Nvidia announces new investments",
+    "title_ko": "'AI에 문을 열어라': 독일 총리, AI 수용 촉구 및 엔비디아의 신규 투자 발표",
+    "link": "https://www.cnbc.com/2026/10/20/german-chancellor-urges-businesses-to-embrace-ai.html",
+    "published": "Tue, 20 Oct 2026 02:16:25 GMT",
+    "fetched_at": "2026-10-20 14:34:05",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "인공지능 (AI)",
+      "반도체",
+      "소프트웨어",
+      "기술주"
+    ],
+    "keywords": [
+      "AI",
+      "엔비디아",
+      "독일",
+      "스타트업",
+      "투자"
+    ],
+    "reason": "이 뉴스는 독일 정부의 AI 육성 의지와 엔비디아의 유럽 AI 스타트업 투자를 보여주며, 글로벌 AI 기술 발전 및 관련 섹터 성장에 대한 긍정적 신호를 보냅니다.",
+    "action_point": "글로벌 AI 및 반도체 섹터 비중 확대 기회를 모색하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "속보 트럼프, 다음달 김정은과 회담 여부에 \"모르겠다\" - YTN",
+    "title_ko": "트럼프, 김정은 회담 여부에 '모르겠다' 발언",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5iZUJTZy1OUmZDd292MGE2Yi1pS3o0dDBDaU40TDlkWmtyaUxPVEZCeUQ4Y0tfNldzRHZVbGl4MXQ3XzlxS25ET3I4TTZVZEFLX3Vsd0pQWlF5ZjNNdGc?oc=5",
+    "published": "Mon, 19 Oct 2026 19:57:00 GMT",
+    "fetched_at": "2026-10-20 14:34:33",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "남북경협주",
+      "방산"
+    ],
+    "keywords": [
+      "트럼프",
+      "김정은",
+      "북미정상회담",
+      "한반도 정세",
+      "지정학적 리스크"
+    ],
+    "reason": "트럼프의 발언은 차기 북미정상회담 개최에 대한 불확실성을 증폭시켜 한반도 지정학적 리스크 완화 기대감을 낮춘다. 이는 남북경협 관련 자산에 잠재적 부정 요인으로 작용한다.",
+    "action_point": "남북경협 관련 자산의 신규 편입을 유보하고, 기존 보유 비중을 보수적으로 유지."
+  },
+  {
     "source": "CNBC_Finance",
     "market": "US",
     "title": "Three big takeaways from the IMF-World Bank meetings",
@@ -2880,80 +2955,5 @@
     ],
     "reason": "영국 경제 성장률이 예상치를 소폭 상회하며 경기 침체 우려를 다소 완화할 수 있으나, 만성적인 인플레이션과 생활비 위기라는 근본적인 구조적 문제는 여전히 해결되지 않았다.",
     "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "TSMC posts record profit for a sixth straight quarter, beating estimates on AI boom",
-    "title_ko": "TSMC, AI 붐에 힘입어 6분기 연속 사상 최고 실적 달성, 예상치 상회",
-    "link": "https://www.cnbc.com/2026/10/15/tsmc-third-quarter-profit-global-ai-.html",
-    "published": "Thu, 15 Oct 2026 05:59:57 GMT",
-    "fetched_at": "2026-10-15 15:43:22",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "반도체",
-      "인공지능(AI)",
-      "IT하드웨어"
-    ],
-    "keywords": [
-      "TSMC",
-      "실적",
-      "AI",
-      "반도체",
-      "대만"
-    ],
-    "reason": "TSMC의 호실적은 글로벌 반도체 및 AI 산업의 강력한 수요를 방증하며, 이는 관련 기술주 투자 심리에 긍정적으로 작용할 것입니다. 특히 AI 관련 투자 확대 기조를 강화할 수 있습니다.",
-    "action_point": "AI 관련 반도체 및 IT 하드웨어 섹터 비중 확대를 검토"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Anthropic's third-quarter revenue is said to hit $16.8 billion ahead of IPO",
-    "title_ko": "Anthropic, IPO 앞두고 3분기 매출 168억 달러 기록 전망",
-    "link": "https://www.cnbc.com/2026/10/15/anthropics-third-quarter-revenue-hits-16point8-billion-ipo.html",
-    "published": "Thu, 15 Oct 2026 03:48:58 GMT",
-    "fetched_at": "2026-10-15 15:43:39",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "기술",
-      "인공지능",
-      "벤처캐피탈"
-    ],
-    "keywords": [
-      "Anthropic",
-      "IPO",
-      "매출",
-      "인공지능",
-      "기술주"
-    ],
-    "reason": "Anthropic의 높은 3분기 매출은 AI 산업의 견고한 성장세와 투자 수요를 시사하며, 이는 기술주 전반에 긍정적인 투자 심리를 형성할 수 있습니다. 성공적인 IPO 가능성은 향후 유사 기술 기업들의 상장에도 영향을 미칠 수 있습니다.",
-    "action_point": "생성형 AI 섹터의 투자 기회 및 관련 기업을 면밀히 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "SK Hynix shares plunge 10% amid Asia tech rout as Fed rate hike fears, AI funding worries mount",
-    "title_ko": "SK하이닉스 주가, 연준 금리 인상 우려와 AI 투자 불안감 고조 속 아시아 기술주 폭락에 10% 급락",
-    "link": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
-    "published": "Thu, 15 Oct 2026 01:02:54 GMT",
-    "fetched_at": "2026-10-15 10:06:31",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "기술주",
-      "반도체",
-      "AI 관련주"
-    ],
-    "keywords": [
-      "SK하이닉스",
-      "반도체",
-      "금리 인상",
-      "AI 투자",
-      "기술주"
-    ],
-    "reason": "연준의 금리 인상 우려와 AI 섹터의 투자 불확실성이 글로벌 기술주 전반의 매도세를 심화시키며, 특히 고금리에 민감하고 미래 성장 기대감이 큰 반도체 기업들에 하방 압력을 가하고 있습니다. 이는 한국 증시의 핵심인 반도체 섹터의 추가 조정 가능성을 시사합니다.",
-    "action_point": "반도체 및 성장 기술주 비중 축소를 검토하고, 금리 인상 위험에 덜 민감한 섹터로의 포트폴리오 조정을 고려하십시오."
   }
 ]
