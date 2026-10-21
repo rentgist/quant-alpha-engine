@@ -2,6 +2,26 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "Trump denies ordering Starlink slowdown in Ukraine, says he doesn't know who did",
+    "title_ko": "트럼프, 우크라이나 스타링크 속도 저하 지시 부인하며 누구의 지시인지 모른다고 밝혀",
+    "link": "https://www.cnbc.com/2026/10/21/trump-starlink-ukraine-elon-musk.html",
+    "published": "Wed, 21 Oct 2026 20:45:16 GMT",
+    "fetched_at": "2026-10-22 06:03:01",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [],
+    "keywords": [
+      "트럼프",
+      "스타링크",
+      "우크라이나",
+      "지정학"
+    ],
+    "reason": "트럼프 전 대통령의 스타링크 속도 저하 지시 부인은 정치적 발언으로, 현재의 지정학적 상황이나 경제 펀더멘털을 직접적으로 변화시키지 않아 금융시장에 미치는 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "How Ukraine’s drone strikes on Russia crippled the world’s second-largest diesel supplier",
     "title_ko": "우크라이나의 러시아 드론 공격이 세계 2위 디젤 공급자를 마비시킨 방법",
     "link": "https://www.cnbc.com/2026/10/21/ukraine-russia-drone-diesel-refinery-trump-putin-zelenskyy.html",
@@ -2952,30 +2972,5 @@
     ],
     "reason": "트럼프의 러시아 디젤 거래 제안은 향후 미국 대외 정책의 불확실성을 높이고, 우크라이나 전쟁의 양상 및 지정학적 리스크를 증대시킬 수 있습니다. 이는 글로벌 투자 심리에 부정적인 영향을 미칠 가능성이 있습니다.",
     "action_point": "지정학적 리스크 헤지를 위해 달러 및 금 등 안전자산 비중 유지 또는 확대 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Nasdaq slides 2% Friday to post worst week since June, pressured by AI sell-off and oil prices: Live updates",
-    "title_ko": "나스닥, AI 매도세와 유가 상승 압력에 금요일 2% 하락하며 6월 이후 최악의 주간 기록: 실시간 업데이트",
-    "link": "https://www.cnbc.com/2026/10/15/stock-market-today-live-updates.html",
-    "published": "Fri, 16 Oct 2026 20:27:46 GMT",
-    "fetched_at": "2026-10-17 16:20:05",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "기술주",
-      "성장주",
-      "에너지"
-    ],
-    "keywords": [
-      "나스닥",
-      "AI",
-      "인공지능",
-      "유가",
-      "기술주 매도"
-    ],
-    "reason": "AI 관련 기술주 매도세와 유가 상승이 겹쳐 기술주 중심의 시장 하락을 야기했으며, 이는 성장주 전반에 대한 투자 심리 위축과 인플레이션 우려를 반영합니다.",
-    "action_point": "인공지능 관련 기술주 비중 축소를 검토하고, 고유가 환경에 대비한 포트폴리오 조정을 고려하십시오."
   }
 ]
