@@ -2,6 +2,129 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "UK inflation jumps to 3.5% — cementing rate hike expectations",
+    "title_ko": "영국 인플레이션 3.5%로 급등, 금리 인상 기대감 고조",
+    "link": "https://www.cnbc.com/2026/10/21/inflation-uk-cpi-interest-rates.html",
+    "published": "Wed, 21 Oct 2026 06:30:27 GMT",
+    "fetched_at": "2026-10-21 15:48:10",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "금융",
+      "부동산",
+      "소비재"
+    ],
+    "keywords": [
+      "영국 인플레이션",
+      "금리 인상",
+      "에너지 가격",
+      "긴축 정책"
+    ],
+    "reason": "영국 인플레이션의 예상치 상회는 영란은행의 추가 금리 인상 가능성을 높여 글로벌 긴축 기조를 강화합니다. 이는 전반적인 위험자산 투자 심리를 위축시키고, 특히 금리 민감 자산에 하방 압력으로 작용할 것입니다.",
+    "action_point": "영국 및 유럽 시장 익스포저가 있는 투자자는 관련 자산 비중 축소를 검토하고, 글로벌 긴축에 대비한 방어적 포트폴리오를 유지하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Oil prices climb as traders assess Middle East developments",
+    "title_ko": "중동 상황 평가 속 유가 상승",
+    "link": "https://www.cnbc.com/2026/10/21/oil-price-today-wti-brent-rise-on-middle-east-worries.html",
+    "published": "Wed, 21 Oct 2026 05:27:19 GMT",
+    "fetched_at": "2026-10-21 15:48:30",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "운송",
+      "화학",
+      "제조업"
+    ],
+    "keywords": [
+      "유가",
+      "중동",
+      "호르무즈 해협",
+      "지정학적 리스크",
+      "공급망"
+    ],
+    "reason": "호르무즈 해협은 글로벌 원유 수송의 핵심 통로이며, 이곳에서의 해상 마찰은 즉각적인 공급 차질 우려를 증폭시켜 국제 유가 상승을 견인합니다. 이는 전 세계적인 인플레이션 압력을 높이고 경기 둔화 우려를 심화시킬 수 있습니다.",
+    "action_point": "지정학적 리스크로 인한 고유가 상황에 대비, 에너지 섹터 비중 확대를 검토하고 유가 민감 섹터 노출을 줄여야 합니다."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Stock futures rise as traders evaluate latest raft of earnings; SpaceX shares surge: Live updates",
+    "title_ko": "최신 실적 발표 평가 속 주식 선물 상승; 스페이스X 주가 급등: 실시간 업데이트",
+    "link": "https://www.cnbc.com/2026/10/20/stock-market-today-live-updates.html",
+    "published": "Wed, 21 Oct 2026 06:33:08 GMT",
+    "fetched_at": "2026-10-21 15:48:20",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "기술주",
+      "성장주"
+    ],
+    "keywords": [
+      "주식 선물",
+      "어닝 시즌",
+      "스페이스X",
+      "골드만삭스",
+      "시장 심리"
+    ],
+    "reason": "기업 실적에 대한 긍정적인 평가와 골드만삭스의 연말 주식 시장 강세 전망은 투자 심리를 개선하며, 특히 실적 모멘텀이 강한 성장주들의 상승세를 지지할 가능성이 높습니다.",
+    "action_point": "실적 호전이 예상되는 성장주 포트폴리오 비중을 유지하라."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Stocks making the biggest moves after hours: Super Micro Computer, Intuitive Surgical, Netflix, SpaceX & more",
+    "title_ko": "시간 외 거래에서 가장 큰 움직임을 보이는 주식들: 슈퍼 마이크로 컴퓨터, 인튜이티브 서지컬, 넷플릭스, 스페이스X 외 다수",
+    "link": "https://www.cnbc.com/2026/10/20/stocks-making-the-biggest-moves-after-hours-isrg-nflx-spcx.html",
+    "published": "Tue, 20 Oct 2026 22:55:27 GMT",
+    "fetched_at": "2026-10-21 15:48:04",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "기술",
+      "반도체",
+      "헬스케어",
+      "미디어/엔터테인먼트",
+      "우주항공"
+    ],
+    "keywords": [
+      "시간 외 거래",
+      "개별 종목",
+      "기술주"
+    ],
+    "reason": "이 기사는 시간 외 거래에서 특정 개별 기업들의 주가 움직임을 보도하며, 거시 경제 또는 광범위한 시장 전반에 대한 즉각적인 투자 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[단독] K-뷰티, 짝퉁과의 전쟁...단속 영상 보니 상자에 짝퉁 가득 - YTN",
+    "title_ko": "[단독] K-뷰티, 짝퉁과의 전쟁...단속 영상 보니 상자에 짝퉁 가득",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBQdFZFeW4xVDJYUzUzMDFrTFRhQW1DUFd1b3NnNEkySFZqQ0ZiVjd1aHIxVXltOXo1d1VHX2RieTBPZ01zdjlUeWFDYzhwQmFkUl8tT0xVYUpqNHFzMkRBcHd3S0ZXdGxXWmhiNXRhSQ?oc=5",
+    "published": "Wed, 21 Oct 2026 02:55:00 GMT",
+    "fetched_at": "2026-10-21 15:48:39",
+    "sentiment": "호재",
+    "importance": 2,
+    "sectors": [
+      "화장품",
+      "소비재"
+    ],
+    "keywords": [
+      "K-뷰티",
+      "짝퉁",
+      "단속",
+      "브랜드 가치",
+      "화장품 산업"
+    ],
+    "reason": "짝퉁 제품 단속 강화는 K-뷰티 기업들의 지적재산권과 브랜드 가치를 보호하여 장기적인 시장 경쟁력 및 수익성 개선에 긍정적인 영향을 미칠 것입니다. 이는 정품 판매 증가로 이어져 관련 기업들의 실적 향상에 기여할 수 있습니다.",
+    "action_point": "K-뷰티 관련 상장 기업들의 실적 개선 가능성을 고려하여 해당 섹터 비중 확대를 검토하십시오."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
     "title_ko": "연준의 추가 금리 인상 고려 시점에 주택 시장에서 경고 신호가 나타나고 있다",
     "link": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
@@ -2860,124 +2983,5 @@
     ],
     "reason": "호르무즈 해협에서의 선박 공격은 핵심 원유 수송로의 지정학적 리스크를 높여 해상 운송 비용 및 보험료 상승, 나아가 국제 유가 변동성 확대로 이어질 수 있습니다.",
     "action_point": "에너지 원자재 및 해운 섹터의 지정학적 리스크 노출도를 재점검."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "한때 세계 2위 ‘경제대국’였는데…영국에도 밀려 60년만 탑5 밀려나는 일본 - 문화일보",
-    "title_ko": "한때 세계 2위 ‘경제대국’였는데…영국에도 밀려 60년만 탑5 밀려나는 일본 - 문화일보",
-    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBFZTA5R2N6UjlIWHlHYkZLWlRuRG8zY0l3bnhmSVJobmF4WXBUeldBUVh0dmR0bHNYQnlWVldqNlVCcFp0SUhIQmxrb0hxeDh2?oc=5",
-    "published": "Thu, 15 Oct 2026 20:37:00 GMT",
-    "fetched_at": "2026-10-16 16:42:52",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "외환시장",
-      "수출 경쟁 산업"
-    ],
-    "keywords": [
-      "일본 경제",
-      "엔화 약세",
-      "GDP 순위",
-      "수출 경쟁력"
-    ],
-    "reason": "일본의 GDP 순위 하락은 고질적인 엔화 약세와 저성장 장기화의 결과로, 일본 경제의 구조적 약점을 드러내며 한국 수출 기업에 대한 경쟁 심화를 시사한다.",
-    "action_point": "엔화 약세 장기화에 대비하여 일본과 경쟁하는 국내 수출 산업 섹터의 비중을 재검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Fed's Warsh withholds rate signal, praises recent global tightening with 'no free riders'",
-    "title_ko": "연준 워시, 금리 인상 신호 보류, '무임승차 없는' 최근 글로벌 긴축 조치 칭찬",
-    "link": "https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html",
-    "published": "Fri, 16 Oct 2026 07:11:22 GMT",
-    "fetched_at": "2026-10-16 16:41:38",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [],
-    "keywords": [
-      "연준",
-      "금리",
-      "글로벌 긴축",
-      "인플레이션"
-    ],
-    "reason": "전 연준 이사의 발언은 글로벌 중앙은행들의 동시다발적인 인플레이션 대응 노력을 인정하며, 당장 추가 금리 인상 신호를 보내지는 않아 시장에 즉각적인 방향성을 제시하기보다 현 정책 기조 유지 가능성을 시사합니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Marco Rubio to visit Indian billionaire Ambani's refinery in Gujarat as U.S. diesel prices surge",
-    "title_ko": "마르코 루비오가 미국 디젤 가격 급등세 속 인도 억만장자 암바니의 구자라트 정유시설 방문 예정",
-    "link": "https://www.cnbc.com/2026/10/16/marco-rubio-reliance-jamnagar-refinery.html",
-    "published": "Fri, 16 Oct 2026 06:45:02 GMT",
-    "fetched_at": "2026-10-16 16:41:58",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "에너지",
-      "화학",
-      "운송"
-    ],
-    "keywords": [
-      "마르코 루비오",
-      "암바니",
-      "릴라이언스",
-      "디젤",
-      "에너지 안보",
-      "정유"
-    ],
-    "reason": "미국 디젤 가격 급등 상황에서 인도 릴라이언스 정유시설 방문은 글로벌 에너지 공급망의 중요성과 특정 국가 및 기업의 역할 증대를 시사한다. 이는 에너지 가격 변동성 지속 가능성을 보여준다.",
-    "action_point": "국제 유가 및 정제 마진 강세에 수혜를 입는 정유 관련 기업의 투자 매력 점검."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "The IPO drought is driving private equity-owned companies to the debt market to pay investors",
-    "title_ko": "IPO 가뭄이 심화되면서 사모펀드 소유 기업들이 투자자 배당을 위해 부채 시장에 의존하고 있다",
-    "link": "https://www.cnbc.com/2026/10/16/private-equity-portfolios-ipo-debt.html",
-    "published": "Fri, 16 Oct 2026 05:00:01 GMT",
-    "fetched_at": "2026-10-16 16:42:09",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "사모펀드",
-      "금융 (대출/IB)",
-      "고부채 기업"
-    ],
-    "keywords": [
-      "IPO 가뭄",
-      "사모펀드",
-      "부채 시장",
-      "레버리지",
-      "자본 시장"
-    ],
-    "reason": "이 뉴스는 IPO 및 M&A 시장의 경색으로 사모펀드가 투자금 회수를 위해 포트폴리오 기업의 부채를 늘리는 '배당 리캡'에 의존하고 있음을 보여줍니다. 이는 해당 기업들의 재무 건전성을 악화시키고, 광범위한 자본 시장의 유동성 제약 가능성을 시사합니다.",
-    "action_point": "고부채 기업 및 사모펀드 관련 자산에 대한 리스크 재평가 및 비중 축소를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Russia returns to G20 table in Bangkok on U.S. invitation that angers Europe",
-    "title_ko": "미국의 초대로 러시아가 G20 회의에 복귀, 유럽은 반발",
-    "link": "https://www.cnbc.com/2026/10/16/g20-russia-ukraine-trump-diesel-europe-.html",
-    "published": "Fri, 16 Oct 2026 06:11:35 GMT",
-    "fetched_at": "2026-10-16 16:42:20",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "에너지",
-      "국방"
-    ],
-    "keywords": [
-      "러시아",
-      "G20",
-      "미국",
-      "유럽",
-      "외교",
-      "지정학 갈등"
-    ],
-    "reason": "미국과 유럽 간 대러시아 전략의 균열 가능성을 보여주며, 향후 대러 제재 및 우크라이나 전쟁 관련 국제 공조에 복잡성을 더할 수 있습니다. 이는 장기적으로 에너지 시장 및 방산 분야에 미묘한 영향을 줄 수 있습니다.",
-    "action_point": "해당 없음"
   }
 ]
