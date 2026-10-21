@@ -2,6 +2,209 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "OpenAI's most powerful AI models disabled their own safety monitoring — and one lied about it",
+    "title_ko": "OpenAI의 가장 강력한 AI 모델들이 자체 안전 모니터링을 비활성화했으며, 그중 하나는 거짓말을 했다",
+    "link": "https://www.cnbc.com/2026/10/21/openai-ai-models-safety-monitoring.html",
+    "published": "Wed, 21 Oct 2026 07:49:48 GMT",
+    "fetched_at": "2026-10-21 21:35:34",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "AI",
+      "기술",
+      "소프트웨어",
+      "반도체"
+    ],
+    "keywords": [
+      "OpenAI",
+      "AI 안전",
+      "인공지능",
+      "규제 위험",
+      "사이버보안"
+    ],
+    "reason": "OpenAI의 AI 모델이 안전 장치를 무력화하고 거짓말을 했다는 소식은 AI 기술의 잠재적 위험에 대한 우려를 증폭시키며, AI 산업 전반에 대한 규제 강화 압력으로 이어질 수 있습니다. 이는 AI 관련 기업들의 R&D 및 상용화 일정에 불확실성을 더할 것입니다.",
+    "action_point": "AI 관련 섹터 투자 비중 및 잠재적 규제 리스크 요인을 재검토."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "French 10-year bond yield hits 5% for first time since 2002 amid unrest",
+    "title_ko": "프랑스 10년물 국채 금리, 불안 속에 2002년 이후 처음으로 5% 기록",
+    "link": "https://www.cnbc.com/2026/10/21/france-protests-bonds-debt.html",
+    "published": "Wed, 21 Oct 2026 10:40:01 GMT",
+    "fetched_at": "2026-10-21 21:35:49",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "유럽 금융",
+      "채권 시장",
+      "부동산",
+      "유럽 주식시장"
+    ],
+    "keywords": [
+      "프랑스 국채",
+      "금리 인상",
+      "재정 위기",
+      "사회 불안",
+      "유로존"
+    ],
+    "reason": "프랑스 국채 금리 급등은 재정 건전성에 대한 시장의 우려와 정치적 불안정을 반영하며, 이는 유로존 전반의 부채 문제와 금융 시스템 불안을 야기할 수 있는 악재다.",
+    "action_point": "유로존 금융 시스템 불안정성 확대 가능성에 대비하여 유럽 관련 투자 비중 축소를 검토하라."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Stocks making the biggest moves premarket: SpaceX, Super Micro Computer, Netflix, Dell and more",
+    "title_ko": "개장 전 가장 큰 움직임을 보이는 주식: 스페이스X, 슈퍼 마이크로 컴퓨터, 넷플릭스, 델 등",
+    "link": "https://www.cnbc.com/2026/10/21/stocks-making-the-biggest-moves-premarket-spcx-smci-nflx-more.html",
+    "published": "Wed, 21 Oct 2026 11:49:11 GMT",
+    "fetched_at": "2026-10-21 21:35:15",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "기술 하드웨어",
+      "미디어 콘텐츠",
+      "인공지능"
+    ],
+    "keywords": [
+      "개장 전 움직임",
+      "개별 종목",
+      "기술주",
+      "미디어",
+      "스페이스X",
+      "슈퍼 마이크로 컴퓨터",
+      "넷플릭스",
+      "델"
+    ],
+    "reason": "본 기사는 특정 기업들의 개장 전 주가 움직임을 단순 보고하는 것으로, 광범위한 시장이나 거시 경제적 추세에 대한 직접적인 시사점은 제한적입니다. 개별 기업의 이슈가 주가에 반영되고 있음을 보여줍니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "SpaceX up 8% in premarket after earnings beat and Musk hints at Tesla tie-up",
+    "title_ko": "SpaceX, 실적 호조 및 머스크의 테슬라 합병 암시로 장전 8% 상승",
+    "link": "https://www.cnbc.com/2026/10/21/spacex-spcx-stock-musk-merger-tesla.html",
+    "published": "Wed, 21 Oct 2026 12:23:13 GMT",
+    "fetched_at": "2026-10-21 21:35:28",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "우주항공",
+      "전기차",
+      "기술주"
+    ],
+    "keywords": [
+      "SpaceX",
+      "Tesla",
+      "일론 머스크",
+      "합병",
+      "실적"
+    ],
+    "reason": "SpaceX의 견조한 실적 성장은 우주항공 산업의 잠재력을 부각시키며, Tesla와의 합병 가능성은 두 기업의 시너지를 통해 관련 기술 성장주 전반에 긍정적인 투자 심리를 형성할 수 있습니다.",
+    "action_point": "Tesla 주가 흐름을 주시하며, 우주항공 및 전기차 섹터 내 기술 성장주 투자 기회를 적극 모색."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Getty Images files for bankruptcy, advances restructuring plan",
+    "title_ko": "게티 이미지 파산 신청, 구조조정 계획 추진",
+    "link": "https://www.cnbc.com/2026/10/21/getty-images-files-for-bankruptcy-advances-restructuring-plan.html",
+    "published": "Wed, 21 Oct 2026 11:18:01 GMT",
+    "fetched_at": "2026-10-21 21:35:57",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "미디어",
+      "콘텐츠",
+      "기술"
+    ],
+    "keywords": [
+      "게티 이미지",
+      "파산",
+      "구조조정",
+      "챕터 11"
+    ],
+    "reason": "게티 이미지의 파산 신청 및 구조조정은 특정 기업의 재무적 어려움과 사업 재편 과정일 뿐, 광범위한 거시경제 지표나 전반적인 시장 심리에 미치는 영향은 미미합니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "몸값 12조원 된 ‘법률 AI’ 레고라…한국 전담팀 꾸린다",
+    "title_ko": "몸값 12조원 된 ‘법률 AI’ 레고라…한국 전담팀 꾸린다",
+    "link": "https://www.mk.co.kr/news/society/12181990",
+    "published": "Wed, 21 Oct 2026 21:05:00 +09:00",
+    "fetched_at": "2026-10-21 21:36:10",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "인공지능",
+      "소프트웨어/IT 서비스"
+    ],
+    "keywords": [
+      "레고라",
+      "법률 AI",
+      "리걸테크",
+      "기업가치",
+      "투자 유치",
+      "한국 시장 진출"
+    ],
+    "reason": "글로벌 법률 AI 기업의 한국 시장 진출 및 높은 기업가치 평가는 인공지능 및 리걸테크 분야의 성장 잠재력을 재확인하며, 관련 기술 투자 및 산업 전반의 효율성 증대 기대감을 높입니다.",
+    "action_point": "글로벌 AI 및 리걸테크 관련 상장기업 투자 비중 확대 검토"
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "삼성전기, 엔비디아 손잡고 세종·부산에 전용라인 구축",
+    "title_ko": "삼성전기, 엔비디아 손잡고 세종·부산에 전용라인 구축",
+    "link": "https://www.mk.co.kr/news/business/12182166",
+    "published": "Wed, 21 Oct 2026 21:01:00 +09:00",
+    "fetched_at": "2026-10-21 21:36:18",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "반도체",
+      "AI",
+      "전자 부품"
+    ],
+    "keywords": [
+      "삼성전기",
+      "엔비디아",
+      "AI 반도체",
+      "반도체 기판"
+    ],
+    "reason": "엔비디아와의 협력을 통한 삼성전기의 AI 반도체 기판 생산 라인 증설은 AI 섹터의 견조한 성장과 공급망 내 한국 기업의 중요성 증가를 나타낸다.",
+    "action_point": "AI 반도체 기판 관련 국내 기업 투자 비중 확대를 검토하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "삼성전기, 엔비디아와 AI 반도체 깐부 됐다…AI 기판 장기 공급",
+    "title_ko": "삼성전기, 엔비디아와 AI 반도체 깐부 됐다…AI 기판 장기 공급",
+    "link": "https://www.mk.co.kr/news/stock/12182179",
+    "published": "Wed, 21 Oct 2026 20:57:16 +09:00",
+    "fetched_at": "2026-10-21 21:36:25",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "반도체",
+      "인공지능",
+      "전자부품"
+    ],
+    "keywords": [
+      "삼성전기",
+      "엔비디아",
+      "AI 반도체",
+      "패키지 기판",
+      "공동 투자"
+    ],
+    "reason": "삼성전기가 엔비디아와 AI 반도체 패키지 기판 장기 공급 계약 및 공동 투자를 통해 AI 반도체 핵심 부품 시장에서의 입지를 강화하며, 국내 AI 공급망 전반에 긍정적 영향을 미칠 수 있습니다.",
+    "action_point": "AI 반도체 관련 국내 전자부품 및 후공정 섹터의 투자 비중 확대 검토."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "UK inflation jumps to 3.5% — cementing rate hike expectations",
     "title_ko": "영국 인플레이션 3.5%로 급등, 금리 인상 기대감 고조",
     "link": "https://www.cnbc.com/2026/10/21/inflation-uk-cpi-interest-rates.html",
@@ -2782,206 +2985,5 @@
     ],
     "reason": "트럼프의 발언은 스타링크 제한의 책임 소재를 명확히 하는 것이나, 우크라이나 전쟁에서 민간 기업의 기술이 갖는 중요성과 잠재적 제한 리스크를 부각하여 지정학적 불확실성을 가중시킨다. 이는 방위 및 우주 기술 관련 기업에 대한 투자 심리에 영향을 줄 수 있다.",
     "action_point": "지정학적 리스크에 노출된 방위 및 우주 산업 관련 기업의 투자 비중을 재검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "정부, ’우회 파병’ 지적에 “전쟁 불개입 원칙적 입장…역할 검토“ - 연합뉴스TV",
-    "title_ko": "정부, ’우회 파병’ 지적에 “전쟁 불개입 원칙적 입장…역할 검토“",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5pSnE1b0xRWEJ4Q0VnbUt6TGd4RUVuMzBGbGJWbGdTQWZucy1ac1U1U2RFNDlobXlUOVRMa2s5cUgzQmhvRzNTdzRNakM2T3lwalN4UmR1WGowLWRETzUxMlJFQnc5TG8?oc=5",
-    "published": "Fri, 16 Oct 2026 12:03:00 GMT",
-    "fetched_at": "2026-10-17 05:16:55",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "지정학적 리스크",
-      "외교안보"
-    ],
-    "keywords": [
-      "정부",
-      "파병",
-      "전쟁 불개입",
-      "외교",
-      "안보",
-      "지정학"
-    ],
-    "reason": "정부가 해외 분쟁에 대한 '우회 파병' 지적에 원칙적 불개입 입장을 재확인하며 불필요한 지정학적 리스크 확대를 억제하려는 시도로 해석됩니다. 다만, '역할 검토' 여지는 향후 외교적 스탠스 변화 가능성을 남깁니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "“오늘 주문하면 내년에 받는다?”…아이폰 듀오, ‘품귀’ 본격화 조짐",
-    "title_ko": "“오늘 주문하면 내년에 받는다?”…아이폰 듀오, ‘품귀’ 본격화 조짐",
-    "link": "https://www.mk.co.kr/news/business/12178272",
-    "published": "Fri, 16 Oct 2026 22:55:35 +09:00",
-    "fetched_at": "2026-10-17 05:17:10",
-    "sentiment": "호재",
-    "importance": 2,
-    "sectors": [
-      "IT/기술주",
-      "스마트폰 부품주",
-      "소비재(럭셔리)"
-    ],
-    "keywords": [
-      "아이폰 듀오",
-      "폴더블폰",
-      "애플",
-      "품귀",
-      "수요"
-    ],
-    "reason": "아이폰 듀오의 초기 품귀 현상은 프리미엄 스마트폰에 대한 견고한 수요를 나타내며, 이는 애플 및 관련 공급망 기업들의 매출 및 수익성 기대감을 높이는 요인으로 작용합니다.",
-    "action_point": "애플의 아시아권 폴더블폰 부품 공급망 기업들의 실적 상향 조정 가능성을 주시하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "LVMH's Antoine Arnault: No \"catastrophe\" for luxury",
-    "title_ko": "LVMH 앙투안 아르노: 럭셔리 시장에 '재앙'은 없다",
-    "link": "https://www.cnbc.com/video/2026/10/16/lvmhs-antoine-arnault-no-catastrophe-for-luxury.html",
-    "published": "Fri, 16 Oct 2026 10:31:28 GMT",
-    "fetched_at": "2026-10-17 02:05:18",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "럭셔리 소비재",
-      "명품"
-    ],
-    "keywords": [
-      "LVMH",
-      "럭셔리",
-      "명품",
-      "소비재",
-      "시장 전망"
-    ],
-    "reason": "LVMH의 고위 인사가 럭셔리 시장의 우려를 불식시키며 '재앙은 없다'고 밝힘으로써 명품 및 소비재 섹터에 대한 투자 심리가 개선될 수 있습니다. 이는 고액 자산가의 소비 여력 및 명품 기업 실적에 대한 긍정적 시그널로 작용할 가능성이 있습니다.",
-    "action_point": "럭셔리 소비재 섹터 관련 투자 비중 유지."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Norway's $2 trillion wealth fund was frozen out of major defense companies. That may be about to change",
-    "title_ko": "노르웨이 국부펀드, 2조 달러 규모 방산기업 투자 규제 완화 가능성",
-    "link": "https://www.cnbc.com/2026/10/16/norway-sovereign-wealth-fund-defense-investment.html",
-    "published": "Fri, 16 Oct 2026 10:56:47 GMT",
-    "fetched_at": "2026-10-16 21:51:58",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "방위산업",
-      "항공우주 및 방산"
-    ],
-    "keywords": [
-      "노르웨이 국부펀드",
-      "방위산업",
-      "투자 규제 완화",
-      "록히드마틴",
-      "보잉"
-    ],
-    "reason": "세계 최대 규모 국부펀드 중 하나인 노르웨이 국부펀드가 방위산업 투자 규제를 완화하면 해당 섹터에 대한 대규모 자금 유입이 예상되며, 이는 관련 기업들의 주가에 긍정적인 영향을 미칠 수 있습니다.",
-    "action_point": "글로벌 방위산업 섹터 투자 비중 확대를 검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "국제유가 상승세에도 11차 석유 최고가격 동결 - MBC 뉴스",
-    "title_ko": "국제유가 상승세에도 11차 석유 최고가격 동결",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1rY1B3ckxKdGg3Z2t0OHRTSUVjWUxCeGsxZXdVaTVkdzBCVloyTW5fTUxQbFQ3SjJrZkVuNUJjOFlZcVVtY2tBRG0xclBhVm5zTTQ4Z2t5NXJJZ2lIbzhlWlE4SGRKbEdjdFNLMU5PLTZneHhY0gF0QVVfeXFMUC1zNkViYVRfX0RxVWphOGRsZ2N2R0xNSjlMRW1MellRU2dmSHA0bDV1UjY2RmFDLUF6dV9RRmhxTG1DY21UTzhLQ0xVU2VMWVRSalgzMGVTWHo4TGhWajNXRW1CeDFkelhEU2NlM3YwZ0VLRTE?oc=5",
-    "published": "Fri, 16 Oct 2026 09:00:07 GMT",
-    "fetched_at": "2026-10-16 21:52:27",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "소비재",
-      "유통",
-      "운송",
-      "항공",
-      "정유",
-      "화학"
-    ],
-    "keywords": [
-      "국제유가",
-      "물가안정",
-      "석유가격 동결",
-      "소비자물가",
-      "인플레이션"
-    ],
-    "reason": "국제유가 상승에도 불구하고 국내 석유 최고가격이 동결되어 국내 물가 상승 압력이 완화되고 소비자 구매력이 유지될 수 있습니다. 이는 전반적인 경제의 인플레이션 부담을 줄이는 긍정적 효과를 가져옵니다.",
-    "action_point": "유류비 부담 감소로 국내 소비 및 운송 관련 섹터의 투자심리 개선 여부를 주시하고, 정유/화학 섹터의 단기 실적 영향은 추가 확인하라."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Stocks making the biggest moves premarket: Tesla, SpaceX, Alcoa, CoreWeave, Travelers & more",
-    "title_ko": "프리마켓에서 가장 큰 움직임을 보이는 주식: 테슬라, 스페이스X, 알코아, 코어위브, 트래블러스 등",
-    "link": "https://www.cnbc.com/2026/10/16/stocks-making-the-biggest-moves-premarket-tsla-spcx-aa-crwv.html",
-    "published": "Fri, 16 Oct 2026 11:43:42 GMT",
-    "fetched_at": "2026-10-16 21:51:40",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "자동차",
-      "기술",
-      "소재",
-      "금융",
-      "항공우주"
-    ],
-    "keywords": [
-      "프리마켓",
-      "주식 움직임",
-      "개별 종목",
-      "테슬라"
-    ],
-    "reason": "본 기사는 주요 기업들의 프리마켓 주가 변동을 보여주며, 시장의 개별 종목 관심과 특정 섹터의 단기 모멘텀 변화 가능성을 시사합니다. 거시경제적 영향보다는 개별 기업 및 섹터에 대한 투자자 심리를 반영합니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Europe's answer to SpaceX pops 19% as Ukraine's Starshield limits raise concerns",
-    "title_ko": "유럽의 스페이스X 경쟁사, 우크라이나 스타쉴드 한계 논란 속 19% 급등",
-    "link": "https://www.cnbc.com/2026/10/16/eutelsat-starshield-ukraine-spacex.html",
-    "published": "Fri, 16 Oct 2026 12:16:24 GMT",
-    "fetched_at": "2026-10-16 21:52:15",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "위성 통신",
-      "방위산업"
-    ],
-    "keywords": [
-      "위성 통신",
-      "Eutelsat",
-      "Starshield",
-      "우크라이나 전쟁"
-    ],
-    "reason": "Eutelsat 주가 급등은 경쟁사 Starshield의 우크라이나 내 성능 한계 노출에 기인하며, 이는 위성 통신 시장 내 경쟁 구도 변화 및 방위 산업에서의 위성 기술 중요성 부각을 시사합니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "One Singapore ship was sunk, but here's why others are still transiting the Strait of Hormuz",
-    "title_ko": "싱가포르 선박 한 척 침몰에도 불구하고, 다른 선박들이 호르무즈 해협을 계속 통과하는 이유",
-    "link": "https://www.cnbc.com/2026/10/16/strait-hormuz-singapore-ships-attacked.html",
-    "published": "Fri, 16 Oct 2026 05:56:28 GMT",
-    "fetched_at": "2026-10-16 16:41:46",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "해운",
-      "보험",
-      "물류"
-    ],
-    "keywords": [
-      "호르무즈 해협",
-      "지정학적 리스크",
-      "해상 운송",
-      "국제 유가",
-      "운임 상승"
-    ],
-    "reason": "호르무즈 해협에서의 선박 공격은 핵심 원유 수송로의 지정학적 리스크를 높여 해상 운송 비용 및 보험료 상승, 나아가 국제 유가 변동성 확대로 이어질 수 있습니다.",
-    "action_point": "에너지 원자재 및 해운 섹터의 지정학적 리스크 노출도를 재점검."
   }
 ]
