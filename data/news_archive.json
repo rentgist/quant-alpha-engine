@@ -2,6 +2,105 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "Under-the-radar stocks to play the next leg of the energy trade with oil prices jumping again",
+    "title_ko": "유가 재상승에 대비한 에너지 섹터 내 저평가 주식 발굴",
+    "link": "https://www.cnbc.com/2026/10/22/under-the-radar-stocks-to-play-the-next-leg-of-the-energy-trade-with-oil-prices-jumping-again.html",
+    "published": "Thu, 22 Oct 2026 15:16:05 GMT",
+    "fetched_at": "2026-10-23 00:45:07",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "원자재",
+      "방산"
+    ],
+    "keywords": [
+      "유가",
+      "이란",
+      "지정학적 리스크",
+      "에너지",
+      "인플레이션"
+    ],
+    "reason": "이란의 경제적 어려움이 지정학적 불안정을 심화시키며 유가 상승 압력을 높이고 있다. 이는 글로벌 인플레이션 우려를 가중하고 지정학적 리스크 프리미엄 상승으로 시장 변동성을 키울 수 있다.",
+    "action_point": "유가 상승에 대비한 에너지 섹터 투자 기회를 모색하고, 지정학적 리스크 확산에 따른 인플레이션 헤지 전략을 검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[속보]뉴욕증시, AI 불안에 하락 출발…나스닥 1.4%↓ - 문화일보",
+    "title_ko": "[속보]뉴욕증시, AI 불안에 하락 출발…나스닥 1.4%↓",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE84Q2J2eElsNmtKWUFVWEptblNvQWVvXzNpQ2t1UlMtSWRwNURUVnpLcjNES1pkaUV3NmxkR05vY3Rvc00wT0djV1dsQjJ4aGdM?oc=5",
+    "published": "Thu, 22 Oct 2026 14:36:53 GMT",
+    "fetched_at": "2026-10-23 00:45:15",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "기술주",
+      "반도체",
+      "성장주"
+    ],
+    "keywords": [
+      "뉴욕증시",
+      "나스닥",
+      "AI 불안",
+      "기술주 하락"
+    ],
+    "reason": "뉴욕증시, 특히 나스닥의 AI 불안에 따른 하락은 AI 관련 고평가 기술주에 대한 투자자들의 경계심이 커지고 있음을 시사합니다. 이는 단기적인 기술주 조정의 시작점이 될 수 있으며 글로벌 기술주 전반에 부정적 영향을 미 미칠 수 있습니다.",
+    "action_point": "AI 관련 기술주 비중 축소 또는 차익 실현을 검토하고, 국내 관련 섹터의 동반 조정을 주시하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "좌파세력이냐 이민자냐 프랑스시위 배후논란…재정위기는 모르쇠",
+    "title_ko": "좌파세력이냐 이민자냐 프랑스시위 배후논란…재정위기는 모르쇠",
+    "link": "https://www.mk.co.kr/news/world/12183521",
+    "published": "Thu, 22 Oct 2026 23:25:15 +09:00",
+    "fetched_at": "2026-10-23 00:45:24",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "유럽 소비재",
+      "유럽 금융",
+      "여행/항공"
+    ],
+    "keywords": [
+      "프랑스 시위",
+      "유럽 정치 불안",
+      "재정 불확실성",
+      "고물가"
+    ],
+    "reason": "프랑스 시위가 유럽 전역으로 확산되면서 유럽 경제 활동 위축과 정치적 불안정성이 심화될 수 있습니다. 이는 유로존의 재정 건전성 우려를 가중시켜 시장 전반의 위험 회피 심리를 자극할 가능성이 높습니다.",
+    "action_point": "유럽 경기 둔화 및 정치적 불안정성 확산에 대비하여 유럽 관련 자산 비중 축소를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Musk's clash with Ukraine accelerates demand for Starlink alternatives. Few exist",
+    "title_ko": "머스크와 우크라이나의 갈등으로 스타링크 대안 수요 가속화, 하지만 대안은 거의 없어",
+    "link": "https://www.cnbc.com/2026/10/22/elon-musk-ukraine-starlink-alternatives.html",
+    "published": "Thu, 22 Oct 2026 15:08:47 GMT",
+    "fetched_at": "2026-10-23 00:44:53",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "우주항공/위성 통신",
+      "방산",
+      "정보기술"
+    ],
+    "keywords": [
+      "머스크",
+      "스타링크",
+      "우크라이나",
+      "위성 통신",
+      "지정학",
+      "대안"
+    ],
+    "reason": "머스크와 우크라이나의 갈등은 위성 통신 서비스의 안정성 및 지정학적 리스크를 부각시키며, 주요국들의 특정 기술 공급자에 대한 의존도 재평가로 이어질 것입니다. 이는 위성 통신 분야의 새로운 경쟁 구도와 기술 개발 수요를 촉진할 가능성이 있습니다.",
+    "action_point": "스타링크 대체 위성 통신 기술 개발 기업 및 군사 위성 통신 관련 섹터에 대한 투자 기회 모색"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "U.S. pulls diplomats from Saudi Arabia as it reportedly readies Iran strikes after midterms",
     "title_ko": "미국, 중간선거 후 이란 공격 준비설 제기되자 사우디아라비아에서 외교관 철수",
     "link": "https://www.cnbc.com/2026/10/22/us-iran-trump-hormuz-.html",
@@ -2908,104 +3007,5 @@
     ],
     "reason": "영란은행 고위 관계자의 경고는 헤지펀드의 레버리지 활동이 글로벌 채권시장의 시스템적 리스크를 높일 수 있음을 시사한다. 이는 전반적인 금융 시장의 변동성 증가와 유동성 경색 우려로 이어질 수 있다.",
     "action_point": "글로벌 채권 시장 및 전반적인 금융 시스템의 잠재적 리스크 증가에 대비하여 포트폴리오의 안전 자산 비중 유지 및 유동성 확보를 검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "이스라엘 정착민, 서안서 유럽 외교단 공격...국제사회 규탄 - YTN",
-    "title_ko": "이스라엘 정착민, 서안서 유럽 외교단 공격...국제사회 규탄",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5RZWtVWk9wRVpKZ1JnVUZjUmc0djdPbFpRYVd2WHVoUkFTZ09yMmlIUHNPMkxsd1cwMmpvR1ZzQVRBUXBnc3YyREszZmE0Y0xTWXp0UDR2YnFGbWQ1aVRJdm93S1JhRG9jVWlWYU1oNA?oc=5",
-    "published": "Sun, 18 Oct 2026 03:15:00 GMT",
-    "fetched_at": "2026-10-18 16:34:04",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "원자재",
-      "방산"
-    ],
-    "keywords": [
-      "이스라엘",
-      "팔레스타인",
-      "서안지구",
-      "지정학적 리스크",
-      "중동",
-      "유럽 외교단"
-    ],
-    "reason": "이스라엘-팔레스타인 분쟁 지역의 지정학적 긴장이 고조되고 있으며, 유럽 외교단 공격은 국제사회의 우려를 심화시켜 중동 불안정성을 높인다. 이는 글로벌 투자 심리 위축 및 유가 변동성 확대로 이어질 수 있다.",
-    "action_point": "중동 지정학적 리스크 심화에 따른 유가 변동성 확대 대비, 에너지 관련 자산 비중을 점검하고 안전자산 확보를 고려하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "\"中지방정부들, '드론 경제' 지원 잇따라 중단…악성경쟁 정리\" - 연합뉴스",
-    "title_ko": "中지방정부들, '드론 경제' 지원 잇따라 중단…악성경쟁 정리",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHX3hoSVNmQmpYMVl0UzlWN3hsbVVNZkxPLV9BeHl3YXhKdTlFdlpDVk11YzZSWnI5MjJLYTlzSk5GVE51LXBCNHdCOW51TS11R0NEVEhBQ3ZEYzDSAWBBVV95cUxOX3JsenluVlRBY3R5czJIY2RGdFVIV0JOSDJYYXhlNTljRG5uV3VHMzV2NVBqeUVBNXlXWGczWTY2RUo2bUJNUXpEaTYwZFN0eXA1a3prRjN5SHdpMGNXdlE?oc=5",
-    "published": "Sun, 18 Oct 2026 03:53:17 GMT",
-    "fetched_at": "2026-10-18 16:34:24",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "기술주",
-      "산업재",
-      "IT하드웨어"
-    ],
-    "keywords": [
-      "중국 지방정부",
-      "드론 경제",
-      "지원 중단",
-      "악성경쟁",
-      "산업 구조조정"
-    ],
-    "reason": "중국 지방정부의 드론 산업 지원 중단은 해당 분야의 악성 경쟁 해소와 구조조정을 의미하며, 장기적으로는 산업 건전성을 높이나 단기적으로는 해당 섹터의 성장 둔화를 초래할 수 있습니다. 한국 시장에 미치는 직접적인 영향은 제한적입니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "실적은 역대급인데 주가는 금융위기 수준…\"코스피의 역설\" - 연합인포맥스",
-    "title_ko": "실적은 역대급인데 주가는 금융위기 수준…\"코스피의 역설\"",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9SRS1nQWNfLVI5X0V4S3dWY2NoS2xfakhYeDliNGJPS25IaW1BTWhiV1JpcEstRXYtMTlrN05wTG1ISE5mR19VaWF0U0lBU0lMazNZUGhvVDd2Ym9PMjBGWXJrWUVEeEh6bWwxd09mOUQ?oc=5",
-    "published": "Sun, 18 Oct 2026 00:30:08 GMT",
-    "fetched_at": "2026-10-18 11:09:55",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "전반적 시장",
-      "가치주"
-    ],
-    "keywords": [
-      "코스피",
-      "기업 실적",
-      "주가 저평가",
-      "밸류업"
-    ],
-    "reason": "코스피 전체의 심각한 저평가와 기업 실적 간 괴리가 심화되고 있음을 시사하며, 이는 국내 증시의 구조적 문제 및 투자 심리 위축을 반영합니다.",
-    "action_point": "명확한 밸류업 계획을 가진 저PBR/저PER 기업군에 대한 심층 분석 및 선별적 투자 기회 모색."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "제주 국제 카지노 정책포럼, 지역 상생·관광 연계 방안 찾는다 - 헤드라인제주",
-    "title_ko": "제주 국제 카지노 정책포럼, 지역 상생·관광 연계 방안 찾는다",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE41ZGJBalBQSWpubm1tcl9HdEtWd3JUalZsZjhhSEhKOXZ6OGRZYlZJdlhDNHBOWWhXSW5zNWRpMGRlSTFDZWJSMzk0SlQ5S05vcFhKaXJ0bEFCam5OYTF2NElkLUthSXBHYi11aEhFUjNIMEU?oc=5",
-    "published": "Sun, 18 Oct 2026 00:20:12 GMT",
-    "fetched_at": "2026-10-18 11:10:02",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "카지노",
-      "관광",
-      "레저",
-      "호텔"
-    ],
-    "keywords": [
-      "제주",
-      "카지노",
-      "정책포럼",
-      "관광",
-      "지역상생"
-    ],
-    "reason": "제주 국제 카지노 정책포럼은 지역 상생 및 관광 연계 방안을 모색하는 자리로, 제주 지역 카지노 및 관광 산업의 장기적인 방향성을 논의하는 수준이다. 당장 시장에 직접적인 영향을 미 미치는 정책 변화나 투자 촉진 요인은 아니다.",
-    "action_point": "해당 없음"
   }
 ]
