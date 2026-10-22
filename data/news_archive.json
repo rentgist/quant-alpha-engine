@@ -2,6 +2,148 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "Trump asked Musk to lift Starlink slowdown, WSJ reports",
+    "title_ko": "트럼프, 머스크에게 스타링크 속도 저하 해제 요청했다고 WSJ 보도",
+    "link": "https://www.cnbc.com/2026/10/22/trump-musk-starlink-ukraine.html",
+    "published": "Thu, 22 Oct 2026 19:05:32 GMT",
+    "fetched_at": "2026-10-23 04:38:33",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "방산",
+      "위성통신",
+      "기술",
+      "지정학"
+    ],
+    "keywords": [
+      "트럼프",
+      "머스크",
+      "스타링크",
+      "우크라이나 전쟁",
+      "위성 통신"
+    ],
+    "reason": "이 소식은 주요 민간 기술 기업의 서비스가 정치적 압력과 지정학적 갈등에 미치는 영향력을 보여주며, 우크라이나 전쟁 관련 핵심 커뮤니케이션 인프라의 안정성에 대한 불확실성을 가중시킵니다.",
+    "action_point": "지정학적 리스크가 높은 방산 및 위성 통신 관련 기업의 장기 투자 매력도를 재평가."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "AI debt and French bonds face a stress test — why it may not be over",
+    "title_ko": "AI 관련 부채와 프랑스 국채가 스트레스 테스트에 직면 — 불안감은 끝나지 않을 수도 있다",
+    "link": "https://www.cnbc.com/2026/10/22/ai-debt-and-french-bonds-stress-test.html",
+    "published": "Thu, 22 Oct 2026 18:13:37 GMT",
+    "fetched_at": "2026-10-23 04:38:42",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "금융",
+      "기술/AI",
+      "유럽 채권",
+      "유럽 주식"
+    ],
+    "keywords": [
+      "AI 부채",
+      "프랑스 국채",
+      "유럽 채권 시장",
+      "자금 조달 비용",
+      "신용 위험"
+    ],
+    "reason": "AI 관련 투자에 대한 자금 조달 비용 상승 가능성과 주요 유럽 국가의 국채 불안은 글로벌 채권 시장의 변동성을 키우고 전반적인 금융 환경을 악화시킬 수 있습니다.",
+    "action_point": "유럽 국채 시장 변동성 확대에 대비하여 채권 포트폴리오의 듀레이션을 단축하고 달러화 안전자산 비중을 검토하십시오."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Meta stock sinks 8% as AI spend pushes free cash flow negative",
+    "title_ko": "메타 주가, AI 지출로 잉여현금흐름 마이너스 전환되며 8% 급락",
+    "link": "https://www.cnbc.com/2026/10/22/meta-stock-q3-earnings-free-cash-flow.html",
+    "published": "Thu, 22 Oct 2026 19:11:23 GMT",
+    "fetched_at": "2026-10-23 04:38:24",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "기술",
+      "인터넷 서비스",
+      "AI"
+    ],
+    "keywords": [
+      "메타",
+      "AI 투자",
+      "잉여현금흐름",
+      "주가 하락",
+      "신용 우려"
+    ],
+    "reason": "대형 기술 기업의 공격적인 AI 투자가 단기적으로는 수익성을 악화시키고 신용 리스크를 높일 수 있음을 시사한다. 이는 AI 관련 기업들의 과도한 밸류에이션에 대한 시장의 경계심을 키울 수 있다.",
+    "action_point": "고성장 AI 관련 기술주에 대한 투자 비중 재검토"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Pharma's 'information arms dealer' is up nearly 80% from an April low. Josh Brown sees more gains",
+    "title_ko": "제약 부문의 '정보 무기 딜러' 주가 4월 저점 대비 80% 가까이 상승, 조쉬 브라운은 추가 상승을 예상",
+    "link": "https://www.cnbc.com/2026/10/22/pharmas-information-arms-dealer-is-up-nearly-80percent-from-an-april-low-josh-brown-sees-more-gains.html",
+    "published": "Thu, 22 Oct 2026 15:33:22 GMT",
+    "fetched_at": "2026-10-23 04:38:53",
+    "sentiment": "호재",
+    "importance": 2,
+    "sectors": [
+      "제약/바이오",
+      "헬스케어"
+    ],
+    "keywords": [
+      "제약",
+      "헬스케어",
+      "주가 상승",
+      "조쉬 브라운",
+      "정보 기술"
+    ],
+    "reason": "이 뉴스는 특정 헬스케어 기업의 주가 강세와 애널리스트의 긍정적 전망을 제시하며, 헬스케어 섹터 내 선별적 투자 기회가 있음을 시사합니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "이 대통령 \"우리 경제 새로운 도약 기회…국민 체감할 수 있도록 전력\" - 대한민국 정책브리핑",
+    "title_ko": "이 대통령 \"우리 경제 새로운 도약 기회…국민 체감할 수 있도록 전력\"",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeE5MSWZRdjQ2eHZTbDBfaU96VDNBbER1QTF3X0c5dXAyc0EwMVl2RGV1OWRsc2FIVS16RWxpWGtvR19KU1pJTnVyald2NFFRR3lMWk1MMEliclhBdzlnNzJoQk54VWt3cWZXRGw1UEl6U2tHT29MZ2VCaFN4Wm9sdTNHWDBpU0pVM2c?oc=5",
+    "published": "Thu, 22 Oct 2026 09:05:29 GMT",
+    "fetched_at": "2026-10-23 04:39:07",
+    "sentiment": "호재",
+    "importance": 2,
+    "sectors": [],
+    "keywords": [
+      "대통령",
+      "경제 성장",
+      "정책 방향"
+    ],
+    "reason": "대통령의 발언은 한국 경제의 잠재적 성장 기회와 국민 체감 개선에 대한 의지를 표명하는 일반적인 메시지입니다. 구체적인 정책 발표나 시장을 움직일 만한 내용은 포함하고 있지 않아 단기적인 시장 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[AI시대 강원경제 대도약]“민생 지키고 기업 키우고” 살아나는 경제 돌아오는 청년 - 강원일보",
+    "title_ko": "[AI시대 강원경제 대도약]“민생 지키고 기업 키우고” 살아나는 경제 돌아오는 청년 - 강원일보",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12eHhWMGp3ZGExS1AwTmpEQjdyeTlLVUNTSnppdXFmdDZUdElPUjRqeTlQenFTUGFFSWZiLU13SDdwdTBGdEdFWUQwNFVUYWVxZTFmelg3T3JHbkk?oc=5",
+    "published": "Thu, 22 Oct 2026 15:00:00 GMT",
+    "fetched_at": "2026-10-23 04:39:16",
+    "sentiment": "호재",
+    "importance": 2,
+    "sectors": [
+      "지역경제",
+      "정보통신기술"
+    ],
+    "keywords": [
+      "AI",
+      "강원경제",
+      "지역균형발전"
+    ],
+    "reason": "강원도 지역 경제 활성화와 AI 기반 산업 육성 기대를 높이는 긍정적인 뉴스이나, 국내 전체 시장이나 거시 경제에 미치는 직접적인 영향은 제한적이다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "Under-the-radar stocks to play the next leg of the energy trade with oil prices jumping again",
     "title_ko": "유가 재상승에 대비한 에너지 섹터 내 저평가 주식 발굴",
     "link": "https://www.cnbc.com/2026/10/22/under-the-radar-stocks-to-play-the-next-leg-of-the-energy-trade-with-oil-prices-jumping-again.html",
@@ -2862,150 +3004,5 @@
     ],
     "reason": "유럽 주요국 전역에서 확산되는 대규모 시위는 사회적 불안정을 심화시키고 소비 위축 및 투자 심리 악화로 이어질 수 있습니다. 이는 유로존 경제 회복에 부정적인 영향을 미칠 수 있습니다.",
     "action_point": "유럽 소비재 및 유통 섹터 비중 축소 검토"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "“살림은 엉망인데, 한국 경제 체력 살아난다?”…잠재성장률 40년만에 반전 - 매일경제",
-    "title_ko": "“살림은 엉망인데, 한국 경제 체력 살아난다?”…잠재성장률 40년만에 반전",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Kdzk5a1o1TkpHUzY3aDk5WXpsMjJTN3pYR0o5Xzd0OXVuVFFOaEd2NXlXdWRBTWVqbFhTdkJzazA2NV9IdmV0c3F0NHFmc2dmNTVpMw?oc=5",
-    "published": "Sun, 18 Oct 2026 01:31:24 GMT",
-    "fetched_at": "2026-10-18 21:17:33",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "IT/기술",
-      "제조업",
-      "금융",
-      "내수/소비"
-    ],
-    "keywords": [
-      "잠재성장률",
-      "한국 경제",
-      "경제 체력",
-      "성장률 반전"
-    ],
-    "reason": "한국의 잠재성장률 반전은 단기적인 경제 어려움에도 불구하고 중장기적인 경제 체력 개선을 시사하며, 이는 국내 자산에 대한 투자 매력을 높이는 긍정적인 신호로 해석될 수 있습니다. 장기적 관점에서 한국 경제의 펀더멘털 개선 기대를 높여 국내 주식 시장의 밸류에이션 상승 요인으로 작용할 수 있습니다.",
-    "action_point": "국내 주식 시장에 대한 중장기 투자 비중 확대를 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[기고]트럼프는 왜 클라우제비츠의 ‘전쟁의 마찰과 안개’를 통제 못하는가?…김태준의 美·이란戰 중계 - 문화일보",
-    "title_ko": "[기고]트럼프는 왜 클라우제비츠의 ‘전쟁의 마찰과 안개’를 통제 못하는가?…김태준의 美·이란戰 중계 - 문화일보",
-    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBmNGdMNFVsdlNtYjlqd1Y1Vk5uUmk0NmpEWERCcGE4aEN4VkNvZ2F3Q1dORTlGZ210cTdLQmowMlhDQ2QzcXFDNzFENU1BRVBD?oc=5",
-    "published": "Sun, 18 Oct 2026 12:07:32 GMT",
-    "fetched_at": "2026-10-18 21:17:41",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "방산",
-      "안전자산",
-      "전체 증시"
-    ],
-    "keywords": [
-      "트럼프",
-      "이란",
-      "지정학적 리스크",
-      "전쟁",
-      "유가"
-    ],
-    "reason": "미국-이란 간 지정학적 리스크가 트럼프 행정부의 통제력 부족으로 심화될 수 있음을 시사하며, 이는 국제유가 상승 압력과 전반적인 시장의 불확실성을 높일 수 있습니다.",
-    "action_point": "중동 지정학적 리스크 증가에 대비하여 유가 상승 헤지 및 안전자산 비중 확대를 검토하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "머스크, 2030년 50% 경제성장 예언…“AI가 재정적자 다 해결”",
-    "title_ko": "머스크, 2030년 50% 경제성장 예언…“AI가 재정적자 다 해결”",
-    "link": "https://www.mk.co.kr/news/it/12179096",
-    "published": "Sun, 18 Oct 2026 19:13:06 +09:00",
-    "fetched_at": "2026-10-18 21:18:12",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "기술",
-      "소프트웨어",
-      "반도체"
-    ],
-    "keywords": [
-      "일론 머스크",
-      "AI",
-      "경제성장",
-      "생산성 향상",
-      "기술혁신"
-    ],
-    "reason": "일론 머스크의 AI에 대한 낙관적 전망은 장기적으로 AI 기술이 생산성을 극대화하고 국가 재정 문제를 해결하며 경제 성장을 견인할 잠재력을 다시금 부각시킵니다. 이는 AI 관련 기술 섹터에 대한 지속적인 투자심리 강화를 시사합니다.",
-    "action_point": "AI 기술 리더십을 가진 기업에 대한 포트폴리오 비중을 유지하거나 확대하는 방안을 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "충북 경제 대전환, 역사에서 미래를 찾는다 - 굿모닝충청",
-    "title_ko": "충북 경제 대전환, 역사에서 미래를 찾는다",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1VQnh4cjhvVnZnZlNISVh3UGlzSzJIaTZYODJlSWVkZDkyWXNkT2ZHYVl5NWZQcVcxY212c2xqMGpDcUdYZUk4TVFydmRWQXV3Rktpd0tDUlRaMnJiam9CcXpjeGp2QnA4LWtsM0k5YW90UQ?oc=5",
-    "published": "Sun, 18 Oct 2026 07:14:01 GMT",
-    "fetched_at": "2026-10-18 21:17:59",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [],
-    "keywords": [
-      "충북 경제",
-      "지역 발전",
-      "미래 전략"
-    ],
-    "reason": "충북 지역의 장기적인 경제 전환 및 미래 전략에 대한 기사로, 국가 전체 금융 시장이나 거시 경제 지표에 미치는 즉각적인 영향은 제한적이다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "포켓몬카드만 사는 줄 알았더니…Z세대 컬렉터, 미술시장 ‘큰 손’으로 [김슬기의 아트&머니]",
-    "title_ko": "포켓몬카드만 사는 줄 알았더니…Z세대 컬렉터, 미술시장 ‘큰 손’으로 [김슬기의 아트&머니]",
-    "link": "https://www.mk.co.kr/news/world/12179086",
-    "published": "Sun, 18 Oct 2026 18:30:51 +09:00",
-    "fetched_at": "2026-10-18 21:18:27",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "미술시장",
-      "럭셔리 소비재",
-      "자산관리 서비스"
-    ],
-    "keywords": [
-      "Z세대",
-      "컬렉터",
-      "미술시장",
-      "아트 바젤",
-      "UBS"
-    ],
-    "reason": "Z세대의 미술시장 진입과 구매력 증가는 전통적 자산군 외 대안 투자 자산으로서 미술품의 가치 상승 가능성을 시사하며, 럭셔리 소비 트렌드 변화를 나타냅니다.",
-    "action_point": "고액 자산가의 대안 투자 포트폴리오 내 미술품 비중 확대를 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Why hedge funds could be making a bond market shock more likely",
-    "title_ko": "헤지펀드가 채권시장 충격 가능성을 높이는 이유",
-    "link": "https://www.cnbc.com/2026/10/18/hedge-funds-bond-market-turmoil.html",
-    "published": "Sun, 18 Oct 2026 06:13:05 GMT",
-    "fetched_at": "2026-10-18 16:33:49",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "금융",
-      "채권시장",
-      "증권"
-    ],
-    "keywords": [
-      "헤지펀드",
-      "채권시장",
-      "영란은행",
-      "글로벌 충격",
-      "시스템 리스크"
-    ],
-    "reason": "영란은행 고위 관계자의 경고는 헤지펀드의 레버리지 활동이 글로벌 채권시장의 시스템적 리스크를 높일 수 있음을 시사한다. 이는 전반적인 금융 시장의 변동성 증가와 유동성 경색 우려로 이어질 수 있다.",
-    "action_point": "글로벌 채권 시장 및 전반적인 금융 시스템의 잠재적 리스크 증가에 대비하여 포트폴리오의 안전 자산 비중 유지 및 유동성 확보를 검토."
   }
 ]
