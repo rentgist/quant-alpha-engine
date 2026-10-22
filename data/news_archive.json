@@ -1,5 +1,54 @@
 [
   {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "“2년여 만에 100만발 육박”…北, DMZ에 지뢰 대량 매설",
+    "title_ko": "“2년여 만에 100만발 육박”…北, DMZ에 지뢰 대량 매설",
+    "link": "https://www.mk.co.kr/news/politics/12183747",
+    "published": "Fri, 23 Oct 2026 07:05:24 +09:00",
+    "fetched_at": "2026-10-23 07:52:59",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "방산",
+      "관광/레저",
+      "전반적인 국내 증시"
+    ],
+    "keywords": [
+      "북한",
+      "지정학적 리스크",
+      "DMZ",
+      "안보",
+      "지뢰"
+    ],
+    "reason": "북한의 DMZ 지뢰 대량 매설은 한반도의 지정학적 긴장을 고조시키고, 국내 자산에 대한 투자 심리를 위축시켜 '코리아 디스카운트'를 심화할 수 있으며, 이는 국내 금융시장의 변동성을 키울 요인이다.",
+    "action_point": "한반도 지정학적 리스크 심화에 따른 국내 증시 변동성 확대에 대비, 국내 자산 비중 축소를 검토하고 달러 등 안전자산 비중을 늘려라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "\"北, 中·러 덕에 경제회복 기회…시장지향적 개혁 유인은 약화\" - 연합뉴스",
+    "title_ko": "北, 中·러 덕에 경제회복 기회…시장지향적 개혁 유인은 약화",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iMkZXcGx0dzM2SGlKckxDZ3RfNE82LUhUSVFOSGUtdHFDVkNPS3pzR2pnbUZPcjVCNUNzT0Q1ZVZWOFhRZFdtZUNleDhBdDVhVnVXSHJOWG5qZlnSAWBBVV95cUxOZjNmOGVUcWNYbUN4RFB1dmNBS25MT0hfLTJTVEtjUG1HOWtFZVVqZG1lbklLS1k0RkhWcWFFTG5FX242SjdwYll3djZxS3R3ZkZKeXJrNWN2RmNXMm85czE?oc=5",
+    "published": "Thu, 22 Oct 2026 15:24:39 GMT",
+    "fetched_at": "2026-10-23 07:52:41",
+    "sentiment": "악재",
+    "importance": 2,
+    "sectors": [
+      "지정학적 리스크 관련 섹터"
+    ],
+    "keywords": [
+      "북한",
+      "중국",
+      "러시아",
+      "경제 회복",
+      "시장 개혁",
+      "지정학"
+    ],
+    "reason": "북한이 중-러 지원으로 자립적 경제회복 기회를 얻어 시장 개혁 유인이 줄어드는 것은 북한의 현 지정학적 고립을 심화시키고 장기적 한반도 비핵화 및 평화 정착에 부정적인 신호로 해석될 수 있습니다. 단기적 시장 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "Trump asked Musk to lift Starlink slowdown, WSJ reports",
@@ -2955,54 +3004,5 @@
     ],
     "reason": "월 배당 옵션 ETF가 은퇴 자금 마련을 위한 주요 수단으로 각광받고 있으나, 예상치 못한 세금 부담으로 인해 실질 소득이 줄어들 수 있다는 경고이다. 이는 해당 상품의 인기에 제동을 걸 수 있으며, 투자자들의 자산 배분 전략 재검토를 유도할 수 있다.",
     "action_point": "월 배당 옵션 ETF 투자자 및 투자 고려자는 해당 상품의 세금 구조를 면밀히 분석하여 순소득 감소 가능성을 점검하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "대구 중견건설사, 강남 한복판 데이터센터 짓는다…뭐가 특별하길래",
-    "title_ko": "대구 중견건설사, 강남 한복판 데이터센터 짓는다…뭐가 특별하길래",
-    "link": "https://www.mk.co.kr/news/realestate/12179129",
-    "published": "Sun, 18 Oct 2026 23:28:18 +09:00",
-    "fetched_at": "2026-10-19 04:06:29",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "건설",
-      "IT 인프라"
-    ],
-    "keywords": [
-      "데이터센터",
-      "건설",
-      "서한",
-      "첨단 인프라",
-      "디지털 전환"
-    ],
-    "reason": "대구 중견건설사 서한의 데이터센터 수주 소식은 건설업체가 주택·토목 중심에서 AI 및 디지털 전환 시대의 핵심 인프라 분야로 사업 영역을 확장하는 추세를 보여줍니다. 이는 개별 기업의 성장 동력 확보는 물론 건설 섹터 전반의 새로운 활로를 제시할 수 있습니다.",
-    "action_point": "건설 섹터 내 디지털 전환 관련 첨단 인프라 사업 확장 기업의 투자 매력도를 재평가하고, 포트폴리오 편입을 검토하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "거리 뛰쳐나온 55만명, 다 불태우고 약탈…분노로 들끓는 유럽 왜",
-    "title_ko": "거리 뛰쳐나온 55만명, 다 불태우고 약탈…분노로 들끓는 유럽 왜",
-    "link": "https://www.mk.co.kr/news/world/12179128",
-    "published": "Sun, 18 Oct 2026 23:27:27 +09:00",
-    "fetched_at": "2026-10-19 01:14:11",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "유통/소매",
-      "관광/레저",
-      "소비재"
-    ],
-    "keywords": [
-      "유럽 시위",
-      "사회 불안",
-      "프랑스",
-      "생활비",
-      "유럽 경제"
-    ],
-    "reason": "유럽 주요국 전역에서 확산되는 대규모 시위는 사회적 불안정을 심화시키고 소비 위축 및 투자 심리 악화로 이어질 수 있습니다. 이는 유로존 경제 회복에 부정적인 영향을 미칠 수 있습니다.",
-    "action_point": "유럽 소비재 및 유통 섹터 비중 축소 검토"
   }
 ]
