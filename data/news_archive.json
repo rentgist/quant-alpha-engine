@@ -2,6 +2,82 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "Defense giant Saab sees orders triple after Gripen fighter jet deal with Ukraine",
+    "title_ko": "방위산업 거인 사브, 우크라이나 그리펜 전투기 계약 후 주문량 3배 증가",
+    "link": "https://www.cnbc.com/2026/10/23/saab-q3-earnings-figther-jet-maker-beats-expectations-as-orders-triple.html",
+    "published": "Fri, 23 Oct 2026 06:15:54 GMT",
+    "fetched_at": "2026-10-23 15:45:07",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "방위산업",
+      "항공우주",
+      "정부 조달"
+    ],
+    "keywords": [
+      "사브",
+      "방위산업",
+      "그리펜 전투기",
+      "우크라이나",
+      "국방비 지출",
+      "유럽"
+    ],
+    "reason": "지정학적 긴장 고조와 유럽 정부의 국방력 강화 노력으로 방위산업 제품 수요가 급증하고 있음을 보여준다. 이는 글로벌 방위산업 섹터의 지속적인 성장을 시사한다.",
+    "action_point": "방위산업 관련 기업 및 ETF 비중 확대를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Stock futures trade mixed after tech sector sell-off: Live updates",
+    "title_ko": "기술주 매도세 이후 주식 선물 혼조세: 실시간 업데이트",
+    "link": "https://www.cnbc.com/2026/10/22/stock-market-today-live-update.html",
+    "published": "Fri, 23 Oct 2026 06:30:44 GMT",
+    "fetched_at": "2026-10-23 15:45:18",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "기술주",
+      "성장주",
+      "반도체",
+      "증시 전반"
+    ],
+    "keywords": [
+      "기술주",
+      "나스닥",
+      "매도세",
+      "주식 선물"
+    ],
+    "reason": "나스닥 기술주 중심의 매도세는 고평가 논란, 금리 인상 우려 등 복합적 요인으로 글로벌 성장주 전반의 투자심리 위축을 야기하고 있습니다. 이는 당분간 증시의 변동성을 확대시키는 요인으로 작용할 수 있습니다.",
+    "action_point": "고밸류에이션 기술주 및 성장주 비중 축소를 검토하고, 안정적인 현금 흐름을 가진 기업을 선별하십시오."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "코스닥 하락 마감, 751.69P (-1.62%↓) 코스닥 출판·매체복제, 코스닥 금융 등 하락 주도",
+    "title_ko": "코스닥 하락 마감, 751.69P (-1.62%↓) 코스닥 출판·매체복제, 코스닥 금융 등 하락 주도",
+    "link": "https://www.mk.co.kr/news/stock/12184199",
+    "published": "Fri, 23 Oct 2026 15:37:41 +09:00",
+    "fetched_at": "2026-10-23 15:45:34",
+    "sentiment": "악재",
+    "importance": 2,
+    "sectors": [
+      "코스닥",
+      "중소형주",
+      "출판·매체복제",
+      "금융"
+    ],
+    "keywords": [
+      "코스닥",
+      "시장 하락",
+      "중소형주",
+      "위험회피"
+    ],
+    "reason": "코스닥 시장 전반의 하락은 투자자들의 위험 회피 심리가 확산되고 있음을 시사하며, 특히 중소형 성장주 및 일부 섹터(출판/매체복제, 금융)에 대한 매도 압력이 강화된 것으로 보인다.",
+    "action_point": "국내 중소형 성장주 비중 축소를 검토하고, 안정적인 대형주 또는 가치주로의 포트폴리오 조정을 고려하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "SK Hynix shares slide after chipmaker scraps Solidigm IPO plans",
     "title_ko": "SK하이닉스, 솔리다임 미국 IPO 계획 철회 후 주가 하락",
     "link": "https://www.cnbc.com/2026/10/23/sk-hynix-solidigm-ipo-.html",
@@ -2922,86 +2998,5 @@
     ],
     "reason": "국내 일차의료 시스템의 구조적 문제점을 부각하며, 행정 과부하로 인한 서비스 질 저하 및 공급 위축 가능성을 시사합니다. 이는 향후 의료 정책 변화 및 의료 서비스 공급 구조 재편으로 이어질 수 있습니다.",
     "action_point": "국내 일차의료 관련 기업들의 투자 리스크를 재평가하고, 의료 시스템 변화에 따른 정책 수혜 업종 및 기업을 주시하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[중국증시 주간 포인트] 中 3Q GDP∙9월 실물경제 지표, 금융가포럼, APEC 재무장관회의, 엔비디아 GTC, 자율주행∙AI칩 관련 행사, 미국&중국증시 어닝시즌 - 뉴스핌",
-    "title_ko": "[중국증시 주간 포인트] 中 3Q GDP∙9월 실물경제 지표, 금융가포럼, APEC 재무장관회의, 엔비디아 GTC, 자율주행∙AI칩 관련 행사, 미국&중국증시 어닝시즌 - 뉴스핌",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE93VmVZNGxjVkdwRmxoMkdSYW5oaEF5UlZTOG1RZWw2U0NSY2lKZXZaLTV5RFczVmZ1UWwtWWQ3VkNaeXVrcWhzTnk4WVV2dmZyb3lnVy0tUkdkc3Ax?oc=5",
-    "published": "Sun, 18 Oct 2026 10:16:00 GMT",
-    "fetched_at": "2026-10-19 04:06:19",
-    "sentiment": "중립",
-    "importance": 5,
-    "sectors": [
-      "반도체",
-      "AI",
-      "자율주행",
-      "기술주",
-      "중국",
-      "이머징 마켓",
-      "글로벌 경제"
-    ],
-    "keywords": [
-      "중국 GDP",
-      "실물경제 지표",
-      "APEC",
-      "엔비디아 GTC",
-      "AI칩",
-      "어닝시즌",
-      "거시경제"
-    ],
-    "reason": "이번 주에는 중국의 핵심 경제 지표와 미국 및 중국 기업들의 실적 발표가 글로벌 거시 경제 방향과 기업 펀더멘털을 결정하며, 엔비디아 GTC를 통해 AI 및 반도체 섹터의 미래 성장 동력이 제시될 예정이다. 이는 전반적인 시장 변동성을 높일 핵심 촉매제가 될 것이다.",
-    "action_point": "미중 경제 지표 및 기업 실적 발표에 따른 시장 변동성 확대에 대비하여, 반도체·AI 관련 기술주 포트폴리오 비중을 점검하고 중국 관련 자산의 리스크 관리를 강화하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Bessent warns Zelenskyy to 'be very careful' about claims U.S. is throttling Starlink",
-    "title_ko": "Bessent는 젤렌스키에게 미국이 스타링크를 억제한다는 주장에 대해 '매우 신중하라'고 경고",
-    "link": "https://www.cnbc.com/2026/10/18/bessent-zelenskyy-starlink-ukarine-war.html",
-    "published": "Sun, 18 Oct 2026 16:44:10 GMT",
-    "fetched_at": "2026-10-19 04:05:49",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "방위산업",
-      "위성 통신"
-    ],
-    "keywords": [
-      "스타링크",
-      "우크라이나",
-      "스페이스X",
-      "지정학",
-      "국방"
-    ],
-    "reason": "이 기사는 우크라이나 방어에 필수적인 스타링크 서비스에 대한 불확실성과 동맹국 간의 잠재적 마찰을 시사한다. 이는 우크라이나 전쟁의 지정학적 리스크를 증대시킬 수 있다.",
-    "action_point": "우크라이나 전쟁의 지정학적 불확실성 증대에 대비하여 안전자산 보유 여부를 점검하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Iran says it has a 'new operational plan' if the U.S. resumes attacks, as shipping vessels report strikes",
-    "title_ko": "이란, 미국 공격 재개 시 '새로운 작전 계획' 경고... 선박 피격 보고도",
-    "link": "https://www.cnbc.com/2026/10/18/iran-us-war-rezaei-operational-plan-shipping-attacks.html",
-    "published": "Sun, 18 Oct 2026 13:52:24 GMT",
-    "fetched_at": "2026-10-19 04:05:58",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "해운/물류",
-      "방산"
-    ],
-    "keywords": [
-      "이란",
-      "미국",
-      "지정학적 리스크",
-      "중동",
-      "유가",
-      "해운"
-    ],
-    "reason": "이란의 미국 공격 재개 시 '새로운 작전 계획' 경고와 선박 피격 보고는 중동 지역의 지정학적 긴장을 고조시키며, 이는 국제 유가 상승 압력과 글로벌 공급망 교란 가능성을 높입니다. 시장의 불확실성이 증가하고 안전자산 선호 심리가 강화될 수 있습니다.",
-    "action_point": "지정학적 리스크 고조로 유가 및 해상 운임 상승 가능성에 대비, 에너지 및 해운 섹터 비중 검토."
   }
 ]
