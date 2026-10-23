@@ -2,6 +2,54 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "Trump dropping some Canada tariffs but 'replacing' them with other products",
+    "title_ko": "트럼프, 캐나다 일부 관세 철회하나 다른 품목으로 '대체' 시사",
+    "link": "https://www.cnbc.com/2026/10/23/trump-tariffs-canada-susan-collins.html",
+    "published": "Fri, 23 Oct 2026 20:48:01 GMT",
+    "fetched_at": "2026-10-24 05:49:05",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "산업재",
+      "소재",
+      "농업"
+    ],
+    "keywords": [
+      "미국-캐나다 무역",
+      "관세",
+      "보호무역주의"
+    ],
+    "reason": "미국이 캐나다에 대한 보호무역 기조를 유지하며 관세 대상을 변경하는 것으로, 무역 긴장의 완전한 해소가 아닌 불확실성 지속을 의미한다. 이는 관련 산업의 공급망 및 수익성에 장기적 압박 요인이 될 수 있다.",
+    "action_point": "미국-캐나다 교역 의존도가 높은 산업재 및 소재 섹터 비중 축소를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Meta shares are down 9% this week. Here's why Mike Khouw is buying now",
+    "title_ko": "메타 주가, 이번 주 9% 하락. 마이크 카우가 지금 매수하는 이유",
+    "link": "https://www.cnbc.com/2026/10/23/meta-shares-rough-week-mike-khouw-is-buying.html",
+    "published": "Fri, 23 Oct 2026 19:25:18 GMT",
+    "fetched_at": "2026-10-24 05:49:14",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "기술",
+      "SNS",
+      "성장주"
+    ],
+    "keywords": [
+      "메타",
+      "주가 하락",
+      "매수 기회",
+      "빅테크",
+      "마이크 카우"
+    ],
+    "reason": "메타 주가의 단기 급락은 개별 기업 이슈이며, 특정 애널리스트의 매수 의견은 하락세 속에서 잠재적 저점 매수 기회를 시사합니다.",
+    "action_point": "메타를 포함한 빅테크 성장주의 가격 조정 시 저가 매수 기회 검토."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "AI's 'Black October': Critical PHP flaws set off global security scramble",
     "title_ko": "AI의 '블랙 옥토버': 심각한 PHP 취약점 유출로 전 세계 보안 비상",
     "link": "https://www.cnbc.com/2026/10/23/php-vulnerabilities-ai-cybersecurity.html",
@@ -2952,51 +3000,5 @@
     ],
     "reason": "미국 국채 금리 하락은 투자자들이 인플레이션 압력 완화를 기대하며 향후 금리 인상 가능성이 줄어들 수 있다는 신호를 반영합니다. 이는 할인율 하락으로 성장주 등 위험자산 가치 평가에 긍정적으로 작용할 수 있습니다.",
     "action_point": "미국 장기 국채 ETF 또는 금리 하락 수혜 성장주 편입을 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Women may be at greater risk of AI job losses. Telephone switch operators and PCs show why.",
-    "title_ko": "여성들이 AI로 인한 일자리 손실 위험에 더 크게 노출될 수 있다. 전화 교환원과 PC의 역사가 그 이유를 보여준다.",
-    "link": "https://www.cnbc.com/2026/10/19/ai-job-losses-women-automation-risk.html",
-    "published": "Mon, 19 Oct 2026 11:20:02 GMT",
-    "fetched_at": "2026-10-19 20:35:55",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "서비스업",
-      "교육/직업훈련"
-    ],
-    "keywords": [
-      "AI",
-      "일자리 손실",
-      "고용",
-      "노동시장"
-    ],
-    "reason": "AI로 인한 장기적인 노동시장 구조 변화와 특정 성별의 고용 불안정성 증가는 잠재적인 사회적 비용 증가 및 소비 위축으로 이어져 경제 전반에 부정적 영향을 미칠 수 있습니다.",
-    "action_point": "AI 자동화에 취약한 서비스업 및 단순 반복 업무 비중이 높은 기업에 대한 투자 비중 축소를 검토하고, AI 기술 개발 및 교육 솔루션 기업 투자를 고려하십시오."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[속보] 北김여정 \"국경 불안...대남 확성기방송 재개 검토\" - 연합뉴스TV",
-    "title_ko": "[속보] 北김여정 \"국경 불안...대남 확성기방송 재개 검토\" - 연합뉴스TV",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qRXRqRGJDRE1WSjdGaGEtWm5xZzY0RUEzcTRaOUFtR1RhUnZoaTJfdENFVmVRb2lNNzNSMUxYYkZYQ3hTVS15MkM2ZFZrakQ5cEhLSlh5SDg5dHhmdWJPYTZ4bS1fZ3M?oc=5",
-    "published": "Mon, 19 Oct 2026 09:28:00 GMT",
-    "fetched_at": "2026-10-19 20:36:06",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "전반적 증시",
-      "방산",
-      "관광"
-    ],
-    "keywords": [
-      "북한",
-      "지정학적 리스크",
-      "대남 확성기"
-    ],
-    "reason": "북한 김여정의 대남 확성기 방송 재개 검토 발언은 남북 관계의 지정학적 긴장을 고조시키며, 국내 증시의 투자심리 위축과 원화 약세 압력으로 작용할 수 있습니다.",
-    "action_point": "방산 섹터 비중 확대 검토 및 원화 약세 헤징 전략 마련."
   }
 ]
