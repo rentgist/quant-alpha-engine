@@ -1,5 +1,29 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "SK Hynix shares slide after chipmaker scraps Solidigm IPO plans",
+    "title_ko": "SK하이닉스, 솔리다임 미국 IPO 계획 철회 후 주가 하락",
+    "link": "https://www.cnbc.com/2026/10/23/sk-hynix-solidigm-ipo-.html",
+    "published": "Fri, 23 Oct 2026 00:53:36 GMT",
+    "fetched_at": "2026-10-23 10:06:22",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "반도체",
+      "IT하드웨어"
+    ],
+    "keywords": [
+      "SK하이닉스",
+      "솔리다임",
+      "IPO 철회",
+      "반도체",
+      "시장 변동성"
+    ],
+    "reason": "SK하이닉스의 솔리다임 IPO 철회는 시장 변동성 및 기업 가치 평가에 대한 우려를 반영하며, 반도체 섹터 전반의 투자 심리에 부정적인 영향을 미칠 수 있습니다. 이는 향후 자금 조달 및 투자 계획에도 잠재적 부담으로 작용할 수 있습니다.",
+    "action_point": "메모리 반도체 섹터 비중 축소 또는 투자 신중 모드 전환을 고려하십시오."
+  },
+  {
     "source": "Maeil_Business",
     "market": "KR",
     "title": "“2년여 만에 100만발 육박”…北, DMZ에 지뢰 대량 매설",
@@ -2979,30 +3003,5 @@
     ],
     "reason": "이란의 미국 공격 재개 시 '새로운 작전 계획' 경고와 선박 피격 보고는 중동 지역의 지정학적 긴장을 고조시키며, 이는 국제 유가 상승 압력과 글로벌 공급망 교란 가능성을 높입니다. 시장의 불확실성이 증가하고 안전자산 선호 심리가 강화될 수 있습니다.",
     "action_point": "지정학적 리스크 고조로 유가 및 해상 운임 상승 가능성에 대비, 에너지 및 해운 섹터 비중 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Boomers are buying into the promise of monthly income from options ETFs, but there's a tax catch",
-    "title_ko": "베이비부머, 월 배당 옵션 ETF의 매력에 빠졌지만 세금 문제가 복병",
-    "link": "https://www.cnbc.com/2026/10/18/retirement-income-funds-taxes.html",
-    "published": "Sun, 18 Oct 2026 13:10:33 GMT",
-    "fetched_at": "2026-10-19 04:06:06",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "자산운용",
-      "금융 서비스",
-      "세금 컨설팅"
-    ],
-    "keywords": [
-      "옵션 ETF",
-      "커버드콜",
-      "월 배당",
-      "베이비부머",
-      "세금"
-    ],
-    "reason": "월 배당 옵션 ETF가 은퇴 자금 마련을 위한 주요 수단으로 각광받고 있으나, 예상치 못한 세금 부담으로 인해 실질 소득이 줄어들 수 있다는 경고이다. 이는 해당 상품의 인기에 제동을 걸 수 있으며, 투자자들의 자산 배분 전략 재검토를 유도할 수 있다.",
-    "action_point": "월 배당 옵션 ETF 투자자 및 투자 고려자는 해당 상품의 세금 구조를 면밀히 분석하여 순소득 감소 가능성을 점검하라."
   }
 ]
