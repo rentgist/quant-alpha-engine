@@ -2,6 +2,130 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "AI's 'Black October': Critical PHP flaws set off global security scramble",
+    "title_ko": "AI의 '블랙 옥토버': 심각한 PHP 취약점 유출로 전 세계 보안 비상",
+    "link": "https://www.cnbc.com/2026/10/23/php-vulnerabilities-ai-cybersecurity.html",
+    "published": "Fri, 23 Oct 2026 16:55:37 GMT",
+    "fetched_at": "2026-10-24 02:37:03",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "기술 (IT 보안)",
+      "클라우드 컴퓨팅",
+      "인터넷 플랫폼"
+    ],
+    "keywords": [
+      "PHP 취약점",
+      "사이버 보안",
+      "데이터 유출",
+      "IT 인프라"
+    ],
+    "reason": "전 세계적으로 사용되는 PHP의 심각한 취약점 유출은 정부와 기업의 IT 인프라에 광범위한 보안 위협을 가하며, 이는 데이터 유출 및 서비스 중단 위험을 증가시켜 관련 기업들의 보안 비용을 가중시킬 것입니다. 장기적으로는 사이버 보안 솔루션 수요 증가로 이어질 수 있습니다.",
+    "action_point": "사이버 보안 및 클라우드 보안 솔루션 관련 기업의 포트폴리오 비중 확대를 검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "골드만삭스 “기술주 실적·거시경제 변화에 미국 증시 하락” - Investing.com 한국어",
+    "title_ko": "골드만삭스 “기술주 실적·거시경제 변화에 미국 증시 하락”",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBUYUE5TnltWUFWV2h1NmZNdlR5TW1GeWNPaFdGQ3ozNDFHa1ZzdllsaDItWUg1aEFkY1JzN2JWUnUyVlJwQkhNT1Q2WDdsWTl2alcxRjlSNDU5WmJfLU9NT042TnM0ZjdULXh4WGc5RTVFMkd6bFRr?oc=5",
+    "published": "Fri, 23 Oct 2026 17:12:00 GMT",
+    "fetched_at": "2026-10-24 02:37:24",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "기술",
+      "글로벌 증시"
+    ],
+    "keywords": [
+      "골드만삭스",
+      "미국 증시",
+      "기술주",
+      "거시경제",
+      "증시 하락"
+    ],
+    "reason": "골드만삭스의 미국 증시 하락 전망은 기술주 실적 부진과 거시경제 불확실성에 기반하며, 이는 전 세계 증시 투자 심리 위축과 특히 국내 기술주 섹터에 대한 조정 압력으로 이어질 수 있습니다.",
+    "action_point": "미국 및 국내 기술주 비중 축소를 검토하고, 시장 변동성 확대에 대비한 현금 비중 확대를 고려하십시오."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Musk's SpaceX is still restricting Starlink in Ukraine and the toll is rising",
+    "title_ko": "머스크의 스페이스X, 우크라이나 스타링크 제한 지속으로 피해 증가",
+    "link": "https://www.cnbc.com/2026/10/23/ukraine-says-starlink-restrictions-remain-despite-trump-assurances.html",
+    "published": "Fri, 23 Oct 2026 17:04:14 GMT",
+    "fetched_at": "2026-10-24 02:36:53",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "방산",
+      "우주항공",
+      "기술"
+    ],
+    "keywords": [
+      "SpaceX",
+      "Starlink",
+      "우크라이나",
+      "러시아",
+      "지정학",
+      "군사작전",
+      "위성통신"
+    ],
+    "reason": "우크라이나 내 스타링크 제한은 러시아-우크라이나 전쟁의 지정학적 불확실성을 가중시키며, 전황 및 관련 기업들의 기술적, 윤리적 리스크를 심화시킬 수 있습니다.",
+    "action_point": "지정학적 리스크 관련 방산/기술 섹터의 포트폴리오 비중 및 투자 위험도를 재검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "American Express is cutting 5% of its workforce to 'prepare for AI'",
+    "title_ko": "아메리칸 익스프레스, 'AI 준비' 위해 인력 5% 감축 발표",
+    "link": "https://www.cnbc.com/2026/10/23/american-express-job-cuts.html",
+    "published": "Fri, 23 Oct 2026 17:21:10 GMT",
+    "fetched_at": "2026-10-24 02:37:15",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "금융",
+      "기술",
+      "서비스"
+    ],
+    "keywords": [
+      "아메리칸 익스프레스",
+      "AI",
+      "인력 감축",
+      "구조조정",
+      "금융 서비스"
+    ],
+    "reason": "미국 금융사의 AI 도입 가속화 및 비용 효율화 추세를 보여주며, 장기적으로 기업 수익성에 긍정적이나 노동 시장에는 구조적 변화를 예고합니다.",
+    "action_point": "AI 기반 효율성 개선을 통해 경쟁력을 확보할 금융 및 서비스 기업에 대한 투자 매력을 재평가하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "경남도 제3기 투자유치자문위 출범 … 경남 경제 새 도약 뒷받침 - 아시아경제",
+    "title_ko": "경남도 제3기 투자유치자문위 출범 … 경남 경제 새 도약 뒷받침",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE82Tll2OW5JRXhkZ050UmpGT2dkajRNUWQ4QlJqRGJPdjdZRlhnTWg2WVhsQmhNU19rSzJHdVpNUGxCc0h4QnlFMFJHR2dKRWdpeV9RNnkyTk13Y3hNUzZSSg?oc=5",
+    "published": "Fri, 23 Oct 2026 13:32:22 GMT",
+    "fetched_at": "2026-10-24 02:37:33",
+    "sentiment": "호재",
+    "importance": 2,
+    "sectors": [
+      "지역경제",
+      "제조업",
+      "건설/부동산"
+    ],
+    "keywords": [
+      "경남도",
+      "투자유치",
+      "지역경제",
+      "자문위원회"
+    ],
+    "reason": "경남도의 투자유치 노력이 장기적으로 지역 경제 활성화에 기여할 수 있으나, 국내 전체 거시 경제에 미치는 직접적인 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "U.S. oil rises above $100, Brent at five-month high as Iran says it’s prepared for warfare",
     "title_ko": "미국 유가 100달러 돌파, 이란의 전쟁 준비 발언에 브렌트유 5개월 최고치 기록",
     "link": "https://www.cnbc.com/2026/10/23/oil-price-brent-wti-iran-war-saudi-arabia.html",
@@ -2874,129 +2998,5 @@
     ],
     "reason": "북한 김여정의 대남 확성기 방송 재개 검토 발언은 남북 관계의 지정학적 긴장을 고조시키며, 국내 증시의 투자심리 위축과 원화 약세 압력으로 작용할 수 있습니다.",
     "action_point": "방산 섹터 비중 확대 검토 및 원화 약세 헤징 전략 마련."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "\"떠나는 게 아니라 도망치는 것\"…선거 코앞인데 트럼프 정부 위기? [지금이뉴스] - YTN",
-    "title_ko": "떠나는 게 아니라 도망치는 것\"…선거 코앞인데 트럼프 정부 위기? [지금이뉴스]",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJTVYyVHlISGJjd3RvbmZSazNHNmZXQzkwMU5KWi1GMXRPdlNYcmg5UHVBRXhFaXE1NXY3OWpRTk5uX2cyVUMtcVB0TmZYRThsUnlXb1FZOGs0QVRnRWc?oc=5",
-    "published": "Mon, 19 Oct 2026 10:30:00 GMT",
-    "fetched_at": "2026-10-19 20:36:22",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "글로벌 증시",
-      "외환 시장",
-      "안전자산"
-    ],
-    "keywords": [
-      "트럼프",
-      "미국 대선",
-      "정치적 불확실성",
-      "시장 변동성"
-    ],
-    "reason": "미국 대선을 앞둔 트럼프 행정부의 위기설은 정책 불확실성을 증폭시켜 글로벌 증시 변동성 확대 및 투자심리 위축을 야기할 수 있습니다. 이는 달러 가치 및 안전자산 수요에 영향을 미칠 수 있습니다.",
-    "action_point": "미국 정치 불확실성 증폭에 대비하여, 달러 및 금 등 안전자산 비중 확대를 고려하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[속보] 김여정 “남부국경 매우 불안정…대남 확성기방송 재개 검토” - 경향신문",
-    "title_ko": "[속보] 김여정 “남부국경 매우 불안정…대남 확성기방송 재개 검토”",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xTThxOHBrOTRCOHZVMTNUb3IzRWpxZTNBTHhGSjZwTElzMDV0b0VIVHRlM2YxWjlaTnVKcXlHLWhJZmN2X2hTZXk2ZURCZGZaM2hVMUQwWlV5Z9IBX0FVX3lxTFBKVkU5TWpJRFFLZlhXMFZPajB2R0RWNllBbVdOSGpxM1JqSFNOT2tLUmNhSHo2TEpwalVTcmhNVjhqUm1oSTEzYzFFOG9iTHhfM1lwRFFwQll4NHV4b2h3?oc=5",
-    "published": "Mon, 19 Oct 2026 09:24:00 GMT",
-    "fetched_at": "2026-10-19 20:36:30",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "방위산업",
-      "관광",
-      "금융",
-      "소비재"
-    ],
-    "keywords": [
-      "남북관계",
-      "지정학적 리스크",
-      "확성기 방송",
-      "한반도 불안정"
-    ],
-    "reason": "김여정 담화는 남북 간 군사적 긴장 고조 가능성을 시사하며, 이는 한국의 지정학적 리스크를 증대시켜 국내 증시 및 원화 가치에 부정적인 영향을 미칠 수 있습니다. 외국인 투자심리 위축으로 이어질 위험이 있습니다.",
-    "action_point": "한반도 지정학적 리스크 확대로 인한 국내 증시 및 원화 변동성 확대 가능성에 대비하여 방어적 섹터 비중을 확대하고 달러 등 안전자산 보유를 유지하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[속보] 北김여정 \"남부국경 매우 불안정…대남 확성기방송 재개 검토\" - 연합뉴스",
-    "title_ko": "[속보] 北김여정 \"남부국경 매우 불안정…대남 확성기방송 재개 검토\"",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9CTlVGYTZwYm1LNERiXzRGQldiOUtvcDd2S0k5UDBiWUs1N2Z4VnpvVXdXUkxDVFZqRk1rMktZNGFMbUdETFVPR0szY0N3TC1PSlJINnF6Z0lSZFnSAWBBVV95cUxNVUlZOUVlRFBxaGJiR25ZME9tQXdtNlZscFllUHlLSzh4cnA2cm9udFJON2tIRFkyR0ZoMU1CemlfVTRUVm9KN3cxZE5NVlh2MjFVVnJfT2U1OVdYblVCbWs?oc=5",
-    "published": "Mon, 19 Oct 2026 09:12:42 GMT",
-    "fetched_at": "2026-10-19 20:36:52",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "방산",
-      "관광",
-      "항공",
-      "증권"
-    ],
-    "keywords": [
-      "북한",
-      "김여정",
-      "대남 확성기방송",
-      "지정학적 리스크",
-      "남북 관계"
-    ],
-    "reason": "북한의 대남 확성기 방송 재개 검토는 남북 간 긴장 고조를 시사하며, 이는 국내 증시의 지정학적 리스크 프리미엄을 높여 투자심리 위축과 원화 약세를 유발할 수 있습니다.",
-    "action_point": "국내 증시의 지정학적 리스크 증가에 대비하여 방산 섹터에 대한 관심 유지 또는 방어적 포트폴리오 비중 확대를 고려하고, 원화 약세 가능성에 대비한 달러 등 안전자산 보유를 검토하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "李대통령 \"韓증시 매우 저평가 … 필요한 정책 검토\"",
-    "title_ko": "李대통령 \"韓증시 매우 저평가 … 필요한 정책 검토\"",
-    "link": "https://www.mk.co.kr/news/politics/12179988",
-    "published": "Mon, 19 Oct 2026 20:10:41 +09:00",
-    "fetched_at": "2026-10-19 20:37:44",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "국내 증시 전반",
-      "금융",
-      "가치주"
-    ],
-    "keywords": [
-      "한국 증시",
-      "저평가",
-      "정책 검토",
-      "밸류업 프로그램"
-    ],
-    "reason": "대통령이 국내 증시의 저평가를 공식 인정하고 정상화를 위한 정책 검토를 언급함으로써, '기업 밸류업 프로그램'과 같은 정부 주도 시장 부양책 추진에 대한 기대를 높인다. 이는 국내 주식시장의 전반적인 투자심리 개선과 저평가 해소에 긍정적으로 작용할 수 있다.",
-    "action_point": "국내 저평가 가치주 및 기업 밸류업 프로그램 수혜 예상 기업 비중 확대 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Nasdaq futures gain as investors buy the dip in the AI trade: Live updates",
-    "title_ko": "투자자들의 AI 관련주 저점 매수에 나스닥 선물 상승: 실시간 업데이트",
-    "link": "https://www.cnbc.com/2026/10/18/stock-market-today-live-updates.html",
-    "published": "Mon, 19 Oct 2026 11:23:21 GMT",
-    "fetched_at": "2026-10-19 20:35:32",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "기술주",
-      "AI",
-      "반도체"
-    ],
-    "keywords": [
-      "나스닥",
-      "AI",
-      "저점 매수",
-      "기술주",
-      "선물"
-    ],
-    "reason": "지난주 기술주 중심의 시장 조정 이후, 투자자들이 AI 관련주 저점 매수에 나서며 단기 반등을 시도하는 모습이다. 이는 AI 테마에 대한 시장의 근본적인 신뢰가 여전함을 시사한다.",
-    "action_point": "AI 및 기술주 섹터의 단기 반등 가능성을 염두에 두고, 지난주 하락을 이용한 저점 매수 전략을 고려하라."
   }
 ]
