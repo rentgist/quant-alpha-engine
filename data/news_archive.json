@@ -2,6 +2,82 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "Qatar deal to buy U.S. natural gas shows how Iran war has redrawn global energy markets",
+    "title_ko": "카타르의 미국 천연가스 구매 계약은 이란 전쟁이 글로벌 에너지 시장을 어떻게 재편했는지 보여준다",
+    "link": "https://www.cnbc.com/2026/10/23/cheniere-qatar-energy-lng-natural-gas-iran-war-strait-hormuz.html",
+    "published": "Fri, 23 Oct 2026 19:19:08 GMT",
+    "fetched_at": "2026-10-24 11:32:58",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "해운",
+      "화학"
+    ],
+    "keywords": [
+      "이란 전쟁",
+      "에너지 시장",
+      "천연가스",
+      "LNG",
+      "지정학"
+    ],
+    "reason": "이란 전쟁으로 인해 글로벌 에너지 공급망이 재편되며 미국 LNG 수출 기업에 새로운 기회를 제공하고 있습니다. 이는 천연가스 가격 및 관련 산업에 영향을 미치고 지정학적 리스크가 에너지 시장 구조 변화를 가속화하는 핵심 동인으로 작용합니다.",
+    "action_point": "미국 LNG 수출 및 관련 인프라 기업에 대한 투자 비중 확대를 검토하십시오."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[속보] 트럼프 “이란 상대 또 한번 작은 ’장대한 분노’ 작전 할수도“ - 연합뉴스TV",
+    "title_ko": "트럼프 “이란 상대 또 한번 작은 ’장대한 분노’ 작전 할수도“",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9MNFU0cTAxbENMSmlrM0tJLWRqdzNzRTRzMXYwelM1SUJMcUJ6YVlQTnFYVnFYdlphUkhiMjJkWDFMN0xzZmpoazEzYl9mMzJ3dzRTOWNWaEZnR0luUTE5dUxYV0lyWEk?oc=5",
+    "published": "Fri, 23 Oct 2026 19:54:00 GMT",
+    "fetched_at": "2026-10-24 11:33:07",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "원자재",
+      "방산",
+      "에너지",
+      "보험",
+      "항공"
+    ],
+    "keywords": [
+      "트럼프",
+      "이란",
+      "지정학적 리스크",
+      "중동",
+      "유가"
+    ],
+    "reason": "트럼프의 발언은 향후 중동 지정학적 리스크가 고조될 가능성을 시사하며, 이는 국제 유가 상승 압력과 전반적인 시장의 위험 회피 심리를 자극할 수 있습니다.",
+    "action_point": "유가 상승 및 지정학적 리스크 확대에 대비하여 에너지/방산 섹터 비중 확대를 검토하고 안전자산(금, 달러) 보유를 고려하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "한국 정부·은행 노리나…북한 해킹조직 라자루스, 사이버 공격 준비 정황",
+    "title_ko": "한국 정부·은행 노리나…북한 해킹조직 라자루스, 사이버 공격 준비 정황",
+    "link": "https://www.mk.co.kr/news/world/12184766",
+    "published": "Sat, 24 Oct 2026 11:25:37 +09:00",
+    "fetched_at": "2026-10-24 11:33:20",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "금융",
+      "IT"
+    ],
+    "keywords": [
+      "북한",
+      "라자루스",
+      "사이버 공격",
+      "금융 보안",
+      "지정학적 리스크"
+    ],
+    "reason": "북한 라자루스 해킹조직의 대규모 사이버 공격 준비 정황은 국내 금융 시스템과 정부 기관의 안정성에 직접적인 위협이 되며, 지정학적 리스크와 금융 시장의 단기 변동성을 높일 수 있습니다.",
+    "action_point": "국내 금융 섹터의 리스크 노출도를 점검하고, 지정학적 불확실성 증대에 대비하여 달러 등 안전자산 보유 비중 확대를 고려하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "Moody's holds steady on France's credit rating as country grapples with turmoil and higher yields",
     "title_ko": "무디스, 프랑스 신용등급 유지 – 혼란과 높은 금리 속 안정화",
     "link": "https://www.cnbc.com/2026/10/23/moodys-holds-steady-on-frances-credit-rating-as-country-grapples-with-turmoil-and-higher-yields.html",
@@ -2929,79 +3005,5 @@
     ],
     "reason": "이란 지원 후티 반군의 사우디 공격 격화는 중동 지역 지정학적 리스크를 고조시키고, 원유 공급 불안정성 및 유가 상승 압력을 높이며, 사우디 투자심리 위축으로 이어질 수 있습니다.",
     "action_point": "중동 지정학적 리스크 및 국제 유가 상승 가능성에 대비하여 에너지 관련 자산 비중 확대를 검토하고 방산주 동향을 주시하십시오."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Anthropic is AI trade's last big hope for a major IPO this year",
-    "title_ko": "Anthropic, 올해 AI 투자 시장의 마지막 대형 IPO 희망주",
-    "link": "https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html",
-    "published": "Mon, 19 Oct 2026 16:42:14 GMT",
-    "fetched_at": "2026-10-20 02:58:12",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "인공지능(AI)",
-      "기술(Tech)",
-      "벤처캐피탈(VC)"
-    ],
-    "keywords": [
-      "Anthropic",
-      "AI",
-      "IPO",
-      "OpenAI",
-      "기술투자"
-    ],
-    "reason": "Anthropic의 대형 IPO 기대는 AI 섹터에 대한 투자자들의 높은 관심과 자본 유입 가능성을 시사합니다. 이는 다른 AI 기업들의 상장 지연에도 불구하고 AI 기술 혁신에 대한 시장의 낙관론이 지속되고 있음을 보여줍니다.",
-    "action_point": "AI 섹터 내 핵심 기술 기업에 대한 장기 투자 관점을 유지합니다."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Apple announces product launch event for Oct. 28. Analysts expect touchscreen laptop",
-    "title_ko": "애플, 10월 28일 신제품 발표 행사 개최. 분석가들은 터치스크린 노트북 예상",
-    "link": "https://www.cnbc.com/2026/10/19/apple-product-launch-event-oct-28-analysts-expect-touchscreen-laptop.html",
-    "published": "Mon, 19 Oct 2026 17:25:57 GMT",
-    "fetched_at": "2026-10-20 02:58:28",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "기술(IT)",
-      "소비재(하드웨어)",
-      "반도체"
-    ],
-    "keywords": [
-      "애플",
-      "신제품 발표",
-      "노트북",
-      "터치스크린"
-    ],
-    "reason": "애플의 신제품 발표는 기술 섹터 투자 심리에 긍정적이며, 특히 터치스크린 노트북 출시는 관련 부품 공급망 및 소프트웨어 기업에 기회 요인으로 작용할 수 있습니다.",
-    "action_point": "애플의 신제품 관련 수혜가 예상되는 IT 하드웨어 및 반도체 섹터 기업에 대한 투자 기회를 모색."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Robot factories and hypersonic missiles: JPMorgan Chase’s first $5 billion of defense investments",
-    "title_ko": "로봇 공장과 극초음속 미사일: JP모건 체이스의 첫 50억 달러 방산 투자",
-    "link": "https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html",
-    "published": "Mon, 19 Oct 2026 10:00:01 GMT",
-    "fetched_at": "2026-10-19 20:35:08",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "방위산업",
-      "첨단기술 (방산)",
-      "로봇"
-    ],
-    "keywords": [
-      "방위산업",
-      "JP모건",
-      "첨단 방산기술",
-      "로봇 공장",
-      "극초음속 미사일"
-    ],
-    "reason": "JP모건의 대규모 방산 투자는 지정학적 긴장 심화와 각국 국방비 증액 추세 속에서 방산 산업의 장기적 성장 잠재력을 강하게 시사합니다. 이는 해당 섹터로의 기관 자금 유입을 가속화할 수 있습니다.",
-    "action_point": "국내외 방위산업 및 첨단 방산기술 관련 기업의 포트폴리오 편입을 검토하라."
   }
 ]
