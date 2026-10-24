@@ -1,5 +1,56 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[속보] 왕후닝 \"신압록강대교 개통…인적왕래·경제협력 확대\" - 연합뉴스TV",
+    "title_ko": "[속보] 왕후닝 \"신압록강대교 개통…인적왕래·경제협력 확대\"",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mTUhPWUp0eFlLa1lSWDE5LW42VF9JY2JXSmowdVBSeVFrcnJFSURkVktpT2FBVDF2SmFxZnVsWnZkbEhMTld3LS1kUmhZZ1QtQTBwdDVPRXlMdEpFOXJGemFPWFNFbVU?oc=5",
+    "published": "Sat, 24 Oct 2026 11:48:00 GMT",
+    "fetched_at": "2026-10-25 04:10:56",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "남북경협 관련주",
+      "물류",
+      "건설"
+    ],
+    "keywords": [
+      "중국",
+      "북한",
+      "압록강대교",
+      "경제협력",
+      "지정학"
+    ],
+    "reason": "중국 고위층의 발언으로 북한-중국 간 인적 교류 및 경제 협력 확대가 공식화되었음을 시사한다. 이는 한반도 지정학적 역학 관계 변화와 대북 제재 이행에 미묘한 영향을 미칠 수 있다.",
+    "action_point": "한반도 지정학적 리스크 확대 가능성에 대비하여 포트폴리오 내 안전자산 비중을 점검하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Violence flares in Paris after massive, largely peaceful protests across France",
+    "title_ko": "프랑스 전역 대규모 평화 시위 후 파리에서 폭력 사태 발생",
+    "link": "https://www.cnbc.com/2026/10/24/france-paris-protests.html",
+    "published": "Sat, 24 Oct 2026 18:49:38 GMT",
+    "fetched_at": "2026-10-25 04:10:30",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "유럽 주식",
+      "관광/레저",
+      "소비재",
+      "유통"
+    ],
+    "keywords": [
+      "프랑스",
+      "시위",
+      "사회 불안",
+      "정치적 불확실성",
+      "유럽"
+    ],
+    "reason": "프랑스 대규모 시위와 폭력 사태는 단기적으로 현지 소비 및 관광 활동을 위축시키고, 유럽 전반의 정치적 불안감으로 이어질 수 있어 투자 심리에 부정적 영향을 줄 수 있습니다.",
+    "action_point": "유럽 주식 포트폴리오 내 프랑스 익스포저를 점검하고, 특히 프랑스 내 관광/소비재 관련 기업의 투자 비중 축소를 고려."
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "Saudi-led coalition says it intercepted Houthi ballistic missiles targeting Saudi cities",
@@ -2934,55 +2985,5 @@
     ],
     "reason": "이 뉴스는 차세대 비만 치료제 개발의 성공 가능성을 높여 노보 노디스크의 시장 지배력을 강화하고 GLP-1 계열 비만 치료제 시장의 폭발적 성장을 가속화할 것입니다. 관련 제약/바이오 섹터에 대한 투자 심리가 개선될 것으로 예상됩니다.",
     "action_point": "비만 치료제 시장의 성장 가속화에 따라 관련 제약/바이오 섹터 비중 확대를 검토하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "“여기도 ‘경력있는 신입’ 원하네”…R&D장비시장 국산 힘못쓰는 이유",
-    "title_ko": "“여기도 ‘경력있는 신입’ 원하네”…R&D장비시장 국산 힘못쓰는 이유",
-    "link": "https://www.mk.co.kr/news/business/12181176",
-    "published": "Tue, 20 Oct 2026 23:41:49 +09:00",
-    "fetched_at": "2026-10-21 00:29:57",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "국내 R&D 장비 제조",
-      "산업 장비",
-      "정밀 기계"
-    ],
-    "keywords": [
-      "R&D 장비",
-      "국산화",
-      "현장 검증",
-      "연구개발 예산",
-      "산업 경쟁력"
-    ],
-    "reason": "내년도 역대 최대 R&D 예산에도 불구하고 국내 R&D 장비 시장은 외국산이 80%를 차지하며, 국산 장비는 현장 검증 실적 부족으로 시장 진입에 어려움을 겪어 관련 국내 기업들의 성장이 제한적이다.",
-    "action_point": "국내 R&D 장비 관련 기업 투자 시, 현장 실증 실적 확보 여부를 핵심 지표로 분석하고 신중한 접근을 유지."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Stocks making the biggest moves premarket: RTX, General Motors, Northrop Grumman, Steel Dynamics & more",
-    "title_ko": "프리마켓에서 가장 큰 움직임을 보이는 주식들: RTX, 제너럴 모터스, 노스롭 그러먼, 스틸 다이내믹스 외",
-    "link": "https://www.cnbc.com/2026/10/20/stocks-making-the-biggest-moves-premarket-rtx-gm-noc-stld.html",
-    "published": "Tue, 20 Oct 2026 11:57:52 GMT",
-    "fetched_at": "2026-10-21 00:28:59",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "항공우주 및 방위산업",
-      "자동차",
-      "철강"
-    ],
-    "keywords": [
-      "RTX",
-      "General Motors",
-      "Northrop Grumman",
-      "Steel Dynamics",
-      "프리마켓"
-    ],
-    "reason": "이 기사는 프리마켓에서 개별 기업들의 주가 변동을 단순 나열한 것으로, 특정 거시경제 지표나 전반적인 시장의 방향성을 시사하기보다는 개별 기업 요인에 더 가깝습니다.",
-    "action_point": "해당 없음"
   }
 ]
