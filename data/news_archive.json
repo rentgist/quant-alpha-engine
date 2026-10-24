@@ -2,6 +2,31 @@
   {
     "source": "GoogleNews_Korea",
     "market": "KR",
+    "title": "세계경제는 AI에 베팅했다…청구서는 이제부터다 - 머니투데이 - 머니투데이",
+    "title_ko": "세계경제는 AI에 베팅했다…청구서는 이제부터다 - 머니투데이",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEUkkzWkMtXzh6aEh5NDNXWV9Wb0FuRUhVQkNHTHlUWnR4eEJheDM3NkhTYU01WFViWjJQOWdCMUk5YXlLUHJBdVhrOHp2Z1pXaFAzZjB0SkktbF9qZVBQcnFhZGVESzVn0gFuQVVfeXFMT0NIb3U0R0k0ZEVwUmpjUFBncmxqX211T05kRF9aVi1qbVFYOTdpTlU4QnRjUmtOUTktMDN3bGxteFVyUFhaazZWdVFNcVRlUXRhU3FoTGctOUszVGVSM3dDbEpYWG1qWnRVMnBFZXc?oc=5",
+    "published": "Sat, 24 Oct 2026 21:00:00 GMT",
+    "fetched_at": "2026-10-25 07:07:47",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "기술",
+      "반도체",
+      "데이터센터",
+      "전력"
+    ],
+    "keywords": [
+      "AI",
+      "인공지능",
+      "세계경제",
+      "투자비용"
+    ],
+    "reason": "세계 경제의 AI 투자 열풍이 이제 그 실제 비용, 인프라 수요 및 지속 가능성에 대한 검토 단계로 진입했음을 시사한다. 이는 AI 관련 기업들의 이익 실현과 전반적인 경제적 파급 효과에 대한 현실적인 평가를 요구하며, 과열된 시장에 조정 가능성을 제기할 수 있다.",
+    "action_point": "AI 관련 기술주 및 인프라 관련주의 밸류에이션과 실제 수익성 전환 가능성을 면밀히 재검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
     "title": "[속보] 왕후닝 \"신압록강대교 개통…인적왕래·경제협력 확대\" - 연합뉴스TV",
     "title_ko": "[속보] 왕후닝 \"신압록강대교 개통…인적왕래·경제협력 확대\"",
     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mTUhPWUp0eFlLa1lSWDE5LW42VF9JY2JXSmowdVBSeVFrcnJFSURkVktpT2FBVDF2SmFxZnVsWnZkbEhMTld3LS1kUmhZZ1QtQTBwdDVPRXlMdEpFOXJGemFPWFNFbVU?oc=5",
@@ -2960,30 +2985,5 @@
     ],
     "reason": "HSBC CEO의 발언은 AI 붐으로 인한 데이터 센터 투자 과열에 대한 경고로, 해당 섹터 내 옥석 가리기가 심화될 것을 시사하며 무분별한 투자는 지양해야 함을 강조합니다. 이는 데이터 센터 관련 기업들의 실적과 성장성에 대한 투자자들의 신중한 접근을 유도할 것입니다.",
     "action_point": "AI 관련 데이터 센터 투자 시, 개별 기업의 실질적 경쟁력 및 수익성을 면밀히 분석하여 선별 투자하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Novo's next-generation obesity drug shows 25% weight loss in women in late-stage analysis",
-    "title_ko": "노보의 차세대 비만 치료제, 후기 임상 분석에서 여성 25% 체중 감량 효과 입증",
-    "link": "https://www.cnbc.com/2026/10/20/novo-cagrisema-women-weight-loss-analysis.html",
-    "published": "Tue, 20 Oct 2026 12:50:24 GMT",
-    "fetched_at": "2026-10-21 00:29:37",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "제약",
-      "바이오",
-      "헬스케어"
-    ],
-    "keywords": [
-      "노보 노디스크",
-      "비만 치료제",
-      "CagriSema",
-      "GLP-1",
-      "체중 감량"
-    ],
-    "reason": "이 뉴스는 차세대 비만 치료제 개발의 성공 가능성을 높여 노보 노디스크의 시장 지배력을 강화하고 GLP-1 계열 비만 치료제 시장의 폭발적 성장을 가속화할 것입니다. 관련 제약/바이오 섹터에 대한 투자 심리가 개선될 것으로 예상됩니다.",
-    "action_point": "비만 치료제 시장의 성장 가속화에 따라 관련 제약/바이오 섹터 비중 확대를 검토하라."
   }
 ]
