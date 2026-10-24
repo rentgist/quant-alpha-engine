@@ -1,5 +1,79 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Saudi-led coalition says it intercepted Houthi ballistic missiles targeting Saudi cities",
+    "title_ko": "사우디 주도 연합군, 사우디 도시 겨냥한 후티 미사일 요격 발표",
+    "link": "https://www.cnbc.com/2026/10/24/saudi-led-coalition-says-it-intercepted-houthi-ballistic-missiles-.html",
+    "published": "Sat, 24 Oct 2026 12:55:46 GMT",
+    "fetched_at": "2026-10-25 01:22:35",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "방산"
+    ],
+    "keywords": [
+      "사우디",
+      "후티",
+      "미사일",
+      "지정학적 위험",
+      "유가"
+    ],
+    "reason": "중동 지역의 지정학적 위험이 지속됨을 보여주며, 이는 주요 산유국 안정성 우려를 높여 유가 변동성을 확대시키고 전반적인 시장의 위험 회피 심리를 자극할 수 있습니다.",
+    "action_point": "중동 지정학적 불안정 심화에 따른 유가 상승 가능성에 대비하여 에너지 섹터 비중을 검토하십시오."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Why popular airplanes are getting scrapped years early",
+    "title_ko": "인기 항공기들이 왜 예정보다 일찍 폐기되고 있는가",
+    "link": "https://www.cnbc.com/2026/10/24/spirit-airlines-planes-scrapped-engine-shortage.html",
+    "published": "Sat, 24 Oct 2026 15:18:30 GMT",
+    "fetched_at": "2026-10-25 01:22:27",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "항공 산업",
+      "항공사",
+      "여행/관광",
+      "운송/물류"
+    ],
+    "keywords": [
+      "항공기",
+      "부품 부족",
+      "공급망",
+      "항공 산업",
+      "수리 및 유지보수"
+    ],
+    "reason": "엔진 및 부품 부족으로 인한 항공기 조기 폐기는 항공사들의 운영 비용 증가와 운항 능력 감소로 이어져 항공 산업 전반의 수익성을 악화시키고 여행 및 물류 비용 상승 압력을 가중할 것입니다.",
+    "action_point": "글로벌 항공사 및 항공기 부품 제조업체 투자 비중 축소 검토."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Ukraine says Starlink and Starshield high speed restrictions have been lifted",
+    "title_ko": "우크라이나, 스타링크 및 스타실드 고속 서비스 제한 해제 발표",
+    "link": "https://www.cnbc.com/2026/10/24/ukraine-starlink-starshield-service-restored.html",
+    "published": "Sat, 24 Oct 2026 13:00:35 GMT",
+    "fetched_at": "2026-10-25 01:22:20",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "우주항공/방위산업",
+      "위성통신"
+    ],
+    "keywords": [
+      "우크라이나",
+      "스타링크",
+      "스타실드",
+      "위성통신",
+      "군사"
+    ],
+    "reason": "이 뉴스는 우크라이나의 군사 통신 역량 회복을 알리며, 전쟁 상황의 안정화에 기여할 수 있지만 글로벌 거시 경제에 미치는 직접적인 영향은 제한적입니다. 다만, 위성통신 및 방위산업 기술의 중요성을 다시 부각시킵니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "GoogleNews_Korea",
     "market": "KR",
     "title": "[속보] 靑, 김정은 방중에 \"동향 면밀 주시\" - 연합뉴스TV",
@@ -2910,82 +2984,5 @@
     ],
     "reason": "이 기사는 프리마켓에서 개별 기업들의 주가 변동을 단순 나열한 것으로, 특정 거시경제 지표나 전반적인 시장의 방향성을 시사하기보다는 개별 기업 요인에 더 가깝습니다.",
     "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "SpaceX earnings live updates: Starlink growth, AI revenue and merger speculation",
-    "title_ko": "SpaceX 실적 라이브 업데이트: 스타링크 성장, AI 매출 및 합병 추측",
-    "link": "https://www.cnbc.com/2026/10/20/spacex-spcx-earnings-live-updates-q3-2026html.html",
-    "published": "Tue, 20 Oct 2026 15:10:48 GMT",
-    "fetched_at": "2026-10-21 00:29:17",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "우주 항공",
-      "위성 통신",
-      "인공지능"
-    ],
-    "keywords": [
-      "SpaceX",
-      "스타링크",
-      "AI",
-      "실적",
-      "우주 기술"
-    ],
-    "reason": "비상장 기업인 SpaceX의 실적은 거시 경제나 광범위한 시장에 직접적인 영향은 제한적이나, 스타링크의 성장과 AI 매출 추이는 우주 항공, 위성 통신, AI 기술 관련 산업의 장기적인 트렌드와 투자 심리에 간접적 영향을 미칠 수 있다.",
-    "action_point": "우주 항공 및 AI 관련 기술 섹터의 장기 성장 잠재력을 고려하여 관련 상장 기업 또는 ETF 투자 비중 확대 검토"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "What’s making Europe so angry? The frustration behind the protests",
-    "title_ko": "무엇이 유럽을 그토록 분노하게 하는가? 시위 이면의 좌절감",
-    "link": "https://www.cnbc.com/2026/10/20/france-protests-europe-cost-living-violence.html",
-    "published": "Tue, 20 Oct 2026 07:19:16 GMT",
-    "fetched_at": "2026-10-20 19:40:45",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "소비재",
-      "부동산",
-      "건설",
-      "금융"
-    ],
-    "keywords": [
-      "유럽 시위",
-      "생활비",
-      "주택 위기",
-      "사회 불안정",
-      "물가 상승"
-    ],
-    "reason": "유럽 주요국에서 생활비, 주택 문제 등으로 인한 대규모 시위는 소비 위축, 부동산 시장 침체 가능성 및 정치적 불확실성을 증대시켜 유럽 경제 전반에 부정적 영향을 미칠 수 있습니다.",
-    "action_point": "유럽 익스포저가 있는 포트폴리오에 대한 비중 축소 검토"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "U.S. bans DeepSeek from government agency systems amid AI rift with China",
-    "title_ko": "미국, 중국과의 AI 갈등 고조 속 딥시크의 정부 시스템 사용 금지",
-    "link": "https://www.cnbc.com/2026/10/20/us-deepseek-federal-agency-ban.html",
-    "published": "Tue, 20 Oct 2026 08:17:14 GMT",
-    "fetched_at": "2026-10-20 19:40:53",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "인공지능",
-      "반도체",
-      "소프트웨어",
-      "국방/보안"
-    ],
-    "keywords": [
-      "미중 기술 갈등",
-      "AI",
-      "규제",
-      "미국 안보",
-      "딥시크"
-    ],
-    "reason": "미국과 중국 간 AI 기술 갈등이 심화되고 있음을 보여주며, 이는 향후 기술 공급망 분리와 관련 기업의 지정학적 리스크를 증대시킬 수 있습니다.",
-    "action_point": "미중 기술 갈등 고조에 대비하여 AI 및 반도체 등 핵심 기술 섹터 내 미국 또는 중국 의존도가 높은 기업에 대한 비중 조정을 검토하십시오."
   }
 ]
