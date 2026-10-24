@@ -2,6 +2,391 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "What next for France as riots rattle markets? Three questions facing investors ahead of more protests",
+    "title_ko": "프랑스 폭동으로 시장 동요, 투자자들이 직면한 3가지 질문과 향후 전망",
+    "link": "https://www.cnbc.com/2026/10/24/france-riots-paris-unrest-debt-budget.html",
+    "published": "Sat, 24 Oct 2026 06:23:02 GMT",
+    "fetched_at": "2026-10-24 16:45:07",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "여행/레저",
+      "소비재/유통",
+      "금융"
+    ],
+    "keywords": [
+      "프랑스 폭동",
+      "국채금리",
+      "유럽 경제 불안",
+      "정치적 리스크"
+    ],
+    "reason": "프랑스 폭동 사태가 국채금리를 24년 최고치로 끌어올리며 프랑스 재정, 성장, 기업 섹터 전반에 걸친 불확실성을 증폭시켜 유로존 경제 안정에 대한 우려를 키우고 있습니다.",
+    "action_point": "프랑스 국채를 포함한 유로존 고위험 국채 익스포저 축소 및 프랑스 경제 의존도가 높은 유럽 시장 연계 자산의 리스크 점검을 고려하십시오."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[속보] ‘사망설’ 김정은 돌연 방중…“신압록대교 통해 단둥 도착” - 중앙일보",
+    "title_ko": "[속보] ‘사망설’ 김정은 돌연 방중…“신압록대교 통해 단둥 도착” - 중앙일보",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51ZWtIS2czeVBud0M3QnB4V1g2bXVSNEx6eVVxM2xQbzVvSmpkR3pheGUybjdvRkJiVXZHUU9Vc3ZXTjd2bjVDMHVCcGlTODRvNklsbHV3?oc=5",
+    "published": "Sat, 24 Oct 2026 06:03:29 GMT",
+    "fetched_at": "2026-10-24 16:45:52",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "방산",
+      "전반적인 시장심리",
+      "운송"
+    ],
+    "keywords": [
+      "김정은",
+      "북한",
+      "중국",
+      "방중",
+      "지정학"
+    ],
+    "reason": "김정은의 갑작스러운 방중은 북한 리더십의 안정성을 확인시켜주지만, 향후 북중 관계 및 북한의 대외 전략 변화 가능성에 대한 불확실성을 증폭시켜 한반도 지정학적 변동성을 높일 수 있습니다.",
+    "action_point": "한반도 지정학적 리스크 증대에 대비하여 포트폴리오의 방어적 재점검을 실시하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "열흘 동안 3개의 선거‥에너지 위기·기후 변화·아마존이 걸렸다 [기후인사이트 49 | 인싸M] - MBC 뉴스",
+    "title_ko": "열흘 동안 3개의 선거‥에너지 위기·기후 변화·아마존이 걸렸다 [기후인사이트 49 | 인싸M]",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9nLWlhU1dScGUzWDEwRHlqdExTVGZtQVlCVWFocTIzM0o1dVFwcUxzWTVEWUtqeHktWGxGOU9FV20zTk9FLVFGbG96bDBLaUQ1SU9yVkJLUEZYZFNoRm5ES1E0ak1GOEpfelkySlRWVzNRR28?oc=5",
+    "published": "Sat, 24 Oct 2026 01:00:03 GMT",
+    "fetched_at": "2026-10-24 16:46:02",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "신재생에너지",
+      "환경",
+      "자원",
+      "농업"
+    ],
+    "keywords": [
+      "선거",
+      "에너지 위기",
+      "기후 변화",
+      "아마존",
+      "환경 정책"
+    ],
+    "reason": "열흘간 진행될 주요 선거 결과에 따라 에너지, 기후변화 및 환경 정책의 방향성이 결정될 예정으로, 이는 글로벌 에너지 시장 및 산업 구조 전반에 광범위한 영향을 미칠 것입니다.",
+    "action_point": "글로벌 환경 정책 변화 가능성에 대비하여 신재생에너지 및 친환경 기술 관련 자산 비중 확대를 고려하고, 탄소 고배출 산업 노출을 재검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[속보] 통일부 당국자 “김정은 위원장 오늘 방중…평양 출발해 단둥 도착” - KBS 뉴스",
+    "title_ko": "통일부 당국자 \"김정은 위원장 오늘 방중…평양 출발해 단둥 도착\"",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90anJFVzlIY1JqTWpOVWhEaHdWTWFOMHZiMUZGa3VvNURhU0U1a1otNXh1VlNJb3RvQjVtLUxKUWR2OUo4TlpEZVkwR2RQQ0VoM1pXc213QzlNUjg?oc=5",
+    "published": "Sat, 24 Oct 2026 06:16:00 GMT",
+    "fetched_at": "2026-10-24 16:46:27",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "방산",
+      "관광"
+    ],
+    "keywords": [
+      "김정은",
+      "방중",
+      "북한",
+      "중국",
+      "한반도 정세",
+      "지정학"
+    ],
+    "reason": "김정은 위원장의 방중은 북한의 대외 관계 재정립 시도를 보여주며, 향후 한반도 비핵화 및 경제 협력 논의에 대한 불확실성을 높일 수 있습니다. 단기적으로는 지정학적 리스크 완화 기대감이 형성될 수 있으나, 구체적인 결과는 미지수입니다.",
+    "action_point": "한반도 지정학적 긴장 완화 가능성 및 북중 관계 강화에 따른 시장 반응을 주시하고, 방산 섹터 투자 비중을 점검하십시오."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[속보]‘사망설’ 김정은, 24일 전격 중국 방문 … “신압록강대교 건너 단둥 도착” 정부 소식통 전해 - 문화일보",
+    "title_ko": "[속보]‘사망설’ 김정은, 24일 전격 중국 방문 … “신압록강대교 건너 단둥 도착” 정부 소식통 전해 - 문화일보",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1STjA2Z214djVSS1VOMk4yb2MtYlhtZXhtcGR1bDNDMHFQLTdNajN6djMxUzFYNUhQSWR6bDNpcm1tWS1uUGRtVmlyVFZ6Qldf?oc=5",
+    "published": "Sat, 24 Oct 2026 07:18:10 GMT",
+    "fetched_at": "2026-10-24 16:46:36",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "방산"
+    ],
+    "keywords": [
+      "김정은",
+      "중국 방문",
+      "북중 관계",
+      "지정학적 안정"
+    ],
+    "reason": "김정은 건강이상설 불식 및 대외 활동 재개는 북한 정세의 불확실성을 완화시키고, 북중 간 고위급 교류 재개 신호로 한반도 지정학적 리스크 감소에 긍정적으로 작용할 수 있습니다.",
+    "action_point": "방산 섹터의 단기적 모멘텀 약화 가능성을 검토하십시오."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[속보] 김정은 전격 방중…오늘 신압록대교 통해 단둥 도착 - 주간경향",
+    "title_ko": "[속보] 김정은 전격 방중…오늘 신압록대교 통해 단둥 도착 - 주간경향",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LSWppaGpaNnh2cjFpbGhqSWduY0I5eTVyWEVDN0ViNjNIckZHVEFIb1M5d1hOaDZiS01sVFNpZXN6dDFxYlhYeUR6ZzJtZnFpVnNndEk2Y1plb2xzY1E?oc=5",
+    "published": "Sat, 24 Oct 2026 06:20:00 GMT",
+    "fetched_at": "2026-10-24 16:46:49",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "방산",
+      "국내 증시 전반"
+    ],
+    "keywords": [
+      "김정은",
+      "북한",
+      "중국",
+      "지정학",
+      "한반도",
+      "외교"
+    ],
+    "reason": "김정은의 전격 방중은 한반도 지정학적 리스크 완화에 대한 기대감을 높여 국내 증시 전반에 긍정적인 투자 심리 개선 요인으로 작용할 수 있습니다.",
+    "action_point": "한반도 지정학적 리스크 완화 가능성을 반영하여, 국내 증시 내 저평가된 한국 자산 비중 확대를 검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[속보] 김정은 방중… 통일부 “오늘 신압록대교 통해 단둥 도착” - 조선비즈 - Chosunbiz",
+    "title_ko": "[속보] 김정은 방중… 통일부 “오늘 신압록대교 통해 단둥 도착” - 조선비즈 - Chosunbiz",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSzNrSk0tSzlod254TXhWdWFESzdrVXZyWG5LR0d4OVg4VjJoTGxfbHpDTTJYRmVkUG1XeXBaWlZvUlF5UXpBWU1IRFpmNk01NUc1WkEzRjJtb3pzQ0dPcjgwbE02RTd1RlRSUF9ObGNCUFA5cUtWVzJwSDdTTkFaSm5UaHNfd9IBmgFBVV95cUxOdkM3eFp4ejI5M2tKQWVrczdNcmFVWXQ5MDlOYm5KS1Z5RGJaZy1EbVVRUHlLOWFfRXZZNmd2WUhMOFBPTFlsRmZuZlRHY3BiR09VZzlaUW1MN2JabW95eDFSaXlpYUFaZkNidktIajFMQ1Y3bGNqdlN2VG8zZjVnNWlDUmJxdFN5NUk0Q0ZyMEwwNnhfc0FQZVdR?oc=5",
+    "published": "Sat, 24 Oct 2026 06:22:00 GMT",
+    "fetched_at": "2026-10-24 16:47:04",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "방산"
+    ],
+    "keywords": [
+      "김정은",
+      "방중",
+      "북중 관계",
+      "지정학"
+    ],
+    "reason": "김정은의 방중은 북한과 중국 간의 외교적 움직임을 나타내며, 이는 한반도 지정학적 리스크와 역내 안보 환경에 잠재적 영향을 미칠 수 있습니다. 향후 북한의 대외 전략 변화 가능성을 주시해야 합니다.",
+    "action_point": "한반도 지정학적 리스크 변화 가능성에 대비하여 국내 증시 내 방산 및 지정학적 민감 섹터 비중을 재점검하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "[속보] 北김정은, 6·25전쟁 中참전기념일 맞아 전격 방중…新압록강대교 통해 단둥 도착",
+    "title_ko": "[속보] 北김정은, 6·25전쟁 中참전기념일 맞아 전격 방중…新압록강대교 통해 단둥 도착",
+    "link": "https://www.mk.co.kr/news/politics/12184821",
+    "published": "Sat, 24 Oct 2026 15:47:01 +09:00",
+    "fetched_at": "2026-10-24 16:47:53",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "방산"
+    ],
+    "keywords": [
+      "김정은",
+      "중국",
+      "방중",
+      "북중관계",
+      "미북대화",
+      "지정학"
+    ],
+    "reason": "김정은 위원장의 전격 방중은 미북대화 전 중국의 지지를 확보하려는 북한의 전략적 행보로 해석됩니다. 이는 북중 혈맹관계를 과시하며 향후 한반도 비핵화 협상 구도에 미묘한 영향을 미칠 수 있습니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "[속보] ‘사망설’ 돌던 북한 김정은 방중…오늘 신압록대교 통해 단둥 도착",
+    "title_ko": "[속보] ‘사망설’ 돌던 북한 김정은 방중…오늘 신압록대교 통해 단둥 도착",
+    "link": "https://www.mk.co.kr/news/politics/12184814",
+    "published": "Sat, 24 Oct 2026 15:14:39 +09:00",
+    "fetched_at": "2026-10-24 16:48:23",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "방산",
+      "대북 관련주"
+    ],
+    "keywords": [
+      "김정은",
+      "북한",
+      "중국",
+      "지정학",
+      "한반도 리스크"
+    ],
+    "reason": "김정은 위원장의 '사망설' 해소는 북한 정권의 안정성을 확인하며 한반도 지정학적 불확실성을 일시적으로 완화합니다. 중국과의 외교 활동 재개는 향후 남북 관계 및 국제 정세 변화의 가능성을 시사합니다.",
+    "action_point": "북한 김정은 사망설 해소로 한반도 지정학적 불확실성이 일시 완화됨에 따라, 방산주 단기 조정 가능성을 주시."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Silicon Valley Democrats demand investigation into Starlink restrictions in Ukraine",
+    "title_ko": "실리콘밸리 민주당 의원들, 우크라이나 스타링크 제한에 대한 조사 요구",
+    "link": "https://www.cnbc.com/2026/10/23/starlink-ukraine-musk-trump-congress.html",
+    "published": "Fri, 23 Oct 2026 15:33:47 GMT",
+    "fetched_at": "2026-10-24 16:45:20",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "위성통신",
+      "방위산업"
+    ],
+    "keywords": [
+      "스타링크",
+      "우크라이나",
+      "미국 정치",
+      "지정학"
+    ],
+    "reason": "이 기사는 우크라이나 전쟁에서 스타링크의 역할에 대한 정치적 조사가 시작될 수 있음을 시사하며, 이는 지정학적 분쟁에 관여하는 민간 기술 기업에 대한 잠재적 규제 강화로 이어질 수 있습니다.",
+    "action_point": "군사적 역할을 하는 민간 기술 기업에 대한 투자 리스크를 재점검하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "What a day in customer service looks like — as AI changes everything",
+    "title_ko": "AI가 모든 것을 바꾸는 시대, 고객 서비스 현장의 하루",
+    "link": "https://www.cnbc.com/2026/10/24/ai-customer-service-jobs-work.html",
+    "published": "Sat, 24 Oct 2026 05:00:01 GMT",
+    "fetched_at": "2026-10-24 16:45:29",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "기술(AI)",
+      "소프트웨어",
+      "IT 서비스",
+      "금융",
+      "통신",
+      "유통"
+    ],
+    "keywords": [
+      "AI",
+      "고객 서비스",
+      "자동화",
+      "생산성",
+      "비용 효율화"
+    ],
+    "reason": "AI의 고객 서비스 도입은 기업의 운영 효율성 및 생산성 향상에 기여하며 장기적으로 기업 수익성 개선에 긍정적인 영향을 미칠 것입니다. 이는 광범위한 서비스 산업 전반에 걸쳐 구조적 변화를 가속화할 잠재력이 있습니다.",
+    "action_point": "AI 기술 도입을 통해 고객 서비스 효율성 및 비용 절감 효과가 기대되는 서비스 섹터 선도 기업에 대한 투자 기회 모색."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "中왕이 “미중, AI 공동 발전·관리 책임”…국제규범 논의 촉구 - 동아일보",
+    "title_ko": "中왕이 “미중, AI 공동 발전·관리 책임”…국제규범 논의 촉구",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4tdkgzYnlRYWZsVThtTV9taGNCTGJWVTJyT0paWWFaanhaeWVLczJCRm9nZFg2TWl1VUp2RFVxaDJxNV9iV3lGcGVhMF9hSFNDNlFaS1gwTS1UbUVnU1FmLVo3aFdHVzdQdjFCSDJRRHV2ZWPSAWZBVV95cUxPcTZBeXExSm95WUxwWTI3UlZqRVktRTRGYkg3am93d192UHdNM1NfXzBlaEotclk2Q0lqVk5Kb3J5REJ4c0ZRQ1I2NTVhRmItM1hGX3lxNGVBWlNyR1lxdFRzRDlEUFE?oc=5",
+    "published": "Sat, 24 Oct 2026 05:10:17 GMT",
+    "fetched_at": "2026-10-24 16:46:14",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "IT/기술",
+      "반도체"
+    ],
+    "keywords": [
+      "미중 관계",
+      "AI",
+      "국제 규범",
+      "기술 협력"
+    ],
+    "reason": "미중 기술 경쟁의 핵심인 AI 분야에서 중국이 협력 논의를 제안하며 장기적인 불확실성 완화 가능성을 시사, 기술 섹터 전반에 긍정적인 기대감을 형성할 수 있습니다.",
+    "action_point": "미중 AI 협력 진전 가능성에 주목하며 기술 및 반도체 섹터에 대한 장기적 포트폴리오 비중 유지."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "[속보] 여권 관계자 “김정은, 오늘 방중 일정 끝내고 귀국할 듯”",
+    "title_ko": "[속보] 여권 관계자 “김정은, 오늘 방중 일정 끝내고 귀국할 듯”",
+    "link": "https://www.mk.co.kr/news/politics/12184831",
+    "published": "Sat, 24 Oct 2026 16:37:00 +09:00",
+    "fetched_at": "2026-10-24 16:47:22",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "방산",
+      "남북경협주",
+      "외교/안보 관련주"
+    ],
+    "keywords": [
+      "김정은",
+      "방중",
+      "귀국",
+      "북한",
+      "중국",
+      "지정학"
+    ],
+    "reason": "김정은 북한 국무위원장의 방중 일정이 마무리 단계에 접어들었다는 소식은 관련 지정학적 불확실성을 일단락시키는 요인입니다. 그러나 방문 성과가 구체적으로 알려지지 않아 시장 전반의 방향성에 미치는 즉각적인 영향은 중립적일 것으로 판단됩니다.",
+    "action_point": "김정은 방중 종료 소식으로 인한 즉각적인 포트폴리오 변경은 불필요함."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[속보] 北 김정은 국무위원장, 중대장대회 지도 - 연합뉴스TV",
+    "title_ko": "[속보] 北 김정은 국무위원장, 중대장대회 지도",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41OFVrVGl0NEZnWkxaWVNUb3A5VEhIZDA5VlVlM3g1aEhDakRyMXd3NVZ2UUl5N3NGbEw5R084M3dGY01oY3Q3OEMtSE15Q2RFbmt1TklpMk5YQUlheHozSGdia2lPOGM?oc=5",
+    "published": "Sat, 24 Oct 2026 00:53:00 GMT",
+    "fetched_at": "2026-10-24 16:45:37",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [],
+    "keywords": [
+      "북한",
+      "김정은",
+      "중대장대회",
+      "지정학"
+    ],
+    "reason": "김정은 위원장의 중대장대회 지도는 북한의 통상적인 내부 군사 활동으로, 현재로서는 직접적인 도발이나 정책 변화를 의미하지 않는다. 시장에 미칠 즉각적이고 중대한 영향은 제한적이다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "항소심 무죄 오세훈 “총선 다가오고 있다…국힘 통합 위해 최선”",
+    "title_ko": "항소심 무죄 오세훈 “총선 다가오고 있다…국힘 통합 위해 최선”",
+    "link": "https://www.mk.co.kr/news/politics/12184822",
+    "published": "Sat, 24 Oct 2026 16:05:02 +09:00",
+    "fetched_at": "2026-10-24 16:47:34",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "부동산"
+    ],
+    "keywords": [
+      "오세훈",
+      "총선",
+      "국민의힘",
+      "부동산",
+      "전월세"
+    ],
+    "reason": "서울시장의 항소심 무죄 판결 및 총선과 당 통합 관련 정치적 발언에 대한 뉴스다. 구체적인 경제 정책 변화나 금융 시장에 직접적인 영향을 미칠 만한 내용은 포함되어 있지 않다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "삼전닉스 성과급 7억 vs 대만 마이크론 1.5억.. 차이 큰 이유는 [반도체플러스]",
+    "title_ko": "삼전닉스 성과급 7억 vs 대만 마이크론 1.5억.. 차이 큰 이유는 [반도체플러스]",
+    "link": "https://www.mk.co.kr/news/business/12184815",
+    "published": "Sat, 24 Oct 2026 15:20:49 +09:00",
+    "fetched_at": "2026-10-24 16:48:10",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "반도체"
+    ],
+    "keywords": [
+      "성과급",
+      "반도체",
+      "삼성전자",
+      "SK하이닉스",
+      "마이크론",
+      "노조"
+    ],
+    "reason": "한국과 대만 주요 반도체 기업 간 성과급 지급 방식 및 규모 차이를 비교하는 기사로, 기업의 인건비 구조와 노사 관계가 장기적인 경쟁력에 미칠 영향을 간접적으로 시사합니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "Qatar deal to buy U.S. natural gas shows how Iran war has redrawn global energy markets",
     "title_ko": "카타르의 미국 천연가스 구매 계약은 이란 전쟁이 글로벌 에너지 시장을 어떻게 재편했는지 보여준다",
     "link": "https://www.cnbc.com/2026/10/23/cheniere-qatar-energy-lng-natural-gas-iran-war-strait-hormuz.html",
@@ -2603,407 +2988,5 @@
     ],
     "reason": "국민연금의 강화된 자사주 의결권 기준은 기업의 주주환원 정책을 강화하고 투명한 자본 활용을 촉진할 것입니다. 이는 국내 기업들의 지배구조 개선과 코리아 디스카운트 해소에 긍정적인 영향을 미칠 수 있습니다.",
     "action_point": "자사주 소각 등 주주환원 정책 강화가 예상되는 국내 저평가 기업을 발굴하여 비중 확대를 검토하십시오."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "이 대통령 “주택 공급 성패는 속도…3기 신도시 착공 최대한 앞당겨야”",
-    "title_ko": "이 대통령 “주택 공급 성패는 속도…3기 신도시 착공 최대한 앞당겨야”",
-    "link": "https://www.mk.co.kr/news/politics/12180943",
-    "published": "Tue, 20 Oct 2026 18:58:06 +09:00",
-    "fetched_at": "2026-10-20 19:42:45",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "부동산",
-      "건설",
-      "건축자재"
-    ],
-    "keywords": [
-      "주택 공급",
-      "3기 신도시",
-      "부동산 정책",
-      "건설 투자"
-    ],
-    "reason": "대통령의 3기 신도시 착공 가속화 지시는 중장기적으로 수도권 주택 공급을 확대하여 부동산 시장 안정화에 기여하고, 단기적으로는 건설 및 건축자재 산업에 긍정적인 영향을 미칠 것으로 예상됩니다.",
-    "action_point": "수도권 주택 공급 확대 정책으로 인한 중장기 부동산 시장의 가격 안정화 압력을 고려하여 실물 부동산 포트폴리오 비중 조정을 검토하고, 건설 섹터 내 수혜 기업 투자를 모색하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "코어위브가 남긴 교훈…AI서열 가르는 새 기준 생겼다 [글로벌 인사이트]",
-    "title_ko": "코어위브가 남긴 교훈…AI서열 가르는 새 기준 생겼다 [글로벌 인사이트]",
-    "link": "https://www.mk.co.kr/news/it/12180937",
-    "published": "Tue, 20 Oct 2026 18:47:57 +09:00",
-    "fetched_at": "2026-10-20 19:42:51",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "AI",
-      "반도체",
-      "클라우드 컴퓨팅",
-      "기술주"
-    ],
-    "keywords": [
-      "코어위브",
-      "AI 데이터센터",
-      "엔비디아",
-      "AI 투자",
-      "주가 급락"
-    ],
-    "reason": "AI 붐 속 개별 기업의 급락은 단순히 GPU 확보를 넘어선 AI 기업의 사업 모델 및 수익성에 대한 시장의 경고로, 과열된 AI 관련 투자 심리 냉각 가능성을 시사합니다.",
-    "action_point": "단순 AI 성장 기대감에 기반한 투자 비중을 축소하고, 실질적 수익 모델과 재무 건전성을 갖춘 AI 기업으로 포트폴리오를 재조정해야 합니다."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "France curfews calm unrest as Macron faces criticism over Gulf trip",
-    "title_ko": "프랑스 통행금지 조치로 소요 사태 진정, 마크롱 대통령 걸프 순방으로 비난 직면",
-    "link": "https://www.cnbc.com/2026/10/20/france-protests-curfews-macron-gulf-trip.html",
-    "published": "Tue, 20 Oct 2026 10:02:57 GMT",
-    "fetched_at": "2026-10-20 19:40:27",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "유럽 증시",
-      "관광",
-      "명품/소비재",
-      "소매"
-    ],
-    "keywords": [
-      "프랑스",
-      "정치 불안",
-      "사회 불안",
-      "유럽 경제",
-      "마크롱"
-    ],
-    "reason": "프랑스의 소요 사태가 통행금지 조치로 일시 진정되면서 유럽 지역의 단기적인 경제 활동 중단 우려는 완화되었으나, 마크롱 대통령에 대한 비난에서 보듯이 근본적인 정치적 불안정성은 여전하다.",
-    "action_point": "프랑스의 정치적 불안정성 재발 가능성에 대비하여 유럽 시장 투자 비중을 보수적으로 유지하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "General Motors beats Wall Street's Q3 earnings expectations, narrows full-year guidance",
-    "title_ko": "제너럴 모터스, 3분기 실적 기대치 상회 및 연간 가이던스 조정",
-    "link": "https://www.cnbc.com/2026/10/20/general-motors-gm-earnings-q3-2026.html",
-    "published": "Tue, 20 Oct 2026 10:39:20 GMT",
-    "fetched_at": "2026-10-20 19:40:38",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "자동차",
-      "운송장비",
-      "부품"
-    ],
-    "keywords": [
-      "GM",
-      "자동차 산업",
-      "실적",
-      "가이던스"
-    ],
-    "reason": "GM의 예상치 상회 실적과 현금흐름 전망 상향은 글로벌 자동차 산업의 견고함을 보여주며, 경기 둔화 우려 속에서도 견조한 소비 수요가 유지되고 있음을 시사합니다.",
-    "action_point": "글로벌 자동차 섹터의 견조한 실적 흐름을 반영하여 국내외 자동차 및 부품 관련 자산의 비중 확대 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "CNBC Daily Open: Tech rebounds in the U.S., but Asia isn’t buying it yet",
-    "title_ko": "CNBC 데일리 오픈: 미국 기술주 반등에도 아시아 시장은 아직 회의적",
-    "link": "https://www.cnbc.com/2026/10/20/daily-open-tech-stocks-rebound.html",
-    "published": "Tue, 20 Oct 2026 07:14:27 GMT",
-    "fetched_at": "2026-10-20 19:41:16",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "기술주",
-      "반도체",
-      "전기차"
-    ],
-    "keywords": [
-      "미국 기술주",
-      "나스닥",
-      "반등",
-      "엔비디아",
-      "테슬라"
-    ],
-    "reason": "미국 기술주가 주간 하락세 이후 반등하며 위험 선호 심리가 개선될 여지를 보였으나, 아시아 시장의 미온적 반응은 반등의 지속 가능성에 대한 의문을 제기합니다.",
-    "action_point": "미국 대형 기술주의 추가 반등 가능성을 염두에 두되, 아시아 시장의 미온적 반응을 고려해 국내 기술주 매수는 신중히 접근하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "경찰 '금융기관 해킹' 중수청에 통보",
-    "title_ko": "경찰 '금융기관 해킹' 중수청에 통보",
-    "link": "https://www.mk.co.kr/news/society/12180990",
-    "published": "Tue, 20 Oct 2026 19:31:38 +09:00",
-    "fetched_at": "2026-10-20 19:42:07",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "금융",
-      "사이버보안"
-    ],
-    "keywords": [
-      "금융기관",
-      "해킹",
-      "사이버테러",
-      "중대범죄",
-      "보안"
-    ],
-    "reason": "이 뉴스는 특정 금융기관의 해킹 사건에 대한 수사기관의 대응을 보여주며, 금융권 전반의 사이버 보안 리스크에 대한 경각심을 높일 수 있습니다. 다만, 아직 시장 전반의 시스템 리스크로 확대될 가능성은 낮습니다.",
-    "action_point": "이 뉴스는 특정 해킹 사건에 대한 수사기관의 절차적 대응이므로, 거시경제 및 포트폴리오 전반에 대한 즉각적인 액션은 요구되지 않아 해당 없음."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Stocks making the biggest moves premarket: Cleveland-Cliffs, Intel, Datadog, Amazon & more",
-    "title_ko": "개장 전 가장 큰 변동을 보이는 주식: 클리브랜드-클리프스, 인텔, 데이터독, 아마존 등",
-    "link": "https://www.cnbc.com/2026/10/19/stocks-making-the-biggest-moves-premarket-clf-intc-ddog-amzn.html",
-    "published": "Mon, 19 Oct 2026 12:00:34 GMT",
-    "fetched_at": "2026-10-20 19:40:10",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "기술",
-      "반도체",
-      "소프트웨어",
-      "유통",
-      "산업재"
-    ],
-    "keywords": [
-      "개장 전 거래",
-      "개별 주식 변동",
-      "주가 움직임",
-      "종목별 뉴스"
-    ],
-    "reason": "이 뉴스는 특정 개별 기업의 개장 전 주가 변동을 보여주며, 시장 전반이나 거시경제에 미치는 직접적인 영향은 제한적입니다. 각 기업의 특정 소식에 따른 반응으로 해석됩니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Alberta votes to remain part of Canada",
-    "title_ko": "앨버타주, 캐나다 잔류 결정",
-    "link": "https://www.cnbc.com/2026/10/20/alberta-canada-vote-remain.html",
-    "published": "Tue, 20 Oct 2026 08:50:35 GMT",
-    "fetched_at": "2026-10-20 19:41:06",
-    "sentiment": "호재",
-    "importance": 2,
-    "sectors": [
-      "에너지",
-      "금융"
-    ],
-    "keywords": [
-      "캐나다",
-      "앨버타",
-      "정치 안정성",
-      "분리주의",
-      "국민투표"
-    ],
-    "reason": "앨버타주의 캐나다 잔류 결정은 지역 정치적 불확실성을 해소하여 캐나다 경제 및 금융 시장의 안정성을 유지합니다. 이는 캐나다 원유 생산 및 관련 투자 환경에 대한 잠재적 위험 요소를 제거하는 효과가 있습니다.",
-    "action_point": "이 뉴스는 글로벌 시장 전반에 미치는 영향이 제한적이므로, 일반적인 포트폴리오 관점에서 직접적인 포트폴리오 조정은 해당 없음."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "BlackRock, GIC among investors chasing Indian telecom major Jio's IPO as anchor bids top $26 billion",
-    "title_ko": "블랙록, GIC 등 투자자들, 인도 통신 대기업 지오(Jio) IPO에 260억 달러 이상의 앵커 투자 참여",
-    "link": "https://www.cnbc.com/2026/10/20/jio-ipo-gic-blackrock-.html",
-    "published": "Tue, 20 Oct 2026 02:44:35 GMT",
-    "fetched_at": "2026-10-20 14:34:13",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "통신",
-      "신흥국 시장",
-      "자산운용"
-    ],
-    "keywords": [
-      "Jio Platforms",
-      "인도 IPO",
-      "신흥국 투자",
-      "통신 섹터",
-      "앵커 투자"
-    ],
-    "reason": "인도 최대 규모 IPO에 대한 글로벌 기관투자자들의 대규모 앵커 투자 참여는 인도 경제 및 통신 섹터의 성장 잠재력에 대한 강한 신뢰를 보여줍니다. 이는 전반적인 신흥국 시장에 대한 투자 심리 개선으로 이어질 수 있습니다.",
-    "action_point": "신흥국 포트폴리오 내 인도 시장 비중 확대를 검토하고, 인도 및 기타 신흥국 통신 섹터의 투자 기회를 모색하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "‘Open your doors for AI’: German chancellor urges businesses to embrace AI as Nvidia announces new investments",
-    "title_ko": "'AI에 문을 열어라': 독일 총리, AI 수용 촉구 및 엔비디아의 신규 투자 발표",
-    "link": "https://www.cnbc.com/2026/10/20/german-chancellor-urges-businesses-to-embrace-ai.html",
-    "published": "Tue, 20 Oct 2026 02:16:25 GMT",
-    "fetched_at": "2026-10-20 14:34:05",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "인공지능 (AI)",
-      "반도체",
-      "소프트웨어",
-      "기술주"
-    ],
-    "keywords": [
-      "AI",
-      "엔비디아",
-      "독일",
-      "스타트업",
-      "투자"
-    ],
-    "reason": "이 뉴스는 독일 정부의 AI 육성 의지와 엔비디아의 유럽 AI 스타트업 투자를 보여주며, 글로벌 AI 기술 발전 및 관련 섹터 성장에 대한 긍정적 신호를 보냅니다.",
-    "action_point": "글로벌 AI 및 반도체 섹터 비중 확대 기회를 모색하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "속보 트럼프, 다음달 김정은과 회담 여부에 \"모르겠다\" - YTN",
-    "title_ko": "트럼프, 김정은 회담 여부에 '모르겠다' 발언",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5iZUJTZy1OUmZDd292MGE2Yi1pS3o0dDBDaU40TDlkWmtyaUxPVEZCeUQ4Y0tfNldzRHZVbGl4MXQ3XzlxS25ET3I4TTZVZEFLX3Vsd0pQWlF5ZjNNdGc?oc=5",
-    "published": "Mon, 19 Oct 2026 19:57:00 GMT",
-    "fetched_at": "2026-10-20 14:34:33",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "남북경협주",
-      "방산"
-    ],
-    "keywords": [
-      "트럼프",
-      "김정은",
-      "북미정상회담",
-      "한반도 정세",
-      "지정학적 리스크"
-    ],
-    "reason": "트럼프의 발언은 차기 북미정상회담 개최에 대한 불확실성을 증폭시켜 한반도 지정학적 리스크 완화 기대감을 낮춘다. 이는 남북경협 관련 자산에 잠재적 부정 요인으로 작용한다.",
-    "action_point": "남북경협 관련 자산의 신규 편입을 유보하고, 기존 보유 비중을 보수적으로 유지."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Three big takeaways from the IMF-World Bank meetings",
-    "title_ko": "IMF-세계은행 회의의 세 가지 주요 시사점",
-    "link": "https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html",
-    "published": "Tue, 20 Oct 2026 00:33:34 GMT",
-    "fetched_at": "2026-10-20 09:55:46",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "금융",
-      "기술",
-      "에너지",
-      "국방"
-    ],
-    "keywords": [
-      "글로벌 부채",
-      "AI",
-      "우크라이나",
-      "지정학적 위험",
-      "IMF",
-      "세계은행"
-    ],
-    "reason": "이 기사는 IMF-세계은행 회의에서 글로벌 부채, AI의 영향, 우크라이나 사태 등 주요 경제 및 지정학적 리스크가 심도 있게 논의되었음을 시사하며, 이는 향후 투자 환경의 불확실성을 가중시킬 수 있습니다.",
-    "action_point": "글로벌 부채 위험에 노출된 신흥국 자산 비중 축소를 검토하고, 지정학적 위험 헤지를 위한 안전자산 편입을 고려하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Stock futures rise slightly after tech shares rebound to start the week: Live updates",
-    "title_ko": "기술주 반등 후 주식 선물 소폭 상승: 실시간 업데이트",
-    "link": "https://www.cnbc.com/2026/10/19/stock-market-today-live-updates.html",
-    "published": "Tue, 20 Oct 2026 00:11:20 GMT",
-    "fetched_at": "2026-10-20 09:56:03",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "기술주",
-      "주식 시장 전반"
-    ],
-    "keywords": [
-      "기술주",
-      "주식 선물",
-      "시장 반등",
-      "S&P 500",
-      "나스닥"
-    ],
-    "reason": "지난주 급락했던 기술주가 반등하며 주식 선물 시장에 긍정적인 신호를 주었으나, 이는 단기적인 반발 매수로 해석될 수 있으며 추세 전환을 의미하지는 않는다.",
-    "action_point": "단기 기술주 반등 시 포트폴리오 리밸런싱 기회로 활용하는 방안 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Wells Fargo's comeback is just getting started. Here's why I'm buying",
-    "title_ko": "웰스 파고의 반등은 이제 시작이다. 내가 매수하는 이유",
-    "link": "https://www.cnbc.com/2026/10/19/wells-fargo-stock-why-im-buying-as-its-comeback-gains-momentum.html",
-    "published": "Mon, 19 Oct 2026 19:21:56 GMT",
-    "fetched_at": "2026-10-20 09:56:14",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "금융"
-    ],
-    "keywords": [
-      "웰스파고",
-      "은행",
-      "대출 성장",
-      "수익성 개선",
-      "자산 상한 해제"
-    ],
-    "reason": "개별 애널리스트가 웰스 파고의 대출 성장, 수익성 개선, 자산 상한 해제 등을 근거로 매수 의견을 제시하는 기사로, 해당 은행의 긍정적인 개별 전망을 보여줍니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "KGM, 후시파트너스와 유럽 탄소 규제 대응 협력",
-    "title_ko": "KGM, 후시파트너스와 유럽 탄소 규제 대응 협력",
-    "link": "https://www.mk.co.kr/news/business/12180306",
-    "published": "Tue, 20 Oct 2026 09:45:14 +09:00",
-    "fetched_at": "2026-10-20 09:56:30",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "자동차",
-      "환경서비스",
-      "산업재"
-    ],
-    "keywords": [
-      "KGM",
-      "탄소국경조정제도",
-      "CBAM",
-      "유럽연합",
-      "ESG",
-      "탄소 관리"
-    ],
-    "reason": "KGM의 유럽 탄소국경조정제도(CBAM) 대응 협약은 개별 기업의 규제 준수 노력으로, 해당 기업의 유럽 시장 수출 경쟁력 유지에 긍정적이나 거시 경제 전반에 미치는 영향은 제한적입니다. 이는 전반적인 ESG 및 탄소 규제 강화 추세를 반영하며, 관련 산업의 중요성을 부각합니다.",
-    "action_point": "유럽 수출 비중이 높은 국내 제조업 섹터의 탄소국경조정제도(CBAM) 대응 현황을 점검하고, 탄소 배출량 감축 솔루션 관련 기업에 대한 투자 기회를 모색하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Saudi Arabia postpones big investor conference to 2027 as Iran-backed Houthis escalate attacks on kingdom",
-    "title_ko": "사우디아라비아, 이란 지원 후티 반군 공격 격화로 대규모 투자 컨퍼런스 2027년으로 연기",
-    "link": "https://www.cnbc.com/2026/10/19/saudi-arabia-postpones-fii-investor-conference-to-2027.html",
-    "published": "Mon, 19 Oct 2026 19:37:51 GMT",
-    "fetched_at": "2026-10-20 06:59:16",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "방산",
-      "건설",
-      "금융"
-    ],
-    "keywords": [
-      "사우디",
-      "후티",
-      "이란",
-      "지정학",
-      "국제유가",
-      "중동",
-      "투자심리"
-    ],
-    "reason": "이란 지원 후티 반군의 사우디 공격 격화는 중동 지역 지정학적 리스크를 고조시키고, 원유 공급 불안정성 및 유가 상승 압력을 높이며, 사우디 투자심리 위축으로 이어질 수 있습니다.",
-    "action_point": "중동 지정학적 리스크 및 국제 유가 상승 가능성에 대비하여 에너지 관련 자산 비중 확대를 검토하고 방산주 동향을 주시하십시오."
   }
 ]
