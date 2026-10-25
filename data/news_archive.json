@@ -2,6 +2,55 @@
   {
     "source": "GoogleNews_Korea",
     "market": "KR",
+    "title": "“연구진 20명이냐, AI냐” 질문받은 전 백악관 경제자문위원장 “슬프지만…” - 문화일보",
+    "title_ko": "“연구진 20명이냐, AI냐” 질문받은 전 백악관 경제자문위원장 “슬프지만…”",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBvUDlWaVQzTTRYazN4N1AyWklZUGFPbXlxMmNGdGdPVGczeFFidGc2Mm1ia013YnhHWGoyRUpZTkF3bXBjTXlPeWhad01NeU9F?oc=5",
+    "published": "Sat, 24 Oct 2026 22:09:11 GMT",
+    "fetched_at": "2026-10-25 09:41:38",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "기술",
+      "소프트웨어",
+      "IT 서비스",
+      "자동화"
+    ],
+    "keywords": [
+      "AI",
+      "인공지능",
+      "생산성",
+      "고용",
+      "기술혁신"
+    ],
+    "reason": "이 기사는 AI 기술 발전이 인간 노동을 대체하며 생산성을 향상시키는 장기적 추세를 재확인합니다. 이는 관련 기술 기업에 긍정적이며 전 산업에 걸쳐 효율성 증대를 가져오지만, 고용 시장에는 구조적 변화와 도전을 예고합니다.",
+    "action_point": "AI 기술 관련 기업 및 자동화 솔루션 제공 기업 비중 확대 검토."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Retail investors are not more sophisticated than 30 years ago, says former hedge fund manager",
+    "title_ko": "전 헤지펀드 매니저, '개인 투자자들은 30년 전보다 더 정교해지지 않았다' 주장",
+    "link": "https://www.cnbc.com/2026/10/24/stock-picking-could-hurt-investors-warns-former-hedge-fund-manager.html",
+    "published": "Sat, 24 Oct 2026 15:00:01 GMT",
+    "fetched_at": "2026-10-25 09:41:29",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "자산운용",
+      "증권"
+    ],
+    "keywords": [
+      "개인 투자자",
+      "인덱스 펀드",
+      "패시브 투자",
+      "액티브 투자"
+    ],
+    "reason": "이 기사는 개인 투자자가 개별 주식 및 복잡한 ETF로 시장을 이기기 어렵다고 지적하며, 광범위한 시장 인덱스 펀드의 장점을 재강조합니다. 이는 개인 투자 전략에 대한 장기적 관점을 제시합니다.",
+    "action_point": "본인의 직접 투자나 리테일 성향 자산 배분 시, 시장 지수형 자산 비중 확대를 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
     "title": "세계경제는 AI에 베팅했다…청구서는 이제부터다 - 머니투데이 - 머니투데이",
     "title_ko": "세계경제는 AI에 베팅했다…청구서는 이제부터다 - 머니투데이",
     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEUkkzWkMtXzh6aEh5NDNXWV9Wb0FuRUhVQkNHTHlUWnR4eEJheDM3NkhTYU01WFViWjJQOWdCMUk5YXlLUHJBdVhrOHp2Z1pXaFAzZjB0SkktbF9qZVBQcnFhZGVESzVn0gFuQVVfeXFMT0NIb3U0R0k0ZEVwUmpjUFBncmxqX211T05kRF9aVi1qbVFYOTdpTlU4QnRjUmtOUTktMDN3bGxteFVyUFhaazZWdVFNcVRlUXRhU3FoTGctOUszVGVSM3dDbEpYWG1qWnRVMnBFZXc?oc=5",
@@ -2933,57 +2982,5 @@
     ],
     "reason": "넷플릭스 실적 발표는 스트리밍 및 미디어 섹터 전반의 투자심리에 영향을 미치며, 특히 광고 사업 성장세와 M&A 전략은 해당 섹터의 미래 전망을 가늠하는 중요한 지표가 될 것입니다.",
     "action_point": "미디어/스트리밍 섹터에 투자 중인 경우 넷플릭스 실적 발표 결과에 따라 해당 섹터의 투자 비중 재조정 여부를 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "UK to deploy fighter jets to defend Saudi cities from Houthi attacks",
-    "title_ko": "영국, 후티 공격으로부터 사우디 도시 방어 위해 전투기 배치",
-    "link": "https://www.cnbc.com/2026/10/20/uk-fighter-jets-saudi-houthi-attacks-iran.html",
-    "published": "Tue, 20 Oct 2026 12:58:24 GMT",
-    "fetched_at": "2026-10-21 00:29:30",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "해운/물류",
-      "방산",
-      "보험"
-    ],
-    "keywords": [
-      "영국",
-      "사우디아라비아",
-      "후티",
-      "홍해",
-      "지정학",
-      "유가",
-      "해운"
-    ],
-    "reason": "영국의 사우디 방어 전투기 배치는 홍해 및 중동 지역의 지정학적 불안정성 확산을 억제하고 에너지 공급망 안정에 기여할 수 있습니다. 이는 유가 급등 위험을 일부 완화하며 해운 비용에 미치는 추가 악영향을 제한하는 효과를 가져올 수 있습니다.",
-    "action_point": "중동 지역 지정학적 리스크의 장기화 가능성에 대비하여 에너지 및 해운 섹터 투자 비중을 보수적으로 유지."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "HSBC CEO warns the AI boom won’t make every data center a good bet",
-    "title_ko": "HSBC CEO, AI 붐이 모든 데이터 센터를 좋은 투자처로 만들지는 않을 것이라고 경고",
-    "link": "https://www.cnbc.com/2026/10/20/data-center-financing-ai-debt-hsbc.html",
-    "published": "Tue, 20 Oct 2026 10:39:17 GMT",
-    "fetched_at": "2026-10-21 00:29:06",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "데이터 센터",
-      "클라우드 컴퓨팅",
-      "IT 인프라"
-    ],
-    "keywords": [
-      "AI",
-      "데이터 센터",
-      "IT 인프라 투자",
-      "과열 경고"
-    ],
-    "reason": "HSBC CEO의 발언은 AI 붐으로 인한 데이터 센터 투자 과열에 대한 경고로, 해당 섹터 내 옥석 가리기가 심화될 것을 시사하며 무분별한 투자는 지양해야 함을 강조합니다. 이는 데이터 센터 관련 기업들의 실적과 성장성에 대한 투자자들의 신중한 접근을 유도할 것입니다.",
-    "action_point": "AI 관련 데이터 센터 투자 시, 개별 기업의 실질적 경쟁력 및 수익성을 면밀히 분석하여 선별 투자하라."
   }
 ]
