@@ -1,5 +1,179 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "In pictures: Initially peaceful protests across France over inequality again descend into violence",
+    "title_ko": "프랑스 전역 불평등 시위, 초기 평화로웠던 분위기와 달리 다시 폭력 사태로 번져",
+    "link": "https://www.cnbc.com/2026/10/25/france-protests-paris-cost-of-living-inequality.html",
+    "published": "Sun, 25 Oct 2026 14:14:23 GMT",
+    "fetched_at": "2026-10-25 23:41:41",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "소비재",
+      "관광/레저",
+      "유럽 금융"
+    ],
+    "keywords": [
+      "프랑스",
+      "시위",
+      "불평등",
+      "생활비",
+      "사회 불안",
+      "유로존 경제"
+    ],
+    "reason": "프랑스의 지속적인 사회 불안정은 소비 심리 위축 및 관광 산업의 매출 감소로 이어져 유로존 전반의 경제 회복에 부정적 영향을 미칠 수 있습니다. 이는 유럽 자산에 대한 투자 심리를 악화시키는 요인입니다.",
+    "action_point": "유럽 소비재 및 관광 관련 주식 비중 축소 검토"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Saudi Arabia says it intercepted missiles and drones from Iran-backed Houthis",
+    "title_ko": "사우디아라비아, 이란 지원 후티 반군 미사일 및 드론 요격 발표",
+    "link": "https://www.cnbc.com/2026/10/25/saudi-arabia-houthi-missile-drone-interceptions.html",
+    "published": "Sun, 25 Oct 2026 13:41:37 GMT",
+    "fetched_at": "2026-10-25 23:41:49",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "국방/항공우주",
+      "해운/물류"
+    ],
+    "keywords": [
+      "사우디아라비아",
+      "후티 반군",
+      "미사일 요격",
+      "지정학적 리스크",
+      "유가"
+    ],
+    "reason": "중동 지역 지정학적 긴장 고조는 전 세계 원유 공급에 대한 불확실성을 증대시키고, 이는 유가 상승 압력 및 시장 변동성 확대로 이어질 수 있습니다.",
+    "action_point": "중동 지정학적 리스크 심화에 따른 유가 상승 가능성에 대비하여 에너지 섹터 비중 확대를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Earnings playbook: Alphabet, Microsoft, Amazon and more report this week. Here's what to expect",
+    "title_ko": "실적 가이드: 알파벳, 마이크로소프트, 아마존 등 주요 기업 이번 주 실적 발표 예정. 예상되는 내용은?",
+    "link": "https://www.cnbc.com/2026/10/25/earnings-week-alphabet-microsoft-amazon.html",
+    "published": "Sun, 25 Oct 2026 11:54:08 GMT",
+    "fetched_at": "2026-10-25 23:42:07",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "기술",
+      "클라우드 컴퓨팅",
+      "전자상거래",
+      "IT"
+    ],
+    "keywords": [
+      "실적 발표",
+      "빅테크",
+      "알파벳",
+      "마이크로소프트",
+      "아마존",
+      "S&P 500"
+    ],
+    "reason": "이번 주 주요 빅테크 기업들의 실적 발표는 전체 S&P 500 시장의 방향성과 기술 섹터의 단기 모멘텀을 결정하는 중요한 분수령이 될 것입니다. 이들 기업의 실적 및 가이던스는 광범위한 투자 심리에 큰 영향을 미칠 것입니다.",
+    "action_point": "미국 빅테크 기업 실적 발표에 따른 포트폴리오 내 기술주 비중 재검토."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "What Democrats and Republicans fear most about each other: CNBC survey has the answers",
+    "title_ko": "민주당과 공화당이 서로에게 가장 두려워하는 것: CNBC 설문조사 결과",
+    "link": "https://www.cnbc.com/2026/10/25/cnbc-survey-midterm-election-voter-fears.html",
+    "published": "Sun, 25 Oct 2026 12:00:01 GMT",
+    "fetched_at": "2026-10-25 23:41:32",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "미국 주식 시장 전반"
+    ],
+    "keywords": [
+      "미국 대선",
+      "정치적 불확실성",
+      "경제 정책",
+      "트럼프",
+      "민주당"
+    ],
+    "reason": "미국 대선 유권자들이 트럼프 전 대통령의 행정권 남용 가능성과 민주 사회주의 정책 도입을 우려하고 있음을 보여준다. 이는 향후 미국 경제 정책 방향과 시장 변동성 확대의 잠재적 요인으로 작용할 수 있다.",
+    "action_point": "미국 대선 관련 정치적 불확실성 증대에 대비하여 포트폴리오의 위험 자산 비중을 점검하고 변동성 확대 가능성에 대비하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Trump announces Audi will build $4 billion U.S. factory in Georgia",
+    "title_ko": "트럼프, 아우디의 40억 달러 규모 미국 조지아 공장 건설 발표",
+    "link": "https://www.cnbc.com/2026/10/24/trump-audi-factory-georgia.html",
+    "published": "Sun, 25 Oct 2026 02:17:24 GMT",
+    "fetched_at": "2026-10-25 23:42:01",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "자동차",
+      "제조업",
+      "건설"
+    ],
+    "keywords": [
+      "아우디",
+      "미국 제조업",
+      "조지아",
+      "자동차",
+      "트럼프"
+    ],
+    "reason": "아우디의 대규모 미국 공장 투자는 미국 제조업 강화 및 고용 창출에 기여하며, 향후 글로벌 공급망 재편 및 보호무역주의 강화 가능성을 시사합니다.",
+    "action_point": "미국 내 제조업 강화 기조에 따른 국내 완성차 및 부품 기업의 대미 수출 전략 변화를 면밀히 분석하고 포트폴리오에 반영."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "“맨밥을 누가 사먹겠나” 다 말렸는데…30년간 10조어치 팔린 세계적 ‘햇반’",
+    "title_ko": "“맨밥을 누가 사먹겠나” 다 말렸는데…30년간 10조어치 팔린 세계적 ‘햇반’",
+    "link": "https://www.mk.co.kr/news/business/12185308",
+    "published": "Sun, 25 Oct 2026 21:55:18 +09:00",
+    "fetched_at": "2026-10-25 23:42:49",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "식품",
+      "유통"
+    ],
+    "keywords": [
+      "CJ제일제당",
+      "햇반",
+      "해외시장확대",
+      "K-푸드",
+      "가공식품"
+    ],
+    "reason": "CJ제일제당의 햇반 해외 시장 확대 전략은 K-푸드 글로벌 경쟁력 강화 및 가공식품 수출 성장을 보여주며, 이는 해당 기업의 장기적인 매출 및 수익성 개선에 기여할 전망이다.",
+    "action_point": "CJ제일제당 주식의 장기 성장 잠재력을 재평가하고 비중 확대를 고려하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Biotech stocks are surging. How investors can play the new drug innovation boom",
+    "title_ko": "바이오텍 주식 급등: 투자자들은 새로운 신약 혁신 붐에 어떻게 참여할 수 있는가?",
+    "link": "https://www.cnbc.com/2026/10/24/biotech-stocks-drug-innovation-rally.html",
+    "published": "Sat, 24 Oct 2026 18:56:29 GMT",
+    "fetched_at": "2026-10-25 23:42:16",
+    "sentiment": "호재",
+    "importance": 2,
+    "sectors": [
+      "바이오텍",
+      "제약",
+      "헬스케어"
+    ],
+    "keywords": [
+      "바이오텍",
+      "신약개발",
+      "M&A",
+      "임상성공"
+    ],
+    "reason": "임상 성공, M&A 활동 증가, 신기술 도입 등으로 바이오텍 섹터가 회복세를 보이며 전반적인 투자 심리가 개선되고 있습니다. 이는 해당 산업의 중장기 성장 모멘텀을 시사합니다.",
+    "action_point": "바이오텍 섹터 내 신약 개발 혁신 기업 및 M&A 잠재력이 있는 종목 비중 확대를 검토하십시오."
+  },
+  {
     "source": "GoogleNews_Korea",
     "market": "KR",
     "title": "[단독] 대만에 전쟁 나면 한국도 위험…미 8군의 새 전쟁 수행 전략 - 뉴데일리",
@@ -2803,178 +2977,5 @@
     ],
     "reason": "본 기사는 특정 기업들의 개장 전 주가 움직임을 단순 보고하는 것으로, 광범위한 시장이나 거시 경제적 추세에 대한 직접적인 시사점은 제한적입니다. 개별 기업의 이슈가 주가에 반영되고 있음을 보여줍니다.",
     "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "SpaceX up 8% in premarket after earnings beat and Musk hints at Tesla tie-up",
-    "title_ko": "SpaceX, 실적 호조 및 머스크의 테슬라 합병 암시로 장전 8% 상승",
-    "link": "https://www.cnbc.com/2026/10/21/spacex-spcx-stock-musk-merger-tesla.html",
-    "published": "Wed, 21 Oct 2026 12:23:13 GMT",
-    "fetched_at": "2026-10-21 21:35:28",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "우주항공",
-      "전기차",
-      "기술주"
-    ],
-    "keywords": [
-      "SpaceX",
-      "Tesla",
-      "일론 머스크",
-      "합병",
-      "실적"
-    ],
-    "reason": "SpaceX의 견조한 실적 성장은 우주항공 산업의 잠재력을 부각시키며, Tesla와의 합병 가능성은 두 기업의 시너지를 통해 관련 기술 성장주 전반에 긍정적인 투자 심리를 형성할 수 있습니다.",
-    "action_point": "Tesla 주가 흐름을 주시하며, 우주항공 및 전기차 섹터 내 기술 성장주 투자 기회를 적극 모색."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Getty Images files for bankruptcy, advances restructuring plan",
-    "title_ko": "게티 이미지 파산 신청, 구조조정 계획 추진",
-    "link": "https://www.cnbc.com/2026/10/21/getty-images-files-for-bankruptcy-advances-restructuring-plan.html",
-    "published": "Wed, 21 Oct 2026 11:18:01 GMT",
-    "fetched_at": "2026-10-21 21:35:57",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "미디어",
-      "콘텐츠",
-      "기술"
-    ],
-    "keywords": [
-      "게티 이미지",
-      "파산",
-      "구조조정",
-      "챕터 11"
-    ],
-    "reason": "게티 이미지의 파산 신청 및 구조조정은 특정 기업의 재무적 어려움과 사업 재편 과정일 뿐, 광범위한 거시경제 지표나 전반적인 시장 심리에 미치는 영향은 미미합니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "몸값 12조원 된 ‘법률 AI’ 레고라…한국 전담팀 꾸린다",
-    "title_ko": "몸값 12조원 된 ‘법률 AI’ 레고라…한국 전담팀 꾸린다",
-    "link": "https://www.mk.co.kr/news/society/12181990",
-    "published": "Wed, 21 Oct 2026 21:05:00 +09:00",
-    "fetched_at": "2026-10-21 21:36:10",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "인공지능",
-      "소프트웨어/IT 서비스"
-    ],
-    "keywords": [
-      "레고라",
-      "법률 AI",
-      "리걸테크",
-      "기업가치",
-      "투자 유치",
-      "한국 시장 진출"
-    ],
-    "reason": "글로벌 법률 AI 기업의 한국 시장 진출 및 높은 기업가치 평가는 인공지능 및 리걸테크 분야의 성장 잠재력을 재확인하며, 관련 기술 투자 및 산업 전반의 효율성 증대 기대감을 높입니다.",
-    "action_point": "글로벌 AI 및 리걸테크 관련 상장기업 투자 비중 확대 검토"
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "삼성전기, 엔비디아 손잡고 세종·부산에 전용라인 구축",
-    "title_ko": "삼성전기, 엔비디아 손잡고 세종·부산에 전용라인 구축",
-    "link": "https://www.mk.co.kr/news/business/12182166",
-    "published": "Wed, 21 Oct 2026 21:01:00 +09:00",
-    "fetched_at": "2026-10-21 21:36:18",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "반도체",
-      "AI",
-      "전자 부품"
-    ],
-    "keywords": [
-      "삼성전기",
-      "엔비디아",
-      "AI 반도체",
-      "반도체 기판"
-    ],
-    "reason": "엔비디아와의 협력을 통한 삼성전기의 AI 반도체 기판 생산 라인 증설은 AI 섹터의 견조한 성장과 공급망 내 한국 기업의 중요성 증가를 나타낸다.",
-    "action_point": "AI 반도체 기판 관련 국내 기업 투자 비중 확대를 검토하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "삼성전기, 엔비디아와 AI 반도체 깐부 됐다…AI 기판 장기 공급",
-    "title_ko": "삼성전기, 엔비디아와 AI 반도체 깐부 됐다…AI 기판 장기 공급",
-    "link": "https://www.mk.co.kr/news/stock/12182179",
-    "published": "Wed, 21 Oct 2026 20:57:16 +09:00",
-    "fetched_at": "2026-10-21 21:36:25",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "반도체",
-      "인공지능",
-      "전자부품"
-    ],
-    "keywords": [
-      "삼성전기",
-      "엔비디아",
-      "AI 반도체",
-      "패키지 기판",
-      "공동 투자"
-    ],
-    "reason": "삼성전기가 엔비디아와 AI 반도체 패키지 기판 장기 공급 계약 및 공동 투자를 통해 AI 반도체 핵심 부품 시장에서의 입지를 강화하며, 국내 AI 공급망 전반에 긍정적 영향을 미칠 수 있습니다.",
-    "action_point": "AI 반도체 관련 국내 전자부품 및 후공정 섹터의 투자 비중 확대 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "UK inflation jumps to 3.5% — cementing rate hike expectations",
-    "title_ko": "영국 인플레이션 3.5%로 급등, 금리 인상 기대감 고조",
-    "link": "https://www.cnbc.com/2026/10/21/inflation-uk-cpi-interest-rates.html",
-    "published": "Wed, 21 Oct 2026 06:30:27 GMT",
-    "fetched_at": "2026-10-21 15:48:10",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "금융",
-      "부동산",
-      "소비재"
-    ],
-    "keywords": [
-      "영국 인플레이션",
-      "금리 인상",
-      "에너지 가격",
-      "긴축 정책"
-    ],
-    "reason": "영국 인플레이션의 예상치 상회는 영란은행의 추가 금리 인상 가능성을 높여 글로벌 긴축 기조를 강화합니다. 이는 전반적인 위험자산 투자 심리를 위축시키고, 특히 금리 민감 자산에 하방 압력으로 작용할 것입니다.",
-    "action_point": "영국 및 유럽 시장 익스포저가 있는 투자자는 관련 자산 비중 축소를 검토하고, 글로벌 긴축에 대비한 방어적 포트폴리오를 유지하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Oil prices climb as traders assess Middle East developments",
-    "title_ko": "중동 상황 평가 속 유가 상승",
-    "link": "https://www.cnbc.com/2026/10/21/oil-price-today-wti-brent-rise-on-middle-east-worries.html",
-    "published": "Wed, 21 Oct 2026 05:27:19 GMT",
-    "fetched_at": "2026-10-21 15:48:30",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "운송",
-      "화학",
-      "제조업"
-    ],
-    "keywords": [
-      "유가",
-      "중동",
-      "호르무즈 해협",
-      "지정학적 리스크",
-      "공급망"
-    ],
-    "reason": "호르무즈 해협은 글로벌 원유 수송의 핵심 통로이며, 이곳에서의 해상 마찰은 즉각적인 공급 차질 우려를 증폭시켜 국제 유가 상승을 견인합니다. 이는 전 세계적인 인플레이션 압력을 높이고 경기 둔화 우려를 심화시킬 수 있습니다.",
-    "action_point": "지정학적 리스크로 인한 고유가 상황에 대비, 에너지 섹터 비중 확대를 검토하고 유가 민감 섹터 노출을 줄여야 합니다."
   }
 ]
