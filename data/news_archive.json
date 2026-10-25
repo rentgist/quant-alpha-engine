@@ -2,6 +2,107 @@
   {
     "source": "GoogleNews_Korea",
     "market": "KR",
+    "title": "이란 외무 \"새 전쟁 일어나도 호르무즈 정책 안 바뀌어\" - 연합뉴스",
+    "title_ko": "이란 외무 \"새 전쟁 일어나도 호르무즈 정책 안 바뀌어\"",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzVWpLLUtPNVROU29WN0lfeGJPaFFVUnE0X3d5dnFPcWZPRGdjWXVaM1MwVXdQb3BsUDg2cTRIQ1hrU1RadFZ5dXg0TlhlMS1fdEdlazBMdThidUHSAWBBVV95cUxQdFBqSmRYbU9MNFVuNlhoOGdwaGZmNW5yZzUxQlBYZ295cEdFYzBKQmNwNVpaUXhucVdJTFFnQVhpWHhrOUNWUWY2dDR4QzlCN2RySDNERno0bHlSY3dmZVI?oc=5",
+    "published": "Sun, 25 Oct 2026 10:08:42 GMT",
+    "fetched_at": "2026-10-26 05:27:26",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "에너지",
+      "해운",
+      "항공",
+      "석유화학",
+      "방산"
+    ],
+    "keywords": [
+      "이란",
+      "호르무즈 해협",
+      "지정학적 위험",
+      "유가",
+      "중동"
+    ],
+    "reason": "이란 외무의 '새 전쟁' 발언은 호르무즈 해협의 지정학적 위험을 부각시키며, 이는 글로벌 유가 상승 및 해상 운송 불안정성 확대로 이어질 수 있습니다.",
+    "action_point": "고조되는 중동 지정학적 위험에 대비, 에너지 및 방산 섹터 비중 확대를 검토하고 유가 상승에 대한 포트폴리오 헤지 전략을 수립하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Brazil votes in tight runoff between Lula and Bolsonaro",
+    "title_ko": "브라질, 루라와 보우소나루 간 치열한 결선 투표 진행",
+    "link": "https://www.cnbc.com/2026/10/25/brazil-lula-bolsonaro-presidential-election-runoff.html",
+    "published": "Sun, 25 Oct 2026 18:41:45 GMT",
+    "fetched_at": "2026-10-26 05:26:54",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "원자재",
+      "금융",
+      "에너지",
+      "이머징마켓 펀드"
+    ],
+    "keywords": [
+      "브라질",
+      "대통령 선거",
+      "정치적 불확실성",
+      "이머징마켓",
+      "원자재 시장"
+    ],
+    "reason": "브라질 대통령 선거 결과에 따라 향후 재정 정책, 대외 관계, 환경 정책 등 국가 전반의 방향성이 결정됩니다. 이는 브라질 자산 가격 변동성 확대 및 글로벌 원자재 시장에 영향을 미 줄 수 있습니다.",
+    "action_point": "브라질 관련 자산(주식, 채권, 펀드) 투자자들은 선거 결과 발표 전까지 관련 포지션에 대한 리스크 관리를 강화하고, 결과에 따른 포트폴리오 재조정 계획을 수립해야 합니다."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[기고]북핵 위기 속 사관학교 통폐합, 10조 원짜리 ‘한국판 마지노선’ 참극 부를 수 있다 - 문화일보",
+    "title_ko": "[기고]북핵 위기 속 사관학교 통폐합, 10조 원짜리 ‘한국판 마지노선’ 참극 부를 수 있다 - 문화일보",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE84RXVJT1BtVWlmdnBvYTg2SHpJZDRrOGVJX3lEQi13NUN6LWgwdU5qdnpTUzBUQy1VY2g5M1dIYm9UZ0dSZWxfUnFmYXBBVXU5?oc=5",
+    "published": "Sun, 25 Oct 2026 13:40:59 GMT",
+    "fetched_at": "2026-10-26 05:27:15",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "국방",
+      "방산"
+    ],
+    "keywords": [
+      "북핵 위기",
+      "사관학교 통폐합",
+      "국방력 약화",
+      "지정학적 리스크"
+    ],
+    "reason": "이 기고문은 북핵 위기 속 사관학교 통폐합이 국방력 약화와 장기적인 한반도 지정학적 리스크를 증폭시킬 수 있다고 경고하며, 이는 국내 투자 심리 위축 및 국가 신용도 평가에 부정적인 영향을 미칠 수 있습니다.",
+    "action_point": "한반도 지정학적 리스크 증대 가능성에 대비하여 달러 등 안전자산 비중 확대를 고려하고 국내 증시 방어적 포트폴리오를 구축하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Ukraine disputes Elon Musk’s claim that its military violated Starlink terms during drone operations",
+    "title_ko": "우크라이나, 군 드론 작전 중 스타링크 약관 위반 주장한 일론 머스크에 반박",
+    "link": "https://www.cnbc.com/2026/10/25/ukraine-musk-starlink-terms-dispute.html",
+    "published": "Sun, 25 Oct 2026 18:18:49 GMT",
+    "fetched_at": "2026-10-26 05:27:03",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "방위산업",
+      "위성통신",
+      "기술"
+    ],
+    "keywords": [
+      "우크라이나",
+      "스타링크",
+      "일론 머스크",
+      "드론",
+      "지정학"
+    ],
+    "reason": "이 뉴스는 우크라이나 전쟁에서 스타링크 사용에 대한 논란을 다루며, 특정 기술의 군사적 활용 범위와 관련한 지정학적 불확실성을 시사합니다. 하지만 전체 전쟁 판도나 글로벌 경제에 미치는 직접적인 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
     "title": "김정은, 차량으로 첫 방중…유대 강화·경제 실리 ‘초점’ - 경향신문",
     "title_ko": "김정은, 차량으로 첫 방중…유대 강화·경제 실리 ‘초점’",
     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RdGZvVTlHRHZYOEpxX2t5cVFrdGNwYl96aV9CcS1mWEhzSFZmUzc5SUVCWVhKVnlxMW41QUlib0FPcGpVZmV3WTJ6bU5QQ2VPczJVRmx4aU9rUdIBX0FVX3lxTE9xaDY1cU13WnA3SEt1S2pwRnV5Z1FjNENyOUpvNnNBbWxOZjhVZDVsTUdhamk2WHFfWFc4VzZFSWdWYVhnTGpTV1ZGRmpWVkFKTFNIUElWSnpJZDBLWFBj?oc=5",
@@ -2878,100 +2979,5 @@
     ],
     "reason": "인텔의 대규모 반도체 공장 건설 지연은 회사의 실행 능력에 대한 의문을 제기하며, 장기적인 반도체 공급망 확장 및 경쟁 환경에 불확실성을 가중시킵니다.",
     "action_point": "반도체 섹터 내 파운드리 경쟁 환경 및 투자 지연 위험을 고려, 관련 기업 투자 비중 재조정 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Tesla earnings loom after Musk calls SpaceX merger a 'good idea'",
-    "title_ko": "머스크의 스페이스X 합병 발언 후 테슬라 실적 발표 임박",
-    "link": "https://www.cnbc.com/2026/10/21/tesla-tsla-q3-2026-earnings-report.html",
-    "published": "Wed, 21 Oct 2026 16:01:25 GMT",
-    "fetched_at": "2026-10-22 02:48:14",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "전기차",
-      "기술",
-      "자동차"
-    ],
-    "keywords": [
-      "테슬라",
-      "일론 머스크",
-      "스페이스X",
-      "실적",
-      "합병"
-    ],
-    "reason": "테슬라 실적은 전기차 및 기술 섹터의 주요 지표로, 글로벌 소비 심리와 산업 동향을 가늠할 수 있는 중요한 정보가 될 것입니다. 스페이스X 합병 발언은 장기적인 전략적 관점에서 주목할 필요가 있습니다.",
-    "action_point": "테슬라 및 전기차 관련주 보유 비중 검토 및 실적 발표 후 변동성 대비."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[속보] 北 \"박정천·김여정, 국경요새화 현장 현지시찰\" - 연합뉴스TV",
-    "title_ko": "[속보] 北 \"박정천·김여정, 국경요새화 현장 현지시찰\"",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBxbU1KMDBfWjJKVjAwRU53Vnl5Wl94OUY5WDV1OFRtWEdyTGZGWURyMC1uQjZHaFAyc2t4eXJEWEJjczQtTUdFN2JkN1lWLXotdFQ2a3VueWQ1anpKckFmV19qNUwycE0?oc=5",
-    "published": "Wed, 21 Oct 2026 07:03:00 GMT",
-    "fetched_at": "2026-10-22 02:48:25",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "방위산업",
-      "관광/레저",
-      "증시 전반"
-    ],
-    "keywords": [
-      "북한",
-      "지정학적 위험",
-      "국경",
-      "군사",
-      "김여정"
-    ],
-    "reason": "북한 지도부의 국경 요새화 현지 시찰은 한반도 내 지정학적 긴장감 유지 및 잠재적 위험을 시사하며, 이는 한국 증시 전반에 투자 심리 위축 요인으로 작용할 수 있습니다. 특히 외국인 투자자들의 리스크 회피 심리를 자극할 가능성이 있습니다.",
-    "action_point": "한반도 지정학적 리스크 대비 방어적 자산(예: 달러, 금) 비중 유지 또는 확대 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Earnings season is in full swing. These are Morgan Stanley's highest conviction plays",
-    "title_ko": "어닝 시즌 한창: 모건 스탠리가 강력 추천하는 종목들",
-    "link": "https://www.cnbc.com/2026/10/21/morgan-stanley-western-digital-terawulf-williams.html",
-    "published": "Wed, 21 Oct 2026 16:20:51 GMT",
-    "fetched_at": "2026-10-22 02:48:08",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "주식",
-      "금융"
-    ],
-    "keywords": [
-      "어닝 시즌",
-      "모건 스탠리",
-      "주식 추천",
-      "투자 전략"
-    ],
-    "reason": "모건 스탠리의 개별 종목 추천은 특정 주식에 대한 투자 심리에 긍정적 영향을 미치며, 투자자들이 어닝 시즌에 주목할 만한 종목을 선별하는 데 참고 자료가 된다.",
-    "action_point": "모건 스탠리가 추천하는 종목 리스트를 확인하고, 포트폴리오 내 관련 종목의 비중을 검토하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "“4700% 이런 이자 무효라면서요, 언제 돼요”…확인서 발급직원 단 4명뿐",
-    "title_ko": "“4700% 이런 이자 무효라면서요, 언제 돼요”…확인서 발급직원 단 4명뿐",
-    "link": "https://www.mk.co.kr/news/economy/12182233",
-    "published": "Wed, 21 Oct 2026 22:45:59 +09:00",
-    "fetched_at": "2026-10-22 02:48:43",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "금융"
-    ],
-    "keywords": [
-      "고금리 대출",
-      "불법 대부",
-      "금융감독원",
-      "소비자 보호"
-    ],
-    "reason": "이 뉴스는 불법 고금리 대부계약에 대한 무효화 조치와 금융당국의 행정 처리 지연 문제를 다루고 있습니다. 이는 서민층 금융 안정성에 일부 긍정적이나, 거시경제나 주요 투자 자산에 미치는 직접적인 영향은 제한적입니다.",
-    "action_point": "해당 없음"
   }
 ]
