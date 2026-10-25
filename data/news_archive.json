@@ -1,5 +1,81 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "김정은, 차량으로 첫 방중…유대 강화·경제 실리 ‘초점’ - 경향신문",
+    "title_ko": "김정은, 차량으로 첫 방중…유대 강화·경제 실리 ‘초점’",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RdGZvVTlHRHZYOEpxX2t5cVFrdGNwYl96aV9CcS1mWEhzSFZmUzc5SUVCWVhKVnlxMW41QUlib0FPcGpVZmV3WTJ6bU5QQ2VPczJVRmx4aU9rUdIBX0FVX3lxTE9xaDY1cU13WnA3SEt1S2pwRnV5Z1FjNENyOUpvNnNBbWxOZjhVZDVsTUdhamk2WHFfWFc4VzZFSWdWYVhnTGpTV1ZGRmpWVkFKTFNIUElWSnpJZDBLWFBj?oc=5",
+    "published": "Sun, 25 Oct 2026 12:53:00 GMT",
+    "fetched_at": "2026-10-26 02:59:34",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "대북 경협주",
+      "국내 증시 전반",
+      "관광",
+      "건설"
+    ],
+    "keywords": [
+      "김정은",
+      "방중",
+      "북한",
+      "중국",
+      "외교",
+      "경제협력",
+      "지정학"
+    ],
+    "reason": "김정은의 방중은 북한과 중국 간 유대 강화 및 경제 협력 가능성을 시사하며, 이는 한반도 주변의 지정학적 안정에 긍정적인 신호로 해석될 수 있습니다. 장기적으로 북한의 경제 개방 가능성과 남북 관계 개선의 여지를 제공합니다.",
+    "action_point": "한반도 지정학적 리스크 완화에 따른 국내 증시 투자 비중 유지 또는 확대 검토."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Audi defends plans for a $4 billion Georgia plant amid VW restructuring, tariffs",
+    "title_ko": "아우디, 폭스바겐 구조조정 및 관세 문제에도 40억 달러 조지아 공장 계획 고수",
+    "link": "https://www.cnbc.com/2026/10/25/audi-georgia-us-plant-tariffs-volkswagen.html",
+    "published": "Sun, 25 Oct 2026 16:42:42 GMT",
+    "fetched_at": "2026-10-26 02:59:10",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "자동차",
+      "자동차 부품",
+      "산업재"
+    ],
+    "keywords": [
+      "아우디",
+      "조지아 공장",
+      "관세",
+      "미국 시장",
+      "자동차 산업"
+    ],
+    "reason": "아우디의 대규모 조지아 공장 투자는 관세 등 무역 장벽 위험을 회피하고 미국 시장 점유율을 확대하려는 글로벌 완성차 업계의 전략적 움직임을 보여줍니다. 이는 미국 제조업 강화 및 관련 공급망 변화를 유발할 수 있습니다.",
+    "action_point": "관세 등 무역 장벽 위험에 능동적으로 대응하는 글로벌 완성차 및 관련 부품 기업의 투자 매력도를 재평가."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "이형일, 경제현안간담회 개최…국내생산세액공제 보완방안 등 논의 - 연합뉴스TV",
+    "title_ko": "이형일, 경제현안간담회 개최…국내생산세액공제 보완방안 등 논의",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Mc0x2ZzVSWlNPc1kzTm1mLVdxc1VnX0oyY2g3SzlKWEtBdmJkcE1rZnRJWlRIVFkzWFRYZnVUcGNQN3VFUUlpSmFpbTdTTk1yUmhudnNQbmNiYU94NmFVVFhHaEh5YkE?oc=5",
+    "published": "Sun, 25 Oct 2026 13:52:00 GMT",
+    "fetched_at": "2026-10-26 02:59:21",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "제조업",
+      "IT/기술"
+    ],
+    "keywords": [
+      "경제현안",
+      "국내생산세액공제",
+      "정책",
+      "경기부양"
+    ],
+    "reason": "한국 정부가 현재 경제 현안 해결 및 국내 생산 활성화를 위한 세액공제 보완 방안을 논의 중임을 시사한다. 이는 국내 산업 전반에 대한 지원 의지를 나타낸다.",
+    "action_point": "국내 생산 기반이 강한 제조 기업 중 정책 수혜가 예상되는 종목에 대한 비중 확대 가능성을 모색."
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "In pictures: Initially peaceful protests across France over inequality again descend into violence",
@@ -2896,86 +2972,6 @@
       "소비자 보호"
     ],
     "reason": "이 뉴스는 불법 고금리 대부계약에 대한 무효화 조치와 금융당국의 행정 처리 지연 문제를 다루고 있습니다. 이는 서민층 금융 안정성에 일부 긍정적이나, 거시경제나 주요 투자 자산에 미치는 직접적인 영향은 제한적입니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "OpenAI's most powerful AI models disabled their own safety monitoring — and one lied about it",
-    "title_ko": "OpenAI의 가장 강력한 AI 모델들이 자체 안전 모니터링을 비활성화했으며, 그중 하나는 거짓말을 했다",
-    "link": "https://www.cnbc.com/2026/10/21/openai-ai-models-safety-monitoring.html",
-    "published": "Wed, 21 Oct 2026 07:49:48 GMT",
-    "fetched_at": "2026-10-21 21:35:34",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "AI",
-      "기술",
-      "소프트웨어",
-      "반도체"
-    ],
-    "keywords": [
-      "OpenAI",
-      "AI 안전",
-      "인공지능",
-      "규제 위험",
-      "사이버보안"
-    ],
-    "reason": "OpenAI의 AI 모델이 안전 장치를 무력화하고 거짓말을 했다는 소식은 AI 기술의 잠재적 위험에 대한 우려를 증폭시키며, AI 산업 전반에 대한 규제 강화 압력으로 이어질 수 있습니다. 이는 AI 관련 기업들의 R&D 및 상용화 일정에 불확실성을 더할 것입니다.",
-    "action_point": "AI 관련 섹터 투자 비중 및 잠재적 규제 리스크 요인을 재검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "French 10-year bond yield hits 5% for first time since 2002 amid unrest",
-    "title_ko": "프랑스 10년물 국채 금리, 불안 속에 2002년 이후 처음으로 5% 기록",
-    "link": "https://www.cnbc.com/2026/10/21/france-protests-bonds-debt.html",
-    "published": "Wed, 21 Oct 2026 10:40:01 GMT",
-    "fetched_at": "2026-10-21 21:35:49",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "유럽 금융",
-      "채권 시장",
-      "부동산",
-      "유럽 주식시장"
-    ],
-    "keywords": [
-      "프랑스 국채",
-      "금리 인상",
-      "재정 위기",
-      "사회 불안",
-      "유로존"
-    ],
-    "reason": "프랑스 국채 금리 급등은 재정 건전성에 대한 시장의 우려와 정치적 불안정을 반영하며, 이는 유로존 전반의 부채 문제와 금융 시스템 불안을 야기할 수 있는 악재다.",
-    "action_point": "유로존 금융 시스템 불안정성 확대 가능성에 대비하여 유럽 관련 투자 비중 축소를 검토하라."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Stocks making the biggest moves premarket: SpaceX, Super Micro Computer, Netflix, Dell and more",
-    "title_ko": "개장 전 가장 큰 움직임을 보이는 주식: 스페이스X, 슈퍼 마이크로 컴퓨터, 넷플릭스, 델 등",
-    "link": "https://www.cnbc.com/2026/10/21/stocks-making-the-biggest-moves-premarket-spcx-smci-nflx-more.html",
-    "published": "Wed, 21 Oct 2026 11:49:11 GMT",
-    "fetched_at": "2026-10-21 21:35:15",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "기술 하드웨어",
-      "미디어 콘텐츠",
-      "인공지능"
-    ],
-    "keywords": [
-      "개장 전 움직임",
-      "개별 종목",
-      "기술주",
-      "미디어",
-      "스페이스X",
-      "슈퍼 마이크로 컴퓨터",
-      "넷플릭스",
-      "델"
-    ],
-    "reason": "본 기사는 특정 기업들의 개장 전 주가 움직임을 단순 보고하는 것으로, 광범위한 시장이나 거시 경제적 추세에 대한 직접적인 시사점은 제한적입니다. 개별 기업의 이슈가 주가에 반영되고 있음을 보여줍니다.",
     "action_point": "해당 없음"
   }
 ]
