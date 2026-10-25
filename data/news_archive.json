@@ -1,5 +1,57 @@
 [
   {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "低PBR 기업 압박 본격화…“구조적 이유” 하소연",
+    "title_ko": "저PBR 기업 압박 본격화…“구조적 이유” 하소연",
+    "link": "https://www.mk.co.kr/news/stock/12185040",
+    "published": "Sun, 25 Oct 2026 14:24:02 +09:00",
+    "fetched_at": "2026-10-25 14:31:36",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "금융",
+      "자동차",
+      "유틸리티",
+      "건설",
+      "지주회사"
+    ],
+    "keywords": [
+      "저PBR",
+      "기업 밸류업 프로그램",
+      "주주환원",
+      "배당 확대",
+      "지배구조 개선",
+      "한국거래소"
+    ],
+    "reason": "한국거래소의 저PBR 기업 명단 공개가 임박하면서 해당 기업들의 주주환원 정책 및 지배구조 개선 노력이 가속화될 것이며, 이는 특정 업종 및 기업의 재평가를 유도하며 국내 증시의 장기적 체질 개선에 기여할 잠재력이 있다.",
+    "action_point": "저PBR 섹터 내 재무 건전성이 우수하고 주주환원 의지가 높은 국내 기업의 비중 확대를 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "트럼프, 러 알래스카 LNG 투자 묻자 \"전쟁 끝나면 러와도 거래\" - 연합뉴스TV",
+    "title_ko": "트럼프, 러 알래스카 LNG 투자 묻자 \"전쟁 끝나면 러와도 거래\" - 연합뉴스TV",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2YzZ3cDNLeDMtSmwyZUdYS3E4eUJjeGFLZEcxZ1BHZ3dHMjJmWEI1NWhya2Rvb2p5ZTFrNEtDT0VvYzJPVk4xWUNLOXhEMUp2TWh2SHZTZFloNWw2aTUtWEd4OFpXYXM?oc=5",
+    "published": "Sun, 25 Oct 2026 01:07:00 GMT",
+    "fetched_at": "2026-10-25 14:31:17",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "에너지",
+      "해운"
+    ],
+    "keywords": [
+      "트럼프",
+      "러시아",
+      "LNG",
+      "에너지",
+      "지정학"
+    ],
+    "reason": "트럼프의 발언은 미래 미국 행정부의 대러시아 에너지 정책 변화 가능성을 시사한다. 이는 우크라이나 전쟁 종료 시 러시아 에너지 자원의 국제 시장 복귀를 통해 장기적으로 글로벌 에너지 시장의 공급 안정화 및 가격 변동성에 영향을 줄 수 있다.",
+    "action_point": "트럼프 당선 시 대러시아 에너지 무역 재개 가능성에 대비하여 에너지 섹터 포트폴리오의 장기 전략을 점검하라."
+  },
+  {
     "source": "GoogleNews_Korea",
     "market": "KR",
     "title": "“연구진 20명이냐, AI냐” 질문받은 전 백악관 경제자문위원장 “슬프지만…” - 문화일보",
@@ -2932,55 +2984,5 @@
     ],
     "reason": "미-이란 중재 기대감으로 국제유가가 5개월 만에 최고치에서 하락하여 단기적 에너지 비용 부담 완화 및 인플레이션 압력 감소에 긍정적이다.",
     "action_point": "유가 하락에 따른 에너지 비용 절감 수혜주(항공, 해운, 화학 등)에 대한 비중 확대를 검토하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "“이쯤되면 선진국이 맞는지 모르겠네요”…프랑스 곳곳 ‘야간통행금지령’",
-    "title_ko": "“이쯤되면 선진국이 맞는지 모르겠네요”…프랑스 곳곳 ‘야간통행금지령’",
-    "link": "https://www.mk.co.kr/news/world/12181163",
-    "published": "Tue, 20 Oct 2026 23:16:11 +09:00",
-    "fetched_at": "2026-10-21 04:46:14",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "소비재/유통",
-      "관광",
-      "금융"
-    ],
-    "keywords": [
-      "프랑스",
-      "사회불안",
-      "폭력시위",
-      "채권금리",
-      "고물가"
-    ],
-    "reason": "프랑스 내 폭력 시위 확산과 통행금지령은 심각한 사회 불안정을 야기하며, 소매 및 관광 산업에 직접적인 피해를 주고 프랑스 국채 금리 상승을 통해 유로존 전반의 신뢰도를 약화시킬 수 있습니다. 이는 유럽 경제 전반에 대한 투자 심리를 위축시킬 우려가 있습니다.",
-    "action_point": "프랑스 등 유로존 주요국 불안정성 확대로 유럽 시장 자산 비중 축소를 검토하고, 유로화 약세 전환 가능성에 대비하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Here's what to expect when Netflix reports earnings after the bell",
-    "title_ko": "넷플릭스 실적 발표 후 예상되는 점",
-    "link": "https://www.cnbc.com/2026/10/20/netflix-nflx-earnings-q3-2026.html",
-    "published": "Tue, 20 Oct 2026 16:00:01 GMT",
-    "fetched_at": "2026-10-21 04:45:28",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "미디어/스트리밍",
-      "기술주",
-      "광고"
-    ],
-    "keywords": [
-      "넷플릭스",
-      "실적 발표",
-      "스트리밍",
-      "광고 사업",
-      "M&A"
-    ],
-    "reason": "넷플릭스 실적 발표는 스트리밍 및 미디어 섹터 전반의 투자심리에 영향을 미치며, 특히 광고 사업 성장세와 M&A 전략은 해당 섹터의 미래 전망을 가늠하는 중요한 지표가 될 것입니다.",
-    "action_point": "미디어/스트리밍 섹터에 투자 중인 경우 넷플릭스 실적 발표 결과에 따라 해당 섹터의 투자 비중 재조정 여부를 검토."
   }
 ]
