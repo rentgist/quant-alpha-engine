@@ -1,5 +1,77 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Stock futures climb as traders try to recover from the S&P 500's losing week: Live updates",
+    "title_ko": "S&P 500의 하락세 이후 주식 선물 상승, 트레이더들 회복 모색: 실시간 업데이트",
+    "link": "https://www.cnbc.com/2026/10/25/stock-market-today-live-updates.html",
+    "published": "Sun, 25 Oct 2026 22:55:01 GMT",
+    "fetched_at": "2026-10-26 07:56:20",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "주식 시장",
+      "채권 시장",
+      "금융",
+      "부동산"
+    ],
+    "keywords": [
+      "연준",
+      "FOMC",
+      "금리 정책",
+      "주식 선물",
+      "시장 변동성"
+    ],
+    "reason": "시장은 최근 하락세에서 벗어나려 하지만, 이번 주 예정된 연준의 통화 정책 결정에 촉각을 곤두세우고 있습니다. 연준의 결정은 단기 금리 방향을 제시하며 주식, 채권, 환율 등 글로벌 자산 시장 전반에 중대한 영향을 미칠 것입니다.",
+    "action_point": "연준의 금리 결정 발표를 앞두고 포트폴리오의 리스크를 관리하고, 발표 결과에 따라 금리 민감 자산의 비중을 신속히 조정할 계획을 수립하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "GTA6 출시가 美 경제에 악영향?…“회사원 150만명 쉬어 1.3조 날아갈수도” - 전자신문",
+    "title_ko": "GTA6 출시가 美 경제에 악영향?…“회사원 150만명 쉬어 1.3조 날아갈수도”",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBIWE1Ual9BVloxU3pETVhHdDBZQkhZS1cxY0RWbk1yYlp0WkM4TlVENGVOaDEzTUdrRGl1Z2RMRzdyQXMtZXVHdkcyVDVqdw?oc=5",
+    "published": "Sun, 25 Oct 2026 21:00:00 GMT",
+    "fetched_at": "2026-10-26 07:56:32",
+    "sentiment": "악재",
+    "importance": 2,
+    "sectors": [
+      "게임"
+    ],
+    "keywords": [
+      "GTA6",
+      "미국 경제",
+      "생산성",
+      "게임"
+    ],
+    "reason": "이 뉴스는 GTA6 출시로 인한 미국 경제의 생산성 저하 가능성을 제기하나, 실제 거시 경제에 미칠 영향은 극히 미미하며, 엔터테인먼트 산업의 단기적 소비 증가 외에는 유의미한 파급 효과가 없을 것으로 판단된다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "한국전기연구원, SiC 전력반도체 결함 판별 국제기준 오류 규명 - 사이언스타임즈",
+    "title_ko": "한국전기연구원, SiC 전력반도체 결함 판별 국제기준 오류 규명",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdGo1MUFLbGlQTFZ0ckZZcmhkUTFUb3lHNGxRRlp4OF9XVGhhQTFBbWtaeUVPVGpFY3h6M1BfV0hudFlic3Bkc25SeFpnLWV5dThoU2hQeW1rVXppeTBvVWQ2LWlIYVFUOWdwUGtqbmFONVBOeUJpUXpiRHBoYmNyZGJKMEtUQzYycEE1bVN2UQ?oc=5",
+    "published": "Sun, 25 Oct 2026 22:03:25 GMT",
+    "fetched_at": "2026-10-26 07:56:43",
+    "sentiment": "호재",
+    "importance": 2,
+    "sectors": [
+      "반도체",
+      "전기차",
+      "신재생에너지"
+    ],
+    "keywords": [
+      "SiC 전력반도체",
+      "결함 판별",
+      "국제기준",
+      "한국전기연구원"
+    ],
+    "reason": "SiC 전력반도체 결함 판별 국제기준 오류 규명은 해당 산업의 제품 신뢰도와 생산 효율성을 높여 장기 성장에 긍정적입니다. 특히 전기차 및 신재생에너지 분야의 기술 발전에 기여할 것입니다.",
+    "action_point": "SiC 전력반도체 관련 기업들의 기술적 신뢰도 향상에 주목하고, 관련 섹터에 대한 투자 비중을 유지하라."
+  },
+  {
     "source": "GoogleNews_Korea",
     "market": "KR",
     "title": "이란 외무 \"새 전쟁 일어나도 호르무즈 정책 안 바뀌어\" - 연합뉴스",
@@ -2904,80 +2976,5 @@
     ],
     "reason": "우크라이나의 러시아 디젤 시설 공격으로 글로벌 디젤 공급이 축소되고 유가가 상승하여 전반적인 인플레이션 압력이 가중될 수 있습니다. 이는 중앙은행의 긴축 기조 유지 가능성을 높이고 기업들의 비용 부담을 증가시킵니다.",
     "action_point": "국제 유가 상승 및 인플레이션 압력 심화에 대비하여 에너지 섹터 비중 확대 검토"
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge",
-    "title_ko": "골드만삭스, JP모건, 모건스탠리가 AI 주식 붐을 장악하고 있다. 그들의 비결은?",
-    "link": "https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html",
-    "published": "Wed, 21 Oct 2026 15:30:50 GMT",
-    "fetched_at": "2026-10-22 02:47:18",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "금융",
-      "기술",
-      "자산운용"
-    ],
-    "keywords": [
-      "골드만삭스",
-      "JP모건",
-      "모건스탠리",
-      "AI 주식",
-      "마진 대출",
-      "주식 트레이딩",
-      "월스트리트"
-    ],
-    "reason": "이 기사는 주요 투자은행들이 AI 주식 붐 속에서 막대한 트레이딩 수익을 올리고 있음을 보여주며, 이는 AI 섹터의 강력한 시장 활력과 함께 높은 수준의 마진 대출 활동을 통한 레버리지 증가를 시사합니다.",
-    "action_point": "AI 관련 기술주에 대한 투자 비중을 유지하되, 마진 대출 증가에 따른 시장 과열 및 변동성 확대 가능성에 대비하여 포트폴리오 리스크 관리를 강화하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Meta ordered to pay $25 billion penalty in New Mexico Cambridge Analytica case",
-    "title_ko": "메타, 뉴멕시코주 캠브리지 애널리티카 사건으로 250억 달러 벌금 명령",
-    "link": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
-    "published": "Wed, 21 Oct 2026 17:45:23 GMT",
-    "fetched_at": "2026-10-22 02:47:45",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "IT/기술",
-      "빅테크",
-      "광고"
-    ],
-    "keywords": [
-      "메타",
-      "벌금",
-      "캠브리지 애널리티카",
-      "규제 리스크",
-      "데이터 프라이버시"
-    ],
-    "reason": "메타에 대한 250억 달러의 천문학적인 벌금은 회사의 재무 건전성에 직접적인 타격을 줄 것이며, 이는 전반적인 빅테크 기업들에 대한 규제 강화 및 투자 심리 위축으로 이어질 수 있습니다.",
-    "action_point": "메타를 포함한 빅테크 기업들의 잠재적 규제 리스크를 재평가하고, 관련 섹터 비중 조정을 고려."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Intel hits construction milestone at Ohio chip fab that’s at least 5 years behind schedule",
-    "title_ko": "인텔, 최소 5년 지연된 오하이오 반도체 공장 건설 주요 이정표 달성",
-    "link": "https://www.cnbc.com/2026/10/21/intel-hits-construction-milestone-at-delayed-ohio-chip-fab-.html",
-    "published": "Wed, 21 Oct 2026 16:55:51 GMT",
-    "fetched_at": "2026-10-22 02:47:59",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "반도체",
-      "반도체 장비"
-    ],
-    "keywords": [
-      "인텔",
-      "반도체",
-      "반도체 생산시설",
-      "건설 지연"
-    ],
-    "reason": "인텔의 대규모 반도체 공장 건설 지연은 회사의 실행 능력에 대한 의문을 제기하며, 장기적인 반도체 공급망 확장 및 경쟁 환경에 불확실성을 가중시킵니다.",
-    "action_point": "반도체 섹터 내 파운드리 경쟁 환경 및 투자 지연 위험을 고려, 관련 기업 투자 비중 재조정 검토."
   }
 ]
