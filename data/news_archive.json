@@ -2,6 +2,26 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "DOJ charges ex-FBI Director James Comey in new case",
+    "title_ko": "미 법무부, 전 FBI 국장 제임스 코미를 새로운 사건으로 기소",
+    "link": "https://www.cnbc.com/2026/10/26/james-comey-indictment-national-defense-doj-trump.html",
+    "published": "Mon, 26 Oct 2026 21:57:26 GMT",
+    "fetched_at": "2026-10-27 07:06:51",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [],
+    "keywords": [
+      "미국 정치",
+      "법무부",
+      "제임스 코미",
+      "도널드 트럼프"
+    ],
+    "reason": "이 기사는 전직 FBI 국장의 기소와 관련된 미국 국내 정치 및 법적 이슈로, 글로벌 금융 시장의 거시 경제 변수나 기업 실적에 직접적인 영향을 미치지 않습니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "Anthropic IPO live updates: AI lab expects to spend at least $542B on data centers in coming years",
     "title_ko": "Anthropic IPO 실시간 업데이트: AI 연구소, 향후 몇 년간 데이터 센터에 최소 5,420억 달러 지출 예상",
     "link": "https://www.cnbc.com/2026/10/26/anthropic-ipo-live-updates-ai-s-1-filing.html",
@@ -2947,28 +2967,6 @@
       "정책 방향"
     ],
     "reason": "대통령의 발언은 한국 경제의 잠재적 성장 기회와 국민 체감 개선에 대한 의지를 표명하는 일반적인 메시지입니다. 구체적인 정책 발표나 시장을 움직일 만한 내용은 포함하고 있지 않아 단기적인 시장 영향은 제한적입니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[AI시대 강원경제 대도약]“민생 지키고 기업 키우고” 살아나는 경제 돌아오는 청년 - 강원일보",
-    "title_ko": "[AI시대 강원경제 대도약]“민생 지키고 기업 키우고” 살아나는 경제 돌아오는 청년 - 강원일보",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12eHhWMGp3ZGExS1AwTmpEQjdyeTlLVUNTSnppdXFmdDZUdElPUjRqeTlQenFTUGFFSWZiLU13SDdwdTBGdEdFWUQwNFVUYWVxZTFmelg3T3JHbkk?oc=5",
-    "published": "Thu, 22 Oct 2026 15:00:00 GMT",
-    "fetched_at": "2026-10-23 04:39:16",
-    "sentiment": "호재",
-    "importance": 2,
-    "sectors": [
-      "지역경제",
-      "정보통신기술"
-    ],
-    "keywords": [
-      "AI",
-      "강원경제",
-      "지역균형발전"
-    ],
-    "reason": "강원도 지역 경제 활성화와 AI 기반 산업 육성 기대를 높이는 긍정적인 뉴스이나, 국내 전체 시장이나 거시 경제에 미치는 직접적인 영향은 제한적이다.",
     "action_point": "해당 없음"
   }
 ]
