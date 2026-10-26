@@ -2,6 +2,109 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "Oil slides over 2% as traders weigh Saudi attack risks, demand destruction",
+    "title_ko": "유가, 사우디 피격 위험 및 수요 파괴 우려에 2% 이상 하락",
+    "link": "https://www.cnbc.com/2026/10/26/oil-prices-today-wti-brent.html",
+    "published": "Mon, 26 Oct 2026 05:18:01 GMT",
+    "fetched_at": "2026-10-26 14:36:14",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "항공",
+      "해운",
+      "화학",
+      "소비재"
+    ],
+    "keywords": [
+      "유가",
+      "사우디",
+      "수요 파괴",
+      "지정학적 위험",
+      "인플레이션"
+    ],
+    "reason": "유가 하락이 지정학적 위험에도 불구하고 수요 파괴 우려로 발생했다는 점은 글로벌 경기 둔화 가능성을 시사하며, 이는 기업 실적 및 경제 성장 전망에 부정적 영향을 미칠 수 있습니다.",
+    "action_point": "글로벌 경기 둔화 가능성에 대비하여 에너지 및 경기 민감 섹터 비중 축소를 검토하십시오."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "SpaceX closes $40 billion debt deal for AI chips, Elon Musk says",
+    "title_ko": "스페이스X, AI 칩 구매 위해 400억 달러 규모 부채 조달 마감",
+    "link": "https://www.cnbc.com/2026/10/26/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-.html",
+    "published": "Mon, 26 Oct 2026 00:37:51 GMT",
+    "fetched_at": "2026-10-26 14:36:23",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "반도체",
+      "인공지능(AI)",
+      "기술(Tech)"
+    ],
+    "keywords": [
+      "SpaceX",
+      "AI 칩",
+      "GPU",
+      "부채 조달"
+    ],
+    "reason": "스페이스X의 대규모 AI 칩(GPU) 구매 자금 조달은 인공지능 인프라 구축에 대한 전례 없는 투자가 지속되고 있음을 보여주며, 이는 AI 관련 반도체 및 기술 기업의 강력한 수요와 성장 가능성을 다시 한번 입증합니다. AI 산업 전반의 투자 심리를 강화할 것입니다.",
+    "action_point": "AI 칩 제조업체 및 AI 인프라 관련 기술 기업의 포트폴리오 비중을 유지하거나 확대하는 것을 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "\"트럼프 관세 전쟁, 중간선거에 '역풍'‥공화당 후보들 거리두기\" - MBC 뉴스",
+    "title_ko": "트럼프 관세 전쟁, 중간선거에 '역풍'‥공화당 후보들 거리두기",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1kYy1lMVNnamhQbGlVZG5MczFNUVhCSlZnUW1PU2doNW1ydm5PYnZtazdKT1VlaHJMZ21wdXBBQW1mazAyTUdGaHFkRnNVeWVxOWxaOC1JWlh5cGVwbXBmUkxPeGYwTXh3NlNxZXA4OEpwM1Vh0gF0QVVfeXFMTnhXZTd0bk9WakgtY3lQbUZXamhHdmU1cHd5RnNSNzVLMWRrUzZPaVo5UTlwZmRid1lwZnNlRjlWWVh5Rmd4N2JpV3RsdEJvZDZDY0N6MWZOWENZRmthSVlzV3Vnd3VkcjZ1WVdZdklka1AwNXk?oc=5",
+    "published": "Mon, 26 Oct 2026 02:48:41 GMT",
+    "fetched_at": "2026-10-26 14:36:35",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "수출주",
+      "글로벌 공급망 관련 산업",
+      "제조업"
+    ],
+    "keywords": [
+      "트럼프",
+      "관세",
+      "무역 전쟁",
+      "미국 중간선거",
+      "보호무역주의"
+    ],
+    "reason": "이 기사는 미국 내 트럼프 행정부의 보호무역주의 정책이 정치적 역풍에 직면했음을 시사하며, 이는 향후 미국 무역 정책의 변화 가능성을 높여 글로벌 무역 환경의 불확실성을 완화할 수 있다.",
+    "action_point": "미국 중간선거 결과와 향후 무역 정책 변화를 주시하며, 관세 민감 섹터 및 글로벌 공급망 관련 기업의 투자 비중 확대를 고려하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[개장] 뉴욕증시, 국제 유가 급등에 하락..다우 1.2%↓ By 알파경제 alphabiz - Investing.com 한국어",
+    "title_ko": "뉴욕증시, 국제 유가 급등에 하락..다우 1.2%↓",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kbURRTUlmM19RRmRBTjNCLTdTOC1SRnZneFp5Y2xLV2NfU1lsSFhOUkswaEFlOEplZEFnQmFHbzBBS0JERDl5bGZLY3ItREhhZmZNYVhiNGp0enpoRnFzd1ZvcU1oOFlySEdJTVJDdVQ?oc=5",
+    "published": "Mon, 26 Oct 2026 02:20:00 GMT",
+    "fetched_at": "2026-10-26 14:36:43",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "주식시장 전반",
+      "운송",
+      "화학",
+      "제조업",
+      "소비재"
+    ],
+    "keywords": [
+      "뉴욕증시",
+      "국제유가",
+      "유가급등",
+      "인플레이션",
+      "다우지수"
+    ],
+    "reason": "국제 유가 급등은 인플레이션 압력을 높여 기업의 원가 부담을 가중시키고 소비 심리를 위축시켜 증시 전반에 하락 압력으로 작용했습니다. 이는 중앙은행의 긴축 기조 장기화 우려를 심화시킬 수 있습니다.",
+    "action_point": "고유가로 인한 인플레이션 및 경기 둔화 우려에 대비하여 에너지 비용 민감 섹터 비중 축소 및 인플레이션 헤지 자산 편입을 검토해야 합니다."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "Brazil's Lula wins presidential election in runoff vote",
     "title_ko": "브라질 룰라, 결선 투표서 대통령 당선",
     "link": "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html",
@@ -2876,103 +2979,5 @@
     ],
     "reason": "신세계그룹의 대규모 임원인사는 이마트 등 계열사의 사업 전략 및 경영 방향에 중요한 변화를 가져올 수 있으나, 거시 경제 전반이나 다른 투자 자산(금리, 환율 등)에 미치는 직접적인 영향은 제한적입니다.",
     "action_point": "신세계그룹 계열사 주식 보유 투자자는 향후 발표될 사업 전략 변화를 면밀히 분석하고 포트폴리오 조정 여부를 검토하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "‘스페이스X 공모주 0주’ 묶인 돈 보상받나…금감원 “투자자 보상 검토”",
-    "title_ko": "‘스페이스X 공모주 0주’ 묶인 돈 보상받나…금감원 “투자자 보상 검토”",
-    "link": "https://www.mk.co.kr/news/economy/12183341",
-    "published": "Thu, 22 Oct 2026 19:26:19 +09:00",
-    "fetched_at": "2026-10-22 19:54:25",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "금융",
-      "증권"
-    ],
-    "keywords": [
-      "스페이스X",
-      "공모주",
-      "금감원",
-      "미래에셋증권",
-      "투자자 보상"
-    ],
-    "reason": "금융감독원이 미래에셋증권의 해외 공모주 배정 누락 사태에 대한 제재 절차에 착수하고 투자자 보상을 검토 중이다. 이는 금융사의 해외 투자 상품 운용에 대한 감독 강화와 투자자 보호 의지 표명을 의미한다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "“이게 왜 여기 있어?”…프랑스 시위 약탈품 온라인 중고시장에",
-    "title_ko": "“이게 왜 여기 있어?”…프랑스 시위 약탈품 온라인 중고시장에",
-    "link": "https://www.mk.co.kr/news/world/12183326",
-    "published": "Thu, 22 Oct 2026 19:09:31 +09:00",
-    "fetched_at": "2026-10-22 19:54:43",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "온라인 중고 거래 플랫폼",
-      "유통"
-    ],
-    "keywords": [
-      "프랑스 시위",
-      "약탈품",
-      "중고시장",
-      "사회 불안정"
-    ],
-    "reason": "프랑스 시위 이후 사회 불안정의 지속성과 불법 행위 통제의 어려움을 보여주는 사례로, 직접적인 글로벌 시장 영향은 제한적이나 해당 지역의 투자 심리에 장기적 영향을 미칠 수 있습니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "NH농협은행 대출금리 인하 … 전세대출 최대 0.3%P 낮춰",
-    "title_ko": "NH농협은행 대출금리 인하 … 전세대출 최대 0.3%P 낮춰",
-    "link": "https://www.mk.co.kr/news/economy/12183315",
-    "published": "Thu, 22 Oct 2026 19:05:43 +09:00",
-    "fetched_at": "2026-10-22 19:55:10",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "금융",
-      "부동산"
-    ],
-    "keywords": [
-      "대출금리",
-      "농협은행",
-      "전세대출",
-      "주택담보대출",
-      "금리인하",
-      "가계부채"
-    ],
-    "reason": "단일 은행의 대출금리 인하는 가계의 이자 부담을 소폭 완화하며, 은행 간 금리 경쟁 심화 가능성을 시사한다. 이는 은행의 수익성에는 부정적 요인으로 작용할 수 있다.",
-    "action_point": "국내 은행주 투자 포트폴리오의 수익성 하방 압력 가능성 점검"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Critical web security flaws spark global alarm as Google, OpenAI and Amazon respond",
-    "title_ko": "구글, OpenAI, 아마존 등 주요 기업 대응 속 심각한 웹 보안 취약점 전 세계적 경고 촉발",
-    "link": "https://www.cnbc.com/2026/10/22/php-google-openai-and-amazon-cyber.html",
-    "published": "Thu, 22 Oct 2026 01:05:15 GMT",
-    "fetched_at": "2026-10-22 14:36:58",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "기술 (IT/소프트웨어)",
-      "클라우드 서비스",
-      "사이버 보안",
-      "데이터 센터"
-    ],
-    "keywords": [
-      "웹 보안 취약점",
-      "사이버 위협",
-      "PHP",
-      "글로벌 경고",
-      "기술 기업"
-    ],
-    "reason": "이번 웹 보안 취약점은 전 산업군의 IT 보안 투자 증가 및 운영 리스크 확대를 야기하며, 잠재적으로 서비스 중단이나 데이터 유출로 이어져 기술 및 디지털 의존 기업에 악영향을 미칠 수 있습니다.",
-    "action_point": "사이버 보안 솔루션 관련 기업 비중 확대 검토 및 디지털 의존도 높은 기업의 보안 리스크 점검."
   }
 ]
