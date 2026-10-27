@@ -2,6 +2,58 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "China industrial profits post strongest growth in three months, rising 14.4%",
+    "title_ko": "중국 산업 이익, 3개월 만에 최고치인 14.4% 성장 기록",
+    "link": "https://www.cnbc.com/2026/10/27/china-industrial-profits-september-ai-tech-exports-.html",
+    "published": "Tue, 27 Oct 2026 01:42:56 GMT",
+    "fetched_at": "2026-10-27 10:43:40",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "반도체",
+      "원자재",
+      "광업",
+      "산업재",
+      "기술"
+    ],
+    "keywords": [
+      "중국 경제",
+      "산업 이익",
+      "AI 붐",
+      "원자재 가격",
+      "글로벌 경기"
+    ],
+    "reason": "중국 산업 이익의 견조한 성장은 글로벌 AI 붐과 원자재 가격 상승에 따른 수요 회복을 반영하며, 글로벌 경제 전반에 긍정적인 신호입니다. 이는 특히 기술 및 원자재 관련 산업의 실적 개선 기대감을 높입니다.",
+    "action_point": "글로벌 AI 관련 반도체 및 원자재 섹터 포트폴리오 비중 확대를 검토하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "‘우버’ 회색지대 깬 홍콩, 11월 말부터 차량 호출 플랫폼 라이선스 발급",
+    "title_ko": "‘우버’ 회색지대 깬 홍콩, 11월 말부터 차량 호출 플랫폼 라이선스 발급",
+    "link": "https://www.mk.co.kr/news/world/12186754",
+    "published": "Tue, 27 Oct 2026 10:41:08 +09:00",
+    "fetched_at": "2026-10-27 10:44:06",
+    "sentiment": "호재",
+    "importance": 2,
+    "sectors": [
+      "기술",
+      "플랫폼",
+      "운수"
+    ],
+    "keywords": [
+      "우버",
+      "차량 호출",
+      "홍콩",
+      "라이선스",
+      "규제 완화"
+    ],
+    "reason": "홍콩의 차량 호출 플랫폼 합법화는 관련 기술 플랫폼 기업에 시장 확대 기회를 제공하고 규제 불확실성을 해소합니다. 이는 아시아 지역 내 플랫폼 경제의 성장을 촉진할 수 있습니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "DOJ charges ex-FBI Director James Comey in new case",
     "title_ko": "미 법무부, 전 FBI 국장 제임스 코미를 새로운 사건으로 기소",
     "link": "https://www.cnbc.com/2026/10/26/james-comey-indictment-national-defense-doj-trump.html",
@@ -2925,48 +2977,5 @@
     ],
     "reason": "대형 기술 기업의 공격적인 AI 투자가 단기적으로는 수익성을 악화시키고 신용 리스크를 높일 수 있음을 시사한다. 이는 AI 관련 기업들의 과도한 밸류에이션에 대한 시장의 경계심을 키울 수 있다.",
     "action_point": "고성장 AI 관련 기술주에 대한 투자 비중 재검토"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Pharma's 'information arms dealer' is up nearly 80% from an April low. Josh Brown sees more gains",
-    "title_ko": "제약 부문의 '정보 무기 딜러' 주가 4월 저점 대비 80% 가까이 상승, 조쉬 브라운은 추가 상승을 예상",
-    "link": "https://www.cnbc.com/2026/10/22/pharmas-information-arms-dealer-is-up-nearly-80percent-from-an-april-low-josh-brown-sees-more-gains.html",
-    "published": "Thu, 22 Oct 2026 15:33:22 GMT",
-    "fetched_at": "2026-10-23 04:38:53",
-    "sentiment": "호재",
-    "importance": 2,
-    "sectors": [
-      "제약/바이오",
-      "헬스케어"
-    ],
-    "keywords": [
-      "제약",
-      "헬스케어",
-      "주가 상승",
-      "조쉬 브라운",
-      "정보 기술"
-    ],
-    "reason": "이 뉴스는 특정 헬스케어 기업의 주가 강세와 애널리스트의 긍정적 전망을 제시하며, 헬스케어 섹터 내 선별적 투자 기회가 있음을 시사합니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "이 대통령 \"우리 경제 새로운 도약 기회…국민 체감할 수 있도록 전력\" - 대한민국 정책브리핑",
-    "title_ko": "이 대통령 \"우리 경제 새로운 도약 기회…국민 체감할 수 있도록 전력\"",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeE5MSWZRdjQ2eHZTbDBfaU96VDNBbER1QTF3X0c5dXAyc0EwMVl2RGV1OWRsc2FIVS16RWxpWGtvR19KU1pJTnVyald2NFFRR3lMWk1MMEliclhBdzlnNzJoQk54VWt3cWZXRGw1UEl6U2tHT29MZ2VCaFN4Wm9sdTNHWDBpU0pVM2c?oc=5",
-    "published": "Thu, 22 Oct 2026 09:05:29 GMT",
-    "fetched_at": "2026-10-23 04:39:07",
-    "sentiment": "호재",
-    "importance": 2,
-    "sectors": [],
-    "keywords": [
-      "대통령",
-      "경제 성장",
-      "정책 방향"
-    ],
-    "reason": "대통령의 발언은 한국 경제의 잠재적 성장 기회와 국민 체감 개선에 대한 의지를 표명하는 일반적인 메시지입니다. 구체적인 정책 발표나 시장을 움직일 만한 내용은 포함하고 있지 않아 단기적인 시장 영향은 제한적입니다.",
-    "action_point": "해당 없음"
   }
 ]
