@@ -2,6 +2,109 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "Fed meeting live updates: No hike expected, but investors watching Warsh for what's next",
+    "title_ko": "연준 회의 실시간 업데이트: 금리 인상 없을 것으로 예상되나, 투자자들은 향후 정책 방향에 주목",
+    "link": "https://www.cnbc.com/2026/10/28/fed-meeting-today-live-updates.html",
+    "published": "Wed, 28 Oct 2026 16:43:48 GMT",
+    "fetched_at": "2026-10-29 01:53:50",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "주식 시장 전반",
+      "채권",
+      "금융",
+      "기술",
+      "부동산",
+      "환율"
+    ],
+    "keywords": [
+      "연준",
+      "금리",
+      "통화정책",
+      "시장 기대",
+      "경기 전망"
+    ],
+    "reason": "시장은 이미 연준의 금리 동결을 가격에 반영하고 있으나, 향후 통화정책 방향에 대한 연준의 메시지가 주식, 채권, 환율 시장의 변동성을 결정할 핵심 요인입니다.",
+    "action_point": "연준의 향후 금리 정책에 대한 발언 강도에 따라 주식, 채권, 환율 시장의 변동성에 대비하여 자산별 비중 조정을 준비하십시오."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "UK brings forward defense spending target, pledging billions to Ukraine",
+    "title_ko": "영국, 국방비 지출 목표 상향 조정 및 우크라이나에 수십억 지원 약속",
+    "link": "https://www.cnbc.com/2026/10/28/uk-defense-spending-ukraine-aid.html",
+    "published": "Wed, 28 Oct 2026 15:53:19 GMT",
+    "fetched_at": "2026-10-29 01:54:01",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "국방/항공우주",
+      "산업재"
+    ],
+    "keywords": [
+      "영국",
+      "국방비",
+      "우크라이나",
+      "지정학",
+      "재정정책"
+    ],
+    "reason": "영국 정부의 국방비 지출 증액은 지속적인 지정학적 긴장을 반영하며, 방위산업 부문에 대한 수요 증가와 함께 영국 경제에 재정적 부양 효과를 제공할 것입니다. 이는 장기적인 방위산업 성장 트렌드를 강화합니다.",
+    "action_point": "글로벌 지정학적 리스크의 지속 가능성을 고려하여 방위산업 섹터 관련 투자를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "The UK cuts energy bills, taxes banks and boosts defense in high-stakes budget",
+    "title_ko": "영국, 에너지 비용 인하, 은행 과세 강화, 국방 예산 증액 담은 중요 예산 발표",
+    "link": "https://www.cnbc.com/2026/10/28/uk-autumn-budget-cost-living-defense-ai.html",
+    "published": "Wed, 28 Oct 2026 15:39:14 GMT",
+    "fetched_at": "2026-10-29 01:54:16",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "금융",
+      "방산",
+      "소비재",
+      "기술"
+    ],
+    "keywords": [
+      "영국 예산",
+      "에너지 가격",
+      "은행 과세",
+      "국방비",
+      "AI"
+    ],
+    "reason": "영국의 가계 에너지 비용 부담 완화는 단기적인 소비를 지지할 수 있으나, 은행 과세 강화는 금융 섹터의 수익성을 압박할 것입니다. 국방 및 AI 예산 증액은 해당 섹터에 긍정적입니다.",
+    "action_point": "영국 금융 섹터 관련 투자 비중 축소를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Investors are rotating into overlooked parts of the market. This chemical stock is one",
+    "title_ko": "투자자들이 시장의 간과된 부분으로 회전하고 있다. 이 화학 주식이 그중 하나이다.",
+    "link": "https://www.cnbc.com/2026/10/28/investors-are-rotating-into-overlooked-parts-of-the-market-this-chemical-stock-is-one.html",
+    "published": "Wed, 28 Oct 2026 15:54:37 GMT",
+    "fetched_at": "2026-10-29 01:54:28",
+    "sentiment": "호재",
+    "importance": 2,
+    "sectors": [
+      "화학",
+      "소재",
+      "가치주"
+    ],
+    "keywords": [
+      "Dow Inc.",
+      "화학주",
+      "소재",
+      "가치주",
+      "로테이션"
+    ],
+    "reason": "투자자들이 그동안 소외되었던 화학/소재 섹터와 같은 시장의 간과된 부분으로 자금을 이동시키고 있음을 시사한다. 이는 시장의 관심이 기존 주도주에서 가치주로 확장될 가능성을 보여준다.",
+    "action_point": "화학/소재 섹터 내 저평가된 대형 가치주 편입을 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "Israeli bonds, shekel fall as election leaves Netanyahu and others far short of majorities",
     "title_ko": "이스라엘 채권과 셰켈화, 선거에서 네타냐후 등 다수 의석 확보 실패로 하락",
     "link": "https://www.cnbc.com/2026/10/28/israel-election-netanyahu-trump-gaza-.html",
@@ -2879,105 +2982,5 @@
     ],
     "reason": "김정은 위원장의 '사망설' 해소는 북한 정권의 안정성을 확인하며 한반도 지정학적 불확실성을 일시적으로 완화합니다. 중국과의 외교 활동 재개는 향후 남북 관계 및 국제 정세 변화의 가능성을 시사합니다.",
     "action_point": "북한 김정은 사망설 해소로 한반도 지정학적 불확실성이 일시 완화됨에 따라, 방산주 단기 조정 가능성을 주시."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Silicon Valley Democrats demand investigation into Starlink restrictions in Ukraine",
-    "title_ko": "실리콘밸리 민주당 의원들, 우크라이나 스타링크 제한에 대한 조사 요구",
-    "link": "https://www.cnbc.com/2026/10/23/starlink-ukraine-musk-trump-congress.html",
-    "published": "Fri, 23 Oct 2026 15:33:47 GMT",
-    "fetched_at": "2026-10-24 16:45:20",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "위성통신",
-      "방위산업"
-    ],
-    "keywords": [
-      "스타링크",
-      "우크라이나",
-      "미국 정치",
-      "지정학"
-    ],
-    "reason": "이 기사는 우크라이나 전쟁에서 스타링크의 역할에 대한 정치적 조사가 시작될 수 있음을 시사하며, 이는 지정학적 분쟁에 관여하는 민간 기술 기업에 대한 잠재적 규제 강화로 이어질 수 있습니다.",
-    "action_point": "군사적 역할을 하는 민간 기술 기업에 대한 투자 리스크를 재점검하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "What a day in customer service looks like — as AI changes everything",
-    "title_ko": "AI가 모든 것을 바꾸는 시대, 고객 서비스 현장의 하루",
-    "link": "https://www.cnbc.com/2026/10/24/ai-customer-service-jobs-work.html",
-    "published": "Sat, 24 Oct 2026 05:00:01 GMT",
-    "fetched_at": "2026-10-24 16:45:29",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "기술(AI)",
-      "소프트웨어",
-      "IT 서비스",
-      "금융",
-      "통신",
-      "유통"
-    ],
-    "keywords": [
-      "AI",
-      "고객 서비스",
-      "자동화",
-      "생산성",
-      "비용 효율화"
-    ],
-    "reason": "AI의 고객 서비스 도입은 기업의 운영 효율성 및 생산성 향상에 기여하며 장기적으로 기업 수익성 개선에 긍정적인 영향을 미칠 것입니다. 이는 광범위한 서비스 산업 전반에 걸쳐 구조적 변화를 가속화할 잠재력이 있습니다.",
-    "action_point": "AI 기술 도입을 통해 고객 서비스 효율성 및 비용 절감 효과가 기대되는 서비스 섹터 선도 기업에 대한 투자 기회 모색."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "中왕이 “미중, AI 공동 발전·관리 책임”…국제규범 논의 촉구 - 동아일보",
-    "title_ko": "中왕이 “미중, AI 공동 발전·관리 책임”…국제규범 논의 촉구",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4tdkgzYnlRYWZsVThtTV9taGNCTGJWVTJyT0paWWFaanhaeWVLczJCRm9nZFg2TWl1VUp2RFVxaDJxNV9iV3lGcGVhMF9hSFNDNlFaS1gwTS1UbUVnU1FmLVo3aFdHVzdQdjFCSDJRRHV2ZWPSAWZBVV95cUxPcTZBeXExSm95WUxwWTI3UlZqRVktRTRGYkg3am93d192UHdNM1NfXzBlaEotclk2Q0lqVk5Kb3J5REJ4c0ZRQ1I2NTVhRmItM1hGX3lxNGVBWlNyR1lxdFRzRDlEUFE?oc=5",
-    "published": "Sat, 24 Oct 2026 05:10:17 GMT",
-    "fetched_at": "2026-10-24 16:46:14",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "IT/기술",
-      "반도체"
-    ],
-    "keywords": [
-      "미중 관계",
-      "AI",
-      "국제 규범",
-      "기술 협력"
-    ],
-    "reason": "미중 기술 경쟁의 핵심인 AI 분야에서 중국이 협력 논의를 제안하며 장기적인 불확실성 완화 가능성을 시사, 기술 섹터 전반에 긍정적인 기대감을 형성할 수 있습니다.",
-    "action_point": "미중 AI 협력 진전 가능성에 주목하며 기술 및 반도체 섹터에 대한 장기적 포트폴리오 비중 유지."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "[속보] 여권 관계자 “김정은, 오늘 방중 일정 끝내고 귀국할 듯”",
-    "title_ko": "[속보] 여권 관계자 “김정은, 오늘 방중 일정 끝내고 귀국할 듯”",
-    "link": "https://www.mk.co.kr/news/politics/12184831",
-    "published": "Sat, 24 Oct 2026 16:37:00 +09:00",
-    "fetched_at": "2026-10-24 16:47:22",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "방산",
-      "남북경협주",
-      "외교/안보 관련주"
-    ],
-    "keywords": [
-      "김정은",
-      "방중",
-      "귀국",
-      "북한",
-      "중국",
-      "지정학"
-    ],
-    "reason": "김정은 북한 국무위원장의 방중 일정이 마무리 단계에 접어들었다는 소식은 관련 지정학적 불확실성을 일단락시키는 요인입니다. 그러나 방문 성과가 구체적으로 알려지지 않아 시장 전반의 방향성에 미치는 즉각적인 영향은 중립적일 것으로 판단됩니다.",
-    "action_point": "김정은 방중 종료 소식으로 인한 즉각적인 포트폴리오 변경은 불필요함."
   }
 ]
