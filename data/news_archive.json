@@ -2,6 +2,104 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "Fed holds rates steady despite concerns over inflation",
+    "title_ko": "연준, 인플레이션 우려에도 불구하고 금리 동결",
+    "link": "https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html",
+    "published": "Wed, 28 Oct 2026 19:43:48 GMT",
+    "fetched_at": "2026-10-29 06:26:52",
+    "sentiment": "중립",
+    "importance": 5,
+    "sectors": [
+      "주식 전반",
+      "채권",
+      "부동산",
+      "환율"
+    ],
+    "keywords": [
+      "연준",
+      "금리 동결",
+      "인플레이션",
+      "통화 정책",
+      "FOMC"
+    ],
+    "reason": "연준의 금리 동결은 단기적 안도감을 주나, 두 명의 위원 인상 주장으로 인플레이션 우려와 향후 긴축 가능성이 여전히 시장에 부담으로 작용할 수 있습니다.",
+    "action_point": "인플레이션 우려가 지속되어 향후 금리 인상 가능성이 남아있으므로, 고금리 민감 성장주 비중을 축소하고 달러 자산 보유를 유지하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Alphabet sinks 9% as it holds 2026 capex unchanged, expects significant increase in 2027",
+    "title_ko": "알파벳, 2026년 CAPEX 동결 및 2027년 '상당한 증가' 전망에 주가 9% 하락",
+    "link": "https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html",
+    "published": "Wed, 28 Oct 2026 21:21:12 GMT",
+    "fetched_at": "2026-10-29 06:26:36",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "기술",
+      "클라우드 컴퓨팅",
+      "인공지능",
+      "반도체"
+    ],
+    "keywords": [
+      "알파벳",
+      "CAPEX",
+      "기술",
+      "인공지능",
+      "클라우드",
+      "투자심리"
+    ],
+    "reason": "알파벳의 2026년 CAPEX 동결은 단기적인 AI 경쟁력 강화에 대한 시장의 기대를 충족시키지 못했으며, 2027년 투자 확대 전망에도 불구하고 불확실성이 부각되며 기술 섹터 전반의 투자 심리를 위축시켰습니다.",
+    "action_point": "클라우드 및 인공지능 관련 기술주에 대한 단기적 투자 심리 위축 가능성을 고려하여 관련 포트폴리오 비중을 재검토."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "At least 68 people dead in high-speed Spain train crash",
+    "title_ko": "스페인 고속열차 충돌 사고로 최소 68명 사망",
+    "link": "https://www.cnbc.com/2026/10/28/spain-high-speed-train-crash.html",
+    "published": "Wed, 28 Oct 2026 15:41:54 GMT",
+    "fetched_at": "2026-10-29 06:26:42",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "철도",
+      "운송",
+      "보험"
+    ],
+    "keywords": [
+      "스페인",
+      "고속열차",
+      "사고",
+      "사망자"
+    ],
+    "reason": "스페인에서 발생한 고속열차 사고는 비극적 사건이나, 글로벌 경제 지표나 주요 금융 시장에 미치는 영향은 제한적입니다. 단기적으로 스페인 내 운송 및 보험 섹터에 국지적인 영향을 줄 수 있습니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[속보] 국힘 의원들, 올림픽공원 투표함 이송 저지 농성 - 연합뉴스TV",
+    "title_ko": "[속보] 국힘 의원들, 올림픽공원 투표함 이송 저지 농성 - 연합뉴스TV",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9tTE42T3N5SHh0dm5HaUxjQl9ib01BSGh1NEJ4aDlBSk83R2ZfNHFjdlVtUE5rMGkxN1BVX1lvMEZtQ0loMndibkNQRXdxNjVLZ0xXX0tMU3dkbS1hbkV5VVNyX0J2TXM?oc=5",
+    "published": "Wed, 28 Oct 2026 16:12:00 GMT",
+    "fetched_at": "2026-10-29 06:26:59",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [],
+    "keywords": [
+      "총선",
+      "국회",
+      "정치",
+      "투표함",
+      "농성"
+    ],
+    "reason": "총선 개표 과정에서의 정치적 마찰을 보여주는 국내 이슈입니다. 거시경제 지표나 기업 실적에 직접적인 영향을 미치지 않으며, 광범위한 투자 자산에 유의미한 변동성을 야기할 가능성은 낮습니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "Fed meeting live updates: No hike expected, but investors watching Warsh for what's next",
     "title_ko": "연준 회의 실시간 업데이트: 금리 인상 없을 것으로 예상되나, 투자자들은 향후 정책 방향에 주목",
     "link": "https://www.cnbc.com/2026/10/28/fed-meeting-today-live-updates.html",
@@ -2887,100 +2985,5 @@
     ],
     "reason": "김정은 건강이상설 불식 및 대외 활동 재개는 북한 정세의 불확실성을 완화시키고, 북중 간 고위급 교류 재개 신호로 한반도 지정학적 리스크 감소에 긍정적으로 작용할 수 있습니다.",
     "action_point": "방산 섹터의 단기적 모멘텀 약화 가능성을 검토하십시오."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[속보] 김정은 전격 방중…오늘 신압록대교 통해 단둥 도착 - 주간경향",
-    "title_ko": "[속보] 김정은 전격 방중…오늘 신압록대교 통해 단둥 도착 - 주간경향",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LSWppaGpaNnh2cjFpbGhqSWduY0I5eTVyWEVDN0ViNjNIckZHVEFIb1M5d1hOaDZiS01sVFNpZXN6dDFxYlhYeUR6ZzJtZnFpVnNndEk2Y1plb2xzY1E?oc=5",
-    "published": "Sat, 24 Oct 2026 06:20:00 GMT",
-    "fetched_at": "2026-10-24 16:46:49",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "방산",
-      "국내 증시 전반"
-    ],
-    "keywords": [
-      "김정은",
-      "북한",
-      "중국",
-      "지정학",
-      "한반도",
-      "외교"
-    ],
-    "reason": "김정은의 전격 방중은 한반도 지정학적 리스크 완화에 대한 기대감을 높여 국내 증시 전반에 긍정적인 투자 심리 개선 요인으로 작용할 수 있습니다.",
-    "action_point": "한반도 지정학적 리스크 완화 가능성을 반영하여, 국내 증시 내 저평가된 한국 자산 비중 확대를 검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[속보] 김정은 방중… 통일부 “오늘 신압록대교 통해 단둥 도착” - 조선비즈 - Chosunbiz",
-    "title_ko": "[속보] 김정은 방중… 통일부 “오늘 신압록대교 통해 단둥 도착” - 조선비즈 - Chosunbiz",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSzNrSk0tSzlod254TXhWdWFESzdrVXZyWG5LR0d4OVg4VjJoTGxfbHpDTTJYRmVkUG1XeXBaWlZvUlF5UXpBWU1IRFpmNk01NUc1WkEzRjJtb3pzQ0dPcjgwbE02RTd1RlRSUF9ObGNCUFA5cUtWVzJwSDdTTkFaSm5UaHNfd9IBmgFBVV95cUxOdkM3eFp4ejI5M2tKQWVrczdNcmFVWXQ5MDlOYm5KS1Z5RGJaZy1EbVVRUHlLOWFfRXZZNmd2WUhMOFBPTFlsRmZuZlRHY3BiR09VZzlaUW1MN2JabW95eDFSaXlpYUFaZkNidktIajFMQ1Y3bGNqdlN2VG8zZjVnNWlDUmJxdFN5NUk0Q0ZyMEwwNnhfc0FQZVdR?oc=5",
-    "published": "Sat, 24 Oct 2026 06:22:00 GMT",
-    "fetched_at": "2026-10-24 16:47:04",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "방산"
-    ],
-    "keywords": [
-      "김정은",
-      "방중",
-      "북중 관계",
-      "지정학"
-    ],
-    "reason": "김정은의 방중은 북한과 중국 간의 외교적 움직임을 나타내며, 이는 한반도 지정학적 리스크와 역내 안보 환경에 잠재적 영향을 미칠 수 있습니다. 향후 북한의 대외 전략 변화 가능성을 주시해야 합니다.",
-    "action_point": "한반도 지정학적 리스크 변화 가능성에 대비하여 국내 증시 내 방산 및 지정학적 민감 섹터 비중을 재점검하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "[속보] 北김정은, 6·25전쟁 中참전기념일 맞아 전격 방중…新압록강대교 통해 단둥 도착",
-    "title_ko": "[속보] 北김정은, 6·25전쟁 中참전기념일 맞아 전격 방중…新압록강대교 통해 단둥 도착",
-    "link": "https://www.mk.co.kr/news/politics/12184821",
-    "published": "Sat, 24 Oct 2026 15:47:01 +09:00",
-    "fetched_at": "2026-10-24 16:47:53",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "방산"
-    ],
-    "keywords": [
-      "김정은",
-      "중국",
-      "방중",
-      "북중관계",
-      "미북대화",
-      "지정학"
-    ],
-    "reason": "김정은 위원장의 전격 방중은 미북대화 전 중국의 지지를 확보하려는 북한의 전략적 행보로 해석됩니다. 이는 북중 혈맹관계를 과시하며 향후 한반도 비핵화 협상 구도에 미묘한 영향을 미칠 수 있습니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "[속보] ‘사망설’ 돌던 북한 김정은 방중…오늘 신압록대교 통해 단둥 도착",
-    "title_ko": "[속보] ‘사망설’ 돌던 북한 김정은 방중…오늘 신압록대교 통해 단둥 도착",
-    "link": "https://www.mk.co.kr/news/politics/12184814",
-    "published": "Sat, 24 Oct 2026 15:14:39 +09:00",
-    "fetched_at": "2026-10-24 16:48:23",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "방산",
-      "대북 관련주"
-    ],
-    "keywords": [
-      "김정은",
-      "북한",
-      "중국",
-      "지정학",
-      "한반도 리스크"
-    ],
-    "reason": "김정은 위원장의 '사망설' 해소는 북한 정권의 안정성을 확인하며 한반도 지정학적 불확실성을 일시적으로 완화합니다. 중국과의 외교 활동 재개는 향후 남북 관계 및 국제 정세 변화의 가능성을 시사합니다.",
-    "action_point": "북한 김정은 사망설 해소로 한반도 지정학적 불확실성이 일시 완화됨에 따라, 방산주 단기 조정 가능성을 주시."
   }
 ]
