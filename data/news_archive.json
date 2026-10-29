@@ -2,6 +2,250 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "Shell nearly doubles quarterly profit year-on-year as refining margins soar to record high",
+    "title_ko": "쉘, 정제 마진 사상 최고치 기록하며 분기 이익 전년 대비 두 배 가까이 증가",
+    "link": "https://www.cnbc.com/2026/10/29/shell-earnings-oil-q3.html",
+    "published": "Thu, 29 Oct 2026 07:26:36 GMT",
+    "fetched_at": "2026-10-29 16:49:23",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "정유",
+      "석유화학"
+    ],
+    "keywords": [
+      "Shell",
+      "정제 마진",
+      "에너지",
+      "이익",
+      "원자재"
+    ],
+    "reason": "쉘의 기록적인 정제 마진과 이익 증가는 글로벌 에너지 수요 강세 및 공급 제약이 지속되고 있음을 시사하며, 이는 에너지 섹터에 긍정적인 영향을 미칠 수 있습니다.",
+    "action_point": "에너지 및 정유 섹터 ETF 또는 관련 대형주 비중 확대를 검토."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Over 41,000 U.S. Homeland Security officials' details apparently exposed after massive data breach",
+    "title_ko": "미 국토안보부 공무원 4만 1천여 명 개인 정보, 대규모 데이터 유출로 노출된 듯",
+    "link": "https://www.cnbc.com/2026/10/29/dhs-data-breach-ice-cdp-deportations.html",
+    "published": "Thu, 29 Oct 2026 04:29:32 GMT",
+    "fetched_at": "2026-10-29 16:49:40",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "사이버 보안",
+      "IT 서비스"
+    ],
+    "keywords": [
+      "데이터 유출",
+      "사이버 보안",
+      "미 국토안보부",
+      "개인정보"
+    ],
+    "reason": "이 뉴스는 미 정부 기관의 사이버 보안 취약성을 시사하며, 전반적인 사이버 보안 산업에 대한 관심과 투자를 증가시킬 수 있습니다. 그러나 거시경제나 금융 시장 전반에 미칠 직접적인 영향은 제한적입니다.",
+    "action_point": "사이버 보안 섹터 투자 기회 모색을 검토하십시오."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Billionaire Ambani cries tears of joy as Jio Platforms becomes the second most valued Indian firm",
+    "title_ko": "억만장자 암바니, 지오 플랫폼이 인도에서 두 번째로 가치 있는 기업이 되자 감격의 눈물을 흘리다",
+    "link": "https://www.cnbc.com/2026/10/29/ambani-billionaire-jio-ipo-india.html",
+    "published": "Thu, 29 Oct 2026 04:55:17 GMT",
+    "fetched_at": "2026-10-29 16:49:48",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "통신",
+      "기술",
+      "디지털 서비스",
+      "인도 시장"
+    ],
+    "keywords": [
+      "지오 플랫폼",
+      "무케시 암바니",
+      "인도 시장",
+      "기업 가치",
+      "IPO"
+    ],
+    "reason": "인도 최대 통신·기술 기업인 지오 플랫폼의 높은 기업 가치와 상장 임박 소식은 인도 디지털 경제의 성장 잠재력과 투자 매력을 부각합니다. 이는 인도 시장 전반에 대한 긍정적인 시그널로 해석될 수 있습니다.",
+    "action_point": "이 뉴스는 특정 기업의 개별 이벤트로, 대장님의 글로벌 자산 포트폴리오에 당장 필요한 직접적인 투자 액션은 해당 없습니다."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Tencent, Visa deepen payments push in China after regulatory green light",
+    "title_ko": "텐센트와 비자, 중국 규제 승인 후 결제 사업 협력 강화",
+    "link": "https://www.cnbc.com/2026/10/29/tencent-visa-citi-mastercard-.html",
+    "published": "Thu, 29 Oct 2026 07:01:50 GMT",
+    "fetched_at": "2026-10-29 16:49:58",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "금융 서비스",
+      "기술 (핀테크)",
+      "소비재 (E-커머스)"
+    ],
+    "keywords": [
+      "텐센트",
+      "비자",
+      "중국",
+      "결제",
+      "규제 완화",
+      "핀테크"
+    ],
+    "reason": "중국 정부의 규제 완화로 글로벌 결제 서비스 기업의 중국 시장 접근성이 확대되며, 이는 중국 내 결제 시장의 경쟁 심화와 효율성 증대에 기여할 것입니다. 장기적으로 중국의 금융 시장 개방 기조를 시사합니다.",
+    "action_point": "글로벌 결제 서비스 기업 및 중국 금융 시장 개방 수혜 기업에 대한 투자 기회를 모색하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[기고]트럼프는 중간선거 이후 이란전쟁을 끝낼 수 있는가?…김태준의 美·이란戰 중계 - 문화일보",
+    "title_ko": "[기고]트럼프는 중간선거 이후 이란전쟁을 끝낼 수 있는가?…김태준의 美·이란戰 중계",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5jaU9SQTFDRmdGd2QtaWprV2V3bnBDQXFnaDQtd0Y5VzV3NUk2aU0tRG1aREhTckg1TU01REdXWnBQcW5EMEkwN3ladjdzVEE3?oc=5",
+    "published": "Thu, 29 Oct 2026 06:51:49 GMT",
+    "fetched_at": "2026-10-29 16:50:40",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "원유/가스",
+      "방산",
+      "해운/물류"
+    ],
+    "keywords": [
+      "트럼프",
+      "중간선거",
+      "이란",
+      "지정학",
+      "미국-이란 관계"
+    ],
+    "reason": "이 기사는 트럼프 전 대통령의 중간선거 이후 이란 정책 변화 가능성을 예측하는 기고문으로, 만약 미국과 이란 간의 긴장이 완화된다면 국제 유가 안정화와 글로벌 지정학적 불확실성 감소로 이어질 수 있습니다. 이는 전반적인 위험자산 투자 심리 개선에 긍정적이나, 현재는 추측 단계입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Trump methane policy rollback may have minimal impact on crude prices, EPA says",
+    "title_ko": "EPA, 트럼프 메탄 정책 철회가 원유 가격에 미미한 영향 미칠 것으로 전망",
+    "link": "https://www.cnbc.com/2026/10/29/trump-methane-rollback-oil-prices-epa.html",
+    "published": "Thu, 29 Oct 2026 04:00:51 GMT",
+    "fetched_at": "2026-10-29 16:49:29",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "에너지",
+      "원유"
+    ],
+    "keywords": [
+      "트럼프",
+      "메탄 규제",
+      "EPA",
+      "원유 가격",
+      "석유 생산",
+      "환경 정책"
+    ],
+    "reason": "미국 EPA는 트럼프 행정부의 메탄 규제 철회가 2027년까지 미국 원유 가격을 배럴당 11센트, 생산량을 0.09%만 변화시킬 것으로 전망하여, 글로벌 에너지 시장에 미치는 영향은 제한적일 것으로 보인다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[속보] 국정원장 “한미정보협력 ’구성 발언’ 등으로 일부 정보만 제한“ - 연합뉴스TV",
+    "title_ko": "[속보] 국정원장 “한미정보협력 ’구성 발언’ 등으로 일부 정보만 제한“ - 연합뉴스TV",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BZEp2bXFGSm92ZjlOYXRGdUVVSmUyOTZveGNhUVNXUVVYVHdtMURlT0VKWnd0dXQ3ODFEbFdoQkNaR1NJcEp2elN6bzQxUTgxZV8tMnJvQ3I1Q1ZGZXFXSWkwN1c5NHM?oc=5",
+    "published": "Thu, 29 Oct 2026 06:20:00 GMT",
+    "fetched_at": "2026-10-29 16:50:09",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [],
+    "keywords": [
+      "한미정보협력",
+      "국정원",
+      "외교 관계"
+    ],
+    "reason": "한미 정보협력에 일부 제한이 발생했다는 소식은 양국 간 미묘한 외교적 마찰 가능성을 시사하나, 광범위한 지정학적 위험 변화로 이어질 수준은 아니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "GC녹십자의료재단·지씨셀·GC지놈, 진단검사 국제학회 공동 참여 - 의협신문",
+    "title_ko": "GC녹십자의료재단·지씨셀·GC지놈, 진단검사 국제학회 공동 참여",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9aY3RLS0JMa1JqYk9STGRxbGlTcGhWbWdnQ2xpNmZGZ1VwLS1vM2Y1dnlNTmM2VzluRnFQSkx4YlVfM0FvUWk5eTE3MFlmWTVYMGFVQTVGN05rVWc4YU9Ja1Y3Ym0tTzFXYjZybk5VeDhvQQ?oc=5",
+    "published": "Thu, 29 Oct 2026 06:16:00 GMT",
+    "fetched_at": "2026-10-29 16:50:18",
+    "sentiment": "호재",
+    "importance": 2,
+    "sectors": [
+      "제약/바이오",
+      "헬스케어",
+      "진단키트"
+    ],
+    "keywords": [
+      "GC녹십자",
+      "지씨셀",
+      "GC지놈",
+      "진단검사",
+      "국제학회"
+    ],
+    "reason": "GC녹십자 계열사들이 진단검사 분야에서 국제 학회에 공동 참여하며 기술 협력 및 시장 확대 가능성을 모색하는 긍정적 활동으로 해석되나, 단기 시장 영향은 제한적이다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "간 공여자 복강경·로봇 수술 국제 합의문 발표 - MEDI:GATE NEWS",
+    "title_ko": "간 공여자 복강경·로봇 수술 국제 합의문 발표",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5LSFk4cVJKZ0NrbjJ5aEdqcWxFZkdGVG9hSWpqWHhPUGtSeGJfNGN1a29TMTNVU3pUMm5jakU2cDNES21MTFlGNEdmSjEzZUtmWGwteWFsQQ?oc=5",
+    "published": "Thu, 29 Oct 2026 06:05:00 GMT",
+    "fetched_at": "2026-10-29 16:50:32",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "의료기기",
+      "헬스케어"
+    ],
+    "keywords": [
+      "간 공여자",
+      "복강경 수술",
+      "로봇 수술",
+      "의료 기술",
+      "국제 합의"
+    ],
+    "reason": "이 합의문은 간 공여자 수술의 표준화와 안전성을 높이는 의료 기술 발전의 일환입니다. 장기적으로 관련 의료기기 시장의 성장 잠재력을 높일 수 있으나, 거시 경제나 광범위한 투자 시장에 미치는 직접적인 영향은 제한적입니다.",
+    "action_point": "의료기기 섹터 내 복강경 및 로봇 수술 관련 장비 제조 기업의 투자 매력도를 재평가."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "인천시-웨이하이, 지방경제 교류 협력 재생에너지·전자상거래 논의 - 인천투데이",
+    "title_ko": "인천시-웨이하이, 지방경제 교류 협력 재생에너지·전자상거래 논의",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JbXhZRF9aM3JLZzVKUk9OcEppYlZRWjM5VEZjZ1d6ZHhvR1VPbU9vLVV1cW51RHRDU3dvUzc4QTNXejM2ZTFsSUQxdV9LWVlIdE9Idml1Y25ERXpRSlVJTjVPdFpseUxIV1d1XzBjYXc?oc=5",
+    "published": "Thu, 29 Oct 2026 07:30:12 GMT",
+    "fetched_at": "2026-10-29 16:50:47",
+    "sentiment": "호재",
+    "importance": 2,
+    "sectors": [
+      "재생에너지",
+      "전자상거래",
+      "물류"
+    ],
+    "keywords": [
+      "인천",
+      "웨이하이",
+      "지방경제",
+      "재생에너지",
+      "전자상거래",
+      "교류협력"
+    ],
+    "reason": "이 뉴스는 인천시와 중국 웨이하이 간의 재생에너지 및 전자상거래 분야 협력 논의로, 관련 산업의 특정 기업에는 긍정적일 수 있으나, 국내 전체 거시 경제나 시장에 미치는 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "Samsung Electronics third-quarter profit in line with estimates amid rising demand for AI memory chips",
     "title_ko": "삼성전자 3분기 이익, AI 메모리 칩 수요 증가에 힘입어 예상치 부합",
     "link": "https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html",
@@ -2737,258 +2981,5 @@
     ],
     "reason": "이 기사는 개인 투자자가 개별 주식 및 복잡한 ETF로 시장을 이기기 어렵다고 지적하며, 광범위한 시장 인덱스 펀드의 장점을 재강조합니다. 이는 개인 투자 전략에 대한 장기적 관점을 제시합니다.",
     "action_point": "본인의 직접 투자나 리테일 성향 자산 배분 시, 시장 지수형 자산 비중 확대를 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "세계경제는 AI에 베팅했다…청구서는 이제부터다 - 머니투데이 - 머니투데이",
-    "title_ko": "세계경제는 AI에 베팅했다…청구서는 이제부터다 - 머니투데이",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEUkkzWkMtXzh6aEh5NDNXWV9Wb0FuRUhVQkNHTHlUWnR4eEJheDM3NkhTYU01WFViWjJQOWdCMUk5YXlLUHJBdVhrOHp2Z1pXaFAzZjB0SkktbF9qZVBQcnFhZGVESzVn0gFuQVVfeXFMT0NIb3U0R0k0ZEVwUmpjUFBncmxqX211T05kRF9aVi1qbVFYOTdpTlU4QnRjUmtOUTktMDN3bGxteFVyUFhaazZWdVFNcVRlUXRhU3FoTGctOUszVGVSM3dDbEpYWG1qWnRVMnBFZXc?oc=5",
-    "published": "Sat, 24 Oct 2026 21:00:00 GMT",
-    "fetched_at": "2026-10-25 07:07:47",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "기술",
-      "반도체",
-      "데이터센터",
-      "전력"
-    ],
-    "keywords": [
-      "AI",
-      "인공지능",
-      "세계경제",
-      "투자비용"
-    ],
-    "reason": "세계 경제의 AI 투자 열풍이 이제 그 실제 비용, 인프라 수요 및 지속 가능성에 대한 검토 단계로 진입했음을 시사한다. 이는 AI 관련 기업들의 이익 실현과 전반적인 경제적 파급 효과에 대한 현실적인 평가를 요구하며, 과열된 시장에 조정 가능성을 제기할 수 있다.",
-    "action_point": "AI 관련 기술주 및 인프라 관련주의 밸류에이션과 실제 수익성 전환 가능성을 면밀히 재검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[속보] 왕후닝 \"신압록강대교 개통…인적왕래·경제협력 확대\" - 연합뉴스TV",
-    "title_ko": "[속보] 왕후닝 \"신압록강대교 개통…인적왕래·경제협력 확대\"",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mTUhPWUp0eFlLa1lSWDE5LW42VF9JY2JXSmowdVBSeVFrcnJFSURkVktpT2FBVDF2SmFxZnVsWnZkbEhMTld3LS1kUmhZZ1QtQTBwdDVPRXlMdEpFOXJGemFPWFNFbVU?oc=5",
-    "published": "Sat, 24 Oct 2026 11:48:00 GMT",
-    "fetched_at": "2026-10-25 04:10:56",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "남북경협 관련주",
-      "물류",
-      "건설"
-    ],
-    "keywords": [
-      "중국",
-      "북한",
-      "압록강대교",
-      "경제협력",
-      "지정학"
-    ],
-    "reason": "중국 고위층의 발언으로 북한-중국 간 인적 교류 및 경제 협력 확대가 공식화되었음을 시사한다. 이는 한반도 지정학적 역학 관계 변화와 대북 제재 이행에 미묘한 영향을 미칠 수 있다.",
-    "action_point": "한반도 지정학적 리스크 확대 가능성에 대비하여 포트폴리오 내 안전자산 비중을 점검하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Violence flares in Paris after massive, largely peaceful protests across France",
-    "title_ko": "프랑스 전역 대규모 평화 시위 후 파리에서 폭력 사태 발생",
-    "link": "https://www.cnbc.com/2026/10/24/france-paris-protests.html",
-    "published": "Sat, 24 Oct 2026 18:49:38 GMT",
-    "fetched_at": "2026-10-25 04:10:30",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "유럽 주식",
-      "관광/레저",
-      "소비재",
-      "유통"
-    ],
-    "keywords": [
-      "프랑스",
-      "시위",
-      "사회 불안",
-      "정치적 불확실성",
-      "유럽"
-    ],
-    "reason": "프랑스 대규모 시위와 폭력 사태는 단기적으로 현지 소비 및 관광 활동을 위축시키고, 유럽 전반의 정치적 불안감으로 이어질 수 있어 투자 심리에 부정적 영향을 줄 수 있습니다.",
-    "action_point": "유럽 주식 포트폴리오 내 프랑스 익스포저를 점검하고, 특히 프랑스 내 관광/소비재 관련 기업의 투자 비중 축소를 고려."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Saudi-led coalition says it intercepted Houthi ballistic missiles targeting Saudi cities",
-    "title_ko": "사우디 주도 연합군, 사우디 도시 겨냥한 후티 미사일 요격 발표",
-    "link": "https://www.cnbc.com/2026/10/24/saudi-led-coalition-says-it-intercepted-houthi-ballistic-missiles-.html",
-    "published": "Sat, 24 Oct 2026 12:55:46 GMT",
-    "fetched_at": "2026-10-25 01:22:35",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "방산"
-    ],
-    "keywords": [
-      "사우디",
-      "후티",
-      "미사일",
-      "지정학적 위험",
-      "유가"
-    ],
-    "reason": "중동 지역의 지정학적 위험이 지속됨을 보여주며, 이는 주요 산유국 안정성 우려를 높여 유가 변동성을 확대시키고 전반적인 시장의 위험 회피 심리를 자극할 수 있습니다.",
-    "action_point": "중동 지정학적 불안정 심화에 따른 유가 상승 가능성에 대비하여 에너지 섹터 비중을 검토하십시오."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Why popular airplanes are getting scrapped years early",
-    "title_ko": "인기 항공기들이 왜 예정보다 일찍 폐기되고 있는가",
-    "link": "https://www.cnbc.com/2026/10/24/spirit-airlines-planes-scrapped-engine-shortage.html",
-    "published": "Sat, 24 Oct 2026 15:18:30 GMT",
-    "fetched_at": "2026-10-25 01:22:27",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "항공 산업",
-      "항공사",
-      "여행/관광",
-      "운송/물류"
-    ],
-    "keywords": [
-      "항공기",
-      "부품 부족",
-      "공급망",
-      "항공 산업",
-      "수리 및 유지보수"
-    ],
-    "reason": "엔진 및 부품 부족으로 인한 항공기 조기 폐기는 항공사들의 운영 비용 증가와 운항 능력 감소로 이어져 항공 산업 전반의 수익성을 악화시키고 여행 및 물류 비용 상승 압력을 가중할 것입니다.",
-    "action_point": "글로벌 항공사 및 항공기 부품 제조업체 투자 비중 축소 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Ukraine says Starlink and Starshield high speed restrictions have been lifted",
-    "title_ko": "우크라이나, 스타링크 및 스타실드 고속 서비스 제한 해제 발표",
-    "link": "https://www.cnbc.com/2026/10/24/ukraine-starlink-starshield-service-restored.html",
-    "published": "Sat, 24 Oct 2026 13:00:35 GMT",
-    "fetched_at": "2026-10-25 01:22:20",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "우주항공/방위산업",
-      "위성통신"
-    ],
-    "keywords": [
-      "우크라이나",
-      "스타링크",
-      "스타실드",
-      "위성통신",
-      "군사"
-    ],
-    "reason": "이 뉴스는 우크라이나의 군사 통신 역량 회복을 알리며, 전쟁 상황의 안정화에 기여할 수 있지만 글로벌 거시 경제에 미치는 직접적인 영향은 제한적입니다. 다만, 위성통신 및 방위산업 기술의 중요성을 다시 부각시킵니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[속보] 靑, 김정은 방중에 \"동향 면밀 주시\" - 연합뉴스TV",
-    "title_ko": "靑, 김정은 방중에 \"동향 면밀 주시\"",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwRXJKTjd5NHpsVUplQWI5X25PU2ZBbzhZM2ltS3hjRDNGSVI2cmZuOVM2UW9Ra1g1Q2NDeUhMNUhZYUthdWRmRm5iTUphUG1vLU5peWdJS0FtXzBXRXFNNnpmZkJQRHc?oc=5",
-    "published": "Sat, 24 Oct 2026 09:32:00 GMT",
-    "fetched_at": "2026-10-24 21:21:19",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "방위산업",
-      "코스피",
-      "코스닥",
-      "외환"
-    ],
-    "keywords": [
-      "김정은",
-      "북한",
-      "외교",
-      "지정학",
-      "남북관계"
-    ],
-    "reason": "김정은 북한 국무위원장의 해외 방문은 한반도 지정학적 불확실성을 높이며, 북한의 향후 대외 정책 방향과 남북 관계 변화 가능성을 시사한다.",
-    "action_point": "한반도 지정학적 불확실성 증가에 따른 원화 약세 가능성 대비 달러 자산 비중 유지."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "트럼프 \"이란에 다시 '장대한 분노' 작전\"...국제유가 급등 - YTN",
-    "title_ko": "트럼프 \"이란에 다시 '장대한 분노' 작전\"...국제유가 급등 - YTN",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4xNWxpZy1MSjZxRmV0OTFPM1ljMERlV1Y1QkZKSVRxYjdKU3RuZkRoUXo0a3lwSERJZDh1X0ZzWFR4RWVlWlMwYXFJZEd6RVNvaVlJdGtOU2tfY0ZxVHc?oc=5",
-    "published": "Sat, 24 Oct 2026 09:28:00 GMT",
-    "fetched_at": "2026-10-24 21:21:27",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "방산",
-      "항공운수",
-      "해운",
-      "화학"
-    ],
-    "keywords": [
-      "트럼프",
-      "이란",
-      "국제유가",
-      "지정학적 리스크",
-      "중동"
-    ],
-    "reason": "트럼프의 이란 관련 강경 발언은 중동 지역의 지정학적 긴장을 고조시키고, 원유 공급 차질 우려를 증폭시켜 국제유가 급등을 유발한다. 이는 전반적인 인플레이션 압력을 가중시키고 에너지 의존도가 높은 산업에 부정적 영향을 미친다.",
-    "action_point": "국제유가 추가 상승에 대비하여 원유 관련 자산 및 방산 섹터 비중 확대를 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "김정은, 中 서열 4위 왕후닝과 회담…경제협력 확대 뜻 모아 - 주간조선",
-    "title_ko": "김정은, 中 서열 4위 왕후닝과 회담…경제협력 확대 뜻 모아",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5BLWdleEpHYXhqb21aWHRJWTJZRFhHVWZjMGZHNzFlT0VTZEJRWVV5M2RNS015MFduZ2dQSThrTTdKcmh5eG5uR2NEa2EyRUY3RjhQYUstWURGQVUweGpZV0ZpblVRb29jeVHSAW5BVV95cUxPbVV3S1ZOWUhST25Za2RtNU40cklFaXRWc09WSVc5SEtWNGZVd1d5d3FrVUJBNlBqTGlTVWJNajNYd05YZHJaMUlTckNNNnlzWGVub0pFQjNoancwTVc4THBLVGQ1dEFwT3Z4Y2dlZw?oc=5",
-    "published": "Sat, 24 Oct 2026 11:58:39 GMT",
-    "fetched_at": "2026-10-24 21:21:43",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [],
-    "keywords": [
-      "북한",
-      "중국",
-      "경제협력",
-      "지정학",
-      "왕후닝",
-      "김정은"
-    ],
-    "reason": "북한과 중국 고위급 회담을 통해 경제협력 확대 의지가 확인되어 한반도 지정학적 리스크 완화에 기여할 수 있습니다. 이는 장기적으로 역내 안정성 증진에 긍정적이나, 국내 시장에 미치는 직접적인 경제적 영향은 제한적입니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "태풍 ‘참피’ 북상에···제주·남해안 풍수해 위기경보 ‘관심→주의’ 상향 - 경향신문",
-    "title_ko": "태풍 ‘참피’ 북상에···제주·남해안 풍수해 위기경보 ‘관심→주의’ 상향 - 경향신문",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95cVg2a3lTVXNJclNZR2lfUVNqWGE5dGRwLUtWVTdHelhHRnNxVUp0dGl4dkpGYUhXajREQ0dTdElkWjlIQ1dnQTJZYUoxVUVsVFRtTXNrUVUyQdIBX0FVX3lxTFBIei1RLWU2QVAwMHFlUEFpclhHZFF1Yklwb3IxdnBnbXZJOFJkek9RMFRXX3hKSTkwVzdBNVhJQlYtSUVGZ0lCbENGWm1MUmoxakVya0pjVi1ET0pna2xF?oc=5",
-    "published": "Sat, 24 Oct 2026 10:14:00 GMT",
-    "fetched_at": "2026-10-24 21:21:50",
-    "sentiment": "악재",
-    "importance": 2,
-    "sectors": [
-      "보험",
-      "유통",
-      "관광",
-      "농업",
-      "수산업",
-      "해운"
-    ],
-    "keywords": [
-      "태풍",
-      "풍수해",
-      "제주",
-      "남해안",
-      "자연재해"
-    ],
-    "reason": "태풍 '참피' 북상은 제주 및 남해안 지역의 경제 활동에 직접적인 차질을 발생시키고, 농수산물 피해 및 시설물 파손으로 이어져 관련 기업의 실적에 부정적 영향을 미칠 수 있습니다. 특히 보험사의 손해율 증가와 유통/관광 부문의 수요 감소가 예상됩니다.",
-    "action_point": "보험, 해운, 유통, 농업/수산업 관련 기업의 단기적 실적 악화 가능성을 주시하며 해당 섹터 비중 축소를 검토하라."
   }
 ]
