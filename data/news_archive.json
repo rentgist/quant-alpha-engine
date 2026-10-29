@@ -2,6 +2,132 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "European Central Bank keeps key interest rate on hold at 2.5%",
+    "title_ko": "유럽중앙은행(ECB), 기준금리 2.5%로 동결",
+    "link": "https://www.cnbc.com/2026/10/29/european-central-bank-interest-rates.html",
+    "published": "Thu, 29 Oct 2026 14:18:44 GMT",
+    "fetched_at": "2026-10-29 23:47:23",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "금융",
+      "부동산",
+      "수출"
+    ],
+    "keywords": [
+      "유럽중앙은행",
+      "금리 동결",
+      "통화 정책",
+      "유로존"
+    ],
+    "reason": "유럽중앙은행의 금리 동결은 유로존의 통화정책이 현상 유지를 통해 시장의 불확실성을 일부 해소하며, 경기 연착륙을 시도하는 신호로 해석될 수 있습니다.",
+    "action_point": "유럽 금리 인상 압박 완화에 따라 유로존 관련 투자 자산 비중을 현행대로 유지하거나 성장주 비중을 소폭 확대 검토."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Third-quarter U.S. GDP increases a better-than-expected 3.4% as September inflation accelerates",
+    "title_ko": "미국 3분기 GDP 예상치 상회한 3.4% 성장, 9월 인플레이션 가속화",
+    "link": "https://www.cnbc.com/2026/10/29/pce-inflation-report-september-2026-.html",
+    "published": "Thu, 29 Oct 2026 14:11:31 GMT",
+    "fetched_at": "2026-10-29 23:47:35",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "미국 주식 시장",
+      "성장주",
+      "부동산",
+      "채권 시장",
+      "외환 시장"
+    ],
+    "keywords": [
+      "미국 GDP",
+      "인플레이션",
+      "금리 인상",
+      "달러 강세"
+    ],
+    "reason": "예상보다 높은 미국 GDP 성장률과 가속화되는 인플레이션은 연준의 '고금리 장기화' 기조를 강화하여 채권 금리 상승과 달러 강세를 유발하고 주식 등 위험 자산에는 부담으로 작용할 것입니다.",
+    "action_point": "달러 강세와 고금리 환경에 대비하여 달러 자산 비중을 유지하고 금리 민감 자산의 비중 축소를 검토하십시오."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Alphabet falls 13%, putting it on course for its biggest ever post-earnings drop",
+    "title_ko": "알파벳 주가 13% 급락, 실적 발표 후 역대 최대 낙폭 기록 중",
+    "link": "https://www.cnbc.com/2026/10/29/alphabet-google-microsoft-msft-shares-today-earnings.html",
+    "published": "Thu, 29 Oct 2026 13:46:52 GMT",
+    "fetched_at": "2026-10-29 23:47:06",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "기술주",
+      "성장주",
+      "광고"
+    ],
+    "keywords": [
+      "알파벳",
+      "기술주",
+      "실적",
+      "자유현금흐름",
+      "주가 하락"
+    ],
+    "reason": "알파벳의 마이너스 자유현금흐름은 고성장 기술 기업들의 자본 지출 부담과 수익성에 대한 우려를 확산시켜 전반적인 기술주 투자 심리에 부정적 영향을 미칠 수 있습니다.",
+    "action_point": "글로벌 대형 기술주의 자유현금흐름 악화 가능성을 주시하며, 비효율적 자본 지출 우려가 있는 성장주 비중 축소를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Banks and healthcare firms are outbidding tech for software talent, major recruiter says",
+    "title_ko": "은행 및 헬스케어 기업, 소프트웨어 인재 유치 경쟁에서 기술 기업 압도",
+    "link": "https://www.cnbc.com/2026/10/29/ai-jobs-software-engineers-tech-layoffs.html",
+    "published": "Thu, 29 Oct 2026 13:29:18 GMT",
+    "fetched_at": "2026-10-29 23:47:47",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "금융",
+      "헬스케어",
+      "기술"
+    ],
+    "keywords": [
+      "AI 인력",
+      "소프트웨어 인재",
+      "임금 경쟁",
+      "디지털 전환",
+      "산업 구조 변화"
+    ],
+    "reason": "AI 인재 확보 경쟁이 심화되며 금융 및 헬스케어 산업의 디지털 전환이 가속화되고, 이는 기술 기업의 인건비 부담 증가 및 인력 유출 리스크를 야기할 수 있다. 장기적으로 산업 경쟁력과 기업 가치에 영향을 미칠 구조적 변화의 신호로 해석된다.",
+    "action_point": "금융 및 헬스케어 섹터 내 AI 기술 혁신 선두 기업에 대한 투자 비중 확대를 검토하고, 인건비 상승 압박을 겪을 기술 기업의 잠재적 리스크를 평가."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "한-독, '경제·하이테크 파트너십' 구축…이중과세방지협정 개정 의정서도 체결 - 연합인포맥스",
+    "title_ko": "한-독, '경제·하이테크 파트너십' 구축…이중과세방지협정 개정 의정서도 체결",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1CWDBlMnJpQ3hOQ1pJYkdiRnRFNXN3VkdkQVZXVmJoaS1PVU5FdWczaDdlNDF1Q2N4Tzl5Q1pxd0RtbS0wV0UxQUFTckNDUUlfSmJMcHQyemJqaUk0YnZSVU9yQmYwb2lFX1RIUGpmYzM?oc=5",
+    "published": "Thu, 29 Oct 2026 09:55:20 GMT",
+    "fetched_at": "2026-10-29 23:47:58",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "첨단산업",
+      "자동차",
+      "배터리",
+      "무역"
+    ],
+    "keywords": [
+      "한-독",
+      "경제 협력",
+      "하이테크",
+      "이중과세방지",
+      "투자"
+    ],
+    "reason": "한국과 독일 간 경제 및 첨단기술 협력을 강화하고 이중과세 부담을 줄여 양국 기업들의 투자 및 교역 확대를 촉진할 것이며, 이는 장기적으로 관련 산업의 성장 잠재력을 높인다.",
+    "action_point": "한-독 협력 강화 및 이중과세 해소로 수혜가 예상되는 국내 첨단산업, 자동차, 배터리 관련 기업 투자 비중 확대를 검토."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "Shell nearly doubles quarterly profit year-on-year as refining margins soar to record high",
     "title_ko": "쉘, 정제 마진 사상 최고치 기록하며 분기 이익 전년 대비 두 배 가까이 증가",
     "link": "https://www.cnbc.com/2026/10/29/shell-earnings-oil-q3.html",
@@ -2856,130 +2982,5 @@
     ],
     "reason": "남해동부바깥먼바다 태풍경보는 해상 운송 및 조업 활동에 단기적 차질을 줄 수 있으나, 국내 본토 경제에 미칠 직접적인 거시적 영향은 제한적입니다.",
     "action_point": "해당 없음"
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "“몸에서 생선 썩은 내가 나요”…일상생활 어려운 희귀질환, K바이오서 도전장",
-    "title_ko": "“몸에서 생선 썩은 내가 나요”…일상생활 어려운 희귀질환, K바이오서 도전장",
-    "link": "https://www.mk.co.kr/news/it/12185285",
-    "published": "Sun, 25 Oct 2026 18:49:13 +09:00",
-    "fetched_at": "2026-10-25 19:25:24",
-    "sentiment": "호재",
-    "importance": 2,
-    "sectors": [
-      "바이오",
-      "제약"
-    ],
-    "keywords": [
-      "희귀질환",
-      "K-바이오",
-      "치료제",
-      "임상",
-      "바이오미"
-    ],
-    "reason": "국내 바이오 기업이 난치성 희귀질환 치료제 개발에 진전을 보인다는 소식은 해당 기업과 K-바이오 섹터의 기술력 및 성장 잠재력을 부각시키는 긍정적 요인입니다. 다만, 거시 경제나 전체 증시 흐름에 미치는 영향은 제한적입니다.",
-    "action_point": "K-바이오 섹터 내 희귀질환 치료제 개발 관련 기술력을 보유한 국내 기업의 투자 매력도 재평가를 검토."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "低PBR 기업 압박 본격화…“구조적 이유” 하소연",
-    "title_ko": "저PBR 기업 압박 본격화…“구조적 이유” 하소연",
-    "link": "https://www.mk.co.kr/news/stock/12185040",
-    "published": "Sun, 25 Oct 2026 14:24:02 +09:00",
-    "fetched_at": "2026-10-25 14:31:36",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "금융",
-      "자동차",
-      "유틸리티",
-      "건설",
-      "지주회사"
-    ],
-    "keywords": [
-      "저PBR",
-      "기업 밸류업 프로그램",
-      "주주환원",
-      "배당 확대",
-      "지배구조 개선",
-      "한국거래소"
-    ],
-    "reason": "한국거래소의 저PBR 기업 명단 공개가 임박하면서 해당 기업들의 주주환원 정책 및 지배구조 개선 노력이 가속화될 것이며, 이는 특정 업종 및 기업의 재평가를 유도하며 국내 증시의 장기적 체질 개선에 기여할 잠재력이 있다.",
-    "action_point": "저PBR 섹터 내 재무 건전성이 우수하고 주주환원 의지가 높은 국내 기업의 비중 확대를 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "트럼프, 러 알래스카 LNG 투자 묻자 \"전쟁 끝나면 러와도 거래\" - 연합뉴스TV",
-    "title_ko": "트럼프, 러 알래스카 LNG 투자 묻자 \"전쟁 끝나면 러와도 거래\" - 연합뉴스TV",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2YzZ3cDNLeDMtSmwyZUdYS3E4eUJjeGFLZEcxZ1BHZ3dHMjJmWEI1NWhya2Rvb2p5ZTFrNEtDT0VvYzJPVk4xWUNLOXhEMUp2TWh2SHZTZFloNWw2aTUtWEd4OFpXYXM?oc=5",
-    "published": "Sun, 25 Oct 2026 01:07:00 GMT",
-    "fetched_at": "2026-10-25 14:31:17",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "에너지",
-      "해운"
-    ],
-    "keywords": [
-      "트럼프",
-      "러시아",
-      "LNG",
-      "에너지",
-      "지정학"
-    ],
-    "reason": "트럼프의 발언은 미래 미국 행정부의 대러시아 에너지 정책 변화 가능성을 시사한다. 이는 우크라이나 전쟁 종료 시 러시아 에너지 자원의 국제 시장 복귀를 통해 장기적으로 글로벌 에너지 시장의 공급 안정화 및 가격 변동성에 영향을 줄 수 있다.",
-    "action_point": "트럼프 당선 시 대러시아 에너지 무역 재개 가능성에 대비하여 에너지 섹터 포트폴리오의 장기 전략을 점검하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "“연구진 20명이냐, AI냐” 질문받은 전 백악관 경제자문위원장 “슬프지만…” - 문화일보",
-    "title_ko": "“연구진 20명이냐, AI냐” 질문받은 전 백악관 경제자문위원장 “슬프지만…”",
-    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBvUDlWaVQzTTRYazN4N1AyWklZUGFPbXlxMmNGdGdPVGczeFFidGc2Mm1ia013YnhHWGoyRUpZTkF3bXBjTXlPeWhad01NeU9F?oc=5",
-    "published": "Sat, 24 Oct 2026 22:09:11 GMT",
-    "fetched_at": "2026-10-25 09:41:38",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "기술",
-      "소프트웨어",
-      "IT 서비스",
-      "자동화"
-    ],
-    "keywords": [
-      "AI",
-      "인공지능",
-      "생산성",
-      "고용",
-      "기술혁신"
-    ],
-    "reason": "이 기사는 AI 기술 발전이 인간 노동을 대체하며 생산성을 향상시키는 장기적 추세를 재확인합니다. 이는 관련 기술 기업에 긍정적이며 전 산업에 걸쳐 효율성 증대를 가져오지만, 고용 시장에는 구조적 변화와 도전을 예고합니다.",
-    "action_point": "AI 기술 관련 기업 및 자동화 솔루션 제공 기업 비중 확대 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Retail investors are not more sophisticated than 30 years ago, says former hedge fund manager",
-    "title_ko": "전 헤지펀드 매니저, '개인 투자자들은 30년 전보다 더 정교해지지 않았다' 주장",
-    "link": "https://www.cnbc.com/2026/10/24/stock-picking-could-hurt-investors-warns-former-hedge-fund-manager.html",
-    "published": "Sat, 24 Oct 2026 15:00:01 GMT",
-    "fetched_at": "2026-10-25 09:41:29",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "자산운용",
-      "증권"
-    ],
-    "keywords": [
-      "개인 투자자",
-      "인덱스 펀드",
-      "패시브 투자",
-      "액티브 투자"
-    ],
-    "reason": "이 기사는 개인 투자자가 개별 주식 및 복잡한 ETF로 시장을 이기기 어렵다고 지적하며, 광범위한 시장 인덱스 펀드의 장점을 재강조합니다. 이는 개인 투자 전략에 대한 장기적 관점을 제시합니다.",
-    "action_point": "본인의 직접 투자나 리테일 성향 자산 배분 시, 시장 지수형 자산 비중 확대를 검토하라."
   }
 ]
