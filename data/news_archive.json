@@ -2,6 +2,134 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "Samsung Electronics third-quarter profit in line with estimates amid rising demand for AI memory chips",
+    "title_ko": "삼성전자 3분기 이익, AI 메모리 칩 수요 증가에 힘입어 예상치 부합",
+    "link": "https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html",
+    "published": "Thu, 29 Oct 2026 01:13:47 GMT",
+    "fetched_at": "2026-10-29 10:24:32",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "반도체",
+      "IT 하드웨어",
+      "인공지능"
+    ],
+    "keywords": [
+      "삼성전자",
+      "3분기 실적",
+      "AI 메모리 칩",
+      "반도체",
+      "수요 증가"
+    ],
+    "reason": "삼성전자의 실적은 AI 메모리 칩 수요 증가로 예상을 충족하며, 전반적인 반도체 시장의 회복과 AI 산업 성장에 대한 긍정적 신호를 제공한다. 이는 기술 섹터 전반에 대한 투자 심리를 개선할 수 있다.",
+    "action_point": "반도체 및 AI 관련 기술주에 대한 비중 확대 또는 유지 검토."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Inside India newsletter: New Delhi approves $22 billion in military spending amid China border tensions",
+    "title_ko": "인도 내부 소식: 뉴델리, 중국 국경 긴장 속 220억 달러 규모 국방비 지출 승인",
+    "link": "https://www.cnbc.com/2026/10/29/india-china-us-israel-military-spending.html",
+    "published": "Thu, 29 Oct 2026 00:11:14 GMT",
+    "fetched_at": "2026-10-29 10:24:57",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "방위산업",
+      "항공우주",
+      "지정학"
+    ],
+    "keywords": [
+      "인도",
+      "국방비",
+      "중국",
+      "국경",
+      "군사 지출",
+      "방위산업체"
+    ],
+    "reason": "인도의 대규모 국방비 증가는 글로벌 방위산업에 직접적인 성장 기회를 제공하며, 특히 미국, 이스라엘, 러시아 방산 기업에 긍정적입니다. 동시에 중국과의 국경 긴장 고조는 역내 지정학적 불안정성을 키워 투자 심리에 미묘한 영향을 줄 수 있습니다.",
+    "action_point": "글로벌 방위산업 관련 ETF 또는 개별 종목의 비중 확대 가능성을 검토하십시오."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "One passport isn’t enough for some wealthy Chinese. Here’s where they’re looking next",
+    "title_ko": "일부 중국 부유층, 하나의 여권으로는 부족…다음 행선지는?",
+    "link": "https://www.cnbc.com/2026/10/29/where-chinas-wealthy-are-turning-for-second-passports.html",
+    "published": "Wed, 28 Oct 2026 23:38:00 GMT",
+    "fetched_at": "2026-10-29 10:24:43",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "부동산",
+      "자산관리",
+      "금융서비스"
+    ],
+    "keywords": [
+      "중국 부유층",
+      "자본 유출",
+      "시민권/여권",
+      "글로벌 자산 재배치",
+      "중국 리스크"
+    ],
+    "reason": "이 기사는 중국 부유층의 국내 경제 및 정치 환경에 대한 불신이 심화되며 대규모 자본 유출과 해외 자산 Diversification이 가속화되고 있음을 시사합니다. 이는 중국 본토 자산의 매력도 하락과 주요 글로벌 자산 시장(특히 부동산)으로의 자본 유입을 의미합니다.",
+    "action_point": "중국 본토 관련 자산 투자 비중을 재검토하고, 싱가포르 등 해외 주요 자산 거점의 부동산 및 금융 상품으로의 분산 투자 전략을 강화하십시오."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Nasdaq-100 futures dip as Alphabet shares sell off after earnings report: Live updates",
+    "title_ko": "알파벳 실적 부진 발표 후 주가 급락에 나스닥100 선물 하락: 실시간 업데이트",
+    "link": "https://www.cnbc.com/2026/10/28/stock-market-today-live-updates.html",
+    "published": "Thu, 29 Oct 2026 00:47:00 GMT",
+    "fetched_at": "2026-10-29 10:24:49",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "기술",
+      "통신 서비스",
+      "광고",
+      "클라우드 컴퓨팅"
+    ],
+    "keywords": [
+      "알파벳",
+      "구글",
+      "실적 발표",
+      "나스닥100",
+      "기술주",
+      "시장 심리"
+    ],
+    "reason": "알파벳의 실망스러운 실적은 대형 기술주에 대한 투자 심리를 위축시키고, 디지털 광고 및 클라우드 시장의 둔화 가능성을 시사하며 고금리 환경에서 기업 이익 성장에 대한 우려를 증폭시킵니다.",
+    "action_point": "성장주 중심의 기술 섹터 비중 축소를 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "제20회 한국해사주간 부산서 개막…국제 해사협력 강화 - 해사신문",
+    "title_ko": "제20회 한국해사주간 부산서 개막…국제 해사협력 강화",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMSzNWeU96bGlQNGRTbUJNZ0dTT1VlME81cmctak41cUU4VXRNcmVjdjN6dTJnQ3psNHJFTWpMb3RodVJaNnk2S2g2Z2RqZkFuZWp5cFhuQ1BPNXdzUXRZV2JZZ3JQVVdQSlhZ?oc=5",
+    "published": "Thu, 29 Oct 2026 01:22:06 GMT",
+    "fetched_at": "2026-10-29 10:25:08",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "해운",
+      "조선",
+      "물류"
+    ],
+    "keywords": [
+      "한국해사주간",
+      "해사협력",
+      "해운",
+      "조선",
+      "물류"
+    ],
+    "reason": "제20회 한국해사주간 개막은 국제 해사협력 강화를 통해 해운 및 조선 산업의 장기적 발전 방향을 모색하는 자리입니다. 이는 해당 섹터의 지속 가능한 성장을 위한 기반 마련에 기여할 수 있으나, 단기 시장 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "Fed holds rates steady despite concerns over inflation",
     "title_ko": "연준, 인플레이션 우려에도 불구하고 금리 동결",
     "link": "https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html",
@@ -2862,128 +2990,5 @@
     ],
     "reason": "태풍 '참피' 북상은 제주 및 남해안 지역의 경제 활동에 직접적인 차질을 발생시키고, 농수산물 피해 및 시설물 파손으로 이어져 관련 기업의 실적에 부정적 영향을 미칠 수 있습니다. 특히 보험사의 손해율 증가와 유통/관광 부문의 수요 감소가 예상됩니다.",
     "action_point": "보험, 해운, 유통, 농업/수산업 관련 기업의 단기적 실적 악화 가능성을 주시하며 해당 섹터 비중 축소를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "What next for France as riots rattle markets? Three questions facing investors ahead of more protests",
-    "title_ko": "프랑스 폭동으로 시장 동요, 투자자들이 직면한 3가지 질문과 향후 전망",
-    "link": "https://www.cnbc.com/2026/10/24/france-riots-paris-unrest-debt-budget.html",
-    "published": "Sat, 24 Oct 2026 06:23:02 GMT",
-    "fetched_at": "2026-10-24 16:45:07",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "여행/레저",
-      "소비재/유통",
-      "금융"
-    ],
-    "keywords": [
-      "프랑스 폭동",
-      "국채금리",
-      "유럽 경제 불안",
-      "정치적 리스크"
-    ],
-    "reason": "프랑스 폭동 사태가 국채금리를 24년 최고치로 끌어올리며 프랑스 재정, 성장, 기업 섹터 전반에 걸친 불확실성을 증폭시켜 유로존 경제 안정에 대한 우려를 키우고 있습니다.",
-    "action_point": "프랑스 국채를 포함한 유로존 고위험 국채 익스포저 축소 및 프랑스 경제 의존도가 높은 유럽 시장 연계 자산의 리스크 점검을 고려하십시오."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[속보] ‘사망설’ 김정은 돌연 방중…“신압록대교 통해 단둥 도착” - 중앙일보",
-    "title_ko": "[속보] ‘사망설’ 김정은 돌연 방중…“신압록대교 통해 단둥 도착” - 중앙일보",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51ZWtIS2czeVBud0M3QnB4V1g2bXVSNEx6eVVxM2xQbzVvSmpkR3pheGUybjdvRkJiVXZHUU9Vc3ZXTjd2bjVDMHVCcGlTODRvNklsbHV3?oc=5",
-    "published": "Sat, 24 Oct 2026 06:03:29 GMT",
-    "fetched_at": "2026-10-24 16:45:52",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "방산",
-      "전반적인 시장심리",
-      "운송"
-    ],
-    "keywords": [
-      "김정은",
-      "북한",
-      "중국",
-      "방중",
-      "지정학"
-    ],
-    "reason": "김정은의 갑작스러운 방중은 북한 리더십의 안정성을 확인시켜주지만, 향후 북중 관계 및 북한의 대외 전략 변화 가능성에 대한 불확실성을 증폭시켜 한반도 지정학적 변동성을 높일 수 있습니다.",
-    "action_point": "한반도 지정학적 리스크 증대에 대비하여 포트폴리오의 방어적 재점검을 실시하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "열흘 동안 3개의 선거‥에너지 위기·기후 변화·아마존이 걸렸다 [기후인사이트 49 | 인싸M] - MBC 뉴스",
-    "title_ko": "열흘 동안 3개의 선거‥에너지 위기·기후 변화·아마존이 걸렸다 [기후인사이트 49 | 인싸M]",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9nLWlhU1dScGUzWDEwRHlqdExTVGZtQVlCVWFocTIzM0o1dVFwcUxzWTVEWUtqeHktWGxGOU9FV20zTk9FLVFGbG96bDBLaUQ1SU9yVkJLUEZYZFNoRm5ES1E0ak1GOEpfelkySlRWVzNRR28?oc=5",
-    "published": "Sat, 24 Oct 2026 01:00:03 GMT",
-    "fetched_at": "2026-10-24 16:46:02",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "신재생에너지",
-      "환경",
-      "자원",
-      "농업"
-    ],
-    "keywords": [
-      "선거",
-      "에너지 위기",
-      "기후 변화",
-      "아마존",
-      "환경 정책"
-    ],
-    "reason": "열흘간 진행될 주요 선거 결과에 따라 에너지, 기후변화 및 환경 정책의 방향성이 결정될 예정으로, 이는 글로벌 에너지 시장 및 산업 구조 전반에 광범위한 영향을 미칠 것입니다.",
-    "action_point": "글로벌 환경 정책 변화 가능성에 대비하여 신재생에너지 및 친환경 기술 관련 자산 비중 확대를 고려하고, 탄소 고배출 산업 노출을 재검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[속보] 통일부 당국자 “김정은 위원장 오늘 방중…평양 출발해 단둥 도착” - KBS 뉴스",
-    "title_ko": "통일부 당국자 \"김정은 위원장 오늘 방중…평양 출발해 단둥 도착\"",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90anJFVzlIY1JqTWpOVWhEaHdWTWFOMHZiMUZGa3VvNURhU0U1a1otNXh1VlNJb3RvQjVtLUxKUWR2OUo4TlpEZVkwR2RQQ0VoM1pXc213QzlNUjg?oc=5",
-    "published": "Sat, 24 Oct 2026 06:16:00 GMT",
-    "fetched_at": "2026-10-24 16:46:27",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "방산",
-      "관광"
-    ],
-    "keywords": [
-      "김정은",
-      "방중",
-      "북한",
-      "중국",
-      "한반도 정세",
-      "지정학"
-    ],
-    "reason": "김정은 위원장의 방중은 북한의 대외 관계 재정립 시도를 보여주며, 향후 한반도 비핵화 및 경제 협력 논의에 대한 불확실성을 높일 수 있습니다. 단기적으로는 지정학적 리스크 완화 기대감이 형성될 수 있으나, 구체적인 결과는 미지수입니다.",
-    "action_point": "한반도 지정학적 긴장 완화 가능성 및 북중 관계 강화에 따른 시장 반응을 주시하고, 방산 섹터 투자 비중을 점검하십시오."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[속보]‘사망설’ 김정은, 24일 전격 중국 방문 … “신압록강대교 건너 단둥 도착” 정부 소식통 전해 - 문화일보",
-    "title_ko": "[속보]‘사망설’ 김정은, 24일 전격 중국 방문 … “신압록강대교 건너 단둥 도착” 정부 소식통 전해 - 문화일보",
-    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1STjA2Z214djVSS1VOMk4yb2MtYlhtZXhtcGR1bDNDMHFQLTdNajN6djMxUzFYNUhQSWR6bDNpcm1tWS1uUGRtVmlyVFZ6Qldf?oc=5",
-    "published": "Sat, 24 Oct 2026 07:18:10 GMT",
-    "fetched_at": "2026-10-24 16:46:36",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "방산"
-    ],
-    "keywords": [
-      "김정은",
-      "중국 방문",
-      "북중 관계",
-      "지정학적 안정"
-    ],
-    "reason": "김정은 건강이상설 불식 및 대외 활동 재개는 북한 정세의 불확실성을 완화시키고, 북중 간 고위급 교류 재개 신호로 한반도 지정학적 리스크 감소에 긍정적으로 작용할 수 있습니다.",
-    "action_point": "방산 섹터의 단기적 모멘텀 약화 가능성을 검토하십시오."
   }
 ]
