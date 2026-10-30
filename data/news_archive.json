@@ -2,6 +2,59 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "Tankers defy sharp escalation of Iranian attacks to keep crude oil flowing through Strait of Hormuz",
+    "title_ko": "탱커선, 이란 공격 격화에도 호르무즈 해협 통해 원유 운송 지속",
+    "link": "https://www.cnbc.com/2026/10/30/tanker-attack-strait-hormuz-iran-war-oil.html",
+    "published": "Fri, 30 Oct 2026 18:28:09 GMT",
+    "fetched_at": "2026-10-31 06:15:15",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "해운/물류",
+      "에너지",
+      "보험"
+    ],
+    "keywords": [
+      "이란",
+      "호르무즈 해협",
+      "원유",
+      "유조선",
+      "운임",
+      "지정학적 위험"
+    ],
+    "reason": "호르무즈 해협 내 이란의 공격 격화에도 불구하고 원유 운송이 유지되어 즉각적인 공급 차질 우려는 완화된다. 다만, 높은 해상 운임은 지정학적 위험이 지속되고 있음을 반영하며, 유조선 운영사에게는 수익성 개선의 기회가 된다.",
+    "action_point": "유조선 관련 해운 섹터 비중 확대 검토."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Binance loses $6.3 billion in crypto heist—what happens to your money when an exchange gets hacked",
+    "title_ko": "바이낸스, 63억 달러 규모 암호화폐 해킹 피해—거래소 해킹 시 당신의 자산은 어떻게 되는가",
+    "link": "https://www.cnbc.com/make-it/2026/10/30/binance-crypto-hack-customer-funds.html",
+    "published": "Fri, 30 Oct 2026 19:39:46 GMT",
+    "fetched_at": "2026-10-31 06:15:26",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "암호화폐",
+      "블록체인",
+      "핀테크",
+      "사이버 보안"
+    ],
+    "keywords": [
+      "바이낸스",
+      "암호화폐",
+      "해킹",
+      "디지털 자산",
+      "보안",
+      "거래소"
+    ],
+    "reason": "이번 대규모 해킹 사건은 디지털 자산의 보안 취약성을 부각시키며 암호화폐 시장 전반에 대한 투자 심리를 위축시키고 규제 당국의 감시 강화를 초래할 수 있습니다. 이는 고위험 자산에 대한 전반적인 위험 회피 심리를 자극할 수 있습니다.",
+    "action_point": "암호화폐 및 관련 디지털 자산에 대한 투자 비중 축소를 검토하고, 보유 자산의 보안 위험을 재평가해야 합니다."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "Russian strikes plunge Ukrainian city into blackout as Zelenskyy warns of more missile attacks",
     "title_ko": "러시아 공습으로 우크라이나 도시 정전, 젤렌스키 추가 미사일 공격 경고",
     "link": "https://www.cnbc.com/2026/10/30/russia-ukraine-putin-zelenskyy-energy-strikes.html",
@@ -2920,58 +2973,5 @@
     ],
     "reason": "국내 AI 반도체 기업들의 신중한 IPO 속도 조절은 시장의 펀더멘탈 요구가 강화되었음을 시사하며, 이는 단기적으로 국내 IPO 시장의 활력 저하 및 관련 기술주 투자 심리에 영향을 줄 수 있습니다.",
     "action_point": "국내 신규 AI 반도체 기업 IPO 투자 시 실적 및 사업 모델의 실질적 가치 검증을 강화하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "“얘들아 유산은 없다!”…물려주지 않고 여행·취미 즐긴다는 은퇴 세대",
-    "title_ko": "“얘들아 유산은 없다!”…물려주지 않고 여행·취미 즐긴다는 은퇴 세대",
-    "link": "https://www.mk.co.kr/news/world/12186255",
-    "published": "Mon, 26 Oct 2026 20:05:59 +09:00",
-    "fetched_at": "2026-10-26 20:54:25",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "여행/레저",
-      "호텔/항공",
-      "고급 소비재",
-      "자산관리(은퇴설계)"
-    ],
-    "keywords": [
-      "은퇴 세대",
-      "소비 패턴",
-      "여행",
-      "취미",
-      "레저"
-    ],
-    "reason": "미국 및 유럽의 부유한 은퇴 세대가 유산 상속 대신 개인의 여행, 여가, 취미 활동에 지출을 늘리는 경향이 강화되고 있습니다. 이는 관련 소비재 및 서비스 산업 성장에 긍정적인 신호입니다.",
-    "action_point": "글로벌 여행/레저, 호텔/항공 및 고급 소비재 섹터 내 유망 기업에 대한 투자 비중 확대를 검토하십시오."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "첨단산업과 메가시티의 성패, ‘AI 네이티브 병원’에 달렸다",
-    "title_ko": "첨단산업과 메가시티의 성패, ‘AI 네이티브 병원’에 달렸다",
-    "link": "https://www.mk.co.kr/news/it/12186251",
-    "published": "Mon, 26 Oct 2026 20:03:44 +09:00",
-    "fetched_at": "2026-10-26 20:54:35",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "헬스케어",
-      "IT/AI",
-      "건설",
-      "지역개발"
-    ],
-    "keywords": [
-      "AI",
-      "병원",
-      "첨단산업",
-      "메가시티",
-      "지역균형발전",
-      "인구유입"
-    ],
-    "reason": "고급 AI 헬스케어 인프라가 첨단산업 육성과 메가시티 발전을 위한 핵심 동력임을 강조하며, 장기적인 지역 경쟁력 제고를 위한 정책적 시사점을 제공한다.",
-    "action_point": "AI 헬스케어 기술 및 인프라 구축 관련 기업의 투자 매력도를 장기적 관점에서 평가."
   }
 ]
