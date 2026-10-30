@@ -1,5 +1,81 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "BOJ holds rates as inflation aligns with 2% target for first time since 2013",
+    "title_ko": "일본은행, 인플레이션이 2013년 이후 처음으로 2% 목표치에 부합하자 금리 동결",
+    "link": "https://www.cnbc.com/2026/10/30/boj-inflation-target-rates.html",
+    "published": "Fri, 30 Oct 2026 03:16:28 GMT",
+    "fetched_at": "2026-10-30 12:34:40",
+    "sentiment": "호재",
+    "importance": 5,
+    "sectors": [
+      "주식",
+      "금리",
+      "환율"
+    ],
+    "keywords": [
+      "일본은행",
+      "인플레이션 목표",
+      "통화정책 정상화",
+      "엔화",
+      "금리 동결"
+    ],
+    "reason": "일본은행이 수십 년 만에 처음으로 2% 인플레이션 목표 달성을 공식 선언하며 디플레이션 시대의 종식을 알렸다. 이는 향후 금리 인상 및 통화정책 정상화의 강력한 신호로, 엔화 강세 및 글로벌 유동성 재편을 야기할 수 있다.",
+    "action_point": "엔화 강세 전환 가능성에 대비하여 엔화 자산 비중 확대를 검토하고, 엔캐리 트레이드 등 저금리 활용 포지션의 위험 관리를 강화하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Nasdaq-100 futures fall as Amazon and Intel swoon after earnings: Live updates",
+    "title_ko": "아마존과 인텔 실적 부진으로 나스닥 100 선물 하락: 속보",
+    "link": "https://www.cnbc.com/2026/10/29/stock-market-today-live-updates.html",
+    "published": "Fri, 30 Oct 2026 03:31:50 GMT",
+    "fetched_at": "2026-10-30 12:34:48",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "기술",
+      "반도체",
+      "인터넷/전자상거래"
+    ],
+    "keywords": [
+      "나스닥 100",
+      "아마존",
+      "인텔",
+      "실적",
+      "기술주",
+      "반도체"
+    ],
+    "reason": "주요 기술 기업인 아마존과 인텔의 부진한 실적은 기술 섹터 전반에 대한 투자 심리를 악화시키며, 나스닥 100 선물 하락을 주도하여 미국 증시의 기술주 조정 가능성을 높입니다.",
+    "action_point": "미국 기술주 및 반도체 섹터 투자 비중 축소를 검토하고, 실적 방어력이 높은 섹터로의 포트폴리오 재조정을 고려하십시오."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[속보]'반도체·자동차 효과' 생산·소비·투자 트리플↑… '내수 부진'은 숙제 - KBC광주방송",
+    "title_ko": "'반도체·자동차 효과' 생산·소비·투자 트리플↑… '내수 부진'은 숙제",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvODZzZUo1MGRGSk92aXZYdWJucVVIZlNKeEQ2VmFNaEY5MDN5ZnM1RE1vYnlTVHNtNkR4Wk9Jdzd5ZFpDcnBsaHlJaW9DanpqNXJNQXJQZXUtMW9nMEJxSQ?oc=5",
+    "published": "Fri, 30 Oct 2026 01:05:45 GMT",
+    "fetched_at": "2026-10-30 12:34:58",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "반도체",
+      "자동차",
+      "수출"
+    ],
+    "keywords": [
+      "생산",
+      "소비",
+      "투자",
+      "내수",
+      "경제지표"
+    ],
+    "reason": "한국 경제의 생산, 소비, 투자가 반도체와 자동차 수출 호조에 힘입어 동반 상승하며 견고한 성장세를 보이지만, 내수 부진은 여전한 과제로 남아있어 내수주에는 제한적일 수 있습니다.",
+    "action_point": "반도체 및 자동차 등 수출 중심 대형주의 투자 비중을 유지하며 추가 상승 여력을 주시."
+  },
+  {
     "source": "GoogleNews_Korea",
     "market": "KR",
     "title": "'에너지 전쟁' 된 미국 중간선거...바닷가재부터 AI·난방유까지 줄줄이 얽혀 - YTN",
@@ -2909,80 +2985,5 @@
     ],
     "reason": "중동 지역 지정학적 긴장 고조는 전 세계 원유 공급에 대한 불확실성을 증대시키고, 이는 유가 상승 압력 및 시장 변동성 확대로 이어질 수 있습니다.",
     "action_point": "중동 지정학적 리스크 심화에 따른 유가 상승 가능성에 대비하여 에너지 섹터 비중 확대를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Earnings playbook: Alphabet, Microsoft, Amazon and more report this week. Here's what to expect",
-    "title_ko": "실적 가이드: 알파벳, 마이크로소프트, 아마존 등 주요 기업 이번 주 실적 발표 예정. 예상되는 내용은?",
-    "link": "https://www.cnbc.com/2026/10/25/earnings-week-alphabet-microsoft-amazon.html",
-    "published": "Sun, 25 Oct 2026 11:54:08 GMT",
-    "fetched_at": "2026-10-25 23:42:07",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "기술",
-      "클라우드 컴퓨팅",
-      "전자상거래",
-      "IT"
-    ],
-    "keywords": [
-      "실적 발표",
-      "빅테크",
-      "알파벳",
-      "마이크로소프트",
-      "아마존",
-      "S&P 500"
-    ],
-    "reason": "이번 주 주요 빅테크 기업들의 실적 발표는 전체 S&P 500 시장의 방향성과 기술 섹터의 단기 모멘텀을 결정하는 중요한 분수령이 될 것입니다. 이들 기업의 실적 및 가이던스는 광범위한 투자 심리에 큰 영향을 미칠 것입니다.",
-    "action_point": "미국 빅테크 기업 실적 발표에 따른 포트폴리오 내 기술주 비중 재검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "What Democrats and Republicans fear most about each other: CNBC survey has the answers",
-    "title_ko": "민주당과 공화당이 서로에게 가장 두려워하는 것: CNBC 설문조사 결과",
-    "link": "https://www.cnbc.com/2026/10/25/cnbc-survey-midterm-election-voter-fears.html",
-    "published": "Sun, 25 Oct 2026 12:00:01 GMT",
-    "fetched_at": "2026-10-25 23:41:32",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "미국 주식 시장 전반"
-    ],
-    "keywords": [
-      "미국 대선",
-      "정치적 불확실성",
-      "경제 정책",
-      "트럼프",
-      "민주당"
-    ],
-    "reason": "미국 대선 유권자들이 트럼프 전 대통령의 행정권 남용 가능성과 민주 사회주의 정책 도입을 우려하고 있음을 보여준다. 이는 향후 미국 경제 정책 방향과 시장 변동성 확대의 잠재적 요인으로 작용할 수 있다.",
-    "action_point": "미국 대선 관련 정치적 불확실성 증대에 대비하여 포트폴리오의 위험 자산 비중을 점검하고 변동성 확대 가능성에 대비하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Trump announces Audi will build $4 billion U.S. factory in Georgia",
-    "title_ko": "트럼프, 아우디의 40억 달러 규모 미국 조지아 공장 건설 발표",
-    "link": "https://www.cnbc.com/2026/10/24/trump-audi-factory-georgia.html",
-    "published": "Sun, 25 Oct 2026 02:17:24 GMT",
-    "fetched_at": "2026-10-25 23:42:01",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "자동차",
-      "제조업",
-      "건설"
-    ],
-    "keywords": [
-      "아우디",
-      "미국 제조업",
-      "조지아",
-      "자동차",
-      "트럼프"
-    ],
-    "reason": "아우디의 대규모 미국 공장 투자는 미국 제조업 강화 및 고용 창출에 기여하며, 향후 글로벌 공급망 재편 및 보호무역주의 강화 가능성을 시사합니다.",
-    "action_point": "미국 내 제조업 강화 기조에 따른 국내 완성차 및 부품 기업의 대미 수출 전략 변화를 면밀히 분석하고 포트폴리오에 반영."
   }
 ]
