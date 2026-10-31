@@ -1,5 +1,176 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[AI 이슈트렌드] 미·이란 전쟁 위기 1위…코스피 급락·구룡마을 화재 주목 - AI타임스",
+    "title_ko": "[AI 이슈트렌드] 미·이란 전쟁 위기 1위…코스피 급락·구룡마을 화재 주목",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4tNHVDcl81R05nWnppTGxidG54SmV0T2FkWWd1dVpQLWdxdklJUWgtaXlNSTdwNno3NVlRdkJ5Um1haGlHWFpienlzLWN4alNNZ3BXZnpTeGNUdTQ2VHNKNnZzQlFiVVNRelE?oc=5",
+    "published": "Sat, 31 Oct 2026 03:26:43 GMT",
+    "fetched_at": "2026-10-31 16:45:32",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "에너지",
+      "방산",
+      "전반적 증시"
+    ],
+    "keywords": [
+      "미·이란 전쟁",
+      "지정학적 리스크",
+      "유가",
+      "코스피"
+    ],
+    "reason": "미국-이란 간 전쟁 위기 고조는 국제유가를 급등시키고 글로벌 지정학적 불확실성을 증폭시켜 위험 회피 심리를 강화하며 국내 증시 전반에 하방 압력을 가할 수 있습니다.",
+    "action_point": "중동 리스크 확대로 인한 국제유가 급등 가능성과 전반적인 증시 하락에 대비하여 에너지 및 방산 섹터 투자 비중을 검토하고, 포트폴리오의 방어적 자산 비중 확대를 고려하십시오."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Trump called out Big Oil profits. Here’s how much their refining earnings have surged since",
+    "title_ko": "트럼프, 거대 석유 기업 이익 비판. 이후 정유 마진 얼마나 급증했나",
+    "link": "https://www.cnbc.com/2026/10/31/trump-big-oil-refining-profits.html",
+    "published": "Sat, 31 Oct 2026 06:00:02 GMT",
+    "fetched_at": "2026-10-31 16:45:09",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "에너지"
+    ],
+    "keywords": [
+      "트럼프",
+      "거대 석유 기업",
+      "정유 마진",
+      "유가",
+      "에너지"
+    ],
+    "reason": "이 기사는 거대 석유 기업들이 타이트한 연료 공급으로 인해 정유 마진이 급증하며 견조한 수익성을 유지하고 있음을 보여줍니다. 이는 에너지 섹터의 강세를 시사하며, 인플레이션 압력이 지속될 수 있음을 나타냅니다.",
+    "action_point": "에너지 섹터 비중 확대 검토"
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "트럼프 \"전쟁 곧 끝\" 장담했는데...심상찮은 기류 - YTN",
+    "title_ko": "트럼프 \"전쟁 곧 끝\" 장담했는데...심상찮은 기류 - YTN",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9EU1N4UV94b1lzdV9CYzJOZGd6TmNFc2lSMlRKeWl4R3VXa2lqcVp0a0RCUEZDOWZmdnhjZ1J0R3VjeUwwX2tqWkhyZXc5WmJoTnBaQjMyMXg4ZS04dVE?oc=5",
+    "published": "Sat, 31 Oct 2026 02:11:00 GMT",
+    "fetched_at": "2026-10-31 16:45:41",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "방산",
+      "에너지",
+      "산업재"
+    ],
+    "keywords": [
+      "트럼프",
+      "전쟁",
+      "지정학적 리스크",
+      "국제 정세"
+    ],
+    "reason": "트럼프의 '전쟁 종식' 발언에도 불구하고 국제 정세의 불확실성이 커지며 지정학적 리스크가 고조될 가능성을 시사한다. 이는 원자재 가격 변동성 확대 및 글로벌 증시의 위험 회피 심리를 자극할 수 있다.",
+    "action_point": "지정학적 리스크 확대 가능성에 대비하여 방산 및 원자재 관련 자산 비중 확대를 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[속보]서울 아파트 입주 물량 '급감' - 한경매거진",
+    "title_ko": "[속보]서울 아파트 입주 물량 '급감' - 한경매거진",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5palExUlhoRW03aUN4ampjVE5KUjl1eWhkb2tKMEZwNV9NanhzRFpCdWxvc2FnUU44TmNQSHJmRVVRTEZ6REt0NW5KM1NSX1BYZW1ka3ZfSHhaSkpGeEJhZExOMDdQR3QwTkQ2ZQ?oc=5",
+    "published": "Sat, 31 Oct 2026 05:57:00 GMT",
+    "fetched_at": "2026-10-31 16:45:48",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "부동산",
+      "건설",
+      "금융"
+    ],
+    "keywords": [
+      "서울 아파트",
+      "입주 물량",
+      "주택 공급",
+      "부동산 시장"
+    ],
+    "reason": "서울 아파트 입주 물량 급감은 향후 수도권 주택 공급 부족 심화를 예고하며, 이는 중장기적으로 서울 핵심 지역 아파트 가격의 상승 압력으로 작용할 가능성이 높습니다.",
+    "action_point": "서울 핵심 입지 아파트 비중 유지 및 보유 부동산 자산의 가치 재평가를 진행하십시오."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Who's liable when AI agents break the rules?",
+    "title_ko": "AI 에이전트가 규칙을 위반할 때 누가 책임지는가?",
+    "link": "https://www.cnbc.com/video/2026/10/30/ai-rogue-agents-liability-work.html",
+    "published": "Fri, 30 Oct 2026 18:43:30 GMT",
+    "fetched_at": "2026-10-31 16:45:16",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "기술",
+      "소프트웨어",
+      "금융서비스",
+      "법률/보험"
+    ],
+    "keywords": [
+      "AI 에이전트",
+      "책임",
+      "규제",
+      "법적 리스크",
+      "보안"
+    ],
+    "reason": "AI 에이전트 활용 증가는 기업의 생산성을 높이지만, 통제 불능 시 책임 소재의 불분명으로 기업의 법적 및 재무적 리스크가 증대될 수 있습니다. 이는 AI 관련 기술 기업의 투자 심리에 부정적 영향을 미칠 가능성이 있습니다.",
+    "action_point": "AI 기술 의존도가 높은 기업 투자 시 잠재적 법적 책임 및 규제 리스크를 심층 분석하고 포트폴리오 비중을 조정하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Meta outlook revised downward by S&P on cash flow and capex concerns",
+    "title_ko": "S&P, 메타(Meta)의 현금 흐름 및 자본 지출 우려로 전망 하향 조정",
+    "link": "https://www.cnbc.com/2026/10/30/meta-outlook-to-revised-to-negative-by-sp-after-cash-flow-negative.html",
+    "published": "Fri, 30 Oct 2026 22:42:26 GMT",
+    "fetched_at": "2026-10-31 16:45:24",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "기술주",
+      "성장주",
+      "소셜 미디어",
+      "메타버스"
+    ],
+    "keywords": [
+      "Meta",
+      "S&P",
+      "전망 하향",
+      "현금 흐름",
+      "자본 지출"
+    ],
+    "reason": "S&P의 메타 전망 하향 조정은 거대 기술 기업의 높은 자본 지출과 현금 흐름 압박에 대한 우려를 반영하며, 이는 기술 성장주 전반에 대한 투자 심리를 위축시킬 수 있습니다. 특히 미래 성장 동력에 대한 막대한 투자가 단기 실적 부담으로 이어질 수 있음을 시사합니다.",
+    "action_point": "과도한 자본 지출과 부진한 현금 흐름을 보이는 기술 성장주에 대한 비중 축소를 검토하십시오."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "“누가 삼전닉스에 물릴 것을 걱정하랴” … 오히려 매수할 시기 딱 나왔다",
+    "title_ko": "누가 삼전닉스에 물릴 것을 걱정하랴” … 오히려 매수할 시기 딱 나왔다",
+    "link": "https://www.mk.co.kr/news/business/12192441",
+    "published": "Sat, 31 Oct 2026 15:56:52 +09:00",
+    "fetched_at": "2026-10-31 16:46:10",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "반도체",
+      "IT하드웨어"
+    ],
+    "keywords": [
+      "반도체",
+      "메모리 반도체",
+      "삼성전자",
+      "SK하이닉스",
+      "투자전략"
+    ],
+    "reason": "메모리 반도체 시장의 변화를 강조하며 주요 반도체 기업에 대한 과거의 회의론을 불식시키고 매수 기회임을 시사합니다. 이는 국내 증시의 핵심 섹터에 대한 긍정적 투자 심리를 자극할 수 있습니다.",
+    "action_point": "반도체 섹터에 대한 포트폴리오 비중 확대를 검토하라."
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "Binance hack: Investigators in a 'cat and mouse game' to recover $6.3 billion in stolen funds",
@@ -2792,185 +2963,5 @@
     ],
     "reason": "지방노동감독관 제도의 '반쪽 출범' 위기는 정부 노동정책의 실효성 및 집행력에 대한 우려를 제기하지만, 거시경제 전반에 미칠 직접적인 영향은 제한적이다. 특정 산업 또는 기업에 미치는 영향은 개별적으로 판단해야 할 사안이다.",
     "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Trump says he'll soon decide whether to ‘make a deal’ with Iran or ‘finish it off'",
-    "title_ko": "트럼프, 이란과 '합의'할지 아니면 '끝장낼지' 곧 결정할 것",
-    "link": "https://www.cnbc.com/2026/10/26/us-iran-war-hormuz.html",
-    "published": "Mon, 26 Oct 2026 11:49:17 GMT",
-    "fetched_at": "2026-10-26 20:53:05",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "에너지",
-      "방산",
-      "해운",
-      "금융"
-    ],
-    "keywords": [
-      "트럼프",
-      "이란",
-      "중동",
-      "지정학",
-      "원유",
-      "갈등"
-    ],
-    "reason": "중동 지역의 긴장 고조와 이란과의 잠재적 군사 충돌 가능성은 국제 유가 급등과 글로벌 금융 시장의 높은 변동성을 유발할 수 있습니다. 이는 전반적인 투자 심리를 위축시킬 것입니다.",
-    "action_point": "유가 상승에 대비하여 원유 관련 자산 비중 확대를 검토하고, 지정학적 리스크 심화에 따른 안전자산(달러, 금) 보유를 유지해야 합니다."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "英국방 \"2030년쯤 전쟁 발발… 러시아 등 反서방세력이 유럽 침공할 것\" - 조선일보",
-    "title_ko": "英국방 \"2030년쯤 전쟁 발발… 러시아 등 反서방세력이 유럽 침공할 것\"",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSnltckF5bjU4a0VfZXFXeVNyV3FYaXZrLXVieHc2MVdIVzdoUkwyZDltcDZKRlVaWXVwTU9UbTY0VC1CUkp4dG1qOUxTYWtCU1oza1d0YUdxdzcyOG5UQTZ1N1BPcEtIMVZSOUFwSkpNYVNVLVF5ZVJQVVg2ZG1FMWdyMkZPbE9aLVJFTG1vZWhWLUJ4T1pMTDJ3VlFUdw?oc=5",
-    "published": "Sun, 25 Oct 2026 21:22:32 GMT",
-    "fetched_at": "2026-10-26 20:53:51",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "방산",
-      "에너지",
-      "원자재",
-      "금융"
-    ],
-    "keywords": [
-      "지정학",
-      "전쟁",
-      "유럽",
-      "러시아",
-      "국방",
-      "불확실성"
-    ],
-    "reason": "영국 국방장관의 발언은 2030년경 유럽 내 대규모 전쟁 발발 가능성을 경고하며, 장기적인 글로벌 지정학적 리스크를 크게 높이는 요인입니다. 이는 전 세계적인 국방비 지출 증가 및 에너지·원자재 시장의 불확실성을 가중시켜 시장 전반에 안전자산 선호 심리를 확산시킬 수 있습니다.",
-    "action_point": "글로벌 지정학적 리스크 확대 가능성에 대비하여 방산 섹터 비중 확대를 검토하고, 안전자산(달러, 금) 보유를 유지하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Apollo to buy nearly 10% stake in Abu Dhabi-backed alternative asset manager Mubadala Capital",
-    "title_ko": "아폴로, 아부다비 지원 대체 자산 운용사 무바달라 캐피탈 지분 약 10% 인수",
-    "link": "https://www.cnbc.com/2026/10/26/apollo-mubadala-capital-stake.html",
-    "published": "Mon, 26 Oct 2026 11:47:00 GMT",
-    "fetched_at": "2026-10-26 20:53:23",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "대체투자 운용",
-      "금융 서비스",
-      "사모펀드"
-    ],
-    "keywords": [
-      "아폴로",
-      "무바달라 캐피탈",
-      "대체투자",
-      "아부다비",
-      "사모펀드"
-    ],
-    "reason": "이번 거래는 글로벌 대체투자 시장의 전략적 통합과 성장을 보여주며, 아부다비가 세계 자본 시장의 핵심 허브로 부상하고 있음을 강조합니다. 이는 대체자산 섹터에 대한 투자 심리를 긍정적으로 자극할 것입니다.",
-    "action_point": "글로벌 대체투자 시장의 성장성에 주목하고, 중동 자본 연계 투자 기회를 적극적으로 모색하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "李 \"CPTPP 가입 피할수 없는 문제\"",
-    "title_ko": "李 \"CPTPP 가입 피할수 없는 문제\"",
-    "link": "https://www.mk.co.kr/news/economy/12186257",
-    "published": "Mon, 26 Oct 2026 20:09:21 +09:00",
-    "fetched_at": "2026-10-26 20:54:10",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "수출 관련 산업",
-      "농업",
-      "식품"
-    ],
-    "keywords": [
-      "CPTPP",
-      "자유무역협정",
-      "통상정책",
-      "수출",
-      "농업"
-    ],
-    "reason": "CPTPP 가입 추진 의지를 시사하며, 장기적으로 수출 중심 산업에 긍정적이나 농업 등 국내 민감 산업에는 경쟁 심화 우려를 제기합니다.",
-    "action_point": "수출 지향 산업 비중 확대 검토, 농업 관련 국내 민감주 투자 보수적 접근."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "李 \"농업만으론 못살아…대국적 판단해야\"",
-    "title_ko": "李 \"농업만으론 못살아…대국적 판단해야\"",
-    "link": "https://www.mk.co.kr/news/economy/12186229",
-    "published": "Mon, 26 Oct 2026 19:40:42 +09:00",
-    "fetched_at": "2026-10-26 20:54:55",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "농업",
-      "어업",
-      "수출산업",
-      "식품가공"
-    ],
-    "keywords": [
-      "CPTPP",
-      "무역협정",
-      "경제개방",
-      "농어민",
-      "수출"
-    ],
-    "reason": "대통령의 CPTPP 가입 지지 발언은 한국 무역 정책의 변화 가능성을 시사하지만, 국내 농어업 부문의 강한 반발로 인해 실제 가입까지는 진통이 예상되어 단기 시장 영향은 중립적입니다.",
-    "action_point": "CPTPP 가입 논의 추이를 면밀히 주시하며 국내 농수산업 관련 투자 비중을 재검토하고, 잠재적 수혜가 예상되는 수출 주력 산업군 내 새로운 기회를 발굴하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Neocloud stocks fall as Elon Musk says more than 200 of them face 'guppy-level death'",
-    "title_ko": "일론 머스크, 200개 이상 네오클라우드 기업 '구피 수준 사망' 경고에 관련주 하락",
-    "link": "https://www.cnbc.com/2026/10/26/neocloud-stocks-today-coreweave-nebius-iren-elon-musk.html",
-    "published": "Mon, 26 Oct 2026 10:13:01 GMT",
-    "fetched_at": "2026-10-26 20:53:15",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "클라우드 컴퓨팅",
-      "인공지능(AI)",
-      "기술주"
-    ],
-    "keywords": [
-      "일론 머스크",
-      "네오클라우드",
-      "AI 인프라",
-      "기술주 거품"
-    ],
-    "reason": "일론 머스크의 경고와 부채 기반 AI 인프라 확장에 대한 의구심은 과열된 클라우드 및 AI 관련 기술 기업들의 밸류에이션 재평가를 유발하며, 투자 심리 위축으로 이어질 수 있습니다.",
-    "action_point": "고부채 또는 수익성 미확보 AI 및 클라우드 관련 기술주 비중 축소 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Private equity pours billions into defense tech as investors debate a bubble",
-    "title_ko": "사모펀드, 국방 기술에 수십억 달러 투자…투자자들은 거품 논쟁",
-    "link": "https://www.cnbc.com/2026/10/26/defense-tech-private-equity-investment.html",
-    "published": "Mon, 26 Oct 2026 10:46:33 GMT",
-    "fetched_at": "2026-10-26 20:53:31",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "국방 기술",
-      "방위 산업",
-      "항공우주",
-      "사모펀드"
-    ],
-    "keywords": [
-      "사모펀드",
-      "국방 기술",
-      "방위 산업",
-      "투자",
-      "거품"
-    ],
-    "reason": "사모펀드의 국방 기술 투자 급증은 지정학적 불안정과 기술 발전에 따른 해당 섹터의 성장 기대를 반영합니다. 이는 방산 관련 기업들의 기업가치 상승으로 이어질 수 있으나, 일각의 거품 논쟁은 과열 가능성에 대한 경계를 시사합니다.",
-    "action_point": "방산 기술 관련 기업의 밸류에이션을 신중히 분석하여 선별적 투자 기회를 모색."
   }
 ]
