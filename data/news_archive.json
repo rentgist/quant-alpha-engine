@@ -2,6 +2,80 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "G20 foreign ministers end Atlanta meeting without consensus on key issues",
+    "title_ko": "G20 외교장관들, 주요 쟁점 합의 없이 애틀랜타 회의 종료",
+    "link": "https://www.cnbc.com/2026/10/31/g20-foreign-ministers-end-atlanta-meeting-without-consensus-on-issues.html",
+    "published": "Sat, 31 Oct 2026 19:04:28 GMT",
+    "fetched_at": "2026-11-01 07:04:02",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "외교/안보",
+      "글로벌 무역",
+      "원자재"
+    ],
+    "keywords": [
+      "G20",
+      "외교장관",
+      "합의 실패",
+      "지정학적 리스크",
+      "글로벌 협력"
+    ],
+    "reason": "G20 외교장관들의 주요 쟁점 합의 실패는 글로벌 지정학적 불확실성이 지속되고 있음을 보여주며, 국제 공조를 통한 문제 해결이 더욱 어려워질 수 있음을 시사한다. 이는 글로벌 무역 및 투자 환경에 부정적인 영향을 미칠 수 있다.",
+    "action_point": "글로벌 지정학적 리스크 장기화 가능성에 대비하여 방어적 자산군 비중 확대 검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "시티, 중동 리스크로 2027년 유럽 가스 가격 상승 전망 - Investing.com 한국어",
+    "title_ko": "시티, 중동 리스크로 2027년 유럽 가스 가격 상승 전망",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE42c1JNaXBjQ0JuVDM0M0s2TWpPSTdUakh4UGZobEp6c2dKcGk1cjNBQkxjR1dFNmJwUkxOdDFqWHk0NS1oT1J5WlFraXF5OW5wTndzazNwMlo2cDBJekVDWmotM3k0dkk4YmVuZ0o2WQ?oc=5",
+    "published": "Sat, 31 Oct 2026 19:33:00 GMT",
+    "fetched_at": "2026-11-01 07:04:19",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "화학",
+      "제조업",
+      "유틸리티"
+    ],
+    "keywords": [
+      "중동 리스크",
+      "유럽 가스 가격",
+      "에너지",
+      "인플레이션"
+    ],
+    "reason": "시티의 중동 리스크에 따른 유럽 가스 가격 상승 전망은 에너지 시장의 지정학적 프리미엄이 장기화될 수 있음을 시사하며, 이는 유럽 경제의 인플레이션 압력과 생산 비용 증가로 이어져 글로벌 경제 성장 둔화 요인으로 작용할 수 있습니다.",
+    "action_point": "에너지 생산 섹터 비중 확대를 고려하고, 유럽 내 에너지 고의존 섹터의 비중 축소를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "OpenAI pares fundraising goal, now seeking up to $20 billion in latest round",
+    "title_ko": "OpenAI, 최근 자금 조달 목표 하향 조정, 최대 200억 달러 모금 추진",
+    "link": "https://www.cnbc.com/2026/10/31/openai-fundraising-20-billion-valuation.html",
+    "published": "Sat, 31 Oct 2026 19:56:23 GMT",
+    "fetched_at": "2026-11-01 07:04:11",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "기술 (AI 포함)",
+      "벤처 캐피탈"
+    ],
+    "keywords": [
+      "OpenAI",
+      "AI",
+      "자금 조달",
+      "목표 하향",
+      "벤처 캐피탈"
+    ],
+    "reason": "OpenAI의 자금 조달 목표 하향은 AI 산업 전반의 과열된 투자 심리가 조정될 수 있음을 시사하며, 사모 시장에서의 기술 기업 가치 평가에 대한 재고를 촉발할 수 있습니다.",
+    "action_point": "AI 관련 비상장 기업 투자 시 가치 평가 적정성 재점검"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "Qatari mediators held talks in Tehran aimed at restarting direct U.S.-Iran negotiations, source says",
     "title_ko": "카타르 중재자들, 이란 테헤란서 미국-이란 직접 협상 재개 논의",
     "link": "https://www.cnbc.com/2026/10/31/qatar-iran-us-talks-mediation.html",
@@ -2890,76 +2964,5 @@
     ],
     "reason": "홍콩의 차량 호출 플랫폼 합법화는 관련 기술 플랫폼 기업에 시장 확대 기회를 제공하고 규제 불확실성을 해소합니다. 이는 아시아 지역 내 플랫폼 경제의 성장을 촉진할 수 있습니다.",
     "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "DOJ charges ex-FBI Director James Comey in new case",
-    "title_ko": "미 법무부, 전 FBI 국장 제임스 코미를 새로운 사건으로 기소",
-    "link": "https://www.cnbc.com/2026/10/26/james-comey-indictment-national-defense-doj-trump.html",
-    "published": "Mon, 26 Oct 2026 21:57:26 GMT",
-    "fetched_at": "2026-10-27 07:06:51",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [],
-    "keywords": [
-      "미국 정치",
-      "법무부",
-      "제임스 코미",
-      "도널드 트럼프"
-    ],
-    "reason": "이 기사는 전직 FBI 국장의 기소와 관련된 미국 국내 정치 및 법적 이슈로, 글로벌 금융 시장의 거시 경제 변수나 기업 실적에 직접적인 영향을 미치지 않습니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Anthropic IPO live updates: AI lab expects to spend at least $542B on data centers in coming years",
-    "title_ko": "Anthropic IPO 실시간 업데이트: AI 연구소, 향후 몇 년간 데이터 센터에 최소 5,420억 달러 지출 예상",
-    "link": "https://www.cnbc.com/2026/10/26/anthropic-ipo-live-updates-ai-s-1-filing.html",
-    "published": "Mon, 26 Oct 2026 17:46:38 GMT",
-    "fetched_at": "2026-10-27 02:55:36",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "반도체",
-      "데이터센터",
-      "클라우드 컴퓨팅",
-      "전력/유틸리티",
-      "건설"
-    ],
-    "keywords": [
-      "AI",
-      "데이터센터",
-      "자본 지출",
-      "반도체",
-      "클라우드"
-    ],
-    "reason": "AI 주요 기업의 막대한 데이터센터 투자 계획은 AI 기술의 폭발적인 성장과 이를 뒷받침할 인프라 수요가 지속될 것임을 시사합니다. 이는 AI 공급망 전반에 걸쳐 강력한 성장 동력을 제공할 것입니다.",
-    "action_point": "반도체, 데이터센터 인프라, 전력 및 관련 하드웨어 섹터에 대한 비중 확대를 검토하십시오."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push",
-    "title_ko": "마이크로소프트, AI 효율성 추구로 6만 명에 자발적 명예퇴직 제안",
-    "link": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html",
-    "published": "Mon, 26 Oct 2026 17:40:30 GMT",
-    "fetched_at": "2026-10-27 02:55:45",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "기술",
-      "소프트웨어",
-      "클라우드 컴퓨팅"
-    ],
-    "keywords": [
-      "AI",
-      "마이크로소프트",
-      "효율성",
-      "명예퇴직"
-    ],
-    "reason": "이 뉴스는 AI 기술 도입이 주요 기업의 비용 효율성 및 수익성 개선으로 이어질 수 있음을 보여주며, 이는 기술 기업의 장기적인 기업 가치 상승 요인으로 작용할 수 있습니다.",
-    "action_point": "AI 기술 도입으로 효율성을 높여 이익 개선이 기대되는 글로벌 대형 기술주에 대한 비중 확대를 고려."
   }
 ]
