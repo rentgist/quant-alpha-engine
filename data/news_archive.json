@@ -2,6 +2,55 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "Binance hack: Investigators in a 'cat and mouse game' to recover $6.3 billion in stolen funds",
+    "title_ko": "바이낸스 해킹: 63억 달러 도난 자금 회수를 위한 수사관들의 '고양이와 쥐 게임'",
+    "link": "https://www.cnbc.com/2026/10/30/binance-hack-stolen-crypto-recovery.html",
+    "published": "Fri, 30 Oct 2026 19:27:03 GMT",
+    "fetched_at": "2026-10-31 10:15:16",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "암호화폐",
+      "블록체인 기술",
+      "사이버 보안"
+    ],
+    "keywords": [
+      "바이낸스",
+      "암호화폐 해킹",
+      "북한 해커",
+      "사이버 보안",
+      "자금 세탁"
+    ],
+    "reason": "이번 대규모 해킹 사건은 암호화폐 시장의 보안 취약성을 부각시키며 투자 심리에 부정적인 영향을 미칠 수 있습니다. 동시에 북한 연계 해커의 개입은 지정학적 위험과 규제 강화 논의를 촉발할 것입니다.",
+    "action_point": "암호화폐 포트폴리오의 보안 리스크를 재평가하고, 장기적인 관점에서 사이버 보안 솔루션 관련 기업에 대한 투자 기회를 모색하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[박상영의 경제본색](24) 세 차례 미룬 가상자산 과세, 또 미루면 해결될까 - 주간경향",
+    "title_ko": "세 차례 미룬 가상자산 과세, 또 미루면 해결될까",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9zRWdGby05S1VnZDNfa1pvQUxNYXhTU0FsSmN3M20yYm5TenJLem1rNU5qNlM2WUFoOFFManlScFZkN0xKbVBYMGwtVFRRZ1BTYTRjVHp6RGRoV0hGVmc?oc=5",
+    "published": "Fri, 30 Oct 2026 21:00:00 GMT",
+    "fetched_at": "2026-10-31 10:15:28",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "가상자산",
+      "블록체인 기술 기업",
+      "핀테크"
+    ],
+    "keywords": [
+      "가상자산",
+      "과세",
+      "정책 불확실성",
+      "암호화폐"
+    ],
+    "reason": "가상자산 과세의 반복적인 연기는 시장의 정책 불확실성을 가중시키지만, 단기적으로는 가상자산 투자심리 위축을 지연시키는 효과가 있습니다. 이는 장기적인 가상자산 투자 전략 수립에 어려움을 초래합니다.",
+    "action_point": "가상자산 관련 투자 비중을 과도하게 확대하는 것은 유의하며, 관련 규제 동향을 면밀히 주시하십시오."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "Tankers defy sharp escalation of Iranian attacks to keep crude oil flowing through Strait of Hormuz",
     "title_ko": "탱커선, 이란 공격 격화에도 호르무즈 해협 통해 원유 운송 지속",
     "link": "https://www.cnbc.com/2026/10/30/tanker-attack-strait-hormuz-iran-war-oil.html",
@@ -2923,55 +2972,5 @@
     ],
     "reason": "사모펀드의 국방 기술 투자 급증은 지정학적 불안정과 기술 발전에 따른 해당 섹터의 성장 기대를 반영합니다. 이는 방산 관련 기업들의 기업가치 상승으로 이어질 수 있으나, 일각의 거품 논쟁은 과열 가능성에 대한 경계를 시사합니다.",
     "action_point": "방산 기술 관련 기업의 밸류에이션을 신중히 분석하여 선별적 투자 기회를 모색."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Meta launches $35 billion stock offering to fund AI expansion",
-    "title_ko": "메타, AI 확장 자금 조달 위해 350억 달러 규모 주식 공모 발표",
-    "link": "https://www.cnbc.com/2026/10/26/meta-35-billion-stock-offering-ai-expansion.html",
-    "published": "Mon, 26 Oct 2026 11:19:02 GMT",
-    "fetched_at": "2026-10-26 20:53:40",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "정보 기술 (IT)",
-      "반도체"
-    ],
-    "keywords": [
-      "메타",
-      "AI 투자",
-      "주식 공모",
-      "기술주",
-      "자금 조달"
-    ],
-    "reason": "메타의 대규모 자금 조달은 AI 개발에 필요한 막대한 투자를 재확인시켜주며, 이는 AI 인프라 및 관련 기술 시장의 지속적인 성장과 경쟁 심화를 시사합니다. 기술 대기업들의 AI 투자 경쟁이 가속화될 것으로 보입니다.",
-    "action_point": "AI 핵심 인프라(반도체, 클라우드) 관련 기업들에 대한 비중 확대 전략 검토."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "“투자금까지 모았지만 함부로 못 들어가”…K반도체 대어들 IPO 속도조절",
-    "title_ko": "“투자금까지 모았지만 함부로 못 들어가”…K반도체 대어들 IPO 속도조절",
-    "link": "https://www.mk.co.kr/news/business/12186261",
-    "published": "Mon, 26 Oct 2026 20:11:04 +09:00",
-    "fetched_at": "2026-10-26 20:54:03",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "반도체",
-      "인공지능",
-      "IPO",
-      "기술주"
-    ],
-    "keywords": [
-      "AI 반도체",
-      "IPO",
-      "상장",
-      "속도조절",
-      "실적"
-    ],
-    "reason": "국내 AI 반도체 기업들의 신중한 IPO 속도 조절은 시장의 펀더멘탈 요구가 강화되었음을 시사하며, 이는 단기적으로 국내 IPO 시장의 활력 저하 및 관련 기술주 투자 심리에 영향을 줄 수 있습니다.",
-    "action_point": "국내 신규 AI 반도체 기업 IPO 투자 시 실적 및 사업 모델의 실질적 가치 검증을 강화하라."
   }
 ]
