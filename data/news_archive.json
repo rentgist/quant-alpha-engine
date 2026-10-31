@@ -1,5 +1,54 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Trump promised to slash energy costs  — but gasoline, diesel and jet fuel all soared instead",
+    "title_ko": "트럼프, 에너지 비용 절감 약속에도 불구하고 휘발유, 경유, 항공유 가격 모두 급등",
+    "link": "https://www.cnbc.com/2026/10/31/trump-gas-diesel-price-midterm-election.html",
+    "published": "Sat, 31 Oct 2026 12:49:58 GMT",
+    "fetched_at": "2026-10-31 23:02:25",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "에너지",
+      "운송",
+      "항공",
+      "소비재"
+    ],
+    "keywords": [
+      "트럼프",
+      "에너지 가격",
+      "인플레이션",
+      "유가",
+      "연료비"
+    ],
+    "reason": "이 기사는 과거 트럼프 행정부 시절 에너지 가격 통제 실패를 지적하며, 이는 향후 미국 대선 결과에 따라 에너지 정책 불확실성과 인플레이션 압력이 지속될 수 있음을 시사합니다.",
+    "action_point": "에너지 가격 상승 압력 지속 가능성에 대비하여 에너지 생산 기업 투자 비중을 검토하거나 인플레이션 헤지 자산을 모색하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "‘월 3000만원 따박따박’ 공정위 전관 변호사…기업 승소율은 되레 낮아",
+    "title_ko": "‘월 3000만원 따박따박’ 공정위 전관 변호사…기업 승소율은 되레 낮아",
+    "link": "https://www.mk.co.kr/news/economy/12192512",
+    "published": "Sat, 31 Oct 2026 22:41:44 +09:00",
+    "fetched_at": "2026-10-31 23:02:50",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "법률 서비스",
+      "기업 지배구조"
+    ],
+    "keywords": [
+      "공정거래위원회",
+      "전관예우",
+      "기업 승소율",
+      "법률 서비스"
+    ],
+    "reason": "이 뉴스는 공정거래위원회 출신 전관 변호사의 기업 소송 승소율이 일반 변호사보다 낮음을 지적하며, 국내 법률 서비스 시장의 비효율성과 전관예우 관행의 문제를 드러냅니다. 다만, 거시 경제 지표나 광범위한 자산 시장에 미치는 직접적인 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "GoogleNews_Korea",
     "market": "KR",
     "title": "[AI 이슈트렌드] 미·이란 전쟁 위기 1위…코스피 급락·구룡마을 화재 주목 - AI타임스",
@@ -2919,49 +2968,5 @@
     ],
     "reason": "최첨단 AI 기업 앤트로픽의 나스닥 상장 신청은 AI 및 기술 섹터에 대한 투자 심리를 강화하고, 시장 내 성장주 전반에 긍정적인 모멘텀을 제공할 것입니다.",
     "action_point": "AI 및 기술 성장주 비중 확대 또는 관련 ETF 매수 검토"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Investors are doing just as well this year by shunning AI. How to invest if the tech trade keeps fizzling",
-    "title_ko": "AI 주식을 피한 투자자들이 올해도 좋은 성과를 내고 있다. 기술주 거래가 계속 시들해진다면 어떻게 투자해야 할까?",
-    "link": "https://www.cnbc.com/2026/10/26/sp-500-ex-ai-index-tech-selloff.html",
-    "published": "Mon, 26 Oct 2026 15:39:55 GMT",
-    "fetched_at": "2026-10-27 02:55:56",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "기술주",
-      "반도체",
-      "성장주"
-    ],
-    "keywords": [
-      "AI",
-      "기술주",
-      "S&P 500",
-      "섹터 로테이션",
-      "성장주"
-    ],
-    "reason": "AI 주도 시장의 동력이 약화될 수 있으며, S&P 500 지수 내에서 AI 관련주를 제외한 종목들이 더 나은 성과를 보이고 있어 광범위한 섹터 로테이션 가능성을 시사한다.",
-    "action_point": "과열된 AI/기술주 비중 축소를 검토하고, 저평가된 가치주 및 경기방어 섹터로의 포트폴리오 재편을 고려하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "(설명) 한국경제(온라인), \"지방노동감독관 '반쪽 출범' 위기\" 기사 관련 - 대한민국 정책브리핑",
-    "title_ko": "지방노동감독관 '반쪽 출범' 위기 기사 관련",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNG1ZR3E3WFU2bHl0Z2dQN21MNVdCVlE2VXVmMWRmUUFqMThvQTlHcFB4aWN0NWpvTGRzOXdCWTNndHQzZ3l4bERTcVQ1enZRQVpYRWsxeXVQb3Uta1BLQ0VDOUpkeUplSHlZRUpRRndMUWxBZFlPeDJ5dzlDN2x1R3hCTjFlOV9jeFVoOWcyMA?oc=5",
-    "published": "Mon, 26 Oct 2026 17:08:52 GMT",
-    "fetched_at": "2026-10-27 02:56:31",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [],
-    "keywords": [
-      "지방노동감독관",
-      "노동정책",
-      "정책집행"
-    ],
-    "reason": "지방노동감독관 제도의 '반쪽 출범' 위기는 정부 노동정책의 실효성 및 집행력에 대한 우려를 제기하지만, 거시경제 전반에 미칠 직접적인 영향은 제한적이다. 특정 산업 또는 기업에 미치는 영향은 개별적으로 판단해야 할 사안이다.",
-    "action_point": "해당 없음"
   }
 ]
