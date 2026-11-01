@@ -1,5 +1,55 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "美 경제성장률 3.4%에도 국채로 돈 몰려…AI 의존 경제에 경고등 - 글로벌이코노믹",
+    "title_ko": "美 경제성장률 3.4%에도 국채로 돈 몰려…AI 의존 경제에 경고등",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZ0pTalE0OFc3THBZV0dQbjZkMG9WWHF1a1JYc3c1MzhNOHhKZG94akp1YVlCQUY1cTJlZi1YMXVTd01aLWptVjdGQVZwa1dYUXo1d2FWeExKak0xQ0ZNVUZkQnUtOG1ucDlaOWdfN0dmZHlFRk1DQVNrb1hPVDVfeWt0UkhYUDhp?oc=5",
+    "published": "Sat, 31 Oct 2026 22:57:41 GMT",
+    "fetched_at": "2026-11-01 10:40:54",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "기술주",
+      "반도체",
+      "금융"
+    ],
+    "keywords": [
+      "미국 경제",
+      "국채",
+      "AI",
+      "안전자산",
+      "경기 둔화 우려"
+    ],
+    "reason": "미국 경제가 높은 성장률을 기록했음에도 불구하고 국채로 자금이 몰리는 것은 향후 경제 둔화 또는 금리 인하 기대감을 반영하며, AI 섹터에 대한 과도한 의존도가 경고등으로 작용하고 있음을 시사한다.",
+    "action_point": "AI 관련 고평가 기술주 비중 축소를 검토하고, 안전자산 선호 심리 확산에 대비해 포트폴리오 방어 전략을 강화하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "北해커, 눈앞에서 8조원 털어가도 ‘속수무책’…FBI, 바이낸스 사고 배후 지목",
+    "title_ko": "北해커, 눈앞에서 8조원 털어가도 ‘속수무책’…FBI, 바이낸스 사고 배후 지목",
+    "link": "https://www.mk.co.kr/news/world/12192576",
+    "published": "Sun, 01 Nov 2026 09:41:07 +09:00",
+    "fetched_at": "2026-11-01 10:41:14",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "가상자산/블록체인",
+      "사이버보안"
+    ],
+    "keywords": [
+      "북한 해커",
+      "가상화폐",
+      "바이낸스",
+      "FBI",
+      "사이버 보안",
+      "지정학적 위험"
+    ],
+    "reason": "가상자산 시장의 고질적인 보안 취약성과 지정학적 사이버 위협을 부각시켜 디지털 자산에 대한 투자심리를 위축시킬 수 있습니다. 또한 글로벌 금융 인프라에 대한 사이버 공격 위험이 상존함을 보여줍니다.",
+    "action_point": "가상자산 포트폴리오의 보안 취약성을 점검하고, 고위험 가상자산 비중 축소를 고려하라."
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "G20 foreign ministers end Atlanta meeting without consensus on key issues",
@@ -2912,57 +2962,5 @@
     ],
     "reason": "이 뉴스는 AI 기술의 장기적인 산업 및 고용 구조 변화에 대한 관심을 재확인하며, 혁신 기술 섹터의 중요성을 간접적으로 시사합니다.",
     "action_point": "AI 관련 혁신 기술 섹터의 장기 성장 가능성을 재평가."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "China industrial profits post strongest growth in three months, rising 14.4%",
-    "title_ko": "중국 산업 이익, 3개월 만에 최고치인 14.4% 성장 기록",
-    "link": "https://www.cnbc.com/2026/10/27/china-industrial-profits-september-ai-tech-exports-.html",
-    "published": "Tue, 27 Oct 2026 01:42:56 GMT",
-    "fetched_at": "2026-10-27 10:43:40",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "반도체",
-      "원자재",
-      "광업",
-      "산업재",
-      "기술"
-    ],
-    "keywords": [
-      "중국 경제",
-      "산업 이익",
-      "AI 붐",
-      "원자재 가격",
-      "글로벌 경기"
-    ],
-    "reason": "중국 산업 이익의 견조한 성장은 글로벌 AI 붐과 원자재 가격 상승에 따른 수요 회복을 반영하며, 글로벌 경제 전반에 긍정적인 신호입니다. 이는 특히 기술 및 원자재 관련 산업의 실적 개선 기대감을 높입니다.",
-    "action_point": "글로벌 AI 관련 반도체 및 원자재 섹터 포트폴리오 비중 확대를 검토하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "‘우버’ 회색지대 깬 홍콩, 11월 말부터 차량 호출 플랫폼 라이선스 발급",
-    "title_ko": "‘우버’ 회색지대 깬 홍콩, 11월 말부터 차량 호출 플랫폼 라이선스 발급",
-    "link": "https://www.mk.co.kr/news/world/12186754",
-    "published": "Tue, 27 Oct 2026 10:41:08 +09:00",
-    "fetched_at": "2026-10-27 10:44:06",
-    "sentiment": "호재",
-    "importance": 2,
-    "sectors": [
-      "기술",
-      "플랫폼",
-      "운수"
-    ],
-    "keywords": [
-      "우버",
-      "차량 호출",
-      "홍콩",
-      "라이선스",
-      "규제 완화"
-    ],
-    "reason": "홍콩의 차량 호출 플랫폼 합법화는 관련 기술 플랫폼 기업에 시장 확대 기회를 제공하고 규제 불확실성을 해소합니다. 이는 아시아 지역 내 플랫폼 경제의 성장을 촉진할 수 있습니다.",
-    "action_point": "해당 없음"
   }
 ]
