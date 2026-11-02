@@ -2,6 +2,55 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "Rubio says Trump wants to end Iran war 'peacefully' even as both sides prepare for strikes",
+    "title_ko": "루비오 상원의원, 트럼프가 이란과의 전쟁을 '평화롭게' 끝내길 원한다고 언급, 양측은 공격 준비 중",
+    "link": "https://www.cnbc.com/2026/11/02/us-iran-war-trump-hormuz-rubio.html",
+    "published": "Mon, 02 Nov 2026 02:39:35 GMT",
+    "fetched_at": "2026-11-02 12:27:15",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "에너지",
+      "방산",
+      "원자재",
+      "외환"
+    ],
+    "keywords": [
+      "이란",
+      "미국",
+      "지정학",
+      "전쟁",
+      "유가",
+      "안전자산"
+    ],
+    "reason": "미국과 이란 양측의 군사적 공격 준비 보도는 중동 지역의 지정학적 긴장을 최고조로 끌어올리며, 유가 급등 및 전 세계적인 위험 회피 심리를 촉발할 수 있습니다.",
+    "action_point": "중동 지정학적 리스크 심화에 대비하여 에너지 섹터 및 방산주 비중 확대 또는 달러/금 등 안전자산으로의 포트폴리오 배분 검토."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "“1000대 한정·최대 200만원 할인”…KGM, 11월 ‘K-세일페스타’ 참여",
+    "title_ko": "“1000대 한정·최대 200만원 할인”…KGM, 11월 ‘K-세일페스타’ 참여",
+    "link": "https://www.mk.co.kr/news/business/12193365",
+    "published": "Mon, 02 Nov 2026 11:51:38 +09:00",
+    "fetched_at": "2026-11-02 12:27:28",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "자동차",
+      "소비재"
+    ],
+    "keywords": [
+      "KG모빌리티",
+      "자동차 할인",
+      "소비 진작"
+    ],
+    "reason": "KG모빌리티의 특정 차종 판매 촉진을 위한 단기 할인 행사로, 기업 실적에 단기적 영향을 줄 수 있으나 전체 자동차 시장 및 거시 경제에 미치는 영향은 제한적이다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "Stock futures tick higher ahead of busy week of earnings, jobs data and the midterm elections: Live updates",
     "title_ko": "주요 기업 실적 발표, 고용 지표, 중간 선거를 앞두고 주식 선물 소폭 상승: 실시간 업데이트",
     "link": "https://www.cnbc.com/2026/11/01/stock-market-today-live-updates.html",
@@ -2942,55 +2991,5 @@
     ],
     "reason": "SK하이닉스의 사상 최고 실적은 AI 수요에 힘입은 메모리 반도체 시장의 강력한 회복을 보여주며, 전반적인 반도체 업종 투자 심리에 긍정적 영향을 미칠 것입니다.",
     "action_point": "반도체 섹터 비중 확대 검토"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "\"과학기술·경제·산업정책 한 몸\"…7대 SEED·AI 전환 가속화 - 정책뉴스 | 뉴스 - 대한민국 정책브리핑",
-    "title_ko": "과학기술·경제·산업정책 한 몸\"…7대 SEED·AI 전환 가속화 - 정책뉴스 | 뉴스 - 대한민국 정책브리핑",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sRVBPWnJVM3o5LUs0Ri1sOS1CQXBSY0tiTDBINEh6WHd3OVRtY2RqYnMtUFpUMU1rdVc4ZTZObkp4enZZTGVPdExxWlNoaXJhNkJJMW9IME42cmRtZTN2RThhNTBXVkJRWEotSQ?oc=5",
-    "published": "Wed, 28 Oct 2026 08:48:45 GMT",
-    "fetched_at": "2026-10-28 19:10:33",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "IT",
-      "인공지능",
-      "반도체",
-      "미래산업"
-    ],
-    "keywords": [
-      "과학기술",
-      "AI",
-      "정책",
-      "디지털 전환",
-      "미래산업"
-    ],
-    "reason": "정부가 과학기술·경제·산업 정책을 통합하여 7대 전략기술 및 AI 전환을 가속화하려는 의지를 밝혔다. 이는 관련 산업의 성장 동력을 강화하고 중장기적인 국가 경쟁력 향상에 기여할 것이다.",
-    "action_point": "AI 및 7대 전략기술 개발 관련 국내 기업들의 투자 비중 확대를 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[속보] 정부, 엘리엇 국제투자분쟁 최종 패소…배상 확정 - 연합뉴스TV",
-    "title_ko": "[속보] 정부, 엘리엇 국제투자분쟁 최종 패소…배상 확정 - 연합뉴스TV",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Xa0MwRW1ONXBqcU9sOHEwQzVzdVFiOVFhajg5MXlNY0dIY3FnZWJZS0R0QWw4SjlpWEJqclBXUnMyT0czOFh6TkwxVTZMZXZtbDhFMkxmTDFiMTY0MlRjT0FTRzdxbE0?oc=5",
-    "published": "Wed, 28 Oct 2026 05:36:00 GMT",
-    "fetched_at": "2026-10-28 19:11:38",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "국가 재정",
-      "기업 지배구조"
-    ],
-    "keywords": [
-      "엘리엇",
-      "국제투자분쟁",
-      "정부 패소",
-      "배상 확정",
-      "국가 재정"
-    ],
-    "reason": "정부의 엘리엇 국제투자분쟁 최종 패소로 인한 배상금 지급은 국가 재정에 직접적인 부담으로 작용하며, 국내 법적 불확실성에 대한 외국인 투자 심리에 미세한 영향을 줄 수 있습니다.",
-    "action_point": "해당 없음"
   }
 ]
