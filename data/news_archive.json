@@ -2,6 +2,104 @@
   {
     "source": "CNBC_Finance",
     "market": "US",
+    "title": "Stocks making the biggest moves midday: Oracle, SpaceX, Tempus AI, Rivian & more",
+    "title_ko": "장중 가장 큰 움직임을 보이는 주식들: 오라클, 스페이스X, 템푸스 AI, 리비안 등",
+    "link": "https://www.cnbc.com/2026/11/02/stocks-making-the-biggest-moves-midday-orcl-spcx-tem-rivn.html",
+    "published": "Mon, 02 Nov 2026 20:00:16 GMT",
+    "fetched_at": "2026-11-03 12:10:41",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "기술",
+      "인공지능",
+      "전기차",
+      "소프트웨어",
+      "우주항공"
+    ],
+    "keywords": [
+      "개별주",
+      "주식 변동성",
+      "기술주"
+    ],
+    "reason": "이 기사는 장중 특정 개별 기업들의 주가 변동성을 단순히 나열하는 것으로, 거시경제나 광범위한 시장 트렌드에 대한 중요한 신호를 제공하지 않습니다. 단기적인 개별 주식 움직임에 대한 정보입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Stocks making the biggest moves premarket: CrowdStrike, Rivian, Micron & more",
+    "title_ko": "개장 전 가장 큰 움직임을 보이는 주식들: 크라우드스트라이크, 리비안, 마이크론 외",
+    "link": "https://www.cnbc.com/2026/11/02/stocks-making-the-biggest-moves-premarket-crwd-rivn-mu.html",
+    "published": "Mon, 02 Nov 2026 12:49:35 GMT",
+    "fetched_at": "2026-11-03 12:10:52",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "소프트웨어",
+      "전기차",
+      "반도체"
+    ],
+    "keywords": [
+      "개장 전 거래",
+      "개별 주식",
+      "크라우드스트라이크",
+      "리비안",
+      "마이크론"
+    ],
+    "reason": "이 기사는 개장 전 특정 성장주 및 기술주의 거래 활동을 보여주며, 이는 광범위한 거시적 추세보다는 개별 기업 및 해당 섹터에 대한 단기 시장의 관심과 투자자 심리를 반영합니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "평화경제·공동성장의 한반도 - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+    "title_ko": "평화경제·공동성장의 한반도",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYkpYVXlSYW9sVksxYm1oR3dlVmkwNWdubEVPbDZqM3VLUHdCOWctamtVV3dxYWtUUzRBblQtMVU4SVBBeFQ5ZWpRaUpFYnA3U3ZudWQ5V19pOHVtdi1HOEdiWS1kWU9YaUVFNjFMSm1wMTB0VFdHOGVfUHhOWmI1Z3dlU2dsNUIxcHlz?oc=5",
+    "published": "Tue, 03 Nov 2026 01:45:31 GMT",
+    "fetched_at": "2026-11-03 12:11:03",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "건설",
+      "인프라",
+      "관광"
+    ],
+    "keywords": [
+      "평화경제",
+      "한반도",
+      "남북관계",
+      "정책"
+    ],
+    "reason": "이 기사는 대한민국 정부가 지향하는 평화경제 및 공동성장의 한반도 비전을 재확인하는 정책 브리핑입니다. 당장 시장에 영향을 줄 만한 구체적인 남북관계 진전이나 새로운 정책 발표는 포함하고 있지 않아, 단기적인 금융시장 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "[Cover Story] 호텔을 위한 여행, ‘데스티네이션 호텔’    …럭셔리 호텔 자체가 여행의 목적지가 되다",
+    "title_ko": "[Cover Story] 호텔을 위한 여행, ‘데스티네이션 호텔’   …럭셔리 호텔 자체가 여행의 목적지가 되다",
+    "link": "https://www.mk.co.kr/news/culture/12194613",
+    "published": "Tue, 03 Nov 2026 11:59:58 +09:00",
+    "fetched_at": "2026-11-03 12:11:15",
+    "sentiment": "호재",
+    "importance": 2,
+    "sectors": [
+      "호텔",
+      "레저",
+      "부동산"
+    ],
+    "keywords": [
+      "데스티네이션 호텔",
+      "럭셔리 호텔",
+      "호텔 산업",
+      "경험 소비"
+    ],
+    "reason": "고급 체험 소비 트렌드 확대로 럭셔리 호텔이 여행의 목적지가 되면서 관련 숙박 및 레저 산업의 성장 잠재력이 부각됩니다. 이는 단순 숙박을 넘어선 고부가가치 서비스 시장의 확대를 의미합니다.",
+    "action_point": "럭셔리 숙박 및 레저 관련 기업에 대한 투자 비중 확대를 검토하라."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
     "title": "Stock market after midterm elections: What S&P 500 history shows",
     "title_ko": "미국 중간선거 이후 주식 시장: S&P 500의 역사적 흐름은?",
     "link": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
@@ -2889,111 +2987,5 @@
     ],
     "reason": "영국 정부의 국방비 지출 증액은 지속적인 지정학적 긴장을 반영하며, 방위산업 부문에 대한 수요 증가와 함께 영국 경제에 재정적 부양 효과를 제공할 것입니다. 이는 장기적인 방위산업 성장 트렌드를 강화합니다.",
     "action_point": "글로벌 지정학적 리스크의 지속 가능성을 고려하여 방위산업 섹터 관련 투자를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "The UK cuts energy bills, taxes banks and boosts defense in high-stakes budget",
-    "title_ko": "영국, 에너지 비용 인하, 은행 과세 강화, 국방 예산 증액 담은 중요 예산 발표",
-    "link": "https://www.cnbc.com/2026/10/28/uk-autumn-budget-cost-living-defense-ai.html",
-    "published": "Wed, 28 Oct 2026 15:39:14 GMT",
-    "fetched_at": "2026-10-29 01:54:16",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "금융",
-      "방산",
-      "소비재",
-      "기술"
-    ],
-    "keywords": [
-      "영국 예산",
-      "에너지 가격",
-      "은행 과세",
-      "국방비",
-      "AI"
-    ],
-    "reason": "영국의 가계 에너지 비용 부담 완화는 단기적인 소비를 지지할 수 있으나, 은행 과세 강화는 금융 섹터의 수익성을 압박할 것입니다. 국방 및 AI 예산 증액은 해당 섹터에 긍정적입니다.",
-    "action_point": "영국 금융 섹터 관련 투자 비중 축소를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Investors are rotating into overlooked parts of the market. This chemical stock is one",
-    "title_ko": "투자자들이 시장의 간과된 부분으로 회전하고 있다. 이 화학 주식이 그중 하나이다.",
-    "link": "https://www.cnbc.com/2026/10/28/investors-are-rotating-into-overlooked-parts-of-the-market-this-chemical-stock-is-one.html",
-    "published": "Wed, 28 Oct 2026 15:54:37 GMT",
-    "fetched_at": "2026-10-29 01:54:28",
-    "sentiment": "호재",
-    "importance": 2,
-    "sectors": [
-      "화학",
-      "소재",
-      "가치주"
-    ],
-    "keywords": [
-      "Dow Inc.",
-      "화학주",
-      "소재",
-      "가치주",
-      "로테이션"
-    ],
-    "reason": "투자자들이 그동안 소외되었던 화학/소재 섹터와 같은 시장의 간과된 부분으로 자금을 이동시키고 있음을 시사한다. 이는 시장의 관심이 기존 주도주에서 가치주로 확장될 가능성을 보여준다.",
-    "action_point": "화학/소재 섹터 내 저평가된 대형 가치주 편입을 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Israeli bonds, shekel fall as election leaves Netanyahu and others far short of majorities",
-    "title_ko": "이스라엘 채권과 셰켈화, 선거에서 네타냐후 등 다수 의석 확보 실패로 하락",
-    "link": "https://www.cnbc.com/2026/10/28/israel-election-netanyahu-trump-gaza-.html",
-    "published": "Wed, 28 Oct 2026 09:12:02 GMT",
-    "fetched_at": "2026-10-28 19:09:42",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "이머징 마켓",
-      "글로벌 증시",
-      "방산"
-    ],
-    "keywords": [
-      "이스라엘",
-      "선거",
-      "정치적 불확실성",
-      "셰켈화",
-      "채권",
-      "중동 지정학",
-      "유가"
-    ],
-    "reason": "이스라엘 총선에서 연립정부 구성 실패로 정치적 불확실성이 장기화될 우려가 커지며 이스라엘 채권과 통화 가치가 하락했습니다. 이는 중동 지역의 불안정성을 심화시키고 글로벌 위험 회피 심리를 자극할 수 있습니다.",
-    "action_point": "중동 지역의 정치적 불확실성 증대에 따른 국제 유가 변동성 확대에 대비하여 에너지 관련 투자 동향을 주시하고, 지정학적 리스크에 민감한 위험 자산의 비중 조정을 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Oil prices rise as Houthi attacks on Saudi Arabian refinery raise supply worries",
-    "title_ko": "후티 반군 사우디 정유시설 공격으로 유가 상승, 공급 우려 고조",
-    "link": "https://www.cnbc.com/2026/10/28/oil-price-today-wti-brent-hormuz.html",
-    "published": "Wed, 28 Oct 2026 09:54:59 GMT",
-    "fetched_at": "2026-10-28 19:10:05",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "항공",
-      "해운",
-      "화학",
-      "운수"
-    ],
-    "keywords": [
-      "유가",
-      "중동",
-      "지정학적 리스크",
-      "인플레이션",
-      "공급망"
-    ],
-    "reason": "중동 지정학적 리스크 고조로 유가 상승이 글로벌 인플레이션 압력을 가중시키고 각국 통화정책 불확실성을 높이며, 국내 기업 비용 증가 및 소비 위축으로 이어질 수 있습니다.",
-    "action_point": "항공, 해운, 화학 등 유가 민감 섹터 비중 축소 또는 에너지 효율 관련 기업 투자 확대를 검토하십시오."
   }
 ]
