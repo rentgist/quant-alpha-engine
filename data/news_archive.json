@@ -1,5 +1,127 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Midterm elections 2026 live updates: Economy, inflation and other voter concerns",
+    "title_ko": "2026년 중간선거 실시간 업데이트: 경제, 인플레이션 및 기타 유권자 관심사",
+    "link": "https://www.cnbc.com/2026/11/03/midterm-elections-2026-live-updates.html",
+    "published": "Tue, 03 Nov 2026 18:40:15 GMT",
+    "fetched_at": "2026-11-04 03:49:49",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "거시 경제",
+      "정책 민감주"
+    ],
+    "keywords": [
+      "중간선거",
+      "미국 정치",
+      "경제 정책",
+      "인플레이션",
+      "의회"
+    ],
+    "reason": "2026년 미국 중간선거는 향후 2년간의 경제 정책 방향을 결정하며, 이는 재정 지출, 규제, 세금 정책 등을 통해 미국 및 글로벌 경제에 광범위한 영향을 미칠 수 있습니다. 선거 결과에 따라 시장의 불확실성이 증가하거나 특정 정책 기조에 대한 기대감이 형성될 수 있습니다.",
+    "action_point": "선거 결과에 따른 정책 변화 가능성을 고려하여 포트폴리오의 섹터 비중 조정 계획 수립."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "“30년 된 노동시장 이중구조, 이대로는 못 간다” - 중앙일보",
+    "title_ko": "“30년 된 노동시장 이중구조, 이대로는 못 간다”",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VY2RmWkY5TjhCbjdydkpnVEpkbS12SEpMb1VqV0xvdVRxVDA5dzlSMENIMTRJMlVDVkRqODlwcFNhTWVkcmI5RGExVUVCbDQ5VVQyTENB?oc=5",
+    "published": "Tue, 03 Nov 2026 15:14:00 GMT",
+    "fetched_at": "2026-11-04 03:50:14",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "제조업",
+      "서비스업"
+    ],
+    "keywords": [
+      "노동시장",
+      "이중구조",
+      "임금격차",
+      "구조개혁",
+      "고용유연성"
+    ],
+    "reason": "한국 경제의 고질적 노동시장 이중구조는 생산성 저하와 사회 불균형을 심화시켜 장기적인 성장 잠재력과 기업 경쟁력에 부정적 영향을 미친다. 관련 구조 개혁 논의가 국내 투자 환경의 중요한 변수가 될 것이다.",
+    "action_point": "향후 정부의 노동시장 개혁 정책 방향과 이에 따른 기업별 노동비용 및 유연성 변화를 면밀히 분석하여 중장기 포트폴리오 조정 전략을 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Bill Ackman warns of 'casino' stock market as speculative trading grows",
+    "title_ko": "빌 애크먼, 투기적 거래 증가에 따라 '카지노' 주식 시장 경고",
+    "link": "https://www.cnbc.com/2026/11/03/bill-ackman-casino-stock-market.html",
+    "published": "Tue, 03 Nov 2026 16:23:26 GMT",
+    "fetched_at": "2026-11-04 03:49:57",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "전반적 시장",
+      "기술주",
+      "고위험 성장주"
+    ],
+    "keywords": [
+      "빌 애크먼",
+      "투기적 거래",
+      "레버리지",
+      "시장 과열",
+      "주식 시장"
+    ],
+    "reason": "유명 헤지펀드 매니저의 경고는 과도한 투기적 거래와 높은 레버리지 사용으로 시장이 과열되고 있음을 시사하며, 이는 향후 시장 조정 가능성에 대한 우려를 키운다.",
+    "action_point": "투기성이 높은 고레버리지 자산 비중을 줄이고 포트폴리오 전반의 위험 노출도를 재평가하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "한국, 자율운항선박 ‘눈’ 국제표준 주도…유럽·일본 아성 도전 - 해사신문",
+    "title_ko": "한국, 자율운항선박 ‘눈’ 국제표준 주도…유럽·일본 아성 도전",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZVWJyZkpYNmhtWnNTNWJIUlJXeXlCRFRBUUM4elR3VG9wUmVqZ2dhc3pRQndyTmdlenZfeTdudS1kU1FMaEJaUHp5LV9VaW00OENweWZ6NnRpRm9SMC1Dd1FfMGZqZ19CT2Vj?oc=5",
+    "published": "Tue, 03 Nov 2026 13:19:15 GMT",
+    "fetched_at": "2026-11-04 03:50:28",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "조선",
+      "해양",
+      "IT/기술"
+    ],
+    "keywords": [
+      "자율운항선박",
+      "국제표준",
+      "조선",
+      "해양기술"
+    ],
+    "reason": "한국이 자율운항선박의 핵심 기술인 '눈' 분야에서 국제표준을 선도하며 미래 해양 모빌리티 시장에서의 경쟁 우위를 확보, 관련 국내 산업의 성장 잠재력을 높일 것으로 판단된다.",
+    "action_point": "국내 자율운항선박 및 해양 IT 기술 관련 기업 투자 비중 확대를 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "연합뉴스 미래경제포럼…\"하나로 잇는 한일 시장\" - 연합뉴스TV",
+    "title_ko": "연합뉴스 미래경제포럼…\"하나로 잇는 한일 시장\"",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1qRVVnbTBnZ0t0dEs0NmZSOEFDOVFONkZpSzhxQUFtZzhlOWdXRGhkYmVPQkladmlnTjZPWjZSdmNSdllCc1BzSmFqWlA1TE01OTVTMUFSYUlNRGt4Vk9zTGpjVTdpXzg?oc=5",
+    "published": "Tue, 03 Nov 2026 08:25:00 GMT",
+    "fetched_at": "2026-11-04 03:50:22",
+    "sentiment": "호재",
+    "importance": 2,
+    "sectors": [
+      "무역",
+      "산업 전반",
+      "금융",
+      "관광"
+    ],
+    "keywords": [
+      "한일 관계",
+      "경제 협력",
+      "시장 통합",
+      "미래 경제"
+    ],
+    "reason": "이 뉴스는 한일 양국 간의 경제 협력 및 시장 통합 가능성에 대한 논의를 다루며, 장기적으로 양국 간 교역 증대와 투자 활성화에 긍정적인 신호로 작용할 수 있습니다. 이는 특정 산업의 성장을 촉진하고 양국 간 공급망 안정화에 기여할 잠재력을 시사합니다.",
+    "action_point": "한일 경제 협력 강화에 따른 무역, 관광, 금융 등 관련 산업 내 수혜 기업을 장기적 관점에서 분석하고 투자 기회를 모색하십시오."
+  },
+  {
     "source": "GoogleNews_Korea",
     "market": "KR",
     "title": "\"美민주당 의회 장악 시 이란전쟁 종식 압박…파월 자진 퇴임\" - 연합인포맥스",
@@ -2872,131 +2994,5 @@
     ],
     "reason": "AI 인재 확보 경쟁이 심화되며 금융 및 헬스케어 산업의 디지털 전환이 가속화되고, 이는 기술 기업의 인건비 부담 증가 및 인력 유출 리스크를 야기할 수 있다. 장기적으로 산업 경쟁력과 기업 가치에 영향을 미칠 구조적 변화의 신호로 해석된다.",
     "action_point": "금융 및 헬스케어 섹터 내 AI 기술 혁신 선두 기업에 대한 투자 비중 확대를 검토하고, 인건비 상승 압박을 겪을 기술 기업의 잠재적 리스크를 평가."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "한-독, '경제·하이테크 파트너십' 구축…이중과세방지협정 개정 의정서도 체결 - 연합인포맥스",
-    "title_ko": "한-독, '경제·하이테크 파트너십' 구축…이중과세방지협정 개정 의정서도 체결",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1CWDBlMnJpQ3hOQ1pJYkdiRnRFNXN3VkdkQVZXVmJoaS1PVU5FdWczaDdlNDF1Q2N4Tzl5Q1pxd0RtbS0wV0UxQUFTckNDUUlfSmJMcHQyemJqaUk0YnZSVU9yQmYwb2lFX1RIUGpmYzM?oc=5",
-    "published": "Thu, 29 Oct 2026 09:55:20 GMT",
-    "fetched_at": "2026-10-29 23:47:58",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "첨단산업",
-      "자동차",
-      "배터리",
-      "무역"
-    ],
-    "keywords": [
-      "한-독",
-      "경제 협력",
-      "하이테크",
-      "이중과세방지",
-      "투자"
-    ],
-    "reason": "한국과 독일 간 경제 및 첨단기술 협력을 강화하고 이중과세 부담을 줄여 양국 기업들의 투자 및 교역 확대를 촉진할 것이며, 이는 장기적으로 관련 산업의 성장 잠재력을 높인다.",
-    "action_point": "한-독 협력 강화 및 이중과세 해소로 수혜가 예상되는 국내 첨단산업, 자동차, 배터리 관련 기업 투자 비중 확대를 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Shell nearly doubles quarterly profit year-on-year as refining margins soar to record high",
-    "title_ko": "쉘, 정제 마진 사상 최고치 기록하며 분기 이익 전년 대비 두 배 가까이 증가",
-    "link": "https://www.cnbc.com/2026/10/29/shell-earnings-oil-q3.html",
-    "published": "Thu, 29 Oct 2026 07:26:36 GMT",
-    "fetched_at": "2026-10-29 16:49:23",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "정유",
-      "석유화학"
-    ],
-    "keywords": [
-      "Shell",
-      "정제 마진",
-      "에너지",
-      "이익",
-      "원자재"
-    ],
-    "reason": "쉘의 기록적인 정제 마진과 이익 증가는 글로벌 에너지 수요 강세 및 공급 제약이 지속되고 있음을 시사하며, 이는 에너지 섹터에 긍정적인 영향을 미칠 수 있습니다.",
-    "action_point": "에너지 및 정유 섹터 ETF 또는 관련 대형주 비중 확대를 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Over 41,000 U.S. Homeland Security officials' details apparently exposed after massive data breach",
-    "title_ko": "미 국토안보부 공무원 4만 1천여 명 개인 정보, 대규모 데이터 유출로 노출된 듯",
-    "link": "https://www.cnbc.com/2026/10/29/dhs-data-breach-ice-cdp-deportations.html",
-    "published": "Thu, 29 Oct 2026 04:29:32 GMT",
-    "fetched_at": "2026-10-29 16:49:40",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "사이버 보안",
-      "IT 서비스"
-    ],
-    "keywords": [
-      "데이터 유출",
-      "사이버 보안",
-      "미 국토안보부",
-      "개인정보"
-    ],
-    "reason": "이 뉴스는 미 정부 기관의 사이버 보안 취약성을 시사하며, 전반적인 사이버 보안 산업에 대한 관심과 투자를 증가시킬 수 있습니다. 그러나 거시경제나 금융 시장 전반에 미칠 직접적인 영향은 제한적입니다.",
-    "action_point": "사이버 보안 섹터 투자 기회 모색을 검토하십시오."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Billionaire Ambani cries tears of joy as Jio Platforms becomes the second most valued Indian firm",
-    "title_ko": "억만장자 암바니, 지오 플랫폼이 인도에서 두 번째로 가치 있는 기업이 되자 감격의 눈물을 흘리다",
-    "link": "https://www.cnbc.com/2026/10/29/ambani-billionaire-jio-ipo-india.html",
-    "published": "Thu, 29 Oct 2026 04:55:17 GMT",
-    "fetched_at": "2026-10-29 16:49:48",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "통신",
-      "기술",
-      "디지털 서비스",
-      "인도 시장"
-    ],
-    "keywords": [
-      "지오 플랫폼",
-      "무케시 암바니",
-      "인도 시장",
-      "기업 가치",
-      "IPO"
-    ],
-    "reason": "인도 최대 통신·기술 기업인 지오 플랫폼의 높은 기업 가치와 상장 임박 소식은 인도 디지털 경제의 성장 잠재력과 투자 매력을 부각합니다. 이는 인도 시장 전반에 대한 긍정적인 시그널로 해석될 수 있습니다.",
-    "action_point": "이 뉴스는 특정 기업의 개별 이벤트로, 대장님의 글로벌 자산 포트폴리오에 당장 필요한 직접적인 투자 액션은 해당 없습니다."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Tencent, Visa deepen payments push in China after regulatory green light",
-    "title_ko": "텐센트와 비자, 중국 규제 승인 후 결제 사업 협력 강화",
-    "link": "https://www.cnbc.com/2026/10/29/tencent-visa-citi-mastercard-.html",
-    "published": "Thu, 29 Oct 2026 07:01:50 GMT",
-    "fetched_at": "2026-10-29 16:49:58",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "금융 서비스",
-      "기술 (핀테크)",
-      "소비재 (E-커머스)"
-    ],
-    "keywords": [
-      "텐센트",
-      "비자",
-      "중국",
-      "결제",
-      "규제 완화",
-      "핀테크"
-    ],
-    "reason": "중국 정부의 규제 완화로 글로벌 결제 서비스 기업의 중국 시장 접근성이 확대되며, 이는 중국 내 결제 시장의 경쟁 심화와 효율성 증대에 기여할 것입니다. 장기적으로 중국의 금융 시장 개방 기조를 시사합니다.",
-    "action_point": "글로벌 결제 서비스 기업 및 중국 금융 시장 개방 수혜 기업에 대한 투자 기회를 모색하라."
   }
 ]
