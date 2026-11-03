@@ -1,5 +1,438 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "\"美민주당 의회 장악 시 이란전쟁 종식 압박…파월 자진 퇴임\" - 연합인포맥스",
+    "title_ko": "美민주당 의회 장악 시 이란전쟁 종식 압박…파월 자진 퇴임",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBIT1drNEtqLXBHMjlXdlQwbVA2ZFdEcTlrSFpBZllzeS1PMHhaMVdGY2oycm9EWGhHOC12ak1MYmxoVDVJZ1NkbVloWkVxaDM1NGxKQ0VoN19SamFCMnUtNmZyc1BxTUVVYXR0QTRlWjY?oc=5",
+    "published": "Tue, 03 Nov 2026 05:50:01 GMT",
+    "fetched_at": "2026-11-03 20:31:12",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "금융",
+      "에너지",
+      "기술",
+      "부동산",
+      "방산"
+    ],
+    "keywords": [
+      "미국 정치",
+      "이란",
+      "유가",
+      "연방준비제도",
+      "금리",
+      "제롬 파월"
+    ],
+    "reason": "미국 민주당의 의회 장악 시 이란발 지정학적 리스크 완화는 유가 하락 요인이지만, 연준 의장의 자진 퇴임 가능성은 통화정책의 불확실성을 극대화하며 금융시장에 상당한 변동성을 유발할 악재입니다.",
+    "action_point": "미국 정치 및 통화정책 불확실성 확대를 대비하여 포트폴리오 내 현금 비중을 늘리거나 단기 국채 등 방어적 자산 비중 확대를 고려하십시오."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Blackstone president calls for more equity to fund AI buildout as debt risks mount",
+    "title_ko": "Blackstone 사장, AI 인프라 구축에 더 많은 자기자본(equity) 필요성 강조, 부채 위험 증가 경고",
+    "link": "https://www.cnbc.com/2026/11/03/equity-ai-debt-blackstone-pimco-financing.html",
+    "published": "Tue, 03 Nov 2026 06:46:36 GMT",
+    "fetched_at": "2026-11-03 20:29:06",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "기술",
+      "금융",
+      "반도체",
+      "데이터센터"
+    ],
+    "keywords": [
+      "AI 투자",
+      "자기자본",
+      "부채 위험",
+      "블랙스톤",
+      "기술 인프라"
+    ],
+    "reason": "이 뉴스는 AI 인프라 구축에 필요한 막대한 자금 조달 방식이 부채 중심에서 자기자본 중심으로 전환될 가능성을 시사하며, 이는 AI 관련 기업들의 자금 조달 비용 증가로 이어질 수 있습니다.",
+    "action_point": "AI 관련 기업 투자 시 부채 비중 및 재무 건전성을 면밀히 재검토."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Oil prices climb after U.S. strikes Iran's Qeshm Island",
+    "title_ko": "미국의 이란 퀘슘섬 공격 후 유가 상승",
+    "link": "https://www.cnbc.com/2026/11/03/oil-prices-climb-after-us-reportedly-strikes-irans-qeshm-island.html",
+    "published": "Tue, 03 Nov 2026 09:58:37 GMT",
+    "fetched_at": "2026-11-03 20:29:26",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "항공",
+      "해운",
+      "운송",
+      "화학",
+      "방산"
+    ],
+    "keywords": [
+      "미국",
+      "이란",
+      "유가",
+      "지정학",
+      "중동",
+      "인플레이션",
+      "원유"
+    ],
+    "reason": "미국의 이란 직접 공격은 중동의 지정학적 리스크를 고조시키고 유가 상승 압력을 가중시켜 글로벌 인플레이션 우려를 높이고 경제 불확실성을 증대시킨다.",
+    "action_point": "지정학적 리스크에 따른 고유가 환경에 대비, 인플레이션 헤지 자산 편입 및 에너지 고소비 섹터 비중 축소를 고려하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Stock futures are mixed as investors weigh Apple earnings; U.S. midterm elections loom: Live updates",
+    "title_ko": "애플 실적과 미국 중간선거를 주시하며 주식 선물 혼조세: 실시간 업데이트",
+    "link": "https://www.cnbc.com/2026/11/02/stock-market-today-live-updates.html",
+    "published": "Tue, 03 Nov 2026 10:40:38 GMT",
+    "fetched_at": "2026-11-03 20:29:50",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "기술",
+      "성장주"
+    ],
+    "keywords": [
+      "기술주",
+      "애플",
+      "미국 중간선거",
+      "주식 선물"
+    ],
+    "reason": "애플 실적 발표와 미국 중간선거의 불확실성이 기술주 매도세를 유발하며 시장 전반의 변동성을 확대시키고 있습니다.",
+    "action_point": "미국 기술주 포트폴리오 비중을 점검하고, 중간선거 결과에 따른 시장 변동성 확대에 대비하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "5 things to watch on Election Day as Democrats push for control of Congress",
+    "title_ko": "민주당이 의회 장악을 추진하는 선거일, 주목해야 할 5가지",
+    "link": "https://www.cnbc.com/2026/11/03/election-day-congress-races.html",
+    "published": "Tue, 03 Nov 2026 11:00:01 GMT",
+    "fetched_at": "2026-11-03 20:30:10",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "전반적인 주식 시장",
+      "금융",
+      "기술",
+      "산업재"
+    ],
+    "keywords": [
+      "미국 중간선거",
+      "의회 장악",
+      "정치적 불확실성",
+      "정책 변화",
+      "트럼프 행정부"
+    ],
+    "reason": "미국 의회 권력의 향방을 결정하는 선거는 향후 미국의 재정 정책, 규제 환경에 중대한 영향을 미치며, 이는 글로벌 자본 시장의 불확실성을 높일 수 있습니다.",
+    "action_point": "미국 중간선거 결과에 따른 정책 불확실성 및 시장 변동성 확대 가능성에 대비하여 포트폴리오의 위험 노출도를 점검하고 방어적 자산 비중을 고려."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Brookfield plans for a $27 billion AI data center at UK power station",
+    "title_ko": "브룩필드, 영국 발전소에 270억 달러 규모 AI 데이터센터 건설 계획",
+    "link": "https://www.cnbc.com/2026/11/03/brookfield-ai-data-center-yorkshire-drax.html",
+    "published": "Tue, 03 Nov 2026 09:30:35 GMT",
+    "fetched_at": "2026-11-03 20:30:28",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "인공지능",
+      "데이터센터",
+      "전력/유틸리티",
+      "건설"
+    ],
+    "keywords": [
+      "AI",
+      "데이터센터",
+      "인프라",
+      "브룩필드",
+      "영국",
+      "에너지",
+      "투자"
+    ],
+    "reason": "이 뉴스는 인공지능(AI) 확장에 필요한 막대한 인프라 투자가 가속화되고 있음을 보여주며, 이는 AI 관련 기술 및 데이터센터, 전력 인프라 산업의 성장을 촉진할 것입니다.",
+    "action_point": "AI 인프라 확장에 따른 데이터센터, 전력망, 관련 반도체 섹터 투자 비중 확대를 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[미래경제포럼] 최태원 \"AI·반도체 협력…한일경제연대로 1조달러 시너지\"(종합) - 연합뉴스",
+    "title_ko": "최태원 \"AI·반도체 협력…한일경제연대로 1조달러 시너지\"(종합)",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE14ZGhFWk5KNEVBR3JVVDhSc180eGJLaHE3MWFVWUV0ZjBFdlM2eXdnZVRsOWVhYmstaWZIeFpMVU1yVHV0ajBjU3NGNVNKLVpZMlV0VDNjZ2FhT03SAWBBVV95cUxQYkpzOFN2bjQ2RVVnR1JyYUJPeGpYV0g1bVBpc21MZmlIanNhZzZWbWd5Q3RuXzdMNUhVNGd6alg0b1ZUc0lfYUZxUWVBMFhkaGJPcDQ5RXFJTnhUSTFoS3Q?oc=5",
+    "published": "Tue, 03 Nov 2026 07:14:52 GMT",
+    "fetched_at": "2026-11-03 20:30:43",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "반도체",
+      "IT/AI",
+      "기술주"
+    ],
+    "keywords": [
+      "최태원",
+      "한일 협력",
+      "AI",
+      "반도체",
+      "경제 연대",
+      "시너지"
+    ],
+    "reason": "최태원 SK그룹 회장의 한일 AI-반도체 협력 강조는 양국 간 기술 연대 강화 및 미래 산업 경쟁력 향상 기대로 작용하며, 특히 반도체 및 IT 섹터에 긍정적인 투자 심리를 유발할 것입니다.",
+    "action_point": "반도체 및 AI 관련 기술주 포트폴리오 비중 확대를 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[국제칼럼]두 선거에 볼모 잡힌 이란 전쟁 - 경향신문",
+    "title_ko": "[국제칼럼]두 선거에 볼모 잡힌 이란 전쟁 - 경향신문",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5lekxkR0d1bGlweU93bUI5SU4wTzFTdWF1WnFNN194aVpZd2hkS2x0LUJ0ZkJneHdSNlQ0Mk5iVktSWlg1Wm8xMUlfMHNZem1pTGhjYnVuTjNTZ9IBX0FVX3lxTFBjYjBwWmdLQV9FakpXTElxVGRlelJDM0I3c2VpVm1idmVUdXd2dWNjbm9QZXVjVkZLcDJHN3pyWEp3ZWtDWDVCVVp2SVNEWmd2bnpDQzdEV21wOUI3UG5j?oc=5",
+    "published": "Tue, 03 Nov 2026 11:05:00 GMT",
+    "fetched_at": "2026-11-03 20:30:50",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "방산",
+      "해운",
+      "원자재"
+    ],
+    "keywords": [
+      "이란",
+      "지정학",
+      "중동",
+      "선거",
+      "유가",
+      "전쟁"
+    ],
+    "reason": "두 선거에 묶인 이란 전쟁 가능성은 중동 지역의 지정학적 불안정성을 장기화하며, 이는 글로벌 유가 변동성과 전반적인 시장 불확실성을 가중시킬 수 있습니다.",
+    "action_point": "중동 지정학적 리스크 장기화 가능성에 대비하여 에너지 및 방산 섹터에 대한 투자 비중을 유지 또는 확대 검토하십시오."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "트럼프, \"전쟁비용 푼돈\"‥중간선거 하루 전 이란 전쟁 정당성 강조 - MBC 뉴스",
+    "title_ko": "트럼프, \"전쟁비용 푼돈\"‥중간선거 하루 전 이란 전쟁 정당성 강조",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB4ZDVVT2ZMUXA0REtVZHdlRXVOZU5WRjZMOHlNZHRpYS1VWFlPS2M1OVVWa1J6WGw3dEFWdXFfRkdqSl9QXzdreUk5cEcxenRDUkZpNlpKWVVHcTJfb1JwX2V1NVVUb3JaRVU4NGZvSUN5aUpB0gF0QVVfeXFMUGE0ZGU0dExmLWd5RjdNT2M4Z2o0ZXhOaFJBVEQ0eXU3SjI2UmlqYTRsTy0tWHNycURINjV6ZHFVN0x3elhiZkVHY1FLQ2RweGVsQzAwNkpjSTVvWGM0b09SS2wzcWJWMU14SkZsMHo0anBkYjc?oc=5",
+    "published": "Tue, 03 Nov 2026 04:56:38 GMT",
+    "fetched_at": "2026-11-03 20:31:20",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "방산",
+      "해운"
+    ],
+    "keywords": [
+      "트럼프",
+      "이란",
+      "지정학적 리스크",
+      "유가",
+      "중동"
+    ],
+    "reason": "트럼프의 이란 전쟁 정당성 강조 발언은 중동 지역 지정학적 리스크를 증폭시키며, 글로벌 에너지 공급망과 유가 불안정성을 키울 수 있습니다. 이는 투자 심리를 위축시키고 안전 자산 선호를 강화하는 요인으로 작용할 것입니다.",
+    "action_point": "중동 지정학적 리스크 심화에 대비하여 원자재 섹터 내 에너지 관련 자산 비중 확대 및 안전 자산(금, 달러) 보유 검토."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Apple shares slide after weak margin outlook; Palantir slumps 8% after earnings",
+    "title_ko": "애플 주가, 마진 전망 부진에 하락; 팔란티어, 실적 발표 후 8% 급락",
+    "link": "https://www.cnbc.com/2026/11/03/apple-palantir-stock-earnings.html",
+    "published": "Tue, 03 Nov 2026 10:34:38 GMT",
+    "fetched_at": "2026-11-03 20:29:42",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "기술",
+      "IT 하드웨어",
+      "소프트웨어"
+    ],
+    "keywords": [
+      "애플",
+      "팔란티어",
+      "실적",
+      "마진 전망",
+      "기술주"
+    ],
+    "reason": "주요 기술 기업들의 실적 부진과 마진 전망 악화는 전반적인 기술주 투자 심리를 위축시키고, 성장주에 대한 경계심을 높일 수 있습니다.",
+    "action_point": "글로벌 기술주의 높은 밸류에이션에 대한 재검토 및 포트폴리오 내 비중 조절을 고려하십시오."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "“주식? 물려도 될 만한 종목에 물려야죠”…고금리시대, 과감한 손절 기준은",
+    "title_ko": "“주식? 물려도 될 만한 종목에 물려야죠”…고금리시대, 과감한 손절 기준은",
+    "link": "https://www.mk.co.kr/news/stock/12195235",
+    "published": "Tue, 03 Nov 2026 19:48:39 +09:00",
+    "fetched_at": "2026-11-03 20:31:45",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "조선",
+      "에너지",
+      "건설"
+    ],
+    "keywords": [
+      "고금리",
+      "조정장",
+      "재테크",
+      "실적주",
+      "조선",
+      "에너지",
+      "건설"
+    ],
+    "reason": "고금리 기조가 당분간 지속될 것이라는 전망 속, 시장 조정기에 실적 기반의 안정적인 종목 선별이 중요하며, 특히 조선, 에너지, 건설 업종이 유망하게 제시되었다.",
+    "action_point": "고금리 조정장 장기화에 대비하여 조선, 에너지, 건설 섹터 내 실적 우량주 비중 확대를 검토하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "“남 걱정할 때인가”…고려아연, 영풍엔 재수사·MBK엔 홈플러스 사태 직격",
+    "title_ko": "“남 걱정할 때인가”…고려아연, 영풍엔 재수사·MBK엔 홈플러스 사태 직격",
+    "link": "https://www.mk.co.kr/news/business/12195227",
+    "published": "Tue, 03 Nov 2026 19:29:02 +09:00",
+    "fetched_at": "2026-11-03 20:32:07",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "비철금속",
+      "지주회사",
+      "유통"
+    ],
+    "keywords": [
+      "고려아연",
+      "영풍",
+      "MBK",
+      "홈플러스",
+      "석포제련소",
+      "중금속 오염",
+      "기업 지배구조"
+    ],
+    "reason": "고려아연의 주요 주주 및 관계사(영풍, MBK)를 둘러싼 법적 및 지배구조 리스크가 부각되어, 관련 기업들의 주가에 불확실성이 확대될 수 있습니다.",
+    "action_point": "고려아연 및 영풍 주식의 기업 지배구조 리스크를 재평가하고 포트폴리오 내 비중 재조정을 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Trump is going to get 'trounced' in the midterms — and knows it, Anthony Scaramucci tells CNBC",
+    "title_ko": "스카라무치, 트럼프가 중간선거에서 '참패'할 것이며 이를 알고 있다고 CNBC에 밝혀",
+    "link": "https://www.cnbc.com/2026/11/03/scaramucci-trump-midterms-election.html",
+    "published": "Tue, 03 Nov 2026 09:42:29 GMT",
+    "fetched_at": "2026-11-03 20:29:33",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [],
+    "keywords": [
+      "트럼프",
+      "중간선거",
+      "공화당",
+      "미국 정치",
+      "정치적 갈등"
+    ],
+    "reason": "전 백악관 고위 관계자의 발언은 미국 공화당 내부의 정치적 역학 관계와 미래 동향에 대한 견해를 제시할 뿐, 현재 글로벌 금융 시장이나 거시 경제에 직접적인 영향을 미칠 정책 변화나 이벤트는 아니다. 따라서 투자 자산에 대한 즉각적인 영향은 제한적이다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "A little-known biotech’s high-stakes cancer bet just paid off and its shares doubled",
+    "title_ko": "잘 알려지지 않은 바이오텍 기업, 고위험 암 치료제 베팅 성공으로 주가 두 배 급등",
+    "link": "https://www.cnbc.com/2026/11/03/genmab-cancer-drugs-petosemtamab.html",
+    "published": "Tue, 03 Nov 2026 09:35:47 GMT",
+    "fetched_at": "2026-11-03 20:30:00",
+    "sentiment": "호재",
+    "importance": 2,
+    "sectors": [
+      "바이오/제약",
+      "헬스케어"
+    ],
+    "keywords": [
+      "바이오텍",
+      "암 치료제",
+      "임상 성공",
+      "주가 급등",
+      "제약"
+    ],
+    "reason": "개별 바이오텍 기업의 임상 성공으로 주가가 급등, 고위험-고수익 혁신 신약 개발 분야의 잠재력을 재확인했습니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Goldman Sachs adds a beer giant and a major bank to its favorite stock picks",
+    "title_ko": "골드만삭스, 선호 주식 목록에 맥주 대기업과 주요 은행 추가",
+    "link": "https://www.cnbc.com/2026/11/03/goldman-sachs-favorite-stocks-bank-beer.html",
+    "published": "Tue, 03 Nov 2026 06:00:01 GMT",
+    "fetched_at": "2026-11-03 20:30:21",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "주류(음료)",
+      "은행(금융)",
+      "유럽 증시"
+    ],
+    "keywords": [
+      "골드만삭스",
+      "주식 추천",
+      "유럽 주식",
+      "맥주",
+      "은행"
+    ],
+    "reason": "골드만삭스의 특정 유럽 기업에 대한 주식 추천으로, 해당 기업 및 섹터에 긍정적일 수 있으나 전반적인 거시 경제나 광범위한 투자 자산군에는 제한적인 영향을 미친다.",
+    "action_point": "유럽 시장 내 주류 및 금융 섹터의 투자 기회를 점검."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "송재도 에너지경제연구원 15대 원장 취임 - 에너지데일리",
+    "title_ko": "송재도 에너지경제연구원 15대 원장 취임",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Cd01rWlFtTndKOXlxQlhBWXlGX19mUi1HUmFQSEtYM1FxWURySjdHZHBvNlROdUV6UHo2cjRyWFNGVDFiNlM1U3RhUElLMXpySkExSFpqX1YwRTdMY3Q5U09KNXVCMnZ3dWZnRUFDYkk2dw?oc=5",
+    "published": "Tue, 03 Nov 2026 08:18:04 GMT",
+    "fetched_at": "2026-11-03 20:31:00",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "에너지"
+    ],
+    "keywords": [
+      "에너지경제연구원",
+      "원장 취임",
+      "에너지 정책"
+    ],
+    "reason": "에너지경제연구원 원장 취임은 연구기관의 인사이동으로, 단기적인 금융시장이나 거시경제 지표에 직접적인 영향을 미치지 않습니다. 장기적으로 에너지 정책 방향에 간접적 영향을 줄 수는 있으나 즉각적인 투자 결정 요인은 아닙니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "“안산 주민들 창문 닫으세요”…인체 해끼치는 질산, 반도체 부품공장서 누출",
+    "title_ko": "“안산 주민들 창문 닫으세요”…인체 해끼치는 질산, 반도체 부품공장서 누출",
+    "link": "https://www.mk.co.kr/news/society/12195257",
+    "published": "Tue, 03 Nov 2026 20:16:06 +09:00",
+    "fetched_at": "2026-11-03 20:31:38",
+    "sentiment": "악재",
+    "importance": 2,
+    "sectors": [
+      "반도체",
+      "화학",
+      "산업재"
+    ],
+    "keywords": [
+      "반도체 부품",
+      "질산 누출",
+      "산업재해",
+      "화학물질"
+    ],
+    "reason": "반도체 부품 공장의 화학물질 누출은 해당 기업의 생산 차질 및 잠재적 비용 증가를 야기하며, 반도체 공급망 내 안전 관리 리스크를 부각합니다.",
+    "action_point": "반도체 부품 섹터 내 화학물질 취급 비중이 높은 기업들의 안전 관리 시스템을 점검하고, 포트폴리오 내 관련 기업의 비중을 재검토하라."
+  },
+  {
     "source": "CNBC_Finance",
     "market": "US",
     "title": "Stocks making the biggest moves midday: Oracle, SpaceX, Tempus AI, Rivian & more",
@@ -2565,427 +2998,5 @@
     ],
     "reason": "중국 정부의 규제 완화로 글로벌 결제 서비스 기업의 중국 시장 접근성이 확대되며, 이는 중국 내 결제 시장의 경쟁 심화와 효율성 증대에 기여할 것입니다. 장기적으로 중국의 금융 시장 개방 기조를 시사합니다.",
     "action_point": "글로벌 결제 서비스 기업 및 중국 금융 시장 개방 수혜 기업에 대한 투자 기회를 모색하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[기고]트럼프는 중간선거 이후 이란전쟁을 끝낼 수 있는가?…김태준의 美·이란戰 중계 - 문화일보",
-    "title_ko": "[기고]트럼프는 중간선거 이후 이란전쟁을 끝낼 수 있는가?…김태준의 美·이란戰 중계",
-    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5jaU9SQTFDRmdGd2QtaWprV2V3bnBDQXFnaDQtd0Y5VzV3NUk2aU0tRG1aREhTckg1TU01REdXWnBQcW5EMEkwN3ladjdzVEE3?oc=5",
-    "published": "Thu, 29 Oct 2026 06:51:49 GMT",
-    "fetched_at": "2026-10-29 16:50:40",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "원유/가스",
-      "방산",
-      "해운/물류"
-    ],
-    "keywords": [
-      "트럼프",
-      "중간선거",
-      "이란",
-      "지정학",
-      "미국-이란 관계"
-    ],
-    "reason": "이 기사는 트럼프 전 대통령의 중간선거 이후 이란 정책 변화 가능성을 예측하는 기고문으로, 만약 미국과 이란 간의 긴장이 완화된다면 국제 유가 안정화와 글로벌 지정학적 불확실성 감소로 이어질 수 있습니다. 이는 전반적인 위험자산 투자 심리 개선에 긍정적이나, 현재는 추측 단계입니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Trump methane policy rollback may have minimal impact on crude prices, EPA says",
-    "title_ko": "EPA, 트럼프 메탄 정책 철회가 원유 가격에 미미한 영향 미칠 것으로 전망",
-    "link": "https://www.cnbc.com/2026/10/29/trump-methane-rollback-oil-prices-epa.html",
-    "published": "Thu, 29 Oct 2026 04:00:51 GMT",
-    "fetched_at": "2026-10-29 16:49:29",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "에너지",
-      "원유"
-    ],
-    "keywords": [
-      "트럼프",
-      "메탄 규제",
-      "EPA",
-      "원유 가격",
-      "석유 생산",
-      "환경 정책"
-    ],
-    "reason": "미국 EPA는 트럼프 행정부의 메탄 규제 철회가 2027년까지 미국 원유 가격을 배럴당 11센트, 생산량을 0.09%만 변화시킬 것으로 전망하여, 글로벌 에너지 시장에 미치는 영향은 제한적일 것으로 보인다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[속보] 국정원장 “한미정보협력 ’구성 발언’ 등으로 일부 정보만 제한“ - 연합뉴스TV",
-    "title_ko": "[속보] 국정원장 “한미정보협력 ’구성 발언’ 등으로 일부 정보만 제한“ - 연합뉴스TV",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BZEp2bXFGSm92ZjlOYXRGdUVVSmUyOTZveGNhUVNXUVVYVHdtMURlT0VKWnd0dXQ3ODFEbFdoQkNaR1NJcEp2elN6bzQxUTgxZV8tMnJvQ3I1Q1ZGZXFXSWkwN1c5NHM?oc=5",
-    "published": "Thu, 29 Oct 2026 06:20:00 GMT",
-    "fetched_at": "2026-10-29 16:50:09",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [],
-    "keywords": [
-      "한미정보협력",
-      "국정원",
-      "외교 관계"
-    ],
-    "reason": "한미 정보협력에 일부 제한이 발생했다는 소식은 양국 간 미묘한 외교적 마찰 가능성을 시사하나, 광범위한 지정학적 위험 변화로 이어질 수준은 아니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "GC녹십자의료재단·지씨셀·GC지놈, 진단검사 국제학회 공동 참여 - 의협신문",
-    "title_ko": "GC녹십자의료재단·지씨셀·GC지놈, 진단검사 국제학회 공동 참여",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9aY3RLS0JMa1JqYk9STGRxbGlTcGhWbWdnQ2xpNmZGZ1VwLS1vM2Y1dnlNTmM2VzluRnFQSkx4YlVfM0FvUWk5eTE3MFlmWTVYMGFVQTVGN05rVWc4YU9Ja1Y3Ym0tTzFXYjZybk5VeDhvQQ?oc=5",
-    "published": "Thu, 29 Oct 2026 06:16:00 GMT",
-    "fetched_at": "2026-10-29 16:50:18",
-    "sentiment": "호재",
-    "importance": 2,
-    "sectors": [
-      "제약/바이오",
-      "헬스케어",
-      "진단키트"
-    ],
-    "keywords": [
-      "GC녹십자",
-      "지씨셀",
-      "GC지놈",
-      "진단검사",
-      "국제학회"
-    ],
-    "reason": "GC녹십자 계열사들이 진단검사 분야에서 국제 학회에 공동 참여하며 기술 협력 및 시장 확대 가능성을 모색하는 긍정적 활동으로 해석되나, 단기 시장 영향은 제한적이다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "간 공여자 복강경·로봇 수술 국제 합의문 발표 - MEDI:GATE NEWS",
-    "title_ko": "간 공여자 복강경·로봇 수술 국제 합의문 발표",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5LSFk4cVJKZ0NrbjJ5aEdqcWxFZkdGVG9hSWpqWHhPUGtSeGJfNGN1a29TMTNVU3pUMm5jakU2cDNES21MTFlGNEdmSjEzZUtmWGwteWFsQQ?oc=5",
-    "published": "Thu, 29 Oct 2026 06:05:00 GMT",
-    "fetched_at": "2026-10-29 16:50:32",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "의료기기",
-      "헬스케어"
-    ],
-    "keywords": [
-      "간 공여자",
-      "복강경 수술",
-      "로봇 수술",
-      "의료 기술",
-      "국제 합의"
-    ],
-    "reason": "이 합의문은 간 공여자 수술의 표준화와 안전성을 높이는 의료 기술 발전의 일환입니다. 장기적으로 관련 의료기기 시장의 성장 잠재력을 높일 수 있으나, 거시 경제나 광범위한 투자 시장에 미치는 직접적인 영향은 제한적입니다.",
-    "action_point": "의료기기 섹터 내 복강경 및 로봇 수술 관련 장비 제조 기업의 투자 매력도를 재평가."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "인천시-웨이하이, 지방경제 교류 협력 재생에너지·전자상거래 논의 - 인천투데이",
-    "title_ko": "인천시-웨이하이, 지방경제 교류 협력 재생에너지·전자상거래 논의",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JbXhZRF9aM3JLZzVKUk9OcEppYlZRWjM5VEZjZ1d6ZHhvR1VPbU9vLVV1cW51RHRDU3dvUzc4QTNXejM2ZTFsSUQxdV9LWVlIdE9Idml1Y25ERXpRSlVJTjVPdFpseUxIV1d1XzBjYXc?oc=5",
-    "published": "Thu, 29 Oct 2026 07:30:12 GMT",
-    "fetched_at": "2026-10-29 16:50:47",
-    "sentiment": "호재",
-    "importance": 2,
-    "sectors": [
-      "재생에너지",
-      "전자상거래",
-      "물류"
-    ],
-    "keywords": [
-      "인천",
-      "웨이하이",
-      "지방경제",
-      "재생에너지",
-      "전자상거래",
-      "교류협력"
-    ],
-    "reason": "이 뉴스는 인천시와 중국 웨이하이 간의 재생에너지 및 전자상거래 분야 협력 논의로, 관련 산업의 특정 기업에는 긍정적일 수 있으나, 국내 전체 거시 경제나 시장에 미치는 영향은 제한적입니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Samsung Electronics third-quarter profit in line with estimates amid rising demand for AI memory chips",
-    "title_ko": "삼성전자 3분기 이익, AI 메모리 칩 수요 증가에 힘입어 예상치 부합",
-    "link": "https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html",
-    "published": "Thu, 29 Oct 2026 01:13:47 GMT",
-    "fetched_at": "2026-10-29 10:24:32",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "반도체",
-      "IT 하드웨어",
-      "인공지능"
-    ],
-    "keywords": [
-      "삼성전자",
-      "3분기 실적",
-      "AI 메모리 칩",
-      "반도체",
-      "수요 증가"
-    ],
-    "reason": "삼성전자의 실적은 AI 메모리 칩 수요 증가로 예상을 충족하며, 전반적인 반도체 시장의 회복과 AI 산업 성장에 대한 긍정적 신호를 제공한다. 이는 기술 섹터 전반에 대한 투자 심리를 개선할 수 있다.",
-    "action_point": "반도체 및 AI 관련 기술주에 대한 비중 확대 또는 유지 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Inside India newsletter: New Delhi approves $22 billion in military spending amid China border tensions",
-    "title_ko": "인도 내부 소식: 뉴델리, 중국 국경 긴장 속 220억 달러 규모 국방비 지출 승인",
-    "link": "https://www.cnbc.com/2026/10/29/india-china-us-israel-military-spending.html",
-    "published": "Thu, 29 Oct 2026 00:11:14 GMT",
-    "fetched_at": "2026-10-29 10:24:57",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "방위산업",
-      "항공우주",
-      "지정학"
-    ],
-    "keywords": [
-      "인도",
-      "국방비",
-      "중국",
-      "국경",
-      "군사 지출",
-      "방위산업체"
-    ],
-    "reason": "인도의 대규모 국방비 증가는 글로벌 방위산업에 직접적인 성장 기회를 제공하며, 특히 미국, 이스라엘, 러시아 방산 기업에 긍정적입니다. 동시에 중국과의 국경 긴장 고조는 역내 지정학적 불안정성을 키워 투자 심리에 미묘한 영향을 줄 수 있습니다.",
-    "action_point": "글로벌 방위산업 관련 ETF 또는 개별 종목의 비중 확대 가능성을 검토하십시오."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "One passport isn’t enough for some wealthy Chinese. Here’s where they’re looking next",
-    "title_ko": "일부 중국 부유층, 하나의 여권으로는 부족…다음 행선지는?",
-    "link": "https://www.cnbc.com/2026/10/29/where-chinas-wealthy-are-turning-for-second-passports.html",
-    "published": "Wed, 28 Oct 2026 23:38:00 GMT",
-    "fetched_at": "2026-10-29 10:24:43",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "부동산",
-      "자산관리",
-      "금융서비스"
-    ],
-    "keywords": [
-      "중국 부유층",
-      "자본 유출",
-      "시민권/여권",
-      "글로벌 자산 재배치",
-      "중국 리스크"
-    ],
-    "reason": "이 기사는 중국 부유층의 국내 경제 및 정치 환경에 대한 불신이 심화되며 대규모 자본 유출과 해외 자산 Diversification이 가속화되고 있음을 시사합니다. 이는 중국 본토 자산의 매력도 하락과 주요 글로벌 자산 시장(특히 부동산)으로의 자본 유입을 의미합니다.",
-    "action_point": "중국 본토 관련 자산 투자 비중을 재검토하고, 싱가포르 등 해외 주요 자산 거점의 부동산 및 금융 상품으로의 분산 투자 전략을 강화하십시오."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Nasdaq-100 futures dip as Alphabet shares sell off after earnings report: Live updates",
-    "title_ko": "알파벳 실적 부진 발표 후 주가 급락에 나스닥100 선물 하락: 실시간 업데이트",
-    "link": "https://www.cnbc.com/2026/10/28/stock-market-today-live-updates.html",
-    "published": "Thu, 29 Oct 2026 00:47:00 GMT",
-    "fetched_at": "2026-10-29 10:24:49",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "기술",
-      "통신 서비스",
-      "광고",
-      "클라우드 컴퓨팅"
-    ],
-    "keywords": [
-      "알파벳",
-      "구글",
-      "실적 발표",
-      "나스닥100",
-      "기술주",
-      "시장 심리"
-    ],
-    "reason": "알파벳의 실망스러운 실적은 대형 기술주에 대한 투자 심리를 위축시키고, 디지털 광고 및 클라우드 시장의 둔화 가능성을 시사하며 고금리 환경에서 기업 이익 성장에 대한 우려를 증폭시킵니다.",
-    "action_point": "성장주 중심의 기술 섹터 비중 축소를 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "제20회 한국해사주간 부산서 개막…국제 해사협력 강화 - 해사신문",
-    "title_ko": "제20회 한국해사주간 부산서 개막…국제 해사협력 강화",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMSzNWeU96bGlQNGRTbUJNZ0dTT1VlME81cmctak41cUU4VXRNcmVjdjN6dTJnQ3psNHJFTWpMb3RodVJaNnk2S2g2Z2RqZkFuZWp5cFhuQ1BPNXdzUXRZV2JZZ3JQVVdQSlhZ?oc=5",
-    "published": "Thu, 29 Oct 2026 01:22:06 GMT",
-    "fetched_at": "2026-10-29 10:25:08",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "해운",
-      "조선",
-      "물류"
-    ],
-    "keywords": [
-      "한국해사주간",
-      "해사협력",
-      "해운",
-      "조선",
-      "물류"
-    ],
-    "reason": "제20회 한국해사주간 개막은 국제 해사협력 강화를 통해 해운 및 조선 산업의 장기적 발전 방향을 모색하는 자리입니다. 이는 해당 섹터의 지속 가능한 성장을 위한 기반 마련에 기여할 수 있으나, 단기 시장 영향은 제한적입니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Fed holds rates steady despite concerns over inflation",
-    "title_ko": "연준, 인플레이션 우려에도 불구하고 금리 동결",
-    "link": "https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html",
-    "published": "Wed, 28 Oct 2026 19:43:48 GMT",
-    "fetched_at": "2026-10-29 06:26:52",
-    "sentiment": "중립",
-    "importance": 5,
-    "sectors": [
-      "주식 전반",
-      "채권",
-      "부동산",
-      "환율"
-    ],
-    "keywords": [
-      "연준",
-      "금리 동결",
-      "인플레이션",
-      "통화 정책",
-      "FOMC"
-    ],
-    "reason": "연준의 금리 동결은 단기적 안도감을 주나, 두 명의 위원 인상 주장으로 인플레이션 우려와 향후 긴축 가능성이 여전히 시장에 부담으로 작용할 수 있습니다.",
-    "action_point": "인플레이션 우려가 지속되어 향후 금리 인상 가능성이 남아있으므로, 고금리 민감 성장주 비중을 축소하고 달러 자산 보유를 유지하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Alphabet sinks 9% as it holds 2026 capex unchanged, expects significant increase in 2027",
-    "title_ko": "알파벳, 2026년 CAPEX 동결 및 2027년 '상당한 증가' 전망에 주가 9% 하락",
-    "link": "https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html",
-    "published": "Wed, 28 Oct 2026 21:21:12 GMT",
-    "fetched_at": "2026-10-29 06:26:36",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "기술",
-      "클라우드 컴퓨팅",
-      "인공지능",
-      "반도체"
-    ],
-    "keywords": [
-      "알파벳",
-      "CAPEX",
-      "기술",
-      "인공지능",
-      "클라우드",
-      "투자심리"
-    ],
-    "reason": "알파벳의 2026년 CAPEX 동결은 단기적인 AI 경쟁력 강화에 대한 시장의 기대를 충족시키지 못했으며, 2027년 투자 확대 전망에도 불구하고 불확실성이 부각되며 기술 섹터 전반의 투자 심리를 위축시켰습니다.",
-    "action_point": "클라우드 및 인공지능 관련 기술주에 대한 단기적 투자 심리 위축 가능성을 고려하여 관련 포트폴리오 비중을 재검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "At least 68 people dead in high-speed Spain train crash",
-    "title_ko": "스페인 고속열차 충돌 사고로 최소 68명 사망",
-    "link": "https://www.cnbc.com/2026/10/28/spain-high-speed-train-crash.html",
-    "published": "Wed, 28 Oct 2026 15:41:54 GMT",
-    "fetched_at": "2026-10-29 06:26:42",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "철도",
-      "운송",
-      "보험"
-    ],
-    "keywords": [
-      "스페인",
-      "고속열차",
-      "사고",
-      "사망자"
-    ],
-    "reason": "스페인에서 발생한 고속열차 사고는 비극적 사건이나, 글로벌 경제 지표나 주요 금융 시장에 미치는 영향은 제한적입니다. 단기적으로 스페인 내 운송 및 보험 섹터에 국지적인 영향을 줄 수 있습니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[속보] 국힘 의원들, 올림픽공원 투표함 이송 저지 농성 - 연합뉴스TV",
-    "title_ko": "[속보] 국힘 의원들, 올림픽공원 투표함 이송 저지 농성 - 연합뉴스TV",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9tTE42T3N5SHh0dm5HaUxjQl9ib01BSGh1NEJ4aDlBSk83R2ZfNHFjdlVtUE5rMGkxN1BVX1lvMEZtQ0loMndibkNQRXdxNjVLZ0xXX0tMU3dkbS1hbkV5VVNyX0J2TXM?oc=5",
-    "published": "Wed, 28 Oct 2026 16:12:00 GMT",
-    "fetched_at": "2026-10-29 06:26:59",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [],
-    "keywords": [
-      "총선",
-      "국회",
-      "정치",
-      "투표함",
-      "농성"
-    ],
-    "reason": "총선 개표 과정에서의 정치적 마찰을 보여주는 국내 이슈입니다. 거시경제 지표나 기업 실적에 직접적인 영향을 미치지 않으며, 광범위한 투자 자산에 유의미한 변동성을 야기할 가능성은 낮습니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Fed meeting live updates: No hike expected, but investors watching Warsh for what's next",
-    "title_ko": "연준 회의 실시간 업데이트: 금리 인상 없을 것으로 예상되나, 투자자들은 향후 정책 방향에 주목",
-    "link": "https://www.cnbc.com/2026/10/28/fed-meeting-today-live-updates.html",
-    "published": "Wed, 28 Oct 2026 16:43:48 GMT",
-    "fetched_at": "2026-10-29 01:53:50",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "주식 시장 전반",
-      "채권",
-      "금융",
-      "기술",
-      "부동산",
-      "환율"
-    ],
-    "keywords": [
-      "연준",
-      "금리",
-      "통화정책",
-      "시장 기대",
-      "경기 전망"
-    ],
-    "reason": "시장은 이미 연준의 금리 동결을 가격에 반영하고 있으나, 향후 통화정책 방향에 대한 연준의 메시지가 주식, 채권, 환율 시장의 변동성을 결정할 핵심 요인입니다.",
-    "action_point": "연준의 향후 금리 정책에 대한 발언 강도에 따라 주식, 채권, 환율 시장의 변동성에 대비하여 자산별 비중 조정을 준비하십시오."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "UK brings forward defense spending target, pledging billions to Ukraine",
-    "title_ko": "영국, 국방비 지출 목표 상향 조정 및 우크라이나에 수십억 지원 약속",
-    "link": "https://www.cnbc.com/2026/10/28/uk-defense-spending-ukraine-aid.html",
-    "published": "Wed, 28 Oct 2026 15:53:19 GMT",
-    "fetched_at": "2026-10-29 01:54:01",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "국방/항공우주",
-      "산업재"
-    ],
-    "keywords": [
-      "영국",
-      "국방비",
-      "우크라이나",
-      "지정학",
-      "재정정책"
-    ],
-    "reason": "영국 정부의 국방비 지출 증액은 지속적인 지정학적 긴장을 반영하며, 방위산업 부문에 대한 수요 증가와 함께 영국 경제에 재정적 부양 효과를 제공할 것입니다. 이는 장기적인 방위산업 성장 트렌드를 강화합니다.",
-    "action_point": "글로벌 지정학적 리스크의 지속 가능성을 고려하여 방위산업 섹터 관련 투자를 검토하라."
   }
 ]
