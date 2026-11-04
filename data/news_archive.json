@@ -2,6 +2,98 @@
   {
     "source": "CNBC_Finance",
     "market": "US",
+    "title": "Treasury yields fall as investors crowd into bonds for safety amid election stock sell-off",
+    "title_ko": "미 중간선거 민주당 압승에 따른 주식 매도세 속 안전자산 선호로 미 국채금리 하락",
+    "link": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html",
+    "published": "Wed, 04 Nov 2026 03:24:03 GMT",
+    "fetched_at": "2026-11-04 12:56:55",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "주식시장",
+      "채권시장",
+      "환율시장"
+    ],
+    "keywords": [
+      "미국 중간선거",
+      "민주당",
+      "국채금리",
+      "안전자산",
+      "주식 매도"
+    ],
+    "reason": "미국 중간선거 민주당의 예상 밖 압승으로 정책 불확실성이 증대되며 주식시장에서 자금이 이탈, 안전자산인 채권으로 몰리며 국채금리가 하락했습니다.",
+    "action_point": "시장 불확실성 증대에 대비하여 안전자산(채권, 달러) 비중 확대 검토."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Stock futures fall on speculation Democrats to win big in midterms, slow data center buildout: Live updates",
+    "title_ko": "민주당 중간선거 압승 및 데이터센터 확장 둔화 가능성으로 주식 선물 하락: 실시간 업데이트",
+    "link": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html",
+    "published": "Wed, 04 Nov 2026 03:47:12 GMT",
+    "fetched_at": "2026-11-04 12:57:20",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "기술",
+      "반도체",
+      "클라우드 컴퓨팅"
+    ],
+    "keywords": [
+      "미국 중간선거",
+      "민주당",
+      "데이터센터",
+      "기술주",
+      "시장심리"
+    ],
+    "reason": "민주당의 중간선거 압승 가능성과 데이터센터 확장 둔화 전망은 기술 섹터에 대한 부정적 심리를 야기하며, 전반적인 시장 성장 모멘텀 약화로 이어질 수 있습니다.",
+    "action_point": "데이터센터 관련 기술주 및 반도체 섹터 비중 축소를 검토하고 시장 변동성에 대비하십시오."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[속보] 국회 법사위, 국힘 퇴장 속 ‘조작기소 특검법안’ 상정 - JTBC",
+    "title_ko": "[속보] 국회 법사위, 국힘 퇴장 속 ‘조작기소 특검법안’ 상정 - JTBC",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82blBXS3Uya3VqMG83SlY1aERacFctVjVVdVpYV0w3OUs0UTZjMjdZVElfWWtWc0FnMTJFdHk3dGxIRWtqY0lmR3pMZUdpa0VmMTZCRw?oc=5",
+    "published": "Wed, 04 Nov 2026 02:31:00 GMT",
+    "fetched_at": "2026-11-04 12:57:40",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "국내 증시"
+    ],
+    "keywords": [
+      "국회",
+      "법사위",
+      "특검법",
+      "정치적 불확실성",
+      "여야 갈등"
+    ],
+    "reason": "국회 내 여야 갈등이 심화되고 있음을 보여주는 사건으로, 국내 정치적 불확실성을 높여 전반적인 국내 증시 투자 심리에 부정적인 영향을 미칠 수 있습니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Texas governor race tightens in prediction markets, but Abbott remains favored",
+    "title_ko": "텍사스 주지사 선거, 예측 시장에서 접전 양상이나 애벗 여전히 우세",
+    "link": "https://www.cnbc.com/2026/11/02/texas-governor-prediction-markets-abbott-hinojosa.html",
+    "published": "Tue, 03 Nov 2026 13:33:11 GMT",
+    "fetched_at": "2026-11-04 12:57:08",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [],
+    "keywords": [
+      "텍사스 주지사 선거",
+      "미국 정치",
+      "예측 시장"
+    ],
+    "reason": "텍사스 주지사 선거는 지역 정치 이슈로, 예측 시장에서 접전 양상을 보이더라도 현직 후보가 여전히 우세하여 글로벌 주식, 금리, 환율, 원자재 시장에 미칠 직접적인 거시 경제적 영향은 미미합니다. 정책의 급격한 변화보다는 연속성이 예상됩니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
     "title": "Stocks making the biggest moves premarket: Pfizer, Apple, Palantir, Zebra Technologies  & more",
     "title_ko": "개장 전 가장 큰 움직임을 보이는 주식들: 화이자, 애플, 팔란티어, 지브라 테크놀로지스 외",
     "link": "https://www.cnbc.com/2026/11/03/stocks-making-the-biggest-moves-premarket-pfe-pltr-aapl-zbra.html",
@@ -2897,104 +2989,5 @@
     ],
     "reason": "KB증권의 견조한 연간 실적은 증권업 전반의 양호한 영업 환경을 보여주나, 전분기 대비 순이익 감소는 단기 시장의 불확실성 확대를 시사합니다.",
     "action_point": "증권 섹터 대형사들의 4분기 실적 발표를 통해 시장 변동성 및 투자심리 변화를 파악하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Some Polymarket user funds stolen by hackers, exchange referring matter to U.K. authorities",
-    "title_ko": "해커, 폴리마켓 사용자 자금 일부 탈취... 거래소, 영국 당국에 사건 인계",
-    "link": "https://www.cnbc.com/2026/10/29/polymarket-reports-outage-on-international-exchange-halts-trading.html",
-    "published": "Thu, 29 Oct 2026 19:54:56 GMT",
-    "fetched_at": "2026-10-30 04:58:33",
-    "sentiment": "악재",
-    "importance": 2,
-    "sectors": [
-      "암호화폐",
-      "블록체인",
-      "디지털 자산"
-    ],
-    "keywords": [
-      "해킹",
-      "폴리마켓",
-      "암호화폐 보안",
-      "디지털 자산"
-    ],
-    "reason": "특정 예측 시장 플랫폼에서 발생한 해킹 사건으로, 암호화폐 및 탈중앙화 금융(DeFi) 분야의 보안 취약성을 다시금 부각시키며 해당 분야에 대한 투자 심리에 부정적인 영향을 미칠 수 있다. 전통 금융 시장에는 직접적인 영향이 미미하다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "European Central Bank keeps key interest rate on hold at 2.5%",
-    "title_ko": "유럽중앙은행(ECB), 기준금리 2.5%로 동결",
-    "link": "https://www.cnbc.com/2026/10/29/european-central-bank-interest-rates.html",
-    "published": "Thu, 29 Oct 2026 14:18:44 GMT",
-    "fetched_at": "2026-10-29 23:47:23",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "금융",
-      "부동산",
-      "수출"
-    ],
-    "keywords": [
-      "유럽중앙은행",
-      "금리 동결",
-      "통화 정책",
-      "유로존"
-    ],
-    "reason": "유럽중앙은행의 금리 동결은 유로존의 통화정책이 현상 유지를 통해 시장의 불확실성을 일부 해소하며, 경기 연착륙을 시도하는 신호로 해석될 수 있습니다.",
-    "action_point": "유럽 금리 인상 압박 완화에 따라 유로존 관련 투자 자산 비중을 현행대로 유지하거나 성장주 비중을 소폭 확대 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Third-quarter U.S. GDP increases a better-than-expected 3.4% as September inflation accelerates",
-    "title_ko": "미국 3분기 GDP 예상치 상회한 3.4% 성장, 9월 인플레이션 가속화",
-    "link": "https://www.cnbc.com/2026/10/29/pce-inflation-report-september-2026-.html",
-    "published": "Thu, 29 Oct 2026 14:11:31 GMT",
-    "fetched_at": "2026-10-29 23:47:35",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "미국 주식 시장",
-      "성장주",
-      "부동산",
-      "채권 시장",
-      "외환 시장"
-    ],
-    "keywords": [
-      "미국 GDP",
-      "인플레이션",
-      "금리 인상",
-      "달러 강세"
-    ],
-    "reason": "예상보다 높은 미국 GDP 성장률과 가속화되는 인플레이션은 연준의 '고금리 장기화' 기조를 강화하여 채권 금리 상승과 달러 강세를 유발하고 주식 등 위험 자산에는 부담으로 작용할 것입니다.",
-    "action_point": "달러 강세와 고금리 환경에 대비하여 달러 자산 비중을 유지하고 금리 민감 자산의 비중 축소를 검토하십시오."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Alphabet falls 13%, putting it on course for its biggest ever post-earnings drop",
-    "title_ko": "알파벳 주가 13% 급락, 실적 발표 후 역대 최대 낙폭 기록 중",
-    "link": "https://www.cnbc.com/2026/10/29/alphabet-google-microsoft-msft-shares-today-earnings.html",
-    "published": "Thu, 29 Oct 2026 13:46:52 GMT",
-    "fetched_at": "2026-10-29 23:47:06",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "기술주",
-      "성장주",
-      "광고"
-    ],
-    "keywords": [
-      "알파벳",
-      "기술주",
-      "실적",
-      "자유현금흐름",
-      "주가 하락"
-    ],
-    "reason": "알파벳의 마이너스 자유현금흐름은 고성장 기술 기업들의 자본 지출 부담과 수익성에 대한 우려를 확산시켜 전반적인 기술주 투자 심리에 부정적 영향을 미칠 수 있습니다.",
-    "action_point": "글로벌 대형 기술주의 자유현금흐름 악화 가능성을 주시하며, 비효율적 자본 지출 우려가 있는 성장주 비중 축소를 검토하라."
   }
 ]
