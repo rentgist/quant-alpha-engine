@@ -2,6 +2,55 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "Analysis: The Democrats have one chance to extract concessions from Trump. Markets will hate it",
+    "title_ko": "분석: 민주당이 트럼프에게 양보를 얻어낼 유일한 기회, 시장은 이를 싫어할 것",
+    "link": "https://www.cnbc.com/2026/11/04/democrats-trump-debt-ceiling-fight.html",
+    "published": "Wed, 04 Nov 2026 17:32:26 GMT",
+    "fetched_at": "2026-11-05 04:06:02",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "금융",
+      "기술"
+    ],
+    "keywords": [
+      "미국 부채 한도",
+      "정치적 불확실성",
+      "시장 변동성",
+      "재정 정책"
+    ],
+    "reason": "미국 부채 한도 대치 가능성은 심각한 정치적 불확실성과 함께 시장 변동성 확대를 야기하며, 잠재적으로 미국 디폴트 위험까지 내포하여 투자 심리에 부정적 영향을 미칠 것입니다.",
+    "action_point": "글로벌 위험 회피 심리 강화를 대비하여 위험 자산 비중을 축소하고 현금 및 달러 등 안전 자산 비중 확대를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "What Republicans' huge loss means for Trump",
+    "title_ko": "공화당의 대패가 트럼프에게 미칠 영향",
+    "link": "https://www.cnbc.com/2026/11/04/trump-midterm-election-results-congress.html",
+    "published": "Wed, 04 Nov 2026 16:44:04 GMT",
+    "fetched_at": "2026-11-05 04:05:49",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "수출주",
+      "반도체",
+      "석유 및 가스"
+    ],
+    "keywords": [
+      "공화당",
+      "민주당",
+      "트럼프",
+      "관세",
+      "이란",
+      "지정학"
+    ],
+    "reason": "새롭게 힘을 얻은 민주당이 트럼프의 기존 관세 및 이란 전쟁 정책에 반발할 것이며, 이는 무역 정책과 지정학적 리스크의 잠재적 변화를 시사한다.",
+    "action_point": "민주당의 관세 정책 변화 가능성에 따라 한국 수출 기업 관련 투자 전략 재검토"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "Midterm elections 2026 live updates: What's next after Democrats flip Congress in blue wave",
     "title_ko": "2026년 중간선거 실시간 업데이트: 민주당의 압승으로 의회 장악 후 다음은 무엇인가",
     "link": "https://www.cnbc.com/2026/11/04/2026-midterm-election-results-live-updates.html",
@@ -2932,56 +2981,5 @@
     ],
     "reason": "인천공항 1터미널의 일시적인 네트워크 장애로 인한 일부 항공사의 발권 중단은 해당 항공사들의 단기 운영 차질과 승객 불편을 야기합니다. 그러나 이는 지역적이고 일시적인 문제로, 전반적인 시장이나 매크로 경제에 미치는 영향은 매우 제한적입니다.",
     "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "BOJ holds rates as inflation aligns with 2% target for first time since 2013",
-    "title_ko": "일본은행, 인플레이션이 2013년 이후 처음으로 2% 목표치에 부합하자 금리 동결",
-    "link": "https://www.cnbc.com/2026/10/30/boj-inflation-target-rates.html",
-    "published": "Fri, 30 Oct 2026 03:16:28 GMT",
-    "fetched_at": "2026-10-30 12:34:40",
-    "sentiment": "호재",
-    "importance": 5,
-    "sectors": [
-      "주식",
-      "금리",
-      "환율"
-    ],
-    "keywords": [
-      "일본은행",
-      "인플레이션 목표",
-      "통화정책 정상화",
-      "엔화",
-      "금리 동결"
-    ],
-    "reason": "일본은행이 수십 년 만에 처음으로 2% 인플레이션 목표 달성을 공식 선언하며 디플레이션 시대의 종식을 알렸다. 이는 향후 금리 인상 및 통화정책 정상화의 강력한 신호로, 엔화 강세 및 글로벌 유동성 재편을 야기할 수 있다.",
-    "action_point": "엔화 강세 전환 가능성에 대비하여 엔화 자산 비중 확대를 검토하고, 엔캐리 트레이드 등 저금리 활용 포지션의 위험 관리를 강화하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Nasdaq-100 futures fall as Amazon and Intel swoon after earnings: Live updates",
-    "title_ko": "아마존과 인텔 실적 부진으로 나스닥 100 선물 하락: 속보",
-    "link": "https://www.cnbc.com/2026/10/29/stock-market-today-live-updates.html",
-    "published": "Fri, 30 Oct 2026 03:31:50 GMT",
-    "fetched_at": "2026-10-30 12:34:48",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "기술",
-      "반도체",
-      "인터넷/전자상거래"
-    ],
-    "keywords": [
-      "나스닥 100",
-      "아마존",
-      "인텔",
-      "실적",
-      "기술주",
-      "반도체"
-    ],
-    "reason": "주요 기술 기업인 아마존과 인텔의 부진한 실적은 기술 섹터 전반에 대한 투자 심리를 악화시키며, 나스닥 100 선물 하락을 주도하여 미국 증시의 기술주 조정 가능성을 높입니다.",
-    "action_point": "미국 기술주 및 반도체 섹터 투자 비중 축소를 검토하고, 실적 방어력이 높은 섹터로의 포트폴리오 재조정을 고려하십시오."
   }
 ]
