@@ -1,5 +1,271 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Midterm elections 2026 live updates: What's next after Democrats flip Congress in blue wave",
+    "title_ko": "2026년 중간선거 실시간 업데이트: 민주당의 압승으로 의회 장악 후 다음은 무엇인가",
+    "link": "https://www.cnbc.com/2026/11/04/2026-midterm-election-results-live-updates.html",
+    "published": "Wed, 04 Nov 2026 11:22:15 GMT",
+    "fetched_at": "2026-11-04 20:49:47",
+    "sentiment": "중립",
+    "importance": 5,
+    "sectors": [
+      "재생에너지",
+      "인프라"
+    ],
+    "keywords": [
+      "미국 중간선거",
+      "민주당 압승",
+      "의회 장악",
+      "정책 변화",
+      "재정 정책"
+    ],
+    "reason": "민주당이 의회를 장악함으로써 향후 재정, 규제, 사회 정책에 중대한 변화가 예상됩니다. 이는 정책 불확실성을 해소하고 민주당의 정책 기조에 부합하는 섹터에 대한 투자 기대감을 높일 수 있습니다.",
+    "action_point": "민주당 정책 기조에 따라 재생에너지 및 인프라 섹터 투자 확대를 검토하고, 잠재적 기업 증세 및 규제 강화에 대비하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "A blue wave sends futures into the green",
+    "title_ko": "민주당의 블루 웨이브, 선물 시장 상승 전환",
+    "link": "https://www.cnbc.com/2026/11/04/a-blue-wave-sends-futures-into-the-green.html",
+    "published": "Wed, 04 Nov 2026 11:29:29 GMT",
+    "fetched_at": "2026-11-04 20:50:05",
+    "sentiment": "호재",
+    "importance": 5,
+    "sectors": [
+      "인프라",
+      "신재생에너지",
+      "기술주"
+    ],
+    "keywords": [
+      "미국 정치",
+      "민주당",
+      "블루 웨이브",
+      "재정 부양책",
+      "정책 불확실성 해소"
+    ],
+    "reason": "민주당이 상하원을 모두 장악함으로써 대규모 재정 부양책과 인프라 투자 등의 정책 추진 가능성이 커져 시장의 정책 불확실성이 해소되고 성장 기대감이 반영될 수 있습니다.",
+    "action_point": "인프라 및 신재생에너지 관련 섹터 비중 확대를 검토하고, 대형 기술주에 대한 매수 기회를 주시하십시오."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "5 midterm election takeaways: Tech billionaires suffer as Democrats drub Republicans",
+    "title_ko": "중간선거 5가지 시사점: 민주당 공화당 압승 속 기술 거물들 타격",
+    "link": "https://www.cnbc.com/2026/11/04/midterm-election-blue-wave-trump-billionaires.html",
+    "published": "Wed, 04 Nov 2026 08:56:45 GMT",
+    "fetched_at": "2026-11-04 20:48:06",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "기술 (Tech)",
+      "성장주 (Growth Stocks)"
+    ],
+    "keywords": [
+      "중간선거",
+      "기술 거물",
+      "민주당",
+      "규제",
+      "반독점"
+    ],
+    "reason": "민주당의 선거 승리와 유권자들의 거물급 자산가 영향력에 대한 우려는 대형 기술 기업에 대한 규제 강화 가능성을 시사합니다. 이는 해당 기업들의 사업 모델이나 시장 지배력에 부정적인 영향을 미칠 수 있습니다.",
+    "action_point": "대형 기술주 포트폴리오 내 규제 강화 리스크가 있는 종목 비중 축소 검토."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "What Trump losing power over Congress means for Iran, Ukraine and foreign policy",
+    "title_ko": "트럼프의 의회 권한 상실이 이란, 우크라이나 및 외교 정책에 미치는 의미",
+    "link": "https://www.cnbc.com/2026/11/04/democrats-congress-trump-foreign-policy.html",
+    "published": "Wed, 04 Nov 2026 11:20:46 GMT",
+    "fetched_at": "2026-11-04 20:49:55",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "방산",
+      "에너지"
+    ],
+    "keywords": [
+      "미국 정치",
+      "외교 정책",
+      "이란",
+      "우크라이나",
+      "지정학"
+    ],
+    "reason": "미국 의회의 민주당 통제로 트럼프 행정부의 이란 및 우크라이나 외교 정책에 대한 감시가 강화되며, 이는 특정 지정학적 위험과 관련한 불확실성을 높일 수 있습니다.",
+    "action_point": "이란 및 우크라이나 관련 지정학적 위험 변화에 대비하여 에너지 및 방산 섹터의 포트폴리오 비중을 재검토."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Americans have said 'NO TO WAR,' Iran speaker says as Democrats take Congress",
+    "title_ko": "이란 의회 의장, 민주당의 의회 장악에 따라 '미국인들이 전쟁에 반대했다'고 발언",
+    "link": "https://www.cnbc.com/2026/11/04/us-midterm-elections-iran-war-speaker.html",
+    "published": "Wed, 04 Nov 2026 06:45:36 GMT",
+    "fetched_at": "2026-11-04 20:50:13",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "항공/여행",
+      "글로벌 증시"
+    ],
+    "keywords": [
+      "이란",
+      "미국",
+      "민주당",
+      "전쟁 반대",
+      "지정학적 리스크",
+      "중동"
+    ],
+    "reason": "이란 고위 관계자가 미국 선거 결과를 '전쟁 반대' 메시지로 해석하며 민주당의 의회 장악과 함께 중동 지역의 지정학적 긴장 완화 기대감을 높일 수 있다. 이는 글로벌 위험 선호 심리 개선에 기여할 수 있다.",
+    "action_point": "중동 지정학적 리스크 완화 기대에 따른 유가 하방 압력을 주시하며, 관련 에너지 및 방산 섹터의 포트폴리오 비중을 재검토."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Euro zone inflation hits 4% for first time in three years as interest rate hike looms",
+    "title_ko": "유로존 인플레이션, 3년 만에 4% 도달…금리 인상 임박",
+    "link": "https://www.cnbc.com/2026/11/04/euro-zone-cpi-inflation-october-ecb-rate-hike.html",
+    "published": "Wed, 04 Nov 2026 10:47:30 GMT",
+    "fetched_at": "2026-11-04 20:50:21",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "금융",
+      "기술주",
+      "성장주",
+      "에너지"
+    ],
+    "keywords": [
+      "유로존 인플레이션",
+      "금리 인상",
+      "유럽중앙은행",
+      "에너지 가격"
+    ],
+    "reason": "유로존의 높은 인플레이션은 유럽중앙은행(ECB)의 조기 금리 인상 압력을 높여 글로벌 유동성 축소와 채권 수익률 상승을 야기할 수 있습니다. 이는 성장주와 위험자산 전반에 하방 압력으로 작용할 가능성이 큽니다.",
+    "action_point": "유럽발 금리 인상 압력에 대비하여 성장주 비중 축소 및 금융/가치주 섹터 관심 유지."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[속보] 트럼프 \"중간선거 결과 수용 의향…민주당과 협력할 것\" - 연합뉴스",
+    "title_ko": "[속보] 트럼프 \"중간선거 결과 수용 의향…민주당과 협력할 것\"",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VSXRONHJBN1dQUV92QXQ2QTZnbEdNZ1JGYzM5NlUxQ3loRlA1QmVyaWdidXdRLVR1MjNUYjA2RjdtSHA5ODhweE9UZW1YM2hUTFZMb0dhZVBzSlnSAWBBVV95cUxOdVhrSVhBa2RfcVNqemxIbVloSmdyUkU1YWlrNy05SjE1Tk1NX2lRRldtMFJBbGsxUC1YaTE4UlhsdnoxNm44SnJMYzlyeGozQzRaRjNNN1ZjZWFtMmpWZ00?oc=5",
+    "published": "Wed, 04 Nov 2026 04:01:40 GMT",
+    "fetched_at": "2026-11-04 20:50:34",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "글로벌 증시",
+      "금융시장 전반"
+    ],
+    "keywords": [
+      "트럼프",
+      "중간선거",
+      "정치 안정",
+      "불확실성 완화"
+    ],
+    "reason": "트럼프 전 대통령의 발언은 미국 정치의 불확실성을 완화하고 정치적 분열에 대한 시장의 우려를 일부 해소하여 전반적인 투자심리 개선에 긍정적인 영향을 미칠 수 있습니다.",
+    "action_point": "미국 정치 불확실성 완화 기대감에 따라 포트폴리오 내 위험자산 비중을 유지하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "AI 기술과 고령친화식품…국제콘퍼런스 개최 - 연합뉴스TV",
+    "title_ko": "AI 기술과 고령친화식품…국제콘퍼런스 개최",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE52WldqVjUzRF81bGVQZzhmYkQ0S0x5ZnFuTzhFNmNmSE9iRTZ1dUZRcE9pOVZqM3JoVWlSbURTa0VmVXlmSFVpUTExNldaeDQ5eVJkbjU1aERjLVotcWQ4RlcwY0k1cU0?oc=5",
+    "published": "Wed, 04 Nov 2026 11:10:00 GMT",
+    "fetched_at": "2026-11-04 20:50:47",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "IT",
+      "식음료",
+      "헬스케어",
+      "바이오"
+    ],
+    "keywords": [
+      "AI 기술",
+      "고령친화식품",
+      "고령화사회",
+      "웰니스"
+    ],
+    "reason": "해당 국제 콘퍼런스는 AI와 고령친화식품 산업의 기술 발전 및 시장 동향을 보여주며, 고령화 사회에 대응하는 장기적인 투자 기회를 시사하지만, 단기적인 시장이나 거시 경제에 미치는 직접적인 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "“미분양 풀고 지역 경제 살린다”… 경산시, 대형 아파트 건설현장 소장 간담회 개최 - 경북일보",
+    "title_ko": "“미분양 풀고 지역 경제 살린다”… 경산시, 대형 아파트 건설현장 소장 간담회 개최 - 경북일보",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1EU05vMW1lbWZnMGQ2MnFsQjNqSW1HSjVuTXlhc1ZLcXlfU1h1bVgxcmZiVHd5dklEY2lzRENjSVJpVHNiczktbnI3MkI1YmFjUURtajZRc193MUtSaGNKYmdSb2V4UXd4Y2g4bkRmVQ?oc=5",
+    "published": "Wed, 04 Nov 2026 08:35:12 GMT",
+    "fetched_at": "2026-11-04 20:50:57",
+    "sentiment": "악재",
+    "importance": 2,
+    "sectors": [
+      "부동산",
+      "건설"
+    ],
+    "keywords": [
+      "미분양",
+      "경산시",
+      "지역경제",
+      "건설현장"
+    ],
+    "reason": "경산시의 미분양 아파트 해소 노력은 지방 주택 시장의 공급 과잉 및 수요 부족 문제를 재확인시켜 줍니다. 이는 비수도권 지역 부동산 경기 침체 우려를 가중시키고 관련 건설 섹터에 부정적 영향을 미칠 수 있습니다.",
+    "action_point": "국내 지방 부동산 개발 프로젝트 및 관련 건설 섹터 투자 비중 재검토."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "리센느 뜨기전 투자한 ‘신의 촉’…33억 넣어 600억 회수 대박도 터트렸다",
+    "title_ko": "리센느 뜨기전 투자한 ‘신의 촉’…33억 넣어 600억 회수 대박도 터트렸다",
+    "link": "https://www.mk.co.kr/news/economy/12196893",
+    "published": "Wed, 04 Nov 2026 20:48:17 +09:00",
+    "fetched_at": "2026-11-04 20:51:15",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "벤처캐피탈",
+      "사모펀드",
+      "엔터테인먼트",
+      "화장품"
+    ],
+    "keywords": [
+      "벤처투자",
+      "JB인베스트먼트",
+      "리센느",
+      "달바",
+      "고수익"
+    ],
+    "reason": "이 기사는 특정 벤처캐피탈의 엔터테인먼트 및 화장품 분야 초기 투자 성공 사례를 다루며, 사모시장의 높은 수익률 가능성을 보여줍니다. 거시경제나 공모시장 전반에 미칠 직접적인 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "\"與 입법독주 막아야\" 헌정회장의 쓴소리",
+    "title_ko": "與 입법독주 막아야\" 헌정회장의 쓴소리",
+    "link": "https://www.mk.co.kr/news/politics/12196821",
+    "published": "Wed, 04 Nov 2026 20:07:05 +09:00",
+    "fetched_at": "2026-11-04 20:51:24",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [],
+    "keywords": [
+      "정치",
+      "입법 독주",
+      "여당",
+      "사법부",
+      "대통령"
+    ],
+    "reason": "대한민국헌정회 회장의 발언은 여야 간 입법 갈등 및 사법부 독립성 관련 정치적 긴장이 지속될 수 있음을 시사하며, 이는 중장기적으로 정책 불확실성을 높일 수 있습니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "CNBC_Finance",
     "market": "US",
     "title": "Treasury yields fall as investors crowd into bonds for safety amid election stock sell-off",
@@ -2717,277 +2983,5 @@
     ],
     "reason": "주요 기술 기업인 아마존과 인텔의 부진한 실적은 기술 섹터 전반에 대한 투자 심리를 악화시키며, 나스닥 100 선물 하락을 주도하여 미국 증시의 기술주 조정 가능성을 높입니다.",
     "action_point": "미국 기술주 및 반도체 섹터 투자 비중 축소를 검토하고, 실적 방어력이 높은 섹터로의 포트폴리오 재조정을 고려하십시오."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[속보]'반도체·자동차 효과' 생산·소비·투자 트리플↑… '내수 부진'은 숙제 - KBC광주방송",
-    "title_ko": "'반도체·자동차 효과' 생산·소비·투자 트리플↑… '내수 부진'은 숙제",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvODZzZUo1MGRGSk92aXZYdWJucVVIZlNKeEQ2VmFNaEY5MDN5ZnM1RE1vYnlTVHNtNkR4Wk9Jdzd5ZFpDcnBsaHlJaW9DanpqNXJNQXJQZXUtMW9nMEJxSQ?oc=5",
-    "published": "Fri, 30 Oct 2026 01:05:45 GMT",
-    "fetched_at": "2026-10-30 12:34:58",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "반도체",
-      "자동차",
-      "수출"
-    ],
-    "keywords": [
-      "생산",
-      "소비",
-      "투자",
-      "내수",
-      "경제지표"
-    ],
-    "reason": "한국 경제의 생산, 소비, 투자가 반도체와 자동차 수출 호조에 힘입어 동반 상승하며 견고한 성장세를 보이지만, 내수 부진은 여전한 과제로 남아있어 내수주에는 제한적일 수 있습니다.",
-    "action_point": "반도체 및 자동차 등 수출 중심 대형주의 투자 비중을 유지하며 추가 상승 여력을 주시."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "'에너지 전쟁' 된 미국 중간선거...바닷가재부터 AI·난방유까지 줄줄이 얽혀 - YTN",
-    "title_ko": "'에너지 전쟁' 된 미국 중간선거...바닷가재부터 AI·난방유까지 줄줄이 얽혀",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1BTll4eU96cTNORFhLcGR4NUZXQjZHVmNRYmgtT0lFZWFnZXNEcHZHMG9FN3JYSlZQVWVsUGpQZVFWdlIzQ2l3S3FfekRaWnk0dExMZXVMcktBa3hMcXc?oc=5",
-    "published": "Thu, 29 Oct 2026 16:33:00 GMT",
-    "fetched_at": "2026-10-30 08:47:59",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "기술",
-      "산업재"
-    ],
-    "keywords": [
-      "미국 중간선거",
-      "에너지 정책",
-      "원자재",
-      "지정학",
-      "유가"
-    ],
-    "reason": "미국 중간선거 결과에 따라 에너지 정책 방향이 크게 달라질 수 있으며, 이는 글로벌 에너지 시장과 주요 원자재 가격에 직접적인 영향을 미쳐 높은 변동성을 야기할 수 있습니다. 또한, AI를 포함한 광범위한 분야의 정책 변화 가능성으로 시장 불확실성이 증대됩니다.",
-    "action_point": "에너지 관련 포트폴리오 비중을 재점검하고 원자재 시장의 변동성 확대에 대비하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[속보]9월 생산·소비·투자 일제히 증가…반도체·자동차가 견인 - 경향신문",
-    "title_ko": "[속보]9월 생산·소비·투자 일제히 증가…반도체·자동차가 견인",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xcGJic0tRVXNXWWtIYjVzN2hyNVJDUXN4Q3pVZ1praGtnak9lRjZZenBnUVA0bWx2VGpLcFdXdVkzWTB2NFh3aVBxcXpScl9yeDFzM1BTal9pd9IBX0FVX3lxTFBtUTN4RlI0dGVHMmpsSFlQN3p5OGloS0J5aEZiLWQ5WnpsVk90aFBGMHdoQ1hFVm5IVkZrMlBybHFhLUpibWhseHFIY3VrQVpjYTZjZUFJaTZSWGFCbzhr?oc=5",
-    "published": "Thu, 29 Oct 2026 23:01:00 GMT",
-    "fetched_at": "2026-10-30 08:48:06",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "반도체",
-      "자동차",
-      "소비재",
-      "산업재"
-    ],
-    "keywords": [
-      "생산",
-      "소비",
-      "투자",
-      "반도체",
-      "자동차",
-      "경제지표",
-      "성장"
-    ],
-    "reason": "9월 국내 생산, 소비, 투자 지표의 동반 상승은 한국 경제의 견조한 회복세를 시사하며, 특히 반도체와 자동차 섹터의 성장이 이를 견인하고 있습니다. 이는 경기 둔화 우려를 완화하고 국내 기업 실적 개선에 대한 기대를 높이는 요인입니다.",
-    "action_point": "반도체, 자동차 등 수출 주도 업종과 내수 관련 경기 민감주 비중 확대를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Circle, Tether freeze funds impacted by potential Binance 'security issue'",
-    "title_ko": "써클, 테더, 바이낸스 '보안 문제' 영향받은 자금 동결",
-    "link": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
-    "published": "Thu, 29 Oct 2026 22:47:32 GMT",
-    "fetched_at": "2026-10-30 08:47:26",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "암호화폐",
-      "블록체인 기술"
-    ],
-    "keywords": [
-      "바이낸스",
-      "써클",
-      "테더",
-      "보안 문제",
-      "암호화폐",
-      "자금 동결"
-    ],
-    "reason": "세계 최대 암호화폐 거래소의 잠재적 보안 문제는 암호화폐 시장 전반의 신뢰를 일시적으로 저하시킬 수 있으며, 변동성 확대 및 위험 회피 심리를 강화할 가능성이 있습니다. 이는 디지털 자산에 대한 투기적 성향을 경계하게 만들 수 있습니다.",
-    "action_point": "암호화폐 관련 자산에 대한 단기적 신규 투자 유보 또는 보유 비중 축소를 고려하십시오."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Friday's big stock stories: What’s likely to move the market in the next trading session",
-    "title_ko": "금요일 주요 증시 소식: 다음 거래 세션에서 시장을 움직일 요소들",
-    "link": "https://www.cnbc.com/2026/10/29/fridays-big-stock-stories-whats-likely-to-move-the-market.html",
-    "published": "Thu, 29 Oct 2026 23:28:33 GMT",
-    "fetched_at": "2026-10-30 08:47:37",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "IT/기술",
-      "미국 증시"
-    ],
-    "keywords": [
-      "알파벳",
-      "실적",
-      "S&P 500",
-      "기술주",
-      "주가 하락"
-    ],
-    "reason": "알파벳의 예상보다 부진한 실적 발표로 주가가 급락하며 S&P 500의 3일간의 상승세가 꺾였습니다. 이는 광범위한 기술주에 대한 투자 심리에 부정적인 영향을 미칠 수 있습니다.",
-    "action_point": "미국 대형 기술주 포트폴리오 비중 축소 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Starbucks serves up a solid quarter and full-year outlook. Why we're staying invested",
-    "title_ko": "스타벅스, 견고한 분기 실적 및 연간 전망 발표. 왜 우리는 계속 투자해야 하는가?",
-    "link": "https://www.cnbc.com/investingclub/2026/10/29/starbucks-serves-up-a-solid-quarter-and-full-year-outlook-why-were-staying-invested.html",
-    "published": "Thu, 29 Oct 2026 23:44:27 GMT",
-    "fetched_at": "2026-10-30 08:47:48",
-    "sentiment": "호재",
-    "importance": 2,
-    "sectors": [
-      "소비재 (임의소비재)",
-      "식음료"
-    ],
-    "keywords": [
-      "스타벅스",
-      "실적",
-      "소비재",
-      "수익성"
-    ],
-    "reason": "글로벌 대형 소비재 기업인 스타벅스의 견고한 실적은 소비자 지출의 회복세를 시사하며, 이는 전반적인 소비재 섹터에 긍정적인 신호로 작용할 수 있습니다. 다만, 개별 기업의 호실적이 거시 경제 전반에 미치는 영향은 제한적입니다.",
-    "action_point": "글로벌 임의소비재 섹터 중 견고한 브랜드 경쟁력을 갖춘 기업에 대한 포트폴리오 비중 유지를 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Big Oil earnings are set to surge. Why investors may want to be cautious",
-    "title_ko": "석유 대기업 실적 급증 예상, 투자자들이 신중해야 하는 이유",
-    "link": "https://www.cnbc.com/2026/10/29/big-oil-earnings-are-set-to-surge-why-investors-may-want-to-be-cautious.html",
-    "published": "Thu, 29 Oct 2026 18:13:32 GMT",
-    "fetched_at": "2026-10-30 04:58:16",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "석유가스"
-    ],
-    "keywords": [
-      "석유 대기업",
-      "에너지 섹터",
-      "기업 실적",
-      "투자 주의",
-      "가이던스"
-    ],
-    "reason": "석유 대기업의 호실적이 예상되지만, 시장은 향후 가이던스에 더 주목하며 기술적 분석상 투자에 신중해야 할 시점임을 시사합니다. 이는 에너지 섹터의 잠재적 과열과 조정 가능성을 내포합니다.",
-    "action_point": "에너지 섹터의 과열 가능성을 고려하여 보유 비중 축소 또는 신규 매수 보류를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Wall Street is betting on a clear midterm result. A contested count could rattle already edgy markets — and these sectors",
-    "title_ko": "월스트리트, 명확한 중간선거 결과에 베팅 중. 불확실한 개표 결과 시 이미 불안한 시장과 특정 섹터에 혼란 가중 가능성",
-    "link": "https://www.cnbc.com/2026/10/29/us-midterms-election-wall-street-options-markets.html",
-    "published": "Thu, 29 Oct 2026 14:05:07 GMT",
-    "fetched_at": "2026-10-30 04:58:25",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "미국 주식 전반",
-      "기술",
-      "금융"
-    ],
-    "keywords": [
-      "미국 중간선거",
-      "불확실성",
-      "시장 변동성",
-      "정치 리스크"
-    ],
-    "reason": "미국 중간선거 개표 결과의 불확실성이 장기화될 경우, 이미 불안정한 시장의 변동성을 증폭시키고 투자 심리를 위축시켜 광범위한 리스크 회피 심리를 촉발할 수 있습니다.",
-    "action_point": "미국 중간선거 결과의 불확실성에 대비, 포트폴리오의 단기 변동성 헤지 전략 수립을 검토하십시오."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Nvidia responds to report Jensen Huang was target of Chinese asset, says diversion allegations were 'investigated and debunked'",
-    "title_ko": "엔비디아, 젠슨 황 CEO가 중국 자산의 표적이었다는 보도에 '조사 결과 사실무근으로 밝혀졌다'고 반박",
-    "link": "https://www.cnbc.com/2026/10/29/nvidia-jensen-huang-chinese-intelligence-asset.html",
-    "published": "Thu, 29 Oct 2026 19:16:32 GMT",
-    "fetched_at": "2026-10-30 04:58:05",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "반도체",
-      "기술",
-      "인공지능"
-    ],
-    "keywords": [
-      "Nvidia",
-      "Jensen Huang",
-      "중국 스파이",
-      "기업 보안",
-      "미중 기술 경쟁"
-    ],
-    "reason": "엔비디아가 젠슨 황 CEO 관련 중국 스파이 의혹을 공식 부인하며 지정학적 리스크 및 기업 거버넌스 불확실성을 해소했다. 이는 핵심 AI 기술 기업에 대한 투자 심리를 안정시키는 긍정적 요인으로 작용한다.",
-    "action_point": "반도체 및 인공지능 관련 기술주 비중 유지 검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "Aon CEO, AI 데이터센터의 보험 리스크 경고 - Investing.com 한국어",
-    "title_ko": "Aon CEO, AI 데이터센터의 보험 리스크 경고",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JUUFNT1hDZThqdVk1Rjd3dXhOejFXakJBdGJlQzVPclByd2trSzdVYjJuZk1IMGVQblNaN21RSy1VeEliM3hGa05CYUJHMzRvVkEwMHZDQ2V2X045MWJGZnd3ekwtaW9iOXJrUXVOaHE?oc=5",
-    "published": "Thu, 29 Oct 2026 17:37:00 GMT",
-    "fetched_at": "2026-10-30 04:58:44",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "IT/기술",
-      "데이터센터",
-      "보험"
-    ],
-    "keywords": [
-      "AI",
-      "데이터센터",
-      "보험",
-      "리스크"
-    ],
-    "reason": "AI 데이터센터 운영 관련 보험료 상승 및 리스크 관리 강화로 인해 관련 기업의 운영 비용 증가가 예상되며, 이는 AI 인프라 투자 속도와 수익성에 영향을 미칠 수 있습니다.",
-    "action_point": "AI 데이터센터 관련 기업들의 잠재적 마진 압박 가능성을 고려, 해당 섹터 투자 비중을 재검토하십시오."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "KB증권, 3분기 순이익 2730억…전년 동기比 70% 증가",
-    "title_ko": "KB증권, 3분기 순이익 2730억…전년 동기比 70% 증가",
-    "link": "https://www.mk.co.kr/news/stock/12190841",
-    "published": "Fri, 30 Oct 2026 01:03:22 +09:00",
-    "fetched_at": "2026-10-30 04:58:57",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "증권",
-      "금융"
-    ],
-    "keywords": [
-      "KB증권",
-      "실적",
-      "순이익",
-      "증권사",
-      "WM",
-      "IB"
-    ],
-    "reason": "KB증권의 견조한 연간 실적은 증권업 전반의 양호한 영업 환경을 보여주나, 전분기 대비 순이익 감소는 단기 시장의 불확실성 확대를 시사합니다.",
-    "action_point": "증권 섹터 대형사들의 4분기 실적 발표를 통해 시장 변동성 및 투자심리 변화를 파악하라."
   }
 ]
