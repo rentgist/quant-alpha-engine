@@ -1,5 +1,33 @@
 [
   {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "What the Democratic midterms sweep changes for U.S.-China relations",
+    "title_ko": "미국 중간선거 민주당 압승이 미-중 관계에 미치는 변화",
+    "link": "https://www.cnbc.com/2026/11/05/what-the-democrat-midterms-sweep-changes-for-us-china-tech-rivalry.html",
+    "published": "Thu, 05 Nov 2026 06:54:52 GMT",
+    "fetched_at": "2026-11-05 16:34:17",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "반도체",
+      "IT하드웨어",
+      "산업재",
+      "해운",
+      "화학",
+      "철강"
+    ],
+    "keywords": [
+      "미중 무역분쟁",
+      "중간선거",
+      "트럼프",
+      "글로벌 공급망",
+      "관세"
+    ],
+    "reason": "민주당의 중간선거 승리로 트럼프 대통령의 미중 무역 휴전 유지 능력이 약화될 것이라는 분석이 나오면서, 무역분쟁 재확산에 대한 우려가 커져 글로벌 경제의 불확실성이 증가할 수 있습니다.",
+    "action_point": "미중 무역 갈등 심화 가능성에 대비하여 무역 의존도가 높은 국내 수출주 및 글로벌 공급망 관련 기업의 비중 축소를 검토하라."
+  },
+  {
     "source": "GoogleNews_Korea",
     "market": "KR",
     "title": "증시 '급등' 속 트럼프 테마주 '폭락'...국제유가 8% 넘게 '급락' - YTN",
@@ -2970,30 +2998,5 @@
     ],
     "reason": "대한민국 최대 광역지자체인 경기도의 재정위기 선언 배경 뉴스는 공공 지출 축소, 인프라 사업 지연 등으로 이어져 관련 산업 위축 및 지역 경제 전반에 부정적 영향을 미칠 수 있습니다.",
     "action_point": "경기도 지방채 및 경기도 내 개발 사업 의존도가 높은 건설, 부동산 섹터 자산에 대한 투자 익스포저를 점검하고 조정 고려."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Binance's $6.3 billion hack: What we know and what comes next",
-    "title_ko": "바이낸스 63억 달러 해킹: 알려진 사실과 향후 전망",
-    "link": "https://www.cnbc.com/2026/10/30/billions-in-crypto-frozen-in-binance-hack-heres-what-happens-next-.html",
-    "published": "Fri, 30 Oct 2026 10:19:30 GMT",
-    "fetched_at": "2026-10-30 19:35:29",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "암호화폐",
-      "블록체인 기술",
-      "핀테크"
-    ],
-    "keywords": [
-      "바이낸스",
-      "암호화폐",
-      "해킹",
-      "보안",
-      "자금 동결"
-    ],
-    "reason": "이번 바이낸스 해킹 사건은 암호화폐 시장의 보안 취약성과 규제 리스크에 대한 우려를 증폭시켜, 디지털 자산 전반의 투자 심리 위축 및 변동성 확대를 야기할 것입니다.",
-    "action_point": "암호화폐 관련 자산의 비중 축소 또는 신규 투자 보류를 검토하고, 포트폴리오의 리스크 노출도를 재평가하라."
   }
 ]
