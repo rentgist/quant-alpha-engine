@@ -2,6 +2,109 @@
   {
     "source": "CNBC_Finance",
     "market": "US",
+    "title": "Barkin sees interest rate hikes ahead, but at a gradual pace",
+    "title_ko": "바킨 총재, 금리 인상 지속 시사하나 완만한 속도 예상",
+    "link": "https://www.cnbc.com/2026/11/05/barkin-sees-interest-rate-hikes-ahead-but-at-a-gradual-pace.html",
+    "published": "Thu, 05 Nov 2026 16:34:33 GMT",
+    "fetched_at": "2026-11-06 06:43:20",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "기술/성장주",
+      "금융",
+      "부동산"
+    ],
+    "keywords": [
+      "금리 인상",
+      "인플레이션",
+      "통화 정책",
+      "연준"
+    ],
+    "reason": "연준 위원의 금리 인상 시사 발언은 인플레이션 억제를 위한 긴축 기조 지속을 확인시키며, 시장의 금리 전망치 상향 조정 압력을 가한다. 이는 고금리 환경에 취약한 성장주와 부동산 시장에 부담으로 작용할 수 있다.",
+    "action_point": "고금리 환경에 대비하여 성장주 비중을 재검토하고, 배당 및 가치주, 금융주 등 금리 인상 수혜주로의 포트폴리오 리밸런싱을 고려하라."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Top Democrats call to rein in AI buildout after midterms sweep: 'National data center moratorium now'",
+    "title_ko": "민주당 고위 인사들, 중간선거 승리 후 AI 개발 제한 요구: '국가 데이터센터 건설 즉시 중단해야'",
+    "link": "https://www.cnbc.com/2026/11/05/democrats-data-center-restrictions-midterms.html",
+    "published": "Thu, 05 Nov 2026 20:17:16 GMT",
+    "fetched_at": "2026-11-06 06:43:12",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "인공지능(AI)",
+      "데이터센터",
+      "클라우드 컴퓨팅",
+      "반도체",
+      "IT 인프라"
+    ],
+    "keywords": [
+      "AI 규제",
+      "데이터센터",
+      "미국 정치",
+      "민주당"
+    ],
+    "reason": "미국 민주당의 AI 및 데이터센터 개발 제한 요구는 관련 인프라 및 기술 기업의 성장 둔화와 투자 불확실성을 야기할 수 있으며, 장기적으로는 전반적인 기술 섹터의 센티멘트에 부정적 영향을 미칠 수 있습니다.",
+    "action_point": "AI 및 데이터센터 관련 기술주에 대한 비중 축소 또는 투자 리스크 재평가를 검토하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "“예금으로 노후 준비가 됩니까”...은퇴 한참 남은 2030도 이 펀드로 몰린다",
+    "title_ko": "“예금으로 노후 준비가 됩니까”...은퇴 한참 남은 2030도 이 펀드로 몰린다",
+    "link": "https://www.mk.co.kr/news/stock/12199679",
+    "published": "Fri, 06 Nov 2026 05:59:10 +09:00",
+    "fetched_at": "2026-11-06 06:43:54",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "금융",
+      "자산운용",
+      "증권",
+      "글로벌 성장주"
+    ],
+    "keywords": [
+      "TDF",
+      "은퇴자산",
+      "자산운용",
+      "장기투자",
+      "2030세대"
+    ],
+    "reason": "TDF 시장의 급성장은 젊은 세대의 장기 투자 수요 증가와 예금에서 펀드 중심의 자산 배분 변화를 보여줍니다. 이는 국내외 자본 시장, 특히 성장주 섹터로의 꾸준한 자금 유입을 기대하게 합니다.",
+    "action_point": "은퇴 자산의 장기적 성장 수요를 반영하여 국내외 자산운용 섹터와 글로벌 성장주 포트폴리오 비중 유지 또는 확대를 검토하라."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Stocks making the biggest moves premarket: Trump Media, Tesla, CoreWeave, Novo Nordisk and more",
+    "title_ko": "프리마켓에서 가장 큰 움직임을 보이는 주식들: 트럼프 미디어, 테슬라, 코어위브, 노보 노디스크 등",
+    "link": "https://www.cnbc.com/2026/11/04/stocks-making-the-biggest-moves-premarket-djt-tsla-crwv-nvo.html",
+    "published": "Wed, 04 Nov 2026 13:32:54 GMT",
+    "fetched_at": "2026-11-06 06:43:29",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "기술",
+      "헬스케어",
+      "자동차",
+      "미디어"
+    ],
+    "keywords": [
+      "트럼프 미디어",
+      "테슬라",
+      "코어위브",
+      "노보 노디스크",
+      "프리마켓",
+      "개별 주식 변동"
+    ],
+    "reason": "이 뉴스는 프리마켓에서 변동성이 큰 개별 종목들을 나열하며, 시장 전반의 방향성보다는 해당 기업 및 관련 섹터에 대한 투자자들의 단기적인 관심을 유도할 수 있습니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
     "title": "What the Democratic midterms sweep changes for U.S.-China relations",
     "title_ko": "미국 중간선거 민주당 압승이 미-중 관계에 미치는 변화",
     "link": "https://www.cnbc.com/2026/11/05/what-the-democrat-midterms-sweep-changes-for-us-china-tech-rivalry.html",
@@ -2897,106 +3000,5 @@
     ],
     "reason": "유로존 경제 성장 둔화와 프랑스의 위축은 주요 경제권의 수요 약화와 경기 침체 위험을 시사하며, 이는 글로벌 경제 성장 전망과 기업 이익에 부정적인 영향을 미칠 수 있습니다.",
     "action_point": "유럽 익스포저가 높은 수출주 및 경기민감주 비중 축소를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Chevron beats earnings expectations as refining profits soar on high diesel fuel prices",
-    "title_ko": "셰브론, 정제 이익 급증과 높은 디젤 연료 가격에 힘입어 예상 실적 상회",
-    "link": "https://www.cnbc.com/2026/10/30/chevron-exxon-cvx-xom-earnings-q3-2026.html",
-    "published": "Fri, 30 Oct 2026 10:21:33 GMT",
-    "fetched_at": "2026-10-30 19:35:43",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "정유"
-    ],
-    "keywords": [
-      "셰브론",
-      "정유",
-      "디젤",
-      "유가",
-      "지정학"
-    ],
-    "reason": "우크라이나 및 이란의 정유시설 공격으로 글로벌 디젤 공급이 제약되고 가격이 급등하여, 셰브론과 같은 에너지 기업의 정제 마진 및 이익이 크게 개선되는 추세가 확인되었습니다. 이는 지정학적 리스크가 에너지 시장에 미치는 영향이 심화되고 있음을 보여줍니다.",
-    "action_point": "글로벌 지정학적 리스크로 인한 에너지 가격 상승 수혜주(특히 정유 및 에너지 탐사/생산 관련주)에 대한 투자 비중 확대를 검토하십시오."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "(설명) 서울경제, 임금총액 8% 매달 적립…\"운영자금도 묶일 판\" 기사 등 관련 - 대한민국 정책브리핑",
-    "title_ko": "(설명) 서울경제, 임금총액 8% 매달 적립…\"운영자금도 묶일 판\" 기사 등 관련 - 대한민국 정책브리핑",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBGeWh5VExLejZfbUZyaEVJc2QyZlR6amwzRnhBZFBMWl9UVnprUTB4LUVJeF9QcEFjcnJjWTJtWnVHYXY5d0VETG85eXZmNGNEMFdVMTZXaVl0MGdvZkNPTGdPTU9TSGl0b3M2OUhpQQ?oc=5",
-    "published": "Fri, 30 Oct 2026 09:58:36 GMT",
-    "fetched_at": "2026-10-30 19:36:10",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "전반적 기업",
-      "노동집약적 산업",
-      "중소기업",
-      "내수 관련 산업"
-    ],
-    "keywords": [
-      "임금",
-      "노동비용",
-      "기업 자금",
-      "유동성",
-      "정책",
-      "규제"
-    ],
-    "reason": "임금총액의 8%를 의무적으로 적립하게 되면 기업의 고정비용이 증가하고 운영자금이 묶여 유동성이 악화될 수 있습니다. 이는 전반적인 기업 수익성 하락과 투자 위축으로 이어질 수 있는 국내 거시경제에 대한 잠재적 악재입니다.",
-    "action_point": "노동비용 증가 및 기업 유동성 악화 가능성을 감안하여 국내 노동집약적 산업 및 중소형주 비중 축소를 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[경제읽기] 알파벳 시총 하루 새 669조 증발…코스피도 급락 - 연합뉴스TV",
-    "title_ko": "[경제읽기] 알파벳 시총 하루 새 669조 증발…코스피도 급락",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBMZEhEZE4xT1oyYzhKQ2VSdFVDcXpLZzR2VEZMWXd3bVE0R3JqdmVjN1drazNxY0JjWWw1d0NmN3dUaXM5b1FyZ05rd2ZiN3k4dVUyRlJBSzZScFU3cjFwRHFrdndoNEU?oc=5",
-    "published": "Fri, 30 Oct 2026 04:01:00 GMT",
-    "fetched_at": "2026-10-30 19:36:26",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "기술 (Technology)",
-      "인터넷 (Internet)",
-      "소프트웨어 (Software)",
-      "IT"
-    ],
-    "keywords": [
-      "알파벳",
-      "시가총액",
-      "코스피",
-      "기술주",
-      "글로벌 증시"
-    ],
-    "reason": "알파벳의 대규모 시가총액 증발은 글로벌 기술주 전반의 투자심리 위축을 시사하며, 이는 국내 증시의 기술주 섹터 및 전반적인 시장 하락 압력으로 작용할 수 있습니다. 성장주 전반의 밸류에이션 재평가 가능성을 높입니다.",
-    "action_point": "글로벌 기술주 및 성장주에 대한 투자 비중을 재검토하고, 포트폴리오의 방어적 자산 비중 확대를 고려하십시오."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[2026 경기 재정브리프] ① 경기도 재정위기 선언 배경 - 경기도뉴스포털",
-    "title_ko": "[2026 경기 재정브리프] ① 경기도 재정위기 선언 배경",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWm02c05telp2eWpxNE5zRUpaYWVIM2F1bER0YWM3c3c0WUpEaGtfS2dRbnd4Z2t4N21SU25DOEc4bFVuYTdITERZRHVtdHFrcWoxenVibWhfSy1vNHpEU1lPeGszRGlHLXM4MDlVX0xpdUVNclIyR2tOUEUtYnJOeGUzN3JGV3A1RS1RVg?oc=5",
-    "published": "Fri, 30 Oct 2026 07:02:00 GMT",
-    "fetched_at": "2026-10-30 19:36:35",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "건설",
-      "부동산",
-      "금융"
-    ],
-    "keywords": [
-      "경기도",
-      "재정위기",
-      "지방재정",
-      "재정건전성"
-    ],
-    "reason": "대한민국 최대 광역지자체인 경기도의 재정위기 선언 배경 뉴스는 공공 지출 축소, 인프라 사업 지연 등으로 이어져 관련 산업 위축 및 지역 경제 전반에 부정적 영향을 미칠 수 있습니다.",
-    "action_point": "경기도 지방채 및 경기도 내 개발 사업 의존도가 높은 건설, 부동산 섹터 자산에 대한 투자 익스포저를 점검하고 조정 고려."
   }
 ]
