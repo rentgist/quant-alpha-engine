@@ -1,5 +1,107 @@
 [
   {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says",
+    "title_ko": "미국인들은 '고인플레이션의 쳇바퀴'에 있고, 추가 금리 인상이 가능성 높다 - 샌프란시스코 연은 총재 데일리 발언",
+    "link": "https://www.cnbc.com/2026/11/06/fed-daly-interest-rates-inflation.html",
+    "published": "Fri, 06 Nov 2026 19:05:00 GMT",
+    "fetched_at": "2026-11-07 06:53:20",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "기술주",
+      "부동산",
+      "성장주",
+      "금융"
+    ],
+    "keywords": [
+      "인플레이션",
+      "금리인상",
+      "연준",
+      "매리 데일리"
+    ],
+    "reason": "연준 고위 인사의 매파적 발언은 견조한 고용 시장에도 불구하고 인플레이션 압력이 지속되어 추가 금리 인상 가능성을 높임을 시사합니다. 이는 고금리 환경 장기화에 대한 시장 우려를 증폭시킬 것입니다.",
+    "action_point": "미국 고금리 장기화에 대비하여 성장주 비중 축소를 검토하고, 금리 상승에 강한 방어적 섹터 또는 가치주로의 전환을 고려하라."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "The AI ‘credit card’ is getting costlier as CoreWeave bond yield tops 16%",
+    "title_ko": "AI '신용카드' 비용 증가: CoreWeave 채권 수익률 16% 상회",
+    "link": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+    "published": "Fri, 06 Nov 2026 17:09:53 GMT",
+    "fetched_at": "2026-11-07 06:53:29",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "기술",
+      "반도체",
+      "클라우드 컴퓨팅",
+      "금융"
+    ],
+    "keywords": [
+      "AI",
+      "데이터센터",
+      "채권수익률",
+      "신용경색",
+      "성장둔화"
+    ],
+    "reason": "AI 인프라 기업의 높은 채권 수익률은 AI 관련 채권 시장의 스트레스와 데이터센터 투자 둔화 우려를 반영합니다. 이는 AI 관련 기업들의 자금 조달 비용 상승으로 이어져 전반적인 AI 투자 및 성장 속도에 부정적인 영향을 미칠 수 있습니다.",
+    "action_point": "AI 인프라 관련 기업들의 재무 건전성 및 자금 조달 리스크를 점검하고, 고밸류에이션 AI 테마주에 대한 투자 비중을 재고하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "“혼자 늙는 것도 서러운데, 다 가져가야만 했냐”…고령 1인가구 보험료 ‘쑥’",
+    "title_ko": "“혼자 늙는 것도 서러운데, 다 가져가야만 했냐”…고령 1인가구 보험료 ‘쑥’",
+    "link": "https://www.mk.co.kr/news/economy/12201283",
+    "published": "Sat, 07 Nov 2026 05:59:47 +09:00",
+    "fetched_at": "2026-11-07 06:53:57",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "보험",
+      "헬스케어",
+      "소비재"
+    ],
+    "keywords": [
+      "고령 1인가구",
+      "보험료",
+      "가계부담",
+      "소비 위축"
+    ],
+    "reason": "고령 1인 가구의 가처분 소득 감소는 해당 계층의 소비 여력을 위축시키고, 장기적으로 고령화 관련 보험 상품 설계 및 사회 복지 지출 압력 증가로 이어질 수 있습니다.",
+    "action_point": "고령층 가처분소득 감소에 따른 국내 소비재 섹터의 실적 하방 위험을 점검하라."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Stocks making the biggest moves premarket: Shake Shack, Wendy's, Peloton, Unity Software & more",
+    "title_ko": "개장 전 가장 큰 변동을 보이는 종목들: 쉐이크쉑, 웬디스, 펠로톤, 유니티 소프트웨어 외",
+    "link": "https://www.cnbc.com/2026/11/05/stocks-making-the-biggest-moves-premarket-shak-wen-pton-u.html",
+    "published": "Thu, 05 Nov 2026 13:17:00 GMT",
+    "fetched_at": "2026-11-07 06:53:37",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "외식",
+      "소비재",
+      "기술"
+    ],
+    "keywords": [
+      "개장 전",
+      "주식 변동",
+      "개별 종목",
+      "쉐이크쉑",
+      "웬디스",
+      "펠로톤",
+      "유니티 소프트웨어"
+    ],
+    "reason": "이 뉴스는 특정 기업들의 개장 전 주가 변동을 알리는 것으로, 전반적인 시장 방향이나 거시 경제적 흐름을 대변하지 않습니다. 개별 기업 이슈에 집중하고 있습니다.",
+    "action_point": "해당 없음. 이 뉴스는 특정 개별 종목의 단기적 움직임을 나타낼 뿐, 대장님의 전체 포트폴리오 전략에 영향을 미칠 거시적 시사점을 제공하지 않습니다."
+  },
+  {
     "source": "Maeil_Business",
     "market": "KR",
     "title": "[속보] 美 10월 고용 16만5000명 ‘깜짝 증가’…실업률 4.1%로 하락",
@@ -2913,105 +3015,5 @@
     ],
     "reason": "트럼프의 '전쟁 종식' 발언에도 불구하고 국제 정세의 불확실성이 커지며 지정학적 리스크가 고조될 가능성을 시사한다. 이는 원자재 가격 변동성 확대 및 글로벌 증시의 위험 회피 심리를 자극할 수 있다.",
     "action_point": "지정학적 리스크 확대 가능성에 대비하여 방산 및 원자재 관련 자산 비중 확대를 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[속보]서울 아파트 입주 물량 '급감' - 한경매거진",
-    "title_ko": "[속보]서울 아파트 입주 물량 '급감' - 한경매거진",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5palExUlhoRW03aUN4ampjVE5KUjl1eWhkb2tKMEZwNV9NanhzRFpCdWxvc2FnUU44TmNQSHJmRVVRTEZ6REt0NW5KM1NSX1BYZW1ka3ZfSHhaSkpGeEJhZExOMDdQR3QwTkQ2ZQ?oc=5",
-    "published": "Sat, 31 Oct 2026 05:57:00 GMT",
-    "fetched_at": "2026-10-31 16:45:48",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "부동산",
-      "건설",
-      "금융"
-    ],
-    "keywords": [
-      "서울 아파트",
-      "입주 물량",
-      "주택 공급",
-      "부동산 시장"
-    ],
-    "reason": "서울 아파트 입주 물량 급감은 향후 수도권 주택 공급 부족 심화를 예고하며, 이는 중장기적으로 서울 핵심 지역 아파트 가격의 상승 압력으로 작용할 가능성이 높습니다.",
-    "action_point": "서울 핵심 입지 아파트 비중 유지 및 보유 부동산 자산의 가치 재평가를 진행하십시오."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Who's liable when AI agents break the rules?",
-    "title_ko": "AI 에이전트가 규칙을 위반할 때 누가 책임지는가?",
-    "link": "https://www.cnbc.com/video/2026/10/30/ai-rogue-agents-liability-work.html",
-    "published": "Fri, 30 Oct 2026 18:43:30 GMT",
-    "fetched_at": "2026-10-31 16:45:16",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "기술",
-      "소프트웨어",
-      "금융서비스",
-      "법률/보험"
-    ],
-    "keywords": [
-      "AI 에이전트",
-      "책임",
-      "규제",
-      "법적 리스크",
-      "보안"
-    ],
-    "reason": "AI 에이전트 활용 증가는 기업의 생산성을 높이지만, 통제 불능 시 책임 소재의 불분명으로 기업의 법적 및 재무적 리스크가 증대될 수 있습니다. 이는 AI 관련 기술 기업의 투자 심리에 부정적 영향을 미칠 가능성이 있습니다.",
-    "action_point": "AI 기술 의존도가 높은 기업 투자 시 잠재적 법적 책임 및 규제 리스크를 심층 분석하고 포트폴리오 비중을 조정하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Meta outlook revised downward by S&P on cash flow and capex concerns",
-    "title_ko": "S&P, 메타(Meta)의 현금 흐름 및 자본 지출 우려로 전망 하향 조정",
-    "link": "https://www.cnbc.com/2026/10/30/meta-outlook-to-revised-to-negative-by-sp-after-cash-flow-negative.html",
-    "published": "Fri, 30 Oct 2026 22:42:26 GMT",
-    "fetched_at": "2026-10-31 16:45:24",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "기술주",
-      "성장주",
-      "소셜 미디어",
-      "메타버스"
-    ],
-    "keywords": [
-      "Meta",
-      "S&P",
-      "전망 하향",
-      "현금 흐름",
-      "자본 지출"
-    ],
-    "reason": "S&P의 메타 전망 하향 조정은 거대 기술 기업의 높은 자본 지출과 현금 흐름 압박에 대한 우려를 반영하며, 이는 기술 성장주 전반에 대한 투자 심리를 위축시킬 수 있습니다. 특히 미래 성장 동력에 대한 막대한 투자가 단기 실적 부담으로 이어질 수 있음을 시사합니다.",
-    "action_point": "과도한 자본 지출과 부진한 현금 흐름을 보이는 기술 성장주에 대한 비중 축소를 검토하십시오."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "“누가 삼전닉스에 물릴 것을 걱정하랴” … 오히려 매수할 시기 딱 나왔다",
-    "title_ko": "누가 삼전닉스에 물릴 것을 걱정하랴” … 오히려 매수할 시기 딱 나왔다",
-    "link": "https://www.mk.co.kr/news/business/12192441",
-    "published": "Sat, 31 Oct 2026 15:56:52 +09:00",
-    "fetched_at": "2026-10-31 16:46:10",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "반도체",
-      "IT하드웨어"
-    ],
-    "keywords": [
-      "반도체",
-      "메모리 반도체",
-      "삼성전자",
-      "SK하이닉스",
-      "투자전략"
-    ],
-    "reason": "메모리 반도체 시장의 변화를 강조하며 주요 반도체 기업에 대한 과거의 회의론을 불식시키고 매수 기회임을 시사합니다. 이는 국내 증시의 핵심 섹터에 대한 긍정적 투자 심리를 자극할 수 있습니다.",
-    "action_point": "반도체 섹터에 대한 포트폴리오 비중 확대를 검토하라."
   }
 ]
