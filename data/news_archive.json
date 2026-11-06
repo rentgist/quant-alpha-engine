@@ -2,6 +2,30 @@
   {
     "source": "CNBC_Finance",
     "market": "US",
+    "title": "Nasdaq drops into correction territory — here’s what typically happens next",
+    "title_ko": "나스닥, 조정 국면 진입 — 역사적으로 다음에는 어떤 일이 벌어질까?",
+    "link": "https://www.cnbc.com/2026/11/05/nasdaq-drops-into-correction-territory-heres-what-typically-happens-next.html",
+    "published": "Thu, 05 Nov 2026 22:31:24 GMT",
+    "fetched_at": "2026-11-06 10:55:46",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "기술주",
+      "성장주",
+      "전반적인 주식 시장"
+    ],
+    "keywords": [
+      "나스닥",
+      "주식 조정",
+      "기술주",
+      "시장 변동성"
+    ],
+    "reason": "나스닥의 조정 국면 진입은 기술주 및 성장주에 대한 투자심리를 위축시키고 단기적인 시장 변동성 확대를 야기할 수 있습니다. 과거 사례를 통한 회복 가능성도 있으나, 당장은 포트폴리오의 위험 관리가 중요합니다.",
+    "action_point": "기술주 및 성장주에 대한 포트폴리오 비중을 점검하고, 변동성 확대에 대비한 리스크 관리를 강화하라."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
     "title": "Barkin sees interest rate hikes ahead, but at a gradual pace",
     "title_ko": "바킨 총재, 금리 인상 지속 시사하나 완만한 속도 예상",
     "link": "https://www.cnbc.com/2026/11/05/barkin-sees-interest-rate-hikes-ahead-but-at-a-gradual-pace.html",
@@ -2976,29 +3000,5 @@
     ],
     "reason": "거대 기술 기업의 AI 투자 효율성에 대한 시장의 의구심이 커지며, 기술주 전반의 성장성에 대한 재평가를 촉발할 수 있다.",
     "action_point": "과도한 AI 투자 비중을 가진 기술주 및 반도체 섹터 비중 축소 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Euro zone economy slows to 0.4% growth in Q3 as crisis-hit France contracts",
-    "title_ko": "유로존 경제, 3분기 0.4% 성장 둔화…위기 직면한 프랑스 위축",
-    "link": "https://www.cnbc.com/2026/10/30/euro-zone-gdp-france.html",
-    "published": "Fri, 30 Oct 2026 10:23:46 GMT",
-    "fetched_at": "2026-10-30 19:35:36",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "수출주",
-      "경기민감주",
-      "금융업"
-    ],
-    "keywords": [
-      "유로존",
-      "경제 둔화",
-      "프랑스 위축",
-      "경기 침체 우려"
-    ],
-    "reason": "유로존 경제 성장 둔화와 프랑스의 위축은 주요 경제권의 수요 약화와 경기 침체 위험을 시사하며, 이는 글로벌 경제 성장 전망과 기업 이익에 부정적인 영향을 미칠 수 있습니다.",
-    "action_point": "유럽 익스포저가 높은 수출주 및 경기민감주 비중 축소를 검토하라."
   }
 ]
