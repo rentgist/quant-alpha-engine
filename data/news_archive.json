@@ -1,5 +1,172 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Risk of Iran war escalation remains high despite Democratic sweep in U.S. midterm elections",
+    "title_ko": "미국 중간선거 민주당 압승에도 이란 전쟁 확전 위험 여전히 높아",
+    "link": "https://www.cnbc.com/2026/11/07/iran-war-midterm-election-oil-price-trump.html",
+    "published": "Sat, 07 Nov 2026 13:03:12 GMT",
+    "fetched_at": "2026-11-07 23:47:01",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "에너지",
+      "방산",
+      "글로벌 증시"
+    ],
+    "keywords": [
+      "이란",
+      "중동",
+      "지정학",
+      "전쟁",
+      "유가",
+      "위험회피"
+    ],
+    "reason": "중동 지역의 지정학적 긴장 고조는 국제 유가 상승 압력을 가하고, 투자자들의 위험 회피 심리를 자극하여 전반적인 금융 시장에 하방 압력으로 작용할 수 있습니다. 특히 이란 관련 이슈는 에너지 공급망 불안정을 심화시킵니다.",
+    "action_point": "중동 지정학적 긴장 고조에 따른 국제 유가 급등 가능성에 대비하여 에너지 관련 자산 비중을 확대하고 방어적 자산(금, 달러) 보유를 강화하라."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
+    "title_ko": "버크셔 해서웨이, 3분기 실적 감소에도 자사주 매입 두 배 이상 확대",
+    "link": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html",
+    "published": "Sat, 07 Nov 2026 14:02:49 GMT",
+    "fetched_at": "2026-11-07 23:46:55",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "금융",
+      "지주회사"
+    ],
+    "keywords": [
+      "버크셔 해서웨이",
+      "자사주 매입",
+      "실적",
+      "주주환원"
+    ],
+    "reason": "버크셔 해서웨이의 자사주 매입 확대는 실적 부진에도 불구하고 경영진이 자사 주가를 저평가로 판단하고 주주환원에 집중함을 시사한다. 이는 개별 기업의 주가 방어 및 주주가치 제고에 긍정적이나, 광범위한 시장에 미치는 매크로 영향은 제한적이다.",
+    "action_point": "시장 변동성 속에서 자사주 매입 여력이 있는 견고한 현금 흐름의 우량 가치주에 대한 관심을 유지."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Why a wave of bomb threats is proving so difficult for Europe's aviation authorities to contain",
+    "title_ko": "유럽 항공 당국이 폭탄 위협의 물결을 막기 어려운 이유",
+    "link": "https://www.cnbc.com/2026/11/07/hoax-bomb-threats-flights-europe.html",
+    "published": "Sat, 07 Nov 2026 09:01:57 GMT",
+    "fetched_at": "2026-11-07 23:47:08",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "항공",
+      "여행",
+      "관광",
+      "보험"
+    ],
+    "keywords": [
+      "항공 보안",
+      "테러 위협",
+      "유럽 항공",
+      "여행 산업"
+    ],
+    "reason": "유럽 항공 보안 취약성 노출은 항공사들의 운영 비용 증가 및 운항 차질을 유발하고, 승객 불안감 증폭으로 항공 및 여행 산업 전반의 수요 위축을 초래할 수 있습니다.",
+    "action_point": "유럽 노출 비중이 높은 항공 및 여행 관련 주식의 비중 축소를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Drones are changing warfare. But defense giants are still making billions from old-school weapons",
+    "title_ko": "드론이 전쟁의 양상을 바꾸고 있지만, 방위산업 거대 기업들은 여전히 구식 무기로 수십억 달러를 벌고 있다.",
+    "link": "https://www.cnbc.com/2026/11/06/defense-military-tech-earnings.html",
+    "published": "Fri, 06 Nov 2026 10:39:51 GMT",
+    "fetched_at": "2026-11-07 23:47:17",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "방위산업",
+      "항공우주"
+    ],
+    "keywords": [
+      "방위산업",
+      "전통무기",
+      "드론",
+      "전쟁",
+      "AI"
+    ],
+    "reason": "드론과 AI의 부상에도 불구하고 전통적인 군사 장비에 대한 전 세계적 수요가 견고함을 시사하여, 기존 방위산업 기업들의 매출 및 수익 안정성이 지속될 것으로 보인다.",
+    "action_point": "방위산업 섹터 내 전통 장비 제조 기업 비중 유지 또는 확대 검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "F-35, 곧 유럽산 미티어 장착…美·이란戰 ‘하늘의 전쟁’ 바꿔 韓·日도 장착 가능성 - 문화일보",
+    "title_ko": "F-35, 곧 유럽산 미티어 장착…美·이란戰 ‘하늘의 전쟁’ 바꿔 韓·日도 장착 가능성",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBWbkQxRm5NR3N3RHRMb3VFdV9VX2lHcmYxajdMdWN3c2JLelBxRWx2TmtwQTF1QmxQUVhtOGFFLXJwNi1UU2Q5MVJ1VklrdWc2?oc=5",
+    "published": "Sat, 07 Nov 2026 14:03:10 GMT",
+    "fetched_at": "2026-11-07 23:47:44",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "방위산업"
+    ],
+    "keywords": [
+      "F-35",
+      "미티어",
+      "방위산업",
+      "지정학"
+    ],
+    "reason": "F-35의 성능 강화는 글로벌 방산 시장에 영향을 미치고, 특히 한일 양국의 공군 현대화 및 방위비 증가 가능성을 시사한다. 이는 중동 지역을 포함한 지정학적 긴장도에 미묘한 변화를 줄 수 있다.",
+    "action_point": "F-35 및 미티어 미사일 관련 방위산업 기업들의 실적 및 수주 동향을 면밀히 분석하여 투자 기회를 모색하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "젠슨 황과 중국 여성의 수상한 만남…AI 패권전쟁에 등장한 ‘미인계’ - 재외동포신문",
+    "title_ko": "젠슨 황과 중국 여성의 수상한 만남…AI 패권전쟁에 등장한 ‘미인계’",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE92ZGFOR0VZcWpVNy1BenZSbm92OGs1LWplWk5XM0xIUU5XV1JyaHNMcFdCOTgyYXVSS0poQWFpT0ZVN3RQY0tmM2gxb2FsM1NUVVJDbmo5RVA3VVd1cW1jQ1VyTk1BRGtsdl8tYQ?oc=5",
+    "published": "Sat, 07 Nov 2026 10:16:42 GMT",
+    "fetched_at": "2026-11-07 23:47:53",
+    "sentiment": "악재",
+    "importance": 2,
+    "sectors": [
+      "AI",
+      "반도체",
+      "IT하드웨어"
+    ],
+    "keywords": [
+      "젠슨 황",
+      "AI",
+      "미중 패권",
+      "반도체",
+      "지정학적 리스크"
+    ],
+    "reason": "이 기사는 미중 AI 패권 경쟁의 심화와 기술 탈취 시도 가능성을 시사하며, 이는 글로벌 기술 공급망의 불확실성을 높이고 관련 기업들의 지정학적 리스크를 부각할 수 있습니다.",
+    "action_point": "미중 기술 패권 경쟁에 노출된 AI 및 반도체 섹터 기업에 대한 지정학적 리스크 평가를 강화하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "‘당내 갈등·지지율 정체’ 김민석 체제, 반등의 조건은",
+    "title_ko": "‘당내 갈등·지지율 정체’ 김민석 체제, 반등의 조건은",
+    "link": "https://www.mk.co.kr/news/politics/12201542",
+    "published": "Sat, 07 Nov 2026 22:12:43 +09:00",
+    "fetched_at": "2026-11-07 23:48:10",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [],
+    "keywords": [
+      "당내 갈등",
+      "지지율",
+      "더불어민주당",
+      "국민의힘",
+      "총선",
+      "민생"
+    ],
+    "reason": "국내 주요 정당의 내부 갈등 및 지지율 동향은 향후 총선 결과와 정책 방향에 간접적인 영향을 미칠 수 있으나, 현 시점에서 금융 시장 전반에 미치는 직접적인 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "GoogleNews_Korea",
     "market": "KR",
     "title": "“주식도 코인처럼”…내 자산 어디까지 쪼개질까? [경제한방] - KBS 뉴스",
@@ -2851,176 +3018,5 @@
     ],
     "reason": "가상자산 시장의 고질적인 보안 취약성과 지정학적 사이버 위협을 부각시켜 디지털 자산에 대한 투자심리를 위축시킬 수 있습니다. 또한 글로벌 금융 인프라에 대한 사이버 공격 위험이 상존함을 보여줍니다.",
     "action_point": "가상자산 포트폴리오의 보안 취약성을 점검하고, 고위험 가상자산 비중 축소를 고려하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "G20 foreign ministers end Atlanta meeting without consensus on key issues",
-    "title_ko": "G20 외교장관들, 주요 쟁점 합의 없이 애틀랜타 회의 종료",
-    "link": "https://www.cnbc.com/2026/10/31/g20-foreign-ministers-end-atlanta-meeting-without-consensus-on-issues.html",
-    "published": "Sat, 31 Oct 2026 19:04:28 GMT",
-    "fetched_at": "2026-11-01 07:04:02",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "외교/안보",
-      "글로벌 무역",
-      "원자재"
-    ],
-    "keywords": [
-      "G20",
-      "외교장관",
-      "합의 실패",
-      "지정학적 리스크",
-      "글로벌 협력"
-    ],
-    "reason": "G20 외교장관들의 주요 쟁점 합의 실패는 글로벌 지정학적 불확실성이 지속되고 있음을 보여주며, 국제 공조를 통한 문제 해결이 더욱 어려워질 수 있음을 시사한다. 이는 글로벌 무역 및 투자 환경에 부정적인 영향을 미칠 수 있다.",
-    "action_point": "글로벌 지정학적 리스크 장기화 가능성에 대비하여 방어적 자산군 비중 확대 검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "시티, 중동 리스크로 2027년 유럽 가스 가격 상승 전망 - Investing.com 한국어",
-    "title_ko": "시티, 중동 리스크로 2027년 유럽 가스 가격 상승 전망",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE42c1JNaXBjQ0JuVDM0M0s2TWpPSTdUakh4UGZobEp6c2dKcGk1cjNBQkxjR1dFNmJwUkxOdDFqWHk0NS1oT1J5WlFraXF5OW5wTndzazNwMlo2cDBJekVDWmotM3k0dkk4YmVuZ0o2WQ?oc=5",
-    "published": "Sat, 31 Oct 2026 19:33:00 GMT",
-    "fetched_at": "2026-11-01 07:04:19",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "화학",
-      "제조업",
-      "유틸리티"
-    ],
-    "keywords": [
-      "중동 리스크",
-      "유럽 가스 가격",
-      "에너지",
-      "인플레이션"
-    ],
-    "reason": "시티의 중동 리스크에 따른 유럽 가스 가격 상승 전망은 에너지 시장의 지정학적 프리미엄이 장기화될 수 있음을 시사하며, 이는 유럽 경제의 인플레이션 압력과 생산 비용 증가로 이어져 글로벌 경제 성장 둔화 요인으로 작용할 수 있습니다.",
-    "action_point": "에너지 생산 섹터 비중 확대를 고려하고, 유럽 내 에너지 고의존 섹터의 비중 축소를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "OpenAI pares fundraising goal, now seeking up to $20 billion in latest round",
-    "title_ko": "OpenAI, 최근 자금 조달 목표 하향 조정, 최대 200억 달러 모금 추진",
-    "link": "https://www.cnbc.com/2026/10/31/openai-fundraising-20-billion-valuation.html",
-    "published": "Sat, 31 Oct 2026 19:56:23 GMT",
-    "fetched_at": "2026-11-01 07:04:11",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "기술 (AI 포함)",
-      "벤처 캐피탈"
-    ],
-    "keywords": [
-      "OpenAI",
-      "AI",
-      "자금 조달",
-      "목표 하향",
-      "벤처 캐피탈"
-    ],
-    "reason": "OpenAI의 자금 조달 목표 하향은 AI 산업 전반의 과열된 투자 심리가 조정될 수 있음을 시사하며, 사모 시장에서의 기술 기업 가치 평가에 대한 재고를 촉발할 수 있습니다.",
-    "action_point": "AI 관련 비상장 기업 투자 시 가치 평가 적정성 재점검"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Qatari mediators held talks in Tehran aimed at restarting direct U.S.-Iran negotiations, source says",
-    "title_ko": "카타르 중재자들, 이란 테헤란서 미국-이란 직접 협상 재개 논의",
-    "link": "https://www.cnbc.com/2026/10/31/qatar-iran-us-talks-mediation.html",
-    "published": "Sat, 31 Oct 2026 13:47:03 GMT",
-    "fetched_at": "2026-11-01 03:55:35",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "항공/해운"
-    ],
-    "keywords": [
-      "미국-이란",
-      "중동 정세",
-      "지정학적 리스크",
-      "유가"
-    ],
-    "reason": "이란과 미국 간 직접 협상 재개 논의는 중동 지역의 지정학적 긴장 완화를 의미하며, 이는 글로벌 유가 안정화와 공급망 불확실성 감소에 긍정적인 영향을 미칠 수 있습니다.",
-    "action_point": "중동 정세 불안 완화에 따른 유가 하락 가능성에 대비, 에너지 관련 자산에 대한 투자 비중을 재검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday",
-    "title_ko": "바이낸스, 63억 달러 해킹 손실 90% 복구 완료, 일요일 출금 재개 예정",
-    "link": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
-    "published": "Sat, 31 Oct 2026 18:12:09 GMT",
-    "fetched_at": "2026-11-01 03:55:26",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "암호화폐",
-      "블록체인 기술"
-    ],
-    "keywords": [
-      "바이낸스",
-      "암호화폐 해킹",
-      "손실 복구",
-      "출금 재개",
-      "디지털 자산"
-    ],
-    "reason": "바이낸스의 해킹 손실 복구 및 출금 재개 소식은 암호화폐 시장의 시스템 리스크를 완화하고 투자 심리 회복에 긍정적으로 작용하여 시장 안정화에 기여할 수 있습니다.",
-    "action_point": "암호화폐 관련 포트폴리오의 안정성을 재평가하고, 장기적 관점에서 디지털 자산 비중 조정 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Intel stock plunges 29%. Analysts urge caution on buying the dip",
-    "title_ko": "인텔 주가 29% 폭락, 애널리스트들 저가 매수에 신중론 제기",
-    "link": "https://www.cnbc.com/2026/10/31/intel-not-a-buy-after-drop.html",
-    "published": "Sat, 31 Oct 2026 13:02:22 GMT",
-    "fetched_at": "2026-11-01 03:55:41",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "반도체",
-      "기술주"
-    ],
-    "keywords": [
-      "인텔",
-      "주가 폭락",
-      "반도체",
-      "기술주",
-      "저가 매수"
-    ],
-    "reason": "인텔의 급락은 반도체 섹터 전반의 투자 심리 위축을 야기하며, 특정 기술 분야의 구조적 변화와 이에 따른 기업 가치 재평가 가능성을 시사합니다.",
-    "action_point": "반도체 섹터 중 특히 레거시(Legacy) 반도체 기업에 대한 신중한 접근 또는 비중 축소를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Trump promised to slash energy costs  — but gasoline, diesel and jet fuel all soared instead",
-    "title_ko": "트럼프, 에너지 비용 절감 약속에도 불구하고 휘발유, 경유, 항공유 가격 모두 급등",
-    "link": "https://www.cnbc.com/2026/10/31/trump-gas-diesel-price-midterm-election.html",
-    "published": "Sat, 31 Oct 2026 12:49:58 GMT",
-    "fetched_at": "2026-10-31 23:02:25",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "에너지",
-      "운송",
-      "항공",
-      "소비재"
-    ],
-    "keywords": [
-      "트럼프",
-      "에너지 가격",
-      "인플레이션",
-      "유가",
-      "연료비"
-    ],
-    "reason": "이 기사는 과거 트럼프 행정부 시절 에너지 가격 통제 실패를 지적하며, 이는 향후 미국 대선 결과에 따라 에너지 정책 불확실성과 인플레이션 압력이 지속될 수 있음을 시사합니다.",
-    "action_point": "에너지 가격 상승 압력 지속 가능성에 대비하여 에너지 생산 기업 투자 비중을 검토하거나 인플레이션 헤지 자산을 모색하라."
   }
 ]
