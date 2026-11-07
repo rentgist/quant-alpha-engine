@@ -1,5 +1,82 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Trump says U.S. carried out ‘minor strikes’ on Iran as missiles hit Qeshm Island",
+    "title_ko": "미사일이 켕슘섬을 강타한 후 트럼프, 미군이 이란에 '소규모 타격' 가했다고 밝혀",
+    "link": "https://www.cnbc.com/2026/11/07/trump-us-minor-strikes-iran-qeshm-island.html",
+    "published": "Sat, 07 Nov 2026 07:37:36 GMT",
+    "fetched_at": "2026-11-08 08:15:45",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "에너지",
+      "방산",
+      "해운"
+    ],
+    "keywords": [
+      "미국-이란 갈등",
+      "지정학적 리스크",
+      "호르무즈 해협",
+      "유가",
+      "안전자산"
+    ],
+    "reason": "미국과 이란 간의 군사적 충돌은 핵심 해상 운송로인 호르무즈 해협의 불안정성을 높여 글로벌 원유 공급에 차질을 줄 위험이 있습니다. 이는 유가 급등과 광범위한 투자자들의 위험 회피 심리를 자극할 것입니다.",
+    "action_point": "중동 지정학적 리스크 확대로 인한 유가 급등에 대비하여 에너지 관련 자산 비중 확대를 검토하고, 안전자산 비중을 늘려 포트폴리오의 방어력을 강화하십시오."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Expanding on naval blockade, U.S. military looks to restrict Iranian land commerce",
+    "title_ko": "해상 봉쇄 확대, 미군 이란 육상 무역 제한 추진",
+    "link": "https://www.cnbc.com/2026/11/07/iran-us-task-force-land-commerce.html",
+    "published": "Sat, 07 Nov 2026 16:56:33 GMT",
+    "fetched_at": "2026-11-08 08:15:53",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "방산",
+      "해운/물류"
+    ],
+    "keywords": [
+      "이란",
+      "미국",
+      "군사",
+      "봉쇄",
+      "지정학",
+      "원유"
+    ],
+    "reason": "미국의 이란 육상 무역 제한은 중동 지역의 지정학적 긴장을 고조시키고, 이란의 원유 및 기타 자원 수출에 대한 압박을 심화시켜 글로벌 에너지 시장에 불확실성을 가중시킬 수 있습니다. 이는 공급망 불안과 유가 상승 압력으로 이어질 가능성이 있습니다.",
+    "action_point": "중동 지정학적 위험 고조에 따른 국제 유가 상승 가능성을 고려하여 에너지 및 방산 관련 자산 비중 확대를 검토하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "“미국 물가부터 옵션 만기까지”…다음 주 증시 변수, 미리 대비하려면",
+    "title_ko": "“미국 물가부터 옵션 만기까지”…다음 주 증시 변수, 미리 대비하려면",
+    "link": "https://www.mk.co.kr/news/stock/12201573",
+    "published": "Sun, 08 Nov 2026 08:08:16 +09:00",
+    "fetched_at": "2026-11-08 08:16:09",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "IT/반도체",
+      "주식시장 전반",
+      "금융"
+    ],
+    "keywords": [
+      "미국 CPI",
+      "국채금리",
+      "환율",
+      "AI 투자",
+      "옵션 만기",
+      "변동성"
+    ],
+    "reason": "다음 주 미국 CPI, 코어위브 실적, 국내 옵션 만기 등 주요 변수들이 대기하고 있어 국채금리, 환율, AI 관련 기술주에 대한 투자심리 및 시장 변동성을 크게 확대시킬 것으로 예상됩니다.",
+    "action_point": "미국 CPI 발표 전까지 현금 비중을 늘리고, CPI 결과에 따른 금리 및 환율 변동성을 주시하며 포트폴리오 리스크를 관리하라."
+  },
+  {
     "source": "GoogleNews_Korea",
     "market": "KR",
     "title": "국내경제 불확실성 확대 우려…美 ‘관세·투자 압박’ 거세질듯 - 농민신문",
@@ -2943,81 +3020,5 @@
     ],
     "reason": "유럽 주요국에서 지속적이고 광범위하게 확산되는 시위는 사회 불안과 잠재적 정치적 불확실성을 증대시킵니다. 이는 해당 지역의 소비 심리 위축 및 경제 활동 위축으로 이어져 유럽 경제 전반에 부정적인 영향을 미칠 수 있습니다.",
     "action_point": "유럽 경제의 불안정성 증가 가능성에 대비하여 유로화 및 유럽 증시 관련 자산의 비중 조정을 고려."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "OPEC+ agrees in principle to keep oil output targets steady in December, sources say",
-    "title_ko": "OPEC+, 12월에도 원유 생산량 목표치 동결에 원칙적 합의 (소식통)",
-    "link": "https://www.cnbc.com/2026/10/31/opec-oil-output-targets-december.html",
-    "published": "Sat, 31 Oct 2026 22:44:11 GMT",
-    "fetched_at": "2026-11-01 17:26:18",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "항공",
-      "화학",
-      "운송"
-    ],
-    "keywords": [
-      "OPEC+",
-      "원유 생산량",
-      "유가",
-      "에너지 공급",
-      "인플레이션"
-    ],
-    "reason": "OPEC+의 12월 원유 생산량 목표치 동결 합의는 유가 안정화 기조를 유지하되, 걸프 국가들의 실제 수출량 증가 가능성은 유가에 미약한 하방 압력을 가할 수 있습니다. 이는 전반적인 인플레이션 압력 완화 및 경기 회복 기대감에 긍정적으로 작용할 수 있습니다.",
-    "action_point": "유가 안정화로 인한 인플레이션 압력 완화 가능성을 고려하여, 비용 절감 수혜 기업 또는 경기 민감주에 대한 비중 확대를 검토하십시오."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "“中제조업 탈중국... 韓도 베트남 쏠림 해소해야”",
-    "title_ko": "“中제조업 탈중국... 韓도 베트남 쏠림 해소해야”",
-    "link": "https://www.mk.co.kr/news/business/12192884",
-    "published": "Sun, 01 Nov 2026 17:26:31 +09:00",
-    "fetched_at": "2026-11-01 17:26:57",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "제조업",
-      "IT/전자",
-      "산업재",
-      "신흥국"
-    ],
-    "keywords": [
-      "탈중국",
-      "공급망 재편",
-      "동남아시아",
-      "제조업 다변화"
-    ],
-    "reason": "글로벌 제조업의 탈중국 공급망 재편 흐름 속에서 한국 기업의 전략적 다변화 필요성을 강조한다. 이는 공급망 리스크 감소와 장기적인 산업 안정성 확보에 기여할 수 있으나, 단기적으로는 신규 투자 및 재편 비용을 수반할 수 있다.",
-    "action_point": "글로벌 공급망 재편 수혜가 예상되는 동남아시아 신흥국 자산 및 국내 제조업체 중 공급망 다변화에 성공적인 기업 비중 확대를 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "외교까지 목소리 내는 오세훈 \"한미동맹 살얼음판‥정부가 위기 키워\" - MBC 뉴스",
-    "title_ko": "외교까지 목소리 내는 오세훈 \"한미동맹 살얼음판‥정부가 위기 키워\" - MBC 뉴스",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE12S1d3LVFhUTFlSl90bUZTM2RPNEpVVUwyb3FkYlgySFNvTU1FUUdoUHMzMEF2Z2RLSjNMcEQtOHNMeGtWN25heWE4cDRCLVlKeDVtN0s0d2Q0VDAxWVRpTnljWEFKbGFyN3lqNjhuMlFEMjZCMEFNVg?oc=5",
-    "published": "Sun, 01 Nov 2026 06:31:20 GMT",
-    "fetched_at": "2026-11-01 17:26:41",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "전반적 시장",
-      "외국인 투자 민감 섹터",
-      "방위산업"
-    ],
-    "keywords": [
-      "한미동맹",
-      "외교정책",
-      "정치적 리스크",
-      "지정학적 불안정",
-      "국내 정치"
-    ],
-    "reason": "오세훈 시장의 발언은 현 정부의 외교 정책에 대한 우려를 표명하며, 한미동맹 약화 가능성을 시사합니다. 이는 한국의 지정학적 리스크를 증대시키고, 국내외 투자자들의 불확실성을 높일 수 있습니다.",
-    "action_point": "지정학적 리스크 노출도가 높은 자산에 대한 점검 및 비중 조절을 고려하고, 원화 변동성 확대 가능성에 대비해 달러 등 안전자산 비중을 유지하라."
   }
 ]
