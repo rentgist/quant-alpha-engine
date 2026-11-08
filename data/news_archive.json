@@ -1,5 +1,76 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Nvidia investigates CEO Jensen Huang's relationship with alleged Chinese spy",
+    "title_ko": "엔비디아, 젠슨 황 CEO와 중국 스파이 의혹 인물 관계 조사 착수",
+    "link": "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html",
+    "published": "Sun, 08 Nov 2026 20:50:54 GMT",
+    "fetched_at": "2026-11-09 05:53:29",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "반도체",
+      "기술"
+    ],
+    "keywords": [
+      "엔비디아",
+      "젠슨 황",
+      "중국",
+      "스파이",
+      "지정학"
+    ],
+    "reason": "엔비디아 CEO와 중국 스파이 의혹 연루 조사는 미중 기술 갈등을 심화시키고 엔비디아의 규제 리스크를 높여 글로벌 반도체 공급망과 AI 섹터 투자심리에 부정적 영향을 미칠 수 있습니다.",
+    "action_point": "AI 및 반도체 섹터 비중 조정을 검토하고 관련 지정학적 리스크를 주시하십시오."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "밴스-헤그세스-루비오, 이란전 다른 목소리… “전쟁 끝내야” vs “공습 재개” vs “경제 제재” - 동아일보",
+    "title_ko": "밴스-헤그세스-루비오, 이란전 다른 목소리… “전쟁 끝내야” vs “공습 재개” vs “경제 제재”",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBicXRuRC1LbEhjNkhKemNlRG1za1o5NFhiU2ZXX05mV2k4V1NJUEllTkpIc2hJRjltTDZMRWQ2NkNiU1ltS0JZREFPZTZpT0loZlUwZFdWTDh0MHdJdm5uNmg5NGZWUG1CQjJIcE5tTjBnb0XSAWZBVV95cUxPdXItVFR4WjlSSDQ0V0JTa09KVjI5X0lMZHc1aHhkYkduejlMdXczZTdUN0RSczh0RnJwQnpsNHgyMHpXaVpmb282dVpxVDVjSmpzZWRYbjdFQ1dKRGYtX09qUUhNbHc?oc=5",
+    "published": "Sun, 08 Nov 2026 19:30:00 GMT",
+    "fetched_at": "2026-11-09 05:53:54",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "방산",
+      "해운"
+    ],
+    "keywords": [
+      "이란",
+      "미국 정치",
+      "지정학",
+      "원유"
+    ],
+    "reason": "미국 정치권 내 이란 관련 갈등 해법에 대한 이견은 중동 지역의 지정학적 불확실성을 가중시키며, 국제 유가, 해운 물류 및 전반적인 시장 심리에 변동성을 유발할 수 있습니다. 특히 공습 재개나 경제 제재 강화 논의는 시장에 악재로 작용할 가능성이 있습니다.",
+    "action_point": "중동 지정학적 리스크 심화 가능성에 대비하여 에너지 관련 자산 및 방산 섹터 투자 비중을 점검하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "These funds tout hefty income tied to the tech trade – if you’re willing to deal with the complexity",
+    "title_ko": "복잡성을 감수한다면 기술주 거래로 상당한 수익을 제공하는 펀드들",
+    "link": "https://www.cnbc.com/2026/11/08/autocallable-etfs-tech-income-risks.html",
+    "published": "Sun, 08 Nov 2026 11:50:18 GMT",
+    "fetched_at": "2026-11-09 05:53:41",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "기술 섹터",
+      "자산운용 섹터"
+    ],
+    "keywords": [
+      "기술주",
+      "ETF",
+      "고수익",
+      "복합상품"
+    ],
+    "reason": "기술주와 연계된 고수익 추구 신규 ETF의 등장은 자산운용 시장의 상품 다변화 추세를 보여줍니다. 이는 특정 투자자들에게 새로운 투자 기회를 제공하지만, 시장 전반의 매크로 흐름에 미치는 영향은 제한적입니다.",
+    "action_point": "기술주 연계 고수익 ETF의 복잡성과 리스크를 철저히 분석하고 포트폴리오 편입 적정성을 검토."
+  },
+  {
     "source": "GoogleNews_Korea",
     "market": "KR",
     "title": "미 ‘데이터센터 건설’ 규제…한국에 기회? 리스크? - 경향신문",
@@ -2919,80 +2990,6 @@
       "소비 진작"
     ],
     "reason": "KG모빌리티의 특정 차종 판매 촉진을 위한 단기 할인 행사로, 기업 실적에 단기적 영향을 줄 수 있으나 전체 자동차 시장 및 거시 경제에 미치는 영향은 제한적이다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Stock futures tick higher ahead of busy week of earnings, jobs data and the midterm elections: Live updates",
-    "title_ko": "주요 기업 실적 발표, 고용 지표, 중간 선거를 앞두고 주식 선물 소폭 상승: 실시간 업데이트",
-    "link": "https://www.cnbc.com/2026/11/01/stock-market-today-live-updates.html",
-    "published": "Sun, 01 Nov 2026 23:22:04 GMT",
-    "fetched_at": "2026-11-02 08:23:11",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "주식 시장 전반",
-      "기술주",
-      "금융주",
-      "경기소비재"
-    ],
-    "keywords": [
-      "주식 선물",
-      "기업 실적",
-      "고용 지표",
-      "중간 선거",
-      "거시 경제",
-      "변동성"
-    ],
-    "reason": "이번 주는 주요 기업 실적, 핵심 고용 지표, 미국 중간 선거 등 시장의 방향성을 결정할 핵심 이벤트들이 집중되어 있어 단기 변동성이 확대될 것으로 예상됩니다. 이 결과들이 향후 경제 및 정책 방향에 대한 중요한 단서를 제공할 것입니다.",
-    "action_point": "주요 이벤트 결과가 나오기 전까지 포트폴리오 내 현금 비중을 점검하고, 미국 중간선거 결과에 따른 정책 수혜/피해 섹터를 선별하십시오."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "정상 경제외교 성과 밀착 관리…산업부·경제단체 4차 TF - 매일경제 마켓",
-    "title_ko": "정상 경제외교 성과 밀착 관리…산업부·경제단체 4차 TF",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZWnVxTk5QcjdsN2VrMW8tMkJnRTBYRldQd3Z4WnN1SWpUMFZKb0drMk9icTJXaHgwbXFENHQ1Ty1aVXdYeU5NNzhaWG01clEwbVE?oc=5",
-    "published": "Sun, 01 Nov 2026 21:00:05 GMT",
-    "fetched_at": "2026-11-02 08:23:26",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "수출주",
-      "산업재",
-      "첨단기술"
-    ],
-    "keywords": [
-      "경제외교",
-      "산업정책",
-      "수출지원",
-      "기업투자"
-    ],
-    "reason": "정부와 경제단체가 경제외교 성과를 구체화하기 위한 노력을 지속하며, 이는 수출 증대, 해외 투자 유치 및 기업 활동 환경 개선으로 이어져 전반적인 경제 활력 제고에 기여할 것으로 예상된다.",
-    "action_point": "경제외교 성과가 기대되는 수출 및 해외 투자 관련 섹터의 비중 확대를 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "위기가구 찾는 약국, 내년도 복지예산에…국회 심의 주목할 점은 - 약사공론",
-    "title_ko": "위기가구 찾는 약국, 내년도 복지예산에…국회 심의 주목할 점은",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxWUhzY1RKeTlQVUo2eFBrZldmMHdjYUVlZktlbExtbGZGR0Nid2thNDZIT3pOdkhTN0I5OEhKMmExRkpNNDg1MHk0amdZbUZ1cXlKeVMyOG1yVWp3Z0k1d3N6aTdNYVRUR09XcQ?oc=5",
-    "published": "Sun, 01 Nov 2026 20:53:00 GMT",
-    "fetched_at": "2026-11-02 08:23:19",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "제약/바이오",
-      "공공서비스"
-    ],
-    "keywords": [
-      "복지예산",
-      "약국",
-      "위기가구",
-      "공공보건"
-    ],
-    "reason": "이 뉴스는 내년도 복지예산 심의와 약국의 공공보건 역할 확대에 대한 것으로, 국내 특정 정책 및 섹터에 국한된 내용입니다. 거시경제 지표나 주요 투자 자산에 미칠 직접적인 영향은 제한적입니다.",
     "action_point": "해당 없음"
   }
 ]
