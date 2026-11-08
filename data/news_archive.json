@@ -1,5 +1,55 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "미 ‘데이터센터 건설’ 규제…한국에 기회? 리스크? - 경향신문",
+    "title_ko": "미 ‘데이터센터 건설’ 규제…한국에 기회? 리스크?",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZNUhMTl9iU2s0ZWZyay1DZWdLXy1fOG0yRUJEZjYyWDFXYkFzVWpZUzVYWGpIR1d1TGF0YjU5dEplVFAzTnFHdnJNY0QyQkFSTmFyMG92UENEUdIBX0FVX3lxTE1kNENLTm5VSDZRNVBndk5jRm02ZEJ0V1lCY0pBWjZ3OE5fU2V5dFV4R2ZTeFBQUEdkQU1pTUdldFV2ZjJRR2xsX21melpOLU5jN2pITS15d1ktS05SaXI4?oc=5",
+    "published": "Sun, 08 Nov 2026 11:26:00 GMT",
+    "fetched_at": "2026-11-09 01:52:03",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "반도체",
+      "전력/에너지",
+      "IT서비스/클라우드",
+      "건설",
+      "부동산"
+    ],
+    "keywords": [
+      "데이터센터",
+      "규제",
+      "AI",
+      "전력",
+      "클라우드"
+    ],
+    "reason": "미국의 데이터센터 건설 규제는 전력 수요 증가 및 환경 이슈에 기인하며, 이는 글로벌 IT 인프라 투자 방향에 변화를 줄 수 있습니다. 한국 시장에는 데이터센터 유치 기회와 AI 반도체 수요 증가 기회로 작용할 수 있으나, 동시에 규제 확산 가능성이라는 리스크도 내포합니다.",
+    "action_point": "미국 데이터센터 규제로 인한 국내 데이터센터 인프라 관련주(전력, 서버, 통신 장비 등) 및 AI 반도체 산업의 수혜 가능성을 주시하고 관련 종목 비중 확대를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Using miles to fly for Thanksgiving? These are the most expensive and cheapest routes",
+    "title_ko": "추수감사절 항공권, 올해 가장 비싸거나 저렴한 노선",
+    "link": "https://www.cnbc.com/2026/11/08/frequent-flyer-miles-points-thanksgiving.html",
+    "published": "Sun, 08 Nov 2026 13:00:01 GMT",
+    "fetched_at": "2026-11-09 01:51:53",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "항공운송",
+      "여행 및 레저"
+    ],
+    "keywords": [
+      "추수감사절",
+      "항공권 가격",
+      "여행 수요",
+      "소비자 지출"
+    ],
+    "reason": "추수감사절 연휴 항공권 가격 상승 및 강력한 수요 지속은 항공/여행 섹터의 실적 개선 기대감을 높일 수 있으나, 전반적인 서비스 인플레이션 압력이 여전히 존재함을 시사합니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "Israel’s president taps opposition candidate Eisenkot to form a government, in setback for Netanyahu",
@@ -2944,61 +2994,5 @@
     ],
     "reason": "이 뉴스는 내년도 복지예산 심의와 약국의 공공보건 역할 확대에 대한 것으로, 국내 특정 정책 및 섹터에 국한된 내용입니다. 거시경제 지표나 주요 투자 자산에 미칠 직접적인 영향은 제한적입니다.",
     "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Why AI is boosting Meta's ad business while hurting Google search",
-    "title_ko": "AI가 메타의 광고 사업을 성장시키고 구글 검색에 타격을 주는 이유",
-    "link": "https://www.cnbc.com/2026/11/01/ai-meta-ads-google-search.html",
-    "published": "Sun, 01 Nov 2026 14:31:29 GMT",
-    "fetched_at": "2026-11-02 04:58:50",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "디지털 광고",
-      "소셜 미디어",
-      "인터넷 검색",
-      "인공지능",
-      "기술"
-    ],
-    "keywords": [
-      "AI",
-      "메타",
-      "구글",
-      "광고",
-      "검색",
-      "수익 성장",
-      "기술 혁신"
-    ],
-    "reason": "AI 기술의 발전이 디지털 광고 시장의 경쟁 구도를 변화시키며, 메타는 성장 동력을 얻고 구글은 핵심 검색 광고 사업에서 압박을 받고 있음을 시사합니다. 이는 거대 기술 기업 내 투자 비중 조정의 필요성을 강조합니다.",
-    "action_point": "투자 포트폴리오 내 구글(알파벳) 비중을 면밀히 재검토하고, AI 기반 광고 성과가 뛰어난 메타 비중 확대를 고려."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "이 대통령 \"수출 1조달러 눈앞…경제영토 확장\" - 연합뉴스TV",
-    "title_ko": "이 대통령 '수출 1조달러 눈앞…경제영토 확장'",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LQkc0cFVzY0t5ZWtBM2Y3S0oyWXJJdG9sS2FtbXpKY1VJaVNBUEI4cWNNbVU2bUhhc2ZUT3JwbVBIYlNrQnV6a3hUNVFVbmQweWJEbEVKZjBnZ3k2bmlUSkRPYlIyQm8?oc=5",
-    "published": "Sun, 01 Nov 2026 06:31:00 GMT",
-    "fetched_at": "2026-11-02 04:59:07",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "수출주",
-      "반도체",
-      "자동차",
-      "IT",
-      "조선",
-      "화학"
-    ],
-    "keywords": [
-      "수출",
-      "경제성장",
-      "대통령",
-      "경제영토"
-    ],
-    "reason": "대통령의 발언은 한국 경제의 핵심 동력인 수출의 견조한 성장을 시사하며, 이는 전반적인 기업 실적과 경제 활동에 긍정적인 신호를 제공합니다. 특히 수출 의존도가 높은 산업군에 대한 투자 심리를 개선할 것입니다.",
-    "action_point": "수출 비중이 높은 국내 대기업 주식에 대한 비중 확대를 검토하십시오."
   }
 ]
