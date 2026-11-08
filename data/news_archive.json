@@ -1,5 +1,55 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "트럼프 남은 임기 2년...우리의 안보·경제 향방은? - YTN",
+    "title_ko": "트럼프 남은 임기 2년...우리의 안보·경제 향방은?",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1zNEZkbG1GdllWMmhGbkdBaUpMWDR2Vm9WaUpOM293RDFPSlZFcV9NVldrM0swWDVlOFo0RGhIWl9Id3ZvVGNtbWNBNnZYbEh1NVlxekMxZEV0enl6TUE?oc=5",
+    "published": "Sun, 08 Nov 2026 01:12:00 GMT",
+    "fetched_at": "2026-11-08 12:25:49",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "방위산업",
+      "수출주",
+      "반도체",
+      "자동차"
+    ],
+    "keywords": [
+      "트럼프",
+      "미국 대선",
+      "지정학",
+      "무역 정책",
+      "안보",
+      "경제"
+    ],
+    "reason": "미국 대선 결과에 따라 트럼프의 재집권 가능성이 제기되며, 이는 한국의 안보 및 경제(특히 무역 정책)에 중대한 변화와 불확실성을 초래할 수 있습니다.",
+    "action_point": "미국 대선 이후 예상되는 무역 정책 변화 및 지정학적 리스크에 대비하여 수출 의존도가 높은 섹터 비중을 점검하고, 달러 자산 방어 전략을 고려하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "‘탄핵 위기’ 헤그세스 “4년 임기 채울 것”…정면돌파 의지 - 동아일보",
+    "title_ko": "‘탄핵 위기’ 헤그세스 “4년 임기 채울 것”…정면돌파 의지",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5heEFjMlQ3X2U4MEhhOC1VTFpCZUc0bi1YOUh0YmZUdUFiSnREUlVmN2ZVWXY1VEtxeExDX2trMnRxQTU5LXltX3YyVGhRdE1WeS1IRE1KZ2VpOGttcDNJSGJpS1lxNkVjTGFCQXFMRjVrLU3SAWZBVV95cUxNQkwyNXZUM3llS3VtaUtwTU5XLW00MW5OTU1vWE5hUW9ET3F5aHlZUXVLMFBaTkNIZzBVbmxveDdFcFVFVVJnZlE0YVFIeGxiSWJyVGU1Y1pqZDYyeUNVQjBxckk0cGc?oc=5",
+    "published": "Sun, 08 Nov 2026 02:00:03 GMT",
+    "fetched_at": "2026-11-08 12:26:03",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "정치",
+      "지정학",
+      "환율"
+    ],
+    "keywords": [
+      "미국 정치",
+      "정치적 불확실성",
+      "탄핵 위기"
+    ],
+    "reason": "이 기사는 미국 내 정치적 긴장과 특정 정치 인사의 행보를 보여주며, 이는 당장은 시장에 직접적인 영향을 주지 않지만, 미 대선 등 향후 정치 이벤트에 대한 불확실성을 높여 투자 심리에 간접적인 영향을 미칠 수 있습니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "Trump says U.S. carried out ‘minor strikes’ on Iran as missiles hit Qeshm Island",
@@ -2974,51 +3024,5 @@
     ],
     "reason": "이 기사는 ESG 및 기후변화 관련 주요 의제(넷제로, 핵심광물 등)에 대한 사회적 관심과 연구가 지속되고 있음을 나타냅니다. 이는 장기적으로 관련 산업의 투자 매력을 유지하는 배경이 됩니다.",
     "action_point": "해당 없음"
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "강남구 논현동 신동아(22) 114.34㎡ 26억 3천만원… 최근 3년 신고가 [MAI부동산]",
-    "title_ko": "강남구 논현동 신동아(22) 114.34㎡ 26억 3천만원… 최근 3년 신고가 [MAI부동산]",
-    "link": "https://www.mk.co.kr/news/realestate/12193023",
-    "published": "Sun, 01 Nov 2026 20:58:28 +09:00",
-    "fetched_at": "2026-11-02 00:38:47",
-    "sentiment": "호재",
-    "importance": 2,
-    "sectors": [
-      "부동산"
-    ],
-    "keywords": [
-      "강남 부동산",
-      "논현동",
-      "아파트 신고가",
-      "고가 부동산"
-    ],
-    "reason": "강남 핵심 지역의 고가 아파트가 3년 내 신고가를 기록한 것은 프리미엄 부동산 시장의 견고한 수요와 자산 가치 방어력을 시사하며, 시장 회복 기대감을 높입니다.",
-    "action_point": "고가 부동산 자산 비중을 유지하고, 강남권 등 핵심 지역의 추가 투자 기회를 면밀히 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "A third weekend of protests in France as youth-led rallies sweep Europe",
-    "title_ko": "프랑스에서 세 번째 주말 시위 발생, 유럽 전역으로 확산되는 청년 주도 집회",
-    "link": "https://www.cnbc.com/2026/10/31/a-third-weekend-of-protests-as-youth-led-rallies-sweep-europe.html",
-    "published": "Sat, 31 Oct 2026 22:57:22 GMT",
-    "fetched_at": "2026-11-01 17:26:00",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "유럽 소비재",
-      "유럽 관광",
-      "유럽 금융"
-    ],
-    "keywords": [
-      "유럽 시위",
-      "사회 불안",
-      "정치적 불확실성",
-      "유럽 경제"
-    ],
-    "reason": "유럽 주요국에서 지속적이고 광범위하게 확산되는 시위는 사회 불안과 잠재적 정치적 불확실성을 증대시킵니다. 이는 해당 지역의 소비 심리 위축 및 경제 활동 위축으로 이어져 유럽 경제 전반에 부정적인 영향을 미칠 수 있습니다.",
-    "action_point": "유럽 경제의 불안정성 증가 가능성에 대비하여 유로화 및 유럽 증시 관련 자산의 비중 조정을 고려."
   }
 ]
