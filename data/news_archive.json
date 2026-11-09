@@ -2,6 +2,106 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "From supermarket fridges to passenger flights, a wave of threats is testing Europe's defenses",
+    "title_ko": "유럽의 방어 체계를 시험하는 위협의 물결: 슈퍼마켓 냉장고부터 여객기까지",
+    "link": "https://www.cnbc.com/2026/11/09/europe-fridge-hacks-bomb-threats-cyberattack.html",
+    "published": "Mon, 09 Nov 2026 05:00:01 GMT",
+    "fetched_at": "2026-11-09 16:27:34",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "사이버 보안",
+      "운송",
+      "유통",
+      "방산"
+    ],
+    "keywords": [
+      "유럽",
+      "사이버 공격",
+      "인프라",
+      "테러 위협",
+      "안보"
+    ],
+    "reason": "유럽 전역에 걸친 사이버 공격 및 테러 위협은 핵심 인프라 마비를 야기하여 경제 활동에 불확실성을 가중시키고 투자 심리를 위축시킬 수 있습니다. 이는 특히 관련 산업의 운영 비용 증가 및 잠재적 손실로 이어질 가능성이 있습니다.",
+    "action_point": "사이버 보안 관련 ETF 또는 개별 종목 편입을 고려하고, 유럽 인프라 의존도가 높은 기업 비중 축소를 검토."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "China wholesale inflation hits highest in more than four years as consumer measure slows",
+    "title_ko": "중국 생산자 물가 4년여 만에 최고치 기록, 소비자 물가는 둔화",
+    "link": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html",
+    "published": "Mon, 09 Nov 2026 02:50:22 GMT",
+    "fetched_at": "2026-11-09 16:27:43",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "제조업",
+      "소비재",
+      "산업재",
+      "원자재"
+    ],
+    "keywords": [
+      "중국 인플레이션",
+      "생산자 물가 지수",
+      "소비자 물가 지수",
+      "원가 상승",
+      "공급망"
+    ],
+    "reason": "중국 생산자 물가의 급등은 글로벌 공급망 전반에 걸쳐 제조업체의 원가 부담을 가중시킬 것이며, 소비자 물가 둔화와 결합될 경우 기업들의 마진 압박을 심화시킬 수 있습니다.",
+    "action_point": "중국 공급망 의존도가 높거나 원자재 수입 비중이 큰 국내외 제조업 섹터의 마진 악화 가능성을 점검하고 투자 비중을 재검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "소강상태 들어간 이란 전쟁... 트럼프마저 재공격 가능성 \"매우 작아\" - JTBC",
+    "title_ko": "소강상태 들어간 이란 전쟁... 트럼프마저 재공격 가능성 \"매우 작아\"",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAwQ3M4eUxkMGpidlVIblZtclFydFBQc2NzZlh4TEp4cVU1aHNCbVlXd1oyaXpIQWI1Q0l1LWZCLVIzZXNaOHBTQzZ0YTctWFhhS2xPMw?oc=5",
+    "published": "Mon, 09 Nov 2026 05:11:00 GMT",
+    "fetched_at": "2026-11-09 16:28:16",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "항공",
+      "해운",
+      "방위산업"
+    ],
+    "keywords": [
+      "이란",
+      "중동",
+      "지정학적 위험",
+      "유가",
+      "트럼프"
+    ],
+    "reason": "중동발 지정학적 리스크가 완화되면서 글로벌 유가 하락 압력이 발생하고, 전반적인 투자 심리가 개선되어 위험 자산 선호 심리가 강화될 것으로 예상됩니다.",
+    "action_point": "중동 지정학적 위험 완화에 따른 유가 하락 가능성을 고려하여 에너지 관련 자산 비중 축소 및 위험 자산 비중 확대 검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[성명] 한국정부와 한국석유공사는 이스라엘의 전쟁범죄 지원과 방조를 즉각 중단하라 - 민주노총",
+    "title_ko": "[성명] 한국정부와 한국석유공사는 이스라엘의 전쟁범죄 지원과 방조를 즉각 중단하라 - 민주노총",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1vX0hNYWdNX0VqN0NYQmk0RlgwblVLQUFBTFEtY29LU3R0cGNnRlZkM1ZaRUdTbTZ2N1JVcDhONGVJV0hSdXVxTktSdkY?oc=5",
+    "published": "Mon, 09 Nov 2026 07:15:16 GMT",
+    "fetched_at": "2026-11-09 16:27:58",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [],
+    "keywords": [
+      "민주노총",
+      "한국정부",
+      "한국석유공사",
+      "이스라엘",
+      "중동",
+      "지정학"
+    ],
+    "reason": "민주노총의 성명은 한국 정부의 중동 정책에 대한 국내 압력을 시사하지만, 당장 투자 자산에 직접적인 영향을 미치는 정책 변화나 시장 이벤트는 아니다. 해당 뉴스는 기존 중동 지정학적 리스크에 대한 국내 여론의 한 측면을 보여줄 뿐이다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "Trump says renewed Iran strikes ‘highly unlikely’ if talks progress but warns he could still strike",
     "title_ko": "트럼프, 이란 핵 협상 진전 시 추가 공격 ‘매우 낮다’ 시사, 하지만 공격 가능성은 여전히 경고",
     "link": "https://www.cnbc.com/2026/11/08/trump-iran-strikes-unlikely-talks-hormuz.html",
@@ -2893,105 +2993,5 @@
     ],
     "reason": "미국 중간선거 이후 S&P 500 지수는 역사적으로 강세를 보였으며, 이는 선거 결과와 무관하게 미국 및 글로벌 주식 시장 전반에 긍정적인 기대감을 형성할 수 있습니다.",
     "action_point": "미국 주식 시장의 역사적 강세 패턴을 고려하여 포트폴리오 내 미국 성장주 비중 유지 또는 확대 검토."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Binance’s $6.3 billion hack raises questions about crypto wallet safety",
-    "title_ko": "바이낸스의 63억 달러 해킹, 암호화폐 지갑 안전성에 대한 의문 제기",
-    "link": "https://www.cnbc.com/2026/10/31/binance-hack-crypto-wallet-safety.html",
-    "published": "Sat, 31 Oct 2026 12:47:08 GMT",
-    "fetched_at": "2026-11-03 06:05:40",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "암호화폐",
-      "블록체인",
-      "사이버 보안"
-    ],
-    "keywords": [
-      "바이낸스",
-      "해킹",
-      "암호화폐",
-      "보안 취약성",
-      "디지털 자산"
-    ],
-    "reason": "바이낸스와 같은 대형 거래소의 대규모 해킹은 암호화폐 시장 전반의 신뢰도를 크게 저하시키고, 중앙화된 디지털 자산 보관의 근본적인 위험성을 부각시켜 시장 변동성을 확대시킬 것입니다.",
-    "action_point": "암호화폐 관련 자산의 포트폴리오 내 비중을 재검토하고, 거래소 보관 자산의 안전성 점검 및 분산화를 고려하라."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Fed officials are already saying they’ll need to get back to hiking rates",
-    "title_ko": "연준 관계자들, 금리 인상 재개 필요성 언급",
-    "link": "https://www.cnbc.com/2026/10/30/musalem-fed-monetary-policy-tightening.html",
-    "published": "Fri, 30 Oct 2026 21:53:10 GMT",
-    "fetched_at": "2026-11-03 06:05:47",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "성장주",
-      "부동산",
-      "채권"
-    ],
-    "keywords": [
-      "연준",
-      "금리 인상",
-      "통화 긴축",
-      "고금리"
-    ],
-    "reason": "연준 관계자들의 매파적 발언은 시장의 금리 인하 기대를 약화시키고, 장기적으로 고금리 환경이 지속될 수 있음을 시사하여 주식 및 채권 시장에 부정적인 압력으로 작용할 것입니다. 특히 금리 민감 섹터에 하방 압력이 커질 수 있습니다.",
-    "action_point": "금리 인상 재개 가능성에 대비하여 주식 포트폴리오의 금리 민감 성장주 비중을 축소하고, 장기채 비중도 재검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Fake nuclear warnings in Ukraine as Moscow, Kyiv report separate cyberattacks on emergency apps",
-    "title_ko": "우크라이나 가짜 핵 경고, 모스크바와 키이우는 비상 앱에 대한 별도 사이버 공격 보고",
-    "link": "https://www.cnbc.com/2026/11/02/russia-ukraine-cyberattack-zelenskyy-putin.html",
-    "published": "Mon, 02 Nov 2026 11:18:37 GMT",
-    "fetched_at": "2026-11-02 20:50:44",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "사이버 보안",
-      "방위 산업",
-      "기술",
-      "에너지"
-    ],
-    "keywords": [
-      "사이버 공격",
-      "러시아-우크라이나 전쟁",
-      "지정학적 위험",
-      "정보전"
-    ],
-    "reason": "러시아-우크라이나 분쟁의 사이버전 양상 심화를 보여주며, 지정학적 불확실성을 가중시키고 핵심 인프라 및 정보전에 대한 리스크를 부각시킵니다.",
-    "action_point": "사이버 보안 및 방위 산업 섹터의 투자 비중 확대를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "U.S. crude falls below $100 amid reports of U.S.-Iran diplomatic efforts",
-    "title_ko": "미국-이란 외교 노력 보도에 유가 100달러 하회",
-    "link": "https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html",
-    "published": "Mon, 02 Nov 2026 11:00:55 GMT",
-    "fetched_at": "2026-11-02 20:50:55",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "항공",
-      "해운",
-      "석유화학",
-      "제조업",
-      "소비재"
-    ],
-    "keywords": [
-      "유가 하락",
-      "미국-이란 외교",
-      "중동 긴장 완화",
-      "인플레이션 완화"
-    ],
-    "reason": "미국과 이란의 외교 노력은 중동 지역 긴장 완화와 잠재적인 이란산 원유 공급 증가 가능성을 시사하며, 이는 글로벌 유가 하락으로 이어져 인플레이션 압력을 완화하고 소비 및 산업 활동에 긍정적으로 작용할 수 있습니다.",
-    "action_point": "유가 하락에 따른 인플레이션 압력 완화 효과를 고려하여 항공, 해운, 석유화학 등 에너지 민감 섹터의 비중 확대를 검토하십시오."
   }
 ]
