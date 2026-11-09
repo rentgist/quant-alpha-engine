@@ -2,6 +2,248 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "Goldman says 'the pieces are in place' for a shift in Treasury yields, global 10-years",
+    "title_ko": "골드만삭스, 미국 국채 및 글로벌 10년물 금리의 변동 가능성 제기",
+    "link": "https://www.cnbc.com/2026/11/09/goldman-treasury-yields-bonds.html",
+    "published": "Mon, 09 Nov 2026 08:19:07 GMT",
+    "fetched_at": "2026-11-10 03:00:03",
+    "sentiment": "중립",
+    "importance": 5,
+    "sectors": [
+      "채권",
+      "기술주",
+      "부동산",
+      "금융",
+      "성장주"
+    ],
+    "keywords": [
+      "골드만삭스",
+      "국채 금리",
+      "10년물 금리",
+      "금리 변동",
+      "매크로"
+    ],
+    "reason": "골드만삭스가 글로벌 금리의 중대한 변화가 임박했음을 시사하며, 이는 모든 자산 클래스의 가치 평가와 투자 심리에 광범위한 영향을 미칠 것으로 예상됩니다. 금리 변동은 시장 전반의 유동성과 자금 조달 비용에 직접적인 영향을 줍니다.",
+    "action_point": "포트폴리오 내 금리 민감 자산(채권, 성장주, 부동산 관련 주식)의 비중을 점검하고, 향후 금리 방향성에 따른 리스크 관리 전략을 수립하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Nvidia's CEO turmoil gives newly empowered Democrats fresh ammunition in pursuit of oversight",
+    "title_ko": "엔비디아 CEO의 사생활 문제, 민주당의 감독 강화 추구에 새로운 빌미 제공",
+    "link": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-affair-congress-scrutiny.html",
+    "published": "Mon, 09 Nov 2026 17:05:25 GMT",
+    "fetched_at": "2026-11-10 02:59:20",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "반도체",
+      "기술주",
+      "인공지능"
+    ],
+    "keywords": [
+      "Nvidia",
+      "CEO",
+      "중국 스파이",
+      "규제",
+      "지정학",
+      "반도체"
+    ],
+    "reason": "이번 뉴스는 엔비디아 CEO의 사생활 문제와 중국 스파이 의혹이 결부되어 기업 지배구조 및 국가 안보 위험을 야기하며, 엔비디아는 물론 관련 반도체 및 AI 기술 섹터 전반에 대한 규제 및 감시 강화를 초래할 수 있습니다. 이는 미중 기술 패권 경쟁 심화와 맞물려 해당 섹터 투자 심리에 부정적인 영향을 미칠 것입니다.",
+    "action_point": "엔비디아를 포함한 주요 반도체 및 AI 기술주의 규제 리스크를 재평가하고, 포트폴리오 내 해당 섹터 비중 조정 여부를 검토하십시오."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Rubio sees little hope of diplomatic breakthrough to Mideast deadlock amid 'outrageous' Iranian demands",
+    "title_ko": "루비오, '터무니없는' 이란 요구로 중동 외교 교착상태 돌파구 기대난",
+    "link": "https://www.cnbc.com/2026/11/09/us-iran-war-trump-hormuz.html",
+    "published": "Mon, 09 Nov 2026 11:09:14 GMT",
+    "fetched_at": "2026-11-10 02:59:31",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "방산",
+      "해운"
+    ],
+    "keywords": [
+      "이란",
+      "중동",
+      "외교",
+      "협상 교착",
+      "지정학적 리스크",
+      "유가"
+    ],
+    "reason": "미국 고위 관계자의 이란 협상 교착 발언은 중동 지정학적 긴장 지속을 시사하며, 이는 글로벌 유가 변동성 확대 및 에너지 시장 불안정으로 이어질 수 있습니다.",
+    "action_point": "중동 지정학적 리스크 지속에 대비하여 에너지 섹터 비중을 점검하고, 유가 변동성에 대한 헤지 전략을 고려하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "트럼프 ‘황금함대·골든돔’ 좌초 위기…중간선거 패배에 제동 - 중앙일보",
+    "title_ko": "트럼프 ‘황금함대·골든돔’ 좌초 위기…중간선거 패배에 제동",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RZGE2V2xJMlVpaC1fVDJOazNQMktKbkUwamxsb2Fwc0oycDJYT05GbUYtcGFhZjFDalI5M0RkOHZwU1ZsQzRKc1g3cGN5Qk9PdWtkVmhB?oc=5",
+    "published": "Mon, 09 Nov 2026 16:10:22 GMT",
+    "fetched_at": "2026-11-10 03:00:24",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "반도체",
+      "자동차",
+      "해운"
+    ],
+    "keywords": [
+      "트럼프",
+      "미국 중간선거",
+      "미국 정치",
+      "보호무역주의"
+    ],
+    "reason": "트럼프의 정치적 영향력 약화는 과거 보호무역주의 정책 재현 가능성을 낮춰 글로벌 통상 환경의 불확실성을 완화하고 시장 안정에 긍정적인 영향을 줄 수 있습니다.",
+    "action_point": "글로벌 통상 환경 개선 기대에 따라 반도체, 자동차, 해운 등 주요 수출 섹터의 비중 확대 가능성을 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Could supplements be the next big opportunity in the GLP-1 weight-loss drug boom?",
+    "title_ko": "GLP-1 체중 감량 약물 붐에 보충제가 다음 큰 기회가 될 수 있을까?",
+    "link": "https://www.cnbc.com/2026/11/09/novonesis-glp1-weight-loss-drugs-supplements-probiotics.html",
+    "published": "Mon, 09 Nov 2026 13:27:57 GMT",
+    "fetched_at": "2026-11-10 02:59:38",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "제약/바이오",
+      "건강기능식품"
+    ],
+    "keywords": [
+      "GLP-1",
+      "체중 감량 약물",
+      "보충제",
+      "장 건강"
+    ],
+    "reason": "GLP-1 체중 감량 약물 시장이 보충제 분야로 확장될 가능성을 제시하며, 관련 제약/바이오 및 건강기능식품 섹터에 새로운 투자 기회를 창출할 수 있습니다.",
+    "action_point": "GLP-1 체중 감량 약물과 연계된 건강기능식품 및 장 건강 관련 기업의 투자 가치 재평가."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Boeing to cut 5% of commercial airplane workforce as production increase is slower than expected",
+    "title_ko": "보잉, 예상보다 더딘 생산량 증가로 상업용 항공기 인력 5% 감축 예정",
+    "link": "https://www.cnbc.com/2026/11/09/boeing-layoffs-commercial-airplane.html",
+    "published": "Mon, 09 Nov 2026 17:57:58 GMT",
+    "fetched_at": "2026-11-10 02:59:44",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "항공우주 및 방위산업",
+      "산업재"
+    ],
+    "keywords": [
+      "보잉",
+      "생산 지연",
+      "인력 감축",
+      "항공기 산업"
+    ],
+    "reason": "보잉의 인력 감축은 예상보다 더딘 생산량 증가에 따른 것으로, 글로벌 항공우주 및 산업재 섹터의 공급망 문제 또는 수요 둔화를 시사하여 전반적인 산업 생산 회복세에 대한 우려를 증폭시킬 수 있습니다.",
+    "action_point": "항공우주 및 산업재 섹터에 대한 투자 비중을 재검토하고, 관련 공급망 기업들의 실적 하향 조정 가능성에 대비하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "가업상속공제 놓고 여야 ‘충돌’…종부세 강화엔 나란히 제동",
+    "title_ko": "가업상속공제 놓고 여야 ‘충돌’…종부세 강화엔 나란히 제동",
+    "link": "https://www.mk.co.kr/news/economy/12203086",
+    "published": "Mon, 09 Nov 2026 23:48:57 +09:00",
+    "fetched_at": "2026-11-10 03:00:56",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "부동산",
+      "건설",
+      "중소기업"
+    ],
+    "keywords": [
+      "가업상속공제",
+      "종합부동산세",
+      "세법개정",
+      "부동산",
+      "기업승계"
+    ],
+    "reason": "가업상속공제는 여야 간 충돌로 정책 불확실성이 지속되나, 종합부동산세 강화에는 여야 모두 제동을 걸며 국내 부동산 시장의 세금 부담 완화 가능성을 시사합니다.",
+    "action_point": "종합부동산세 강화가 제동된 점을 고려하여 국내 부동산 관련 자산의 보유 전략을 유지하고, 관련 섹터의 추가 정책 완화 가능성을 주시하십시오."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "[단독] 정부가 낸 법안에 정부가 ‘유감’…호텔·병원 가업상속 혜택 놓고 부처 충돌",
+    "title_ko": "[단독] 정부가 낸 법안에 정부가 ‘유감’…호텔·병원 가업상속 혜택 놓고 부처 충돌",
+    "link": "https://www.mk.co.kr/news/economy/12203045",
+    "published": "Mon, 09 Nov 2026 22:59:50 +09:00",
+    "fetched_at": "2026-11-10 03:01:04",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "관광",
+      "의료",
+      "부동산"
+    ],
+    "keywords": [
+      "가업상속공제",
+      "세제개편",
+      "정부부처갈등",
+      "호텔",
+      "병원"
+    ],
+    "reason": "정부 부처 간 가업상속공제 대상 업종을 두고 갈등이 발생하여 관련 업종의 세금 부담 증가 및 정책 불확실성이 커질 수 있습니다. 이는 해당 산업의 장기적인 투자 및 성장에 부정적인 영향을 미칠 수 있습니다.",
+    "action_point": "가업상속공제 대상 제외 가능성이 있는 관광호텔, 병원 등 관련 자산 보유 비중을 재검토."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Why tech workers are flocking to NYC",
+    "title_ko": "기술 인력들이 뉴욕으로 몰려드는 이유",
+    "link": "https://www.cnbc.com/make-it/2026/11/09/new-york-city-tech-workers-jobs.html",
+    "published": "Mon, 09 Nov 2026 14:15:02 GMT",
+    "fetched_at": "2026-11-10 02:59:55",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "부동산",
+      "IT/기술",
+      "서비스"
+    ],
+    "keywords": [
+      "뉴욕",
+      "기술 인력",
+      "부동산",
+      "기술 허브"
+    ],
+    "reason": "기술 인력과 기업들이 뉴욕으로 이동하며 뉴욕이 새로운 기술 허브로 부상하고 있음을 시사한다. 이는 뉴욕 지역의 부동산 및 서비스 산업에 긍정적인 영향을 미칠 수 있다.",
+    "action_point": "미국 뉴욕 지역 부동산 및 관련 인프라 자산 투자 기회를 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "트럼프, CBS 공식 인터뷰서 \"경제 성과 탁월했지만 전달 부족\" - 연합인포맥스",
+    "title_ko": "트럼프, CBS 공식 인터뷰서 \"경제 성과 탁월했지만 전달 부족\"",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ETXd5OFZWYVd4NkozU3BKc3hmWDhrbHA0aEJWUmVkdTJkRldyOE5wOG9lTEJ3ZG10b2VsdjRPY0ZWX0U1cHVmbllVTVAybk1EODVONTRDRlhMMFBORElBem50dnlnTUJtOGhwV2UyemI?oc=5",
+    "published": "Mon, 09 Nov 2026 07:38:15 GMT",
+    "fetched_at": "2026-11-10 03:00:39",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [],
+    "keywords": [
+      "트럼프",
+      "미국 경제",
+      "정치"
+    ],
+    "reason": "트럼프 전 대통령이 과거 자신의 경제 성과를 자평하고 소통의 중요성을 언급한 발언이다. 이는 현재 시장의 방향이나 투자 자산에 직접적인 영향을 미치지 않는 과거 회고성 발언으로 해석된다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "From supermarket fridges to passenger flights, a wave of threats is testing Europe's defenses",
     "title_ko": "유럽의 방어 체계를 시험하는 위협의 물결: 슈퍼마켓 냉장고부터 여객기까지",
     "link": "https://www.cnbc.com/2026/11/09/europe-fridge-hacks-bomb-threats-cyberattack.html",
@@ -2757,241 +2999,5 @@
     ],
     "reason": "고려아연의 주요 주주 및 관계사(영풍, MBK)를 둘러싼 법적 및 지배구조 리스크가 부각되어, 관련 기업들의 주가에 불확실성이 확대될 수 있습니다.",
     "action_point": "고려아연 및 영풍 주식의 기업 지배구조 리스크를 재평가하고 포트폴리오 내 비중 재조정을 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Trump is going to get 'trounced' in the midterms — and knows it, Anthony Scaramucci tells CNBC",
-    "title_ko": "스카라무치, 트럼프가 중간선거에서 '참패'할 것이며 이를 알고 있다고 CNBC에 밝혀",
-    "link": "https://www.cnbc.com/2026/11/03/scaramucci-trump-midterms-election.html",
-    "published": "Tue, 03 Nov 2026 09:42:29 GMT",
-    "fetched_at": "2026-11-03 20:29:33",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [],
-    "keywords": [
-      "트럼프",
-      "중간선거",
-      "공화당",
-      "미국 정치",
-      "정치적 갈등"
-    ],
-    "reason": "전 백악관 고위 관계자의 발언은 미국 공화당 내부의 정치적 역학 관계와 미래 동향에 대한 견해를 제시할 뿐, 현재 글로벌 금융 시장이나 거시 경제에 직접적인 영향을 미칠 정책 변화나 이벤트는 아니다. 따라서 투자 자산에 대한 즉각적인 영향은 제한적이다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "A little-known biotech’s high-stakes cancer bet just paid off and its shares doubled",
-    "title_ko": "잘 알려지지 않은 바이오텍 기업, 고위험 암 치료제 베팅 성공으로 주가 두 배 급등",
-    "link": "https://www.cnbc.com/2026/11/03/genmab-cancer-drugs-petosemtamab.html",
-    "published": "Tue, 03 Nov 2026 09:35:47 GMT",
-    "fetched_at": "2026-11-03 20:30:00",
-    "sentiment": "호재",
-    "importance": 2,
-    "sectors": [
-      "바이오/제약",
-      "헬스케어"
-    ],
-    "keywords": [
-      "바이오텍",
-      "암 치료제",
-      "임상 성공",
-      "주가 급등",
-      "제약"
-    ],
-    "reason": "개별 바이오텍 기업의 임상 성공으로 주가가 급등, 고위험-고수익 혁신 신약 개발 분야의 잠재력을 재확인했습니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Goldman Sachs adds a beer giant and a major bank to its favorite stock picks",
-    "title_ko": "골드만삭스, 선호 주식 목록에 맥주 대기업과 주요 은행 추가",
-    "link": "https://www.cnbc.com/2026/11/03/goldman-sachs-favorite-stocks-bank-beer.html",
-    "published": "Tue, 03 Nov 2026 06:00:01 GMT",
-    "fetched_at": "2026-11-03 20:30:21",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "주류(음료)",
-      "은행(금융)",
-      "유럽 증시"
-    ],
-    "keywords": [
-      "골드만삭스",
-      "주식 추천",
-      "유럽 주식",
-      "맥주",
-      "은행"
-    ],
-    "reason": "골드만삭스의 특정 유럽 기업에 대한 주식 추천으로, 해당 기업 및 섹터에 긍정적일 수 있으나 전반적인 거시 경제나 광범위한 투자 자산군에는 제한적인 영향을 미친다.",
-    "action_point": "유럽 시장 내 주류 및 금융 섹터의 투자 기회를 점검."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "송재도 에너지경제연구원 15대 원장 취임 - 에너지데일리",
-    "title_ko": "송재도 에너지경제연구원 15대 원장 취임",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Cd01rWlFtTndKOXlxQlhBWXlGX19mUi1HUmFQSEtYM1FxWURySjdHZHBvNlROdUV6UHo2cjRyWFNGVDFiNlM1U3RhUElLMXpySkExSFpqX1YwRTdMY3Q5U09KNXVCMnZ3dWZnRUFDYkk2dw?oc=5",
-    "published": "Tue, 03 Nov 2026 08:18:04 GMT",
-    "fetched_at": "2026-11-03 20:31:00",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "에너지"
-    ],
-    "keywords": [
-      "에너지경제연구원",
-      "원장 취임",
-      "에너지 정책"
-    ],
-    "reason": "에너지경제연구원 원장 취임은 연구기관의 인사이동으로, 단기적인 금융시장이나 거시경제 지표에 직접적인 영향을 미치지 않습니다. 장기적으로 에너지 정책 방향에 간접적 영향을 줄 수는 있으나 즉각적인 투자 결정 요인은 아닙니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "“안산 주민들 창문 닫으세요”…인체 해끼치는 질산, 반도체 부품공장서 누출",
-    "title_ko": "“안산 주민들 창문 닫으세요”…인체 해끼치는 질산, 반도체 부품공장서 누출",
-    "link": "https://www.mk.co.kr/news/society/12195257",
-    "published": "Tue, 03 Nov 2026 20:16:06 +09:00",
-    "fetched_at": "2026-11-03 20:31:38",
-    "sentiment": "악재",
-    "importance": 2,
-    "sectors": [
-      "반도체",
-      "화학",
-      "산업재"
-    ],
-    "keywords": [
-      "반도체 부품",
-      "질산 누출",
-      "산업재해",
-      "화학물질"
-    ],
-    "reason": "반도체 부품 공장의 화학물질 누출은 해당 기업의 생산 차질 및 잠재적 비용 증가를 야기하며, 반도체 공급망 내 안전 관리 리스크를 부각합니다.",
-    "action_point": "반도체 부품 섹터 내 화학물질 취급 비중이 높은 기업들의 안전 관리 시스템을 점검하고, 포트폴리오 내 관련 기업의 비중을 재검토하라."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Stocks making the biggest moves midday: Oracle, SpaceX, Tempus AI, Rivian & more",
-    "title_ko": "장중 가장 큰 움직임을 보이는 주식들: 오라클, 스페이스X, 템푸스 AI, 리비안 등",
-    "link": "https://www.cnbc.com/2026/11/02/stocks-making-the-biggest-moves-midday-orcl-spcx-tem-rivn.html",
-    "published": "Mon, 02 Nov 2026 20:00:16 GMT",
-    "fetched_at": "2026-11-03 12:10:41",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "기술",
-      "인공지능",
-      "전기차",
-      "소프트웨어",
-      "우주항공"
-    ],
-    "keywords": [
-      "개별주",
-      "주식 변동성",
-      "기술주"
-    ],
-    "reason": "이 기사는 장중 특정 개별 기업들의 주가 변동성을 단순히 나열하는 것으로, 거시경제나 광범위한 시장 트렌드에 대한 중요한 신호를 제공하지 않습니다. 단기적인 개별 주식 움직임에 대한 정보입니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Stocks making the biggest moves premarket: CrowdStrike, Rivian, Micron & more",
-    "title_ko": "개장 전 가장 큰 움직임을 보이는 주식들: 크라우드스트라이크, 리비안, 마이크론 외",
-    "link": "https://www.cnbc.com/2026/11/02/stocks-making-the-biggest-moves-premarket-crwd-rivn-mu.html",
-    "published": "Mon, 02 Nov 2026 12:49:35 GMT",
-    "fetched_at": "2026-11-03 12:10:52",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "소프트웨어",
-      "전기차",
-      "반도체"
-    ],
-    "keywords": [
-      "개장 전 거래",
-      "개별 주식",
-      "크라우드스트라이크",
-      "리비안",
-      "마이크론"
-    ],
-    "reason": "이 기사는 개장 전 특정 성장주 및 기술주의 거래 활동을 보여주며, 이는 광범위한 거시적 추세보다는 개별 기업 및 해당 섹터에 대한 단기 시장의 관심과 투자자 심리를 반영합니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "평화경제·공동성장의 한반도 - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
-    "title_ko": "평화경제·공동성장의 한반도",
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYkpYVXlSYW9sVksxYm1oR3dlVmkwNWdubEVPbDZqM3VLUHdCOWctamtVV3dxYWtUUzRBblQtMVU4SVBBeFQ5ZWpRaUpFYnA3U3ZudWQ5V19pOHVtdi1HOEdiWS1kWU9YaUVFNjFMSm1wMTB0VFdHOGVfUHhOWmI1Z3dlU2dsNUIxcHlz?oc=5",
-    "published": "Tue, 03 Nov 2026 01:45:31 GMT",
-    "fetched_at": "2026-11-03 12:11:03",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "건설",
-      "인프라",
-      "관광"
-    ],
-    "keywords": [
-      "평화경제",
-      "한반도",
-      "남북관계",
-      "정책"
-    ],
-    "reason": "이 기사는 대한민국 정부가 지향하는 평화경제 및 공동성장의 한반도 비전을 재확인하는 정책 브리핑입니다. 당장 시장에 영향을 줄 만한 구체적인 남북관계 진전이나 새로운 정책 발표는 포함하고 있지 않아, 단기적인 금융시장 영향은 제한적입니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "[Cover Story] 호텔을 위한 여행, ‘데스티네이션 호텔’    …럭셔리 호텔 자체가 여행의 목적지가 되다",
-    "title_ko": "[Cover Story] 호텔을 위한 여행, ‘데스티네이션 호텔’   …럭셔리 호텔 자체가 여행의 목적지가 되다",
-    "link": "https://www.mk.co.kr/news/culture/12194613",
-    "published": "Tue, 03 Nov 2026 11:59:58 +09:00",
-    "fetched_at": "2026-11-03 12:11:15",
-    "sentiment": "호재",
-    "importance": 2,
-    "sectors": [
-      "호텔",
-      "레저",
-      "부동산"
-    ],
-    "keywords": [
-      "데스티네이션 호텔",
-      "럭셔리 호텔",
-      "호텔 산업",
-      "경험 소비"
-    ],
-    "reason": "고급 체험 소비 트렌드 확대로 럭셔리 호텔이 여행의 목적지가 되면서 관련 숙박 및 레저 산업의 성장 잠재력이 부각됩니다. 이는 단순 숙박을 넘어선 고부가가치 서비스 시장의 확대를 의미합니다.",
-    "action_point": "럭셔리 숙박 및 레저 관련 기업에 대한 투자 비중 확대를 검토하라."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Stock market after midterm elections: What S&P 500 history shows",
-    "title_ko": "미국 중간선거 이후 주식 시장: S&P 500의 역사적 흐름은?",
-    "link": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
-    "published": "Mon, 02 Nov 2026 17:57:35 GMT",
-    "fetched_at": "2026-11-03 06:05:24",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "미국 주식 시장 전반",
-      "글로벌 주식 시장"
-    ],
-    "keywords": [
-      "미국 중간선거",
-      "S&P 500",
-      "주식 시장",
-      "역사적 패턴"
-    ],
-    "reason": "미국 중간선거 이후 S&P 500 지수는 역사적으로 강세를 보였으며, 이는 선거 결과와 무관하게 미국 및 글로벌 주식 시장 전반에 긍정적인 기대감을 형성할 수 있습니다.",
-    "action_point": "미국 주식 시장의 역사적 강세 패턴을 고려하여 포트폴리오 내 미국 성장주 비중 유지 또는 확대 검토."
   }
 ]
