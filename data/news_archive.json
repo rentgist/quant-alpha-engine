@@ -1,5 +1,101 @@
 [
   {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "U.S. gas prices fall below $4 for the first time since July",
+    "title_ko": "미국 휘발유 가격, 7월 이후 처음으로 갤런당 4달러 아래로 하락",
+    "link": "https://www.cnbc.com/2026/11/10/us-gas-prices-below-four-dollars.html",
+    "published": "Tue, 10 Nov 2026 16:29:09 GMT",
+    "fetched_at": "2026-11-11 01:47:26",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "소비재",
+      "항공",
+      "운송"
+    ],
+    "keywords": [
+      "미국 휘발유 가격",
+      "인플레이션",
+      "소비 지출"
+    ],
+    "reason": "미국 휘발유 가격 하락은 인플레이션 압력을 완화하고 소비 여력을 증대시켜 미 연준의 긴축 속도 조절 가능성을 높입니다. 이는 경제 연착륙 기대감을 높이는 요인으로 작용합니다.",
+    "action_point": "인플레이션 완화에 따른 미국 소비재 및 항공/운송 섹터 비중 확대를 검토하십시오."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Here's the inflation breakdown for October 2026 — in one chart",
+    "title_ko": "2026년 10월 인플레이션 세부 분석: 주요 내용 요약",
+    "link": "https://www.cnbc.com/2026/11/10/october-2026-cpi-inflation-breakdown.html",
+    "published": "Tue, 10 Nov 2026 16:36:40 GMT",
+    "fetched_at": "2026-11-11 01:47:44",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "금융",
+      "부동산",
+      "기술주",
+      "경기소비재"
+    ],
+    "keywords": [
+      "인플레이션",
+      "소비자물가지수",
+      "고금리",
+      "매크로경제"
+    ],
+    "reason": "10월 CPI 상승률이 전월 대비 둔화되었음에도 불구하고 '불편할 정도로 높은' 수준이라는 평가는 중앙은행의 긴축 기조 장기화 또는 금리 인하 기대감 약화로 이어져 위험 자산에 부정적입니다.",
+    "action_point": "고금리 장기화 가능성에 대비하여 금리 민감 자산(성장주, 부동산 등) 비중 축소를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Jensen Huang's affair with alleged Chinese spy further complicates Nvidia’s China problem",
+    "title_ko": "젠슨 황의 중국 스파이 의혹 연루, 엔비디아의 대중국 문제를 더욱 복잡하게 해",
+    "link": "https://www.cnbc.com/2026/11/10/jensen-huang-nvidia-china-ties.html",
+    "published": "Tue, 10 Nov 2026 15:04:23 GMT",
+    "fetched_at": "2026-11-11 01:47:50",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "반도체",
+      "기술",
+      "방산/안보"
+    ],
+    "keywords": [
+      "젠슨 황",
+      "엔비디아",
+      "중국",
+      "반도체 수출 통제",
+      "미중 갈등"
+    ],
+    "reason": "젠슨 황 CEO의 스파이 의혹 연루는 미국 정부의 대중국 반도체 수출 통제를 더욱 강화할 명분을 제공하며, 엔비디아를 비롯한 반도체 기업들의 대중국 사업 불확실성을 증폭시킬 것입니다.",
+    "action_point": "반도체 섹터 내 중국 익스포저가 높은 기업들의 비중 축소를 검토하고, 미중 기술 갈등 심화에 대비해야 합니다."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Polymarket says annualized revenue has topped $1.8 billion",
+    "title_ko": "폴리마켓, 연 매출 18억 달러 돌파 발표",
+    "link": "https://www.cnbc.com/2026/11/10/polymarket-annualized-revenue-us-growth.html",
+    "published": "Tue, 10 Nov 2026 13:00:01 GMT",
+    "fetched_at": "2026-11-11 01:47:35",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "예측 시장 (Prediction Market)",
+      "블록체인/탈중앙화 금융 (DeFi)",
+      "핀테크"
+    ],
+    "keywords": [
+      "폴리마켓",
+      "예측 시장",
+      "매출 성장"
+    ],
+    "reason": "이 뉴스는 특정 예측 시장 플랫폼의 매출 성장세를 보여주며, 신흥 시장의 잠재력을 시사하지만, 거시 경제나 주요 투자 자산에 미치는 직접적인 영향은 제한적입니다. 특정 니치 섹터의 동향을 파악하는 데 참고할 수 있습니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "Trump says Iran war to end 'fairly soon,' plays down prospects of new strikes",
@@ -2885,99 +2981,5 @@
     ],
     "reason": "국회 내 여야 갈등이 심화되고 있음을 보여주는 사건으로, 국내 정치적 불확실성을 높여 전반적인 국내 증시 투자 심리에 부정적인 영향을 미칠 수 있습니다.",
     "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Texas governor race tightens in prediction markets, but Abbott remains favored",
-    "title_ko": "텍사스 주지사 선거, 예측 시장에서 접전 양상이나 애벗 여전히 우세",
-    "link": "https://www.cnbc.com/2026/11/02/texas-governor-prediction-markets-abbott-hinojosa.html",
-    "published": "Tue, 03 Nov 2026 13:33:11 GMT",
-    "fetched_at": "2026-11-04 12:57:08",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [],
-    "keywords": [
-      "텍사스 주지사 선거",
-      "미국 정치",
-      "예측 시장"
-    ],
-    "reason": "텍사스 주지사 선거는 지역 정치 이슈로, 예측 시장에서 접전 양상을 보이더라도 현직 후보가 여전히 우세하여 글로벌 주식, 금리, 환율, 원자재 시장에 미칠 직접적인 거시 경제적 영향은 미미합니다. 정책의 급격한 변화보다는 연속성이 예상됩니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Stocks making the biggest moves premarket: Pfizer, Apple, Palantir, Zebra Technologies  & more",
-    "title_ko": "개장 전 가장 큰 움직임을 보이는 주식들: 화이자, 애플, 팔란티어, 지브라 테크놀로지스 외",
-    "link": "https://www.cnbc.com/2026/11/03/stocks-making-the-biggest-moves-premarket-pfe-pltr-aapl-zbra.html",
-    "published": "Tue, 03 Nov 2026 12:47:45 GMT",
-    "fetched_at": "2026-11-04 08:48:05",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "제약/바이오",
-      "기술",
-      "IT 하드웨어",
-      "산업재"
-    ],
-    "keywords": [
-      "프리마켓",
-      "개별주식",
-      "화이자",
-      "애플",
-      "팔란티어",
-      "지브라 테크놀로지스"
-    ],
-    "reason": "이 기사는 개장 전 개별 기업들의 주가 변동 목록을 나열하는 것으로, 특정 매크로 경제 지표나 시장 전반의 방향성을 제시하지 않습니다. 개별 기업 뉴스에 대한 후속 분석이 필요합니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Midterm elections 2026 live updates: Economy, inflation and other voter concerns",
-    "title_ko": "2026년 중간선거 실시간 업데이트: 경제, 인플레이션 및 기타 유권자 관심사",
-    "link": "https://www.cnbc.com/2026/11/03/midterm-elections-2026-live-updates.html",
-    "published": "Tue, 03 Nov 2026 18:40:15 GMT",
-    "fetched_at": "2026-11-04 03:49:49",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "거시 경제",
-      "정책 민감주"
-    ],
-    "keywords": [
-      "중간선거",
-      "미국 정치",
-      "경제 정책",
-      "인플레이션",
-      "의회"
-    ],
-    "reason": "2026년 미국 중간선거는 향후 2년간의 경제 정책 방향을 결정하며, 이는 재정 지출, 규제, 세금 정책 등을 통해 미국 및 글로벌 경제에 광범위한 영향을 미칠 수 있습니다. 선거 결과에 따라 시장의 불확실성이 증가하거나 특정 정책 기조에 대한 기대감이 형성될 수 있습니다.",
-    "action_point": "선거 결과에 따른 정책 변화 가능성을 고려하여 포트폴리오의 섹터 비중 조정 계획 수립."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "“30년 된 노동시장 이중구조, 이대로는 못 간다” - 중앙일보",
-    "title_ko": "“30년 된 노동시장 이중구조, 이대로는 못 간다”",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VY2RmWkY5TjhCbjdydkpnVEpkbS12SEpMb1VqV0xvdVRxVDA5dzlSMENIMTRJMlVDVkRqODlwcFNhTWVkcmI5RGExVUVCbDQ5VVQyTENB?oc=5",
-    "published": "Tue, 03 Nov 2026 15:14:00 GMT",
-    "fetched_at": "2026-11-04 03:50:14",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "제조업",
-      "서비스업"
-    ],
-    "keywords": [
-      "노동시장",
-      "이중구조",
-      "임금격차",
-      "구조개혁",
-      "고용유연성"
-    ],
-    "reason": "한국 경제의 고질적 노동시장 이중구조는 생산성 저하와 사회 불균형을 심화시켜 장기적인 성장 잠재력과 기업 경쟁력에 부정적 영향을 미친다. 관련 구조 개혁 논의가 국내 투자 환경의 중요한 변수가 될 것이다.",
-    "action_point": "향후 정부의 노동시장 개혁 정책 방향과 이에 따른 기업별 노동비용 및 유연성 변화를 면밀히 분석하여 중장기 포트폴리오 조정 전략을 검토하라."
   }
 ]
