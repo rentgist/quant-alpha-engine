@@ -2,6 +2,132 @@
   {
     "source": "CNBC_Finance",
     "market": "US",
+    "title": "Fed Governor Waller sees December hike likely, opens door to possible half-point increase",
+    "title_ko": "연준 월러 이사, 12월 금리 인상 가능성 시사 및 0.5%p 인상 가능성 열어둬",
+    "link": "https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html",
+    "published": "Tue, 10 Nov 2026 17:13:44 GMT",
+    "fetched_at": "2026-11-11 07:03:39",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "성장주",
+      "부동산",
+      "채권",
+      "금융"
+    ],
+    "keywords": [
+      "연준",
+      "금리 인상",
+      "통화 정책",
+      "월러 이사",
+      "인플레이션",
+      "긴축"
+    ],
+    "reason": "연준 이사의 매파적 발언은 시장에 금리 인상 속도 가속화 가능성을 시사하며, 이는 위험 자산에 대한 투자 심리를 위축시키고 채권 시장 변동성을 확대할 수 있습니다. 특히 0.5%p 인상 가능성은 예상보다 강한 긴축 우려를 자극합니다.",
+    "action_point": "고금리 환경 지속 가능성에 대비하여 성장주 비중 축소를 검토하고, 단기 채권 및 금리 인상 수혜 금융주에 대한 관심을 높여라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Tokenization: The next evolution of the stock market",
+    "title_ko": "토큰화: 주식 시장의 다음 진화",
+    "link": "https://www.cnbc.com/2026/11/10/tokenization-market-evolution.html",
+    "published": "Tue, 10 Nov 2026 18:28:16 GMT",
+    "fetched_at": "2026-11-11 07:03:47",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "금융",
+      "기술"
+    ],
+    "keywords": [
+      "토큰화",
+      "블록체인",
+      "디지털 자산",
+      "자산 유동성"
+    ],
+    "reason": "이 뉴스는 블록체인 기반의 토큰화가 주식 시장의 접근성, 이전 및 활용 방식을 근본적으로 개선하여 장기적으로 자산 유동성 증대 및 효율성 향상에 기여할 것임을 시사합니다.",
+    "action_point": "블록체인 기술 기반의 금융 서비스 및 플랫폼 기업에 대한 투자 비중 확대를 검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "반도체만 웃는 경제…서민 체감 경기는 ’한숨’ - 연합뉴스TV",
+    "title_ko": "반도체만 웃는 경제…서민 체감 경기는 ’한숨’ - 연합뉴스TV",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXRDNMaVREMXlaSE15V01PdzhzcHBjYXRYRUxwMHl3R2lzYVRSdm5aQWdMOThjOWYtYkJvandLMVVZWUs4NloyRU9jdTJuY2NVOEZodlBaWW9DNXJ5ai1wZVRoZzJrMWc?oc=5",
+    "published": "Tue, 10 Nov 2026 12:05:00 GMT",
+    "fetched_at": "2026-11-11 07:03:57",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "반도체",
+      "유통",
+      "소비재",
+      "금융",
+      "부동산"
+    ],
+    "keywords": [
+      "반도체",
+      "내수",
+      "소비심리",
+      "K자형 회복",
+      "경제 불균형"
+    ],
+    "reason": "국내 경제가 반도체 수출 호조에도 불구하고 서민 체감 경기가 악화되는 K자형 회복을 보여, 내수 기반 산업의 부진이 심화될 수 있음을 시사합니다. 이는 정부의 내수 진작책 필요성을 높이고, 금리 인하 압박으로 이어질 가능성도 있습니다.",
+    "action_point": "반도체 이외 국내 내수 및 소비 관련 섹터 투자 비중 재조정 검토."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "라이징 스타 부문, '뇌새김'에서 건강·뷰티까지",
+    "title_ko": "라이징 스타 부문, '뇌새김'에서 건강·뷰티까지",
+    "link": "https://www.mk.co.kr/news/business/12204436",
+    "published": "Wed, 11 Nov 2026 07:00:00 +09:00",
+    "fetched_at": "2026-11-11 07:04:12",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "교육 기술",
+      "건강",
+      "뷰티"
+    ],
+    "keywords": [
+      "EY 최우수 기업가상",
+      "라이징 스타",
+      "에듀테크",
+      "위버스마인드",
+      "정성은 대표",
+      "성장 기업"
+    ],
+    "reason": "이 기사는 특정 에듀테크 기업 대표가 'EY 최우수 기업가상'을 수상하며 건강·뷰티 분야로의 사업 확장 가능성을 보여준 개별 기업 성공 사례입니다. 거시경제나 주요 투자 자산 전반에 미치는 직접적인 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "패밀리 비즈니스 부문, 기술경영 50년 … 전력설비 글로벌 시장 열어",
+    "title_ko": "패밀리 비즈니스 부문, 기술경영 50년 … 전력설비 글로벌 시장 열어",
+    "link": "https://www.mk.co.kr/news/stock/12204434",
+    "published": "Wed, 11 Nov 2026 07:00:00 +09:00",
+    "fetched_at": "2026-11-11 07:04:18",
+    "sentiment": "호재",
+    "importance": 2,
+    "sectors": [
+      "전력설비",
+      "전력인프라"
+    ],
+    "keywords": [
+      "전력설비",
+      "기술경영",
+      "글로벌 시장",
+      "인프라"
+    ],
+    "reason": "개별 전력설비 기업의 기술 경쟁력과 글로벌 시장 개척 성공을 보여주는 사례로, 국내 전력 인프라 관련 섹터의 해외 수주 확대 가능성에 대한 긍정적 시그널로 해석됩니다.",
+    "action_point": "전력 설비 및 인프라 섹터 내 글로벌 경쟁력을 갖춘 기업 비중 확대를 검토."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
     "title": "U.S. gas prices fall below $4 for the first time since July",
     "title_ko": "미국 휘발유 가격, 7월 이후 처음으로 갤런당 4달러 아래로 하락",
     "link": "https://www.cnbc.com/2026/11/10/us-gas-prices-below-four-dollars.html",
@@ -2861,125 +2987,5 @@
     ],
     "reason": "경산시의 미분양 아파트 해소 노력은 지방 주택 시장의 공급 과잉 및 수요 부족 문제를 재확인시켜 줍니다. 이는 비수도권 지역 부동산 경기 침체 우려를 가중시키고 관련 건설 섹터에 부정적 영향을 미칠 수 있습니다.",
     "action_point": "국내 지방 부동산 개발 프로젝트 및 관련 건설 섹터 투자 비중 재검토."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "리센느 뜨기전 투자한 ‘신의 촉’…33억 넣어 600억 회수 대박도 터트렸다",
-    "title_ko": "리센느 뜨기전 투자한 ‘신의 촉’…33억 넣어 600억 회수 대박도 터트렸다",
-    "link": "https://www.mk.co.kr/news/economy/12196893",
-    "published": "Wed, 04 Nov 2026 20:48:17 +09:00",
-    "fetched_at": "2026-11-04 20:51:15",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "벤처캐피탈",
-      "사모펀드",
-      "엔터테인먼트",
-      "화장품"
-    ],
-    "keywords": [
-      "벤처투자",
-      "JB인베스트먼트",
-      "리센느",
-      "달바",
-      "고수익"
-    ],
-    "reason": "이 기사는 특정 벤처캐피탈의 엔터테인먼트 및 화장품 분야 초기 투자 성공 사례를 다루며, 사모시장의 높은 수익률 가능성을 보여줍니다. 거시경제나 공모시장 전반에 미칠 직접적인 영향은 제한적입니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "\"與 입법독주 막아야\" 헌정회장의 쓴소리",
-    "title_ko": "與 입법독주 막아야\" 헌정회장의 쓴소리",
-    "link": "https://www.mk.co.kr/news/politics/12196821",
-    "published": "Wed, 04 Nov 2026 20:07:05 +09:00",
-    "fetched_at": "2026-11-04 20:51:24",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [],
-    "keywords": [
-      "정치",
-      "입법 독주",
-      "여당",
-      "사법부",
-      "대통령"
-    ],
-    "reason": "대한민국헌정회 회장의 발언은 여야 간 입법 갈등 및 사법부 독립성 관련 정치적 긴장이 지속될 수 있음을 시사하며, 이는 중장기적으로 정책 불확실성을 높일 수 있습니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Treasury yields fall as investors crowd into bonds for safety amid election stock sell-off",
-    "title_ko": "미 중간선거 민주당 압승에 따른 주식 매도세 속 안전자산 선호로 미 국채금리 하락",
-    "link": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html",
-    "published": "Wed, 04 Nov 2026 03:24:03 GMT",
-    "fetched_at": "2026-11-04 12:56:55",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "주식시장",
-      "채권시장",
-      "환율시장"
-    ],
-    "keywords": [
-      "미국 중간선거",
-      "민주당",
-      "국채금리",
-      "안전자산",
-      "주식 매도"
-    ],
-    "reason": "미국 중간선거 민주당의 예상 밖 압승으로 정책 불확실성이 증대되며 주식시장에서 자금이 이탈, 안전자산인 채권으로 몰리며 국채금리가 하락했습니다.",
-    "action_point": "시장 불확실성 증대에 대비하여 안전자산(채권, 달러) 비중 확대 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Stock futures fall on speculation Democrats to win big in midterms, slow data center buildout: Live updates",
-    "title_ko": "민주당 중간선거 압승 및 데이터센터 확장 둔화 가능성으로 주식 선물 하락: 실시간 업데이트",
-    "link": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html",
-    "published": "Wed, 04 Nov 2026 03:47:12 GMT",
-    "fetched_at": "2026-11-04 12:57:20",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "기술",
-      "반도체",
-      "클라우드 컴퓨팅"
-    ],
-    "keywords": [
-      "미국 중간선거",
-      "민주당",
-      "데이터센터",
-      "기술주",
-      "시장심리"
-    ],
-    "reason": "민주당의 중간선거 압승 가능성과 데이터센터 확장 둔화 전망은 기술 섹터에 대한 부정적 심리를 야기하며, 전반적인 시장 성장 모멘텀 약화로 이어질 수 있습니다.",
-    "action_point": "데이터센터 관련 기술주 및 반도체 섹터 비중 축소를 검토하고 시장 변동성에 대비하십시오."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[속보] 국회 법사위, 국힘 퇴장 속 ‘조작기소 특검법안’ 상정 - JTBC",
-    "title_ko": "[속보] 국회 법사위, 국힘 퇴장 속 ‘조작기소 특검법안’ 상정 - JTBC",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82blBXS3Uya3VqMG83SlY1aERacFctVjVVdVpYV0w3OUs0UTZjMjdZVElfWWtWc0FnMTJFdHk3dGxIRWtqY0lmR3pMZUdpa0VmMTZCRw?oc=5",
-    "published": "Wed, 04 Nov 2026 02:31:00 GMT",
-    "fetched_at": "2026-11-04 12:57:40",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "국내 증시"
-    ],
-    "keywords": [
-      "국회",
-      "법사위",
-      "특검법",
-      "정치적 불확실성",
-      "여야 갈등"
-    ],
-    "reason": "국회 내 여야 갈등이 심화되고 있음을 보여주는 사건으로, 국내 정치적 불확실성을 높여 전반적인 국내 증시 투자 심리에 부정적인 영향을 미칠 수 있습니다.",
-    "action_point": "해당 없음"
   }
 ]
