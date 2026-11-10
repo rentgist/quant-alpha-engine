@@ -1,5 +1,78 @@
 [
   {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Goldman CEO Solomon says AI financing remains strong despite market jitters",
+    "title_ko": "골드만 CEO 솔로몬, 시장 불안에도 AI 자금 조달 여전히 강력",
+    "link": "https://www.cnbc.com/2026/11/09/goldman-ceo-ai-financing-market.html",
+    "published": "Mon, 09 Nov 2026 18:14:47 GMT",
+    "fetched_at": "2026-11-10 10:14:13",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "기술",
+      "반도체",
+      "클라우드 컴퓨팅"
+    ],
+    "keywords": [
+      "AI 투자",
+      "골드만삭스",
+      "데이터센터",
+      "기술주"
+    ],
+    "reason": "골드만삭스 CEO의 발언은 AI 산업에 대한 장기적 투자 심리가 견고함을 시사하며, AI 관련 기술주 및 인프라 섹터에 긍정적인 신호로 작용합니다. 이는 단기적 시장 변동성에도 불구하고 AI 성장 동력이 지속될 것임을 암시합니다.",
+    "action_point": "AI 관련 기술주 및 인프라 섹터 비중 유지 또는 확대 검토."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Jensen Huang exit odds are low on prediction markets after Nvidia probe",
+    "title_ko": "엔비디아 조사 후 젠슨 황 CEO의 사임 가능성이 예측 시장에서 낮게 평가됨",
+    "link": "https://www.cnbc.com/2026/11/09/jensen-huang-nvidia-exit-prediction-markets.html",
+    "published": "Mon, 09 Nov 2026 18:46:01 GMT",
+    "fetched_at": "2026-11-10 10:14:06",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "반도체",
+      "인공지능(AI)",
+      "기술주"
+    ],
+    "keywords": [
+      "젠슨 황",
+      "엔비디아",
+      "CEO",
+      "반도체",
+      "인공지능(AI)",
+      "리더십 안정성"
+    ],
+    "reason": "예측 시장에서 엔비디아 CEO 젠슨 황의 사임 가능성이 낮게 평가됨에 따라, 회사의 리더십 안정성이 확인되어 투자 불확실성이 해소되는 긍정적인 신호입니다. 이는 엔비디아 주가 및 AI/반도체 섹터에 우호적인 영향을 미칠 수 있습니다.",
+    "action_point": "엔비디아 및 AI 반도체 섹터에 대한 기존 투자 비중을 유지."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "PepsiCo to cut about 1,000 jobs as North American business struggles",
+    "title_ko": "펩시코, 북미 사업 부진으로 약 1,000명 감원 계획",
+    "link": "https://www.cnbc.com/2026/11/09/pepsico-north-america-job-cuts.html",
+    "published": "Mon, 09 Nov 2026 23:31:17 GMT",
+    "fetched_at": "2026-11-10 10:14:29",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "소비재",
+      "식음료"
+    ],
+    "keywords": [
+      "펩시코",
+      "감원",
+      "북미 시장",
+      "소비재"
+    ],
+    "reason": "펩시코의 감원은 북미 소비재 시장의 경쟁 심화와 비용 압박, 또는 소비자 수요 둔화를 시사합니다. 이는 해당 섹터 전반의 수익성 악화 가능성을 높이는 요인입니다.",
+    "action_point": "북미 소비재 섹터 투자 비중 축소 또는 방어적 종목으로의 전환을 검토."
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "Goldman says 'the pieces are in place' for a shift in Treasury yields, global 10-years",
@@ -2920,84 +2993,5 @@
     ],
     "reason": "트럼프의 이란 전쟁 정당성 강조 발언은 중동 지역 지정학적 리스크를 증폭시키며, 글로벌 에너지 공급망과 유가 불안정성을 키울 수 있습니다. 이는 투자 심리를 위축시키고 안전 자산 선호를 강화하는 요인으로 작용할 것입니다.",
     "action_point": "중동 지정학적 리스크 심화에 대비하여 원자재 섹터 내 에너지 관련 자산 비중 확대 및 안전 자산(금, 달러) 보유 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Apple shares slide after weak margin outlook; Palantir slumps 8% after earnings",
-    "title_ko": "애플 주가, 마진 전망 부진에 하락; 팔란티어, 실적 발표 후 8% 급락",
-    "link": "https://www.cnbc.com/2026/11/03/apple-palantir-stock-earnings.html",
-    "published": "Tue, 03 Nov 2026 10:34:38 GMT",
-    "fetched_at": "2026-11-03 20:29:42",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "기술",
-      "IT 하드웨어",
-      "소프트웨어"
-    ],
-    "keywords": [
-      "애플",
-      "팔란티어",
-      "실적",
-      "마진 전망",
-      "기술주"
-    ],
-    "reason": "주요 기술 기업들의 실적 부진과 마진 전망 악화는 전반적인 기술주 투자 심리를 위축시키고, 성장주에 대한 경계심을 높일 수 있습니다.",
-    "action_point": "글로벌 기술주의 높은 밸류에이션에 대한 재검토 및 포트폴리오 내 비중 조절을 고려하십시오."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "“주식? 물려도 될 만한 종목에 물려야죠”…고금리시대, 과감한 손절 기준은",
-    "title_ko": "“주식? 물려도 될 만한 종목에 물려야죠”…고금리시대, 과감한 손절 기준은",
-    "link": "https://www.mk.co.kr/news/stock/12195235",
-    "published": "Tue, 03 Nov 2026 19:48:39 +09:00",
-    "fetched_at": "2026-11-03 20:31:45",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "조선",
-      "에너지",
-      "건설"
-    ],
-    "keywords": [
-      "고금리",
-      "조정장",
-      "재테크",
-      "실적주",
-      "조선",
-      "에너지",
-      "건설"
-    ],
-    "reason": "고금리 기조가 당분간 지속될 것이라는 전망 속, 시장 조정기에 실적 기반의 안정적인 종목 선별이 중요하며, 특히 조선, 에너지, 건설 업종이 유망하게 제시되었다.",
-    "action_point": "고금리 조정장 장기화에 대비하여 조선, 에너지, 건설 섹터 내 실적 우량주 비중 확대를 검토하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "“남 걱정할 때인가”…고려아연, 영풍엔 재수사·MBK엔 홈플러스 사태 직격",
-    "title_ko": "“남 걱정할 때인가”…고려아연, 영풍엔 재수사·MBK엔 홈플러스 사태 직격",
-    "link": "https://www.mk.co.kr/news/business/12195227",
-    "published": "Tue, 03 Nov 2026 19:29:02 +09:00",
-    "fetched_at": "2026-11-03 20:32:07",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "비철금속",
-      "지주회사",
-      "유통"
-    ],
-    "keywords": [
-      "고려아연",
-      "영풍",
-      "MBK",
-      "홈플러스",
-      "석포제련소",
-      "중금속 오염",
-      "기업 지배구조"
-    ],
-    "reason": "고려아연의 주요 주주 및 관계사(영풍, MBK)를 둘러싼 법적 및 지배구조 리스크가 부각되어, 관련 기업들의 주가에 불확실성이 확대될 수 있습니다.",
-    "action_point": "고려아연 및 영풍 주식의 기업 지배구조 리스크를 재평가하고 포트폴리오 내 비중 재조정을 검토하라."
   }
 ]
