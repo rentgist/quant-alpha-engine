@@ -1,5 +1,33 @@
 [
   {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Alibaba announces plans to list T-Head, its Nvidia chip rival",
+    "title_ko": "알리바바, 엔비디아 경쟁사인 T-Head의 상장 계획 발표",
+    "link": "https://www.cnbc.com/2026/11/11/alibaba-pr.html",
+    "published": "Wed, 11 Nov 2026 07:47:54 GMT",
+    "fetched_at": "2026-11-11 19:01:41",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "반도체",
+      "기술",
+      "인공지능",
+      "클라우드 컴퓨팅"
+    ],
+    "keywords": [
+      "Alibaba",
+      "T-Head",
+      "엔비디아",
+      "반도체",
+      "AI칩",
+      "상장",
+      "경쟁"
+    ],
+    "reason": "알리바바의 T-Head 상장 추진은 글로벌 AI 반도체 시장의 경쟁 심화를 의미하며, 특히 중국 기술 기업들의 자립적인 칩 개발 역량 강화 추세를 보여줍니다. 이는 엔비디아 등 기존 선두 기업들에게 장기적인 경쟁 압력으로 작용할 수 있습니다.",
+    "action_point": "AI 반도체 섹터 내 경쟁 심화에 대비해 관련 기업들의 장기 경쟁력과 밸류에이션을 재평가하라."
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "CoreWeave beats on revenue and lifts guidance, easing AI slowdown concerns",
@@ -2965,28 +2993,5 @@
     ],
     "reason": "유로존의 높은 인플레이션은 유럽중앙은행(ECB)의 조기 금리 인상 압력을 높여 글로벌 유동성 축소와 채권 수익률 상승을 야기할 수 있습니다. 이는 성장주와 위험자산 전반에 하방 압력으로 작용할 가능성이 큽니다.",
     "action_point": "유럽발 금리 인상 압력에 대비하여 성장주 비중 축소 및 금융/가치주 섹터 관심 유지."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[속보] 트럼프 \"중간선거 결과 수용 의향…민주당과 협력할 것\" - 연합뉴스",
-    "title_ko": "[속보] 트럼프 \"중간선거 결과 수용 의향…민주당과 협력할 것\"",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VSXRONHJBN1dQUV92QXQ2QTZnbEdNZ1JGYzM5NlUxQ3loRlA1QmVyaWdidXdRLVR1MjNUYjA2RjdtSHA5ODhweE9UZW1YM2hUTFZMb0dhZVBzSlnSAWBBVV95cUxOdVhrSVhBa2RfcVNqemxIbVloSmdyUkU1YWlrNy05SjE1Tk1NX2lRRldtMFJBbGsxUC1YaTE4UlhsdnoxNm44SnJMYzlyeGozQzRaRjNNN1ZjZWFtMmpWZ00?oc=5",
-    "published": "Wed, 04 Nov 2026 04:01:40 GMT",
-    "fetched_at": "2026-11-04 20:50:34",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "글로벌 증시",
-      "금융시장 전반"
-    ],
-    "keywords": [
-      "트럼프",
-      "중간선거",
-      "정치 안정",
-      "불확실성 완화"
-    ],
-    "reason": "트럼프 전 대통령의 발언은 미국 정치의 불확실성을 완화하고 정치적 분열에 대한 시장의 우려를 일부 해소하여 전반적인 투자심리 개선에 긍정적인 영향을 미칠 수 있습니다.",
-    "action_point": "미국 정치 불확실성 완화 기대감에 따라 포트폴리오 내 위험자산 비중을 유지하라."
   }
 ]
