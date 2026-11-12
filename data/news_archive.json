@@ -1,5 +1,124 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Alice Huang tied to Nvidia’s biggest Chinese competitor",
+    "title_ko": "앨리스 황, 엔비디아의 최대 중국 경쟁사와 연루",
+    "link": "https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html",
+    "published": "Thu, 12 Nov 2026 22:47:28 GMT",
+    "fetched_at": "2026-11-13 07:59:08",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "반도체",
+      "인공지능",
+      "IT 하드웨어"
+    ],
+    "keywords": [
+      "엔비디아",
+      "화웨이",
+      "반도체",
+      "경쟁",
+      "미중 기술 패권"
+    ],
+    "reason": "엔비디아 CEO의 이해 상충 가능성 제기 및 핵심 경쟁사인 화웨이의 컴퓨팅 파워 강화 시그널로, 반도체 섹터 내 경쟁 심화 및 엔비디아에 대한 투자 심리 위축 가능성이 있습니다.",
+    "action_point": "엔비디아 관련 주식 비중을 검토하고, 미중 기술 경쟁 심화에 따른 반도체 섹터의 변동성 확대에 대비하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "트럼프 \"이란과 합의 불필요\"에 국제유가 급등…브렌트유 3.3%↑ - 연합뉴스",
+    "title_ko": "트럼프 \"이란과 합의 불필요\"에 국제유가 급등…브렌트유 3.3%↑",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XX0U2WTBDS0RyWlBIYUpMUktXX0h5d09vaXVCelpJLWFnX0ZDbE1CTUFCSmRjc1B3UVpnaU9Md3c3dDUtM0xmLW9vUzkzcXlTaHpwcUFmS185OUHSAWBBVV95cUxNdGlRTHBzUnpUT1EzZndEVnJYR0pacDJJMmduV0Rxd21xQ2FuUVNjY0VrWlpqLUR5R3NZRFNOZFZCN1E4cG9VaGwzYzVJZVdPWmcyaHZPaUVvLWRZUFpRWUI?oc=5",
+    "published": "Thu, 12 Nov 2026 20:50:52 GMT",
+    "fetched_at": "2026-11-13 07:59:39",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "항공",
+      "해운",
+      "석유화학",
+      "제조업"
+    ],
+    "keywords": [
+      "트럼프",
+      "이란",
+      "국제유가",
+      "지정학",
+      "인플레이션"
+    ],
+    "reason": "트럼프의 대이란 강경 발언은 중동 지정학적 불안감을 고조시켜 국제유가를 급등시켰다. 이는 글로벌 인플레이션 압력을 가중시키고 에너지 수입국인 한국 기업의 비용 부담을 심화시킬 것이다.",
+    "action_point": "고유가에 민감한 항공, 해운, 석유화학 섹터의 비중 축소를 검토."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
+    "title_ko": "정책 변화: 연준, 2027년 10월 회의에서 금리 결정 투표 없을 것이라 발표",
+    "link": "https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html",
+    "published": "Thu, 12 Nov 2026 19:05:25 GMT",
+    "fetched_at": "2026-11-13 07:59:00",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [],
+    "keywords": [
+      "연준",
+      "FOMC",
+      "정책 변화",
+      "회의 일정"
+    ],
+    "reason": "2027년 10월 연준 회의가 금리 결정 투표 없이 심의만 진행됨으로써, 해당 시점의 정책 불확실성이 소폭 감소할 수 있으나 현재 시장이나 금리 경로에 즉각적인 영향은 없습니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Widespread Microsoft outage takes down Outlook and other 365 services",
+    "title_ko": "마이크로소프트 서비스 전반 장애 발생, 아웃룩 및 기타 365 서비스 중단",
+    "link": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
+    "published": "Thu, 12 Nov 2026 22:24:12 GMT",
+    "fetched_at": "2026-11-13 07:59:16",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "기술 (소프트웨어)",
+      "클라우드 서비스"
+    ],
+    "keywords": [
+      "마이크로소프트",
+      "서비스 장애",
+      "클라우드",
+      "Office 365",
+      "아웃룩",
+      "팀즈"
+    ],
+    "reason": "마이크로소프트 서비스의 일시적인 운영 장애는 사용자들에게 불편을 초래하지만, 이는 단기적인 기술적 문제로 거시 경제나 광범위한 시장 투자 심리에 중대한 영향을 미치지는 않을 것입니다.",
+    "action_point": "포트폴리오에 미칠 직접적인 영향은 미미하므로 해당 없음."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "금융지주 회장 연임 문턱 높여도…10명 중 8명은 가볍게 넘는다",
+    "title_ko": "금융지주 회장 연임 문턱 높여도…10명 중 8명은 가볍게 넘는다",
+    "link": "https://www.mk.co.kr/news/economy/12207590",
+    "published": "Fri, 13 Nov 2026 07:29:12 +09:00",
+    "fetched_at": "2026-11-13 07:59:50",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "금융",
+      "은행"
+    ],
+    "keywords": [
+      "금융지주",
+      "회장 연임",
+      "기업 지배구조",
+      "주주총회"
+    ],
+    "reason": "금융지주 회장 연임 요건 강화에도 불구하고 대부분이 높은 찬성률로 재선에 성공, 금융권 지배구조의 안정성과 현 경영진의 영향력이 견고함을 시사합니다. 이는 현 경영 기조의 연속성을 의미합니다.",
+    "action_point": "금융주에 대한 투자 시 경영 안정성 지속 여부를 참고하되, 포트폴리오상 큰 변화는 해당 없음."
+  },
+  {
     "source": "Maeil_Business",
     "market": "KR",
     "title": "[속보] 엔비디아, 임시 CEO에 콜레트 크레스 CFO 임명",
@@ -2860,125 +2979,5 @@
     ],
     "reason": "드론과 AI의 부상에도 불구하고 전통적인 군사 장비에 대한 전 세계적 수요가 견고함을 시사하여, 기존 방위산업 기업들의 매출 및 수익 안정성이 지속될 것으로 보인다.",
     "action_point": "방위산업 섹터 내 전통 장비 제조 기업 비중 유지 또는 확대 검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "F-35, 곧 유럽산 미티어 장착…美·이란戰 ‘하늘의 전쟁’ 바꿔 韓·日도 장착 가능성 - 문화일보",
-    "title_ko": "F-35, 곧 유럽산 미티어 장착…美·이란戰 ‘하늘의 전쟁’ 바꿔 韓·日도 장착 가능성",
-    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBWbkQxRm5NR3N3RHRMb3VFdV9VX2lHcmYxajdMdWN3c2JLelBxRWx2TmtwQTF1QmxQUVhtOGFFLXJwNi1UU2Q5MVJ1VklrdWc2?oc=5",
-    "published": "Sat, 07 Nov 2026 14:03:10 GMT",
-    "fetched_at": "2026-11-07 23:47:44",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "방위산업"
-    ],
-    "keywords": [
-      "F-35",
-      "미티어",
-      "방위산업",
-      "지정학"
-    ],
-    "reason": "F-35의 성능 강화는 글로벌 방산 시장에 영향을 미치고, 특히 한일 양국의 공군 현대화 및 방위비 증가 가능성을 시사한다. 이는 중동 지역을 포함한 지정학적 긴장도에 미묘한 변화를 줄 수 있다.",
-    "action_point": "F-35 및 미티어 미사일 관련 방위산업 기업들의 실적 및 수주 동향을 면밀히 분석하여 투자 기회를 모색하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "젠슨 황과 중국 여성의 수상한 만남…AI 패권전쟁에 등장한 ‘미인계’ - 재외동포신문",
-    "title_ko": "젠슨 황과 중국 여성의 수상한 만남…AI 패권전쟁에 등장한 ‘미인계’",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE92ZGFOR0VZcWpVNy1BenZSbm92OGs1LWplWk5XM0xIUU5XV1JyaHNMcFdCOTgyYXVSS0poQWFpT0ZVN3RQY0tmM2gxb2FsM1NUVVJDbmo5RVA3VVd1cW1jQ1VyTk1BRGtsdl8tYQ?oc=5",
-    "published": "Sat, 07 Nov 2026 10:16:42 GMT",
-    "fetched_at": "2026-11-07 23:47:53",
-    "sentiment": "악재",
-    "importance": 2,
-    "sectors": [
-      "AI",
-      "반도체",
-      "IT하드웨어"
-    ],
-    "keywords": [
-      "젠슨 황",
-      "AI",
-      "미중 패권",
-      "반도체",
-      "지정학적 리스크"
-    ],
-    "reason": "이 기사는 미중 AI 패권 경쟁의 심화와 기술 탈취 시도 가능성을 시사하며, 이는 글로벌 기술 공급망의 불확실성을 높이고 관련 기업들의 지정학적 리스크를 부각할 수 있습니다.",
-    "action_point": "미중 기술 패권 경쟁에 노출된 AI 및 반도체 섹터 기업에 대한 지정학적 리스크 평가를 강화하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "‘당내 갈등·지지율 정체’ 김민석 체제, 반등의 조건은",
-    "title_ko": "‘당내 갈등·지지율 정체’ 김민석 체제, 반등의 조건은",
-    "link": "https://www.mk.co.kr/news/politics/12201542",
-    "published": "Sat, 07 Nov 2026 22:12:43 +09:00",
-    "fetched_at": "2026-11-07 23:48:10",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [],
-    "keywords": [
-      "당내 갈등",
-      "지지율",
-      "더불어민주당",
-      "국민의힘",
-      "총선",
-      "민생"
-    ],
-    "reason": "국내 주요 정당의 내부 갈등 및 지지율 동향은 향후 총선 결과와 정책 방향에 간접적인 영향을 미칠 수 있으나, 현 시점에서 금융 시장 전반에 미치는 직접적인 영향은 제한적입니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "“주식도 코인처럼”…내 자산 어디까지 쪼개질까? [경제한방] - KBS 뉴스",
-    "title_ko": "“주식도 코인처럼”…내 자산 어디까지 쪼개질까? [경제한방] - KBS 뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOMlAxeXhKa0VGc21hUHh2cFFpTEhSNTg1SDU4Qy10bjVoQmxsSk8wV1JXR09KX0ZNSkZYOFZITm9XdTZFNjAtMzZVWElOSVlNUkZmb3AzNWJ3WW8?oc=5",
-    "published": "Sat, 07 Nov 2026 05:12:00 GMT",
-    "fetched_at": "2026-11-07 17:00:52",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "금융",
-      "IT/기술",
-      "부동산",
-      "대안투자"
-    ],
-    "keywords": [
-      "조각투자",
-      "자산 토큰화",
-      "증권형 토큰",
-      "블록체인",
-      "디지털 자산"
-    ],
-    "reason": "자산의 조각화 및 토큰화는 향후 전통 자산의 유동성과 접근성을 높이고 새로운 투자 기회를 창출할 수 있는 금융 시장의 장기적인 구조 변화입니다.",
-    "action_point": "향후 도입될 조각투자 및 증권형 토큰 시장의 규제 및 상품 개발 동향을 주시하며 새로운 투자 기회 발굴에 대비하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Investors brace for lower Anthropic valuation, calling $1.5 trillion a 'stretch'",
-    "title_ko": "투자자들, 앤트로픽 가치 하락에 대비하며 1.5조 달러는 '과도하다' 평가",
-    "link": "https://www.cnbc.com/2026/11/06/investors-brace-for-anthropic-valuation-1point5-trillion-a-stretch.html",
-    "published": "Fri, 06 Nov 2026 21:07:07 GMT",
-    "fetched_at": "2026-11-07 10:27:49",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "인공지능(AI)",
-      "기술주",
-      "벤처캐피탈"
-    ],
-    "keywords": [
-      "앤트로픽",
-      "AI",
-      "기업가치",
-      "기술주",
-      "투자심리"
-    ],
-    "reason": "AI 대장주 중 하나인 앤트로픽의 기업가치 하락 전망은 AI 섹터 전반의 과열된 투자심리가 조정 국면에 진입하고 있음을 시사하며, 이는 기술주 전반에 대한 투자 심리에 부정적 영향을 미칠 수 있습니다.",
-    "action_point": "AI 관련 고평가 기술주 비중 축소를 검토하고, 실질적인 수익 모델을 갖춘 기업 위주로 AI 포트폴리오를 재편하십시오."
   }
 ]
