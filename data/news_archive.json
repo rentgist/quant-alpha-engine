@@ -1,5 +1,131 @@
 [
   {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "How the Jensen Huang affair changes the outlook for U.S.-China relations",
+    "title_ko": "젠슨 황 사태가 미·중 관계 전망을 어떻게 바꾸는가",
+    "link": "https://www.cnbc.com/2026/11/13/jensen-huang-nvidia-us-china-relations.html",
+    "published": "Fri, 13 Nov 2026 02:56:35 GMT",
+    "fetched_at": "2026-11-13 12:09:57",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "반도체",
+      "기술",
+      "제조업",
+      "글로벌 무역"
+    ],
+    "keywords": [
+      "미중 관계",
+      "미중 정상회담",
+      "반도체",
+      "기술 경쟁",
+      "지정학"
+    ],
+    "reason": "젠슨 황 사태가 언급되며 미·중 정상회담을 앞두고 양국 간 기술 경쟁 및 무역 갈등이 심화될 수 있음을 시사합니다. 이는 글로벌 공급망의 불확실성을 높이고 관련 기업들의 실적에 부정적인 영향을 미칠 수 있습니다.",
+    "action_point": "미중 기술 갈등 고조에 따른 반도체 및 첨단 기술 섹터의 단기 변동성 확대에 대비하여 해당 포트폴리오 비중 축소를 고려하고, 안정적인 공급망을 갖춘 기업으로 리밸런싱을 검토하십시오."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Stock futures rise after market dips amid Nvidia woes: Live updates",
+    "title_ko": "엔비디아 악재 속 시장 하락 후 주가지수 선물 상승: 실시간 업데이트",
+    "link": "https://www.cnbc.com/2026/11/12/stock-market-today-live-updates.html",
+    "published": "Fri, 13 Nov 2026 02:29:27 GMT",
+    "fetched_at": "2026-11-13 12:10:06",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "기술",
+      "반도체"
+    ],
+    "keywords": [
+      "엔비디아",
+      "젠슨 황",
+      "CEO 사임",
+      "기술주 하락",
+      "시장 변동성"
+    ],
+    "reason": "엔비디아 CEO 젠슨 황의 사임 소식은 기술 및 반도체 섹터에 급격한 하방 압력을 가하며, 단기적으로 시장 전반의 투자 심리를 위축시킬 수 있습니다.",
+    "action_point": "기술주 및 반도체 섹터 비중 축소 또는 해당 포지션 리스크 관리 강화 검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "한일경제연대, AI·반도체 공동개발부터 경제공동체까지…2045년 목표 3단계 로드맵 제시 - 인공지능신문",
+    "title_ko": "한일경제연대, AI·반도체 공동개발부터 경제공동체까지…2045년 목표 3단계 로드맵 제시",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlekItNE45ZDRaT0VsMU9RUUNobTh2bTRjQnU3Uk8wZWp3cDdrQVBBQk5xamtUbExoVDRzSlYxdGdwYy1BbktDOHU4NUI0VkhoX2Q0NHU5VWFOTVRBYzA1YW5QeEdRd3c?oc=5",
+    "published": "Fri, 13 Nov 2026 02:36:30 GMT",
+    "fetched_at": "2026-11-13 12:10:20",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "반도체",
+      "인공지능",
+      "기술",
+      "IT하드웨어"
+    ],
+    "keywords": [
+      "한일 경제연대",
+      "AI",
+      "반도체",
+      "경제공동체",
+      "기술 협력"
+    ],
+    "reason": "한일 양국이 AI 및 반도체 분야에서 공동 개발을 포함한 장기 경제 협력 로드맵을 제시하여, 양국의 핵심 산업 경쟁력 강화 및 공급망 안정화에 기여할 것으로 전망됩니다. 이는 장기적으로 기술 섹터의 펀더멘털 개선을 시사합니다.",
+    "action_point": "한일 기술 협력 수혜가 예상되는 국내 반도체 및 AI 관련 대형 기술주 비중 확대 검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "정부 “수출 큰 폭 증가했지만, 중동 전쟁·AI 정책 불확실성 지속” - Chosunbiz",
+    "title_ko": "정부 “수출 큰 폭 증가했지만, 중동 전쟁·AI 정책 불확실성 지속” - Chosunbiz",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPS3o3T2pGbGQ3SnVEcm1wd2k0aWxyUDJEMUk0Z1dkQ1dsZ0p2dGxCc0c4SUtGQzhLcWhjV25Kckp0VGVvNGZPbWFFSlFncVcyeWNlSnBVelNWTjBCczVhY0pJekRHZDVIX09nNEQwcnRrTE9PRngtZ2JDbEdtMFF5YXN1dUFvQdIBmgFBVV95cUxNenJCZHkyQ0todE1UOFhoV0xNd0VOdThRR3EyUHgyTjBZWnQxd1FjclQtZ2lidGFpMDVNWFFzX2JNTXBfd3dGdzRUMk0tamR1MFhtaWpLWmhOR2Z3ZW0wX0poMmhkdjZTOWJJdTNEQWxORjNpd2FvaFJ4X0g0WmkxTXdNOGVBYm4wVFQ4ZVd1THdHb2V2YmZTenhn?oc=5",
+    "published": "Fri, 13 Nov 2026 01:02:46 GMT",
+    "fetched_at": "2026-11-13 12:10:32",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "IT/반도체",
+      "자동차",
+      "에너지",
+      "방산"
+    ],
+    "keywords": [
+      "수출",
+      "중동 전쟁",
+      "AI 정책",
+      "경제 불확실성",
+      "지정학적 리스크"
+    ],
+    "reason": "한국 정부의 경제 전망은 수출 호조를 긍정적으로 평가하면서도, 중동 지역 지정학적 리스크와 AI 정책 불확실성이 지속되어 시장 전반의 변동성을 높일 수 있음을 시사한다.",
+    "action_point": "수출 호조에 기반한 성장주 비중을 유지하되, 지정학적 위험 고조 시 유가 및 환율 변동성 확대에 대비한 헤지 전략을 모색하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Cramer says Jensen Huang betrayed Nvidia shareholders. How to pick up the pieces",
+    "title_ko": "크레이머, 젠슨 황이 엔비디아 주주들을 배신했다고 비난. 사태 수습 방안은?",
+    "link": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-exit-cramer.html",
+    "published": "Thu, 12 Nov 2026 23:14:56 GMT",
+    "fetched_at": "2026-11-13 12:10:14",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "반도체",
+      "인공지능",
+      "기술"
+    ],
+    "keywords": [
+      "젠슨 황",
+      "엔비디아",
+      "CEO 리스크",
+      "리더십"
+    ],
+    "reason": "엔비디아 CEO 젠슨 황의 리더십 리스크에 대한 우려를 제기하며, AI 및 반도체 섹터 전반에 대한 투자 심리에 부정적인 영향을 미칠 수 있습니다. 이는 최고 경영자 의존도가 높은 기업에 대한 잠재적 경고로 해석될 여지가 있습니다.",
+    "action_point": "엔비디아와 같이 특정 CEO 의존도가 높은 성장주의 포트폴리오 비중을 재점검하고 리스크 관리를 강화하라."
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "Alice Huang tied to Nvidia’s biggest Chinese competitor",
@@ -2858,126 +2984,5 @@
     ],
     "reason": "이 기사는 AI 산업 전반, 특히 데이터센터 건설에 대한 대중적, 정치적 반감이 커지고 있음을 시사하며, 이는 AI 기업들의 IPO 및 향후 성장에 대한 투자심리를 위축시키고 규제 위험을 높일 수 있습니다.",
     "action_point": "AI 및 데이터센터 관련 섹터 투자 비중 축소 또는 신중한 접근 검토."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "보험금 분쟁 막는 데 집중…지급 공정성·소비자 보호 강화하는 보험사",
-    "title_ko": "보험금 분쟁 막는 데 집중…지급 공정성·소비자 보호 강화하는 보험사",
-    "link": "https://www.mk.co.kr/news/economy/12201540",
-    "published": "Sat, 07 Nov 2026 22:05:40 +09:00",
-    "fetched_at": "2026-11-08 04:13:23",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "보험",
-      "금융서비스"
-    ],
-    "keywords": [
-      "보험금 분쟁",
-      "소비자 보호",
-      "보험사",
-      "지급 공정성"
-    ],
-    "reason": "본 뉴스는 보험 업계가 소비자 보호 및 보험금 지급 공정성 강화를 통해 분쟁을 줄이려는 내부적 노력을 보여줍니다. 이는 개별 보험사의 운영 안정성과 신뢰도에 긍정적일 수 있으나, 거시 경제 또는 광범위한 자산 시장에 미치는 영향은 제한적입니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Risk of Iran war escalation remains high despite Democratic sweep in U.S. midterm elections",
-    "title_ko": "미국 중간선거 민주당 압승에도 이란 전쟁 확전 위험 여전히 높아",
-    "link": "https://www.cnbc.com/2026/11/07/iran-war-midterm-election-oil-price-trump.html",
-    "published": "Sat, 07 Nov 2026 13:03:12 GMT",
-    "fetched_at": "2026-11-07 23:47:01",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "에너지",
-      "방산",
-      "글로벌 증시"
-    ],
-    "keywords": [
-      "이란",
-      "중동",
-      "지정학",
-      "전쟁",
-      "유가",
-      "위험회피"
-    ],
-    "reason": "중동 지역의 지정학적 긴장 고조는 국제 유가 상승 압력을 가하고, 투자자들의 위험 회피 심리를 자극하여 전반적인 금융 시장에 하방 압력으로 작용할 수 있습니다. 특히 이란 관련 이슈는 에너지 공급망 불안정을 심화시킵니다.",
-    "action_point": "중동 지정학적 긴장 고조에 따른 국제 유가 급등 가능성에 대비하여 에너지 관련 자산 비중을 확대하고 방어적 자산(금, 달러) 보유를 강화하라."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
-    "title_ko": "버크셔 해서웨이, 3분기 실적 감소에도 자사주 매입 두 배 이상 확대",
-    "link": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html",
-    "published": "Sat, 07 Nov 2026 14:02:49 GMT",
-    "fetched_at": "2026-11-07 23:46:55",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "금융",
-      "지주회사"
-    ],
-    "keywords": [
-      "버크셔 해서웨이",
-      "자사주 매입",
-      "실적",
-      "주주환원"
-    ],
-    "reason": "버크셔 해서웨이의 자사주 매입 확대는 실적 부진에도 불구하고 경영진이 자사 주가를 저평가로 판단하고 주주환원에 집중함을 시사한다. 이는 개별 기업의 주가 방어 및 주주가치 제고에 긍정적이나, 광범위한 시장에 미치는 매크로 영향은 제한적이다.",
-    "action_point": "시장 변동성 속에서 자사주 매입 여력이 있는 견고한 현금 흐름의 우량 가치주에 대한 관심을 유지."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Why a wave of bomb threats is proving so difficult for Europe's aviation authorities to contain",
-    "title_ko": "유럽 항공 당국이 폭탄 위협의 물결을 막기 어려운 이유",
-    "link": "https://www.cnbc.com/2026/11/07/hoax-bomb-threats-flights-europe.html",
-    "published": "Sat, 07 Nov 2026 09:01:57 GMT",
-    "fetched_at": "2026-11-07 23:47:08",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "항공",
-      "여행",
-      "관광",
-      "보험"
-    ],
-    "keywords": [
-      "항공 보안",
-      "테러 위협",
-      "유럽 항공",
-      "여행 산업"
-    ],
-    "reason": "유럽 항공 보안 취약성 노출은 항공사들의 운영 비용 증가 및 운항 차질을 유발하고, 승객 불안감 증폭으로 항공 및 여행 산업 전반의 수요 위축을 초래할 수 있습니다.",
-    "action_point": "유럽 노출 비중이 높은 항공 및 여행 관련 주식의 비중 축소를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Drones are changing warfare. But defense giants are still making billions from old-school weapons",
-    "title_ko": "드론이 전쟁의 양상을 바꾸고 있지만, 방위산업 거대 기업들은 여전히 구식 무기로 수십억 달러를 벌고 있다.",
-    "link": "https://www.cnbc.com/2026/11/06/defense-military-tech-earnings.html",
-    "published": "Fri, 06 Nov 2026 10:39:51 GMT",
-    "fetched_at": "2026-11-07 23:47:17",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "방위산업",
-      "항공우주"
-    ],
-    "keywords": [
-      "방위산업",
-      "전통무기",
-      "드론",
-      "전쟁",
-      "AI"
-    ],
-    "reason": "드론과 AI의 부상에도 불구하고 전통적인 군사 장비에 대한 전 세계적 수요가 견고함을 시사하여, 기존 방위산업 기업들의 매출 및 수익 안정성이 지속될 것으로 보인다.",
-    "action_point": "방위산업 섹터 내 전통 장비 제조 기업 비중 유지 또는 확대 검토."
   }
 ]
