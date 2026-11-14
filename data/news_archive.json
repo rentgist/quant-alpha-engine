@@ -1,5 +1,348 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "흔들리는 ‘AI 중앙은행’…젠슨 황 스캔들, 기존 CEO 리스크와 결이 다르다 - 한겨레",
+    "title_ko": "흔들리는 ‘AI 중앙은행’…젠슨 황 스캔들, 기존 CEO 리스크와 결이 다르다",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBHWTZFckI3ZU5jcjhUOUdZNExUc215YjRJdllJR011VVNEdzQ4YWw0c1BKcnBOU3Y1MzJmeWFHdUFDRXZTbHk4R0oydXRCaHlIeDh5R0puNUtzXzBfYUVwVFZRSFUxclk?oc=5",
+    "published": "Sat, 14 Nov 2026 10:21:00 GMT",
+    "fetched_at": "2026-11-14 23:39:42",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "AI",
+      "반도체",
+      "기술"
+    ],
+    "keywords": [
+      "젠슨 황",
+      "엔비디아",
+      "AI",
+      "스캔들",
+      "CEO 리스크"
+    ],
+    "reason": "엔비디아의 젠슨 황 CEO 스캔들은 AI 산업의 핵심 인프라 공급자의 리더십 불확실성을 증폭시켜, 관련 섹터 투자심리에 부정적 영향을 줄 수 있습니다. 이는 AI 기술 성장에 대한 장기적 전망에 대한 재평가로 이어질 가능성이 있습니다.",
+    "action_point": "AI/반도체 섹터 내 엔비디아 및 관련 기업의 투자 비중을 재검토하고, 리스크 관리를 강화하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "엔비디아 위기는 삼전에 기회? ‘깐부’ 젠슨 황 스캔들의 역설 [주말 Q&A] - 더스쿠프",
+    "title_ko": "엔비디아 위기는 삼전에 기회? ‘깐부’ 젠슨 황 스캔들의 역설",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9rcm9oNjJHaVFNTjI0b0h1bDRQZVM1bzllSkFjLWpsNUFCU1g4X2hmMFpJOEM1SlBWdGluUHR1ZFpVbWg5Qnlkdm5Lai1Mdkh4S2N1ZnhwWnkzOVJyTVlrX3BjcXF0VjlGNmNqMU5R?oc=5",
+    "published": "Sat, 14 Nov 2026 10:02:50 GMT",
+    "fetched_at": "2026-11-14 23:40:05",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "반도체",
+      "IT하드웨어",
+      "인공지능"
+    ],
+    "keywords": [
+      "엔비디아",
+      "삼성전자",
+      "젠슨 황",
+      "AI 반도체",
+      "HBM"
+    ],
+    "reason": "엔비디아의 잠재적 위기는 AI 반도체 시장 내 경쟁 구도 변화를 야기하며, 삼성전자가 HBM 및 파운드리 부문에서 입지를 강화할 기회가 될 수 있습니다. 이는 국내 반도체 섹터의 투자심리에 긍정적 영향을 미칠 가능성이 있습니다.",
+    "action_point": "삼성전자 등 국내 AI 반도체 관련 대형주 비중 확대를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Berkshire breaks out to record high with fourth-quarter rally reaching 19%",
+    "title_ko": "버크셔 해서웨이, 4분기 19% 랠리 기록하며 사상 최고치 경신",
+    "link": "https://www.cnbc.com/2026/11/14/berkshire-breaks-out-to-record-high-with-fourth-quarter-rally-reaching-19percent.html",
+    "published": "Sat, 14 Nov 2026 14:02:39 GMT",
+    "fetched_at": "2026-11-14 23:39:14",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "금융",
+      "다각화된 사업",
+      "가치주"
+    ],
+    "keywords": [
+      "버크셔 해서웨이",
+      "사상 최고치",
+      "가치주",
+      "주식 시장"
+    ],
+    "reason": "버크셔 해서웨이의 사상 최고치 경신은 가치주 및 대형 우량 기업에 대한 시장의 신뢰를 보여주며, 이는 광범위한 주식 시장의 강세를 시사할 수 있습니다.",
+    "action_point": "장기적 관점에서 안정적인 수익을 추구하는 가치주 및 우량 기업 비중 유지 또는 확대 검토."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "How Canadian stocks could be big winners of U.S. midterms",
+    "title_ko": "미국 중간선거의 주요 수혜주가 될 수 있는 캐나다 주식",
+    "link": "https://www.cnbc.com/2026/11/14/canada-stocks-us-midterms-tariffs.html",
+    "published": "Sat, 14 Nov 2026 14:11:48 GMT",
+    "fetched_at": "2026-11-14 23:39:27",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "에너지",
+      "원자재",
+      "금융"
+    ],
+    "keywords": [
+      "캐나다 증시",
+      "미국 중간선거",
+      "시장 차별화",
+      "북미 경제"
+    ],
+    "reason": "미국 중간선거 이후 캐나다 증시가 S&P 500 대비 뚜렷하게 아웃퍼폼하며 북미 시장 내 투자 선호도 변화 가능성을 시사합니다. 이는 지정학적 요인이나 섹터별 특성에 따른 자금 이동을 유발할 수 있습니다.",
+    "action_point": "캐나다 증시의 상대적 강세 원인 분석 및 북미 지역 자산 배분 전략 재검토를 통해 포트폴리오 다각화 기회를 모색하십시오."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "순방 전 내치 다지기…민생·경제 행보 총력 - 연합뉴스TV",
+    "title_ko": "순방 전 내치 다지기…민생·경제 행보 총력",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10Y2ozYVZvdmtsZjU0WG41Wm8tdlh3ZHBjeVR3LWtxb1ZFVlMzVEJtZTVRREFFWGR5cXBoOFE1YlJiZi0ybGhEb1JBYjVlTFJFZ2I2SUp1eXlOdmRKR0tNS2V2b21JMmM?oc=5",
+    "published": "Sat, 14 Nov 2026 08:29:00 GMT",
+    "fetched_at": "2026-11-14 23:39:34",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "내수 관련주",
+      "소비재",
+      "중소기업"
+    ],
+    "keywords": [
+      "정부 정책",
+      "민생 안정",
+      "경제 활성화",
+      "내수 부양"
+    ],
+    "reason": "정부의 민생·경제 최우선 행보는 국내 경기 안정화 및 부양책 기대감을 높여 내수 관련 자산에 긍정적인 영향을 미칠 수 있습니다. 정책적 지원이 구체화될 경우 시장 전반의 심리 개선에도 기여할 것입니다.",
+    "action_point": "국내 경기 민감주 및 내수 소비재 섹터에 대한 관심 확대 검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[속보] 트럼프, `中 간첩설`에도 엔비디아 주식 `풀매수`…이해충돌 논란 - 매일신문",
+    "title_ko": "[속보] 트럼프, `中 간첩설`에도 엔비디아 주식 `풀매수`…이해충돌 논란 - 매일신문",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBJc1dyY2VhTUZ6OGpNUXRsSWpBNW9zUEtiZHZOSndRMkNKLXBTNXFDMVpnbEplS0hFNXBfbjhqSTVsNHlYT3NaY2c2UUg3SHZtU1pZa3pQaTAxX1FFdGNlUF93?oc=5",
+    "published": "Sat, 14 Nov 2026 09:08:46 GMT",
+    "fetched_at": "2026-11-14 23:40:25",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "반도체",
+      "기술",
+      "정치/정책"
+    ],
+    "keywords": [
+      "트럼프",
+      "엔비디아",
+      "반도체",
+      "중국",
+      "이해충돌",
+      "지정학"
+    ],
+    "reason": "이 뉴스는 주요 반도체 기업 엔비디아와 전/현직 대통령의 이해충돌 논란을 다루며, 이는 반도체 섹터에 대한 정치적 노이즈를 증가시키고 향후 규제 환경 변화 가능성에 대한 불확실성을 높일 수 있습니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "브로드컴 뛰자 같이 뛰었다…기판株 코리아써키트, 51% 반등 [이주의 Bull기둥]",
+    "title_ko": "브로드컴 뛰자 같이 뛰었다…기판株 코리아써키트, 51% 반등 [이주의 Bull기둥]",
+    "link": "https://www.mk.co.kr/news/stock/12209039",
+    "published": "Sat, 14 Nov 2026 22:53:51 +09:00",
+    "fetched_at": "2026-11-14 23:40:53",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "반도체",
+      "인쇄회로기판(PCB)",
+      "AI"
+    ],
+    "keywords": [
+      "브로드컴",
+      "코리아써키트",
+      "PCB",
+      "반도체",
+      "AI",
+      "젠슨황",
+      "코어위브"
+    ],
+    "reason": "AI 관련 인프라 투자 확대와 브로드컴, 코어위브 등 주요 기업의 긍정적 전망이 반도체 및 PCB 산업 전반의 실적 개선 기대감을 높이며 관련 기업 주가에 호재로 작용한다. 이는 AI 성장 모멘텀이 실물 경제 및 기업 실적으로 이어지고 있음을 시사한다.",
+    "action_point": "AI 반도체 및 고성능 컴퓨팅(HPC) 관련 부품 섹터 비중 확대 검토."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Flight disruptions continue after FAA lifts ground stop, some college football games delayed",
+    "title_ko": "미국 FAA 운항 중단 해제에도 항공편 차질 지속, 일부 대학 미식축구 경기 지연",
+    "link": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
+    "published": "Sat, 14 Nov 2026 14:01:19 GMT",
+    "fetched_at": "2026-11-14 23:38:58",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "항공",
+      "여행",
+      "물류"
+    ],
+    "keywords": [
+      "FAA",
+      "항공편",
+      "운항 중단",
+      "지연",
+      "여행"
+    ],
+    "reason": "미국 내 일시적인 항공 운항 차질로 항공 및 여행 섹터에 단기적인 운송 지연 및 매출 영향이 예상되나, 거시경제 전반에 미치는 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "How Rockstar's 'GTA IV' release could reshape gaming, streaming and even paid time off",
+    "title_ko": "락스타의 'GTA VI' 출시가 게임, 스트리밍, 심지어 유급 휴가까지 재편할 수 있는 방법",
+    "link": "https://www.cnbc.com/2026/11/14/gta-6-grand-theft-auto-launch.html",
+    "published": "Sat, 14 Nov 2026 14:00:01 GMT",
+    "fetched_at": "2026-11-14 23:39:07",
+    "sentiment": "호재",
+    "importance": 2,
+    "sectors": [
+      "게임",
+      "미디어/엔터테인먼트",
+      "IT 서비스 (스트리밍)",
+      "식음료 (배달)"
+    ],
+    "keywords": [
+      "GTA VI",
+      "게임 산업",
+      "스트리밍",
+      "엔터테인먼트",
+      "소비재"
+    ],
+    "reason": "메가 히트 게임 'GTA VI'의 출시는 게임, 스트리밍, 음악 등 관련 엔터테인먼트 산업 전반에 걸쳐 막대한 소비 지출과 참여를 유발하여 해당 기업들의 매출 증대에 긍정적인 영향을 미칠 것으로 예상됩니다.",
+    "action_point": "글로벌 게임 및 미디어/엔터테인먼트 섹터 내 관련 기업의 장기적인 성장 가능성을 면밀히 검토하고 투자 비중 확대를 고려."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "기후위기, 인간 사회 폭력 부를까…유골 1600구 분석해보니 - DongA Science",
+    "title_ko": "기후위기, 인간 사회 폭력 부를까…유골 1600구 분석해보니",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5VNmI3Sm9XOU9EeTFmNG9BallBTFNhbDJhd0h0Y1YtMFVjREROMTBjSHRnWnBJd3ZJRlhfcDNIZHVIcXRPUkFicTVIbG9NSjMwbTNScA?oc=5",
+    "published": "Sat, 14 Nov 2026 09:00:00 GMT",
+    "fetched_at": "2026-11-14 23:39:49",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [],
+    "keywords": [
+      "기후위기",
+      "사회불안",
+      "장기리스크",
+      "환경변화"
+    ],
+    "reason": "이 연구는 기후변화가 장기적으로 사회적 불안정성과 폭력을 증대시킬 수 있다는 점을 시사하지만, 단기 금융시장 변동성에는 직접적인 영향을 미치지 않습니다. 이는 기후변화 관련 비재무적 리스크에 대한 인식을 높이는 데 기여합니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "“폐타이어·폐비닐로 만들어 찝찝?”…‘친환경 시멘트’ 유해성 따져보니",
+    "title_ko": "“폐타이어·폐비닐로 만들어 찝찝?”…‘친환경 시멘트’ 유해성 따져보니",
+    "link": "https://www.mk.co.kr/news/business/12209041",
+    "published": "Sat, 14 Nov 2026 22:54:32 +09:00",
+    "fetched_at": "2026-11-14 23:40:38",
+    "sentiment": "호재",
+    "importance": 2,
+    "sectors": [
+      "건설",
+      "폐기물 처리",
+      "환경"
+    ],
+    "keywords": [
+      "친환경 시멘트",
+      "폐기물 활용",
+      "중금속",
+      "온실가스 저감",
+      "건설 자재"
+    ],
+    "reason": "폐기물 활용 친환경 시멘트의 안전성이 확인되어 관련 산업의 신뢰도 및 시장 확대에 긍정적이며, 건설 섹터의 ESG 경영 강화에 기여할 것입니다.",
+    "action_point": "국내 친환경 건설 자재 관련 기업 투자 비중 확대 검토"
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "“생선은 먹고 싶은데 굽는 건 너무 싫다고?”…‘깔끔한’ 전자레인지 구이 뜬다",
+    "title_ko": "“생선은 먹고 싶은데 굽는 건 너무 싫다고?”…‘깔끔한’ 전자레인지 구이 뜬다",
+    "link": "https://www.mk.co.kr/news/business/12209040",
+    "published": "Sat, 14 Nov 2026 22:54:12 +09:00",
+    "fetched_at": "2026-11-14 23:40:46",
+    "sentiment": "호재",
+    "importance": 2,
+    "sectors": [
+      "식품",
+      "간편식(HMR)",
+      "유통"
+    ],
+    "keywords": [
+      "생선구이",
+      "간편식",
+      "CJ제일제당",
+      "식품 트렌드"
+    ],
+    "reason": "전자레인지용 간편 생선구이 제품의 매출 증가는 소비자들의 편의성 추구 트렌드를 반영하며, 국내 주요 HMR(가정간편식) 제조사들의 실적 개선에 긍정적 영향을 미칠 것입니다.",
+    "action_point": "국내 간편식(HMR) 관련 식품 제조사들의 포트폴리오 비중 확대를 검토."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "“수학여행 가고 싶어요”…교사 ‘기소 제한’ 카드 꺼낸 국회",
+    "title_ko": "“수학여행 가고 싶어요”…교사 ‘기소 제한’ 카드 꺼낸 국회",
+    "link": "https://www.mk.co.kr/news/politics/12209036",
+    "published": "Sat, 14 Nov 2026 22:34:42 +09:00",
+    "fetched_at": "2026-11-14 23:41:00",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "교육 서비스"
+    ],
+    "keywords": [
+      "교사 기소 제한",
+      "수학여행",
+      "학교 안전",
+      "교육 정책"
+    ],
+    "reason": "교사의 현장체험학습 중 안전사고 관련 기소 부담을 완화하여 위축된 학교 현장체험학습을 활성화하려는 법안으로, 교육 서비스 부문에 미시적인 긍정적 영향이 있을 수 있으나 거시 경제 및 주요 투자 자산에 미칠 직접적인 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "“크리스마스 한 달 남았지만 벌써 설레”…외식·케이크·선물 ‘선점 전쟁’",
+    "title_ko": "“크리스마스 한 달 남았지만 벌써 설레”…외식·케이크·선물 ‘선점 전쟁’",
+    "link": "https://www.mk.co.kr/news/business/12209030",
+    "published": "Sat, 14 Nov 2026 21:55:39 +09:00",
+    "fetched_at": "2026-11-14 23:41:18",
+    "sentiment": "호재",
+    "importance": 2,
+    "sectors": [
+      "유통",
+      "호텔/레저",
+      "외식",
+      "경기관련소비재"
+    ],
+    "keywords": [
+      "크리스마스",
+      "소비심리",
+      "연말특수",
+      "유통업",
+      "외식업"
+    ],
+    "reason": "연말 성수기를 앞두고 외식 및 선물 시장의 높은 사전 예약률과 수요 급증은 국내 소비 심리가 여전히 견조하며, 특히 재량 소비 지출이 활발함을 보여줍니다. 이는 관련 유통, 호텔, 외식 기업들의 4분기 실적 개선에 긍정적으로 작용할 수 있습니다.",
+    "action_point": "국내 유통, 호텔/레저, 외식 섹터 내 연말 특수 수혜 기업 비중 확대 검토."
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "Trump doesn’t plan to raise Nvidia, spy issue during China trip: U.S. officials",
@@ -2643,348 +2986,5 @@
     ],
     "reason": "이번 뉴스는 엔비디아 CEO의 사생활 문제와 중국 스파이 의혹이 결부되어 기업 지배구조 및 국가 안보 위험을 야기하며, 엔비디아는 물론 관련 반도체 및 AI 기술 섹터 전반에 대한 규제 및 감시 강화를 초래할 수 있습니다. 이는 미중 기술 패권 경쟁 심화와 맞물려 해당 섹터 투자 심리에 부정적인 영향을 미칠 것입니다.",
     "action_point": "엔비디아를 포함한 주요 반도체 및 AI 기술주의 규제 리스크를 재평가하고, 포트폴리오 내 해당 섹터 비중 조정 여부를 검토하십시오."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Rubio sees little hope of diplomatic breakthrough to Mideast deadlock amid 'outrageous' Iranian demands",
-    "title_ko": "루비오, '터무니없는' 이란 요구로 중동 외교 교착상태 돌파구 기대난",
-    "link": "https://www.cnbc.com/2026/11/09/us-iran-war-trump-hormuz.html",
-    "published": "Mon, 09 Nov 2026 11:09:14 GMT",
-    "fetched_at": "2026-11-10 02:59:31",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "방산",
-      "해운"
-    ],
-    "keywords": [
-      "이란",
-      "중동",
-      "외교",
-      "협상 교착",
-      "지정학적 리스크",
-      "유가"
-    ],
-    "reason": "미국 고위 관계자의 이란 협상 교착 발언은 중동 지정학적 긴장 지속을 시사하며, 이는 글로벌 유가 변동성 확대 및 에너지 시장 불안정으로 이어질 수 있습니다.",
-    "action_point": "중동 지정학적 리스크 지속에 대비하여 에너지 섹터 비중을 점검하고, 유가 변동성에 대한 헤지 전략을 고려하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "트럼프 ‘황금함대·골든돔’ 좌초 위기…중간선거 패배에 제동 - 중앙일보",
-    "title_ko": "트럼프 ‘황금함대·골든돔’ 좌초 위기…중간선거 패배에 제동",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RZGE2V2xJMlVpaC1fVDJOazNQMktKbkUwamxsb2Fwc0oycDJYT05GbUYtcGFhZjFDalI5M0RkOHZwU1ZsQzRKc1g3cGN5Qk9PdWtkVmhB?oc=5",
-    "published": "Mon, 09 Nov 2026 16:10:22 GMT",
-    "fetched_at": "2026-11-10 03:00:24",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "반도체",
-      "자동차",
-      "해운"
-    ],
-    "keywords": [
-      "트럼프",
-      "미국 중간선거",
-      "미국 정치",
-      "보호무역주의"
-    ],
-    "reason": "트럼프의 정치적 영향력 약화는 과거 보호무역주의 정책 재현 가능성을 낮춰 글로벌 통상 환경의 불확실성을 완화하고 시장 안정에 긍정적인 영향을 줄 수 있습니다.",
-    "action_point": "글로벌 통상 환경 개선 기대에 따라 반도체, 자동차, 해운 등 주요 수출 섹터의 비중 확대 가능성을 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Could supplements be the next big opportunity in the GLP-1 weight-loss drug boom?",
-    "title_ko": "GLP-1 체중 감량 약물 붐에 보충제가 다음 큰 기회가 될 수 있을까?",
-    "link": "https://www.cnbc.com/2026/11/09/novonesis-glp1-weight-loss-drugs-supplements-probiotics.html",
-    "published": "Mon, 09 Nov 2026 13:27:57 GMT",
-    "fetched_at": "2026-11-10 02:59:38",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "제약/바이오",
-      "건강기능식품"
-    ],
-    "keywords": [
-      "GLP-1",
-      "체중 감량 약물",
-      "보충제",
-      "장 건강"
-    ],
-    "reason": "GLP-1 체중 감량 약물 시장이 보충제 분야로 확장될 가능성을 제시하며, 관련 제약/바이오 및 건강기능식품 섹터에 새로운 투자 기회를 창출할 수 있습니다.",
-    "action_point": "GLP-1 체중 감량 약물과 연계된 건강기능식품 및 장 건강 관련 기업의 투자 가치 재평가."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Boeing to cut 5% of commercial airplane workforce as production increase is slower than expected",
-    "title_ko": "보잉, 예상보다 더딘 생산량 증가로 상업용 항공기 인력 5% 감축 예정",
-    "link": "https://www.cnbc.com/2026/11/09/boeing-layoffs-commercial-airplane.html",
-    "published": "Mon, 09 Nov 2026 17:57:58 GMT",
-    "fetched_at": "2026-11-10 02:59:44",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "항공우주 및 방위산업",
-      "산업재"
-    ],
-    "keywords": [
-      "보잉",
-      "생산 지연",
-      "인력 감축",
-      "항공기 산업"
-    ],
-    "reason": "보잉의 인력 감축은 예상보다 더딘 생산량 증가에 따른 것으로, 글로벌 항공우주 및 산업재 섹터의 공급망 문제 또는 수요 둔화를 시사하여 전반적인 산업 생산 회복세에 대한 우려를 증폭시킬 수 있습니다.",
-    "action_point": "항공우주 및 산업재 섹터에 대한 투자 비중을 재검토하고, 관련 공급망 기업들의 실적 하향 조정 가능성에 대비하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "가업상속공제 놓고 여야 ‘충돌’…종부세 강화엔 나란히 제동",
-    "title_ko": "가업상속공제 놓고 여야 ‘충돌’…종부세 강화엔 나란히 제동",
-    "link": "https://www.mk.co.kr/news/economy/12203086",
-    "published": "Mon, 09 Nov 2026 23:48:57 +09:00",
-    "fetched_at": "2026-11-10 03:00:56",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "부동산",
-      "건설",
-      "중소기업"
-    ],
-    "keywords": [
-      "가업상속공제",
-      "종합부동산세",
-      "세법개정",
-      "부동산",
-      "기업승계"
-    ],
-    "reason": "가업상속공제는 여야 간 충돌로 정책 불확실성이 지속되나, 종합부동산세 강화에는 여야 모두 제동을 걸며 국내 부동산 시장의 세금 부담 완화 가능성을 시사합니다.",
-    "action_point": "종합부동산세 강화가 제동된 점을 고려하여 국내 부동산 관련 자산의 보유 전략을 유지하고, 관련 섹터의 추가 정책 완화 가능성을 주시하십시오."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "[단독] 정부가 낸 법안에 정부가 ‘유감’…호텔·병원 가업상속 혜택 놓고 부처 충돌",
-    "title_ko": "[단독] 정부가 낸 법안에 정부가 ‘유감’…호텔·병원 가업상속 혜택 놓고 부처 충돌",
-    "link": "https://www.mk.co.kr/news/economy/12203045",
-    "published": "Mon, 09 Nov 2026 22:59:50 +09:00",
-    "fetched_at": "2026-11-10 03:01:04",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "관광",
-      "의료",
-      "부동산"
-    ],
-    "keywords": [
-      "가업상속공제",
-      "세제개편",
-      "정부부처갈등",
-      "호텔",
-      "병원"
-    ],
-    "reason": "정부 부처 간 가업상속공제 대상 업종을 두고 갈등이 발생하여 관련 업종의 세금 부담 증가 및 정책 불확실성이 커질 수 있습니다. 이는 해당 산업의 장기적인 투자 및 성장에 부정적인 영향을 미칠 수 있습니다.",
-    "action_point": "가업상속공제 대상 제외 가능성이 있는 관광호텔, 병원 등 관련 자산 보유 비중을 재검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Why tech workers are flocking to NYC",
-    "title_ko": "기술 인력들이 뉴욕으로 몰려드는 이유",
-    "link": "https://www.cnbc.com/make-it/2026/11/09/new-york-city-tech-workers-jobs.html",
-    "published": "Mon, 09 Nov 2026 14:15:02 GMT",
-    "fetched_at": "2026-11-10 02:59:55",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "부동산",
-      "IT/기술",
-      "서비스"
-    ],
-    "keywords": [
-      "뉴욕",
-      "기술 인력",
-      "부동산",
-      "기술 허브"
-    ],
-    "reason": "기술 인력과 기업들이 뉴욕으로 이동하며 뉴욕이 새로운 기술 허브로 부상하고 있음을 시사한다. 이는 뉴욕 지역의 부동산 및 서비스 산업에 긍정적인 영향을 미칠 수 있다.",
-    "action_point": "미국 뉴욕 지역 부동산 및 관련 인프라 자산 투자 기회를 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "트럼프, CBS 공식 인터뷰서 \"경제 성과 탁월했지만 전달 부족\" - 연합인포맥스",
-    "title_ko": "트럼프, CBS 공식 인터뷰서 \"경제 성과 탁월했지만 전달 부족\"",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ETXd5OFZWYVd4NkozU3BKc3hmWDhrbHA0aEJWUmVkdTJkRldyOE5wOG9lTEJ3ZG10b2VsdjRPY0ZWX0U1cHVmbllVTVAybk1EODVONTRDRlhMMFBORElBem50dnlnTUJtOGhwV2UyemI?oc=5",
-    "published": "Mon, 09 Nov 2026 07:38:15 GMT",
-    "fetched_at": "2026-11-10 03:00:39",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [],
-    "keywords": [
-      "트럼프",
-      "미국 경제",
-      "정치"
-    ],
-    "reason": "트럼프 전 대통령이 과거 자신의 경제 성과를 자평하고 소통의 중요성을 언급한 발언이다. 이는 현재 시장의 방향이나 투자 자산에 직접적인 영향을 미치지 않는 과거 회고성 발언으로 해석된다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "From supermarket fridges to passenger flights, a wave of threats is testing Europe's defenses",
-    "title_ko": "유럽의 방어 체계를 시험하는 위협의 물결: 슈퍼마켓 냉장고부터 여객기까지",
-    "link": "https://www.cnbc.com/2026/11/09/europe-fridge-hacks-bomb-threats-cyberattack.html",
-    "published": "Mon, 09 Nov 2026 05:00:01 GMT",
-    "fetched_at": "2026-11-09 16:27:34",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "사이버 보안",
-      "운송",
-      "유통",
-      "방산"
-    ],
-    "keywords": [
-      "유럽",
-      "사이버 공격",
-      "인프라",
-      "테러 위협",
-      "안보"
-    ],
-    "reason": "유럽 전역에 걸친 사이버 공격 및 테러 위협은 핵심 인프라 마비를 야기하여 경제 활동에 불확실성을 가중시키고 투자 심리를 위축시킬 수 있습니다. 이는 특히 관련 산업의 운영 비용 증가 및 잠재적 손실로 이어질 가능성이 있습니다.",
-    "action_point": "사이버 보안 관련 ETF 또는 개별 종목 편입을 고려하고, 유럽 인프라 의존도가 높은 기업 비중 축소를 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "China wholesale inflation hits highest in more than four years as consumer measure slows",
-    "title_ko": "중국 생산자 물가 4년여 만에 최고치 기록, 소비자 물가는 둔화",
-    "link": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html",
-    "published": "Mon, 09 Nov 2026 02:50:22 GMT",
-    "fetched_at": "2026-11-09 16:27:43",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "제조업",
-      "소비재",
-      "산업재",
-      "원자재"
-    ],
-    "keywords": [
-      "중국 인플레이션",
-      "생산자 물가 지수",
-      "소비자 물가 지수",
-      "원가 상승",
-      "공급망"
-    ],
-    "reason": "중국 생산자 물가의 급등은 글로벌 공급망 전반에 걸쳐 제조업체의 원가 부담을 가중시킬 것이며, 소비자 물가 둔화와 결합될 경우 기업들의 마진 압박을 심화시킬 수 있습니다.",
-    "action_point": "중국 공급망 의존도가 높거나 원자재 수입 비중이 큰 국내외 제조업 섹터의 마진 악화 가능성을 점검하고 투자 비중을 재검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "소강상태 들어간 이란 전쟁... 트럼프마저 재공격 가능성 \"매우 작아\" - JTBC",
-    "title_ko": "소강상태 들어간 이란 전쟁... 트럼프마저 재공격 가능성 \"매우 작아\"",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAwQ3M4eUxkMGpidlVIblZtclFydFBQc2NzZlh4TEp4cVU1aHNCbVlXd1oyaXpIQWI1Q0l1LWZCLVIzZXNaOHBTQzZ0YTctWFhhS2xPMw?oc=5",
-    "published": "Mon, 09 Nov 2026 05:11:00 GMT",
-    "fetched_at": "2026-11-09 16:28:16",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "항공",
-      "해운",
-      "방위산업"
-    ],
-    "keywords": [
-      "이란",
-      "중동",
-      "지정학적 위험",
-      "유가",
-      "트럼프"
-    ],
-    "reason": "중동발 지정학적 리스크가 완화되면서 글로벌 유가 하락 압력이 발생하고, 전반적인 투자 심리가 개선되어 위험 자산 선호 심리가 강화될 것으로 예상됩니다.",
-    "action_point": "중동 지정학적 위험 완화에 따른 유가 하락 가능성을 고려하여 에너지 관련 자산 비중 축소 및 위험 자산 비중 확대 검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[성명] 한국정부와 한국석유공사는 이스라엘의 전쟁범죄 지원과 방조를 즉각 중단하라 - 민주노총",
-    "title_ko": "[성명] 한국정부와 한국석유공사는 이스라엘의 전쟁범죄 지원과 방조를 즉각 중단하라 - 민주노총",
-    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1vX0hNYWdNX0VqN0NYQmk0RlgwblVLQUFBTFEtY29LU3R0cGNnRlZkM1ZaRUdTbTZ2N1JVcDhONGVJV0hSdXVxTktSdkY?oc=5",
-    "published": "Mon, 09 Nov 2026 07:15:16 GMT",
-    "fetched_at": "2026-11-09 16:27:58",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [],
-    "keywords": [
-      "민주노총",
-      "한국정부",
-      "한국석유공사",
-      "이스라엘",
-      "중동",
-      "지정학"
-    ],
-    "reason": "민주노총의 성명은 한국 정부의 중동 정책에 대한 국내 압력을 시사하지만, 당장 투자 자산에 직접적인 영향을 미치는 정책 변화나 시장 이벤트는 아니다. 해당 뉴스는 기존 중동 지정학적 리스크에 대한 국내 여론의 한 측면을 보여줄 뿐이다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Trump says renewed Iran strikes ‘highly unlikely’ if talks progress but warns he could still strike",
-    "title_ko": "트럼프, 이란 핵 협상 진전 시 추가 공격 ‘매우 낮다’ 시사, 하지만 공격 가능성은 여전히 경고",
-    "link": "https://www.cnbc.com/2026/11/08/trump-iran-strikes-unlikely-talks-hormuz.html",
-    "published": "Sun, 08 Nov 2026 21:53:02 GMT",
-    "fetched_at": "2026-11-09 09:19:50",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "방위산업",
-      "해운",
-      "원자재"
-    ],
-    "keywords": [
-      "트럼프",
-      "이란",
-      "핵 협상",
-      "호르무즈 해협",
-      "지정학적 위험",
-      "유가"
-    ],
-    "reason": "트럼프의 발언은 이란과의 군사적 충돌 가능성을 단기적으로 낮춰 유가에 하방 압력을 주지만, 협상 실패 시 재공격 가능성을 언급하며 지정학적 불확실성이 해소되지 않았음을 시사한다.",
-    "action_point": "단기적인 유가 하락 압력에 대비하여 원유 관련 포트폴리오를 점검하고, 중동 지정학적 리스크 재부상 가능성에 대한 헤지 전략을 고려하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Stock futures rise slightly as investors eye AI trade, brace for more data and earnings: Live updates",
-    "title_ko": "투자자들이 AI 거래를 주시하고 추가 데이터 및 실적에 대비하면서 주식 선물 소폭 상승: 실시간 업데이트",
-    "link": "https://www.cnbc.com/2026/11/08/stock-market-today-live-updates.html",
-    "published": "Sun, 08 Nov 2026 23:44:41 GMT",
-    "fetched_at": "2026-11-09 09:19:56",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "기술",
-      "반도체",
-      "소프트웨어",
-      "인터넷",
-      "성장주"
-    ],
-    "keywords": [
-      "AI",
-      "인플레이션 데이터",
-      "기업 실적",
-      "주식 선물",
-      "성장주"
-    ],
-    "reason": "이번 주는 핵심 인플레이션 데이터와 AI 관련 기업 실적이 시장 방향성을 결정할 주요 변수가 될 것입니다. AI 테마의 지속 여부와 금리 기대 변화가 시장 전반에 영향을 미칠 수 있습니다.",
-    "action_point": "단기적으로 AI 관련 기업의 실적 발표와 주요 인플레이션 지표 발표 전까지는 관망세를 유지하며, 현금 비중을 확보하라."
   }
 ]
