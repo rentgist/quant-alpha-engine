@@ -1,5 +1,29 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Nvidia is done with Jensen Huang. The fallout in Washington is just beginning",
+    "title_ko": "엔비디아, 젠슨 황 CEO와의 결별 임박? 워싱턴발 파장 시작",
+    "link": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-washington-congress.html",
+    "published": "Fri, 13 Nov 2026 23:54:36 GMT",
+    "fetched_at": "2026-11-14 09:06:55",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "반도체",
+      "기술"
+    ],
+    "keywords": [
+      "엔비디아",
+      "젠슨 황",
+      "CEO",
+      "미국 의회",
+      "반도체 규제"
+    ],
+    "reason": "엔비디아 CEO의 사임 또는 해임 가능성은 회사 경영의 불확실성을 증폭시키고 반도체 섹터 전반의 투자 심리를 위축시킬 것입니다. 미 의회의 압박은 향후 기술 규제 강화 및 지정학적 리스크 심화로 이어질 수 있습니다.",
+    "action_point": "엔비디아 및 반도체 섹터 비중 축소 또는 매도 검토"
+  },
+  {
     "source": "CNBC_Finance",
     "market": "US",
     "title": "Lutnick faces questions over Nvidia spy scandal. His sons’ firm has deep ties to the chipmaker",
@@ -2966,31 +2990,5 @@
     ],
     "reason": "추수감사절 연휴 항공권 가격 상승 및 강력한 수요 지속은 항공/여행 섹터의 실적 개선 기대감을 높일 수 있으나, 전반적인 서비스 인플레이션 압력이 여전히 존재함을 시사합니다.",
     "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Israel’s president taps opposition candidate Eisenkot to form a government, in setback for Netanyahu",
-    "title_ko": "이스라엘 대통령, 야당 후보 아이젠코트에게 정부 구성 위임… 네타냐후에 타격",
-    "link": "https://www.cnbc.com/2026/11/07/israel-eisenkot-netanyahu.html",
-    "published": "Sat, 07 Nov 2026 22:36:37 GMT",
-    "fetched_at": "2026-11-08 19:54:41",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "방산",
-      "원자재",
-      "금융"
-    ],
-    "keywords": [
-      "이스라엘",
-      "정부 구성",
-      "네타냐후",
-      "정치적 불확실성",
-      "중동 정세"
-    ],
-    "reason": "이스라엘의 정치적 리더십 변화 가능성은 중동 지역의 지정학적 불안정성을 심화시킬 수 있으며, 이는 국제 유가 및 원자재 시장에 변동성을 초래할 수 있습니다.",
-    "action_point": "중동 정세 불안정 심화 가능성에 대비하여 에너지 섹터 및 중동 관련 투자 비중을 재검토하고 유가 변동성에 주의하십시오."
   }
 ]
