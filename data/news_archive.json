@@ -1,5 +1,78 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors",
+    "title_ko": "두 주요 투자자, 엔비디아 이사회에 '젠슨 황의 잠재적 복귀' 고려 촉구",
+    "link": "https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html",
+    "published": "Sat, 14 Nov 2026 17:46:06 GMT",
+    "fetched_at": "2026-11-15 04:36:44",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "기술",
+      "반도체",
+      "AI"
+    ],
+    "keywords": [
+      "엔비디아",
+      "젠슨황",
+      "CEO",
+      "리더십",
+      "불확실성",
+      "반도체"
+    ],
+    "reason": "엔비디아 CEO의 리더십 불확실성은 AI 및 반도체 섹터 전반에 투자 심리 위축을 야기하며, 글로벌 기술주 시장에 변동성을 증폭시킬 수 있습니다.",
+    "action_point": "반도체 및 AI 관련 기술주 비중 축소를 검토하고, 시장 변동성 확대에 대비하라."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts",
+    "title_ko": "엔비디아 혼란과 민주당의 의회 장악이 AI 투자를 어떻게 재편할 수 있는가, ETF 전문가 분석",
+    "link": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html",
+    "published": "Sat, 14 Nov 2026 15:50:43 GMT",
+    "fetched_at": "2026-11-15 04:36:34",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "반도체",
+      "인공지능",
+      "빅테크"
+    ],
+    "keywords": [
+      "엔비디아",
+      "AI 투자",
+      "반도체 경쟁",
+      "정치적 영향"
+    ],
+    "reason": "엔비디아의 내부적 혼란과 민주당의 의회 장악 가능성은 AI 관련 자금이 다른 빅테크 기업이나 경쟁 반도체 업체로 분산될 가능성을 시사합니다. 이는 AI 산업 내 투자 비중의 재조정으로 이어질 수 있습니다.",
+    "action_point": "AI 투자 포트폴리오 내 엔비디아 의존도를 낮추고, 빅테크 및 경쟁 반도체 기업으로의 분산 투자 기회 모색"
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "‘한덕수 석방’ 임박…\"금기선\" \"전쟁\" 탄핵 압박 높이는 민주당 - JTBC",
+    "title_ko": "‘한덕수 석방’ 임박…\"금기선\" \"전쟁\" 탄핵 압박 높이는 민주당",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE14NHcwTkRNVXIwZ2tpUVIxZjM2NjFSbklWVnpXSzFsa09VLWpfZXYxdlZPa0x5RXFhWGRWNmVjeVNlMUxnV2tUUEZfVmJjRUlzaFB1ZQ?oc=5",
+    "published": "Sat, 14 Nov 2026 09:03:00 GMT",
+    "fetched_at": "2026-11-15 04:36:58",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "국내 주식 시장 전반"
+    ],
+    "keywords": [
+      "한덕수",
+      "탄핵",
+      "민주당",
+      "정치 불안",
+      "국내 정치"
+    ],
+    "reason": "총리 탄핵 압박은 국내 정치 불안정을 심화시키고 정책 불확실성을 가중시켜 국내 투자 심리에 부정적인 영향을 미칠 수 있습니다.",
+    "action_point": "국내 정치 불확실성 확대에 따른 국내 증시 변동성 증가 가능성을 고려하여 국내 주식 비중을 보수적으로 관리하라."
+  },
+  {
     "source": "GoogleNews_Korea",
     "market": "KR",
     "title": "흔들리는 ‘AI 중앙은행’…젠슨 황 스캔들, 기존 CEO 리스크와 결이 다르다 - 한겨레",
@@ -2910,81 +2983,5 @@
     ],
     "reason": "예측 시장에서 엔비디아 CEO 젠슨 황의 사임 가능성이 낮게 평가됨에 따라, 회사의 리더십 안정성이 확인되어 투자 불확실성이 해소되는 긍정적인 신호입니다. 이는 엔비디아 주가 및 AI/반도체 섹터에 우호적인 영향을 미칠 수 있습니다.",
     "action_point": "엔비디아 및 AI 반도체 섹터에 대한 기존 투자 비중을 유지."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "PepsiCo to cut about 1,000 jobs as North American business struggles",
-    "title_ko": "펩시코, 북미 사업 부진으로 약 1,000명 감원 계획",
-    "link": "https://www.cnbc.com/2026/11/09/pepsico-north-america-job-cuts.html",
-    "published": "Mon, 09 Nov 2026 23:31:17 GMT",
-    "fetched_at": "2026-11-10 10:14:29",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "소비재",
-      "식음료"
-    ],
-    "keywords": [
-      "펩시코",
-      "감원",
-      "북미 시장",
-      "소비재"
-    ],
-    "reason": "펩시코의 감원은 북미 소비재 시장의 경쟁 심화와 비용 압박, 또는 소비자 수요 둔화를 시사합니다. 이는 해당 섹터 전반의 수익성 악화 가능성을 높이는 요인입니다.",
-    "action_point": "북미 소비재 섹터 투자 비중 축소 또는 방어적 종목으로의 전환을 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Goldman says 'the pieces are in place' for a shift in Treasury yields, global 10-years",
-    "title_ko": "골드만삭스, 미국 국채 및 글로벌 10년물 금리의 변동 가능성 제기",
-    "link": "https://www.cnbc.com/2026/11/09/goldman-treasury-yields-bonds.html",
-    "published": "Mon, 09 Nov 2026 08:19:07 GMT",
-    "fetched_at": "2026-11-10 03:00:03",
-    "sentiment": "중립",
-    "importance": 5,
-    "sectors": [
-      "채권",
-      "기술주",
-      "부동산",
-      "금융",
-      "성장주"
-    ],
-    "keywords": [
-      "골드만삭스",
-      "국채 금리",
-      "10년물 금리",
-      "금리 변동",
-      "매크로"
-    ],
-    "reason": "골드만삭스가 글로벌 금리의 중대한 변화가 임박했음을 시사하며, 이는 모든 자산 클래스의 가치 평가와 투자 심리에 광범위한 영향을 미칠 것으로 예상됩니다. 금리 변동은 시장 전반의 유동성과 자금 조달 비용에 직접적인 영향을 줍니다.",
-    "action_point": "포트폴리오 내 금리 민감 자산(채권, 성장주, 부동산 관련 주식)의 비중을 점검하고, 향후 금리 방향성에 따른 리스크 관리 전략을 수립하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Nvidia's CEO turmoil gives newly empowered Democrats fresh ammunition in pursuit of oversight",
-    "title_ko": "엔비디아 CEO의 사생활 문제, 민주당의 감독 강화 추구에 새로운 빌미 제공",
-    "link": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-affair-congress-scrutiny.html",
-    "published": "Mon, 09 Nov 2026 17:05:25 GMT",
-    "fetched_at": "2026-11-10 02:59:20",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "반도체",
-      "기술주",
-      "인공지능"
-    ],
-    "keywords": [
-      "Nvidia",
-      "CEO",
-      "중국 스파이",
-      "규제",
-      "지정학",
-      "반도체"
-    ],
-    "reason": "이번 뉴스는 엔비디아 CEO의 사생활 문제와 중국 스파이 의혹이 결부되어 기업 지배구조 및 국가 안보 위험을 야기하며, 엔비디아는 물론 관련 반도체 및 AI 기술 섹터 전반에 대한 규제 및 감시 강화를 초래할 수 있습니다. 이는 미중 기술 패권 경쟁 심화와 맞물려 해당 섹터 투자 심리에 부정적인 영향을 미칠 것입니다.",
-    "action_point": "엔비디아를 포함한 주요 반도체 및 AI 기술주의 규제 리스크를 재평가하고, 포트폴리오 내 해당 섹터 비중 조정 여부를 검토하십시오."
   }
 ]
