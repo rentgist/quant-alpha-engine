@@ -2,6 +2,174 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "Trump doesn’t plan to raise Nvidia, spy issue during China trip: U.S. officials",
+    "title_ko": "트럼프, 방중 시 엔비디아·스파이 문제 거론 계획 없어: 美 관리",
+    "link": "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html",
+    "published": "Sat, 14 Nov 2026 01:34:11 GMT",
+    "fetched_at": "2026-11-14 16:12:23",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "반도체",
+      "기술"
+    ],
+    "keywords": [
+      "엔비디아",
+      "제너럴 황",
+      "스파이",
+      "미중 관계",
+      "반도체 리더십"
+    ],
+    "reason": "엔비디아 CEO의 스파이 관련 의혹 및 사임은 기업 지배구조와 리더십에 대한 심각한 우려를 야기하며 주가에 부정적 영향을 미칠 수 있습니다. 다만, 이 문제가 미중 정상회담에서 공식적으로 거론되지 않아 외교적 갈등으로의 확전 가능성은 제한적입니다.",
+    "action_point": "엔비디아 및 AI 반도체 관련 포트폴리오의 리스크를 재평가하고 변동성 확대에 대비하여 비중 조정을 검토하십시오."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Analysis: Companies love a ‘rockstar’ CEO. Until they depend on one",
+    "title_ko": "분석: 기업들은 '록스타' CEO를 사랑한다. 그들에게 의존하기 전까지는.",
+    "link": "https://www.cnbc.com/2026/11/14/nvidia-jensen-huang-ceo-succession-risk.html",
+    "published": "Sat, 14 Nov 2026 07:08:45 GMT",
+    "fetched_at": "2026-11-14 16:12:42",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "반도체",
+      "인공지능(AI)",
+      "IT기술주"
+    ],
+    "keywords": [
+      "CEO",
+      "Nvidia",
+      "승계 계획",
+      "기업 지배구조"
+    ],
+    "reason": "특정 '록스타' CEO에 대한 기업의 높은 의존도가 장기적인 리스크가 될 수 있음을 지적하며, 이는 승계 계획 및 지배구조의 중요성을 부각하여 투자 심리에 영향을 줄 수 있습니다.",
+    "action_point": "포트폴리오 내 특정 CEO 의존도가 높은 성장주 보유 기업의 승계 계획 및 지배구조를 점검하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "FAA lifts ground stop after more than four hours, but flight cancellations will stretch into the weekend",
+    "title_ko": "FAA, 4시간 이상 지상 정지 해제했으나 항공편 취소는 주말까지 이어질 것",
+    "link": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html",
+    "published": "Sat, 14 Nov 2026 05:08:24 GMT",
+    "fetched_at": "2026-11-14 16:12:48",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "항공사",
+      "여행 및 관광",
+      "물류 및 운송"
+    ],
+    "keywords": [
+      "FAA",
+      "항공편 취소",
+      "지상 정지",
+      "항공 운송",
+      "물류 지연"
+    ],
+    "reason": "미국 전역의 항공편 지상 정지 및 취소는 항공사들의 단기적 매출 감소와 운영 비용 증가를 야기하며, 광범위한 물류 지연과 여행 및 관광 산업에 부정적 영향을 미쳐 단기적인 경제 활동 둔화를 초래할 수 있습니다.",
+    "action_point": "미국 항공 및 여행 관련 섹터의 단기적 비중 축소 또는 관망."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "민간소비 4분기엔 반등할까…10월 속보지표는 일단 '청신호' - 연합인포맥스",
+    "title_ko": "민간소비 4분기엔 반등할까…10월 속보지표는 일단 '청신호' - 연합인포맥스",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtSTdHNDVqZTN4bTVoX0oyOVNwNFdWM05DVTJpdXRGMDNtY0J0Y295MWVnc2NNMFctQlBhQXBSY0xpUnVnT2ZBMS1RV18zNzVRWHlIallBdi03WG9ISnBCZ3JVdEpWdzNvaTNGcFRfTTA?oc=5",
+    "published": "Fri, 13 Nov 2026 23:08:06 GMT",
+    "fetched_at": "2026-11-14 16:13:05",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "유통",
+      "경기소비재",
+      "음식료품",
+      "서비스"
+    ],
+    "keywords": [
+      "민간소비",
+      "소비회복",
+      "4분기",
+      "경기개선"
+    ],
+    "reason": "10월 민간소비 속보 지표가 4분기 반등 가능성을 시사하며 국내 경기 회복에 대한 기대감을 높인다. 이는 소비 관련 기업들의 실적 개선과 전반적인 투자 심리 회복에 긍정적 영향을 줄 수 있다.",
+    "action_point": "국내 경기소비재 및 유통 섹터 비중 확대 검토"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Ecuador wants to monetize its biodiversity — while still drilling for oil",
+    "title_ko": "에콰도르, 생물다양성 수익화 추진…석유 시추는 지속",
+    "link": "https://www.cnbc.com/2026/11/14/ecuador-biodiversity-green-finance-oil.html",
+    "published": "Sat, 14 Nov 2026 06:00:01 GMT",
+    "fetched_at": "2026-11-14 16:12:33",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "에너지",
+      "환경·ESG",
+      "신흥국 주식"
+    ],
+    "keywords": [
+      "에콰도르",
+      "생물다양성",
+      "석유 시추",
+      "원자재",
+      "ESG"
+    ],
+    "reason": "에콰도르의 복합적인 경제 전략은 생물다양성 보전과 석유 생산 간의 균형을 모색하며, 이는 단기적으로 원유 공급 안정화에 미미하게 기여하나 장기적으로 ESG 투자 테마와 신흥국 자원 정책의 복잡성을 부각시킵니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "’이용객 급증’ 청주공항, 국제여객 수속 시설 정비 - 연합뉴스TV",
+    "title_ko": "’이용객 급증’ 청주공항, 국제여객 수속 시설 정비 - 연합뉴스TV",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9URF9qYnlaTlUycGZWS2tRNUlsRW1qNW9tMHg4aDEzcllkZ0dZTGVTRU5qMFFrMDcwTU0tcW1uUU04bVZVVXZ1Z25oMXFiX0ZVTG5lcFplcjJOYTFyR1ZOSzdzMndxbm8?oc=5",
+    "published": "Sat, 14 Nov 2026 04:46:00 GMT",
+    "fetched_at": "2026-11-14 16:12:59",
+    "sentiment": "호재",
+    "importance": 2,
+    "sectors": [
+      "항공",
+      "여행/관광",
+      "공항 인프라"
+    ],
+    "keywords": [
+      "청주공항",
+      "국제선",
+      "항공 수요",
+      "관광 회복"
+    ],
+    "reason": "청주공항의 국제선 이용객 급증과 시설 정비는 국제 항공 수요 회복세가 지속되고 있음을 보여주며, 이는 여행 및 항공 산업에 긍정적인 신호로 해석될 수 있습니다. 지역 경제 활성화에도 기여할 것으로 예상됩니다.",
+    "action_point": "국내 지방 공항발 국제선 수요 증가 추세를 감안, 관련 항공 및 여행 섹터 내 투자 기회 모색."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "“군인·산모·실직자 ‘주목’…보험료 안 내도 국민연금 가입기간 늘어난다?”",
+    "title_ko": "군인·산모·실직자 ‘주목’…보험료 안 내도 국민연금 가입기간 늘어난다?",
+    "link": "https://www.mk.co.kr/news/economy/12208863",
+    "published": "Sat, 14 Nov 2026 14:44:16 +09:00",
+    "fetched_at": "2026-11-14 16:13:22",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [],
+    "keywords": [
+      "국민연금",
+      "사회복지",
+      "출산지원",
+      "군복무",
+      "실업급여"
+    ],
+    "reason": "이 정책은 사회 안전망을 강화하고 특정 계층의 노후 소득 보장을 확대하는 것으로, 전반적인 거시 경제나 금융 시장에 미치는 직접적인 영향은 매우 제한적입니다. 투자 자산의 유의미한 변동을 야기할 요인은 아닙니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "Nvidia is done with Jensen Huang. The fallout in Washington is just beginning",
     "title_ko": "엔비디아, 젠슨 황 CEO와의 결별 임박? 워싱턴발 파장 시작",
     "link": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-washington-congress.html",
@@ -2818,177 +2986,5 @@
     ],
     "reason": "이번 주는 핵심 인플레이션 데이터와 AI 관련 기업 실적이 시장 방향성을 결정할 주요 변수가 될 것입니다. AI 테마의 지속 여부와 금리 기대 변화가 시장 전반에 영향을 미칠 수 있습니다.",
     "action_point": "단기적으로 AI 관련 기업의 실적 발표와 주요 인플레이션 지표 발표 전까지는 관망세를 유지하며, 현금 비중을 확보하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "How Democrats will try to end Trump's tariffs",
-    "title_ko": "민주당, 트럼프 관세 철폐 방안 모색 예고",
-    "link": "https://www.cnbc.com/2026/11/08/trump-tariffs-democrats-congress-canada.html",
-    "published": "Sun, 08 Nov 2026 15:36:39 GMT",
-    "fetched_at": "2026-11-09 09:20:05",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "제조업",
-      "무역/물류",
-      "소비재",
-      "반도체"
-    ],
-    "keywords": [
-      "관세",
-      "미국 정치",
-      "무역 정책",
-      "공급망",
-      "인플레이션"
-    ],
-    "reason": "트럼프 관세 철폐 가능성은 글로벌 무역 활성화, 공급망 비용 감소 및 인플레이션 압력 완화에 기여하며 기업 수익성과 경제 성장 전망에 긍정적 영향을 미칠 수 있습니다.",
-    "action_point": "글로벌 공급망 연계 제조업 및 수출 비중이 높은 기업의 투자 매력도를 재평가하고 비중 확대를 검토하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "“코스피, 작은 호재에도 반등 가능”…SK증권이 꼽은 회복 조건",
-    "title_ko": "코스피, 작은 호재에도 반등 가능”…SK증권이 꼽은 회복 조건",
-    "link": "https://www.mk.co.kr/news/stock/12202043",
-    "published": "Mon, 09 Nov 2026 09:18:40 +09:00",
-    "fetched_at": "2026-11-09 09:20:22",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "반도체",
-      "기술주",
-      "AI"
-    ],
-    "keywords": [
-      "코스피",
-      "반도체",
-      "AI",
-      "증시 반등",
-      "기술주"
-    ],
-    "reason": "국내 증시가 단기 하락 후 미국 반도체 및 AI 기업 실적 개선에 힘입어 반등할 가능성을 시사한다. 이는 기술주 중심의 시장 회복 기대를 높인다.",
-    "action_point": "반도체 및 AI 관련 기술주 포트폴리오 비중 확대를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Nvidia investigates CEO Jensen Huang's relationship with alleged Chinese spy",
-    "title_ko": "엔비디아, 젠슨 황 CEO와 중국 스파이 의혹 인물 관계 조사 착수",
-    "link": "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html",
-    "published": "Sun, 08 Nov 2026 20:50:54 GMT",
-    "fetched_at": "2026-11-09 05:53:29",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "반도체",
-      "기술"
-    ],
-    "keywords": [
-      "엔비디아",
-      "젠슨 황",
-      "중국",
-      "스파이",
-      "지정학"
-    ],
-    "reason": "엔비디아 CEO와 중국 스파이 의혹 연루 조사는 미중 기술 갈등을 심화시키고 엔비디아의 규제 리스크를 높여 글로벌 반도체 공급망과 AI 섹터 투자심리에 부정적 영향을 미칠 수 있습니다.",
-    "action_point": "AI 및 반도체 섹터 비중 조정을 검토하고 관련 지정학적 리스크를 주시하십시오."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "밴스-헤그세스-루비오, 이란전 다른 목소리… “전쟁 끝내야” vs “공습 재개” vs “경제 제재” - 동아일보",
-    "title_ko": "밴스-헤그세스-루비오, 이란전 다른 목소리… “전쟁 끝내야” vs “공습 재개” vs “경제 제재”",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBicXRuRC1LbEhjNkhKemNlRG1za1o5NFhiU2ZXX05mV2k4V1NJUEllTkpIc2hJRjltTDZMRWQ2NkNiU1ltS0JZREFPZTZpT0loZlUwZFdWTDh0MHdJdm5uNmg5NGZWUG1CQjJIcE5tTjBnb0XSAWZBVV95cUxPdXItVFR4WjlSSDQ0V0JTa09KVjI5X0lMZHc1aHhkYkduejlMdXczZTdUN0RSczh0RnJwQnpsNHgyMHpXaVpmb282dVpxVDVjSmpzZWRYbjdFQ1dKRGYtX09qUUhNbHc?oc=5",
-    "published": "Sun, 08 Nov 2026 19:30:00 GMT",
-    "fetched_at": "2026-11-09 05:53:54",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "방산",
-      "해운"
-    ],
-    "keywords": [
-      "이란",
-      "미국 정치",
-      "지정학",
-      "원유"
-    ],
-    "reason": "미국 정치권 내 이란 관련 갈등 해법에 대한 이견은 중동 지역의 지정학적 불확실성을 가중시키며, 국제 유가, 해운 물류 및 전반적인 시장 심리에 변동성을 유발할 수 있습니다. 특히 공습 재개나 경제 제재 강화 논의는 시장에 악재로 작용할 가능성이 있습니다.",
-    "action_point": "중동 지정학적 리스크 심화 가능성에 대비하여 에너지 관련 자산 및 방산 섹터 투자 비중을 점검하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "These funds tout hefty income tied to the tech trade – if you’re willing to deal with the complexity",
-    "title_ko": "복잡성을 감수한다면 기술주 거래로 상당한 수익을 제공하는 펀드들",
-    "link": "https://www.cnbc.com/2026/11/08/autocallable-etfs-tech-income-risks.html",
-    "published": "Sun, 08 Nov 2026 11:50:18 GMT",
-    "fetched_at": "2026-11-09 05:53:41",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "기술 섹터",
-      "자산운용 섹터"
-    ],
-    "keywords": [
-      "기술주",
-      "ETF",
-      "고수익",
-      "복합상품"
-    ],
-    "reason": "기술주와 연계된 고수익 추구 신규 ETF의 등장은 자산운용 시장의 상품 다변화 추세를 보여줍니다. 이는 특정 투자자들에게 새로운 투자 기회를 제공하지만, 시장 전반의 매크로 흐름에 미치는 영향은 제한적입니다.",
-    "action_point": "기술주 연계 고수익 ETF의 복잡성과 리스크를 철저히 분석하고 포트폴리오 편입 적정성을 검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "미 ‘데이터센터 건설’ 규제…한국에 기회? 리스크? - 경향신문",
-    "title_ko": "미 ‘데이터센터 건설’ 규제…한국에 기회? 리스크?",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZNUhMTl9iU2s0ZWZyay1DZWdLXy1fOG0yRUJEZjYyWDFXYkFzVWpZUzVYWGpIR1d1TGF0YjU5dEplVFAzTnFHdnJNY0QyQkFSTmFyMG92UENEUdIBX0FVX3lxTE1kNENLTm5VSDZRNVBndk5jRm02ZEJ0V1lCY0pBWjZ3OE5fU2V5dFV4R2ZTeFBQUEdkQU1pTUdldFV2ZjJRR2xsX21melpOLU5jN2pITS15d1ktS05SaXI4?oc=5",
-    "published": "Sun, 08 Nov 2026 11:26:00 GMT",
-    "fetched_at": "2026-11-09 01:52:03",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "반도체",
-      "전력/에너지",
-      "IT서비스/클라우드",
-      "건설",
-      "부동산"
-    ],
-    "keywords": [
-      "데이터센터",
-      "규제",
-      "AI",
-      "전력",
-      "클라우드"
-    ],
-    "reason": "미국의 데이터센터 건설 규제는 전력 수요 증가 및 환경 이슈에 기인하며, 이는 글로벌 IT 인프라 투자 방향에 변화를 줄 수 있습니다. 한국 시장에는 데이터센터 유치 기회와 AI 반도체 수요 증가 기회로 작용할 수 있으나, 동시에 규제 확산 가능성이라는 리스크도 내포합니다.",
-    "action_point": "미국 데이터센터 규제로 인한 국내 데이터센터 인프라 관련주(전력, 서버, 통신 장비 등) 및 AI 반도체 산업의 수혜 가능성을 주시하고 관련 종목 비중 확대를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Using miles to fly for Thanksgiving? These are the most expensive and cheapest routes",
-    "title_ko": "추수감사절 항공권, 올해 가장 비싸거나 저렴한 노선",
-    "link": "https://www.cnbc.com/2026/11/08/frequent-flyer-miles-points-thanksgiving.html",
-    "published": "Sun, 08 Nov 2026 13:00:01 GMT",
-    "fetched_at": "2026-11-09 01:51:53",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "항공운송",
-      "여행 및 레저"
-    ],
-    "keywords": [
-      "추수감사절",
-      "항공권 가격",
-      "여행 수요",
-      "소비자 지출"
-    ],
-    "reason": "추수감사절 연휴 항공권 가격 상승 및 강력한 수요 지속은 항공/여행 섹터의 실적 개선 기대감을 높일 수 있으나, 전반적인 서비스 인플레이션 압력이 여전히 존재함을 시사합니다.",
-    "action_point": "해당 없음"
   }
 ]
