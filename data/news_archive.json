@@ -2,6 +2,76 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "SpaceX catches upper stage of Starship rocket in historic first",
+    "title_ko": "스페이스X, 스타십 로켓 상단부 포획 성공: 역사적인 첫 성공",
+    "link": "https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html",
+    "published": "Sat, 14 Nov 2026 23:10:14 GMT",
+    "fetched_at": "2026-11-15 08:30:59",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "우주 항공",
+      "방위 산업",
+      "첨단 기술",
+      "위성 통신"
+    ],
+    "keywords": [
+      "SpaceX",
+      "Starship",
+      "우주 기술",
+      "재사용 로켓",
+      "일론 머스크"
+    ],
+    "reason": "이 기술적 진보는 스페이스X의 재사용 로켓 기술 리더십을 강화하고 우주 운송 비용을 획기적으로 낮출 잠재력을 보여줍니다. 이는 우주 경제의 장기적인 성장 가속화에 기여하며 관련 산업 전반에 긍정적 영향을 미칠 것입니다.",
+    "action_point": "우주 항공 및 첨단 기술 섹터 내 혁신 기업의 장기 투자 매력을 재검토."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "'Root cause’ of nationwide ground stop is unknown, FAA says",
+    "title_ko": "FAA, 미 전역 항공기 운항 중단 '근본 원인' 불명확 발표",
+    "link": "https://www.cnbc.com/2026/11/14/root-cause-of-nationwide-ground-stop-is-unknown-faa-says.html",
+    "published": "Sat, 14 Nov 2026 22:54:47 GMT",
+    "fetched_at": "2026-11-15 08:31:10",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "항공업",
+      "여행 및 관광",
+      "물류 및 운송"
+    ],
+    "keywords": [
+      "FAA",
+      "항공기 운항 중단",
+      "미국",
+      "네트워크 장애"
+    ],
+    "reason": "미국 전역 항공기 운항 중단은 항공 및 여행 산업에 단기적 손실을 야기하며, 물류 및 비즈니스 활동에 일시적 차질을 초래할 수 있습니다. 근본 원인 미확인은 단기적 불확실성을 높입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home",
+    "title_ko": "에릭 트럼프가 후원하는 로봇 병사 스타트업, 창업주가 주택 구매 위해 회사에서 460만 달러 대출 후 직원 급여 미지급",
+    "link": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
+    "published": "Sat, 14 Nov 2026 12:00:01 GMT",
+    "fetched_at": "2026-11-15 08:30:51",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [],
+    "keywords": [
+      "스타트업",
+      "로봇",
+      "기업 지배구조",
+      "자금 유용"
+    ],
+    "reason": "개별 스타트업의 자금 유용 사례로, 거시 경제나 주요 투자 자산에 미칠 직접적인 영향은 미미합니다. 다만, 벤처 투자의 위험성과 기업 지배구조의 중요성을 상기시키는 사례로 볼 수 있습니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors",
     "title_ko": "두 주요 투자자, 엔비디아 이사회에 '젠슨 황의 잠재적 복귀' 고려 촉구",
     "link": "https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html",
@@ -2907,81 +2977,5 @@
     ],
     "reason": "정부의 청해부대 파병 연장 및 작전 범위 확대 결정은 국내 해상 운송로의 안정성 유지에 기여하며, 특히 중동 지역의 잠재적 해상 위협에 대한 대응력을 강화하는 의미가 있다. 이는 해운 섹터의 리스크 완화에 미미한 긍정적 영향을 줄 수 있으나, 거시경제 및 전체 금융시장에는 중립적인 영향으로 판단된다.",
     "action_point": "해운 섹터 내 중동 노선 의존도가 높은 기업의 운송 리스크 감소 여부를 점검하고, 방산 섹터에 대한 장기적 관점을 재고한다."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "LGU+, 국내 통신사 최초 ‘자동차 사이버보안’ 국제표준 레벨3 인증 - AI타임스",
-    "title_ko": "LGU+, 국내 통신사 최초 ‘자동차 사이버보안’ 국제표준 레벨3 인증 - AI타임스",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBqN0VhbWZBb2R5SjRFR3ctLWJPLUxCZkZiQUl1bHcxRzROQTI0dG54ZVQxU3RuM3g4TDFhU2ZQR0ZSNkJKM19FSWtEWnkxMVAxanNoWTBLdmVhUldmZjRleGk1MHJpbC10Wnc?oc=5",
-    "published": "Tue, 10 Nov 2026 07:35:02 GMT",
-    "fetched_at": "2026-11-10 17:59:50",
-    "sentiment": "호재",
-    "importance": 2,
-    "sectors": [
-      "통신",
-      "자동차",
-      "사이버보안",
-      "자율주행"
-    ],
-    "keywords": [
-      "LGU+",
-      "자동차 사이버보안",
-      "국제표준",
-      "자율주행",
-      "미래 모빌리티"
-    ],
-    "reason": "LGU+가 국내 통신사 최초로 자동차 사이버보안 국제표준 레벨3 인증을 획득하며 미래 모빌리티 시장, 특히 자율주행 시대 핵심인 보안 분야에서 경쟁력을 확보, 새로운 성장 동력을 마련할 가능성을 시사합니다.",
-    "action_point": "통신 섹터 내 미래 모빌리티 신사업 확장을 통한 성장 동력 확보 기업들에 대한 투자 매력도 재검토."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Goldman CEO Solomon says AI financing remains strong despite market jitters",
-    "title_ko": "골드만 CEO 솔로몬, 시장 불안에도 AI 자금 조달 여전히 강력",
-    "link": "https://www.cnbc.com/2026/11/09/goldman-ceo-ai-financing-market.html",
-    "published": "Mon, 09 Nov 2026 18:14:47 GMT",
-    "fetched_at": "2026-11-10 10:14:13",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "기술",
-      "반도체",
-      "클라우드 컴퓨팅"
-    ],
-    "keywords": [
-      "AI 투자",
-      "골드만삭스",
-      "데이터센터",
-      "기술주"
-    ],
-    "reason": "골드만삭스 CEO의 발언은 AI 산업에 대한 장기적 투자 심리가 견고함을 시사하며, AI 관련 기술주 및 인프라 섹터에 긍정적인 신호로 작용합니다. 이는 단기적 시장 변동성에도 불구하고 AI 성장 동력이 지속될 것임을 암시합니다.",
-    "action_point": "AI 관련 기술주 및 인프라 섹터 비중 유지 또는 확대 검토."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Jensen Huang exit odds are low on prediction markets after Nvidia probe",
-    "title_ko": "엔비디아 조사 후 젠슨 황 CEO의 사임 가능성이 예측 시장에서 낮게 평가됨",
-    "link": "https://www.cnbc.com/2026/11/09/jensen-huang-nvidia-exit-prediction-markets.html",
-    "published": "Mon, 09 Nov 2026 18:46:01 GMT",
-    "fetched_at": "2026-11-10 10:14:06",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "반도체",
-      "인공지능(AI)",
-      "기술주"
-    ],
-    "keywords": [
-      "젠슨 황",
-      "엔비디아",
-      "CEO",
-      "반도체",
-      "인공지능(AI)",
-      "리더십 안정성"
-    ],
-    "reason": "예측 시장에서 엔비디아 CEO 젠슨 황의 사임 가능성이 낮게 평가됨에 따라, 회사의 리더십 안정성이 확인되어 투자 불확실성이 해소되는 긍정적인 신호입니다. 이는 엔비디아 주가 및 AI/반도체 섹터에 우호적인 영향을 미칠 수 있습니다.",
-    "action_point": "엔비디아 및 AI 반도체 섹터에 대한 기존 투자 비중을 유지."
   }
 ]
