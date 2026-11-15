@@ -1,5 +1,154 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Bahrain intercepts Iranian aerial attacks as Tehran says it attacked US base",
+    "title_ko": "바레인, 이란의 공중 공격 요격... 이란은 미군 기지 공격 주장",
+    "link": "https://www.cnbc.com/2026/11/15/bahrain-iran-drone-attacks-tehran-us-base.html",
+    "published": "Sun, 15 Nov 2026 10:00:42 GMT",
+    "fetched_at": "2026-11-15 20:39:58",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "방산",
+      "금융"
+    ],
+    "keywords": [
+      "이란",
+      "바레인",
+      "미군",
+      "지정학",
+      "중동",
+      "유가"
+    ],
+    "reason": "이란의 미군 기지 공격 주장과 바레인의 이란 공격 요격은 중동 지역의 지정학적 긴장을 급격히 고조시킵니다. 이는 글로벌 안보 불확실성을 증폭시키고 유가 상승 압력을 가하며 위험 자산 회피 심리를 강화할 수 있습니다.",
+    "action_point": "중동 지정학적 리스크 확대로 인한 유가 변동성 및 안전자산 선호 강화에 대비하여 에너지 섹터 비중을 재점검하고 방어적 포트폴리오 구축을 고려하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Megaspeed says Alice Huang left in 2025 as it launches internal probe into reports about its business",
+    "title_ko": "메가스피드, 앨리스 황의 2025년 퇴사 발표 및 사업 보고서 관련 내부 조사 착수",
+    "link": "https://www.cnbc.com/2026/11/15/megaspeed-alice-huang-probe-nvidia-scandal.html",
+    "published": "Sun, 15 Nov 2026 08:34:46 GMT",
+    "fetched_at": "2026-11-15 20:39:49",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "클라우드 컴퓨팅",
+      "IT 서비스"
+    ],
+    "keywords": [
+      "메가스피드",
+      "내부 조사",
+      "기업 지배구조",
+      "클라우드 컴퓨팅"
+    ],
+    "reason": "클라우드 컴퓨팅 기업 메가스피드의 내부 조사는 기업 지배구조 및 운영 투명성에 대한 우려를 높여 해당 기업과 관련 IT 섹터의 투자심리에 부정적 영향을 미칠 수 있습니다.",
+    "action_point": "클라우드 컴퓨팅 및 IT 서비스 섹터 내 투자 기업의 지배구조 리스크를 점검하십시오."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "승조원 '0명'… HD현대, 600t급 자율수상함 띄웠다",
+    "title_ko": "승조원 '0명'… HD현대, 600t급 자율수상함 띄웠다",
+    "link": "https://www.mk.co.kr/news/economy/12209481",
+    "published": "Sun, 15 Nov 2026 19:04:49 +09:00",
+    "fetched_at": "2026-11-15 20:40:41",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "조선",
+      "방산",
+      "기술"
+    ],
+    "keywords": [
+      "HD현대",
+      "자율운항",
+      "무인함정",
+      "방산",
+      "조선"
+    ],
+    "reason": "HD현대의 자율운항 기술 선도력을 보여주며 무인 함정 시장 진출 가능성을 시사, 조선 및 방산 부문의 미래 성장 동력 확보에 긍정적입니다.",
+    "action_point": "HD현대 및 국내 방산·조선 섹터 비중 확대 검토"
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "테러도 해킹도 아닌데 9·11수준 재앙…미국 항공편 셧다운 대체 왜",
+    "title_ko": "테러도 해킹도 아닌데 9·11수준 재앙…미국 항공편 셧다운 대체 왜",
+    "link": "https://www.mk.co.kr/news/world/12209478",
+    "published": "Sun, 15 Nov 2026 18:51:30 +09:00",
+    "fetched_at": "2026-11-15 20:41:00",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "항공",
+      "여행",
+      "물류"
+    ],
+    "keywords": [
+      "미국 항공",
+      "운항 중단",
+      "네트워크 장애",
+      "결항",
+      "항공산업"
+    ],
+    "reason": "미국 전역의 항공편 운항 중단은 여행 및 물류 산업에 직접적인 단기 손실을 초래하고 경제 활동에 일시적 차질을 빚게 하지만, 원인이 기술적 문제로 파악되어 거시경제 전반의 시스템 리스크로 확대될 가능성은 낮습니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "문화유산·개발 충돌, 7개월 만에 해법…도쿄의 절충 행정",
+    "title_ko": "문화유산·개발 충돌, 7개월 만에 해법…도쿄의 절충 행정",
+    "link": "https://www.mk.co.kr/news/realestate/12209501",
+    "published": "Sun, 15 Nov 2026 19:45:16 +09:00",
+    "fetched_at": "2026-11-15 20:40:26",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "건설",
+      "부동산"
+    ],
+    "keywords": [
+      "문화유산",
+      "도시 개발",
+      "도쿄",
+      "행정 효율",
+      "부동산"
+    ],
+    "reason": "도쿄의 대규모 도시 개발 프로젝트에서 문화유산 보존과 개발 간의 갈등이 행정적 절충을 통해 해소된 사례이다. 특정 프로젝트의 진행에는 긍정적이나, 대한민국 자산가의 포트폴리오에 직접적인 영향을 미칠 거시경제적 요인은 아니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "요즘 2030 ‘오럴뷰티’에 푹 빠졌다…“썸타던 사이, 입 벌리면 확 깨요”",
+    "title_ko": "요즘 2030 ‘오럴뷰티’에 푹 빠졌다…“썸타던 사이, 입 벌리면 확 깨요”",
+    "link": "https://www.mk.co.kr/news/business/12209482",
+    "published": "Sun, 15 Nov 2026 19:05:15 +09:00",
+    "fetched_at": "2026-11-15 20:40:33",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "소비재",
+      "생활용품",
+      "유통"
+    ],
+    "keywords": [
+      "오럴뷰티",
+      "2030세대",
+      "소비 트렌드",
+      "치아미백",
+      "애경",
+      "LG생활건강"
+    ],
+    "reason": "2030세대의 구강 미용 소비 트렌드 확산으로 관련 생활용품 및 미용 기업의 매출 성장이 예상되나, 거시 경제 전반에 미치는 영향은 제한적이다.",
+    "action_point": "국내 구강 위생 및 미용 관련 소비재 기업의 실적 추이 주시."
+  },
+  {
     "source": "GoogleNews_Korea",
     "market": "KR",
     "title": "\"AI 투자붐, 2028년 전후 조정 가능성…韓 경제도 대비해야\" - 연합뉴스",
@@ -2830,154 +2979,5 @@
     ],
     "reason": "미국 중간선거는 향후 2년간 의회 권력 균형을 결정하여 재정 정책, 규제 환경, 무역 정책에 중대한 변화를 가져올 수 있습니다. 이는 글로벌 경제 성장률, 인플레이션, 기업 실적 및 금리에 광범위한 영향을 미칩니다.",
     "action_point": "미국 중간선거 결과에 따른 정책 변화 시나리오별로 포트폴리오의 섹터별 노출도와 방어적 자산 비중을 점검하고 대응 전략을 수립하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "트럼프 “전쟁 조만간 끝날 듯”…이란 최고지도자도 현 상황 종식 지시 - 한겨레",
-    "title_ko": "트럼프 “전쟁 조만간 끝날 듯”…이란 최고지도자도 현 상황 종식 지시 - 한겨레",
-    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVkVMQTRyV3kyZjhhQ2dZQm9feHVoQUMzSDFuU0hjNnZSRXZTMERDVklGeUhBSDVsZjNyVkR5Z3duc2NkYmFZQzlyZFN3anlfYnpqU0x5U2xyN1NqVWF1ai05X0liZnUxZ0ZZQUtMWUpfeTdjY003aUx6SUE5QmJvNE1B?oc=5",
-    "published": "Tue, 10 Nov 2026 01:08:00 GMT",
-    "fetched_at": "2026-11-10 18:00:10",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "방산",
-      "항공",
-      "운송"
-    ],
-    "keywords": [
-      "트럼프",
-      "이란",
-      "중동",
-      "지정학",
-      "유가",
-      "전쟁 종식"
-    ],
-    "reason": "중동 지정학적 리스크 완화 가능성 시사로 글로벌 위험 회피 심리가 개선되고, 유가 하락 압력이 커져 전반적인 증시와 소비 관련 섹터에 긍정적입니다.",
-    "action_point": "중동 지정학적 리스크 완화에 따라 에너지 및 방산 섹터 비중 축소를 검토하고, 위험자산 비중 확대를 고려하십시오."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "“개미는 둘 다 안 믿어요”...모건스탠리 160만닉스 vs 노무라 470만닉스",
-    "title_ko": "“개미는 둘 다 안 믿어요”...모건스탠리 160만닉스 vs 노무라 470만닉스",
-    "link": "https://www.mk.co.kr/news/stock/12204249",
-    "published": "Tue, 10 Nov 2026 17:51:55 +09:00",
-    "fetched_at": "2026-11-10 18:01:01",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "반도체",
-      "IT 하드웨어",
-      "기술주"
-    ],
-    "keywords": [
-      "SK하이닉스",
-      "삼성전자",
-      "반도체",
-      "목표주가",
-      "모건스탠리",
-      "노무라",
-      "투자은행"
-    ],
-    "reason": "글로벌 투자은행들의 삼성전자 및 SK하이닉스 목표주가에 대한 극명한 시각차는 국내 핵심 반도체 섹터의 불확실성을 증폭시킵니다. 특히 모건스탠리의 대폭 하향 조정은 외국인 투자심리에 부정적 영향을 미치고 대형 기술주 전반의 변동성을 키울 수 있습니다.",
-    "action_point": "대형 반도체주 포트폴리오 비중을 재검토하고 변동성 확대에 대비하여 위험 관리를 강화하십시오."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Jensen Huang affair puts Nvidia's future at risk, with no clear successor to the renowned CEO",
-    "title_ko": "젠슨 황 CEO 논란, 엔비디아의 미래 위협 및 후계자 부재 문제 제기",
-    "link": "https://www.cnbc.com/2026/11/09/jensen-huang-affair-nvidia-succession.html",
-    "published": "Tue, 10 Nov 2026 06:52:30 GMT",
-    "fetched_at": "2026-11-10 17:58:35",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "반도체",
-      "인공지능",
-      "기술주"
-    ],
-    "keywords": [
-      "젠슨 황",
-      "엔비디아",
-      "CEO 승계",
-      "반도체",
-      "AI 칩"
-    ],
-    "reason": "엔비디아의 핵심 인물인 젠슨 황 CEO의 리더십 리스크와 후계자 불확실성은 회사 성장 동력에 대한 우려를 증폭시키며, 이는 AI 및 반도체 섹터 전반에 투자 심리 위축을 야기할 수 있습니다.",
-    "action_point": "엔비디아 및 AI 반도체 관련 포트폴리오 비중 축소 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "FDA warns of vision loss risk linked to popular GLP-1 drugs like Wegovy, Zepbound",
-    "title_ko": "FDA, 위고비, 젭바운드 등 인기 GLP-1 약물과 관련된 시력 손실 위험 경고",
-    "link": "https://www.cnbc.com/2026/11/10/fda-warning-vision-loss-glp1-wegovy-zepbound.html",
-    "published": "Tue, 10 Nov 2026 08:22:49 GMT",
-    "fetched_at": "2026-11-10 17:58:44",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "제약",
-      "바이오테크"
-    ],
-    "keywords": [
-      "GLP-1",
-      "비만 치료제",
-      "당뇨병 치료제",
-      "FDA",
-      "부작용",
-      "시력 손실"
-    ],
-    "reason": "FDA의 GLP-1 계열 약물 부작용 경고는 해당 약물 시장의 성장 기대감을 위축시키고 관련 제약사들의 주가에 단기적인 하방 압력을 가할 수 있습니다. 이는 GLP-1 의존도가 높은 기업에 대한 투자 심리에 부정적입니다.",
-    "action_point": "GLP-1 관련 핵심 제약/바이오 기업에 대한 투자 비중 재검토 및 포트폴리오 내 리스크 관리 강화."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "SoftBank Group shares surge 14% as Asian tech stocks track Wall Street rebound",
-    "title_ko": "소프트뱅크 그룹 주가 14% 급등, 아시아 기술주 월스트리트 반등세 추종",
-    "link": "https://www.cnbc.com/2026/11/10/ai-softbank-sk-hynix-samsung-wall-street-tech-stocks.html",
-    "published": "Tue, 10 Nov 2026 08:06:29 GMT",
-    "fetched_at": "2026-11-10 17:59:14",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "기술",
-      "반도체"
-    ],
-    "keywords": [
-      "기술주",
-      "반도체",
-      "유가",
-      "시장 반등"
-    ],
-    "reason": "유가 하락과 매도세 이후 반도체 및 아시아 기술주 매수세가 확산되며 시장 전반의 위험 선호 심리가 회복되는 신호입니다.",
-    "action_point": "기술주 및 반도체 섹터 비중 확대를 검토하십시오."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "엔젠바이오, 20억원 규모 유상증자 실시",
-    "title_ko": "엔젠바이오, 20억원 규모 유상증자 실시",
-    "link": "https://www.mk.co.kr/news/stock/12204253",
-    "published": "Tue, 10 Nov 2026 17:54:12 +09:00",
-    "fetched_at": "2026-11-10 18:00:47",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "바이오",
-      "제약/헬스케어"
-    ],
-    "keywords": [
-      "엔젠바이오",
-      "유상증자",
-      "코스닥"
-    ],
-    "reason": "엔젠바이오의 유상증자는 해당 기업의 주식 가치 희석 가능성을 내포하며 자금 조달 필요성을 시사한다. 이는 개별 기업 이슈로 거시경제나 전체 시장에 미치는 영향은 제한적이다.",
-    "action_point": "해당 없음"
   }
 ]
