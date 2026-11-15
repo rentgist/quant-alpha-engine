@@ -2,6 +2,162 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "Bessent calls for ‘dramatic shakeup’ at Nvidia, urges outside CEO",
+    "title_ko": "Bessent, 엔비디아의 '극적인 개편'과 외부 CEO 선임을 촉구",
+    "link": "https://www.cnbc.com/2026/11/15/bessent-nvidia-ceo-lutnick-megaspeed.html",
+    "published": "Sun, 15 Nov 2026 18:10:18 GMT",
+    "fetched_at": "2026-11-16 03:13:55",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "반도체",
+      "기술"
+    ],
+    "keywords": [
+      "엔비디아",
+      "반도체",
+      "경영진",
+      "미중 갈등",
+      "칩 우회수출"
+    ],
+    "reason": "엔비디아 경영진 교체 요구와 대중국 반도체 우회 수출 의혹은 미국-중국 기술 갈등을 심화시키고 글로벌 반도체 섹터의 불확실성을 높일 수 있습니다.",
+    "action_point": "엔비디아와 연결된 글로벌 반도체 섹터의 변동성 확대 가능성에 대비하여 관련 투자 비중 축소를 고려하십시오."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Anthropic’s IPO lands as the embattled AI trade looks for a much-needed bright spot",
+    "title_ko": "Anthropic IPO 성사, 난항 겪던 AI 섹터에 한줄기 희망",
+    "link": "https://www.cnbc.com/2026/11/15/anthropic-ipo-is-make-or-break-for-the-technology-industry.html",
+    "published": "Sun, 15 Nov 2026 12:00:01 GMT",
+    "fetched_at": "2026-11-16 03:14:01",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "기술",
+      "AI",
+      "벤처캐피탈"
+    ],
+    "keywords": [
+      "Anthropic",
+      "IPO",
+      "AI",
+      "기술주",
+      "투자심리"
+    ],
+    "reason": "Anthropic의 성공적인 IPO는 침체되었던 AI 섹터 투자심리를 회복시키고, 관련 기술주 전반에 긍정적인 모멘텀을 제공할 수 있습니다.",
+    "action_point": "AI 관련 기술주에 대한 투자 비중 확대를 검토하십시오."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "\"AI금융 무산·피지컬 AI 후퇴 위기\"…'젠슨 황 복귀론' 확산 - 한국경제",
+    "title_ko": "AI금융 무산·피지컬 AI 후퇴 위기\"…'젠슨 황 복귀론' 확산 - 한국경제",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aT21KaEs3aU9RQ3N2Q1hrZ08xNnpxWmROS0dhaHprNW84S2pyTkp6M0ZycVlwTTJjVVE2RmEtSW1TdGFYZjh0RGhITnFIOW5XcGtzVXhwem1jZw?oc=5",
+    "published": "Sun, 15 Nov 2026 16:05:00 GMT",
+    "fetched_at": "2026-11-16 03:14:33",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "인공지능",
+      "반도체",
+      "소프트웨어",
+      "금융",
+      "로봇"
+    ],
+    "keywords": [
+      "AI금융",
+      "피지컬 AI",
+      "젠슨 황",
+      "엔비디아",
+      "인공지능",
+      "기술 혁신"
+    ],
+    "reason": "AI 금융 및 피지컬 AI 분야의 실질적 구현에 대한 우려가 확산되며, 일부 AI 기술의 상업화 속도 및 난이도에 대한 시장의 기대를 조정할 수 있습니다. 이는 AI 기술 개발 및 적용에 대한 현실적인 시각을 요구하게 만들 것입니다.",
+    "action_point": "고위험 AI 신기술 및 관련 초기 기업 투자 비중 축소를 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "해외 화석연료 사업에 37조원 쓴 한국, 국제 기후재원엔 7조원 - 경향신문",
+    "title_ko": "해외 화석연료 사업에 37조원 쓴 한국, 국제 기후재원엔 7조원",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BSC1JcVNLdUtzdkdjVS1oQ0pBQjN4SUtQeVkyM1NxbzAwQnN6QnlwTEwxQWpPY2tXd1dQZDE4UDRta21pdVBpN0hBVGMwWnppdV8zLWotczlaUdIBX0FVX3lxTFBKVFlTd0JDZ3piNlo3TzRzZXduVjMtdmdqUy1MbF82b09xb2dralZRd296NmlRclJWR2o0aVhZTzVKVWhCNXcwa0pKLXU0V0hPOHJ1TVJyYXI4NEtWendN?oc=5",
+    "published": "Sun, 15 Nov 2026 12:24:00 GMT",
+    "fetched_at": "2026-11-16 03:14:43",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "에너지",
+      "금융",
+      "건설/인프라",
+      "조선/중공업"
+    ],
+    "keywords": [
+      "화석연료",
+      "기후재원",
+      "ESG",
+      "에너지 전환",
+      "해외투자",
+      "탄소중립"
+    ],
+    "reason": "이 기사는 한국의 해외 화석연료 투자 규모와 국제 기후재원 기여의 불균형을 지적하며, 향후 ESG 압력 강화 및 에너지 전환 가속화의 필요성을 시사합니다. 이는 장기적으로 관련 산업의 투자 방향 및 금융 시장의 자본 배분에 영향을 미칠 수 있습니다.",
+    "action_point": "화석연료 관련 기업 및 프로젝트 투자 시 ESG 리스크를 면밀히 검토하고, 친환경 에너지 섹터 투자 기회를 모색하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "돈냄새 귀신인 글로벌 큰손들…엔비디아 판 돈으로 인텔·하닉ADR 샀다",
+    "title_ko": "돈냄새 귀신인 글로벌 큰손들…엔비디아 판 돈으로 인텔·하닉ADR 샀다",
+    "link": "https://www.mk.co.kr/news/stock/12209538",
+    "published": "Sun, 15 Nov 2026 23:05:17 +09:00",
+    "fetched_at": "2026-11-16 03:15:05",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "반도체",
+      "기술주",
+      "원자재",
+      "채권"
+    ],
+    "keywords": [
+      "글로벌 큰손",
+      "포트폴리오 리밸런싱",
+      "반도체",
+      "금",
+      "장기채",
+      "차익실현"
+    ],
+    "reason": "글로벌 기관 투자자들이 고성장 기술주에서 차익 실현 후, 상대적으로 저평가된 반도체/메모리 섹터 및 안전자산(금)과 장기채로 포트폴리오를 재편하는 움직임을 보인다. 이는 향후 시장 주도주의 변화와 금리 인하 기대감 반영으로 해석될 수 있다.",
+    "action_point": "고평가된 성장주 비중을 줄이고 반도체 내 저평가 가치주 및 금, 장기채 등 방어 자산 편입을 고려하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Trump breaks silence about FAA nationwide ground stop, blames Biden administration",
+    "title_ko": "트럼프, FAA 전국 운항 중단 사태에 침묵 깨고 바이든 행정부 비난",
+    "link": "https://www.cnbc.com/2026/11/15/trump-breaks-silence-on-faa-nationwide-ground-stop-blames-biden-.html",
+    "published": "Sun, 15 Nov 2026 16:56:40 GMT",
+    "fetched_at": "2026-11-16 03:14:13",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "항공",
+      "여행 및 레저"
+    ],
+    "keywords": [
+      "트럼프",
+      "바이든 행정부",
+      "FAA",
+      "항공 운항 중단",
+      "항공 인프라",
+      "정치적 논쟁"
+    ],
+    "reason": "미국 전역의 항공 운항 중단 사태는 노후화된 인프라 문제를 부각시키며, 다가올 선거를 앞두고 바이든 행정부에 대한 정치적 비난으로 이어질 수 있습니다. 이는 항공 관련 산업에 단기적 영향을 미칠 수 있으나, 전반적인 거시 경제 펀더멘털이나 글로벌 시장 추세에는 제한적인 영향을 미칠 것으로 보입니다.",
+    "action_point": "미국 항공 및 관련 여행 섹터에 대한 단기적 영향 분석 외에는 전반적인 포트폴리오에 해당 없음."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "Bahrain intercepts Iranian aerial attacks as Tehran says it attacked US base",
     "title_ko": "바레인, 이란의 공중 공격 요격... 이란은 미군 기지 공격 주장",
     "link": "https://www.cnbc.com/2026/11/15/bahrain-iran-drone-attacks-tehran-us-base.html",
@@ -2831,153 +2987,5 @@
     ],
     "reason": "10월 CPI 상승률이 전월 대비 둔화되었음에도 불구하고 '불편할 정도로 높은' 수준이라는 평가는 중앙은행의 긴축 기조 장기화 또는 금리 인하 기대감 약화로 이어져 위험 자산에 부정적입니다.",
     "action_point": "고금리 장기화 가능성에 대비하여 금리 민감 자산(성장주, 부동산 등) 비중 축소를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Jensen Huang's affair with alleged Chinese spy further complicates Nvidia’s China problem",
-    "title_ko": "젠슨 황의 중국 스파이 의혹 연루, 엔비디아의 대중국 문제를 더욱 복잡하게 해",
-    "link": "https://www.cnbc.com/2026/11/10/jensen-huang-nvidia-china-ties.html",
-    "published": "Tue, 10 Nov 2026 15:04:23 GMT",
-    "fetched_at": "2026-11-11 01:47:50",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "반도체",
-      "기술",
-      "방산/안보"
-    ],
-    "keywords": [
-      "젠슨 황",
-      "엔비디아",
-      "중국",
-      "반도체 수출 통제",
-      "미중 갈등"
-    ],
-    "reason": "젠슨 황 CEO의 스파이 의혹 연루는 미국 정부의 대중국 반도체 수출 통제를 더욱 강화할 명분을 제공하며, 엔비디아를 비롯한 반도체 기업들의 대중국 사업 불확실성을 증폭시킬 것입니다.",
-    "action_point": "반도체 섹터 내 중국 익스포저가 높은 기업들의 비중 축소를 검토하고, 미중 기술 갈등 심화에 대비해야 합니다."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Polymarket says annualized revenue has topped $1.8 billion",
-    "title_ko": "폴리마켓, 연 매출 18억 달러 돌파 발표",
-    "link": "https://www.cnbc.com/2026/11/10/polymarket-annualized-revenue-us-growth.html",
-    "published": "Tue, 10 Nov 2026 13:00:01 GMT",
-    "fetched_at": "2026-11-11 01:47:35",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "예측 시장 (Prediction Market)",
-      "블록체인/탈중앙화 금융 (DeFi)",
-      "핀테크"
-    ],
-    "keywords": [
-      "폴리마켓",
-      "예측 시장",
-      "매출 성장"
-    ],
-    "reason": "이 뉴스는 특정 예측 시장 플랫폼의 매출 성장세를 보여주며, 신흥 시장의 잠재력을 시사하지만, 거시 경제나 주요 투자 자산에 미치는 직접적인 영향은 제한적입니다. 특정 니치 섹터의 동향을 파악하는 데 참고할 수 있습니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Trump says Iran war to end 'fairly soon,' plays down prospects of new strikes",
-    "title_ko": "트럼프, 이란 전쟁 '조만간' 끝날 것, 추가 공격 가능성 일축",
-    "link": "https://www.cnbc.com/2026/11/10/trump-iran-war-hormuz-.html",
-    "published": "Tue, 10 Nov 2026 07:00:02 GMT",
-    "fetched_at": "2026-11-10 17:58:53",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "항공/운수",
-      "방위산업"
-    ],
-    "keywords": [
-      "트럼프",
-      "이란",
-      "지정학적 리스크",
-      "중동",
-      "유가"
-    ],
-    "reason": "트럼프 대통령의 발언은 이란과의 갈등 완화 기대를 높여 지정학적 리스크 프리미엄을 낮출 수 있습니다. 이는 중동 지역 안정화와 유가 하락 압력으로 작용하여 글로벌 증시에는 긍정적으로 작용할 수 있습니다.",
-    "action_point": "에너지 섹터 비중 축소 검토 및 유가 하락 수혜 섹터(예: 항공, 운수)에 대한 투자 기회 모색."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "S&P 500 futures rise as traders brace for crucial consumer inflation report: Live updates",
-    "title_ko": "S&P 500 선물 상승, 핵심 소비자 물가 보고서 앞두고 투자자들은 대비 중: 실시간 업데이트",
-    "link": "https://www.cnbc.com/2026/11/09/stock-market-today-live-updates.html",
-    "published": "Tue, 10 Nov 2026 08:55:38 GMT",
-    "fetched_at": "2026-11-10 17:59:04",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "주식시장 전반",
-      "채권시장",
-      "부동산"
-    ],
-    "keywords": [
-      "CPI",
-      "인플레이션",
-      "금리",
-      "연준",
-      "주식시장"
-    ],
-    "reason": "이번 소비자 물가 지수(CPI) 발표는 연준의 통화 정책 방향 및 금리 인상 기대감에 결정적인 영향을 미치므로, 발표 결과에 따라 주식, 채권 등 주요 자산 시장의 변동성이 크게 확대될 것입니다.",
-    "action_point": "핵심 CPI 발표 전까지 포트폴리오의 금리 민감도를 점검하고, 결과에 따른 시장 변동성 확대에 대비하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "TSMC's October sales jump as global chip boom rolls on",
-    "title_ko": "TSMC 10월 매출 급증, 글로벌 반도체 호황 지속",
-    "link": "https://www.cnbc.com/2026/11/10/tsmcs-october-sales-.html",
-    "published": "Tue, 10 Nov 2026 05:42:42 GMT",
-    "fetched_at": "2026-11-10 17:59:21",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "반도체",
-      "기술"
-    ],
-    "keywords": [
-      "TSMC",
-      "반도체",
-      "매출",
-      "기술"
-    ],
-    "reason": "TSMC의 10월 매출 급증은 글로벌 반도체 수요가 강력함을 입증하며, 이는 전반적인 기술 섹터의 성장을 지지하고 관련 기업들의 실적 개선 기대를 높인다.",
-    "action_point": "반도체 및 기술 섹터 관련 투자 비중 확대를 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "미국 중간선거 경제 영향 | 선거 결과가 경제에 미치는 영향 - KB Think",
-    "title_ko": "미국 중간선거 경제 영향 | 선거 결과가 경제에 미치는 영향 - KB Think",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9NbUZXVW9DMVh6amxZMUtmS0dIY0RodnliVDVabFUwYTRyYnZKSjYyV2dKdlhXY2FDVkFrZWxhRnJxcGpsNFpDUEtJMm5Ec0dvMTREcEYyV3l2QnV4bGp2ZWlfOEVjRUZ6MW83WWxCRWxkLUhpUWw4?oc=5",
-    "published": "Tue, 10 Nov 2026 06:19:36 GMT",
-    "fetched_at": "2026-11-10 18:00:00",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "기술",
-      "에너지",
-      "금융",
-      "산업재",
-      "헬스케어"
-    ],
-    "keywords": [
-      "미국 중간선거",
-      "경제 영향",
-      "정책 변화",
-      "정치 불확실성",
-      "거시 경제"
-    ],
-    "reason": "미국 중간선거는 향후 2년간 의회 권력 균형을 결정하여 재정 정책, 규제 환경, 무역 정책에 중대한 변화를 가져올 수 있습니다. 이는 글로벌 경제 성장률, 인플레이션, 기업 실적 및 금리에 광범위한 영향을 미칩니다.",
-    "action_point": "미국 중간선거 결과에 따른 정책 변화 시나리오별로 포트폴리오의 섹터별 노출도와 방어적 자산 비중을 점검하고 대응 전략을 수립하라."
   }
 ]
