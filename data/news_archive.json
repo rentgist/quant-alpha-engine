@@ -2,6 +2,31 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "Stock futures tick higher as traders brace for Nvidia earnings, Anthropic IPO this week: Live updates",
+    "title_ko": "이번 주 엔비디아 실적 발표와 Anthropic IPO를 앞두고 주식 선물 소폭 상승: 실시간 업데이트",
+    "link": "https://www.cnbc.com/2026/11/15/stock-market-today-live-updates.html",
+    "published": "Sun, 15 Nov 2026 23:15:17 GMT",
+    "fetched_at": "2026-11-16 08:16:02",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "반도체",
+      "인공지능(AI)",
+      "기술주"
+    ],
+    "keywords": [
+      "엔비디아 실적",
+      "Anthropic IPO",
+      "기술주 강세",
+      "AI 모멘텀",
+      "주식 선물"
+    ],
+    "reason": "미국 시장은 엔비디아 실적과 Anthropic IPO에 대한 기대감으로 강력한 상승 모멘텀을 보이고 있습니다. 이는 AI 및 기술 섹터에 대한 투자심리를 더욱 강화하여 전반적인 주식 시장의 추가 상승을 견인할 수 있습니다.",
+    "action_point": "엔비디아 실적 발표 결과에 따라 인공지능(AI) 및 반도체 섹터 내 주요 성장주에 대한 투자 비중 확대를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "Bessent calls for ‘dramatic shakeup’ at Nvidia, urges outside CEO",
     "title_ko": "Bessent, 엔비디아의 '극적인 개편'과 외부 CEO 선임을 촉구",
     "link": "https://www.cnbc.com/2026/11/15/bessent-nvidia-ceo-lutnick-megaspeed.html",
@@ -2962,30 +2987,5 @@
     ],
     "reason": "미국 휘발유 가격 하락은 인플레이션 압력을 완화하고 소비 여력을 증대시켜 미 연준의 긴축 속도 조절 가능성을 높입니다. 이는 경제 연착륙 기대감을 높이는 요인으로 작용합니다.",
     "action_point": "인플레이션 완화에 따른 미국 소비재 및 항공/운송 섹터 비중 확대를 검토하십시오."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Here's the inflation breakdown for October 2026 — in one chart",
-    "title_ko": "2026년 10월 인플레이션 세부 분석: 주요 내용 요약",
-    "link": "https://www.cnbc.com/2026/11/10/october-2026-cpi-inflation-breakdown.html",
-    "published": "Tue, 10 Nov 2026 16:36:40 GMT",
-    "fetched_at": "2026-11-11 01:47:44",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "금융",
-      "부동산",
-      "기술주",
-      "경기소비재"
-    ],
-    "keywords": [
-      "인플레이션",
-      "소비자물가지수",
-      "고금리",
-      "매크로경제"
-    ],
-    "reason": "10월 CPI 상승률이 전월 대비 둔화되었음에도 불구하고 '불편할 정도로 높은' 수준이라는 평가는 중앙은행의 긴축 기조 장기화 또는 금리 인하 기대감 약화로 이어져 위험 자산에 부정적입니다.",
-    "action_point": "고금리 장기화 가능성에 대비하여 금리 민감 자산(성장주, 부동산 등) 비중 축소를 검토하라."
   }
 ]
