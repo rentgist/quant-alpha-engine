@@ -1,5 +1,31 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "\"AI 투자붐, 2028년 전후 조정 가능성…韓 경제도 대비해야\" - 연합뉴스",
+    "title_ko": "AI 투자붐, 2028년 전후 조정 가능성…韓 경제도 대비해야",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wckhvb05jQ3J4Zm52ZWVqNlJOVkNmZ1NKMWpkLWhZMk5oQXFXY0paZ2hTQmtYQjBxX0lPNlhlU3ZTU1hQWW5mWHlWcWtGN0lOYmw3VldsX3RTZno0Mm4yU9IBYEFVX3lxTE1wckhvb05jQ3J4Zm52ZWVqNlJOVkNmZ1NKMWpkLWhZMk5oQXFXY0paZ2hTQmtYQjBxX0lPNlhlU3ZTU1hQWW5mWHlWcWtGN0lOYmw3VldsX3RTZno0Mm4yUw?oc=5",
+    "published": "Sun, 15 Nov 2026 02:00:02 GMT",
+    "fetched_at": "2026-11-15 12:51:56",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "기술",
+      "반도체",
+      "소프트웨어",
+      "IT서비스"
+    ],
+    "keywords": [
+      "AI 투자붐",
+      "기술주",
+      "성장주",
+      "조정 가능성",
+      "한국 경제"
+    ],
+    "reason": "이 기사는 현재 AI 투자 붐에 대한 과열 경고와 2028년 전후 조정 가능성을 제시하며, 관련 기술주 및 성장주에 대한 장기적 리스크 관리가 필요함을 시사합니다.",
+    "action_point": "AI 관련 기술주 및 성장주 포트폴리오의 과열 여부를 재점검하고, 장기적인 관점에서 비중 조절 전략을 수립하라."
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "SpaceX catches upper stage of Starship rocket in historic first",
@@ -2953,29 +2979,5 @@
     ],
     "reason": "엔젠바이오의 유상증자는 해당 기업의 주식 가치 희석 가능성을 내포하며 자금 조달 필요성을 시사한다. 이는 개별 기업 이슈로 거시경제나 전체 시장에 미치는 영향은 제한적이다.",
     "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[속보] 정부, 작전 범위 확대·초계기 1대 파견 ‘청해부대 파병 연장 동의안’ 국무회의 의결 - 경향신문",
-    "title_ko": "[속보] 정부, 작전 범위 확대·초계기 1대 파견 ‘청해부대 파병 연장 동의안’ 국무회의 의결",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NTnpCdl9rMnpHekFXdjltZHdZQ3ZoaDdGWTB3dHJxMzFCLWV1YnY2eXpaNDRmYzhxOVlhTU1EZVBRTDhLVFFxajh6Njh4UERtd19MY00wUmVyUdIBX0FVX3lxTE1LMzBIRFhYeDVUQ2tsZ082Y2tJdXBLMGozQ2luNzZmTndSdGtPbTkyQWlPeE9VQUdXWU03MXA2M0RCZ3ZMSE1jbXBwX2hJTjQ4MWl5QXpOWmMtZjJ5UzZn?oc=5",
-    "published": "Tue, 10 Nov 2026 06:56:00 GMT",
-    "fetched_at": "2026-11-10 17:59:41",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "해운",
-      "방산"
-    ],
-    "keywords": [
-      "청해부대",
-      "파병 연장",
-      "작전 범위",
-      "해상 안보",
-      "지정학"
-    ],
-    "reason": "정부의 청해부대 파병 연장 및 작전 범위 확대 결정은 국내 해상 운송로의 안정성 유지에 기여하며, 특히 중동 지역의 잠재적 해상 위협에 대한 대응력을 강화하는 의미가 있다. 이는 해운 섹터의 리스크 완화에 미미한 긍정적 영향을 줄 수 있으나, 거시경제 및 전체 금융시장에는 중립적인 영향으로 판단된다.",
-    "action_point": "해운 섹터 내 중동 노선 의존도가 높은 기업의 운송 리스크 감소 여부를 점검하고, 방산 섹터에 대한 장기적 관점을 재고한다."
   }
 ]
