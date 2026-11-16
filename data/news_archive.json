@@ -1,5 +1,106 @@
 [
   {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "China’s slowdown deepens in October as industrial output, retail sales, investment miss estimates",
+    "title_ko": "10월 중국 경기 둔화 심화: 산업생산, 소매판매, 투자 모두 예상치 하회",
+    "link": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html",
+    "published": "Mon, 16 Nov 2026 03:32:02 GMT",
+    "fetched_at": "2026-11-16 12:51:54",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "글로벌 경기 민감 섹터",
+      "원자재",
+      "대중국 수출 기업",
+      "해운/물류"
+    ],
+    "keywords": [
+      "중국 경제 둔화",
+      "경기 침체",
+      "글로벌 수요 감소",
+      "원자재 가격"
+    ],
+    "reason": "중국의 산업생산, 소매판매, 투자 부진이 심화되며 내수 모멘텀 약화가 확인되었고, 이는 글로벌 수요 감소와 원자재 가격 하락 압력으로 이어질 수 있습니다. 특히 대중국 수출 의존도가 높은 국가들의 경제 성장 전망에 부정적인 영향을 미칠 것입니다.",
+    "action_point": "대중국 수출 의존도가 높은 국내 기업 및 원자재 관련 자산 비중 축소 또는 헤지 전략 검토."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Tech world's calls for Jensen Huang to return to Nvidia are growing",
+    "title_ko": "기술 업계, 젠슨 황 엔비디아 CEO 복귀 요구 증폭",
+    "link": "https://www.cnbc.com/2026/11/16/nvidia-jensen-huang-return-tech.html",
+    "published": "Mon, 16 Nov 2026 03:35:09 GMT",
+    "fetched_at": "2026-11-16 12:52:05",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "기술",
+      "반도체",
+      "인공지능"
+    ],
+    "keywords": [
+      "젠슨 황",
+      "엔비디아",
+      "CEO 복귀",
+      "기술주",
+      "AI"
+    ],
+    "reason": "젠슨 황 CEO의 잠재적 복귀는 엔비디아의 리더십과 전략적 방향에 대한 시장의 신뢰를 강화하며, AI 및 반도체 섹터 전반에 긍정적인 투자 심리를 불러올 것입니다.",
+    "action_point": "엔비디아 및 AI 관련 기술주에 대한 긍정적 시각 유지 및 비중 확대 고려."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "엔비디아 천하 무너지나...불붙은 AI '영토 전쟁' - YTN",
+    "title_ko": "엔비디아 천하 무너지나...불붙은 AI '영토 전쟁'",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9oeDJfbmRLNXBONFhVVUJFMUM2Umh1VloySGxiQzlmNHdVZHpXTEMyVVNrUDIybHliQ3oxYlJfTmdaUUlldGlJLTM3QnpXNkt1Zno5bnphWl9BaE9vdU5Pb2JSTWlHenU5bzNxblNhcw?oc=5",
+    "published": "Mon, 16 Nov 2026 01:35:00 GMT",
+    "fetched_at": "2026-11-16 12:52:15",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "반도체",
+      "IT하드웨어",
+      "클라우드 컴퓨팅",
+      "기술"
+    ],
+    "keywords": [
+      "엔비디아",
+      "AI",
+      "반도체",
+      "경쟁",
+      "GPU"
+    ],
+    "reason": "AI 반도체 시장 내 엔비디아의 독점적 지위에 대한 경쟁 심화 가능성을 시사하며, 이는 해당 섹터 전반의 투자 지형 변화 및 시장 재편을 야기할 수 있습니다. 장기적으로는 AI 기술 발전을 가속화할 수 있으나, 단기적으로는 선두 기업에 대한 불확실성을 높입니다.",
+    "action_point": "AI 반도체 섹터 내 엔비디아 집중 투자 비중을 점검하고, 경쟁 심화에 따른 새로운 기회 요인 및 포트폴리오 다각화 방안을 모색하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "경기관광공사, 말레이시아 기업 포상관광 유치",
+    "title_ko": "경기관광공사, 말레이시아 기업 포상관광 유치",
+    "link": "https://www.mk.co.kr/news/society/12209845",
+    "published": "Mon, 16 Nov 2026 12:46:19 +09:00",
+    "fetched_at": "2026-11-16 12:52:39",
+    "sentiment": "호재",
+    "importance": 2,
+    "sectors": [
+      "여행/관광",
+      "숙박/레저",
+      "유통"
+    ],
+    "keywords": [
+      "포상관광",
+      "말레이시아",
+      "경기관광공사",
+      "BE International",
+      "소비 확대"
+    ],
+    "reason": "말레이시아 기업의 대규모 포상관광 유치는 경기도 지역 관광 및 숙박, 유통 산업에 긍정적인 영향을 미쳐 국지적인 소비 진작 효과를 가져올 것입니다. 이는 국내 서비스 산업의 부분적인 회복세를 지지하는 요인으로 볼 수 있습니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "Stock futures tick higher as traders brace for Nvidia earnings, Anthropic IPO this week: Live updates",
@@ -2888,104 +2989,5 @@
     ],
     "reason": "이 뉴스는 블록체인 기반의 토큰화가 주식 시장의 접근성, 이전 및 활용 방식을 근본적으로 개선하여 장기적으로 자산 유동성 증대 및 효율성 향상에 기여할 것임을 시사합니다.",
     "action_point": "블록체인 기술 기반의 금융 서비스 및 플랫폼 기업에 대한 투자 비중 확대를 검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "반도체만 웃는 경제…서민 체감 경기는 ’한숨’ - 연합뉴스TV",
-    "title_ko": "반도체만 웃는 경제…서민 체감 경기는 ’한숨’ - 연합뉴스TV",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXRDNMaVREMXlaSE15V01PdzhzcHBjYXRYRUxwMHl3R2lzYVRSdm5aQWdMOThjOWYtYkJvandLMVVZWUs4NloyRU9jdTJuY2NVOEZodlBaWW9DNXJ5ai1wZVRoZzJrMWc?oc=5",
-    "published": "Tue, 10 Nov 2026 12:05:00 GMT",
-    "fetched_at": "2026-11-11 07:03:57",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "반도체",
-      "유통",
-      "소비재",
-      "금융",
-      "부동산"
-    ],
-    "keywords": [
-      "반도체",
-      "내수",
-      "소비심리",
-      "K자형 회복",
-      "경제 불균형"
-    ],
-    "reason": "국내 경제가 반도체 수출 호조에도 불구하고 서민 체감 경기가 악화되는 K자형 회복을 보여, 내수 기반 산업의 부진이 심화될 수 있음을 시사합니다. 이는 정부의 내수 진작책 필요성을 높이고, 금리 인하 압박으로 이어질 가능성도 있습니다.",
-    "action_point": "반도체 이외 국내 내수 및 소비 관련 섹터 투자 비중 재조정 검토."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "라이징 스타 부문, '뇌새김'에서 건강·뷰티까지",
-    "title_ko": "라이징 스타 부문, '뇌새김'에서 건강·뷰티까지",
-    "link": "https://www.mk.co.kr/news/business/12204436",
-    "published": "Wed, 11 Nov 2026 07:00:00 +09:00",
-    "fetched_at": "2026-11-11 07:04:12",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "교육 기술",
-      "건강",
-      "뷰티"
-    ],
-    "keywords": [
-      "EY 최우수 기업가상",
-      "라이징 스타",
-      "에듀테크",
-      "위버스마인드",
-      "정성은 대표",
-      "성장 기업"
-    ],
-    "reason": "이 기사는 특정 에듀테크 기업 대표가 'EY 최우수 기업가상'을 수상하며 건강·뷰티 분야로의 사업 확장 가능성을 보여준 개별 기업 성공 사례입니다. 거시경제나 주요 투자 자산 전반에 미치는 직접적인 영향은 제한적입니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "패밀리 비즈니스 부문, 기술경영 50년 … 전력설비 글로벌 시장 열어",
-    "title_ko": "패밀리 비즈니스 부문, 기술경영 50년 … 전력설비 글로벌 시장 열어",
-    "link": "https://www.mk.co.kr/news/stock/12204434",
-    "published": "Wed, 11 Nov 2026 07:00:00 +09:00",
-    "fetched_at": "2026-11-11 07:04:18",
-    "sentiment": "호재",
-    "importance": 2,
-    "sectors": [
-      "전력설비",
-      "전력인프라"
-    ],
-    "keywords": [
-      "전력설비",
-      "기술경영",
-      "글로벌 시장",
-      "인프라"
-    ],
-    "reason": "개별 전력설비 기업의 기술 경쟁력과 글로벌 시장 개척 성공을 보여주는 사례로, 국내 전력 인프라 관련 섹터의 해외 수주 확대 가능성에 대한 긍정적 시그널로 해석됩니다.",
-    "action_point": "전력 설비 및 인프라 섹터 내 글로벌 경쟁력을 갖춘 기업 비중 확대를 검토."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "U.S. gas prices fall below $4 for the first time since July",
-    "title_ko": "미국 휘발유 가격, 7월 이후 처음으로 갤런당 4달러 아래로 하락",
-    "link": "https://www.cnbc.com/2026/11/10/us-gas-prices-below-four-dollars.html",
-    "published": "Tue, 10 Nov 2026 16:29:09 GMT",
-    "fetched_at": "2026-11-11 01:47:26",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "소비재",
-      "항공",
-      "운송"
-    ],
-    "keywords": [
-      "미국 휘발유 가격",
-      "인플레이션",
-      "소비 지출"
-    ],
-    "reason": "미국 휘발유 가격 하락은 인플레이션 압력을 완화하고 소비 여력을 증대시켜 미 연준의 긴축 속도 조절 가능성을 높입니다. 이는 경제 연착륙 기대감을 높이는 요인으로 작용합니다.",
-    "action_point": "인플레이션 완화에 따른 미국 소비재 및 항공/운송 섹터 비중 확대를 검토하십시오."
   }
 ]
