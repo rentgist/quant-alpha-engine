@@ -1,5 +1,207 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "China confirms Xi-Trump-Putin historic summit. What will be on the agenda?",
+    "title_ko": "중국, 시진핑-트럼프-푸틴 역사적 정상회담 확인. 의제는 무엇인가?",
+    "link": "https://www.cnbc.com/2026/11/16/trump-xi-putin-ukraine-nuclear-tariffs-russia-iran-.html",
+    "published": "Mon, 16 Nov 2026 08:38:16 GMT",
+    "fetched_at": "2026-11-16 21:17:09",
+    "sentiment": "중립",
+    "importance": 5,
+    "sectors": [
+      "에너지",
+      "방산",
+      "무역 관련 수출입 업종",
+      "원자재"
+    ],
+    "keywords": [
+      "지정학",
+      "무역정책",
+      "국제안보",
+      "주요국 정상회담"
+    ],
+    "reason": "주요 3개국 정상회담 개최 가능성은 글로벌 지정학적 불확실성을 완화하거나 새로운 역학 관계를 형성하여 무역 정책, 원자재 가격, 그리고 중동 및 우크라이나 분쟁 관련 리스크 프리미엄에 광범위한 영향을 미칠 수 있습니다.",
+    "action_point": "잠재적 지정학적 리스크 완화 및 무역 정책 변화 가능성에 대비하여 에너지, 방산 섹터 비중을 조정하고 수출입 관련 기업 포트폴리오를 재검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "‘Standing on one leg’: IMF chief warns about global economy as AI circular financing hits $1 trillion",
+    "title_ko": "'한 다리로 서 있는 격': IMF 총재, AI 순환 금융 1조 달러 돌파 속 글로벌 경제 경고",
+    "link": "https://www.cnbc.com/2026/11/16/imf-georgieva-warning-ai-circular-financing.html",
+    "published": "Mon, 16 Nov 2026 09:14:46 GMT",
+    "fetched_at": "2026-11-16 21:17:17",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "기술",
+      "금융"
+    ],
+    "keywords": [
+      "IMF",
+      "AI",
+      "순환 금융",
+      "부채",
+      "글로벌 경제",
+      "경고"
+    ],
+    "reason": "IMF 총재의 경고는 AI 섹터 내 과도한 부채 기반 순환 금융이 글로벌 경제의 잠재적 취약점으로 작용할 수 있으며, 투자심리 냉각 시 시스템 리스크를 야기할 가능성을 시사한다.",
+    "action_point": "AI 섹터 내 부채 비중이 높거나 펀더멘털이 불분명한 기업에 대한 투자 비중 축소 검토."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "NATO member Estonia to close Russia border after attempted 'sabotage' of drone maker",
+    "title_ko": "나토 회원국 에스토니아, 드론 제조업체 '사보타주' 시도 후 러시아 국경 폐쇄 예정",
+    "link": "https://www.cnbc.com/2026/11/16/nato-estonia-russia-border-ukraine-war.html",
+    "published": "Mon, 16 Nov 2026 10:44:02 GMT",
+    "fetched_at": "2026-11-16 21:17:29",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "국방/항공우주",
+      "물류/운송",
+      "산업 보안"
+    ],
+    "keywords": [
+      "NATO",
+      "에스토니아",
+      "러시아",
+      "국경 폐쇄",
+      "사보타주",
+      "드론",
+      "지정학적 위험",
+      "제재"
+    ],
+    "reason": "나토 회원국과 러시아 간 긴장이 고조되고 제재 회피 활동 단속이 강화될 것임을 시사하며, 이는 동유럽 지역의 지정학적 불안정성을 높여 물류 및 국방 관련 산업에 영향을 미칠 수 있습니다.",
+    "action_point": "동유럽 지정학적 리스크 증가에 대비하여 방산 섹터 비중 확대를 검토하고, 유럽 시장 투자 익스포저를 재평가."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "From AI to oil, here are Goldman and Morgan Stanley’s outlooks for 2027",
+    "title_ko": "AI부터 원유까지: 골드만삭스와 모건스탠리가 제시하는 2027년 전망",
+    "link": "https://www.cnbc.com/2026/11/16/goldman-sachs-morgan-stanley-2027-outlook-markets.html",
+    "published": "Mon, 16 Nov 2026 10:39:38 GMT",
+    "fetched_at": "2026-11-16 21:17:37",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "기술",
+      "에너지",
+      "원자재",
+      "글로벌 경기순환주"
+    ],
+    "keywords": [
+      "글로벌 성장",
+      "AI",
+      "원유",
+      "장기 전망",
+      "투자은행"
+    ],
+    "reason": "주요 투자은행들의 낙관적인 장기 성장 전망은 시장 전반의 투자심리에 긍정적이며, AI와 원자재 등 특정 섹터의 장기 투자 매력을 부각시킵니다.",
+    "action_point": "글로벌 성장세 지속에 베팅하여 AI 및 원자재 관련 자산 비중 확대 고려."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "엔비디아 리더십 위기·美 의회 규제 움직임…AI 투자시장 판도 바뀌나 - 헬로티",
+    "title_ko": "엔비디아 리더십 위기·美 의회 규제 움직임…AI 투자시장 판도 바뀌나 - 헬로티",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uNUQ4dUJBMWFTQzNHem1lVU8yN0d5X3Zzc00tRlh5Zm5JX0JQU01KbVFPSnBDcTJzSWRqYmpRXzZtdWNwcTU4TFRnUWo3Q2sydmwzOHFneE8zQzNBUlkw?oc=5",
+    "published": "Mon, 16 Nov 2026 08:45:02 GMT",
+    "fetched_at": "2026-11-16 21:17:52",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "반도체",
+      "AI",
+      "기술주"
+    ],
+    "keywords": [
+      "엔비디아",
+      "AI 규제",
+      "반도체",
+      "기술주"
+    ],
+    "reason": "엔비디아의 내부 리더십 위기설과 미국 의회의 AI 규제 움직임은 그동안 과열되었던 AI 투자 시장에 대한 냉각 효과를 가져올 수 있으며, 이는 AI 및 반도체 관련 기술주 전반에 걸쳐 투자 심리 악화로 이어질 수 있습니다.",
+    "action_point": "단기 과열된 AI 관련 고성장 기술주 비중 축소를 검토하고, 규제 리스크를 덜 받는 인프라 관련 기업으로 분산 투자하는 것을 고려하십시오."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "희토류 등 해외 핵심광물 투자 5년만에 재개",
+    "title_ko": "희토류 등 해외 핵심광물 투자 5년만에 재개",
+    "link": "https://www.mk.co.kr/news/economy/12210276",
+    "published": "Mon, 16 Nov 2026 19:52:21 +09:00",
+    "fetched_at": "2026-11-16 21:18:37",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "산업재",
+      "화학",
+      "전자",
+      "자동차",
+      "방산"
+    ],
+    "keywords": [
+      "희토류",
+      "핵심광물",
+      "자원안보",
+      "공급망",
+      "정부정책",
+      "해외투자"
+    ],
+    "reason": "정부의 해외 핵심광물 투자 재개는 글로벌 자원 무기화에 대한 대응으로, 국내 주요 산업의 공급망 안정성을 장기적으로 강화할 것이다. 이는 핵심광물 의존도가 높은 전기차, 배터리, 첨단산업 등의 생산 비용 및 리스크 완화에 기여할 수 있다.",
+    "action_point": "핵심광물 관련 공급망 안정화 수혜가 예상되는 이차전지, IT 부품 등 첨단 산업 섹터 기업의 투자 비중 확대를 고려."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "‘카드 포인트’를 지역화폐로…“가계 소비 편의 높이고 지역경제 활성화” - 농민신문",
+    "title_ko": "‘카드 포인트’를 지역화폐로…“가계 소비 편의 높이고 지역경제 활성화”",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iaHJtUTJGc2Fsd3hJVW1GM1R2eTJNSWdDUjlrdzl3Z1c4RGZJTG1MT0pJTk5lREZMOW1ZcnAyYW1vS2NQckVVQWZvSXZ6dXZfX0xIOG1xN3Z5UQ?oc=5",
+    "published": "Mon, 16 Nov 2026 08:42:00 GMT",
+    "fetched_at": "2026-11-16 21:18:01",
+    "sentiment": "호재",
+    "importance": 2,
+    "sectors": [
+      "소비재",
+      "유통",
+      "외식업"
+    ],
+    "keywords": [
+      "카드 포인트",
+      "지역화폐",
+      "가계 소비",
+      "지역경제 활성화"
+    ],
+    "reason": "이 정책은 가계의 잠재 소비력을 지역화폐 전환을 통해 실제 소비로 유도하여 내수 활성화 및 지역 상권에 긍정적인 영향을 미칠 것입니다. 다만, 전체 경제에 미치는 파급 효과는 제한적일 수 있습니다.",
+    "action_point": "지역 소비 활성화 수혜가 예상되는 소매유통 및 외식업종 내 투자 기회를 모색하십시오."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "“음주운전이랑 의사면허가 무슨 상관?”…적반하장 의사에 법원 판결이",
+    "title_ko": "“음주운전이랑 의사면허가 무슨 상관?”…적반하장 의사에 법원 판결이",
+    "link": "https://www.mk.co.kr/news/society/12210272",
+    "published": "Mon, 16 Nov 2026 19:21:11 +09:00",
+    "fetched_at": "2026-11-16 21:18:45",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "의료"
+    ],
+    "keywords": [
+      "음주운전",
+      "의사면허",
+      "법원 판결",
+      "의료법"
+    ],
+    "reason": "의사 면허 취소 기준에 대한 법원의 판단을 명확히 한 것으로, 의료계 전반의 자정 노력을 강화할 수 있으나 거시 경제 및 주요 투자 자산에 미치는 직접적인 영향은 제한적이다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "CNBC_Finance",
     "market": "US",
     "title": "China’s slowdown deepens in October as industrial output, retail sales, investment miss estimates",
@@ -2796,198 +2998,5 @@
     ],
     "reason": "AI 글래스 상용화의 핵심 걸림돌인 부피와 무게를 획기적으로 줄이는 기술적 진전으로, 미래 AI 및 XR 시장의 성장 잠재력을 높이는 긍정적 신호입니다. 관련 IT 하드웨어 및 광학 부품 기업에 장기적인 기회가 될 수 있습니다.",
     "action_point": "AI 및 XR 기기 생태계의 핵심 부품(광학, 반도체) 기술을 선도하는 국내외 기업들에 대한 장기적 투자 매력을 분석하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "철강·알루미늄, EU 수출 숨통 …'탄소배출 검증' 국내서 받는다",
-    "title_ko": "철강·알루미늄, EU 수출 숨통 …'탄소배출 검증' 국내서 받는다",
-    "link": "https://www.mk.co.kr/news/business/12205786",
-    "published": "Thu, 12 Nov 2026 00:00:00 +09:00",
-    "fetched_at": "2026-11-12 03:14:26",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "철강금속",
-      "수출"
-    ],
-    "keywords": [
-      "탄소배출 검증",
-      "EU CBAM",
-      "철강",
-      "알루미늄",
-      "수출 경쟁력"
-    ],
-    "reason": "유럽연합(EU) CBAM 규제 관련 국내 탄소배출량 검증이 가능해져 국내 철강·알루미늄 기업의 EU 수출 경쟁력 강화 및 비용 부담 감소가 기대된다.",
-    "action_point": "EU 수출 비중이 높은 국내 철강·알루미늄 기업의 실적 개선 가능성을 고려, 해당 섹터 투자 비중 확대를 검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[보도설명자료][11.11.수 한국경제] 18억 집 있는 노인도 받는 기초연금 관련 - 대한민국 정책브리핑",
-    "title_ko": "18억 주택 보유자도 수령하는 기초연금 관련 정책 보도자료",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBvVVFRRmhrdkN5Rkk5bFJOSUVKVFBRbXVTNTgzTlhoSzZoMjZLUzZFTXVRckp5Z0p3U3FJVEtiRFZaZzhhTEJQUVZzaS0yNEF0dHF4SVNTTWc0eHBFS2k4eTRpdVd1TExuRDRrODRCVQ?oc=5",
-    "published": "Wed, 11 Nov 2026 08:22:38 GMT",
-    "fetched_at": "2026-11-12 03:13:49",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "공공재정",
-      "사회복지"
-    ],
-    "keywords": [
-      "기초연금",
-      "노인 복지",
-      "정부 지출",
-      "재정 건전성"
-    ],
-    "reason": "해당 보도자료는 18억 주택 보유 노인에게도 기초연금이 지급되는 현행 정책에 대한 논란을 설명하며, 향후 정부의 복지 지출 기조 및 재정 건전성 논의에 영향을 미칠 수 있음을 시사한다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[단독] ‘내란 비호’ 한국 인권위 등급 하락 위기…‘답변서’ 입수 - JTBC",
-    "title_ko": "[단독] ‘내란 비호’ 한국 인권위 등급 하락 위기…‘답변서’ 입수",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5pang4ZVBCY3NaWmpaSXhtNmU3OWtVUjg0UWhCOTdpdDF1eWVlOThmVjNHdUI1REtibnlzdDhDSXQtU2ozWkdZd2RjRDJNbVB4RDY0Tg?oc=5",
-    "published": "Wed, 11 Nov 2026 10:36:00 GMT",
-    "fetched_at": "2026-11-12 03:13:57",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [],
-    "keywords": [
-      "인권위원회",
-      "국제 평가",
-      "국가 위상"
-    ],
-    "reason": "한국 인권위원회의 국제적 등급 하락 위기는 국가의 대외 이미지 및 거버넌스 신뢰도에 잠재적 부정 영향을 미칠 수 있으나, 단기적으로 금융 시장의 주요 자산 가격 변동에 직접적인 영향은 미미합니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Alibaba announces plans to list T-Head, its Nvidia chip rival",
-    "title_ko": "알리바바, 엔비디아 경쟁사인 T-Head의 상장 계획 발표",
-    "link": "https://www.cnbc.com/2026/11/11/alibaba-pr.html",
-    "published": "Wed, 11 Nov 2026 07:47:54 GMT",
-    "fetched_at": "2026-11-11 19:01:41",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "반도체",
-      "기술",
-      "인공지능",
-      "클라우드 컴퓨팅"
-    ],
-    "keywords": [
-      "Alibaba",
-      "T-Head",
-      "엔비디아",
-      "반도체",
-      "AI칩",
-      "상장",
-      "경쟁"
-    ],
-    "reason": "알리바바의 T-Head 상장 추진은 글로벌 AI 반도체 시장의 경쟁 심화를 의미하며, 특히 중국 기술 기업들의 자립적인 칩 개발 역량 강화 추세를 보여줍니다. 이는 엔비디아 등 기존 선두 기업들에게 장기적인 경쟁 압력으로 작용할 수 있습니다.",
-    "action_point": "AI 반도체 섹터 내 경쟁 심화에 대비해 관련 기업들의 장기 경쟁력과 밸류에이션을 재평가하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "CoreWeave beats on revenue and lifts guidance, easing AI slowdown concerns",
-    "title_ko": "CoreWeave, 매출 예상치 상회 및 가이던스 상향, AI 둔화 우려 완화",
-    "link": "https://www.cnbc.com/2026/11/10/coreweave-crwv-q3-earnings-report-2026.html",
-    "published": "Tue, 10 Nov 2026 23:16:15 GMT",
-    "fetched_at": "2026-11-11 11:24:18",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "AI 반도체",
-      "클라우드 컴퓨팅",
-      "기술주"
-    ],
-    "keywords": [
-      "CoreWeave",
-      "AI",
-      "클라우드",
-      "실적",
-      "가이던스"
-    ],
-    "reason": "CoreWeave의 견조한 실적과 낙관적인 전망은 AI 산업 전반의 성장세가 지속되고 있음을 시사하며, 최근 시장의 AI 둔화 우려를 완화시켜 기술주 투자 심리에 긍정적 영향을 미칠 것입니다. 특히 AI 인프라 관련 기업들의 실적 기대감을 높일 수 있습니다.",
-    "action_point": "AI 인프라 및 반도체 관련 기술주 비중 유지 또는 확대 검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "“오작동도, 해킹도 막는다”… SK하이닉스, 안전 · 보안 국제 인증으로 피지컬 AI 메모리 신뢰성 강화 - SK hynix",
-    "title_ko": "“오작동도, 해킹도 막는다”… SK하이닉스, 안전 · 보안 국제 인증으로 피지컬 AI 메모리 신뢰성 강화",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1uWEg0MlFpUXBoUW1pSklUNXBaSXdyandhM004eS1aZk5lbm85ZkZyM1ZIODZhZ1BHTkVRcnRHT0M3c2lIRTEyeTFnYW5yOEJseEF5dGU2OG9KRmtNd0RPTnJmaU4yclE2cVh0NA?oc=5",
-    "published": "Tue, 10 Nov 2026 23:59:05 GMT",
-    "fetched_at": "2026-11-11 11:24:28",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "반도체",
-      "IT하드웨어"
-    ],
-    "keywords": [
-      "SK하이닉스",
-      "AI 메모리",
-      "국제 인증",
-      "신뢰성",
-      "보안"
-    ],
-    "reason": "SK하이닉스가 AI 메모리의 안전 및 보안 신뢰성을 강화하는 것은 핵심 제품의 경쟁력을 높여 글로벌 시장에서의 입지를 공고히 할 것입니다. 이는 장기적으로 회사 실적 및 AI 반도체 섹터 전반에 긍정적인 영향을 미칠 수 있습니다.",
-    "action_point": "SK하이닉스 주가의 중장기적 상승 동력으로 작용할 수 있으므로, 반도체 섹터 내 SK하이닉스 비중 유지 또는 확대 고려."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Fed Governor Waller sees December hike likely, opens door to possible half-point increase",
-    "title_ko": "연준 월러 이사, 12월 금리 인상 가능성 시사 및 0.5%p 인상 가능성 열어둬",
-    "link": "https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html",
-    "published": "Tue, 10 Nov 2026 17:13:44 GMT",
-    "fetched_at": "2026-11-11 07:03:39",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "성장주",
-      "부동산",
-      "채권",
-      "금융"
-    ],
-    "keywords": [
-      "연준",
-      "금리 인상",
-      "통화 정책",
-      "월러 이사",
-      "인플레이션",
-      "긴축"
-    ],
-    "reason": "연준 이사의 매파적 발언은 시장에 금리 인상 속도 가속화 가능성을 시사하며, 이는 위험 자산에 대한 투자 심리를 위축시키고 채권 시장 변동성을 확대할 수 있습니다. 특히 0.5%p 인상 가능성은 예상보다 강한 긴축 우려를 자극합니다.",
-    "action_point": "고금리 환경 지속 가능성에 대비하여 성장주 비중 축소를 검토하고, 단기 채권 및 금리 인상 수혜 금융주에 대한 관심을 높여라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Tokenization: The next evolution of the stock market",
-    "title_ko": "토큰화: 주식 시장의 다음 진화",
-    "link": "https://www.cnbc.com/2026/11/10/tokenization-market-evolution.html",
-    "published": "Tue, 10 Nov 2026 18:28:16 GMT",
-    "fetched_at": "2026-11-11 07:03:47",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "금융",
-      "기술"
-    ],
-    "keywords": [
-      "토큰화",
-      "블록체인",
-      "디지털 자산",
-      "자산 유동성"
-    ],
-    "reason": "이 뉴스는 블록체인 기반의 토큰화가 주식 시장의 접근성, 이전 및 활용 방식을 근본적으로 개선하여 장기적으로 자산 유동성 증대 및 효율성 향상에 기여할 것임을 시사합니다.",
-    "action_point": "블록체인 기술 기반의 금융 서비스 및 플랫폼 기업에 대한 투자 비중 확대를 검토."
   }
 ]
