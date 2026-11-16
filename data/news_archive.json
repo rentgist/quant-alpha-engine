@@ -1,5 +1,197 @@
 [
   {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "U.S. crude oil declines to $85 a barrel on recovering Middle East exports",
+    "title_ko": "미국 원유, 중동 수출 회복에 배럴당 85달러로 하락",
+    "link": "https://www.cnbc.com/2026/11/16/us-crude-oil-declines-to-87-a-barrel-on-recovering-middle-east-exports.html",
+    "published": "Mon, 16 Nov 2026 22:19:02 GMT",
+    "fetched_at": "2026-11-17 07:39:41",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "항공",
+      "해운",
+      "화학",
+      "소비재"
+    ],
+    "keywords": [
+      "국제 유가",
+      "유가 하락",
+      "중동 수출",
+      "공급 과잉",
+      "인플레이션 완화"
+    ],
+    "reason": "국제 유가 하락은 인플레이션 압력을 완화하고 기업의 생산 및 운송 비용을 절감하여 전반적인 경제 활동에 긍정적으로 작용할 수 있습니다. 특히 에너지 소비가 큰 산업의 수익성 개선이 기대됩니다.",
+    "action_point": "에너지 비용 부담이 큰 항공, 해운, 화학 섹터의 비중 확대를 검토하고, 전반적인 인플레이션 둔화 추세에 주목하여 시장 대응 전략을 수립하십시오."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Trump’s accounts traded up to $97.5 million in Nvidia as Huang gained White House access",
+    "title_ko": "트럼프 계정, 젠슨 황 CEO의 중국 스파이 연루 의혹 브리핑 후 엔비디아 주식 매도",
+    "link": "https://www.cnbc.com/2026/11/16/trump-nvidia-stock-trades-jensen-huang.html",
+    "published": "Mon, 16 Nov 2026 22:37:45 GMT",
+    "fetched_at": "2026-11-17 07:39:50",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "반도체",
+      "IT",
+      "기술주"
+    ],
+    "keywords": [
+      "엔비디아",
+      "트럼프",
+      "미중 갈등",
+      "지정학적 리스크",
+      "AI"
+    ],
+    "reason": "트럼프 측의 엔비디아 주식 매도는 젠슨 황 CEO의 중국 스파이 연루 의혹과 관련하여 엔비디아 및 반도체 섹터에 대한 정치적/지정학적 리스크 증가 가능성을 시사한다. 이는 미중 기술 갈등 심화와 규제 압력으로 이어질 수 있다.",
+    "action_point": "엔비디아를 비롯한 핵심 반도체/AI 기술주에 대한 정치적, 지정학적 리스크 증가 가능성을 고려하여 비중 축소 검토."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "JPMorgan Chase says temporary software bug is affecting consumer banking",
+    "title_ko": "JP모건 체이스, 임시 소프트웨어 버그가 소비자 은행 업무에 영향을 미친다고 밝혀",
+    "link": "https://www.cnbc.com/2026/11/16/jpmorgan-chase-technical-issue.html",
+    "published": "Mon, 16 Nov 2026 22:14:47 GMT",
+    "fetched_at": "2026-11-17 07:39:25",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "금융"
+    ],
+    "keywords": [
+      "JP모건",
+      "소프트웨어 버그",
+      "은행 업무",
+      "소비자 금융"
+    ],
+    "reason": "이 소식은 JP모건 체이스의 일시적인 내부 시스템 오류로, 악성 공격이나 다른 은행으로의 확산 징후가 없어 금융 시스템 전반에 미치는 영향은 제한적입니다. 단기적으로 해당 은행의 고객 서비스와 운영 효율성에 영향을 줄 수 있으나, 거시 경제에 미치는 영향은 미미할 것입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could ‘disappoint’",
+    "title_ko": "케빈 워시 연준 의장, AI의 경제적 중요성 강조하면서도 '실망' 가능성 경고",
+    "link": "https://www.cnbc.com/2026/11/16/fed-ai-task-force-kevin-warsh.html",
+    "published": "Mon, 16 Nov 2026 18:46:07 GMT",
+    "fetched_at": "2026-11-17 07:39:35",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "기술주",
+      "반도체",
+      "소프트웨어",
+      "클라우드 컴퓨팅"
+    ],
+    "keywords": [
+      "AI",
+      "기술 성장",
+      "생산성",
+      "밸류에이션",
+      "경제 전망"
+    ],
+    "reason": "AI의 경제적 중요성을 인정하면서도 과도한 기대에 대한 경고를 담고 있어, AI 관련 기술주의 현재 밸류에이션에 대한 신중한 접근을 유도할 수 있습니다. 이는 장기적 관점에서 AI 관련 섹터의 투자심리에 영향을 미칠 수 있습니다.",
+    "action_point": "AI 관련 기술주의 현 주가 밸류에이션에 대한 재평가 및 포트폴리오 비중 조절을 검토."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "This food giant has gone nowhere for a year. Jay Woods sees a breakout ahead",
+    "title_ko": "크래프트 하인즈: 1년간 횡보 끝에 반등 조짐, 매수 기회 포착",
+    "link": "https://www.cnbc.com/2026/11/16/kraft-stock-jay-woods.html",
+    "published": "Mon, 16 Nov 2026 17:03:52 GMT",
+    "fetched_at": "2026-11-17 07:40:10",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "식품",
+      "필수 소비재"
+    ],
+    "keywords": [
+      "크래프트 하인즈",
+      "주식",
+      "반등",
+      "소비재"
+    ],
+    "reason": "개별 대형 식품 기업의 주가 반등 가능성으로, 경기 방어적 필수 소비재 섹터 내 투자 기회를 시사하나 거시 경제 전반에 미치는 영향은 미미합니다.",
+    "action_point": "미국 필수 소비재 섹터 내 크래프트 하인즈(KHC) 주식의 매수 가능성을 심층 검토하십시오."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "United Airlines reports system outage affecting departing flights",
+    "title_ko": "유나이티드 항공, 출발 항공편에 영향을 미치는 시스템 장애 발생 보고",
+    "link": "https://www.cnbc.com/2026/11/16/united-airlines-outage-faa.html",
+    "published": "Mon, 16 Nov 2026 22:38:30 GMT",
+    "fetched_at": "2026-11-17 07:39:56",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "항공운송",
+      "관광/레저"
+    ],
+    "keywords": [
+      "유나이티드 항공",
+      "시스템 장애",
+      "항공편 지연",
+      "운송 산업"
+    ],
+    "reason": "유나이티드 항공의 시스템 장애는 해당 항공사의 단기적 운영 및 수익에 부정적 영향을 미치나, 글로벌 매크로 경제나 금융 시장 전반에는 미미한 영향만 줄 것입니다. 개별 기업 리스크로 해석됩니다.",
+    "action_point": "거시 경제 및 타 자산군에 미치는 영향이 미미하므로, 포트폴리오에 대한 직접적인 조치는 해당 없음."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Anthropic’s Wall Street whisperer: Meet CFO Krishna Rao",
+    "title_ko": "앤스로픽의 월스트리트 대변인: CFO 크리슈나 라오를 만나다",
+    "link": "https://www.cnbc.com/2026/11/16/anthropic-cfo-krishna-rao-ipo.html",
+    "published": "Mon, 16 Nov 2026 20:44:24 GMT",
+    "fetched_at": "2026-11-17 07:40:19",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "기술",
+      "인공지능",
+      "벤처캐피탈"
+    ],
+    "keywords": [
+      "Anthropic",
+      "IPO",
+      "AI",
+      "CFO"
+    ],
+    "reason": "AI 거대 기업 앤스로픽의 IPO 준비 진행 상황을 시사하며, 인공지능 섹터에 대한 지속적인 투자자 관심과 자본 유입을 간접적으로 확인할 수 있습니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "AI 시대에 적정한 주파수 대가는 얼마일까 [율촌 TMT리포트]",
+    "title_ko": "AI 시대에 적정한 주파수 대가는 얼마일까 [율촌 TMT리포트]",
+    "link": "https://www.mk.co.kr/news/society/12210227",
+    "published": "Tue, 17 Nov 2026 07:00:00 +09:00",
+    "fetched_at": "2026-11-17 07:40:47",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "통신"
+    ],
+    "keywords": [
+      "주파수 대가",
+      "통신사",
+      "AI",
+      "규제",
+      "투자"
+    ],
+    "reason": "주파수 대가 논의는 통신사의 운영 비용 및 미래 통신망(AI 관련 포함) 투자 여력에 직접적인 영향을 미치며, 향후 규제 방향에 따라 통신사 실적에 변동성을 줄 수 있습니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "China confirms Xi-Trump-Putin historic summit. What will be on the agenda?",
@@ -2788,215 +2980,5 @@
     ],
     "reason": "미국 의원들이 임상 시험 및 신약 승인과 연계된 예측 시장의 위험성에 대해 보건복지부에 질의하며, 향후 관련 시장에 대한 규제 강화 가능성을 시사한다. 이는 일부 바이오/제약 기업의 자금 조달 및 투자 심리에 간접적인 영향을 줄 수 있다.",
     "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes",
-    "title_ko": "연준 굴스비, 인플레이션 보고서 '약간 불안' 평가하며 추가 금리 인상 가능성 시사",
-    "link": "https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html",
-    "published": "Wed, 11 Nov 2026 16:49:02 GMT",
-    "fetched_at": "2026-11-12 03:12:37",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "성장주",
-      "기술주",
-      "부동산",
-      "채권"
-    ],
-    "keywords": [
-      "연준",
-      "인플레이션",
-      "금리 인상",
-      "통화정책",
-      "긴축"
-    ],
-    "reason": "예상보다 높은 인플레이션과 연준 고위 관계자의 매파적 발언은 추가 금리 인상 가능성을 높여, 주식 등 위험자산에 부정적이며 채권 금리 상승 압력을 가중시킵니다.",
-    "action_point": "고금리 장기화 가능성에 대비하여 성장주 비중 축소를 검토하고, 달러 자산 및 단기 고금리 채권 편입을 고려하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Analysis: Is Nvidia too big to fail? Its AI financing web raises the stakes",
-    "title_ko": "분석: 엔비디아는 너무 커서 망할 수 없는가? AI 금융망이 판돈을 높인다",
-    "link": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
-    "published": "Wed, 11 Nov 2026 18:09:50 GMT",
-    "fetched_at": "2026-11-12 03:13:06",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "반도체",
-      "기술주"
-    ],
-    "keywords": [
-      "엔비디아",
-      "AI",
-      "반도체",
-      "시스템 리스크",
-      "기술주"
-    ],
-    "reason": "엔비디아의 AI 생태계 내 막대한 영향력과 복잡한 금융 연관성이 잠재적 시스템 리스크로 부상하며, 기술주 전반의 변동성을 키울 수 있습니다.",
-    "action_point": "엔비디아 및 AI 관련 기술주 비중의 리스크를 재평가하고, 포트폴리오 다각화를 통해 집중 리스크를 관리하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Bessent moved to military base amid 'growing threats' from Iran",
-    "title_ko": "이란의 '증가하는 위협' 속에 베센트, 군사 기지로 이동",
-    "link": "https://www.cnbc.com/2026/11/11/us-iran-war-trump-hormuz-bessent-threats.html",
-    "published": "Wed, 11 Nov 2026 16:59:18 GMT",
-    "fetched_at": "2026-11-12 03:13:17",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "방산",
-      "해운",
-      "금융"
-    ],
-    "keywords": [
-      "이란",
-      "지정학적 위협",
-      "중동",
-      "에너지 안보",
-      "경제 제재"
-    ],
-    "reason": "미국 고위 인사에 대한 이란의 위협 증가는 중동 지역의 지정학적 불안정 심화를 의미하며, 이는 국제 유가 상승 압력과 금융 시장의 위험 회피 심리를 자극할 수 있습니다. 특히 이란의 경제적 고립 작전을 주도하는 인물이 표적이라는 점에서 향후 미국-이란 관계의 추가 악화 가능성을 시사합니다.",
-    "action_point": "중동 지정학적 리스크 고조에 따라 원유 등 에너지 자산 비중 확대를 검토하고 방산 섹터 동향을 면밀히 주시하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "트럼프 \"이란과 전쟁 곧 끝날 것…더 파괴할 필요가 없길 바라\" - KB Think",
-    "title_ko": "트럼프 \"이란과 전쟁 곧 끝날 것…더 파괴할 필요가 없길 바라\"",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9kVmZmSjEwRW5IRWRRX1hYdFNkUUtnWXJQTjF0ZTNXQi1vNnBFazVhSVZzZEx6TllfREh6dklzbVdZSlc2ZmZFZGZtTDVhdkJudGktWWgxX1ZFVnlIUHJpRkFEMDBzZUtZVFVTTVJ1QzBidw?oc=5",
-    "published": "Wed, 11 Nov 2026 17:23:18 GMT",
-    "fetched_at": "2026-11-12 03:14:08",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "항공",
-      "운송",
-      "방산",
-      "정유",
-      "석유화학"
-    ],
-    "keywords": [
-      "트럼프",
-      "이란",
-      "지정학",
-      "중동",
-      "유가",
-      "위험선호"
-    ],
-    "reason": "트럼프의 이란과의 갈등 완화 발언은 중동 지역의 지정학적 리스크 감소를 시사하며, 이는 글로벌 유가에 하방 압력을 가하고 전반적인 시장의 위험 선호 심리를 개선할 수 있다.",
-    "action_point": "중동 지정학적 리스크 완화에 따른 유가 하락 가능성을 염두에 두고 에너지 관련 자산 비중 축소 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "CoreWeave CEO Intrator tells CNBC he has canceled his planned share sale program",
-    "title_ko": "CoreWeave CEO, 계획했던 주식 매각 프로그램 취소 발표",
-    "link": "https://www.cnbc.com/2026/11/11/coreweave-ceo-election-data-center-buildout.html",
-    "published": "Wed, 11 Nov 2026 15:53:36 GMT",
-    "fetched_at": "2026-11-12 03:12:48",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "AI 인프라",
-      "클라우드 컴퓨팅",
-      "반도체"
-    ],
-    "keywords": [
-      "CoreWeave",
-      "AI",
-      "클라우드",
-      "CEO",
-      "주식 매각",
-      "실적 호조"
-    ],
-    "reason": "CoreWeave CEO의 주식 매각 취소는 기업의 견조한 실적과 낙관적인 미래 전망에 대한 강력한 자신감을 시사합니다. 이는 AI 인프라 및 클라우드 컴퓨팅 섹터 전반에 긍정적인 투자 심리를 형성할 수 있습니다.",
-    "action_point": "AI 인프라 및 클라우드 컴퓨팅 관련 상장 기업의 투자 매력도를 재평가하고, 필요시 포트폴리오 비중 확대 고려."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Nvidia shares rebound as Jensen Huang faces scrutiny ahead of earnings",
-    "title_ko": "엔비디아 주가, 젠슨 황 CEO 사생활 논란에도 실적 발표 앞두고 반등",
-    "link": "https://www.cnbc.com/2026/11/11/nvidia-stock-jensen-huang-affair-china.html",
-    "published": "Wed, 11 Nov 2026 17:39:26 GMT",
-    "fetched_at": "2026-11-12 03:12:59",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "반도체",
-      "기술",
-      "인공지능"
-    ],
-    "keywords": [
-      "엔비디아",
-      "젠슨 황",
-      "CEO",
-      "스캔들",
-      "실적"
-    ],
-    "reason": "엔비디아 젠슨 황 CEO의 사생활 논란은 기업의 펀더멘털보다는 리더십 불확실성 및 브랜드 이미지에 잠재적 영향을 미칠 수 있다. 주가가 일시 반등했으나, 향후 실적 발표와 맞물려 투자 심리에 변동성을 야기할 가능성이 있다.",
-    "action_point": "젠슨 황 CEO의 사생활 이슈가 단기적 변동성 요인이므로, 다가오는 엔비디아 실적 발표에 집중하여 기업 펀더멘털과 반도체 섹터 전반의 투자 심리를 재평가."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "즐거움이 빛나는 '별밤서울'…서울형 야간경제 본격화 - 내 손안에 서울",
-    "title_ko": "즐거움이 빛나는 '별밤서울'…서울형 야간경제 본격화",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ITjNjUFl2OVRfbGZQMlhHRlk5UEZBQVpCanBhUkhSbzRSZGdMdXRERWFIS3hDY3I1N1pNdExncEQyY1dHc3VmaTdXT25HdVk4RVRwVGRjSlc?oc=5",
-    "published": "Tue, 10 Nov 2026 04:25:32 GMT",
-    "fetched_at": "2026-11-12 03:13:38",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "소비재",
-      "유통",
-      "외식",
-      "엔터테인먼트",
-      "관광"
-    ],
-    "keywords": [
-      "야간경제",
-      "서울시",
-      "소비활성화",
-      "내수",
-      "관광"
-    ],
-    "reason": "서울시의 야간 경제 활성화 정책은 내국인 및 외국인 관광객의 소비를 촉진하여 서울 기반 외식, 유통, 여가 관련 기업들의 매출 증대에 긍정적인 영향을 미칠 것으로 예상된다.",
-    "action_point": "서울 지역 기반 외식, 소매, 엔터테인먼트 관련 기업 주시"
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "실제 안경처럼 얇아진 AI 글래스...렌즈 두께 1.5mm 구현",
-    "title_ko": "실제 안경처럼 얇아진 AI 글래스...렌즈 두께 1.5mm 구현",
-    "link": "https://www.mk.co.kr/news/it/12205704",
-    "published": "Thu, 12 Nov 2026 01:00:00 +09:00",
-    "fetched_at": "2026-11-12 03:14:19",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "IT 하드웨어",
-      "광학",
-      "반도체",
-      "XR/AR"
-    ],
-    "keywords": [
-      "AI 글래스",
-      "메타렌즈",
-      "스마트 글래스",
-      "증강현실(AR)",
-      "포스텍",
-      "삼성리서치"
-    ],
-    "reason": "AI 글래스 상용화의 핵심 걸림돌인 부피와 무게를 획기적으로 줄이는 기술적 진전으로, 미래 AI 및 XR 시장의 성장 잠재력을 높이는 긍정적 신호입니다. 관련 IT 하드웨어 및 광학 부품 기업에 장기적인 기회가 될 수 있습니다.",
-    "action_point": "AI 및 XR 기기 생태계의 핵심 부품(광학, 반도체) 기술을 선도하는 국내외 기업들에 대한 장기적 투자 매력을 분석하라."
   }
 ]
