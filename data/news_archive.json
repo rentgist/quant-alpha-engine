@@ -1,5 +1,295 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Trump arrives in China for historic meeting with Xi, Putin",
+    "title_ko": "트럼프, 시진핑, 푸틴과 역사적 회담 위해 중국 도착",
+    "link": "https://www.cnbc.com/2026/11/18/trump-xi-putin-china-apec.html",
+    "published": "Wed, 18 Nov 2026 12:24:24 GMT",
+    "fetched_at": "2026-11-18 21:35:35",
+    "sentiment": "중립",
+    "importance": 5,
+    "sectors": [
+      "글로벌 증시",
+      "원자재",
+      "방산",
+      "기술"
+    ],
+    "keywords": [
+      "미중러 정상회담",
+      "지정학적 리스크",
+      "글로벌 안보",
+      "무역 정책"
+    ],
+    "reason": "미중러 세 강대국 정상회담은 글로벌 지정학, 무역 및 안보 환경에 중대한 영향을 미치며, 그 결과에 따라 시장 변동성 확대 및 주요 자산 가격 변화를 초래할 수 있습니다.",
+    "action_point": "글로벌 지정학적 불확실성 증폭에 대비하여 고변동성 자산 비중 축소를 검토하고, 안전자산으로의 자산 배분 조정을 고려하십시오."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "IEA chief sees no 'credible pathway' back to pre-war normality in the Strait of Hormuz",
+    "title_ko": "IEA(국제에너지기구) 사무총장, 호르무즈 해협의 전시 이전 정상화 '신뢰할 만한 경로' 없어",
+    "link": "https://www.cnbc.com/2026/11/18/iea-strait-hormuz-energy-risk.html",
+    "published": "Wed, 18 Nov 2026 12:00:01 GMT",
+    "fetched_at": "2026-11-18 21:36:28",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "에너지",
+      "해운",
+      "항공",
+      "석유화학"
+    ],
+    "keywords": [
+      "호르무즈 해협",
+      "이란 전쟁",
+      "에너지 안보",
+      "유가",
+      "지정학적 리스크",
+      "물류"
+    ],
+    "reason": "호르무즈 해협의 장기적 불안정성 경고는 글로벌 에너지 공급망에 대한 불확실성을 가중시키며 유가 및 운송 비용 상승을 야기, 전반적인 인플레이션 압력과 경제 성장 둔화 우려를 심화시킬 것입니다.",
+    "action_point": "글로벌 공급망 불안정성 심화에 따른 에너지 원자재 가격 상승 수혜 자산 비중 확대를 검토하고, 물류 비용 및 에너지 비용에 민감한 섹터에 대한 익스포저를 축소하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Ukraine allies reject U.S. criticism of deep strikes inside Russia ahead of Trump-Putin-Xi summit",
+    "title_ko": "우크라이나 동맹국들, 러시아 본토 공격에 대한 미국의 비판 일축... 트럼프-푸틴-시진핑 정상회담 앞두고",
+    "link": "https://www.cnbc.com/2026/11/18/ukraine-russia-war-trump-putin-deep-strikes.html",
+    "published": "Wed, 18 Nov 2026 10:49:37 GMT",
+    "fetched_at": "2026-11-18 21:36:01",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "방산",
+      "에너지",
+      "원자재"
+    ],
+    "keywords": [
+      "우크라이나 전쟁",
+      "러시아",
+      "지정학적 리스크",
+      "트럼프",
+      "푸틴",
+      "시진핑",
+      "정상회담",
+      "본토 공격"
+    ],
+    "reason": "우크라이나 동맹국들의 러시아 본토 공격 지지는 전쟁 장기화 및 지정학적 긴장 고조를 시사합니다. 또한 트럼프-푸틴-시진핑 정상회담은 향후 국제 질서와 주요 강대국 간 관계에 불확실성을 가중시켜 글로벌 위험자산에 부정적 영향을 미칠 수 있습니다.",
+    "action_point": "지정학적 위험 고조에 대비해 방산 및 에너지 섹터 투자 비중 확대를 검토하고, 안전자산(예: 달러, 금)으로의 자산 배분 조정을 고려하십시오."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Nvidia earnings spark rally in shares and neoclouds despite Huang scandal",
+    "title_ko": "엔비디아 실적 발표, 젠슨 황 스캔들에도 불구하고 주가 및 뉴클라우드 랠리 촉발",
+    "link": "https://www.cnbc.com/2026/11/18/nvidia-stock-earnings.html",
+    "published": "Wed, 18 Nov 2026 10:58:22 GMT",
+    "fetched_at": "2026-11-18 21:36:20",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "반도체",
+      "기술주",
+      "클라우드 컴퓨팅",
+      "인공지능(AI)"
+    ],
+    "keywords": [
+      "엔비디아",
+      "실적",
+      "AI",
+      "반도체",
+      "기술주",
+      "클라우드"
+    ],
+    "reason": "엔비디아의 견조한 실적은 AI 인프라에 대한 강력한 수요를 재확인하며, 반도체 및 클라우드 컴퓨팅 섹터의 지속적인 성장을 시사하고 광범위한 기술주 투자 심리 개선에 기여할 것입니다.",
+    "action_point": "AI 및 반도체 관련 기술주 비중을 유지하고, 조정 시 매수 기회를 적극적으로 모색하십시오."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "KDI 경제전망, 2026 하반기 - KDI 경제교육·정보센터",
+    "title_ko": "KDI 경제전망, 2026 하반기",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9pblpaQ0VMNGhsMG82U01NZ04yWWcxVThrQzFVU2RtZFR6RC1aaDBkRGNwbU9RSVkwTzI3cEZ2Q2xmSWxTQmRyV25XR3NDUzJXOFBUQ2FvNlkzRGFJM0I2QlpMSkxoUGpGQXhZ?oc=5",
+    "published": "Wed, 18 Nov 2026 09:16:52 GMT",
+    "fetched_at": "2026-11-18 21:36:48",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "전반적인 경제",
+      "금융",
+      "정부 정책"
+    ],
+    "keywords": [
+      "KDI",
+      "경제전망",
+      "거시경제",
+      "대한민국 경제",
+      "정책"
+    ],
+    "reason": "한국개발연구원(KDI)의 경제전망은 정부 정책 방향 및 시장 기대에 큰 영향을 미치나, 본 기사는 전망의 존재만을 알릴 뿐 구체적인 내용이 없어 직접적인 시장 영향은 제한적이다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "李대통령 \"지정학적 위기…핵심광물·에너지수급 함께 노력해야\" - 연합뉴스",
+    "title_ko": "李대통령 \"지정학적 위기…핵심광물·에너지수급 함께 노력해야\"",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBtdlJPa0dhS05FZloxb1hxUm1qSUM0UUk0czlMVmxDSE41LUc2aTlPaWtVb2gyUFRuNW1DLUxkaHhZc3FVdGJrdDRUa0VWUFNUQ1RVSUhsV1RQaGvSAWBBVV95cUxQNUlYLWFSeFZJdkVEQVVBTTcxeklIYy1ldnprWE1fRnFGbzg1aWtBOXZETlJlY3YyS2JxSExQTVRIUDRXSjRpQmhlcGczVHpyYW5mVGpaN1laZE9xUWVqaUk?oc=5",
+    "published": "Wed, 18 Nov 2026 08:02:47 GMT",
+    "fetched_at": "2026-11-18 21:37:03",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "소재",
+      "산업재",
+      "IT"
+    ],
+    "keywords": [
+      "지정학적 위기",
+      "핵심광물",
+      "에너지 안보",
+      "공급망",
+      "경제 안보"
+    ],
+    "reason": "대통령의 발언은 지정학적 불확실성 증가와 함께 핵심광물 및 에너지 공급망 안정화가 국가 경제 안보의 핵심 과제임을 강조하며, 관련 산업의 정책적 지원 확대와 투자 방향에 영향을 미칠 것으로 보인다.",
+    "action_point": "핵심광물 및 에너지 안보 관련 국내 기업 중 공급망 안정성이 높거나 정부 정책 수혜가 예상되는 기업을 발굴하여 포트폴리오 비중 확대를 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "李대통령 \"한중 FTA 타결 발판 경제협력 확대\"…시진핑 \"공급망 안정 공조\" - 연합인포맥스",
+    "title_ko": "李대통령 \"한중 FTA 타결 발판 경제협력 확대\"…시진핑 \"공급망 안정 공조\"",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zWDg2M0cxSUJvN2dqbElyYVZ2TzE1UjhvU1luc1l2NnZMTEYzUTZKa1Q1bmpMYzNfUFdtZzAtaWVlcy1MNXBHV3kxT016VGozZTV4TXhySlJvam13UzMxTnIxeG5iWU9Xc1pHWUVhRmw?oc=5",
+    "published": "Wed, 18 Nov 2026 07:17:50 GMT",
+    "fetched_at": "2026-11-18 21:37:21",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "무역",
+      "수출주",
+      "제조업",
+      "IT",
+      "화학",
+      "해운/물류"
+    ],
+    "keywords": [
+      "한중 경제협력",
+      "FTA",
+      "공급망 안정",
+      "무역",
+      "시진핑",
+      "이대통령"
+    ],
+    "reason": "한국과 중국 정상이 경제 협력 확대 및 공급망 안정을 공조하기로 합의함에 따라, 양국 간 무역 불확실성이 완화되고 국내 수출 및 제조업 섹터의 펀더멘털 개선에 긍정적인 영향을 미칠 수 있습니다.",
+    "action_point": "한중 교역 비중이 높은 국내 수출주 및 제조업 섹터의 투자 비중 확대를 검토하라."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "JPMorgan is working on AI agent transactions that don’t involve humans",
+    "title_ko": "JP모건, 인간 개입 없는 AI 에이전트 거래 개발 중",
+    "link": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html",
+    "published": "Wed, 18 Nov 2026 06:18:11 GMT",
+    "fetched_at": "2026-11-18 21:35:25",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "금융 서비스",
+      "기술",
+      "소프트웨어",
+      "핀테크"
+    ],
+    "keywords": [
+      "AI 에이전트",
+      "금융 거래",
+      "JP모건",
+      "현대카드",
+      "자동화"
+    ],
+    "reason": "금융 서비스의 AI 전환 가속화는 효율성 증대와 비용 절감으로 이어질 수 있으며, 관련 금융 및 기술 기업들의 경쟁 구도에 변화를 가져올 핵심 동력이 될 것입니다.",
+    "action_point": "핀테크 및 AI 관련 금융 기술 기업 비중 확대를 검토하십시오."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Nvidia’s Kress faces a divided workforce as some employees push for Huang’s return",
+    "title_ko": "엔비디아 크레스 임시 CEO, 직원 분열 직면…일부 직원들 황 CEO 복귀 요구",
+    "link": "https://www.cnbc.com/2026/11/18/nvidia-kress-jensen-huang-return.html",
+    "published": "Wed, 18 Nov 2026 12:34:24 GMT",
+    "fetched_at": "2026-11-18 21:35:50",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "반도체",
+      "인공지능(AI)",
+      "IT하드웨어"
+    ],
+    "keywords": [
+      "엔비디아",
+      "CEO",
+      "경영권",
+      "내부갈등"
+    ],
+    "reason": "엔비디아 내부의 경영진 안정성 문제가 부각되며 향후 기업 운영 및 전략 실행에 불확실성을 더할 수 있습니다. 이는 장기적으로 엔비디아의 주가에 부정적인 영향을 미칠 수 있는 잠재적 리스크입니다.",
+    "action_point": "엔비디아 내부 경영 안정성 리스크 증가를 고려하여 해당 기업 투자 비중 축소를 검토하십시오."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Dealbook Summit 2026 live updates: Vance, Altman to speak at conference",
+    "title_ko": "딜북 서밋 2026 실시간 업데이트: 밴스, 알트만 컨퍼런스 연설 예정",
+    "link": "https://www.cnbc.com/2026/11/18/dealbook-summit-2026-live-updates.html",
+    "published": "Wed, 18 Nov 2026 12:31:23 GMT",
+    "fetched_at": "2026-11-18 21:36:12",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "기술",
+      "인공지능",
+      "반도체",
+      "미래 산업"
+    ],
+    "keywords": [
+      "딜북 서밋",
+      "AI",
+      "기술",
+      "경제 정책",
+      "미래 성장"
+    ],
+    "reason": "주요 기술 및 경제 리더들이 참여하는 컨퍼런스 예고로, AI, 비즈니스, 거시경제 방향성에 대한 미래 논의의 장이 될 것이다. 당장 시장에 미치는 영향은 제한적이나, 향후 발표될 내용에 따라 관련 섹터의 투자심리에 영향을 줄 수 있다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "AI가 택배 상자를 옮기는 시대, '초혁신경제'가 바꿀 우리 일상은? - 대한민국 정책브리핑",
+    "title_ko": "AI가 택배 상자를 옮기는 시대, '초혁신경제'가 바꿀 우리 일상은?",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1DQy1SYlVid3BvTHhNYk80a1V2VGJITHJ6Y1JPS0NMTUNUeFM0Z2xIeXY5X3FHdEtaemNQSU1GYWxsbHMzdldGNE5KSUtuU1JBSHdxVnVlM0p5U3dmWmlMa3BENzdKTmRFZlE?oc=5",
+    "published": "Wed, 18 Nov 2026 08:35:07 GMT",
+    "fetched_at": "2026-11-18 21:36:36",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "인공지능",
+      "자동화",
+      "물류",
+      "로봇공학",
+      "IT서비스"
+    ],
+    "keywords": [
+      "AI",
+      "혁신경제",
+      "자동화",
+      "생산성",
+      "미래기술"
+    ],
+    "reason": "이 뉴스는 AI와 자동화 기반의 '초혁신경제'로의 전환에 대한 정부의 비전을 제시하며, 장기적인 국가 생산성 향상과 신산업 육성 기대를 높입니다. 이는 관련 기술 섹터의 성장 모멘텀으로 작용할 수 있습니다.",
+    "action_point": "AI 및 자동화 기술 선도 기업과 관련 인프라 섹터 투자 비중 확대를 검토하라."
+  },
+  {
     "source": "CNBC_Finance",
     "market": "US",
     "title": "Three things to watch as Trump, Xi and Putin meet in China",
@@ -2712,277 +3002,5 @@
     ],
     "reason": "한국 정부의 경제 전망은 수출 호조를 긍정적으로 평가하면서도, 중동 지역 지정학적 리스크와 AI 정책 불확실성이 지속되어 시장 전반의 변동성을 높일 수 있음을 시사한다.",
     "action_point": "수출 호조에 기반한 성장주 비중을 유지하되, 지정학적 위험 고조 시 유가 및 환율 변동성 확대에 대비한 헤지 전략을 모색하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Cramer says Jensen Huang betrayed Nvidia shareholders. How to pick up the pieces",
-    "title_ko": "크레이머, 젠슨 황이 엔비디아 주주들을 배신했다고 비난. 사태 수습 방안은?",
-    "link": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-exit-cramer.html",
-    "published": "Thu, 12 Nov 2026 23:14:56 GMT",
-    "fetched_at": "2026-11-13 12:10:14",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "반도체",
-      "인공지능",
-      "기술"
-    ],
-    "keywords": [
-      "젠슨 황",
-      "엔비디아",
-      "CEO 리스크",
-      "리더십"
-    ],
-    "reason": "엔비디아 CEO 젠슨 황의 리더십 리스크에 대한 우려를 제기하며, AI 및 반도체 섹터 전반에 대한 투자 심리에 부정적인 영향을 미칠 수 있습니다. 이는 최고 경영자 의존도가 높은 기업에 대한 잠재적 경고로 해석될 여지가 있습니다.",
-    "action_point": "엔비디아와 같이 특정 CEO 의존도가 높은 성장주의 포트폴리오 비중을 재점검하고 리스크 관리를 강화하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Alice Huang tied to Nvidia’s biggest Chinese competitor",
-    "title_ko": "앨리스 황, 엔비디아의 최대 중국 경쟁사와 연루",
-    "link": "https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html",
-    "published": "Thu, 12 Nov 2026 22:47:28 GMT",
-    "fetched_at": "2026-11-13 07:59:08",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "반도체",
-      "인공지능",
-      "IT 하드웨어"
-    ],
-    "keywords": [
-      "엔비디아",
-      "화웨이",
-      "반도체",
-      "경쟁",
-      "미중 기술 패권"
-    ],
-    "reason": "엔비디아 CEO의 이해 상충 가능성 제기 및 핵심 경쟁사인 화웨이의 컴퓨팅 파워 강화 시그널로, 반도체 섹터 내 경쟁 심화 및 엔비디아에 대한 투자 심리 위축 가능성이 있습니다.",
-    "action_point": "엔비디아 관련 주식 비중을 검토하고, 미중 기술 경쟁 심화에 따른 반도체 섹터의 변동성 확대에 대비하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "트럼프 \"이란과 합의 불필요\"에 국제유가 급등…브렌트유 3.3%↑ - 연합뉴스",
-    "title_ko": "트럼프 \"이란과 합의 불필요\"에 국제유가 급등…브렌트유 3.3%↑",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XX0U2WTBDS0RyWlBIYUpMUktXX0h5d09vaXVCelpJLWFnX0ZDbE1CTUFCSmRjc1B3UVpnaU9Md3c3dDUtM0xmLW9vUzkzcXlTaHpwcUFmS185OUHSAWBBVV95cUxNdGlRTHBzUnpUT1EzZndEVnJYR0pacDJJMmduV0Rxd21xQ2FuUVNjY0VrWlpqLUR5R3NZRFNOZFZCN1E4cG9VaGwzYzVJZVdPWmcyaHZPaUVvLWRZUFpRWUI?oc=5",
-    "published": "Thu, 12 Nov 2026 20:50:52 GMT",
-    "fetched_at": "2026-11-13 07:59:39",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "항공",
-      "해운",
-      "석유화학",
-      "제조업"
-    ],
-    "keywords": [
-      "트럼프",
-      "이란",
-      "국제유가",
-      "지정학",
-      "인플레이션"
-    ],
-    "reason": "트럼프의 대이란 강경 발언은 중동 지정학적 불안감을 고조시켜 국제유가를 급등시켰다. 이는 글로벌 인플레이션 압력을 가중시키고 에너지 수입국인 한국 기업의 비용 부담을 심화시킬 것이다.",
-    "action_point": "고유가에 민감한 항공, 해운, 석유화학 섹터의 비중 축소를 검토."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
-    "title_ko": "정책 변화: 연준, 2027년 10월 회의에서 금리 결정 투표 없을 것이라 발표",
-    "link": "https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html",
-    "published": "Thu, 12 Nov 2026 19:05:25 GMT",
-    "fetched_at": "2026-11-13 07:59:00",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [],
-    "keywords": [
-      "연준",
-      "FOMC",
-      "정책 변화",
-      "회의 일정"
-    ],
-    "reason": "2027년 10월 연준 회의가 금리 결정 투표 없이 심의만 진행됨으로써, 해당 시점의 정책 불확실성이 소폭 감소할 수 있으나 현재 시장이나 금리 경로에 즉각적인 영향은 없습니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Widespread Microsoft outage takes down Outlook and other 365 services",
-    "title_ko": "마이크로소프트 서비스 전반 장애 발생, 아웃룩 및 기타 365 서비스 중단",
-    "link": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
-    "published": "Thu, 12 Nov 2026 22:24:12 GMT",
-    "fetched_at": "2026-11-13 07:59:16",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "기술 (소프트웨어)",
-      "클라우드 서비스"
-    ],
-    "keywords": [
-      "마이크로소프트",
-      "서비스 장애",
-      "클라우드",
-      "Office 365",
-      "아웃룩",
-      "팀즈"
-    ],
-    "reason": "마이크로소프트 서비스의 일시적인 운영 장애는 사용자들에게 불편을 초래하지만, 이는 단기적인 기술적 문제로 거시 경제나 광범위한 시장 투자 심리에 중대한 영향을 미치지는 않을 것입니다.",
-    "action_point": "포트폴리오에 미칠 직접적인 영향은 미미하므로 해당 없음."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "금융지주 회장 연임 문턱 높여도…10명 중 8명은 가볍게 넘는다",
-    "title_ko": "금융지주 회장 연임 문턱 높여도…10명 중 8명은 가볍게 넘는다",
-    "link": "https://www.mk.co.kr/news/economy/12207590",
-    "published": "Fri, 13 Nov 2026 07:29:12 +09:00",
-    "fetched_at": "2026-11-13 07:59:50",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "금융",
-      "은행"
-    ],
-    "keywords": [
-      "금융지주",
-      "회장 연임",
-      "기업 지배구조",
-      "주주총회"
-    ],
-    "reason": "금융지주 회장 연임 요건 강화에도 불구하고 대부분이 높은 찬성률로 재선에 성공, 금융권 지배구조의 안정성과 현 경영진의 영향력이 견고함을 시사합니다. 이는 현 경영 기조의 연속성을 의미합니다.",
-    "action_point": "금융주에 대한 투자 시 경영 안정성 지속 여부를 참고하되, 포트폴리오상 큰 변화는 해당 없음."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "[속보] 엔비디아, 임시 CEO에 콜레트 크레스 CFO 임명",
-    "title_ko": "[속보] 엔비디아, 임시 CEO에 콜레트 크레스 CFO 임명",
-    "link": "https://www.mk.co.kr/news/world/12207162",
-    "published": "Thu, 12 Nov 2026 23:07:50 +09:00",
-    "fetched_at": "2026-11-13 02:22:40",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "반도체",
-      "인공지능(AI)",
-      "기술주"
-    ],
-    "keywords": [
-      "엔비디아",
-      "CEO",
-      "콜레트 크레스",
-      "리더십",
-      "불확실성"
-    ],
-    "reason": "AI 산업의 핵심 기업인 엔비디아의 임시 CEO 임명은 기존 CEO의 예상치 못한 부재를 시사하며, 이는 회사의 장기 전략 및 비전에 대한 중대한 불확실성을 야기하여 관련 섹터 전반에 부정적인 영향을 미칠 수 있습니다.",
-    "action_point": "엔비디아 주식 및 반도체/AI 관련 기술주에 대한 투자 비중 축소 검토."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Oil prices mixed after Trump says no Iran deal needed: 'We've got their Strait'",
-    "title_ko": "트럼프, '이란 합의 불필요, 우리가 해협 장악' 발언 후 유가 혼조세",
-    "link": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html",
-    "published": "Thu, 12 Nov 2026 15:08:45 GMT",
-    "fetched_at": "2026-11-13 02:21:01",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지/정유",
-      "해운/조선",
-      "항공/운송",
-      "화학"
-    ],
-    "keywords": [
-      "트럼프",
-      "이란",
-      "유가",
-      "지정학적 리스크",
-      "호르무즈 해협"
-    ],
-    "reason": "트럼프 대통령의 발언은 미국-이란 간 지정학적 긴장이 장기화될 가능성을 시사하며, 이는 중동발 원유 공급 불확실성을 높여 유가 상승 압력으로 작용할 수 있습니다. 동시에 전반적인 시장의 위험 회피 심리를 강화할 것입니다.",
-    "action_point": "유가 상승 압력 지속에 대비하여 에너지/원자재 관련 자산 비중을 유지하고, 유가 민감 섹터의 리스크 관리를 강화하십시오."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Nvidia live updates: Jensen Huang agrees to testify before Congress following resignation",
-    "title_ko": "엔비디아 속보: 젠슨 황 CEO, 사임 후 의회 증언 동의",
-    "link": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-ceo-live-updates.html",
-    "published": "Thu, 12 Nov 2026 17:19:47 GMT",
-    "fetched_at": "2026-11-13 02:21:14",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "반도체",
-      "기술주",
-      "인공지능"
-    ],
-    "keywords": [
-      "엔비디아",
-      "젠슨 황",
-      "CEO 사임",
-      "의회 증언",
-      "반도체",
-      "인공지능"
-    ],
-    "reason": "엔비디아의 창업자이자 핵심 리더인 젠슨 황 CEO의 사임은 회사 경영의 불확실성을 높이고, 반도체 및 AI 산업 전반에 투자 심리 위축을 불러올 수 있습니다. 의회 증언은 사안의 심각성을 부각시킵니다.",
-    "action_point": "엔비디아 및 AI 반도체 관련 기술주 비중 축소 또는 신규 투자 보류를 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Buy Nvidia with 'both hands' because the valuation is at 'stupid' levels, says analyst Meeks",
-    "title_ko": "분석가 믹스, 엔비디아 주가가 '터무니없이 낮은' 수준이라 '양손으로 매수'해야 한다고 주장",
-    "link": "https://www.cnbc.com/2026/11/12/buy-nvidia-with-both-hands-because-the-valuation-is-at-stupid-levels-says-analyst-meeks.html",
-    "published": "Thu, 12 Nov 2026 17:08:46 GMT",
-    "fetched_at": "2026-11-13 02:21:23",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "반도체",
-      "기술주",
-      "AI"
-    ],
-    "keywords": [
-      "엔비디아",
-      "반도체",
-      "AI",
-      "밸류에이션",
-      "매수",
-      "성장주"
-    ],
-    "reason": "주요 기술 리서치 책임자가 엔비디아의 주가 하락 후 밸류에이션이 매우 매력적이라고 강조하며 강력한 매수 의견을 제시했습니다. 이는 반도체 및 AI 관련 기술주 전반에 대한 투자심리를 개선하고, 단기적인 시장 회복 기대감을 높일 수 있습니다.",
-    "action_point": "엔비디아를 포함한 핵심 반도체 및 AI 성장주 섹터에 대한 포트폴리오 비중 확대를 적극적으로 고려."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Jensen Huang's Nvidia exit casts shadow over Wall Street’s $500 billion AI financing bet",
-    "title_ko": "젠슨 황 엔비디아 CEO 사임설, 월스트리트의 5천억 달러 AI 투자 베팅에 그림자 드리워",
-    "link": "https://www.cnbc.com/2026/11/12/nvidia-ceo-exit-ai-financing.html",
-    "published": "Thu, 12 Nov 2026 17:06:18 GMT",
-    "fetched_at": "2026-11-13 02:21:30",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "반도체",
-      "인공지능(AI)",
-      "기술주",
-      "성장주"
-    ],
-    "keywords": [
-      "엔비디아",
-      "젠슨 황",
-      "AI 투자",
-      "반도체",
-      "리더십 리스크"
-    ],
-    "reason": "엔비디아 CEO 젠슨 황의 사임설은 AI 산업의 핵심 공급망과 투자자 신뢰를 흔들며, 5천억 달러 규모의 AI 투자 흐름에 중대한 불확실성을 가중시킬 것입니다.",
-    "action_point": "AI 관련 고평가 기술주 및 반도체 섹터 비중 축소 검토."
   }
 ]
