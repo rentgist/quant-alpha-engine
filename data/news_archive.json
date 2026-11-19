@@ -2,6 +2,84 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "Anthropic IPO live updates: AI lab tops $2 trillion market cap after record offering",
+    "title_ko": "앤트로픽 IPO 실시간 업데이트: AI 연구소, 기록적인 공모 후 시가총액 2조 달러 돌파",
+    "link": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html",
+    "published": "Thu, 19 Nov 2026 19:06:48 GMT",
+    "fetched_at": "2026-11-20 04:16:14",
+    "sentiment": "호재",
+    "importance": 5,
+    "sectors": [
+      "인공지능",
+      "반도체",
+      "소프트웨어",
+      "기술주"
+    ],
+    "keywords": [
+      "앤트로픽",
+      "IPO",
+      "AI",
+      "시가총액",
+      "나스닥",
+      "기술주"
+    ],
+    "reason": "앤트로픽의 기록적인 IPO와 2조 달러 시가총액 달성은 인공지능(AI) 섹터에 대한 시장의 폭발적인 기대감을 보여주며, 글로벌 기술주 전반의 밸류에이션 상향 압력으로 작용할 수 있습니다. 이는 AI 관련 기술 및 인프라 기업에 대한 추가적인 자금 유입을 촉진할 것입니다.",
+    "action_point": "인공지능(AI) 관련 핵심 기술 및 반도체 섹터의 비중 확대를 검토하십시오."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "AMD dives on short-seller report of alleged China exposure",
+    "title_ko": "AMD, 중국 관련성 의혹 공매도 보고서에 급락",
+    "link": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
+    "published": "Thu, 19 Nov 2026 18:24:54 GMT",
+    "fetched_at": "2026-11-20 04:16:36",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "반도체",
+      "기술",
+      "IT 하드웨어"
+    ],
+    "keywords": [
+      "AMD",
+      "공매도",
+      "중국",
+      "반도체",
+      "미중 갈등",
+      "규제"
+    ],
+    "reason": "미국 제재 대상 중국 기업과의 연루 의혹은 AMD 주가에 직접적인 악재이며, 미중 기술 갈등이 재부각될 경우 반도체 섹터 전반에 규제 리스크를 높일 수 있습니다.",
+    "action_point": "미중 기술 갈등 관련 반도체 섹터의 추가 규제 리스크를 주시하며, 관련 기업 투자 비중 조정을 검토."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Anthropic IPO will create thousands of multimillionaire employees",
+    "title_ko": "Anthropic IPO로 수천 명의 직원이 수백만 달러 자산가가 될 것",
+    "link": "https://www.cnbc.com/2026/11/19/anthropic-ipo-could-create-thousands-of-multimillionaire-employees.html",
+    "published": "Thu, 19 Nov 2026 19:05:45 GMT",
+    "fetched_at": "2026-11-20 04:16:28",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "AI",
+      "기술",
+      "벤처캐피탈"
+    ],
+    "keywords": [
+      "Anthropic",
+      "IPO",
+      "AI",
+      "기술주",
+      "직원자산"
+    ],
+    "reason": "Anthropic의 성공적인 IPO는 AI 및 기술 섹터에 대한 투자 심리를 긍정적으로 전환시키고, 신생 기업의 가치 평가 기대치를 높여 전반적인 시장의 위험 선호 심리에 기여할 수 있습니다.",
+    "action_point": "AI 섹터 내 혁신적이고 성장 잠재력이 높은 기업에 대한 투자 기회를 지속적으로 탐색하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "Trump says U.S., China, Russia ‘uniquely positioned’ to discuss reducing nuclear weapons at historic meeting",
     "title_ko": "트럼프, 미·중·러 핵무기 감축 논의 위한 '독특한 위치'에 있다고 언급",
     "link": "https://www.cnbc.com/2026/11/19/trump-xi-putin-trilateral-meeting-china.html",
@@ -2919,81 +2997,5 @@
     ],
     "reason": "엔비디아 CEO의 사임(요약 기반)과 상무부 장관 연루 스파이 스캔들은 반도체 섹터 전반의 투자심리를 위축시키고, 미국 정부의 기술 기업 규제 강화 가능성을 높여 글로벌 공급망 불안정으로 이어질 수 있습니다.",
     "action_point": "반도체 및 기술주 섹터의 단기적 비중 축소를 검토하고 관련 규제 리스크에 대한 면밀한 모니터링을 강화하십시오."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Bessent blames Lutnick’s Commerce as he slams Nvidia chip ‘leakage’ to China",
-    "title_ko": "베센트, 루닉 상무부 비난하며 엔비디아 칩의 중국 '유출' 맹비난",
-    "link": "https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html",
-    "published": "Fri, 13 Nov 2026 17:06:57 GMT",
-    "fetched_at": "2026-11-14 03:57:55",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "반도체",
-      "기술주",
-      "지정학",
-      "국방/안보"
-    ],
-    "keywords": [
-      "엔비디아",
-      "CEO 사임",
-      "미중 기술 갈등",
-      "반도체 유출",
-      "스파이"
-    ],
-    "reason": "엔비디아 CEO의 스파이 스캔들로 인한 사임은 미중 기술 갈등 및 반도체 공급망 보안 우려를 심화시키며, 엔비디아 주가와 관련 섹터 전반에 상당한 하방 압력으로 작용할 것입니다.",
-    "action_point": "엔비디아 및 AI 반도체 관련 비중 축소를 적극 검토하고, 미중 기술 갈등 심화에 대비한 포트폴리오 방어 전략을 강화하라."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Chicago Fed's Goolsbee says central bank 'has definitely got work to do' on inflation",
-    "title_ko": "시카고 연은 굴스비 총재, '인플레이션에 대해 할 일이 명확히 남아있다' 발언",
-    "link": "https://www.cnbc.com/2026/11/13/chicago-feds-goolsbee-says-central-bank-has-definitely-got-work-to-do-on-inflation.html",
-    "published": "Fri, 13 Nov 2026 14:22:07 GMT",
-    "fetched_at": "2026-11-14 03:57:38",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "성장주",
-      "기술주",
-      "부동산",
-      "금융"
-    ],
-    "keywords": [
-      "연준",
-      "인플레이션",
-      "통화정책",
-      "금리"
-    ],
-    "reason": "연준 인사의 매파적 발언은 인플레이션 둔화 속도가 예상보다 느릴 수 있다는 우려를 증폭시키며, 고금리 장기화 또는 추가 긴축 가능성을 시사하여 위험자산에 부정적이다.",
-    "action_point": "고금리 장기화 가능성에 대비하여 금리 민감 자산 비중 축소 검토"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "I interviewed Huang at peak ‘Jensenmania.’ Three weeks later, Nvidia is grappling with a world without him",
-    "title_ko": "제가 '젠슨마니아' 절정기에 황 CEO를 인터뷰했습니다. 3주 후, 엔비디아는 그(의 신화) 없는 세상을 마주하며 고심하고 있습니다.",
-    "link": "https://www.cnbc.com/2026/11/13/tech-download-jensen-huang-nvidia-departure-jensenmania.html",
-    "published": "Fri, 13 Nov 2026 12:46:12 GMT",
-    "fetched_at": "2026-11-14 03:58:18",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "반도체",
-      "인공지능(AI)",
-      "기술주"
-    ],
-    "keywords": [
-      "엔비디아",
-      "젠슨 황",
-      "리더십 리스크",
-      "반도체",
-      "인공지능"
-    ],
-    "reason": "엔비디아 젠슨 황 CEO의 리더십 및 대외적 이미지에 심각한 악영향이 발생했음을 시사하며, 이는 엔비디아 주가뿐만 아니라 글로벌 반도체 및 AI 섹터 전반에 투자 심리 위축을 초래할 수 있습니다.",
-    "action_point": "엔비디아 및 관련 AI/반도체 기술주에 대한 투자 비중을 재검토하고, 리스크 관리 차원에서 경계심을 유지하십시오."
   }
 ]
