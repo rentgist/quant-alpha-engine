@@ -2,6 +2,153 @@
   {
     "source": "CNBC_Finance",
     "market": "US",
+    "title": "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
+    "title_ko": "연준 위원들, 추가 금리 인상 전망 및 AI의 인플레이션 영향 우려 표명 (의사록)",
+    "link": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html",
+    "published": "Wed, 18 Nov 2026 19:41:59 GMT",
+    "fetched_at": "2026-11-19 11:22:03",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "기술",
+      "부동산",
+      "금융",
+      "주식시장 전반"
+    ],
+    "keywords": [
+      "연준",
+      "금리 인상",
+      "인플레이션",
+      "AI"
+    ],
+    "reason": "연준 의사록에서 추가 금리 인상 가능성을 시사하며 매파적 기조를 유지, 시장의 금리 인하 기대감을 약화시켰습니다. AI가 인플레이션에 미칠 영향에 대한 우려는 장기적인 물가 상방 압력으로 해석될 수 있습니다.",
+    "action_point": "성장주 및 고금리 민감 자산 비중을 축소하고, 방어적 섹터 또는 단기 채권 등 현금성 자산 비중 확대를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Anthropic IPO raises over $81 billion in largest offering on record, topping SpaceX",
+    "title_ko": "Anthropic IPO가 기록상 최대 규모인 810억 달러 이상을 조달하며 SpaceX를 넘어섰다",
+    "link": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
+    "published": "Thu, 19 Nov 2026 01:13:20 GMT",
+    "fetched_at": "2026-11-19 11:22:20",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "인공지능",
+      "기술주"
+    ],
+    "keywords": [
+      "Anthropic",
+      "IPO",
+      "인공지능",
+      "기술주",
+      "나스닥"
+    ],
+    "reason": "기록적인 규모의 AI 기업 IPO는 기술주 전반에 대한 투자 심리를 강화하고, 성장주에 대한 시장의 높은 유동성과 수요를 보여줍니다.",
+    "action_point": "AI 및 기술 성장주 포트폴리오 비중 확대를 검토하십시오."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Nasdaq-100 futures surge as traders gear up for Anthropic’s highly anticipated debut: Live updates",
+    "title_ko": "앤스로픽의 기대되는 데뷔를 앞두고 나스닥100 선물 급등: 실시간 업데이트",
+    "link": "https://www.cnbc.com/2026/11/18/stock-market-today-live-updates.html",
+    "published": "Thu, 19 Nov 2026 01:34:10 GMT",
+    "fetched_at": "2026-11-19 11:22:28",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "기술 (Technology)",
+      "인공지능 (Artificial Intelligence)",
+      "소프트웨어 (Software)"
+    ],
+    "keywords": [
+      "Anthropic",
+      "나스닥100",
+      "IPO",
+      "인공지능",
+      "기술주"
+    ],
+    "reason": "주요 인공지능 기업 앤스로픽의 IPO 기대감이 기술주 전반에 대한 투자 심리를 끌어올리며 나스닥100 선물 급등을 야기, 고성장 기술 섹터에 대한 시장의 강한 매수세를 반영한다.",
+    "action_point": "AI 및 기술 성장주 섹터에 대한 포트폴리오 비중 확대를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "One of the world's most contested seas is proving too much for Asia's leaders to resolve",
+    "title_ko": "세계에서 가장 분쟁이 심한 해역 중 하나인 남중국해 문제, 아시아 정상들이 해결하지 못하다",
+    "link": "https://www.cnbc.com/2026/11/19/south-china-sea-china-asean-coc.html",
+    "published": "Thu, 19 Nov 2026 00:31:00 GMT",
+    "fetched_at": "2026-11-19 11:22:36",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "해운",
+      "물류",
+      "에너지",
+      "방산"
+    ],
+    "keywords": [
+      "남중국해",
+      "아세안",
+      "지정학적 리스크",
+      "공급망",
+      "해상 무역"
+    ],
+    "reason": "남중국해 행동 강령 합의 실패는 역내 지정학적 불안정성 지속을 의미하며, 이는 주요 해상 무역로의 불확실성을 높여 글로벌 공급망 및 에너지 운송 비용에 부정적 영향을 미칠 수 있습니다.",
+    "action_point": "글로벌 공급망 안정성 리스크에 대한 포트폴리오 점검 및 해운, 에너지 관련 투자 비중 재조정을 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Inside India newsletter: Foreign flows helped the market recover. Now it faces the inflation test",
+    "title_ko": "인도 내부 뉴스레터: 외국인 자금 유입이 시장 회복을 도왔지만, 이제 인플레이션 시험대에 직면하다",
+    "link": "https://www.cnbc.com/2026/11/19/india-inflation-foreign-investor-nifty50.html",
+    "published": "Thu, 19 Nov 2026 00:01:23 GMT",
+    "fetched_at": "2026-11-19 11:22:42",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "신흥국 주식",
+      "금융",
+      "소비재"
+    ],
+    "keywords": [
+      "인도 인플레이션",
+      "외국인 자금 유출",
+      "신흥국 경제",
+      "성장 둔화"
+    ],
+    "reason": "인도의 지속적인 인플레이션은 경제 성장을 저해하고 외국인 자금 유입 추세를 역전시킬 위험이 있어, 신흥국 시장 전반에 대한 투자 심리 위축과 변동성 확대를 야기할 수 있습니다.",
+    "action_point": "인도 포함 신흥국 주식 자산 비중 축소 또는 리스크 관리 강화 방안을 검토하십시오."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Tech outages are causing people to panic-buy. Costco is benefiting, Mizuho says",
+    "title_ko": "기술 장애로 인한 사재기 현상 발생, 코스트코 수혜 전망 (미즈호)",
+    "link": "https://www.cnbc.com/2026/11/18/tech-outage-costco-panic-buying.html",
+    "published": "Wed, 18 Nov 2026 16:33:14 GMT",
+    "fetched_at": "2026-11-19 11:22:13",
+    "sentiment": "호재",
+    "importance": 2,
+    "sectors": [
+      "소매",
+      "필수소비재"
+    ],
+    "keywords": [
+      "코스트코",
+      "사재기",
+      "기술 장애",
+      "소비재"
+    ],
+    "reason": "기술 장애가 소비자들의 비상 물품 사재기를 유발하며, 이는 코스트코와 같은 대형 필수소비재 유통 기업의 매출 증대로 이어질 수 있습니다. 이는 불안정한 상황에서 경기 방어적 소비재 섹터의 강점을 보여줍니다.",
+    "action_point": "경기 방어적 필수소비재 유통 섹터의 포트폴리오 비중 유지 또는 확대 검토."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
     "title": "I watched Trump, Xi and Putin gather in China. Here are my top takeaways",
     "title_ko": "트럼프, 시진핑, 푸틴의 중국 회동 관전평 및 주요 시사점",
     "link": "https://www.cnbc.com/2026/11/18/trump-xi-putin-apec-shenzhen-china.html",
@@ -2854,151 +3001,5 @@
     ],
     "reason": "이 사건은 미중 기술 패권 경쟁의 심화를 보여주며, 중립국마저 규제 준수 압박을 받는 현실을 드러냅니다. 이는 글로벌 반도체 및 기술 공급망의 불확실성을 가중시키는 요인으로 작용할 것입니다.",
     "action_point": "반도체 및 기술주 포트폴리오 내 중국 익스포저가 높은 기업의 지정학적 리스크를 재평가하고, 장기적인 공급망 재편 가능성에 대비하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Nvidia without Jensen Huang. What lies ahead for Asian chipmakers?",
-    "title_ko": "젠슨 황 없는 엔비디아. 아시아 반도체 기업들은 어떻게 될까?",
-    "link": "https://www.cnbc.com/2026/11/13/nvidia-without-jensen-huang-what-lies-ahead-for-asian-chipmakers-.html",
-    "published": "Fri, 13 Nov 2026 07:29:15 GMT",
-    "fetched_at": "2026-11-13 20:43:58",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "반도체",
-      "IT 하드웨어"
-    ],
-    "keywords": [
-      "엔비디아",
-      "젠슨 황",
-      "리더십 변화",
-      "아시아 반도체"
-    ],
-    "reason": "엔비디아 리더십의 잠재적 변화는 장기적으로 아시아 반도체 기업들의 사업 전략과 공급망에 불확실성을 야기할 수 있으나, 단기적 영향은 제한적일 것으로 분석됩니다.",
-    "action_point": "엔비디아의 핵심 공급망에 속한 아시아 반도체 기업들의 중장기 사업 전략 변화 가능성을 주시."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[베트남 주간 이슈] 인도네시아 넘어선 베트남 경제…효성 1.3조·현대차 1000억 '첨단 베팅' - 인사이드비나",
-    "title_ko": "[베트남 주간 이슈] 인도네시아 넘어선 베트남 경제…효성 1.3조·현대차 1000억 '첨단 베팅' - 인사이드비나",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5UOFpwcmFObzFaQTM5ekRJM3p4WjNXaHRCanhvT0lpS0NCdHdmWC1VQXlvT2VueGlOTUFTM284bVNwd3plb0oyWl8xZ3pKa3JjcHY3WTRUcmEtVDlGbER1RTJveU9kSXhMU2pJNg?oc=5",
-    "published": "Fri, 13 Nov 2026 10:58:42 GMT",
-    "fetched_at": "2026-11-13 20:44:16",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "화학",
-      "자동차",
-      "제조업",
-      "신흥국 투자"
-    ],
-    "keywords": [
-      "베트남 경제",
-      "해외 투자",
-      "효성",
-      "현대차",
-      "신흥국 제조업"
-    ],
-    "reason": "한국의 주요 기업들이 베트남에 대규모 투자를 확대하며 베트남 경제의 성장 잠재력과 신흥국 제조업 허브로서의 위상을 강화하고 있습니다. 이는 투자 기업들의 장기 성장 동력 확보에 긍정적으로 작용할 것입니다.",
-    "action_point": "효성, 현대차 등 베트남 투자 확대 기업 또는 베트남/아세안 관련 신흥국 펀드 및 ETF에 대한 투자 비중 확대를 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "최태원 회장이 주창한 ‘한일경제연대’의 밑그림은... - 재외동포신문",
-    "title_ko": "최태원 회장이 주창한 ‘한일경제연대’의 밑그림은...",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCOXdKc0U3c3dHbXRldHZ6dFJ5MlBEZG5XYVphSk5UeHdSV2ZMTUoxbUJDb2t4eXJHdDBwTkFqa09fTFJTWUwwRDQxVHVCbGpaVDhyZ2c1cDJ6NUwtZjIwclQzdVNwN0pLdi1sMQ?oc=5",
-    "published": "Fri, 13 Nov 2026 09:26:43 GMT",
-    "fetched_at": "2026-11-13 20:44:44",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "산업재",
-      "IT",
-      "반도체",
-      "자동차",
-      "관광",
-      "금융"
-    ],
-    "keywords": [
-      "최태원",
-      "한일 경제 협력",
-      "경제 연대",
-      "무역",
-      "투자"
-    ],
-    "reason": "최태원 회장의 한일 경제 연대 제안은 양국 간 무역 및 투자 활성화 가능성을 시사하며, 공급망 안정화와 새로운 사업 기회 창출에 기여할 수 있어 장기적으로 긍정적인 신호입니다.",
-    "action_point": "한일 경제 협력 강화에 따른 수혜가 예상되는 반도체, 산업재, 관광 섹터 내 기업들의 투자 기회를 모색하십시오."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[사이언스게시판] 우주항공청, 'NASA 달 기지 국제협력 워크숍' 개최 外 - DongA Science",
-    "title_ko": "[사이언스게시판] 우주항공청, 'NASA 달 기지 국제협력 워크숍' 개최 外",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1EcE56S0tPeF90M3VFcXNSTnlFN2dpQXdWTlRfcGcxWllSMXNHUjdVdEdNdFlHbC12S0NkM25oaXFKV04yMkVsSkV5c2p5VklzXzRCXw?oc=5",
-    "published": "Fri, 13 Nov 2026 07:47:00 GMT",
-    "fetched_at": "2026-11-13 20:44:26",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "우주항공"
-    ],
-    "keywords": [
-      "우주항공청",
-      "NASA",
-      "달 기지",
-      "국제협력",
-      "우주항공 산업"
-    ],
-    "reason": "우주항공청의 NASA 달 기지 협력 워크숍 개최는 국내 우주항공 산업의 장기적 발전 방향을 제시하지만, 현재 거시경제나 주요 투자 자산에 미칠 직접적인 단기 영향은 미미하다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[속보] 중기부 “2차 ’모두의 창업’ 참가자 지원 기업서 개인정보 유출“ - 연합뉴스TV",
-    "title_ko": "[속보] 중기부 “2차 ’모두의 창업’ 참가자 지원 기업서 개인정보 유출“",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5kOWZPUERIdjRxc3RxLTM1OENTalpYVkgxMzd1ZDVFdkZTUlF6NmswMHBKZ2RFdkRLMDlaSW9PeGxPakh3cGItWWdvQ2UzX25uY1FEa0pYNEFEMXEzUDNabTlYMGpaeHM?oc=5",
-    "published": "Fri, 13 Nov 2026 08:19:00 GMT",
-    "fetched_at": "2026-11-13 20:44:54",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [],
-    "keywords": [
-      "개인정보 유출",
-      "정보보안",
-      "스타트업",
-      "중소벤처기업부"
-    ],
-    "reason": "정부 지원 사업에서 개인정보 유출이 발생하여 해당 기업의 신뢰도 하락 및 관련 개인정보 보호 강화 논의를 촉발할 수 있으나, 거시 경제 및 주요 투자 자산에 미치는 직접적인 영향은 제한적입니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "How the Jensen Huang affair changes the outlook for U.S.-China relations",
-    "title_ko": "젠슨 황 사태가 미·중 관계 전망을 어떻게 바꾸는가",
-    "link": "https://www.cnbc.com/2026/11/13/jensen-huang-nvidia-us-china-relations.html",
-    "published": "Fri, 13 Nov 2026 02:56:35 GMT",
-    "fetched_at": "2026-11-13 12:09:57",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "반도체",
-      "기술",
-      "제조업",
-      "글로벌 무역"
-    ],
-    "keywords": [
-      "미중 관계",
-      "미중 정상회담",
-      "반도체",
-      "기술 경쟁",
-      "지정학"
-    ],
-    "reason": "젠슨 황 사태가 언급되며 미·중 정상회담을 앞두고 양국 간 기술 경쟁 및 무역 갈등이 심화될 수 있음을 시사합니다. 이는 글로벌 공급망의 불확실성을 높이고 관련 기업들의 실적에 부정적인 영향을 미칠 수 있습니다.",
-    "action_point": "미중 기술 갈등 고조에 따른 반도체 및 첨단 기술 섹터의 단기 변동성 확대에 대비하여 해당 포트폴리오 비중 축소를 고려하고, 안정적인 공급망을 갖춘 기업으로 리밸런싱을 검토하십시오."
   }
 ]
