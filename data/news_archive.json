@@ -2,6 +2,206 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "Trump vows to stop U.S. companies from building data centers abroad, threatens 'tremendous tax'",
+    "title_ko": "트럼프, 미국 기업의 해외 데이터센터 건설 중단 약속 및 '막대한 세금' 부과 위협",
+    "link": "https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html",
+    "published": "Fri, 20 Nov 2026 18:01:41 GMT",
+    "fetched_at": "2026-11-21 03:09:45",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "IT 인프라 및 클라우드 서비스",
+      "반도체",
+      "글로벌 부동산 (데이터센터)"
+    ],
+    "keywords": [
+      "트럼프",
+      "데이터센터",
+      "세금",
+      "기술 규제",
+      "미중러 정상회담",
+      "지정학적 위험",
+      "보호무역주의"
+    ],
+    "reason": "트럼프의 해외 데이터센터 건설 중단 위협 및 고율 과세는 IT 및 클라우드 기업의 글로벌 확장 전략에 직접적인 악영향을 미치며, 미중러 정상회담 이후 발표된 점은 기술 패권 경쟁 심화를 시사한다.",
+    "action_point": "해외 데이터센터 의존도가 높은 미국 IT 및 클라우드 서비스 기업 비중 축소를 검토하고, 관련 국내 반도체 및 부품 기업의 공급망 변화 가능성을 주시하라."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "The bull market has a new problem. The 'smart money' is selling",
+    "title_ko": "강세장에 새로운 문제 발생: '스마트 머니'가 매도 중",
+    "link": "https://www.cnbc.com/2026/11/20/equity-issuance-bull-market-problem.html",
+    "published": "Fri, 20 Nov 2026 14:15:29 GMT",
+    "fetched_at": "2026-11-21 03:09:22",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "주식 시장 전반",
+      "기술 섹터"
+    ],
+    "keywords": [
+      "강세장",
+      "스마트 머니",
+      "주식 발행",
+      "자사주 매입",
+      "IPO",
+      "시장 유동성"
+    ],
+    "reason": "기업들이 자사주 매입 대신 주식 발행으로 전환하고 대형 IPO가 증가하면 시장에 주식 공급이 늘어나 강세장의 상승 동력을 약화시키고 밸류에이션 부담을 가중시킬 수 있습니다.",
+    "action_point": "주식 시장의 유동성 변화와 기업들의 자본 조달 전략을 면밀히 주시하며 포트폴리오 내 현금 비중 확대를 검토하십시오."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia",
+    "title_ko": "트럼프 대통령 아시아 순방 복귀에도 미중 무역, 대만, 기술 갈등 미해결",
+    "link": "https://www.cnbc.com/2026/11/20/apec-summit-trump-xi-china-trade-taiwan.html",
+    "published": "Fri, 20 Nov 2026 13:29:50 GMT",
+    "fetched_at": "2026-11-21 03:09:31",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "기술",
+      "반도체",
+      "수출입 관련주"
+    ],
+    "keywords": [
+      "미중 갈등",
+      "무역 전쟁",
+      "기술 전쟁",
+      "지정학",
+      "대만"
+    ],
+    "reason": "미중 간 무역, 기술, 대만 관련 갈등이 해결되지 않으면서 글로벌 공급망과 기술 산업에 대한 불확실성이 지속됩니다. 이는 시장의 위험 회피 심리를 자극하고 주요 기술 기업들의 실적 전망에 부정적인 영향을 줄 수 있습니다.",
+    "action_point": "미중 기술 갈등에 직접 노출된 국내 기술 및 반도체 섹터의 비중 축소를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Anthropic could be tipping point for AI trade. Where investors should go from here",
+    "title_ko": "앤트로픽, AI 투자의 전환점 될 수 있지만, 월스트리트는 AI 외 기회에 주목하고 있다",
+    "link": "https://www.cnbc.com/2026/11/20/stock-market-rotation-beyond-ai.html",
+    "published": "Fri, 20 Nov 2026 17:16:14 GMT",
+    "fetched_at": "2026-11-21 03:10:12",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "기술주",
+      "AI 응용 산업",
+      "성장주"
+    ],
+    "keywords": [
+      "AI",
+      "섹터 로테이션",
+      "성장주",
+      "포트폴리오 다각화"
+    ],
+    "reason": "이 기사는 강세장의 주도권이 핵심 AI 거대 기업을 넘어 AI 수혜가 예상되는 광범위한 분야나 다른 성장 섹터로 분산될 가능성을 시사합니다. 투자자들은 다각화된 투자 기회에 대비해야 합니다.",
+    "action_point": "AI 핵심 기술주 외 AI 응용 산업 및 기타 성장주로의 투자 다각화를 검토."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "항공편 1만8000편 차질에 기밀망까지 마비됐다…결국 美 선택은",
+    "title_ko": "항공편 1만8000편 차질에 기밀망까지 마비됐다…결국 美 선택은",
+    "link": "https://www.mk.co.kr/news/world/12215017",
+    "published": "Fri, 20 Nov 2026 22:55:54 +09:00",
+    "fetched_at": "2026-11-21 03:10:45",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "항공",
+      "금융",
+      "기술",
+      "사이버 보안",
+      "방산"
+    ],
+    "keywords": [
+      "미국",
+      "사이버 공격",
+      "시스템 장애",
+      "국가 안보",
+      "항공",
+      "금융"
+    ],
+    "reason": "미국 주요 시스템의 연쇄 장애는 사이버 보안 위협의 심각성을 부각시키며, 경제 활동 및 국가 안보에 대한 불확실성을 증대시킵니다. 이는 글로벌 공급망과 투자 심리에 간접적인 영향을 미칠 수 있습니다.",
+    "action_point": "미국 핵심 인프라 취약성 노출에 따른 사이버 보안 산업의 성장 가능성을 고려하여 관련 기업 투자 비중 확대를 검토하라."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Warsh wants Fed officials to talk less. Instead, they’re talking more",
+    "title_ko": "워시 전 연준 이사, 연준 관료들의 잦은 발언에 우려 표명",
+    "link": "https://www.cnbc.com/2026/11/20/warsh-fed-forward-guidance-rate-hikes.html",
+    "published": "Fri, 20 Nov 2026 15:20:54 GMT",
+    "fetched_at": "2026-11-21 03:09:16",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "금융",
+      "기술주"
+    ],
+    "keywords": [
+      "연준",
+      "통화정책",
+      "커뮤니케이션",
+      "불확실성",
+      "시장 변동성"
+    ],
+    "reason": "연준 관계자들의 분산된 발언 증가는 통화정책 방향에 대한 시장의 혼란을 가중시키고 예측 가능성을 떨어뜨려 금융 시장 전반의 변동성을 키울 수 있습니다. 이는 금리, 환율 등 주요 자산 가격에 불확실성을 더합니다.",
+    "action_point": "연준의 정책 방향 불확실성 증대에 따라 시장 변동성 확대에 취약한 고성장/고위험 자산 비중을 축소하고, 안전자산 비중을 확대하는 포트폴리오 재조정 검토."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Jensen Huang wasn't mentioned in latest talks with China, Bessent says",
+    "title_ko": "베센트, '최근 대중국 협상에서 젠슨 황 언급되지 않았다' 밝혀",
+    "link": "https://www.cnbc.com/2026/11/20/treasury-secretary-scott-bessent.html",
+    "published": "Fri, 20 Nov 2026 17:11:54 GMT",
+    "fetched_at": "2026-11-21 03:09:59",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "반도체",
+      "기술"
+    ],
+    "keywords": [
+      "젠슨 황",
+      "엔비디아 스캔들",
+      "미중 기술 갈등",
+      "반도체 규제"
+    ],
+    "reason": "최근 미중 협상에서 엔비디아 스캔들과 관련된 핵심 기업에 대한 추가 제재나 젠슨 황 CEO의 직접적인 언급이 없었다는 점은 단기적으로 반도체 섹터의 추가 규제 리스크 압력을 완화할 수 있습니다.",
+    "action_point": "반도체 섹터의 미중 추가 규제 압력 완화 여부를 확인하며 관련 종목의 투자 비중 조정 기회 탐색."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Anthropic defies the odds, holding record IPO despite ‘massively disruptive’ market",
+    "title_ko": "Anthropic, '대규모 파괴적' 시장에도 불구하고 사상 최대 IPO 기록",
+    "link": "https://www.cnbc.com/2026/11/20/anthropic-defies-odds-holding-ipo-despite-massively-disruptive-market.html",
+    "published": "Fri, 20 Nov 2026 17:10:52 GMT",
+    "fetched_at": "2026-11-21 03:10:20",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "인공지능(AI)",
+      "기술주(Tech)",
+      "성장주(Growth Stocks)"
+    ],
+    "keywords": [
+      "AI",
+      "IPO",
+      "기술주",
+      "성장주"
+    ],
+    "reason": "시장 침체와 AI 회의론 속에서도 Anthropic의 사상 최대 IPO는 AI 자산에 대한 투자자들의 강한 신뢰와 수요를 보여줍니다. 이는 AI 및 기술 섹터에 대한 지속적인 투자심리 개선으로 이어질 수 있습니다.",
+    "action_point": "AI 관련 유망 기업 및 기술주 섹터 비중 확대를 검토."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "Anthropic shares fall 6% in premarket amid AI selloff as Nvidia, AMD shares drop",
     "title_ko": "엔비디아와 AMD 주가 하락 속 AI 매도세로 앤트로픽 주가 개장 전 6% 하락",
     "link": "https://www.cnbc.com/2026/11/20/anthropic-stock-ai-amd-nvidia.html",
@@ -2815,206 +3015,5 @@
     ],
     "reason": "엔비디아의 젠슨 황 CEO 스캔들은 AI 산업의 핵심 인프라 공급자의 리더십 불확실성을 증폭시켜, 관련 섹터 투자심리에 부정적 영향을 줄 수 있습니다. 이는 AI 기술 성장에 대한 장기적 전망에 대한 재평가로 이어질 가능성이 있습니다.",
     "action_point": "AI/반도체 섹터 내 엔비디아 및 관련 기업의 투자 비중을 재검토하고, 리스크 관리를 강화하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "엔비디아 위기는 삼전에 기회? ‘깐부’ 젠슨 황 스캔들의 역설 [주말 Q&A] - 더스쿠프",
-    "title_ko": "엔비디아 위기는 삼전에 기회? ‘깐부’ 젠슨 황 스캔들의 역설",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9rcm9oNjJHaVFNTjI0b0h1bDRQZVM1bzllSkFjLWpsNUFCU1g4X2hmMFpJOEM1SlBWdGluUHR1ZFpVbWg5Qnlkdm5Lai1Mdkh4S2N1ZnhwWnkzOVJyTVlrX3BjcXF0VjlGNmNqMU5R?oc=5",
-    "published": "Sat, 14 Nov 2026 10:02:50 GMT",
-    "fetched_at": "2026-11-14 23:40:05",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "반도체",
-      "IT하드웨어",
-      "인공지능"
-    ],
-    "keywords": [
-      "엔비디아",
-      "삼성전자",
-      "젠슨 황",
-      "AI 반도체",
-      "HBM"
-    ],
-    "reason": "엔비디아의 잠재적 위기는 AI 반도체 시장 내 경쟁 구도 변화를 야기하며, 삼성전자가 HBM 및 파운드리 부문에서 입지를 강화할 기회가 될 수 있습니다. 이는 국내 반도체 섹터의 투자심리에 긍정적 영향을 미칠 가능성이 있습니다.",
-    "action_point": "삼성전자 등 국내 AI 반도체 관련 대형주 비중 확대를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Berkshire breaks out to record high with fourth-quarter rally reaching 19%",
-    "title_ko": "버크셔 해서웨이, 4분기 19% 랠리 기록하며 사상 최고치 경신",
-    "link": "https://www.cnbc.com/2026/11/14/berkshire-breaks-out-to-record-high-with-fourth-quarter-rally-reaching-19percent.html",
-    "published": "Sat, 14 Nov 2026 14:02:39 GMT",
-    "fetched_at": "2026-11-14 23:39:14",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "금융",
-      "다각화된 사업",
-      "가치주"
-    ],
-    "keywords": [
-      "버크셔 해서웨이",
-      "사상 최고치",
-      "가치주",
-      "주식 시장"
-    ],
-    "reason": "버크셔 해서웨이의 사상 최고치 경신은 가치주 및 대형 우량 기업에 대한 시장의 신뢰를 보여주며, 이는 광범위한 주식 시장의 강세를 시사할 수 있습니다.",
-    "action_point": "장기적 관점에서 안정적인 수익을 추구하는 가치주 및 우량 기업 비중 유지 또는 확대 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "How Canadian stocks could be big winners of U.S. midterms",
-    "title_ko": "미국 중간선거의 주요 수혜주가 될 수 있는 캐나다 주식",
-    "link": "https://www.cnbc.com/2026/11/14/canada-stocks-us-midterms-tariffs.html",
-    "published": "Sat, 14 Nov 2026 14:11:48 GMT",
-    "fetched_at": "2026-11-14 23:39:27",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "에너지",
-      "원자재",
-      "금융"
-    ],
-    "keywords": [
-      "캐나다 증시",
-      "미국 중간선거",
-      "시장 차별화",
-      "북미 경제"
-    ],
-    "reason": "미국 중간선거 이후 캐나다 증시가 S&P 500 대비 뚜렷하게 아웃퍼폼하며 북미 시장 내 투자 선호도 변화 가능성을 시사합니다. 이는 지정학적 요인이나 섹터별 특성에 따른 자금 이동을 유발할 수 있습니다.",
-    "action_point": "캐나다 증시의 상대적 강세 원인 분석 및 북미 지역 자산 배분 전략 재검토를 통해 포트폴리오 다각화 기회를 모색하십시오."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "순방 전 내치 다지기…민생·경제 행보 총력 - 연합뉴스TV",
-    "title_ko": "순방 전 내치 다지기…민생·경제 행보 총력",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10Y2ozYVZvdmtsZjU0WG41Wm8tdlh3ZHBjeVR3LWtxb1ZFVlMzVEJtZTVRREFFWGR5cXBoOFE1YlJiZi0ybGhEb1JBYjVlTFJFZ2I2SUp1eXlOdmRKR0tNS2V2b21JMmM?oc=5",
-    "published": "Sat, 14 Nov 2026 08:29:00 GMT",
-    "fetched_at": "2026-11-14 23:39:34",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "내수 관련주",
-      "소비재",
-      "중소기업"
-    ],
-    "keywords": [
-      "정부 정책",
-      "민생 안정",
-      "경제 활성화",
-      "내수 부양"
-    ],
-    "reason": "정부의 민생·경제 최우선 행보는 국내 경기 안정화 및 부양책 기대감을 높여 내수 관련 자산에 긍정적인 영향을 미칠 수 있습니다. 정책적 지원이 구체화될 경우 시장 전반의 심리 개선에도 기여할 것입니다.",
-    "action_point": "국내 경기 민감주 및 내수 소비재 섹터에 대한 관심 확대 검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[속보] 트럼프, `中 간첩설`에도 엔비디아 주식 `풀매수`…이해충돌 논란 - 매일신문",
-    "title_ko": "[속보] 트럼프, `中 간첩설`에도 엔비디아 주식 `풀매수`…이해충돌 논란 - 매일신문",
-    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBJc1dyY2VhTUZ6OGpNUXRsSWpBNW9zUEtiZHZOSndRMkNKLXBTNXFDMVpnbEplS0hFNXBfbjhqSTVsNHlYT3NaY2c2UUg3SHZtU1pZa3pQaTAxX1FFdGNlUF93?oc=5",
-    "published": "Sat, 14 Nov 2026 09:08:46 GMT",
-    "fetched_at": "2026-11-14 23:40:25",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "반도체",
-      "기술",
-      "정치/정책"
-    ],
-    "keywords": [
-      "트럼프",
-      "엔비디아",
-      "반도체",
-      "중국",
-      "이해충돌",
-      "지정학"
-    ],
-    "reason": "이 뉴스는 주요 반도체 기업 엔비디아와 전/현직 대통령의 이해충돌 논란을 다루며, 이는 반도체 섹터에 대한 정치적 노이즈를 증가시키고 향후 규제 환경 변화 가능성에 대한 불확실성을 높일 수 있습니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "브로드컴 뛰자 같이 뛰었다…기판株 코리아써키트, 51% 반등 [이주의 Bull기둥]",
-    "title_ko": "브로드컴 뛰자 같이 뛰었다…기판株 코리아써키트, 51% 반등 [이주의 Bull기둥]",
-    "link": "https://www.mk.co.kr/news/stock/12209039",
-    "published": "Sat, 14 Nov 2026 22:53:51 +09:00",
-    "fetched_at": "2026-11-14 23:40:53",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "반도체",
-      "인쇄회로기판(PCB)",
-      "AI"
-    ],
-    "keywords": [
-      "브로드컴",
-      "코리아써키트",
-      "PCB",
-      "반도체",
-      "AI",
-      "젠슨황",
-      "코어위브"
-    ],
-    "reason": "AI 관련 인프라 투자 확대와 브로드컴, 코어위브 등 주요 기업의 긍정적 전망이 반도체 및 PCB 산업 전반의 실적 개선 기대감을 높이며 관련 기업 주가에 호재로 작용한다. 이는 AI 성장 모멘텀이 실물 경제 및 기업 실적으로 이어지고 있음을 시사한다.",
-    "action_point": "AI 반도체 및 고성능 컴퓨팅(HPC) 관련 부품 섹터 비중 확대 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Flight disruptions continue after FAA lifts ground stop, some college football games delayed",
-    "title_ko": "미국 FAA 운항 중단 해제에도 항공편 차질 지속, 일부 대학 미식축구 경기 지연",
-    "link": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
-    "published": "Sat, 14 Nov 2026 14:01:19 GMT",
-    "fetched_at": "2026-11-14 23:38:58",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "항공",
-      "여행",
-      "물류"
-    ],
-    "keywords": [
-      "FAA",
-      "항공편",
-      "운항 중단",
-      "지연",
-      "여행"
-    ],
-    "reason": "미국 내 일시적인 항공 운항 차질로 항공 및 여행 섹터에 단기적인 운송 지연 및 매출 영향이 예상되나, 거시경제 전반에 미치는 영향은 제한적입니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "How Rockstar's 'GTA IV' release could reshape gaming, streaming and even paid time off",
-    "title_ko": "락스타의 'GTA VI' 출시가 게임, 스트리밍, 심지어 유급 휴가까지 재편할 수 있는 방법",
-    "link": "https://www.cnbc.com/2026/11/14/gta-6-grand-theft-auto-launch.html",
-    "published": "Sat, 14 Nov 2026 14:00:01 GMT",
-    "fetched_at": "2026-11-14 23:39:07",
-    "sentiment": "호재",
-    "importance": 2,
-    "sectors": [
-      "게임",
-      "미디어/엔터테인먼트",
-      "IT 서비스 (스트리밍)",
-      "식음료 (배달)"
-    ],
-    "keywords": [
-      "GTA VI",
-      "게임 산업",
-      "스트리밍",
-      "엔터테인먼트",
-      "소비재"
-    ],
-    "reason": "메가 히트 게임 'GTA VI'의 출시는 게임, 스트리밍, 음악 등 관련 엔터테인먼트 산업 전반에 걸쳐 막대한 소비 지출과 참여를 유발하여 해당 기업들의 매출 증대에 긍정적인 영향을 미칠 것으로 예상됩니다.",
-    "action_point": "글로벌 게임 및 미디어/엔터테인먼트 섹터 내 관련 기업의 장기적인 성장 가능성을 면밀히 검토하고 투자 비중 확대를 고려."
   }
 ]
