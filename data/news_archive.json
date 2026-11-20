@@ -2,6 +2,284 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "Anthropic shares fall 6% in premarket amid AI selloff as Nvidia, AMD shares drop",
+    "title_ko": "엔비디아와 AMD 주가 하락 속 AI 매도세로 앤트로픽 주가 개장 전 6% 하락",
+    "link": "https://www.cnbc.com/2026/11/20/anthropic-stock-ai-amd-nvidia.html",
+    "published": "Fri, 20 Nov 2026 09:12:22 GMT",
+    "fetched_at": "2026-11-20 18:25:57",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "인공지능",
+      "기술주",
+      "반도체"
+    ],
+    "keywords": [
+      "앤트로픽",
+      "AI 매도세",
+      "엔비디아",
+      "AMD",
+      "기술주 하락"
+    ],
+    "reason": "AI 섹터 전반에 대한 투자자들의 차익 실현 및 고평가 우려가 확산되고 있음을 시사합니다. 엔비디아, AMD 등 핵심 반도체 기업들의 주가 하락은 AI 성장 모멘텀 둔화 가능성에 대한 시장의 경계심을 높일 수 있습니다.",
+    "action_point": "AI 및 반도체 섹터 비중 축소 또는 차익 실현을 검토."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Nasdaq futures fall after Anthropic fails to lift market sentiment: Live updates",
+    "title_ko": "Anthropic 효과 실망으로 나스닥 선물 하락: 실시간 업데이트",
+    "link": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html",
+    "published": "Fri, 20 Nov 2026 09:08:45 GMT",
+    "fetched_at": "2026-11-20 18:26:05",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "기술주",
+      "성장주",
+      "미국 주식 시장 전반"
+    ],
+    "keywords": [
+      "나스닥",
+      "선물",
+      "시장 심리",
+      "하락",
+      "기술주"
+    ],
+    "reason": "Anthropic 관련 소식이 시장 심리를 회복시키지 못하고 주요 지수들이 2% 이상 하락하여 전반적인 시장의 투자 심리가 위축되고 있음을 시사하며, 특히 기술주 및 성장주에 대한 압력이 커질 수 있습니다.",
+    "action_point": "기술주 및 성장주 비중 축소를 검토하고, 전반적인 주식 포트폴리오의 위험 노출을 줄이는 방안을 고려."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "내년 경제성장전략에 쏠린 눈…정부, 성장 전망 4%대로 올릴까 - 연합인포맥스",
+    "title_ko": "내년 경제성장전략에 쏠린 눈…정부, 성장 전망 4%대로 올릴까",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9TcHZQSVFiRWhIRVQzSTVldkNleTduZkNHR3pPVU4tbmQwRElIVndGTkhaMnYzZ1RiMzZYLXVlNmZPT1pNemlJc0pSQWplcV9SQU50Q0hISmlOVXZydHdTckF0MjRER1ZRa0FES3hzc0Q?oc=5",
+    "published": "Fri, 20 Nov 2026 08:59:57 GMT",
+    "fetched_at": "2026-11-20 18:26:52",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "경기민감주",
+      "내수주",
+      "금융주"
+    ],
+    "keywords": [
+      "경제성장률",
+      "정부전망",
+      "경기회복",
+      "금리인상",
+      "주식시장"
+    ],
+    "reason": "정부가 내년 경제성장률 전망치를 상향 조정할 경우, 국내 기업 실적 개선 기대감과 전반적인 경기 회복 신호로 작용하여 주식 시장에 긍정적인 영향을 미칠 수 있습니다. 이는 향후 한국은행의 통화정책에도 영향을 줄 수 있습니다.",
+    "action_point": "국내 경기민감주 및 내수 소비 관련 주식 비중 확대를 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[속보] 급락장에 코스피 이어 코스닥서도 매도 사이드카 - MBC 뉴스",
+    "title_ko": "[속보] 급락장에 코스피 이어 코스닥서도 매도 사이드카",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9kVEZWODFlLV9nZFZsbE96Nm5VNUlYY0VrT0R4TEx2S0tZbnluWUZGRExHOGVjV1lRMFgxd21lbGo3ZlUyNTNSQmdlMHUzQllMWVFUWHkyZXBzN2xvVUJkQkoxUzZFdUFjVDlHSjlPTDRReUt50gF0QVVfeXFMTkhubEVHSnJrdlYzWXBGdFlPYzhSSHZVRERWSnFWUF9MVk1wX1cxMFNsTXAxazRGQ05GODM2OE9pVWtWMG1zTDZlZm12V2MxRDd1UmY5ZUppUzF4cmxaaTN6TU9sZTB1YndyS0IyRjBjRkNROEg?oc=5",
+    "published": "Fri, 20 Nov 2026 04:31:20 GMT",
+    "fetched_at": "2026-11-20 18:27:10",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "전 섹터",
+      "증권"
+    ],
+    "keywords": [
+      "급락장",
+      "코스피",
+      "코스닥",
+      "매도 사이드카",
+      "주식시장 변동성"
+    ],
+    "reason": "코스피와 코스닥 동시 매도 사이드카 발동은 국내 증시의 심각한 불안정성과 투자자 패닉을 보여주며, 광범위한 리스크 회피 심리가 작용하고 있음을 시사합니다. 이는 국내외 중대 악재 반영 또는 시장의 구조적 취약성 가능성을 의미합니다.",
+    "action_point": "국내 주식 비중을 즉각적으로 축소하고 현금 비중을 늘려 시장 변동성에 대비하며, 방어적 자산으로의 포트폴리오 리밸런싱을 고려하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "산업부·경제 6단체, '수출 1조달러' 넘어 질적 성장 나선다 - 뉴스핌",
+    "title_ko": "산업부·경제 6단체, '수출 1조달러' 넘어 질적 성장 나선다",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8tMm92MDFvRVhSckU3X3VjYUJsMmpodk1lNEpxRzg1TmlXcUFWeG9ibmp6ZkZnVjhybzQzNno5b3YxZW1uSzR5V2R1SnRIczl3VmE1M2JmLUsxMjIx?oc=5",
+    "published": "Fri, 20 Nov 2026 06:52:00 GMT",
+    "fetched_at": "2026-11-20 18:27:22",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "반도체",
+      "IT",
+      "자동차",
+      "조선",
+      "친환경에너지",
+      "첨단소재"
+    ],
+    "keywords": [
+      "수출",
+      "질적 성장",
+      "산업부",
+      "경제단체",
+      "정책"
+    ],
+    "reason": "정부와 경제단체가 수출의 양적 성장을 넘어 질적 성장을 추구하는 정책 방향을 제시함에 따라, 한국 경제의 장기적인 경쟁력 강화 및 산업 구조 고도화가 기대됩니다. 이는 고부가가치 수출 중심 기업들의 수익성 개선 및 국내 증시 전반에 긍정적으로 작용할 수 있습니다.",
+    "action_point": "정책 수혜가 예상되는 고부가가치 수출 산업(예: 첨단 IT, 친환경 에너지, 스마트 모빌리티) 관련 기업에 대한 비중 확대를 검토하십시오."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "“AI 붕괴 오면 고통스런 경기침체 이어질 것…한국 집값도 위험” [딥머니 토크]",
+    "title_ko": "“AI 붕괴 오면 고통스런 경기침체 이어질 것…한국 집값도 위험” [딥머니 토크]",
+    "link": "https://www.mk.co.kr/news/economy/12214904",
+    "published": "Fri, 20 Nov 2026 18:19:21 +09:00",
+    "fetched_at": "2026-11-20 18:27:47",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "IT/기술주",
+      "부동산",
+      "금융",
+      "경기민감주"
+    ],
+    "keywords": [
+      "AI 붕괴",
+      "경기침체",
+      "부동산",
+      "케네스 로고프",
+      "집값"
+    ],
+    "reason": "케네스 로고프 교수의 AI 붕괴 경고는 향후 기술 거품 붕괴와 그로 인한 글로벌 경기침체 가능성에 대한 우려를 심화시키며, 특히 한국 부동산 시장의 하방 압력을 높일 수 있습니다. 이는 투자 심리 위축 및 안전자산 선호 심리를 자극할 수 있습니다.",
+    "action_point": "경기침체 가능성에 대비하여 AI 관련 IT/기술주 및 부동산 관련 자산의 비중을 축소하고, 방어적 섹터 및 현금 보유 비중 확대를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Senate passes BAAJA permitting reform bill backed by AI, energy sectors",
+    "title_ko": "상원, AI 및 에너지 섹터 지지하는 BAAJA 인허가 개혁 법안 통과",
+    "link": "https://www.cnbc.com/2026/11/20/baaja-bill-senate-passes-permitting-reform.html",
+    "published": "Fri, 20 Nov 2026 03:56:17 GMT",
+    "fetched_at": "2026-11-20 18:26:37",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "에너지",
+      "인공지능(AI)",
+      "건설",
+      "인프라"
+    ],
+    "keywords": [
+      "인허가 개혁",
+      "BAAJA",
+      "에너지",
+      "인공지능",
+      "미국 상원"
+    ],
+    "reason": "해당 법안은 인프라 및 에너지 프로젝트의 인허가 절차를 간소화하여 AI 데이터센터 및 재생에너지 개발을 가속화할 것으로 예상된다. 이는 관련 산업의 비용 절감 및 투자 확대로 이어질 수 있다.",
+    "action_point": "미국 AI 및 에너지 인프라 관련 섹터 투자 비중 확대 검토"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "AI is changing software engineering — and some developers miss the struggle",
+    "title_ko": "AI가 소프트웨어 엔지니어링을 변화시키고 있다 – 일부 개발자들은 고군분투의 즐거움을 그리워해",
+    "link": "https://www.cnbc.com/2026/11/20/ai-coding-tools-software-engineers.html",
+    "published": "Fri, 20 Nov 2026 06:00:01 GMT",
+    "fetched_at": "2026-11-20 18:26:45",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "소프트웨어",
+      "IT 서비스",
+      "반도체"
+    ],
+    "keywords": [
+      "AI",
+      "소프트웨어 엔지니어링",
+      "생산성 향상",
+      "기술 혁신"
+    ],
+    "reason": "AI 코딩 도구의 확산은 소프트웨어 개발 생산성을 비약적으로 향상시켜 기술 기업의 비용 절감 및 혁신 가속화를 가져올 것입니다. 이는 장기적으로 기술 섹터 전반의 기업 가치 상승 요인으로 작용할 수 있습니다.",
+    "action_point": "AI 기반 생산성 향상 수혜가 예상되는 소프트웨어 및 IT 서비스 기업 비중 확대 검토"
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "카드론 갚으려 같은 카드사서 다시 빌린 돈, 한 달 새 4.84% 늘었다",
+    "title_ko": "카드론 갚으려 같은 카드사서 다시 빌린 돈, 한 달 새 4.84% 늘었다",
+    "link": "https://www.mk.co.kr/news/economy/12214900",
+    "published": "Fri, 20 Nov 2026 18:17:18 +09:00",
+    "fetched_at": "2026-11-20 18:27:59",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "금융",
+      "소비재"
+    ],
+    "keywords": [
+      "가계부채",
+      "카드론",
+      "대환대출",
+      "소비심리",
+      "금융건전성"
+    ],
+    "reason": "가계의 이자 부담 능력이 한계에 달해 부채 돌려막기가 증가하고 있음을 보여주며, 이는 향후 소비 위축과 금융권의 부실 확대 가능성을 높이는 요인이다.",
+    "action_point": "가계 대출 부실화 가능성이 높은 금융주 비중 축소를 고려하고 소비재 섹터 투자를 보수적으로 접근."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "U.K.-India trade deal faces a stiff test over Scotch whisky import taxes",
+    "title_ko": "영국-인도 무역 협정, 스카치 위스키 수입 관세 문제로 난항",
+    "link": "https://www.cnbc.com/2026/11/20/uk-india-trade-scotch-whisky-tariffs.html",
+    "published": "Fri, 20 Nov 2026 05:09:52 GMT",
+    "fetched_at": "2026-11-20 18:26:19",
+    "sentiment": "악재",
+    "importance": 2,
+    "sectors": [
+      "주류",
+      "소비재",
+      "글로벌 무역"
+    ],
+    "keywords": [
+      "영국-인도 무역",
+      "스카치 위스키",
+      "관세",
+      "인도 소비 시장"
+    ],
+    "reason": "영국-인도 무역 협정의 난항은 스카치 위스키 산업의 인도 시장 접근을 제한하며, 글로벌 무역 협상의 어려움을 보여줍니다. 이는 관련 기업들의 인도 시장 성장 기회 제약을 의미합니다.",
+    "action_point": "영국 주류 기업 및 인도 시장 의존도가 높은 글로벌 소비재 기업에 대한 투자 비중을 면밀히 재검토."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Forget Anthropic: In Europe, the IPO hype is about a blue lagoon",
+    "title_ko": "Anthropic은 잊어라: 유럽에서 IPO 열풍은 블루라군에 집중되고 있다",
+    "link": "https://www.cnbc.com/2026/11/20/anthropic-ipo-iceland-blue-lagoon.html",
+    "published": "Fri, 20 Nov 2026 06:00:01 GMT",
+    "fetched_at": "2026-11-20 18:26:28",
+    "sentiment": "호재",
+    "importance": 2,
+    "sectors": [
+      "관광",
+      "레저",
+      "웰니스",
+      "소비재"
+    ],
+    "keywords": [
+      "IPO",
+      "블루라군",
+      "아이슬란드",
+      "관광",
+      "웰니스",
+      "지열 스파"
+    ],
+    "reason": "아이슬란드 블루라군의 성공적인 IPO는 독특한 경험과 웰니스 테마를 가진 관광 산업 자산에 대한 투자자들의 높은 관심을 보여주며, 관련 섹터에 긍정적인 투자 심리를 제공합니다.",
+    "action_point": "글로벌 관광 및 웰니스 관련 상장 기업들의 포트폴리오 비중 확대 검토"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "Japan core inflation soars to highest this year as energy subsidy expiry pushes up consumer prices",
     "title_ko": "일본 근원 인플레이션, 에너지 보조금 종료로 소비자 물가 상승하며 올해 최고치 기록",
     "link": "https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html",
@@ -2738,269 +3016,5 @@
     ],
     "reason": "메가 히트 게임 'GTA VI'의 출시는 게임, 스트리밍, 음악 등 관련 엔터테인먼트 산업 전반에 걸쳐 막대한 소비 지출과 참여를 유발하여 해당 기업들의 매출 증대에 긍정적인 영향을 미칠 것으로 예상됩니다.",
     "action_point": "글로벌 게임 및 미디어/엔터테인먼트 섹터 내 관련 기업의 장기적인 성장 가능성을 면밀히 검토하고 투자 비중 확대를 고려."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "기후위기, 인간 사회 폭력 부를까…유골 1600구 분석해보니 - DongA Science",
-    "title_ko": "기후위기, 인간 사회 폭력 부를까…유골 1600구 분석해보니",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5VNmI3Sm9XOU9EeTFmNG9BallBTFNhbDJhd0h0Y1YtMFVjREROMTBjSHRnWnBJd3ZJRlhfcDNIZHVIcXRPUkFicTVIbG9NSjMwbTNScA?oc=5",
-    "published": "Sat, 14 Nov 2026 09:00:00 GMT",
-    "fetched_at": "2026-11-14 23:39:49",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [],
-    "keywords": [
-      "기후위기",
-      "사회불안",
-      "장기리스크",
-      "환경변화"
-    ],
-    "reason": "이 연구는 기후변화가 장기적으로 사회적 불안정성과 폭력을 증대시킬 수 있다는 점을 시사하지만, 단기 금융시장 변동성에는 직접적인 영향을 미치지 않습니다. 이는 기후변화 관련 비재무적 리스크에 대한 인식을 높이는 데 기여합니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "“폐타이어·폐비닐로 만들어 찝찝?”…‘친환경 시멘트’ 유해성 따져보니",
-    "title_ko": "“폐타이어·폐비닐로 만들어 찝찝?”…‘친환경 시멘트’ 유해성 따져보니",
-    "link": "https://www.mk.co.kr/news/business/12209041",
-    "published": "Sat, 14 Nov 2026 22:54:32 +09:00",
-    "fetched_at": "2026-11-14 23:40:38",
-    "sentiment": "호재",
-    "importance": 2,
-    "sectors": [
-      "건설",
-      "폐기물 처리",
-      "환경"
-    ],
-    "keywords": [
-      "친환경 시멘트",
-      "폐기물 활용",
-      "중금속",
-      "온실가스 저감",
-      "건설 자재"
-    ],
-    "reason": "폐기물 활용 친환경 시멘트의 안전성이 확인되어 관련 산업의 신뢰도 및 시장 확대에 긍정적이며, 건설 섹터의 ESG 경영 강화에 기여할 것입니다.",
-    "action_point": "국내 친환경 건설 자재 관련 기업 투자 비중 확대 검토"
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "“생선은 먹고 싶은데 굽는 건 너무 싫다고?”…‘깔끔한’ 전자레인지 구이 뜬다",
-    "title_ko": "“생선은 먹고 싶은데 굽는 건 너무 싫다고?”…‘깔끔한’ 전자레인지 구이 뜬다",
-    "link": "https://www.mk.co.kr/news/business/12209040",
-    "published": "Sat, 14 Nov 2026 22:54:12 +09:00",
-    "fetched_at": "2026-11-14 23:40:46",
-    "sentiment": "호재",
-    "importance": 2,
-    "sectors": [
-      "식품",
-      "간편식(HMR)",
-      "유통"
-    ],
-    "keywords": [
-      "생선구이",
-      "간편식",
-      "CJ제일제당",
-      "식품 트렌드"
-    ],
-    "reason": "전자레인지용 간편 생선구이 제품의 매출 증가는 소비자들의 편의성 추구 트렌드를 반영하며, 국내 주요 HMR(가정간편식) 제조사들의 실적 개선에 긍정적 영향을 미칠 것입니다.",
-    "action_point": "국내 간편식(HMR) 관련 식품 제조사들의 포트폴리오 비중 확대를 검토."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "“수학여행 가고 싶어요”…교사 ‘기소 제한’ 카드 꺼낸 국회",
-    "title_ko": "“수학여행 가고 싶어요”…교사 ‘기소 제한’ 카드 꺼낸 국회",
-    "link": "https://www.mk.co.kr/news/politics/12209036",
-    "published": "Sat, 14 Nov 2026 22:34:42 +09:00",
-    "fetched_at": "2026-11-14 23:41:00",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "교육 서비스"
-    ],
-    "keywords": [
-      "교사 기소 제한",
-      "수학여행",
-      "학교 안전",
-      "교육 정책"
-    ],
-    "reason": "교사의 현장체험학습 중 안전사고 관련 기소 부담을 완화하여 위축된 학교 현장체험학습을 활성화하려는 법안으로, 교육 서비스 부문에 미시적인 긍정적 영향이 있을 수 있으나 거시 경제 및 주요 투자 자산에 미칠 직접적인 영향은 제한적입니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "“크리스마스 한 달 남았지만 벌써 설레”…외식·케이크·선물 ‘선점 전쟁’",
-    "title_ko": "“크리스마스 한 달 남았지만 벌써 설레”…외식·케이크·선물 ‘선점 전쟁’",
-    "link": "https://www.mk.co.kr/news/business/12209030",
-    "published": "Sat, 14 Nov 2026 21:55:39 +09:00",
-    "fetched_at": "2026-11-14 23:41:18",
-    "sentiment": "호재",
-    "importance": 2,
-    "sectors": [
-      "유통",
-      "호텔/레저",
-      "외식",
-      "경기관련소비재"
-    ],
-    "keywords": [
-      "크리스마스",
-      "소비심리",
-      "연말특수",
-      "유통업",
-      "외식업"
-    ],
-    "reason": "연말 성수기를 앞두고 외식 및 선물 시장의 높은 사전 예약률과 수요 급증은 국내 소비 심리가 여전히 견조하며, 특히 재량 소비 지출이 활발함을 보여줍니다. 이는 관련 유통, 호텔, 외식 기업들의 4분기 실적 개선에 긍정적으로 작용할 수 있습니다.",
-    "action_point": "국내 유통, 호텔/레저, 외식 섹터 내 연말 특수 수혜 기업 비중 확대 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Trump doesn’t plan to raise Nvidia, spy issue during China trip: U.S. officials",
-    "title_ko": "트럼프, 방중 시 엔비디아·스파이 문제 거론 계획 없어: 美 관리",
-    "link": "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html",
-    "published": "Sat, 14 Nov 2026 01:34:11 GMT",
-    "fetched_at": "2026-11-14 16:12:23",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "반도체",
-      "기술"
-    ],
-    "keywords": [
-      "엔비디아",
-      "제너럴 황",
-      "스파이",
-      "미중 관계",
-      "반도체 리더십"
-    ],
-    "reason": "엔비디아 CEO의 스파이 관련 의혹 및 사임은 기업 지배구조와 리더십에 대한 심각한 우려를 야기하며 주가에 부정적 영향을 미칠 수 있습니다. 다만, 이 문제가 미중 정상회담에서 공식적으로 거론되지 않아 외교적 갈등으로의 확전 가능성은 제한적입니다.",
-    "action_point": "엔비디아 및 AI 반도체 관련 포트폴리오의 리스크를 재평가하고 변동성 확대에 대비하여 비중 조정을 검토하십시오."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Analysis: Companies love a ‘rockstar’ CEO. Until they depend on one",
-    "title_ko": "분석: 기업들은 '록스타' CEO를 사랑한다. 그들에게 의존하기 전까지는.",
-    "link": "https://www.cnbc.com/2026/11/14/nvidia-jensen-huang-ceo-succession-risk.html",
-    "published": "Sat, 14 Nov 2026 07:08:45 GMT",
-    "fetched_at": "2026-11-14 16:12:42",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "반도체",
-      "인공지능(AI)",
-      "IT기술주"
-    ],
-    "keywords": [
-      "CEO",
-      "Nvidia",
-      "승계 계획",
-      "기업 지배구조"
-    ],
-    "reason": "특정 '록스타' CEO에 대한 기업의 높은 의존도가 장기적인 리스크가 될 수 있음을 지적하며, 이는 승계 계획 및 지배구조의 중요성을 부각하여 투자 심리에 영향을 줄 수 있습니다.",
-    "action_point": "포트폴리오 내 특정 CEO 의존도가 높은 성장주 보유 기업의 승계 계획 및 지배구조를 점검하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "FAA lifts ground stop after more than four hours, but flight cancellations will stretch into the weekend",
-    "title_ko": "FAA, 4시간 이상 지상 정지 해제했으나 항공편 취소는 주말까지 이어질 것",
-    "link": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html",
-    "published": "Sat, 14 Nov 2026 05:08:24 GMT",
-    "fetched_at": "2026-11-14 16:12:48",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "항공사",
-      "여행 및 관광",
-      "물류 및 운송"
-    ],
-    "keywords": [
-      "FAA",
-      "항공편 취소",
-      "지상 정지",
-      "항공 운송",
-      "물류 지연"
-    ],
-    "reason": "미국 전역의 항공편 지상 정지 및 취소는 항공사들의 단기적 매출 감소와 운영 비용 증가를 야기하며, 광범위한 물류 지연과 여행 및 관광 산업에 부정적 영향을 미쳐 단기적인 경제 활동 둔화를 초래할 수 있습니다.",
-    "action_point": "미국 항공 및 여행 관련 섹터의 단기적 비중 축소 또는 관망."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "민간소비 4분기엔 반등할까…10월 속보지표는 일단 '청신호' - 연합인포맥스",
-    "title_ko": "민간소비 4분기엔 반등할까…10월 속보지표는 일단 '청신호' - 연합인포맥스",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtSTdHNDVqZTN4bTVoX0oyOVNwNFdWM05DVTJpdXRGMDNtY0J0Y295MWVnc2NNMFctQlBhQXBSY0xpUnVnT2ZBMS1RV18zNzVRWHlIallBdi03WG9ISnBCZ3JVdEpWdzNvaTNGcFRfTTA?oc=5",
-    "published": "Fri, 13 Nov 2026 23:08:06 GMT",
-    "fetched_at": "2026-11-14 16:13:05",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "유통",
-      "경기소비재",
-      "음식료품",
-      "서비스"
-    ],
-    "keywords": [
-      "민간소비",
-      "소비회복",
-      "4분기",
-      "경기개선"
-    ],
-    "reason": "10월 민간소비 속보 지표가 4분기 반등 가능성을 시사하며 국내 경기 회복에 대한 기대감을 높인다. 이는 소비 관련 기업들의 실적 개선과 전반적인 투자 심리 회복에 긍정적 영향을 줄 수 있다.",
-    "action_point": "국내 경기소비재 및 유통 섹터 비중 확대 검토"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Ecuador wants to monetize its biodiversity — while still drilling for oil",
-    "title_ko": "에콰도르, 생물다양성 수익화 추진…석유 시추는 지속",
-    "link": "https://www.cnbc.com/2026/11/14/ecuador-biodiversity-green-finance-oil.html",
-    "published": "Sat, 14 Nov 2026 06:00:01 GMT",
-    "fetched_at": "2026-11-14 16:12:33",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "에너지",
-      "환경·ESG",
-      "신흥국 주식"
-    ],
-    "keywords": [
-      "에콰도르",
-      "생물다양성",
-      "석유 시추",
-      "원자재",
-      "ESG"
-    ],
-    "reason": "에콰도르의 복합적인 경제 전략은 생물다양성 보전과 석유 생산 간의 균형을 모색하며, 이는 단기적으로 원유 공급 안정화에 미미하게 기여하나 장기적으로 ESG 투자 테마와 신흥국 자원 정책의 복잡성을 부각시킵니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "’이용객 급증’ 청주공항, 국제여객 수속 시설 정비 - 연합뉴스TV",
-    "title_ko": "’이용객 급증’ 청주공항, 국제여객 수속 시설 정비 - 연합뉴스TV",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9URF9qYnlaTlUycGZWS2tRNUlsRW1qNW9tMHg4aDEzcllkZ0dZTGVTRU5qMFFrMDcwTU0tcW1uUU04bVZVVXZ1Z25oMXFiX0ZVTG5lcFplcjJOYTFyR1ZOSzdzMndxbm8?oc=5",
-    "published": "Sat, 14 Nov 2026 04:46:00 GMT",
-    "fetched_at": "2026-11-14 16:12:59",
-    "sentiment": "호재",
-    "importance": 2,
-    "sectors": [
-      "항공",
-      "여행/관광",
-      "공항 인프라"
-    ],
-    "keywords": [
-      "청주공항",
-      "국제선",
-      "항공 수요",
-      "관광 회복"
-    ],
-    "reason": "청주공항의 국제선 이용객 급증과 시설 정비는 국제 항공 수요 회복세가 지속되고 있음을 보여주며, 이는 여행 및 항공 산업에 긍정적인 신호로 해석될 수 있습니다. 지역 경제 활성화에도 기여할 것으로 예상됩니다.",
-    "action_point": "국내 지방 공항발 국제선 수요 증가 추세를 감안, 관련 항공 및 여행 섹터 내 투자 기회 모색."
   }
 ]
