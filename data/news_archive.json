@@ -2,6 +2,80 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "Japan core inflation soars to highest this year as energy subsidy expiry pushes up consumer prices",
+    "title_ko": "일본 근원 인플레이션, 에너지 보조금 종료로 소비자 물가 상승하며 올해 최고치 기록",
+    "link": "https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html",
+    "published": "Fri, 20 Nov 2026 00:52:17 GMT",
+    "fetched_at": "2026-11-20 10:32:23",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "금융",
+      "소비재",
+      "에너지"
+    ],
+    "keywords": [
+      "일본",
+      "근원 인플레이션",
+      "에너지 보조금",
+      "소비자 물가",
+      "통화 정책",
+      "엔화"
+    ],
+    "reason": "일본의 근원 인플레이션이 올해 최고치를 기록했으나 시장 예상치보다는 낮아 다소 혼재된 신호를 보낸다. 이는 일본은행의 통화정책 정상화에 대한 기대감을 유지시키며 엔화 강세와 일본 국채 금리 상승 압력으로 이어질 수 있다.",
+    "action_point": "일본은행의 통화정책 정상화 기대감에 따른 엔화 강세 가능성에 대비하여 엔화 관련 자산 전략을 재검토."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says",
+    "title_ko": "미 상무부, 중국 기업에 87만 9천 개 이상의 AI 칩 판매 승인했다고 매스트 의원 밝혀",
+    "link": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html",
+    "published": "Fri, 20 Nov 2026 00:53:55 GMT",
+    "fetched_at": "2026-11-20 10:32:32",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "반도체",
+      "인공지능(AI)",
+      "기술"
+    ],
+    "keywords": [
+      "AI 칩",
+      "수출 통제",
+      "미중 기술 경쟁",
+      "반도체 규제"
+    ],
+    "reason": "미 상무부의 AI 칩 판매 승인에도 불구하고, 의회의 문제 제기는 미중 기술 규제 강화 압력이 지속될 것임을 시사합니다. 이는 반도체 및 AI 관련 기업들에게 지속적인 정책 불확실성과 지정학적 리스크를 가중시킬 것입니다.",
+    "action_point": "미중 기술 규제 강화 가능성에 대비, 반도체 및 AI 관련 섹터에 대한 투자 비중을 재검토."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "SoftBank plunges over 16% as AI sell-off hits Asian tech stocks following Anthropic debut",
+    "title_ko": "소프트뱅크, 앤스로픽 데뷔 후 AI 매도세가 아시아 기술주를 강타하며 16% 이상 폭락",
+    "link": "https://www.cnbc.com/2026/11/20/softbank-ai-tech-stocks-slide-anthropic-debut.html",
+    "published": "Fri, 20 Nov 2026 01:20:46 GMT",
+    "fetched_at": "2026-11-20 10:32:13",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "기술주",
+      "인공지능(AI) 관련주"
+    ],
+    "keywords": [
+      "소프트뱅크",
+      "인공지능(AI)",
+      "기술주",
+      "아시아 증시",
+      "앤스로픽"
+    ],
+    "reason": "AI 관련 종목의 고평가 논란과 차익 실현 움직임이 확산되며, 소프트뱅크 폭락이 아시아 기술주 전반에 투자 심리 위축을 야기하고 있음을 시사합니다.",
+    "action_point": "AI 관련 기술주 포트폴리오의 비중 축소 또는 위험 관리 강화 검토."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "Anthropic IPO live updates: AI lab tops $2 trillion market cap after record offering",
     "title_ko": "앤트로픽 IPO 실시간 업데이트: AI 연구소, 기록적인 공모 후 시가총액 2조 달러 돌파",
     "link": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html",
@@ -2928,74 +3002,5 @@
     ],
     "reason": "청주공항의 국제선 이용객 급증과 시설 정비는 국제 항공 수요 회복세가 지속되고 있음을 보여주며, 이는 여행 및 항공 산업에 긍정적인 신호로 해석될 수 있습니다. 지역 경제 활성화에도 기여할 것으로 예상됩니다.",
     "action_point": "국내 지방 공항발 국제선 수요 증가 추세를 감안, 관련 항공 및 여행 섹터 내 투자 기회 모색."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "“군인·산모·실직자 ‘주목’…보험료 안 내도 국민연금 가입기간 늘어난다?”",
-    "title_ko": "군인·산모·실직자 ‘주목’…보험료 안 내도 국민연금 가입기간 늘어난다?",
-    "link": "https://www.mk.co.kr/news/economy/12208863",
-    "published": "Sat, 14 Nov 2026 14:44:16 +09:00",
-    "fetched_at": "2026-11-14 16:13:22",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [],
-    "keywords": [
-      "국민연금",
-      "사회복지",
-      "출산지원",
-      "군복무",
-      "실업급여"
-    ],
-    "reason": "이 정책은 사회 안전망을 강화하고 특정 계층의 노후 소득 보장을 확대하는 것으로, 전반적인 거시 경제나 금융 시장에 미치는 직접적인 영향은 매우 제한적입니다. 투자 자산의 유의미한 변동을 야기할 요인은 아닙니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Nvidia is done with Jensen Huang. The fallout in Washington is just beginning",
-    "title_ko": "엔비디아, 젠슨 황 CEO와의 결별 임박? 워싱턴발 파장 시작",
-    "link": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-washington-congress.html",
-    "published": "Fri, 13 Nov 2026 23:54:36 GMT",
-    "fetched_at": "2026-11-14 09:06:55",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "반도체",
-      "기술"
-    ],
-    "keywords": [
-      "엔비디아",
-      "젠슨 황",
-      "CEO",
-      "미국 의회",
-      "반도체 규제"
-    ],
-    "reason": "엔비디아 CEO의 사임 또는 해임 가능성은 회사 경영의 불확실성을 증폭시키고 반도체 섹터 전반의 투자 심리를 위축시킬 것입니다. 미 의회의 압박은 향후 기술 규제 강화 및 지정학적 리스크 심화로 이어질 수 있습니다.",
-    "action_point": "엔비디아 및 반도체 섹터 비중 축소 또는 매도 검토"
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Lutnick faces questions over Nvidia spy scandal. His sons’ firm has deep ties to the chipmaker",
-    "title_ko": "루트닉, 엔비디아 스파이 스캔들로 질문에 직면; 그의 아들 회사, 칩 제조업체와 깊은 관계",
-    "link": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
-    "published": "Fri, 13 Nov 2026 18:32:47 GMT",
-    "fetched_at": "2026-11-14 03:57:32",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "반도체",
-      "기술주"
-    ],
-    "keywords": [
-      "엔비디아",
-      "스파이 스캔들",
-      "루트닉",
-      "미국 상무부",
-      "반도체 규제"
-    ],
-    "reason": "엔비디아 CEO의 사임(요약 기반)과 상무부 장관 연루 스파이 스캔들은 반도체 섹터 전반의 투자심리를 위축시키고, 미국 정부의 기술 기업 규제 강화 가능성을 높여 글로벌 공급망 불안정으로 이어질 수 있습니다.",
-    "action_point": "반도체 및 기술주 섹터의 단기적 비중 축소를 검토하고 관련 규제 리스크에 대한 면밀한 모니터링을 강화하십시오."
   }
 ]
