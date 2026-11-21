@@ -2,6 +2,82 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020",
+    "title_ko": "앤트로픽의 기록적 IPO, 2020년 이후 월스트리트 기술주의 최악의 주간과 충돌",
+    "link": "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html",
+    "published": "Sat, 21 Nov 2026 16:40:05 GMT",
+    "fetched_at": "2026-11-22 06:20:36",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "기술",
+      "반도체",
+      "AI"
+    ],
+    "keywords": [
+      "기술주",
+      "엔비디아",
+      "AI",
+      "IPO",
+      "시장 조정"
+    ],
+    "reason": "최근 기술 및 AI 섹터 과열에 대한 시장의 조정 신호로 해석될 수 있습니다. 엔비디아의 장기 하락세는 성장주 전반의 투자심리 위축 가능성을 시사합니다.",
+    "action_point": "AI 및 반도체 섹터 비중 축소 검토"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "COP31 climate summit risks failure as talks go deep into overtime",
+    "title_ko": "COP31 기후 정상회담, 협상 장기화에도 실패 위기 직면",
+    "link": "https://www.cnbc.com/2026/11/21/cop31-climate-summit-risks-failure-as-talks-go-deep-into-overtime.html",
+    "published": "Sat, 21 Nov 2026 20:04:18 GMT",
+    "fetched_at": "2026-11-22 06:20:54",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "신재생에너지",
+      "에너지 (화석연료)",
+      "친환경 기술",
+      "금융",
+      "산업재"
+    ],
+    "keywords": [
+      "COP31",
+      "기후변화",
+      "화석연료",
+      "기후재원",
+      "에너지 전환",
+      "ESG"
+    ],
+    "reason": "기후 정상회담의 합의 실패는 글로벌 에너지 전환 동력 약화 및 화석연료 의존도 유지 가능성을 시사합니다. 이는 장기적으로 관련 산업의 정책 불확실성을 증대시키고 ESG 투자 흐름에 부정적 영향을 미칠 수 있습니다.",
+    "action_point": "신재생에너지 섹터 투자 비중의 보수적 접근을 고려하고, 전통 에너지 기업의 단기적 반사이익 가능성을 점검하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "State and federal battle over prediction markets regulation heats up after midterms",
+    "title_ko": "중간선거 이후 예측 시장 규제를 둘러싼 주(州)와 연방정부의 갈등 고조",
+    "link": "https://www.cnbc.com/2026/11/21/prediction-market-regulation-kalshi-cftc.html",
+    "published": "Sat, 21 Nov 2026 13:12:41 GMT",
+    "fetched_at": "2026-11-22 06:20:44",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "예측 시장",
+      "핀테크"
+    ],
+    "keywords": [
+      "예측 시장",
+      "규제",
+      "중간선거",
+      "미국"
+    ],
+    "reason": "예측 시장 관련 기업들에게는 규제 불확실성 증대로 운영 모델에 영향이 있을 수 있으나, 주요 자산 시장 및 거시 경제에 미치는 직접적인 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "From trash to treasure: Most hated stocks are winning as AI bull market rolls over",
     "title_ko": "쓰레기에서 보물로: AI 강세장이 꺾이면서 가장 외면받던 주식들이 승자가 되고 있다",
     "link": "https://www.cnbc.com/2026/11/21/from-trash-to-treasure-these-hated-stocks-are-winning-as-ai-flounders.html",
@@ -2938,79 +3014,5 @@
     ],
     "reason": "AI 반도체 시장 내 엔비디아의 독점적 지위에 대한 경쟁 심화 가능성을 시사하며, 이는 해당 섹터 전반의 투자 지형 변화 및 시장 재편을 야기할 수 있습니다. 장기적으로는 AI 기술 발전을 가속화할 수 있으나, 단기적으로는 선두 기업에 대한 불확실성을 높입니다.",
     "action_point": "AI 반도체 섹터 내 엔비디아 집중 투자 비중을 점검하고, 경쟁 심화에 따른 새로운 기회 요인 및 포트폴리오 다각화 방안을 모색하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "경기관광공사, 말레이시아 기업 포상관광 유치",
-    "title_ko": "경기관광공사, 말레이시아 기업 포상관광 유치",
-    "link": "https://www.mk.co.kr/news/society/12209845",
-    "published": "Mon, 16 Nov 2026 12:46:19 +09:00",
-    "fetched_at": "2026-11-16 12:52:39",
-    "sentiment": "호재",
-    "importance": 2,
-    "sectors": [
-      "여행/관광",
-      "숙박/레저",
-      "유통"
-    ],
-    "keywords": [
-      "포상관광",
-      "말레이시아",
-      "경기관광공사",
-      "BE International",
-      "소비 확대"
-    ],
-    "reason": "말레이시아 기업의 대규모 포상관광 유치는 경기도 지역 관광 및 숙박, 유통 산업에 긍정적인 영향을 미쳐 국지적인 소비 진작 효과를 가져올 것입니다. 이는 국내 서비스 산업의 부분적인 회복세를 지지하는 요인으로 볼 수 있습니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Stock futures tick higher as traders brace for Nvidia earnings, Anthropic IPO this week: Live updates",
-    "title_ko": "이번 주 엔비디아 실적 발표와 Anthropic IPO를 앞두고 주식 선물 소폭 상승: 실시간 업데이트",
-    "link": "https://www.cnbc.com/2026/11/15/stock-market-today-live-updates.html",
-    "published": "Sun, 15 Nov 2026 23:15:17 GMT",
-    "fetched_at": "2026-11-16 08:16:02",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "반도체",
-      "인공지능(AI)",
-      "기술주"
-    ],
-    "keywords": [
-      "엔비디아 실적",
-      "Anthropic IPO",
-      "기술주 강세",
-      "AI 모멘텀",
-      "주식 선물"
-    ],
-    "reason": "미국 시장은 엔비디아 실적과 Anthropic IPO에 대한 기대감으로 강력한 상승 모멘텀을 보이고 있습니다. 이는 AI 및 기술 섹터에 대한 투자심리를 더욱 강화하여 전반적인 주식 시장의 추가 상승을 견인할 수 있습니다.",
-    "action_point": "엔비디아 실적 발표 결과에 따라 인공지능(AI) 및 반도체 섹터 내 주요 성장주에 대한 투자 비중 확대를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Bessent calls for ‘dramatic shakeup’ at Nvidia, urges outside CEO",
-    "title_ko": "Bessent, 엔비디아의 '극적인 개편'과 외부 CEO 선임을 촉구",
-    "link": "https://www.cnbc.com/2026/11/15/bessent-nvidia-ceo-lutnick-megaspeed.html",
-    "published": "Sun, 15 Nov 2026 18:10:18 GMT",
-    "fetched_at": "2026-11-16 03:13:55",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "반도체",
-      "기술"
-    ],
-    "keywords": [
-      "엔비디아",
-      "반도체",
-      "경영진",
-      "미중 갈등",
-      "칩 우회수출"
-    ],
-    "reason": "엔비디아 경영진 교체 요구와 대중국 반도체 우회 수출 의혹은 미국-중국 기술 갈등을 심화시키고 글로벌 반도체 섹터의 불확실성을 높일 수 있습니다.",
-    "action_point": "엔비디아와 연결된 글로벌 반도체 섹터의 변동성 확대 가능성에 대비하여 관련 투자 비중 축소를 고려하십시오."
   }
 ]
