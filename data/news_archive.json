@@ -1,5 +1,131 @@
 [
   {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "“또또또 터졌다”…‘젠슨 황’ 사임하자 폭로 잇달아, 불륜은 사소한 수준?",
+    "title_ko": "“또또또 터졌다”…‘젠슨 황’ 사임하자 폭로 잇달아, 불륜은 사소한 수준?",
+    "link": "https://www.mk.co.kr/news/world/12215280",
+    "published": "Sat, 21 Nov 2026 16:26:11 +09:00",
+    "fetched_at": "2026-11-21 16:53:04",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "반도체",
+      "기술주",
+      "AI"
+    ],
+    "keywords": [
+      "젠슨 황",
+      "엔비디아",
+      "CEO 사임",
+      "AI 반도체"
+    ],
+    "reason": "젠슨 황 엔비디아 CEO의 사임 소식은 AI 및 반도체 섹터에 막대한 불확실성을 초래하는 중대 악재이나, 현재까지 언론을 통해 공식 확인된 바 없는 허위성 보도로 판단된다.",
+    "action_point": "젠슨 황 엔비디아 CEO 사임 소식은 공식 확인된 바 없는 허위 보도이므로 관련 투자 계획에 반영하지 마라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "An early breakdown in the polar vortex is threatening already depleted gas stocks",
+    "title_ko": "극 소용돌이 조기 붕괴, 이미 고갈된 가스 재고 위협",
+    "link": "https://www.cnbc.com/2026/11/21/polar-vortex-europe-gas-prices.html",
+    "published": "Sat, 21 Nov 2026 06:00:02 GMT",
+    "fetched_at": "2026-11-21 16:52:21",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "화학",
+      "유틸리티",
+      "산업재"
+    ],
+    "keywords": [
+      "극 소용돌이",
+      "천연가스",
+      "유럽",
+      "에너지 위기",
+      "인플레이션"
+    ],
+    "reason": "극 소용돌이의 조기 붕괴로 유럽의 천연가스 재고 부족이 심화되어 가스 가격이 급등할 수 있습니다. 이는 유럽의 인플레이션 압력을 높이고 산업 생산 위축 및 경기 침체 우려를 가중시킬 악재입니다.",
+    "action_point": "유럽의 에너지 가격 상승 압력에 대비하여 에너지 다소비 산업 및 유럽 관련 자산 비중 축소를 검토하라."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "How China is using summits to expand its global influence",
+    "title_ko": "중국이 정상회담을 통해 글로벌 영향력을 확장하는 방법",
+    "link": "https://www.cnbc.com/2026/11/21/china-xi-trump-putin-global-diplomacy-shenzhen.html",
+    "published": "Sat, 21 Nov 2026 06:00:02 GMT",
+    "fetched_at": "2026-11-21 16:52:00",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "지정학",
+      "무역",
+      "원자재"
+    ],
+    "keywords": [
+      "중국",
+      "시진핑",
+      "정상회담",
+      "글로벌 영향력",
+      "지정학"
+    ],
+    "reason": "중국의 외교적 영향력 확대는 장기적인 글로벌 공급망 재편 및 무역 협상 구도 변화로 이어질 수 있으며, 이는 특정 신흥국과의 관계 및 원자재 시장에 미묘한 영향을 줄 수 있습니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Europe's cyber weak spot is the everyday businesses nobody thought to protect",
+    "title_ko": "유럽의 사이버 취약점: 보호받지 못했던 일상 기업들",
+    "link": "https://www.cnbc.com/2026/11/21/cyber-attacks-fridges-cybersecurity.html",
+    "published": "Sat, 21 Nov 2026 06:00:02 GMT",
+    "fetched_at": "2026-11-21 16:52:09",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "사이버 보안",
+      "IT 서비스"
+    ],
+    "keywords": [
+      "사이버 보안",
+      "유럽",
+      "AI",
+      "기업 공격",
+      "취약점"
+    ],
+    "reason": "AI 기술 발전으로 사이버 공격이 고도화되며 유럽의 일반 기업들이 광범위한 취약점에 노출되고 있습니다. 이는 해당 기업들의 운영 리스크와 비용 증가로 이어질 수 있으나, 동시에 사이버 보안 솔루션 기업들의 수요를 크게 증대시킬 것입니다.",
+    "action_point": "사이버 보안 관련 기업의 투자 매력도 재평가 및 포트폴리오 편입 검토"
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[속보] 이재명 대통령 “AI 데이터센터, 지역균형발전 핵심”…울산 SK 건설 현장 점검 - 강원일보",
+    "title_ko": "[속보] 이재명 대통령 “AI 데이터센터, 지역균형발전 핵심”…울산 SK 건설 현장 점검 - 강원일보",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHSEUtM1BHZFdUUGtEUlJSbnl0TG03cUo5ZlRvWHZLSEdoWEJUM1N4Rk5uLTcxdkFnbDFaUzhfeE9kTk1ONGNWWENWa2lGbHB4UHRieXFxTXBkZE0?oc=5",
+    "published": "Sat, 21 Nov 2026 05:30:28 GMT",
+    "fetched_at": "2026-11-21 16:52:33",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "IT 인프라",
+      "데이터센터",
+      "AI",
+      "건설",
+      "전력"
+    ],
+    "keywords": [
+      "이재명",
+      "AI 데이터센터",
+      "지역균형발전",
+      "SK",
+      "울산"
+    ],
+    "reason": "이재명 대표의 AI 데이터센터 강조는 정치권의 해당 산업 육성 의지를 명확히 보여줍니다. 이는 IT 인프라, AI 솔루션, 건설 등 관련 섹터에 대한 투자 기대감을 높이며, 특히 울산 지역 개발에도 긍정적인 신호입니다.",
+    "action_point": "AI 및 데이터센터 관련 IT 인프라, 건설, 전력 섹터 종목 비중 확대를 검토하고, 울산 지역 개발 수혜주를 주시하십시오."
+  },
+  {
     "source": "CNBC_Finance",
     "market": "US",
     "title": "Prediction markets outlook for stocks in 2026 dims amid AI sell-off",
@@ -2897,125 +3023,5 @@
     ],
     "reason": "이 기사는 현재 AI 투자 붐에 대한 과열 경고와 2028년 전후 조정 가능성을 제시하며, 관련 기술주 및 성장주에 대한 장기적 리스크 관리가 필요함을 시사합니다.",
     "action_point": "AI 관련 기술주 및 성장주 포트폴리오의 과열 여부를 재점검하고, 장기적인 관점에서 비중 조절 전략을 수립하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "SpaceX catches upper stage of Starship rocket in historic first",
-    "title_ko": "스페이스X, 스타십 로켓 상단부 포획 성공: 역사적인 첫 성공",
-    "link": "https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html",
-    "published": "Sat, 14 Nov 2026 23:10:14 GMT",
-    "fetched_at": "2026-11-15 08:30:59",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "우주 항공",
-      "방위 산업",
-      "첨단 기술",
-      "위성 통신"
-    ],
-    "keywords": [
-      "SpaceX",
-      "Starship",
-      "우주 기술",
-      "재사용 로켓",
-      "일론 머스크"
-    ],
-    "reason": "이 기술적 진보는 스페이스X의 재사용 로켓 기술 리더십을 강화하고 우주 운송 비용을 획기적으로 낮출 잠재력을 보여줍니다. 이는 우주 경제의 장기적인 성장 가속화에 기여하며 관련 산업 전반에 긍정적 영향을 미칠 것입니다.",
-    "action_point": "우주 항공 및 첨단 기술 섹터 내 혁신 기업의 장기 투자 매력을 재검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "'Root cause’ of nationwide ground stop is unknown, FAA says",
-    "title_ko": "FAA, 미 전역 항공기 운항 중단 '근본 원인' 불명확 발표",
-    "link": "https://www.cnbc.com/2026/11/14/root-cause-of-nationwide-ground-stop-is-unknown-faa-says.html",
-    "published": "Sat, 14 Nov 2026 22:54:47 GMT",
-    "fetched_at": "2026-11-15 08:31:10",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "항공업",
-      "여행 및 관광",
-      "물류 및 운송"
-    ],
-    "keywords": [
-      "FAA",
-      "항공기 운항 중단",
-      "미국",
-      "네트워크 장애"
-    ],
-    "reason": "미국 전역 항공기 운항 중단은 항공 및 여행 산업에 단기적 손실을 야기하며, 물류 및 비즈니스 활동에 일시적 차질을 초래할 수 있습니다. 근본 원인 미확인은 단기적 불확실성을 높입니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home",
-    "title_ko": "에릭 트럼프가 후원하는 로봇 병사 스타트업, 창업주가 주택 구매 위해 회사에서 460만 달러 대출 후 직원 급여 미지급",
-    "link": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
-    "published": "Sat, 14 Nov 2026 12:00:01 GMT",
-    "fetched_at": "2026-11-15 08:30:51",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [],
-    "keywords": [
-      "스타트업",
-      "로봇",
-      "기업 지배구조",
-      "자금 유용"
-    ],
-    "reason": "개별 스타트업의 자금 유용 사례로, 거시 경제나 주요 투자 자산에 미칠 직접적인 영향은 미미합니다. 다만, 벤처 투자의 위험성과 기업 지배구조의 중요성을 상기시키는 사례로 볼 수 있습니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors",
-    "title_ko": "두 주요 투자자, 엔비디아 이사회에 '젠슨 황의 잠재적 복귀' 고려 촉구",
-    "link": "https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html",
-    "published": "Sat, 14 Nov 2026 17:46:06 GMT",
-    "fetched_at": "2026-11-15 04:36:44",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "기술",
-      "반도체",
-      "AI"
-    ],
-    "keywords": [
-      "엔비디아",
-      "젠슨황",
-      "CEO",
-      "리더십",
-      "불확실성",
-      "반도체"
-    ],
-    "reason": "엔비디아 CEO의 리더십 불확실성은 AI 및 반도체 섹터 전반에 투자 심리 위축을 야기하며, 글로벌 기술주 시장에 변동성을 증폭시킬 수 있습니다.",
-    "action_point": "반도체 및 AI 관련 기술주 비중 축소를 검토하고, 시장 변동성 확대에 대비하라."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts",
-    "title_ko": "엔비디아 혼란과 민주당의 의회 장악이 AI 투자를 어떻게 재편할 수 있는가, ETF 전문가 분석",
-    "link": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html",
-    "published": "Sat, 14 Nov 2026 15:50:43 GMT",
-    "fetched_at": "2026-11-15 04:36:34",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "반도체",
-      "인공지능",
-      "빅테크"
-    ],
-    "keywords": [
-      "엔비디아",
-      "AI 투자",
-      "반도체 경쟁",
-      "정치적 영향"
-    ],
-    "reason": "엔비디아의 내부적 혼란과 민주당의 의회 장악 가능성은 AI 관련 자금이 다른 빅테크 기업이나 경쟁 반도체 업체로 분산될 가능성을 시사합니다. 이는 AI 산업 내 투자 비중의 재조정으로 이어질 수 있습니다.",
-    "action_point": "AI 투자 포트폴리오 내 엔비디아 의존도를 낮추고, 빅테크 및 경쟁 반도체 기업으로의 분산 투자 기회 모색"
   }
 ]
