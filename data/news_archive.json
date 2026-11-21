@@ -1,5 +1,55 @@
 [
   {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Prediction markets outlook for stocks in 2026 dims amid AI sell-off",
+    "title_ko": "AI 매도세 속 2026년 주식 시장 전망 어두워져",
+    "link": "https://www.cnbc.com/2026/11/20/sp-500-8000-kalshi-odds-ai-selloff.html",
+    "published": "Fri, 20 Nov 2026 19:59:03 GMT",
+    "fetched_at": "2026-11-21 09:30:26",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "기술주",
+      "성장주",
+      "반도체"
+    ],
+    "keywords": [
+      "AI 매도세",
+      "주식 시장 전망",
+      "S&P 500",
+      "예측 시장",
+      "장기 전망"
+    ],
+    "reason": "예측 시장에서 AI 관련 주식 매도세가 심화되며 2026년 S&P 500의 상승 여력에 대한 비관적인 전망이 확산되고 있습니다. 이는 AI 기술주의 과열론과 향후 성장 동력에 대한 우려를 반영합니다.",
+    "action_point": "AI 관련 고밸류에이션 성장주 비중을 점진적으로 축소하고 포트폴리오 재조정 검토"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Zscaler stock jumps 18% on report that CrowdStrike in talks to buy security vendor",
+    "title_ko": "크라우드스트라이크, 보안 업체 Z스케일러 인수 협상 보도에 Z스케일러 주가 18% 급등",
+    "link": "https://www.cnbc.com/2026/11/20/zscaler-crowdstrike-deal.html",
+    "published": "Fri, 20 Nov 2026 21:35:24 GMT",
+    "fetched_at": "2026-11-21 09:30:51",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "사이버보안",
+      "소프트웨어",
+      "인공지능"
+    ],
+    "keywords": [
+      "Z스케일러",
+      "크라우드스트라이크",
+      "인수합병",
+      "사이버보안",
+      "AI"
+    ],
+    "reason": "사이버보안 분야의 인수합병이 AI 시대의 경쟁력 강화를 위해 활발히 진행되고 있음을 보여줍니다. 이는 해당 섹터 전반의 기업 가치 재평가 및 기술 통합 가속화를 시사합니다.",
+    "action_point": "사이버보안 섹터 내 잠재적 인수합병 대상 기업 및 AI 기술 통합 관련 기업의 투자 매력도 재평가."
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "Trump vows to stop U.S. companies from building data centers abroad, threatens 'tremendous tax'",
@@ -2967,53 +3017,5 @@
     ],
     "reason": "엔비디아의 내부적 혼란과 민주당의 의회 장악 가능성은 AI 관련 자금이 다른 빅테크 기업이나 경쟁 반도체 업체로 분산될 가능성을 시사합니다. 이는 AI 산업 내 투자 비중의 재조정으로 이어질 수 있습니다.",
     "action_point": "AI 투자 포트폴리오 내 엔비디아 의존도를 낮추고, 빅테크 및 경쟁 반도체 기업으로의 분산 투자 기회 모색"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "‘한덕수 석방’ 임박…\"금기선\" \"전쟁\" 탄핵 압박 높이는 민주당 - JTBC",
-    "title_ko": "‘한덕수 석방’ 임박…\"금기선\" \"전쟁\" 탄핵 압박 높이는 민주당",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE14NHcwTkRNVXIwZ2tpUVIxZjM2NjFSbklWVnpXSzFsa09VLWpfZXYxdlZPa0x5RXFhWGRWNmVjeVNlMUxnV2tUUEZfVmJjRUlzaFB1ZQ?oc=5",
-    "published": "Sat, 14 Nov 2026 09:03:00 GMT",
-    "fetched_at": "2026-11-15 04:36:58",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "국내 주식 시장 전반"
-    ],
-    "keywords": [
-      "한덕수",
-      "탄핵",
-      "민주당",
-      "정치 불안",
-      "국내 정치"
-    ],
-    "reason": "총리 탄핵 압박은 국내 정치 불안정을 심화시키고 정책 불확실성을 가중시켜 국내 투자 심리에 부정적인 영향을 미칠 수 있습니다.",
-    "action_point": "국내 정치 불확실성 확대에 따른 국내 증시 변동성 증가 가능성을 고려하여 국내 주식 비중을 보수적으로 관리하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "흔들리는 ‘AI 중앙은행’…젠슨 황 스캔들, 기존 CEO 리스크와 결이 다르다 - 한겨레",
-    "title_ko": "흔들리는 ‘AI 중앙은행’…젠슨 황 스캔들, 기존 CEO 리스크와 결이 다르다",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBHWTZFckI3ZU5jcjhUOUdZNExUc215YjRJdllJR011VVNEdzQ4YWw0c1BKcnBOU3Y1MzJmeWFHdUFDRXZTbHk4R0oydXRCaHlIeDh5R0puNUtzXzBfYUVwVFZRSFUxclk?oc=5",
-    "published": "Sat, 14 Nov 2026 10:21:00 GMT",
-    "fetched_at": "2026-11-14 23:39:42",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "AI",
-      "반도체",
-      "기술"
-    ],
-    "keywords": [
-      "젠슨 황",
-      "엔비디아",
-      "AI",
-      "스캔들",
-      "CEO 리스크"
-    ],
-    "reason": "엔비디아의 젠슨 황 CEO 스캔들은 AI 산업의 핵심 인프라 공급자의 리더십 불확실성을 증폭시켜, 관련 섹터 투자심리에 부정적 영향을 줄 수 있습니다. 이는 AI 기술 성장에 대한 장기적 전망에 대한 재평가로 이어질 가능성이 있습니다.",
-    "action_point": "AI/반도체 섹터 내 엔비디아 및 관련 기업의 투자 비중을 재검토하고, 리스크 관리를 강화하라."
   }
 ]
