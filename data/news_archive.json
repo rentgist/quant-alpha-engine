@@ -1,5 +1,301 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "From trash to treasure: Most hated stocks are winning as AI bull market rolls over",
+    "title_ko": "쓰레기에서 보물로: AI 강세장이 꺾이면서 가장 외면받던 주식들이 승자가 되고 있다",
+    "link": "https://www.cnbc.com/2026/11/21/from-trash-to-treasure-these-hated-stocks-are-winning-as-ai-flounders.html",
+    "published": "Sat, 21 Nov 2026 13:10:40 GMT",
+    "fetched_at": "2026-11-22 00:48:18",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "기술주",
+      "성장주",
+      "필수소비재",
+      "방어주",
+      "가치주"
+    ],
+    "keywords": [
+      "AI",
+      "시장 로테이션",
+      "가치주",
+      "성장주",
+      "소비재",
+      "방어주"
+    ],
+    "reason": "AI 주도의 성장주 강세장이 꺾이고 외면받던 필수 소비재 등 방어적 가치주가 부각되는 시장 로테이션을 시사합니다. 이는 투자 테마 변화와 자본 흐름 재편을 의미합니다.",
+    "action_point": "고평가 성장주 비중 축소를 고려하고 필수 소비재 등 방어적 가치주 비중 확대를 검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "“반도체만 웃는 ‘고장난명’ 한국 경제… AI·복지 새 판 짜야” - 조선일보",
+    "title_ko": "“반도체만 웃는 ‘고장난명’ 한국 경제… AI·복지 새 판 짜야”",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMnJmOVUtNkppRUp4TXZTNURPc2RhZ2hoTkU3UEZza1dJY3dsYkZLQ05rRnoyU2pJS2NvdzFjRE8xMEozRlM0NTFKSjE1SGdPcUoyNFMxMmd1TlBlT0p6MDg3N3dGZ2RIUERqaFBhZEQ2ZmNpWHY2TjlTMXFNd1dpaDVJZXVnQQ?oc=5",
+    "published": "Fri, 20 Nov 2026 18:09:09 GMT",
+    "fetched_at": "2026-11-22 00:48:28",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "반도체",
+      "IT 서비스/소프트웨어",
+      "경기민감주"
+    ],
+    "keywords": [
+      "반도체",
+      "한국 경제 불균형",
+      "AI 정책"
+    ],
+    "reason": "한국 경제의 반도체 편중 성장이 심화되어 구조적 불균형을 드러내며, AI 및 복지 등 정책적 개입을 통한 신성장 동력 확보의 필요성을 강조한다. 이는 장기적으로 국내 산업 구조 및 투자 섹터 재편에 영향을 미칠 수 있다.",
+    "action_point": "반도체 섹터 비중 조절을 검토하고, AI 및 신성장 동력 관련 국내외 투자 기회를 발굴하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "개미들 덮친 170조 폭탄…패닉셀 부른 '숨은 리스크' 있었다 - 한국경제",
+    "title_ko": "개미들 덮친 170조 폭탄…패닉셀 부른 '숨은 리스크' 있었다 - 한국경제",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Rc0lWeW0tYlVtSDVBWk9HejVJWG0zUlp2eGxLQnZ6ZzZiRERZUUJaNVNxOFRfNmY3Rll5N2VlSTRqUF8zendtX01uQTJVT3J3SWh4cS1aRS1MUQ?oc=5",
+    "published": "Sat, 21 Nov 2026 10:32:22 GMT",
+    "fetched_at": "2026-11-22 00:48:59",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "증권",
+      "성장주"
+    ],
+    "keywords": [
+      "개미",
+      "패닉셀",
+      "숨은 리스크",
+      "시장 불안"
+    ],
+    "reason": "170조원 규모의 '숨은 리스크'가 촉발한 패닉셀은 국내 시장의 투자 심리 위축을 심화시키고, 특히 개인 투자자 비중이 높은 자산군에서 추가적인 매도 압력을 유발할 수 있습니다.",
+    "action_point": "개인 투자자 비중이 높은 고위험/고성장 자산에 대한 포트폴리오 비중 축소 검토 및 시장 변동성 확대에 대비하십시오."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[속보]트럼프 \"美 기업, 해외 데이터센터 건설 금지\" - 파이낸셜뉴스",
+    "title_ko": "[속보]트럼프 \"美 기업, 해외 데이터센터 건설 금지\" - 파이낸셜뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfSGI3eW9RYUFrRDk0bW1YV0RnLU9ZcjFkOG12OFZHbDJQRHpONUNMU0dKOUFXdEpVRGtiQl9QVGUtV3BJcF92aFE3eTZRQnl1NmpqRm55Zl9oQQ?oc=5",
+    "published": "Sat, 21 Nov 2026 10:22:39 GMT",
+    "fetched_at": "2026-11-22 00:49:20",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "기술",
+      "반도체",
+      "클라우드 컴퓨팅",
+      "건설",
+      "통신"
+    ],
+    "keywords": [
+      "트럼프",
+      "미국 기업",
+      "데이터센터",
+      "해외 건설 금지",
+      "보호무역주의"
+    ],
+    "reason": "트럼프의 정책은 미국 기업의 해외 데이터센터 구축을 제한하여 글로벌 IT 인프라 확장에 차질을 빚을 수 있습니다. 이는 관련 기술 기업의 투자 비용 증가 및 사업 불확실성을 높이는 악재로 작용할 수 있습니다.",
+    "action_point": "미국 데이터센터 관련 기술 및 부품 공급망에 연루된 국내 기업들의 실적 변화를 면밀히 분석하고, 보호무역주의 확대 가능성에 대비한 포트폴리오 조정을 고려하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Tech outages are fueling a new doomsday economy",
+    "title_ko": "기술 시스템 장애가 '종말 대비 경제'를 부추긴다",
+    "link": "https://www.cnbc.com/2026/11/21/emergency-prep-spending-tech-outages.html",
+    "published": "Sat, 21 Nov 2026 15:04:56 GMT",
+    "fetched_at": "2026-11-22 00:47:45",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "사이버 보안",
+      "국방",
+      "에너지 인프라",
+      "비상 대비 용품",
+      "귀금속"
+    ],
+    "keywords": [
+      "기술 장애",
+      "인공지능 사이버 공격",
+      "전력망",
+      "종말 대비 경제",
+      "시스템 리스크"
+    ],
+    "reason": "기술 시스템 장애와 AI 기반 사이버 공격에 대한 우려가 확산되며 미국 전력망과 같은 핵심 인프라의 취약성이 부각되고 있다. 이는 비상 대비 관련 산업의 성장을 촉진하는 동시에 시장 전반의 시스템 리스크 인식을 높일 수 있다.",
+    "action_point": "사이버 보안 및 비상 대비 관련 섹터의 투자 비중을 확대하는 방안을 검토하고, 전반적인 포트폴리오의 리스크 헤지 전략을 강화하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "쏘렌토값에도 이젠 중국차?…한국서 누가 샀나, 돈없는 2030 오빠 아닌 4050 아빠 [최기성의 허브車]",
+    "title_ko": "쏘렌토값에도 이젠 중국차?…한국서 누가 샀나, 돈없는 2030 오빠 아닌 4050 아빠 [최기성의 허브車]",
+    "link": "https://www.mk.co.kr/news/business/12215344",
+    "published": "Sat, 21 Nov 2026 21:28:45 +09:00",
+    "fetched_at": "2026-11-22 00:49:40",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "자동차",
+      "2차전지"
+    ],
+    "keywords": [
+      "중국차",
+      "전기차",
+      "BYD",
+      "국내 자동차 시장",
+      "경쟁 심화"
+    ],
+    "reason": "중국 전기차가 국내 시장에서 중고가 라인업까지 점유율을 확대하며 국내 완성차 업체들의 경쟁 심화 및 실적 악화 우려를 키우고, 자동차 부품 및 2차전지 섹터에도 간접적인 악영향을 미칠 수 있다.",
+    "action_point": "국내 자동차 및 부품, 2차전지 섹터 비중 축소 또는 보유 비중 재검토."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "International first class is over for U.S. airlines. Enter the mega business-class cabin",
+    "title_ko": "미국 항공사, 국제선 퍼스트 클래스 시대 저물고 거대 비즈니스 클래스 캐빈 등장",
+    "link": "https://www.cnbc.com/2026/11/21/us-airlines-first-class-business-class.html",
+    "published": "Sat, 21 Nov 2026 12:00:01 GMT",
+    "fetched_at": "2026-11-22 00:48:00",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "항공"
+    ],
+    "keywords": [
+      "항공사",
+      "비즈니스 클래스",
+      "퍼스트 클래스",
+      "프리미엄 좌석"
+    ],
+    "reason": "미국 항공사들이 국제선 퍼스트 클래스를 축소하고 비즈니스 클래스 좌석을 강화하여 수익성을 개선하고 프리미엄 고객 유치에 집중하는 전략 변화를 보여준다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "An ‘illusion of glitz and glamour’: Inside California’s modern-day gold rush, where miners can bring in millions",
+    "title_ko": "“화려함 뒤의 환상”: 수백만 달러를 벌 수 있는 캘리포니아 현대판 골드러시 현장",
+    "link": "https://www.cnbc.com/make-it/2026/11/21/california-mining-modern-gold-rush.html",
+    "published": "Sat, 21 Nov 2026 14:05:40 GMT",
+    "fetched_at": "2026-11-22 00:48:10",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "귀금속",
+      "광업"
+    ],
+    "keywords": [
+      "금",
+      "골드러시",
+      "캘리포니아",
+      "귀금속",
+      "안전자산"
+    ],
+    "reason": "높은 금 가격이 캘리포니아에서 소규모 골드러시를 촉발했다는 뉴스로, 인플레이션 헤지 및 안전자산으로서의 금 수요가 지속되고 있음을 간접적으로 시사한다.",
+    "action_point": "인플레이션 헤지 및 안전자산 관점에서 금 관련 자산 보유를 유지한다."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "구례 경제 핵심 '자연드림파크' 운영 위기…공방 가동 중단 - KBC광주방송",
+    "title_ko": "구례 경제 핵심 '자연드림파크' 운영 위기…공방 가동 중단",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90ZW5QWjZoRkVGajNMSUZaUnVBRTYtQ0wzdkY0ZVFzTlk4NFhHYjBqcHhXbTEtY1FFWVJwVVhVZnV5ZDNDSFM1bHNnLS1DMUV1RWRCOWlzY0xNT1E4T2RDcQ?oc=5",
+    "published": "Sat, 21 Nov 2026 12:10:16 GMT",
+    "fetched_at": "2026-11-22 00:48:36",
+    "sentiment": "악재",
+    "importance": 2,
+    "sectors": [
+      "지역 경제",
+      "식품/유통",
+      "부동산"
+    ],
+    "keywords": [
+      "구례",
+      "자연드림파크",
+      "운영 위기",
+      "지역 경제",
+      "고용"
+    ],
+    "reason": "구례 지역 경제의 핵심 기반 시설인 '자연드림파크'의 운영 중단은 해당 지역의 고용과 소비에 부정적 영향을 미쳐 지역 경제 침체를 야기할 수 있습니다. 다만, 국내 전체 거시경제 및 금융시장에 미치는 영향은 제한적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[속보] 코레일 \"22일 첫차부터 경부선 일반열차 운행 재개\" - 연합뉴스TV",
+    "title_ko": "[속보] 코레일 \"22일 첫차부터 경부선 일반열차 운행 재개\" - 연합뉴스TV",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qaXJVTWVVR0VlLUVDczVQVERVN0NvRDNtb3ItU2REV3ZiWUR4TEV1M2pvOUhnZlF5RGQ4TndEVDdpc3ZsMVRWbWFGWFVOeENWY2dmc29MWVYzSFhOempwUWFfakJuYVk?oc=5",
+    "published": "Sat, 21 Nov 2026 10:43:00 GMT",
+    "fetched_at": "2026-11-22 00:48:49",
+    "sentiment": "호재",
+    "importance": 2,
+    "sectors": [
+      "운송",
+      "물류",
+      "유통"
+    ],
+    "keywords": [
+      "코레일",
+      "경부선",
+      "열차 운행 재개",
+      "교통",
+      "물류"
+    ],
+    "reason": "경부선 일반열차 운행 재개는 물류 및 여객 운송 정상화에 기여하며, 관련 산업의 불확실성을 해소하고 경제 활동을 지원합니다. 이는 물류비용 안정화 및 소비자 이동성 회복에 긍정적입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[속보]코레일 “22일 첫차부터 경부선 일반열차 운행 정상화” - 경향신문",
+    "title_ko": "[속보]코레일 “22일 첫차부터 경부선 일반열차 운행 정상화”",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XMW45OU4xdUZzSXhoczRHemhZRFR6YUViZ3NseUpnN0ZzOEcwcE5xZmRTWDB3c245bjlUelFQSVRoU3lpbm9vUS1yZi1sNEpkZzZwLXlFX3lEd9IBX0FVX3lxTE1QYXR6XzJSSWRPUjIwUnAtdlBxV3U2bl9vOXA2MUI1YXh0bmRiMEQwYkJ2NTVtc3JxV2RiMzZvZDQ3NDJtaUFHdlFaREhJMlh6MW1ZUDFiQWJLUWtGUGJV?oc=5",
+    "published": "Sat, 21 Nov 2026 10:47:00 GMT",
+    "fetched_at": "2026-11-22 00:49:12",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "운송",
+      "물류"
+    ],
+    "keywords": [
+      "코레일",
+      "경부선",
+      "열차 운행",
+      "정상화"
+    ],
+    "reason": "경부선 일반열차 운행 정상화는 기존의 교통 불편 해소 및 물류 흐름 개선에 기여하나, 그 영향은 제한적이며 거시 경제나 주요 투자 자산 전반에 미치는 파급력은 미미합니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "“사실상 지금이 홍콩 여행하기 가장 좋은 시절” 홍콩 LCC의 달콤한 구애 [여행人터뷰]",
+    "title_ko": "“사실상 지금이 홍콩 여행하기 가장 좋은 시절” 홍콩 LCC의 달콤한 구애 [여행人터뷰]",
+    "link": "https://www.mk.co.kr/news/business/12215341",
+    "published": "Sat, 21 Nov 2026 20:44:29 +09:00",
+    "fetched_at": "2026-11-22 00:49:53",
+    "sentiment": "호재",
+    "importance": 2,
+    "sectors": [
+      "항공",
+      "여행",
+      "면세점"
+    ],
+    "keywords": [
+      "홍콩",
+      "항공",
+      "여행",
+      "LCC",
+      "관광"
+    ],
+    "reason": "홍콩 LCC CEO의 인터뷰는 한국-홍콩 노선의 견조한 회복세와 겨울 시즌 수요 기대를 보여주며, 글로벌 관광 및 항공 산업의 긍정적인 추세를 뒷받침합니다.",
+    "action_point": "여행 및 항공 섹터 비중 유지 또는 확대 검토"
+  },
+  {
     "source": "Maeil_Business",
     "market": "KR",
     "title": "“또또또 터졌다”…‘젠슨 황’ 사임하자 폭로 잇달아, 불륜은 사소한 수준?",
@@ -2716,312 +3012,5 @@
     ],
     "reason": "엔비디아 경영진 교체 요구와 대중국 반도체 우회 수출 의혹은 미국-중국 기술 갈등을 심화시키고 글로벌 반도체 섹터의 불확실성을 높일 수 있습니다.",
     "action_point": "엔비디아와 연결된 글로벌 반도체 섹터의 변동성 확대 가능성에 대비하여 관련 투자 비중 축소를 고려하십시오."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Anthropic’s IPO lands as the embattled AI trade looks for a much-needed bright spot",
-    "title_ko": "Anthropic IPO 성사, 난항 겪던 AI 섹터에 한줄기 희망",
-    "link": "https://www.cnbc.com/2026/11/15/anthropic-ipo-is-make-or-break-for-the-technology-industry.html",
-    "published": "Sun, 15 Nov 2026 12:00:01 GMT",
-    "fetched_at": "2026-11-16 03:14:01",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "기술",
-      "AI",
-      "벤처캐피탈"
-    ],
-    "keywords": [
-      "Anthropic",
-      "IPO",
-      "AI",
-      "기술주",
-      "투자심리"
-    ],
-    "reason": "Anthropic의 성공적인 IPO는 침체되었던 AI 섹터 투자심리를 회복시키고, 관련 기술주 전반에 긍정적인 모멘텀을 제공할 수 있습니다.",
-    "action_point": "AI 관련 기술주에 대한 투자 비중 확대를 검토하십시오."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "\"AI금융 무산·피지컬 AI 후퇴 위기\"…'젠슨 황 복귀론' 확산 - 한국경제",
-    "title_ko": "AI금융 무산·피지컬 AI 후퇴 위기\"…'젠슨 황 복귀론' 확산 - 한국경제",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aT21KaEs3aU9RQ3N2Q1hrZ08xNnpxWmROS0dhaHprNW84S2pyTkp6M0ZycVlwTTJjVVE2RmEtSW1TdGFYZjh0RGhITnFIOW5XcGtzVXhwem1jZw?oc=5",
-    "published": "Sun, 15 Nov 2026 16:05:00 GMT",
-    "fetched_at": "2026-11-16 03:14:33",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "인공지능",
-      "반도체",
-      "소프트웨어",
-      "금융",
-      "로봇"
-    ],
-    "keywords": [
-      "AI금융",
-      "피지컬 AI",
-      "젠슨 황",
-      "엔비디아",
-      "인공지능",
-      "기술 혁신"
-    ],
-    "reason": "AI 금융 및 피지컬 AI 분야의 실질적 구현에 대한 우려가 확산되며, 일부 AI 기술의 상업화 속도 및 난이도에 대한 시장의 기대를 조정할 수 있습니다. 이는 AI 기술 개발 및 적용에 대한 현실적인 시각을 요구하게 만들 것입니다.",
-    "action_point": "고위험 AI 신기술 및 관련 초기 기업 투자 비중 축소를 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "해외 화석연료 사업에 37조원 쓴 한국, 국제 기후재원엔 7조원 - 경향신문",
-    "title_ko": "해외 화석연료 사업에 37조원 쓴 한국, 국제 기후재원엔 7조원",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BSC1JcVNLdUtzdkdjVS1oQ0pBQjN4SUtQeVkyM1NxbzAwQnN6QnlwTEwxQWpPY2tXd1dQZDE4UDRta21pdVBpN0hBVGMwWnppdV8zLWotczlaUdIBX0FVX3lxTFBKVFlTd0JDZ3piNlo3TzRzZXduVjMtdmdqUy1MbF82b09xb2dralZRd296NmlRclJWR2o0aVhZTzVKVWhCNXcwa0pKLXU0V0hPOHJ1TVJyYXI4NEtWendN?oc=5",
-    "published": "Sun, 15 Nov 2026 12:24:00 GMT",
-    "fetched_at": "2026-11-16 03:14:43",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "에너지",
-      "금융",
-      "건설/인프라",
-      "조선/중공업"
-    ],
-    "keywords": [
-      "화석연료",
-      "기후재원",
-      "ESG",
-      "에너지 전환",
-      "해외투자",
-      "탄소중립"
-    ],
-    "reason": "이 기사는 한국의 해외 화석연료 투자 규모와 국제 기후재원 기여의 불균형을 지적하며, 향후 ESG 압력 강화 및 에너지 전환 가속화의 필요성을 시사합니다. 이는 장기적으로 관련 산업의 투자 방향 및 금융 시장의 자본 배분에 영향을 미칠 수 있습니다.",
-    "action_point": "화석연료 관련 기업 및 프로젝트 투자 시 ESG 리스크를 면밀히 검토하고, 친환경 에너지 섹터 투자 기회를 모색하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "돈냄새 귀신인 글로벌 큰손들…엔비디아 판 돈으로 인텔·하닉ADR 샀다",
-    "title_ko": "돈냄새 귀신인 글로벌 큰손들…엔비디아 판 돈으로 인텔·하닉ADR 샀다",
-    "link": "https://www.mk.co.kr/news/stock/12209538",
-    "published": "Sun, 15 Nov 2026 23:05:17 +09:00",
-    "fetched_at": "2026-11-16 03:15:05",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "반도체",
-      "기술주",
-      "원자재",
-      "채권"
-    ],
-    "keywords": [
-      "글로벌 큰손",
-      "포트폴리오 리밸런싱",
-      "반도체",
-      "금",
-      "장기채",
-      "차익실현"
-    ],
-    "reason": "글로벌 기관 투자자들이 고성장 기술주에서 차익 실현 후, 상대적으로 저평가된 반도체/메모리 섹터 및 안전자산(금)과 장기채로 포트폴리오를 재편하는 움직임을 보인다. 이는 향후 시장 주도주의 변화와 금리 인하 기대감 반영으로 해석될 수 있다.",
-    "action_point": "고평가된 성장주 비중을 줄이고 반도체 내 저평가 가치주 및 금, 장기채 등 방어 자산 편입을 고려하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Trump breaks silence about FAA nationwide ground stop, blames Biden administration",
-    "title_ko": "트럼프, FAA 전국 운항 중단 사태에 침묵 깨고 바이든 행정부 비난",
-    "link": "https://www.cnbc.com/2026/11/15/trump-breaks-silence-on-faa-nationwide-ground-stop-blames-biden-.html",
-    "published": "Sun, 15 Nov 2026 16:56:40 GMT",
-    "fetched_at": "2026-11-16 03:14:13",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "항공",
-      "여행 및 레저"
-    ],
-    "keywords": [
-      "트럼프",
-      "바이든 행정부",
-      "FAA",
-      "항공 운항 중단",
-      "항공 인프라",
-      "정치적 논쟁"
-    ],
-    "reason": "미국 전역의 항공 운항 중단 사태는 노후화된 인프라 문제를 부각시키며, 다가올 선거를 앞두고 바이든 행정부에 대한 정치적 비난으로 이어질 수 있습니다. 이는 항공 관련 산업에 단기적 영향을 미칠 수 있으나, 전반적인 거시 경제 펀더멘털이나 글로벌 시장 추세에는 제한적인 영향을 미칠 것으로 보입니다.",
-    "action_point": "미국 항공 및 관련 여행 섹터에 대한 단기적 영향 분석 외에는 전반적인 포트폴리오에 해당 없음."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Bahrain intercepts Iranian aerial attacks as Tehran says it attacked US base",
-    "title_ko": "바레인, 이란의 공중 공격 요격... 이란은 미군 기지 공격 주장",
-    "link": "https://www.cnbc.com/2026/11/15/bahrain-iran-drone-attacks-tehran-us-base.html",
-    "published": "Sun, 15 Nov 2026 10:00:42 GMT",
-    "fetched_at": "2026-11-15 20:39:58",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "방산",
-      "금융"
-    ],
-    "keywords": [
-      "이란",
-      "바레인",
-      "미군",
-      "지정학",
-      "중동",
-      "유가"
-    ],
-    "reason": "이란의 미군 기지 공격 주장과 바레인의 이란 공격 요격은 중동 지역의 지정학적 긴장을 급격히 고조시킵니다. 이는 글로벌 안보 불확실성을 증폭시키고 유가 상승 압력을 가하며 위험 자산 회피 심리를 강화할 수 있습니다.",
-    "action_point": "중동 지정학적 리스크 확대로 인한 유가 변동성 및 안전자산 선호 강화에 대비하여 에너지 섹터 비중을 재점검하고 방어적 포트폴리오 구축을 고려하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Megaspeed says Alice Huang left in 2025 as it launches internal probe into reports about its business",
-    "title_ko": "메가스피드, 앨리스 황의 2025년 퇴사 발표 및 사업 보고서 관련 내부 조사 착수",
-    "link": "https://www.cnbc.com/2026/11/15/megaspeed-alice-huang-probe-nvidia-scandal.html",
-    "published": "Sun, 15 Nov 2026 08:34:46 GMT",
-    "fetched_at": "2026-11-15 20:39:49",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "클라우드 컴퓨팅",
-      "IT 서비스"
-    ],
-    "keywords": [
-      "메가스피드",
-      "내부 조사",
-      "기업 지배구조",
-      "클라우드 컴퓨팅"
-    ],
-    "reason": "클라우드 컴퓨팅 기업 메가스피드의 내부 조사는 기업 지배구조 및 운영 투명성에 대한 우려를 높여 해당 기업과 관련 IT 섹터의 투자심리에 부정적 영향을 미칠 수 있습니다.",
-    "action_point": "클라우드 컴퓨팅 및 IT 서비스 섹터 내 투자 기업의 지배구조 리스크를 점검하십시오."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "승조원 '0명'… HD현대, 600t급 자율수상함 띄웠다",
-    "title_ko": "승조원 '0명'… HD현대, 600t급 자율수상함 띄웠다",
-    "link": "https://www.mk.co.kr/news/economy/12209481",
-    "published": "Sun, 15 Nov 2026 19:04:49 +09:00",
-    "fetched_at": "2026-11-15 20:40:41",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "조선",
-      "방산",
-      "기술"
-    ],
-    "keywords": [
-      "HD현대",
-      "자율운항",
-      "무인함정",
-      "방산",
-      "조선"
-    ],
-    "reason": "HD현대의 자율운항 기술 선도력을 보여주며 무인 함정 시장 진출 가능성을 시사, 조선 및 방산 부문의 미래 성장 동력 확보에 긍정적입니다.",
-    "action_point": "HD현대 및 국내 방산·조선 섹터 비중 확대 검토"
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "테러도 해킹도 아닌데 9·11수준 재앙…미국 항공편 셧다운 대체 왜",
-    "title_ko": "테러도 해킹도 아닌데 9·11수준 재앙…미국 항공편 셧다운 대체 왜",
-    "link": "https://www.mk.co.kr/news/world/12209478",
-    "published": "Sun, 15 Nov 2026 18:51:30 +09:00",
-    "fetched_at": "2026-11-15 20:41:00",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "항공",
-      "여행",
-      "물류"
-    ],
-    "keywords": [
-      "미국 항공",
-      "운항 중단",
-      "네트워크 장애",
-      "결항",
-      "항공산업"
-    ],
-    "reason": "미국 전역의 항공편 운항 중단은 여행 및 물류 산업에 직접적인 단기 손실을 초래하고 경제 활동에 일시적 차질을 빚게 하지만, 원인이 기술적 문제로 파악되어 거시경제 전반의 시스템 리스크로 확대될 가능성은 낮습니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "문화유산·개발 충돌, 7개월 만에 해법…도쿄의 절충 행정",
-    "title_ko": "문화유산·개발 충돌, 7개월 만에 해법…도쿄의 절충 행정",
-    "link": "https://www.mk.co.kr/news/realestate/12209501",
-    "published": "Sun, 15 Nov 2026 19:45:16 +09:00",
-    "fetched_at": "2026-11-15 20:40:26",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "건설",
-      "부동산"
-    ],
-    "keywords": [
-      "문화유산",
-      "도시 개발",
-      "도쿄",
-      "행정 효율",
-      "부동산"
-    ],
-    "reason": "도쿄의 대규모 도시 개발 프로젝트에서 문화유산 보존과 개발 간의 갈등이 행정적 절충을 통해 해소된 사례이다. 특정 프로젝트의 진행에는 긍정적이나, 대한민국 자산가의 포트폴리오에 직접적인 영향을 미칠 거시경제적 요인은 아니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "요즘 2030 ‘오럴뷰티’에 푹 빠졌다…“썸타던 사이, 입 벌리면 확 깨요”",
-    "title_ko": "요즘 2030 ‘오럴뷰티’에 푹 빠졌다…“썸타던 사이, 입 벌리면 확 깨요”",
-    "link": "https://www.mk.co.kr/news/business/12209482",
-    "published": "Sun, 15 Nov 2026 19:05:15 +09:00",
-    "fetched_at": "2026-11-15 20:40:33",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "소비재",
-      "생활용품",
-      "유통"
-    ],
-    "keywords": [
-      "오럴뷰티",
-      "2030세대",
-      "소비 트렌드",
-      "치아미백",
-      "애경",
-      "LG생활건강"
-    ],
-    "reason": "2030세대의 구강 미용 소비 트렌드 확산으로 관련 생활용품 및 미용 기업의 매출 성장이 예상되나, 거시 경제 전반에 미치는 영향은 제한적이다.",
-    "action_point": "국내 구강 위생 및 미용 관련 소비재 기업의 실적 추이 주시."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "\"AI 투자붐, 2028년 전후 조정 가능성…韓 경제도 대비해야\" - 연합뉴스",
-    "title_ko": "AI 투자붐, 2028년 전후 조정 가능성…韓 경제도 대비해야",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wckhvb05jQ3J4Zm52ZWVqNlJOVkNmZ1NKMWpkLWhZMk5oQXFXY0paZ2hTQmtYQjBxX0lPNlhlU3ZTU1hQWW5mWHlWcWtGN0lOYmw3VldsX3RTZno0Mm4yU9IBYEFVX3lxTE1wckhvb05jQ3J4Zm52ZWVqNlJOVkNmZ1NKMWpkLWhZMk5oQXFXY0paZ2hTQmtYQjBxX0lPNlhlU3ZTU1hQWW5mWHlWcWtGN0lOYmw3VldsX3RTZno0Mm4yUw?oc=5",
-    "published": "Sun, 15 Nov 2026 02:00:02 GMT",
-    "fetched_at": "2026-11-15 12:51:56",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "기술",
-      "반도체",
-      "소프트웨어",
-      "IT서비스"
-    ],
-    "keywords": [
-      "AI 투자붐",
-      "기술주",
-      "성장주",
-      "조정 가능성",
-      "한국 경제"
-    ],
-    "reason": "이 기사는 현재 AI 투자 붐에 대한 과열 경고와 2028년 전후 조정 가능성을 제시하며, 관련 기술주 및 성장주에 대한 장기적 리스크 관리가 필요함을 시사합니다.",
-    "action_point": "AI 관련 기술주 및 성장주 포트폴리오의 과열 여부를 재점검하고, 장기적인 관점에서 비중 조절 전략을 수립하라."
   }
 ]
