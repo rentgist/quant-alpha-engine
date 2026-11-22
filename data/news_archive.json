@@ -1,5 +1,54 @@
 [
   {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "총수가 재판에 묶인 사이 ‘AI시대’…4년 멈춘 카카오, 성장시계 다시 돈다",
+    "title_ko": "총수가 재판에 묶인 사이 ‘AI시대’…4년 멈춘 카카오, 성장시계 다시 돈다",
+    "link": "https://www.mk.co.kr/news/it/12215785",
+    "published": "Mon, 23 Nov 2026 07:52:04 +09:00",
+    "fetched_at": "2026-11-23 07:59:07",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "기술/플랫폼",
+      "금융",
+      "미디어/엔터테인먼트"
+    ],
+    "keywords": [
+      "카카오",
+      "김범수",
+      "경영정상화",
+      "AI",
+      "M&A"
+    ],
+    "reason": "카카오 총수의 사법 리스크 해소로 경영 불확실성이 제거되어, AI 및 신사업 분야의 지연되었던 투자와 M&A가 활발해지며 기업 가치 제고에 긍정적으로 작용할 것입니다.",
+    "action_point": "카카오 및 연관 자회사(카카오뱅크, 카카오페이, 카카오게임즈 등) 관련 주식 비중 확대 검토."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
+    "title_ko": "에릭 트럼프 지원 로봇 스타트업, 현금 부족 심화로 직원 건강 보험 상실",
+    "link": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
+    "published": "Sun, 22 Nov 2026 18:55:05 GMT",
+    "fetched_at": "2026-11-23 07:58:58",
+    "sentiment": "악재",
+    "importance": 2,
+    "sectors": [
+      "로봇",
+      "벤처캐피탈",
+      "기술"
+    ],
+    "keywords": [
+      "로봇 스타트업",
+      "현금난",
+      "벤처 투자",
+      "자금 조달"
+    ],
+    "reason": "특정 로봇 스타트업의 자금난 심화 소식은 고금리 환경에서 초기 단계 기술 기업의 자금 조달 어려움을 반영하며, 벤처 투자 시장의 신중한 분위기를 시사합니다. 한국 투자자의 해외 벤처 투자 리스크를 간접적으로 보여줍니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "GoogleNews_Korea",
     "market": "KR",
     "title": "\"'엔비디아 사태', 휴전 두달 남은 美中 무역전쟁 재점화할수도\" - 연합뉴스",
@@ -2973,56 +3022,5 @@
     ],
     "reason": "마이크로소프트의 새로운 AI 협업 플랫폼 출시는 기업의 AI 도입을 가속화하고 생산성 향상에 기여하여 관련 소프트웨어 및 AI 서비스 시장 성장을 견인할 것입니다. 이는 AI 기술의 실질적인 적용 확대를 의미합니다.",
     "action_point": "AI 관련 소프트웨어 및 클라우드 서비스 제공 기업 비중 확대 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Skydance names film chiefs for Paramount, Warner Bros labels",
-    "title_ko": "스카이댄스, 파라마운트 및 워너 브라더스 영화 부문 책임자 임명",
-    "link": "https://www.cnbc.com/2026/11/17/skydance-film-chief-paramount-warner-bros.html",
-    "published": "Tue, 17 Nov 2026 21:20:31 GMT",
-    "fetched_at": "2026-11-18 07:03:57",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "미디어",
-      "엔터테인먼트"
-    ],
-    "keywords": [
-      "스카이댄스",
-      "파라마운트",
-      "워너 브라더스",
-      "영화",
-      "인사"
-    ],
-    "reason": "이 뉴스는 미디어 및 엔터테인먼트 산업 내 특정 기업의 경영진 인사 이동으로, 해당 기업들의 영화 사업 전략 방향에 미칠 수 있는 영향은 있으나 거시경제적 파급력은 매우 제한적입니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "U.S. companies from Nvidia to Apple face a growing China dilemma",
-    "title_ko": "엔비디아부터 애플까지 미국 기업들, 커지는 중국 딜레마 직면",
-    "link": "https://www.cnbc.com/2026/11/17/us-tech-firms-china-ties-political-pressure.html",
-    "published": "Tue, 17 Nov 2026 08:52:45 GMT",
-    "fetched_at": "2026-11-17 22:59:24",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "기술",
-      "반도체",
-      "제조업",
-      "소비재"
-    ],
-    "keywords": [
-      "미중 갈등",
-      "기술 규제",
-      "공급망",
-      "수출 통제",
-      "엔비디아",
-      "애플"
-    ],
-    "reason": "미중 기술 경쟁 심화로 미국 기업들의 중국 시장 접근이 어려워지고, 이는 글로벌 공급망 재편 및 관련 기업들의 수익성 악화로 이어질 수 있습니다. 특히 기술 섹터의 불확실성이 증대될 것입니다.",
-    "action_point": "미국-중국 무역 갈등에 민감한 기술 및 제조 섹터의 고위험 종목 비중을 축소하고 포트폴리오 다각화를 검토."
   }
 ]
