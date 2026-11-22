@@ -2,6 +2,304 @@
   {
     "source": "GoogleNews_Korea",
     "market": "KR",
+    "title": "중 관영매체 “비관론자는 늘 틀렸다” 경제 우려 적극 반박…온라인에서는 냉소도 - 경향신문",
+    "title_ko": "중 관영매체 “비관론자는 늘 틀렸다” 경제 우려 적극 반박…온라인에서는 냉소도",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnbFk0TzVzajhiRTVYSEFVbHlXa3ptcDRGQ3hLRHZwMklMVVlLbWdBYmhMMFV3VVo5WFhNbGJta2d2VFhyZlp4N1o3dHZtZEVyamd1YWtzV1laZ9IBX0FVX3lxTE1YaGhhS0hQSGNsYTNnT0o2UFllNkVfSEFUTzQwWjcxQ2dTb2gzWUNyaHJUMDhrRDg1NFEtMk5FT3E4bkE1Wk9GTXc2TGZJWlZuSzFZUjlDdkNHcWJqcHpJ?oc=5",
+    "published": "Sun, 22 Nov 2026 06:53:00 GMT",
+    "fetched_at": "2026-11-22 18:04:04",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "수출주",
+      "원자재",
+      "산업재",
+      "반도체",
+      "화학"
+    ],
+    "keywords": [
+      "중국 경제",
+      "경기 둔화",
+      "관영 매체",
+      "투자 심리",
+      "세계 경제"
+    ],
+    "reason": "중국 관영 매체가 경제 비관론을 적극 반박하는 것은 그만큼 경제적 불확실성이 크다는 방증이며, 온라인에서의 냉소는 이러한 정부의 노력이 시장의 실제 우려를 해소하지 못하고 있음을 시사한다. 이는 중국 관련 투자 심리 개선에 한계가 있음을 의미한다.",
+    "action_point": "중국 경제 불확실성이 지속됨에 따라 대중국 수출 비중이 높은 기업에 대한 투자 비중 축소 또는 보수적 접근 유지."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "경제부총리 오늘 ‘긴급 F4회의’ 소집…국내 증시 안정 대책 논의 - KBS 뉴스",
+    "title_ko": "경제부총리 오늘 ‘긴급 F4회의’ 소집…국내 증시 안정 대책 논의",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95cDVpa1J6NFAxTlRwNlYya3Y0Q1ZqQXk2MDZjcXIwU3dQeDMxVWlWTGhqd2VTNVpwLUJ3TDZtY2Z0MkZQMTBVS19ENmJBVHdEVVhjS2Q1UnpEWHM?oc=5",
+    "published": "Sun, 22 Nov 2026 02:45:00 GMT",
+    "fetched_at": "2026-11-22 18:04:15",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "전체 국내 주식 시장"
+    ],
+    "keywords": [
+      "경제부총리",
+      "F4회의",
+      "증시 안정",
+      "정부 개입"
+    ],
+    "reason": "정부의 긴급 회의 소집은 국내 증시의 현 불안정성을 공식적으로 인정한 것으로, 단기적으로 시장의 불안감을 가중시킬 수 있으나, 향후 발표될 구체적인 안정화 대책에 따라 시장 흐름이 결정될 것입니다.",
+    "action_point": "향후 발표될 정부의 시장 안정화 대책을 주시하며, 국내 주식 포트폴리오의 리스크 노출도를 재점검."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "外人 매도 금융위기급…\"코스피, 극단 이미 반영했다\" - 연합인포맥스",
+    "title_ko": "外人 매도 금융위기급…\"코스피, 극단 이미 반영했다\"",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hRmlYVUhYeVhjNm14b0RxVkx2VWtaTEJPQWxuSHFzLWFrQkFnNG9vSXBaOEgtVGJSR2VER1NTdldzQW8tUms1M1RETHEwZHRXX2tKYnpUaVp3blJFcmktV05TMDhSNGdHcEVNMEdudXY?oc=5",
+    "published": "Sun, 22 Nov 2026 05:02:26 GMT",
+    "fetched_at": "2026-11-22 18:04:31",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "증권",
+      "대형주"
+    ],
+    "keywords": [
+      "외국인 매도",
+      "코스피",
+      "금융위기",
+      "시장 변동성"
+    ],
+    "reason": "대규모 외국인 매도는 코스피 전반에 하방 압력을 가하지만, '극단 이미 반영'이라는 진단은 추가적인 급락보다는 바닥권 탐색 가능성을 시사합니다. 이는 국내 증시의 변동성 확대로 이어지며 투자 심리에 영향을 미칩니다.",
+    "action_point": "외국인 매도세 둔화 신호 주시하며, 낙폭 과대 우량주 저점 매수 기회를 탐색하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[특파원 시선] 中 경제에 드리우는 日의 비극 - 아시아투데이",
+    "title_ko": "中 경제에 드리우는 日의 비극",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1vSUVMQjI1azcyeGlxeWhOUmYzUExNSUZWSnY1enE5Q0pobEdWMWxmeFFDWXZpeW1lMGZEc2ZpSHJJVkFUUHJ5dkJaamdTaHlJdGFkQ2Z5NzdXSHRYdFQwQmpPRjg4M0xzZWJmd0x3?oc=5",
+    "published": "Sun, 22 Nov 2026 06:17:56 GMT",
+    "fetched_at": "2026-11-22 18:04:40",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "원자재",
+      "수출",
+      "산업재",
+      "중국 관련 소비재"
+    ],
+    "keywords": [
+      "중국 경제",
+      "일본화",
+      "디플레이션",
+      "성장 둔화",
+      "부동산 위기"
+    ],
+    "reason": "중국 경제가 일본의 '잃어버린 10년'과 같은 장기 침체 및 디플레이션 위험에 직면할 수 있다는 분석으로, 글로벌 수요 감소 및 원자재 시장에 부정적 영향을 미칠 것입니다.",
+    "action_point": "중국 경기 둔화 및 디플레이션 우려가 큰 만큼 중국향 수출 및 원자재 관련 자산 비중 축소를 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "한국 경제, 반도체 호황에 내년에도 고공행진 전망···성장 편중은 부담 - 시사저널e",
+    "title_ko": "한국 경제, 반도체 호황에 내년에도 고공행진 전망···성장 편중은 부담",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBkSURFUEphYmxWLWpabXRQcDVjOWI4T0lNeDhhczNBNWM0TG15TWt1OUVuOGdQeXdRQTlGVV9idlhLUzRvQ1pZYWcyZ0k1NFVzZ0xVYm0tbl94QzdrX1pxSi1aV0EtX1ZvMXdTdE1QY0VoZ9IBdkFVX3lxTE9JMTRmVjBRM2VQcUcyTjZvNmtwT1Z0QkRBeXBHV3J5aGlzTzJCMElYUXhtbVlFeXRuVzRBcnZFanhVZEZRckhWLVlPMlNVSmpIOFhFdkFLTTNlTFB1Mlc5N3ZvWFAxWjJFZC1TdE04MDUweEtSQlE?oc=5",
+    "published": "Sun, 22 Nov 2026 07:43:20 GMT",
+    "fetched_at": "2026-11-22 18:04:48",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "반도체",
+      "IT",
+      "수출"
+    ],
+    "keywords": [
+      "한국 경제",
+      "반도체",
+      "경제 성장",
+      "수출",
+      "성장 편중"
+    ],
+    "reason": "한국 경제가 반도체 호황에 힘입어 내년에도 높은 성장세를 이어갈 것으로 전망됩니다. 다만, 특정 산업에 대한 성장 편중은 장기적인 구조적 위험 요인으로 작용할 수 있습니다.",
+    "action_point": "반도체 섹터 비중을 유지하되, 성장 동력의 편중에 따른 포트폴리오 다각화 전략을 검토하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "“이미 속이 시커먼데 또 검은 월요일?”…주말 美증시 투매에 ‘벌벌’",
+    "title_ko": "“이미 속이 시커먼데 또 검은 월요일?”…주말 美증시 투매에 ‘벌벌’",
+    "link": "https://www.mk.co.kr/news/stock/12215714",
+    "published": "Sun, 22 Nov 2026 17:48:08 +09:00",
+    "fetched_at": "2026-11-22 18:05:24",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "반도체",
+      "기술주"
+    ],
+    "keywords": [
+      "미국 증시",
+      "AI 쇼크",
+      "반도체",
+      "조정 국면",
+      "유동성 악재"
+    ],
+    "reason": "미국 증시의 기술주 및 AI 관련 투매는 글로벌 위험 회피 심리를 확산시키고, 외국인 자금 유출로 국내 증시의 하방 압력을 증대시킬 것입니다.",
+    "action_point": "기술주 및 반도체 섹터 비중 축소 검토."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "월가 “마운자로 믿고 5000억 베팅”…단백질 바를 이긴 ‘이 간식’의 정체 [오찬종의 매일뉴욕]",
+    "title_ko": "월가 “마운자로 믿고 5000억 베팅”…단백질 바를 이긴 ‘이 간식’의 정체 [오찬종의 매일뉴욕]",
+    "link": "https://www.mk.co.kr/news/world/12215712",
+    "published": "Sun, 22 Nov 2026 17:44:16 +09:00",
+    "fetched_at": "2026-11-22 18:05:37",
+    "sentiment": "호재",
+    "importance": 3,
+    "sectors": [
+      "식품/음료",
+      "소매",
+      "헬스케어",
+      "소비재"
+    ],
+    "keywords": [
+      "육포",
+      "단백질",
+      "건강 간식",
+      "GLP-1 약물",
+      "소비 트렌드",
+      "월가 투자"
+    ],
+    "reason": "GLP-1 약물 확산 및 건강 지향 소비 트렌드 강화로 단백질 함유 간식 시장이 성장하고 있으며, 관련 기업에 대한 월가의 투자는 이 시장의 잠재력을 시사한다.",
+    "action_point": "GLP-1 관련 건강 식품 및 단백질 간식 제조·유통 기업 비중 확대 검토"
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "민관합심 과학 키우는 中 … 정부 예산만 바라보는 韓",
+    "title_ko": "민관합심 과학 키우는 中 … 정부 예산만 바라보는 韓",
+    "link": "https://www.mk.co.kr/news/it/12215707",
+    "published": "Sun, 22 Nov 2026 17:36:51 +09:00",
+    "fetched_at": "2026-11-22 18:06:06",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "첨단기술",
+      "반도체",
+      "배터리",
+      "IT",
+      "국내 성장주"
+    ],
+    "keywords": [
+      "과학기술",
+      "R&D 투자",
+      "국가 경쟁력",
+      "민관 협력",
+      "중국",
+      "한국"
+    ],
+    "reason": "중국의 민간 주도 R&D 투자는 장기적 국가 과학기술 경쟁력 및 첨단산업 주도권 강화로 이어질 수 있습니다. 반면 한국의 정부 의존적 R&D 구조는 미래 성장 동력 확보에 대한 우려를 증폭시키며 국내 첨단 기술 및 성장주의 상대적 매력도 하락 요인이 될 수 있습니다.",
+    "action_point": "국내 첨단기술 및 성장주 장기 투자 비중에 대한 재검토가 필요하며, 중국 등 경쟁국의 기술 자립 역량 강화에 주목하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Quantum computing’s first real-world payoff may come in energy, not drug discovery",
+    "title_ko": "양자 컴퓨팅의 첫 실질적 성과는 신약 개발이 아닌 에너지 분야에서 나올 수 있다",
+    "link": "https://www.cnbc.com/2026/11/22/quantum-computing-energy-applications.html",
+    "published": "Sun, 22 Nov 2026 06:00:01 GMT",
+    "fetched_at": "2026-11-22 18:03:55",
+    "sentiment": "호재",
+    "importance": 2,
+    "sectors": [
+      "양자 컴퓨팅",
+      "에너지",
+      "신재생에너지",
+      "전력 인프라",
+      "첨단 기술"
+    ],
+    "keywords": [
+      "양자 컴퓨팅",
+      "에너지 그리드 최적화",
+      "태양광 소재",
+      "수소 촉매",
+      "기술 혁신"
+    ],
+    "reason": "양자 컴퓨팅의 상업적 활용이 에너지 분야에서 먼저 구체화될 조짐을 보이며, 이는 해당 기술 및 에너지 효율 관련 산업에 장기적인 성장 동력을 제공할 수 있습니다.",
+    "action_point": "양자 컴퓨팅 기술 및 에너지 효율화 관련 선두 기업에 대한 장기 투자 기회 모색."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "차병원, 송도 국제병원 부지에 3천 가구 주상복합아파트 요구 - 기호일보",
+    "title_ko": "차병원, 송도 국제병원 부지에 3천 가구 주상복합아파트 요구",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50NThWcWlCZWUweVZ2b3F5T1E1SGFEUHFITmUwcHBSTnI2NU5JQ09KdG5xdVlJNWZ0NmpadTNUZ2xYR19GMlBNQ0c2WkRfSG8zRVB2VjcyUHoyZElYdEFiNXp1SEs2ZzZJTHhjSzhpRQ?oc=5",
+    "published": "Sun, 22 Nov 2026 04:29:00 GMT",
+    "fetched_at": "2026-11-22 18:04:55",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "부동산",
+      "건설"
+    ],
+    "keywords": [
+      "차병원",
+      "송도",
+      "국제병원",
+      "주상복합아파트",
+      "부동산 개발"
+    ],
+    "reason": "송도 국제병원 부지 개발 관련 특정 기업의 요구사항으로, 해당 지역 부동산 시장 및 건설 섹터에 국지적인 영향을 미칠 수 있습니다. 전반적인 거시경제나 시장 전체에는 제한적인 영향입니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "“조선시대 배수로 옮기라더니 이젠 제자리에”…유산청, 125m 보존안 부결에 세운4구역 주민들 분통",
+    "title_ko": "“조선시대 배수로 옮기라더니 이젠 제자리에”…유산청, 125m 보존안 부결에 세운4구역 주민들 분통",
+    "link": "https://www.mk.co.kr/news/realestate/12215718",
+    "published": "Sun, 22 Nov 2026 17:58:20 +09:00",
+    "fetched_at": "2026-11-22 18:05:11",
+    "sentiment": "악재",
+    "importance": 2,
+    "sectors": [
+      "부동산",
+      "건설",
+      "금융"
+    ],
+    "keywords": [
+      "세운4구역",
+      "재개발",
+      "문화유산",
+      "사업 지연",
+      "규제 리스크"
+    ],
+    "reason": "서울 세운4구역 재개발 사업이 문화유산 보존 문제로 심각하게 지연되며 사업성과 수익성이 악화되고 있다. 이는 유사한 국내 도시재생 및 재개발 프로젝트 전반에 걸쳐 규제 리스크와 불확실성을 가중시키는 사례가 될 수 있다.",
+    "action_point": "문화유산 관련 규제 리스크가 높은 국내 재개발 프로젝트 투자 비중을 재검토하고 잠재적 사업 지연 가능성을 평가하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "與 \"조희대 탄핵 사유, 한덕수 판결 제외\"",
+    "title_ko": "與 \"조희대 탄핵 사유, 한덕수 판결 제외\"",
+    "link": "https://www.mk.co.kr/news/society/12215706",
+    "published": "Sun, 22 Nov 2026 17:36:51 +09:00",
+    "fetched_at": "2026-11-22 18:05:57",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [],
+    "keywords": [
+      "탄핵",
+      "조희대 대법원장",
+      "정치 불확실성",
+      "국회"
+    ],
+    "reason": "대법원장 탄핵 추진은 국내 정치적 불확실성을 높이지만, 직접적인 경제적 파급효과는 제한적이다. 전반적인 투자심리에 미미한 영향을 줄 수 있다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
     "title": "‘기묘한 호황’·‘극한의 쏠림’…AI시대 남은 변수는? [경제한방] - KBS 뉴스",
     "title_ko": "‘기묘한 호황’·‘극한의 쏠림’…AI시대 남은 변수는? [경제한방]",
     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5kT0t3RkJMNG5XR0ZfeGZ3b2JRbXI5alpKcXpEMEFBMWJ5ZGp5YkIwM2hfMTRQREdLcW1sbk5Zb3Y0UGlRR1VzMWpSR09leXRGbmJBdFg2Q0kzLXl4MTdzNDJQaFFpQQ?oc=5",
@@ -2717,304 +3015,5 @@
     ],
     "reason": "이 소식은 JP모건 체이스의 일시적인 내부 시스템 오류로, 악성 공격이나 다른 은행으로의 확산 징후가 없어 금융 시스템 전반에 미치는 영향은 제한적입니다. 단기적으로 해당 은행의 고객 서비스와 운영 효율성에 영향을 줄 수 있으나, 거시 경제에 미치는 영향은 미미할 것입니다.",
     "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could ‘disappoint’",
-    "title_ko": "케빈 워시 연준 의장, AI의 경제적 중요성 강조하면서도 '실망' 가능성 경고",
-    "link": "https://www.cnbc.com/2026/11/16/fed-ai-task-force-kevin-warsh.html",
-    "published": "Mon, 16 Nov 2026 18:46:07 GMT",
-    "fetched_at": "2026-11-17 07:39:35",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "기술주",
-      "반도체",
-      "소프트웨어",
-      "클라우드 컴퓨팅"
-    ],
-    "keywords": [
-      "AI",
-      "기술 성장",
-      "생산성",
-      "밸류에이션",
-      "경제 전망"
-    ],
-    "reason": "AI의 경제적 중요성을 인정하면서도 과도한 기대에 대한 경고를 담고 있어, AI 관련 기술주의 현재 밸류에이션에 대한 신중한 접근을 유도할 수 있습니다. 이는 장기적 관점에서 AI 관련 섹터의 투자심리에 영향을 미칠 수 있습니다.",
-    "action_point": "AI 관련 기술주의 현 주가 밸류에이션에 대한 재평가 및 포트폴리오 비중 조절을 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "This food giant has gone nowhere for a year. Jay Woods sees a breakout ahead",
-    "title_ko": "크래프트 하인즈: 1년간 횡보 끝에 반등 조짐, 매수 기회 포착",
-    "link": "https://www.cnbc.com/2026/11/16/kraft-stock-jay-woods.html",
-    "published": "Mon, 16 Nov 2026 17:03:52 GMT",
-    "fetched_at": "2026-11-17 07:40:10",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "식품",
-      "필수 소비재"
-    ],
-    "keywords": [
-      "크래프트 하인즈",
-      "주식",
-      "반등",
-      "소비재"
-    ],
-    "reason": "개별 대형 식품 기업의 주가 반등 가능성으로, 경기 방어적 필수 소비재 섹터 내 투자 기회를 시사하나 거시 경제 전반에 미치는 영향은 미미합니다.",
-    "action_point": "미국 필수 소비재 섹터 내 크래프트 하인즈(KHC) 주식의 매수 가능성을 심층 검토하십시오."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "United Airlines reports system outage affecting departing flights",
-    "title_ko": "유나이티드 항공, 출발 항공편에 영향을 미치는 시스템 장애 발생 보고",
-    "link": "https://www.cnbc.com/2026/11/16/united-airlines-outage-faa.html",
-    "published": "Mon, 16 Nov 2026 22:38:30 GMT",
-    "fetched_at": "2026-11-17 07:39:56",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "항공운송",
-      "관광/레저"
-    ],
-    "keywords": [
-      "유나이티드 항공",
-      "시스템 장애",
-      "항공편 지연",
-      "운송 산업"
-    ],
-    "reason": "유나이티드 항공의 시스템 장애는 해당 항공사의 단기적 운영 및 수익에 부정적 영향을 미치나, 글로벌 매크로 경제나 금융 시장 전반에는 미미한 영향만 줄 것입니다. 개별 기업 리스크로 해석됩니다.",
-    "action_point": "거시 경제 및 타 자산군에 미치는 영향이 미미하므로, 포트폴리오에 대한 직접적인 조치는 해당 없음."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Anthropic’s Wall Street whisperer: Meet CFO Krishna Rao",
-    "title_ko": "앤스로픽의 월스트리트 대변인: CFO 크리슈나 라오를 만나다",
-    "link": "https://www.cnbc.com/2026/11/16/anthropic-cfo-krishna-rao-ipo.html",
-    "published": "Mon, 16 Nov 2026 20:44:24 GMT",
-    "fetched_at": "2026-11-17 07:40:19",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "기술",
-      "인공지능",
-      "벤처캐피탈"
-    ],
-    "keywords": [
-      "Anthropic",
-      "IPO",
-      "AI",
-      "CFO"
-    ],
-    "reason": "AI 거대 기업 앤스로픽의 IPO 준비 진행 상황을 시사하며, 인공지능 섹터에 대한 지속적인 투자자 관심과 자본 유입을 간접적으로 확인할 수 있습니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "AI 시대에 적정한 주파수 대가는 얼마일까 [율촌 TMT리포트]",
-    "title_ko": "AI 시대에 적정한 주파수 대가는 얼마일까 [율촌 TMT리포트]",
-    "link": "https://www.mk.co.kr/news/society/12210227",
-    "published": "Tue, 17 Nov 2026 07:00:00 +09:00",
-    "fetched_at": "2026-11-17 07:40:47",
-    "sentiment": "중립",
-    "importance": 2,
-    "sectors": [
-      "통신"
-    ],
-    "keywords": [
-      "주파수 대가",
-      "통신사",
-      "AI",
-      "규제",
-      "투자"
-    ],
-    "reason": "주파수 대가 논의는 통신사의 운영 비용 및 미래 통신망(AI 관련 포함) 투자 여력에 직접적인 영향을 미치며, 향후 규제 방향에 따라 통신사 실적에 변동성을 줄 수 있습니다.",
-    "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "China confirms Xi-Trump-Putin historic summit. What will be on the agenda?",
-    "title_ko": "중국, 시진핑-트럼프-푸틴 역사적 정상회담 확인. 의제는 무엇인가?",
-    "link": "https://www.cnbc.com/2026/11/16/trump-xi-putin-ukraine-nuclear-tariffs-russia-iran-.html",
-    "published": "Mon, 16 Nov 2026 08:38:16 GMT",
-    "fetched_at": "2026-11-16 21:17:09",
-    "sentiment": "중립",
-    "importance": 5,
-    "sectors": [
-      "에너지",
-      "방산",
-      "무역 관련 수출입 업종",
-      "원자재"
-    ],
-    "keywords": [
-      "지정학",
-      "무역정책",
-      "국제안보",
-      "주요국 정상회담"
-    ],
-    "reason": "주요 3개국 정상회담 개최 가능성은 글로벌 지정학적 불확실성을 완화하거나 새로운 역학 관계를 형성하여 무역 정책, 원자재 가격, 그리고 중동 및 우크라이나 분쟁 관련 리스크 프리미엄에 광범위한 영향을 미칠 수 있습니다.",
-    "action_point": "잠재적 지정학적 리스크 완화 및 무역 정책 변화 가능성에 대비하여 에너지, 방산 섹터 비중을 조정하고 수출입 관련 기업 포트폴리오를 재검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "‘Standing on one leg’: IMF chief warns about global economy as AI circular financing hits $1 trillion",
-    "title_ko": "'한 다리로 서 있는 격': IMF 총재, AI 순환 금융 1조 달러 돌파 속 글로벌 경제 경고",
-    "link": "https://www.cnbc.com/2026/11/16/imf-georgieva-warning-ai-circular-financing.html",
-    "published": "Mon, 16 Nov 2026 09:14:46 GMT",
-    "fetched_at": "2026-11-16 21:17:17",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "기술",
-      "금융"
-    ],
-    "keywords": [
-      "IMF",
-      "AI",
-      "순환 금융",
-      "부채",
-      "글로벌 경제",
-      "경고"
-    ],
-    "reason": "IMF 총재의 경고는 AI 섹터 내 과도한 부채 기반 순환 금융이 글로벌 경제의 잠재적 취약점으로 작용할 수 있으며, 투자심리 냉각 시 시스템 리스크를 야기할 가능성을 시사한다.",
-    "action_point": "AI 섹터 내 부채 비중이 높거나 펀더멘털이 불분명한 기업에 대한 투자 비중 축소 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "NATO member Estonia to close Russia border after attempted 'sabotage' of drone maker",
-    "title_ko": "나토 회원국 에스토니아, 드론 제조업체 '사보타주' 시도 후 러시아 국경 폐쇄 예정",
-    "link": "https://www.cnbc.com/2026/11/16/nato-estonia-russia-border-ukraine-war.html",
-    "published": "Mon, 16 Nov 2026 10:44:02 GMT",
-    "fetched_at": "2026-11-16 21:17:29",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "국방/항공우주",
-      "물류/운송",
-      "산업 보안"
-    ],
-    "keywords": [
-      "NATO",
-      "에스토니아",
-      "러시아",
-      "국경 폐쇄",
-      "사보타주",
-      "드론",
-      "지정학적 위험",
-      "제재"
-    ],
-    "reason": "나토 회원국과 러시아 간 긴장이 고조되고 제재 회피 활동 단속이 강화될 것임을 시사하며, 이는 동유럽 지역의 지정학적 불안정성을 높여 물류 및 국방 관련 산업에 영향을 미칠 수 있습니다.",
-    "action_point": "동유럽 지정학적 리스크 증가에 대비하여 방산 섹터 비중 확대를 검토하고, 유럽 시장 투자 익스포저를 재평가."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "From AI to oil, here are Goldman and Morgan Stanley’s outlooks for 2027",
-    "title_ko": "AI부터 원유까지: 골드만삭스와 모건스탠리가 제시하는 2027년 전망",
-    "link": "https://www.cnbc.com/2026/11/16/goldman-sachs-morgan-stanley-2027-outlook-markets.html",
-    "published": "Mon, 16 Nov 2026 10:39:38 GMT",
-    "fetched_at": "2026-11-16 21:17:37",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "기술",
-      "에너지",
-      "원자재",
-      "글로벌 경기순환주"
-    ],
-    "keywords": [
-      "글로벌 성장",
-      "AI",
-      "원유",
-      "장기 전망",
-      "투자은행"
-    ],
-    "reason": "주요 투자은행들의 낙관적인 장기 성장 전망은 시장 전반의 투자심리에 긍정적이며, AI와 원자재 등 특정 섹터의 장기 투자 매력을 부각시킵니다.",
-    "action_point": "글로벌 성장세 지속에 베팅하여 AI 및 원자재 관련 자산 비중 확대 고려."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "엔비디아 리더십 위기·美 의회 규제 움직임…AI 투자시장 판도 바뀌나 - 헬로티",
-    "title_ko": "엔비디아 리더십 위기·美 의회 규제 움직임…AI 투자시장 판도 바뀌나 - 헬로티",
-    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uNUQ4dUJBMWFTQzNHem1lVU8yN0d5X3Zzc00tRlh5Zm5JX0JQU01KbVFPSnBDcTJzSWRqYmpRXzZtdWNwcTU4TFRnUWo3Q2sydmwzOHFneE8zQzNBUlkw?oc=5",
-    "published": "Mon, 16 Nov 2026 08:45:02 GMT",
-    "fetched_at": "2026-11-16 21:17:52",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "반도체",
-      "AI",
-      "기술주"
-    ],
-    "keywords": [
-      "엔비디아",
-      "AI 규제",
-      "반도체",
-      "기술주"
-    ],
-    "reason": "엔비디아의 내부 리더십 위기설과 미국 의회의 AI 규제 움직임은 그동안 과열되었던 AI 투자 시장에 대한 냉각 효과를 가져올 수 있으며, 이는 AI 및 반도체 관련 기술주 전반에 걸쳐 투자 심리 악화로 이어질 수 있습니다.",
-    "action_point": "단기 과열된 AI 관련 고성장 기술주 비중 축소를 검토하고, 규제 리스크를 덜 받는 인프라 관련 기업으로 분산 투자하는 것을 고려하십시오."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "희토류 등 해외 핵심광물 투자 5년만에 재개",
-    "title_ko": "희토류 등 해외 핵심광물 투자 5년만에 재개",
-    "link": "https://www.mk.co.kr/news/economy/12210276",
-    "published": "Mon, 16 Nov 2026 19:52:21 +09:00",
-    "fetched_at": "2026-11-16 21:18:37",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "산업재",
-      "화학",
-      "전자",
-      "자동차",
-      "방산"
-    ],
-    "keywords": [
-      "희토류",
-      "핵심광물",
-      "자원안보",
-      "공급망",
-      "정부정책",
-      "해외투자"
-    ],
-    "reason": "정부의 해외 핵심광물 투자 재개는 글로벌 자원 무기화에 대한 대응으로, 국내 주요 산업의 공급망 안정성을 장기적으로 강화할 것이다. 이는 핵심광물 의존도가 높은 전기차, 배터리, 첨단산업 등의 생산 비용 및 리스크 완화에 기여할 수 있다.",
-    "action_point": "핵심광물 관련 공급망 안정화 수혜가 예상되는 이차전지, IT 부품 등 첨단 산업 섹터 기업의 투자 비중 확대를 고려."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "‘카드 포인트’를 지역화폐로…“가계 소비 편의 높이고 지역경제 활성화” - 농민신문",
-    "title_ko": "‘카드 포인트’를 지역화폐로…“가계 소비 편의 높이고 지역경제 활성화”",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iaHJtUTJGc2Fsd3hJVW1GM1R2eTJNSWdDUjlrdzl3Z1c4RGZJTG1MT0pJTk5lREZMOW1ZcnAyYW1vS2NQckVVQWZvSXZ6dXZfX0xIOG1xN3Z5UQ?oc=5",
-    "published": "Mon, 16 Nov 2026 08:42:00 GMT",
-    "fetched_at": "2026-11-16 21:18:01",
-    "sentiment": "호재",
-    "importance": 2,
-    "sectors": [
-      "소비재",
-      "유통",
-      "외식업"
-    ],
-    "keywords": [
-      "카드 포인트",
-      "지역화폐",
-      "가계 소비",
-      "지역경제 활성화"
-    ],
-    "reason": "이 정책은 가계의 잠재 소비력을 지역화폐 전환을 통해 실제 소비로 유도하여 내수 활성화 및 지역 상권에 긍정적인 영향을 미칠 것입니다. 다만, 전체 경제에 미치는 파급 효과는 제한적일 수 있습니다.",
-    "action_point": "지역 소비 활성화 수혜가 예상되는 소매유통 및 외식업종 내 투자 기회를 모색하십시오."
   }
 ]
