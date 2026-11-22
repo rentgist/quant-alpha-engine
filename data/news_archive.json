@@ -2,6 +2,261 @@
   {
     "source": "GoogleNews_Korea",
     "market": "KR",
+    "title": "\"'엔비디아 사태', 휴전 두달 남은 美中 무역전쟁 재점화할수도\" - 연합뉴스",
+    "title_ko": "'엔비디아 사태', 휴전 두달 남은 美中 무역전쟁 재점화할수도",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RQTFKY0xhMGlpLW03RDVhRHR1WUhwLUtqeW5GZnhKX1M3YUNwVWJCanlnMDk0S0FDZGJLMmkwV0xHWXZJczI0QkZSOUwwZlYzVkFRSEo1RVJnSVXSAWBBVV95cUxOWTVTNVJqajBKSWN1anFsOWN6cVUzc3o5bFN0VEIwS2dJUXczXzJQeE0zcjBnTlI5UTR0YUxoYXVJbmNmNklRRVB6SzFkdHBtdmpHUWFhcXpENDQ2b0p1blM?oc=5",
+    "published": "Sun, 22 Nov 2026 15:36:35 GMT",
+    "fetched_at": "2026-11-23 02:31:21",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "반도체",
+      "IT 하드웨어",
+      "수출입",
+      "기술주"
+    ],
+    "keywords": [
+      "미중 무역분쟁",
+      "엔비디아",
+      "반도체",
+      "수출 규제",
+      "기술 패권"
+    ],
+    "reason": "미중 기술 패권 경쟁이 엔비디아 사태로 인해 재점화될 가능성이 커지면서 글로벌 반도체 공급망에 큰 불확실성을 가중시키고 관련 기업들의 실적에 부정적 영향을 미칠 수 있습니다. 이는 전반적인 증시 투자심리 위축으로 이어질 위험이 있습니다.",
+    "action_point": "반도체 및 IT 하드웨어 등 기술주 섹터 비중 축소를 검토하십시오."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "\"파편화된 세계경제\"…미·중·일·유럽, 동시에 흔들리는 이유 - 뉴시스",
+    "title_ko": "파편화된 세계경제\"…미·중·일·유럽, 동시에 흔들리는 이유",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE42YUw5ZkNXTHF5NWNaTm5mLTZoMFBuV2QzTWhZTV96ZlVOZTZlM2hFa3BVLXlVYnNaZjNaRTlpM0V6LWZwdUZPVDAybDdiTmIwVTFQVU1fMUViRTNQT0Q2d9IBeEFVX3lxTFBCbjlURW1IZjJFQTNZdXNsaEN0R3FfWnJ2RlhVaks3OXJBMnMydUtYbkdLSUdKWDczVDlSYU03SHJPY2FpS1pHRHVmVWFtNXdTXzVmNGxXbVFLYWlvR3hELUIzRjBBbzZOcVFiZWYydFkybnUyTFJXSw?oc=5",
+    "published": "Sun, 22 Nov 2026 16:00:00 GMT",
+    "fetched_at": "2026-11-23 02:31:29",
+    "sentiment": "악재",
+    "importance": 5,
+    "sectors": [
+      "전 산업",
+      "수출주",
+      "경기민감주",
+      "금융"
+    ],
+    "keywords": [
+      "세계경제 파편화",
+      "글로벌 경기 둔화",
+      "동반 침체",
+      "지정학적 리스크"
+    ],
+    "reason": "주요국 경제의 동시 약화는 글로벌 경기 둔화 및 침체 위험을 고조시키며, 투자 불확실성을 증대시켜 금융시장 전반에 부정적 영향을 미칠 것입니다. 특히 대외 의존도가 높은 한국 경제에 추가적인 압력으로 작용할 수 있습니다.",
+    "action_point": "글로벌 경기 둔화 위험에 대비하여 위험 자산 비중을 축소하고 현금 및 안전 자산 비중을 확대하여 포트폴리오 방어력을 강화할 것."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Saudi Arabia, Bahrain report new attacks as Iran says it remains open to a deal with U.S.",
+    "title_ko": "사우디아라비아와 바레인, 새로운 공격 보고; 이란은 미국과의 합의에 열려있다고 밝혀",
+    "link": "https://www.cnbc.com/2026/11/22/saudi-houthi-bahrain-iran-attacks-araghchi-talks.html",
+    "published": "Sun, 22 Nov 2026 13:25:47 GMT",
+    "fetched_at": "2026-11-23 02:30:09",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "방위산업",
+      "해운",
+      "보험"
+    ],
+    "keywords": [
+      "사우디아라비아",
+      "바레인",
+      "이란",
+      "후티",
+      "지정학적 리스크",
+      "유가"
+    ],
+    "reason": "중동 지역에서의 새로운 공격 보고는 지정학적 긴장을 고조시키며, 국제 유가 변동성 확대와 해상 운송 리스크 증가로 이어질 수 있습니다. 이란의 대화 제의는 단기적 완충 역할을 할 수 있으나, 본질적인 불안정성은 지속될 전망입니다.",
+    "action_point": "국제 유가 상승 가능성에 대비하여 에너지 관련 자산 비중 확대를 검토하고, 방위산업 섹터의 투자 기회를 모색하며, 해상 운송 관련 기업의 리스크를 재평가하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "UN climate talks collapse as EU and others reject deal",
+    "title_ko": "유엔 기후 회담 결렬, EU 및 다른 국가들 합의안 거부",
+    "link": "https://www.cnbc.com/2026/11/22/cop31-climate-talks-break-down-as-eu-and-others-reject-deal.html",
+    "published": "Sun, 22 Nov 2026 14:28:45 GMT",
+    "fetched_at": "2026-11-23 02:30:37",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "신재생에너지",
+      "ESG 투자",
+      "탄소배출권 시장",
+      "전기차/배터리"
+    ],
+    "keywords": [
+      "유엔 기후 회담",
+      "화석 연료",
+      "EU",
+      "환경 정책",
+      "탄소 중립",
+      "ESG"
+    ],
+    "reason": "유엔 기후 회담의 결렬은 전 세계적인 탄소 감축 목표 달성에 대한 불확실성을 증폭시키며, 신재생에너지 및 ESG 관련 산업의 투자 동력을 단기적으로 약화시킬 수 있습니다.",
+    "action_point": "신재생에너지 및 탄소배출권 관련 자산 비중 축소 검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "증시안정펀드 가동 준비... 2008년 금융위기 후 처음 - 조선일보",
+    "title_ko": "증시안정펀드 가동 준비... 2008년 금융위기 후 처음",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcjBPTG5NSy1VTkI3cmUzc3g3UlhaRzlhc1UxelFsQXg4R28wdktMWkw0Wmc2WjIxekdWOWVqWTRHaUtSQk9yMzZDZjJPTHZFWG9KNU1LdVNFbEVSNTBFSFExZ0FIcV9pS1NjakI2bERaazhPZ0FRajBWSDZ4SklzZ2hoYXpzSGc2UjVlSWdB?oc=5",
+    "published": "Sun, 22 Nov 2026 11:18:00 GMT",
+    "fetched_at": "2026-11-23 02:30:47",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "국내 증시"
+    ],
+    "keywords": [
+      "증시안정펀드",
+      "시장개입",
+      "금융위기",
+      "주식시장",
+      "정책대응"
+    ],
+    "reason": "정부의 시장 개입 의지가 표명되어 국내 증시의 추가 하락 위험을 완화하고, 투자 심리 안정에 기여할 수 있습니다.",
+    "action_point": "국내 증시의 추가 하락 압력 완화 가능성에 대비하여 주식 포트폴리오 비중 재검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "“중국 경제 비관하면 허망할 것” 큰소리쳤는데…AI 주식서 2289조 증발? - 매일경제 마켓",
+    "title_ko": "“중국 경제 비관하면 허망할 것” 큰소리쳤는데…AI 주식서 2289조 증발?",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9nUnVtOTRlZFlPbFR2ZXYwODhsT3VwUl9CTjFnWDM5bk5yaHZBTHBPSE9mcS15X20tQlo0d1JyeF9FS0dlVTkwcnNZVFhzTjRvV3c?oc=5",
+    "published": "Sun, 22 Nov 2026 11:52:49 GMT",
+    "fetched_at": "2026-11-23 02:31:13",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "기술/IT",
+      "반도체",
+      "중국 관련 산업",
+      "성장주"
+    ],
+    "keywords": [
+      "중국 경제",
+      "AI 주식",
+      "기술주",
+      "자산가치 하락",
+      "성장주"
+    ],
+    "reason": "중국 AI 기술주에서 막대한 자산이 증발했다는 소식은 중국 경제 전반의 불확실성과 AI/기술 섹터의 과대평가 우려를 심화시키며, 글로벌 성장주 투자 심리에 부정적인 영향을 미칠 수 있습니다.",
+    "action_point": "중국 관련 기술주 및 성장주 비중을 점검하고, 포트폴리오 내 분산 투자를 강화하는 방안을 고려하십시오."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "‘AI 열풍’ 식자 中 기술주서 2289조원 증발…中당국이 꺼낸 유동성 카드 규모가?",
+    "title_ko": "‘AI 열풍’ 식자 中 기술주서 2289조원 증발…中당국이 꺼낸 유동성 카드 규모가?",
+    "link": "https://www.mk.co.kr/news/world/12215746",
+    "published": "Sun, 22 Nov 2026 20:52:49 +09:00",
+    "fetched_at": "2026-11-23 02:31:49",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "중국 기술주",
+      "신흥국 주식",
+      "글로벌 기술주"
+    ],
+    "keywords": [
+      "중국 AI 산업",
+      "기술주 하락",
+      "자산 증발",
+      "투자 심리",
+      "유동성 카드"
+    ],
+    "reason": "중국 AI 산업에 대한 과도한 기대가 식으며 기술주에서 대규모 자산이 증발했고, 이는 중국 성장 동력에 대한 투자 심리 위축을 시사한다. 중국 정부의 유동성 공급이 단기적 지지 역할을 할 수 있으나, 근본적인 투자 심리 개선까지는 시간이 소요될 전망이다.",
+    "action_point": "중국 기술주 및 해당 섹터에 대한 직접 투자 비중을 축소하고, 관련 신흥국 포트폴리오 위험 노출도를 재검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[속보] COP31, 폐막일 넘기고도 끝내 ‘합의 불발’ - 경향신문",
+    "title_ko": "[속보] COP31, 폐막일 넘기고도 끝내 ‘합의 불발’",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5sZ3RsMVBRTnRnbDdxYVdrUl9KeW1Vc19zLTRNTTFuMDFybFVfelF0OGNlREI3VWticVBOYWQyUnZmc3FMMlVrOXRjVGowQ2dQVW0wRURzbXNuZ9IBX0FVX3lxTE16UHJRMVUzVTZudlVpWHp5Mm1ra3pQcGQ2bHg5Z2t5UTZOSVBYQnBURk9VMTJHM25yYVdxS1hOdW8yUVlVNVNxMExRNW1wVXFEd2w0SGJ0cmpVbTVXV3Y0?oc=5",
+    "published": "Sun, 22 Nov 2026 11:59:00 GMT",
+    "fetched_at": "2026-11-23 02:31:06",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "신재생에너지",
+      "환경",
+      "에너지"
+    ],
+    "keywords": [
+      "COP",
+      "기후변화",
+      "합의 불발",
+      "탄소중립",
+      "ESG"
+    ],
+    "reason": "주요 국제 기후 회의의 합의 불발은 글로벌 탄소중립 목표 달성 지연 우려를 증폭시키며, 관련 정책 및 투자의 불확실성을 높입니다. 이는 신재생에너지 및 ESG 관련 산업의 단기 성장 모멘텀 약화로 이어질 수 있습니다.",
+    "action_point": "신재생에너지 및 친환경 테마 관련 자산의 투자 비중 축소 검토."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Pizza chains are under pressure. GLP-1 use is only one part of the problem",
+    "title_ko": "피자 체인점들이 압박을 받고 있습니다. GLP-1 약물 사용은 문제의 일부일 뿐입니다.",
+    "link": "https://www.cnbc.com/2026/11/22/pizza-chains-sales-glp-1-demand.html",
+    "published": "Sun, 22 Nov 2026 13:00:01 GMT",
+    "fetched_at": "2026-11-23 02:30:28",
+    "sentiment": "악재",
+    "importance": 2,
+    "sectors": [
+      "식품 서비스",
+      "가공식품",
+      "제약 바이오"
+    ],
+    "keywords": [
+      "피자",
+      "외식 산업",
+      "GLP-1",
+      "소비 습관 변화",
+      "배달 경쟁"
+    ],
+    "reason": "GLP-1 약물 사용 증가와 배달 경쟁 심화, 소비 습관 변화로 피자 체인점을 비롯한 고칼로리 외식 산업의 수요가 둔화되고 있어 관련 기업 실적에 부정적 영향을 미칠 수 있습니다.",
+    "action_point": "글로벌 외식 및 가공식품 섹터 내 고칼로리 식품 관련 기업에 대한 투자 비중 축소 검토."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[2026 강원 시니어산업박람회]“AI 기반 시니어산업 육성·지역경제 활성화 앞장” - 강원일보",
+    "title_ko": "[2026 강원 시니어산업박람회]“AI 기반 시니어산업 육성·지역경제 활성화 앞장”",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSWnlUaFVPakZRSVUteHp1eGxxRFZBbW1YZlJYVE5nX1BGYkZQYWQ2bG41TFNfTW02aU9DN2VFS1ZkajFWNVpLVGJwYWUtQVN4dm5taGRlWWpWWFE?oc=5",
+    "published": "Sun, 22 Nov 2026 15:00:00 GMT",
+    "fetched_at": "2026-11-23 02:31:37",
+    "sentiment": "호재",
+    "importance": 2,
+    "sectors": [
+      "시니어산업",
+      "인공지능",
+      "헬스케어",
+      "지역경제"
+    ],
+    "keywords": [
+      "강원도",
+      "시니어산업",
+      "AI",
+      "지역경제 활성화",
+      "박람회"
+    ],
+    "reason": "강원 지역의 AI 기반 시니어 산업 육성 계획은 고령화 사회의 성장 테마와 기술 융합 추세를 보여주지만, 단기적인 거시 경제나 시장 전반에 미치는 영향은 제한적이다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
     "title": "중 관영매체 “비관론자는 늘 틀렸다” 경제 우려 적극 반박…온라인에서는 냉소도 - 경향신문",
     "title_ko": "중 관영매체 “비관론자는 늘 틀렸다” 경제 우려 적극 반박…온라인에서는 냉소도",
     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnbFk0TzVzajhiRTVYSEFVbHlXa3ptcDRGQ3hLRHZwMklMVVlLbWdBYmhMMFV3VVo5WFhNbGJta2d2VFhyZlp4N1o3dHZtZEVyamd1YWtzV1laZ9IBX0FVX3lxTE1YaGhhS0hQSGNsYTNnT0o2UFllNkVfSEFUTzQwWjcxQ2dTb2gzWUNyaHJUMDhrRDg1NFEtMk5FT3E4bkE1Wk9GTXc2TGZJWlZuSzFZUjlDdkNHcWJqcHpJ?oc=5",
@@ -2769,251 +3024,5 @@
     ],
     "reason": "미중 기술 경쟁 심화로 미국 기업들의 중국 시장 접근이 어려워지고, 이는 글로벌 공급망 재편 및 관련 기업들의 수익성 악화로 이어질 수 있습니다. 특히 기술 섹터의 불확실성이 증대될 것입니다.",
     "action_point": "미국-중국 무역 갈등에 민감한 기술 및 제조 섹터의 고위험 종목 비중을 축소하고 포트폴리오 다각화를 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Trump has arrived in Asia. Here’s what he said about Iran and Deutsche Bank",
-    "title_ko": "트럼프, 아시아 도착... 이란과 도이체방크 관련 발언은?",
-    "link": "https://www.cnbc.com/2026/11/17/trump-iran-asia-trip-china.html",
-    "published": "Tue, 17 Nov 2026 13:44:02 GMT",
-    "fetched_at": "2026-11-17 22:59:31",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "금융",
-      "에너지",
-      "방산"
-    ],
-    "keywords": [
-      "트럼프",
-      "이란",
-      "지정학적 리스크",
-      "도이체방크",
-      "금융 규제"
-    ],
-    "reason": "트럼프의 이란 위협은 중동 지정학적 리스크를 고조시켜 국제 유가 변동성을 키우고 투자 심리를 위축시킬 수 있습니다. 도이체방크 관련 발언은 유럽 금융 시장의 불확실성을 가중시킬 가능성이 있습니다.",
-    "action_point": "중동발 지정학적 리스크에 대비해 에너지 및 방산 섹터에 대한 포트폴리오를 조정하고, 유럽 금융 섹터 관련 노출도를 점검하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Nvidia warns chip buyers of legal risks tied to China AI access, sources tell CNBC",
-    "title_ko": "엔비디아, 중국 AI 접근 관련 법적 리스크에 칩 구매자들에게 경고 (CNBC 보도)",
-    "link": "https://www.cnbc.com/2026/11/17/nvidia-china-cloud-ai-chip-access.html",
-    "published": "Tue, 17 Nov 2026 07:07:35 GMT",
-    "fetched_at": "2026-11-17 22:59:39",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "반도체",
-      "인공지능",
-      "기술"
-    ],
-    "keywords": [
-      "엔비디아",
-      "중국",
-      "AI 반도체",
-      "수출 통제",
-      "미중 갈등"
-    ],
-    "reason": "미국 정부의 대중국 AI 반도체 수출 통제 강화는 엔비디아 등 주요 반도체 기업의 중국향 매출에 부정적 영향을 미치고, 미중 기술 갈등을 심화시킬 것입니다. 이는 글로벌 AI 산업 공급망에 중대한 영향을 미칩니다.",
-    "action_point": "대중국 매출 의존도가 높은 AI 반도체 관련 기업의 투자 비중 축소를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Ukraine damages Putin’s prized Crimea bridge as Zelenskyy lauds ‘unprecedented operation’",
-    "title_ko": "우크라이나, 푸틴의 핵심 크림 대교 공격... 젤렌스키 '전례 없는 작전' 찬사",
-    "link": "https://www.cnbc.com/2026/11/17/kerch-bridge-ukraine-russia-putin-kyiv.html",
-    "published": "Tue, 17 Nov 2026 12:48:14 GMT",
-    "fetched_at": "2026-11-17 22:59:52",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "방위 산업",
-      "물류/해운",
-      "원자재"
-    ],
-    "keywords": [
-      "우크라이나",
-      "러시아",
-      "크림 대교",
-      "지정학적 위험",
-      "전쟁",
-      "에너지"
-    ],
-    "reason": "크림 대교 공격은 러시아-우크라이나 전쟁의 지정학적 긴장을 고조시키며, 흑해 지역 물류 및 에너지 공급망에 불확실성을 가중시켜 글로벌 투자 심리를 위축시키고 에너지 가격 변동성을 높일 수 있다.",
-    "action_point": "지정학적 위험 확대에 대비하여 안전 자산(금, 달러) 보유 비중을 유지하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Nvidia earnings live updates: Wall Street braces for first report since Huang's ouster",
-    "title_ko": "엔비디아 실적 발표 실시간 업데이트: 황 CEO 해임 이후 첫 보고서에 월스트리트 촉각",
-    "link": "https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html",
-    "published": "Tue, 17 Nov 2026 13:53:28 GMT",
-    "fetched_at": "2026-11-17 22:59:59",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "반도체",
-      "기술",
-      "IT 하드웨어"
-    ],
-    "keywords": [
-      "엔비디아",
-      "실적 발표",
-      "반도체",
-      "인공지능",
-      "CEO 해임"
-    ],
-    "reason": "엔비디아의 실적 발표는 글로벌 인공지능 및 반도체 산업의 현황과 향후 전망을 가늠하는 핵심 지표입니다. 특히 CEO 해임 이후 첫 보고서이므로, 시장의 불확실성이 크며 글로벌 기술주 및 한국 증시의 반도체 섹터에 즉각적인 영향을 미 미칠 수 있습니다.",
-    "action_point": "반도체 및 인공지능 관련 기술주 포트폴리오 비중을 점검하고, 엔비디아 실적 발표 내용과 가이던스에 따라 투자 전략을 재조정할 준비를 하십시오."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Tuesday's big stock stories: What’s likely to move the market in the next trading session",
-    "title_ko": "화요일 주요 주식 이슈: 다음 거래 세션에서 시장을 움직일 요인",
-    "link": "https://www.cnbc.com/2026/11/16/tuesdays-big-stock-stories-whats-likely-to-move-the-market.html",
-    "published": "Tue, 17 Nov 2026 00:32:44 GMT",
-    "fetched_at": "2026-11-17 13:53:25",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "기술주",
-      "반도체",
-      "성장주"
-    ],
-    "keywords": [
-      "엔비디아",
-      "나스닥",
-      "기술주 하락",
-      "차익실현"
-    ],
-    "reason": "AI 대표주 엔비디아의 연속적인 하락은 기술주 전반에 대한 투자심리를 위축시키고 나스닥의 추가 조정을 야기할 수 있습니다. 이는 고평가 우려에 따른 차익 실현 압력이 확대되는 신호로 해석됩니다.",
-    "action_point": "AI 및 반도체 관련 기술주에 대한 차익 실현 및 비중 축소 가능성을 검토하라."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Berkshire Hathaway raised its stake in Delta in the third quarter. It also trimmed a key bank holding",
-    "title_ko": "버크셔 해서웨이, 3분기 델타 항공 지분 늘리고 주요 은행 지분 일부 줄여",
-    "link": "https://www.cnbc.com/2026/11/16/berkshire-hathaway-raised-its-stake-in-delta-air-in-the-third-quarter.html",
-    "published": "Mon, 16 Nov 2026 23:01:19 GMT",
-    "fetched_at": "2026-11-17 13:53:04",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "항공",
-      "은행"
-    ],
-    "keywords": [
-      "버크셔 해서웨이",
-      "델타 항공",
-      "은행",
-      "지분 변동"
-    ],
-    "reason": "버크셔 해서웨이의 포트폴리오 조정은 특정 섹터에 대한 워렌 버핏의 투자 관점을 반영합니다. 항공 섹터에는 긍정적 신호를, 은행 섹터에는 보수적인 접근 또는 포트폴리오 재조정 신호를 줄 수 있습니다.",
-    "action_point": "항공 섹터의 투자 매력도를 재평가하고, 보유 중인 금융 섹터 종목에 대한 포트폴리오 재조정 필요성을 점검하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "CNBC's The China Connection newsletter: As Nike and Lululemon struggle in China, Xiaohongshu is helping local brands take off",
-    "title_ko": "CNBC의 중국 커넥션 뉴스레터: 나이키와 룰루레몬이 중국에서 고전하는 동안, 샤오홍슈가 현지 브랜드 성장을 돕고 있다.",
-    "link": "https://www.cnbc.com/2026/11/16/as-nike-lululemon-struggle-in-china-xiaohongshu-helps-local-brands.html",
-    "published": "Mon, 16 Nov 2026 23:00:01 GMT",
-    "fetched_at": "2026-11-17 13:53:14",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "소비재 (의류/패션)",
-      "전자상거래/플랫폼"
-    ],
-    "keywords": [
-      "중국 소비",
-      "현지 브랜드",
-      "온라인 플랫폼",
-      "의류/패션",
-      "경쟁 심화"
-    ],
-    "reason": "중국 내 소비 트렌드가 현지 온라인 플랫폼을 기반으로 국내 브랜드로 쏠리면서, 나이키 등 글로벌 소비재 기업들의 중국 시장 점유율 및 매출에 부정적인 영향을 미칠 수 있습니다. 이는 중국 소비 시장의 구조적 변화를 시사합니다.",
-    "action_point": "중국 시장 노출도가 높은 글로벌 소비재(의류/패션) 기업들의 투자 비중을 재검토하고, 중국 내수 소비 관련 기업의 기회를 주시하십시오."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "U.S. crude oil declines to $85 a barrel on recovering Middle East exports",
-    "title_ko": "미국 원유, 중동 수출 회복에 배럴당 85달러로 하락",
-    "link": "https://www.cnbc.com/2026/11/16/us-crude-oil-declines-to-87-a-barrel-on-recovering-middle-east-exports.html",
-    "published": "Mon, 16 Nov 2026 22:19:02 GMT",
-    "fetched_at": "2026-11-17 07:39:41",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "항공",
-      "해운",
-      "화학",
-      "소비재"
-    ],
-    "keywords": [
-      "국제 유가",
-      "유가 하락",
-      "중동 수출",
-      "공급 과잉",
-      "인플레이션 완화"
-    ],
-    "reason": "국제 유가 하락은 인플레이션 압력을 완화하고 기업의 생산 및 운송 비용을 절감하여 전반적인 경제 활동에 긍정적으로 작용할 수 있습니다. 특히 에너지 소비가 큰 산업의 수익성 개선이 기대됩니다.",
-    "action_point": "에너지 비용 부담이 큰 항공, 해운, 화학 섹터의 비중 확대를 검토하고, 전반적인 인플레이션 둔화 추세에 주목하여 시장 대응 전략을 수립하십시오."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Trump’s accounts traded up to $97.5 million in Nvidia as Huang gained White House access",
-    "title_ko": "트럼프 계정, 젠슨 황 CEO의 중국 스파이 연루 의혹 브리핑 후 엔비디아 주식 매도",
-    "link": "https://www.cnbc.com/2026/11/16/trump-nvidia-stock-trades-jensen-huang.html",
-    "published": "Mon, 16 Nov 2026 22:37:45 GMT",
-    "fetched_at": "2026-11-17 07:39:50",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "반도체",
-      "IT",
-      "기술주"
-    ],
-    "keywords": [
-      "엔비디아",
-      "트럼프",
-      "미중 갈등",
-      "지정학적 리스크",
-      "AI"
-    ],
-    "reason": "트럼프 측의 엔비디아 주식 매도는 젠슨 황 CEO의 중국 스파이 연루 의혹과 관련하여 엔비디아 및 반도체 섹터에 대한 정치적/지정학적 리스크 증가 가능성을 시사한다. 이는 미중 기술 갈등 심화와 규제 압력으로 이어질 수 있다.",
-    "action_point": "엔비디아를 비롯한 핵심 반도체/AI 기술주에 대한 정치적, 지정학적 리스크 증가 가능성을 고려하여 비중 축소 검토."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "JPMorgan Chase says temporary software bug is affecting consumer banking",
-    "title_ko": "JP모건 체이스, 임시 소프트웨어 버그가 소비자 은행 업무에 영향을 미친다고 밝혀",
-    "link": "https://www.cnbc.com/2026/11/16/jpmorgan-chase-technical-issue.html",
-    "published": "Mon, 16 Nov 2026 22:14:47 GMT",
-    "fetched_at": "2026-11-17 07:39:25",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "금융"
-    ],
-    "keywords": [
-      "JP모건",
-      "소프트웨어 버그",
-      "은행 업무",
-      "소비자 금융"
-    ],
-    "reason": "이 소식은 JP모건 체이스의 일시적인 내부 시스템 오류로, 악성 공격이나 다른 은행으로의 확산 징후가 없어 금융 시스템 전반에 미치는 영향은 제한적입니다. 단기적으로 해당 은행의 고객 서비스와 운영 효율성에 영향을 줄 수 있으나, 거시 경제에 미치는 영향은 미미할 것입니다.",
-    "action_point": "해당 없음"
   }
 ]
