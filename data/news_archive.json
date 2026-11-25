@@ -1,5 +1,31 @@
 [
   {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
+    "title_ko": "젠슨 황 엔비디아 CEO 복귀, 미-중 AI 경쟁이 단순 반도체 경쟁이 아님을 시사",
+    "link": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html",
+    "published": "Wed, 25 Nov 2026 01:13:56 GMT",
+    "fetched_at": "2026-11-25 13:42:16",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "AI",
+      "반도체",
+      "소프트웨어",
+      "기술"
+    ],
+    "keywords": [
+      "젠슨 황",
+      "엔비디아",
+      "미국-중국 AI 경쟁",
+      "기술 인재",
+      "반도체"
+    ],
+    "reason": "미-중 AI 경쟁의 핵심이 단순한 반도체 하드웨어 공급을 넘어선 기술 인재 확보와 소프트웨어 역량에 있음을 명확히 보여준다. 이는 장기적인 기술 패권 경쟁의 양상을 더욱 복잡하고 심화시킬 것임을 시사한다.",
+    "action_point": "AI 경쟁의 핵심이 하드웨어뿐 아니라 인재 및 소프트웨어 역량으로 확장됨을 인지하고, 인력 경쟁력이 높은 국내외 AI 관련 소프트웨어 및 솔루션 기업 포트폴리오 편입을 검토하라."
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "Jensen Huang to face DC grilling the same day Nvidia releases new products at GTC",
@@ -2972,29 +2998,5 @@
     ],
     "reason": "미국, 러시아, 중국 주요 정상급 인사의 만남은 국제 정세의 중대한 전환 가능성을 시사하며, 향후 무역, 에너지, 안보 정책 변화에 대한 불확실성을 증폭시킨다.",
     "action_point": "미국 대선 결과에 따른 지정학적 정책 변화 가능성을 주시하며, 포트폴리오의 지정학적 리스크 노출도를 재점검하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Takaichi gets chilly reception in China on first Japan leader visit since 2019",
-    "title_ko": "타카이치, 2019년 이후 첫 방중에서 중국의 냉대 받아",
-    "link": "https://www.cnbc.com/2026/11/19/japan-china-trump-takaichi-taiwan-.html",
-    "published": "Thu, 19 Nov 2026 07:38:29 GMT",
-    "fetched_at": "2026-11-19 19:56:38",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "반도체",
-      "무역/수출 관련주",
-      "방산"
-    ],
-    "keywords": [
-      "일본-중국 관계",
-      "대만",
-      "지정학적 리스크",
-      "APEC"
-    ],
-    "reason": "일본과 중국 간 대만 갈등으로 인한 관계 개선 부진은 아시아 지역의 지정학적 불확실성을 지속시키며, 이는 글로벌 공급망과 무역 흐름에 부정적인 영향을 줄 수 있습니다.",
-    "action_point": "지정학적 불확실성에 노출된 아시아 지역 자산의 리스크 관리 강화 및 방산 섹터 투자 매력 재평가를 고려하라."
   }
 ]
