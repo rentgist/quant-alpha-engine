@@ -2,6 +2,80 @@
   {
     "source": "CNBC_World",
     "market": "GLOBAL",
+    "title": "Tech stocks sink but close well off the lows, Anthropic struggles to rebound above IPO price",
+    "title_ko": "기술주 하락세 보였으나 저점 대비 낙폭 줄이며 마감, Anthropic은 IPO 가격 이상 회복에 고전",
+    "link": "https://www.cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html",
+    "published": "Wed, 25 Nov 2026 21:04:57 GMT",
+    "fetched_at": "2026-11-26 08:54:27",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "기술",
+      "반도체",
+      "인공지능"
+    ],
+    "keywords": [
+      "기술주",
+      "AI",
+      "인플레이션",
+      "고금리"
+    ],
+    "reason": "인플레이션 및 고금리 리스크가 AI 투자 지출의 지속 가능성에 대한 우려를 증폭시키며 기술 및 AI 관련 성장주에 하방 압력으로 작용하고 있다.",
+    "action_point": "고금리 환경에 취약한 성장주, 특히 미국 기술 및 AI 섹터의 포트폴리오 비중 축소를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Asia-Pacific markets set for subdued open as investors weigh fresh U.S. tariffs",
+    "title_ko": "아시아 태평양 시장, 미 신규 관세 부담에 신중한 개장 예상",
+    "link": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
+    "published": "Wed, 25 Nov 2026 23:48:51 GMT",
+    "fetched_at": "2026-11-26 08:54:36",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "수출주",
+      "반도체",
+      "IT 하드웨어",
+      "자동차"
+    ],
+    "keywords": [
+      "미국 관세",
+      "아시아 시장",
+      "무역 분쟁",
+      "글로벌 공급망"
+    ],
+    "reason": "미국의 신규 관세 부과는 아시아 태평양 지역의 수출 의존 기업들에 원가 상승 및 수요 둔화 우려를 가중시켜, 전반적인 무역량 감소와 기업 실적 악화 가능성을 높인다.",
+    "action_point": "관세 부과 대상이 될 수 있는 아시아 수출 의존 기업 및 관련 섹터 비중 축소를 검토하라."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Prediction markets push OpenAI IPO expectations later into 2027",
+    "title_ko": "예측 시장, OpenAI IPO 예상 시점을 2027년 이후로 미뤄",
+    "link": "https://www.cnbc.com/2026/11/25/openai-ipo-odds-2027-prediction-markets.html",
+    "published": "Wed, 25 Nov 2026 17:08:03 GMT",
+    "fetched_at": "2026-11-26 08:54:13",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "인공지능(AI)",
+      "기술주",
+      "성장주"
+    ],
+    "keywords": [
+      "OpenAI",
+      "IPO",
+      "인공지능",
+      "기업 가치",
+      "투자 심리"
+    ],
+    "reason": "OpenAI IPO 지연은 AI 관련주 및 광범위한 기술 성장주의 약화된 투자 심리를 반영한다. 이는 고성장 기술 기업의 높은 밸류에이션에 대한 시장의 신중한 시각을 나타낼 수 있다.",
+    "action_point": "AI 및 고밸류에이션 성장주에 대한 투자 비중 재검토."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
     "title": "U.S. proposes new tariffs on 14 trading partners, including China and the EU",
     "title_ko": "미국, 중국 및 EU 포함 14개 교역국에 대한 신규 관세 부과 제안",
     "link": "https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html",
@@ -2912,82 +2986,5 @@
     ],
     "reason": "기업들이 자사주 매입 대신 주식 발행으로 전환하고 대형 IPO가 증가하면 시장에 주식 공급이 늘어나 강세장의 상승 동력을 약화시키고 밸류에이션 부담을 가중시킬 수 있습니다.",
     "action_point": "주식 시장의 유동성 변화와 기업들의 자본 조달 전략을 면밀히 주시하며 포트폴리오 내 현금 비중 확대를 검토하십시오."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia",
-    "title_ko": "트럼프 대통령 아시아 순방 복귀에도 미중 무역, 대만, 기술 갈등 미해결",
-    "link": "https://www.cnbc.com/2026/11/20/apec-summit-trump-xi-china-trade-taiwan.html",
-    "published": "Fri, 20 Nov 2026 13:29:50 GMT",
-    "fetched_at": "2026-11-21 03:09:31",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "기술",
-      "반도체",
-      "수출입 관련주"
-    ],
-    "keywords": [
-      "미중 갈등",
-      "무역 전쟁",
-      "기술 전쟁",
-      "지정학",
-      "대만"
-    ],
-    "reason": "미중 간 무역, 기술, 대만 관련 갈등이 해결되지 않으면서 글로벌 공급망과 기술 산업에 대한 불확실성이 지속됩니다. 이는 시장의 위험 회피 심리를 자극하고 주요 기술 기업들의 실적 전망에 부정적인 영향을 줄 수 있습니다.",
-    "action_point": "미중 기술 갈등에 직접 노출된 국내 기술 및 반도체 섹터의 비중 축소를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Anthropic could be tipping point for AI trade. Where investors should go from here",
-    "title_ko": "앤트로픽, AI 투자의 전환점 될 수 있지만, 월스트리트는 AI 외 기회에 주목하고 있다",
-    "link": "https://www.cnbc.com/2026/11/20/stock-market-rotation-beyond-ai.html",
-    "published": "Fri, 20 Nov 2026 17:16:14 GMT",
-    "fetched_at": "2026-11-21 03:10:12",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "기술주",
-      "AI 응용 산업",
-      "성장주"
-    ],
-    "keywords": [
-      "AI",
-      "섹터 로테이션",
-      "성장주",
-      "포트폴리오 다각화"
-    ],
-    "reason": "이 기사는 강세장의 주도권이 핵심 AI 거대 기업을 넘어 AI 수혜가 예상되는 광범위한 분야나 다른 성장 섹터로 분산될 가능성을 시사합니다. 투자자들은 다각화된 투자 기회에 대비해야 합니다.",
-    "action_point": "AI 핵심 기술주 외 AI 응용 산업 및 기타 성장주로의 투자 다각화를 검토."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "항공편 1만8000편 차질에 기밀망까지 마비됐다…결국 美 선택은",
-    "title_ko": "항공편 1만8000편 차질에 기밀망까지 마비됐다…결국 美 선택은",
-    "link": "https://www.mk.co.kr/news/world/12215017",
-    "published": "Fri, 20 Nov 2026 22:55:54 +09:00",
-    "fetched_at": "2026-11-21 03:10:45",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "항공",
-      "금융",
-      "기술",
-      "사이버 보안",
-      "방산"
-    ],
-    "keywords": [
-      "미국",
-      "사이버 공격",
-      "시스템 장애",
-      "국가 안보",
-      "항공",
-      "금융"
-    ],
-    "reason": "미국 주요 시스템의 연쇄 장애는 사이버 보안 위협의 심각성을 부각시키며, 경제 활동 및 국가 안보에 대한 불확실성을 증대시킵니다. 이는 글로벌 공급망과 투자 심리에 간접적인 영향을 미칠 수 있습니다.",
-    "action_point": "미국 핵심 인프라 취약성 노출에 따른 사이버 보안 산업의 성장 가능성을 고려하여 관련 기업 투자 비중 확대를 검토하라."
   }
 ]
