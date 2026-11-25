@@ -1,5 +1,549 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "U.S. proposes new tariffs on 14 trading partners, including China and the EU",
+    "title_ko": "미국, 중국 및 EU 포함 14개 교역국에 대한 신규 관세 부과 제안",
+    "link": "https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html",
+    "published": "Wed, 25 Nov 2026 13:37:35 GMT",
+    "fetched_at": "2026-11-26 00:11:00",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "수출주",
+      "글로벌 제조업",
+      "해운/물류",
+      "반도체",
+      "자동차"
+    ],
+    "keywords": [
+      "관세",
+      "무역 전쟁",
+      "미국 무역 정책",
+      "글로벌 공급망",
+      "수출"
+    ],
+    "reason": "미국의 신규 관세 부과 제안은 글로벌 무역 긴장을 고조시키고 공급망 불안정성을 증폭시켜, 전 세계 기업들의 비용 증가와 수익성 하락 압력으로 작용할 수 있습니다. 이는 거시경제 불확실성을 키워 주식 시장 전반에 부정적인 영향을 미칠 수 있습니다.",
+    "action_point": "글로벌 공급망에 노출된 수출주 비중 축소를 검토하고, 방어적 섹터 및 내수 중심 자산에 대한 관심을 확대하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Dow tumbles 700 points, Nasdaq loses 3% as Nvidia leads resumption of AI sell-off: Live updates",
+    "title_ko": "다우지수 700포인트 폭락, 엔비디아 주도 AI 매도세 재개로 나스닥 3% 하락: 실시간 업데이트",
+    "link": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
+    "published": "Wed, 25 Nov 2026 15:04:24 GMT",
+    "fetched_at": "2026-11-26 00:11:10",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "기술주",
+      "반도체",
+      "AI 관련주"
+    ],
+    "keywords": [
+      "엔비디아",
+      "AI 매도세",
+      "기술주",
+      "증시 하락",
+      "나스닥"
+    ],
+    "reason": "미국 주요 증시가 큰 폭으로 하락했으며, 특히 엔비디아를 필두로 한 AI 관련 기술주 매도세가 재개되면서 전반적인 투자 심리가 위축되고 위험 회피 성향이 강화될 것으로 예상됩니다. 이는 국내 기술주 및 성장주에도 부정적인 영향을 미칠 수 있습니다.",
+    "action_point": "고평가된 국내외 AI 및 기술주 비중 축소를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Fed’s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
+    "title_ko": "연준 선호 인플레이션 지표 10월 3.8%로 가속화, 2027년 연준의 목표 달성 부담 가중",
+    "link": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
+    "published": "Wed, 25 Nov 2026 14:18:45 GMT",
+    "fetched_at": "2026-11-26 00:11:23",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "기술주",
+      "성장주",
+      "부동산",
+      "금융"
+    ],
+    "keywords": [
+      "인플레이션",
+      "연준",
+      "PCE",
+      "금리 인상",
+      "통화정책"
+    ],
+    "reason": "연준 선호 인플레이션 지표의 가속화는 시장의 금리 인하 기대감을 약화시키고 연준이 고금리 기조를 더 오래 유지할 가능성을 높인다. 이는 위험 자산에 대한 투자 심리를 위축시키고 경기 둔화 가능성을 증대시킨다.",
+    "action_point": "금리 인하 기대감 후퇴에 따라 기술주 등 성장주 비중 축소를 검토하고, 달러 자산 보유를 통해 포트폴리오의 안정성을 확보하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Even the price of toys is on the rise. How Americans are scaling back holiday plans",
+    "title_ko": "장난감 가격마저 오름세, 미국인들의 연휴 계획 축소",
+    "link": "https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html",
+    "published": "Wed, 25 Nov 2026 14:55:10 GMT",
+    "fetched_at": "2026-11-26 00:11:41",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "소비재",
+      "여행/레저",
+      "에너지"
+    ],
+    "keywords": [
+      "미국 소비자",
+      "인플레이션",
+      "연휴 지출",
+      "에너지 가격",
+      "이란 전쟁"
+    ],
+    "reason": "미국 소비자들의 지출 축소는 경기 둔화 우려를 키우며, 지속되는 인플레이션과 지정학적 에너지 리스크는 기업 수익성을 압박할 것입니다.",
+    "action_point": "미국 소비재 및 여행 섹터 투자 비중 축소 검토"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Ukraine tells Putin to ‘stop complaining’ over oil refinery attacks as Russia promises retaliation",
+    "title_ko": "우크라이나, 러시아 정유시설 공격 관련 푸틴에 '불평 그만두라' 경고... 러시아는 보복 약속",
+    "link": "https://www.cnbc.com/2026/11/25/ukraine-putin-russia-oil-refinery-attacks.html",
+    "published": "Wed, 25 Nov 2026 09:18:37 GMT",
+    "fetched_at": "2026-11-26 00:11:48",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "에너지",
+      "방산",
+      "해운/물류"
+    ],
+    "keywords": [
+      "러시아-우크라이나 전쟁",
+      "정유시설 공격",
+      "유가",
+      "지정학적 리스크",
+      "에너지 안보"
+    ],
+    "reason": "우크라이나의 러시아 정유시설 공격과 러시아의 보복 위협은 에너지 공급 불안정을 심화시켜 유가 상승 압력을 가중시킨다. 이는 글로벌 인플레이션 및 경기 둔화 우려를 고조시켜 금융 시장 전반의 변동성을 키울 수 있다.",
+    "action_point": "원유 관련 자산 비중 확대를 검토하고 지정학적 리스크 헤징 전략을 모색하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[속보] 美, 한국 등 14개 경제주체에 ’과잉생산 관세’ 예고 - 연합뉴스TV",
+    "title_ko": "美, 한국 등 14개 경제주체에 ’과잉생산 관세’ 예고",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1rVG42VFZKXzZ2N2tobVd3SDVPb0FEMUkycTZ0Wks1TG1rLWRqUUdvQzd5WW5mSWZGSFlBRU45b1VRVnE5ZE5kd0VrZkRWakppTGlFSF8zNVpxcllIZk9lLWl3UEJmWjQ?oc=5",
+    "published": "Wed, 25 Nov 2026 13:20:00 GMT",
+    "fetched_at": "2026-11-26 00:11:57",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "수출주",
+      "철강",
+      "화학",
+      "자동차"
+    ],
+    "keywords": [
+      "미국",
+      "관세",
+      "과잉생산",
+      "무역갈등",
+      "대한민국"
+    ],
+    "reason": "미국의 과잉생산 관세 예고는 한국의 수출 주도 산업에 직접적인 타격을 줄 수 있으며, 글로벌 무역 마찰 심화로 이어져 시장 불확실성을 증대시킬 것입니다.",
+    "action_point": "미국 시장 의존도가 높은 국내 수출주 비중 축소를 검토하고, 무역 분쟁 장기화 가능성에 대비하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[속보] 미 무역대표부 \"한국·일본·EU 등 관세 15% 상한 유지\" - MBC 뉴스",
+    "title_ko": "[속보] 미 무역대표부 \"한국·일본·EU 등 관세 15% 상한 유지\" - MBC 뉴스",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0yaWVUMkk1cDVTTWVlbS0tZHZpOGFvSGc1MTA0anZ2ZjlYUHdSZlJuMFo1M3BqU0FHT2dzRjBHWVEwMHNvNnpwT2gtYlcwOUdkUGtoeG1uRmNyZ1dvT1BUZlBDdUdzejNTanFicnNvLUJyM1pr0gF0QVVfeXFMTkYtbnVtd3VVdW5OMnBtOGdPeVVHZWkyYzFfVGFBOTdIbm96T3RMWVUyOTRUZWw4MmsxSUc2NVBNeUdpREFWUzZpOWVaM0hiYVJaa01ad1Itc1JEendPLU03aFNRMmFoX1N6ZTBhZ2hnM084S1o?oc=5",
+    "published": "Wed, 25 Nov 2026 13:20:58 GMT",
+    "fetched_at": "2026-11-26 00:12:06",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "수출주",
+      "자동차",
+      "전자",
+      "화학"
+    ],
+    "keywords": [
+      "미 무역대표부",
+      "관세",
+      "무역정책",
+      "수출"
+    ],
+    "reason": "미국이 한국, 일본, EU 등 주요 교역국에 대한 관세 상한을 유지함으로써 무역 불확실성 확대 우려를 완화하고 수출 중심 산업의 안정적 환경을 조성합니다.",
+    "action_point": "무역 의존도가 높은 국내 수출주 포지션을 안정적으로 유지하고, 추가적인 무역 정책 변화 여부를 주시."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[속보] 미, 14개국에 과잉생산 관세…“한국 15% 상한 유지” - 한겨레",
+    "title_ko": "미, 14개국에 과잉생산 관세…“한국 15% 상한 유지”",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcV9RZkpTUTZrYkdsMlFod0dza0l3NHdxdlFxZjlwT2ZhWVFuNlplMDUtbm9jUGwwZkc1Q2ZOdDBvVG1JTFQwMDdJU3JXZ09YTFJaMjVXRnd2Um9XQzFodTNTcklpRUhvY2JwZ2JiR0tjcE9lLW5FekFhX1F0bzIzOGhn?oc=5",
+    "published": "Wed, 25 Nov 2026 14:07:00 GMT",
+    "fetched_at": "2026-11-26 00:12:20",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "수출",
+      "제조업",
+      "산업재"
+    ],
+    "keywords": [
+      "미국",
+      "관세",
+      "과잉생산",
+      "무역정책",
+      "보호주의"
+    ],
+    "reason": "미국이 14개국에 과잉생산 관세를 부과하며 무역 보호주의 기조를 강화하고 있으나, 한국은 기존 15% 상한을 유지하여 즉각적인 추가 관세 부담은 피했다. 이는 글로벌 무역 환경의 불확실성이 지속됨을 시사한다.",
+    "action_point": "미국의 무역 보호주의 강화 기조에 대비하여 수출 중심 기업의 공급망 재편 및 시장 다변화 전략을 재점검하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[속보] 美, 한국 등 14개 경제주체에 ‘과잉생산 관세’ 예고 - 중앙일보",
+    "title_ko": "[속보] 美, 한국 등 14개 경제주체에 ‘과잉생산 관세’ 예고",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5tQmhtU0ZNR3FFbjdYbmhmdnZMY0YxR200bmJWU2FSMTdCNGRpNy1rd2JEakNlUnNPeTFYS1dFN1VIMExhRFRGSmtoNzMwY1pTWlN0Vkxn?oc=5",
+    "published": "Wed, 25 Nov 2026 13:21:07 GMT",
+    "fetched_at": "2026-11-26 00:12:39",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "수출 산업",
+      "제조업"
+    ],
+    "keywords": [
+      "미국",
+      "관세",
+      "과잉생산",
+      "무역분쟁",
+      "한국"
+    ],
+    "reason": "미국의 과잉생산 관세 예고는 한국의 수출 중심 산업에 직접적인 부담을 주어 기업 실적 악화 및 경제 성장 둔화를 야기할 수 있습니다. 이는 통상 불확실성을 높여 국내 증시에 부정적 영향을 미칠 전망입니다.",
+    "action_point": "미국향 수출 의존도가 높은 국내 제조업 섹터의 투자 비중 축소를 검토하고, 통상 마찰 심화 가능성에 대비하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[속보] 미 USTR, 14개 경제주체에 과잉생산 관세···“한국·일본·EU 등은 관세 15% 상한 유지” - 경향신문",
+    "title_ko": "[속보] 미 USTR, 14개 경제주체에 과잉생산 관세···“한국·일본·EU 등은 관세 15% 상한 유지” - 경향신문",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5od2xiQmxRLW16ZFV1aWxqTWJPcm96eWFNYkszak1RZ1FSbllpbkF2aC1FRHgyWDlqSjR4ZFo5N2NucUpSQlkwaDNtclR6U3Y3S3VqbGdoQkg5d9IBX0FVX3lxTE5OMzMyQmd2OW41LXB4VjNXLW4xVDNDNjFSMUpiT0JzeDV4TzBVYmhlazBtZkdVSF9KanAwbzBBSGtsRnUxclJ3OXJUNzFidkt6Unh0QURBbEdKSm5mU1Iw?oc=5",
+    "published": "Wed, 25 Nov 2026 13:26:00 GMT",
+    "fetched_at": "2026-11-26 00:12:52",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "수출주",
+      "제조업"
+    ],
+    "keywords": [
+      "미국 USTR",
+      "관세",
+      "과잉생산",
+      "무역정책",
+      "한국 무역"
+    ],
+    "reason": "미국 무역대표부가 14개 경제주체에 과잉생산 관세를 부과했으나, 한국, 일본, EU 등은 15% 관세 상한선을 유지한다는 점이 핵심이다. 이는 한국의 특정 수출 산업에 대한 관세 압박이 일정 수준으로 제한될 것임을 시사한다.",
+    "action_point": "미국의 과잉생산 관세 적용 대상 산업군 중 한국 수출 의존도가 높은 기업에 대한 투자 전략을 재검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "(보도설명) 우리 경제의 전체적인 부채 부담은 개선되는 모습입니다. - 대한민국 정책브리핑",
+    "title_ko": "(보도설명) 우리 경제의 전체적인 부채 부담은 개선되는 모습입니다.",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQakI3T0ZJMVotREVtYXpDTG9YaEpkUGtIWng5dFdaWUVuN3NZRFk4bzlnQjJxZnlkbXBOQ2o0dXQ0TFZmR0dZaHZIY29DLW9mR1Y3YnI5ak1keXY1RjFqc3Foc2dwRUt5Z0hPclhQVzFCYnlGQ2VYdXlwbVhEWHpYNkpLWmV1Z3VESk9PRQ?oc=5",
+    "published": "Wed, 25 Nov 2026 11:08:51 GMT",
+    "fetched_at": "2026-11-26 00:13:03",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "금융",
+      "건설",
+      "소비재"
+    ],
+    "keywords": [
+      "부채 부담",
+      "경제 안정",
+      "내수 회복",
+      "재정 건전성"
+    ],
+    "reason": "한국 경제의 전체적인 부채 부담 개선은 가계 및 기업의 재무 건전성 향상을 의미하며, 이는 소비와 투자 심리 회복에 긍정적인 영향을 미쳐 내수 활성화를 기대하게 합니다. 또한, 금리 인하 여력을 확보할 수 있는 요인으로 작용할 수 있습니다.",
+    "action_point": "국내 금리 민감주 및 내수 소비재 섹터 비중 확대를 검토하십시오."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[亞증시-종합] 리스크 오프 심리 확산 - 연합인포맥스",
+    "title_ko": "[亞증시-종합] 리스크 오프 심리 확산",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBDQTVnYW5mc1Q0QjhMcFZzTTV1cmlyUzhEdkhhVkwwbGhLQ1dEN0xFZmZtbjhhejVUVDd4cE1RTU53TXhSdmJsQ2NndXNDYnFjZEJFeXdGRTlCYTlqSjc4LUctQnRUQ0gzeXFneF9rU0E?oc=5",
+    "published": "Wed, 25 Nov 2026 10:25:23 GMT",
+    "fetched_at": "2026-11-26 00:13:11",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "주식 시장 전반",
+      "환율 시장",
+      "채권 시장"
+    ],
+    "keywords": [
+      "리스크 오프",
+      "아시아 증시",
+      "투자 심리",
+      "안전자산 선호"
+    ],
+    "reason": "아시아 증시 전반에 걸친 리스크 오프 심리 확산은 위험자산 회피 및 안전자산 선호 심리를 강화하여 주식 시장 하방 압력 및 달러 등 안전통화 강세를 유발할 수 있습니다.",
+    "action_point": "성장주 및 고변동성 자산 비중 축소를 검토하고, 방어적 섹터 또는 달러 등 안전자산 비중 확대를 고려하십시오."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "美 \"한국 관세 15% 상한 유지\"",
+    "title_ko": "美 \"한국 관세 15% 상한 유지\"",
+    "link": "https://www.mk.co.kr/news/world/12218782",
+    "published": "Wed, 25 Nov 2026 23:26:01 +09:00",
+    "fetched_at": "2026-11-26 00:13:24",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "수출주",
+      "제조업",
+      "자동차",
+      "IT 하드웨어"
+    ],
+    "keywords": [
+      "미국 관세",
+      "트럼프",
+      "과잉생산",
+      "한미 무역",
+      "수출"
+    ],
+    "reason": "트럼프 행정부의 '과잉생산 관세' 부과 추진은 한국 수출 기업의 불확실성을 높이지만, 15% 상한선 설정은 전면적인 무역 갈등으로의 확대를 제한하는 완충 작용을 할 수 있습니다.",
+    "action_point": "미국 수출 비중이 높은 국내 기업의 투자 비중을 점검하고, 무역 분쟁 장기화 가능성에 대비하십시오."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "'추가관세' 최악 피한 韓 … 다음 변수는 쿠팡발 디지털규제",
+    "title_ko": "'추가관세' 최악 피한 韓 … 다음 변수는 쿠팡발 디지털규제",
+    "link": "https://www.mk.co.kr/news/world/12218780",
+    "published": "Wed, 25 Nov 2026 23:23:45 +09:00",
+    "fetched_at": "2026-11-26 00:13:37",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "플랫폼",
+      "유통",
+      "IT서비스",
+      "수출주"
+    ],
+    "keywords": [
+      "관세",
+      "트럼프",
+      "한미무역",
+      "디지털규제",
+      "플랫폼",
+      "전자상거래"
+    ],
+    "reason": "미국발 추가 관세의 최악 시나리오를 피하며 단기적인 수출주 관련 불확실성은 완화되었으나, 쿠팡발 디지털 규제 이슈가 국내 플랫폼 및 전자상거래 기업에 새로운 정책 리스크로 부상했습니다.",
+    "action_point": "플랫폼 및 전자상거래 섹터 기업들의 규제 리스크를 면밀히 분석하고 포트폴리오 비중 조정을 검토하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "[속보] 美 10월 PCE 물가 전년 대비 3.8%↑…예상치 부합",
+    "title_ko": "美 10월 PCE 물가 전년 대비 3.8%↑…예상치 부합",
+    "link": "https://www.mk.co.kr/news/world/12218748",
+    "published": "Wed, 25 Nov 2026 22:36:40 +09:00",
+    "fetched_at": "2026-11-26 00:14:32",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "기술주",
+      "성장주",
+      "금융주",
+      "채권"
+    ],
+    "keywords": [
+      "미국 PCE",
+      "인플레이션",
+      "연준",
+      "금리",
+      "소비지출"
+    ],
+    "reason": "미국 10월 PCE 물가지수가 예상치에 부합하며 인플레이션 둔화 추세가 지속됨을 확인, 연준의 추가 금리 인상 가능성이 낮아지고 금리 인하 기대감을 유지하는 요인으로 작용할 것입니다.",
+    "action_point": "예상치 부합으로 인한 불확실성 감소를 반영하여 국내외 성장주 및 장기 채권 투자 비중 유지."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Liesman: Nvidia whiplash tests Kevin Warsh’s push to read market signals",
+    "title_ko": "리지만: 엔비디아의 급변동이 케빈 워시의 시장 신호 해석 시도를 시험대에 올리다",
+    "link": "https://www.cnbc.com/2026/11/25/nvidia-kevin-warsh-fed-market-signals.html",
+    "published": "Wed, 25 Nov 2026 12:26:41 GMT",
+    "fetched_at": "2026-11-26 00:10:43",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "기술주",
+      "반도체"
+    ],
+    "keywords": [
+      "엔비디아",
+      "연방준비제도",
+      "시장 변동성",
+      "통화 정책"
+    ],
+    "reason": "엔비디아와 같은 대형 기술주의 극심한 변동성은 연준의 시장 신호 해석을 어렵게 하여 통화 정책의 불확실성을 가중시키고 시장 전반의 변동성을 키울 수 있습니다.",
+    "action_point": "고성장 기술주 중심의 시장 변동성 확대에 대비하여 포트폴리오의 기술주 비중을 점검하고 위험 관리를 강화하십시오."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Budget carrier Norse Atlantic falls 78% after warning its finances are ‘critical’ amid soaring fuel costs",
+    "title_ko": "저가 항공사 노스 애틀랜틱, 치솟는 연료비로 재정 '위기' 경고 후 78% 폭락",
+    "link": "https://www.cnbc.com/2026/11/25/norse-atlantic-financial-warning-fuel-costs.html",
+    "published": "Wed, 25 Nov 2026 14:24:04 GMT",
+    "fetched_at": "2026-11-26 00:11:32",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "항공"
+    ],
+    "keywords": [
+      "항공사",
+      "연료비",
+      "저가항공",
+      "유동성 위기"
+    ],
+    "reason": "고유가 지속으로 저가 항공사들의 재정 건전성이 악화될 수 있음을 보여주는 사례이며, 항공 섹터 전반의 수익성 하락 압력을 시사합니다.",
+    "action_point": "항공 섹터, 특히 재무구조가 취약한 저가 항공사 관련 투자 비중 축소를 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[속보] 미국 정부 “한국, 일본, EU 등 관세 15% 상한 유지” - KBS 뉴스",
+    "title_ko": "[속보] 미국 정부 “한국, 일본, EU 등 관세 15% 상한 유지”",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5aUEZwVVktUWppWGtveEl1VTJZb1VWSnZYTWJadUNWc2hJaXZsaVRjRU9GcGQ5RDRTalAyTUc0dFh4bnJrZTRnLURpWXlFS0ZLSUFqWkE3TUo2dnItdXVOWm1taXRBQQ?oc=5",
+    "published": "Wed, 25 Nov 2026 13:44:00 GMT",
+    "fetched_at": "2026-11-26 00:12:28",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "철강",
+      "알루미늄",
+      "제조업"
+    ],
+    "keywords": [
+      "미국 관세",
+      "한국",
+      "일본",
+      "EU",
+      "무역정책"
+    ],
+    "reason": "미국이 한국, 일본, EU 등 주요 동맹국에 대한 관세 상한을 유지한다는 정책은 현행 무역 갈등이 더 이상 악화되지 않을 것임을 시사합니다. 이는 해당 국가들의 수출 기업, 특히 철강 및 알루미늄 관련 기업의 불확실성을 일부 해소하고 안정적인 사업 환경 유지에 기여합니다.",
+    "action_point": "철강 및 알루미늄 관련 국내 수출 기업의 안정적 실적 유지 여부 주시."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "李 \"공적주택, 중산층에게도 기회를 … 분양전환은 금지해야\"",
+    "title_ko": "李 \"공적주택, 중산층에게도 기회를 … 분양전환은 금지해야\"",
+    "link": "https://www.mk.co.kr/news/politics/12218774",
+    "published": "Wed, 25 Nov 2026 23:18:09 +09:00",
+    "fetched_at": "2026-11-26 00:13:54",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "부동산",
+      "건설"
+    ],
+    "keywords": [
+      "공적주택",
+      "중산층",
+      "주택공급",
+      "분양전환 금지",
+      "부동산 정책"
+    ],
+    "reason": "이 정책은 중산층을 위한 공적 주택 공급을 확대하고 분양 전환을 금지함으로써 주택 시장의 투자 매력을 감소시키고, 특히 주택 개발 및 분양을 통한 수익을 제한할 가능성이 있습니다.",
+    "action_point": "국내 주택 시장 내 주택 개발 및 분양 관련 투자 비중 축소를 검토하라."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "한투저축은행 해킹 사고… 8만6000명 정보 털렸다",
+    "title_ko": "한투저축은행 해킹 사고… 8만6000명 정보 털렸다",
+    "link": "https://www.mk.co.kr/news/economy/12218769",
+    "published": "Wed, 25 Nov 2026 23:12:38 +09:00",
+    "fetched_at": "2026-11-26 00:14:04",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "금융",
+      "저축은행"
+    ],
+    "keywords": [
+      "해킹",
+      "개인정보유출",
+      "저축은행",
+      "사이버보안"
+    ],
+    "reason": "해당 사고는 저축은행을 포함한 금융권 전반의 사이버보안 리스크에 대한 우려를 증폭시키며, 금융당국의 규제 강화 및 금융기관의 보안 투자 확대로 이어질 수 있습니다. 이는 관련 기업의 평판 및 운영 비용에 부정적 영향을 미칠 수 있습니다.",
+    "action_point": "저축은행 등 금융 섹터 내 사이버 보안 취약 우려 기업에 대한 투자 비중 재검토."
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "전국철도노조 준법 투쟁… 수도권 전철 등 지연 우려",
+    "title_ko": "전국철도노조 준법 투쟁… 수도권 전철 등 지연 우려",
+    "link": "https://www.mk.co.kr/news/society/12218768",
+    "published": "Wed, 25 Nov 2026 23:12:27 +09:00",
+    "fetched_at": "2026-11-26 00:14:20",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "물류/운송",
+      "유통",
+      "제조"
+    ],
+    "keywords": [
+      "전국철도노조",
+      "준법 투쟁",
+      "총파업",
+      "철도 지연",
+      "물류",
+      "수도권"
+    ],
+    "reason": "전국철도노조의 준법 투쟁 및 총파업 예고는 국내 물류 및 수도권 교통망에 심각한 지연을 초래할 수 있으며, 이는 단기적인 경제 활동 위축과 기업 비용 증가로 이어질 수 있다.",
+    "action_point": "국내 철도 운송 의존도가 높은 물류 및 제조 섹터 기업들의 잠재적 수익성 악화 가능성에 대비하여 관련 익스포저를 점검하라."
+  },
+  {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Utah drops criminal charges against Kalshi founders after company suspended operations in state",
+    "title_ko": "유타주, 칼시 창업자들에 대한 형사 고발 철회... 회사 주 내 운영 중단 후",
+    "link": "https://www.cnbc.com/2026/11/24/utah-drops-charges-against-kalshi-after-it-halted-operations-in-state.html",
+    "published": "Tue, 24 Nov 2026 20:45:57 GMT",
+    "fetched_at": "2026-11-26 00:10:52",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "핀테크"
+    ],
+    "keywords": [
+      "Kalshi",
+      "예측 시장",
+      "미국 규제",
+      "핀테크"
+    ],
+    "reason": "이 뉴스는 미국 특정 주에서의 예측 시장 플랫폼에 대한 규제 및 법적 이슈 해결에 관한 것으로, 글로벌 거시경제나 주요 투자 자산(주식, 금리, 환율 등)에 미치는 직접적인 영향은 매우 제한적입니다. 핀테크 분야 내 특정 혁신 서비스의 규제 리스크를 간접적으로 시사하는 정도입니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "CNBC_Finance",
     "market": "US",
     "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
@@ -2445,558 +2989,5 @@
     ],
     "reason": "미국 주요 시스템의 연쇄 장애는 사이버 보안 위협의 심각성을 부각시키며, 경제 활동 및 국가 안보에 대한 불확실성을 증대시킵니다. 이는 글로벌 공급망과 투자 심리에 간접적인 영향을 미칠 수 있습니다.",
     "action_point": "미국 핵심 인프라 취약성 노출에 따른 사이버 보안 산업의 성장 가능성을 고려하여 관련 기업 투자 비중 확대를 검토하라."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Warsh wants Fed officials to talk less. Instead, they’re talking more",
-    "title_ko": "워시 전 연준 이사, 연준 관료들의 잦은 발언에 우려 표명",
-    "link": "https://www.cnbc.com/2026/11/20/warsh-fed-forward-guidance-rate-hikes.html",
-    "published": "Fri, 20 Nov 2026 15:20:54 GMT",
-    "fetched_at": "2026-11-21 03:09:16",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "금융",
-      "기술주"
-    ],
-    "keywords": [
-      "연준",
-      "통화정책",
-      "커뮤니케이션",
-      "불확실성",
-      "시장 변동성"
-    ],
-    "reason": "연준 관계자들의 분산된 발언 증가는 통화정책 방향에 대한 시장의 혼란을 가중시키고 예측 가능성을 떨어뜨려 금융 시장 전반의 변동성을 키울 수 있습니다. 이는 금리, 환율 등 주요 자산 가격에 불확실성을 더합니다.",
-    "action_point": "연준의 정책 방향 불확실성 증대에 따라 시장 변동성 확대에 취약한 고성장/고위험 자산 비중을 축소하고, 안전자산 비중을 확대하는 포트폴리오 재조정 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Jensen Huang wasn't mentioned in latest talks with China, Bessent says",
-    "title_ko": "베센트, '최근 대중국 협상에서 젠슨 황 언급되지 않았다' 밝혀",
-    "link": "https://www.cnbc.com/2026/11/20/treasury-secretary-scott-bessent.html",
-    "published": "Fri, 20 Nov 2026 17:11:54 GMT",
-    "fetched_at": "2026-11-21 03:09:59",
-    "sentiment": "중립",
-    "importance": 3,
-    "sectors": [
-      "반도체",
-      "기술"
-    ],
-    "keywords": [
-      "젠슨 황",
-      "엔비디아 스캔들",
-      "미중 기술 갈등",
-      "반도체 규제"
-    ],
-    "reason": "최근 미중 협상에서 엔비디아 스캔들과 관련된 핵심 기업에 대한 추가 제재나 젠슨 황 CEO의 직접적인 언급이 없었다는 점은 단기적으로 반도체 섹터의 추가 규제 리스크 압력을 완화할 수 있습니다.",
-    "action_point": "반도체 섹터의 미중 추가 규제 압력 완화 여부를 확인하며 관련 종목의 투자 비중 조정 기회 탐색."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Anthropic defies the odds, holding record IPO despite ‘massively disruptive’ market",
-    "title_ko": "Anthropic, '대규모 파괴적' 시장에도 불구하고 사상 최대 IPO 기록",
-    "link": "https://www.cnbc.com/2026/11/20/anthropic-defies-odds-holding-ipo-despite-massively-disruptive-market.html",
-    "published": "Fri, 20 Nov 2026 17:10:52 GMT",
-    "fetched_at": "2026-11-21 03:10:20",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "인공지능(AI)",
-      "기술주(Tech)",
-      "성장주(Growth Stocks)"
-    ],
-    "keywords": [
-      "AI",
-      "IPO",
-      "기술주",
-      "성장주"
-    ],
-    "reason": "시장 침체와 AI 회의론 속에서도 Anthropic의 사상 최대 IPO는 AI 자산에 대한 투자자들의 강한 신뢰와 수요를 보여줍니다. 이는 AI 및 기술 섹터에 대한 지속적인 투자심리 개선으로 이어질 수 있습니다.",
-    "action_point": "AI 관련 유망 기업 및 기술주 섹터 비중 확대를 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Anthropic shares fall 6% in premarket amid AI selloff as Nvidia, AMD shares drop",
-    "title_ko": "엔비디아와 AMD 주가 하락 속 AI 매도세로 앤트로픽 주가 개장 전 6% 하락",
-    "link": "https://www.cnbc.com/2026/11/20/anthropic-stock-ai-amd-nvidia.html",
-    "published": "Fri, 20 Nov 2026 09:12:22 GMT",
-    "fetched_at": "2026-11-20 18:25:57",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "인공지능",
-      "기술주",
-      "반도체"
-    ],
-    "keywords": [
-      "앤트로픽",
-      "AI 매도세",
-      "엔비디아",
-      "AMD",
-      "기술주 하락"
-    ],
-    "reason": "AI 섹터 전반에 대한 투자자들의 차익 실현 및 고평가 우려가 확산되고 있음을 시사합니다. 엔비디아, AMD 등 핵심 반도체 기업들의 주가 하락은 AI 성장 모멘텀 둔화 가능성에 대한 시장의 경계심을 높일 수 있습니다.",
-    "action_point": "AI 및 반도체 섹터 비중 축소 또는 차익 실현을 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Nasdaq futures fall after Anthropic fails to lift market sentiment: Live updates",
-    "title_ko": "Anthropic 효과 실망으로 나스닥 선물 하락: 실시간 업데이트",
-    "link": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html",
-    "published": "Fri, 20 Nov 2026 09:08:45 GMT",
-    "fetched_at": "2026-11-20 18:26:05",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "기술주",
-      "성장주",
-      "미국 주식 시장 전반"
-    ],
-    "keywords": [
-      "나스닥",
-      "선물",
-      "시장 심리",
-      "하락",
-      "기술주"
-    ],
-    "reason": "Anthropic 관련 소식이 시장 심리를 회복시키지 못하고 주요 지수들이 2% 이상 하락하여 전반적인 시장의 투자 심리가 위축되고 있음을 시사하며, 특히 기술주 및 성장주에 대한 압력이 커질 수 있습니다.",
-    "action_point": "기술주 및 성장주 비중 축소를 검토하고, 전반적인 주식 포트폴리오의 위험 노출을 줄이는 방안을 고려."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "내년 경제성장전략에 쏠린 눈…정부, 성장 전망 4%대로 올릴까 - 연합인포맥스",
-    "title_ko": "내년 경제성장전략에 쏠린 눈…정부, 성장 전망 4%대로 올릴까",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9TcHZQSVFiRWhIRVQzSTVldkNleTduZkNHR3pPVU4tbmQwRElIVndGTkhaMnYzZ1RiMzZYLXVlNmZPT1pNemlJc0pSQWplcV9SQU50Q0hISmlOVXZydHdTckF0MjRER1ZRa0FES3hzc0Q?oc=5",
-    "published": "Fri, 20 Nov 2026 08:59:57 GMT",
-    "fetched_at": "2026-11-20 18:26:52",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "경기민감주",
-      "내수주",
-      "금융주"
-    ],
-    "keywords": [
-      "경제성장률",
-      "정부전망",
-      "경기회복",
-      "금리인상",
-      "주식시장"
-    ],
-    "reason": "정부가 내년 경제성장률 전망치를 상향 조정할 경우, 국내 기업 실적 개선 기대감과 전반적인 경기 회복 신호로 작용하여 주식 시장에 긍정적인 영향을 미칠 수 있습니다. 이는 향후 한국은행의 통화정책에도 영향을 줄 수 있습니다.",
-    "action_point": "국내 경기민감주 및 내수 소비 관련 주식 비중 확대를 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[속보] 급락장에 코스피 이어 코스닥서도 매도 사이드카 - MBC 뉴스",
-    "title_ko": "[속보] 급락장에 코스피 이어 코스닥서도 매도 사이드카",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9kVEZWODFlLV9nZFZsbE96Nm5VNUlYY0VrT0R4TEx2S0tZbnluWUZGRExHOGVjV1lRMFgxd21lbGo3ZlUyNTNSQmdlMHUzQllMWVFUWHkyZXBzN2xvVUJkQkoxUzZFdUFjVDlHSjlPTDRReUt50gF0QVVfeXFMTkhubEVHSnJrdlYzWXBGdFlPYzhSSHZVRERWSnFWUF9MVk1wX1cxMFNsTXAxazRGQ05GODM2OE9pVWtWMG1zTDZlZm12V2MxRDd1UmY5ZUppUzF4cmxaaTN6TU9sZTB1YndyS0IyRjBjRkNROEg?oc=5",
-    "published": "Fri, 20 Nov 2026 04:31:20 GMT",
-    "fetched_at": "2026-11-20 18:27:10",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "전 섹터",
-      "증권"
-    ],
-    "keywords": [
-      "급락장",
-      "코스피",
-      "코스닥",
-      "매도 사이드카",
-      "주식시장 변동성"
-    ],
-    "reason": "코스피와 코스닥 동시 매도 사이드카 발동은 국내 증시의 심각한 불안정성과 투자자 패닉을 보여주며, 광범위한 리스크 회피 심리가 작용하고 있음을 시사합니다. 이는 국내외 중대 악재 반영 또는 시장의 구조적 취약성 가능성을 의미합니다.",
-    "action_point": "국내 주식 비중을 즉각적으로 축소하고 현금 비중을 늘려 시장 변동성에 대비하며, 방어적 자산으로의 포트폴리오 리밸런싱을 고려하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "산업부·경제 6단체, '수출 1조달러' 넘어 질적 성장 나선다 - 뉴스핌",
-    "title_ko": "산업부·경제 6단체, '수출 1조달러' 넘어 질적 성장 나선다",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8tMm92MDFvRVhSckU3X3VjYUJsMmpodk1lNEpxRzg1TmlXcUFWeG9ibmp6ZkZnVjhybzQzNno5b3YxZW1uSzR5V2R1SnRIczl3VmE1M2JmLUsxMjIx?oc=5",
-    "published": "Fri, 20 Nov 2026 06:52:00 GMT",
-    "fetched_at": "2026-11-20 18:27:22",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "반도체",
-      "IT",
-      "자동차",
-      "조선",
-      "친환경에너지",
-      "첨단소재"
-    ],
-    "keywords": [
-      "수출",
-      "질적 성장",
-      "산업부",
-      "경제단체",
-      "정책"
-    ],
-    "reason": "정부와 경제단체가 수출의 양적 성장을 넘어 질적 성장을 추구하는 정책 방향을 제시함에 따라, 한국 경제의 장기적인 경쟁력 강화 및 산업 구조 고도화가 기대됩니다. 이는 고부가가치 수출 중심 기업들의 수익성 개선 및 국내 증시 전반에 긍정적으로 작용할 수 있습니다.",
-    "action_point": "정책 수혜가 예상되는 고부가가치 수출 산업(예: 첨단 IT, 친환경 에너지, 스마트 모빌리티) 관련 기업에 대한 비중 확대를 검토하십시오."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "“AI 붕괴 오면 고통스런 경기침체 이어질 것…한국 집값도 위험” [딥머니 토크]",
-    "title_ko": "“AI 붕괴 오면 고통스런 경기침체 이어질 것…한국 집값도 위험” [딥머니 토크]",
-    "link": "https://www.mk.co.kr/news/economy/12214904",
-    "published": "Fri, 20 Nov 2026 18:19:21 +09:00",
-    "fetched_at": "2026-11-20 18:27:47",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "IT/기술주",
-      "부동산",
-      "금융",
-      "경기민감주"
-    ],
-    "keywords": [
-      "AI 붕괴",
-      "경기침체",
-      "부동산",
-      "케네스 로고프",
-      "집값"
-    ],
-    "reason": "케네스 로고프 교수의 AI 붕괴 경고는 향후 기술 거품 붕괴와 그로 인한 글로벌 경기침체 가능성에 대한 우려를 심화시키며, 특히 한국 부동산 시장의 하방 압력을 높일 수 있습니다. 이는 투자 심리 위축 및 안전자산 선호 심리를 자극할 수 있습니다.",
-    "action_point": "경기침체 가능성에 대비하여 AI 관련 IT/기술주 및 부동산 관련 자산의 비중을 축소하고, 방어적 섹터 및 현금 보유 비중 확대를 검토하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Senate passes BAAJA permitting reform bill backed by AI, energy sectors",
-    "title_ko": "상원, AI 및 에너지 섹터 지지하는 BAAJA 인허가 개혁 법안 통과",
-    "link": "https://www.cnbc.com/2026/11/20/baaja-bill-senate-passes-permitting-reform.html",
-    "published": "Fri, 20 Nov 2026 03:56:17 GMT",
-    "fetched_at": "2026-11-20 18:26:37",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "에너지",
-      "인공지능(AI)",
-      "건설",
-      "인프라"
-    ],
-    "keywords": [
-      "인허가 개혁",
-      "BAAJA",
-      "에너지",
-      "인공지능",
-      "미국 상원"
-    ],
-    "reason": "해당 법안은 인프라 및 에너지 프로젝트의 인허가 절차를 간소화하여 AI 데이터센터 및 재생에너지 개발을 가속화할 것으로 예상된다. 이는 관련 산업의 비용 절감 및 투자 확대로 이어질 수 있다.",
-    "action_point": "미국 AI 및 에너지 인프라 관련 섹터 투자 비중 확대 검토"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "AI is changing software engineering — and some developers miss the struggle",
-    "title_ko": "AI가 소프트웨어 엔지니어링을 변화시키고 있다 – 일부 개발자들은 고군분투의 즐거움을 그리워해",
-    "link": "https://www.cnbc.com/2026/11/20/ai-coding-tools-software-engineers.html",
-    "published": "Fri, 20 Nov 2026 06:00:01 GMT",
-    "fetched_at": "2026-11-20 18:26:45",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "소프트웨어",
-      "IT 서비스",
-      "반도체"
-    ],
-    "keywords": [
-      "AI",
-      "소프트웨어 엔지니어링",
-      "생산성 향상",
-      "기술 혁신"
-    ],
-    "reason": "AI 코딩 도구의 확산은 소프트웨어 개발 생산성을 비약적으로 향상시켜 기술 기업의 비용 절감 및 혁신 가속화를 가져올 것입니다. 이는 장기적으로 기술 섹터 전반의 기업 가치 상승 요인으로 작용할 수 있습니다.",
-    "action_point": "AI 기반 생산성 향상 수혜가 예상되는 소프트웨어 및 IT 서비스 기업 비중 확대 검토"
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "카드론 갚으려 같은 카드사서 다시 빌린 돈, 한 달 새 4.84% 늘었다",
-    "title_ko": "카드론 갚으려 같은 카드사서 다시 빌린 돈, 한 달 새 4.84% 늘었다",
-    "link": "https://www.mk.co.kr/news/economy/12214900",
-    "published": "Fri, 20 Nov 2026 18:17:18 +09:00",
-    "fetched_at": "2026-11-20 18:27:59",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "금융",
-      "소비재"
-    ],
-    "keywords": [
-      "가계부채",
-      "카드론",
-      "대환대출",
-      "소비심리",
-      "금융건전성"
-    ],
-    "reason": "가계의 이자 부담 능력이 한계에 달해 부채 돌려막기가 증가하고 있음을 보여주며, 이는 향후 소비 위축과 금융권의 부실 확대 가능성을 높이는 요인이다.",
-    "action_point": "가계 대출 부실화 가능성이 높은 금융주 비중 축소를 고려하고 소비재 섹터 투자를 보수적으로 접근."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "U.K.-India trade deal faces a stiff test over Scotch whisky import taxes",
-    "title_ko": "영국-인도 무역 협정, 스카치 위스키 수입 관세 문제로 난항",
-    "link": "https://www.cnbc.com/2026/11/20/uk-india-trade-scotch-whisky-tariffs.html",
-    "published": "Fri, 20 Nov 2026 05:09:52 GMT",
-    "fetched_at": "2026-11-20 18:26:19",
-    "sentiment": "악재",
-    "importance": 2,
-    "sectors": [
-      "주류",
-      "소비재",
-      "글로벌 무역"
-    ],
-    "keywords": [
-      "영국-인도 무역",
-      "스카치 위스키",
-      "관세",
-      "인도 소비 시장"
-    ],
-    "reason": "영국-인도 무역 협정의 난항은 스카치 위스키 산업의 인도 시장 접근을 제한하며, 글로벌 무역 협상의 어려움을 보여줍니다. 이는 관련 기업들의 인도 시장 성장 기회 제약을 의미합니다.",
-    "action_point": "영국 주류 기업 및 인도 시장 의존도가 높은 글로벌 소비재 기업에 대한 투자 비중을 면밀히 재검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Forget Anthropic: In Europe, the IPO hype is about a blue lagoon",
-    "title_ko": "Anthropic은 잊어라: 유럽에서 IPO 열풍은 블루라군에 집중되고 있다",
-    "link": "https://www.cnbc.com/2026/11/20/anthropic-ipo-iceland-blue-lagoon.html",
-    "published": "Fri, 20 Nov 2026 06:00:01 GMT",
-    "fetched_at": "2026-11-20 18:26:28",
-    "sentiment": "호재",
-    "importance": 2,
-    "sectors": [
-      "관광",
-      "레저",
-      "웰니스",
-      "소비재"
-    ],
-    "keywords": [
-      "IPO",
-      "블루라군",
-      "아이슬란드",
-      "관광",
-      "웰니스",
-      "지열 스파"
-    ],
-    "reason": "아이슬란드 블루라군의 성공적인 IPO는 독특한 경험과 웰니스 테마를 가진 관광 산업 자산에 대한 투자자들의 높은 관심을 보여주며, 관련 섹터에 긍정적인 투자 심리를 제공합니다.",
-    "action_point": "글로벌 관광 및 웰니스 관련 상장 기업들의 포트폴리오 비중 확대 검토"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Japan core inflation soars to highest this year as energy subsidy expiry pushes up consumer prices",
-    "title_ko": "일본 근원 인플레이션, 에너지 보조금 종료로 소비자 물가 상승하며 올해 최고치 기록",
-    "link": "https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html",
-    "published": "Fri, 20 Nov 2026 00:52:17 GMT",
-    "fetched_at": "2026-11-20 10:32:23",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "금융",
-      "소비재",
-      "에너지"
-    ],
-    "keywords": [
-      "일본",
-      "근원 인플레이션",
-      "에너지 보조금",
-      "소비자 물가",
-      "통화 정책",
-      "엔화"
-    ],
-    "reason": "일본의 근원 인플레이션이 올해 최고치를 기록했으나 시장 예상치보다는 낮아 다소 혼재된 신호를 보낸다. 이는 일본은행의 통화정책 정상화에 대한 기대감을 유지시키며 엔화 강세와 일본 국채 금리 상승 압력으로 이어질 수 있다.",
-    "action_point": "일본은행의 통화정책 정상화 기대감에 따른 엔화 강세 가능성에 대비하여 엔화 관련 자산 전략을 재검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says",
-    "title_ko": "미 상무부, 중국 기업에 87만 9천 개 이상의 AI 칩 판매 승인했다고 매스트 의원 밝혀",
-    "link": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html",
-    "published": "Fri, 20 Nov 2026 00:53:55 GMT",
-    "fetched_at": "2026-11-20 10:32:32",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "반도체",
-      "인공지능(AI)",
-      "기술"
-    ],
-    "keywords": [
-      "AI 칩",
-      "수출 통제",
-      "미중 기술 경쟁",
-      "반도체 규제"
-    ],
-    "reason": "미 상무부의 AI 칩 판매 승인에도 불구하고, 의회의 문제 제기는 미중 기술 규제 강화 압력이 지속될 것임을 시사합니다. 이는 반도체 및 AI 관련 기업들에게 지속적인 정책 불확실성과 지정학적 리스크를 가중시킬 것입니다.",
-    "action_point": "미중 기술 규제 강화 가능성에 대비, 반도체 및 AI 관련 섹터에 대한 투자 비중을 재검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "SoftBank plunges over 16% as AI sell-off hits Asian tech stocks following Anthropic debut",
-    "title_ko": "소프트뱅크, 앤스로픽 데뷔 후 AI 매도세가 아시아 기술주를 강타하며 16% 이상 폭락",
-    "link": "https://www.cnbc.com/2026/11/20/softbank-ai-tech-stocks-slide-anthropic-debut.html",
-    "published": "Fri, 20 Nov 2026 01:20:46 GMT",
-    "fetched_at": "2026-11-20 10:32:13",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "기술주",
-      "인공지능(AI) 관련주"
-    ],
-    "keywords": [
-      "소프트뱅크",
-      "인공지능(AI)",
-      "기술주",
-      "아시아 증시",
-      "앤스로픽"
-    ],
-    "reason": "AI 관련 종목의 고평가 논란과 차익 실현 움직임이 확산되며, 소프트뱅크 폭락이 아시아 기술주 전반에 투자 심리 위축을 야기하고 있음을 시사합니다.",
-    "action_point": "AI 관련 기술주 포트폴리오의 비중 축소 또는 위험 관리 강화 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Anthropic IPO live updates: AI lab tops $2 trillion market cap after record offering",
-    "title_ko": "앤트로픽 IPO 실시간 업데이트: AI 연구소, 기록적인 공모 후 시가총액 2조 달러 돌파",
-    "link": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html",
-    "published": "Thu, 19 Nov 2026 19:06:48 GMT",
-    "fetched_at": "2026-11-20 04:16:14",
-    "sentiment": "호재",
-    "importance": 5,
-    "sectors": [
-      "인공지능",
-      "반도체",
-      "소프트웨어",
-      "기술주"
-    ],
-    "keywords": [
-      "앤트로픽",
-      "IPO",
-      "AI",
-      "시가총액",
-      "나스닥",
-      "기술주"
-    ],
-    "reason": "앤트로픽의 기록적인 IPO와 2조 달러 시가총액 달성은 인공지능(AI) 섹터에 대한 시장의 폭발적인 기대감을 보여주며, 글로벌 기술주 전반의 밸류에이션 상향 압력으로 작용할 수 있습니다. 이는 AI 관련 기술 및 인프라 기업에 대한 추가적인 자금 유입을 촉진할 것입니다.",
-    "action_point": "인공지능(AI) 관련 핵심 기술 및 반도체 섹터의 비중 확대를 검토하십시오."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "AMD dives on short-seller report of alleged China exposure",
-    "title_ko": "AMD, 중국 관련성 의혹 공매도 보고서에 급락",
-    "link": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
-    "published": "Thu, 19 Nov 2026 18:24:54 GMT",
-    "fetched_at": "2026-11-20 04:16:36",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "반도체",
-      "기술",
-      "IT 하드웨어"
-    ],
-    "keywords": [
-      "AMD",
-      "공매도",
-      "중국",
-      "반도체",
-      "미중 갈등",
-      "규제"
-    ],
-    "reason": "미국 제재 대상 중국 기업과의 연루 의혹은 AMD 주가에 직접적인 악재이며, 미중 기술 갈등이 재부각될 경우 반도체 섹터 전반에 규제 리스크를 높일 수 있습니다.",
-    "action_point": "미중 기술 갈등 관련 반도체 섹터의 추가 규제 리스크를 주시하며, 관련 기업 투자 비중 조정을 검토."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Anthropic IPO will create thousands of multimillionaire employees",
-    "title_ko": "Anthropic IPO로 수천 명의 직원이 수백만 달러 자산가가 될 것",
-    "link": "https://www.cnbc.com/2026/11/19/anthropic-ipo-could-create-thousands-of-multimillionaire-employees.html",
-    "published": "Thu, 19 Nov 2026 19:05:45 GMT",
-    "fetched_at": "2026-11-20 04:16:28",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "AI",
-      "기술",
-      "벤처캐피탈"
-    ],
-    "keywords": [
-      "Anthropic",
-      "IPO",
-      "AI",
-      "기술주",
-      "직원자산"
-    ],
-    "reason": "Anthropic의 성공적인 IPO는 AI 및 기술 섹터에 대한 투자 심리를 긍정적으로 전환시키고, 신생 기업의 가치 평가 기대치를 높여 전반적인 시장의 위험 선호 심리에 기여할 수 있습니다.",
-    "action_point": "AI 섹터 내 혁신적이고 성장 잠재력이 높은 기업에 대한 투자 기회를 지속적으로 탐색하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Trump says U.S., China, Russia ‘uniquely positioned’ to discuss reducing nuclear weapons at historic meeting",
-    "title_ko": "트럼프, 미·중·러 핵무기 감축 논의 위한 '독특한 위치'에 있다고 언급",
-    "link": "https://www.cnbc.com/2026/11/19/trump-xi-putin-trilateral-meeting-china.html",
-    "published": "Thu, 19 Nov 2026 10:38:01 GMT",
-    "fetched_at": "2026-11-19 19:56:03",
-    "sentiment": "호재",
-    "importance": 5,
-    "sectors": [
-      "글로벌 증시",
-      "전반적 위험자산"
-    ],
-    "keywords": [
-      "트럼프",
-      "미국",
-      "중국",
-      "러시아",
-      "핵무기 감축",
-      "지정학적 안정"
-    ],
-    "reason": "주요 강대국 간 핵무기 감축 논의는 지정학적 긴장 완화 기대감을 높여 전반적인 위험자산 선호 심리를 개선할 수 있습니다. 이는 글로벌 안보 불확실성을 낮추는 긍정적 신호입니다.",
-    "action_point": "글로벌 강대국 간 지정학적 리스크 완화 기대감이 높아지므로, 주식 등 위험자산에 대한 투자 비중 확대를 검토합니다."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Trump praises ‘great relationship’ with Putin after meeting, as Ukraine war takes center stage",
-    "title_ko": "트럼프, 푸틴과 회담 후 '훌륭한 관계' 칭찬, 우크라이나 전쟁이 주요 의제로 부상",
-    "link": "https://www.cnbc.com/2026/11/19/trump-xi-putin-china-apec-.html",
-    "published": "Thu, 19 Nov 2026 09:02:00 GMT",
-    "fetched_at": "2026-11-19 19:55:53",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "방산",
-      "에너지",
-      "기술",
-      "금융"
-    ],
-    "keywords": [
-      "트럼프",
-      "푸틴",
-      "시진핑",
-      "우크라이나 전쟁",
-      "지정학",
-      "미국 대선"
-    ],
-    "reason": "미국, 러시아, 중국 주요 정상급 인사의 만남은 국제 정세의 중대한 전환 가능성을 시사하며, 향후 무역, 에너지, 안보 정책 변화에 대한 불확실성을 증폭시킨다.",
-    "action_point": "미국 대선 결과에 따른 지정학적 정책 변화 가능성을 주시하며, 포트폴리오의 지정학적 리스크 노출도를 재점검하라."
   }
 ]
