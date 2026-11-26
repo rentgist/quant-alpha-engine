@@ -1,5 +1,156 @@
 [
   {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "Beware higher correlation but nab high U.S. credit yields, fund managers say",
+    "title_ko": "펀드 매니저들, 더 높은 상관관계에 유의하고 높은 미국 신용 수익률을 확보하라고 조언",
+    "link": "https://www.cnbc.com/2026/11/26/mispricing-risk-fund-managers-ai-volatility.html",
+    "published": "Thu, 26 Nov 2026 05:36:01 GMT",
+    "fetched_at": "2026-11-26 14:59:06",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "기술 (AI, 데이터센터)",
+      "부동산 (데이터센터)",
+      "금융 (채권)"
+    ],
+    "keywords": [
+      "AI",
+      "경기 침체",
+      "데이터센터",
+      "미국 채권",
+      "상관관계"
+    ],
+    "reason": "AI 기술 발전이 경기 침체를 유발할 수 있는 위험과 포트폴리오 자산 간 상관관계 확대를 경고하면서도, AI 인프라(데이터센터)와 미국 고수익 채권의 투자 매력을 제시함.",
+    "action_point": "AI 관련 경기 침체 가능성에 대비하며, 데이터센터 관련주 및 미국 고수익 채권 투자 기회를 적극적으로 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "How Trump’s latest tariff moves hand India an edge over rival Asian exporters",
+    "title_ko": "트럼프의 최신 관세 조치가 인도에 경쟁 아시아 수출국 대비 우위를 제공하는 방법",
+    "link": "https://www.cnbc.com/2026/11/26/trump-us-tariff-india-trade.html",
+    "published": "Thu, 26 Nov 2026 04:12:18 GMT",
+    "fetched_at": "2026-11-26 14:59:20",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "수출 제조업",
+      "해운/물류",
+      "의류/섬유"
+    ],
+    "keywords": [
+      "트럼프",
+      "관세",
+      "보호무역",
+      "글로벌 공급망",
+      "아시아 수출"
+    ],
+    "reason": "트럼프 행정부의 관세 부과 기조는 글로벌 보호무역주의 확산을 시사하며, 이는 아시아 주요 수출국들의 경쟁력 약화와 공급망 재편 압력으로 작용할 것입니다. 특정 국가(인도)에는 기회가 될 수 있으나, 전반적인 무역 불확실성을 증대시킵니다.",
+    "action_point": "관세 부과 대상 아시아 국가에 생산 기지를 둔 기업 및 해당 국가향 수출 의존도가 높은 기업 비중 축소를 검토하고, 잠재적 수혜국인 인도 관련 투자 기회를 모색하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "신현송 \"올해 반도체 영업이익 700조…결국 국민경제로 환원\"(종합) - 연합인포맥스",
+    "title_ko": "신현송 \"올해 반도체 영업이익 700조…결국 국민경제로 환원\"(종합)",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9iNmdqU2tEYzdKUlVOSTNRUk1WNUluN0hMRmlZQzU3OTZHeDltbnVmVGNMeXF3NHg3M2NqMlg0NDF0SXR3Wk9ra3dnekUySEg5WGxXcmRNQVpjcmoyeXVOXzZQREp2ejlpc0o0cHRuTUo?oc=5",
+    "published": "Thu, 26 Nov 2026 05:33:04 GMT",
+    "fetched_at": "2026-11-26 14:59:38",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "반도체",
+      "IT",
+      "수출",
+      "국내증시 전반"
+    ],
+    "keywords": [
+      "반도체",
+      "영업이익",
+      "국민경제",
+      "경제성장",
+      "수출"
+    ],
+    "reason": "한국 경제의 핵심인 반도체 산업이 올해 700조 원의 영업이익을 달성하며 국민경제 전반에 긍정적인 파급효과를 미칠 것이라는 전망입니다. 이는 국내 기업 실적 개선 및 국가 경제 성장을 견인할 강력한 신호입니다.",
+    "action_point": "반도체 및 관련 IT 섹터의 비중 확대를 검토하고, 국내 수출 중심 대형주에 대한 관심을 유지하십시오."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "이형일 부총리, “전략산업 육성이 우리 경제의 가장 중요한 과제”…피지컬 AI 상용화·에이전틱 AI 제도 정비 추진 - 인공지능신문",
+    "title_ko": "이형일 부총리, “전략산업 육성이 우리 경제의 가장 중요한 과제”…피지컬 AI 상용화·에이전틱 AI 제도 정비 추진",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBrT2VpU015M1VRZzA5VzRVUkliS0VuQzNncGQ3Q2U0SmM4bHhXaDFwd0RqZVdTSnhDNlBGMF9aaUdjbC1fU3ZVODlPbnp0Tzlsb3FUM1dwVEh3WjRfN0NRRGd1Zm1hZTg?oc=5",
+    "published": "Thu, 26 Nov 2026 02:41:36 GMT",
+    "fetched_at": "2026-11-26 14:59:46",
+    "sentiment": "호재",
+    "importance": 4,
+    "sectors": [
+      "인공지능",
+      "반도체",
+      "소프트웨어",
+      "로봇",
+      "자동화",
+      "IT 서비스"
+    ],
+    "keywords": [
+      "전략산업",
+      "AI",
+      "인공지능",
+      "정부정책",
+      "미래산업"
+    ],
+    "reason": "이 부총리의 발언은 AI를 포함한 전략산업 육성에 대한 정부의 강한 의지를 보여준다. 이는 관련 산업에 대한 투자 확대 및 제도적 지원으로 이어져 해당 섹터의 성장 기회를 높일 수 있다.",
+    "action_point": "정부의 AI 및 전략산업 육성 정책 수혜가 예상되는 관련 국내 기업에 대한 투자 비중 확대를 검토하라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "S&P warns Nvidia credit rating could be cut over 'rising' management and governance risk",
+    "title_ko": "S&P, 엔비디아 신용등급 하향 경고: '증가하는' 경영 및 지배구조 리스크 우려",
+    "link": "https://www.cnbc.com/2026/11/26/nvidia-market-governance-risk.html",
+    "published": "Thu, 26 Nov 2026 03:19:44 GMT",
+    "fetched_at": "2026-11-26 14:59:13",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "반도체",
+      "기술주"
+    ],
+    "keywords": [
+      "S&P",
+      "엔비디아",
+      "신용등급",
+      "경영 리스크",
+      "지배구조"
+    ],
+    "reason": "S&P의 엔비디아 신용등급 하향 경고는 기업의 경영 및 지배구조 리스크 부각으로, 엔비디아 주가 및 전체 반도체 섹터의 투자 심리에 부정적 영향을 미칠 수 있습니다.",
+    "action_point": "엔비디아 및 고성장 기술주의 비중을 점검하고 포트폴리오 리스크 관리를 강화하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "[속보] 민주당, 자당 몫 ‘조작기소 특검’ 후보에 검사 출신 이임성 변호사 추천 - KBS 뉴스",
+    "title_ko": "[속보] 민주당, 자당 몫 ‘조작기소 특검’ 후보에 검사 출신 이임성 변호사 추천 - KBS 뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9iRUlpT19Ocmp2VWNuSUxvZ1FsMUJDdW5mbEx1OGRUaXJrSkVvMDdYMDAtbkIwamp6V3dJVEZ5WllyODhtNVRmS3pkVnRwMk5QTHNDZGMzLXhWTzgxVU5GNlg1cjlGQQ?oc=5",
+    "published": "Thu, 26 Nov 2026 05:42:00 GMT",
+    "fetched_at": "2026-11-26 14:59:31",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "정치",
+      "법률"
+    ],
+    "keywords": [
+      "민주당",
+      "특검",
+      "조작기소",
+      "정치적 불확실성"
+    ],
+    "reason": "특검 후보자 추천은 국내 정치적 논쟁과 사법 리스크가 지속됨을 시사합니다. 이는 단기적으로 국내 투자 심리에 미미한 영향을 줄 수 있으나, 거시 경제 펀더멘털에는 직접적인 영향을 미치지 않습니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "Tech stocks sink but close well off the lows, Anthropic struggles to rebound above IPO price",
@@ -2833,158 +2984,5 @@
     ],
     "reason": "중국의 외교적 영향력 확대는 장기적인 글로벌 공급망 재편 및 무역 협상 구도 변화로 이어질 수 있으며, 이는 특정 신흥국과의 관계 및 원자재 시장에 미묘한 영향을 줄 수 있습니다.",
     "action_point": "해당 없음"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Europe's cyber weak spot is the everyday businesses nobody thought to protect",
-    "title_ko": "유럽의 사이버 취약점: 보호받지 못했던 일상 기업들",
-    "link": "https://www.cnbc.com/2026/11/21/cyber-attacks-fridges-cybersecurity.html",
-    "published": "Sat, 21 Nov 2026 06:00:02 GMT",
-    "fetched_at": "2026-11-21 16:52:09",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "사이버 보안",
-      "IT 서비스"
-    ],
-    "keywords": [
-      "사이버 보안",
-      "유럽",
-      "AI",
-      "기업 공격",
-      "취약점"
-    ],
-    "reason": "AI 기술 발전으로 사이버 공격이 고도화되며 유럽의 일반 기업들이 광범위한 취약점에 노출되고 있습니다. 이는 해당 기업들의 운영 리스크와 비용 증가로 이어질 수 있으나, 동시에 사이버 보안 솔루션 기업들의 수요를 크게 증대시킬 것입니다.",
-    "action_point": "사이버 보안 관련 기업의 투자 매력도 재평가 및 포트폴리오 편입 검토"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[속보] 이재명 대통령 “AI 데이터센터, 지역균형발전 핵심”…울산 SK 건설 현장 점검 - 강원일보",
-    "title_ko": "[속보] 이재명 대통령 “AI 데이터센터, 지역균형발전 핵심”…울산 SK 건설 현장 점검 - 강원일보",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHSEUtM1BHZFdUUGtEUlJSbnl0TG03cUo5ZlRvWHZLSEdoWEJUM1N4Rk5uLTcxdkFnbDFaUzhfeE9kTk1ONGNWWENWa2lGbHB4UHRieXFxTXBkZE0?oc=5",
-    "published": "Sat, 21 Nov 2026 05:30:28 GMT",
-    "fetched_at": "2026-11-21 16:52:33",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "IT 인프라",
-      "데이터센터",
-      "AI",
-      "건설",
-      "전력"
-    ],
-    "keywords": [
-      "이재명",
-      "AI 데이터센터",
-      "지역균형발전",
-      "SK",
-      "울산"
-    ],
-    "reason": "이재명 대표의 AI 데이터센터 강조는 정치권의 해당 산업 육성 의지를 명확히 보여줍니다. 이는 IT 인프라, AI 솔루션, 건설 등 관련 섹터에 대한 투자 기대감을 높이며, 특히 울산 지역 개발에도 긍정적인 신호입니다.",
-    "action_point": "AI 및 데이터센터 관련 IT 인프라, 건설, 전력 섹터 종목 비중 확대를 검토하고, 울산 지역 개발 수혜주를 주시하십시오."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "Prediction markets outlook for stocks in 2026 dims amid AI sell-off",
-    "title_ko": "AI 매도세 속 2026년 주식 시장 전망 어두워져",
-    "link": "https://www.cnbc.com/2026/11/20/sp-500-8000-kalshi-odds-ai-selloff.html",
-    "published": "Fri, 20 Nov 2026 19:59:03 GMT",
-    "fetched_at": "2026-11-21 09:30:26",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "기술주",
-      "성장주",
-      "반도체"
-    ],
-    "keywords": [
-      "AI 매도세",
-      "주식 시장 전망",
-      "S&P 500",
-      "예측 시장",
-      "장기 전망"
-    ],
-    "reason": "예측 시장에서 AI 관련 주식 매도세가 심화되며 2026년 S&P 500의 상승 여력에 대한 비관적인 전망이 확산되고 있습니다. 이는 AI 기술주의 과열론과 향후 성장 동력에 대한 우려를 반영합니다.",
-    "action_point": "AI 관련 고밸류에이션 성장주 비중을 점진적으로 축소하고 포트폴리오 재조정 검토"
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Zscaler stock jumps 18% on report that CrowdStrike in talks to buy security vendor",
-    "title_ko": "크라우드스트라이크, 보안 업체 Z스케일러 인수 협상 보도에 Z스케일러 주가 18% 급등",
-    "link": "https://www.cnbc.com/2026/11/20/zscaler-crowdstrike-deal.html",
-    "published": "Fri, 20 Nov 2026 21:35:24 GMT",
-    "fetched_at": "2026-11-21 09:30:51",
-    "sentiment": "호재",
-    "importance": 3,
-    "sectors": [
-      "사이버보안",
-      "소프트웨어",
-      "인공지능"
-    ],
-    "keywords": [
-      "Z스케일러",
-      "크라우드스트라이크",
-      "인수합병",
-      "사이버보안",
-      "AI"
-    ],
-    "reason": "사이버보안 분야의 인수합병이 AI 시대의 경쟁력 강화를 위해 활발히 진행되고 있음을 보여줍니다. 이는 해당 섹터 전반의 기업 가치 재평가 및 기술 통합 가속화를 시사합니다.",
-    "action_point": "사이버보안 섹터 내 잠재적 인수합병 대상 기업 및 AI 기술 통합 관련 기업의 투자 매력도 재평가."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Trump vows to stop U.S. companies from building data centers abroad, threatens 'tremendous tax'",
-    "title_ko": "트럼프, 미국 기업의 해외 데이터센터 건설 중단 약속 및 '막대한 세금' 부과 위협",
-    "link": "https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html",
-    "published": "Fri, 20 Nov 2026 18:01:41 GMT",
-    "fetched_at": "2026-11-21 03:09:45",
-    "sentiment": "악재",
-    "importance": 5,
-    "sectors": [
-      "IT 인프라 및 클라우드 서비스",
-      "반도체",
-      "글로벌 부동산 (데이터센터)"
-    ],
-    "keywords": [
-      "트럼프",
-      "데이터센터",
-      "세금",
-      "기술 규제",
-      "미중러 정상회담",
-      "지정학적 위험",
-      "보호무역주의"
-    ],
-    "reason": "트럼프의 해외 데이터센터 건설 중단 위협 및 고율 과세는 IT 및 클라우드 기업의 글로벌 확장 전략에 직접적인 악영향을 미치며, 미중러 정상회담 이후 발표된 점은 기술 패권 경쟁 심화를 시사한다.",
-    "action_point": "해외 데이터센터 의존도가 높은 미국 IT 및 클라우드 서비스 기업 비중 축소를 검토하고, 관련 국내 반도체 및 부품 기업의 공급망 변화 가능성을 주시하라."
-  },
-  {
-    "source": "CNBC_Finance",
-    "market": "US",
-    "title": "The bull market has a new problem. The 'smart money' is selling",
-    "title_ko": "강세장에 새로운 문제 발생: '스마트 머니'가 매도 중",
-    "link": "https://www.cnbc.com/2026/11/20/equity-issuance-bull-market-problem.html",
-    "published": "Fri, 20 Nov 2026 14:15:29 GMT",
-    "fetched_at": "2026-11-21 03:09:22",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "주식 시장 전반",
-      "기술 섹터"
-    ],
-    "keywords": [
-      "강세장",
-      "스마트 머니",
-      "주식 발행",
-      "자사주 매입",
-      "IPO",
-      "시장 유동성"
-    ],
-    "reason": "기업들이 자사주 매입 대신 주식 발행으로 전환하고 대형 IPO가 증가하면 시장에 주식 공급이 늘어나 강세장의 상승 동력을 약화시키고 밸류에이션 부담을 가중시킬 수 있습니다.",
-    "action_point": "주식 시장의 유동성 변화와 기업들의 자본 조달 전략을 면밀히 주시하며 포트폴리오 내 현금 비중 확대를 검토하십시오."
   }
 ]
