@@ -1,5 +1,98 @@
 [
   {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "\"무효화 전 수준으로 인상\"‥\"경제지표 가짜\" - MBC 뉴스",
+    "title_ko": "무효화 전 수준으로 인상\"‥\"경제지표 가짜\"",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9GQ000VXlTZ1kyc2Z5MnVNMnJxMGVSTmNCaDhodnRqVFpXZDh0ZllvQnRHNjlPMzJicmNjVjNSWWU2TG9LVE5UakhPdkI2LVd5SGZmUDgySjZlY05WV1liSk43T2NmSV9RSHhldHJPdTZrMVd4ZWFSS2930gF6QVVfeXFMTWVoc2p4b05HU2h2cHpWMU56Sm90SlhDSkY0eDYzNFRIQzdXZlN4TEEwaUhPaFZvX2FpRDdMd0RaMFphXzNWSHpXMm9FcHNvSEVTV0dEd0tqaS1NRmZsUEd3b1NhSzkzcVByZDI5bmVGLW5PZVFZU0IyaHc?oc=5",
+    "published": "Thu, 26 Nov 2026 21:05:04 GMT",
+    "fetched_at": "2026-11-27 09:53:36",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "부동산",
+      "건설",
+      "소비재",
+      "금융",
+      "기술"
+    ],
+    "keywords": [
+      "금리 인상",
+      "통화정책",
+      "경제지표",
+      "긴축",
+      "자금 조달 비용"
+    ],
+    "reason": "중앙은행이 경제지표에 대한 불신을 표하며 금리를 큰 폭으로 인상하려는 움직임은 강력한 긴축 신호로, 시장의 유동성을 흡수하고 전반적인 자산 가치에 하방 압력을 가할 것입니다. 특히 높은 자금 조달 비용은 기업의 투자와 소비를 위축시킬 수 있습니다.",
+    "action_point": "고금리 환경에 취약한 부동산, 성장주 등 금리 민감 자산의 비중 축소를 검토하고, 안정적인 현금 흐름을 창출하는 가치주 및 방어 섹터에 대한 관심을 높여라."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Sovereign wealth funds are acting more like private equity giants — and inheriting their risks",
+    "title_ko": "국부펀드, 사모펀드처럼 행동하며 그들의 위험도 상속받고 있다",
+    "link": "https://www.cnbc.com/2026/11/27/swf-private-equity-risks.html",
+    "published": "Fri, 27 Nov 2026 00:22:29 GMT",
+    "fetched_at": "2026-11-27 09:53:15",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [
+      "사모펀드",
+      "자산운용",
+      "금융"
+    ],
+    "keywords": [
+      "국부펀드",
+      "사모펀드",
+      "직접투자",
+      "자산배분",
+      "위험"
+    ],
+    "reason": "국부펀드의 사모펀드화는 사모 시장의 경쟁 심화와 유동성 위험 증가를 의미하며, 이는 장기적인 자산 배분 전략에 영향을 미칩니다. 자금의 직접 투자 성향이 강해지면서 공공 시장의 특정 자산 유동성 감소와 밸류에이션 변화를 초래할 수 있습니다.",
+    "action_point": "사모 시장 투자 비중 및 위험 허용 범위 재평가를 검토하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "선거 지고 경제통계 탓?…트럼프 “3분기 성장률 조작” 조사 요구 - KBS 뉴스",
+    "title_ko": "선거 지고 경제통계 탓?…트럼프 “3분기 성장률 조작” 조사 요구",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kT1NROGU0YU54Y3JwRzQ4c2hvbUVSVWpVT2xXTWxIUlpMbDRCM29ISmZrdzdmTW52WnMyRkxZdlNHT25maU10eEdrUDJ2cm00akstX0pZUWFFMFE?oc=5",
+    "published": "Thu, 26 Nov 2026 22:05:00 GMT",
+    "fetched_at": "2026-11-27 09:53:28",
+    "sentiment": "악재",
+    "importance": 3,
+    "sectors": [],
+    "keywords": [
+      "트럼프",
+      "미국 대선",
+      "경제 통계",
+      "정치적 불확실성"
+    ],
+    "reason": "트럼프 전 대통령의 경제 통계 조작 주장은 미국 경제 데이터에 대한 신뢰성 의문을 제기하며, 다가오는 미국 대선 국면에서 정치적 불확실성을 증폭시킬 수 있습니다. 이는 전반적인 투자 심리에 미묘한 부정적 영향을 줄 수 있습니다.",
+    "action_point": "해당 없음"
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Stock futures tick higher as Wall Street gets set to wrap up a volatile holiday week: Live updates",
+    "title_ko": "변동성 큰 연휴 주간을 마감하며 주식 선물 소폭 상승: 실시간 업데이트",
+    "link": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html",
+    "published": "Fri, 27 Nov 2026 00:18:17 GMT",
+    "fetched_at": "2026-11-27 09:53:05",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "증시 전반"
+    ],
+    "keywords": [
+      "주식 선물",
+      "변동성",
+      "연휴 시장"
+    ],
+    "reason": "연휴로 인해 단축된 주간 동안 시장의 변동성이 높았음을 보여주며, 주식 선물의 소폭 상승은 단기적인 기술적 반등일 수 있으나 전반적인 시장의 불확실성이 지속됨을 시사합니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "CNBC_Finance",
     "market": "US",
     "title": "Semiconductor chips are the new oil. Here's why",
@@ -2885,105 +2978,5 @@
     ],
     "reason": "대법원장 탄핵 추진은 국내 정치적 불확실성을 높이지만, 직접적인 경제적 파급효과는 제한적이다. 전반적인 투자심리에 미미한 영향을 줄 수 있다.",
     "action_point": "해당 없음"
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "‘기묘한 호황’·‘극한의 쏠림’…AI시대 남은 변수는? [경제한방] - KBS 뉴스",
-    "title_ko": "‘기묘한 호황’·‘극한의 쏠림’…AI시대 남은 변수는? [경제한방]",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5kT0t3RkJMNG5XR0ZfeGZ3b2JRbXI5alpKcXpEMEFBMWJ5ZGp5YkIwM2hfMTRQREdLcW1sbk5Zb3Y0UGlRR1VzMWpSR09leXRGbmJBdFg2Q0kzLXl4MTdzNDJQaFFpQQ?oc=5",
-    "published": "Sat, 21 Nov 2026 21:06:02 GMT",
-    "fetched_at": "2026-11-22 10:48:15",
-    "sentiment": "중립",
-    "importance": 4,
-    "sectors": [
-      "반도체",
-      "소프트웨어",
-      "IT 하드웨어",
-      "성장주"
-    ],
-    "keywords": [
-      "AI",
-      "시장 쏠림",
-      "기술주",
-      "경제 호황",
-      "변동성"
-    ],
-    "reason": "AI 주도 시장의 특이한 호황과 특정 섹터로의 과도한 자금 쏠림 현상을 분석하며, 향후 금리 변화, 규제, 기술 경쟁 등 남은 변수에 따라 시장의 변동성이 확대될 수 있음을 시사합니다.",
-    "action_point": "AI 관련 성장주 포트폴리오의 비중과 리밸런싱 전략을 재점검하고 잠재적 변동성에 대비하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[속보]FBI까지 해킹당해, 트럼프 \"알수 없던 일 알게될지도, 긍정적으로 본다\" 뜬금없어 - 국제신문",
-    "title_ko": "[속보]FBI까지 해킹당해, 트럼프 \"알수 없던 일 알게될지도, 긍정적으로 본다\" 뜬금없어",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdVRkSzhLX2Yxc0QtS3lVUEVGaU5MaVFUZHBHRWF2em1HODYxNDM2WWpBbjNOeDZ4X1VkdUZhMVZodk96czZjbEd0Uy1aTWV6V3R5Q29IVXVkazFZY2o5Sm84RW12SVVDcjFURW9odUdVRE94OHFFaW5tQU9WQ09kb2JJYXpXY2NSb0Zxdg?oc=5",
-    "published": "Sun, 22 Nov 2026 01:00:00 GMT",
-    "fetched_at": "2026-11-22 10:48:26",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "사이버 보안",
-      "기술",
-      "미국 증시"
-    ],
-    "keywords": [
-      "FBI 해킹",
-      "사이버보안",
-      "트럼프",
-      "미국 대선",
-      "정치적 불확실성"
-    ],
-    "reason": "FBI 해킹 사건은 미국 국가 안보 및 데이터 신뢰도에 대한 우려를 높이고, 트럼프 전 대통령의 발언은 다가오는 미국 대선과 관련하여 정치적 불확실성을 가중시켜 시장 변동성을 유발할 수 있습니다.",
-    "action_point": "미국 FBI 해킹 및 트럼프 발언으로 인한 정치적 불확실성 증가에 대비하여 달러 및 금 등 안전자산 비중을 검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "증시 폭락에 '경제의 허리'가 무너진다 - 뉴데일리 경제",
-    "title_ko": "증시 폭락에 '경제의 허리'가 무너진다 - 뉴데일리 경제",
-    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5YaVFjN1ZTOGZhV3VEQ2psVUI1cHJGQldwNjhTS3pVbzNhajJlTEtBQTg2YXlpSUxfOURNeFg4Tm85RWJ3MV96eHo1SjA2QzdWYnFWTC0zNDlwdDh2N0hXc3BWNFFPc25KbTlIVm45bXN4eXBxd180azc3ONIBgAFBVV95cUxOZ2hSM0pSNlF5empFUmdOSjRJUEE2ZW1IUFo2T3c5VGR6cFNwQTdmX3NhdWhYYk5SbnltczJZeXdxTWQ2RmgxSHFBN3RyckR4N3FYUDc2THpNZGdTVFhEbl9MLTQ5OENaMHpuVXUtZVIyVlJNQVNTQi1WaktYZGtBMQ?oc=5",
-    "published": "Sun, 22 Nov 2026 00:56:00 GMT",
-    "fetched_at": "2026-11-22 10:48:45",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "전 섹터",
-      "금융",
-      "소비재"
-    ],
-    "keywords": [
-      "증시 폭락",
-      "경기 침체",
-      "가계 부채",
-      "소비 위축"
-    ],
-    "reason": "증시 폭락이 가계 및 중소기업 등 '경제의 허리'를 위협하며 소비 위축 및 경기 침체 심화로 이어질 수 있음을 시사한다. 이는 광범위한 경제적 부담을 가중시킬 가능성이 높다.",
-    "action_point": "경기 침체 심화 가능성에 대비, 고위험 자산 비중 축소 및 유동성 확보를 통해 포트폴리오의 방어력을 강화하라."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "“8000억 담았는데 하룻밤 14% 폭락?”…떨어지는 칼날 잡은 서학개미",
-    "title_ko": "“8000억 담았는데 하룻밤 14% 폭락?”…떨어지는 칼날 잡은 서학개미",
-    "link": "https://www.mk.co.kr/news/economy/12215436",
-    "published": "Sun, 22 Nov 2026 10:39:18 +09:00",
-    "fetched_at": "2026-11-22 10:48:56",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "반도체",
-      "기술",
-      "AI"
-    ],
-    "keywords": [
-      "엔비디아",
-      "주가 폭락",
-      "SEC 회계 조사",
-      "개별 종목 리스크",
-      "서학개미"
-    ],
-    "reason": "엔비디아 주가 폭락과 SEC 회계 조사는 반도체 및 AI 섹터의 투자 심리를 위축시킬 수 있으며, 개별 종목에 대한 과도한 집중 투자의 위험성을 상기시킵니다.",
-    "action_point": "AI 및 반도체 섹터 내 고변동성 개별 종목에 대한 집중 투자를 경계하고, 포트폴리오 내 위험 분산 전략을 강화하라."
   }
 ]
