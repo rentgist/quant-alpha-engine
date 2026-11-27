@@ -1,5 +1,49 @@
 [
   {
+    "source": "CNBC_Finance",
+    "market": "US",
+    "title": "The S&P 500 is in a correction. Bear markets and recessions don't always follow",
+    "title_ko": "S&P 500이 조정장에 진입했지만, 항상 약세장이나 경기침체로 이어지는 것은 아니다.",
+    "link": "https://www.cnbc.com/2026/11/27/the-sp-500-is-in-a-correction-bear-markets-and-recessions-dont-always-follow.html",
+    "published": "Fri, 27 Nov 2026 13:21:56 GMT",
+    "fetched_at": "2026-11-28 04:16:10",
+    "sentiment": "중립",
+    "importance": 4,
+    "sectors": [
+      "글로벌 주식 시장"
+    ],
+    "keywords": [
+      "S&P 500",
+      "조정장",
+      "약세장",
+      "경기침체"
+    ],
+    "reason": "S&P 500의 조정장 진입은 단기적인 시장의 위험 회피 심리를 반영하지만, 과거 데이터는 이것이 반드시 장기적인 약세장이나 경기침체로 이어지지 않음을 시사하여 과도한 공포를 경계하게 합니다.",
+    "action_point": "미국 주식 시장의 조정장이 과도한 공포로 이어지지 않을 수 있음을 감안, 포트폴리오 내 우량 자산의 비중 유지 및 저가 매수 기회를 탐색."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding",
+    "title_ko": "저가 항공사 노르스 아틀란틱, 자금 확보 실패로 유럽에서 파산 신청",
+    "link": "https://www.cnbc.com/2026/11/27/norse-atlantic-bankruptcy-fuel-costs.html",
+    "published": "Fri, 27 Nov 2026 18:20:32 GMT",
+    "fetched_at": "2026-11-28 04:16:20",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [
+      "항공"
+    ],
+    "keywords": [
+      "파산",
+      "항공",
+      "고유가",
+      "저가항공사"
+    ],
+    "reason": "이 뉴스는 고유가에 민감한 저가 항공사의 취약성을 보여주며, 글로벌 항공 산업 전반의 비용 압박을 시사하지만, 단일 기업 파산으로 거시 경제에 미칠 직접적인 영향은 제한적입니다.",
+    "action_point": "항공 섹터 내 고유가 노출도가 높은 저가 항공사 비중 축소 또는 투자 재고."
+  },
+  {
     "source": "CNBC_World",
     "market": "GLOBAL",
     "title": "Two Italians killed in Kuwait drone attack; Trump says Iran war ends ‘whenever I want it’",
@@ -2917,55 +2961,5 @@
     ],
     "reason": "중국 AI 기술주에서 막대한 자산이 증발했다는 소식은 중국 경제 전반의 불확실성과 AI/기술 섹터의 과대평가 우려를 심화시키며, 글로벌 성장주 투자 심리에 부정적인 영향을 미칠 수 있습니다.",
     "action_point": "중국 관련 기술주 및 성장주 비중을 점검하고, 포트폴리오 내 분산 투자를 강화하는 방안을 고려하십시오."
-  },
-  {
-    "source": "Maeil_Business",
-    "market": "KR",
-    "title": "‘AI 열풍’ 식자 中 기술주서 2289조원 증발…中당국이 꺼낸 유동성 카드 규모가?",
-    "title_ko": "‘AI 열풍’ 식자 中 기술주서 2289조원 증발…中당국이 꺼낸 유동성 카드 규모가?",
-    "link": "https://www.mk.co.kr/news/world/12215746",
-    "published": "Sun, 22 Nov 2026 20:52:49 +09:00",
-    "fetched_at": "2026-11-23 02:31:49",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "중국 기술주",
-      "신흥국 주식",
-      "글로벌 기술주"
-    ],
-    "keywords": [
-      "중국 AI 산업",
-      "기술주 하락",
-      "자산 증발",
-      "투자 심리",
-      "유동성 카드"
-    ],
-    "reason": "중국 AI 산업에 대한 과도한 기대가 식으며 기술주에서 대규모 자산이 증발했고, 이는 중국 성장 동력에 대한 투자 심리 위축을 시사한다. 중국 정부의 유동성 공급이 단기적 지지 역할을 할 수 있으나, 근본적인 투자 심리 개선까지는 시간이 소요될 전망이다.",
-    "action_point": "중국 기술주 및 해당 섹터에 대한 직접 투자 비중을 축소하고, 관련 신흥국 포트폴리오 위험 노출도를 재검토하라."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "[속보] COP31, 폐막일 넘기고도 끝내 ‘합의 불발’ - 경향신문",
-    "title_ko": "[속보] COP31, 폐막일 넘기고도 끝내 ‘합의 불발’",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5sZ3RsMVBRTnRnbDdxYVdrUl9KeW1Vc19zLTRNTTFuMDFybFVfelF0OGNlREI3VWticVBOYWQyUnZmc3FMMlVrOXRjVGowQ2dQVW0wRURzbXNuZ9IBX0FVX3lxTE16UHJRMVUzVTZudlVpWHp5Mm1ra3pQcGQ2bHg5Z2t5UTZOSVBYQnBURk9VMTJHM25yYVdxS1hOdW8yUVlVNVNxMExRNW1wVXFEd2w0SGJ0cmpVbTVXV3Y0?oc=5",
-    "published": "Sun, 22 Nov 2026 11:59:00 GMT",
-    "fetched_at": "2026-11-23 02:31:06",
-    "sentiment": "악재",
-    "importance": 3,
-    "sectors": [
-      "신재생에너지",
-      "환경",
-      "에너지"
-    ],
-    "keywords": [
-      "COP",
-      "기후변화",
-      "합의 불발",
-      "탄소중립",
-      "ESG"
-    ],
-    "reason": "주요 국제 기후 회의의 합의 불발은 글로벌 탄소중립 목표 달성 지연 우려를 증폭시키며, 관련 정책 및 투자의 불확실성을 높입니다. 이는 신재생에너지 및 ESG 관련 산업의 단기 성장 모멘텀 약화로 이어질 수 있습니다.",
-    "action_point": "신재생에너지 및 친환경 테마 관련 자산의 투자 비중 축소 검토."
   }
 ]
