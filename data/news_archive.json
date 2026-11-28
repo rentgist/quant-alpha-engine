@@ -1,5 +1,99 @@
 [
   {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "EU leaders fail to break $1.7 trillion budget deadlock as political pressure mounts",
+    "title_ko": "EU 정상들, 정치적 압박 고조 속 1조 7천억 달러 예산 교착 상태 해결 실패",
+    "link": "https://www.cnbc.com/2026/11/27/eu-budget-2028-2034-deadlock.html",
+    "published": "Fri, 27 Nov 2026 14:12:55 GMT",
+    "fetched_at": "2026-11-28 11:23:20",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "금융",
+      "유럽 소비재",
+      "수출주"
+    ],
+    "keywords": [
+      "EU 예산",
+      "교착 상태",
+      "유로존",
+      "재정 불확실성",
+      "정치적 리스크"
+    ],
+    "reason": "EU 예산 교착 상태는 유로존의 재정 안정성과 향후 경제 성장에 대한 불확실성을 가중시키며, 이는 유럽 시장 전반의 투자 심리 위축으로 이어질 수 있습니다.",
+    "action_point": "유로존 익스포저가 높은 자산의 비중 축소를 검토하고, 유로화 약세 가능성에 대비한 헤징 전략을 고려하라."
+  },
+  {
+    "source": "GoogleNews_Korea",
+    "market": "KR",
+    "title": "북러 경제공동위 개최…“쌍방 경제분야 협조 사업 활성화” - KBS 뉴스",
+    "title_ko": "북러 경제공동위 개최…“쌍방 경제분야 협조 사업 활성화” - KBS 뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9vQmNpTEJ2SHEyQWltdlNELU16NHFJOUZSb1ZMNnJHS0NHbnpEcTBZVzhnLTFkbEhsbzBEalYzVWtxRkVVQW05aFhvSkZTeW1DcHVrWGVrTlRNQnM?oc=5",
+    "published": "Sat, 28 Nov 2026 00:49:00 GMT",
+    "fetched_at": "2026-11-28 11:23:31",
+    "sentiment": "악재",
+    "importance": 4,
+    "sectors": [
+      "방위산업"
+    ],
+    "keywords": [
+      "북러 협력",
+      "경제 공동위",
+      "지정학",
+      "안보",
+      "대북 제재"
+    ],
+    "reason": "북한과 러시아 간 경제 협력 활성화는 국제사회의 대북 제재를 약화시키고 한반도 및 역내 지정학적 긴장을 고조시킬 수 있으며, 이는 한국 경제에 부정적인 안보 리스크로 작용할 가능성이 높습니다.",
+    "action_point": "지정학적 리스크 증가에 대비하여 방위산업 관련주 비중 확대 또는 리스크 헤징 전략 검토."
+  },
+  {
+    "source": "CNBC_World",
+    "market": "GLOBAL",
+    "title": "OpenAI countersues Apple for stealing trade secrets",
+    "title_ko": "OpenAI, 애플의 영업비밀 절도 혐의로 맞소송 제기",
+    "link": "https://www.cnbc.com/2026/11/27/openai-countersues-apple-for-stealing-trade-secrets-ft-reports.html",
+    "published": "Fri, 27 Nov 2026 23:07:13 GMT",
+    "fetched_at": "2026-11-28 11:23:11",
+    "sentiment": "중립",
+    "importance": 3,
+    "sectors": [
+      "기술",
+      "소프트웨어",
+      "AI"
+    ],
+    "keywords": [
+      "OpenAI",
+      "Apple",
+      "소송",
+      "영업비밀",
+      "인공지능",
+      "소비자 하드웨어"
+    ],
+    "reason": "애플과 OpenAI 간의 영업비밀 소송은 두 거대 기술 기업의 경쟁 구도, 인재 확보 및 AI 관련 제품 개발 전략에 불확실성을 가중시킨다. 이는 AI 및 기술 섹터 내 지적 재산권 관련 리스크에 대한 투자자 인식을 높일 수 있다.",
+    "action_point": "AI 및 기술 섹터 내 대형주 투자 비중의 지적 재산권 관련 리스크를 재평가하고 필요시 포트폴리오 조정 여부 검토"
+  },
+  {
+    "source": "Maeil_Business",
+    "market": "KR",
+    "title": "노무현은 보수도 좋아했는데…윤석열은 보수층서도 이 대통령에 밀려",
+    "title_ko": "노무현은 보수도 좋아했는데…윤석열은 보수층서도 이 대통령에 밀려",
+    "link": "https://www.mk.co.kr/news/politics/12220674",
+    "published": "Sat, 28 Nov 2026 11:09:27 +09:00",
+    "fetched_at": "2026-11-28 11:23:40",
+    "sentiment": "중립",
+    "importance": 2,
+    "sectors": [],
+    "keywords": [
+      "대통령 호감도",
+      "국내 정치",
+      "지지율",
+      "정치 지형"
+    ],
+    "reason": "이 기사는 국내 정치 지형 및 역대 대통령 호감도에 대한 분석으로, 현재 시점에서 주식, 금리, 환율 등 투자 자산에 직접적인 영향을 미치지 않는 국내 정치 가십성 내용입니다.",
+    "action_point": "해당 없음"
+  },
+  {
     "source": "CNBC_Finance",
     "market": "US",
     "title": "The S&P 500 is in a correction. Bear markets and recessions don't always follow",
@@ -2858,108 +2952,5 @@
     ],
     "reason": "주요국 경제의 동시 약화는 글로벌 경기 둔화 및 침체 위험을 고조시키며, 투자 불확실성을 증대시켜 금융시장 전반에 부정적 영향을 미칠 것입니다. 특히 대외 의존도가 높은 한국 경제에 추가적인 압력으로 작용할 수 있습니다.",
     "action_point": "글로벌 경기 둔화 위험에 대비하여 위험 자산 비중을 축소하고 현금 및 안전 자산 비중을 확대하여 포트폴리오 방어력을 강화할 것."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "Saudi Arabia, Bahrain report new attacks as Iran says it remains open to a deal with U.S.",
-    "title_ko": "사우디아라비아와 바레인, 새로운 공격 보고; 이란은 미국과의 합의에 열려있다고 밝혀",
-    "link": "https://www.cnbc.com/2026/11/22/saudi-houthi-bahrain-iran-attacks-araghchi-talks.html",
-    "published": "Sun, 22 Nov 2026 13:25:47 GMT",
-    "fetched_at": "2026-11-23 02:30:09",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "에너지",
-      "방위산업",
-      "해운",
-      "보험"
-    ],
-    "keywords": [
-      "사우디아라비아",
-      "바레인",
-      "이란",
-      "후티",
-      "지정학적 리스크",
-      "유가"
-    ],
-    "reason": "중동 지역에서의 새로운 공격 보고는 지정학적 긴장을 고조시키며, 국제 유가 변동성 확대와 해상 운송 리스크 증가로 이어질 수 있습니다. 이란의 대화 제의는 단기적 완충 역할을 할 수 있으나, 본질적인 불안정성은 지속될 전망입니다.",
-    "action_point": "국제 유가 상승 가능성에 대비하여 에너지 관련 자산 비중 확대를 검토하고, 방위산업 섹터의 투자 기회를 모색하며, 해상 운송 관련 기업의 리스크를 재평가하라."
-  },
-  {
-    "source": "CNBC_World",
-    "market": "GLOBAL",
-    "title": "UN climate talks collapse as EU and others reject deal",
-    "title_ko": "유엔 기후 회담 결렬, EU 및 다른 국가들 합의안 거부",
-    "link": "https://www.cnbc.com/2026/11/22/cop31-climate-talks-break-down-as-eu-and-others-reject-deal.html",
-    "published": "Sun, 22 Nov 2026 14:28:45 GMT",
-    "fetched_at": "2026-11-23 02:30:37",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "신재생에너지",
-      "ESG 투자",
-      "탄소배출권 시장",
-      "전기차/배터리"
-    ],
-    "keywords": [
-      "유엔 기후 회담",
-      "화석 연료",
-      "EU",
-      "환경 정책",
-      "탄소 중립",
-      "ESG"
-    ],
-    "reason": "유엔 기후 회담의 결렬은 전 세계적인 탄소 감축 목표 달성에 대한 불확실성을 증폭시키며, 신재생에너지 및 ESG 관련 산업의 투자 동력을 단기적으로 약화시킬 수 있습니다.",
-    "action_point": "신재생에너지 및 탄소배출권 관련 자산 비중 축소 검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "증시안정펀드 가동 준비... 2008년 금융위기 후 처음 - 조선일보",
-    "title_ko": "증시안정펀드 가동 준비... 2008년 금융위기 후 처음",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcjBPTG5NSy1VTkI3cmUzc3g3UlhaRzlhc1UxelFsQXg4R28wdktMWkw0Wmc2WjIxekdWOWVqWTRHaUtSQk9yMzZDZjJPTHZFWG9KNU1LdVNFbEVSNTBFSFExZ0FIcV9pS1NjakI2bERaazhPZ0FRajBWSDZ4SklzZ2hoYXpzSGc2UjVlSWdB?oc=5",
-    "published": "Sun, 22 Nov 2026 11:18:00 GMT",
-    "fetched_at": "2026-11-23 02:30:47",
-    "sentiment": "호재",
-    "importance": 4,
-    "sectors": [
-      "국내 증시"
-    ],
-    "keywords": [
-      "증시안정펀드",
-      "시장개입",
-      "금융위기",
-      "주식시장",
-      "정책대응"
-    ],
-    "reason": "정부의 시장 개입 의지가 표명되어 국내 증시의 추가 하락 위험을 완화하고, 투자 심리 안정에 기여할 수 있습니다.",
-    "action_point": "국내 증시의 추가 하락 압력 완화 가능성에 대비하여 주식 포트폴리오 비중 재검토."
-  },
-  {
-    "source": "GoogleNews_Korea",
-    "market": "KR",
-    "title": "“중국 경제 비관하면 허망할 것” 큰소리쳤는데…AI 주식서 2289조 증발? - 매일경제 마켓",
-    "title_ko": "“중국 경제 비관하면 허망할 것” 큰소리쳤는데…AI 주식서 2289조 증발?",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9nUnVtOTRlZFlPbFR2ZXYwODhsT3VwUl9CTjFnWDM5bk5yaHZBTHBPSE9mcS15X20tQlo0d1JyeF9FS0dlVTkwcnNZVFhzTjRvV3c?oc=5",
-    "published": "Sun, 22 Nov 2026 11:52:49 GMT",
-    "fetched_at": "2026-11-23 02:31:13",
-    "sentiment": "악재",
-    "importance": 4,
-    "sectors": [
-      "기술/IT",
-      "반도체",
-      "중국 관련 산업",
-      "성장주"
-    ],
-    "keywords": [
-      "중국 경제",
-      "AI 주식",
-      "기술주",
-      "자산가치 하락",
-      "성장주"
-    ],
-    "reason": "중국 AI 기술주에서 막대한 자산이 증발했다는 소식은 중국 경제 전반의 불확실성과 AI/기술 섹터의 과대평가 우려를 심화시키며, 글로벌 성장주 투자 심리에 부정적인 영향을 미칠 수 있습니다.",
-    "action_point": "중국 관련 기술주 및 성장주 비중을 점검하고, 포트폴리오 내 분산 투자를 강화하는 방안을 고려하십시오."
   }
 ]
